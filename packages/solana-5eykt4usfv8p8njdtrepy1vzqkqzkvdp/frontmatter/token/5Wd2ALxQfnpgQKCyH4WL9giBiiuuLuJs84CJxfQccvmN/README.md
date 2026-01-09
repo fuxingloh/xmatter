@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/5Wd2ALxQfnpgQKCyH4WL9giBiiuuLuJs84CJxfQccvmN
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/real-fast/
-  - name: twitter
-    url: https://twitter.com/speedcto
+  - name: x
+    url: https://x.com/speedcto
 ---
 
 # real fast

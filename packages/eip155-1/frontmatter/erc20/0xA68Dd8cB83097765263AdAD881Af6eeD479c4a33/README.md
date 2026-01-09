@@ -8,8 +8,8 @@ links:
     url: https://fees.wtf
   - name: explorer
     url: https://etherscan.io/token/0xA68Dd8cB83097765263AdAD881Af6eeD479c4a33
-  - name: twitter
-    url: https://twitter.com/feeswtf
+  - name: x
+    url: https://x.com/feeswtf
   - name: coingecko
     url: https://coingecko.com/coins/wtf-token
 ---

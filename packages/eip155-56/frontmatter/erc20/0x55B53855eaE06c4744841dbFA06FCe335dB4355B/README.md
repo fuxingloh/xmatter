@@ -6,8 +6,8 @@ links:
     url: https://ssbtoken.com
   - name: explorer
     url: https://bscscan.com/token/0x55B53855eaE06c4744841dbFA06FCe335dB4355B
-  - name: twitter
-    url: https://twitter.com/satoshistrbets
+  - name: x
+    url: https://x.com/satoshistrbets
   - name: telegram
     url: https://t.me/SSBTokenOfficial
   - name: coinmarketcap

@@ -6,8 +6,8 @@ links:
     url: https://thehappycoin.co
   - name: explorer
     url: https://bscscan.com/token/0xb0b924c4a31b7d4581a7f78f57cee1e65736be1d
-  - name: twitter
-    url: https://twitter.com/the_happy_coin
+  - name: x
+    url: https://x.com/the_happy_coin
   - name: telegram
     url: https://t.me/happy_coinTG
 ---

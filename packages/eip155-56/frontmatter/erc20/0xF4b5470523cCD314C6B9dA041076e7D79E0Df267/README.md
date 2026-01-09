@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xF4b5470523cCD314C6B9dA041076e7D79E0Df267
   - name: github
     url: https://github.com/BlockBank-team/
-  - name: twitter
-    url: https://twitter.com/BLOCKBANKapp?s=09
+  - name: x
+    url: https://x.com/BLOCKBANKapp?s=09
   - name: reddit
     url: https://reddit.com/u/BlockBankAi?utm_medium=android_app&utm_source=share
 ---

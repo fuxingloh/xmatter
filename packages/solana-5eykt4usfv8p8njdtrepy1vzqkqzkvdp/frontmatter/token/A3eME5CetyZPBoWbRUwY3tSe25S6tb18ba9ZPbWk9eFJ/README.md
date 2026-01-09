@@ -6,8 +6,8 @@ links:
     url: https://pengsol.xyz/
   - name: explorer
     url: https://solscan.io/token/A3eME5CetyZPBoWbRUwY3tSe25S6tb18ba9ZPbWk9eFJ
-  - name: twitter
-    url: https://twitter.com/pengonsolana
+  - name: x
+    url: https://x.com/pengonsolana
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/peng-sol/
 ---

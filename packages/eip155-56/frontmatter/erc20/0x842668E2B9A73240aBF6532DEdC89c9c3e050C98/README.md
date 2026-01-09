@@ -6,8 +6,8 @@ links:
     url: https://lightdefi.org/
   - name: explorer
     url: https://bscscan.com/token/0x842668E2B9A73240aBF6532DEdC89c9c3e050C98
-  - name: twitter
-    url: https://twitter.com/Light_DeFi
+  - name: x
+    url: https://x.com/Light_DeFi
   - name: telegram
     url: https://t.me/grupolight
   - name: source_code

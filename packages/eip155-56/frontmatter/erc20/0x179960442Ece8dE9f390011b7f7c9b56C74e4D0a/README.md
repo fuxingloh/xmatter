@@ -10,8 +10,8 @@ links:
     url: https://github.com/XetaReality
   - name: whitepaper
     url: https://xetareality.com/whitepaper.pdf
-  - name: twitter
-    url: https://twitter.com/XetaReality
+  - name: x
+    url: https://x.com/XetaReality
   - name: telegram
     url: https://t.me/XetaReality
   - name: medium

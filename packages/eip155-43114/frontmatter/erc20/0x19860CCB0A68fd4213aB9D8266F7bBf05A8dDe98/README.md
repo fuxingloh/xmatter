@@ -8,8 +8,8 @@ links:
     url: http://www.paxos.com/busd
   - name: explorer
     url: https://snowtrace.io/token/0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98
-  - name: twitter
-    url: https://twitter.com/PaxosGlobal
+  - name: x
+    url: https://x.com/PaxosGlobal
   - name: github
     url: https://github.com/paxosglobal/busd-contract
   - name: coinmarketcap

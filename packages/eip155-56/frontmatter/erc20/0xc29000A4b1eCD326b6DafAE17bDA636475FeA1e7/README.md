@@ -6,8 +6,8 @@ links:
     url: https://pancakepoll.com/
   - name: explorer
     url: https://bscscan.com/token/0xc29000A4b1eCD326b6DafAE17bDA636475FeA1e7
-  - name: twitter
-    url: https://twitter.com/PancakePoll
+  - name: x
+    url: https://x.com/PancakePoll
   - name: telegram
     url: https://t.me/pancakepollbsc
 ---

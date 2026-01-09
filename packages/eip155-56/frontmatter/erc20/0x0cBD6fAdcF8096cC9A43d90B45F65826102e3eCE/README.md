@@ -8,8 +8,8 @@ links:
     url: https://checkdot.io
   - name: explorer
     url: https://bscscan.com/token/0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece
-  - name: twitter
-    url: https://twitter.com/Checkdot_proto
+  - name: x
+    url: https://x.com/Checkdot_proto
   - name: github
     url: https://github.com/checkdot
   - name: telegram

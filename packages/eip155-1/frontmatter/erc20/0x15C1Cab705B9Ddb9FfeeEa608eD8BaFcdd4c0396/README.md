@@ -6,8 +6,8 @@ links:
     url: https://www.hxacoin.io/
   - name: explorer
     url: https://etherscan.io/token/0x15C1Cab705B9Ddb9FfeeEa608eD8BaFcdd4c0396
-  - name: twitter
-    url: https://twitter.com/HXAcoin
+  - name: x
+    url: https://x.com/HXAcoin
   - name: coingecko
     url: https://coingecko.com/en/coins/hxacoin/
   - name: coinmarketcap

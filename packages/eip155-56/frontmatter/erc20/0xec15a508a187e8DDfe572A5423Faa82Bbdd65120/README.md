@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xec15a508a187e8DDfe572A5423Faa82Bbdd65120
   - name: github
     url: https://github.com/Babylons-io
-  - name: twitter
-    url: https://twitter.com/BabylonsNFT
+  - name: x
+    url: https://x.com/BabylonsNFT
   - name: telegram
     url: https://t.me/babylonsnft
   - name: telegram_news

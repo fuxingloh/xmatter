@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x9b53E429B0baDd98ef7F01F03702986c516a5715
   - name: github
     url: https://github.com/hybrix-io
-  - name: twitter
-    url: https://twitter.com/@hybrix_io
+  - name: x
+    url: https://x.com/@hybrix_io
   - name: telegram
     url: https://t.me/hybrixgroup
   - name: youtube

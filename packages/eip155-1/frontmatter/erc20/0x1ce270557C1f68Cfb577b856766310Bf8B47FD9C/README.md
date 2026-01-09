@@ -8,8 +8,8 @@ links:
     url: https://mongmob.xyz/
   - name: explorer
     url: https://etherscan.io/token/0x1ce270557C1f68Cfb577b856766310Bf8B47FD9C
-  - name: twitter
-    url: https://twitter.com/mong_coin
+  - name: x
+    url: https://x.com/mong_coin
   - name: medium
     url: https://medium.com/@mongs
   - name: coinmarketcap

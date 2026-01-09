@@ -6,8 +6,8 @@ links:
     url: https://www.timepocket.one/index.html
   - name: explorer
     url: https://solscan.io/token/AdfrN2rK9dJmd4E9vwkf2ThpBxKFfT1o31gXSPpupYtT
-  - name: twitter
-    url: https://twitter.com/TimePocket_1
+  - name: x
+    url: https://x.com/TimePocket_1
 ---
 
 # TimePocket

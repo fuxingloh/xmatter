@@ -16,8 +16,8 @@ links:
     url: https://coinmarketcap.com/currencies/lucro/
   - name: coingecko
     url: https://coingecko.com/en/coins/lucro
-  - name: twitter
-    url: https://twitter.com/lucrotoken
+  - name: x
+    url: https://x.com/lucrotoken
   - name: discord
     url: https://discord.com/invite/evergrow
 ---

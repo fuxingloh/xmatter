@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xe7aE6D0C56CACaf007b7e4d312f9af686a9E9a04
   - name: github
     url: https://github.com/vabble
-  - name: twitter
-    url: https://twitter.com/VabbleApp
+  - name: x
+    url: https://x.com/VabbleApp
   - name: reddit
     url: https://reddit.com/r/Vabble/
   - name: blog

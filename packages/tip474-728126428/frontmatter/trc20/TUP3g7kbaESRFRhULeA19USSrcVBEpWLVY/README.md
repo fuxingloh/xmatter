@@ -6,8 +6,8 @@ links:
     url: https://zedxion.io/
   - name: explorer
     url: https://tronscan.io/#/token20/TUP3g7kbaESRFRhULeA19USSrcVBEpWLVY
-  - name: twitter
-    url: https://twitter.com/ZedxionC
+  - name: x
+    url: https://x.com/ZedxionC
   - name: telegram
     url: https://t.me/zedxion
 ---

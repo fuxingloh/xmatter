@@ -8,8 +8,8 @@ links:
     url: http://fantom.foundation
   - name: explorer
     url: https://etherscan.io/token/0x4E15361FD6b4BB609Fa63C81A2be19d873717870
-  - name: twitter
-    url: https://twitter.com/FantomFDN
+  - name: x
+    url: https://x.com/FantomFDN
   - name: telegram
     url: https://t.me/Fantom_English
   - name: coingecko

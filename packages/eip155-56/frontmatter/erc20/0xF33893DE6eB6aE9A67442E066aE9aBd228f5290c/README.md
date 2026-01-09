@@ -8,8 +8,8 @@ links:
     url: https://www.grovetoken.com
   - name: explorer
     url: https://bscscan.com/token/0xF33893DE6eB6aE9A67442E066aE9aBd228f5290c
-  - name: twitter
-    url: https://twitter.com/GroveToken
+  - name: x
+    url: https://x.com/GroveToken
   - name: facebook
     url: https://facebook.com/GroveTokenOfficial
 ---

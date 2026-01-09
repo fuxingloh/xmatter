@@ -8,8 +8,8 @@ links:
     url: https://billionhappiness.finance/
   - name: explorer
     url: https://bscscan.com/token/0xc9d53a339f3c22e016c6fa1e3eb85ac32c75fed2
-  - name: twitter
-    url: https://twitter.com/BHC_Happiness
+  - name: x
+    url: https://x.com/BHC_Happiness
   - name: github
     url: https://github.com/HPSOfficial
 ---

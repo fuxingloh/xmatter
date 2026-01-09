@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xCD40F2670CF58720b694968698A5514e924F742d
   - name: github
     url: https://github.com/oddz-finance
-  - name: twitter
-    url: https://twitter.com/oddz_finance
+  - name: x
+    url: https://x.com/oddz_finance
   - name: telegram
     url: https://t.me/oddz_finance
   - name: medium

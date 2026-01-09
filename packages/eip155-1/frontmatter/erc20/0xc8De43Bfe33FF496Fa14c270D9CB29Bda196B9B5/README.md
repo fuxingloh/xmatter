@@ -9,8 +9,8 @@ links:
     url: https://bigeyes.space
   - name: explorer
     url: https://etherscan.io/token/0xc8De43Bfe33FF496Fa14c270D9CB29Bda196B9B5
-  - name: twitter
-    url: https://twitter.com/BigEyesCoin
+  - name: x
+    url: https://x.com/BigEyesCoin
   - name: telegram
     url: https://t.me/BIGEYESOFFICIAL
   - name: whitepaper

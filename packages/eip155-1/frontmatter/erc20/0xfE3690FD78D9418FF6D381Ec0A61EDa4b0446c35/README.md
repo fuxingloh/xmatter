@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xfe3690fd78d9418ff6d381ec0a61eda4b0446c35
   - name: telegram
     url: https://t.me/+BogQo4kR1jk2MGY5
-  - name: twitter
-    url: https://twitter.com/MosesCoin777
+  - name: x
+    url: https://x.com/MosesCoin777
 ---
 
 # MosesCoin

@@ -8,8 +8,8 @@ links:
     url: https://froginu.io/
   - name: explorer
     url: https://bscscan.com/token/0xE5c355c993dE69C06b5DD1A0c9a2c39b4Cde5511
-  - name: twitter
-    url: https://twitter.com/Froginutoken
+  - name: x
+    url: https://x.com/Froginutoken
   - name: telegram
     url: https://t.me/FrogInuOfficial
 ---

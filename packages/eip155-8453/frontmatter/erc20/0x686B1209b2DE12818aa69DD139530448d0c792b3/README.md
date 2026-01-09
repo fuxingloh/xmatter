@@ -6,8 +6,8 @@ links:
     url: https://mirror.xyz/poopie.eth/g7L4RyfIxXtovJGD4eL_luOxpqIBs4bip_4FMTs1Ctc
   - name: explorer
     url: https://basescan.org/token/0x686b1209b2de12818aa69dd139530448d0c792b3
-  - name: twitter
-    url: https://twitter.com/poopcoinbase
+  - name: x
+    url: https://x.com/poopcoinbase
 ---
 
 # poopcoin

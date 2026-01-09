@@ -8,8 +8,8 @@ links:
     url: https://leagueofancients.com/
   - name: explorer
     url: https://bscscan.com/token/0x94b69263FCA20119Ae817b6f783Fc0F13B02ad50
-  - name: twitter
-    url: https://twitter.com/LOAOfficialMOBA
+  - name: x
+    url: https://x.com/LOAOfficialMOBA
   - name: telegram
     url: https://t.me/leagueofancients
 ---

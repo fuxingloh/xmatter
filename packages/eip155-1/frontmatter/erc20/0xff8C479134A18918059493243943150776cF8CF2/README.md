@@ -8,8 +8,8 @@ links:
     url: https://renq.io
   - name: explorer
     url: https://etherscan.io/token/0xff8C479134A18918059493243943150776cF8CF2
-  - name: twitter
-    url: https://twitter.com/RenQ_Finance
+  - name: x
+    url: https://x.com/RenQ_Finance
   - name: telegram
     url: https://t.me/renqfinance
   - name: whitepaper

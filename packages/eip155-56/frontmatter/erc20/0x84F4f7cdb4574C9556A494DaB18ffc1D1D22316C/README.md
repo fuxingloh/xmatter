@@ -6,8 +6,8 @@ links:
     url: https://www.kingshibaofficial.com/
   - name: explorer
     url: https://bscscan.com/token/0x84F4f7cdb4574C9556A494DaB18ffc1D1D22316C
-  - name: twitter
-    url: https://twitter.com/KINGSHIBABSC
+  - name: x
+    url: https://x.com/KINGSHIBABSC
   - name: medium
     url: https://kingshiba.medium.com/
   - name: whitepaper

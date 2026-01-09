@@ -6,8 +6,8 @@ links:
     url: https://stakd.finance/
   - name: explorer
     url: https://bscscan.com/token/0xFfB3eDd21be33d5e78C9e0C2A275b3Fd42670D67
-  - name: twitter
-    url: https://twitter.com/STAKD_finance
+  - name: x
+    url: https://x.com/STAKD_finance
   - name: telegram
     url: https://t.me/stakdfinance
 ---

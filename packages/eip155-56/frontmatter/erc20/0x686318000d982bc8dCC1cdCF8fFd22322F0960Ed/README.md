@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x686318000d982bc8dcc1cdcf8ffd22322f0960ed
   - name: telegram
     url: https://t.me/opulousapp
-  - name: twitter
-    url: https://twitter.com/opulousapp
+  - name: x
+    url: https://x.com/opulousapp
 ---
 
 # Opulous

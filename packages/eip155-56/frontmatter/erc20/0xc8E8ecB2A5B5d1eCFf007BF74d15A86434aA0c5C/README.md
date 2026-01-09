@@ -6,8 +6,8 @@ links:
     url: https://www.dragonslayer.games/
   - name: explorer
     url: https://bscscan.com/token/0xc8E8ecB2A5B5d1eCFf007BF74d15A86434aA0c5C
-  - name: twitter
-    url: https://twitter.com/DragonSlayerNft
+  - name: x
+    url: https://x.com/DragonSlayerNft
   - name: telegram
     url: https://t.me/DragonSlayerNftChannel
   - name: facebook

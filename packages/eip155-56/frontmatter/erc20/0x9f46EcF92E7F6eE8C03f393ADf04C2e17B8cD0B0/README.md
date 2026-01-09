@@ -8,8 +8,8 @@ links:
     url: https://trustxgaming.io/
   - name: explorer
     url: https://bscscan.com/token/0x9f46EcF92E7F6eE8C03f393ADf04C2e17B8cD0B0
-  - name: twitter
-    url: https://twitter.com/trust_xgaming
+  - name: x
+    url: https://x.com/trust_xgaming
   - name: telegram
     url: https://t.me/trustxgaming
   - name: whitepaper

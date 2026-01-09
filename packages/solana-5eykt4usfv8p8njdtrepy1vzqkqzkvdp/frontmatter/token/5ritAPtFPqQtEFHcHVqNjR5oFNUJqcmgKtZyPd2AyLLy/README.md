@@ -6,8 +6,8 @@ links:
     url: https://www.knobcoin.xyz
   - name: explorer
     url: https://solscan.io/token/5ritAPtFPqQtEFHcHVqNjR5oFNUJqcmgKtZyPd2AyLLy
-  - name: twitter
-    url: https://twitter.com/uni_knob
+  - name: x
+    url: https://x.com/uni_knob
   - name: telegram
     url: https://t.me/knobcoin
 ---

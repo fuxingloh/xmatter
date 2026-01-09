@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xe6ce27025f13f5213bbc560dc275e292965a392f
   - name: telegram
     url: https://t.me/loomnetwork
-  - name: twitter
-    url: https://twitter.com/loomnetwork
+  - name: x
+    url: https://x.com/loomnetwork
   - name: github
     url: https://github.com/loomnetwork
 ---

@@ -1,0 +1,13 @@
+---
+symbol: FAKE USD.C
+decimals: 18
+links:
+  - name: website
+    url: https://tronscan.org/#/token20/TDxQgYxT3GZVmt1mo8je8hzMv9WUrRkBa7
+  - name: explorer
+    url: https://tronscan.org/#/token20/TDxQgYxT3GZVmt1mo8je8hzMv9WUrRkBa7
+---
+
+# FAKE Tether USD (Bridge TC10)
+
+This token is malicious do not interact

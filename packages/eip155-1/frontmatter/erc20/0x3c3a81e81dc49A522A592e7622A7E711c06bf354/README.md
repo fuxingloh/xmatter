@@ -6,8 +6,8 @@ links:
     url: https://www.mantle.xyz/
   - name: explorer
     url: https://etherscan.io/token/0x3c3a81e81dc49a522a592e7622a7e711c06bf354
-  - name: twitter
-    url: https://twitter.com/0xMantle
+  - name: x
+    url: https://x.com/0xMantle
   - name: telegram
     url: https://t.me/mantlenetwork
 ---

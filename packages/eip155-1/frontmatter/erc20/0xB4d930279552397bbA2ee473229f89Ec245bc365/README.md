@@ -6,8 +6,8 @@ links:
     url: https://mahadao.com/
   - name: explorer
     url: https://etherscan.io/token/0xb4d930279552397bba2ee473229f89ec245bc365
-  - name: twitter
-    url: https://twitter.com/TheMahaDAO
+  - name: x
+    url: https://x.com/TheMahaDAO
   - name: telegram
     url: https://t.me/mahadao
   - name: medium

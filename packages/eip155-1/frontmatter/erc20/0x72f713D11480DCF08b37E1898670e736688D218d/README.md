@@ -6,8 +6,8 @@ links:
     url: https://nettensor.com/
   - name: explorer
     url: https://etherscan.io/token/0x72f713D11480DCF08b37E1898670e736688D218d
-  - name: twitter
-    url: https://twitter.com/nettensor
+  - name: x
+    url: https://x.com/nettensor
 ---
 
 # Nettensor

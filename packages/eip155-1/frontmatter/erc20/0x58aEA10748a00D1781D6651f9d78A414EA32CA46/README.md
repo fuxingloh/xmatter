@@ -6,8 +6,8 @@ links:
     url: https://vsgofficial.com/
   - name: explorer
     url: https://etherscan.io/token/0x58aea10748a00d1781d6651f9d78a414ea32ca46
-  - name: twitter
-    url: https://twitter.com/VECTORCOIN
+  - name: x
+    url: https://x.com/VECTORCOIN
   - name: telegram
     url: https://t.me/vsgportal
   - name: coinmarketcap

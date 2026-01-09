@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x00e1656e45f18ec6747F5a8496Fd39B50b38396D
   - name: telegram
     url: https://t.me/BombCryptoChannel
-  - name: twitter
-    url: https://twitter.com/BombCryptoGame
+  - name: x
+    url: https://x.com/BombCryptoGame
   - name: facebook
     url: https://facebook.com/BombCryptoGame
   - name: coinmarketcap

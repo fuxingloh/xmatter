@@ -6,8 +6,8 @@ links:
     url: https://TimeMiner.site
   - name: explorer
     url: https://etherscan.io/token/0xA54C67bd320Da4F9725a6f585b7635a0c09B122e
-  - name: twitter
-    url: https://twitter.com/TimeMiner
+  - name: x
+    url: https://x.com/TimeMiner
   - name: telegram
     url: https://t.me/timeminer
   - name: whitepaper

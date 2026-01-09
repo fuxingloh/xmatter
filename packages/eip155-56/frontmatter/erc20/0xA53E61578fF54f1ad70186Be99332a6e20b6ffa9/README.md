@@ -8,8 +8,8 @@ links:
     url: https://goldendoge.finance
   - name: explorer
     url: https://bscscan.com/token/0xA53E61578fF54f1ad70186Be99332a6e20b6ffa9
-  - name: twitter
-    url: https://twitter.com/GoldenDoge11
+  - name: x
+    url: https://x.com/GoldenDoge11
   - name: github
     url: https://github.com/Golden-Doge-Token
   - name: telegram

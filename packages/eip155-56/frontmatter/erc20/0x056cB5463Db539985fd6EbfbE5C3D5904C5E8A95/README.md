@@ -8,8 +8,8 @@ links:
     url: https://ethlax.io/
   - name: explorer
     url: https://bscscan.com/token/0x056cB5463Db539985fd6EbfbE5C3D5904C5E8A95
-  - name: twitter
-    url: https://twitter.com/ethlaxtoken
+  - name: x
+    url: https://x.com/ethlaxtoken
   - name: telegram
     url: https://t.me/ethlaxtoken
   - name: whitepaper

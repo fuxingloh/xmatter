@@ -6,8 +6,8 @@ links:
     url: https://www.dgi.game/
   - name: explorer
     url: https://etherscan.io/token/0xe453c3409f8ad2b1fe1ed08e189634d359705a5b
-  - name: twitter
-    url: https://twitter.com/DgiGame
+  - name: x
+    url: https://x.com/DgiGame
 ---
 
 # DGI Game

@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x6B9f031D718dDed0d681c20cB754F97b3BB81b78
   - name: github
     url: https://github.com/geeq-token
-  - name: twitter
-    url: https://twitter.com/Geeq
+  - name: x
+    url: https://x.com/Geeq
   - name: whitepaper
     url: https://geeq.io/geeq-white-paper-2/
 ---

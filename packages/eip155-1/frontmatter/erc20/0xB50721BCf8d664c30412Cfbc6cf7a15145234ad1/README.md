@@ -6,8 +6,8 @@ links:
     url: https://arbitrum.foundation/
   - name: explorer
     url: https://etherscan.io/token/0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1
-  - name: twitter
-    url: https://twitter.com/arbitrum
+  - name: x
+    url: https://x.com/arbitrum
   - name: whitepaper
     url: https://docs.arbitrum.foundation/deployment-addresses
   - name: discord

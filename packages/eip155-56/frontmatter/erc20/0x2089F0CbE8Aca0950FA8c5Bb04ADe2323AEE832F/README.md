@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x2089F0CbE8Aca0950FA8c5Bb04ADe2323AEE832F
   - name: github
     url: https://github.com/monkey-shanti/londex
-  - name: twitter
-    url: https://twitter.com/londexofficial
+  - name: x
+    url: https://x.com/londexofficial
   - name: reddit
     url: https://reddit.com/r/londex
   - name: medium

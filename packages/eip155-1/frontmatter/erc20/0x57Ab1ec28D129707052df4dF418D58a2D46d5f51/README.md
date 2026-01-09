@@ -11,8 +11,8 @@ links:
     url: https://etherscan.io/token/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51
   - name: github
     url: https://github.com/Synthetixio
-  - name: twitter
-    url: https://twitter.com/synthetix_io
+  - name: x
+    url: https://x.com/synthetix_io
   - name: blog
     url: https://blog.synthetix.io/
   - name: coinmarketcap

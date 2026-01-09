@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xCa3F508B8e4Dd382eE878A314789373D80A5190A
   - name: github
     url: https://github.com/beefyfinance
-  - name: twitter
-    url: https://twitter.com/beefyfinance
+  - name: x
+    url: https://x.com/beefyfinance
   - name: telegram
     url: https://t.me/beefyannouncement
   - name: coingecko

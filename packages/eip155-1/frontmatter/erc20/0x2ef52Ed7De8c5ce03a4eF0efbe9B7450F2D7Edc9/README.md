@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x2ef52Ed7De8c5ce03a4eF0efbe9B7450F2D7Edc9
   - name: github
     url: https://github.com/Revain
-  - name: twitter
-    url: https://twitter.com/Revain_org
+  - name: x
+    url: https://x.com/Revain_org
   - name: reddit
     url: https://reddit.com/r/revain_org/
   - name: blog

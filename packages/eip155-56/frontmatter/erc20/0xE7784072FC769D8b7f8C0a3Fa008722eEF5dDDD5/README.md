@@ -6,8 +6,8 @@ links:
     url: https://www.hedge-finance.com
   - name: explorer
     url: https://bscscan.com/token/0xE7784072FC769D8b7f8C0a3Fa008722eEF5dDDD5
-  - name: twitter
-    url: https://twitter.com/Hedge_Finance
+  - name: x
+    url: https://x.com/Hedge_Finance
   - name: github
     url: https://github.com/dogekingbsc
   - name: telegram

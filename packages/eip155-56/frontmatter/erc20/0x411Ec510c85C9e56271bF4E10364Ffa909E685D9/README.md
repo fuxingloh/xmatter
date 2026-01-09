@@ -6,8 +6,8 @@ links:
     url: https://moniwar.io/
   - name: explorer
     url: https://bscscan.com/token/0x411Ec510c85C9e56271bF4E10364Ffa909E685D9
-  - name: twitter
-    url: https://twitter.com/moniwar_game
+  - name: x
+    url: https://x.com/moniwar_game
   - name: coingecko
     url: https://coingecko.com/vi/ty_gia/moniwar
   - name: whitepaper

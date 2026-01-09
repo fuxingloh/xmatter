@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x739e81bcd49854d7bdf526302989f14a2e7994b2
   - name: telegram
     url: https://t.me/centcex
-  - name: twitter
-    url: https://twitter.com/centcex
+  - name: x
+    url: https://x.com/centcex
 ---
 
 # Centcex

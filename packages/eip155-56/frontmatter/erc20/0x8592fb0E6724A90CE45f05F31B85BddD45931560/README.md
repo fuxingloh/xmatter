@@ -6,8 +6,8 @@ links:
     url: https://www.swinate.io
   - name: explorer
     url: https://bscscan.com/token/0x8592fb0E6724A90CE45f05F31B85BddD45931560
-  - name: twitter
-    url: https://twitter.com/SWINATEIO
+  - name: x
+    url: https://x.com/SWINATEIO
   - name: telegram
     url: https://t.me/swinate
   - name: youtube

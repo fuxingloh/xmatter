@@ -8,8 +8,8 @@ links:
     url: https://dinolfg.com
   - name: explorer
     url: https://etherscan.io/token/0x49642110B712C1FD7261Bc074105E9E44676c68F
-  - name: twitter
-    url: https://twitter.com/DinoLFG
+  - name: x
+    url: https://x.com/DinoLFG
   - name: telegram
     url: https://t.me/OfficialDinoLFG
   - name: coinmarketcap

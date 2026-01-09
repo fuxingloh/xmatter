@@ -6,8 +6,8 @@ links:
     url: https://marsecosystem.com/
   - name: explorer
     url: https://bscscan.com/token/0x7859B01BbF675d67Da8cD128a50D155cd881B576
-  - name: twitter
-    url: https://twitter.com/MarsEcosystem
+  - name: x
+    url: https://x.com/MarsEcosystem
   - name: telegram
     url: https://t.me/mars_ecosystem
   - name: discord

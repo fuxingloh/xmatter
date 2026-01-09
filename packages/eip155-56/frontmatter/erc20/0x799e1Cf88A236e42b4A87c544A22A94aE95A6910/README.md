@@ -6,8 +6,8 @@ links:
     url: https://mcontent.net/
   - name: explorer
     url: https://bscscan.com/token/0x799e1cf88a236e42b4a87c544a22a94ae95a6910
-  - name: twitter
-    url: https://twitter.com/MContent_
+  - name: x
+    url: https://x.com/MContent_
   - name: reddit
     url: https://reddit.com/r/MContent/
   - name: telegram

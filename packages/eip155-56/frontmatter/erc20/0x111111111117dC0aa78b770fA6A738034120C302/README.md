@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x111111111117dc0aa78b770fa6a738034120c302
   - name: blog
     url: https://1inch-exchange.medium.com/
-  - name: twitter
-    url: https://twitter.com/1inchExchange
+  - name: x
+    url: https://x.com/1inchExchange
   - name: reddit
     url: https://reddit.com/r/trustapp
   - name: telegram

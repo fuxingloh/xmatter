@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x3780e00d4c60887af38345ccd44f7617dbfb10a0
   - name: github
     url: https://github.com/Dogecoin2-0/
-  - name: twitter
-    url: https://twitter.com/Doge2_Official
+  - name: x
+    url: https://x.com/Doge2_Official
   - name: reddit
     url: https://reddit.com/r/Dogecoin2_point_0/
   - name: discord

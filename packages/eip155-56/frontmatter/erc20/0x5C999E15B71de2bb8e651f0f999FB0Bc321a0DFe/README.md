@@ -6,8 +6,8 @@ links:
     url: https://zeddex.com
   - name: explorer
     url: https://bscscan.com/token/0x5c999e15b71de2bb8e651f0f999fb0bc321a0dfe
-  - name: twitter
-    url: https://twitter.com/zedxionc
+  - name: x
+    url: https://x.com/zedxionc
   - name: github
     url: https://github.com/Zedscan
 ---

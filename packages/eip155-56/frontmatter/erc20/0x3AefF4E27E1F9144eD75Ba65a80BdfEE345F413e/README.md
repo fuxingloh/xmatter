@@ -6,8 +6,8 @@ links:
     url: https://bumoon.io
   - name: explorer
     url: https://bscscan.com/token/0x3AefF4E27E1F9144eD75Ba65a80BdfEE345F413e
-  - name: twitter
-    url: https://twitter.com/Bumoon_io
+  - name: x
+    url: https://x.com/Bumoon_io
   - name: github
     url: https://github.com/bumoonio
   - name: telegram

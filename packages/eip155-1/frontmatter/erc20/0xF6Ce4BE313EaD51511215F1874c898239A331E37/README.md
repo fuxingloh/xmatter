@@ -6,8 +6,8 @@ links:
     url: https://birddogonerc.com
   - name: explorer
     url: https://etherscan.io/token/0xF6Ce4BE313EaD51511215F1874c898239A331E37
-  - name: twitter
-    url: https://twitter.com/Birddog_base
+  - name: x
+    url: https://x.com/Birddog_base
 ---
 
 # Bird Dog

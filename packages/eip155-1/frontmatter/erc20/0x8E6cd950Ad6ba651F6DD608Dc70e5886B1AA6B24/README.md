@@ -6,8 +6,8 @@ links:
     url: https://www.starltoken.com
   - name: explorer
     url: https://etherscan.io/token/0x8e6cd950ad6ba651f6dd608dc70e5886b1aa6b24
-  - name: twitter
-    url: https://twitter.com/starlinketh
+  - name: x
+    url: https://x.com/starlinketh
   - name: github
     url: https://github.com/StarlinkMeta
   - name: telegram

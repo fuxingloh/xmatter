@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xB0a1DE764A033A76f28E821fBe402EDBFEe937dB
   - name: github
     url: https://github.com/ditto-money/
-  - name: twitter
-    url: https://twitter.com/dittomoney_
+  - name: x
+    url: https://x.com/dittomoney_
 ---
 
 # xDitto

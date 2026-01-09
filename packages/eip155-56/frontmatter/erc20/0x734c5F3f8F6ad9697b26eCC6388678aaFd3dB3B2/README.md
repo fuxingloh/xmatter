@@ -6,8 +6,8 @@ links:
     url: https://muskmetaverse.io/
   - name: explorer
     url: https://bscscan.com/token/0x734c5F3f8F6ad9697b26eCC6388678aaFd3dB3B2
-  - name: twitter
-    url: https://twitter.com/MUSK_METAVERSE
+  - name: x
+    url: https://x.com/MUSK_METAVERSE
   - name: reddit
     url: https://reddit.com/user/Muskmetaverse
   - name: youtube

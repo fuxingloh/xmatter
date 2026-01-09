@@ -8,8 +8,8 @@ links:
     url: https://pepe20.vip
   - name: explorer
     url: https://etherscan.io/token/0xfb66321D7C674995dFcC2cb67A30bC978dc862AD
-  - name: twitter
-    url: https://twitter.com/pepe2coineth
+  - name: x
+    url: https://x.com/pepe2coineth
   - name: telegram
     url: https://t.me/Pepe2Portal
   - name: github

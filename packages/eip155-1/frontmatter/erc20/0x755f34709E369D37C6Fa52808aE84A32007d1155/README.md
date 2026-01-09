@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x755f34709E369D37C6Fa52808aE84A32007d1155
   - name: telegram
     url: https://t.me/naboxcommunity
-  - name: twitter
-    url: https://twitter.com/naboxwallet
+  - name: x
+    url: https://x.com/naboxwallet
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/nabox/
 ---

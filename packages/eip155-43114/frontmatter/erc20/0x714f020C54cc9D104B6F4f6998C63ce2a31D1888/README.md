@@ -6,8 +6,8 @@ links:
     url: https://step.app/
   - name: explorer
     url: https://snowtrace.io/token/0x714f020c54cc9d104b6f4f6998c63ce2a31d1888
-  - name: twitter
-    url: https://twitter.com/stepapp_
+  - name: x
+    url: https://x.com/stepapp_
   - name: telegram
     url: https://t.me/stepappchat
 ---

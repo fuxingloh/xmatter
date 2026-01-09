@@ -8,8 +8,8 @@ links:
     url: https://www.jesuscoin.xyz
   - name: explorer
     url: https://etherscan.io/token/0xba386A4Ca26B85FD057ab1Ef86e3DC7BdeB5ce70
-  - name: twitter
-    url: https://twitter.com/jesustokens
+  - name: x
+    url: https://x.com/jesustokens
   - name: github
     url: https://github.com/makerlee0x/Jesus-Coin
   - name: telegram

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x373E768f79c820aA441540d254dCA6d045c6d25b
   - name: blog
     url: https://derace.com
-  - name: twitter
-    url: https://twitter.com/deracenft
+  - name: x
+    url: https://x.com/deracenft
   - name: telegram
     url: https://t.me/DeRaceNFT
   - name: medium

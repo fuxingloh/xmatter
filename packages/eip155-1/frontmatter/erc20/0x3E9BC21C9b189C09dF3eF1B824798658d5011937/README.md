@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x3E9BC21C9b189C09dF3eF1B824798658d5011937
   - name: github
     url: https://github.com/Linear-finance/linear
-  - name: twitter
-    url: https://twitter.com/LinearFinance
+  - name: x
+    url: https://x.com/LinearFinance
   - name: telegram
     url: https://t.me/linearfinanceofficial
   - name: coinmarketcap

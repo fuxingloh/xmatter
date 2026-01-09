@@ -6,8 +6,8 @@ links:
     url: https://www.dtravel.com/
   - name: explorer
     url: https://bscscan.com/token/0x6a8Fd46F88dBD7bdC2D536C604f811C63052ce0F
-  - name: twitter
-    url: https://twitter.com/TRVL
+  - name: x
+    url: https://x.com/TRVL
   - name: telegram
     url: https://t.me/dtravelcommunity
   - name: medium

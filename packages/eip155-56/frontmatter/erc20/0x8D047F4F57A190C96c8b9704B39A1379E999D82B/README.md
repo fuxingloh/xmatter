@@ -12,8 +12,8 @@ links:
     url: https://reddit.com/user/Etherconnct
   - name: medium
     url: https://etherconnect.medium.com/
-  - name: twitter
-    url: https://twitter.com/Etherconnt
+  - name: x
+    url: https://x.com/Etherconnt
   - name: facebook
     url: https://facebook.com/Etherconnt
 ---

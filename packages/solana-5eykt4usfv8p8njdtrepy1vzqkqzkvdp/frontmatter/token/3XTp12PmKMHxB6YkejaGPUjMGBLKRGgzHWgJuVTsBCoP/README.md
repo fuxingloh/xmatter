@@ -6,8 +6,8 @@ links:
     url: https://www.solbirddog.com/
   - name: explorer
     url: https://solscan.io/token/3XTp12PmKMHxB6YkejaGPUjMGBLKRGgzHWgJuVTsBCoP
-  - name: twitter
-    url: https://twitter.com/SOLbirddog
+  - name: x
+    url: https://x.com/SOLbirddog
 ---
 
 # Bird Dog

@@ -8,8 +8,8 @@ links:
     url: https://cryptosnacks.org/
   - name: explorer
     url: https://bscscan.com/token/0xe52bB35344cceedd014Be2896d01e604ad992c85
-  - name: twitter
-    url: https://twitter.com/CryptoSnack_
+  - name: x
+    url: https://x.com/CryptoSnack_
   - name: github
     url: https://github.com/CryptoSnackProject
   - name: telegram

@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a
   - name: github
     url: https://github.com/orionprotocol
-  - name: twitter
-    url: https://twitter.com/orion_protocol
+  - name: x
+    url: https://x.com/orion_protocol
   - name: telegram
     url: https://t.me/orionprotocol
   - name: medium

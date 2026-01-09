@@ -8,8 +8,8 @@ links:
     url: https://safeenergyx.io
   - name: explorer
     url: https://bscscan.com/token/0xBBe899c61198D1826a43e20ea19efC46E50c2B00
-  - name: twitter
-    url: https://twitter.com/OfficialEnergyX
+  - name: x
+    url: https://x.com/OfficialEnergyX
   - name: telegram
     url: https://t.me/OfficialSafeEnergyX
   - name: whitepaper

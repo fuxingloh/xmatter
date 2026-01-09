@@ -6,8 +6,8 @@ links:
     url: https://sboysolana.xyz/
   - name: explorer
     url: https://solscan.io/token/G3ukjeHBrDJ1zUFr6KandnW4bPcjmvK3qL2uATRb3F63
-  - name: twitter
-    url: https://twitter.com/souljaboy
+  - name: x
+    url: https://x.com/souljaboy
   - name: telegram
     url: https://t.me/sboyonsolana
 ---

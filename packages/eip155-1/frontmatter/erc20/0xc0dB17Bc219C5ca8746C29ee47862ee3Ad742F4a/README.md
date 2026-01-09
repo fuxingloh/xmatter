@@ -6,8 +6,8 @@ links:
     url: https://scottytheai.com/en
   - name: explorer
     url: https://etherscan.io/token/0xc0dB17Bc219C5ca8746C29ee47862ee3Ad742F4a
-  - name: twitter
-    url: https://twitter.com/ScottyThe_Ai
+  - name: x
+    url: https://x.com/ScottyThe_Ai
 ---
 
 # Scotty AI

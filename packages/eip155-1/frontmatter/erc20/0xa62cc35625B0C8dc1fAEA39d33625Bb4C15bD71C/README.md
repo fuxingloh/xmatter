@@ -6,8 +6,8 @@ links:
     url: https://stormx.io
   - name: explorer
     url: https://etherscan.io/token/0xa62cc35625b0c8dc1faea39d33625bb4c15bd71c
-  - name: twitter
-    url: https://twitter.com/Stormxio
+  - name: x
+    url: https://x.com/Stormxio
   - name: telegram
     url: https://t.me/stormxapp
   - name: reddit

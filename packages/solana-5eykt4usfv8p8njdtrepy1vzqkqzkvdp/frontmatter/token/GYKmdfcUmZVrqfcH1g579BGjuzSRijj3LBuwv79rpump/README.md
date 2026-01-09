@@ -6,8 +6,8 @@ links:
     url: https://wdog.fun/
   - name: explorer
     url: https://solscan.io/token/GYKmdfcUmZVrqfcH1g579BGjuzSRijj3LBuwv79rpump
-  - name: twitter
-    url: https://twitter.com/wdogsoldier
+  - name: x
+    url: https://x.com/wdogsoldier
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/wrapped-dog/
 ---

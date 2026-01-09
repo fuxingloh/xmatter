@@ -8,8 +8,8 @@ links:
     url: https://neiroeth.io
   - name: explorer
     url: https://etherscan.io/token/0x812ba41e071c7b7fa4ebcfb62df5f45f6fa853ee
-  - name: twitter
-    url: https://twitter.com/neiroethcto
+  - name: x
+    url: https://x.com/neiroethcto
   - name: telegram
     url: https://t.me/ETHNEIROCTO
   - name: coinmarketcap

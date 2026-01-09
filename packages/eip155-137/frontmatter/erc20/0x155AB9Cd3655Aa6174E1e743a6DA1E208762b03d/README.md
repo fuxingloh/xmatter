@@ -8,8 +8,8 @@ links:
     url: https://www.cleverminu.com/
   - name: explorer
     url: https://polygonscan.com/token/0x155AB9Cd3655Aa6174E1e743a6DA1E208762b03d
-  - name: twitter
-    url: https://twitter.com/cleverminu
+  - name: x
+    url: https://x.com/cleverminu
   - name: github
     url: https://github.com/cleverminu
   - name: telegram

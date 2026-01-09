@@ -6,8 +6,8 @@ links:
     url: https://www.harambeonsol.com/
   - name: explorer
     url: https://solscan.io/token/Fch1oixTPri8zxBnmdCEADoJW2toyFHxqDZacQkwdvSP
-  - name: twitter
-    url: https://twitter.com/harambeonsolana
+  - name: x
+    url: https://x.com/harambeonsolana
 ---
 
 # HARAMBE

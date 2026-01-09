@@ -6,8 +6,8 @@ links:
     url: https://sperax.io/
   - name: explorer
     url: https://arbiscan.io/token/0x5575552988A3A80504bBaeB1311674fCFd40aD4B
-  - name: twitter
-    url: https://twitter.com/SperaxUSD
+  - name: x
+    url: https://x.com/SperaxUSD
   - name: telegram
     url: https://t.me/SperaxUSD
 ---

@@ -8,8 +8,8 @@ links:
     url: https://www.cr7.cash/
   - name: explorer
     url: https://bscscan.com/token/0x6C43751FeF27C956f7E75D5c345a65df1465f7E0
-  - name: twitter
-    url: https://twitter.com/CR7cash
+  - name: x
+    url: https://x.com/CR7cash
   - name: github
     url: https://github.com/CR7cash
   - name: telegram

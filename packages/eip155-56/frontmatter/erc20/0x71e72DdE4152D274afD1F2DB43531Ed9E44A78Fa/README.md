@@ -9,8 +9,8 @@ links:
     url: https://lordtoken.com
   - name: explorer
     url: https://bscscan.com/token/0x71e72DdE4152D274afD1F2DB43531Ed9E44A78Fa
-  - name: twitter
-    url: https://twitter.com/lordtoken_off/
+  - name: x
+    url: https://x.com/lordtoken_off/
   - name: facebook
     url: https://facebook.com/LordToken-102969834974531/
   - name: whitepaper

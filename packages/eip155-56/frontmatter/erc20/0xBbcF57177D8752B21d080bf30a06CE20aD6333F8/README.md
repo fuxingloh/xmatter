@@ -8,8 +8,8 @@ links:
     url: https://zam.io/
   - name: explorer
     url: https://bscscan.com/token/0xBbcF57177D8752B21d080bf30a06CE20aD6333F8
-  - name: twitter
-    url: https://twitter.com/zam_io
+  - name: x
+    url: https://x.com/zam_io
   - name: telegram
     url: https://t.me/zam_io
   - name: coinmarketcap

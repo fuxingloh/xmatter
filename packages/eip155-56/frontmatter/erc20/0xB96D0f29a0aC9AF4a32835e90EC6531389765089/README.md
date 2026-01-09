@@ -9,8 +9,8 @@ links:
     url: https://www.vaporfund.com/
   - name: explorer
     url: https://bscscan.com/token/0xB96D0f29a0aC9AF4a32835e90EC6531389765089
-  - name: twitter
-    url: https://twitter.com/vaporfund
+  - name: x
+    url: https://x.com/vaporfund
   - name: telegram
     url: https://t.me/vaporfund_co
   - name: coinmarketcap

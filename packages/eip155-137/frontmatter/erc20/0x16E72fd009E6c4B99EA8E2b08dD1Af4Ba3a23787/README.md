@@ -8,8 +8,8 @@ links:
     url: https://polygonscan.com/token/0x16e72fd009e6c4b99ea8e2b08dd1af4ba3a23787
   - name: telegram
     url: https://t.me/naboxcommunity
-  - name: twitter
-    url: https://twitter.com/naboxwallet
+  - name: x
+    url: https://x.com/naboxwallet
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/nabox/
 ---

@@ -6,8 +6,8 @@ links:
     url: https://te-food.com/
   - name: explorer
     url: https://etherscan.io/token/0x2ab6bb8408ca3199b8fa6c92d5b455f820af03c4
-  - name: twitter
-    url: https://twitter.com/TE_FOOD
+  - name: x
+    url: https://x.com/TE_FOOD
   - name: reddit
     url: https://reddit.com/r/TE_FOOD
 ---

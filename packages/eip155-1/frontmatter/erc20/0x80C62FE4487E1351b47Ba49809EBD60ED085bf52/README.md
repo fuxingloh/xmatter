@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x80C62FE4487E1351b47Ba49809EBD60ED085bf52
   - name: github
     url: https://github.com/clover-network
-  - name: twitter
-    url: https://twitter.com/clv_org
+  - name: x
+    url: https://x.com/clv_org
   - name: medium
     url: https://medium.com/@clv_org
 ---

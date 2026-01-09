@@ -6,8 +6,8 @@ links:
     url: https://www.swellnetwork.io/
   - name: explorer
     url: https://etherscan.io/token/0xf951e335afb289353dc249e82926178eac7ded78
-  - name: twitter
-    url: https://twitter.com/swellnetworkio?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+  - name: x
+    url: https://x.com/swellnetworkio?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
   - name: github
     url: https://github.com/SwellNetwork
   - name: coinmarketcap

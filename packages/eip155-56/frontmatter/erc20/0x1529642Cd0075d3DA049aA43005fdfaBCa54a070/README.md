@@ -6,8 +6,8 @@ links:
     url: https://babycatecoin.net/
   - name: explorer
     url: https://bscscan.com/token/0x1529642Cd0075d3DA049aA43005fdfaBCa54a070
-  - name: twitter
-    url: https://twitter.com/catecoinbaby
+  - name: x
+    url: https://x.com/catecoinbaby
   - name: telegram
     url: https://t.me/BabyCate
   - name: discord

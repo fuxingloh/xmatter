@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xd05a0c5c68acba9aa9952fa65189038840752977
   - name: github
     url: https://github.com/monkey-shanti/ZillaMatrix/
-  - name: twitter
-    url: https://twitter.com/zillamatrix
+  - name: x
+    url: https://x.com/zillamatrix
   - name: reddit
     url: https://reddit.com/r/ZillaMatrixBsc/
   - name: medium

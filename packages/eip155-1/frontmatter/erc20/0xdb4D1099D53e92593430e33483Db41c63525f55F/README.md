@@ -9,8 +9,8 @@ links:
     url: https://joystickgames.com
   - name: explorer
     url: https://etherscan.io/token/0xdb4D1099D53e92593430e33483Db41c63525f55F
-  - name: twitter
-    url: https://twitter.com/joystickpros
+  - name: x
+    url: https://x.com/joystickpros
   - name: telegram
     url: https://t.me/JoystickCommunity
   - name: discord

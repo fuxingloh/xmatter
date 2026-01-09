@@ -6,8 +6,8 @@ links:
     url: https://www.drift.foundation/
   - name: explorer
     url: https://solscan.io/token/DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7
-  - name: twitter
-    url: https://twitter.com/DriftProtocol
+  - name: x
+    url: https://x.com/DriftProtocol
 ---
 
 # DRIFT

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xF912d3001CAf6DC4ADD366A62Cc9115B4303c9A9
   - name: github
     url: https://github.com/VenusProtocol/venus-protocol
-  - name: twitter
-    url: https://twitter.com/VenusProtocol
+  - name: x
+    url: https://x.com/VenusProtocol
   - name: telegram
     url: https://t.me/VenusProtocol
   - name: medium

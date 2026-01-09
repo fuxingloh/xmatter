@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xdc847755343C3A2B94d6aFC0aAE57651E1b14064
   - name: github
     url: https://github.com/bodatoken/
-  - name: twitter
-    url: https://twitter.com/BodaToken
+  - name: x
+    url: https://x.com/BodaToken
   - name: reddit
     url: https://reddit.com/r/bodacoin/
   - name: coinmarketcap

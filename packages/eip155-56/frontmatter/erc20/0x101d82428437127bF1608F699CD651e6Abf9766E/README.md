@@ -11,8 +11,8 @@ links:
     url: https://bscscan.com/token/0x101d82428437127bF1608F699CD651e6Abf9766E
   - name: blog
     url: https://medium.com/@attentiontoken
-  - name: twitter
-    url: https://twitter.com/@attentiontoken
+  - name: x
+    url: https://x.com/@attentiontoken
   - name: reddit
     url: https://reddit.com/r/BATProject/
   - name: coingecko

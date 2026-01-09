@@ -6,8 +6,8 @@ links:
     url: https://lemur.finance/
   - name: explorer
     url: https://bscscan.com/token/0xc35f46aAEb8aD17bCbAa78c03540FEffa44790Cb
-  - name: twitter
-    url: https://twitter.com/FinanceLemur
+  - name: x
+    url: https://x.com/FinanceLemur
   - name: telegram
     url: https://t.me/lemurfinance
   - name: facebook

@@ -9,8 +9,8 @@ links:
     url: https://sky.money
   - name: explorer
     url: https://etherscan.io/token/0x56072C95FAA701256059aa122697B133aDEd9279
-  - name: twitter
-    url: https://twitter.com/SkyEcosystem
+  - name: x
+    url: https://x.com/SkyEcosystem
   - name: github
     url: https://github.com/makerdao/
 ---

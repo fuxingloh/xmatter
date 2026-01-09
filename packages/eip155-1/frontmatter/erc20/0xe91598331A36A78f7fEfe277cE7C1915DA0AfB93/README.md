@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xe91598331a36a78f7fefe277ce7c1915da0afb93
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/runesbridge/
-  - name: twitter
-    url: https://twitter.com/RunesBridge
+  - name: x
+    url: https://x.com/RunesBridge
 ---
 
 # RunesBridge

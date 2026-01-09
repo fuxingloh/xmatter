@@ -8,8 +8,8 @@ links:
     url: https://gather.network
   - name: explorer
     url: https://bscscan.com/token/0xeb986DA994E4a118d5956b02d8b7c3C7CE373674
-  - name: twitter
-    url: https://twitter.com/Gather_Network
+  - name: x
+    url: https://x.com/Gather_Network
   - name: reddit
     url: https://reddit.com/r/GatherNetwork
   - name: medium

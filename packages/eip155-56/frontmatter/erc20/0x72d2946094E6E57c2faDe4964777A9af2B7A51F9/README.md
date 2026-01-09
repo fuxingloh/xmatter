@@ -6,8 +6,8 @@ links:
     url: https://pixlcoin.io
   - name: explorer
     url: https://bscscan.com/token/0x72d2946094E6E57c2faDe4964777A9af2B7A51F9
-  - name: twitter
-    url: https://twitter.com/PIXLCoin
+  - name: x
+    url: https://x.com/PIXLCoin
   - name: github
     url: https://github.com/pixlcoin
   - name: telegram

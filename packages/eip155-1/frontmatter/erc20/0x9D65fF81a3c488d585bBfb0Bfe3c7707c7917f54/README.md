@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x9D65fF81a3c488d585bBfb0Bfe3c7707c7917f54
   - name: github
     url: https://github.com/bloxapp/ssv
-  - name: twitter
-    url: https://twitter.com/ssv_network
+  - name: x
+    url: https://x.com/ssv_network
   - name: coingecko
     url: https://coingecko.com/en/coins/ssv-network/
   - name: coinmarketcap

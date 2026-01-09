@@ -8,8 +8,8 @@ links:
     url: https://kibainu.space
   - name: explorer
     url: https://etherscan.io/token/0x005D1123878Fc55fbd56b54C73963b234a64af3c
-  - name: twitter
-    url: https://twitter.com/kibainukiba
+  - name: x
+    url: https://x.com/kibainukiba
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/kiba-inu/
   - name: coingecko

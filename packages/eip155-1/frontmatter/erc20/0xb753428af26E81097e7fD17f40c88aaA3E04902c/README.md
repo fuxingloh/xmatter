@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xb753428af26E81097e7fD17f40c88aaA3E04902c
   - name: github
     url: https://github.com/saffron-finance/saffron
-  - name: twitter
-    url: https://twitter.com/saffron.finance
+  - name: x
+    url: https://x.com/saffron.finance
   - name: telegram
     url: https://t.me/saffronfinance
   - name: discord

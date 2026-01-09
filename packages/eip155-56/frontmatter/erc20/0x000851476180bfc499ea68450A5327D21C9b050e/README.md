@@ -8,8 +8,8 @@ links:
     url: https://slamtoken.com
   - name: explorer
     url: https://bscscan.com/token/0x000851476180bfc499ea68450A5327D21C9b050e
-  - name: twitter
-    url: https://twitter.com/slamtoken
+  - name: x
+    url: https://x.com/slamtoken
   - name: telegram
     url: https://t.me/SlamToken
   - name: whitepaper

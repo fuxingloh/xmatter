@@ -8,8 +8,8 @@ links:
     url: https://umaproject.org/
   - name: explorer
     url: https://snowtrace.io/token/0x3Bd2B1c7ED8D396dbb98DED3aEbb41350a5b2339
-  - name: twitter
-    url: https://twitter.com/umaprotocol/
+  - name: x
+    url: https://x.com/umaprotocol/
   - name: medium
     url: https://medium.com/uma-project
   - name: github

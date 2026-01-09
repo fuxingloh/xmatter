@@ -6,8 +6,8 @@ links:
     url: https://marinade.finance/
   - name: explorer
     url: https://solscan.io/token/MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey
-  - name: twitter
-    url: https://twitter.com/MarinadeFinance
+  - name: x
+    url: https://x.com/MarinadeFinance
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/mnde/
   - name: coingecko

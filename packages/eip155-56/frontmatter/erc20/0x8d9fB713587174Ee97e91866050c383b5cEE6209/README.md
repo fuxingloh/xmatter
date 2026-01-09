@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x8d9fB713587174Ee97e91866050c383b5cEE6209
   - name: telegram
     url: https://t.me/Velhallaofficial
-  - name: twitter
-    url: https://twitter.com/velhallaproject
+  - name: x
+    url: https://x.com/velhallaproject
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/velhalla/
 ---

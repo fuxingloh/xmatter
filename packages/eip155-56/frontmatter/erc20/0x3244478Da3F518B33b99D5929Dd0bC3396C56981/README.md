@@ -8,8 +8,8 @@ links:
     url: https://metamatenft.com/
   - name: explorer
     url: https://bscscan.com/token/0x3244478Da3F518B33b99D5929Dd0bC3396C56981
-  - name: twitter
-    url: https://twitter.com/MetaMate_NFT
+  - name: x
+    url: https://x.com/MetaMate_NFT
   - name: facebook
     url: https://facebook.com/MetaMateNFT
   - name: telegram

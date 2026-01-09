@@ -12,8 +12,8 @@ links:
     url: https://bscscan.com/token/0xa77346760341460b42c230ca6d21d4c8e743fa9c
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/micropets/
-  - name: twitter
-    url: https://twitter.com/MicroPetsBSC
+  - name: x
+    url: https://x.com/MicroPetsBSC
   - name: telegram
     url: https://t.me/MicroPets
   - name: github

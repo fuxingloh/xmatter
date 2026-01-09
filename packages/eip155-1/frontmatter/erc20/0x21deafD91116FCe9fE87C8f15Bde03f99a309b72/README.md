@@ -1,0 +1,19 @@
+---
+symbol: RIOTon
+decimals: 18
+tags:
+  - RWA
+links:
+  - name: website
+    url: https://ondo.finance/
+  - name: explorer
+    url: https://etherscan.io/token/0x21deafD91116FCe9fE87C8f15Bde03f99a309b72
+  - name: x
+    url: https://x.com/ondofinance
+  - name: coinmarketcap
+    url: https://coinmarketcap.com/currencies/riot-platforms-tokenized-stock-ondo
+---
+
+# Riot Platforms (Ondo Tokenized)
+
+RIOTon is the Ondo Tokenized version of Riot Platforms, giving tokenholders economic exposure similar to holding RIOT and reinvesting any dividends. Ondo tokenized stocks enable non-US retail and institutional users around the world to instantly mint and redeem tokenized U.S. stocks and ETFs, 24 hours a day, five days a week with full access to traditional exchange liquidity. Additional restrictions apply. Learn more at ondo.finance/global-markets.

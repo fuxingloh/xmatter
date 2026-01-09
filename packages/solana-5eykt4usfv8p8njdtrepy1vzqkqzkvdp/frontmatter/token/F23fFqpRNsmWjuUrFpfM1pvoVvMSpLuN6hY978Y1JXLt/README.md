@@ -6,8 +6,8 @@ links:
     url: https://www.upsidedowncat.xyz/
   - name: explorer
     url: https://solscan.io/token/F23fFqpRNsmWjuUrFpfM1pvoVvMSpLuN6hY978Y1JXLt
-  - name: twitter
-    url: https://twitter.com/upsidedowncat_
+  - name: x
+    url: https://x.com/upsidedowncat_
 ---
 
 # upsidedowncat

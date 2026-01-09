@@ -6,8 +6,8 @@ links:
     url: https://www.mai.finance/
   - name: explorer
     url: https://optimistic.etherscan.io/token/0xdFA46478F9e5EA86d57387849598dbFB2e964b02
-  - name: twitter
-    url: https://twitter.com/0xLaoZi
+  - name: x
+    url: https://x.com/0xLaoZi
   - name: telegram
     url: https://t.me/QiDaoProtocol
 ---

@@ -10,8 +10,8 @@ links:
     url: https://optimistic.etherscan.io/token/0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921
   - name: github
     url: https://github.com/balancer-labs
-  - name: twitter
-    url: https://twitter.com/BalancerLabs
+  - name: x
+    url: https://x.com/BalancerLabs
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/balancer/
 ---

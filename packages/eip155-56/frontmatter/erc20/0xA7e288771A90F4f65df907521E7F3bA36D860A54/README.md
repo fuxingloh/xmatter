@@ -6,8 +6,8 @@ links:
     url: https://btcgamee.com
   - name: explorer
     url: https://bscscan.com/token/0xA7e288771A90F4f65df907521E7F3bA36D860A54
-  - name: twitter
-    url: https://twitter.com/BtcGameofficial
+  - name: x
+    url: https://x.com/BtcGameofficial
   - name: github
     url: https://github.com/btcgamee
   - name: telegram

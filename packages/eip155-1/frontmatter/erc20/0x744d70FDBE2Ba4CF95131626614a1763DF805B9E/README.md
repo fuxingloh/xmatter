@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x744d70FDBE2Ba4CF95131626614a1763DF805B9E
   - name: github
     url: https://github.com/status-im
-  - name: twitter
-    url: https://twitter.com/ethstatus
+  - name: x
+    url: https://x.com/ethstatus
   - name: reddit
     url: https://reddit.com/r/statusim/
   - name: facebook

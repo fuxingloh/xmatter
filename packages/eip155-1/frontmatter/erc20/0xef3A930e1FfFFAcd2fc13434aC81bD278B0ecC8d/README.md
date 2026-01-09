@@ -6,8 +6,8 @@ links:
     url: https://www.nucypher.com/
   - name: explorer
     url: https://etherscan.io/token/0xef3a930e1ffffacd2fc13434ac81bd278b0ecc8d
-  - name: twitter
-    url: https://twitter.com/StaFi_Protocol
+  - name: x
+    url: https://x.com/StaFi_Protocol
   - name: medium
     url: https://medium.com/stafi
   - name: coinmarketcap

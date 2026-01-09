@@ -6,8 +6,8 @@ links:
     url: https://dogefloki.site
   - name: explorer
     url: https://bscscan.com/token/0xF9d6DDF44016953dBf7aB135A0F64d7A41870EDE
-  - name: twitter
-    url: https://twitter.com/dogeflokiglobal
+  - name: x
+    url: https://x.com/dogeflokiglobal
   - name: whitepaper
     url: https://dogefloki.site/whitepaper.pdf
   - name: telegram

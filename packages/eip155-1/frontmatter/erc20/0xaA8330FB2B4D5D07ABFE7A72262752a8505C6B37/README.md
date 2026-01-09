@@ -6,8 +6,8 @@ links:
     url: https://www.polkacity.io
   - name: explorer
     url: https://etherscan.io/token/0xaa8330fb2b4d5d07abfe7a72262752a8505c6b37
-  - name: twitter
-    url: https://twitter.com/PolkaCity
+  - name: x
+    url: https://x.com/PolkaCity
   - name: telegram
     url: https://t.me/Polkacity
 ---

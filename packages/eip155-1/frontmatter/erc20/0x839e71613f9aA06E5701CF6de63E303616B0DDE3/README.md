@@ -8,8 +8,8 @@ links:
     url: https://vvs.finance/
   - name: explorer
     url: https://etherscan.io/token/0x839e71613f9aA06E5701CF6de63E303616B0DDE3
-  - name: twitter
-    url: https://twitter.com/VVS_finance
+  - name: x
+    url: https://x.com/VVS_finance
   - name: telegram
     url: https://t.me/VVSFinance
   - name: coinmarketcap

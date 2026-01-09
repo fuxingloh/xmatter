@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xac0104cca91d167873b8601d2e71eb3d4d8c33e0
   - name: github
     url: https://github.com/blocklords/seascape-smartcontracts
-  - name: twitter
-    url: https://twitter.com/SeascapeNetwork
+  - name: x
+    url: https://x.com/SeascapeNetwork
   - name: telegram
     url: https://t.me/seascapenetwork
   - name: discord

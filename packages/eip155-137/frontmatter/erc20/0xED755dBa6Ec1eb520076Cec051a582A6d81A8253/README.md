@@ -11,8 +11,8 @@ links:
     url: https://polygonscan.com/token/0xED755dBa6Ec1eb520076Cec051a582A6d81A8253
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/ultimate-champions/
-  - name: twitter
-    url: https://twitter.com/UltiChamps
+  - name: x
+    url: https://x.com/UltiChamps
   - name: whitepaper
     url: https://whitepaper.ultimate-champions.com/
   - name: medium

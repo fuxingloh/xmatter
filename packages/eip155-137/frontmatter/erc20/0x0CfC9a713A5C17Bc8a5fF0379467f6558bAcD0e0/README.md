@@ -6,8 +6,8 @@ links:
     url: https://graphlinq.io/
   - name: explorer
     url: https://polygonscan.com/token/0x0cfc9a713a5c17bc8a5ff0379467f6558bacd0e0
-  - name: twitter
-    url: https://twitter.com/graphlinq_proto
+  - name: x
+    url: https://x.com/graphlinq_proto
   - name: telegram
     url: https://t.me/graphlinq
   - name: coinmarketcap

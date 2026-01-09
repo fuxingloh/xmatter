@@ -8,8 +8,8 @@ links:
     url: https://www.bskt.fi/
   - name: explorer
     url: https://solscan.io/token/6gnCPhXtLnUD76HjQuSYPENLSZdG8RvDB1pTLM5aLSJA
-  - name: twitter
-    url: https://twitter.com/bsktfi
+  - name: x
+    url: https://x.com/bsktfi
   - name: github
     url: https://github.com/bsktfi
   - name: telegram

@@ -8,8 +8,8 @@ links:
     url: https://redfloki.com
   - name: explorer
     url: https://bscscan.com/token/0x2A3E1D095F2902C9B6Da1bFF7813a7B2fc65C3dA
-  - name: twitter
-    url: https://twitter.com/RedFloki
+  - name: x
+    url: https://x.com/RedFloki
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/red-floki/
   - name: telegram

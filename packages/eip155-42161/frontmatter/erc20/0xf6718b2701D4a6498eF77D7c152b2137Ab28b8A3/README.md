@@ -6,8 +6,8 @@ links:
     url: https://www.lorenzo-protocol.xyz/
   - name: explorer
     url: https://arbiscan.io/token/0xf6718b2701D4a6498eF77D7c152b2137Ab28b8A3
-  - name: twitter
-    url: https://twitter.com/LorenzoProtocol
+  - name: x
+    url: https://x.com/LorenzoProtocol
   - name: telegram
     url: https://t.me/lorenzoprotocol
 ---

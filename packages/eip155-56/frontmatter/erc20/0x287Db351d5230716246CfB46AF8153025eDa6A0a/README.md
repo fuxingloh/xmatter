@@ -6,8 +6,8 @@ links:
     url: https://blockmonsters.co
   - name: explorer
     url: https://bscscan.com/token/0x287Db351d5230716246CfB46AF8153025eDa6A0a
-  - name: twitter
-    url: https://twitter.com/Block_Monsters
+  - name: x
+    url: https://x.com/Block_Monsters
   - name: telegram
     url: https://t.me/BlockMonsters
   - name: discord

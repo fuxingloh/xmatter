@@ -6,8 +6,8 @@ links:
     url: https://sphynxtoken.co
   - name: explorer
     url: https://bscscan.com/token/0xe64972C311840cFaf2267DCfD365571F9D9544d9
-  - name: twitter
-    url: https://twitter.com/sphynxswap?s=21
+  - name: x
+    url: https://x.com/sphynxswap?s=21
   - name: telegram
     url: https://t.me/sphynxswap
   - name: coinmarketcap

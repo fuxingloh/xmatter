@@ -8,8 +8,8 @@ links:
     url: https://brics-mine.com/
   - name: explorer
     url: https://bscscan.com/token/0xEC80E6EF54D43aaDc0e0556a73eC34D840d5a294
-  - name: twitter
-    url: https://twitter.com/bricsmine
+  - name: x
+    url: https://x.com/bricsmine
   - name: github
     url: https://github.com/bricsmine
   - name: whitepaper

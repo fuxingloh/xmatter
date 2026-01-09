@@ -9,8 +9,8 @@ links:
     url: https://www.binance.com/en/fan-token/
   - name: explorer
     url: https://bscscan.com/token/0x287880Ea252b52b63Cc5f40a2d3E5A44aa665a76
-  - name: twitter
-    url: https://twitter.com/AlpineF1Team
+  - name: x
+    url: https://x.com/AlpineF1Team
   - name: github
     url: https://github.com/
   - name: whitepaper

@@ -9,8 +9,8 @@ links:
     url: https://www.firework.games/
   - name: explorer
     url: https://bscscan.com/token/0x0f0dd5e2c0e0c4a41f8908d73d36b8d142f6745a
-  - name: twitter
-    url: https://twitter.com/FireworkGames
+  - name: x
+    url: https://x.com/FireworkGames
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/firework-games/
   - name: whitepaper

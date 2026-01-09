@@ -8,8 +8,8 @@ links:
     url: https://tifi.net/
   - name: explorer
     url: https://bscscan.com/token/0x17E65E6b9B166Fb8e7c59432F0db126711246BC0
-  - name: twitter
-    url: https://twitter.com/TiFiToken
+  - name: x
+    url: https://x.com/TiFiToken
   - name: telegram
     url: https://t.me/tifi_token
   - name: whitepaper

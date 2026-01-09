@@ -6,8 +6,8 @@ links:
     url: https://www.ether.fi/
   - name: explorer
     url: https://etherscan.io/token/0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee
-  - name: twitter
-    url: https://twitter.com/ether_fi
+  - name: x
+    url: https://x.com/ether_fi
 ---
 
 # Wrapped eETH

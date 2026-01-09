@@ -10,8 +10,8 @@ links:
     url: https://t.me/ethereummeta
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/ethereum-meta/
-  - name: twitter
-    url: https://twitter.com/EthereumMeta
+  - name: x
+    url: https://x.com/EthereumMeta
 ---
 
 # Ethereum Meta

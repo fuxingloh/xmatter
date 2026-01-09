@@ -6,8 +6,8 @@ links:
     url: https://www.pnutsol.com/
   - name: explorer
     url: https://solscan.io/token/2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump
-  - name: twitter
-    url: https://twitter.com/pnutsolana
+  - name: x
+    url: https://x.com/pnutsolana
   - name: telegram
     url: https://t.me/pnutportal
 ---

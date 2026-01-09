@@ -8,8 +8,8 @@ links:
     url: https://bob.eco
   - name: explorer
     url: https://bscscan.com/token/0xCE6bD1833BD077f62B2c1F9a777bB829801d6811
-  - name: twitter
-    url: https://twitter.com/
+  - name: x
+    url: https://x.com/
   - name: telegram
     url: https://t.me/bobEco
   - name: blog

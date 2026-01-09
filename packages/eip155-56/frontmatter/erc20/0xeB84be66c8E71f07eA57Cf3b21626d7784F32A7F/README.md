@@ -6,8 +6,8 @@ links:
     url: https://www.omaxtoken.com/
   - name: explorer
     url: https://bscscan.com/token/0xeB84be66c8E71f07eA57Cf3b21626d7784F32A7F
-  - name: twitter
-    url: https://twitter.com/omaxtoken
+  - name: x
+    url: https://x.com/omaxtoken
   - name: telegram
     url: https://t.me/OmaxToken
   - name: coinmarketcap

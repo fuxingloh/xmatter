@@ -16,8 +16,8 @@ links:
     url: https://t.me/aerdropann
   - name: youtube
     url: https://youtube.com/channel/UCOpRiuwOQgEYFkljfJmpNWg
-  - name: twitter
-    url: https://twitter.com/AerdropOfficial
+  - name: x
+    url: https://x.com/AerdropOfficial
   - name: reddit
     url: https://reddit.com/r/AerdropOfficial/
 ---

@@ -8,8 +8,8 @@ links:
     url: https://trondao.org/
   - name: explorer
     url: https://etherscan.io/token/0xf230b790E05390FC8295F4d3F60332c93BEd42e2
-  - name: twitter
-    url: https://twitter.com/trondao
+  - name: x
+    url: https://x.com/trondao
   - name: github
     url: https://github.com/tronprotocol/
   - name: telegram

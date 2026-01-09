@@ -6,8 +6,8 @@ links:
     url: https://www.blackphoenixbpx.com
   - name: explorer
     url: https://tronscan.io/#/token20/TXBcx59eDVndV5upFQnTR2xdvqFd5reXET
-  - name: twitter
-    url: https://twitter.com/OfficialBPX
+  - name: x
+    url: https://x.com/OfficialBPX
   - name: github
     url: https://github.com/BLACKPHOENIXBPX
   - name: telegram

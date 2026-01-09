@@ -6,8 +6,8 @@ links:
     url: https://biconomy.com
   - name: explorer
     url: https://bscscan.com/token/0xc864019047B864B6ab609a968ae2725DFaee808A
-  - name: twitter
-    url: https://twitter.com/SheludkoDmitriy?s=12
+  - name: x
+    url: https://x.com/SheludkoDmitriy?s=12
   - name: telegram
     url: https://t.me/Biconomy_Global
   - name: coinmarketcap

@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0xC52C326331E9Ce41F04484d3B5E5648158028804
   - name: github
     url: https://github.com/unizen-io/
-  - name: twitter
-    url: https://twitter.com/unizen_io
+  - name: x
+    url: https://x.com/unizen_io
   - name: reddit
     url: https://reddit.com/r/unizen/
   - name: whitepaper

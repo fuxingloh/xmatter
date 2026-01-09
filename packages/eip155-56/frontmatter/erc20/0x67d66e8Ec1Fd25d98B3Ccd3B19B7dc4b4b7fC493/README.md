@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x67d66e8Ec1Fd25d98B3Ccd3B19B7dc4b4b7fC493
   - name: github
     url: https://github.com/FeederFinance/
-  - name: twitter
-    url: https://twitter.com/FeederFinance
+  - name: x
+    url: https://x.com/FeederFinance
   - name: telegram
     url: https://t.me/FeederFinance
   - name: telegram_news

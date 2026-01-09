@@ -6,8 +6,8 @@ links:
     url: https://solcex.io/
   - name: explorer
     url: https://solscan.io/token/AMjzRn1TBQwQfNAjHFeBb7uGbbqbJB7FzXAnGgdFPk6K
-  - name: twitter
-    url: https://twitter.com/SolCex_Exchange
+  - name: x
+    url: https://x.com/SolCex_Exchange
   - name: telegram
     url: https://t.me/Solcex_Exchange
 ---

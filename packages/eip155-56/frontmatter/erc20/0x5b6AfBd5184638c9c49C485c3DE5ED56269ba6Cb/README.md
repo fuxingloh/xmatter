@@ -18,8 +18,8 @@ links:
     url: https://bscscan.com/address/0x5b6afbd5184638c9c49c485c3de5ed56269ba6cb#code
   - name: discord
     url: https://discord.com/invite/gBcss4GTGw
-  - name: twitter
-    url: https://twitter.com/AURofficial_
+  - name: x
+    url: https://x.com/AURofficial_
 ---
 
 # Aurum

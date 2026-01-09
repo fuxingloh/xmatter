@@ -10,8 +10,8 @@ links:
     url: https://coinmarketcap.com/currencies/acet/
   - name: coingecko
     url: https://coingecko.com/en/coins/acet-token
-  - name: twitter
-    url: https://twitter.com/ACTDeFansFi
+  - name: x
+    url: https://x.com/ACTDeFansFi
   - name: facebook
     url: https://facebook.com/ACTDeFansFi/
   - name: telegram

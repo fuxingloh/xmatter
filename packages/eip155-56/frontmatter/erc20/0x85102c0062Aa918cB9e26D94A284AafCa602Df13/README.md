@@ -6,8 +6,8 @@ links:
     url: https://avalonprotocol.com/
   - name: explorer
     url: https://bscscan.com/token/0x85102c0062Aa918cB9e26D94A284AafCa602Df13
-  - name: twitter
-    url: https://twitter.com/Avalon_Protocol
+  - name: x
+    url: https://x.com/Avalon_Protocol
   - name: telegram
     url: https://t.me/AvalonProtocol
   - name: reddit

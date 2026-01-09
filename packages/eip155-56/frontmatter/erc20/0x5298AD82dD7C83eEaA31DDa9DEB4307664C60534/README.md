@@ -9,8 +9,8 @@ links:
     url: https://project-moonshot.me
   - name: explorer
     url: https://bscscan.com/token/0x5298AD82dD7C83eEaA31DDa9DEB4307664C60534
-  - name: twitter
-    url: https://twitter.com/RS25Moonshot
+  - name: x
+    url: https://x.com/RS25Moonshot
   - name: github
     url: https://github.com/moonshot-platform
   - name: telegram

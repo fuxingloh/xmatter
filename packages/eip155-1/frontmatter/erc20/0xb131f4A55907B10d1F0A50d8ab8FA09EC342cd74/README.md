@@ -8,8 +8,8 @@ links:
     url: https://www.memecoin.org
   - name: explorer
     url: https://etherscan.io/token/0xb131f4a55907b10d1f0a50d8ab8fa09ec342cd74
-  - name: twitter
-    url: https://twitter.com/memecoin
+  - name: x
+    url: https://x.com/memecoin
   - name: telegram
     url: https://t.me/memecoin
   - name: whitepaper

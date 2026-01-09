@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xB7DAcf54a54bFea818F21472d3E71a89287841A7
   - name: telegram
     url: https://t.me/wealthsecretsofficial
-  - name: twitter
-    url: https://twitter.com/WSecrets_WSC?s=09
+  - name: x
+    url: https://x.com/WSecrets_WSC?s=09
   - name: coinmarketcap
     url: https://coinmarketcap.com/ru/currencies/wealthsecrets/
 ---

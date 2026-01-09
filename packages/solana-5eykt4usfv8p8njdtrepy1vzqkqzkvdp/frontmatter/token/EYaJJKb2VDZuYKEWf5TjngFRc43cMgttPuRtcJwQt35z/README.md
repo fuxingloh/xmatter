@@ -6,8 +6,8 @@ links:
     url: https://www.blekrok.com/
   - name: explorer
     url: https://solscan.io/token/EYaJJKb2VDZuYKEWf5TjngFRc43cMgttPuRtcJwQt35z
-  - name: twitter
-    url: https://twitter.com/blekroksolana
+  - name: x
+    url: https://x.com/blekroksolana
 ---
 
 # Blekrok

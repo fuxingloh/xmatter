@@ -1,0 +1,19 @@
+---
+symbol: LLYX
+decimals: 8
+tags:
+  - RWA
+links:
+  - name: website
+    url: https://assets.backed.fi/products
+  - name: explorer
+    url: https://solscan.io/token/Xsnuv4omNoHozR6EEW5mXkw8Nrny5rB3jVfLqi6gKMH
+  - name: x
+    url: https://x.com/xstocksfi
+  - name: coinmarketcap
+    url: https://coinmarketcap.com/currencies/eli-lilly-tokenized-stock-xstock/
+---
+
+# Eli Lilly tokenized stock (xStock)
+
+Eli Lilly xStock (LLYx) is a tracker certificate issued as Solana SPL and ERC-20 tokens. LLYx tracks the price of Eli Lilly and Company (the underlying). LLYx is designed to give eligible cryptocurrency market participants regulatory-compliant access to the stock price of Eli Lilly and Company, whilst maintaining the benefits of blockchain technology. Eli Lilly and Company is a global pharmaceutical company based in Indianapolis, Indiana, that discovers, develops, manufactures, and markets human healthcare products.

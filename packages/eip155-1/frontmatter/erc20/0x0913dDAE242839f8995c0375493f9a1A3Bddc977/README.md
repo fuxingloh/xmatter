@@ -8,8 +8,8 @@ links:
     url: https://www.marshallinu.com/
   - name: explorer
     url: https://etherscan.io/token/0x0913dDAE242839f8995c0375493f9a1A3Bddc977
-  - name: twitter
-    url: https://twitter.com/marshallinu_
+  - name: x
+    url: https://x.com/marshallinu_
   - name: telegram
     url: https://t.me/marshallroganinuofficialchat
 ---

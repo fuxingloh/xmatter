@@ -6,8 +6,8 @@ links:
     url: https://cybercoin.site
   - name: explorer
     url: https://etherscan.io/token/0x4Ba012f6e411a1bE55b98E9E62C3A4ceb16eC88B
-  - name: twitter
-    url: https://twitter.com/Cybercoin
+  - name: x
+    url: https://x.com/Cybercoin
   - name: discord
     url: https://discord.com/invite/H4sy68N
   - name: whitepaper

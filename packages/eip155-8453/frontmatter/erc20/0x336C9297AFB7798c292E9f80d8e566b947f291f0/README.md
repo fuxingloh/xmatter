@@ -10,8 +10,8 @@ links:
     url: https://basescan.org/token/0x336c9297afb7798c292e9f80d8e566b947f291f0
   - name: github
     url: https://github.com/Phala-Network
-  - name: twitter
-    url: https://twitter.com/PhalaNetwork
+  - name: x
+    url: https://x.com/PhalaNetwork
   - name: discord
     url: https://discord.com/invite/phala
   - name: youtube

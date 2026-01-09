@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x1063181dc986f76f7ea2dd109e16fc596d0f522a
   - name: telegram
     url: https://t.me/cybriacoin
-  - name: twitter
-    url: https://twitter.com/cybriacoin
+  - name: x
+    url: https://x.com/cybriacoin
 ---
 
 # Cybria

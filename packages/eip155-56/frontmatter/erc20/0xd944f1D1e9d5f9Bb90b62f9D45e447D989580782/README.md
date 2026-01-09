@@ -8,8 +8,8 @@ links:
     url: https://www.iota.org/
   - name: explorer
     url: https://bscscan.com/token/0xd944f1d1e9d5f9bb90b62f9d45e447d989580782
-  - name: twitter
-    url: https://twitter.com/iota
+  - name: x
+    url: https://x.com/iota
   - name: github
     url: https://github.com/iotaledger
   - name: coinmarketcap

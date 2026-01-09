@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xEFEa4829b1bc90658784f15116C2dFD0E0929B0d
   - name: telegram
     url: https://t.me/BabyDeFido_BSC
-  - name: twitter
-    url: https://twitter.com/Baby_Defido
+  - name: x
+    url: https://x.com/Baby_Defido
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/baby-defido/
   - name: coingecko

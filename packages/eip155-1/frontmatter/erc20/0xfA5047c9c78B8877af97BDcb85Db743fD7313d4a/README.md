@@ -8,8 +8,8 @@ links:
     url: https://rook.fi
   - name: explorer
     url: https://etherscan.io/token/0xfA5047c9c78B8877af97BDcb85Db743fD7313d4a
-  - name: twitter
-    url: https://twitter.com/rook
+  - name: x
+    url: https://x.com/rook
   - name: discord
     url: https://discord.com/invite/rook
   - name: coinmarketcap

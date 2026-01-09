@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x58b6A8A3302369DAEc383334672404Ee733aB239
   - name: github
     url: https://github.com/livepeer
-  - name: twitter
-    url: https://twitter.com/LivepeerOrg
+  - name: x
+    url: https://x.com/LivepeerOrg
   - name: reddit
     url: https://reddit.com/r/livepeer/
   - name: blog

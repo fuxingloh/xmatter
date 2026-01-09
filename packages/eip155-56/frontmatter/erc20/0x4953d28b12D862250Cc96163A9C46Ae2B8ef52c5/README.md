@@ -8,8 +8,8 @@ links:
     url: https://www.tellerusd.com
   - name: explorer
     url: https://bscscan.com/token/0x4953d28b12D862250Cc96163A9C46Ae2B8ef52c5
-  - name: twitter
-    url: https://twitter.com/TellerUSD
+  - name: x
+    url: https://x.com/TellerUSD
   - name: telegram
     url: https://t.me/tellerusd
 ---

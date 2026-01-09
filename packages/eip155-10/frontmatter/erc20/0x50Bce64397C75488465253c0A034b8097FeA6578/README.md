@@ -6,8 +6,8 @@ links:
     url: https://paykhan.io/
   - name: explorer
     url: https://optimistic.etherscan.io/token/0x50Bce64397C75488465253c0A034b8097FeA6578
-  - name: twitter
-    url: https://twitter.com/HanIdentity
+  - name: x
+    url: https://x.com/HanIdentity
   - name: telegram
     url: https://t.me/hanchain_official
   - name: github

@@ -17,8 +17,8 @@ links:
     url: https://medium.com/yield-guild-games
   - name: youtube
     url: https://youtube.com/yieldguildgames
-  - name: twitter
-    url: https://twitter.com/YieldGuild
+  - name: x
+    url: https://x.com/YieldGuild
   - name: facebook
     url: https://facebook.com/yieldguildgames/
   - name: telegram

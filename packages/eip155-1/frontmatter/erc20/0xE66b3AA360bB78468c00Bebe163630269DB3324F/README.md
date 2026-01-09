@@ -6,8 +6,8 @@ links:
     url: https://merchanttoken.org
   - name: explorer
     url: https://etherscan.io/token/0xe66b3aa360bb78468c00bebe163630269db3324f
-  - name: twitter
-    url: https://twitter.com/merchant_token
+  - name: x
+    url: https://x.com/merchant_token
   - name: github
     url: https://github.com/hipspay
   - name: telegram

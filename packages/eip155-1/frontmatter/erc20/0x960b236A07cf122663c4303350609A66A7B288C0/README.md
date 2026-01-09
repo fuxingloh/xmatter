@@ -6,8 +6,8 @@ links:
     url: https://aragon.org
   - name: explorer
     url: https://etherscan.io/token/0x960b236A07cf122663c4303350609A66A7B288C0
-  - name: twitter
-    url: https://twitter.com/aragonproject?lang=es
+  - name: x
+    url: https://x.com/aragonproject?lang=es
   - name: telegram
     url: https://t.me/AragonProject
   - name: github

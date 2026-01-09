@@ -8,8 +8,8 @@ links:
     url: https://xai.gd
   - name: explorer
     url: https://bscscan.com/token/0x8Ea43e15b1a616a19903F6A87498F7dCa1efae0f
-  - name: twitter
-    url: https://twitter.com/xai_gd
+  - name: x
+    url: https://x.com/xai_gd
   - name: github
     url: https://github.com/xaigd
   - name: source_code

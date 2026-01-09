@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xc3D912863152E1Afc935AD0D42d469e7C6B05B77
   - name: github
     url: https://github.com/LuckyLionIO
-  - name: twitter
-    url: https://twitter.com/LuckyLionGameFi
+  - name: x
+    url: https://x.com/LuckyLionGameFi
   - name: reddit
     url: https://reddit.com/user/luckylionofficial
 ---

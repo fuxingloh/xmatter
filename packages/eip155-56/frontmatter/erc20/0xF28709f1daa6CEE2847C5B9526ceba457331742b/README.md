@@ -6,8 +6,8 @@ links:
     url: https://melontokenbsc.com/
   - name: explorer
     url: https://bscscan.com/token/0xF28709f1daa6CEE2847C5B9526ceba457331742b
-  - name: twitter
-    url: https://twitter.com/melontokenbsc
+  - name: x
+    url: https://x.com/melontokenbsc
   - name: github
     url: https://github.com/DRIVENx
   - name: telegram

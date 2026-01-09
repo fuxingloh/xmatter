@@ -11,8 +11,8 @@ links:
     url: https://bscscan.com/token/0xAE4cA3272792d8499575AEFacdc299F0cBdc9270
   - name: telegram
     url: https://t.me/joinchat/NWpAwc8hKOFkZWI1
-  - name: twitter
-    url: https://twitter.com/somdejcoin
+  - name: x
+    url: https://x.com/somdejcoin
 ---
 
 # SOMDEJ

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xc49DDe62B4A0810074721fAcA54Aab52369f486a
   - name: github
     url: https://github.com/polker-io
-  - name: twitter
-    url: https://twitter.com/POLKER_PKR
+  - name: x
+    url: https://x.com/POLKER_PKR
   - name: facebook
     url: https://facebook.com/PolkerPKR
   - name: medium

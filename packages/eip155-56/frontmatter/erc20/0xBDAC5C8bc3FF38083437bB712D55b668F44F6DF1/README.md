@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xBDAC5C8bc3FF38083437bB712D55b668F44F6DF1
   - name: github
     url: https://github.com/SimarglToken/
-  - name: twitter
-    url: https://twitter.com/SimarglToken
+  - name: x
+    url: https://x.com/SimarglToken
   - name: telegram
     url: https://t.me/SimarglToken
 ---

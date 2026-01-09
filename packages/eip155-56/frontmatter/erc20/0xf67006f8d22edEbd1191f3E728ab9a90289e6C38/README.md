@@ -8,8 +8,8 @@ links:
     url: https://littlebabydoge.com/
   - name: explorer
     url: https://bscscan.com/token/0xf67006f8d22edEbd1191f3E728ab9a90289e6C38
-  - name: twitter
-    url: https://twitter.com/LBD_se
+  - name: x
+    url: https://x.com/LBD_se
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/little-baby-doge/
   - name: coingecko

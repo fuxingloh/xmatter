@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5
   - name: blog
     url: https://medium.com/@BakerySwap
-  - name: twitter
-    url: https://twitter.com/bakery_swap
+  - name: x
+    url: https://x.com/bakery_swap
   - name: telegram
     url: https://t.me/bakeryswap
 ---

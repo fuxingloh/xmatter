@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x014a087b646Bd90E7DCEad3993F49EB1F4B5f30a
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/gulf-coin/
-  - name: twitter
-    url: https://twitter.com/GulfCoin_
+  - name: x
+    url: https://x.com/GulfCoin_
   - name: telegram
     url: https://t.me/GulfCoinOfficial
   - name: source_code

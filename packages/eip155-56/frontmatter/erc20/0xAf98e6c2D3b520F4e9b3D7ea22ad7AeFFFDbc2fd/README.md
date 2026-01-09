@@ -8,8 +8,8 @@ links:
     url: https://ratboybsc.com
   - name: explorer
     url: https://bscscan.com/token/0xAf98e6c2D3b520F4e9b3D7ea22ad7AeFFFDbc2fd
-  - name: twitter
-    url: https://twitter.com/ratboybsc
+  - name: x
+    url: https://x.com/ratboybsc
   - name: telegram
     url: https://t.me/ratboyofficial
   - name: coinmarketcap

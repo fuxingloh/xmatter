@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0xa35923162c49cf95e6bf26623385eb431ad920d3
   - name: discord
     url: https://discord.com/FYdKKmV3CU
-  - name: twitter
-    url: https://twitter.com/TurboToadToken
+  - name: x
+    url: https://x.com/TurboToadToken
 ---
 
 # Turbo

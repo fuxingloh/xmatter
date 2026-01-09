@@ -6,8 +6,8 @@ links:
     url: https://binstarter.io
   - name: explorer
     url: https://bscscan.com/token/0xab287e6D370C61f105630e656B5468ACB4D00423
-  - name: twitter
-    url: https://twitter.com/BinStarterio
+  - name: x
+    url: https://x.com/BinStarterio
   - name: telegram
     url: https://t.me/BinstarterOfficial
   - name: coinmarketcap

@@ -6,8 +6,8 @@ links:
     url: https://gummyonsol.com/
   - name: explorer
     url: https://solscan.io/token/H7bTHGb5Cvo5fGe5jBDNDPUv8KykQnzyZA3qZ8sH7yxw
-  - name: twitter
-    url: https://twitter.com/gummyonsolana
+  - name: x
+    url: https://x.com/gummyonsolana
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/gummy/
 ---

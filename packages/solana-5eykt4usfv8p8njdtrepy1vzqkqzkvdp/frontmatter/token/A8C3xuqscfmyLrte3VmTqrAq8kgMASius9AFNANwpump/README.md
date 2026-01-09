@@ -6,8 +6,8 @@ links:
     url: https://fwogsol.xyz/
   - name: explorer
     url: https://solscan.io/token/A8C3xuqscfmyLrte3VmTqrAq8kgMASius9AFNANwpump
-  - name: twitter
-    url: https://twitter.com/solfwog
+  - name: x
+    url: https://x.com/solfwog
   - name: telegram
     url: https://t.me/fwogportal
 ---

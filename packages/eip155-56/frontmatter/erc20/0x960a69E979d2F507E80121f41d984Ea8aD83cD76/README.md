@@ -6,8 +6,8 @@ links:
     url: https://www.gamerse.network
   - name: explorer
     url: https://bscscan.com/token/0x960a69e979d2f507e80121f41d984ea8ad83cd76
-  - name: twitter
-    url: https://twitter.com/Gamersenft
+  - name: x
+    url: https://x.com/Gamersenft
   - name: telegram
     url: https://t.me/gamersecommunity
   - name: discord

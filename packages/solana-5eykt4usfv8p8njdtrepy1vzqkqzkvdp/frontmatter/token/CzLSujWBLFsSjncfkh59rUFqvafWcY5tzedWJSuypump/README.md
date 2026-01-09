@@ -6,8 +6,8 @@ links:
     url: https://pump.fun/CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump
   - name: explorer
     url: https://solscan.io/token/CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump
-  - name: twitter
-    url: https://twitter.com/gospelofgoatse
+  - name: x
+    url: https://x.com/gospelofgoatse
   - name: telegram
     url: https://t.me/GoatseusMaximusSolana
 ---

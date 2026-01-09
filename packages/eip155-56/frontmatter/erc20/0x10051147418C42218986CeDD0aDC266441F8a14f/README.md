@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x10051147418C42218986CeDD0aDC266441F8a14f
   - name: facebook
     url: https://facebook.com/dyorproject
-  - name: twitter
-    url: https://twitter.com/DYORToken_BSC
+  - name: x
+    url: https://x.com/DYORToken_BSC
   - name: discord
     url: https://discord.com/channels/910012412671955014/914013645535608832
   - name: telegram

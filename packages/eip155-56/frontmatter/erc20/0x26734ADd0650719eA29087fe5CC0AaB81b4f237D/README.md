@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x26734add0650719ea29087fe5cc0aab81b4f237d
   - name: telegram
     url: https://t.me/stemxme
-  - name: twitter
-    url: https://twitter.com/STEMRUCOM
+  - name: x
+    url: https://x.com/STEMRUCOM
   - name: coinmarketcap
     url: https://coinmarketcap.com/ru/currencies/stemx/
 ---

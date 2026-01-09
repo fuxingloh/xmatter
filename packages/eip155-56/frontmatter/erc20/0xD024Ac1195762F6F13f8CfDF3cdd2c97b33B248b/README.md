@@ -9,8 +9,8 @@ links:
     url: https://minifootballtoken.com
   - name: explorer
     url: https://bscscan.com/token/0xd024ac1195762f6f13f8cfdf3cdd2c97b33b248b
-  - name: twitter
-    url: https://twitter.com/minifootballbsc
+  - name: x
+    url: https://x.com/minifootballbsc
   - name: telegram
     url: https://t.me/minifootballtoken
   - name: coinmarketcap

@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x6a731582f6189477c379A8da7d26Dcec3F0a0919
   - name: github
     url: https://github.com/King0fLegends
-  - name: twitter
-    url: https://twitter.com/kingofIegends
+  - name: x
+    url: https://x.com/kingofIegends
   - name: facebook
     url: https://facebook.com/kingoflegends.net
   - name: whitepaper

@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xb7f8cd00c5a06c0537e2abff0b58033d02e5e094
   - name: github
     url: https://github.com/paxosglobal/pax-contracts
-  - name: twitter
-    url: https://twitter.com/PaxosStandard
+  - name: x
+    url: https://x.com/PaxosStandard
   - name: blog
     url: https://medium.com/@PaxosStandard
   - name: whitepaper

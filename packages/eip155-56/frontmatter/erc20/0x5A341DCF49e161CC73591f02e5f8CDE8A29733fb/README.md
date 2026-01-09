@@ -14,8 +14,8 @@ links:
     url: https://bscscan.com/token/0x5A341DCF49e161CC73591f02e5f8CDE8A29733fb
   - name: whitepaper
     url: https://reflecto.finance/assets/docs/reflecto-v2-whitepaper.pdf
-  - name: twitter
-    url: https://twitter.com/reflectocoin
+  - name: x
+    url: https://x.com/reflectocoin
   - name: telegram
     url: https://t.me/reflectocoin
   - name: discord

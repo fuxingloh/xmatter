@@ -6,8 +6,8 @@ links:
     url: https://bit-rock.io
   - name: explorer
     url: https://etherscan.io/token/0xde67d97b8770dc98c746a3fc0093c538666eb493
-  - name: twitter
-    url: https://twitter.com/BitRockChain
+  - name: x
+    url: https://x.com/BitRockChain
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/bitrock/
   - name: telegram

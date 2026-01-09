@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x1294f4183763743c7c9519Bec51773fb3aCD78FD
   - name: telegram
     url: https://t.me/BlockBankApp
-  - name: twitter
-    url: https://twitter.com/BLOCKBANKapp
+  - name: x
+    url: https://x.com/BLOCKBANKapp
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/fideum/
 ---

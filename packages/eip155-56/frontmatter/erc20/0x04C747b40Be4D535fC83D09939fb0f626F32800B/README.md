@@ -6,8 +6,8 @@ links:
     url: https://itam.network
   - name: explorer
     url: https://bscscan.com/token/0x04c747b40be4d535fc83d09939fb0f626f32800b
-  - name: twitter
-    url: https://twitter.com/itamgames
+  - name: x
+    url: https://x.com/itamgames
   - name: medium
     url: https://medium.com/itam
   - name: telegram

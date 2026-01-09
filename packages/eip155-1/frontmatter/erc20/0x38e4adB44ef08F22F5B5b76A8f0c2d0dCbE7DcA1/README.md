@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x38e4adb44ef08f22f5b5b76a8f0c2d0dcbe7dca1
   - name: github
     url: https://github.com/powerpool-finance
-  - name: twitter
-    url: https://twitter.com/powerpoolcvp
+  - name: x
+    url: https://x.com/powerpoolcvp
   - name: telegram
     url: https://t.me/powerpoolcvp
   - name: discord

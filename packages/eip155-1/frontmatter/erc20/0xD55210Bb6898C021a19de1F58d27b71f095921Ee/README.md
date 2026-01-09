@@ -8,8 +8,8 @@ links:
     url: https://www.chickencoin.com/
   - name: explorer
     url: https://etherscan.io/token/0xd55210bb6898c021a19de1f58d27b71f095921ee
-  - name: twitter
-    url: https://twitter.com/chickencoin_eth
+  - name: x
+    url: https://x.com/chickencoin_eth
   - name: github
     url: https://github.com/0xMeow404/Chickencoin
   - name: telegram

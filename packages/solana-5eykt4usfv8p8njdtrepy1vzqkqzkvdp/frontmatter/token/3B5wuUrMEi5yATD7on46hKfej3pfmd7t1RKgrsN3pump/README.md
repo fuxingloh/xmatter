@@ -6,8 +6,8 @@ links:
     url: https://www.billysolcuty.com/
   - name: explorer
     url: https://solscan.io/token/3B5wuUrMEi5yATD7on46hKfej3pfmd7t1RKgrsN3pump
-  - name: twitter
-    url: https://twitter.com/i/flow/login?redirect_after_login=%2Fbillycoinsolana
+  - name: x
+    url: https://x.com/i/flow/login?redirect_after_login=%2Fbillycoinsolana
   - name: telegram
     url: https://t.me/billysolcuty
   - name: coingecko

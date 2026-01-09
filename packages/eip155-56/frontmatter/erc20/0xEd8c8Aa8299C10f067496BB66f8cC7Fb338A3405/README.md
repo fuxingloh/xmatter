@@ -1,19 +1,27 @@
 ---
 symbol: PROS
 decimals: 18
+tags:
+  - defi
+  - staking
+  - dapp
 links:
   - name: website
-    url: https://prosper.so/
+    url: https://www.prosper-fi.com/
   - name: explorer
     url: https://bscscan.com/token/0xed8c8aa8299c10f067496bb66f8cc7fb338a3405
-  - name: twitter
-    url: https://twitter.com/Prosperpredict
+  - name: x
+    url: https://x.com/prosperfi_xyz
   - name: telegram
     url: https://t.me/prosperfi
+  - name: whitepaper
+    url: https://docs.prosper-fi.com/
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/prosper/
+  - name: coingecko
+    url: https://coingecko.com/en/coins/prosper
 ---
 
 # Prosper
 
-Cross-chain prediction market and hedging platform that is pioneering the technology of on-chain liquidity aggregation
+Prosper is a decentralized protocol built for a community dedicated to Bitcoin. It bridges institutional-level Bitcoin mining power to the blockchain and aims to unlock new possibilities through liquidity farming.

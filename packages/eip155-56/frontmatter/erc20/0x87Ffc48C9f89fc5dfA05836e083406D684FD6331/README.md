@@ -8,8 +8,8 @@ links:
     url: https://hachiko.cc/
   - name: explorer
     url: https://bscscan.com/token/0x87Ffc48C9f89fc5dfA05836e083406D684FD6331
-  - name: twitter
-    url: https://twitter.com/hachikobsc
+  - name: x
+    url: https://x.com/hachikobsc
   - name: telegram
     url: https://t.me/hachiko_bsc
 ---

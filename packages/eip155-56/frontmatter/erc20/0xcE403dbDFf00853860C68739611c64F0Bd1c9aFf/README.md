@@ -6,8 +6,8 @@ links:
     url: https://kiteai.tech/
   - name: explorer
     url: https://bscscan.com/token/0xce403dbdff00853860c68739611c64f0bd1c9aff
-  - name: twitter
-    url: https://twitter.com/KITEAIPRO
+  - name: x
+    url: https://x.com/KITEAIPRO
   - name: telegram
     url: https://t.me/KITEAIPRO
 ---

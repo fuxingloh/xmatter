@@ -6,8 +6,8 @@ links:
     url: https://www.jadecurrency.com
   - name: explorer
     url: https://bscscan.com/token/0x330F4fe5ef44B4d0742fE8BED8ca5E29359870DF
-  - name: twitter
-    url: https://twitter.com/CurrencyJade
+  - name: x
+    url: https://x.com/CurrencyJade
   - name: whitepaper
     url: https://jadecurrency.com/wp-content/uploads/2021/07/jade_currency_whitepaper_v2.pdf
   - name: github

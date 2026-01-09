@@ -8,8 +8,8 @@ links:
     url: https://yearn.finance/
   - name: explorer
     url: https://basescan.org/token/0x9eaf8c1e34f05a589eda6bafdf391cf6ad3cb239
-  - name: twitter
-    url: https://twitter.com/iearnfinance
+  - name: x
+    url: https://x.com/iearnfinance
   - name: medium
     url: https://medium.com/iearn
   - name: telegram

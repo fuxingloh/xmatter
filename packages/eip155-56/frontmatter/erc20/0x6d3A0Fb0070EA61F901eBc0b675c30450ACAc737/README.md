@@ -6,8 +6,8 @@ links:
     url: https://aetheruniverse.com/
   - name: explorer
     url: https://bscscan.com/token/0x6d3a0fb0070ea61f901ebc0b675c30450acac737
-  - name: twitter
-    url: https://twitter.com/Aether_Crypto
+  - name: x
+    url: https://x.com/Aether_Crypto
   - name: telegram
     url: https://t.me/aether_BSC
   - name: facebook

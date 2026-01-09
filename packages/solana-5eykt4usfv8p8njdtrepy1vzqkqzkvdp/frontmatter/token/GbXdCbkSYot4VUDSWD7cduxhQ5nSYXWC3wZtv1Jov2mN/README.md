@@ -6,8 +6,8 @@ links:
     url: https://solbeats.org/
   - name: explorer
     url: https://solscan.io/token/GbXdCbkSYot4VUDSWD7cduxhQ5nSYXWC3wZtv1Jov2mN
-  - name: twitter
-    url: https://twitter.com/Solana_Beats
+  - name: x
+    url: https://x.com/Solana_Beats
   - name: coingecko
     url: https://coingecko.com/en/coins/sol-beats
 ---

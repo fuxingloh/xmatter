@@ -6,8 +6,8 @@ links:
     url: https://finale.community
   - name: explorer
     url: https://etherscan.io/token/0xc7a2572fa8fdb0f7e81d6d3c4e3ccf78fb0dc374
-  - name: twitter
-    url: https://twitter.com/FinaleCommunity
+  - name: x
+    url: https://x.com/FinaleCommunity
   - name: telegram
     url: https://t.me/BensFinaleCommunity
   - name: coinmarketcap

@@ -12,8 +12,8 @@ links:
     url: https://t.me/WanakaOfficial
   - name: facebook
     url: https://facebook.com/wanakafarmofficial
-  - name: twitter
-    url: https://twitter.com/Wanaka_Farm
+  - name: x
+    url: https://x.com/Wanaka_Farm
 ---
 
 # WanakaFarm

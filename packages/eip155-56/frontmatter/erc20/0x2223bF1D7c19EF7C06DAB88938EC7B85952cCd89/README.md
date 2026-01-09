@@ -8,8 +8,8 @@ links:
     url: https://kryxivia.io/
   - name: explorer
     url: https://bscscan.com/token/0x2223bf1d7c19ef7c06dab88938ec7b85952ccd89
-  - name: twitter
-    url: https://twitter.com/kryxivia
+  - name: x
+    url: https://x.com/kryxivia
   - name: github
     url: https://github.com/Kryxivia
   - name: telegram

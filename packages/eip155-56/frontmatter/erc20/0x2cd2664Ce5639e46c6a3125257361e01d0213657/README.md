@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x2cd2664Ce5639e46c6a3125257361e01d0213657
   - name: blog
     url: https://uselesscrypto.com/
-  - name: twitter
-    url: https://twitter.com/uselesscrypto
+  - name: x
+    url: https://x.com/uselesscrypto
   - name: facebook
     url: https://facebook.com/uselesscrypto
   - name: whitepaper

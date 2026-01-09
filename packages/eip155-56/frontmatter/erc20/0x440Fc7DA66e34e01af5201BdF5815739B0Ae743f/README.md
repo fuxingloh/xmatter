@@ -8,8 +8,8 @@ links:
     url: https://www.tokensquidgame.com/
   - name: explorer
     url: https://bscscan.com/token/0x440Fc7DA66e34e01af5201BdF5815739B0Ae743f
-  - name: twitter
-    url: https://twitter.com/SquidGameToken
+  - name: x
+    url: https://x.com/SquidGameToken
   - name: github
     url: https://github.com/TokenSquidGame
   - name: telegram

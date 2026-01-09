@@ -8,8 +8,8 @@ links:
     url: https://floki.com
   - name: explorer
     url: https://bscscan.com/token/0xfb5b838b6cfeedc2873ab27866079ac55363d37e
-  - name: twitter
-    url: https://twitter.com/realflokiinu
+  - name: x
+    url: https://x.com/realflokiinu
   - name: telegram
     url: https://t.me/FlokiInuToken
   - name: whitepaper

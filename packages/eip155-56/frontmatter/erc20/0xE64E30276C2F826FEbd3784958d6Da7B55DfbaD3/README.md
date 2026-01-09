@@ -8,8 +8,8 @@ links:
     url: https://www.swft.pro/#/
   - name: explorer
     url: https://bscscan.com/token/0xe64e30276c2f826febd3784958d6da7b55dfbad3
-  - name: twitter
-    url: https://twitter.com/SwftCoin
+  - name: x
+    url: https://x.com/SwftCoin
   - name: github
     url: https://github.com/SwftCoins/SwftCoin
   - name: coinmarketcap

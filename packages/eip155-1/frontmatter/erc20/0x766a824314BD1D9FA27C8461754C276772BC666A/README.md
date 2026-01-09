@@ -6,8 +6,8 @@ links:
     url: http://scamcoin.io
   - name: explorer
     url: https://etherscan.io/token/0x766a824314BD1D9FA27C8461754C276772BC666A
-  - name: twitter
-    url: https://twitter.com/scamcoin_eth
+  - name: x
+    url: https://x.com/scamcoin_eth
   - name: telegram
     url: https://t.me/SCAMCOIN_ETH
 ---

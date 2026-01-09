@@ -8,8 +8,8 @@ links:
     url: https://cryptotanks.com/
   - name: explorer
     url: https://bscscan.com/token/0x4444a19c8bb86e9bdbc023709a363bbce91af33e
-  - name: twitter
-    url: https://twitter.com/cryptotanksio
+  - name: x
+    url: https://x.com/cryptotanksio
   - name: telegram
     url: https://t.me/cryptotanksio
   - name: discord

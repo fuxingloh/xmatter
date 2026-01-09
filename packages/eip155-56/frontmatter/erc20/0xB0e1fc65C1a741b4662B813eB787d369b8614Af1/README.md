@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xb0e1fc65c1a741b4662b813eb787d369b8614af1
   - name: github
     url: https://github.com/impossiblefinance
-  - name: twitter
-    url: https://twitter.com/impossiblefi
+  - name: x
+    url: https://x.com/impossiblefi
   - name: blog
     url: https://medium.com/impossiblefinance
   - name: telegram

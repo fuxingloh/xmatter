@@ -8,8 +8,8 @@ links:
     url: https://calltocombat.com
   - name: explorer
     url: https://bscscan.com/token/0x63221d19c4b512a6f4792f2da0a2083ea28c38c1
-  - name: twitter
-    url: https://twitter.com/calltocombat
+  - name: x
+    url: https://x.com/calltocombat
   - name: github
     url: https://github.com/calltocombat
   - name: telegram

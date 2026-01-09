@@ -6,8 +6,8 @@ links:
     url: https://www.cudos.org/
   - name: explorer
     url: https://etherscan.io/token/0x817bbDbC3e8A1204f3691d14bB44992841e3dB35
-  - name: twitter
-    url: https://twitter.com/CUDOS_
+  - name: x
+    url: https://x.com/CUDOS_
   - name: telegram
     url: https://t.me/cudostelegram
   - name: coinmarketcap

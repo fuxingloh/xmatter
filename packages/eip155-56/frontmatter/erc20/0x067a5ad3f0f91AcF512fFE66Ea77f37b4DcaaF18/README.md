@@ -8,8 +8,8 @@ links:
     url: https://wynaut.money
   - name: explorer
     url: https://bscscan.com/token/0x067a5ad3f0f91AcF512fFE66Ea77f37b4DcaaF18
-  - name: twitter
-    url: https://twitter.com/WynautMoney
+  - name: x
+    url: https://x.com/WynautMoney
   - name: telegram
     url: https://t.me/wynautmoney
   - name: medium

@@ -8,8 +8,8 @@ links:
     url: https://www.playbux.co/
   - name: explorer
     url: https://bscscan.com/token/0x9D1d4dE9cD93203147fAc3BC0262a78e3a0e96bb
-  - name: twitter
-    url: https://twitter.com/playbuxco
+  - name: x
+    url: https://x.com/playbuxco
   - name: telegram
     url: https://t.me/playbuxchannel
   - name: discord

@@ -8,8 +8,8 @@ links:
     url: https://usdtv.org/
   - name: explorer
     url: https://bscscan.com/token/0x9906dbded3dbf64a1f69b6e89a5c9f2e94d12a79
-  - name: twitter
-    url: https://twitter.com/TetherTV_
+  - name: x
+    url: https://x.com/TetherTV_
   - name: github
     url: https://github.com/trustwallet/assets/pull/27618
   - name: telegram

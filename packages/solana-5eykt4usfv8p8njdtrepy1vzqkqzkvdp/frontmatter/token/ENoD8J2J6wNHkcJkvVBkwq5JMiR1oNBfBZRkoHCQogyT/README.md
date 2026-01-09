@@ -6,8 +6,8 @@ links:
     url: https://abble.org/
   - name: explorer
     url: https://solscan.io/token/ENoD8J2J6wNHkcJkvVBkwq5JMiR1oNBfBZRkoHCQogyT
-  - name: twitter
-    url: https://twitter.com/abblecoin
+  - name: x
+    url: https://x.com/abblecoin
 ---
 
 # Abble

@@ -6,8 +6,8 @@ links:
     url: https://cardence.io
   - name: explorer
     url: https://bscscan.com/token/0xfa17b330bcc4e7f3e2456996d89a5a54ab044831
-  - name: twitter
-    url: https://twitter.com/cardence_io
+  - name: x
+    url: https://x.com/cardence_io
   - name: telegram
     url: https://t.me/cardence_chat
   - name: whitepaper

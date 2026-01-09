@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x44a21B3577924DCD2e9C81A3347D204C36a55466
   - name: telegram
     url: https://t.me/egocoin_en
-  - name: twitter
-    url: https://twitter.com/Ego_Paysenger
+  - name: x
+    url: https://x.com/Ego_Paysenger
 ---
 
 # Paysenger EGO

@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/spx6900/
-  - name: twitter
-    url: https://twitter.com/spx6900
+  - name: x
+    url: https://x.com/spx6900
 ---
 
 # SPX6900

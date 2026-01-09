@@ -6,8 +6,8 @@ links:
     url: https://www.opencampus.xyz/
   - name: explorer
     url: https://bscscan.com/token/0xbdeae1ca48894a1759a8374d63925f21f2ee2639
-  - name: twitter
-    url: https://twitter.com/opencampus_xyz
+  - name: x
+    url: https://x.com/opencampus_xyz
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/open-campus/
 ---

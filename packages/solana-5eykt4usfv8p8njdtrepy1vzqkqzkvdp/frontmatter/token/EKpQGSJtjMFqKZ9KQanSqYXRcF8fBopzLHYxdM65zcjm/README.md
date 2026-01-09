@@ -6,8 +6,8 @@ links:
     url: https://dogwifcoin.org
   - name: explorer
     url: https://solscan.io/token/EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm
-  - name: twitter
-    url: https://twitter.com/dogwifcoin
+  - name: x
+    url: https://x.com/dogwifcoin
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/dogwifhat/
 ---

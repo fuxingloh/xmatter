@@ -6,8 +6,8 @@ links:
     url: https://kittenhaimer.ai
   - name: explorer
     url: https://solscan.io/token/3TWgDvYBL2YPET2LxnWAwsMeoA8aL4DutNuwat2pKCjC
-  - name: twitter
-    url: https://twitter.com/kittenhaimer
+  - name: x
+    url: https://x.com/kittenhaimer
 ---
 
 # Kitten Haimer

@@ -8,8 +8,8 @@ links:
     url: https://www.centre.io/
   - name: explorer
     url: https://snowtrace.io/token/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664
-  - name: twitter
-    url: https://twitter.com/centre_io
+  - name: x
+    url: https://x.com/centre_io
   - name: whitepaper
     url: https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf
   - name: coinmarketcap

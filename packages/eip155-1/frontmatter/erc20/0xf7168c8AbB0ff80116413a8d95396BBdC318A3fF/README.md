@@ -8,8 +8,8 @@ links:
     url: https://www.kingdomofkek.com
   - name: explorer
     url: https://etherscan.io/token/0xf7168c8abb0ff80116413a8d95396bbdc318a3ff
-  - name: twitter
-    url: https://twitter.com/kingdomofkek
+  - name: x
+    url: https://x.com/kingdomofkek
   - name: telegram
     url: https://t.me/kingdomofkek
   - name: coinmarketcap

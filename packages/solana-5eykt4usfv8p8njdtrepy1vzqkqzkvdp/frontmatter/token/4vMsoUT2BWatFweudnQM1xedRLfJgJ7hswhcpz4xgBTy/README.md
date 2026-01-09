@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/4vMsoUT2BWatFweudnQM1xedRLfJgJ7hswhcpz4xgBTy
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/hivemapper/
-  - name: twitter
-    url: https://twitter.com/Hivemapper
+  - name: x
+    url: https://x.com/Hivemapper
 ---
 
 # HONEY

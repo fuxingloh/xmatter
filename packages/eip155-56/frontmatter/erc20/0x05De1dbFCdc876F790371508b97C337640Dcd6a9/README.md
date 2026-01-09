@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x05De1dbFCdc876F790371508b97C337640Dcd6a9
   - name: github
     url: https://github.com/GlowTokenLLC
-  - name: twitter
-    url: https://twitter.com/GlowTokenLLC
+  - name: x
+    url: https://x.com/GlowTokenLLC
   - name: telegram
     url: https://t.me/officialGlowV2
   - name: discord

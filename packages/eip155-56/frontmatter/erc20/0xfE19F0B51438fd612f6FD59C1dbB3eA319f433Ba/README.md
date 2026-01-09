@@ -8,8 +8,8 @@ links:
     url: https://abracadabra.money/
   - name: explorer
     url: https://bscscan.com/token/0xfe19f0b51438fd612f6fd59c1dbb3ea319f433ba
-  - name: twitter
-    url: https://twitter.com/MIM_Spell
+  - name: x
+    url: https://x.com/MIM_Spell
   - name: github
     url: https://github.com/Abracadabra-money/magic-internet-money
   - name: coinmarketcap

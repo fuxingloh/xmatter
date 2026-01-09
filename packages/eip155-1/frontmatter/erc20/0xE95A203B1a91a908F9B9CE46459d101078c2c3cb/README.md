@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xE95A203B1a91a908F9B9CE46459d101078c2c3cb
   - name: github
     url: https://github.com/Ankr-network/stkr-smartcontract
-  - name: twitter
-    url: https://twitter.com/Ankr
+  - name: x
+    url: https://x.com/Ankr
   - name: telegram
     url: https://t.me/ankrnetwork
   - name: medium

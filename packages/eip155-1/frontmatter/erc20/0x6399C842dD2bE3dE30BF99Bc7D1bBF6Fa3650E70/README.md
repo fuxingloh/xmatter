@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x6399C842dD2bE3dE30BF99Bc7D1bBF6Fa3650E70
   - name: github
     url: https://github.com/premiafinance/
-  - name: twitter
-    url: https://twitter.com/premiafinance
+  - name: x
+    url: https://x.com/premiafinance
   - name: medium
     url: https://premia.medium.com
 ---

@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0xc00e94Cb662C3520282E6f5717214004A7f26888
   - name: blog
     url: https://medium.com/compound-finance
-  - name: twitter
-    url: https://twitter.com/compoundfinance
+  - name: x
+    url: https://x.com/compoundfinance
   - name: coingecko
     url: https://coingecko.com/en/coins/compound-governance-token/
 ---

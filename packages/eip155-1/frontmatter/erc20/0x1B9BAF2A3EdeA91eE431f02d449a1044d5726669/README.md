@@ -8,8 +8,8 @@ links:
     url: http://cliffordinu.io
   - name: explorer
     url: https://etherscan.io/token/0x1B9BAF2A3EdeA91eE431f02d449a1044d5726669
-  - name: twitter
-    url: https://twitter.com/clifftoken
+  - name: x
+    url: https://x.com/clifftoken
   - name: telegram
     url: https://t.me/Cliffordinuofficial
   - name: medium

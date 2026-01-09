@@ -10,8 +10,8 @@ links:
     url: https://polygonscan.com/token/0x50b728d8d964fd00c2d0aad81718b71311fef68a
   - name: github
     url: https://github.com/havven/havven
-  - name: twitter
-    url: https://twitter.com/synthetix_io
+  - name: x
+    url: https://x.com/synthetix_io
   - name: reddit
     url: https://reddit.com/r/synthetix_io/
   - name: blog

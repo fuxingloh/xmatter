@@ -12,8 +12,8 @@ links:
     url: https://coinmarketcap.com/currencies/the-graph/
   - name: coingecko
     url: https://coingecko.com/en/coins/the-graph/
-  - name: twitter
-    url: https://twitter.com/graphprotocol
+  - name: x
+    url: https://x.com/graphprotocol
 ---
 
 # Graph Token

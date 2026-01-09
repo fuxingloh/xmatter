@@ -8,8 +8,8 @@ links:
     url: https://paxos.com/paxgold
   - name: explorer
     url: https://polygonscan.com/token/0x553d3D295e0f695B9228246232eDF400ed3560B5
-  - name: twitter
-    url: https://twitter.com/PaxosGlobal
+  - name: x
+    url: https://x.com/PaxosGlobal
   - name: facebook
     url: https://facebook.com/paxosglobal/
 ---

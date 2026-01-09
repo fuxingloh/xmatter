@@ -6,8 +6,8 @@ links:
     url: https://gofursdelsol.com/
   - name: explorer
     url: https://solscan.io/token/4xnxNjLkeVoJEAUFjj5xTvkdTLGYHtrdyyXThGDFhwmr
-  - name: twitter
-    url: https://twitter.com/GOFURS404
+  - name: x
+    url: https://x.com/GOFURS404
 ---
 
 # GOFURS Del Sol

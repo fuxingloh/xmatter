@@ -6,8 +6,8 @@ links:
     url: https://www.moutaicoin.co/
   - name: explorer
     url: https://solscan.io/token/45EgCwcPXYagBC7KqBin4nCFgEZWN7f3Y6nACwxqMCWX
-  - name: twitter
-    url: https://twitter.com/Moutai_Sol
+  - name: x
+    url: https://x.com/Moutai_Sol
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/moutai/
 ---

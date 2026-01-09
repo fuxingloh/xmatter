@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xd98560689c6e748dc37bc410b4d3096b1aa3d8c2
   - name: github
     url: https://github.com/defi-vn/DeFi-VN-Smart-Contract
-  - name: twitter
-    url: https://twitter.com/DeFi For You.
+  - name: x
+    url: https://x.com/DeFi For You.
   - name: telegram
     url: https://t.me/DefiForYouDFY
   - name: facebook

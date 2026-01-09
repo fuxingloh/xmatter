@@ -6,8 +6,8 @@ links:
     url: https://1-b.tc
   - name: explorer
     url: https://bscscan.com/token/0x78650b139471520656b9e7aa7a5e9276814a38e9
-  - name: twitter
-    url: https://twitter.com/btcst2020
+  - name: x
+    url: https://x.com/btcst2020
   - name: telegram
     url: https://t.me/BTCST_Community_EN
   - name: coingecko

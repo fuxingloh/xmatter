@@ -6,8 +6,8 @@ links:
     url: https://cryptexlock.me/
   - name: explorer
     url: https://bscscan.com/token/0x97a30C692eCe9C317235d48287d23d358170FC40
-  - name: twitter
-    url: https://twitter.com/ExLocker
+  - name: x
+    url: https://x.com/ExLocker
   - name: telegram
     url: https://t.me/cryptexlocker
   - name: whitepaper

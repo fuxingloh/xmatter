@@ -6,8 +6,8 @@ links:
     url: https://nitrocartel.finance/arbitrove
   - name: explorer
     url: https://arbiscan.io/token/0x982239d38af50b0168da33346d85fb12929c4c07
-  - name: twitter
-    url: https://twitter.com/nitrocartel
+  - name: x
+    url: https://x.com/nitrocartel
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/nitro-cartel/
 ---

@@ -8,8 +8,8 @@ links:
     url: https://benefitmine.io
   - name: explorer
     url: https://bscscan.com/token/0xEcCA434e838eEbE30E561d0Ec3E3016efd1d340A
-  - name: twitter
-    url: https://twitter.com/benefitmine
+  - name: x
+    url: https://x.com/benefitmine
   - name: telegram
     url: https://t.me/BenefitMine
   - name: discord

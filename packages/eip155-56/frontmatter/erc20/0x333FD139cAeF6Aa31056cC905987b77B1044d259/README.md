@@ -8,8 +8,8 @@ links:
     url: https://www.theweb3project.com
   - name: explorer
     url: https://bscscan.com/token/0x333FD139cAeF6Aa31056cC905987b77B1044d259
-  - name: twitter
-    url: https://twitter.com/TheWeb3Project
+  - name: x
+    url: https://x.com/TheWeb3Project
   - name: telegram
     url: https://t.me/TheWeb3Project
   - name: docs

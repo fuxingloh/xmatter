@@ -6,8 +6,8 @@ links:
     url: https://underdog.finance
   - name: explorer
     url: https://bscscan.com/token/0xf94ca0b303e52d68b63626bed7f680fa4dc3f779
-  - name: twitter
-    url: https://twitter.com/@underdogdefi
+  - name: x
+    url: https://x.com/@underdogdefi
   - name: telegram
     url: https://t.me/underdogfinance
 ---

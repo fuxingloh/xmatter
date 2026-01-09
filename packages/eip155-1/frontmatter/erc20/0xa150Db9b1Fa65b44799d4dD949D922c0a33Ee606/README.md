@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xa150Db9b1Fa65b44799d4dD949D922c0a33Ee606
   - name: github
     url: https://github.com/digitalreserve/DRC
-  - name: twitter
-    url: https://twitter.com/DRCToken
+  - name: x
+    url: https://x.com/DRCToken
   - name: telegram
     url: https://t.me/DigitalReserveCurrency
   - name: discord

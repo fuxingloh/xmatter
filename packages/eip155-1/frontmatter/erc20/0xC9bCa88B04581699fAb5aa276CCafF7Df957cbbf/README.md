@@ -6,8 +6,8 @@ links:
     url: https://ethervista.app/
   - name: explorer
     url: https://etherscan.io/token/0xc9bca88b04581699fab5aa276ccaff7df957cbbf
-  - name: twitter
-    url: https://twitter.com/ethervista
+  - name: x
+    url: https://x.com/ethervista
 ---
 
 # Ethervista

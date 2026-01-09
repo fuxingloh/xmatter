@@ -8,8 +8,8 @@ links:
     url: https://snowtrace.io/token/0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5
   - name: github
     url: https://github.com/ape-x-token
-  - name: twitter
-    url: https://twitter.com/apexthetoken
+  - name: x
+    url: https://x.com/apexthetoken
   - name: telegram
     url: https://t.me/ApeX_Token
   - name: coinmarketcap

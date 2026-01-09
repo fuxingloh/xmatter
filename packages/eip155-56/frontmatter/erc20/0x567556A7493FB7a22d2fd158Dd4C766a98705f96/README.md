@@ -6,8 +6,8 @@ links:
     url: https://zedscan.net
   - name: explorer
     url: https://bscscan.com/token/0x567556a7493fb7a22d2fd158dd4c766a98705f96
-  - name: twitter
-    url: https://twitter.com/zedxionc
+  - name: x
+    url: https://x.com/zedxionc
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/wrapped-zedxion/
 ---

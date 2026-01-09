@@ -8,8 +8,8 @@ links:
     url: https://polygonscan.com/token/0x229b1b6C23ff8953D663C4cBB519717e323a0a84
   - name: telegram
     url: https://t.me/BloktopiaChat
-  - name: twitter
-    url: https://twitter.com/bloktopia
+  - name: x
+    url: https://x.com/bloktopia
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/bloktopia/
 ---

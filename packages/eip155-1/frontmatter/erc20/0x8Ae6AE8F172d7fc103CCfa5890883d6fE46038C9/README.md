@@ -6,8 +6,8 @@ links:
     url: https://helixnebula.help
   - name: explorer
     url: https://etherscan.io/token/0x8Ae6AE8F172d7fc103CCfa5890883d6fE46038C9
-  - name: twitter
-    url: https://twitter.com/HelixNebulahelp
+  - name: x
+    url: https://x.com/HelixNebulahelp
 ---
 
 # EOG Eye of God

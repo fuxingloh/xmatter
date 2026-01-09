@@ -8,8 +8,8 @@ links:
     url: https://milady.gg/
   - name: explorer
     url: https://etherscan.io/token/0x12970e6868f88f6557b76120662c1b3e50a646bf
-  - name: twitter
-    url: https://twitter.com/miladymemecoin
+  - name: x
+    url: https://x.com/miladymemecoin
   - name: telegram
     url: https://t.me/miladymemecoinchannel
   - name: coinmarketcap

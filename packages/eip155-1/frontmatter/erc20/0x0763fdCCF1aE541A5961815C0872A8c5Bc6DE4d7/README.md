@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7
   - name: github
     url: https://github.com/SukuLab
-  - name: twitter
-    url: https://twitter.com/SUKUecosystem
+  - name: x
+    url: https://x.com/SUKUecosystem
   - name: telegram
     url: https://t.me/SUKUecosystem
   - name: facebook

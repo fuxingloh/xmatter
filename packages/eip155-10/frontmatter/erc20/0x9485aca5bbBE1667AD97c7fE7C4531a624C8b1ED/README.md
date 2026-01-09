@@ -11,8 +11,8 @@ links:
     url: https://optimistic.etherscan.io/token/0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED
   - name: github
     url: https://github.com/AngleProtocol
-  - name: twitter
-    url: https://twitter.com/AngleProtocol
+  - name: x
+    url: https://x.com/AngleProtocol
   - name: docs
     url: https://docs.angle.money
   - name: coingecko

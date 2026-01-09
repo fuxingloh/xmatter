@@ -6,8 +6,8 @@ links:
     url: https://deficonnect.tech/
   - name: explorer
     url: https://bscscan.com/token/0x996c1bf72Ec220289ae0edd3a8d77080642121a2
-  - name: twitter
-    url: https://twitter.com/deficonnect
+  - name: x
+    url: https://x.com/deficonnect
   - name: github
     url: https://github.com/deficonnect/dfctoken/
   - name: telegram

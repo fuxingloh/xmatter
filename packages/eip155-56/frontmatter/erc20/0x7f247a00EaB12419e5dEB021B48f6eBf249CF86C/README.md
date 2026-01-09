@@ -6,8 +6,8 @@ links:
     url: https://cgbcoin.co/
   - name: explorer
     url: https://bscscan.com/token/0x7f247a00EaB12419e5dEB021B48f6eBf249CF86C
-  - name: twitter
-    url: https://twitter.com/cgb_coin
+  - name: x
+    url: https://x.com/cgb_coin
   - name: facebook
     url: https://facebook.com/CgbcoinCryptoCurrency/
   - name: telegram

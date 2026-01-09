@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x9A48BD0EC040ea4f1D3147C025cd4076A2e71e3e
   - name: github
     url: https://github.com/pie-dao/pie-smart-pools
-  - name: twitter
-    url: https://twitter.com/PieDAO_DeFi
+  - name: x
+    url: https://x.com/PieDAO_DeFi
 ---
 
 # PieDAO USD++

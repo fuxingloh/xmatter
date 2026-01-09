@@ -6,8 +6,8 @@ links:
     url: https://www.baseboomer.com/
   - name: explorer
     url: https://basescan.org/token/0xcde172dc5ffc46d228838446c57c1227e0b82049
-  - name: twitter
-    url: https://twitter.com/BoomerOnBase
+  - name: x
+    url: https://x.com/BoomerOnBase
   - name: telegram
     url: https://t.me/baseboomerportal
 ---

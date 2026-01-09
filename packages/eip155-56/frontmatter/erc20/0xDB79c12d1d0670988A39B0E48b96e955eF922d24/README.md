@@ -8,8 +8,8 @@ links:
     url: https://teddydoge.finance
   - name: explorer
     url: https://bscscan.com/token/0xDB79c12d1d0670988A39B0E48b96e955eF922d24
-  - name: twitter
-    url: https://twitter.com/Teddydoge1
+  - name: x
+    url: https://x.com/Teddydoge1
   - name: github
     url: https://github.com/Teddydogev2/TeddydogeV2
   - name: telegram

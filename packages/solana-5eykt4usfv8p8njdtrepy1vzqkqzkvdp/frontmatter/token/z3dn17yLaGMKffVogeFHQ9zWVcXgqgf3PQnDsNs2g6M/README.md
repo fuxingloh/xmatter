@@ -6,8 +6,8 @@ links:
     url: https://www.oxygen.org/
   - name: explorer
     url: https://solscan.io/token/z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M
-  - name: twitter
-    url: https://twitter.com/oxygen_protocol
+  - name: x
+    url: https://x.com/oxygen_protocol
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/oxygen/
   - name: coingecko

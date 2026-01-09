@@ -6,8 +6,8 @@ links:
     url: https://www.safepokeman.com
   - name: explorer
     url: https://bscscan.com/token/0xfb16B31FA8a6Edcd2dDE78654CB0668c724C1dAc
-  - name: twitter
-    url: https://twitter.com/safepokeman
+  - name: x
+    url: https://x.com/safepokeman
   - name: telegram
     url: https://t.me/safepokemanofficialchat
   - name: telegram_news

@@ -9,8 +9,8 @@ links:
     url: https://valuefinance.io
   - name: explorer
     url: https://bscscan.com/token/0x14e8bcd053e68a22f239b9e9bead87932465d245
-  - name: twitter
-    url: https://twitter.com/valuefinance_
+  - name: x
+    url: https://x.com/valuefinance_
   - name: github
     url: https://github.com/valuefi
   - name: telegram

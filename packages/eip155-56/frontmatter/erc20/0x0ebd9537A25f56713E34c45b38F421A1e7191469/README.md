@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x0ebd9537A25f56713E34c45b38F421A1e7191469
   - name: coingecko
     url: https://coingecko.com/en/coins/dotmoovs
-  - name: twitter
-    url: https://twitter.com/dotmoovs
+  - name: x
+    url: https://x.com/dotmoovs
   - name: telegram
     url: https://t.me/dotmoovs
 ---

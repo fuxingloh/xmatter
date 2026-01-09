@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xc0994Af94FEe0361A1e1E1ccf72BCe19d5FD86FB
   - name: telegram
     url: https://t.me/playrichcity
-  - name: twitter
-    url: https://twitter.com/playrichcity
+  - name: x
+    url: https://x.com/playrichcity
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/richcity/
 ---

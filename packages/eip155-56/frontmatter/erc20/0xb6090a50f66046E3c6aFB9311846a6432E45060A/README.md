@@ -6,8 +6,8 @@ links:
     url: https://www.pinkmoon.finance/
   - name: explorer
     url: https://bscscan.com/token/0xb6090a50f66046E3c6aFB9311846a6432E45060A
-  - name: twitter
-    url: https://twitter.com/pinkmoonfinance
+  - name: x
+    url: https://x.com/pinkmoonfinance
   - name: telegram
     url: https://t.me/pinkmoonfinance
 ---

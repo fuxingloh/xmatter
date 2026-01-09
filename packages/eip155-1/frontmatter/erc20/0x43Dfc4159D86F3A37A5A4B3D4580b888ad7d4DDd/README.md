@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd
   - name: github
     url: https://github.com/DODOEX/
-  - name: twitter
-    url: https://twitter.com/DODO
+  - name: x
+    url: https://x.com/DODO
   - name: reddit
     url: https://reddit.com/r/DodoEx/
   - name: medium

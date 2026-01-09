@@ -12,8 +12,8 @@ links:
     url: https://coinmarketcap.com/currencies/squid-grow/
   - name: telegram
     url: https://t.me/SquidGrowPortal
-  - name: twitter
-    url: https://twitter.com/Squid_Grow
+  - name: x
+    url: https://x.com/Squid_Grow
   - name: coingecko
     url: https://coingecko.com/en/coins/squidgrow
   - name: github

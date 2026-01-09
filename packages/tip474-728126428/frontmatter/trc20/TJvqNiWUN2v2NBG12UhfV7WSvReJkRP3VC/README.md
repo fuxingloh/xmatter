@@ -8,8 +8,8 @@ links:
     url: https://tronscan.io/#/token20/TJvqNiWUN2v2NBG12UhfV7WSvReJkRP3VC
   - name: github
     url: https://github.com/cryptoland-blockchain-laboratory
-  - name: twitter
-    url: https://twitter.com/Bridge Oracle
+  - name: x
+    url: https://x.com/Bridge Oracle
   - name: telegram
     url: https://t.me/BridgeOracle
   - name: whitepaper

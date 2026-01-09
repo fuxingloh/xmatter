@@ -8,8 +8,8 @@ links:
     url: https://samoyedcoin.com/
   - name: explorer
     url: https://solscan.io/token/7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU
-  - name: twitter
-    url: https://twitter.com/samoyedcoin
+  - name: x
+    url: https://x.com/samoyedcoin
   - name: telegram
     url: https://t.me/samoyedcoin
   - name: coinmarketcap

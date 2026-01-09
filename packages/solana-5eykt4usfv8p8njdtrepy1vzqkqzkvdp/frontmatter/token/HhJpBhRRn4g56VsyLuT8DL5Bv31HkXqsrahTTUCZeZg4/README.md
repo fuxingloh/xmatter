@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/HhJpBhRRn4g56VsyLuT8DL5Bv31HkXqsrahTTUCZeZg4
   - name: telegram
     url: https://t.me/myroSOL
-  - name: twitter
-    url: https://twitter.com/MyroSOL
+  - name: x
+    url: https://x.com/MyroSOL
 ---
 
 # Myro

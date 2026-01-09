@@ -6,8 +6,8 @@ links:
     url: https://godzillacoin.io/
   - name: explorer
     url: https://bscscan.com/token/0xDa4714fEE90Ad7DE50bC185ccD06b175D23906c1
-  - name: twitter
-    url: https://twitter.com/coingodzilla
+  - name: x
+    url: https://x.com/coingodzilla
   - name: telegram
     url: https://t.me/godzillaen
 ---

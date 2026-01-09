@@ -6,8 +6,8 @@ links:
     url: https://www.devolution-world.com
   - name: explorer
     url: https://bscscan.com/token/0x0FD98b8C58560167A236f1D0553A9c2a42342ccf
-  - name: twitter
-    url: https://twitter.com/Game_Devolution
+  - name: x
+    url: https://x.com/Game_Devolution
   - name: telegram
     url: https://t.me/devolutionofficial
   - name: coingecko

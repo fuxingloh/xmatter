@@ -6,8 +6,8 @@ links:
     url: https://lightningprotocol.finance/
   - name: explorer
     url: https://bscscan.com/token/0x7b9c3df47f3326fbc0674d51dc3eb0f2df29f37f
-  - name: twitter
-    url: https://twitter.com/lightningDeFi
+  - name: x
+    url: https://x.com/lightningDeFi
   - name: telegram
     url: https://t.me/LightningProtocol
   - name: discord

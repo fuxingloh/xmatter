@@ -6,8 +6,8 @@ links:
     url: https://mindmusic.finance
   - name: explorer
     url: https://bscscan.com/token/0x897304D4606B2d5FcAf886aa7AA143e478EC36C5
-  - name: twitter
-    url: https://twitter.com/mindmusic_bsc
+  - name: x
+    url: https://x.com/mindmusic_bsc
   - name: telegram
     url: https://t.me/mindmusicbsc
   - name: coinmarketcap

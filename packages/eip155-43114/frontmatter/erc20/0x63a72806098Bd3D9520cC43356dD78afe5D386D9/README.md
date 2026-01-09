@@ -12,8 +12,8 @@ links:
     url: https://coinmarketcap.com/currencies/aave/
   - name: coingecko
     url: https://coingecko.com/en/coins/aave/
-  - name: twitter
-    url: https://twitter.com/AaveAave
+  - name: x
+    url: https://x.com/AaveAave
 ---
 
 # Aave Token

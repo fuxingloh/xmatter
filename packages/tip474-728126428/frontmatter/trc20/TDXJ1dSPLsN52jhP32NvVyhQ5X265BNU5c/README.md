@@ -6,8 +6,8 @@ links:
     url: https://richlabexchange.com/
   - name: explorer
     url: https://tronscan.io/#/token20/TDXJ1dSPLsN52jhP32NvVyhQ5X265BNU5c
-  - name: twitter
-    url: https://twitter.com/richlabexchange
+  - name: x
+    url: https://x.com/richlabexchange
   - name: telegram
     url: https://t.me/RLEswap
   - name: facebook

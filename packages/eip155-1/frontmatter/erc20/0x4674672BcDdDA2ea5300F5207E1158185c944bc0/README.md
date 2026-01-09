@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x4674672BcDdDA2ea5300F5207E1158185c944bc0
   - name: github
     url: https://github.com/gxtmg/gxt_erc20
-  - name: twitter
-    url: https://twitter.com/GXT25075644
+  - name: x
+    url: https://x.com/GXT25075644
   - name: telegram
     url: https://t.me/gxtglobal_official
   - name: coingecko

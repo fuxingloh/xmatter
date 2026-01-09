@@ -6,8 +6,8 @@ links:
     url: https://solsnap.io/
   - name: explorer
     url: https://solscan.io/token/SNApmcWQqj3Ny2YFkQmkELQnNgaXRu6KmnYSPiFZcLn
-  - name: twitter
-    url: https://twitter.com/SolSnap_
+  - name: x
+    url: https://x.com/SolSnap_
   - name: coingecko
     url: https://coingecko.com/en/coins/solsnap
 ---

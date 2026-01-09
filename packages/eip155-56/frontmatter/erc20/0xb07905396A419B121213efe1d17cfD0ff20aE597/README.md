@@ -12,8 +12,8 @@ links:
     url: https://github.com/SafePizzaCoin
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/pizzanft/
-  - name: twitter
-    url: https://twitter.com/pizzaNFT2E
+  - name: x
+    url: https://x.com/pizzaNFT2E
 ---
 
 # PIZZANFT

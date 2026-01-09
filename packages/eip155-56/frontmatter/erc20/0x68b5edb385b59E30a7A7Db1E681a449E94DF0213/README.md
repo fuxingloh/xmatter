@@ -12,8 +12,8 @@ links:
     url: https://www.silva.finance/whitepaper/
   - name: telegram
     url: https://t.me/SilvaTokenId
-  - name: twitter
-    url: https://twitter.com/ERANetworkGroup
+  - name: x
+    url: https://x.com/ERANetworkGroup
   - name: facebook
     url: https://facebook.com/ERATokens/
   - name: youtube

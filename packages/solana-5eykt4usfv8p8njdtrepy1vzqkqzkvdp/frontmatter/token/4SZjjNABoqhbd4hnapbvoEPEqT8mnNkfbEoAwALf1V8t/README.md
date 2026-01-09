@@ -6,8 +6,8 @@ links:
     url: https://cryptocavemen.io/
   - name: explorer
     url: https://solscan.io/token/4SZjjNABoqhbd4hnapbvoEPEqT8mnNkfbEoAwALf1V8t
-  - name: twitter
-    url: https://twitter.com/TheCavemenClub
+  - name: x
+    url: https://x.com/TheCavemenClub
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/crypto-cavemen-club/
   - name: coingecko

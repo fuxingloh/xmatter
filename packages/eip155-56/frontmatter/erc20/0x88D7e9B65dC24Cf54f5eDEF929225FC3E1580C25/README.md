@@ -8,8 +8,8 @@ links:
     url: https://jumptask.io
   - name: explorer
     url: https://bscscan.com/token/0x88d7e9b65dc24cf54f5edef929225fc3e1580c25
-  - name: twitter
-    url: https://twitter.com/JumpTask_app
+  - name: x
+    url: https://x.com/JumpTask_app
   - name: telegram
     url: https://t.me/jumptask
   - name: coinmarketcap

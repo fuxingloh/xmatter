@@ -11,8 +11,8 @@ links:
     url: https://bscscan.com/token/0x6a684b3578f5b07c0aa02fafc33ed248ae0c2db2
   - name: github
     url: https://github.com/TechTreeCoin/TTC
-  - name: twitter
-    url: https://twitter.com/TechTreesCoin
+  - name: x
+    url: https://x.com/TechTreesCoin
   - name: reddit
     url: https://reddit.com/r/TechTrees
   - name: whitepaper

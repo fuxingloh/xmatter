@@ -6,8 +6,8 @@ links:
     url: https://www.eigenlayer.xyz/
   - name: explorer
     url: https://etherscan.io/token/0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83
-  - name: twitter
-    url: https://twitter.com/eigenlayer
+  - name: x
+    url: https://x.com/eigenlayer
   - name: github
     url: https://github.com/Layr-Labs/eigenlayer-contracts
 ---

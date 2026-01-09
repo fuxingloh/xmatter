@@ -6,8 +6,8 @@ links:
     url: https://ultiarena.com/
   - name: explorer
     url: https://bscscan.com/token/0x42BFE4A3E023f2C90aEBFfbd9B667599Fa38514F
-  - name: twitter
-    url: https://twitter.com/UltiArena
+  - name: x
+    url: https://x.com/UltiArena
   - name: telegram
     url: https://t.me/ultiarena
   - name: medium

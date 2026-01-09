@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x2794DAD4077602eD25A88d03781528D1637898B4
   - name: github
     url: https://github.com/vitelabs
-  - name: twitter
-    url: https://twitter.com/vitelabs
+  - name: x
+    url: https://x.com/vitelabs
   - name: medium
     url: https://medium.com/vitelabs
 ---

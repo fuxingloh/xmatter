@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x81859801b01764D4f0Fa5E64729f5a6C3b91435b
   - name: github
     url: https://github.com/bearn-defi
-  - name: twitter
-    url: https://twitter.com/BearnFi
+  - name: x
+    url: https://x.com/BearnFi
   - name: telegram
     url: https://t.me/Bearn_Fi
   - name: medium

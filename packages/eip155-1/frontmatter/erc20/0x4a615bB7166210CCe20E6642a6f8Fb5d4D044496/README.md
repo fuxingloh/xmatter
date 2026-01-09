@@ -6,8 +6,8 @@ links:
     url: https://naos.finance/
   - name: explorer
     url: https://etherscan.io/token/0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496
-  - name: twitter
-    url: https://twitter.com/naos_finance
+  - name: x
+    url: https://x.com/naos_finance
   - name: github
     url: https://github.com/NAOS-Finance
   - name: telegram

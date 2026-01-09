@@ -6,8 +6,8 @@ links:
     url: https://mosescoin.io
   - name: explorer
     url: https://etherscan.io/token/0xa81c39d038Ee26D8443Fe6994cc1D51dc13D7658
-  - name: twitter
-    url: https://twitter.com/moses_erc20
+  - name: x
+    url: https://x.com/moses_erc20
   - name: telegram
     url: https://t.me/mosescoin
   - name: coinmarketcap

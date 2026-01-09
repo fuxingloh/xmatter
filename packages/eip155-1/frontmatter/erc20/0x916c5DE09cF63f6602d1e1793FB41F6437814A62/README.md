@@ -8,8 +8,8 @@ links:
     url: https://jacytoken.io
   - name: explorer
     url: https://etherscan.io/token/0x916c5de09cf63f6602d1e1793fb41f6437814a62
-  - name: twitter
-    url: https://twitter.com/JacyToken
+  - name: x
+    url: https://x.com/JacyToken
   - name: telegram
     url: https://t.me/JACYWAYA
   - name: reddit

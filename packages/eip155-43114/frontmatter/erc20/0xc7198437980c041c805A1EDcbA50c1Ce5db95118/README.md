@@ -8,8 +8,8 @@ links:
     url: https://tether.to/
   - name: explorer
     url: https://snowtrace.io/token/0xc7198437980c041c805A1EDcbA50c1Ce5db95118
-  - name: twitter
-    url: https://twitter.com/Tether_to
+  - name: x
+    url: https://x.com/Tether_to
   - name: whitepaper
     url: https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf
   - name: coinmarketcap

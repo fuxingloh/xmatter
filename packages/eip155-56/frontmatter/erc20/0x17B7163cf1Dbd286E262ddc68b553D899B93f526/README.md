@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x17B7163cf1Dbd286E262ddc68b553D899B93f526
   - name: github
     url: https://github.com/PancakeBunny-finance/qubit-finance
-  - name: twitter
-    url: https://twitter.com/QubitFin
+  - name: x
+    url: https://x.com/QubitFin
   - name: blog
     url: https://pancakebunny.medium.com/
   - name: telegram

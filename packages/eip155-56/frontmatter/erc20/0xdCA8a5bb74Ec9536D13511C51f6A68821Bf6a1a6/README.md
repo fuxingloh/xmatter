@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xdca8a5bb74ec9536d13511c51f6a68821bf6a1a6
   - name: github
     url: https://github.com/strainsfinance/Strains-SFN-
-  - name: twitter
-    url: https://twitter.com/strainsfinance
+  - name: x
+    url: https://x.com/strainsfinance
   - name: telegram
     url: https://t.me/strainsfinance
 ---

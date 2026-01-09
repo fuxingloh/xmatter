@@ -6,8 +6,8 @@ links:
     url: https://www.trollface.vip
   - name: explorer
     url: https://etherscan.io/token/0xf8ebf4849F1Fa4FaF0DFF2106A173D3A6CB2eB3A
-  - name: twitter
-    url: https://twitter.com/trollerc20
+  - name: x
+    url: https://x.com/trollerc20
   - name: telegram
     url: https://t.me/TrollETH
   - name: coinmarketcap

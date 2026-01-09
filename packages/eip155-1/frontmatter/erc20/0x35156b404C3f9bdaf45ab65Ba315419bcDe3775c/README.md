@@ -11,8 +11,8 @@ links:
     url: https://www.chihiro-inu.com
   - name: explorer
     url: https://etherscan.io/token/0x35156b404c3f9bdaf45ab65ba315419bcde3775c
-  - name: twitter
-    url: https://twitter.com/ChihiroInuETH
+  - name: x
+    url: https://x.com/ChihiroInuETH
   - name: discord
     url: https://discord.com/invite/CkeppjfPyn
   - name: telegram

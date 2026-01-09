@@ -6,8 +6,8 @@ links:
     url: https://xpace.finance/
   - name: explorer
     url: https://bscscan.com/token/0x3abfc084a54e5f4e23196e1b9a9c48c3b3021519
-  - name: twitter
-    url: https://twitter.com/xpacefinance
+  - name: x
+    url: https://x.com/xpacefinance
   - name: telegram
     url: https://t.me/xpacefinance
   - name: medium

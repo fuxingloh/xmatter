@@ -6,8 +6,8 @@ links:
     url: https://perlinx.finance
   - name: explorer
     url: https://bscscan.com/token/0x0f9e4d49f25de22c2202af916b681fbb3790497b
-  - name: twitter
-    url: https://twitter.com/PerlinNetwork
+  - name: x
+    url: https://x.com/PerlinNetwork
   - name: telegram
     url: https://t.me/perlinnetworkchat
 ---

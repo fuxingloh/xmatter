@@ -11,8 +11,8 @@ links:
     url: https://etherscan.io/token/0x341c05c0E9b33C0E38d64de76516b2Ce970bB3BE
   - name: github
     url: https://github.com/IndexCoop
-  - name: twitter
-    url: https://twitter.com/indexcoop
+  - name: x
+    url: https://x.com/indexcoop
   - name: docs
     url: https://docs.indexcoop.com/index-coop-community-handbook/products/diversified-staked-eth-index-dseth
   - name: coingecko

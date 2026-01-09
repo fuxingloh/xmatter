@@ -8,8 +8,8 @@ links:
     url: https://www.autocrypto.ai/
   - name: explorer
     url: https://bscscan.com/token/0x8Ea2f890CB86DFb0E376137451c6fD982AFefc15
-  - name: twitter
-    url: https://twitter.com/Autocrypto_ai
+  - name: x
+    url: https://x.com/Autocrypto_ai
   - name: telegram
     url: https://t.me/AutoCryptoInternational
   - name: telegram_news

@@ -11,8 +11,8 @@ links:
     url: https://kuncicoin.com/
   - name: explorer
     url: https://bscscan.com/token/0x6cf271270662be1C4fc1b7BB7D7D7Fc60Cc19125
-  - name: twitter
-    url: https://twitter.com/Kuncicoin_id
+  - name: x
+    url: https://x.com/Kuncicoin_id
   - name: facebook
     url: https://facebook.com/Kunci-Coin-111956938024588
   - name: telegram

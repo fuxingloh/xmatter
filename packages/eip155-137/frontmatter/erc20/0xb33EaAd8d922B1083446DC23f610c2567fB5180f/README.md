@@ -8,8 +8,8 @@ links:
     url: https://polygonscan.com/token/0xb33eaad8d922b1083446dc23f610c2567fb5180f
   - name: discord
     url: https://discord.com/FCfyBSbCU5
-  - name: twitter
-    url: https://twitter.com/UniswapProtocol
+  - name: x
+    url: https://x.com/UniswapProtocol
   - name: coingecko
     url: https://coingecko.com/en/coins/uniswap/
   - name: blog

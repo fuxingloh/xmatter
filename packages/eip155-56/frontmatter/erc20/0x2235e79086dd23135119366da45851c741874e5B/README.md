@@ -6,8 +6,8 @@ links:
     url: https://credefi.finance/
   - name: explorer
     url: https://bscscan.com/token/0x2235e79086dd23135119366da45851c741874e5b
-  - name: twitter
-    url: https://twitter.com/credefi_finance
+  - name: x
+    url: https://x.com/credefi_finance
   - name: telegram
     url: https://t.me/credefi
 ---

@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xadaae082237cb1772c9e079db95c117e6dd0c5af
   - name: telegram
     url: https://t.me/hungarianvizslainucoin
-  - name: twitter
-    url: https://twitter.com/HunVizslainu
+  - name: x
+    url: https://x.com/HunVizslainu
 ---
 
 # VizslaSwap

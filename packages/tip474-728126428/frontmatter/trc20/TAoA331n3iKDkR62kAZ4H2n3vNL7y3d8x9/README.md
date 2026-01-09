@@ -8,8 +8,8 @@ links:
     url: https://bcntoken.com/
   - name: explorer
     url: https://tronscan.io/#/token20/TAoA331n3iKDkR62kAZ4H2n3vNL7y3d8x9
-  - name: twitter
-    url: https://twitter.com/bcntoken
+  - name: x
+    url: https://x.com/bcntoken
   - name: github
     url: https://github.com/bemchain/bcn
   - name: telegram

@@ -8,8 +8,8 @@ links:
     url: https://www.seor.io/
   - name: explorer
     url: https://bscscan.com/token/0x800a25741A414Ea6E6e2B382435081A479A8Cc3c
-  - name: twitter
-    url: https://twitter.com/SEOR001
+  - name: x
+    url: https://x.com/SEOR001
   - name: telegram
     url: https://t.me/SeorGroup
 ---

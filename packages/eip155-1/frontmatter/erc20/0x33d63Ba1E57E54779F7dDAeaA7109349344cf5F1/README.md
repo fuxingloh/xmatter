@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1
   - name: blog
     url: https://gov.indexcoop.com
-  - name: twitter
-    url: https://twitter.com/indexcoop
+  - name: x
+    url: https://x.com/indexcoop
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/data-economy-index/
   - name: coingecko

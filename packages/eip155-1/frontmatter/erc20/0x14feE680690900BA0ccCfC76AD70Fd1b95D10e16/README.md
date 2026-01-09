@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x14fee680690900ba0cccfc76ad70fd1b95d10e16
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/paal-ai/
-  - name: twitter
-    url: https://twitter.com/PaalMind
+  - name: x
+    url: https://x.com/PaalMind
   - name: coingecko
     url: https://coingecko.com/en/coins/paal-ai
 ---

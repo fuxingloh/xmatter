@@ -6,8 +6,8 @@ links:
     url: https://spyro.vip/
   - name: explorer
     url: https://etherscan.io/token/0x6d7497751656618fc38cfb5478994a20f7e235df
-  - name: twitter
-    url: https://twitter.com/spyrocoineth?s=21
+  - name: x
+    url: https://x.com/spyrocoineth?s=21
   - name: telegram
     url: https://t.me/Spyro_Portal
   - name: coinmarketcap

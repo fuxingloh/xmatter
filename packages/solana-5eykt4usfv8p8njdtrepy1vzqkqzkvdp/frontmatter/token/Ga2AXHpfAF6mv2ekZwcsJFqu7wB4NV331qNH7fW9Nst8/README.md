@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/Ga2AXHpfAF6mv2ekZwcsJFqu7wB4NV331qNH7fW9Nst8
   - name: facebook
     url: https://facebook.com/ripplepay
-  - name: twitter
-    url: https://twitter.com/Ripple
+  - name: x
+    url: https://x.com/Ripple
 ---
 
 # Wrapped XRP

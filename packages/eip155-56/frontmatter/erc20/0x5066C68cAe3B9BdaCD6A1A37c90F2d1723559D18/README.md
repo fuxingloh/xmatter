@@ -6,8 +6,8 @@ links:
     url: https://wizard.financial
   - name: explorer
     url: https://bscscan.com/token/0x5066C68cAe3B9BdaCD6A1A37c90F2d1723559D18
-  - name: twitter
-    url: https://twitter.com/WIZARD_BSC
+  - name: x
+    url: https://x.com/WIZARD_BSC
   - name: telegram
     url: https://t.me/wizard_financial
   - name: coinmarketcap

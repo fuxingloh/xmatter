@@ -6,8 +6,8 @@ links:
     url: https://blizzard.money
   - name: explorer
     url: https://bscscan.com/token/0x57067a6bd75c0e95a6a5f158455926e43e79beb0
-  - name: twitter
-    url: https://twitter.com/money_blizzard
+  - name: x
+    url: https://x.com/money_blizzard
   - name: telegram
     url: https://t.me/BlizzardMoney
   - name: medium

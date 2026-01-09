@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x5Af2Be193a6ABCa9c8817001F45744777Db30756
   - name: blog
     url: https://investvoyager.com/blog/
-  - name: twitter
-    url: https://twitter.com/investvoyager
+  - name: x
+    url: https://x.com/investvoyager
   - name: reddit
     url: https://reddit.com/r/Invest_Voyager/
   - name: telegram

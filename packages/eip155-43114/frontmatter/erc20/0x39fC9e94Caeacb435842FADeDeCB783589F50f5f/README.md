@@ -8,8 +8,8 @@ links:
     url: https://kyber.network/
   - name: explorer
     url: https://snowtrace.io/token/0x39fC9e94Caeacb435842FADeDeCB783589F50f5f
-  - name: twitter
-    url: https://twitter.com/KyberNetwork
+  - name: x
+    url: https://x.com/KyberNetwork
   - name: blog
     url: https://blog.kyber.network/
   - name: github

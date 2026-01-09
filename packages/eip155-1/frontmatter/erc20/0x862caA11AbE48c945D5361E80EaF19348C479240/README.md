@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x862caA11AbE48c945D5361E80EaF19348C479240
   - name: telegram
     url: https://t.me/bcheroes
-  - name: twitter
-    url: https://twitter.com/badcrypto
+  - name: x
+    url: https://x.com/badcrypto
   - name: discord
     url: https://discord.com/invite/NAWZfZBPm7
   - name: youtube

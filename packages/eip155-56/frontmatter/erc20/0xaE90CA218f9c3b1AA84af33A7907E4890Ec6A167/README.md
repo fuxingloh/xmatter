@@ -8,8 +8,8 @@ links:
     url: https://eclat.world
   - name: explorer
     url: https://bscscan.com/token/0xaE90CA218f9c3b1AA84af33A7907E4890Ec6A167
-  - name: twitter
-    url: https://twitter.com/eclatworld
+  - name: x
+    url: https://x.com/eclatworld
   - name: telegram
     url: https://t.me/eclatworldtoken
   - name: coinmarketcap

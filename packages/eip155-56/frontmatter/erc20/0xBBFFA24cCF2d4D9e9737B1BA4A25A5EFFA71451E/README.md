@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xbbffa24ccf2d4d9e9737b1ba4a25a5effa71451e
   - name: github
     url: https://github.com/Techearnbdt
-  - name: twitter
-    url: https://twitter.com/Techearnbdt
+  - name: x
+    url: https://x.com/Techearnbdt
   - name: reddit
     url: https://reddit.com/user/Techearnbd/
 ---

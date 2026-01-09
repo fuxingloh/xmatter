@@ -8,8 +8,8 @@ links:
     url: https://muuinu.com
   - name: explorer
     url: https://bscscan.com/token/0xEA5E9F39F4B4Bc2684e49A0E43127F7f6F6be3b8
-  - name: twitter
-    url: https://twitter.com/muuinuofficial
+  - name: x
+    url: https://x.com/muuinuofficial
   - name: telegram
     url: https://t.me/MuuInu
   - name: coinmarketcap

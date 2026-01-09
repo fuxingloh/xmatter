@@ -9,8 +9,8 @@ links:
     url: https://bitburn.io/
   - name: explorer
     url: https://bscscan.com/token/0x5a5844cab96a7b8b257fc606aa6119c5cbc6d4c4
-  - name: twitter
-    url: https://twitter.com/BitBurnOfficial
+  - name: x
+    url: https://x.com/BitBurnOfficial
   - name: github
     url: https://github.com/bitburnio/
 ---

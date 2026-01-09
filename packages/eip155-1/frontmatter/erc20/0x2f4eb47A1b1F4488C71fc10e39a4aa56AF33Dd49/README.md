@@ -6,8 +6,8 @@ links:
     url: https://unicrypt.network
   - name: explorer
     url: https://etherscan.io/token/0x2f4eb47a1b1f4488c71fc10e39a4aa56af33dd49
-  - name: twitter
-    url: https://twitter.com/UNCX_token
+  - name: x
+    url: https://x.com/UNCX_token
   - name: medium
     url: https://unicrypt.medium.com/
   - name: telegram

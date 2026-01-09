@@ -6,8 +6,8 @@ links:
     url: https://crusadersofcrypto.com
   - name: explorer
     url: https://bscscan.com/token/0x6289812163af9421E566B3d74774074fAc2A0441
-  - name: twitter
-    url: https://twitter.com/CrusaderBSC
+  - name: x
+    url: https://x.com/CrusaderBSC
   - name: github
     url: https://github.com/Watch-Pug/Crusaders_Review/blob/main/WatchPug%20Audit%20Report%20for%20Crusaders.pdf
   - name: telegram

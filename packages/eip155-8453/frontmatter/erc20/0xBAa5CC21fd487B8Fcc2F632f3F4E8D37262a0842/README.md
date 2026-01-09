@@ -1,0 +1,19 @@
+---
+symbol: MORPHO
+decimals: 18
+tags:
+  - defi
+links:
+  - name: website
+    url: https://morpho.org/
+  - name: explorer
+    url: https://basescan.org/token/0xBAa5CC21fd487B8Fcc2F632f3F4E8D37262a0842
+  - name: x
+    url: https://x.com/morpholabs?s=11&t=ZGzrL8B9N7GpbA3YLFvU9A
+  - name: coinmarketcap
+    url: https://coinmarketcap.com/currencies/morpho/
+---
+
+# Morpho Token
+
+Morpho is an open, efficient, and resilient platform that allows anyone to earn yield and borrow assets. Lenders can earn on Morpho using Morpho Vaults, noncustodial simple to use lending vaults that optimize yields for depositors. Borrowers can borrow any assets directly from Morpho Markets.

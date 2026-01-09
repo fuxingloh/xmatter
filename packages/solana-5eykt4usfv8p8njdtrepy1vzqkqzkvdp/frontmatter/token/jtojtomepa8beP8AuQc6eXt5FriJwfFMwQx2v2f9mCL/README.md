@@ -6,8 +6,8 @@ links:
     url: https://www.jito.network/
   - name: explorer
     url: https://solscan.io/token/jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL
-  - name: twitter
-    url: https://twitter.com/jito_sol
+  - name: x
+    url: https://x.com/jito_sol
   - name: discord
     url: https://discord.com/invite/jito
   - name: telegram

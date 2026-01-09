@@ -9,8 +9,8 @@ links:
     url: https://bscscan.com/token/0xbc81ea817b579eC0334BcA8E65E436b7cB540147
   - name: github
     url: https://github.com/laqiraprotocol/
-  - name: twitter
-    url: https://twitter.com/laqiraprotocol/
+  - name: x
+    url: https://x.com/laqiraprotocol/
   - name: telegram
     url: https://t.me/LaqiraProtocol
 ---

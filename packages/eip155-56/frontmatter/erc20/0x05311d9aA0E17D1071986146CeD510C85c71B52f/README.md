@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x05311d9aA0E17D1071986146CeD510C85c71B52f
   - name: github
     url: https://github.com/dogita
-  - name: twitter
-    url: https://twitter.com/missdogita
+  - name: x
+    url: https://x.com/missdogita
   - name: telegram
     url: https://t.me/Dogitaofficial
   - name: whitepaper

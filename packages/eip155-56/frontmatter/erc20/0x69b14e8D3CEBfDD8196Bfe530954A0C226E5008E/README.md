@@ -9,8 +9,8 @@ links:
     url: https://space-pi.com
   - name: explorer
     url: https://bscscan.com/token/0x69b14e8D3CEBfDD8196Bfe530954A0C226E5008E
-  - name: twitter
-    url: https://twitter.com/SpacePi_Com
+  - name: x
+    url: https://x.com/SpacePi_Com
   - name: telegram
     url: https://t.me/SpacePi_com
   - name: telegram_news

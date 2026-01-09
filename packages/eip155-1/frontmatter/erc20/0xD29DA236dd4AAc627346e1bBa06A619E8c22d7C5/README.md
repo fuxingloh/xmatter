@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0xD29DA236dd4AAc627346e1bBa06A619E8c22d7C5
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/maga-ethereum/
-  - name: twitter
-    url: https://twitter.com/MagaHAT_ETH
+  - name: x
+    url: https://x.com/MagaHAT_ETH
   - name: coingecko
     url: https://coingecko.com/en/coins/maga-hat
   - name: telegram

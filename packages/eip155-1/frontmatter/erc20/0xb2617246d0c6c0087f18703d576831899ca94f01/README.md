@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xb2617246d0c6c0087f18703d576831899ca94f01
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/zigcoin/
-  - name: twitter
-    url: https://twitter.com/zignaly
+  - name: x
+    url: https://x.com/zignaly
 ---
 
 # ZigCoin

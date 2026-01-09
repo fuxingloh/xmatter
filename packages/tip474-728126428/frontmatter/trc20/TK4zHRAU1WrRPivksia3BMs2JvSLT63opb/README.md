@@ -8,8 +8,8 @@ links:
     url: https://uahg.io/en
   - name: explorer
     url: https://tronscan.io/#/token20/TK4zHRAU1WrRPivksia3BMs2JvSLT63opb
-  - name: twitter
-    url: https://twitter.com/uahg_to
+  - name: x
+    url: https://x.com/uahg_to
   - name: telegram
     url: https://t.me/uahg_to
   - name: whitepaper

@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xb1957BDbA889686EbdE631DF970ecE6A7571A1B6
   - name: telegram
     url: https://t.me/DefiTigertoken
-  - name: twitter
-    url: https://twitter.com/defitigertoken
+  - name: x
+    url: https://x.com/defitigertoken
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/defi-tiger/
   - name: coingecko

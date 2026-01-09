@@ -10,8 +10,8 @@ links:
     url: https://anonverse.space/
   - name: explorer
     url: https://bscscan.com/token/0x9a980a084D8D72B219e1C79d91faf06Bec874D51
-  - name: twitter
-    url: https://twitter.com/anon_metaverse
+  - name: x
+    url: https://x.com/anon_metaverse
   - name: telegram
     url: https://t.me/ANONVERSE_official
   - name: docs

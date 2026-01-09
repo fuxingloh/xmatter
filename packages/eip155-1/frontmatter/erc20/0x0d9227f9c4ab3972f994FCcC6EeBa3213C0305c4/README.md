@@ -6,8 +6,8 @@ links:
     url: https://sergsave.link
   - name: explorer
     url: https://etherscan.io/token/0x0d9227f9c4ab3972f994FCcC6EeBa3213C0305c4
-  - name: twitter
-    url: https://twitter.com/SergeySavelink
+  - name: x
+    url: https://x.com/SergeySavelink
 ---
 
 # Sergey Save Link

@@ -8,8 +8,8 @@ links:
     url: https://fortknoxster.com
   - name: explorer
     url: https://etherscan.io/token/0x16484d73ac08d2355f466d448d2b79d2039f6ebb
-  - name: twitter
-    url: https://twitter.com/FortKnoxster
+  - name: x
+    url: https://x.com/FortKnoxster
   - name: telegram
     url: https://t.me/FortKnoxster
   - name: facebook

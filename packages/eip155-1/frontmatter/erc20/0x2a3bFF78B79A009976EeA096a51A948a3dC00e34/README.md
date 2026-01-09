@@ -9,8 +9,8 @@ links:
     url: https://www.wilderworld.com/
   - name: explorer
     url: https://etherscan.io/token/0x2a3bFF78B79A009976EeA096a51A948a3dC00e34
-  - name: twitter
-    url: https://twitter.com/WilderWorld
+  - name: x
+    url: https://x.com/WilderWorld
   - name: medium
     url: https://wilderworld.medium.com/
   - name: discord

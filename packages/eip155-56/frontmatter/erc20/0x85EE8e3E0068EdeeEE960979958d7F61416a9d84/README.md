@@ -6,8 +6,8 @@ links:
     url: https://storytoken.app
   - name: explorer
     url: https://bscscan.com/token/0x85EE8e3E0068EdeeEE960979958d7F61416a9d84
-  - name: twitter
-    url: https://twitter.com/StoryToken_
+  - name: x
+    url: https://x.com/StoryToken_
   - name: telegram
     url: https://t.me/storytoken_official
   - name: coingecko

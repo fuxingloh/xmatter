@@ -6,8 +6,8 @@ links:
     url: https://hipptoken.com/
   - name: explorer
     url: https://etherscan.io/token/0x7b744eea1deca2f1b7b31f15ba036fa1759452d7
-  - name: twitter
-    url: https://twitter.com/elhippomeme
+  - name: x
+    url: https://x.com/elhippomeme
   - name: coingecko
     url: https://coingecko.com/en/coins/el-hippo
   - name: coinmarketcap

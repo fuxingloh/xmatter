@@ -12,8 +12,8 @@ links:
     url: https://github.com/taikoxyz/taiko-mono
   - name: docs
     url: https://docs.taiko.xyz/start-here/getting-started
-  - name: twitter
-    url: https://twitter.com/taikoxyz
+  - name: x
+    url: https://x.com/taikoxyz
   - name: whitepaper
     url: https://github.com/taikoxyz/taiko-mono/blob/main/packages/protocol/docs/tokenomics-whitepaper.pdf
   - name: blog

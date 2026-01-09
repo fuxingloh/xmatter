@@ -8,8 +8,8 @@ links:
     url: https://xtblock.io
   - name: explorer
     url: https://bscscan.com/token/0x70b6c6a555507ee4ac91c15e5c80b7dc8ff3b489
-  - name: twitter
-    url: https://twitter.com/xtblockio
+  - name: x
+    url: https://x.com/xtblockio
   - name: whitepaper
     url: https://github.com/xtblock/whitepaper/blob/main/XTblock-WhitePaper.pdf
 ---

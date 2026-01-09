@@ -10,8 +10,8 @@ links:
     url: https://coingecko.com/en/coins/sin-city/
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/sincity-token/
-  - name: twitter
-    url: https://twitter.com/sincitytoken
+  - name: x
+    url: https://x.com/sincitytoken
 ---
 
 # SinCity Token

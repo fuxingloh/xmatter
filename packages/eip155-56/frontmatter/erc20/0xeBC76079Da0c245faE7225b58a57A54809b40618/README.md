@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xeBC76079Da0c245faE7225b58a57A54809b40618
   - name: telegram
     url: https://t.me/bnbpay
-  - name: twitter
-    url: https://twitter.com/bnbpay
+  - name: x
+    url: https://x.com/bnbpay
   - name: github
     url: https://github.com/BNBPay
   - name: reddit

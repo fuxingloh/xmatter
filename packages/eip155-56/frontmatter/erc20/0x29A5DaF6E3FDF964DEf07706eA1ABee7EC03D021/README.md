@@ -8,8 +8,8 @@ links:
     url: https://trillioner.io
   - name: explorer
     url: https://bscscan.com/token/0x29A5DaF6E3FDF964DEf07706eA1ABee7EC03D021
-  - name: twitter
-    url: https://twitter.com/Trillionertoken
+  - name: x
+    url: https://x.com/Trillionertoken
   - name: github
     url: https://github.com/trillionertoken
   - name: telegram

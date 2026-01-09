@@ -8,8 +8,8 @@ links:
     url: https://opxtoken.com
   - name: explorer
     url: https://polygonscan.com/token/0xa3fb72cbf2e07dc1b34aea569ed40755fd978bd8
-  - name: twitter
-    url: https://twitter.com/Opxtoken
+  - name: x
+    url: https://x.com/Opxtoken
   - name: telegram
     url: https://t.me/opextokencom
   - name: github

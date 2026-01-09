@@ -8,8 +8,8 @@ links:
     url: https://adappter.io/eng.html
   - name: explorer
     url: https://etherscan.io/token/0xc314b0e758d5ff74f63e307a86ebfe183c95767b
-  - name: twitter
-    url: https://twitter.com/Adappter_io
+  - name: x
+    url: https://x.com/Adappter_io
   - name: telegram
     url: https://t.me/AdappterOfficial
   - name: coinmarketcap

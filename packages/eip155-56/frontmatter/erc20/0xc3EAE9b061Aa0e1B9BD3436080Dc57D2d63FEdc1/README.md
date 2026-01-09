@@ -6,8 +6,8 @@ links:
     url: https://bear.honeyfarm.finance
   - name: explorer
     url: https://bscscan.com/token/0xc3EAE9b061Aa0e1B9BD3436080Dc57D2d63FEdc1
-  - name: twitter
-    url: https://twitter.com/HoneyFarmFi
+  - name: x
+    url: https://x.com/HoneyFarmFi
   - name: github
     url: https://github.com/HoneyFarmFi/HoneyFarmContracts
   - name: telegram

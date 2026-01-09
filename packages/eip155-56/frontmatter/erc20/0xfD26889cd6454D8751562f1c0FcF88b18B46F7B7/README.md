@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xfd26889cd6454d8751562f1c0fcf88b18b46f7b7
   - name: github
     url: https://github.com/thugs-defi
-  - name: twitter
-    url: https://twitter.com/ThugsFinance
+  - name: x
+    url: https://x.com/ThugsFinance
   - name: telegram
     url: https://t.me/thugsfinance
   - name: discord

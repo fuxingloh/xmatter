@@ -8,8 +8,8 @@ links:
     url: https://www.ratscoin.com/
   - name: explorer
     url: https://bscscan.com/token/0x57b798d2252557f13A9148A075a72816f2707356
-  - name: twitter
-    url: https://twitter.com/ratscoinx1000
+  - name: x
+    url: https://x.com/ratscoinx1000
   - name: telegram
     url: https://t.me/ratscoinx1000
   - name: coinmarketcap

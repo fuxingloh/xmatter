@@ -6,8 +6,8 @@ links:
     url: https://www.chuanpu.fun/
   - name: explorer
     url: https://solscan.io/token/4gBDhgCqTtzyJocskewXARgcLoAfSxkmmoUwwfhbpump
-  - name: twitter
-    url: https://twitter.com/ChuanPuSupreme
+  - name: x
+    url: https://x.com/ChuanPuSupreme
   - name: coingecko
     url: https://coingecko.com/en/coins/chuan-pu
 ---

@@ -6,8 +6,8 @@ links:
     url: https://dapp.bmjcoin.com
   - name: explorer
     url: https://etherscan.io/token/0x6378930da9be7C90d824d7f113974741644d62dA
-  - name: twitter
-    url: https://twitter.com/BMJ67466085
+  - name: x
+    url: https://x.com/BMJ67466085
   - name: telegram
     url: https://t.me/CTCcommunity01
   - name: github

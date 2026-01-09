@@ -8,8 +8,8 @@ links:
     url: https://aniverse.io/
   - name: explorer
     url: https://etherscan.io/token/0x3D382228C54736d831FAC2748F4734D9177c7332
-  - name: twitter
-    url: https://twitter.com/ANIVERSE17
+  - name: x
+    url: https://x.com/ANIVERSE17
   - name: telegram
     url: https://t.me/joinchat/AAAAAFe2QpUJl8SOEb7pww
   - name: coinmarketcap

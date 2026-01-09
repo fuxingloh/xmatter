@@ -10,8 +10,8 @@ links:
     url: https://polygonscan.com/token/0xc48f61a288a08f1b80c2edd74652e1276b6a168c
   - name: github
     url: https://github.com/gysr-io
-  - name: twitter
-    url: https://twitter.com/gysr_io
+  - name: x
+    url: https://x.com/gysr_io
   - name: telegram
     url: https://t.me/gysr_io
   - name: discord

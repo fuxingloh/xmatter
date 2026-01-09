@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b
   - name: blog
     url: https://medium.com/@crypto.com
-  - name: twitter
-    url: https://twitter.com/cryptocom
+  - name: x
+    url: https://x.com/cryptocom
   - name: reddit
     url: https://reddit.com/r/Crypto_com/
   - name: facebook

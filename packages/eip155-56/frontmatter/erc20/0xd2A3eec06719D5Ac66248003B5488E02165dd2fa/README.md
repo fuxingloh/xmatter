@@ -10,8 +10,8 @@ links:
     url: https://www.paxe.io/
   - name: explorer
     url: https://bscscan.com/token/0xd2A3eec06719D5Ac66248003B5488E02165dd2fa
-  - name: twitter
-    url: https://twitter.com/Paxe_fi
+  - name: x
+    url: https://x.com/Paxe_fi
   - name: github
     url: https://github.com/PaxeFi
   - name: telegram

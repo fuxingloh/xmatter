@@ -8,8 +8,8 @@ links:
     url: https://galaxyfinance.io/
   - name: explorer
     url: https://bscscan.com/token/0xE77932B1216125848e82C3967e75698362168f99
-  - name: twitter
-    url: https://twitter.com/galaxyfinance3
+  - name: x
+    url: https://x.com/galaxyfinance3
   - name: telegram
     url: https://t.me/galaxyfinance_channel
 ---

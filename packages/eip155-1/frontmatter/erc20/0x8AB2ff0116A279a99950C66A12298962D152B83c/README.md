@@ -6,8 +6,8 @@ links:
     url: https://ordiswap.fi/
   - name: explorer
     url: https://etherscan.io/token/0x8AB2ff0116A279a99950C66A12298962D152B83c
-  - name: twitter
-    url: https://twitter.com/OrdiswapLabs
+  - name: x
+    url: https://x.com/OrdiswapLabs
   - name: telegram
     url: https://t.me/ordiswaplabs
   - name: coinmarketcap

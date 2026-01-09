@@ -8,8 +8,8 @@ links:
     url: https://stepd.finance/
   - name: explorer
     url: https://bscscan.com/token/0x2582d7afc1bf4496bcb87b6c2a72d24db279dd0e
-  - name: twitter
-    url: https://twitter.com/StepOfDoge
+  - name: x
+    url: https://x.com/StepOfDoge
   - name: telegram
     url: https://t.me/STEPOFDOGE
   - name: telegram_news

@@ -8,8 +8,8 @@ links:
     url: https://bullperks.com
   - name: explorer
     url: https://bscscan.com/token/0xfE1d7f7a8f0bdA6E415593a2e4F82c64b446d404
-  - name: twitter
-    url: https://twitter.com/bullperks
+  - name: x
+    url: https://x.com/bullperks
   - name: telegram
     url: https://t.me/BullPerks_Official
   - name: coinmarketcap

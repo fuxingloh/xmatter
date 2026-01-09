@@ -6,8 +6,8 @@ links:
     url: https://sip.space
   - name: explorer
     url: https://bscscan.com/token/0x9e5965d28E8D44CAE8F9b809396E0931F9Df71CA
-  - name: twitter
-    url: https://twitter.com/0xSpaceSip
+  - name: x
+    url: https://x.com/0xSpaceSip
   - name: telegram
     url: https://t.me/SpaceSip
   - name: github

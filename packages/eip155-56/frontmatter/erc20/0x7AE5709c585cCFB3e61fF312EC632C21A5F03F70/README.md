@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x7ae5709c585ccfb3e61ff312ec632c21a5f03f70
   - name: telegram
     url: https://t.me/dogedashgame
-  - name: twitter
-    url: https://twitter.com/doge_dash
+  - name: x
+    url: https://x.com/doge_dash
   - name: reddit
     url: https://reddit.com/r/dogedashthegame/
   - name: youtube

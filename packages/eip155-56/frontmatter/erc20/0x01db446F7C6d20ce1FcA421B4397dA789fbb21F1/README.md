@@ -6,8 +6,8 @@ links:
     url: https://dogekingtoken.com
   - name: explorer
     url: https://bscscan.com/token/0x01db446F7C6d20ce1FcA421B4397dA789fbb21F1
-  - name: twitter
-    url: https://twitter.com/dogekingbsc
+  - name: x
+    url: https://x.com/dogekingbsc
   - name: github
     url: https://github.com/dogekingbsc
   - name: telegram

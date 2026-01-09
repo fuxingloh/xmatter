@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So
   - name: coingecko
     url: https://coingecko.com/en/coins/marinade-staked-sol
-  - name: twitter
-    url: https://twitter.com/MarinadeFinance
+  - name: x
+    url: https://x.com/MarinadeFinance
 ---
 
 # Marinade staked

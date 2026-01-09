@@ -6,8 +6,8 @@ links:
     url: https://www.dexira.com
   - name: explorer
     url: https://bscscan.com/token/0x147E07976E1ae78287c33aAFAab87760d32E50A5
-  - name: twitter
-    url: https://twitter.com/dexiratoken
+  - name: x
+    url: https://x.com/dexiratoken
   - name: github
     url: https://github.com/dexira
   - name: telegram

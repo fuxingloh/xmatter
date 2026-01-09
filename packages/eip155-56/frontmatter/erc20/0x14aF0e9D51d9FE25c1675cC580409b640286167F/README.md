@@ -6,8 +6,8 @@ links:
     url: https://boomshiba.com/
   - name: explorer
     url: https://bscscan.com/token/0x14aF0e9D51d9FE25c1675cC580409b640286167F
-  - name: twitter
-    url: https://twitter.com/boomshiba
+  - name: x
+    url: https://x.com/boomshiba
   - name: github
     url: https://github.com/BOOMSHIBA/BoomShiba
   - name: telegram

@@ -6,8 +6,8 @@ links:
     url: https://definer.org/
   - name: explorer
     url: https://etherscan.io/token/0x054f76beED60AB6dBEb23502178C52d6C5dEbE40
-  - name: twitter
-    url: https://twitter.com/DeFinerorg
+  - name: x
+    url: https://x.com/DeFinerorg
 ---
 
 # FIN

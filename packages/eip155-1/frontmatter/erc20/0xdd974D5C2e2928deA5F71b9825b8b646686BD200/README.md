@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xdd974D5C2e2928deA5F71b9825b8b646686BD200
   - name: github
     url: https://github.com/KyberNetwork
-  - name: twitter
-    url: https://twitter.com/KyberNetwork
+  - name: x
+    url: https://x.com/KyberNetwork
   - name: blog
     url: https://blog.kyber.network/
   - name: whitepaper

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x72fAa679E1008Ad8382959FF48E392042A8b06f7
   - name: github
     url: https://github.com/Stichting-AllianceBlock-Foundation/AllianceBlock-Contracts
-  - name: twitter
-    url: https://twitter.com/allianceblock
+  - name: x
+    url: https://x.com/allianceblock
   - name: telegram
     url: https://t.me/allianceblock
   - name: discord

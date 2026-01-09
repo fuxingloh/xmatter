@@ -6,8 +6,8 @@ links:
     url: https://udder.wtf
   - name: explorer
     url: https://solscan.io/token/2Eb2d8QA2z1YQG7JGPxfwr7Si3HxmFTGxihDkCTyzbSo
-  - name: twitter
-    url: https://twitter.com/UdderOnSol
+  - name: x
+    url: https://x.com/UdderOnSol
 ---
 
 # UDDER

@@ -8,8 +8,8 @@ links:
     url: https://grokx.codes
   - name: explorer
     url: https://bscscan.com/token/0x2e53414853f058a9bc14e052431008483bd85b4c
-  - name: twitter
-    url: https://twitter.com/grok_codes
+  - name: x
+    url: https://x.com/grok_codes
   - name: github
     url: https://github.com/grokxcodes
   - name: telegram

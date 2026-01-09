@@ -10,8 +10,8 @@ links:
     url: https://coinmarketcap.com/currencies/everrise/
   - name: coingecko
     url: https://coingecko.com/en/coins/everrise
-  - name: twitter
-    url: https://twitter.com/everrise
+  - name: x
+    url: https://x.com/everrise
   - name: telegram
     url: https://t.me/everriseofficial
   - name: youtube

@@ -12,8 +12,8 @@ links:
     url: https://t.me/biswap
   - name: telegram_news
     url: https://t.me/biswap_news
-  - name: twitter
-    url: https://twitter.com/Biswap_DEX
+  - name: x
+    url: https://x.com/Biswap_DEX
   - name: medium
     url: https://biswap-dex.medium.com/
   - name: coinmarketcap

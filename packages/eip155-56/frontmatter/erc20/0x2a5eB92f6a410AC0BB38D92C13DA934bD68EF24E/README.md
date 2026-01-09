@@ -6,8 +6,8 @@ links:
     url: https://tinytitans.fi
   - name: explorer
     url: https://bscscan.com/token/0x2a5eB92f6a410AC0BB38D92C13DA934bD68EF24E
-  - name: twitter
-    url: https://twitter.com/RealTinyTitans
+  - name: x
+    url: https://x.com/RealTinyTitans
   - name: medium
     url: https://tinytitans.medium.com/
   - name: telegram

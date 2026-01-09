@@ -6,8 +6,8 @@ links:
     url: https://shibxbsc.com/
   - name: explorer
     url: https://bscscan.com/token/0xaA357b0F167923Efc1D6978a868f81866cA6E98c
-  - name: twitter
-    url: https://twitter.com/ShibXOfficial
+  - name: x
+    url: https://x.com/ShibXOfficial
   - name: telegram
     url: https://t.me/Shib_X
   - name: coinmarketcap

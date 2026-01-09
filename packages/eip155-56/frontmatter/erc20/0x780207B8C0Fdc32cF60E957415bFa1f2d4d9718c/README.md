@@ -6,8 +6,8 @@ links:
     url: https://cashaa.com
   - name: explorer
     url: https://bscscan.com/token/0x780207B8C0Fdc32cF60E957415bFa1f2d4d9718c
-  - name: twitter
-    url: https://twitter.com/yourcashaa
+  - name: x
+    url: https://x.com/yourcashaa
   - name: telegram
     url: https://t.me/cashaaltd
   - name: medium

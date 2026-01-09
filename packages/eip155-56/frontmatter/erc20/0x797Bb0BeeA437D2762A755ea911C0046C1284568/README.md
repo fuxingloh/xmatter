@@ -10,8 +10,8 @@ links:
     url: https://vulkania.io
   - name: explorer
     url: https://bscscan.com/token/0x797bb0beea437d2762a755ea911c0046c1284568
-  - name: twitter
-    url: https://twitter.com/VulkaniaApp
+  - name: x
+    url: https://x.com/VulkaniaApp
   - name: github
     url: https://github.com/Vulkania
   - name: telegram

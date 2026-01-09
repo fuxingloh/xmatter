@@ -6,8 +6,8 @@ links:
     url: https://share.green/
   - name: explorer
     url: https://etherscan.io/token/0xb2089A7069861C8D90c8dA3aaCAB8e9188C0C531
-  - name: twitter
-    url: https://twitter.com/setpowerfree
+  - name: x
+    url: https://x.com/setpowerfree
   - name: github
     url: https://github.com/green-blockchain
   - name: facebook

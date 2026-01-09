@@ -8,8 +8,8 @@ links:
     url: https://metabusdcoin.com/
   - name: explorer
     url: https://bscscan.com/token/0xF14D3692B0055Db9Ca4c04065165d59B87E763f1
-  - name: twitter
-    url: https://twitter.com/MetaBUSDCoin
+  - name: x
+    url: https://x.com/MetaBUSDCoin
   - name: telegram
     url: https://t.me/MetaBUSDCoin
   - name: discord

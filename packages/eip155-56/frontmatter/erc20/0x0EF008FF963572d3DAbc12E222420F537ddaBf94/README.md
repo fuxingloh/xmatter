@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x0EF008FF963572d3DAbc12E222420F537ddaBf94
   - name: github
     url: https://github.com/verofarm/
-  - name: twitter
-    url: https://twitter.com/verofarmgames/
+  - name: x
+    url: https://x.com/verofarmgames/
   - name: telegram
     url: https://t.me/verofarm
 ---

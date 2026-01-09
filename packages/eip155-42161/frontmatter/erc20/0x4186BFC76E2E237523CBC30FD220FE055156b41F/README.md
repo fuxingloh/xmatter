@@ -6,8 +6,8 @@ links:
     url: https://kelpdao.xyz/restake/
   - name: explorer
     url: https://arbiscan.io/token/0x4186bfc76e2e237523cbc30fd220fe055156b41f
-  - name: twitter
-    url: https://twitter.com/KelpDAO
+  - name: x
+    url: https://x.com/KelpDAO
 ---
 
 # KelpDao Restaked ETH

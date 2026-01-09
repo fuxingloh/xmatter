@@ -9,8 +9,8 @@ links:
     url: https://z1labs.ai
   - name: explorer
     url: https://etherscan.io/token/0x1495bc9e44af1f8bcb62278d2bec4540cf0c05ea
-  - name: twitter
-    url: https://twitter.com/
+  - name: x
+    url: https://x.com/
   - name: telegram_news
     url: https://t.me/zero1labs
   - name: discord

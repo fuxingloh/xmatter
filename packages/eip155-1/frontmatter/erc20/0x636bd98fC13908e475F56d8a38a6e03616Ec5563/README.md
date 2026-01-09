@@ -6,8 +6,8 @@ links:
     url: https://wat0x63.com/
   - name: explorer
     url: https://etherscan.io/token/0x636bd98fc13908e475f56d8a38a6e03616ec5563
-  - name: twitter
-    url: https://twitter.com/wat0x63
+  - name: x
+    url: https://x.com/wat0x63
   - name: telegram
     url: https://t.me/Wat0x63
 ---

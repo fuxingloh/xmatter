@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xf9CeC8d50f6c8ad3Fb6dcCEC577e05aA32B224FE
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/chromia/
-  - name: twitter
-    url: https://twitter.com/teamchromia
+  - name: x
+    url: https://x.com/teamchromia
 ---
 
 # Chromia

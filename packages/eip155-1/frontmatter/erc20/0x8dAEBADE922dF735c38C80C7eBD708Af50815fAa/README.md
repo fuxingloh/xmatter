@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa
   - name: github
     url: https://github.com/keep-network/tbtc
-  - name: twitter
-    url: https://twitter.com/tBTC_project
+  - name: x
+    url: https://x.com/tBTC_project
   - name: reddit
     url: https://reddit.com/r/KeepNetwork
 ---

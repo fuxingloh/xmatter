@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xA72Ff2B799324B042AE379809eE54dACE99db3A5
   - name: github
     url: https://github.com/MissDoge
-  - name: twitter
-    url: https://twitter.com/DogeMiss
+  - name: x
+    url: https://x.com/DogeMiss
   - name: telegram
     url: https://t.me/missdoge
 ---

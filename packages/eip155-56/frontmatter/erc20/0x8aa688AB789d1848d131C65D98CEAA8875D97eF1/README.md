@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x8aa688ab789d1848d131c65d98ceaa8875d97ef1
   - name: github
     url: https://github.com/multivactech
-  - name: twitter
-    url: https://twitter.com/MultiVAC_Global
+  - name: x
+    url: https://x.com/MultiVAC_Global
   - name: blog
     url: https://multivac-global.medium.com
   - name: telegram

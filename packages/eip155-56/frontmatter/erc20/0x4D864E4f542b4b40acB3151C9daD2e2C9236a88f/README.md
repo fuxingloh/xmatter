@@ -6,8 +6,8 @@ links:
     url: https://xixochain.com/
   - name: explorer
     url: https://bscscan.com/token/0x4D864E4f542b4b40acB3151C9daD2e2C9236a88f
-  - name: twitter
-    url: https://twitter.com/xixo_ecosystem
+  - name: x
+    url: https://x.com/xixo_ecosystem
   - name: whitepaper
     url: https://bit.ly/3yr0WlA
   - name: github

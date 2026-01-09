@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x29b1E39A529d3B3cacEA55989594F71813e998Bb
   - name: github
     url: https://github.com/Dexioprotocol
-  - name: twitter
-    url: https://twitter.com/dexioprotocol
+  - name: x
+    url: https://x.com/dexioprotocol
   - name: reddit
     url: https://reddit.com/r/dexioprotocoltoken/
 ---

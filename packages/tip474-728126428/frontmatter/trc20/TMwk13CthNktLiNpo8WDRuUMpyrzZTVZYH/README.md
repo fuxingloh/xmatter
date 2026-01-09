@@ -6,8 +6,8 @@ links:
     url: https://tothesun.vip/
   - name: explorer
     url: https://tronscan.org/#/token20/TMwk13CthNktLiNpo8WDRuUMpyrzZTVZYH
-  - name: twitter
-    url: https://twitter.com/ToTheSun_vip
+  - name: x
+    url: https://x.com/ToTheSun_vip
   - name: telegram
     url: https://t.me/ToTheSun_vip
   - name: coinmarketcap

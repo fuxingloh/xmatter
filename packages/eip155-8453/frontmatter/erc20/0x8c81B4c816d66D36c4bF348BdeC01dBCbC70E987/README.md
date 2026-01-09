@@ -6,8 +6,8 @@ links:
     url: https://briunarmstrung.com/
   - name: explorer
     url: https://basescan.org/token/0x8c81b4c816d66d36c4bf348bdec01dbcbc70e987
-  - name: twitter
-    url: https://twitter.com/Briun_Armstrung
+  - name: x
+    url: https://x.com/Briun_Armstrung
 ---
 
 # Briun Armstrung

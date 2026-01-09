@@ -6,8 +6,8 @@ links:
     url: https://flokizap.finance/
   - name: explorer
     url: https://bscscan.com/token/0xee901a8a13e5B71dD35AD259D87e17a891D1f0F3
-  - name: twitter
-    url: https://twitter.com/FlokiZap
+  - name: x
+    url: https://x.com/FlokiZap
   - name: github
     url: https://github.com/interfinetwork/smart-contract-audits/blob/main/FlokiZap_AuditReport_InterFi.pdf
   - name: telegram

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x5c792740a7d4684e75e5551fb239f512fe0d47d0
   - name: facebook
     url: https://facebook.com/marco.travelll
-  - name: twitter
-    url: https://twitter.com/Marco___travel
+  - name: x
+    url: https://x.com/Marco___travel
   - name: discord
     url: https://discord.com/invite/S76sGk5gTA
   - name: telegram

@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x570a5d26f7765ecb712c0924e4de545b89fd43df
   - name: github
     url: https://github.com/solana-labs
-  - name: twitter
-    url: https://twitter.com/solana
+  - name: x
+    url: https://x.com/solana
   - name: reddit
     url: https://reddit.com/r/solana
   - name: whitepaper

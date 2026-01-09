@@ -6,8 +6,8 @@ links:
     url: https://welnance.com
   - name: explorer
     url: https://bscscan.com/token/0x854B4c305554c5fa72353e31b8480c0e5128A152
-  - name: twitter
-    url: https://twitter.com/WelnanceWorld
+  - name: x
+    url: https://x.com/WelnanceWorld
   - name: github
     url: https://github.com/Welnance
   - name: telegram

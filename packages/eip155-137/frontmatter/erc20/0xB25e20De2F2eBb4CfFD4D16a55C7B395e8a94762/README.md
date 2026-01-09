@@ -8,8 +8,8 @@ links:
     url: https://request.network/
   - name: explorer
     url: https://polygonscan.com/token/0xb25e20de2f2ebb4cffd4d16a55c7b395e8a94762
-  - name: twitter
-    url: https://twitter.com/RequestNetwork
+  - name: x
+    url: https://x.com/RequestNetwork
   - name: telegram
     url: https://t.me/requestnetwork
   - name: coinmarketcap

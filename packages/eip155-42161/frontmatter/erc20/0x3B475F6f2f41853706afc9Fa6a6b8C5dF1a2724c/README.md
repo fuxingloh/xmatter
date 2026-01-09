@@ -6,8 +6,8 @@ links:
     url: https://zyberswap.io/
   - name: explorer
     url: https://arbiscan.io/token/0x3B475F6f2f41853706afc9Fa6a6b8C5dF1a2724c
-  - name: twitter
-    url: https://twitter.com/zyberswap
+  - name: x
+    url: https://x.com/zyberswap
   - name: telegram
     url: https://t.me/zyberswapofficial
   - name: coinmarketcap

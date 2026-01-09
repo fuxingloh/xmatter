@@ -8,8 +8,8 @@ links:
     url: https://0x.org/
   - name: explorer
     url: https://snowtrace.io/token/0x596fA47043f99A4e0F122243B841E55375cdE0d2
-  - name: twitter
-    url: https://twitter.com/0xproject
+  - name: x
+    url: https://x.com/0xproject
   - name: blog
     url: https://blog.0xproject.com/latest
   - name: discord

@@ -6,8 +6,8 @@ links:
     url: https://aleph.im
   - name: explorer
     url: https://bscscan.com/token/0x82d2f8e02afb160dd5a480a617692e62de9038c4
-  - name: twitter
-    url: https://twitter.com/aleph_im
+  - name: x
+    url: https://x.com/aleph_im
   - name: telegram
     url: https://t.me/alephim
   - name: medium

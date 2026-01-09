@@ -8,8 +8,8 @@ links:
     url: https://ret.life
   - name: explorer
     url: https://bscscan.com/token/0x10b9dd394467f2cfbc769e07e88dc7e2c41b0965
-  - name: twitter
-    url: https://twitter.com/BscRetoken
+  - name: x
+    url: https://x.com/BscRetoken
   - name: github
     url: https://github.com/RETOKENofficial
   - name: telegram

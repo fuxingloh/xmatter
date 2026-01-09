@@ -6,8 +6,8 @@ links:
     url: https://sendex.ai/
   - name: explorer
     url: https://etherscan.io/token/0xb93746dc7a8bf5e381ffb278085b1f62bd0a1fc8
-  - name: twitter
-    url: https://twitter.com/sendexai
+  - name: x
+    url: https://x.com/sendexai
 ---
 
 # Sendex AI

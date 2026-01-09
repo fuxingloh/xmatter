@@ -6,8 +6,8 @@ links:
     url: https://wow.surf
   - name: explorer
     url: https://bscscan.com/token/0x31353E2826Cc4402735E55a175a75CE2569B4226
-  - name: twitter
-    url: https://twitter.com/World_Of_Waves
+  - name: x
+    url: https://x.com/World_Of_Waves
   - name: telegram
     url: https://t.me/world_of_waves
   - name: youtube

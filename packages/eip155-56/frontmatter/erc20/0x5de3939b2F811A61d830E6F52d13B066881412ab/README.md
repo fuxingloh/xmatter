@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x5de3939b2F811A61d830E6F52d13B066881412ab
   - name: github
     url: https://github.com/ProtonProtocol
-  - name: twitter
-    url: https://twitter.com/protonxpr
+  - name: x
+    url: https://x.com/protonxpr
   - name: reddit
     url: https://reddit.com/r/ProtonChain/
   - name: telegram
@@ -24,6 +24,6 @@ links:
     url: https://blog.protonchain.com/
 ---
 
-# Proton
+# XPR Network
 
 Proton is a new public blockchain and dApp platform designed for both consumer applications and P2P payments. It is built around a secure identity and financial settlements layer that allows users to directly link real identity and fiat accounts, pull funds and buy crypto, and use crypto seamlessly.

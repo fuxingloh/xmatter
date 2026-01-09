@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x7e41e454b6a29c54e4cdb565e47542f4bcb37ef1
   - name: github
     url: https://github.com/Hansblock/cybertronchain/
-  - name: twitter
-    url: https://twitter.com/cybertronchain
+  - name: x
+    url: https://x.com/cybertronchain
   - name: telegram
     url: https://t.me/CTCglobal
   - name: whitepaper

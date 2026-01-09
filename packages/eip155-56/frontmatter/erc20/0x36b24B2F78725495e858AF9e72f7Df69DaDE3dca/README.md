@@ -6,8 +6,8 @@ links:
     url: https://www.seachaintoken.com/
   - name: explorer
     url: https://bscscan.com/token/0x36b24B2F78725495e858AF9e72f7Df69DaDE3dca
-  - name: twitter
-    url: https://twitter.com/SeaChainToken
+  - name: x
+    url: https://x.com/SeaChainToken
   - name: telegram
     url: https://t.me/SeaChainNetwork
   - name: coinmarketcap

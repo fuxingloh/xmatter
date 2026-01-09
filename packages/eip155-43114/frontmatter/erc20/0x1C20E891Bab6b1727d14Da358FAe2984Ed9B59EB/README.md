@@ -12,8 +12,8 @@ links:
     url: https://coinmarketcap.com/currencies/trueusd/
   - name: coingecko
     url: https://coingecko.com/en/coins/true-usd/
-  - name: twitter
-    url: https://twitter.com/tusd_official
+  - name: x
+    url: https://x.com/tusd_official
 ---
 
 # TrueUSD

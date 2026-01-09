@@ -8,8 +8,8 @@ links:
     url: https://metabotchain.com/
   - name: explorer
     url: https://bscscan.com/token/0xF18e1289FCe882e4dB55Ec8A349D027a9a5B3169
-  - name: twitter
-    url: https://twitter.com/Metabotchain
+  - name: x
+    url: https://x.com/Metabotchain
   - name: telegram
     url: https://t.me/@Metabotchain
 ---

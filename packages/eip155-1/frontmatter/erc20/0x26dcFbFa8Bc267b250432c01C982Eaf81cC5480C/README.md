@@ -8,8 +8,8 @@ links:
     url: https://ankr.com
   - name: explorer
     url: https://etherscan.io/token/0x26dcFbFa8Bc267b250432c01C982Eaf81cC5480C
-  - name: twitter
-    url: https://twitter.com/ankr
+  - name: x
+    url: https://x.com/ankr
   - name: github
     url: https://github.com/Ankr-network
   - name: telegram

@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x2170Ed0880ac9A755fd29B2688956BD959F933F8
   - name: github
     url: https://github.com/ethereum/ethereum-org-website
-  - name: twitter
-    url: https://twitter.com/ethdotorg
+  - name: x
+    url: https://x.com/ethdotorg
   - name: youtube
     url: https://youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g
   - name: discord

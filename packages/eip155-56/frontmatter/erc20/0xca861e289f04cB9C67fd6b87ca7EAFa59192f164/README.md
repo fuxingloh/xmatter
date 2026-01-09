@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xca861e289f04cB9C67fd6b87ca7EAFa59192f164
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/unitymeta
-  - name: twitter
-    url: https://twitter.com/unitymetatoken
+  - name: x
+    url: https://x.com/unitymetatoken
   - name: github
     url: https://github.com/unitymetatoken
   - name: telegram

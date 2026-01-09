@@ -6,8 +6,8 @@ links:
     url: https://whrh-token.com/
   - name: explorer
     url: https://etherscan.io/token/0x2dc917b722184ece1dcb9bb9dddfb1d63ccd25eb
-  - name: twitter
-    url: https://twitter.com/Whrh_token
+  - name: x
+    url: https://x.com/Whrh_token
   - name: telegram
     url: https://t.me/WhiteRhinocerosToken
 ---

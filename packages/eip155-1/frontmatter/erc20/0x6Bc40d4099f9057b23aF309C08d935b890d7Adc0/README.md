@@ -6,8 +6,8 @@ links:
     url: https://www.snailbrook.ai/
   - name: explorer
     url: https://etherscan.io/token/0x6bc40d4099f9057b23af309c08d935b890d7adc0
-  - name: twitter
-    url: https://twitter.com/SnailBrookAI
+  - name: x
+    url: https://x.com/SnailBrookAI
   - name: telegram
     url: https://t.me/Snailbrook_Entry
   - name: coinmarketcap

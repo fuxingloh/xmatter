@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x9e26c50B8A3b7652c3fD2B378252A8647a0C9268
   - name: github
     url: https://github.com/shibance
-  - name: twitter
-    url: https://twitter.com/shibance
+  - name: x
+    url: https://x.com/shibance
   - name: reddit
     url: https://reddit.com/r/shibance
   - name: telegram

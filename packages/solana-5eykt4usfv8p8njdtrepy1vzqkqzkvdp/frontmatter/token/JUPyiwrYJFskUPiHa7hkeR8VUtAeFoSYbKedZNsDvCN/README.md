@@ -6,8 +6,8 @@ links:
     url: https://jup.ag/
   - name: explorer
     url: https://solscan.io/token/JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN
-  - name: twitter
-    url: https://twitter.com/JupiterExchange
+  - name: x
+    url: https://x.com/JupiterExchange
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/jupiter-ag/
 ---

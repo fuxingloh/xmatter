@@ -12,8 +12,8 @@ links:
     url: https://github.com/qrkita/qrkitatoken.sol
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/qrkita-token/
-  - name: twitter
-    url: https://twitter.com/qrkitaexchanger?s=09
+  - name: x
+    url: https://x.com/qrkitaexchanger?s=09
 ---
 
 # QRKITA TOKEN

@@ -8,8 +8,8 @@ links:
     url: https://www.synthetix.io/
   - name: explorer
     url: https://snowtrace.io/token/0xBeC243C995409E6520D7C41E404da5dEba4b209B
-  - name: twitter
-    url: https://twitter.com/synthetix_io
+  - name: x
+    url: https://x.com/synthetix_io
   - name: blog
     url: https://blog.synthetix.io/
   - name: github

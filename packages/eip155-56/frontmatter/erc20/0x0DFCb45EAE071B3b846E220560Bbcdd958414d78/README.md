@@ -9,8 +9,8 @@ links:
     url: https://libero.financial/
   - name: explorer
     url: https://bscscan.com/token/0x0DFCb45EAE071B3b846E220560Bbcdd958414d78
-  - name: twitter
-    url: https://twitter.com/LiberoFinancial
+  - name: x
+    url: https://x.com/LiberoFinancial
   - name: telegram
     url: https://t.me/liberoofficialgroup
   - name: docs

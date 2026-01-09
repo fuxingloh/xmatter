@@ -6,8 +6,8 @@ links:
     url: https://x-doge.vip
   - name: explorer
     url: https://etherscan.io/token/0xd2b274cfbf9534f56b59ad0fb7e645e0354f4941
-  - name: twitter
-    url: https://twitter.com/XDogeErc20
+  - name: x
+    url: https://x.com/XDogeErc20
   - name: telegram
     url: https://t.me/xdogeerc2
   - name: coinmarketcap

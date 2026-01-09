@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x8c282eA9eACd1B95D44a3A18DCdd1D0472868998
   - name: telegram
     url: https://t.me/AncientCommunity
-  - name: twitter
-    url: https://twitter.com/AncientKingNft
+  - name: x
+    url: https://x.com/AncientKingNft
   - name: youtube
     url: https://youtube.com/channel/UCpSghae57xjFYfnUyBulpIw
   - name: discord

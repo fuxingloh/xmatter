@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xb1c9bc94aCd2fAE6aABf4ffae4429B93512a81D2
   - name: medium
     url: https://medium.com/ariadne-project
-  - name: twitter
-    url: https://twitter.com/ariadne_finance
+  - name: x
+    url: https://x.com/ariadne_finance
   - name: telegram
     url: https://t.me/ariadne_finance
   - name: coinmarketcap

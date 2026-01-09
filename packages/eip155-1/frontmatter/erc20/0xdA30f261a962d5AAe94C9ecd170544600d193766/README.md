@@ -6,8 +6,8 @@ links:
     url: https://orbler.io/
   - name: explorer
     url: https://etherscan.io/token/0xdA30f261a962d5AAe94C9ecd170544600d193766
-  - name: twitter
-    url: https://twitter.com/Orbler1
+  - name: x
+    url: https://x.com/Orbler1
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/orbler/
 ---

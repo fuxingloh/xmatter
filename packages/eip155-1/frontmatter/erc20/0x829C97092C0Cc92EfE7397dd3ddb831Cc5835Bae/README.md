@@ -8,8 +8,8 @@ links:
     url: https://mine.network/
   - name: explorer
     url: https://etherscan.io/token/0x829c97092c0cc92efe7397dd3ddb831cc5835bae
-  - name: twitter
-    url: https://twitter.com/mine_blockchain
+  - name: x
+    url: https://x.com/mine_blockchain
   - name: github
     url: https://github.com/Mine-Blockchain
   - name: telegram

@@ -6,8 +6,8 @@ links:
     url: https://www.miniflokishiba.io/
   - name: explorer
     url: https://bscscan.com/token/0x5cedd85e5c34ef894380fb027fa5d2c944ea28e0
-  - name: twitter
-    url: https://twitter.com/miniflokishiba
+  - name: x
+    url: https://x.com/miniflokishiba
   - name: telegram
     url: https://t.me/MiniFlokiShibaOfficial
   - name: telegram_news

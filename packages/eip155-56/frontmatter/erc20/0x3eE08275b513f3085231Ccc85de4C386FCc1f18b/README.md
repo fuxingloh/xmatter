@@ -10,8 +10,8 @@ links:
     url: https://belecx.com
   - name: explorer
     url: https://bscscan.com/token/0x3eE08275b513f3085231Ccc85de4C386FCc1f18b
-  - name: twitter
-    url: https://twitter.com/BelecXToken
+  - name: x
+    url: https://x.com/BelecXToken
   - name: telegram
     url: https://t.me/BelecXChat
 ---

@@ -8,8 +8,8 @@ links:
     url: https://ookeenga.com/
   - name: explorer
     url: https://bscscan.com/token/0x7758a52c1Bb823d02878B67aD87B6bA37a0CDbF5
-  - name: twitter
-    url: https://twitter.com/ookeenga
+  - name: x
+    url: https://x.com/ookeenga
   - name: github
     url: https://github.com/crosgames
   - name: telegram

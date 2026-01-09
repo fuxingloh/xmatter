@@ -8,8 +8,8 @@ links:
     url: https://frax.finance/
   - name: explorer
     url: https://snowtrace.io/token/0x214DB107654fF987AD859F34125307783fC8e387
-  - name: twitter
-    url: https://twitter.com/fraxfinance
+  - name: x
+    url: https://x.com/fraxfinance
   - name: telegram
     url: https://t.me/fraxfinance
   - name: coinmarketcap

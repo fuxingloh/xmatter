@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x9d6db6382444b70a51307a4291188f60d4eef205
   - name: facebook
     url: https://facebook.com/groups/babypepe
-  - name: twitter
-    url: https://twitter.com/BabyPepeBNB
+  - name: x
+    url: https://x.com/BabyPepeBNB
   - name: telegram
     url: https://t.me/BabyPepeBep20
   - name: coinmarketcap

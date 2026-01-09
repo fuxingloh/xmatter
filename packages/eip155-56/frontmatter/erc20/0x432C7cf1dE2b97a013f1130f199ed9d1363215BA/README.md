@@ -6,8 +6,8 @@ links:
     url: https://cryptoguards.me/
   - name: explorer
     url: https://bscscan.com/token/0x432C7cf1dE2b97a013f1130f199ed9d1363215BA
-  - name: twitter
-    url: https://twitter.com/CryptoGuardsNFT
+  - name: x
+    url: https://x.com/CryptoGuardsNFT
   - name: github
     url: https://github.com/cryptocitymetaverse/cryptoguards
   - name: telegram

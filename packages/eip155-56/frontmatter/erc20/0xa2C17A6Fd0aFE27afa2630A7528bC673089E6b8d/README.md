@@ -6,8 +6,8 @@ links:
     url: https://czthegoat.io/
   - name: explorer
     url: https://bscscan.com/token/0xa2C17A6Fd0aFE27afa2630A7528bC673089E6b8d
-  - name: twitter
-    url: https://twitter.com/czthegoat
+  - name: x
+    url: https://x.com/czthegoat
   - name: telegram
     url: https://t.me/cz_thegoat
 ---

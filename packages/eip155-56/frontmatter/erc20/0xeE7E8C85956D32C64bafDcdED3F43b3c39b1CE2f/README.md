@@ -8,8 +8,8 @@ links:
     url: https://webfour.build
   - name: explorer
     url: https://bscscan.com/token/0xeE7E8C85956D32C64bafDcdED3F43b3c39b1CE2f
-  - name: twitter
-    url: https://twitter.com/web4ai
+  - name: x
+    url: https://x.com/web4ai
   - name: github
     url: https://github.com/web4build
   - name: telegram

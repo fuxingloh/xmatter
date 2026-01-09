@@ -8,8 +8,8 @@ links:
     url: https://www.define.one/
   - name: explorer
     url: https://etherscan.io/token/0x62959c699a52ec647622c91e79ce73344e4099f5
-  - name: twitter
-    url: https://twitter.com/DeFinePlatform
+  - name: x
+    url: https://x.com/DeFinePlatform
   - name: telegram
     url: https://t.me/DeFinePlatform
   - name: coinmarketcap

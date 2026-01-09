@@ -8,8 +8,8 @@ links:
     url: https://polygonscan.com/token/0xd6df932a45c0f255f85145f286ea0b292b21c90b
   - name: github
     url: https://github.com/aave/aave-protocol
-  - name: twitter
-    url: https://twitter.com/AaveAave
+  - name: x
+    url: https://x.com/AaveAave
   - name: reddit
     url: https://reddit.com/r/Aave_Official
   - name: blog

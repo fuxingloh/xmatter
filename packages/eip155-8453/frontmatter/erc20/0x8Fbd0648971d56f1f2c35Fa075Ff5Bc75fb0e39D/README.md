@@ -6,8 +6,8 @@ links:
     url: https://unkjd.com/
   - name: explorer
     url: https://basescan.org/token/0x8Fbd0648971d56f1f2c35Fa075Ff5Bc75fb0e39D
-  - name: twitter
-    url: https://twitter.com/UNKJDgames
+  - name: x
+    url: https://x.com/UNKJDgames
   - name: telegram
     url: https://t.me/unkjd_announcements
 ---

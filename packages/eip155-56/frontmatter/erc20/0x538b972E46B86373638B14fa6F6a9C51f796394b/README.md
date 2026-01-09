@@ -6,8 +6,8 @@ links:
     url: https://www.adtoken.net/
   - name: explorer
     url: https://bscscan.com/token/0x538b972E46B86373638B14fa6F6a9C51f796394b
-  - name: twitter
-    url: https://twitter.com/AdTokenOfficial
+  - name: x
+    url: https://x.com/AdTokenOfficial
   - name: telegram
     url: https://t.me/adtoken_official
 ---

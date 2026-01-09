@@ -6,8 +6,8 @@ links:
     url: https://dogecoin20.io/en
   - name: explorer
     url: https://etherscan.io/token/0x2541a36be4cd39286ed61a3e6afc2307602489d6
-  - name: twitter
-    url: https://twitter.com/DOGE_COIN20
+  - name: x
+    url: https://x.com/DOGE_COIN20
   - name: telegram
     url: https://t.me/DOGE_COIN20
 ---

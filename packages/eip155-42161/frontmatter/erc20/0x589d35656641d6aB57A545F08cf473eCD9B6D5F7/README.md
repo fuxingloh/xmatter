@@ -8,8 +8,8 @@ links:
     url: https://arbiscan.io/token/0x589d35656641d6aB57A545F08cf473eCD9B6D5F7
   - name: github
     url: https://github.com/trust-zcom/
-  - name: twitter
-    url: https://twitter.com/GMOTrust
+  - name: x
+    url: https://x.com/GMOTrust
   - name: medium
     url: https://gmotrust.medium.com/
   - name: coinmarketcap

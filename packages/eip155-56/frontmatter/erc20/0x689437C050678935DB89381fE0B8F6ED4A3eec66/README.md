@@ -6,8 +6,8 @@ links:
     url: https://www.babyspacefloki.com
   - name: explorer
     url: https://bscscan.com/token/0x689437C050678935DB89381fE0B8F6ED4A3eec66
-  - name: twitter
-    url: https://twitter.com/BabySpaceFloki
+  - name: x
+    url: https://x.com/BabySpaceFloki
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/babyspacefloki
 ---

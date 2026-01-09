@@ -8,8 +8,8 @@ links:
     url: https://www.l7.finance/
   - name: explorer
     url: https://bscscan.com/token/0xcd1b51b87a8a7137d6421ba5a976225187a26777
-  - name: twitter
-    url: https://twitter.com/L7_Global
+  - name: x
+    url: https://x.com/L7_Global
   - name: telegram
     url: https://t.me/L7_Official
 ---

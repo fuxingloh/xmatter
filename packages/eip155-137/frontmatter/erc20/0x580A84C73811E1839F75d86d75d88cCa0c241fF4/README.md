@@ -8,8 +8,8 @@ links:
     url: https://polygonscan.com/token/0x580a84c73811e1839f75d86d75d88cca0c241ff4
   - name: discord
     url: https://discord.com/invite/mQq55j65xJ
-  - name: twitter
-    url: https://twitter.com/0xLaoZi
+  - name: x
+    url: https://x.com/0xLaoZi
   - name: coingecko
     url: https://coingecko.com/en/coins/qi-dao/
   - name: medium

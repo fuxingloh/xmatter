@@ -8,8 +8,8 @@ links:
     url: https://flokiceo.io
   - name: explorer
     url: https://bscscan.com/token/0x45289007706E7Ee7B42b1fA506661d97740Edfb4
-  - name: twitter
-    url: https://twitter.com/FlokiCeoo
+  - name: x
+    url: https://x.com/FlokiCeoo
   - name: github
     url: https://github.com/flokiceo/
   - name: telegram

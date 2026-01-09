@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x0000000000085d4780B73119b644AE5ecd22b376
   - name: github
     url: https://github.com/trusttoken/TrueUSD
-  - name: twitter
-    url: https://twitter.com/tusd_official
+  - name: x
+    url: https://x.com/tusd_official
   - name: telegram
     url: https://t.me/TUSDofficial_EN
   - name: medium

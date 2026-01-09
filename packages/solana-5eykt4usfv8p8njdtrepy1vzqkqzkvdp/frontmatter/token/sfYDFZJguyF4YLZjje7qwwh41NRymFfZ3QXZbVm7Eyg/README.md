@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/sfYDFZJguyF4YLZjje7qwwh41NRymFfZ3QXZbVm7Eyg
   - name: telegram
     url: https://t.me/magaonsol_portal
-  - name: twitter
-    url: https://twitter.com/magaonsolanaTW
+  - name: x
+    url: https://x.com/magaonsolanaTW
 ---
 
 # MAGA

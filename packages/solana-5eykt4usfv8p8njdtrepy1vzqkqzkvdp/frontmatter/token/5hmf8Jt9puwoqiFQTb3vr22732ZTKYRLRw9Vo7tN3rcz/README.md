@@ -6,8 +6,8 @@ links:
     url: https://baby-sol.com
   - name: explorer
     url: https://solscan.io/token/5hmf8Jt9puwoqiFQTb3vr22732ZTKYRLRw9Vo7tN3rcz
-  - name: twitter
-    url: https://twitter.com/Baby_token_sol
+  - name: x
+    url: https://x.com/Baby_token_sol
   - name: telegram
     url: https://t.me/baby_token_sol
 ---

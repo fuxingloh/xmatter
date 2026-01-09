@@ -8,8 +8,8 @@ links:
     url: https://smardex.io/
   - name: explorer
     url: https://basescan.org/token/0xfd4330b0312fdeec6d4225075b82e00493ff2e3f
-  - name: twitter
-    url: https://twitter.com/SmarDex
+  - name: x
+    url: https://x.com/SmarDex
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/smardex/
   - name: coingecko

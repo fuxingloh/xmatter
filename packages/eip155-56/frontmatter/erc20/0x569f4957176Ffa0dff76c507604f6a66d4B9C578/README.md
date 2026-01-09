@@ -6,8 +6,8 @@ links:
     url: https://www.crypto-stone.io/
   - name: explorer
     url: https://bscscan.com/token/0x569f4957176Ffa0dff76c507604f6a66d4B9C578
-  - name: twitter
-    url: https://twitter.com/cryptostone_io
+  - name: x
+    url: https://x.com/cryptostone_io
   - name: telegram
     url: https://t.me/cryptostonegroup
   - name: coingecko

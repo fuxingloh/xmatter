@@ -6,8 +6,8 @@ links:
     url: https://dextools.io/
   - name: explorer
     url: https://etherscan.io/token/0xfb7b4564402e5500db5bb6d63ae671302777c75a
-  - name: twitter
-    url: https://twitter.com/DexToolsapp
+  - name: x
+    url: https://x.com/DexToolsapp
 ---
 
 # DEXTools

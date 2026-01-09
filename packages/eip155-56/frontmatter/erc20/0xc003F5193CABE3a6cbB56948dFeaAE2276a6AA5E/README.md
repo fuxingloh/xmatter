@@ -6,8 +6,8 @@ links:
     url: https://www.trubadger.io/
   - name: explorer
     url: https://bscscan.com/token/0xc003F5193CABE3a6cbB56948dFeaAE2276a6AA5E
-  - name: twitter
-    url: https://twitter.com/thetrubadger/
+  - name: x
+    url: https://x.com/thetrubadger/
   - name: github
     url: https://github.com/trubadger
   - name: telegram

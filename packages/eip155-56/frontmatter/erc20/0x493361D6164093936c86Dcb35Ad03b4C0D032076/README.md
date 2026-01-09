@@ -8,8 +8,8 @@ links:
     url: https://vistafinance.io/
   - name: explorer
     url: https://bscscan.com/token/0x493361d6164093936c86dcb35ad03b4c0d032076
-  - name: twitter
-    url: https://twitter.com/vistafound12
+  - name: x
+    url: https://x.com/vistafound12
   - name: reddit
     url: https://reddit.com/user/Then_Fondant_8184/
 ---

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E
   - name: source_code
     url: https://git.kira.network
-  - name: twitter
-    url: https://twitter.com/kira_core
+  - name: x
+    url: https://x.com/kira_core
   - name: telegram
     url: https://t.me/kirainterex
   - name: blog

@@ -6,8 +6,8 @@ links:
     url: https://vanitytoken.net
   - name: explorer
     url: https://bscscan.com/token/0xAbc69f2025bDb12efcdB8fd048d240fFf943ca82
-  - name: twitter
-    url: https://twitter.com/vanitytoken
+  - name: x
+    url: https://x.com/vanitytoken
   - name: github
     url: https://github.com/VanityTokenOfficial
   - name: telegram

@@ -8,8 +8,8 @@ links:
     url: https://runonflux.io/
   - name: explorer
     url: https://snowtrace.io/token/0xc4B06F17ECcB2215a5DBf042C672101Fc20daF55
-  - name: twitter
-    url: https://twitter.com/RunOnFlux
+  - name: x
+    url: https://x.com/RunOnFlux
   - name: github
     url: https://github.com/runonflux
   - name: facebook

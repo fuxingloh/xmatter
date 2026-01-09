@@ -6,8 +6,8 @@ links:
     url: https://chintai.io
   - name: explorer
     url: https://solscan.io/token/6dKCoWjpj5MFU5gWDEFdpUUeBasBLK3wLEwhUzQPAa1e
-  - name: twitter
-    url: https://twitter.com/ChintaiNexus
+  - name: x
+    url: https://x.com/ChintaiNexus
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/chex-token/
 ---

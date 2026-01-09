@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x9095e8d707E40982aFFce41C61c10895157A1B22
   - name: github
     url: https://github.com/CreamFi
-  - name: twitter
-    url: https://twitter.com/CreamdotFinance
+  - name: x
+    url: https://x.com/CreamdotFinance
   - name: telegram
     url: https://t.me/creamfinance
   - name: discord

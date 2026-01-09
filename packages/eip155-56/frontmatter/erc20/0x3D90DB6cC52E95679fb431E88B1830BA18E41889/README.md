@@ -8,8 +8,8 @@ links:
     url: https://rabi.foundation
   - name: explorer
     url: https://bscscan.com/token/0x3D90DB6cC52E95679fb431E88B1830BA18E41889
-  - name: twitter
-    url: https://twitter.com/rabi_foundation
+  - name: x
+    url: https://x.com/rabi_foundation
   - name: github
     url: https://github.com/Rabi-foundation
   - name: telegram

@@ -13,8 +13,8 @@ links:
     url: https://polygonscan.com/token/0x0b6f3ea2814f3fff804ba5d5c237aebbc364fba9
   - name: medium
     url: https://ultimatechampions.medium.com/
-  - name: twitter
-    url: https://twitter.com/Unagi_studio
+  - name: x
+    url: https://x.com/Unagi_studio
 ---
 
 # Unagi Token (UNA)

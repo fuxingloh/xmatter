@@ -8,8 +8,8 @@ links:
     url: https://openlivenft.com/
   - name: explorer
     url: https://bscscan.com/token/0x36C7B164F85D6F775cD128966D5819c7d36FEfF3
-  - name: twitter
-    url: https://twitter.com/OpenLiveNFT
+  - name: x
+    url: https://x.com/OpenLiveNFT
   - name: telegram
     url: https://t.me/OpenLiveNFT
   - name: docs

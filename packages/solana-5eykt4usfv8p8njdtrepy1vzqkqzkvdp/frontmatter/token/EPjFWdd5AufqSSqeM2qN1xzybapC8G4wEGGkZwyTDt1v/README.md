@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
   - name: telegram
     url: https://t.me/stakingfacilities
-  - name: twitter
-    url: https://twitter.com/solanabeach_io
+  - name: x
+    url: https://x.com/solanabeach_io
 ---
 
 # USD Coin

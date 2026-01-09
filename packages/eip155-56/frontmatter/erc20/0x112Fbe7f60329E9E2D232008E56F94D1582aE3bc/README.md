@@ -6,8 +6,8 @@ links:
     url: http://babyflokibillionaire.com/
   - name: explorer
     url: https://bscscan.com/token/0x112Fbe7f60329E9E2D232008E56F94D1582aE3bc
-  - name: twitter
-    url: https://twitter.com/BabyFlokiBLN
+  - name: x
+    url: https://x.com/BabyFlokiBLN
   - name: facebook
     url: https://facebook.com/Baby-Floki-Billionaire-104520351993111
   - name: telegram

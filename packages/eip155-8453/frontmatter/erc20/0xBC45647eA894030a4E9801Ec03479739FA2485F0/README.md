@@ -8,8 +8,8 @@ links:
     url: https://www.basenjibase.com/
   - name: explorer
     url: https://basescan.org/token/0xbc45647ea894030a4e9801ec03479739fa2485f0
-  - name: twitter
-    url: https://twitter.com/basenjiofficial
+  - name: x
+    url: https://x.com/basenjiofficial
   - name: telegram
     url: https://t.me/BasenjiBaseOfficial
   - name: github

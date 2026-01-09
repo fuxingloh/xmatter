@@ -6,8 +6,8 @@ links:
     url: https://www.nft-style.com/
   - name: explorer
     url: https://bscscan.com/token/0x5d33E26336C445c71F206dd18B64cE11C2eeE3f0
-  - name: twitter
-    url: https://twitter.com/NFTStyleToken
+  - name: x
+    url: https://x.com/NFTStyleToken
   - name: github
     url: https://github.com/developernftstyle
   - name: telegram

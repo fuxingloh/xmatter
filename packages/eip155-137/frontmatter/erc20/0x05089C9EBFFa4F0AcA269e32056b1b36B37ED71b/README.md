@@ -8,8 +8,8 @@ links:
     url: https://polygonscan.com/token/0x05089c9ebffa4f0aca269e32056b1b36b37ed71b
   - name: github
     url: https://github.com/polywhalefarm/contracts
-  - name: twitter
-    url: https://twitter.com/polywhalefi
+  - name: x
+    url: https://x.com/polywhalefi
   - name: telegram
     url: https://t.me/polywhale
   - name: medium

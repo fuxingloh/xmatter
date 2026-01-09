@@ -11,8 +11,8 @@ links:
     url: https://etherscan.io/token/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9
   - name: github
     url: https://github.com/aave/aave-protocol
-  - name: twitter
-    url: https://twitter.com/AaveAave
+  - name: x
+    url: https://x.com/AaveAave
   - name: reddit
     url: https://reddit.com/r/Aave_Official
   - name: blog

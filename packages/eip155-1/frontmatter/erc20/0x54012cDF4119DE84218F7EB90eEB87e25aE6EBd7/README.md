@@ -8,8 +8,8 @@ links:
     url: https://luffytoken.com/
   - name: explorer
     url: https://etherscan.io/token/0x54012cDF4119DE84218F7EB90eEB87e25aE6EBd7
-  - name: twitter
-    url: https://twitter.com/luffyinutoken
+  - name: x
+    url: https://x.com/luffyinutoken
   - name: telegram
     url: https://t.me/luffytoken_official
   - name: reddit

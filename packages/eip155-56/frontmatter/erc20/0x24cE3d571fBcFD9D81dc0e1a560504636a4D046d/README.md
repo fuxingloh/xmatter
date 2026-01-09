@@ -6,8 +6,8 @@ links:
     url: https://metapetscoin.com
   - name: explorer
     url: https://bscscan.com/token/0x24cE3d571fBcFD9D81dc0e1a560504636a4D046d
-  - name: twitter
-    url: https://twitter.com/metapetscoin
+  - name: x
+    url: https://x.com/metapetscoin
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/metapets/
   - name: coingecko

@@ -8,8 +8,8 @@ links:
     url: https://uns.technology
   - name: explorer
     url: https://bscscan.com/token/0xecf99ab23c11ddc6520252105308c251001aefbb
-  - name: twitter
-    url: https://twitter.com/_unsofficial_
+  - name: x
+    url: https://x.com/_unsofficial_
   - name: telegram
     url: https://t.me/uns_token
   - name: discord

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xa2120b9e674d3fc3875f415a7df52e382f141225
   - name: github
     url: https://github.com/automata-network
-  - name: twitter
-    url: https://twitter.com/automatanetwork
+  - name: x
+    url: https://x.com/automatanetwork
   - name: telegram
     url: https://t.me/ata_network
   - name: coingecko

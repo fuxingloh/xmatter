@@ -6,8 +6,8 @@ links:
     url: https://smiletoken.io/
   - name: explorer
     url: https://bscscan.com/token/0x1cD137eb5BDf426AaE58C3Ed80383f74e42D9bF2
-  - name: twitter
-    url: https://twitter.com/smiletokens
+  - name: x
+    url: https://x.com/smiletokens
   - name: telegram
     url: https://t.me/smiletokens
 ---

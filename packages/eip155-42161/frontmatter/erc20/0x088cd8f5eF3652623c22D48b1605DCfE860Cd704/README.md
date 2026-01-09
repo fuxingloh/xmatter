@@ -6,8 +6,8 @@ links:
     url: https://vela.exchange/
   - name: explorer
     url: https://arbiscan.io/token/0x088cd8f5ef3652623c22d48b1605dcfe860cd704
-  - name: twitter
-    url: https://twitter.com/vela_exchange
+  - name: x
+    url: https://x.com/vela_exchange
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/vela-token/
 ---

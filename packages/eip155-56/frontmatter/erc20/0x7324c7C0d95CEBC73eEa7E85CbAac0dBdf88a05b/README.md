@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x7324c7C0d95CEBC73eEa7E85CbAac0dBdf88a05b
   - name: github
     url: https://github.com/Onyx-Protocol
-  - name: twitter
-    url: https://twitter.com/OnyxProtocol
+  - name: x
+    url: https://x.com/OnyxProtocol
   - name: blog
     url: https://blog.chain.com/
   - name: coinmarketcap

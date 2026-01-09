@@ -6,8 +6,8 @@ links:
     url: https://starheroes.io/
   - name: explorer
     url: https://arbiscan.io/token/0xb299751b088336e165da313c33e3195b8c6663a6
-  - name: twitter
-    url: https://twitter.com/starheroes_game
+  - name: x
+    url: https://x.com/starheroes_game
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/starheroes/
 ---

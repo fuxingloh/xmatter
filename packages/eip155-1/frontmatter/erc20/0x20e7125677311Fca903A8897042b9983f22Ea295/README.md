@@ -8,8 +8,8 @@ links:
     url: https://aubit.io/
   - name: explorer
     url: https://etherscan.io/token/0x20e7125677311Fca903A8897042b9983f22Ea295
-  - name: twitter
-    url: https://twitter.com/FreewayFi
+  - name: x
+    url: https://x.com/FreewayFi
   - name: coingecko
     url: https://coingecko.com/en/coins/freeway/
 ---

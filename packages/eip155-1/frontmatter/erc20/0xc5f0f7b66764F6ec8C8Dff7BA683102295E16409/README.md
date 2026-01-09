@@ -8,8 +8,8 @@ links:
     url: https://firstdigitallabs.com
   - name: explorer
     url: https://etherscan.io/token/0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409
-  - name: twitter
-    url: https://twitter.com/FDLabsHQ
+  - name: x
+    url: https://x.com/FDLabsHQ
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/first-digital-usd
   - name: coingecko

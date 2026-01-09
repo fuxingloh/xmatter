@@ -6,8 +6,8 @@ links:
     url: https://literallyme.vip/
   - name: explorer
     url: https://solscan.io/token/4Y47LEufvcSSSbTFojcvW4Y6x2KZXrqG2urNBSvHpump
-  - name: twitter
-    url: https://twitter.com/LiterallyMeSol
+  - name: x
+    url: https://x.com/LiterallyMeSol
 ---
 
 # Literally Me

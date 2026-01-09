@@ -8,8 +8,8 @@ links:
     url: https://blkwhale.com
   - name: explorer
     url: https://bscscan.com/token/0xc0E6AD13BD58413Ed308729b688d601243E1CF77
-  - name: twitter
-    url: https://twitter.com/blkwhalegroup
+  - name: x
+    url: https://x.com/blkwhalegroup
   - name: telegram
     url: https://t.me/BLKwhale_global
   - name: medium

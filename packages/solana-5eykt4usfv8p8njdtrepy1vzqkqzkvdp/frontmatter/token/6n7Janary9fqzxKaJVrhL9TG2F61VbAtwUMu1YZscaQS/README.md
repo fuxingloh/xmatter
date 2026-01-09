@@ -6,8 +6,8 @@ links:
     url: https://hobbescat.com
   - name: explorer
     url: https://solscan.io/token/6n7Janary9fqzxKaJVrhL9TG2F61VbAtwUMu1YZscaQS
-  - name: twitter
-    url: https://twitter.com/HobbesOnSolana
+  - name: x
+    url: https://x.com/HobbesOnSolana
 ---
 
 # Ansem's Cat

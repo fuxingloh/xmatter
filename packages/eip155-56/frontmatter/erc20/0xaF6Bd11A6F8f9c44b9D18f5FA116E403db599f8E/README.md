@@ -6,8 +6,8 @@ links:
     url: https://alinx.io/
   - name: explorer
     url: https://bscscan.com/token/0xaf6bd11a6f8f9c44b9d18f5fa116e403db599f8e
-  - name: twitter
-    url: https://twitter.com/alinx_io
+  - name: x
+    url: https://x.com/alinx_io
   - name: telegram
     url: https://t.me/alinx_group
 ---

@@ -8,8 +8,8 @@ links:
     url: https://thebullsarmy.com/
   - name: explorer
     url: https://polygonscan.com/token/0x7e1ae068ac4e0ffd7a84750c2fb093a0eae9aea2
-  - name: twitter
-    url: https://twitter.com/thebullsarmy1
+  - name: x
+    url: https://x.com/thebullsarmy1
   - name: telegram
     url: https://t.me/thebullsarmy1
 ---

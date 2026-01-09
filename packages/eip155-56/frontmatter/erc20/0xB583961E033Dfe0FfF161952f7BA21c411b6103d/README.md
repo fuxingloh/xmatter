@@ -10,8 +10,8 @@ links:
     url: https://youwho.io
   - name: explorer
     url: https://bscscan.com/token/0xB583961E033Dfe0FfF161952f7BA21c411b6103d
-  - name: twitter
-    url: https://twitter.com/you_youwho
+  - name: x
+    url: https://x.com/you_youwho
   - name: github
     url: https://github.com/youwhoyou
   - name: telegram

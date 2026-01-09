@@ -6,8 +6,8 @@ links:
     url: https://draggy.co/
   - name: explorer
     url: https://etherscan.io/token/0xd12a99dbc40036cec6f1b776dccd2d36f5953b94
-  - name: twitter
-    url: https://twitter.com/DraggyCTO
+  - name: x
+    url: https://x.com/DraggyCTO
   - name: telegram
     url: https://t.me/DraggyOfficialCTO
 ---

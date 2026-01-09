@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x8e17ed70334c87ece574c9d537bc153d8609e2a3
   - name: whitepaper
     url: https://download.wazirx.com/wrx/wrx-whitepaper.pdf
-  - name: twitter
-    url: https://twitter.com/wazirxindiap
+  - name: x
+    url: https://x.com/wazirxindiap
   - name: facebook
     url: https://facebook.com/wazirx
   - name: github

@@ -11,8 +11,8 @@ links:
     url: https://bscscan.com/token/0x1fc9004ec7e5722891f5f38bae7678efcb11d34d
   - name: telegram
     url: https://t.me/apenftEN
-  - name: twitter
-    url: https://twitter.com/apenftorg
+  - name: x
+    url: https://x.com/apenftorg
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/apenft/
   - name: coingecko

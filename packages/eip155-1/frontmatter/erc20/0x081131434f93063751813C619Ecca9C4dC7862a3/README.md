@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x081131434f93063751813c619ecca9c4dc7862a3
   - name: telegram
     url: https://t.me/MinesOfDalarnia
-  - name: twitter
-    url: https://twitter.com/MinesOfDalarnia
+  - name: x
+    url: https://x.com/MinesOfDalarnia
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/mines-of-dalarnia/
 ---

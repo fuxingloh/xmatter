@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/CmLfUYD69N4cdthVJBAcojPhZvFTwEz3Xo2TuBzLpump
   - name: telegram
     url: https://t.me/billi_solana
-  - name: twitter
-    url: https://twitter.com/billi_solana
+  - name: x
+    url: https://x.com/billi_solana
 ---
 
 # BILLI

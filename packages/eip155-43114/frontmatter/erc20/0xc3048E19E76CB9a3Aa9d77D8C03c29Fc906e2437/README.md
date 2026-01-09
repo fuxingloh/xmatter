@@ -12,8 +12,8 @@ links:
     url: https://coinmarketcap.com/currencies/compound/
   - name: coingecko
     url: https://coingecko.com/en/coins/compound-governance-token/
-  - name: twitter
-    url: https://twitter.com/compoundfinance
+  - name: x
+    url: https://x.com/compoundfinance
 ---
 
 # Compound

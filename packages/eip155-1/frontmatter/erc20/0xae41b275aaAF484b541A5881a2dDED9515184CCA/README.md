@@ -6,8 +6,8 @@ links:
     url: https://www.chain-swap.org/
   - name: explorer
     url: https://etherscan.io/token/0xae41b275aaaf484b541a5881a2dded9515184cca
-  - name: twitter
-    url: https://twitter.com/chainswaperc
+  - name: x
+    url: https://x.com/chainswaperc
   - name: coingecko
     url: https://coingecko.com/en/coins/chainswap-3/
 ---

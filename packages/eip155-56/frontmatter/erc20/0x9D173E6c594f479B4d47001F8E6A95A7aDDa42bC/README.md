@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x9D173E6c594f479B4d47001F8E6A95A7aDDa42bC
   - name: telegram
     url: https://t.me/CryptoZoonBSC
-  - name: twitter
-    url: https://twitter.com/CryptoZoonBSC
+  - name: x
+    url: https://x.com/CryptoZoonBSC
   - name: reddit
     url: https://reddit.com/user/CryptoZoon
   - name: docs

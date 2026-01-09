@@ -6,8 +6,8 @@ links:
     url: https://www.tapmydata.com
   - name: explorer
     url: https://etherscan.io/token/0x7f1f2d3dfa99678675ece1c243d3f7bc3746db5d
-  - name: twitter
-    url: https://twitter.com/tapmydata
+  - name: x
+    url: https://x.com/tapmydata
   - name: telegram
     url: https://t.me/tapmydataofficial
 ---

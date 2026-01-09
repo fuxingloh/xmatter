@@ -24,8 +24,8 @@ links:
     url: https://coinmarketcap.com/currencies/mrweb-finance/
   - name: coingecko
     url: https://coingecko.com/en/coins/mrweb-finance
-  - name: twitter
-    url: https://twitter.com/MrwebFinance
+  - name: x
+    url: https://x.com/MrwebFinance
   - name: reddit
     url: https://reddit.com/r/Mrweb_Finance
 ---

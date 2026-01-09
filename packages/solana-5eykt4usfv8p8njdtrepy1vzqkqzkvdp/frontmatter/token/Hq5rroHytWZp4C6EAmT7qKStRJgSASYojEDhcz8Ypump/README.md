@@ -6,8 +6,8 @@ links:
     url: https://www.byeden.guru/
   - name: explorer
     url: https://solscan.io/token/Hq5rroHytWZp4C6EAmT7qKStRJgSASYojEDhcz8Ypump
-  - name: twitter
-    url: https://twitter.com/BYEden_Sol
+  - name: x
+    url: https://x.com/BYEden_Sol
   - name: telegram
     url: https://t.me/JOEbyeden
 ---

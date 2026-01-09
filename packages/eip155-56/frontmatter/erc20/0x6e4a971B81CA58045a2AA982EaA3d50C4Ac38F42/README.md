@@ -8,8 +8,8 @@ links:
     url: https://bridge.link
   - name: explorer
     url: https://bscscan.com/token/0x6e4a971B81CA58045a2AA982EaA3d50C4Ac38F42
-  - name: twitter
-    url: https://twitter.com/bridge_oracle
+  - name: x
+    url: https://x.com/bridge_oracle
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/bridge-oracle/
   - name: discord

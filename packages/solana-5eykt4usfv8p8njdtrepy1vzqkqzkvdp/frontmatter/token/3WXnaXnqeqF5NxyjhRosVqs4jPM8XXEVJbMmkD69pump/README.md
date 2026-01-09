@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/3WXnaXnqeqF5NxyjhRosVqs4jPM8XXEVJbMmkD69pump
   - name: telegram
     url: https://t.me/+ZOCd6H2MUic5MmVl
-  - name: twitter
-    url: https://twitter.com/SOLCultureCoin
+  - name: x
+    url: https://x.com/SOLCultureCoin
 ---
 
 # Men of Culture

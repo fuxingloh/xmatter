@@ -11,8 +11,8 @@ links:
     url: https://bscscan.com/token/0x9678E42ceBEb63F23197D726B29b1CB20d0064E5
   - name: github
     url: https://github.com/iotexproject/iotex-core
-  - name: twitter
-    url: https://twitter.com/iotex_io
+  - name: x
+    url: https://x.com/iotex_io
   - name: telegram
     url: https://t.me/IoTeXGroup
   - name: facebook

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xe90d1567ecEF9282CC1AB348D9e9E2ac95659B99
   - name: whitepaper
     url: https://coinxpad.io/whitepaper
-  - name: twitter
-    url: https://twitter.com/coinxpad
+  - name: x
+    url: https://x.com/coinxpad
   - name: telegram
     url: https://t.me/Coinxpad
 ---

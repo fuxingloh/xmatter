@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x9fa69536d1cda4A04cFB50688294de75B505a9aE
   - name: blog
     url: https://derace.com
-  - name: twitter
-    url: https://twitter.com/deracenft
+  - name: x
+    url: https://x.com/deracenft
   - name: telegram
     url: https://t.me/DeRaceNFT
   - name: medium

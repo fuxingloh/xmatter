@@ -8,8 +8,8 @@ links:
     url: https://coinerr.io
   - name: explorer
     url: https://bscscan.com/token/0x8fE8df37335EDB6E9F41F6baF550d2A973F48f21
-  - name: twitter
-    url: https://twitter.com/coinerr_err
+  - name: x
+    url: https://x.com/coinerr_err
   - name: github
     url: https://github.com/CoinerrERR
   - name: telegram

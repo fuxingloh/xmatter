@@ -8,8 +8,8 @@ links:
     url: https://www.evintoken.com
   - name: explorer
     url: https://bscscan.com/token/0x269b7a30497f92ebf307e7467fd4f1210a6c36b6
-  - name: twitter
-    url: https://twitter.com/evintoken
+  - name: x
+    url: https://x.com/evintoken
   - name: telegram
     url: https://t.me/KriptoEvin
   - name: whitepaper

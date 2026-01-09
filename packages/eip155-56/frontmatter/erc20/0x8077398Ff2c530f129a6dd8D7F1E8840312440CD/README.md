@@ -9,8 +9,8 @@ links:
     url: https://milotoken.io
   - name: explorer
     url: https://bscscan.com/token/0x8077398ff2c530f129a6dd8d7f1e8840312440cd
-  - name: twitter
-    url: https://twitter.com/MiloInu
+  - name: x
+    url: https://x.com/MiloInu
   - name: telegram
     url: https://t.me/MiloInu
 ---

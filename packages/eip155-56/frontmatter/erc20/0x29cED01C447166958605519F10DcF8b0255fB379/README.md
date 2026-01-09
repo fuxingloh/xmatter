@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x29cED01C447166958605519F10DcF8b0255fB379
   - name: github
     url: https://github.com/FraxFinance
-  - name: twitter
-    url: https://twitter.com/Frax Finance
+  - name: x
+    url: https://x.com/Frax Finance
   - name: telegram
     url: https://t.me/fraxfinance
   - name: discord

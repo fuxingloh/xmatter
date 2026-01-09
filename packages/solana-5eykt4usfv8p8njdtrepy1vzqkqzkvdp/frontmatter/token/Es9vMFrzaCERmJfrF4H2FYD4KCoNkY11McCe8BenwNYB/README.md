@@ -6,8 +6,8 @@ links:
     url: https://tether.to
   - name: explorer
     url: https://solscan.io/token/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB
-  - name: twitter
-    url: https://twitter.com/Tether_to/
+  - name: x
+    url: https://x.com/Tether_to/
   - name: telegram
     url: https://t.me/OfficialTether
   - name: facebook

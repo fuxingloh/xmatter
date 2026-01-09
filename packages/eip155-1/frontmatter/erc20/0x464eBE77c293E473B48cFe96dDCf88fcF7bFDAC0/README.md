@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x464eBE77c293E473B48cFe96dDCf88fcF7bFDAC0
   - name: github
     url: https://github.com/Cryptense/
-  - name: twitter
-    url: https://twitter.com/kryll_io
+  - name: x
+    url: https://x.com/kryll_io
   - name: telegram
     url: https://t.me/kryll_io
   - name: facebook

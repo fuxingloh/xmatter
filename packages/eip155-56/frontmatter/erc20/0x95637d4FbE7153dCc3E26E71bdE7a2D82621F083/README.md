@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x95637d4FbE7153dCc3E26E71bdE7a2D82621F083
   - name: telegram
     url: https://t.me/ForeverFOMO
-  - name: twitter
-    url: https://twitter.com/FomoForever
+  - name: x
+    url: https://x.com/FomoForever
   - name: reddit
     url: https://reddit.com/r/ForeverFOMO/
 ---

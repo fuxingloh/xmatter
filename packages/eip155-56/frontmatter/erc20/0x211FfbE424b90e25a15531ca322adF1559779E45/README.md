@@ -6,8 +6,8 @@ links:
     url: https://getbuxcrypto.com
   - name: explorer
     url: https://bscscan.com/token/0x211ffbe424b90e25a15531ca322adf1559779e45
-  - name: twitter
-    url: https://twitter.com/buxcrypto
+  - name: x
+    url: https://x.com/buxcrypto
   - name: telegram
     url: https://t.me/buxcommunity
 ---

@@ -6,8 +6,8 @@ links:
     url: https://app.openxswap.exchange/
   - name: explorer
     url: https://optimistic.etherscan.io/token/0x2513486f18eee1498d7b6281f668b955181dd0d9
-  - name: twitter
-    url: https://twitter.com/OpenXSwap
+  - name: x
+    url: https://x.com/OpenXSwap
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/openxswap-gov-token/
 ---

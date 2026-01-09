@@ -8,8 +8,8 @@ links:
     url: https://vulcanforged.com/
   - name: explorer
     url: https://etherscan.io/token/0x430ef9263e76dae63c84292c3409d61c598e9682
-  - name: twitter
-    url: https://twitter.com/VulcanForged
+  - name: x
+    url: https://x.com/VulcanForged
   - name: telegram
     url: https://t.me/VeriArti
   - name: coinmarketcap

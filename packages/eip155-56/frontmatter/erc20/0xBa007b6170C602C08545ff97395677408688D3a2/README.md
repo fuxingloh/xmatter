@@ -8,8 +8,8 @@ links:
     url: https://www.metaplanetofficial.com
   - name: explorer
     url: https://bscscan.com/token/0xBa007b6170C602C08545ff97395677408688D3a2
-  - name: twitter
-    url: https://twitter.com/METAPLANETBSC
+  - name: x
+    url: https://x.com/METAPLANETBSC
   - name: telegram
     url: https://t.me/MetaPlanetOfficial
   - name: youtube

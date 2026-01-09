@@ -6,8 +6,8 @@ links:
     url: https://benchmarkprotocol.finance
   - name: explorer
     url: https://etherscan.io/token/0x67c597624B17b16fb77959217360B7cD18284253
-  - name: twitter
-    url: https://twitter.com/Benchmark_Defi
+  - name: x
+    url: https://x.com/Benchmark_Defi
 ---
 
 # Benchmark Protocol

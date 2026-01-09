@@ -8,8 +8,8 @@ links:
     url: https://mcpepes.com/
   - name: explorer
     url: https://etherscan.io/token/0x6bf765c43030387a983f429c1438e9d2025b7e12
-  - name: twitter
-    url: https://twitter.com/McPepes_AI
+  - name: x
+    url: https://x.com/McPepes_AI
   - name: coingecko
     url: https://coingecko.com/en/coins/mcpepe-s/
 ---

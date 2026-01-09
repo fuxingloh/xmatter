@@ -6,8 +6,8 @@ links:
     url: https://flapptoken.io/
   - name: explorer
     url: https://etherscan.io/token/0xCfb72ED3647cC8E7FA52E4F121eCdAbEfC305e7f
-  - name: twitter
-    url: https://twitter.com/Flapp
+  - name: x
+    url: https://x.com/Flapp
 ---
 
 # Flapp

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x17D8519F57450E2B7E6aE1163E0E448322a8aF17
   - name: telegram
     url: https://t.me/lofi_defi
-  - name: twitter
-    url: https://twitter.com/lofi_defi
+  - name: x
+    url: https://x.com/lofi_defi
   - name: reddit
     url: https://reddit.com/r/lofi_defi
   - name: discord

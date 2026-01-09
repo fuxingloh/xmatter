@@ -6,8 +6,8 @@ links:
     url: https://cocosnaponsol.io/
   - name: explorer
     url: https://solscan.io/token/4G86CMxGsMdLETrYnavMFKPhQzKTvDBYGMRAdVtr72nu
-  - name: twitter
-    url: https://twitter.com/COCOSNAPONSOL
+  - name: x
+    url: https://x.com/COCOSNAPONSOL
 ---
 
 # SNAP

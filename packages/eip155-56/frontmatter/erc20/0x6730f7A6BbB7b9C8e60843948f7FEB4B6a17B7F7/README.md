@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x6730f7A6BbB7b9C8e60843948f7FEB4B6a17B7F7
   - name: github
     url: https://github.com/seedphoto/SeedToken
-  - name: twitter
-    url: https://twitter.com/SeedPhoto
+  - name: x
+    url: https://x.com/SeedPhoto
   - name: whitepaper
     url: https://token.seed.photo
   - name: coinmarketcap

@@ -10,8 +10,8 @@ links:
     url: https://basescan.org/token/0xe2c86869216aC578bd62a4b8313770d9EE359A05
   - name: whitepaper
     url: https://ethermail.io/emt
-  - name: twitter
-    url: https://twitter.com/ethermail_io
+  - name: x
+    url: https://x.com/ethermail_io
   - name: medium
     url: https://medium.com/@ethermail_io
   - name: telegram

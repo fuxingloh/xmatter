@@ -8,8 +8,8 @@ links:
     url: https://tronscan.io/#/token20/TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t
   - name: whitepaper
     url: https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf
-  - name: twitter
-    url: https://twitter.com/Tether_to
+  - name: x
+    url: https://x.com/Tether_to
   - name: telegram
     url: https://t.me/tronnetworkEN
   - name: medium

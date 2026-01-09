@@ -8,8 +8,8 @@ links:
     url: https://arbiscan.io/token/0x69Eb4FA4a2fbd498C257C57Ea8b7655a2559A581
   - name: github
     url: https://github.com/DODOEX/
-  - name: twitter
-    url: https://twitter.com/DODO
+  - name: x
+    url: https://x.com/DODO
   - name: reddit
     url: https://reddit.com/r/DodoEx/
   - name: medium

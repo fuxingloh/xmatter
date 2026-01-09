@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xfb19c03a02a519a44542343803f3d42578cbc243
   - name: telegram
     url: https://t.me/joinchat/4mPn7zVK0vgyYmQx
-  - name: twitter
-    url: https://twitter.com/crcointoken
+  - name: x
+    url: https://x.com/crcointoken
   - name: coingecko
     url: https://coingecko.com/es/monedas/cr-coin
 ---

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x35Bd36597fF784FCc30D08EBE4Bd917374C40d4B
   - name: github
     url: https://github.com/MiniShibTeam
-  - name: twitter
-    url: https://twitter.com/realminishib
+  - name: x
+    url: https://x.com/realminishib
   - name: reddit
     url: https://reddit.com/r/MinishibGroup/
 ---

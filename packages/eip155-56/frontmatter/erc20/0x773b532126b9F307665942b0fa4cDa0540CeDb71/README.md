@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x773b532126b9F307665942b0fa4cDa0540CeDb71
   - name: github
     url: https://github.com/BoosterToken
-  - name: twitter
-    url: https://twitter.com/BoosterToken
+  - name: x
+    url: https://x.com/BoosterToken
   - name: telegram
     url: https://t.me/BoosterToken
 ---

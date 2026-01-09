@@ -8,8 +8,8 @@ links:
     url: https://Payvertise.com
   - name: explorer
     url: https://bscscan.com/token/0xb4E14166F6dE109f800C52A84a434C383137C8dC
-  - name: twitter
-    url: https://twitter.com/payvertise_
+  - name: x
+    url: https://x.com/payvertise_
   - name: github
     url: https://github.com/payvertise
   - name: telegram

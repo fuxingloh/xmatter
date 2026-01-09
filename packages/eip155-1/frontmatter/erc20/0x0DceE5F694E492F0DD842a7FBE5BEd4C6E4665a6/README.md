@@ -6,8 +6,8 @@ links:
     url: https://www.catboy.io/
   - name: explorer
     url: https://etherscan.io/token/0x0DceE5F694E492F0DD842a7FBE5BEd4C6E4665a6
-  - name: twitter
-    url: https://twitter.com/catboy_io
+  - name: x
+    url: https://x.com/catboy_io
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/cat-boy/
 ---

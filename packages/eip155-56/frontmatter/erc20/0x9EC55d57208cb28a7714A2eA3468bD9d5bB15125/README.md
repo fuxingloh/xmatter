@@ -8,8 +8,8 @@ links:
     url: https://gomatoken.com
   - name: explorer
     url: https://bscscan.com/token/0x9ec55d57208cb28a7714a2ea3468bd9d5bb15125
-  - name: twitter
-    url: https://twitter.com/GOMAFinance
+  - name: x
+    url: https://x.com/GOMAFinance
   - name: github
     url: https://github.com/GOMA-Finance
   - name: medium

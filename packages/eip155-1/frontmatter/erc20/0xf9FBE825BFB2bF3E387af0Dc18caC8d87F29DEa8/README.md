@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xf9fbe825bfb2bf3e387af0dc18cac8d87f29dea8
   - name: github
     url: https://github.com/BotOcean
-  - name: twitter
-    url: https://twitter.com/botoceaninc
+  - name: x
+    url: https://x.com/botoceaninc
   - name: whitepaper
     url: https://botocean.com/static/media/whitepaper.aff921dc.pdf
 ---

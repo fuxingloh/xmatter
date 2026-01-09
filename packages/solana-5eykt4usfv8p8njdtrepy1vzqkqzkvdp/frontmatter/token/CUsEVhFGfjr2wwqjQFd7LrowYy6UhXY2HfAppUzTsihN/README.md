@@ -6,8 +6,8 @@ links:
     url: https://hump.io
   - name: explorer
     url: https://solscan.io/token/CUsEVhFGfjr2wwqjQFd7LrowYy6UhXY2HfAppUzTsihN
-  - name: twitter
-    url: https://twitter.com/Humptoken
+  - name: x
+    url: https://x.com/Humptoken
 ---
 
 # Hump

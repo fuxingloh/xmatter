@@ -6,8 +6,8 @@ links:
     url: https://morpher.com
   - name: explorer
     url: https://etherscan.io/token/0x6369c3DadfC00054A42BA8B2c09c48131dd4Aa38
-  - name: twitter
-    url: https://twitter.com/morpher_io
+  - name: x
+    url: https://x.com/morpher_io
   - name: telegram
     url: https://t.me/morpher_io
   - name: medium

@@ -8,8 +8,8 @@ links:
     url: https://marketmove.ai
   - name: explorer
     url: https://bscscan.com/token/0x231cf6f78620e42fe00d0c5c3088b427f355d01c
-  - name: twitter
-    url: https://twitter.com/marketmoveAI
+  - name: x
+    url: https://x.com/marketmoveAI
   - name: github
     url: https://github.com/MarketMoveAI
   - name: telegram

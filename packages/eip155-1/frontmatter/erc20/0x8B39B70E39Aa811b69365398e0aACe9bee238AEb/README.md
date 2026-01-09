@@ -6,8 +6,8 @@ links:
     url: https://polkafoundry.com
   - name: explorer
     url: https://etherscan.io/token/0x8B39B70E39Aa811b69365398e0aACe9bee238AEb
-  - name: twitter
-    url: https://twitter.com/polkafoundry
+  - name: x
+    url: https://x.com/polkafoundry
   - name: telegram
     url: https://t.me/polkafoundry
   - name: medium

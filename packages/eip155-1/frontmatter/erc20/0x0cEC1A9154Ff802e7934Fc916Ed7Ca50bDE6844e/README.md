@@ -6,8 +6,8 @@ links:
     url: https://pooltogether.com
   - name: explorer
     url: https://etherscan.io/token/0x0cEC1A9154Ff802e7934Fc916Ed7Ca50bDE6844e
-  - name: twitter
-    url: https://twitter.com/PoolTogether_
+  - name: x
+    url: https://x.com/PoolTogether_
   - name: discord
     url: https://discord.com/invite/hxPhPDW
   - name: medium

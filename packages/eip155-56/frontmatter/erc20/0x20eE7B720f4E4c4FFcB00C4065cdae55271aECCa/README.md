@@ -9,8 +9,8 @@ links:
     url: https://apenft.io/
   - name: explorer
     url: https://bscscan.com/token/0x20ee7b720f4e4c4ffcb00c4065cdae55271aecca
-  - name: twitter
-    url: https://twitter.com/apenftorg
+  - name: x
+    url: https://x.com/apenftorg
   - name: telegram
     url: https://t.me/apenftEN
   - name: whitepaper

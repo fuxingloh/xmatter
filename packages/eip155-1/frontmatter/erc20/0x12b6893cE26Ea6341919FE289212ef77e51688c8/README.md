@@ -8,8 +8,8 @@ links:
     url: https://tamadoge.io
   - name: explorer
     url: https://etherscan.io/token/0x12b6893cE26Ea6341919FE289212ef77e51688c8
-  - name: twitter
-    url: https://twitter.com/Tamadogecoin
+  - name: x
+    url: https://x.com/Tamadogecoin
   - name: discord
     url: https://discord.com/invite/Z2PqFvsXJa
   - name: telegram

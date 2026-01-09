@@ -8,8 +8,8 @@ links:
     url: https://cabcd.org
   - name: explorer
     url: https://bscscan.com/token/0xa0cc3a881aef241d6cb3b7db3168bd26094560be
-  - name: twitter
-    url: https://twitter.com/CryptoInu_ABCD
+  - name: x
+    url: https://x.com/CryptoInu_ABCD
   - name: github
     url: https://github.com/cryptoinu-abcd
   - name: telegram

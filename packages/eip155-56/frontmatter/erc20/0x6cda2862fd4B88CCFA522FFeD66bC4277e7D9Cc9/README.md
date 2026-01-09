@@ -8,8 +8,8 @@ links:
     url: https://Neurashi.com
   - name: explorer
     url: https://bscscan.com/token/0x6cda2862fd4B88CCFA522FFeD66bC4277e7D9Cc9
-  - name: twitter
-    url: https://twitter.com/neurashi
+  - name: x
+    url: https://x.com/neurashi
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/neurashi/
   - name: telegram

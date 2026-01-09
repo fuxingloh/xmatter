@@ -6,8 +6,8 @@ links:
     url: https://www.kimboavax.com/
   - name: explorer
     url: https://snowtrace.io/token/0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1
-  - name: twitter
-    url: https://twitter.com/KimboAvax
+  - name: x
+    url: https://x.com/KimboAvax
   - name: telegram
     url: https://t.me/KIMBOavax
 ---

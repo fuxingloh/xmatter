@@ -8,8 +8,8 @@ links:
     url: https://finodao.com/
   - name: explorer
     url: https://bscscan.com/token/0x6C9AE5d6746ee1B6bD03310079AA11d8EC409212
-  - name: twitter
-    url: https://twitter.com/Fino_DAO
+  - name: x
+    url: https://x.com/Fino_DAO
   - name: telegram
     url: https://t.me/finofinance
   - name: coinmarketcap

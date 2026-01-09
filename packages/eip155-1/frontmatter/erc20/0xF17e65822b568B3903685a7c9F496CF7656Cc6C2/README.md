@@ -6,8 +6,8 @@ links:
     url: https://www.biconomy.io/
   - name: explorer
     url: https://etherscan.io/token/0xf17e65822b568b3903685a7c9f496cf7656cc6c2
-  - name: twitter
-    url: https://twitter.com/biconomy
+  - name: x
+    url: https://x.com/biconomy
   - name: telegram
     url: https://t.me/biconomy
   - name: coinmarketcap

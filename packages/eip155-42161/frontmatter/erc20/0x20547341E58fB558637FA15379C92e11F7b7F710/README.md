@@ -6,8 +6,8 @@ links:
     url: https://mozaic.finance/
   - name: explorer
     url: https://arbiscan.io/token/0x20547341e58fb558637fa15379c92e11f7b7f710
-  - name: twitter
-    url: https://twitter.com/Mozaic_Fi
+  - name: x
+    url: https://x.com/Mozaic_Fi
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/mozaic/
 ---

@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xD9Ec3ff1f8be459Bb9369b4E79e9Ebcf7141C093
   - name: github
     url: https://github.com/kardiachain
-  - name: twitter
-    url: https://twitter.com/KardiaChain
+  - name: x
+    url: https://x.com/KardiaChain
   - name: medium
     url: https://medium.com/@KardiaChain
   - name: whitepaper

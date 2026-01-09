@@ -11,8 +11,8 @@ links:
     url: https://bscscan.com/token/0x26433c8127d9b4e9b71eaa15111df99ea2eeb2f8
   - name: github
     url: https://github.com/decentraland
-  - name: twitter
-    url: https://twitter.com/decentraland
+  - name: x
+    url: https://x.com/decentraland
   - name: reddit
     url: https://reddit.com/r/decentraland
   - name: blog

@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x29E9fDF5933824ad21Bc6dbb8BF156EFA3735e32
   - name: github
     url: https://github.com/meterio
-  - name: twitter
-    url: https://twitter.com/Meter_IO
+  - name: x
+    url: https://x.com/Meter_IO
   - name: telegram
     url: https://t.me/Meter_IO
   - name: discord

@@ -10,8 +10,8 @@ links:
     url: https://t.me/dalitoken
   - name: telegram
     url: https://t.me/dalienglish
-  - name: twitter
-    url: https://twitter.com/dalitoken
+  - name: x
+    url: https://x.com/dalitoken
   - name: github
     url: https://github.com/DaliToken
   - name: coinmarketcap

@@ -6,8 +6,8 @@ links:
     url: https://saveplanetearth.io/
   - name: explorer
     url: https://bscscan.com/token/0x4ac81e3631DcDa62109e3117c4CAE7bf70BbbbD2
-  - name: twitter
-    url: https://twitter.com/SPE_Token_BSC
+  - name: x
+    url: https://x.com/SPE_Token_BSC
   - name: telegram
     url: https://t.me/SavePlanetEarthOfficial
   - name: blog

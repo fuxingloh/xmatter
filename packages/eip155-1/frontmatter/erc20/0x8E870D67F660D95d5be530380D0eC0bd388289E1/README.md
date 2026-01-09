@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x8E870D67F660D95d5be530380D0eC0bd388289E1
   - name: github
     url: https://github.com/paxosglobal/pax-contracts
-  - name: twitter
-    url: https://twitter.com/PaxosStandard
+  - name: x
+    url: https://x.com/PaxosStandard
   - name: blog
     url: https://medium.com/@PaxosStandard
   - name: whitepaper

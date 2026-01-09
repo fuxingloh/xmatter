@@ -9,8 +9,8 @@ links:
     url: https://chumbivalley.com/
   - name: explorer
     url: https://bscscan.com/token/0x5492Ef6aEebA1A3896357359eF039a8B11621b45
-  - name: twitter
-    url: https://twitter.com/chumbivalley
+  - name: x
+    url: https://x.com/chumbivalley
   - name: discord
     url: https://discord.com/invite/chumbi
   - name: telegram

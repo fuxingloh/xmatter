@@ -14,8 +14,8 @@ links:
     url: https://etherscan.io/token/0x4116f14b6d462B32a1C10F98049E4B1765e34FA9
   - name: coingecko
     url: https://coingecko.com/en/coins/dotmoovs
-  - name: twitter
-    url: https://twitter.com/dotmoovs
+  - name: x
+    url: https://x.com/dotmoovs
   - name: telegram
     url: https://t.me/dotmoovs
   - name: telegram_news

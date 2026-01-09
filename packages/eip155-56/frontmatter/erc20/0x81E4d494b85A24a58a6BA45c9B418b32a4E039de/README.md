@@ -6,8 +6,8 @@ links:
     url: https://www.moontoken.xyz/
   - name: explorer
     url: https://bscscan.com/token/0x81E4d494b85A24a58a6BA45c9B418b32a4E039de
-  - name: twitter
-    url: https://twitter.com/MoonToken_BSC
+  - name: x
+    url: https://x.com/MoonToken_BSC
   - name: telegram
     url: https://t.me/MoonTokenBSCChat
   - name: discord

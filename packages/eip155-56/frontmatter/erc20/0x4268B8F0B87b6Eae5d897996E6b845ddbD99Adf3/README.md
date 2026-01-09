@@ -9,8 +9,8 @@ links:
     url: https://axelar.network/
   - name: explorer
     url: https://bscscan.com/token/0x4268B8F0B87b6Eae5d897996E6b845ddbD99Adf3
-  - name: twitter
-    url: https://twitter.com/axelarcore
+  - name: x
+    url: https://x.com/axelarcore
   - name: github
     url: https://github.com/axelarnetwork
   - name: telegram

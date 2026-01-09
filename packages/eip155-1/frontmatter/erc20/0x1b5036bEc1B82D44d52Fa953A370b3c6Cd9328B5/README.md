@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x1b5036bec1b82d44d52fa953a370b3c6cd9328b5
   - name: telegram
     url: https://t.me/ElanFutureOfficial
-  - name: twitter
-    url: https://twitter.com/ElanFuture
+  - name: x
+    url: https://x.com/ElanFuture
   - name: coingecko
     url: https://coingecko.com/en/coins/elan/
   - name: coinmarketcap

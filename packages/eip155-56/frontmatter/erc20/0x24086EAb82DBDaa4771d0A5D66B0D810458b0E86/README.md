@@ -8,8 +8,8 @@ links:
     url: https://pepeai.io
   - name: explorer
     url: https://bscscan.com/token/0x24086eab82dbdaa4771d0a5d66b0d810458b0e86
-  - name: twitter
-    url: https://twitter.com/pepeaicoin
+  - name: x
+    url: https://x.com/pepeaicoin
   - name: telegram
     url: https://t.me/pepeaicoin
   - name: coinmarketcap

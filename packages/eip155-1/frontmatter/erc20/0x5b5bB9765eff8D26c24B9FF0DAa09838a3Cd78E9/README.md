@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x5b5bB9765eff8D26c24B9FF0DAa09838a3Cd78E9
   - name: github
     url: https://github.com/vittominacori/erc20-generator/blob/v3.0.4/dist/BaseToken.dist.sol
-  - name: twitter
-    url: https://twitter.com/@bitaniumb
+  - name: x
+    url: https://x.com/@bitaniumb
   - name: telegram
     url: https://t.me/gregowens
   - name: whitepaper

@@ -6,8 +6,8 @@ links:
     url: https://idextools.com/
   - name: explorer
     url: https://etherscan.io/token/0x18a4979bbB4c88275d4575d66B9c9CD6BeA0cD5E
-  - name: twitter
-    url: https://twitter.com/IdexTools
+  - name: x
+    url: https://x.com/IdexTools
 ---
 
 # IdexTools

@@ -12,8 +12,8 @@ links:
     url: https://etherscan.io/token/0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55
   - name: telegram
     url: https://t.me/SuperVerseDAO
-  - name: twitter
-    url: https://twitter.com/SuperVerseDAO
+  - name: x
+    url: https://x.com/SuperVerseDAO
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/superfarm/
   - name: coingecko

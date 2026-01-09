@@ -6,8 +6,8 @@ links:
     url: https://crypto.com/
   - name: explorer
     url: https://polygonscan.com/token/0xAdA58DF0F643D959C2A47c9D4d4c1a4deFe3F11C
-  - name: twitter
-    url: https://twitter.com/cryptocom
+  - name: x
+    url: https://x.com/cryptocom
   - name: facebook
     url: https://facebook.com/CryptoComOfficial
   - name: telegram

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x763ACA17f03C221d16Ba9191A66F75B78a403BCB
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/axienomics/
-  - name: twitter
-    url: https://twitter.com/axienomics
+  - name: x
+    url: https://x.com/axienomics
   - name: telegram
     url: https://t.me/AxienomicsOfficial
 ---

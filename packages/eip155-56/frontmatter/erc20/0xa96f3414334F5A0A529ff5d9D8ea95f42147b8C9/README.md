@@ -6,8 +6,8 @@ links:
     url: https://riskmoon.com/
   - name: explorer
     url: https://bscscan.com/token/0xa96f3414334F5A0A529ff5d9D8ea95f42147b8C9
-  - name: twitter
-    url: https://twitter.com/riskmoonbsc
+  - name: x
+    url: https://x.com/riskmoonbsc
   - name: telegram
     url: https://t.me/RISKMOON
   - name: discord

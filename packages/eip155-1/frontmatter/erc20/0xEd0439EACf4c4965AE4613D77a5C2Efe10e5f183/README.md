@@ -8,8 +8,8 @@ links:
     url: https://niftyx.org
   - name: explorer
     url: https://etherscan.io/token/0xed0439eacf4c4965ae4613d77a5c2efe10e5f183
-  - name: twitter
-    url: https://twitter.com/NiftyxProtocol
+  - name: x
+    url: https://x.com/NiftyxProtocol
   - name: telegram
     url: https://t.me/NiftyxProtocol
   - name: discord

@@ -6,8 +6,8 @@ links:
     url: https://baseprotocol.org
   - name: explorer
     url: https://etherscan.io/token/0x07150e919B4De5fD6a63DE1F9384828396f25fDC
-  - name: twitter
-    url: https://twitter.com/BaseProtocol
+  - name: x
+    url: https://x.com/BaseProtocol
   - name: telegram
     url: https://t.me/baseprotocol
   - name: discord

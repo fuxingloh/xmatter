@@ -6,8 +6,8 @@ links:
     url: https://g2gaming.tech/
   - name: explorer
     url: https://bscscan.com/token/0x3C7EEDdcFf188A8C36f1Cac1b62958C6E0C27dea
-  - name: twitter
-    url: https://twitter.com/G2cryptogaming
+  - name: x
+    url: https://x.com/G2cryptogaming
   - name: telegram
     url: https://t.me/g2_gaming
 ---

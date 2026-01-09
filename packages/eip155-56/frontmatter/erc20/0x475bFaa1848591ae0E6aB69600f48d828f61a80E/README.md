@@ -8,8 +8,8 @@ links:
     url: https://everdome.io/
   - name: explorer
     url: https://bscscan.com/token/0x475bfaa1848591ae0e6ab69600f48d828f61a80e
-  - name: twitter
-    url: https://twitter.com/Everdome_io
+  - name: x
+    url: https://x.com/Everdome_io
   - name: telegram
     url: https://t.me/everdome
 ---

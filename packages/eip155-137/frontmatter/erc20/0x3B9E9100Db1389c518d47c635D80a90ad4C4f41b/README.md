@@ -9,8 +9,8 @@ links:
     url: https://film.io
   - name: explorer
     url: https://polygonscan.com/token/0x3B9E9100Db1389c518d47c635D80a90ad4C4f41b
-  - name: twitter
-    url: https://twitter.com/Filmio_Official
+  - name: x
+    url: https://x.com/Filmio_Official
   - name: telegram
     url: https://t.me/officialfilmio
   - name: facebook

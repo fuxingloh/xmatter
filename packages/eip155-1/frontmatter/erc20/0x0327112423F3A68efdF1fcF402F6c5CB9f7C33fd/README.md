@@ -6,8 +6,8 @@ links:
     url: https://piedao.org
   - name: explorer
     url: https://etherscan.io/token/0x0327112423F3A68efdF1fcF402F6c5CB9f7C33fd
-  - name: twitter
-    url: https://twitter.com/PieDAO_DeFi
+  - name: x
+    url: https://x.com/PieDAO_DeFi
 ---
 
 # PieDAO BTC++

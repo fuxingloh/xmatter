@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0xa1faa113cbE53436Df28FF0aEe54275c13B40975
   - name: github
     url: https://github.com/AlphaFinanceLab
-  - name: twitter
-    url: https://twitter.com/alphafinancelab
+  - name: x
+    url: https://x.com/alphafinancelab
   - name: telegram
     url: https://t.me/AlphaFinanceLab
   - name: discord

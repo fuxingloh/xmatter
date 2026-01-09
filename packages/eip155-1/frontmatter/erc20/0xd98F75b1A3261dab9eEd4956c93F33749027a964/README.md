@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xd98f75b1a3261dab9eed4956c93f33749027a964
   - name: github
     url: https://github.com/ShareRing
-  - name: twitter
-    url: https://twitter.com/shareringglobal
+  - name: x
+    url: https://x.com/shareringglobal
   - name: telegram
     url: https://t.me/sharering
   - name: reddit

@@ -9,8 +9,8 @@ links:
     url: https://token.blombard.com/
   - name: explorer
     url: https://bscscan.com/token/0xa82d8d81557f6da6dd4ddad9f09a417530cfd4e7
-  - name: twitter
-    url: https://twitter.com/Blombard_com
+  - name: x
+    url: https://x.com/Blombard_com
   - name: telegram
     url: https://t.me/blombard_talk
   - name: whitepaper

@@ -6,8 +6,8 @@ links:
     url: https://www.marlin.pro/
   - name: explorer
     url: https://etherscan.io/token/0x57b946008913b82e4df85f501cbaed910e58d26c
-  - name: twitter
-    url: https://twitter.com/marlinprotocol
+  - name: x
+    url: https://x.com/marlinprotocol
   - name: coingecko
     url: https://coingecko.com/en/coins/marlin/
   - name: telegram

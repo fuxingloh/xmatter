@@ -11,8 +11,8 @@ links:
     url: https://etherscan.io/token/0x8F046a2457a8F1618cAe4706Fa57Bf790e2532a6
   - name: github
     url: https://github.com/restoretruthtoken/restoretruthtoken
-  - name: twitter
-    url: https://twitter.com/restoretruthRTT
+  - name: x
+    url: https://x.com/restoretruthRTT
   - name: telegram
     url: https://t.me/RestoreTruthTokenChat
   - name: whitepaper

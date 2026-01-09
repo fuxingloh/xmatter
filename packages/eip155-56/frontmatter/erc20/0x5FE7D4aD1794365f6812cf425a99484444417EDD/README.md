@@ -9,8 +9,8 @@ links:
     url: https://imp-coin.com
   - name: explorer
     url: https://bscscan.com/token/0x5FE7D4aD1794365f6812cf425a99484444417EDD
-  - name: twitter
-    url: https://twitter.com/B_IMPERIUM
+  - name: x
+    url: https://x.com/B_IMPERIUM
   - name: whitepaper
     url: https://imperiumrgk-organization.gitbook.io/whitepaper
 ---

@@ -14,8 +14,8 @@ links:
     url: https://coinmarketcap.com/currencies/nest-protocol/
   - name: github
     url: https://github.com/NEST-Protocol
-  - name: twitter
-    url: https://twitter.com/NEST_Protocol
+  - name: x
+    url: https://x.com/NEST_Protocol
   - name: whitepaper
     url: https://www.nestprotocol.org/doc/ennestwhitepaper.pdf
 ---

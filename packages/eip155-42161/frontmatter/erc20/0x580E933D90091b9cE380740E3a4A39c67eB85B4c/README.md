@@ -6,8 +6,8 @@ links:
     url: https://gswift.community/
   - name: explorer
     url: https://arbiscan.io/token/0x580e933d90091b9ce380740e3a4a39c67eb85b4c
-  - name: twitter
-    url: https://twitter.com/GameSwift_io
+  - name: x
+    url: https://x.com/GameSwift_io
   - name: github
     url: https://github.com/gswiftcommunity
   - name: telegram

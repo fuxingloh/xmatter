@@ -6,8 +6,8 @@ links:
     url: https://www.bimp.finance/
   - name: explorer
     url: https://bscscan.com/token/0x8855cFbA493D8A22F924a5CE1B06EFBceA68FFeC
-  - name: twitter
-    url: https://twitter.com/BIMP_Official
+  - name: x
+    url: https://x.com/BIMP_Official
   - name: telegram
     url: https://t.me/BimpFinance
   - name: github

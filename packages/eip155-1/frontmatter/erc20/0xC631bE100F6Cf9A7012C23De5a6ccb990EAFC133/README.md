@@ -8,8 +8,8 @@ links:
     url: https://bananataskforceape.com
   - name: explorer
     url: https://etherscan.io/token/0xC631bE100F6Cf9A7012C23De5a6ccb990EAFC133
-  - name: twitter
-    url: https://twitter.com/BananaTFA
+  - name: x
+    url: https://x.com/BananaTFA
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/banana-task-force-ape/
   - name: coingecko

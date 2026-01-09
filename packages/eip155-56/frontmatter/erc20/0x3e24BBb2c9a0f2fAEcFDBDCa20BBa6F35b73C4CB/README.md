@@ -14,8 +14,8 @@ links:
     url: https://docs.delot.io
   - name: github
     url: https://github.com/delot-io
-  - name: twitter
-    url: https://twitter.com/delot_io
+  - name: x
+    url: https://x.com/delot_io
   - name: telegram
     url: https://t.me/delot_io
   - name: coinmarketcap

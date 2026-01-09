@@ -12,8 +12,8 @@ links:
     url: https://coinmarketcap.com/currencies/gmx/
   - name: coingecko
     url: https://coingecko.com/coins/gmx/
-  - name: twitter
-    url: https://twitter.com/GMX_IO
+  - name: x
+    url: https://x.com/GMX_IO
   - name: telegram
     url: https://t.me/GMX_IO
 ---

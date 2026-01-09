@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0xdAC17F958D2ee523a2206206994597C13D831ec7
   - name: facebook
     url: https://facebook.com/tether.to/
-  - name: twitter
-    url: https://twitter.com/Tether_to/
+  - name: x
+    url: https://x.com/Tether_to/
   - name: coinmarketcap
     url: https://coinmarketcap.com/ru/currencies/tether/
 ---

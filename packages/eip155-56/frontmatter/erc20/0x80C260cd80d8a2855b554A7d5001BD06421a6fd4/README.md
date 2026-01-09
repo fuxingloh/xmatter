@@ -8,8 +8,8 @@ links:
     url: https://thegreenworld.net/
   - name: explorer
     url: https://bscscan.com/token/0x80C260cd80d8a2855b554A7d5001BD06421a6fd4
-  - name: twitter
-    url: https://twitter.com/GreenTgw97676
+  - name: x
+    url: https://x.com/GreenTgw97676
   - name: github
     url: https://github.com/devthegreenworld/
   - name: whitepaper

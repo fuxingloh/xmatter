@@ -8,8 +8,8 @@ links:
     url: https://www.botpla.net/
   - name: explorer
     url: https://bscscan.com/token/0x1Ab7E7DEdA201E5Ea820F6C02C65Fce7ec6bEd32
-  - name: twitter
-    url: https://twitter.com/BotPlanet_
+  - name: x
+    url: https://x.com/BotPlanet_
   - name: github
     url: https://github.com/BOTDeFi
   - name: telegram

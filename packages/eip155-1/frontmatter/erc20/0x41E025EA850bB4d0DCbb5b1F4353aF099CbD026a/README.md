@@ -6,8 +6,8 @@ links:
     url: https://fantasygold.co/cgi-sys/suspendedpage.cgi
   - name: explorer
     url: https://etherscan.io/token/0x41E025EA850bB4d0DCbb5b1F4353aF099CbD026a
-  - name: twitter
-    url: https://twitter.com/fantasygoldcoin
+  - name: x
+    url: https://x.com/fantasygoldcoin
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/fantasygold/
 ---

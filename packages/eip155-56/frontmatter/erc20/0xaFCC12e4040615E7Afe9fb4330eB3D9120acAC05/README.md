@@ -8,8 +8,8 @@ links:
     url: https://p.cash/
   - name: explorer
     url: https://bscscan.com/token/0xafcc12e4040615e7afe9fb4330eb3d9120acac05
-  - name: twitter
-    url: https://twitter.com/PirateCash_NET
+  - name: x
+    url: https://x.com/PirateCash_NET
   - name: telegram
     url: https://t.me/pcash
   - name: whitepaper

@@ -6,8 +6,8 @@ links:
     url: https://adaboytoken.com
   - name: explorer
     url: https://bscscan.com/token/0x1e653794a6849bc8a78be50c4d48981afad6359d
-  - name: twitter
-    url: https://twitter.com/adaboytoken
+  - name: x
+    url: https://x.com/adaboytoken
   - name: whitepaper
     url: https://adaboytoken.app/whitepaper.pdf
   - name: coinmarketcap

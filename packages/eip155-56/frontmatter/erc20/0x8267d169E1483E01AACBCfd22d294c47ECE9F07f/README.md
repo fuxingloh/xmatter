@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x8267d169E1483E01AACBCfd22d294c47ECE9F07f
   - name: facebook
     url: https://facebook.com/dmoonxyz
-  - name: twitter
-    url: https://twitter.com/dmoon_xyz
+  - name: x
+    url: https://x.com/dmoon_xyz
   - name: telegram_news
     url: https://t.me/dragonmoon01
   - name: telegram

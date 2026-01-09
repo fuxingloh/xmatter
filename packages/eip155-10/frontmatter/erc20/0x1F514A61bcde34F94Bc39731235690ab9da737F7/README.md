@@ -6,8 +6,8 @@ links:
     url: https://www.tarot.to/
   - name: explorer
     url: https://optimistic.etherscan.io/token/0x1F514A61bcde34F94Bc39731235690ab9da737F7
-  - name: twitter
-    url: https://twitter.com/tarotfinance
+  - name: x
+    url: https://x.com/tarotfinance
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/tarot/
 ---

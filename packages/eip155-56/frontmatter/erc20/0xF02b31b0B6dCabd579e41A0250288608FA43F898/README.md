@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xF02b31b0B6dCabd579e41A0250288608FA43F898
   - name: github
     url: https://github.com/AthosMeta
-  - name: twitter
-    url: https://twitter.com/AthosMeta
+  - name: x
+    url: https://x.com/AthosMeta
   - name: reddit
     url: https://reddit.com/user/AthosMeta
   - name: whitepaper

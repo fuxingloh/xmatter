@@ -6,8 +6,8 @@ links:
     url: https://truthsocial.com/@DJTtoken
   - name: explorer
     url: https://solscan.io/token/HRw8mqK8N3ASKFKJGMJpy4FodwR3GKvCFKPDQNqUNuEP
-  - name: twitter
-    url: https://twitter.com/realDonaldTrump
+  - name: x
+    url: https://x.com/realDonaldTrump
   - name: coingecko
     url: https://coingecko.com/en/coins/trumpcoin
 ---

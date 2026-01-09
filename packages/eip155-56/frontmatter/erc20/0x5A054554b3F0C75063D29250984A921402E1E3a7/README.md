@@ -6,8 +6,8 @@ links:
     url: http://www.shieldtoken.finance
   - name: explorer
     url: https://bscscan.com/token/0x5A054554b3F0C75063D29250984A921402E1E3a7
-  - name: twitter
-    url: https://twitter.com/ShieldFinance1
+  - name: x
+    url: https://x.com/ShieldFinance1
   - name: telegram
     url: https://t.me/shield_finance
   - name: reddit

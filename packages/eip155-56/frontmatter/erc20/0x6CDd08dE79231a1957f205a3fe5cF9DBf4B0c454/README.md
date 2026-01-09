@@ -6,8 +6,8 @@ links:
     url: https://baby-neiro.io/
   - name: explorer
     url: https://bscscan.com/token/0x6CDd08dE79231a1957f205a3fe5cF9DBf4B0c454
-  - name: twitter
-    url: https://twitter.com/BabyNeiro_BNB
+  - name: x
+    url: https://x.com/BabyNeiro_BNB
   - name: telegram
     url: https://t.me/BabyNeiro_og
 ---

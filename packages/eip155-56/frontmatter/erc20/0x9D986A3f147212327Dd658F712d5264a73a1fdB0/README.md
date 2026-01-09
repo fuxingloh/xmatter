@@ -6,8 +6,8 @@ links:
     url: https://landshare.io
   - name: explorer
     url: https://bscscan.com/token/0x9D986A3f147212327Dd658F712d5264a73a1fdB0
-  - name: twitter
-    url: https://twitter.com/landshareio
+  - name: x
+    url: https://x.com/landshareio
   - name: github
     url: https://github.com/Landshare-io
   - name: telegram

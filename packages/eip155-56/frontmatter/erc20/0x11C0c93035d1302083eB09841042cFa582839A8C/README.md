@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x11C0c93035d1302083eB09841042cFa582839A8C
   - name: telegram
     url: https://t.me/KaiKenShiba_Chat
-  - name: twitter
-    url: https://twitter.com/KaikenShiba
+  - name: x
+    url: https://x.com/KaikenShiba
   - name: github
     url: https://github.com/KaiKenShiba
   - name: reddit

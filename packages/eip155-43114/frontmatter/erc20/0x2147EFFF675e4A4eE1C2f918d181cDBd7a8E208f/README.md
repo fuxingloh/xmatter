@@ -8,8 +8,8 @@ links:
     url: https://alphafinance.io/
   - name: explorer
     url: https://snowtrace.io/token/0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f
-  - name: twitter
-    url: https://twitter.com/alphafinancelab
+  - name: x
+    url: https://x.com/alphafinancelab
   - name: telegram
     url: https://t.me/AlphaFinanceLab
   - name: coinmarketcap

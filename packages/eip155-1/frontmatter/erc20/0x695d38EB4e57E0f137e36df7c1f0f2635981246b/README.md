@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x695d38EB4e57E0f137e36df7c1f0f2635981246b
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/meme-ai-token/
-  - name: twitter
-    url: https://twitter.com/Memeaicoin
+  - name: x
+    url: https://x.com/Memeaicoin
 ---
 
 # MEME AI

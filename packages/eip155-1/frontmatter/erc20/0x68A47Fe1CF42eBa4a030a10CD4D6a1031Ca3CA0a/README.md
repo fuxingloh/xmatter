@@ -6,8 +6,8 @@ links:
     url: https://softnote.com/
   - name: explorer
     url: https://etherscan.io/token/0x68A47Fe1CF42eBa4a030a10CD4D6a1031Ca3CA0a
-  - name: twitter
-    url: https://twitter.com/tectumsocial
+  - name: x
+    url: https://x.com/tectumsocial
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/tectum/
   - name: telegram

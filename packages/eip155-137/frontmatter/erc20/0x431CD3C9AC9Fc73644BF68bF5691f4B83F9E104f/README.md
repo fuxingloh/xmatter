@@ -6,8 +6,8 @@ links:
     url: https://www.cryptounicorns.fun/
   - name: explorer
     url: https://polygonscan.com/token/0x431cd3c9ac9fc73644bf68bf5691f4b83f9e104f
-  - name: twitter
-    url: https://twitter.com/crypto_unicorns
+  - name: x
+    url: https://x.com/crypto_unicorns
   - name: telegram
     url: https://t.me/crypto_unicorns
 ---

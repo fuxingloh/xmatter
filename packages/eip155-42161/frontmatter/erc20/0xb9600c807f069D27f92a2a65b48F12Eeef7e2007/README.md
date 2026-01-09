@@ -8,8 +8,8 @@ links:
     url: https://altranium.com/
   - name: explorer
     url: https://arbiscan.io/token/0xb9600c807f069d27f92a2a65b48f12eeef7e2007
-  - name: twitter
-    url: https://twitter.com/altranium
+  - name: x
+    url: https://x.com/altranium
   - name: github
     url: https://github.com/ALTRANIUM
   - name: telegram

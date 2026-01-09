@@ -8,8 +8,8 @@ links:
     url: https://weway.io/
   - name: explorer
     url: https://bscscan.com/token/0x9Ab70e92319f0b9127df78868Fd3655fB9f1E322
-  - name: twitter
-    url: https://twitter.com/WeWay_io
+  - name: x
+    url: https://x.com/WeWay_io
   - name: telegram_news
     url: https://t.me/WeWay_io
   - name: github

@@ -6,8 +6,8 @@ links:
     url: https://symbull.com
   - name: explorer
     url: https://bscscan.com/token/0xA176fa55bef56D18ab671251957aCB0Db630539b
-  - name: twitter
-    url: https://twitter.com/SymBULLCoin
+  - name: x
+    url: https://x.com/SymBULLCoin
   - name: telegram
     url: https://t.me/symbull
   - name: blog

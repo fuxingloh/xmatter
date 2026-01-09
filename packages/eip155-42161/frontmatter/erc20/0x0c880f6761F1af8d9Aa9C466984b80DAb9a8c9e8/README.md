@@ -8,8 +8,8 @@ links:
     url: https://arbiscan.io/token/0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8
   - name: github
     url: https://github.com/pendle-finance
-  - name: twitter
-    url: https://twitter.com/pendle_fi
+  - name: x
+    url: https://x.com/pendle_fi
   - name: docs
     url: https://docs.pendle.finance/
   - name: coingecko

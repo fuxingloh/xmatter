@@ -8,8 +8,8 @@ links:
     url: https://metaruffy.io/
   - name: explorer
     url: https://bscscan.com/token/0x2456BBAD80BfAD346AecEa45fA38C81a6963132D
-  - name: twitter
-    url: https://twitter.com/meta_ruffy
+  - name: x
+    url: https://x.com/meta_ruffy
   - name: coingecko
     url: https://coingecko.com/coins/meta-ruffy
   - name: coinmarketcap

@@ -6,8 +6,8 @@ links:
     url: https://kakanft.com/
   - name: explorer
     url: https://bscscan.com/token/0x26a1BdFa3bb86b2744c4A42EBfDd205761d13a8a
-  - name: twitter
-    url: https://twitter.com/kakanftworld
+  - name: x
+    url: https://x.com/kakanftworld
   - name: telegram
     url: https://t.me/KAKANFTWORLD
   - name: medium

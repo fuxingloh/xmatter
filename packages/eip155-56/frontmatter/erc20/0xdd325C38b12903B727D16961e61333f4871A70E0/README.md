@@ -14,8 +14,8 @@ links:
     url: https://medium.com/elephant-money
   - name: telegram
     url: https://t.me/elephant_money
-  - name: twitter
-    url: https://twitter.com/ElephantStatus
+  - name: x
+    url: https://x.com/ElephantStatus
   - name: whitepaper
     url: https://elephant.money/media/elephant-wp.pdf
   - name: youtube

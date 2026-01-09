@@ -6,8 +6,8 @@ links:
     url: https://www.buffdogecoin.io/
   - name: explorer
     url: https://bscscan.com/token/0x23125108bc4c63E4677b2E253Fa498cCb4B3298b
-  - name: twitter
-    url: https://twitter.com/buffdogecoin
+  - name: x
+    url: https://x.com/buffdogecoin
   - name: telegram
     url: https://t.me/buffdogecoinofficial
   - name: whitepaper

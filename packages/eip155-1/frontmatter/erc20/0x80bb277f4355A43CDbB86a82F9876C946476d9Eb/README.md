@@ -6,8 +6,8 @@ links:
     url: https://dogdeficoin.com
   - name: explorer
     url: https://etherscan.io/token/0x80bb277f4355a43cdbb86a82f9876c946476d9eb
-  - name: twitter
-    url: https://twitter.com/DogDeFiCoin
+  - name: x
+    url: https://x.com/DogDeFiCoin
 ---
 
 # DogDefiCoin

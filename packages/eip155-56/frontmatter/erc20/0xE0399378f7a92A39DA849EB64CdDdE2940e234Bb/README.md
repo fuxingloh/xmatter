@@ -8,8 +8,8 @@ links:
     url: https://ziontopia.com/
   - name: explorer
     url: https://bscscan.com/token/0xE0399378f7a92A39DA849EB64CdDdE2940e234Bb
-  - name: twitter
-    url: https://twitter.com/zion_topia
+  - name: x
+    url: https://x.com/zion_topia
   - name: github
     url: https://github.com/ZionTopia
   - name: telegram

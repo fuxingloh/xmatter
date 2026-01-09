@@ -6,8 +6,8 @@ links:
     url: https://staratlas.com/
   - name: explorer
     url: https://solscan.io/token/poLisWXnNRwC6oBu1vHiuKQzFjGL4XDSu4g9qjz9qVk
-  - name: twitter
-    url: https://twitter.com/staratlas
+  - name: x
+    url: https://x.com/staratlas
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/star-atlas/
   - name: coingecko

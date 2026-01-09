@@ -6,8 +6,8 @@ links:
     url: https://lukso.network
   - name: explorer
     url: https://etherscan.io/token/0xA8b919680258d369114910511cc87595aec0be6D
-  - name: twitter
-    url: https://twitter.com/lukso_io
+  - name: x
+    url: https://x.com/lukso_io
   - name: telegram
     url: https://t.me/LUKSO
   - name: medium

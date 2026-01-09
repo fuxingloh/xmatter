@@ -11,8 +11,8 @@ links:
     url: https://etherscan.io/token/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e
   - name: github
     url: https://github.com/iearn-finance
-  - name: twitter
-    url: https://twitter.com/iearnfinance
+  - name: x
+    url: https://x.com/iearnfinance
   - name: blog
     url: https://medium.com/iearn
   - name: telegram

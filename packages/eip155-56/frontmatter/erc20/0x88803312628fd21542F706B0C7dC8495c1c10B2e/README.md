@@ -12,8 +12,8 @@ links:
     url: https://t.me/DeFiDegenLand
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/defi-degen-land/
-  - name: twitter
-    url: https://twitter.com/DeFi_Degen_Land
+  - name: x
+    url: https://x.com/DeFi_Degen_Land
 ---
 
 # DeFi Degen Land

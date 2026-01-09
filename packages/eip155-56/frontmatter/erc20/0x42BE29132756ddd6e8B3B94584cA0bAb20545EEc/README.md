@@ -8,8 +8,8 @@ links:
     url: https://www.balitoken.io
   - name: explorer
     url: https://bscscan.com/token/0x42BE29132756ddd6e8B3B94584cA0bAb20545EEc
-  - name: twitter
-    url: https://twitter.com/BaliToken
+  - name: x
+    url: https://x.com/BaliToken
   - name: github
     url: https://github.com/GarudaTech/balitoken
   - name: telegram

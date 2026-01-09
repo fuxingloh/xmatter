@@ -6,8 +6,8 @@ links:
     url: https://mvc.finance/
   - name: explorer
     url: https://bscscan.com/token/0x80d04E44955AA9c3F24041B2A824A20A88E735a8
-  - name: twitter
-    url: https://twitter.com/mulversecapital
+  - name: x
+    url: https://x.com/mulversecapital
   - name: telegram
     url: https://t.me/MultiverseCapital
   - name: docs

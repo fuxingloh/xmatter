@@ -8,8 +8,8 @@ links:
     url: https://bitlivenow.com/
   - name: explorer
     url: https://bscscan.com/token/0x449aed32c1685dbeca28d1ae45462b6156a6096d
-  - name: twitter
-    url: https://twitter.com/BitLive3
+  - name: x
+    url: https://x.com/BitLive3
   - name: telegram
     url: https://t.me/BitliveTEAM
 ---

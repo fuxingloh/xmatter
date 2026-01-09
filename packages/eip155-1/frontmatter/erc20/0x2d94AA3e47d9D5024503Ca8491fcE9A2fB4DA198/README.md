@@ -6,8 +6,8 @@ links:
     url: https://bankless.community
   - name: explorer
     url: https://etherscan.io/token/0x2d94AA3e47d9D5024503Ca8491fcE9A2fB4DA198
-  - name: twitter
-    url: https://twitter.com/banklessDAO
+  - name: x
+    url: https://x.com/banklessDAO
   - name: coingecko
     url: https://coingecko.com/en/coins/bankless-dao
   - name: discord

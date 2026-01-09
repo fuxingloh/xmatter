@@ -6,8 +6,8 @@ links:
     url: https://dartinu.com
   - name: explorer
     url: https://bscscan.com/token/0x49152DD96bE5a710fAcF9a8aB7DE4343A49186d5
-  - name: twitter
-    url: https://twitter.com/dartinu_bsc
+  - name: x
+    url: https://x.com/dartinu_bsc
   - name: github
     url: https://github.com/dartinu
   - name: telegram

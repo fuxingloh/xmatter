@@ -6,8 +6,8 @@ links:
     url: https://yield.credit/
   - name: explorer
     url: https://etherscan.io/token/0xdcb01cc464238396e213a6fdd933e36796eaff9f
-  - name: twitter
-    url: https://twitter.com/YieldCredit
+  - name: x
+    url: https://x.com/YieldCredit
   - name: telegram
     url: https://t.me/yieldchat
   - name: discord

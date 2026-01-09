@@ -11,8 +11,8 @@ links:
     url: https://www.metadoge.live
   - name: explorer
     url: https://bscscan.com/token/0x9953170dcAac530AD7D6949c7295207c6ec5669D
-  - name: twitter
-    url: https://twitter.com/MetaDogeBSC
+  - name: x
+    url: https://x.com/MetaDogeBSC
   - name: telegram
     url: https://t.me/MetaDoge_Official
   - name: whitepaper

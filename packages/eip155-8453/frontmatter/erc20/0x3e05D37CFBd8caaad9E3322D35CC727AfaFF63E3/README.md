@@ -6,8 +6,8 @@ links:
     url: https://bengonbase.xyz/
   - name: explorer
     url: https://basescan.org/token/0x3e05D37CFBd8caaad9E3322D35CC727AfaFF63E3
-  - name: twitter
-    url: https://twitter.com/bengonbase_xyz
+  - name: x
+    url: https://x.com/bengonbase_xyz
 ---
 
 # Based Peng

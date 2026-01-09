@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/7iT1GRYYhEop2nV1dyCwK2MGyLmPHq47WhPGSwiqcUg5
   - name: telegram
     url: https://t.me/analos_coin
-  - name: twitter
-    url: https://twitter.com/analos_coin__
+  - name: x
+    url: https://x.com/analos_coin__
 ---
 
 # ANALOS

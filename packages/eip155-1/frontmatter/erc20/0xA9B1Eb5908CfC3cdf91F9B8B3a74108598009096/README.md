@@ -6,8 +6,8 @@ links:
     url: https://bounce.finance/
   - name: explorer
     url: https://etherscan.io/token/0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096
-  - name: twitter
-    url: https://twitter.com/bounce_finance
+  - name: x
+    url: https://x.com/bounce_finance
   - name: telegram
     url: https://t.me/bounce_finance
   - name: coinmarketcap

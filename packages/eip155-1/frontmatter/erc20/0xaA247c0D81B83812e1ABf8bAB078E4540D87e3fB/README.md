@@ -6,8 +6,8 @@ links:
     url: https://www.meson.network/
   - name: explorer
     url: https://etherscan.io/token/0xaa247c0d81b83812e1abf8bab078e4540d87e3fb
-  - name: twitter
-    url: https://twitter.com/NetworkMeson
+  - name: x
+    url: https://x.com/NetworkMeson
   - name: coingecko
     url: https://coingecko.com/en/coins/meson-network
 ---

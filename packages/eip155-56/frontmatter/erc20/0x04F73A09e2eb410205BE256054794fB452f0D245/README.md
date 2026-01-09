@@ -6,8 +6,8 @@ links:
     url: https://dxsale.network/
   - name: explorer
     url: https://bscscan.com/token/0x04F73A09e2eb410205BE256054794fB452f0D245
-  - name: twitter
-    url: https://twitter.com/dxsale
+  - name: x
+    url: https://x.com/dxsale
   - name: telegram
     url: https://t.me/DxSale
   - name: telegram_news

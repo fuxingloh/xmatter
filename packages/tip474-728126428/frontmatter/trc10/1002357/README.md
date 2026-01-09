@@ -8,8 +8,8 @@ links:
     url: https://tronscan.io/#/token/1002357
   - name: github
     url: https://github.com/gmcoin
-  - name: twitter
-    url: https://twitter.com/coin_gm
+  - name: x
+    url: https://x.com/coin_gm
   - name: reddit
     url: https://reddit.com/r/coingm/
 ---

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x8E984e03ab35795C60242c902ECe2450242C90e9
   - name: youtube
     url: https://youtube.com/channel/UCpknNVgAtnOv7v61tf1Lalw
-  - name: twitter
-    url: https://twitter.com/KamPayToken
+  - name: x
+    url: https://x.com/KamPayToken
   - name: github
     url: https://github.com/Kampay-io/token
   - name: whitepaper

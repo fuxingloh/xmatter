@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xAB15B79880f11cFfb58dB25eC2bc39d28c4d80d2
   - name: github
     url: https://github.com/StarMon-protocol/
-  - name: twitter
-    url: https://twitter.com/StarMonGame
+  - name: x
+    url: https://x.com/StarMonGame
   - name: telegram
     url: https://t.me/StarMon_Official
 ---

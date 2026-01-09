@@ -6,8 +6,8 @@ links:
     url: https://qmall.io/
   - name: explorer
     url: https://bscscan.com/token/0x07e551e31a793e20dc18494ff6b03095a8f8ee36
-  - name: twitter
-    url: https://twitter.com/QmallExchange
+  - name: x
+    url: https://x.com/QmallExchange
   - name: telegram
     url: https://t.me/qMall_Exchange
   - name: coinmarketcap

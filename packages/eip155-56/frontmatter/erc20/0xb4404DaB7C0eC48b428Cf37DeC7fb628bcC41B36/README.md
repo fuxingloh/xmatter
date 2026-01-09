@@ -8,8 +8,8 @@ links:
     url: https://metagear.game
   - name: explorer
     url: https://bscscan.com/token/0xb4404DaB7C0eC48b428Cf37DeC7fb628bcC41B36
-  - name: twitter
-    url: https://twitter.com/MetaGearGame
+  - name: x
+    url: https://x.com/MetaGearGame
   - name: github
     url: https://github.com/MetaGear-Game/
   - name: telegram

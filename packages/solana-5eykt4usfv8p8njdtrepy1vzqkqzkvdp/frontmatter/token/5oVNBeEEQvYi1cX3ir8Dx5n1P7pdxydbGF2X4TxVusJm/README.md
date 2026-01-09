@@ -6,8 +6,8 @@ links:
     url: https://sanctum.so
   - name: explorer
     url: https://solscan.io/token/5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm
-  - name: twitter
-    url: https://twitter.com/sanctumso
+  - name: x
+    url: https://x.com/sanctumso
   - name: coingecko
     url: https://coingecko.com/en/coins/infinity
 ---

@@ -6,8 +6,8 @@ links:
     url: https://basegod.fun/
   - name: explorer
     url: https://basescan.org/token/0x0d97F261b1e88845184f678e2d1e7a98D9FD38dE
-  - name: twitter
-    url: https://twitter.com/tybasegod
+  - name: x
+    url: https://x.com/tybasegod
 ---
 
 # Base God

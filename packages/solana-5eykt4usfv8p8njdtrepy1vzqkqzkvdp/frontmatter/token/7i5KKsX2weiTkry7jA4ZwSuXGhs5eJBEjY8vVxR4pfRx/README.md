@@ -10,8 +10,8 @@ links:
     url: https://solscan.io/token/7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx
   - name: reddit
     url: https://reddit.com/r/StepN/
-  - name: twitter
-    url: https://twitter.com/Stepnofficial
+  - name: x
+    url: https://x.com/Stepnofficial
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/green-metaverse-token/
   - name: coingecko

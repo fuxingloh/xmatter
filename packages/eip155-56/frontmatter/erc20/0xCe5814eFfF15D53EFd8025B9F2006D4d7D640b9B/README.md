@@ -6,8 +6,8 @@ links:
     url: https://moonstartoken.com/
   - name: explorer
     url: https://bscscan.com/token/0xce5814efff15d53efd8025b9f2006d4d7d640b9b
-  - name: twitter
-    url: https://twitter.com/MoonStarToken/
+  - name: x
+    url: https://x.com/MoonStarToken/
   - name: telegram
     url: https://t.me/moonstarchat/
   - name: discord

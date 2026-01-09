@@ -8,8 +8,8 @@ links:
     url: https://wam.app
   - name: explorer
     url: https://bscscan.com/token/0xeBBAefF6217d22E7744394061D874015709b8141
-  - name: twitter
-    url: https://twitter.com/playWAM
+  - name: x
+    url: https://x.com/playWAM
   - name: telegram
     url: https://t.me/wamapp
   - name: github

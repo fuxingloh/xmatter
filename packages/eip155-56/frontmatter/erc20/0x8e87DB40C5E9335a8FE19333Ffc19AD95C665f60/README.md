@@ -6,8 +6,8 @@ links:
     url: https://tokendooit.com/
   - name: explorer
     url: https://bscscan.com/token/0x8e87DB40C5E9335a8FE19333Ffc19AD95C665f60
-  - name: twitter
-    url: https://twitter.com/tokendooit
+  - name: x
+    url: https://x.com/tokendooit
   - name: github
     url: https://github.com/TokenDOOit
   - name: telegram

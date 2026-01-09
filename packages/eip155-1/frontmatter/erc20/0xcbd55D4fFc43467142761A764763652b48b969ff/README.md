@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xcbd55D4fFc43467142761A764763652b48b969ff
   - name: telegram
     url: https://t.me/astrotoolsio
-  - name: twitter
-    url: https://twitter.com/Astro_Tools
+  - name: x
+    url: https://x.com/Astro_Tools
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/astrotools/
   - name: coingecko

@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xA64455a4553C9034236734FadDAddbb64aCE4Cc7
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/santos-fc-fan-token/
-  - name: twitter
-    url: https://twitter.com/SantosFC
+  - name: x
+    url: https://x.com/SantosFC
   - name: coingecko
     url: https://coingecko.com/coins/santos-fc-fan-token
 ---

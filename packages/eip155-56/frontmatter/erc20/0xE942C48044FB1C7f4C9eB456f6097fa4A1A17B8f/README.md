@@ -8,8 +8,8 @@ links:
     url: https://elvantis.com/
   - name: explorer
     url: Https://bscscan.com/token/0xE942C48044FB1C7f4C9eB456f6097fa4A1A17B8f
-  - name: twitter
-    url: https://twitter.com/ElvantisGame
+  - name: x
+    url: https://x.com/ElvantisGame
   - name: discord
     url: https://discord.com/6YwurDbfRq
   - name: medium

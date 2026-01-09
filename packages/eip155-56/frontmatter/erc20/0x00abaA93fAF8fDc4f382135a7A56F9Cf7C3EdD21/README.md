@@ -6,8 +6,8 @@ links:
     url: https://wmue.net/
   - name: explorer
     url: https://bscscan.com/token/0x00abaA93fAF8fDc4f382135a7A56F9Cf7C3EdD21
-  - name: twitter
-    url: https://twitter.com/MonetaryUnit
+  - name: x
+    url: https://x.com/MonetaryUnit
   - name: telegram
     url: https://t.me/monetaryunitchat
   - name: discord

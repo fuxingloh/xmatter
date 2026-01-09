@@ -8,8 +8,8 @@ links:
     url: https://lpntoken.io
   - name: explorer
     url: https://etherscan.io/token/0x6a4C76874e686A7d080D173987A35A9c48905583
-  - name: twitter
-    url: https://twitter.com/officialLPNT
+  - name: x
+    url: https://x.com/officialLPNT
   - name: github
     url: https://github.com/LPNTOKEN
   - name: telegram

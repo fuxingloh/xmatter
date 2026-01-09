@@ -8,8 +8,8 @@ links:
     url: https://gridxecosystem.com
   - name: explorer
     url: https://bscscan.com/token/0x7fFb5A90cdbd2aE2A65d5bFe259AC936Cc302bE2
-  - name: twitter
-    url: https://twitter.com/GridxEcosystem
+  - name: x
+    url: https://x.com/GridxEcosystem
   - name: github
     url: https://github.com/gridxeco
   - name: telegram

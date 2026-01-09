@@ -8,8 +8,8 @@ links:
     url: https://opencustody.org/
   - name: explorer
     url: https://etherscan.io/token/0x4123a133ae3c521fd134d7b13a2dec35b56c2463
-  - name: twitter
-    url: https://twitter.com/opencustody
+  - name: x
+    url: https://x.com/opencustody
   - name: telegram
     url: https://t.me/OpenCustody
   - name: telegram_news

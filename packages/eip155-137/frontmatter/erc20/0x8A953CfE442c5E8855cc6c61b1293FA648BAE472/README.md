@@ -6,8 +6,8 @@ links:
     url: https://polydoge.com
   - name: explorer
     url: https://polygonscan.com/token/0x8a953cfe442c5e8855cc6c61b1293fa648bae472
-  - name: twitter
-    url: https://twitter.com/polydoge
+  - name: x
+    url: https://x.com/polydoge
   - name: github
     url: https://github.com/polydoge
   - name: telegram

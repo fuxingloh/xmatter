@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x989b8f0219eb7aa0bed22e24f053eb2b155f4394
   - name: whitepaper
     url: https://mommydoge.com/MommyDoge_Whitepaper.pdf
-  - name: twitter
-    url: https://twitter.com/NewMommyDoge
+  - name: x
+    url: https://x.com/NewMommyDoge
   - name: reddit
     url: https://reddit.com/r/MommyDogeCoin/
   - name: telegram

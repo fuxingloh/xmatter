@@ -10,8 +10,8 @@ links:
     url: https://optimistic.etherscan.io/token/0x4200000000000000000000000000000000000042
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/optimism-ethereum/
-  - name: twitter
-    url: https://twitter.com/optimismPBC
+  - name: x
+    url: https://x.com/optimismPBC
   - name: github
     url: https://github.com/ethereum-optimism/
 ---

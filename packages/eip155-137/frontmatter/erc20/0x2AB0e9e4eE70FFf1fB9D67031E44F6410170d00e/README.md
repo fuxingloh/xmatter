@@ -6,8 +6,8 @@ links:
     url: https://xen.network/
   - name: explorer
     url: https://polygonscan.com/token/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e
-  - name: twitter
-    url: https://twitter.com/XEN_Crypto
+  - name: x
+    url: https://x.com/XEN_Crypto
   - name: telegram
     url: https://t.me/XENCryptoTalk
   - name: coinmarketcap

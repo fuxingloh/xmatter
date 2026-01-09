@@ -8,8 +8,8 @@ links:
     url: https://beefy.finance/
   - name: explorer
     url: https://arbiscan.io/token/0x99c409e5f62e4bd2ac142f17cafb6810b8f0baae
-  - name: twitter
-    url: https://twitter.com/beefyfinance
+  - name: x
+    url: https://x.com/beefyfinance
   - name: telegram
     url: https://t.me/beefyfinance
   - name: coinmarketcap

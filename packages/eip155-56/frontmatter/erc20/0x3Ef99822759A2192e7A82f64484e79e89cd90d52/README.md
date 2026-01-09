@@ -6,8 +6,8 @@ links:
     url: https://tkbgame.app/
   - name: explorer
     url: https://bscscan.com/token/0x3Ef99822759A2192e7A82f64484e79e89cd90d52
-  - name: twitter
-    url: https://twitter.com/Tkbgame2021
+  - name: x
+    url: https://x.com/Tkbgame2021
   - name: github
     url: https://github.com/tkbgame
   - name: telegram

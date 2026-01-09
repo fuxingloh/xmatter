@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x509A38b7a1cC0dcd83Aa9d06214663D9eC7c7F4a
   - name: github
     url: https://github.com/blocksquare
-  - name: twitter
-    url: https://twitter.com/blocksquare_io
+  - name: x
+    url: https://x.com/blocksquare_io
   - name: reddit
     url: https://reddit.com/r/Blocksquare_io/
 ---

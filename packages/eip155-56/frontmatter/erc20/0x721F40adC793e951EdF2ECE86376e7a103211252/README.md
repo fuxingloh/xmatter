@@ -8,8 +8,8 @@ links:
     url: https://ccnnetwork.co/
   - name: explorer
     url: https://bscscan.com/token/0x721F40adC793e951EdF2ECE86376e7a103211252
-  - name: twitter
-    url: https://twitter.com/CCNnet
+  - name: x
+    url: https://x.com/CCNnet
   - name: github
     url: https://github.com/ccnnetworkco
   - name: telegram

@@ -6,8 +6,8 @@ links:
     url: https://www.collab.land/
   - name: explorer
     url: https://optimistic.etherscan.io/token/0x8B21e9b7dAF2c4325bf3D18c1BeB79A347fE902A
-  - name: twitter
-    url: https://twitter.com/Collab_Land_
+  - name: x
+    url: https://x.com/Collab_Land_
   - name: telegram
     url: https://t.me/collablandbot
 ---

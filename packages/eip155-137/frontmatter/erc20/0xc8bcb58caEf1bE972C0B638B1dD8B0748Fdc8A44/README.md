@@ -8,8 +8,8 @@ links:
     url: https://polygonscan.com/token/0xc8bcb58caEf1bE972C0B638B1dD8B0748Fdc8A44
   - name: github
     url: https://github.com/pearzap
-  - name: twitter
-    url: https://twitter.com/pearzap
+  - name: x
+    url: https://x.com/pearzap
   - name: coingecko
     url: https://coingecko.com/en/coins/pear
   - name: medium

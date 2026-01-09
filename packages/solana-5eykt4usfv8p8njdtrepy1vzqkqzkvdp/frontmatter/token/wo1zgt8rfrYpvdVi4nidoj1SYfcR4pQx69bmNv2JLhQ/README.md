@@ -6,8 +6,8 @@ links:
     url: https://justanegg.com/
   - name: explorer
     url: https://solscan.io/token/wo1zgt8rfrYpvdVi4nidoj1SYfcR4pQx69bmNv2JLhQ
-  - name: twitter
-    url: https://twitter.com/justaneggcoin
+  - name: x
+    url: https://x.com/justaneggcoin
   - name: telegram
     url: https://t.me/JustAnEggSol
 ---

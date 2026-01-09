@@ -6,8 +6,8 @@ links:
     url: https://www.thundercake.app/
   - name: explorer
     url: https://bscscan.com/token/0xce4A4A15FcCD532eAd67BE3ECf7e6122c61D06bb
-  - name: twitter
-    url: https://twitter.com/ThunderCakeApp
+  - name: x
+    url: https://x.com/ThunderCakeApp
   - name: telegram
     url: https://t.me/ThunderCakeOfficial
   - name: medium

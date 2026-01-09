@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x838d8e11B160deC88Fe62BF0f743FB7000941e13
   - name: github
     url: https://github.com/ethereum
-  - name: twitter
-    url: https://twitter.com/Krios
+  - name: x
+    url: https://x.com/Krios
   - name: telegram
     url: https://t.me/KriosToken
   - name: facebook

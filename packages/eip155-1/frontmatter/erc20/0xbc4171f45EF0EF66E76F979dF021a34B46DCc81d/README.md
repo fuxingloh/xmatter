@@ -8,8 +8,8 @@ links:
     url: https://dorafactory.org/
   - name: explorer
     url: https://etherscan.io/token/0xbc4171f45EF0EF66E76F979dF021a34B46DCc81d
-  - name: twitter
-    url: https://twitter.com/DoraFactory
+  - name: x
+    url: https://x.com/DoraFactory
   - name: telegram
     url: https://t.me/dorafactory
   - name: coinmarketcap

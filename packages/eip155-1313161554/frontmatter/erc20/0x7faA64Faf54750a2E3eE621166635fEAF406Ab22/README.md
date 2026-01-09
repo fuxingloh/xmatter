@@ -6,8 +6,8 @@ links:
     url: https://wannaswap.finance/
   - name: explorer
     url: https://aurorascan.dev/address/0x7faa64faf54750a2e3ee621166635feaf406ab22
-  - name: twitter
-    url: https://twitter.com/wannaswapamm
+  - name: x
+    url: https://x.com/wannaswapamm
   - name: github
     url: https://github.com/wannaswap
   - name: telegram

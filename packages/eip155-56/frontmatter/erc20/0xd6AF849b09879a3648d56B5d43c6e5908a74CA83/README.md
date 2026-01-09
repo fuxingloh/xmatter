@@ -8,8 +8,8 @@ links:
     url: https://wrapped.jax.net/hst.html
   - name: explorer
     url: https://bscscan.com/token/0xd6AF849b09879a3648d56B5d43c6e5908a74CA83
-  - name: twitter
-    url: https://twitter.com/CommunityJax
+  - name: x
+    url: https://x.com/CommunityJax
   - name: facebook
     url: https://facebook.com/network.jax
   - name: youtube

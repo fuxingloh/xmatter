@@ -8,8 +8,8 @@ links:
     url: https://www.hashflow.com
   - name: explorer
     url: https://bscscan.com/token/0x44ec807ce2f4a6f2737a92e985f318d035883e47
-  - name: twitter
-    url: https://twitter.com/hashflow
+  - name: x
+    url: https://x.com/hashflow
   - name: blog
     url: https://blog.hashflow.com/
   - name: reddit

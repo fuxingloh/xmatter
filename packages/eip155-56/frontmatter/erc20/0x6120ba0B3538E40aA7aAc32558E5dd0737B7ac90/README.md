@@ -8,8 +8,8 @@ links:
     url: https://jesuscoin.info
   - name: explorer
     url: https://bscscan.com/token/0x6120ba0b3538e40aa7aac32558e5dd0737b7ac90
-  - name: twitter
-    url: https://twitter.com/jesuscoin_bsc
+  - name: x
+    url: https://x.com/jesuscoin_bsc
   - name: github
     url: https://github.com/jesuscoinbsc
   - name: telegram

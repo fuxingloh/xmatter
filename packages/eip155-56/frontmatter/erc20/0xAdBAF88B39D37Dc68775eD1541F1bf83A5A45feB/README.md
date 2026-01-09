@@ -8,8 +8,8 @@ links:
     url: https://coti.io/
   - name: explorer
     url: https://bscscan.com/token/0xadbaf88b39d37dc68775ed1541f1bf83a5a45feb
-  - name: twitter
-    url: https://twitter.com/COTInetwork
+  - name: x
+    url: https://x.com/COTInetwork
   - name: telegram
     url: https://t.me/COTInetwork
   - name: coinmarketcap

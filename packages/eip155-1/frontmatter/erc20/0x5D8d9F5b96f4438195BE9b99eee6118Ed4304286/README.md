@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x5d8d9f5b96f4438195be9b99eee6118ed4304286
   - name: github
     url: https://github.com/CoverProtocol
-  - name: twitter
-    url: https://twitter.com/COVERProtocol
+  - name: x
+    url: https://x.com/COVERProtocol
   - name: coingecko
     url: https://coingecko.com/en/coins/cover-protocol/
   - name: medium

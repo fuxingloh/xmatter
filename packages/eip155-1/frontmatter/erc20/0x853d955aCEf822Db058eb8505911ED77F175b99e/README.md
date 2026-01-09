@@ -11,8 +11,8 @@ links:
     url: https://etherscan.io/token/0x853d955aCEf822Db058eb8505911ED77F175b99e
   - name: github
     url: https://github.com/FraxFinance
-  - name: twitter
-    url: https://twitter.com/Frax Finance
+  - name: x
+    url: https://x.com/Frax Finance
   - name: telegram
     url: https://t.me/fraxfinance
   - name: discord

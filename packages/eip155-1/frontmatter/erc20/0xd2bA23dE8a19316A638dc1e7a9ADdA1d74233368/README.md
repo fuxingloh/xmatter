@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xd2bA23dE8a19316A638dc1e7a9ADdA1d74233368
   - name: github
     url: https://github.com/QuickSwap
-  - name: twitter
-    url: https://twitter.com/QuickswapDEX
+  - name: x
+    url: https://x.com/QuickswapDEX
   - name: telegram
     url: https://t.me/QuickSwapDEX
   - name: medium

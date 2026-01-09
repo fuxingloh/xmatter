@@ -8,8 +8,8 @@ links:
     url: https://ankr.com
   - name: explorer
     url: https://snowtrace.io/token/0xc3344870d52688874b06d844e0c36cc39fc727f6
-  - name: twitter
-    url: https://twitter.com/ankr
+  - name: x
+    url: https://x.com/ankr
   - name: github
     url: https://github.com/Ankr-network
   - name: telegram

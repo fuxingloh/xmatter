@@ -6,8 +6,8 @@ links:
     url: https://pedrotheraccoon.org/
   - name: explorer
     url: https://solscan.io/token/9SiKU8vnRiBYQSBff84K5zwG7habzwYVzn7KrtgCzNfg
-  - name: twitter
-    url: https://twitter.com/PedroRaccoonSol
+  - name: x
+    url: https://x.com/PedroRaccoonSol
   - name: telegram
     url: https://t.me/technopedro
 ---

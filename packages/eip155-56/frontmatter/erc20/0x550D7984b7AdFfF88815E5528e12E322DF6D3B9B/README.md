@@ -8,8 +8,8 @@ links:
     url: https://pandai.io/
   - name: explorer
     url: https://bscscan.com/token/0x550D7984b7AdFfF88815E5528e12E322DF6D3B9B
-  - name: twitter
-    url: https://twitter.com/pandai_bsc
+  - name: x
+    url: https://x.com/pandai_bsc
   - name: telegram
     url: https://t.me/pandaichatofficial
   - name: telegram_news

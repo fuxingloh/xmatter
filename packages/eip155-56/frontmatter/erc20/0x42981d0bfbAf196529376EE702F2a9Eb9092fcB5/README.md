@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x42981d0bfbAf196529376EE702F2a9Eb9092fcB5
   - name: reddit
     url: https://reddit.com/r/SafeMoon
-  - name: twitter
-    url: https://twitter.com/safemoon
+  - name: x
+    url: https://x.com/safemoon
 ---
 
 # SafeMoon V2

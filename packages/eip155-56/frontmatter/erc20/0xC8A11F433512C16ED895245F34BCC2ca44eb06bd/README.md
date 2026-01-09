@@ -8,8 +8,8 @@ links:
     url: https://kissan.io/
   - name: explorer
     url: https://bscscan.com/token/0xC8A11F433512C16ED895245F34BCC2ca44eb06bd
-  - name: twitter
-    url: https://twitter.com/ksntoken
+  - name: x
+    url: https://x.com/ksntoken
   - name: telegram
     url: https://t.me/Kissancoin
   - name: facebook

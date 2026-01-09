@@ -8,8 +8,8 @@ links:
     url: https://www.menzy.io/
   - name: explorer
     url: https://bscscan.com/token/0x861f1E1397daD68289e8f6a09a2ebb567f1B895C
-  - name: twitter
-    url: https://twitter.com/MNZtoken
+  - name: x
+    url: https://x.com/MNZtoken
   - name: telegram
     url: https://t.me/menzy_official
   - name: coinmarketcap

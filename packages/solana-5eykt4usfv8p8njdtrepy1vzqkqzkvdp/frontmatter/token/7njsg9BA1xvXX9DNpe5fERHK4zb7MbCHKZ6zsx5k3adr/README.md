@@ -6,8 +6,8 @@ links:
     url: https://www.thefamilytoken.com
   - name: explorer
     url: https://solscan.io/token/7njsg9BA1xvXX9DNpe5fERHK4zb7MbCHKZ6zsx5k3adr
-  - name: twitter
-    url: https://twitter.com/familytokenoffl
+  - name: x
+    url: https://x.com/familytokenoffl
   - name: coinmarketcap
     url: https://coinmarketcap.com/ru/currencies/family-token/
 ---

@@ -6,8 +6,8 @@ links:
     url: https://rabbitfinance.io
   - name: explorer
     url: https://bscscan.com/token/0x95a1199EBA84ac5f19546519e287d43D2F0E1b41
-  - name: twitter
-    url: https://twitter.com/FinanceRabbit
+  - name: x
+    url: https://x.com/FinanceRabbit
   - name: medium
     url: https://rabbitfinance.medium.com/
   - name: telegram

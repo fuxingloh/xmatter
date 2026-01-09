@@ -10,8 +10,8 @@ links:
     url: https://pulitoken.net/
   - name: explorer
     url: https://bscscan.com/token/0xaef0a177c8c329cbc8508292bb7e06c00786bbfc
-  - name: twitter
-    url: https://twitter.com/puli_token
+  - name: x
+    url: https://x.com/puli_token
   - name: telegram
     url: https://t.me/Puli_Inu
   - name: discord

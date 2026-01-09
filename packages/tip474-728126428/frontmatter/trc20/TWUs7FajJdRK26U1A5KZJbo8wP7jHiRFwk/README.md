@@ -6,8 +6,8 @@ links:
     url: https://zoe.cash/
   - name: explorer
     url: https://tronscan.io/#/token20/TWUs7FajJdRK26U1A5KZJbo8wP7jHiRFwk
-  - name: twitter
-    url: https://twitter.com/zoecashoficial
+  - name: x
+    url: https://x.com/zoecashoficial
   - name: telegram
     url: https://t.me/zoecash
 ---

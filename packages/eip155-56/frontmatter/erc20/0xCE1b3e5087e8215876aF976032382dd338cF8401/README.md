@@ -8,8 +8,8 @@ links:
     url: https://thoreum.capital/
   - name: explorer
     url: https://bscscan.com/token/0xCE1b3e5087e8215876aF976032382dd338cF8401
-  - name: twitter
-    url: https://twitter.com/ThoreumFinance
+  - name: x
+    url: https://x.com/ThoreumFinance
   - name: telegram
     url: https://t.me/Thoreum
   - name: docs

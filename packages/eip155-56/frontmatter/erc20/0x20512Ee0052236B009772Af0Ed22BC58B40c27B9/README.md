@@ -6,8 +6,8 @@ links:
     url: https://muso.finance/
   - name: explorer
     url: https://bscscan.com/token/0x20512Ee0052236B009772Af0Ed22BC58B40c27B9
-  - name: twitter
-    url: https://twitter.com/musofinance
+  - name: x
+    url: https://x.com/musofinance
   - name: coingecko
     url: https://coingecko.com/en/coins/muso-finance
   - name: whitepaper

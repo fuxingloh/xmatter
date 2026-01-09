@@ -8,8 +8,8 @@ links:
     url: https://mikubsc.com
   - name: explorer
     url: https://bscscan.com/token/0x73419De8E3E26A17e0E6b0436e29dd04A25B061D
-  - name: twitter
-    url: https://twitter.com/MikuBSC
+  - name: x
+    url: https://x.com/MikuBSC
   - name: telegram
     url: https://t.me/MikuBSC
   - name: medium

@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xf8C3527CC04340b208C854E985240c02F7B7793f
   - name: github
     url: https://github.com/frontierwallet
-  - name: twitter
-    url: https://twitter.com/FrontierDotXYZ
+  - name: x
+    url: https://x.com/FrontierDotXYZ
   - name: telegram
     url: https://t.me/FrontierDotXYZ
   - name: coinmarketcap

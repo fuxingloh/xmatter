@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x90727C1195fB2246fd758172f9253873790d06a4
   - name: github
     url: https://github.com/Etheratoken
-  - name: twitter
-    url: https://twitter.com/Etheratoken
+  - name: x
+    url: https://x.com/Etheratoken
   - name: reddit
     url: https://reddit.com/r/Ethera/
   - name: telegram

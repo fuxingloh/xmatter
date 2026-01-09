@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x9F284E1337A815fe77D2Ff4aE46544645B20c5ff
   - name: github
     url: https://github.com/darwinia-network
-  - name: twitter
-    url: https://twitter.com/DarwiniaNetwork
+  - name: x
+    url: https://x.com/DarwiniaNetwork
   - name: telegram
     url: https://t.me/DarwiniaNetwork
 ---

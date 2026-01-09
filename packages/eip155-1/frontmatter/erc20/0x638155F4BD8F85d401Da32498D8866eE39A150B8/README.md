@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x638155F4BD8F85d401Da32498D8866eE39A150B8
   - name: github
     url: https://github.com/JuraNetwork
-  - name: twitter
-    url: https://twitter.com/JuraProtocol
+  - name: x
+    url: https://x.com/JuraProtocol
   - name: whitepaper
     url: https://docsend.com/view/p9f87gp/
 ---

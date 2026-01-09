@@ -6,8 +6,8 @@ links:
     url: https://bookofbullrun.meme/lander
   - name: explorer
     url: https://solscan.io/token/BGehTcKraAndWS3B6cq7UVUXQy4uDY49tANEprsTrUo7
-  - name: twitter
-    url: https://twitter.com/BookOfBullrunx
+  - name: x
+    url: https://x.com/BookOfBullrunx
 ---
 
 # BookOfBullrun

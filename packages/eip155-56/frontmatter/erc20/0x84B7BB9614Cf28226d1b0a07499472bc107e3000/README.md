@@ -6,8 +6,8 @@ links:
     url: https://everestcoin.io
   - name: explorer
     url: https://bscscan.com/token/0x84B7BB9614Cf28226d1b0a07499472bc107e3000
-  - name: twitter
-    url: https://twitter.com/coineverest
+  - name: x
+    url: https://x.com/coineverest
   - name: github
     url: https://github.com/everestgithub
   - name: telegram

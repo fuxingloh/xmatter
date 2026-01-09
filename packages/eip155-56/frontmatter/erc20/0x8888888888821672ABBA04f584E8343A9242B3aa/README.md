@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x8888888888821672abba04f584e8343a9242b3aa
   - name: telegram
     url: https://t.me/BuyGCSQ
-  - name: twitter
-    url: https://twitter.com/BuyGCSQ
+  - name: x
+    url: https://x.com/BuyGCSQ
 ---
 
 # Buy

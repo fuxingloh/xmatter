@@ -8,8 +8,8 @@ links:
     url: https://lista.org/
   - name: explorer
     url: https://bscscan.com/token/0x0782b6d8c4551B9760e74c0545a9bCD90bdc41E5
-  - name: twitter
-    url: https://twitter.com/Lista_DAO
+  - name: x
+    url: https://x.com/Lista_DAO
   - name: telegram
     url: https://t.me/ListaDAO
 ---

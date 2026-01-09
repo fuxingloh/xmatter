@@ -6,8 +6,8 @@ links:
     url: https://neversol.xyz
   - name: explorer
     url: https://solscan.io/token/CxrhHSqyW8YTDWc4csJMMgo7uBUJSXzNzrWhtw9ULdru
-  - name: twitter
-    url: https://twitter.com/Neversol_coin
+  - name: x
+    url: https://x.com/Neversol_coin
   - name: coingecko
     url: https://coingecko.com//Криптовалюты/neversol
 ---

@@ -6,8 +6,8 @@ links:
     url: https://gatsbytoken.io/meetgatsby/
   - name: explorer
     url: https://solscan.io/token/ALss4p8YdK4RrkAATkd2QkQw1LAmUjbX9xScYRaq6S6d
-  - name: twitter
-    url: https://twitter.com/GatsbyInuERC
+  - name: x
+    url: https://x.com/GatsbyInuERC
 ---
 
 # Gatsby

@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x4e0fca55a6c3a94720ded91153a27f60e26b9aa8
   - name: whitepaper
     url: https://boostco.in/wp-content/uploads/2021/10/BoostWhitePaper.pdf
-  - name: twitter
-    url: https://twitter.com/TheBoostCoin
+  - name: x
+    url: https://x.com/TheBoostCoin
 ---
 
 # Boost

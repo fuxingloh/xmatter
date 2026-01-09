@@ -6,8 +6,8 @@ links:
     url: https://elizabathwhoren.com
   - name: explorer
     url: https://solscan.io/token/EF23Avq2cTPnMVTfHacZ3SG5Z8misHmFA2gbt2rKqiYH
-  - name: twitter
-    url: https://twitter.com/WhorenOnSol
+  - name: x
+    url: https://x.com/WhorenOnSol
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/elizabath-whoren/
 ---

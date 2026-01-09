@@ -8,8 +8,8 @@ links:
     url: https://www.honeypad.io/
   - name: explorer
     url: https://bscscan.com/token/0xdb607c61Aaa2a954Bf1f9d117953F12d6c319E15
-  - name: twitter
-    url: https://twitter.com/thehoneypad
+  - name: x
+    url: https://x.com/thehoneypad
   - name: medium
     url: https://medium.com/@thehoneypad
   - name: telegram_news

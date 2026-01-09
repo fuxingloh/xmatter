@@ -8,8 +8,8 @@ links:
     url: https://ellipsis.finance/
   - name: explorer
     url: https://bscscan.com/token/0xAf41054C1487b0e5E2B9250C0332eCBCe6CE9d71
-  - name: twitter
-    url: https://twitter.com/Ellipsisfi
+  - name: x
+    url: https://x.com/Ellipsisfi
   - name: coingecko
     url: https://coingecko.com/en/coins/ellipsis/
   - name: telegram

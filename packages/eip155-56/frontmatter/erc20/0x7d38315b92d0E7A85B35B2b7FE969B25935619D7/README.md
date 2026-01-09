@@ -11,8 +11,8 @@ links:
     url: https://ecoin-finance.com/
   - name: explorer
     url: https://bscscan.com/token/0x7d38315b92d0e7a85b35b2b7fe969b25935619d7
-  - name: twitter
-    url: https://twitter.com/ecoin_finance_
+  - name: x
+    url: https://x.com/ecoin_finance_
   - name: telegram
     url: https://t.me/Ecoin_token
   - name: telegram_news

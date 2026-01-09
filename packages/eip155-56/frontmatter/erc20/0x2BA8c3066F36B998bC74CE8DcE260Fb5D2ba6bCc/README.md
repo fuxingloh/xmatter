@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x2BA8c3066F36B998bC74CE8DcE260Fb5D2ba6bCc
   - name: github
     url: https://github.com/bigdogecoin/
-  - name: twitter
-    url: https://twitter.com/bigdogecrypto
+  - name: x
+    url: https://x.com/bigdogecrypto
   - name: telegram
     url: https://t.me/bigdogecoin
   - name: facebook

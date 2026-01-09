@@ -12,8 +12,8 @@ links:
     url: https://coinmarketcap.com/currencies/usdd/
   - name: coingecko
     url: https://coingecko.com/en/coins/usdd/
-  - name: twitter
-    url: https://twitter.com/usddio
+  - name: x
+    url: https://x.com/usddio
 ---
 
 # Decentralized USD

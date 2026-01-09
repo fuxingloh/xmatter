@@ -6,8 +6,8 @@ links:
     url: https://snakebsc.vip/
   - name: explorer
     url: https://bscscan.com/token/0xf7d6243b937136d432adbc643f311b5a9436b0b0
-  - name: twitter
-    url: https://twitter.com/Mls568Snake
+  - name: x
+    url: https://x.com/Mls568Snake
 ---
 
 # snake

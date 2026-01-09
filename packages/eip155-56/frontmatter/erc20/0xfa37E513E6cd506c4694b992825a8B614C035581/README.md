@@ -12,8 +12,8 @@ links:
     url: https://nexum.ai/document/nxm_white_paper.pdf
   - name: telegram
     url: https://t.me/nexum_official
-  - name: twitter
-    url: https://twitter.com/CoinNexum
+  - name: x
+    url: https://x.com/CoinNexum
   - name: coingecko
     url: https://coingecko.com/coins/nexum/
 ---

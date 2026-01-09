@@ -6,8 +6,8 @@ links:
     url: https://nosana.io
   - name: explorer
     url: https://solscan.io/token/nosXBVoaCTtYdLvKY6Csb4AC8JCdQKKAaWYtx2ZMoo7
-  - name: twitter
-    url: https://twitter.com/nosana_ci
+  - name: x
+    url: https://x.com/nosana_ci
   - name: telegram
     url: https://t.me/NosanaCompute
 ---

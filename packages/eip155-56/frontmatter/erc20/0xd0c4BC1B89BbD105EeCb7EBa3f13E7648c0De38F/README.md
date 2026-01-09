@@ -8,8 +8,8 @@ links:
     url: https://web3inu.org
   - name: explorer
     url: https://bscscan.com/token/0xd0c4BC1B89BbD105EeCb7EBa3f13E7648c0De38F
-  - name: twitter
-    url: https://twitter.com/web3_inu
+  - name: x
+    url: https://x.com/web3_inu
   - name: github
     url: https://github.com/web3inu
   - name: telegram

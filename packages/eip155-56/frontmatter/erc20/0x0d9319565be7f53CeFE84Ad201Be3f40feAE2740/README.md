@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x0d9319565be7f53CeFE84Ad201Be3f40feAE2740
   - name: github
     url: https://github.com/bearn-defi/bdollar-smartcontracts
-  - name: twitter
-    url: https://twitter.com/bDollar_Fi
+  - name: x
+    url: https://x.com/bDollar_Fi
   - name: telegram
     url: https://t.me/Bearn_Fi
   - name: medium

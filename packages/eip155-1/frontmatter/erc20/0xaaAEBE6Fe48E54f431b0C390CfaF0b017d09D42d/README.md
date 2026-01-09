@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d
   - name: github
     url: https://github.com/CelsiusNetwork
-  - name: twitter
-    url: https://twitter.com/celsiusnetwork
+  - name: x
+    url: https://x.com/celsiusnetwork
   - name: facebook
     url: https://facebook.com/CelsiusNetwork
   - name: blog

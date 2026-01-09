@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0
   - name: github
     url: https://github.com/dforce-network
-  - name: twitter
-    url: https://twitter.com/dForcenet
+  - name: x
+    url: https://x.com/dForcenet
   - name: medium
     url: https://medium.com/dforcenet
   - name: telegram

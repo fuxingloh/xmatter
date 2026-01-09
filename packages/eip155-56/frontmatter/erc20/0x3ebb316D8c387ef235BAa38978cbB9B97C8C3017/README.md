@@ -6,8 +6,8 @@ links:
     url: https://www.pyxis.network
   - name: explorer
     url: https://bscscan.com/token/0x3ebb316D8c387ef235BAa38978cbB9B97C8C3017
-  - name: twitter
-    url: https://twitter.com/pyxiscommunity
+  - name: x
+    url: https://x.com/pyxiscommunity
   - name: telegram
     url: https://t.me/pyxiscommunity
   - name: discord

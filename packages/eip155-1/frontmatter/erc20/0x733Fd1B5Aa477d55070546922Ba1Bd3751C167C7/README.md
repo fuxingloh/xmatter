@@ -1,0 +1,17 @@
+---
+symbol: ZKGPT
+decimals: 18
+links:
+  - name: website
+    url: https://info.zkgpt.io/
+  - name: explorer
+    url: https://etherscan.io/token/0x733Fd1B5Aa477d55070546922Ba1Bd3751C167C7
+  - name: coinmarketcap
+    url: https://coinmarketcap.com/currencies/zkgpt/
+  - name: x
+    url: https://x.com/zkgptio
+---
+
+# ZKGPT
+
+ZKGPT is a Web3 platform that combines AI-based analytics with real-time blockchain data. It provides wallet tracking, contract insights, and educational tools to help users navigate decentralized finance more confidently, all while prioritizing ease of use and security.

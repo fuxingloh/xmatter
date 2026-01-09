@@ -8,8 +8,8 @@ links:
     url: https://howinu.com/
   - name: explorer
     url: https://bscscan.com/token/0xdAa64420e769fae36CCaA78e26024FE9f583e9D8
-  - name: twitter
-    url: https://twitter.com/howinu
+  - name: x
+    url: https://x.com/howinu
   - name: telegram
     url: https://t.me/howinu
   - name: coinmarketcap

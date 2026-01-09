@@ -8,8 +8,8 @@ links:
     url: https://resource.finance
   - name: explorer
     url: https://etherscan.io/token/0x7118057ff0F4Fd0994fb9d2D94de8231d5cca79E
-  - name: twitter
-    url: https://twitter.com/ReSource_Fi
+  - name: x
+    url: https://x.com/ReSource_Fi
   - name: telegram
     url: https://t.me/theresourcenetwork
   - name: github

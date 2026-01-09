@@ -10,8 +10,8 @@ links:
     url: https://github.com/ApeSwapFinance
   - name: docs
     url: https://apeswap.gitbook.io/apeswap-finance/
-  - name: twitter
-    url: https://twitter.com/ape_swap
+  - name: x
+    url: https://x.com/ape_swap
   - name: telegram
     url: https://t.me/ape_swap
   - name: telegram_news

@@ -13,8 +13,8 @@ links:
     url: https://coinmarketcap.com/currencies/multi-collateral-dai/
   - name: coingecko
     url: https://coingecko.com/coins/dai/
-  - name: twitter
-    url: https://twitter.com/MakerDAO
+  - name: x
+    url: https://x.com/MakerDAO
   - name: whitepaper
     url: https://makerdao.com/whitepaper/
 ---

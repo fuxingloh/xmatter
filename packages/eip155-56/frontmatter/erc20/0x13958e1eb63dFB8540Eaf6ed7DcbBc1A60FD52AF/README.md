@@ -6,8 +6,8 @@ links:
     url: https://frenchie.tech/
   - name: explorer
     url: https://bscscan.com/token/0x13958e1eb63dfb8540eaf6ed7dcbbc1a60fd52af
-  - name: twitter
-    url: https://twitter.com/FrenchieToken
+  - name: x
+    url: https://x.com/FrenchieToken
   - name: telegram
     url: https://t.me/FrenchieToken
 ---

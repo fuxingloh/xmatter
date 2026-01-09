@@ -6,8 +6,8 @@ links:
     url: https://mystcl.xyz/
   - name: explorer
     url: https://basescan.org/token/0xdc46c1e93b71ff9209a0f8076a9951569dc35855
-  - name: twitter
-    url: https://twitter.com/WeMYSTCL
+  - name: x
+    url: https://x.com/WeMYSTCL
 ---
 
 # MYSTCL

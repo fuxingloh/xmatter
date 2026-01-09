@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x02a40c048ee2607b5f5606e445cfc3633fb20b58
   - name: telegram
     url: https://t.me/KabyArena
-  - name: twitter
-    url: https://twitter.com/KabyArena
+  - name: x
+    url: https://x.com/KabyArena
   - name: coingecko
     url: https://coingecko.com/en/coins/kaby-arena
   - name: medium

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xE3233fdb23F1c27aB37Bd66A19a1f1762fCf5f3F
   - name: telegram
     url: https://t.me/ElemonAnnouncement
-  - name: twitter
-    url: https://twitter.com/ElemonGame
+  - name: x
+    url: https://x.com/ElemonGame
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/elemon/
 ---

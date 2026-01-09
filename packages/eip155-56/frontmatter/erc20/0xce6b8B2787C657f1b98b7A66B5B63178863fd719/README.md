@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xce6b8B2787C657f1b98b7A66B5B63178863fd719
   - name: github
     url: https://github.com/zfmcoin/
-  - name: twitter
-    url: https://twitter.com/zfmcoin
+  - name: x
+    url: https://x.com/zfmcoin
   - name: telegram
     url: https://t.me/ZFMCOIN_ANNOUNCEMENT
   - name: youtube

@@ -9,8 +9,8 @@ links:
     url: https://gamespad.io
   - name: explorer
     url: https://bscscan.com/token/0x9720CA160Bbd4E7f3dD4bb3f8BD4227ca0342e63
-  - name: twitter
-    url: https://twitter.com/gamespad_vc
+  - name: x
+    url: https://x.com/gamespad_vc
   - name: telegram
     url: https://t.me/GamesPadChat
   - name: coinmarketcap

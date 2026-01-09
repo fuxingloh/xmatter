@@ -8,8 +8,8 @@ links:
     url: https://polygonscan.com/token/0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97
   - name: github
     url: https://github.com/dfyn
-  - name: twitter
-    url: https://twitter.com/_dfyn
+  - name: x
+    url: https://x.com/_dfyn
   - name: telegram
     url: https://t.me/Dfyn_HQ
   - name: coinmarketcap

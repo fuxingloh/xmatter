@@ -8,8 +8,8 @@ links:
     url: https://everearn.net
   - name: explorer
     url: https://bscscan.com/token/0x47d42E0e864ceFf8C4270F7b6E1f6F91Da45882C
-  - name: twitter
-    url: https://twitter.com/theEverEarn
+  - name: x
+    url: https://x.com/theEverEarn
   - name: telegram
     url: https://t.me/EverEarnOfficial
   - name: facebook

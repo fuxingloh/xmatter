@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xcAf23964Ca8db16D816eB314a56789F58fE0e10e
   - name: github
     url: https://github.com/GalaxyGoggle
-  - name: twitter
-    url: https://twitter.com/galaxygoggledao
+  - name: x
+    url: https://x.com/galaxygoggledao
   - name: telegram
     url: https://t.me/ApeX_Token
   - name: coinmarketcap

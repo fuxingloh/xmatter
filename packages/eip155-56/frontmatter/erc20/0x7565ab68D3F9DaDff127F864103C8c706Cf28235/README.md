@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x7565ab68D3F9DaDff127F864103C8c706Cf28235
   - name: telegram
     url: https://t.me/trustfi_fans
-  - name: twitter
-    url: https://twitter.com/trustfiorg
+  - name: x
+    url: https://x.com/trustfiorg
   - name: blog
     url: https://medium.com/@trustfi
   - name: whitepaper

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xcBc919D845f393Aa0ceD76085Fd082c8aDcE00be
   - name: github
     url: https://github.com/bosagora
-  - name: twitter
-    url: https://twitter.com/BOSAGORA1
+  - name: x
+    url: https://x.com/BOSAGORA1
   - name: telegram
     url: https://t.me/bpf_eng
   - name: medium

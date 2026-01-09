@@ -8,8 +8,8 @@ links:
     url: https://www.elfwallets.com/
   - name: explorer
     url: https://etherscan.io/token/0x831be1970511c069ddedc452ffbbee55eeb70170
-  - name: twitter
-    url: https://twitter.com/ElfWallet
+  - name: x
+    url: https://x.com/ElfWallet
   - name: github
     url: https://github.com/ELF-Wallet
   - name: telegram

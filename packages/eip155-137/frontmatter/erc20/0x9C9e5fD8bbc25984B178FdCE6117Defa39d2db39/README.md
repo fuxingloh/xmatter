@@ -10,8 +10,8 @@ links:
     url: https://polygonscan.com/token/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39
   - name: github
     url: https://github.com/binance-chain/
-  - name: twitter
-    url: https://twitter.com/binance_dex
+  - name: x
+    url: https://x.com/binance_dex
   - name: blog
     url: https://binance.org/en/blog/
   - name: telegram

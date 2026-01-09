@@ -6,8 +6,8 @@ links:
     url: https://www.popcatsolana.xyz/
   - name: explorer
     url: https://solscan.io/token/7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr
-  - name: twitter
-    url: https://twitter.com/popcatsolana
+  - name: x
+    url: https://x.com/popcatsolana
   - name: coingecko
     url: https://coingecko.com/en/coins/popcat
 ---

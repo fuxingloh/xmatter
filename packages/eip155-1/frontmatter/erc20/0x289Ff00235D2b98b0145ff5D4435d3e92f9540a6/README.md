@@ -6,8 +6,8 @@ links:
     url: https://bookofeth.xyz/
   - name: explorer
     url: https://etherscan.io/token/0x289ff00235d2b98b0145ff5d4435d3e92f9540a6
-  - name: twitter
-    url: https://twitter.com/Bookof_Eth
+  - name: x
+    url: https://x.com/Bookof_Eth
   - name: telegram
     url: https://t.me/BookofEthereum
 ---

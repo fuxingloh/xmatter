@@ -6,8 +6,8 @@ links:
     url: https://czodiac.com
   - name: explorer
     url: https://bscscan.com/token/0x7c1608C004F20c3520f70b924E2BfeF092dA0043
-  - name: twitter
-    url: https://twitter.com/zodiacs_c
+  - name: x
+    url: https://x.com/zodiacs_c
   - name: github
     url: https://github.com/chinese-zodiac/czodiac
   - name: telegram

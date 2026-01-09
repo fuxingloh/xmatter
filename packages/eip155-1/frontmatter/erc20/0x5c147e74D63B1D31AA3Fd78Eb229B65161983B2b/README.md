@@ -8,8 +8,8 @@ links:
     url: https://www.onflow.org/
   - name: explorer
     url: https://etherscan.io/token/0x5c147e74d63b1d31aa3fd78eb229b65161983b2b
-  - name: twitter
-    url: https://twitter.com/flow_blockchain
+  - name: x
+    url: https://x.com/flow_blockchain
   - name: github
     url: https://github.com/onflow/
 ---

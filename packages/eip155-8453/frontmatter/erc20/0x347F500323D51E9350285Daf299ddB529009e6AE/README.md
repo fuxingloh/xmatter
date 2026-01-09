@@ -6,8 +6,8 @@ links:
     url: https://blerf.live/
   - name: explorer
     url: https://basescan.org/token/0x347f500323d51e9350285daf299ddb529009e6ae
-  - name: twitter
-    url: https://twitter.com/Blerf_official
+  - name: x
+    url: https://x.com/Blerf_official
 ---
 
 # BLERF

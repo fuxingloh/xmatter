@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0xA2cd3D43c775978A96BdBf12d733D5A1ED94fb18
   - name: github
     url: https://github.com/Onyx-Protocol
-  - name: twitter
-    url: https://twitter.com/OnyxProtocol
+  - name: x
+    url: https://x.com/OnyxProtocol
   - name: blog
     url: https://blog.chain.com/
   - name: coinmarketcap

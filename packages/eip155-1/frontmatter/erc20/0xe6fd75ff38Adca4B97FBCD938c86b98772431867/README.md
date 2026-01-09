@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xe6fd75ff38Adca4B97FBCD938c86b98772431867
   - name: github
     url: https://github.com/elastos
-  - name: twitter
-    url: https://twitter.com/ElastosInfo
+  - name: x
+    url: https://x.com/ElastosInfo
   - name: telegram
     url: https://t.me/elastosgroup
   - name: reddit

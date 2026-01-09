@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x19e6bfc1a6e4b042fb20531244d47e252445df01
   - name: telegram
     url: https://t.me/TemplarDAO
-  - name: twitter
-    url: https://twitter.com/TemplarDAO
+  - name: x
+    url: https://x.com/TemplarDAO
   - name: github
     url: https://github.com/TemplarDAO
   - name: coingecko

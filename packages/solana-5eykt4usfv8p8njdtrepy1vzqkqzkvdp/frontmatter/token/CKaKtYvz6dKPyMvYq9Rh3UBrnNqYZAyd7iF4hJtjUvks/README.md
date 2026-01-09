@@ -8,8 +8,8 @@ links:
     url: https://gari.network/
   - name: explorer
     url: https://solscan.io/token/CKaKtYvz6dKPyMvYq9Rh3UBrnNqYZAyd7iF4hJtjUvks
-  - name: twitter
-    url: https://twitter.com/GariToken
+  - name: x
+    url: https://x.com/GariToken
   - name: facebook
     url: https://facebook.com/GARInetwork-283510420162868
   - name: telegram

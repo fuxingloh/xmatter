@@ -1,21 +1,27 @@
 ---
-symbol: cREAL
+symbol: BRLm
 decimals: 18
 tags:
   - stablecoin
 links:
   - name: website
-    url: https://celo.org
+    url: https://www.mento.org/
   - name: explorer
-    url: https://explorer.bitquery.io/celo_rc1/token/0xe8537a3d056da446677b9e9d6c5db704eaab4787
-  - name: twitter
-    url: https://twitter.com/CeloOrg
+    url: https://celoscan.io/token/0xe8537a3d056DA446677B9E9d6c5dB704EaAb4787
+  - name: x
+    url: https://x.com/mentolabs
   - name: telegram
-    url: https://t.me/celoplatform
-  - name: github
-    url: https://github.com/celo-org/celo-monorepo
+    url: https://t.me/mentocommunity
+  - name: discord
+    url: https://discord.com/invite/Zszgng9NdF
+  - name: coinmarketcap
+    url: https://coinmarketcap.com/currencies/celo-brazilian-real/
+  - name: docs
+    url: https://docs.mento.org/mento
+  - name: blog
+    url: https://www.mento.org/blog
 ---
 
-# Celo Brazilian Real
+# Mento Brazilian Real
 
-Celo Brazilian Real (cREAL) ERC20 Token in Celo Mainnet. Token is implemented as ERC20 smart contract with address
+Mento Brazilian Real (BRLm) is a decentralized stablecoin pegged to the Brazilian Real on the Celo blockchain.

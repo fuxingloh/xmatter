@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x4299260f10d7ae857dd877865d0c4ac96afe773a
   - name: github
     url: https://github.com/Alaskatoken
-  - name: twitter
-    url: https://twitter.com/AlaskaInu
+  - name: x
+    url: https://x.com/AlaskaInu
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/diamonds-alaska-malamuted/
   - name: docs

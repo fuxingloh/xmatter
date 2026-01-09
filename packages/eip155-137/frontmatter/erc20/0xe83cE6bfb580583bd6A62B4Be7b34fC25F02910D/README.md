@@ -8,8 +8,8 @@ links:
     url: https://polygonscan.com/token/0xe83ce6bfb580583bd6a62b4be7b34fc25f02910d
   - name: telegram
     url: https://t.me/abbcfoundation
-  - name: twitter
-    url: https://twitter.com/abbcfoundation
+  - name: x
+    url: https://x.com/abbcfoundation
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/abbc-coin/
 ---

@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x2a7e415c169ce3a580c6f374dc26f6aaad1eccfe
   - name: telegram
     url: https://t.me/hachitoken
-  - name: twitter
-    url: https://twitter.com/RealHachiToken
+  - name: x
+    url: https://x.com/RealHachiToken
 ---
 
 # HACHI

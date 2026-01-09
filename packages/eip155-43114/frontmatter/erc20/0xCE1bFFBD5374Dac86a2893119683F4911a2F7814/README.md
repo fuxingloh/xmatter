@@ -8,8 +8,8 @@ links:
     url: https://abracadabra.money/
   - name: explorer
     url: https://snowtrace.io/token/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814
-  - name: twitter
-    url: https://twitter.com/MIM_Spell
+  - name: x
+    url: https://x.com/MIM_Spell
   - name: medium
     url: https://abracadabramoney.medium.com/
   - name: coinmarketcap

@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x20945ca1df56d237fd40036d47e866c7dccd2114
   - name: github
     url: https://github.com/nsure-tech
-  - name: twitter
-    url: https://twitter.com/Nsure
+  - name: x
+    url: https://x.com/Nsure
   - name: telegram
     url: https://t.me/nsurenet
   - name: medium

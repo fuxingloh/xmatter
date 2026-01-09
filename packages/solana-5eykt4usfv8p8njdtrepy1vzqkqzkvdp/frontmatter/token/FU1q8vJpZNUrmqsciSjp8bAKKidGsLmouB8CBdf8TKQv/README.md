@@ -6,8 +6,8 @@ links:
     url: https://tremp.xyz/
   - name: explorer
     url: https://solscan.io/token/FU1q8vJpZNUrmqsciSjp8bAKKidGsLmouB8CBdf8TKQv
-  - name: twitter
-    url: https://twitter.com/dolandtremp_sol
+  - name: x
+    url: https://x.com/dolandtremp_sol
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/doland-tremp/
 ---

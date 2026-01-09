@@ -8,8 +8,8 @@ links:
     url: https://tfstoken.com/
   - name: explorer
     url: https://bscscan.com/token/0xf4BEa2c219Eb95C6745983B68185C7340c319D9E
-  - name: twitter
-    url: https://twitter.com/tfsinfo
+  - name: x
+    url: https://x.com/tfsinfo
   - name: telegram
     url: https://t.me/tfstoken_channel
   - name: coinmarketcap

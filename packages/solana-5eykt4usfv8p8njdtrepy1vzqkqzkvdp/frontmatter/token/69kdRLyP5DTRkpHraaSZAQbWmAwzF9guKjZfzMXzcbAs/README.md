@@ -6,8 +6,8 @@ links:
     url: https://www.americancoin.xyz/
   - name: explorer
     url: https://solscan.io/token/69kdRLyP5DTRkpHraaSZAQbWmAwzF9guKjZfzMXzcbAs
-  - name: twitter
-    url: https://twitter.com/USA_ON_CHAIN
+  - name: x
+    url: https://x.com/USA_ON_CHAIN
   - name: coingecko
     url: https://coingecko.com/en/coins/american-coin
 ---

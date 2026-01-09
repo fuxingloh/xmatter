@@ -6,8 +6,8 @@ links:
     url: https://www.meritcircle.io
   - name: explorer
     url: https://etherscan.io/token/0x949d48eca67b17269629c7194f4b727d4ef9e5d6
-  - name: twitter
-    url: https://twitter.com/meritcircle_io
+  - name: x
+    url: https://x.com/meritcircle_io
   - name: github
     url: https://github.com/Merit-Circle
   - name: telegram

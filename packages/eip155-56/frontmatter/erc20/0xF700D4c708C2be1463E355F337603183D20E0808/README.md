@@ -8,8 +8,8 @@ links:
     url: https://outerringmmo.com/
   - name: explorer
     url: https://bscscan.com/token/0xF700D4c708C2be1463E355F337603183D20E0808
-  - name: twitter
-    url: https://twitter.com/OuterRingMMO
+  - name: x
+    url: https://x.com/OuterRingMMO
   - name: github
     url: https://github.com/OuterRingMMO
   - name: telegram

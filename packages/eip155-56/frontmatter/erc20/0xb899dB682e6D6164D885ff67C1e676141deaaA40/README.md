@@ -6,8 +6,8 @@ links:
     url: https://onlyonefinance.com/
   - name: explorer
     url: https://bscscan.com/token/0xb899dB682e6D6164D885ff67C1e676141deaaA40
-  - name: twitter
-    url: https://twitter.com/onlyonefinance
+  - name: x
+    url: https://x.com/onlyonefinance
   - name: telegram
     url: https://t.me/onlyone_finance
 ---

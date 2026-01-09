@@ -6,8 +6,8 @@ links:
     url: https://polkamonster.game/
   - name: explorer
     url: https://bscscan.com/token/0x609D183Fb91a0fce59550b62ab7d2c931b0Bb1BE
-  - name: twitter
-    url: https://twitter.com/PolkaMonsterBSC
+  - name: x
+    url: https://x.com/PolkaMonsterBSC
   - name: telegram
     url: https://t.me/PolkaMonsterBSC
   - name: reddit

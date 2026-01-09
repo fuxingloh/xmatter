@@ -6,8 +6,8 @@ links:
     url: https://www.monkeypoxtoken.com/
   - name: explorer
     url: https://solscan.io/token/mpoxP5wyoR3eRW8L9bZjGPFtCsmX8WcqU5BHxFW1xkn
-  - name: twitter
-    url: https://twitter.com/monkeypoxsol
+  - name: x
+    url: https://x.com/monkeypoxsol
 ---
 
 # Monkey Pox

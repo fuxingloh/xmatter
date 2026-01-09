@@ -6,8 +6,8 @@ links:
     url: https://jup.ag
   - name: explorer
     url: https://solscan.io/token/27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4
-  - name: twitter
-    url: https://twitter.com/JupiterExchange
+  - name: x
+    url: https://x.com/JupiterExchange
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/jupiter-perps-lp/
 ---

@@ -8,8 +8,8 @@ links:
     url: http://leavingrecords.com/
   - name: explorer
     url: https://etherscan.io/token/0xA392c35EC6900346aDEc720Abe50413F48Ee5143
-  - name: twitter
-    url: https://twitter.com/LEAVINGRECORDS/
+  - name: x
+    url: https://x.com/LEAVINGRECORDS/
   - name: discord
     url: https://discord.com/invite/2EmZsrf
 ---

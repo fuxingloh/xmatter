@@ -6,8 +6,8 @@ links:
     url: https://betu.io
   - name: explorer
     url: https://bscscan.com/token/0x0df1B3F30865C5b324797F8dB9d339514caC4e94
-  - name: twitter
-    url: https://twitter.com/betuglobal
+  - name: x
+    url: https://x.com/betuglobal
   - name: telegram
     url: https://t.me/betucommunity
   - name: youtube

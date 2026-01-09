@@ -8,8 +8,8 @@ links:
     url: https://www.cvip.io/
   - name: explorer
     url: https://bscscan.com/token/0xe5a46Bf898ce7583B612E5D168073ff773D7857e
-  - name: twitter
-    url: https://twitter.com/CVIP_IO?t=fWZ9WdMsFI8rPQqvcp4Dzw&s=09
+  - name: x
+    url: https://x.com/CVIP_IO?t=fWZ9WdMsFI8rPQqvcp4Dzw&s=09
   - name: telegram
     url: https://t.me/cvipdotio
   - name: whitepaper

@@ -1,13 +1,15 @@
 ---
 symbol: Barron
-decimals: 9
+decimals: 6
+tags:
+  - memes
 links:
   - name: website
     url: https://www.barrontrvmp.com/
   - name: explorer
     url: https://solscan.io/token/HmAgiwjjP9CXqK5wQNsHKtjAt2CH3Kv8Q7xH5kGL2nqZ
-  - name: twitter
-    url: https://twitter.com/Barronsolana
+  - name: x
+    url: https://x.com/Barronsolana
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/time-traveler/
 ---

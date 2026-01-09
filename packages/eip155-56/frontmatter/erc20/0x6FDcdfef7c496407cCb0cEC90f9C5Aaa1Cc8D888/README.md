@@ -12,8 +12,8 @@ links:
     url: https://github.com/vechain
   - name: whitepaper
     url: https://www.vechain.org/whitepaper/#header
-  - name: twitter
-    url: https://twitter.com/vechainofficial
+  - name: x
+    url: https://x.com/vechainofficial
   - name: telegram
     url: https://t.me/vechain_official_english
   - name: reddit

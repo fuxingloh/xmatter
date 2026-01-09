@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/HaP8r3ksG76PhQLTqR8FYBeNiQpejcFbQmiHbg787Ut1
   - name: telegram
     url: https://t.me/magamemecoin
-  - name: twitter
-    url: https://twitter.com/magaonsolanaTW
+  - name: x
+    url: https://x.com/magaonsolanaTW
 ---
 
 # MAGA (Wormhole)

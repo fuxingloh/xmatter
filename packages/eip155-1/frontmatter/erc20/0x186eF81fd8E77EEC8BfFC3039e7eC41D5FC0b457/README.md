@@ -6,8 +6,8 @@ links:
     url: https://www.inspect.xyz/
   - name: explorer
     url: https://etherscan.io/token/0x186eF81fd8E77EEC8BfFC3039e7eC41D5FC0b457
-  - name: twitter
-    url: https://twitter.com/inspectxyz
+  - name: x
+    url: https://x.com/inspectxyz
   - name: telegram
     url: https://t.me/inspectxyz
   - name: coinmarketcap
@@ -16,4 +16,4 @@ links:
 
 # Inspect
 
-Inspect, the first Layer 2 for X (Twitter), merges SocialFi and DeFi in Web3. It revolutionizes crypto navigation in social media, offering tools for swaps, trend tracking, smart money engagement, and alpha interaction. Empowering users with insights, it reshapes decentralized-era social engagement.
+Inspect, the first Layer 2 for X (x), merges SocialFi and DeFi in Web3. It revolutionizes crypto navigation in social media, offering tools for swaps, trend tracking, smart money engagement, and alpha interaction. Empowering users with insights, it reshapes decentralized-era social engagement.

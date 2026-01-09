@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xde30da39c46104798bb5aa3fe8b9e0e1f348163f
   - name: github
     url: https://github.com/gitcoinco
-  - name: twitter
-    url: https://twitter.com/gitcoin
+  - name: x
+    url: https://x.com/gitcoin
   - name: reddit
     url: https://reddit.com/r/gitcoincommunity/
   - name: facebook

@@ -6,8 +6,8 @@ links:
     url: https://infibit.org/
   - name: explorer
     url: https://etherscan.io/token/0x8b385ca3592a5efc34e0c9fe663de56897f1751f
-  - name: twitter
-    url: https://twitter.com/infibit
+  - name: x
+    url: https://x.com/infibit
   - name: telegram
     url: https://t.me/infibit/1
   - name: coinmarketcap

@@ -8,8 +8,8 @@ links:
     url: https://www.luxochain.io/
   - name: explorer
     url: https://etherscan.io/token/0xD39a2CeCBA2657e125Ba6a5c98ad2F6b6D7E83FD
-  - name: twitter
-    url: https://twitter.com/luxochain
+  - name: x
+    url: https://x.com/luxochain
   - name: facebook
     url: https://facebook.com/luxochainbrand/
   - name: coinmarketcap

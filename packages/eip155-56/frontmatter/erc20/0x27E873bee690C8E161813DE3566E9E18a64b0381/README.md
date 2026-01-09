@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x27E873bee690C8E161813DE3566E9E18a64b0381
   - name: github
     url: https://github.com/Leonicornswap
-  - name: twitter
-    url: https://twitter.com/swapleonicorn
+  - name: x
+    url: https://x.com/swapleonicorn
   - name: telegram
     url: https://t.me/leonicornswap
   - name: whitepaper

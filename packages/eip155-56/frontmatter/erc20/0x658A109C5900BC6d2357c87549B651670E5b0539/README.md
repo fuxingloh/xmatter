@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x658a109c5900bc6d2357c87549b651670e5b0539
   - name: github
     url: https://github.com/thefortube
-  - name: twitter
-    url: https://twitter.com/ForTubeFi
+  - name: x
+    url: https://x.com/ForTubeFi
   - name: reddit
     url: https://reddit.com/r/The_Force_Protocol/
   - name: telegram

@@ -10,8 +10,8 @@ links:
     url: https://discord.com/myria
   - name: telegram
     url: https://t.me/myriaofficialgroup
-  - name: twitter
-    url: https://twitter.com/myria
+  - name: x
+    url: https://x.com/myria
 ---
 
 # Myria

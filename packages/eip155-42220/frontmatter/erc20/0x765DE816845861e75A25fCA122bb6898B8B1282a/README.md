@@ -1,21 +1,27 @@
 ---
-symbol: cUSD
+symbol: USDm
 decimals: 18
 tags:
   - stablecoin
 links:
   - name: website
-    url: https://celo.org
+    url: https://www.mento.org/
   - name: explorer
-    url: https://explorer.bitquery.io/celo_rc1/token/0x765de816845861e75a25fca122bb6898b8b1282a
-  - name: twitter
-    url: https://twitter.com/CeloOrg
+    url: https://celoscan.io/token/0x765DE816845861e75A25fCA122bb6898B8B1282a
+  - name: x
+    url: https://x.com/mentolabs
   - name: telegram
-    url: https://t.me/celoplatform
-  - name: github
-    url: https://github.com/celo-org/celo-monorepo
+    url: https://t.me/mentocommunity
+  - name: discord
+    url: https://discord.com/invite/Zszgng9NdF
+  - name: coinmarketcap
+    url: https://coinmarketcap.com/currencies/celo-dollar/
+  - name: docs
+    url: https://docs.mento.org/mento
+  - name: blog
+    url: https://www.mento.org/blog
 ---
 
-# Celo Dollar
+# Mento Dollar
 
-Celo Dollar (cUSD) ERC20 Token in Celo Mainnet. Token is implemented as ERC20 smart contract with address
+Mento Dollar (USDm) is a decentralized stablecoin pegged to the US Dollar on the Celo blockchain.

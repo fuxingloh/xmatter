@@ -8,8 +8,8 @@ links:
     url: https://crazydefenseheroes.com/
   - name: explorer
     url: https://etherscan.io/token/0x1C9922314ED1415c95b9FD453c3818fd41867d0B
-  - name: twitter
-    url: https://twitter.com/TowerToken
+  - name: x
+    url: https://x.com/TowerToken
   - name: discord
     url: https://discord.com/invite/crazydefenseheroes
   - name: medium

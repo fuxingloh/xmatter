@@ -9,8 +9,8 @@ links:
     url: https://SpookyShibaBSC.com
   - name: explorer
     url: https://bscscan.com/token/0x9c2B1B3780A8B36B695f0b2781668664aC1Bf25A
-  - name: twitter
-    url: https://twitter.com/ShibaSpooky
+  - name: x
+    url: https://x.com/ShibaSpooky
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/spooky-shiba/
   - name: coingecko

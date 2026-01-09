@@ -10,8 +10,8 @@ links:
     url: https://littlerabbitproject.com/
   - name: explorer
     url: https://bscscan.com/token/0x6c46422a0f7dbbad9bec3bbbc1189bfaf9794b05
-  - name: twitter
-    url: https://twitter.com/LTRBTtwt/
+  - name: x
+    url: https://x.com/LTRBTtwt/
   - name: telegram
     url: https://t.me/littlerabbitchat
   - name: coinmarketcap

@@ -8,8 +8,8 @@ links:
     url: https://www.dogefoodbsc.com/
   - name: explorer
     url: https://bscscan.com/token/0x1bEc41a36356D5574Aeb068B599Ab7e48dD008b8
-  - name: twitter
-    url: https://twitter.com/dogefood_bsc
+  - name: x
+    url: https://x.com/dogefood_bsc
   - name: github
     url: https://github.com/Deepdarkforest
   - name: telegram

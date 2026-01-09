@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xB72a20C7B8BD666f80AC053B0f4de20a787080F5
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/milc-platform/
-  - name: twitter
-    url: https://twitter.com/MILCplatform
+  - name: x
+    url: https://x.com/MILCplatform
 ---
 
 # Media Licensing Token

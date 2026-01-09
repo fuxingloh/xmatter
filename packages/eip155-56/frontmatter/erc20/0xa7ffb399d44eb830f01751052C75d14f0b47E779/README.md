@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xa7ffb399d44eb830f01751052C75d14f0b47E779
   - name: telegram_news
     url: https://t.me/grokxbnb
-  - name: twitter
-    url: https://twitter.com/GrokXBsc
+  - name: x
+    url: https://x.com/GrokXBsc
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/grok-x/
   - name: coingecko

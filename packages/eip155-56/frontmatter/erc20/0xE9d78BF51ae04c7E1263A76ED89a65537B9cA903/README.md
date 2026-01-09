@@ -6,8 +6,8 @@ links:
     url: https://www.thegamecoin.net
   - name: explorer
     url: https://bscscan.com/token/0xE9d78BF51ae04c7E1263A76ED89a65537B9cA903
-  - name: twitter
-    url: https://twitter.com/GameCoinGMEX
+  - name: x
+    url: https://x.com/GameCoinGMEX
   - name: telegram
     url: https://t.me/TheGameCoin_GME_CHAT
   - name: coinmarketcap

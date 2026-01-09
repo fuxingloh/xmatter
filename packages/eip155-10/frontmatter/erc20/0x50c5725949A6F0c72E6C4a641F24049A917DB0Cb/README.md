@@ -6,8 +6,8 @@ links:
     url: https://www.lyra.finance
   - name: explorer
     url: https://optimistic.etherscan.io/token/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb
-  - name: twitter
-    url: https://twitter.com/lyrafinance
+  - name: x
+    url: https://x.com/lyrafinance
   - name: coingecko
     url: https://coingecko.com/coins/lyra-finance
 ---

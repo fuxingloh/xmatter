@@ -8,8 +8,8 @@ links:
     url: https://www.catcattoken.com/
   - name: explorer
     url: https://bscscan.com/token/0x0173295183685f27c84db046b5f0bea3e683c24b
-  - name: twitter
-    url: https://twitter.com/Cat_CAT_Token
+  - name: x
+    url: https://x.com/Cat_CAT_Token
   - name: telegram
     url: https://t.me/CatToken_Global
   - name: coingecko

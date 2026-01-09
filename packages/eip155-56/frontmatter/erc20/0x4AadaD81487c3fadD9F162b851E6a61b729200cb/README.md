@@ -9,8 +9,8 @@ links:
     url: https://flokiinu.com
   - name: explorer
     url: https://bscscan.com/token/0x4AadaD81487c3fadD9F162b851E6a61b729200cb
-  - name: twitter
-    url: https://twitter.com/shibaflokitoken
+  - name: x
+    url: https://x.com/shibaflokitoken
   - name: github
     url: https://github.com/shibafloki/
   - name: telegram

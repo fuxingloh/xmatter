@@ -10,8 +10,8 @@ links:
     url: https://facebook.com/CarLiveChain/
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/carlive-chain/
-  - name: twitter
-    url: https://twitter.com/CarliveChain
+  - name: x
+    url: https://x.com/CarliveChain
 ---
 
 # CarLive Chain

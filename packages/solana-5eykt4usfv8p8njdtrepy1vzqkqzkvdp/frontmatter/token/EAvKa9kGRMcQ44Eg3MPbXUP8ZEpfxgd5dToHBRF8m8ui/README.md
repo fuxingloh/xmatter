@@ -6,8 +6,8 @@ links:
     url: https://pepewifhat.world/index.html
   - name: explorer
     url: https://solscan.io/token/EAvKa9kGRMcQ44Eg3MPbXUP8ZEpfxgd5dToHBRF8m8ui
-  - name: twitter
-    url: https://twitter.com/itspepewifhat
+  - name: x
+    url: https://x.com/itspepewifhat
   - name: coingecko
     url: https://coingecko.com/en/coins/pepewifhat-3
 ---

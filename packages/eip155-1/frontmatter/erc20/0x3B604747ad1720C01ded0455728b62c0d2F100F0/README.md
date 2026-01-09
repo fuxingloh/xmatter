@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x3b604747ad1720c01ded0455728b62c0d2f100f0
   - name: telegram
     url: https://t.me/WAGMIOfficialGroup
-  - name: twitter
-    url: https://twitter.com/wagmigameco
+  - name: x
+    url: https://x.com/wagmigameco
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/wagmi-game-2/
 ---

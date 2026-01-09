@@ -6,8 +6,8 @@ links:
     url: https://swarm.com/
   - name: explorer
     url: https://etherscan.io/token/0xb17548c7b510427baac4e267bea62e800b247173
-  - name: twitter
-    url: https://twitter.com/SwarmMarkets
+  - name: x
+    url: https://x.com/SwarmMarkets
 ---
 
 # Swarm Markets

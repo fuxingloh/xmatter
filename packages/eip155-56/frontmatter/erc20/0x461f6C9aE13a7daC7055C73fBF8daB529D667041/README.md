@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x461f6C9aE13a7daC7055C73fBF8daB529D667041
   - name: github
     url: https://github.com/pollofinance
-  - name: twitter
-    url: https://twitter.com/FinancePollo
+  - name: x
+    url: https://x.com/FinancePollo
   - name: telegram
     url: https://t.me/pollofi
   - name: medium

@@ -9,8 +9,8 @@ links:
     url: https://www.ihcoin.io/
   - name: explorer
     url: https://bscscan.com/token/0x86a53fcd199212FEa44FA7e16EB1f28812be911D
-  - name: twitter
-    url: https://twitter.com/IHCoinofficial?s=20
+  - name: x
+    url: https://x.com/IHCoinofficial?s=20
   - name: facebook
     url: https://facebook.com/ihcoinofficial
   - name: telegram

@@ -8,8 +8,8 @@ links:
     url: https://dcu.finance/
   - name: explorer
     url: https://bscscan.com/token/0xCb1DDC8F705e2737685A9C1e6B84A63d04D200e5
-  - name: twitter
-    url: https://twitter.com/DCUsmartswap
+  - name: x
+    url: https://x.com/DCUsmartswap
   - name: telegram
     url: https://t.me/DecentralizedUnited
   - name: discord

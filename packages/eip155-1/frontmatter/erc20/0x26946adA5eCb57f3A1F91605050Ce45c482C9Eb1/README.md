@@ -19,8 +19,8 @@ links:
     url: https://t.me/BSOVnews
   - name: blog
     url: https://bsovtoken.com/stories
-  - name: twitter
-    url: https://twitter.com/bsov_
+  - name: x
+    url: https://x.com/bsov_
 ---
 
 # BSOV Token

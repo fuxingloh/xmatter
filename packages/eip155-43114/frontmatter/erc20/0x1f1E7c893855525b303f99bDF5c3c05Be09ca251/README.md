@@ -8,8 +8,8 @@ links:
     url: https://synapseprotocol.com/
   - name: explorer
     url: https://snowtrace.io/token/0x1f1e7c893855525b303f99bdf5c3c05be09ca251
-  - name: twitter
-    url: https://twitter.com/synapseprotocol
+  - name: x
+    url: https://x.com/synapseprotocol
   - name: telegram
     url: https://t.me/synapseprotocol
   - name: coinmarketcap

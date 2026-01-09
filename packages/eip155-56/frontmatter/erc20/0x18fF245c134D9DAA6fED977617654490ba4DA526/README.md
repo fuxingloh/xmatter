@@ -6,8 +6,8 @@ links:
     url: https://www.maskdogecoin.io
   - name: explorer
     url: https://bscscan.com/token/0x18ff245c134d9daa6fed977617654490ba4da526
-  - name: twitter
-    url: https://twitter.com/TheMaskDogeCoin
+  - name: x
+    url: https://x.com/TheMaskDogeCoin
   - name: telegram
     url: https://t.me/maskdogeofficial
   - name: discord

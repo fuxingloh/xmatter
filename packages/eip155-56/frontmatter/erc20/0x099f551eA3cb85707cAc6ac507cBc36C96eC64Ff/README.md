@@ -6,8 +6,8 @@ links:
     url: https://safearn.app
   - name: explorer
     url: https://bscscan.com/token/0x099f551eA3cb85707cAc6ac507cBc36C96eC64Ff
-  - name: twitter
-    url: https://twitter.com/safearnbsc
+  - name: x
+    url: https://x.com/safearnbsc
   - name: telegram
     url: https://t.me/safe_earn
 ---

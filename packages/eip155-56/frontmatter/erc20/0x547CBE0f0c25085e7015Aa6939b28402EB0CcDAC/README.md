@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x547cbe0f0c25085e7015aa6939b28402eb0ccdac
   - name: github
     url: https://github.com/ElasticBTC-XBT
-  - name: twitter
-    url: https://twitter.com/elasticbitcoin
+  - name: x
+    url: https://x.com/elasticbitcoin
   - name: telegram
     url: https://t.me/elasticbitcoin
   - name: medium

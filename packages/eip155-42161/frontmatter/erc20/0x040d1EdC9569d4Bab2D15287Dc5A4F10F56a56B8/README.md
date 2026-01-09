@@ -10,8 +10,8 @@ links:
     url: https://arbiscan.io/token/0x040d1edc9569d4bab2d15287dc5a4f10f56a56b8
   - name: github
     url: https://github.com/balancer-labs
-  - name: twitter
-    url: https://twitter.com/BalancerLabs
+  - name: x
+    url: https://x.com/BalancerLabs
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/balancer/
 ---

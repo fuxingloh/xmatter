@@ -6,8 +6,8 @@ links:
     url: https://moonmoon.cash
   - name: explorer
     url: https://bscscan.com/token/0x0e0e877894a101Ad8711AE3A0194Fa44Ca837a79
-  - name: twitter
-    url: https://twitter.com/MoonMoonCash
+  - name: x
+    url: https://x.com/MoonMoonCash
   - name: telegram
     url: https://t.me/moonmooncash
 ---

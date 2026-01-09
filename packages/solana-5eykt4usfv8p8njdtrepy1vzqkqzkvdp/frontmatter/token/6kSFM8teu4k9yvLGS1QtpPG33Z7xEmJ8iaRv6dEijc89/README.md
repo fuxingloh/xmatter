@@ -6,8 +6,8 @@ links:
     url: https://thesimpsonsdonuts.com
   - name: explorer
     url: https://solscan.io/token/6kSFM8teu4k9yvLGS1QtpPG33Z7xEmJ8iaRv6dEijc89
-  - name: twitter
-    url: https://twitter.com/GatsbyInuERC
+  - name: x
+    url: https://x.com/GatsbyInuERC
 ---
 
 # The Simpsons

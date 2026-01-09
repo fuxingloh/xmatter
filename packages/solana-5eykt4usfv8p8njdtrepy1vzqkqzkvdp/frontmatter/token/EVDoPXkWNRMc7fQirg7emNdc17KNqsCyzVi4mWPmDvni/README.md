@@ -6,8 +6,8 @@ links:
     url: https://catvax.net
   - name: explorer
     url: https://solscan.io/token/EVDoPXkWNRMc7fQirg7emNdc17KNqsCyzVi4mWPmDvni
-  - name: twitter
-    url: https://twitter.com/CATVAX_io
+  - name: x
+    url: https://x.com/CATVAX_io
 ---
 
 # CATVAX

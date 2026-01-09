@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3
   - name: github
     url: https://github.com/Abracadabra-money/magic-internet-money
-  - name: twitter
-    url: https://twitter.com/MIM_Spell
+  - name: x
+    url: https://x.com/MIM_Spell
   - name: coingecko
     url: https://coingecko.com/en/coins/magic-internet-money/
 ---

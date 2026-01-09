@@ -6,8 +6,8 @@ links:
     url: https://media.network/
   - name: explorer
     url: https://solscan.io/token/ETAtLmCmsoiEEKfNrHKJ2kYy3MoABhU6NQvpSfij5tDs
-  - name: twitter
-    url: https://twitter.com/Media_FDN
+  - name: x
+    url: https://x.com/Media_FDN
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/media-network/
   - name: coingecko

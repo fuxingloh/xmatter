@@ -6,8 +6,8 @@ links:
     url: https://michisolana.org
   - name: explorer
     url: https://solscan.io/token/5mbK36SZ7J19An8jFochhQS4of8g6BwUjbeCSxBSoWdp
-  - name: twitter
-    url: https://twitter.com/michionsolana
+  - name: x
+    url: https://x.com/michionsolana
   - name: telegram
     url: https://t.me/michiportal
 ---

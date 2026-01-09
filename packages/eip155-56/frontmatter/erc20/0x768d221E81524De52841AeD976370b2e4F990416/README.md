@@ -6,8 +6,8 @@ links:
     url: https://moonmakerprotocol.com
   - name: explorer
     url: https://bscscan.com/token/0x768d221E81524De52841AeD976370b2e4F990416
-  - name: twitter
-    url: https://twitter.com/Moon Maker Protocol (MMP)
+  - name: x
+    url: https://x.com/Moon Maker Protocol (MMP)
   - name: telegram
     url: https://t.me/moonmooncash
 ---

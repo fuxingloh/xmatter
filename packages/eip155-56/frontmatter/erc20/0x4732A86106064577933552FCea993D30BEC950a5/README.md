@@ -8,8 +8,8 @@ links:
     url: https://prodigichain.com
   - name: explorer
     url: https://bscscan.com/token/0x4732a86106064577933552fcea993d30bec950a5
-  - name: twitter
-    url: https://twitter.com/prodigichain
+  - name: x
+    url: https://x.com/prodigichain
   - name: telegram
     url: https://t.me/prodigitalchain
   - name: github

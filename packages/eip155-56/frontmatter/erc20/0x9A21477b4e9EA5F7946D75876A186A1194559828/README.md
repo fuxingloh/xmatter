@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x9A21477b4e9EA5F7946D75876A186A1194559828
   - name: telegram
     url: https://t.me/findshibby
-  - name: twitter
-    url: https://twitter.com/findshibby
+  - name: x
+    url: https://x.com/findshibby
   - name: youtube
     url: https://youtube.com/channel/UCnaZ_nwXn7UW66eHOwO505g
   - name: facebook

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xd32d01A43c869EdcD1117C640fBDcfCFD97d9d65
   - name: github
     url: https://github.com/nominex/eth-smart-contracts
-  - name: twitter
-    url: https://twitter.com/NominexExchange
+  - name: x
+    url: https://x.com/NominexExchange
   - name: telegram
     url: https://t.me/nominex_announcements
   - name: facebook

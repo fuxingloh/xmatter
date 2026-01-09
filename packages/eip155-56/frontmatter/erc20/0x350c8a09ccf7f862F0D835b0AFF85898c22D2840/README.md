@@ -6,8 +6,8 @@ links:
     url: https://baby.mindmusic.finance/
   - name: explorer
     url: https://bscscan.com/token/0x350c8a09ccf7f862F0D835b0AFF85898c22D2840
-  - name: twitter
-    url: https://twitter.com/mindmusic_bsc
+  - name: x
+    url: https://x.com/mindmusic_bsc
   - name: github
     url: https://github.com/D-B-S-G/BabyMind
   - name: telegram

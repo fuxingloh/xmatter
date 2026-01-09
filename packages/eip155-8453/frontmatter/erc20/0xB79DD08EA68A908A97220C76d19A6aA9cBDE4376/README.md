@@ -8,8 +8,8 @@ links:
     url: https://basescan.org/token/0xb79dd08ea68a908a97220c76d19a6aa9cbde4376
   - name: telegram
     url: https://t.me/overnight_fi
-  - name: twitter
-    url: https://twitter.com/overnight_fi
+  - name: x
+    url: https://x.com/overnight_fi
 ---
 
 # USD+

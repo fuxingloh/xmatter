@@ -6,8 +6,8 @@ links:
     url: https://b2ucoin.com
   - name: explorer
     url: https://bscscan.com/token/0x02926E6E2898e9235fDdDDe3f51c3b644Af8C403
-  - name: twitter
-    url: https://twitter.com/CoinB2u
+  - name: x
+    url: https://x.com/CoinB2u
   - name: github
     url: https://github.com/Bitcointoyou/B2UCOIN_TOKEN
   - name: telegram

@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x77FbA179C79De5B7653F68b5039Af940AdA60ce0
   - name: github
     url: https://github.com/ampleforth
-  - name: twitter
-    url: https://twitter.com/AmpleforthOrg
+  - name: x
+    url: https://x.com/AmpleforthOrg
   - name: reddit
     url: https://reddit.com/r/ampleforthcrypto
   - name: telegram

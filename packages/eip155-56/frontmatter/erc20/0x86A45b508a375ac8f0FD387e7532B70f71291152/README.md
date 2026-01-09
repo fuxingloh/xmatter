@@ -6,8 +6,8 @@ links:
     url: https://emptoken.io/
   - name: explorer
     url: https://bscscan.com/token/0x86A45b508a375ac8f0FD387e7532B70f71291152
-  - name: twitter
-    url: https://twitter.com/emptoken
+  - name: x
+    url: https://x.com/emptoken
   - name: telegram
     url: https://t.me/grupolight
   - name: source_code

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x1B41821625d8CFAd21cd56491DACD57ECaCc83dE
   - name: telegram
     url: https://t.me/NanoDogecoin
-  - name: twitter
-    url: https://twitter.com/nanodogecoin
+  - name: x
+    url: https://x.com/nanodogecoin
   - name: coingecko
     url: https://coingecko.com/en/coins/nano-dogecoin
   - name: medium

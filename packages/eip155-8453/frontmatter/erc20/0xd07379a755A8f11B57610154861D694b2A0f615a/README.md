@@ -6,8 +6,8 @@ links:
     url: https://swapbased.finance/
   - name: explorer
     url: https://basescan.org/token/0xd07379a755a8f11b57610154861d694b2a0f615a
-  - name: twitter
-    url: https://twitter.com/swap_based
+  - name: x
+    url: https://x.com/swap_based
 ---
 
 # BASE

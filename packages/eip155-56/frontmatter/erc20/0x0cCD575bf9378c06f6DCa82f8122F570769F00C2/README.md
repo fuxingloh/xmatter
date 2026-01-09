@@ -6,8 +6,8 @@ links:
     url: https://cryptobladeskingdoms.io/
   - name: explorer
     url: https://bscscan.com/token/0x0cCD575bf9378c06f6DCa82f8122F570769F00C2
-  - name: twitter
-    url: https://twitter.com/BladesCrypto
+  - name: x
+    url: https://x.com/BladesCrypto
   - name: reddit
     url: https://reddit.com/r/CryptoBlades/
   - name: coinmarketcap

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x84750e8EfacC62be5AFe7221Cf149A2520Cb1b60
   - name: github
     url: https://github.com/scorpion-token/SCORPION
-  - name: twitter
-    url: https://twitter.com/scorpionbsc
+  - name: x
+    url: https://x.com/scorpionbsc
   - name: telegram
     url: https://t.me/thescorpiontoken
 ---

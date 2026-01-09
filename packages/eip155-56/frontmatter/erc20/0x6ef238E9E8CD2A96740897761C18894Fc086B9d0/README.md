@@ -8,8 +8,8 @@ links:
     url: https://mytheria.io/
   - name: explorer
     url: https://bscscan.com/token/0x6ef238E9E8CD2A96740897761C18894Fc086B9d0
-  - name: twitter
-    url: https://twitter.com/mytheria_MYRA
+  - name: x
+    url: https://x.com/mytheria_MYRA
   - name: telegram
     url: https://t.me/MytheriaGlobal
   - name: discord

@@ -6,8 +6,8 @@ links:
     url: https://safuyield.com
   - name: explorer
     url: https://bscscan.com/token/0xc74cD0042c837Ce59210857504eBb0859E06aA22
-  - name: twitter
-    url: https://twitter.com/safuyield
+  - name: x
+    url: https://x.com/safuyield
   - name: github
     url: https://github.com/safuyield
   - name: telegram

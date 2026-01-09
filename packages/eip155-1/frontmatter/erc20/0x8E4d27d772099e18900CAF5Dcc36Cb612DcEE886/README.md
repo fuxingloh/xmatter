@@ -6,8 +6,8 @@ links:
     url: https://architex.ai
   - name: explorer
     url: https://etherscan.io/token/0x8e4d27d772099e18900caf5dcc36cb612dcee886
-  - name: twitter
-    url: https://twitter.com/Architex_ai
+  - name: x
+    url: https://x.com/Architex_ai
   - name: coingecko
     url: https://coingecko.com/en/coins/architex
 ---

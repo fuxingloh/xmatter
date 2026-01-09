@@ -10,8 +10,8 @@ links:
     url: https://dogegf.medium.com/
   - name: reddit
     url: https://reddit.com/r/dogegf/
-  - name: twitter
-    url: https://twitter.com/dogegftoken
+  - name: x
+    url: https://x.com/dogegftoken
   - name: telegram
     url: https://t.me/DogeGF_Official
   - name: discord

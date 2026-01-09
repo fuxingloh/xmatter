@@ -6,8 +6,8 @@ links:
     url: https://dapinchi.com
   - name: explorer
     url: https://etherscan.io/token/0xf4cccfda0781ae019a9d4e1853dcd3e288daaa89
-  - name: twitter
-    url: https://twitter.com/da_pinchi_eth
+  - name: x
+    url: https://x.com/da_pinchi_eth
   - name: telegram
     url: https://t.me/da_pinchi_eth
   - name: coinmarketcap

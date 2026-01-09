@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x8d2F15Dccbf9cb28Ad8c564753f7C4bf30638151
   - name: github
     url: https://github.com/CVD19
-  - name: twitter
-    url: https://twitter.com/nocovid19_cvd19
+  - name: x
+    url: https://x.com/nocovid19_cvd19
   - name: telegram
     url: https://t.me/CVD19chat
   - name: telegram_news

@@ -8,8 +8,8 @@ links:
     url: https://www.unic.ly/
   - name: explorer
     url: https://etherscan.io/token/0x94E0BAb2F6Ab1F19F4750E42d7349f2740513aD5
-  - name: twitter
-    url: https://twitter.com/uniclyNFT
+  - name: x
+    url: https://x.com/uniclyNFT
   - name: medium
     url: https://medium.com/unicly
   - name: coinmarketcap

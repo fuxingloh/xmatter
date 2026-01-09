@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x9ceb84f92a0561fa3cc4132ab9c0b76a59787544
   - name: github
     url: https://github.com/dokidokidefi
-  - name: twitter
-    url: https://twitter.com/dokidokifinance
+  - name: x
+    url: https://x.com/dokidokifinance
   - name: medium
     url: https://medium.com/@dokidoki.finance
 ---

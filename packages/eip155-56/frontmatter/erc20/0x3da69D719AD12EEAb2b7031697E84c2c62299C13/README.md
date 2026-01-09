@@ -6,8 +6,8 @@ links:
     url: https://kshark.io
   - name: explorer
     url: https://bscscan.com/token/0x3da69D719AD12EEAb2b7031697E84c2c62299C13
-  - name: twitter
-    url: https://twitter.com/KShark_official
+  - name: x
+    url: https://x.com/KShark_official
   - name: telegram
     url: https://t.me/KShark_Official
 ---

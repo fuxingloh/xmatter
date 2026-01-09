@@ -6,8 +6,8 @@ links:
     url: https://www.mav.xyz/
   - name: explorer
     url: https://etherscan.io/token/0x7448c7456a97769F6cD04F1E83A4a23cCdC46aBD
-  - name: twitter
-    url: https://twitter.com/mavprotocol
+  - name: x
+    url: https://x.com/mavprotocol
   - name: telegram
     url: https://t.me/maverickprotocolofficial
   - name: coinmarketcap

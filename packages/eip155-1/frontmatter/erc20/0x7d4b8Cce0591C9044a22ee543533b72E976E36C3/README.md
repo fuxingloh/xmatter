@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x7d4b8cce0591c9044a22ee543533b72e976e36c3
   - name: github
     url: https://github.com/ChangeFinance
-  - name: twitter
-    url: https://twitter.com/changefinance
+  - name: x
+    url: https://x.com/changefinance
   - name: telegram
     url: https://t.me/ChangeBank
   - name: facebook

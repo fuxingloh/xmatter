@@ -9,8 +9,8 @@ links:
     url: https://www.nya.vip
   - name: explorer
     url: https://etherscan.io/token/0x38f9bf9dce51833ec7f03c9dc218197999999999
-  - name: twitter
-    url: https://twitter.com/NyaOnEarth
+  - name: x
+    url: https://x.com/NyaOnEarth
   - name: telegram
     url: https://t.me/NyaOnEarth
   - name: discord

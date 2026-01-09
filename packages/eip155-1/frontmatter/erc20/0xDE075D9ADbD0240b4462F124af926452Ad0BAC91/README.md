@@ -8,8 +8,8 @@ links:
     url: https://bubblefong.io
   - name: explorer
     url: https://etherscan.io/token/0xde075d9adbd0240b4462f124af926452ad0bac91
-  - name: twitter
-    url: https://twitter.com/BubblefongGame
+  - name: x
+    url: https://x.com/BubblefongGame
   - name: telegram
     url: https://t.me/BubbleFongFriends
   - name: coinmarketcap

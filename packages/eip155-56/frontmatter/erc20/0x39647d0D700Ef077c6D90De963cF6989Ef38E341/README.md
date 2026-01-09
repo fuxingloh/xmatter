@@ -6,8 +6,8 @@ links:
     url: https://www.tianyu.network/home/
   - name: explorer
     url: https://bscscan.com/token/0x39647d0D700Ef077c6D90De963cF6989Ef38E341
-  - name: twitter
-    url: https://twitter.com/Tianyu_Finance
+  - name: x
+    url: https://x.com/Tianyu_Finance
   - name: whitepaper
     url: https://www.tianyu.network/home/assets/images/TIANYU%20LOOP%20V1.3.pdf
   - name: coinmarketcap

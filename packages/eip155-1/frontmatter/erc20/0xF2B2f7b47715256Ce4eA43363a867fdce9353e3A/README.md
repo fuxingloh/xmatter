@@ -6,8 +6,8 @@ links:
     url: https://bitgert.com/
   - name: explorer
     url: https://etherscan.io/token/0xF2B2f7b47715256Ce4eA43363a867fdce9353e3A
-  - name: twitter
-    url: https://twitter.com/bitgertbrise
+  - name: x
+    url: https://x.com/bitgertbrise
   - name: telegram
     url: https://t.me/bitgertbrise
 ---

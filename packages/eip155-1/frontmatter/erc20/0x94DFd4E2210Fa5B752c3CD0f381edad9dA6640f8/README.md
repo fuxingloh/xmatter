@@ -16,8 +16,8 @@ links:
     url: https://t.me/sphynxswapETH
   - name: medium
     url: https://medium.com/@sphynxeth
-  - name: twitter
-    url: https://twitter.com/sphynxeth
+  - name: x
+    url: https://x.com/sphynxeth
   - name: source_code
     url: https://github.com/sphynxeth/sphynx-eth
 ---

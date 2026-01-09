@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x7700Edc3DBb30cBB7603212E061c804220c3cA54
   - name: telegram
     url: https://t.me/quantic_finance
-  - name: twitter
-    url: https://twitter.com/Quantic_finance
+  - name: x
+    url: https://x.com/Quantic_finance
   - name: discord
     url: https://discord.com/Rmh34XHuvy
   - name: coinmarketcap

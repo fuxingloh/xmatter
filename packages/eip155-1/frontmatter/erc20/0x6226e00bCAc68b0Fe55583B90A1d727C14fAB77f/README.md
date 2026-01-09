@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x6226e00bcac68b0fe55583b90a1d727c14fab77f
   - name: github
     url: https://github.com/multivactech
-  - name: twitter
-    url: https://twitter.com/MultiVAC_Global
+  - name: x
+    url: https://x.com/MultiVAC_Global
   - name: blog
     url: https://multivac-global.medium.com
   - name: telegram

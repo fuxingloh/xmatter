@@ -6,8 +6,8 @@ links:
     url: https://bitcominetoken.com/
   - name: explorer
     url: https://bscscan.com/token/0xbcba01f7d6cc0a950464a4b98ba8358c4f6b69a0
-  - name: twitter
-    url: https://twitter.com/BitcoMineToken
+  - name: x
+    url: https://x.com/BitcoMineToken
   - name: telegram
     url: https://t.me/BitcoMineToken
   - name: reddit

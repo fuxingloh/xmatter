@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x8690Cb98496EF0f8c6417D78b5e0E29907668808
   - name: github
     url: https://github.com/WraithProtocol/
-  - name: twitter
-    url: https://twitter.com/WraithProtocol/
+  - name: x
+    url: https://x.com/WraithProtocol/
   - name: reddit
     url: https://reddit.com/r/WRAITH_Official/
   - name: coingecko

@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xbD03BD923c7D51019Fd84571D84e4eBcf7213509
   - name: github
     url: https://github.com/XenoTrades/rockettoken
-  - name: twitter
-    url: https://twitter.com/RocketToken
+  - name: x
+    url: https://x.com/RocketToken
   - name: telegram
     url: https://t.me/RocketToken
 ---

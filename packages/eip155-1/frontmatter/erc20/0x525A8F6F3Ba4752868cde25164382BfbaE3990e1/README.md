@@ -8,8 +8,8 @@ links:
     url: https://nymtech.net/
   - name: explorer
     url: https://etherscan.io/token/0x525A8F6F3Ba4752868cde25164382BfbaE3990e1
-  - name: twitter
-    url: https://twitter.com/nymproject
+  - name: x
+    url: https://x.com/nymproject
   - name: github
     url: https://github.com/nymtech
   - name: telegram

@@ -6,8 +6,8 @@ links:
     url: https://rocketpool.net
   - name: explorer
     url: https://optimistic.etherscan.io/token/0x9Bcef72be871e61ED4fBbc7630889beE758eb81D
-  - name: twitter
-    url: https://twitter.com/Rocket_Pool
+  - name: x
+    url: https://x.com/Rocket_Pool
   - name: medium
     url: https://medium.com/rocket-pool
 ---

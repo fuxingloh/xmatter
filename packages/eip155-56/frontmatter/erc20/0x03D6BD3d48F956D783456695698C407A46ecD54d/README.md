@@ -8,8 +8,8 @@ links:
     url: https://hyperjump.fi/
   - name: explorer
     url: https://bscscan.com/token/0x03D6BD3d48F956D783456695698C407A46ecD54d
-  - name: twitter
-    url: https://twitter.com/HyperJumpBSC
+  - name: x
+    url: https://x.com/HyperJumpBSC
   - name: telegram
     url: https://t.me/hyperjumpbsc
   - name: discord

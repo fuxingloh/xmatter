@@ -1,5 +1,5 @@
 ---
-symbol: SOL
+symbol: WSOL
 decimals: 9
 links:
   - name: website

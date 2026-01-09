@@ -12,8 +12,8 @@ links:
     url: https://bscscan.com/token/0xe73c081cB82f1e8486f18a833D547a33F28B1A45
   - name: telegram
     url: https://t.me/Jump_CN
-  - name: twitter
-    url: https://twitter.com/HappyTreasure__
+  - name: x
+    url: https://x.com/HappyTreasure__
 ---
 
 # JGB Token

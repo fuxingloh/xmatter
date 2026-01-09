@@ -6,8 +6,8 @@ links:
     url: https://acedcoin.com
   - name: explorer
     url: https://etherscan.io/token/0x4B3a0c6d668B43F3f07904E124328659b90Bb4Ca
-  - name: twitter
-    url: https://twitter.com/AceDcoin
+  - name: x
+    url: https://x.com/AceDcoin
   - name: discord
     url: https://discord.com/invite/VExsPg6
 ---

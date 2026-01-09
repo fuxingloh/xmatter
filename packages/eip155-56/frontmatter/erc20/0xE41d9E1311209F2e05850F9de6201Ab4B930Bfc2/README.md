@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xE41d9E1311209F2e05850F9de6201Ab4B930Bfc2
   - name: github
     url: https://github.com/Sponsee/
-  - name: twitter
-    url: https://twitter.com/SPONtoken
+  - name: x
+    url: https://x.com/SPONtoken
   - name: telegram
     url: https://t.me/Sponsee/
   - name: coinmarketcap

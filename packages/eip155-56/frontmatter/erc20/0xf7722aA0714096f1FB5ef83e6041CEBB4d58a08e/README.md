@@ -9,8 +9,8 @@ links:
     url: https://rubyplaynet.com
   - name: explorer
     url: https://bscscan.com/token/0xf7722aA0714096f1FB5ef83e6041CEBB4d58a08e
-  - name: twitter
-    url: https://twitter.com/RubyPlayNetwork
+  - name: x
+    url: https://x.com/RubyPlayNetwork
   - name: telegram
     url: https://t.me/joinchat/axBVv4-VeiQ0MzBh
   - name: reddit

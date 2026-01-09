@@ -8,8 +8,8 @@ links:
     url: https://dogsofelon.io
   - name: explorer
     url: https://etherscan.io/token/0xf8E9F10c22840b613cdA05A0c5Fdb59A4d6cd7eF
-  - name: twitter
-    url: https://twitter.com/dogsofelon
+  - name: x
+    url: https://x.com/dogsofelon
   - name: github
     url: https://github.com/dogsofelon
   - name: telegram

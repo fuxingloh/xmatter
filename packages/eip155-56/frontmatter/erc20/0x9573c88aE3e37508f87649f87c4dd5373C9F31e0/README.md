@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x9573c88aE3e37508f87649f87c4dd5373C9F31e0
   - name: github
     url: https://github.com/monsta-infinite/
-  - name: twitter
-    url: https://twitter.com/Monsta_Infinite/
+  - name: x
+    url: https://x.com/Monsta_Infinite/
   - name: blog
     url: https://monstainfinite.medium.com/
   - name: telegram

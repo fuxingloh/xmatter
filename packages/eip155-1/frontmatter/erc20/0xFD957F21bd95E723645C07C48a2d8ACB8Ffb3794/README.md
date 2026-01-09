@@ -6,8 +6,8 @@ links:
     url: https://ethermeta.com
   - name: explorer
     url: https://etherscan.io/token/0xFD957F21bd95E723645C07C48a2d8ACB8Ffb3794
-  - name: twitter
-    url: https://twitter.com/EthereumMeta
+  - name: x
+    url: https://x.com/EthereumMeta
   - name: telegram
     url: https://t.me/ethereummeta
   - name: coinmarketcap

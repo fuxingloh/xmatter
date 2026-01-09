@@ -13,8 +13,8 @@ links:
     url: https://coinmarketcap.com/currencies/i-coin
   - name: telegram
     url: https://t.me/ICNAnnouncement
-  - name: twitter
-    url: https://twitter.com/_icoin
+  - name: x
+    url: https://x.com/_icoin
 ---
 
 # I-COIN

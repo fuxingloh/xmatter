@@ -6,8 +6,8 @@ links:
     url: https://jesterturdeau.com
   - name: explorer
     url: https://solscan.io/token/AtaQNGKRqk7nBexQjr2xPBDYaqXDsAxvwhyufA5Ffmw
-  - name: twitter
-    url: https://twitter.com/jesterturdeau
+  - name: x
+    url: https://x.com/jesterturdeau
 ---
 
 # jester turdeau

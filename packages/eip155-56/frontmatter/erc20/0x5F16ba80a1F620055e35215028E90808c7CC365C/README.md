@@ -6,8 +6,8 @@ links:
     url: https://europacoin.net
   - name: explorer
     url: https://bscscan.com/token/0x5F16ba80a1F620055e35215028E90808c7CC365C
-  - name: twitter
-    url: https://twitter.com/Europacoin2021
+  - name: x
+    url: https://x.com/Europacoin2021
   - name: github
     url: https://github.com/europacoinbsc/europa
   - name: telegram

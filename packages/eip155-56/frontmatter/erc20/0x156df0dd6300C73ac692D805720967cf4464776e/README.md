@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x156df0dd6300C73ac692D805720967cf4464776e
   - name: github
     url: https://github.com/jonathanstoker/astrospacesio
-  - name: twitter
-    url: https://twitter.com/astrospacesio
+  - name: x
+    url: https://x.com/astrospacesio
   - name: telegram
     url: https://t.me/astrospacesio
 ---

@@ -8,8 +8,8 @@ links:
     url: https://www.shintamatoken.com
   - name: explorer
     url: https://etherscan.io/token/0x7e794ed35788b698ae60cefc98ee48015c4876da
-  - name: twitter
-    url: https://twitter.com/SHINTAMAToken
+  - name: x
+    url: https://x.com/SHINTAMAToken
   - name: telegram
     url: https://t.me/SHINTAMA_Join
   - name: coinmarketcap

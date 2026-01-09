@@ -6,8 +6,8 @@ links:
     url: https://azumacoin.io/
   - name: explorer
     url: https://etherscan.io/token/0xd26a9C3437f7D121098c8C05C7413F5Cc70BB070
-  - name: twitter
-    url: https://twitter.com/GamesAzuma
+  - name: x
+    url: https://x.com/GamesAzuma
   - name: telegram
     url: https://t.me/azumagames
   - name: whitepaper

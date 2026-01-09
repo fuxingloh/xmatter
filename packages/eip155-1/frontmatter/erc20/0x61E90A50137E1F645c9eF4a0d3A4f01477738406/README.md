@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x61e90a50137e1f645c9ef4a0d3a4f01477738406
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/league-of-kingdoms/
-  - name: twitter
-    url: https://twitter.com/LeagueKingdoms
+  - name: x
+    url: https://x.com/LeagueKingdoms
 ---
 
 # League of Kingdoms Arena

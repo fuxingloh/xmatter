@@ -6,8 +6,8 @@ links:
     url: https://atoshi.org/
   - name: explorer
     url: https://etherscan.io/token/0x4D0528598F916Fd1D8dc80e5f54a8fEEDcFd4b18
-  - name: twitter
-    url: https://twitter.com/Twitter
+  - name: x
+    url: https://x.com/x
   - name: facebook
     url: https://facebook.com/atoshifoundation/
 ---

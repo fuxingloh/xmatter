@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xf307910A4c7bbc79691fD374889b36d8531B08e3
   - name: blog
     url: https://medium.com/ankr-network
-  - name: twitter
-    url: https://twitter.com/ankr
+  - name: x
+    url: https://x.com/ankr
   - name: whitepaper
     url: https://s3-us-west-1.amazonaws.com/app.ankr.network/assets/Ankr_Whitepaper_20190524.pdf
 ---

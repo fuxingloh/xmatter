@@ -8,8 +8,8 @@ links:
     url: https://planetrefi.com/
   - name: explorer
     url: https://bscscan.com/token/0xca6d678e74f553f0e59cccc03ae644a3c2c5ee7d
-  - name: twitter
-    url: https://twitter.com/PlanetReFi
+  - name: x
+    url: https://x.com/PlanetReFi
   - name: telegram
     url: https://t.me/PlanetReFi
   - name: medium

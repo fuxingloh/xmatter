@@ -9,8 +9,8 @@ links:
     url: https://fatcatkiller.com/
   - name: explorer
     url: https://bscscan.com/token/0xe0b1ef69bc4ab4173989c1190f0d77a813f3b726
-  - name: twitter
-    url: https://twitter.com/Fat_Cat_Killer
+  - name: x
+    url: https://x.com/Fat_Cat_Killer
   - name: facebook
     url: https://facebook.com/FatCatKiller/
   - name: coinmarketcap

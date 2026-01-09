@@ -8,8 +8,8 @@ links:
     url: https://anyswap.exchange/
   - name: explorer
     url: https://snowtrace.io/token/0xB44a9B6905aF7c801311e8F4E76932ee959c663C
-  - name: twitter
-    url: https://twitter.com/AnyswapNetwork
+  - name: x
+    url: https://x.com/AnyswapNetwork
   - name: telegram
     url: https://t.me/anyswap
   - name: coinmarketcap

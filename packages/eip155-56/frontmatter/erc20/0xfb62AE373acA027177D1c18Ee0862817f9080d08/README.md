@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xfb62AE373acA027177D1c18Ee0862817f9080d08
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/my-defi-pet/
-  - name: twitter
-    url: https://twitter.com/MyDeFiPet
+  - name: x
+    url: https://x.com/MyDeFiPet
   - name: telegram
     url: https://t.me/mydefipet
 ---

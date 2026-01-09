@@ -6,8 +6,8 @@ links:
     url: https://www.butterflyprotocol.io
   - name: explorer
     url: https://etherscan.io/token/0xf680429328caaacabee69b7a9fdb21a71419c063
-  - name: twitter
-    url: https://twitter.com/butterflyproto
+  - name: x
+    url: https://x.com/butterflyproto
   - name: telegram
     url: https://t.me/butterflyprotocol
   - name: medium

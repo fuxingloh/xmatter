@@ -8,8 +8,8 @@ links:
     url: https://kleerun.game
   - name: explorer
     url: https://etherscan.io/token/0xA67E9F021B9d208F7e3365B2A155E3C55B27de71
-  - name: twitter
-    url: https://twitter.com/KleeKaiETH
+  - name: x
+    url: https://x.com/KleeKaiETH
   - name: telegram
     url: https://t.me/kleeentryportal
   - name: discord

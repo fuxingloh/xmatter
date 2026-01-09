@@ -6,8 +6,8 @@ links:
     url: https://crypter.quest/
   - name: explorer
     url: https://bscscan.com/token/0xDa6802BbEC06Ab447A68294A63DE47eD4506ACAA
-  - name: twitter
-    url: https://twitter.com/CrypterOfficial
+  - name: x
+    url: https://x.com/CrypterOfficial
   - name: telegram
     url: https://t.me/cryptermain
   - name: coingecko

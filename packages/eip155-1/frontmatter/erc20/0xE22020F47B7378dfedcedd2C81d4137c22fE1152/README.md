@@ -8,8 +8,8 @@ links:
     url: https://myliquiditypartner.com
   - name: explorer
     url: https://etherscan.io/token/0xE22020F47B7378dfedcedd2C81d4137c22fE1152
-  - name: twitter
-    url: https://twitter.com/MyLiquidity_MLP
+  - name: x
+    url: https://x.com/MyLiquidity_MLP
   - name: medium
     url: https://medium.com/@My_liquidity_partner
   - name: telegram

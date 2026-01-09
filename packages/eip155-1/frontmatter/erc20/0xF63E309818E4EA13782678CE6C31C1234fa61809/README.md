@@ -6,8 +6,8 @@ links:
     url: https://janeteth.ai/
   - name: explorer
     url: https://etherscan.io/token/0xF63E309818E4EA13782678CE6C31C1234fa61809
-  - name: twitter
-    url: https://twitter.com/NeuralJanet
+  - name: x
+    url: https://x.com/NeuralJanet
   - name: telegram
     url: https://t.me/janetethereum
 ---

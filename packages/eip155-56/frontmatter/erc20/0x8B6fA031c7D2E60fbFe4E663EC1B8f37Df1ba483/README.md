@@ -8,8 +8,8 @@ links:
     url: https://cashcowprotocol.com
   - name: explorer
     url: https://bscscan.com/token/0x8B6fA031c7D2E60fbFe4E663EC1B8f37Df1ba483
-  - name: twitter
-    url: https://twitter.com/CashCowProtocol
+  - name: x
+    url: https://x.com/CashCowProtocol
   - name: facebook
     url: https://facebook.com/CashCowProtocol
   - name: telegram

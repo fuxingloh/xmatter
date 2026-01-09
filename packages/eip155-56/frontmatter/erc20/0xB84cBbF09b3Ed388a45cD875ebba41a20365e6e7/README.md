@@ -6,8 +6,8 @@ links:
     url: https://www.bitshiba.io/
   - name: explorer
     url: https://bscscan.com/token/0xb84cbbf09b3ed388a45cd875ebba41a20365e6e7
-  - name: twitter
-    url: https://twitter.com/BitShibaToken
+  - name: x
+    url: https://x.com/BitShibaToken
   - name: telegram
     url: https://t.me/Bitshibatoken
 ---

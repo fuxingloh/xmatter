@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9
   - name: blog
     url: https://blog.ftx.com/
-  - name: twitter
-    url: https://twitter.com/FTX_Official
+  - name: x
+    url: https://x.com/FTX_Official
   - name: telegram
     url: https://t.me/FTX_Official
   - name: whitepaper

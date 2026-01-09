@@ -8,8 +8,8 @@ links:
     url: https://domani.finance
   - name: explorer
     url: https://etherscan.io/token/0x5F64Ab1544D28732F0A24F4713c2C8ec0dA089f0
-  - name: twitter
-    url: https://twitter.com/domaniprotocol
+  - name: x
+    url: https://x.com/domaniprotocol
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/dextf-protocol/
   - name: coingecko

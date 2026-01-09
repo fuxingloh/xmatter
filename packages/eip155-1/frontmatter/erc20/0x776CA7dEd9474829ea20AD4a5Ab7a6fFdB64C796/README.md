@@ -6,8 +6,8 @@ links:
     url: https://tenspeed.finance/
   - name: explorer
     url: https://etherscan.io/token/0x776CA7dEd9474829ea20AD4a5Ab7a6fFdB64C796
-  - name: twitter
-    url: https://twitter.com/TenSpeedFinance
+  - name: x
+    url: https://x.com/TenSpeedFinance
   - name: telegram
     url: https://t.me/tenspeed_finance
   - name: discord

@@ -6,8 +6,8 @@ links:
     url: https://genopets.me/
   - name: explorer
     url: https://solscan.io/token/GENEtH5amGSi8kHAtQoezp1XEXwZJ8vcuePYnXdKrMYz
-  - name: twitter
-    url: https://twitter.com/genopets
+  - name: x
+    url: https://x.com/genopets
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/genopets/
   - name: coingecko

@@ -6,8 +6,8 @@ links:
     url: https://coqinu.com/
   - name: explorer
     url: https://snowtrace.io/token/0x420fca0121dc28039145009570975747295f2329
-  - name: twitter
-    url: https://twitter.com/coqinuavax
+  - name: x
+    url: https://x.com/coqinuavax
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/coq-inu/
 ---

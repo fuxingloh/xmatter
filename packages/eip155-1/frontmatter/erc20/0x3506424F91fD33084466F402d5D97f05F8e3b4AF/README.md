@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x3506424F91fD33084466F402d5D97f05F8e3b4AF
   - name: telegram
     url: https://t.me/chiliz_io
-  - name: twitter
-    url: https://twitter.com/chiliZ/
+  - name: x
+    url: https://x.com/chiliZ/
   - name: facebook
     url: https://facebook.com/chiliZdotcom/
   - name: blog

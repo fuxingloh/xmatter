@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4
   - name: telegram
     url: https://t.me/stakingfacilities
-  - name: twitter
-    url: https://twitter.com/solanabeach_io
+  - name: x
+    url: https://x.com/solanabeach_io
   - name: github
     url: https://github.com/solana-beach/issue-tracker
 ---

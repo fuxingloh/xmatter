@@ -9,8 +9,8 @@ links:
     url: https://noshitcoin.io
   - name: explorer
     url: https://bscscan.com/token/0x53F042f3e809d2DcC9492dE2DbF05d1DA0EF5fbb
-  - name: twitter
-    url: https://twitter.com/NOSHITCoin_io
+  - name: x
+    url: https://x.com/NOSHITCoin_io
   - name: telegram
     url: https://t.me/NOSHITCoin_io
   - name: medium

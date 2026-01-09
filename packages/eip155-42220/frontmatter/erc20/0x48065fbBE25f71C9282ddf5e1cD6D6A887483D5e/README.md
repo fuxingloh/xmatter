@@ -10,8 +10,8 @@ links:
     url: https://explorer.celo.org/mainnet/address/0x48065fbBE25f71C9282ddf5e1cD6D6A887483D5e
   - name: facebook
     url: https://facebook.com/tether.to/
-  - name: twitter
-    url: https://twitter.com/Tether_to/
+  - name: x
+    url: https://x.com/Tether_to/
   - name: coinmarketcap
     url: https://coinmarketcap.com/ru/currencies/tether/
 ---

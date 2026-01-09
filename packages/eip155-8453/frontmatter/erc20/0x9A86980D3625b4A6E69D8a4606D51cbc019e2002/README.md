@@ -8,8 +8,8 @@ links:
     url: https://fomobull.club/
   - name: explorer
     url: https://basescan.org/token/0x9A86980D3625b4A6E69D8a4606D51cbc019e2002
-  - name: twitter
-    url: https://twitter.com/fomobullclub
+  - name: x
+    url: https://x.com/fomobullclub
   - name: telegram
     url: https://t.me/fomobullclub
   - name: coinmarketcap

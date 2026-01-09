@@ -8,8 +8,8 @@ links:
     url: https://fegtoken.com
   - name: explorer
     url: https://etherscan.io/token/0x389999216860ab8e0175387a0c90e5c52522c945
-  - name: twitter
-    url: https://twitter.com/fegtoken
+  - name: x
+    url: https://x.com/fegtoken
   - name: telegram
     url: https://t.me/fegchat
   - name: discord

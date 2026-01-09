@@ -8,8 +8,8 @@ links:
     url: 'https://www.arenaplaycoin.com/ '
   - name: explorer
     url: https://bscscan.com/token/0x2AA504586d6CaB3C59Fa629f74c586d78b93A025
-  - name: twitter
-    url: https://twitter.com/ArenaPlayAPC
+  - name: x
+    url: https://x.com/ArenaPlayAPC
   - name: telegram
     url: https://t.me/ArenaPlayOnly
   - name: coinmarketcap

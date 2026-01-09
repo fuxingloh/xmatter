@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xFa30e62EEDcf80D47d42947fBCc034beeD5C09FE
   - name: telegram
     url: https://t.me/loveearthcoin
-  - name: twitter
-    url: https://twitter.com/LoveEarthCoin
+  - name: x
+    url: https://x.com/LoveEarthCoin
   - name: whitepaper
     url: https://loveearth.info/#/whitepaper
   - name: docs

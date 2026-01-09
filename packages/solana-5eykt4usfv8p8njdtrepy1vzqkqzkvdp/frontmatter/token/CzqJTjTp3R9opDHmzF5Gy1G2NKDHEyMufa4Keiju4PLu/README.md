@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/CzqJTjTp3R9opDHmzF5Gy1G2NKDHEyMufa4Keiju4PLu
   - name: telegram
     url: https://t.me/concealnetworkusers
-  - name: twitter
-    url: https://twitter.com/ConcealNetwork
+  - name: x
+    url: https://x.com/ConcealNetwork
   - name: discord
     url: https://discord.com/invite/YbpHVSd
   - name: github

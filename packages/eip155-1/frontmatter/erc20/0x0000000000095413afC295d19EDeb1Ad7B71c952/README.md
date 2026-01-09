@@ -6,8 +6,8 @@ links:
     url: https://tokenlon.im/lon
   - name: explorer
     url: https://etherscan.io/token/0x0000000000095413afc295d19edeb1ad7b71c952
-  - name: twitter
-    url: https://twitter.com/tokenlon
+  - name: x
+    url: https://x.com/tokenlon
   - name: discord
     url: https://discord.com/invite/nPmsMrG
   - name: medium

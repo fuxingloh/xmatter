@@ -6,8 +6,8 @@ links:
     url: https://secrotservoce.xyz
   - name: explorer
     url: https://solscan.io/token/7VQzGuk2xbWteJ2A5yzGkuDmCQLQGAsvD9MjmW8VutTG
-  - name: twitter
-    url: https://twitter.com/secrotonsol
+  - name: x
+    url: https://x.com/secrotonsol
   - name: telegram
     url: https://t.me/secrot_servoce
 ---

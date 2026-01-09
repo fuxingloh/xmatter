@@ -6,8 +6,8 @@ links:
     url: https://zukimoba.com/
   - name: explorer
     url: https://bscscan.com/token/0xE81257d932280AE440B17AFc5f07C8A110D21432
-  - name: twitter
-    url: https://twitter.com/ZukiMoba
+  - name: x
+    url: https://x.com/ZukiMoba
   - name: facebook
     url: https://facebook.com/ZukiMoba/
   - name: docs

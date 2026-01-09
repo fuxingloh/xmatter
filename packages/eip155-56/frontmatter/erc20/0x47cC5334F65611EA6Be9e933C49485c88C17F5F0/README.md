@@ -6,8 +6,8 @@ links:
     url: https://epichero.io/
   - name: explorer
     url: https://bscscan.com/token/0x47cc5334f65611ea6be9e933c49485c88c17f5f0
-  - name: twitter
-    url: https://twitter.com/EpicHeroio
+  - name: x
+    url: https://x.com/EpicHeroio
   - name: telegram
     url: https://t.me/epicheroio
   - name: docs

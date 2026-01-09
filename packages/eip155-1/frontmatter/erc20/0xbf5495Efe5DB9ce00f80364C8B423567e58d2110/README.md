@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xbf5495efe5db9ce00f80364c8b423567e58d2110
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/renzo-restaked-eth/
-  - name: twitter
-    url: https://twitter.com/RenzoProtocol
+  - name: x
+    url: https://x.com/RenzoProtocol
 ---
 
 # ezETH

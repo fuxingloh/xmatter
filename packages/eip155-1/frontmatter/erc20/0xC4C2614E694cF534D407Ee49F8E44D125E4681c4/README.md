@@ -8,8 +8,8 @@ links:
     url: https://chaingames.io/
   - name: explorer
     url: https://etherscan.io/token/0xc4c2614e694cf534d407ee49f8e44d125e4681c4
-  - name: twitter
-    url: https://twitter.com/realchaingames
+  - name: x
+    url: https://x.com/realchaingames
   - name: telegram
     url: https://t.me/chaingames
   - name: github

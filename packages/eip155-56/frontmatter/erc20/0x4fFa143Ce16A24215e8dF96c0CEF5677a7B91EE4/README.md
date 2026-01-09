@@ -8,8 +8,8 @@ links:
     url: https://regentcoin.finance/
   - name: explorer
     url: https://bscscan.com/token/0x4fFa143Ce16A24215e8dF96c0CEF5677a7B91EE4
-  - name: twitter
-    url: https://twitter.com/regent_coin
+  - name: x
+    url: https://x.com/regent_coin
   - name: telegram
     url: https://t.me/RegentCoinNews
   - name: facebook

@@ -10,8 +10,8 @@ links:
     url: https://pinkpanda.io
   - name: explorer
     url: https://bscscan.com/token/0x1382a2fd1b9f5607d956b68491baba00e21be472
-  - name: twitter
-    url: https://twitter.com/bamboodaoio
+  - name: x
+    url: https://x.com/bamboodaoio
   - name: telegram
     url: https://t.me/PinkPandaHoldingsInc
   - name: github

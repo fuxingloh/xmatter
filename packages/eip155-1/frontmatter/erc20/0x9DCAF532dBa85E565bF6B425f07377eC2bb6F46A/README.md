@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x9dcaf532dba85e565bf6b425f07377ec2bb6f46a
   - name: telegram
     url: https://t.me/dragonballztribute
-  - name: twitter
-    url: https://twitter.com/DBZ_tribute
+  - name: x
+    url: https://x.com/DBZ_tribute
 ---
 
 # Dragonball Z Tribu

@@ -6,8 +6,8 @@ links:
     url: https://kittyshiba.com
   - name: explorer
     url: https://bscscan.com/token/0xc978BA9309f3c3bE3a79302251A2bB041bAa7118
-  - name: twitter
-    url: https://twitter.com/kittyshiba
+  - name: x
+    url: https://x.com/kittyshiba
   - name: github
     url: https://github.com/kittyshiba
   - name: telegram

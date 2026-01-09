@@ -8,8 +8,8 @@ links:
     url: https://web5inu.org
   - name: explorer
     url: https://bscscan.com/token/0x7d220240cf958c5c47f2daac821db965f9837e82
-  - name: twitter
-    url: https://twitter.com/web5inu
+  - name: x
+    url: https://x.com/web5inu
   - name: github
     url: https://github.com/web5inu
   - name: telegram

@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0xCd2828fc4D8E8a0eDe91bB38CF64B1a81De65Bf6
   - name: telegram
     url: https://t.me/oddz_fi_announcements
-  - name: twitter
-    url: https://twitter.com/oddz_finance
+  - name: x
+    url: https://x.com/oddz_finance
   - name: facebook
     url: https://facebook.com/Oddz.fi
   - name: whitepaper

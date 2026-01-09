@@ -6,8 +6,8 @@ links:
     url: https://www.goatthecoin.xyz/
   - name: explorer
     url: https://solscan.io/token/59u8qAD2S2gEtsY5Vs7dJ95YspnHavyHEtRfzCEb9F7G
-  - name: twitter
-    url: https://twitter.com/GOATthecoin
+  - name: x
+    url: https://x.com/GOATthecoin
   - name: telegram
     url: https://t.me/goatthecoin
 ---

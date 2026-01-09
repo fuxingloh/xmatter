@@ -8,8 +8,8 @@ links:
     url: https://MoonRiseCoin.com
   - name: explorer
     url: https://bscscan.com/token/0x7Ee7F14427cC41D6dB17829eb57Dc74A26796b9D
-  - name: twitter
-    url: https://twitter.com/MoonRise_BSC
+  - name: x
+    url: https://x.com/MoonRise_BSC
   - name: telegram
     url: https://t.me/MoonRise_BSC
   - name: telegram_news

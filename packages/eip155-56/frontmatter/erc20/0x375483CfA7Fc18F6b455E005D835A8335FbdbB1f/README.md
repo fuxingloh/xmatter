@@ -6,8 +6,8 @@ links:
     url: https://eclipsetoken.org
   - name: explorer
     url: https://bscscan.com/token/0x375483cfa7fc18f6b455e005d835a8335fbdbb1f
-  - name: twitter
-    url: https://twitter.com/token_eclipse
+  - name: x
+    url: https://x.com/token_eclipse
   - name: telegram
     url: https://t.me/eclipsetokenofficial
 ---

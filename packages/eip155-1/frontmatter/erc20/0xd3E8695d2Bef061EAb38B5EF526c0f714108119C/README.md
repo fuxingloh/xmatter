@@ -6,8 +6,8 @@ links:
     url: https://yfive.finance/
   - name: explorer
     url: https://etherscan.io/token/0xd3E8695d2Bef061EAb38B5EF526c0f714108119C
-  - name: twitter
-    url: https://twitter.com/YFIVEfinance
+  - name: x
+    url: https://x.com/YFIVEfinance
 ---
 
 # YFIVE.FINANCE

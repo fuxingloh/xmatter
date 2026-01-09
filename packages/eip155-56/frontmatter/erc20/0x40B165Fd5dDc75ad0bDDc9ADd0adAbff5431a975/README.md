@@ -8,8 +8,8 @@ links:
     url: https://memestoken.com
   - name: explorer
     url: https://bscscan.com/token/0x40B165Fd5dDc75ad0bDDc9ADd0adAbff5431a975
-  - name: twitter
-    url: https://twitter.com/https://twitter.com/
+  - name: x
+    url: https://x.com/https://x.com/
   - name: github
     url: https://github.com/Flokigangster
 ---

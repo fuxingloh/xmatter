@@ -12,8 +12,8 @@ links:
     url: https://bscscan.com/token/0xbBBcB350C64Fe974e5C42A55c7070644191823f3
   - name: telegram
     url: https://t.me/cheersland_news
-  - name: twitter
-    url: https://twitter.com/cheers_land
+  - name: x
+    url: https://x.com/cheers_land
   - name: blog
     url: https://medium.com/cheersland
   - name: whitepaper

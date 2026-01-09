@@ -6,8 +6,8 @@ links:
     url: https://yrise.finance
   - name: explorer
     url: https://etherscan.io/token/0x6051C1354Ccc51b4d561e43b02735DEaE64768B8
-  - name: twitter
-    url: https://twitter.com/YriseFinance
+  - name: x
+    url: https://x.com/YriseFinance
   - name: telegram
     url: https://t.me/YriseFinance
   - name: discord

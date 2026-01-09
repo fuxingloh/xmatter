@@ -8,8 +8,8 @@ links:
     url: https://babycate.org/
   - name: explorer
     url: https://bscscan.com/token/0x76B560b628F74BF192bE09F0449abef8e456BE79
-  - name: twitter
-    url: https://twitter.com/babycatememe
+  - name: x
+    url: https://x.com/babycatememe
   - name: telegram
     url: https://t.me/babycatebsc
   - name: coinmarketcap

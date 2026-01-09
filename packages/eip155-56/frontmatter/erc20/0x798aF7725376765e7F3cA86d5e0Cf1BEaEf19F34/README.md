@@ -14,8 +14,8 @@ links:
     url: https://coingecko.com/en/coins/atomic-wallet-coin/
   - name: github
     url: https://github.com/Atomicwallet/
-  - name: twitter
-    url: https://twitter.com/atomicwallet
+  - name: x
+    url: https://x.com/atomicwallet
   - name: reddit
     url: https://reddit.com/r/atomicwallet/
   - name: telegram

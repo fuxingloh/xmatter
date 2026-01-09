@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x4be63a9b26EE89b9a3a13fd0aA1D0b2427C135f8
   - name: github
     url: https://github.com/xcarnival
-  - name: twitter
-    url: https://twitter.com/XCarnival_Lab
+  - name: x
+    url: https://x.com/XCarnival_Lab
   - name: medium
     url: https://xcarnival-lab.medium.com/
   - name: telegram

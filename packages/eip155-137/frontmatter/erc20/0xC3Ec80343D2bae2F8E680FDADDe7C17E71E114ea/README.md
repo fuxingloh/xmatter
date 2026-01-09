@@ -10,8 +10,8 @@ links:
     url: https://polygonscan.com/token/0xc3ec80343d2bae2f8e680fdadde7c17e71e114ea
   - name: github
     url: https://github.com/Mantradao
-  - name: twitter
-    url: https://twitter.com/MANTRADAO
+  - name: x
+    url: https://x.com/MANTRADAO
   - name: telegram
     url: https://t.me/MANTRADAO
   - name: coinmarketcap

@@ -6,8 +6,8 @@ links:
     url: https://dogecoin.cc/
   - name: explorer
     url: https://bscscan.com/token/0x99E3259d1D780746c62B4a90833d607b40Fb36Ce
-  - name: twitter
-    url: https://twitter.com/CCdogecoin
+  - name: x
+    url: https://x.com/CCdogecoin
   - name: coingecko
     url: https://coingecko.com/en/coins/community-doge-coin/
   - name: medium

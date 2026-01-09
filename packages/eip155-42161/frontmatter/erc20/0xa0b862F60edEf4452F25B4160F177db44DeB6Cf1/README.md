@@ -10,8 +10,8 @@ links:
     url: https://arbiscan.io/token/0xa0b862f60edef4452f25b4160f177db44deb6cf1
   - name: github
     url: https://github.com/gnosis
-  - name: twitter
-    url: https://twitter.com/gnosisPM
+  - name: x
+    url: https://x.com/gnosisPM
   - name: reddit
     url: https://reddit.com/r/gnosisPM/
   - name: blog

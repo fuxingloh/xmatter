@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x28A27ba716d306c842a4b5dA20a42e1d4D1E8d6b
   - name: telegram
     url: https://t.me/BitUP_Official
-  - name: twitter
-    url: https://twitter.com/bitupbsc
+  - name: x
+    url: https://x.com/bitupbsc
   - name: discord
     url: https://discord.com/XzJapnwF
 ---

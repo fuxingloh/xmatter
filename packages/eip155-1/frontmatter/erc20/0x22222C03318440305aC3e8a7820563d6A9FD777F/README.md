@@ -6,8 +6,8 @@ links:
     url: https://clv.surge.sh/
   - name: explorer
     url: https://etherscan.io/token/0x22222C03318440305aC3e8a7820563d6A9FD777F
-  - name: twitter
-    url: https://twitter.com/clvfi
+  - name: x
+    url: https://x.com/clvfi
 ---
 
 # Clover

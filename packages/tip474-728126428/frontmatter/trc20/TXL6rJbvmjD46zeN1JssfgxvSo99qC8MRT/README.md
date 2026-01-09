@@ -8,8 +8,8 @@ links:
     url: https://tronscan.org/#/token20/TXL6rJbvmjD46zeN1JssfgxvSo99qC8MRT
   - name: telegram
     url: https://t.me/SUNDOG_TRX
-  - name: twitter
-    url: https://twitter.com/sundog_trx
+  - name: x
+    url: https://x.com/sundog_trx
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/sundog/
 ---

@@ -10,8 +10,8 @@ links:
     url: https://bt.io/
   - name: explorer
     url: https://bscscan.com/token/0x352cb5e19b12fc216548a2677bd0fce83bae434b
-  - name: twitter
-    url: https://twitter.com/BitTorrent
+  - name: x
+    url: https://x.com/BitTorrent
   - name: github
     url: https://github.com/bttcprotocol/bttc
   - name: telegram

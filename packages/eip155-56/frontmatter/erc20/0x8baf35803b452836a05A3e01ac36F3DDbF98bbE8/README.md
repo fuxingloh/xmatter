@@ -6,8 +6,8 @@ links:
     url: https://www.loveswap.com/
   - name: explorer
     url: https://bscscan.com/token/0x8baf35803b452836a05A3e01ac36F3DDbF98bbE8
-  - name: twitter
-    url: https://twitter.com/loveswapdex
+  - name: x
+    url: https://x.com/loveswapdex
   - name: whitepaper
     url: https://www.loveswap.com/LoveswapWhitepaper.pdf
   - name: telegram_news

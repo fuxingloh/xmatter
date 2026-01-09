@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x111111111117dC0aa78b770fA6A738034120C302
   - name: github
     url: https://github.com/1inch
-  - name: twitter
-    url: https://twitter.com/1inchNetwork
+  - name: x
+    url: https://x.com/1inchNetwork
   - name: blog
     url: https://blog.1inch.io/
   - name: telegram

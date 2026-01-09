@@ -6,8 +6,8 @@ links:
     url: https://vikingsinu.org
   - name: explorer
     url: https://bscscan.com/token/0xc3583C8328eCB4DC8751C7e4fe7bCC18E558A4b6
-  - name: twitter
-    url: https://twitter.com/vikingsinu
+  - name: x
+    url: https://x.com/vikingsinu
   - name: github
     url: https://github.com/vikingsinu
   - name: telegram

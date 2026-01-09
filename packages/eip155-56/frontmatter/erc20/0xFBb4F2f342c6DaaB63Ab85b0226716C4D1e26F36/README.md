@@ -6,8 +6,8 @@ links:
     url: https://coinracer.io
   - name: explorer
     url: https://bscscan.com/token/0xFBb4F2f342c6DaaB63Ab85b0226716C4D1e26F36
-  - name: twitter
-    url: https://twitter.com/coin_racer
+  - name: x
+    url: https://x.com/coin_racer
   - name: telegram
     url: https://t.me/joinchat/uVEV57tKZ05hODY0
   - name: coinmarketcap

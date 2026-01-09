@@ -6,8 +6,8 @@ links:
     url: https://xxt-token.com
   - name: explorer
     url: https://bscscan.com/token/0xEA01a1a3CF143f90b4aC6D069Bd369826574CD45
-  - name: twitter
-    url: https://twitter.com/xxt_token
+  - name: x
+    url: https://x.com/xxt_token
   - name: telegram
     url: https://t.me/xxt_token_brz
   - name: whitepaper

@@ -11,8 +11,8 @@ links:
     url: https://bscscan.com/token/0x1F1C90aEb2fd13EA972F0a71e35c0753848e3DB0
   - name: medium
     url: https://medium.com/cheelee-cheel
-  - name: twitter
-    url: https://twitter.com/Cheelee_Tweet
+  - name: x
+    url: https://x.com/Cheelee_Tweet
   - name: telegram
     url: https://t.me/Cheelee_EN
   - name: discord

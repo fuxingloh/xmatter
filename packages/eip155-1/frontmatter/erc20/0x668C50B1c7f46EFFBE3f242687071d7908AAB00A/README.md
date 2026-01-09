@@ -6,8 +6,8 @@ links:
     url: https://corgishiba.dog/
   - name: explorer
     url: https://etherscan.io/token/0x668C50B1c7f46EFFBE3f242687071d7908AAB00A
-  - name: twitter
-    url: https://twitter.com/ShibaCorgiDog
+  - name: x
+    url: https://x.com/ShibaCorgiDog
   - name: telegram
     url: https://t.me/corgishibadog
 ---

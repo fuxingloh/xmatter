@@ -8,8 +8,8 @@ links:
     url: https://arbiscan.io/token/0x319f865b287fCC10b30d8cE6144e8b6D1b476999
   - name: telegram
     url: https://t.me/cartesiproject
-  - name: twitter
-    url: https://twitter.com/cartesiproject
+  - name: x
+    url: https://x.com/cartesiproject
 ---
 
 # Cartesi

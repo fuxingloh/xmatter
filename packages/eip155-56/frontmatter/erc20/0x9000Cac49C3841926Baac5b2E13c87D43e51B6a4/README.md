@@ -6,8 +6,8 @@ links:
     url: https://portoken.com
   - name: explorer
     url: https://bscscan.com/token/0x9000Cac49C3841926Baac5b2E13c87D43e51B6a4
-  - name: twitter
-    url: https://twitter.com/portuma
+  - name: x
+    url: https://x.com/portuma
   - name: github
     url: https://github.com/portuma
   - name: telegram

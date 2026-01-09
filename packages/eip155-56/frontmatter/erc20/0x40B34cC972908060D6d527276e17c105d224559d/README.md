@@ -6,8 +6,8 @@ links:
     url: https://treedefi.com/
   - name: explorer
     url: https://bscscan.com/token/0x40b34cc972908060d6d527276e17c105d224559d
-  - name: twitter
-    url: https://twitter.com/treedefi
+  - name: x
+    url: https://x.com/treedefi
   - name: telegram
     url: https://t.me/treedefi
 ---

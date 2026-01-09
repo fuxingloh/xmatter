@@ -8,8 +8,8 @@ links:
     url: https://www.zoroinu.io/
   - name: explorer
     url: https://bscscan.com/token/0x05ad901cf196cbdceab3f8e602a47aadb1a2e69d
-  - name: twitter
-    url: https://twitter.com/ZoroToken
+  - name: x
+    url: https://x.com/ZoroToken
   - name: github
     url: https://github.com/zoroinu
   - name: telegram

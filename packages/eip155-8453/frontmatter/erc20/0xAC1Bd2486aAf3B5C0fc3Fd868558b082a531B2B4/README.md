@@ -10,8 +10,8 @@ links:
     url: https://basescan.org/token/0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4
   - name: github
     url: https://github.com/ToshiTheCat
-  - name: twitter
-    url: https://twitter.com/toshi_base
+  - name: x
+    url: https://x.com/toshi_base
   - name: whitepaper
     url: https://medium.com/@ToshiBase/toshi-roadmap-the-face-of-base-3451b399aa27
   - name: coinmarketcap

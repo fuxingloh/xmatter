@@ -11,8 +11,8 @@ links:
     url: https://www.everrise.com/
   - name: explorer
     url: https://snowtrace.io/token/0xbBD7B847C6d0d0B5691518a363194D71426475F1
-  - name: twitter
-    url: https://twitter.com/everrise
+  - name: x
+    url: https://x.com/everrise
   - name: telegram
     url: https://t.me/everriseofficial
   - name: youtube

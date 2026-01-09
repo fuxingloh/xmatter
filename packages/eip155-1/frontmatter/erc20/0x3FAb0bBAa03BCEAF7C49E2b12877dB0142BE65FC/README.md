@@ -8,8 +8,8 @@ links:
     url: https://castellocoin.com
   - name: explorer
     url: https://etherscan.io/token/0x3FAb0bBAa03BCEAF7C49E2b12877dB0142BE65FC
-  - name: twitter
-    url: https://twitter.com/castellocoin
+  - name: x
+    url: https://x.com/castellocoin
   - name: github
     url: https://github.com/castellocoin
   - name: telegram

@@ -8,8 +8,8 @@ links:
     url: https://hi.com/
   - name: explorer
     url: https://bscscan.com/token/0x77087aB5Df23cFB52449A188e80e9096201c2097
-  - name: twitter
-    url: https://twitter.com/hi_com_official
+  - name: x
+    url: https://x.com/hi_com_official
   - name: github
     url: https://github.com/HiChainGlobal/
   - name: telegram

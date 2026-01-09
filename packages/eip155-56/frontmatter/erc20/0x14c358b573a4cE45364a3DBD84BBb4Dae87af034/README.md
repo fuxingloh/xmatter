@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x14c358b573a4cE45364a3DBD84BBb4Dae87af034
   - name: telegram
     url: https://t.me/dungeonswap
-  - name: twitter
-    url: https://twitter.com/DungeonSwap
+  - name: x
+    url: https://x.com/DungeonSwap
   - name: reddit
     url: https://reddit.com/r/Dungeonswap/
 ---

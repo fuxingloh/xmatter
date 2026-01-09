@@ -6,8 +6,8 @@ links:
     url: https://boredpepevipclub.com
   - name: explorer
     url: https://etherscan.io/token/0x9d95486e1b0e0ea8a5361e853901f731b7f8e403
-  - name: twitter
-    url: https://twitter.com/BoredPepeVC
+  - name: x
+    url: https://x.com/BoredPepeVC
   - name: telegram
     url: https://t.me/BoredPepeVC
   - name: coinmarketcap

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x37c4bcf0b8fC6f074be933Af7fb9D1DDe55f979C
   - name: telegram
     url: https://t.me/BlackDiamondGold
-  - name: twitter
-    url: https://twitter.com/BlackDiamond_CU
+  - name: x
+    url: https://x.com/BlackDiamond_CU
   - name: discord
     url: https://discord.com/invite/vDCqAn2dwz
   - name: whitepaper

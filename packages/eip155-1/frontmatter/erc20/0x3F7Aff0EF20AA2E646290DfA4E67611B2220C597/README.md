@@ -8,8 +8,8 @@ links:
     url: https://voltinu.in/
   - name: explorer
     url: https://etherscan.io/token/0x3F7Aff0EF20AA2E646290DfA4E67611B2220C597
-  - name: twitter
-    url: https://twitter.com/VoltInuOfficial
+  - name: x
+    url: https://x.com/VoltInuOfficial
   - name: telegram
     url: https://t.me/VoltInuOfficial
 ---

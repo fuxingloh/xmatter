@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xBB994E80E2eDc45dCe9065bda73ADc7E9337b64F
   - name: telegram
     url: https://t.me/only1token
-  - name: twitter
-    url: https://twitter.com/OnlyOneToken
+  - name: x
+    url: https://x.com/OnlyOneToken
   - name: medium
     url: https://only1token.medium.com
   - name: youtube

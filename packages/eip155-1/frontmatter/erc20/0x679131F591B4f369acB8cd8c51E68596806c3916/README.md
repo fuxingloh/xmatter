@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x679131F591B4f369acB8cd8c51E68596806c3916
   - name: github
     url: https://github.com/trustlines-protocol/
-  - name: twitter
-    url: https://twitter.com/TrustlinesFound
+  - name: x
+    url: https://x.com/TrustlinesFound
   - name: reddit
     url: https://reddit.com/r/Trustlines
 ---

@@ -6,8 +6,8 @@ links:
     url: https://stake.lido.fi/
   - name: explorer
     url: https://etherscan.io/token/0x5a98fcbea516cf06857215779fd812ca3bef1b32
-  - name: twitter
-    url: https://twitter.com/lidofinance
+  - name: x
+    url: https://x.com/lidofinance
   - name: telegram
     url: https://t.me/lidofinance
   - name: coinmarketcap

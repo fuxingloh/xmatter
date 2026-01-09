@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xb7ba8461664dE526A3ae44189727DFC768625902
   - name: github
     url: https://github.com/ympl-protocol
-  - name: twitter
-    url: https://twitter.com/ymplofficial
+  - name: x
+    url: https://x.com/ymplofficial
   - name: medium
     url: https://medium.com/ympl
 ---

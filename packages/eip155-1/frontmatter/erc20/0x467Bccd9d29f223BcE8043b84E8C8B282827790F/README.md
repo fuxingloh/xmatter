@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x467Bccd9d29f223BcE8043b84E8C8B282827790F
   - name: github
     url: https://github.com/telcoin
-  - name: twitter
-    url: https://twitter.com/telcoin_team
+  - name: x
+    url: https://x.com/telcoin_team
   - name: blog
     url: https://medium.com/@telcoin
   - name: facebook

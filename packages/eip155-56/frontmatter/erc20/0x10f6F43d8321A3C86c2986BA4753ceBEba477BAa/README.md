@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x10f6F43d8321A3C86c2986BA4753ceBEba477BAa
   - name: telegram
     url: https://t.me/BaitCoinBSC
-  - name: twitter
-    url: https://twitter.com/BaitcoinBSC
+  - name: x
+    url: https://x.com/BaitcoinBSC
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/baitcoin/
   - name: blog

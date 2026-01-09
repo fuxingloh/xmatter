@@ -8,8 +8,8 @@ links:
     url: https://arbiscan.io/token/0x6fd58f5a2f3468e35feb098b5f59f04157002407
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/pogai/
-  - name: twitter
-    url: https://twitter.com/_pogai_
+  - name: x
+    url: https://x.com/_pogai_
 ---
 
 # poor guy

@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x75231F58b43240C9718Dd58B4967c5114342a86c
   - name: blog
     url: https://medium.com/okex-blog
-  - name: twitter
-    url: https://twitter.com/okex_
+  - name: x
+    url: https://x.com/okex_
   - name: facebook
     url: https://facebook.com/okexofficial
   - name: telegram

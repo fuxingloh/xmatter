@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x9Ac983826058b8a9C7Aa1C9171441191232E8404
   - name: github
     url: https://github.com/Synthetixio/synthetix
-  - name: twitter
-    url: https://twitter.com/synthetix_io
+  - name: x
+    url: https://x.com/synthetix_io
   - name: reddit
     url: https://reddit.com/r/synthetix_io/
   - name: blog

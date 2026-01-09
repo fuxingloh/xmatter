@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x2eDf094dB69d6Dcd487f1B3dB9febE2eeC0dd4c5
   - name: github
     url: https://github.com/ZeroswapLabs
-  - name: twitter
-    url: https://twitter.com/ZeroSwapLabs
+  - name: x
+    url: https://x.com/ZeroSwapLabs
   - name: telegram
     url: https://t.me/zeroswap
   - name: medium

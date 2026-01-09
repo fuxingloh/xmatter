@@ -10,8 +10,8 @@ links:
     url: https://polygonscan.com/token/0x5fe2B58c013d7601147DcdD68C143A77499f5531
   - name: github
     url: https://github.com/graphprotocol/graph-node
-  - name: twitter
-    url: https://twitter.com/graphprotocol
+  - name: x
+    url: https://x.com/graphprotocol
   - name: reddit
     url: https://reddit.com/r/thegraph
   - name: telegram

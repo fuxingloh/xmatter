@@ -6,8 +6,8 @@ links:
     url: https://tellor.io
   - name: explorer
     url: https://optimistic.etherscan.io/token/0xaf8cA653Fa2772d58f4368B0a71980e9E3cEB888
-  - name: twitter
-    url: https://twitter.com/WeAreTellor
+  - name: x
+    url: https://x.com/WeAreTellor
   - name: telegram
     url: https://t.me/tellor
   - name: coinmarketcap

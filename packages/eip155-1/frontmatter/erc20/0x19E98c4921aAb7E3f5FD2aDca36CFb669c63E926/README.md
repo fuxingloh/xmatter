@@ -8,8 +8,8 @@ links:
     url: http://www.colawork.com/
   - name: explorer
     url: https://etherscan.io/token/0x19e98c4921aab7e3f5fd2adca36cfb669c63e926
-  - name: twitter
-    url: https://twitter.com/colawork_COLA
+  - name: x
+    url: https://x.com/colawork_COLA
   - name: telegram
     url: https://t.me/colawork
   - name: coinmarketcap

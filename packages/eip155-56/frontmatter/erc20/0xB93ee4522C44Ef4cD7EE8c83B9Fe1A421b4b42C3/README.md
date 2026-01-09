@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xB93ee4522C44Ef4cD7EE8c83B9Fe1A421b4b42C3
   - name: github
     url: https://github.com/Metatime-Technology-Inc
-  - name: twitter
-    url: https://twitter.com/metatimecom
+  - name: x
+    url: https://x.com/metatimecom
   - name: telegram
     url: https://t.me/metatime
   - name: coinmarketcap

@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xBc17729fDf562723f0267F79FF25aDE441056d87
   - name: whitepaper
     url: https://ksmstarter.com/wp-content/uploads/2021/09/ksm_starter.pdf
-  - name: twitter
-    url: https://twitter.com/KSMStarter
+  - name: x
+    url: https://x.com/KSMStarter
   - name: telegram
     url: https://t.me/KSM_starter
 ---

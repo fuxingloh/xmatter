@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/parrot-usd/
-  - name: twitter
-    url: https://twitter.com/gopartyparrot
+  - name: x
+    url: https://x.com/gopartyparrot
 ---
 
 # Parrot USD

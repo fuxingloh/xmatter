@@ -6,8 +6,8 @@ links:
     url: https://www.cryptoniterelief.com/
   - name: explorer
     url: https://bscscan.com/token/0x6904b1c25c91fBD9431621fbE495d7c49FCD171F
-  - name: twitter
-    url: https://twitter.com/CRYPTONITE_CRT
+  - name: x
+    url: https://x.com/CRYPTONITE_CRT
   - name: telegram
     url: https://t.me/CryptoniteToken
 ---

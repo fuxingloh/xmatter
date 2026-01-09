@@ -8,8 +8,8 @@ links:
     url: https://polygonscan.com/token/0xc68e83a305b0fad69e264a1769a0a070f190d2d6
   - name: github
     url: https://github.com/polyroll
-  - name: twitter
-    url: https://twitter.com/PolyrollOrg
+  - name: x
+    url: https://x.com/PolyrollOrg
   - name: telegram
     url: https://t.me/polyroll
   - name: medium

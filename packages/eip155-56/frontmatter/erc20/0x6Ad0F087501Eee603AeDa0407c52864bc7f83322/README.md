@@ -8,8 +8,8 @@ links:
     url: https://www.meta-face.space/
   - name: explorer
     url: https://bscscan.com/token/0x6Ad0F087501Eee603AeDa0407c52864bc7f83322
-  - name: twitter
-    url: https://twitter.com/Human_meta_face
+  - name: x
+    url: https://x.com/Human_meta_face
   - name: github
     url: https://github.com/MetaFaceNft/mefa
   - name: reddit

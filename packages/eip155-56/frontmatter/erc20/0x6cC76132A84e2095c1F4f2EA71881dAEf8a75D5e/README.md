@@ -8,8 +8,8 @@ links:
     url: https://ninebot.io/
   - name: explorer
     url: https://bscscan.com/token/0x6cC76132A84e2095c1F4f2EA71881dAEf8a75D5e
-  - name: twitter
-    url: https://twitter.com/NinebotIO
+  - name: x
+    url: https://x.com/NinebotIO
   - name: telegram
     url: https://t.me/NineBotCommunity
   - name: docs

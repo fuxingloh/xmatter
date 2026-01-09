@@ -8,8 +8,8 @@ links:
     url: https://makerdao.com/
   - name: explorer
     url: https://snowtrace.io/token/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70
-  - name: twitter
-    url: https://twitter.com/MakerDAO
+  - name: x
+    url: https://x.com/MakerDAO
   - name: whitepaper
     url: https://makerdao.com/whitepaper/
   - name: coinmarketcap

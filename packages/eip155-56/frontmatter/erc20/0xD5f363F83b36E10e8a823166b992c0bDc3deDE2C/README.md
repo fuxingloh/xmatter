@@ -9,8 +9,8 @@ links:
     url: https://elonbank.io
   - name: explorer
     url: https://bscscan.com/token/0xD5f363F83b36E10e8a823166b992c0bDc3deDE2C
-  - name: twitter
-    url: https://twitter.com/ElonBankBSC
+  - name: x
+    url: https://x.com/ElonBankBSC
   - name: facebook
     url: https://facebook.com/ElonBank-110185674954444
   - name: whitepaper

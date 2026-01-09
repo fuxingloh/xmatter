@@ -8,8 +8,8 @@ links:
     url: https://explorer.celo.org/mainnet/address/0x6e512BFC33be36F2666754E996ff103AD1680Cc9
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/allbridge/
-  - name: twitter
-    url: https://twitter.com/Allbridge_io
+  - name: x
+    url: https://x.com/Allbridge_io
   - name: telegram
     url: https://t.me/allbridge_official
 ---

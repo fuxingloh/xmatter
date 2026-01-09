@@ -9,8 +9,8 @@ links:
     url: https://www.fitburn.ai
   - name: explorer
     url: https://bscscan.com/token/0x859c940f080b197659b3effc804fd622df66f0a1
-  - name: twitter
-    url: https://twitter.com/fitburn_ai
+  - name: x
+    url: https://x.com/fitburn_ai
   - name: telegram
     url: https://t.me/fitburngroup
   - name: coinmarketcap

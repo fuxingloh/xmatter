@@ -8,8 +8,8 @@ links:
     url: https://oggyinu.com/
   - name: explorer
     url: https://bscscan.com/token/0x92eD61FB8955Cc4e392781cB8b7cD04AADc43D0c
-  - name: twitter
-    url: https://twitter.com/Oggy_Inu
+  - name: x
+    url: https://x.com/Oggy_Inu
   - name: telegram
     url: https://t.me/oggy_inu
   - name: coinmarketcap

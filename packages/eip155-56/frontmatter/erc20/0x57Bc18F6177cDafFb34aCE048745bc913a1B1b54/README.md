@@ -11,8 +11,8 @@ links:
     url: https://bithotel.io
   - name: explorer
     url: https://bscscan.com/token/0x57Bc18F6177cDafFb34aCE048745bc913a1B1b54
-  - name: twitter
-    url: https://twitter.com/playbithotel
+  - name: x
+    url: https://x.com/playbithotel
   - name: github
     url: https://github.com/BitHotelOrg
   - name: telegram

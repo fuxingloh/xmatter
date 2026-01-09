@@ -8,8 +8,8 @@ links:
     url: https://www.farcana.com/
   - name: explorer
     url: https://polygonscan.com/token/0x5F32AbeeBD3c2fac1E7459A27e1AE9f1C16ccccA
-  - name: twitter
-    url: https://twitter.com/FarcanaOfficial
+  - name: x
+    url: https://x.com/FarcanaOfficial
   - name: youtube
     url: https://youtube.com/@Farcana
 ---

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x9e6b3e35c8f563b45d864f9ff697a144ad28a371
   - name: github
     url: https://github.com/DomgeonGo
-  - name: twitter
-    url: https://twitter.com/DogemonGoApp
+  - name: x
+    url: https://x.com/DogemonGoApp
   - name: reddit
     url: https://reddit.com/r/dogemongoapp/
 ---

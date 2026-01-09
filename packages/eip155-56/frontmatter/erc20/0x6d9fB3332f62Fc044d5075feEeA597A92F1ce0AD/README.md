@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x6d9fB3332f62Fc044d5075feEeA597A92F1ce0AD
   - name: telegram
     url: https://t.me/BabyDogeBillionaire
-  - name: twitter
-    url: https://twitter.com/BabyDogeBLN
+  - name: x
+    url: https://x.com/BabyDogeBLN
   - name: reddit
     url: https://reddit.com/r/BabyDogeBillionaire/
   - name: facebook

@@ -6,8 +6,8 @@ links:
     url: https://hakunamatatatoken.com
   - name: explorer
     url: https://bscscan.com/token/0xBb2FA5B2D19209f4Cf50cF745Efc32641A7c9fb1
-  - name: twitter
-    url: https://twitter.com/HKUNtoken
+  - name: x
+    url: https://x.com/HKUNtoken
   - name: telegram
     url: https://t.me/HKUNtoken
   - name: youtube

@@ -8,8 +8,8 @@ links:
     url: https://polygonscan.com/token/0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39
   - name: whitepaper
     url: https://link.smartcontract.com/whitepaper
-  - name: twitter
-    url: https://twitter.com/chainlink
+  - name: x
+    url: https://x.com/chainlink
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/chainlink/
   - name: coingecko

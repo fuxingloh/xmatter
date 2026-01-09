@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x988c11625472340b7B36FF1534893780E0d8d841
   - name: github
     url: https://github.com/ConcealNetwork
-  - name: twitter
-    url: https://twitter.com/ConcealNetwork
+  - name: x
+    url: https://x.com/ConcealNetwork
   - name: telegram
     url: https://t.me/concealnetwork
   - name: discord

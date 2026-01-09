@@ -10,8 +10,8 @@ links:
     url: https://t.me/babybali
   - name: coinmarketcap
     url: https://coinmarketcap.com/ru/currencies/baby-bali/
-  - name: twitter
-    url: https://twitter.com/BabyBalibsc
+  - name: x
+    url: https://x.com/BabyBalibsc
 ---
 
 # Baby Bali

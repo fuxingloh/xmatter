@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x0d4992e48278aa7f7c915f820743d9fab7fea713
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/metazilla/
-  - name: twitter
-    url: https://twitter.com/TheMetaZilla
+  - name: x
+    url: https://x.com/TheMetaZilla
 ---
 
 # MetaZilla

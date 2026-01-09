@@ -8,8 +8,8 @@ links:
     url: https://www.hollywood3.com/
   - name: explorer
     url: https://bscscan.com/token/0xd6edbB510af7901b2C049ce778b65a740c4aeB7f
-  - name: twitter
-    url: https://twitter.com/WOR_TOKEN
+  - name: x
+    url: https://x.com/WOR_TOKEN
   - name: telegram
     url: https://t.me/WARRIOR_ZH
   - name: coingecko

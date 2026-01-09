@@ -8,8 +8,8 @@ links:
     url: https://milkai.com/
   - name: explorer
     url: https://etherscan.io/token/0x9f826324bb9bdcf7e7eb274bedc417bd45d74f39
-  - name: twitter
-    url: https://twitter.com/MilkAI_com
+  - name: x
+    url: https://x.com/MilkAI_com
   - name: telegram
     url: https://t.me/milkai_com
   - name: coinmarketcap

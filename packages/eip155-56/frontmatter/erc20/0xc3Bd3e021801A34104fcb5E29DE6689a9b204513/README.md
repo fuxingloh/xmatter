@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xc3Bd3e021801A34104fcb5E29DE6689a9b204513
   - name: telegram
     url: https://t.me/levelup_games
-  - name: twitter
-    url: https://twitter.com/LevelUpBSC
+  - name: x
+    url: https://x.com/LevelUpBSC
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/levelup-gaming/
   - name: coingecko

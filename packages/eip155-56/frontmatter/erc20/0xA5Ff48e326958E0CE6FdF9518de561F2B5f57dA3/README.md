@@ -6,8 +6,8 @@ links:
     url: https://polkalokr.com
   - name: explorer
     url: https://bscscan.com/token/0xA5Ff48e326958E0CE6FdF9518de561F2B5f57dA3
-  - name: twitter
-    url: https://twitter.com/Polkalokr
+  - name: x
+    url: https://x.com/Polkalokr
   - name: github
     url: https://github.com/Polkalokr
   - name: telegram

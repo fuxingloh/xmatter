@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xbf151F63D8d1287db5FC7a3bc104a9c38124cdeB
   - name: telegram
     url: https://t.me/AVNRich_Chat
-  - name: twitter
-    url: https://twitter.com/avnrich
+  - name: x
+    url: https://x.com/avnrich
   - name: github
     url: https://github.com/AvnrichDefi
 ---

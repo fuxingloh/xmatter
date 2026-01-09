@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x7039cd6D7966672F194E8139074C3D5c4e6DCf65
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/super-trump-io/
-  - name: twitter
-    url: https://twitter.com/SuperTrumpCoin
+  - name: x
+    url: https://x.com/SuperTrumpCoin
 ---
 
 # Super Trump

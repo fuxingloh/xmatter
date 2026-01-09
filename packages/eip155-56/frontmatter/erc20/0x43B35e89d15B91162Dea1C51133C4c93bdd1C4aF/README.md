@@ -8,8 +8,8 @@ links:
     url: https://sakaivault.io/
   - name: explorer
     url: https://bscscan.com/token/0x43B35e89d15B91162Dea1C51133C4c93bdd1C4aF
-  - name: twitter
-    url: https://twitter.com/SakaiVault
+  - name: x
+    url: https://x.com/SakaiVault
   - name: github
     url: https://github.com/SakaiVault
   - name: telegram_news

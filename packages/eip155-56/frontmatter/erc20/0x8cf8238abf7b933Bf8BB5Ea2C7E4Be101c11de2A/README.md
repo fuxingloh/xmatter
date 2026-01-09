@@ -6,8 +6,8 @@ links:
     url: https://xp.network
   - name: explorer
     url: https://bscscan.com/token/0x8cf8238abf7b933Bf8BB5Ea2C7E4Be101c11de2A
-  - name: twitter
-    url: https://twitter.com/xpnetwork_
+  - name: x
+    url: https://x.com/xpnetwork_
   - name: github
     url: https://github.com/xp-network/
   - name: telegram

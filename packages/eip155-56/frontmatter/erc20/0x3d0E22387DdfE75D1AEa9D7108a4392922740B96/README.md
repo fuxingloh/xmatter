@@ -6,8 +6,8 @@ links:
     url: https://loudnft.co
   - name: explorer
     url: https://bscscan.com/token/0x3d0E22387DdfE75D1AEa9D7108a4392922740B96
-  - name: twitter
-    url: https://twitter.com/loudmarketnfts
+  - name: x
+    url: https://x.com/loudmarketnfts
   - name: telegram
     url: https://t.me/loudmarket
   - name: coinmarketcap

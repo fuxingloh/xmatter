@@ -12,8 +12,8 @@ links:
     url: https://docs.snowcrash.finance/
   - name: whitepaper
     url: https://docs.snowcrash.finance/
-  - name: twitter
-    url: https://twitter.com/SnowCrashDAO
+  - name: x
+    url: https://x.com/SnowCrashDAO
   - name: telegram
     url: https://t.me/SnowCrashDAO
   - name: youtube

@@ -6,8 +6,8 @@ links:
     url: https://metaverseinu.org
   - name: explorer
     url: https://bscscan.com/token/0xC75bcC3ae0844c16Fd1881b8bb47BD509303a135
-  - name: twitter
-    url: https://twitter.com/Metaverse_Inu
+  - name: x
+    url: https://x.com/Metaverse_Inu
   - name: github
     url: https://github.com/MetaverseInu
   - name: discord

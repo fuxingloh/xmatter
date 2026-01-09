@@ -6,8 +6,8 @@ links:
     url: https://tetra-hedra.com
   - name: explorer
     url: https://bscscan.com/token/0xF19b09DA89722F0a6960F9bF9701A63AE891603A
-  - name: twitter
-    url: https://twitter.com/TetraHedraTTH
+  - name: x
+    url: https://x.com/TetraHedraTTH
   - name: facebook
     url: https://facebook.com/tetrahedra2021
   - name: telegram

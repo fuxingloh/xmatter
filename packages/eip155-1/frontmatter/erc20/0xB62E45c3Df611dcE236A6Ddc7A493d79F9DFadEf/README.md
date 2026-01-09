@@ -8,8 +8,8 @@ links:
     url: https://wallstmemes.com
   - name: explorer
     url: https://etherscan.io/token/0xB62E45c3Df611dcE236A6Ddc7A493d79F9DFadEf
-  - name: twitter
-    url: https://twitter.com/wallstmemes
+  - name: x
+    url: https://x.com/wallstmemes
   - name: discord
     url: https://discord.com/invite/4E538pzeGX
   - name: telegram

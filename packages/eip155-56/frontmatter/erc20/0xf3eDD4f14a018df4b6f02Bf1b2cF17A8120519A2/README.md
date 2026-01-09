@@ -10,8 +10,8 @@ links:
     url: https://reddit.com/user/Pandainu_official
   - name: medium
     url: https://pandainu.medium.com/
-  - name: twitter
-    url: https://twitter.com/Pandainu21
+  - name: x
+    url: https://x.com/Pandainu21
   - name: facebook
     url: https://facebook.com/pandainutoken/
 ---

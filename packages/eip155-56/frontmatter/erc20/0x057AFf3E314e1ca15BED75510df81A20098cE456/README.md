@@ -6,8 +6,8 @@ links:
     url: https://potent.finance/
   - name: explorer
     url: https://bscscan.com/token/0x057AFf3E314e1ca15BED75510df81A20098cE456
-  - name: twitter
-    url: https://twitter.com/potent_coin
+  - name: x
+    url: https://x.com/potent_coin
   - name: facebook
     url: https://facebook.com/Potent-Token-108367228056742/
   - name: telegram

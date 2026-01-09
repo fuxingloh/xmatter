@@ -6,8 +6,8 @@ links:
     url: https://djcat.framer.website/
   - name: explorer
     url: https://solscan.io/token/A5gVj5j16U4vCTMXQYYrhkmWgx6gej4nAeZRNQMLUAfy
-  - name: twitter
-    url: https://twitter.com/cto_djcat
+  - name: x
+    url: https://x.com/cto_djcat
   - name: telegram
     url: https://t.me/ctodjcat
 ---

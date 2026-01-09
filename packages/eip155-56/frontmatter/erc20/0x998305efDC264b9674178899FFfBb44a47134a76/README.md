@@ -6,8 +6,8 @@ links:
     url: https://www.gaimin.io/
   - name: explorer
     url: https://bscscan.com/token/0x998305efDC264b9674178899FFfBb44a47134a76
-  - name: twitter
-    url: https://twitter.com/GaiminIo
+  - name: x
+    url: https://x.com/GaiminIo
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/gaimin/
 ---

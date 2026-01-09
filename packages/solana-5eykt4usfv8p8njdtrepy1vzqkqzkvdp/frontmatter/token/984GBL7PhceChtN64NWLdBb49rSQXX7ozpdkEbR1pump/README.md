@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/984GBL7PhceChtN64NWLdBb49rSQXX7ozpdkEbR1pump
   - name: telegram
     url: https://t.me/Apesol_gang
-  - name: twitter
-    url: https://twitter.com/Apesol_gang
+  - name: x
+    url: https://x.com/Apesol_gang
 ---
 
 # APES

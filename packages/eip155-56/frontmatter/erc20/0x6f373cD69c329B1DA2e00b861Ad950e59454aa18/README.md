@@ -8,8 +8,8 @@ links:
     url: https://dogeyellow.com
   - name: explorer
     url: https://bscscan.com/token/0x6f373cD69c329B1DA2e00b861Ad950e59454aa18
-  - name: twitter
-    url: https://twitter.com/DogeYellowCoin1
+  - name: x
+    url: https://x.com/DogeYellowCoin1
   - name: github
     url: https://github.com/dogeyellowcoin
   - name: telegram

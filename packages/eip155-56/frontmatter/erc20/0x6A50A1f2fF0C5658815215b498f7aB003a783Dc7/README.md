@@ -8,8 +8,8 @@ links:
     url: https://cvtoken.us/
   - name: explorer
     url: https://bscscan.com/token/0x6A50A1f2fF0C5658815215b498f7aB003a783Dc7
-  - name: twitter
-    url: https://twitter.com/CryptoV75575
+  - name: x
+    url: https://x.com/CryptoV75575
   - name: github
     url: https://github.com/cvttokenofficial
   - name: telegram

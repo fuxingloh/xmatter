@@ -6,8 +6,8 @@ links:
     url: http://www.zilliqa.com/
   - name: explorer
     url: https://bscscan.com/token/0xb86abcb37c3a4b64f74f59301aff131a1becc787
-  - name: twitter
-    url: https://twitter.com/zilliqa
+  - name: x
+    url: https://x.com/zilliqa
   - name: reddit
     url: https://reddit.com/r/zilliqa
   - name: coinmarketcap

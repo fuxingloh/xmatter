@@ -8,8 +8,8 @@ links:
     url: https://azbanc.io/
   - name: explorer
     url: https://bscscan.com/token/0x68ef00dAd00925e060b177c7ac59382FD0EB00c2
-  - name: twitter
-    url: https://twitter.com/@azbancservices
+  - name: x
+    url: https://x.com/@azbancservices
   - name: telegram
     url: https://t.me/azbancservices
   - name: coinmarketcap

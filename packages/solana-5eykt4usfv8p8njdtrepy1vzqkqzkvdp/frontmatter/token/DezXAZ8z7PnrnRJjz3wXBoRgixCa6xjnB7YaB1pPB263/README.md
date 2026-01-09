@@ -8,8 +8,8 @@ links:
     url: https://www.bonkcoin.com
   - name: explorer
     url: https://solscan.io/token/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263
-  - name: twitter
-    url: https://twitter.com/bonk_inu
+  - name: x
+    url: https://x.com/bonk_inu
   - name: coinmarketcap
     url: https://coinmarketcap.com/ru/currencies/bonk1/
   - name: whitepaper

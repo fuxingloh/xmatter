@@ -8,8 +8,8 @@ links:
     url: https://www.dejitarutsuka.io
   - name: explorer
     url: https://etherscan.io/token/0xc5fb36dd2fb59d3b98deff88425a3f425ee469ed
-  - name: twitter
-    url: https://twitter.com/dejitaru_tsuka
+  - name: x
+    url: https://x.com/dejitaru_tsuka
   - name: telegram
     url: https://t.me/Tsukaresearch
   - name: coingecko

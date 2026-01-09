@@ -6,8 +6,8 @@ links:
     url: https://trustpad.io/
   - name: explorer
     url: https://bscscan.com/token/0xadcfc6bf853a0a8ad7f9ff4244140d10cf01363c
-  - name: twitter
-    url: https://twitter.com/TrustPad
+  - name: x
+    url: https://x.com/TrustPad
   - name: telegram
     url: https://t.me/TrustPad
   - name: medium

@@ -6,8 +6,8 @@ links:
     url: https://opsec.software/
   - name: explorer
     url: https://etherscan.io/token/0x6A7eFF1e2c355AD6eb91BEbB5ded49257F3FED98
-  - name: twitter
-    url: https://twitter.com/OpSecCloud
+  - name: x
+    url: https://x.com/OpSecCloud
   - name: telegram
     url: https://t.me/opseccloud
 ---

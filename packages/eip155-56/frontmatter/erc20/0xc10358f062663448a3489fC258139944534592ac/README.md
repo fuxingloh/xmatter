@@ -8,8 +8,8 @@ links:
     url: https://bcmhunt.com
   - name: explorer
     url: https://bscscan.com/token/0xc10358f062663448a3489fC258139944534592ac
-  - name: twitter
-    url: https://twitter.com/bcmhunt
+  - name: x
+    url: https://x.com/bcmhunt
   - name: github
     url: https://github.com/Ambros-Technology/bcm_public_smartcontract
   - name: telegram

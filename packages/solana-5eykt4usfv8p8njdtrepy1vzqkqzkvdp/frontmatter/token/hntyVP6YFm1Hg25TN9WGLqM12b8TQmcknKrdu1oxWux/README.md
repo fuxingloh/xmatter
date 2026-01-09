@@ -6,8 +6,8 @@ links:
     url: https://www.helium.com
   - name: explorer
     url: https://solscan.io/token/hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux
-  - name: twitter
-    url: https://twitter.com/helium
+  - name: x
+    url: https://x.com/helium
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/helium/
 ---

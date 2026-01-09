@@ -8,8 +8,8 @@ links:
     url: https://atlantisfi.io
   - name: explorer
     url: https://bscscan.com/token/0xC7dDF690942b74171F7e3763baf260B686516bc0
-  - name: twitter
-    url: https://twitter.com/AtlantisFi
+  - name: x
+    url: https://x.com/AtlantisFi
   - name: whitepaper
     url: https://atlantisfi.gitbook.io/docs
   - name: telegram

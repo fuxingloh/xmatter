@@ -8,8 +8,8 @@ links:
     url: https://www.usebraintrust.com/
   - name: explorer
     url: https://etherscan.io/token/0x799ebfabe77a6e34311eeee9825190b9ece32824
-  - name: twitter
-    url: https://twitter.com/usebraintrust
+  - name: x
+    url: https://x.com/usebraintrust
   - name: telegram
     url: https://t.me/braintrustofficial
   - name: coinmarketcap

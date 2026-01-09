@@ -6,8 +6,8 @@ links:
     url: https://www.noku.io/
   - name: explorer
     url: https://bscscan.com/token/0xfB4D42BEd5618fb1a377DDB64EB56B92a6d117f2
-  - name: twitter
-    url: https://twitter.com/nokuofficial
+  - name: x
+    url: https://x.com/nokuofficial
   - name: github
     url: https://github.com/noku-team
   - name: telegram

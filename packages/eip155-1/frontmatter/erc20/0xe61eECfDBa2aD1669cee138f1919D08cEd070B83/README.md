@@ -6,8 +6,8 @@ links:
     url: http://vgtgtoken.com
   - name: explorer
     url: https://etherscan.io/token/0xe61eECfDBa2aD1669cee138f1919D08cEd070B83
-  - name: twitter
-    url: https://twitter.com/VideoGamesToken
+  - name: x
+    url: https://x.com/VideoGamesToken
   - name: telegram
     url: https://t.me/VideoGamesToken
 ---

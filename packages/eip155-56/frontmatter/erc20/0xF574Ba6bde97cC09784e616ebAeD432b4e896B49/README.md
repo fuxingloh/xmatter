@@ -8,8 +8,8 @@ links:
     url: https://www.vlaunch.com
   - name: explorer
     url: https://bscscan.com/token/0xF574Ba6bde97cC09784e616ebAeD432b4e896B49
-  - name: twitter
-    url: https://twitter.com/VLaunchCOM
+  - name: x
+    url: https://x.com/VLaunchCOM
   - name: telegram
     url: https://t.me/VLaunchCOMToken
   - name: telegram_news

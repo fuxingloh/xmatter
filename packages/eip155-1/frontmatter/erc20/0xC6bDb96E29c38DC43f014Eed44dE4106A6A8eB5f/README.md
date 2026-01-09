@@ -6,7 +6,7 @@ links:
     url: https://inuinu.co/
   - name: explorer
     url: https://etherscan.io/token/0xc6bdb96e29c38dc43f014eed44de4106a6a8eb5f
-  - name: twitter
+  - name: x
     url: https://inuinu.net/
 ---
 

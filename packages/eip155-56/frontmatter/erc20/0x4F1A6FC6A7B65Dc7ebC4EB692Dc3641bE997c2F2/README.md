@@ -6,8 +6,8 @@ links:
     url: https://santacoin.io/
   - name: explorer
     url: https://bscscan.com/token/0x4F1A6FC6A7B65Dc7ebC4EB692Dc3641bE997c2F2
-  - name: twitter
-    url: https://twitter.com/Santa_Coins
+  - name: x
+    url: https://x.com/Santa_Coins
   - name: telegram
     url: https://t.me/santa_coin
   - name: telegram_news

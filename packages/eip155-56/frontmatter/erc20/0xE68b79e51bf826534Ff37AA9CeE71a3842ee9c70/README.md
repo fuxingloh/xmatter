@@ -9,8 +9,8 @@ links:
     url: https://czodiac.com
   - name: explorer
     url: https://bscscan.com/token/0xE68b79e51bf826534Ff37AA9CeE71a3842ee9c70
-  - name: twitter
-    url: https://twitter.com/zodiacs_c
+  - name: x
+    url: https://x.com/zodiacs_c
   - name: github
     url: https://github.com/chinese-zodiac/czodiac
   - name: medium

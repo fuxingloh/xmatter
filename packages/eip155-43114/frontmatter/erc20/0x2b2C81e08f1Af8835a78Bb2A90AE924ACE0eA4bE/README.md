@@ -9,8 +9,8 @@ links:
     url: https://benqi.fi
   - name: explorer
     url: https://snowtrace.io/token/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE
-  - name: twitter
-    url: https://twitter.com/BenqiFinance
+  - name: x
+    url: https://x.com/BenqiFinance
   - name: telegram
     url: https://t.me/BENQIFinance
   - name: telegram_news

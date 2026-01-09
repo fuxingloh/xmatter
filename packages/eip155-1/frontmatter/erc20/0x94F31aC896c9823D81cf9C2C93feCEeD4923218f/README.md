@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x94f31ac896c9823d81cf9c2c93feceed4923218f
   - name: github
     url: https://github.com/yftether
-  - name: twitter
-    url: https://twitter.com/yftether
+  - name: x
+    url: https://x.com/yftether
   - name: telegram
     url: https://t.me/YfTether
   - name: coingecko

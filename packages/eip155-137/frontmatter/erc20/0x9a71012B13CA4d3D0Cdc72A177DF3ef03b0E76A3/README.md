@@ -8,8 +8,8 @@ links:
     url: https://balancer.finance/
   - name: explorer
     url: https://polygonscan.com/token/0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3
-  - name: twitter
-    url: https://twitter.com/BalancerLabs
+  - name: x
+    url: https://x.com/BalancerLabs
   - name: github
     url: https://github.com/balancer-labs
   - name: coinmarketcap

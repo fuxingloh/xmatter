@@ -6,8 +6,8 @@ links:
     url: https://www.ginnan.com/
   - name: explorer
     url: https://solscan.io/token/GinNabffZL4fUj9Vactxha74GDAW8kDPGaHqMtMzps2f
-  - name: twitter
-    url: https://twitter.com/Ginnanthecat
+  - name: x
+    url: https://x.com/Ginnanthecat
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/ginnan-the-cat/
 ---

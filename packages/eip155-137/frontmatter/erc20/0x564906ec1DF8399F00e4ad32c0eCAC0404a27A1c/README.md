@@ -12,8 +12,8 @@ links:
     url: https://polygonscan.com/token/0x564906ec1DF8399F00e4ad32c0eCAC0404a27A1c
   - name: github
     url: https://github.com/AmbireTech/wallet
-  - name: twitter
-    url: https://twitter.com/AmbireWallet
+  - name: x
+    url: https://x.com/AmbireWallet
   - name: blog
     url: https://ambire.medium.com
   - name: telegram

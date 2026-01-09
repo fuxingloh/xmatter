@@ -8,8 +8,8 @@ links:
     url: https://synapseprotocol.com/
   - name: explorer
     url: https://bscscan.com/token/0xf8F9efC0db77d8881500bb06FF5D6ABc3070E695
-  - name: twitter
-    url: https://twitter.com/synapseprotocol
+  - name: x
+    url: https://x.com/synapseprotocol
   - name: telegram
     url: https://t.me/synapseprotocol
   - name: coinmarketcap

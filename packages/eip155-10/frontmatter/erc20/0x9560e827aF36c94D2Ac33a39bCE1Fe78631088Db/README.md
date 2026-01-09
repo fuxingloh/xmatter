@@ -6,8 +6,8 @@ links:
     url: https://www.velodrome.finance/
   - name: explorer
     url: https://optimistic.etherscan.io/token/0x9560e827af36c94d2ac33a39bce1fe78631088db
-  - name: twitter
-    url: https://twitter.com/VelodromeFi
+  - name: x
+    url: https://x.com/VelodromeFi
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/velodrome-finance/
 ---

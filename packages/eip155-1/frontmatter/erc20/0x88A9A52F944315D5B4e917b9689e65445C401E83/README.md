@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x88a9a52f944315d5b4e917b9689e65445c401e83
   - name: whitepaper
     url: https://fearnft.games/docs/fear-nfts-whitepaper.pdf
-  - name: twitter
-    url: https://twitter.com/fearnfts
+  - name: x
+    url: https://x.com/fearnfts
   - name: telegram
     url: https://t.me/fearcoin
   - name: telegram_news

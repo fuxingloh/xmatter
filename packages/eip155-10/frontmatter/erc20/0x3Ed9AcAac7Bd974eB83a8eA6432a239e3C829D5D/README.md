@@ -6,8 +6,8 @@ links:
     url: https://www.kenglernitas.wtf/
   - name: explorer
     url: https://optimistic.etherscan.io/token/0x3ed9acaac7bd974eb83a8ea6432a239e3c829d5d
-  - name: twitter
-    url: https://twitter.com/KengLernitas
+  - name: x
+    url: https://x.com/KengLernitas
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/lernitas/
 ---

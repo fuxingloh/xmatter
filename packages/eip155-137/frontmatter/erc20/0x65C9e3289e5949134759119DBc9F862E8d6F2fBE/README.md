@@ -8,8 +8,8 @@ links:
     url: https://morpher.com
   - name: explorer
     url: https://polygonscan.com/token/0x65C9e3289e5949134759119DBc9F862E8d6F2fBE
-  - name: twitter
-    url: https://twitter.com/morpher_io
+  - name: x
+    url: https://x.com/morpher_io
   - name: telegram
     url: https://t.me/morpher_io
   - name: medium

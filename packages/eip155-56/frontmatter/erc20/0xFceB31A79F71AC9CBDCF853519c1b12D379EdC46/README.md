@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xFceB31A79F71AC9CBDCF853519c1b12D379EdC46
   - name: telegram
     url: https://t.me/ListaDAO
-  - name: twitter
-    url: https://twitter.com/LISTA_DAO
+  - name: x
+    url: https://x.com/LISTA_DAO
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/lista-dao/
 ---

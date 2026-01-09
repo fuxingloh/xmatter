@@ -10,8 +10,8 @@ links:
     url: https://coinmarketcap.com/currencies/gamingdoge/
   - name: coingecko
     url: https://coingecko.com/en/coins/gaming-doge
-  - name: twitter
-    url: https://twitter.com/gamingdogetoken
+  - name: x
+    url: https://x.com/gamingdogetoken
   - name: telegram
     url: https://t.me/joinchat/vrVYpnWtMRljNjYx
 ---

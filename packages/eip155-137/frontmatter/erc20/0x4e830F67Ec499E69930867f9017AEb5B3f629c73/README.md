@@ -10,8 +10,8 @@ links:
     url: https://polygonscan.com/token/0x4e830F67Ec499E69930867f9017AEb5B3f629c73
   - name: telegram
     url: https://t.me/oddz_fi_announcements
-  - name: twitter
-    url: https://twitter.com/oddz_finance
+  - name: x
+    url: https://x.com/oddz_finance
   - name: facebook
     url: https://facebook.com/Oddz.fi
   - name: whitepaper

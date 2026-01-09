@@ -6,8 +6,8 @@ links:
     url: https://defiland.app/
   - name: explorer
     url: https://solscan.io/token/DFL1zNkaGPWm1BqAVqRjCZvHmwTFrEaJtbzJWgseoNJh
-  - name: twitter
-    url: https://twitter.com/DeFi_Land
+  - name: x
+    url: https://x.com/DeFi_Land
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/defi-land/
   - name: coingecko

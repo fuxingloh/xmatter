@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x3A880652F47bFaa771908C07Dd8673A787dAEd3A
   - name: source_code
     url: https://gitlab.com/derivadex
-  - name: twitter
-    url: https://twitter.com/DDX_Official
+  - name: x
+    url: https://x.com/DDX_Official
   - name: telegram
     url: https://t.me/DerivaDEX
   - name: discord

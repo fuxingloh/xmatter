@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x2A48eCe377b87ce941406657B9278b4459595E06
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/lunatics
-  - name: twitter
-    url: https://twitter.com/LunaticsToken
+  - name: x
+    url: https://x.com/LunaticsToken
   - name: telegram
     url: https://t.me/LunaticsTokenOfficial
   - name: facebook

@@ -6,8 +6,8 @@ links:
     url: https://hamicoin.com
   - name: explorer
     url: https://solscan.io/token/4sp2EUDrQf46rZun6sYAWzjrXwUpx2T3njuoKmV766RJ
-  - name: twitter
-    url: https://twitter.com/CATVAX_io
+  - name: x
+    url: https://x.com/CATVAX_io
 ---
 
 # HAMI

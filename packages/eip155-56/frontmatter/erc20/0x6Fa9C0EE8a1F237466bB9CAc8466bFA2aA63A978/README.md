@@ -8,8 +8,8 @@ links:
     url: https://www.bicity.com/
   - name: explorer
     url: https://bscscan.com/token/0x6fa9c0ee8a1f237466bb9cac8466bfa2aa63a978
-  - name: twitter
-    url: https://twitter.com/bicitycom
+  - name: x
+    url: https://x.com/bicitycom
   - name: telegram
     url: https://t.me/bicitycoinchat
   - name: telegram_news

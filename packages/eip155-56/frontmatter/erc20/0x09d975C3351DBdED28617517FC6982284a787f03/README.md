@@ -6,8 +6,8 @@ links:
     url: https://cryptoisland.group
   - name: explorer
     url: https://bscscan.com/token/0x09d975C3351DBdED28617517FC6982284a787f03
-  - name: twitter
-    url: https://twitter.com/Cryptoislandgr1
+  - name: x
+    url: https://x.com/Cryptoislandgr1
   - name: github
     url: https://github.com/CryptoIslandgroup/
   - name: telegram

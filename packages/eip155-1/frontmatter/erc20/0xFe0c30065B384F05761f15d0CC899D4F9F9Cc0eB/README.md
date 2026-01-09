@@ -6,8 +6,8 @@ links:
     url: https://www.ether.fi/
   - name: explorer
     url: https://etherscan.io/token/0xFe0c30065B384F05761f15d0CC899D4F9F9Cc0eB
-  - name: twitter
-    url: https://twitter.com/ether_fi
+  - name: x
+    url: https://x.com/ether_fi
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/ether-fi-ethfi/
 ---

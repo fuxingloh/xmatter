@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x4437743ac02957068995c48E08465E0EE1769fBE
   - name: source_code
     url: https://docs.fortress.loans/smart-contracts
-  - name: twitter
-    url: https://twitter.com/Jetfuelfinance
+  - name: x
+    url: https://x.com/Jetfuelfinance
   - name: telegram
     url: https://t.me/jetfuelfinance
   - name: medium

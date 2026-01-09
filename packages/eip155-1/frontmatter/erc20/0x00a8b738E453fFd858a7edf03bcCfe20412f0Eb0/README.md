@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0
   - name: github
     url: https://github.com/Stichting-AllianceBlock-Foundation/AllianceBlock-Contracts
-  - name: twitter
-    url: https://twitter.com/allianceblock
+  - name: x
+    url: https://x.com/allianceblock
   - name: telegram
     url: https://t.me/allianceblock
   - name: discord

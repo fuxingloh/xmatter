@@ -8,8 +8,8 @@ links:
     url: https://kishimotoinu.com/
   - name: explorer
     url: https://etherscan.io/token/0xf5b1fd29d23e98db2d9ebb8435e1082e3b38fb65
-  - name: twitter
-    url: https://twitter.com/KishimotoInu
+  - name: x
+    url: https://x.com/KishimotoInu
   - name: telegram
     url: https://t.me/Kishimoto_Inu
 ---

@@ -8,8 +8,8 @@ links:
     url: https://hex.com/
   - name: explorer
     url: https://polygonscan.com/token/0x23D29D30e35C5e8D321e1dc9A8a61BFD846D4C5C
-  - name: twitter
-    url: https://twitter.com/HEXcrypto
+  - name: x
+    url: https://x.com/HEXcrypto
   - name: telegram
     url: https://t.me/HEXcrypto
   - name: coinmarketcap

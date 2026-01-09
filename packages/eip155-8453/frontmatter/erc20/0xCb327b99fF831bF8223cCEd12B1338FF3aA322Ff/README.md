@@ -6,8 +6,8 @@ links:
     url: https://reserve.org/
   - name: explorer
     url: https://basescan.org/token/0xcb327b99ff831bf8223cced12b1338ff3aa322ff
-  - name: twitter
-    url: https://twitter.com/reserveprotocol
+  - name: x
+    url: https://x.com/reserveprotocol
   - name: telegram
     url: https://t.me/AsteroidShibaCTO
 ---

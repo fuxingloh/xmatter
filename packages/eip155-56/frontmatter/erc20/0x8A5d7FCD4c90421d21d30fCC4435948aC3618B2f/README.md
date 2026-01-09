@@ -20,8 +20,8 @@ links:
     url: https://t.me/cakemnstr
   - name: telegram_news
     url: https://t.me/cakemnstrannouncement
-  - name: twitter
-    url: https://twitter.com/thecakemnstr
+  - name: x
+    url: https://x.com/thecakemnstr
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/cake-monster
   - name: coingecko

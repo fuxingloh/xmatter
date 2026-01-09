@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x3b4cAAAF6F3ce5Bee2871C89987cbd825Ac30822
   - name: github
     url: https://github.com/Ofinio/Ofin.io
-  - name: twitter
-    url: https://twitter.com/OfinProtocol
+  - name: x
+    url: https://x.com/OfinProtocol
   - name: telegram
     url: https://t.me/ofin_io
   - name: medium

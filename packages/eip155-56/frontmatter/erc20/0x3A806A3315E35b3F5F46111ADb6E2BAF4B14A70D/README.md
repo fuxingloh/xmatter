@@ -8,8 +8,8 @@ links:
     url: https://libera.financial/
   - name: explorer
     url: https://bscscan.com/token/0x3A806A3315E35b3F5F46111ADb6E2BAF4B14A70D
-  - name: twitter
-    url: https://twitter.com/LiberaFinancial
+  - name: x
+    url: https://x.com/LiberaFinancial
   - name: telegram
     url: https://t.me/liberoofficialgroup
   - name: docs

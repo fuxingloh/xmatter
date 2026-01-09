@@ -8,8 +8,8 @@ links:
     url: https://battleworld.game/
   - name: explorer
     url: https://polygonscan.com/token/0xc1543024dc71247888a7e139c644f44e75e96d38
-  - name: twitter
-    url: https://twitter.com/BattleworldGame
+  - name: x
+    url: https://x.com/BattleworldGame
   - name: telegram
     url: https://t.me/battleworldgame
   - name: coinmarketcap

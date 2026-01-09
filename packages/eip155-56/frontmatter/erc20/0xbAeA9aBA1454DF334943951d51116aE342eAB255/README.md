@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xbAeA9aBA1454DF334943951d51116aE342eAB255
   - name: github
     url: https://github.com/The-Poolz
-  - name: twitter
-    url: https://twitter.com/Poolz
+  - name: x
+    url: https://x.com/Poolz
   - name: telegram
     url: https://t.me/PoolzOfficialCommunity
   - name: discord

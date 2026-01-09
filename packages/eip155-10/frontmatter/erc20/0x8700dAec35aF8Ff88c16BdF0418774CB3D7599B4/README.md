@@ -8,8 +8,8 @@ links:
     url: https://optimistic.etherscan.io/token/0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4
   - name: github
     url: https://github.com/havven/havven
-  - name: twitter
-    url: https://twitter.com/synthetix_io
+  - name: x
+    url: https://x.com/synthetix_io
   - name: reddit
     url: https://reddit.com/r/synthetix_io/
   - name: blog

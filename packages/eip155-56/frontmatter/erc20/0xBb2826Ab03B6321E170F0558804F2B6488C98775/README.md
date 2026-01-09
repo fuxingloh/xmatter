@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xbb2826ab03b6321e170f0558804f2b6488c98775
   - name: github
     url: https://github.com/babybonktoken/
-  - name: twitter
-    url: https://twitter.com/BabyBonkCoin
+  - name: x
+    url: https://x.com/BabyBonkCoin
   - name: telegram
     url: https://t.me/BabyBonkEntry
   - name: coinmarketcap

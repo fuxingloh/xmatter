@@ -8,8 +8,8 @@ links:
     url: https://wedex.app/
   - name: explorer
     url: https://bscscan.com/token/0x09bb6042a19bb3a6981e9a47ec0f006dbd28a8d1
-  - name: twitter
-    url: https://twitter.com/WedexApp
+  - name: x
+    url: https://x.com/WedexApp
   - name: github
     url: https://github.com/wedexapp
   - name: telegram

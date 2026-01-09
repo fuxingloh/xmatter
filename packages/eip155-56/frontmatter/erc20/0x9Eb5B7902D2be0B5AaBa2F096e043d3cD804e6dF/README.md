@@ -6,8 +6,8 @@ links:
     url: https://mypetsocial.org/
   - name: explorer
     url: https://bscscan.com/token/0x9Eb5B7902D2be0B5AaBa2F096e043d3cD804e6dF
-  - name: twitter
-    url: https://twitter.com/mypetsocial
+  - name: x
+    url: https://x.com/mypetsocial
   - name: telegram
     url: https://t.me/Mypetsocial
   - name: telegram_news

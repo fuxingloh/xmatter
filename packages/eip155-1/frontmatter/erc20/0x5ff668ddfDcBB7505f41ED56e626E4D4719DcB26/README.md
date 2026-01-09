@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x5ff668ddfdcbb7505f41ed56e626e4d4719dcb26
   - name: github
     url: https://github.com/loki-project/loki-core
-  - name: twitter
-    url: https://twitter.com/Loki_Project
+  - name: x
+    url: https://x.com/Loki_Project
   - name: whitepaper
     url: https://loki.network/wp-content/uploads/2018/10/LokiWhitepaperV3_1.pdf
 ---

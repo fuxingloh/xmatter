@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x186866858aEf38c05829166A7711b37563e15994
   - name: telegram
     url: https://t.me/HodlFinanceAnn
-  - name: twitter
-    url: https://twitter.com/HFToken
+  - name: x
+    url: https://x.com/HFToken
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/hodl-finance/
   - name: medium

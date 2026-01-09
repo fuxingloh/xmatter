@@ -8,8 +8,8 @@ links:
     url: https://terra.money
   - name: explorer
     url: https://bscscan.com/token/0x23396cF899Ca06c4472205fC903bDB4de249D6fC
-  - name: twitter
-    url: https://twitter.com/TerraMoney
+  - name: x
+    url: https://x.com/TerraMoney
   - name: telegram
     url: https://t.me/terra_announcements
   - name: discord

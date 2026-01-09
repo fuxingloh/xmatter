@@ -8,8 +8,8 @@ links:
     url: https://legendfantasywar.com
   - name: explorer
     url: https://bscscan.com/token/0xD71239a33C8542Bd42130c1B4ACA0673B4e4f48B
-  - name: twitter
-    url: https://twitter.com/Legend_LFW
+  - name: x
+    url: https://x.com/Legend_LFW
   - name: telegram
     url: https://t.me/LFWofficial
   - name: coingecko

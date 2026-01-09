@@ -6,8 +6,8 @@ links:
     url: https://travala.com
   - name: explorer
     url: https://etherscan.io/token/0x442b153f6f61c0c99a33aa4170dcb31e1abda1d0
-  - name: twitter
-    url: https://twitter.com/travalacom
+  - name: x
+    url: https://x.com/travalacom
   - name: github
     url: https://github.com/travala
   - name: telegram

@@ -8,8 +8,8 @@ links:
     url: https://forta.org/
   - name: explorer
     url: https://etherscan.io/token/0x41545f8b9472d758bb669ed8eaeeecd7a9c4ec29
-  - name: twitter
-    url: https://twitter.com/FortaNetwork
+  - name: x
+    url: https://x.com/FortaNetwork
   - name: coingecko
     url: https://coingecko.com/en/coins/forta/
   - name: coinmarketcap

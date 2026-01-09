@@ -8,8 +8,8 @@ links:
     url: https://zkrace.com/
   - name: explorer
     url: https://bscscan.com/token/0x9c47E503b2f497e9Ad9F1c0dfA6Bd9Fd5456AA4e
-  - name: twitter
-    url: https://twitter.com/zk_race
+  - name: x
+    url: https://x.com/zk_race
   - name: telegram
     url: https://t.me/zk_Race
   - name: coinmarketcap

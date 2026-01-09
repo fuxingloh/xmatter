@@ -6,8 +6,8 @@ links:
     url: https://ridotto.io
   - name: explorer
     url: https://etherscan.io/token/0x4740735AA98Dc8aa232BD049f8F0210458E7fCa3
-  - name: twitter
-    url: https://twitter.com/ridotto_io
+  - name: x
+    url: https://x.com/ridotto_io
   - name: github
     url: https://github.com/ridotto-io
   - name: telegram

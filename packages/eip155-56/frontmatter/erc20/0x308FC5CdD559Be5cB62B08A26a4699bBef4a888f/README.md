@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x308FC5CdD559Be5cB62B08A26a4699bBef4a888f
   - name: github
     url: https://github.com/DCIP-Finance/
-  - name: twitter
-    url: https://twitter.com/dcip_finance
+  - name: x
+    url: https://x.com/dcip_finance
   - name: telegram
     url: https://t.me/DCIPfinance
 ---

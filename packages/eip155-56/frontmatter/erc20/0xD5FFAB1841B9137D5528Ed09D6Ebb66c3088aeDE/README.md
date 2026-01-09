@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xD5FFAB1841B9137D5528Ed09D6Ebb66c3088aeDE
   - name: telegram
     url: https://t.me/TwogeInu
-  - name: twitter
-    url: https://twitter.com/twogeinu
+  - name: x
+    url: https://x.com/twogeinu
   - name: github
     url: https://github.com/twogeinu
   - name: whitepaper

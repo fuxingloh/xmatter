@@ -6,8 +6,8 @@ links:
     url: https://dogebonk.com
   - name: explorer
     url: https://bscscan.com/token/0xae2df9f730c54400934c06a17462c41c08a06ed8
-  - name: twitter
-    url: https://twitter.com/dogebonk_token
+  - name: x
+    url: https://x.com/dogebonk_token
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/dogebonk/
   - name: coingecko

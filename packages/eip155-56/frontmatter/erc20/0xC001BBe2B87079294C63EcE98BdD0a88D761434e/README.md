@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xC001BBe2B87079294C63EcE98BdD0a88D761434e
   - name: telegram
     url: https://t.me/evergrowcoin
-  - name: twitter
-    url: https://twitter.com/evergrowcoinEGC
+  - name: x
+    url: https://x.com/evergrowcoinEGC
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/evergrowcoin/
   - name: coingecko

@@ -6,8 +6,8 @@ links:
     url: https://buffshibainu.io
   - name: explorer
     url: https://bscscan.com/token/0xf2673f49d2737f97d70995eD43D128E0B8E560c5
-  - name: twitter
-    url: https://twitter.com/buffshibainu
+  - name: x
+    url: https://x.com/buffshibainu
   - name: github
     url: https://github.com/buffshibainu
   - name: telegram

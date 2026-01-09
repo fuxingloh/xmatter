@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0xf920e4F3FBEF5B3aD0A25017514B769bDc4Ac135
   - name: whitepaper
     url: https://getbabb.com/wp-content/uploads/2021/03/BABB-Whitepaper.pdf
-  - name: twitter
-    url: https://twitter.com/getbabb
+  - name: x
+    url: https://x.com/getbabb
   - name: facebook
     url: https://facebook.com/getbabb/
   - name: youtube

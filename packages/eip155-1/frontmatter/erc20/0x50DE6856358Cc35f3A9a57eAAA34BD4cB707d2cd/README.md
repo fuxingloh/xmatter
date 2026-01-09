@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x50DE6856358Cc35f3A9a57eAAA34BD4cB707d2cd
   - name: github
     url: https://github.com/razor-network
-  - name: twitter
-    url: https://twitter.com/razor_network
+  - name: x
+    url: https://x.com/razor_network
   - name: telegram
     url: https://t.me/razornetwork
   - name: discord

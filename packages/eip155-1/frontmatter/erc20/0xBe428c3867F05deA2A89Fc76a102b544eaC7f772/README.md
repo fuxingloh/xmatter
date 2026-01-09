@@ -6,8 +6,8 @@ links:
     url: https://cybervein.org
   - name: explorer
     url: https://etherscan.io/token/0xBe428c3867F05deA2A89Fc76a102b544eaC7f772
-  - name: twitter
-    url: https://twitter.com/CyberVeinGroup
+  - name: x
+    url: https://x.com/CyberVeinGroup
   - name: telegram
     url: https://t.me/CyberVeinCommunity
   - name: facebook

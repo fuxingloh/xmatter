@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x20bff4bbEDa07536FF00e073bd8359E5D80D733d
   - name: github
     url: https://github.com/cannonfinance
-  - name: twitter
-    url: https://twitter.com/Cannon
+  - name: x
+    url: https://x.com/Cannon
   - name: telegram
     url: https://t.me/CannonFinance
   - name: medium

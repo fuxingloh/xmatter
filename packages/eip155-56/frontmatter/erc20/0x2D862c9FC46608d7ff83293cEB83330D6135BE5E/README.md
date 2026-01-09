@@ -6,8 +6,8 @@ links:
     url: https://projectfalconx.com
   - name: explorer
     url: https://bscscan.com/token/0x2d862c9fc46608d7ff83293ceb83330d6135be5e
-  - name: twitter
-    url: https://twitter.com/projectfalconx
+  - name: x
+    url: https://x.com/projectfalconx
   - name: youtube
     url: https://youtube.com/channel/UCemByi8cdWT9246H235UOcw
   - name: telegram

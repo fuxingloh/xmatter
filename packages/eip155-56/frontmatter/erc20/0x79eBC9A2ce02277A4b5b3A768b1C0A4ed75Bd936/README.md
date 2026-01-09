@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x79ebc9a2ce02277a4b5b3a768b1c0a4ed75bd936
   - name: discord
     url: https://discord.com/invite/3V8gZFP5kb
-  - name: twitter
-    url: https://twitter.com/catgirlcoin
+  - name: x
+    url: https://x.com/catgirlcoin
   - name: telegram
     url: https://t.me/catgirlcoin
 ---

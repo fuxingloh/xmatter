@@ -6,8 +6,8 @@ links:
     url: https://sheeshtoken.com
   - name: explorer
     url: https://bscscan.com/token/0x7e5d52c3335c91af0da392bea4bb9e43f2aba62c
-  - name: twitter
-    url: https://twitter.com/Sheeshtoken
+  - name: x
+    url: https://x.com/Sheeshtoken
   - name: telegram
     url: https://t.me/sheeshtokenchat
   - name: discord

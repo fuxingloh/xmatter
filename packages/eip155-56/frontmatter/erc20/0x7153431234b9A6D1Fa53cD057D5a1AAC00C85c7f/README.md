@@ -10,8 +10,8 @@ links:
     url: https://t.me/kichicoin
   - name: discord
     url: https://discord.com/invite/cHPHJtDJhq
-  - name: twitter
-    url: https://twitter.com/KichiCoin
+  - name: x
+    url: https://x.com/KichiCoin
   - name: youtube
     url: https://youtube.com/channel/UCoarDKyWdCkOW4nw62kUYQA
   - name: facebook

@@ -10,8 +10,8 @@ links:
     url: https://t.me/heroverse_game
   - name: telegram_news
     url: https://t.me/heroverse_ann
-  - name: twitter
-    url: https://twitter.com/heroverse_game
+  - name: x
+    url: https://x.com/heroverse_game
   - name: facebook
     url: https://facebook.com/heroverse.offical
   - name: blog

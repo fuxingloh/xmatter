@@ -8,8 +8,8 @@ links:
     url: https://ndtmetaverse.io
   - name: explorer
     url: https://bscscan.com/token/0x83300C06aDFd8225560f8505Dba7493A9B60194C
-  - name: twitter
-    url: https://twitter.com/MetaverseNdt
+  - name: x
+    url: https://x.com/MetaverseNdt
   - name: facebook
     url: https://facebook.com/NDT-Metaverse-101922252455454
   - name: whitepaper

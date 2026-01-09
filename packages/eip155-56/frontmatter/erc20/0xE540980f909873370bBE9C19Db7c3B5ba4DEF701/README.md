@@ -6,8 +6,8 @@ links:
     url: https://www.ilayer.io/
   - name: explorer
     url: https://bscscan.com/token/0xE540980f909873370bBE9C19Db7c3B5ba4DEF701
-  - name: twitter
-    url: https://twitter.com/iLayerEcosystem
+  - name: x
+    url: https://x.com/iLayerEcosystem
   - name: coingecko
     url: https://coingecko.com/coins/ilayer
   - name: coinmarketcap

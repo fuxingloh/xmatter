@@ -8,8 +8,8 @@ links:
     url: https://token.vcgamers.com/
   - name: explorer
     url: https://bscscan.com/token/0x1f36fb2d91d9951cf58ae4c1956c0b77e224f1e9
-  - name: twitter
-    url: https://twitter.com/vcgamers_io
+  - name: x
+    url: https://x.com/vcgamers_io
   - name: github
     url: https://github.com/vcgamers/
   - name: telegram

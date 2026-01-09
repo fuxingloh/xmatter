@@ -6,8 +6,8 @@ links:
     url: https://pulsepad.io/
   - name: explorer
     url: https://bscscan.com/token/0x8a74BC8c372bC7f0E9cA3f6Ac0df51BE15aEC47A
-  - name: twitter
-    url: https://twitter.com/PulsePad_App
+  - name: x
+    url: https://x.com/PulsePad_App
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/pulsepad/
   - name: coingecko

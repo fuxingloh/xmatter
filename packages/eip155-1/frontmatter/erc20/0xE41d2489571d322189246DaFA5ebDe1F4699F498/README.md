@@ -11,8 +11,8 @@ links:
     url: https://etherscan.io/token/0xE41d2489571d322189246DaFA5ebDe1F4699F498
   - name: github
     url: https://github.com/0xProject
-  - name: twitter
-    url: https://twitter.com/0xproject
+  - name: x
+    url: https://x.com/0xproject
   - name: reddit
     url: https://reddit.com/r/0xproject
   - name: blog

@@ -6,8 +6,8 @@ links:
     url: https://www.ltonetwork.com/
   - name: explorer
     url: https://etherscan.io/token/0xd01409314acb3b245cea9500ece3f6fd4d70ea30
-  - name: twitter
-    url: https://twitter.com/TheLTONetwork
+  - name: x
+    url: https://x.com/TheLTONetwork
   - name: github
     url: https://github.com/ltonetwork/
   - name: telegram

@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x6Ec90334d89dBdc89E08A133271be3d104128Edb
   - name: telegram
     url: https://t.me/wikicatcoin
-  - name: twitter
-    url: https://twitter.com/wikicatcoin
+  - name: x
+    url: https://x.com/wikicatcoin
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/wiki-cat/
 ---

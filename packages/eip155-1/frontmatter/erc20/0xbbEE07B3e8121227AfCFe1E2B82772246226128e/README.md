@@ -1,0 +1,17 @@
+---
+symbol: VRTX
+decimals: 18
+links:
+  - name: website
+    url: https://vertexprotocol.com/
+  - name: explorer
+    url: https://etherscan.io/token/0xbbEE07B3e8121227AfCFe1E2B82772246226128e
+  - name: x
+    url: https://x.com/vertex_protocol
+  - name: coinmarketcap
+    url: https://coinmarketcap.com/currencies/vertex-protocol/
+---
+
+# Vertex
+
+Vertex Protocol is a orderbook DEX offering spot, perpetuals, and money markets with universal cross-margin accounts, industry-leading low fees, and lightning-fast order execution.

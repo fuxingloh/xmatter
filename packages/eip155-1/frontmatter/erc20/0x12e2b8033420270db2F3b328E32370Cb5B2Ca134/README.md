@@ -6,8 +6,8 @@ links:
     url: https://www.safepal.io
   - name: explorer
     url: https://etherscan.io/token/0x12e2b8033420270db2F3b328E32370Cb5B2Ca134
-  - name: twitter
-    url: https://twitter.com/iSafePal
+  - name: x
+    url: https://x.com/iSafePal
   - name: github
     url: https://github.com/SafePalWallet
   - name: telegram

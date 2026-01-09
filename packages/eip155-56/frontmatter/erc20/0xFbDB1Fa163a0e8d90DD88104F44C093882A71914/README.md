@@ -8,8 +8,8 @@ links:
     url: https://frzss.com/
   - name: explorer
     url: https://bscscan.com/token/0xfbdb1fa163a0e8d90dd88104f44c093882a71914
-  - name: twitter
-    url: https://twitter.com/frztoken
+  - name: x
+    url: https://x.com/frztoken
   - name: github
     url: https://github.com/frzss-dev
   - name: telegram

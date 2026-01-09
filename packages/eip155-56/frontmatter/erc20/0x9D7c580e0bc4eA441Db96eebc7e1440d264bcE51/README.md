@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x9d7c580e0bc4ea441db96eebc7e1440d264bce51
   - name: github
     url: https://github.com/moonlift/moonlift
-  - name: twitter
-    url: https://twitter.com/MoonliftI
+  - name: x
+    url: https://x.com/MoonliftI
   - name: reddit
     url: https://reddit.com/r/MoonliftProtocol_/
   - name: telegram

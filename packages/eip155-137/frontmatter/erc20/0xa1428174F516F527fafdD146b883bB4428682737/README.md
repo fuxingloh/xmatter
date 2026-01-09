@@ -12,8 +12,8 @@ links:
     url: https://polygonscan.com/token/0xa1428174f516f527fafdd146b883bb4428682737
   - name: telegram
     url: https://t.me/SuperVerseDAO
-  - name: twitter
-    url: https://twitter.com/SuperVerseDAO
+  - name: x
+    url: https://x.com/SuperVerseDAO
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/superfarm/
   - name: coingecko

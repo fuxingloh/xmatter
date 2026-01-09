@@ -8,8 +8,8 @@ links:
     url: https://auricoin.org/
   - name: explorer
     url: https://etherscan.io/token/0x08e0fAFf8bB80eaf8c30A99920355028b5bD6789
-  - name: twitter
-    url: https://twitter.com/Auricoin
+  - name: x
+    url: https://x.com/Auricoin
   - name: whitepaper
     url: https://auricoin.org/assets/docs/whitepaper_en.pdf
   - name: youtube

@@ -8,8 +8,8 @@ links:
     url: https://cryptolegions.app
   - name: explorer
     url: https://bscscan.com/token/0x10cb66ce2969d8c8193707A9dCD559D2243B8b37
-  - name: twitter
-    url: https://twitter.com/LegionsCrypto
+  - name: x
+    url: https://x.com/LegionsCrypto
   - name: telegram
     url: https://t.me/CryptoLegionsCommunity
   - name: whitepaper

@@ -8,8 +8,8 @@ links:
     url: https://gamebank.fun/
   - name: explorer
     url: https://bscscan.com/token/0xdA0638EA374c4c5bF2914E6F4D5B2335dEb8D80D
-  - name: twitter
-    url: https://twitter.com/GbankApy
+  - name: x
+    url: https://x.com/GbankApy
   - name: telegram
     url: https://t.me/GbankApyofficial
   - name: whitepaper

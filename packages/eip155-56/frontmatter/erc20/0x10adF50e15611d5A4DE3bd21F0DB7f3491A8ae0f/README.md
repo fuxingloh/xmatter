@@ -10,8 +10,8 @@ links:
     url: https://monetasglobal.com/
   - name: explorer
     url: https://bscscan.com/token/0x10adF50e15611d5A4DE3bd21F0DB7f3491A8ae0f
-  - name: twitter
-    url: https://twitter.com/monetasglobal
+  - name: x
+    url: https://x.com/monetasglobal
   - name: facebook
     url: https://facebook.com/motetasglobal
   - name: youtube

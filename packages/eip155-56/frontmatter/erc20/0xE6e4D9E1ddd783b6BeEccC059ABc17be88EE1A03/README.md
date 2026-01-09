@@ -8,8 +8,8 @@ links:
     url: https://verumcoin.info
   - name: explorer
     url: https://bscscan.com/token/0xE6e4D9E1ddd783b6BeEccC059ABc17be88EE1A03
-  - name: twitter
-    url: https://twitter.com/verum_coin
+  - name: x
+    url: https://x.com/verum_coin
   - name: github
     url: https://github.com/verumcoin
   - name: whitepaper

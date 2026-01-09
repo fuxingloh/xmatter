@@ -6,8 +6,8 @@ links:
     url: https://www.ilovepuppies.cc/
   - name: explorer
     url: https://etherscan.io/token/0xcf91b70017eabde82c9671e30e5502d312ea6eb2
-  - name: twitter
-    url: https://twitter.com/puppies_cc
+  - name: x
+    url: https://x.com/puppies_cc
 ---
 
 # I love puppies

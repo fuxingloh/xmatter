@@ -6,8 +6,8 @@ links:
     url: https://efforce.io/
   - name: explorer
     url: https://etherscan.io/token/0x34950Ff2b487d9E5282c5aB342d08A2f712eb79F
-  - name: twitter
-    url: https://twitter.com/EfforceOfficial
+  - name: x
+    url: https://x.com/EfforceOfficial
   - name: facebook
     url: https://facebook.com/EFFORCE/
 ---

@@ -6,8 +6,8 @@ links:
     url: https://www.ufotoken.io/
   - name: explorer
     url: https://etherscan.io/token/0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b
-  - name: twitter
-    url: https://twitter.com/theufotoken?s=21
+  - name: x
+    url: https://x.com/theufotoken?s=21
   - name: telegram
     url: https://t.me/ufotokenofficial
   - name: medium

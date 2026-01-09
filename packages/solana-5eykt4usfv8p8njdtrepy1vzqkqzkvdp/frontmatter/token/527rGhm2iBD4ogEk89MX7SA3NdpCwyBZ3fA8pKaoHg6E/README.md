@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/527rGhm2iBD4ogEk89MX7SA3NdpCwyBZ3fA8pKaoHg6E
   - name: telegram
     url: https://t.me/tea_solmeme
-  - name: twitter
-    url: https://twitter.com/TeaMemeCoin
+  - name: x
+    url: https://x.com/TeaMemeCoin
 ---
 
 # TEA

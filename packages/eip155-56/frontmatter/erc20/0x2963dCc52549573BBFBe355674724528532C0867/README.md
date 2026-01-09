@@ -6,8 +6,8 @@ links:
     url: https://pexcoin.io/
   - name: explorer
     url: https://bscscan.com/token/0x2963dCc52549573BBFBe355674724528532C0867
-  - name: twitter
-    url: https://twitter.com/PexCoinProject
+  - name: x
+    url: https://x.com/PexCoinProject
   - name: telegram
     url: https://t.me/Pexcoinproject
   - name: medium

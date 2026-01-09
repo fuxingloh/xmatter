@@ -6,8 +6,8 @@ links:
     url: https://www.shibapup.dog/
   - name: explorer
     url: https://bscscan.com/token/0x8203612382f61bafae549fbf31efbf70992fa289
-  - name: twitter
-    url: https://twitter.com/shibapupdog
+  - name: x
+    url: https://x.com/shibapupdog
   - name: telegram
     url: https://t.me/shibapupdog
   - name: coinmarketcap

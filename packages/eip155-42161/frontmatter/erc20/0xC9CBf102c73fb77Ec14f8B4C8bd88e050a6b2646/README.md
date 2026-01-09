@@ -10,8 +10,8 @@ links:
     url: https://arbiscan.io/token/0xC9CBf102c73fb77Ec14f8B4C8bd88e050a6b2646
   - name: github
     url: https://github.com/AlphaFinanceLab
-  - name: twitter
-    url: https://twitter.com/alphafinancelab
+  - name: x
+    url: https://x.com/alphafinancelab
   - name: telegram
     url: https://t.me/AlphaFinanceLab
   - name: discord

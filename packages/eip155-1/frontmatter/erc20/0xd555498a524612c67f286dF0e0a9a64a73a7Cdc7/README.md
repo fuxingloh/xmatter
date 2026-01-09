@@ -8,8 +8,8 @@ links:
     url: https://defrogs.com
   - name: explorer
     url: https://etherscan.io/token/0xd555498a524612c67f286df0e0a9a64a73a7cdc7
-  - name: twitter
-    url: https://twitter.com/DeFrogsToken
+  - name: x
+    url: https://x.com/DeFrogsToken
   - name: telegram
     url: https://t.me/DeFrogs
 ---

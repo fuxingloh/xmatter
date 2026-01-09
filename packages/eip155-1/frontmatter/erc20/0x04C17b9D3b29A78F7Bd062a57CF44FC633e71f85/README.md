@@ -8,8 +8,8 @@ links:
     url: https://www.impt.io/
   - name: explorer
     url: https://etherscan.io/token/0x04C17b9D3b29A78F7Bd062a57CF44FC633e71f85
-  - name: twitter
-    url: https://twitter.com/IMPT_token
+  - name: x
+    url: https://x.com/IMPT_token
   - name: github
     url: https://github.com/anonymous-001-1/IMPT
   - name: discord

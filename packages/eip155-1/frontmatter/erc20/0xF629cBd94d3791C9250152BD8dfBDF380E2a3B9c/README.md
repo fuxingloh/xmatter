@@ -11,8 +11,8 @@ links:
     url: https://etherscan.io/token/0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c
   - name: github
     url: https://github.com/enjin/contracts
-  - name: twitter
-    url: https://twitter.com/enjincs
+  - name: x
+    url: https://x.com/enjincs
   - name: reddit
     url: https://reddit.com/r/EnjinCoin/
   - name: facebook

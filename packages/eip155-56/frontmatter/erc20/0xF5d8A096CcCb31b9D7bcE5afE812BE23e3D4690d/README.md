@@ -10,8 +10,8 @@ links:
     url: https://github.com/Happy-Fans
   - name: telegram
     url: https://t.me/happyfanstoken
-  - name: twitter
-    url: https://twitter.com/HappyFansToken
+  - name: x
+    url: https://x.com/HappyFansToken
   - name: medium
     url: https://medium.com/@happyfans
   - name: facebook

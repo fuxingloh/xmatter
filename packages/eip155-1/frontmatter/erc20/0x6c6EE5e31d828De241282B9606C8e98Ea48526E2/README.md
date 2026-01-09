@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x6c6EE5e31d828De241282B9606C8e98Ea48526E2
   - name: github
     url: https://github.com/Holo-Host
-  - name: twitter
-    url: https://twitter.com/H_O_L_O_
+  - name: x
+    url: https://x.com/H_O_L_O_
   - name: reddit
     url: https://reddit.com/r/holochain/
   - name: blog

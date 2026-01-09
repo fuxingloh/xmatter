@@ -6,8 +6,8 @@ links:
     url: https://cryptoplanes.me/
   - name: explorer
     url: https://bscscan.com/token/0x04260673729c5F2b9894A467736f3D85F8d34fC8
-  - name: twitter
-    url: https://twitter.com/NFTCryptoPlanes
+  - name: x
+    url: https://x.com/NFTCryptoPlanes
   - name: github
     url: https://github.com/cryptocitymetaverse/cryptoplanes
   - name: telegram

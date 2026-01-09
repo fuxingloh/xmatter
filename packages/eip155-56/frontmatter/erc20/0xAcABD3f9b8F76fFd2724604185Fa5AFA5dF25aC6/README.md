@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xAcABD3f9b8F76fFd2724604185Fa5AFA5dF25aC6
   - name: github
     url: https://github.com/monsterslayerfinance/bdollar-smartcontracts
-  - name: twitter
-    url: https://twitter.com/monsterslayerfi
+  - name: x
+    url: https://x.com/monsterslayerfi
   - name: telegram
     url: https://t.me/monsterslayer_announcement
   - name: medium

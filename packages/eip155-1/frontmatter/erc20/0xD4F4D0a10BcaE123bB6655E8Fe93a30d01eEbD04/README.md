@@ -6,8 +6,8 @@ links:
     url: https://www.linqai.com/
   - name: explorer
     url: https://etherscan.io/token/0xD4F4D0a10BcaE123bB6655E8Fe93a30d01eEbD04
-  - name: twitter
-    url: https://twitter.com/linq_ai
+  - name: x
+    url: https://x.com/linq_ai
   - name: telegram
     url: https://t.me/LinqAI
   - name: coinmarketcap

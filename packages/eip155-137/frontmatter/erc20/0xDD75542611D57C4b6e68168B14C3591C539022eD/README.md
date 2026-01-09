@@ -10,8 +10,8 @@ links:
     url: https://polygonscan.com/token/0xdd75542611d57c4b6e68168b14c3591c539022ed
   - name: github
     url: https://github.com/unizen-io/
-  - name: twitter
-    url: https://twitter.com/unizen_io
+  - name: x
+    url: https://x.com/unizen_io
   - name: reddit
     url: https://reddit.com/r/unizen/
   - name: whitepaper

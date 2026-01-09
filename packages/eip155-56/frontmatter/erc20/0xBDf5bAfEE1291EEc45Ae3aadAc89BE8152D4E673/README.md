@@ -6,8 +6,8 @@ links:
     url: https://www.catamoto.cat/
   - name: explorer
     url: https://bscscan.com/token/0xbdf5bafee1291eec45ae3aadac89be8152d4e673
-  - name: twitter
-    url: https://twitter.com/4catamoto
+  - name: x
+    url: https://x.com/4catamoto
   - name: telegram
     url: https://t.me/Catamoto
 ---

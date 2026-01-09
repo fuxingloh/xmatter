@@ -6,8 +6,8 @@ links:
     url: https://omlira.com
   - name: explorer
     url: https://etherscan.io/token/0x224db5e6180761df4c3d8936585f6b8b83879770
-  - name: twitter
-    url: https://twitter.com/om_lira
+  - name: x
+    url: https://x.com/om_lira
   - name: discord
     url: https://discord.com/invite/MB75Bnc
   - name: facebook

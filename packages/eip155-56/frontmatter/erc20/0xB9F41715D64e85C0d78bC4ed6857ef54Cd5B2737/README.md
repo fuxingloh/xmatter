@@ -6,8 +6,8 @@ links:
     url: https://smartuse.art/
   - name: explorer
     url: https://bscscan.com/token/0xB9F41715D64e85C0d78bC4ed6857ef54Cd5B2737
-  - name: twitter
-    url: https://twitter.com/artccoin
+  - name: x
+    url: https://x.com/artccoin
   - name: facebook
     url: https://facebook.com/ART-COIN-100248662370343/
 ---

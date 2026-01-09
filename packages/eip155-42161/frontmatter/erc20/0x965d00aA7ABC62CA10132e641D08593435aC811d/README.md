@@ -6,8 +6,8 @@ links:
     url: https://about.kap.gg/
   - name: explorer
     url: https://arbiscan.io/token/0x965d00aA7ABC62CA10132e641D08593435aC811d
-  - name: twitter
-    url: https://twitter.com/KAPGamesGG
+  - name: x
+    url: https://x.com/KAPGamesGG
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/kap-games/
 ---

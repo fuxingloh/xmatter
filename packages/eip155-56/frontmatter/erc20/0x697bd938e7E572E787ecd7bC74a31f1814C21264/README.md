@@ -20,8 +20,8 @@ links:
     url: https://difx.io/assets/pdf/whitepaper.pdf
   - name: facebook
     url: https://facebook.com/difxexchange
-  - name: twitter
-    url: https://twitter.com/difx_io
+  - name: x
+    url: https://x.com/difx_io
   - name: reddit
     url: https://reddit.com/r/difx_exchange/
 ---

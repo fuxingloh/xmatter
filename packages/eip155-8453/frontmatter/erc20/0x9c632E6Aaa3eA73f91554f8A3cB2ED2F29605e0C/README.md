@@ -10,8 +10,8 @@ links:
     url: https://basescan.org/token/0x9c632E6Aaa3eA73f91554f8A3cB2ED2F29605e0C
   - name: github
     url: https://github.com/Onyx-Protocol
-  - name: twitter
-    url: https://twitter.com/OnyxDAO
+  - name: x
+    url: https://x.com/OnyxDAO
   - name: blog
     url: https://blog.onyx.org
   - name: coinmarketcap

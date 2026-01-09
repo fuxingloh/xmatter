@@ -11,8 +11,8 @@ links:
     url: https://polygonscan.com/token/0x0000206329b97DB379d5E1Bf586BbDB969C63274
   - name: github
     url: https://github.com/AngleProtocol
-  - name: twitter
-    url: https://twitter.com/AngleProtocol
+  - name: x
+    url: https://x.com/AngleProtocol
   - name: docs
     url: https://docs.angle.money
   - name: coingecko

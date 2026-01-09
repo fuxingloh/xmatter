@@ -6,8 +6,8 @@ links:
     url: http://ducato.io/
   - name: explorer
     url: https://etherscan.io/token/0xa117ea1c0c85CEf648df2b6f40e50bb5475C228d
-  - name: twitter
-    url: https://twitter.com/DUCATO_DeFi
+  - name: x
+    url: https://x.com/DUCATO_DeFi
   - name: telegram
     url: https://t.me/DUCATO_Channel
   - name: facebook

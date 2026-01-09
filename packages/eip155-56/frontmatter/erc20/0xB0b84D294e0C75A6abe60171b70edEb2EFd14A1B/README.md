@@ -6,8 +6,8 @@ links:
     url: https://lista.org/
   - name: explorer
     url: https://bscscan.com/token/0xB0b84D294e0C75A6abe60171b70edEb2EFd14A1B
-  - name: twitter
-    url: https://twitter.com/LISTA_DAO
+  - name: x
+    url: https://x.com/LISTA_DAO
   - name: github
     url: https://github.com/lista-dao
 ---

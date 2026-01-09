@@ -8,8 +8,8 @@ links:
     url: https://revolt.cultdao.io/
   - name: explorer
     url: https://polygonscan.com/token/0xf0f9D895aCa5c8678f706FB8216fa22957685A13
-  - name: twitter
-    url: https://twitter.com/wearecultdao
+  - name: x
+    url: https://x.com/wearecultdao
   - name: github
     url: https://github.com/cultdao-developer/revolt2earn
   - name: telegram

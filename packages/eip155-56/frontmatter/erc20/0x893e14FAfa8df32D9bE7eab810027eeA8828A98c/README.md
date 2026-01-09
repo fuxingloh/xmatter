@@ -6,8 +6,8 @@ links:
     url: https://unimoon.io/
   - name: explorer
     url: https://bscscan.com/token/0x893e14FAfa8df32D9bE7eab810027eeA8828A98c
-  - name: twitter
-    url: https://twitter.com/unimoonnetwork
+  - name: x
+    url: https://x.com/unimoonnetwork
   - name: telegram
     url: https://t.me/unimoonnetwork
 ---

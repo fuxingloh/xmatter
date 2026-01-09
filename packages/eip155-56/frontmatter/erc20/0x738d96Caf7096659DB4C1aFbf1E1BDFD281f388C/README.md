@@ -8,8 +8,8 @@ links:
     url: https://ankr.com
   - name: explorer
     url: https://bscscan.com/token/0x738d96caf7096659db4c1afbf1e1bdfd281f388c
-  - name: twitter
-    url: https://twitter.com/ankr
+  - name: x
+    url: https://x.com/ankr
   - name: github
     url: https://github.com/Ankr-network
   - name: telegram

@@ -8,8 +8,8 @@ links:
     url: https://ptokens.io/
   - name: explorer
     url: https://etherscan.io/token/0xb6C53431608E626AC81a9776ac3e999c5556717c
-  - name: twitter
-    url: https://twitter.com/pNetworkDeFi
+  - name: x
+    url: https://x.com/pNetworkDeFi
   - name: github
     url: https://github.com/provable-things
   - name: coinmarketcap

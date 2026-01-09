@@ -6,8 +6,8 @@ links:
     url: https://shibamonk.com/
   - name: explorer
     url: https://bscscan.com/token/0x9a95f03A305db3BD25D9C891793118D56C73d012
-  - name: twitter
-    url: https://twitter.com/shiba_monk
+  - name: x
+    url: https://x.com/shiba_monk
   - name: telegram
     url: https://t.me/shiba_monk
   - name: github

@@ -6,8 +6,8 @@ links:
     url: https://trump2024base.xyz/
   - name: explorer
     url: https://basescan.org/token/0x0ab57f6600374a7d3b4f02e94cdda7d309d6a00e
-  - name: twitter
-    url: https://twitter.com/TRUMP2024BASE
+  - name: x
+    url: https://x.com/TRUMP2024BASE
   - name: telegram
     url: https://t.me/+m1r6wQyqhhNkOGY1
 ---

@@ -8,8 +8,8 @@ links:
     url: https://adadao.org
   - name: explorer
     url: https://bscscan.com/token/0x3b76374Cc2DfE28Cc373DcA6d5024791B2586335
-  - name: twitter
-    url: https://twitter.com/adadao_org
+  - name: x
+    url: https://x.com/adadao_org
   - name: github
     url: https://github.com/adadao
   - name: telegram

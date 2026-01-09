@@ -6,8 +6,8 @@ links:
     url: https://babycake.app/
   - name: explorer
     url: https://bscscan.com/token/0xdB8D30b74bf098aF214e862C90E647bbB1fcC58c
-  - name: twitter
-    url: https://twitter.com/BabyCakeBSC
+  - name: x
+    url: https://x.com/BabyCakeBSC
   - name: telegram
     url: https://t.me/babycakeBSC
   - name: medium

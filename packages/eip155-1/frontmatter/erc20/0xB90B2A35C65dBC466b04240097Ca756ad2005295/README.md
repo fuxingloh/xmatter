@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xb90b2a35c65dbc466b04240097ca756ad2005295
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/bobo-coin/
-  - name: twitter
-    url: https://twitter.com/bobocoineth
+  - name: x
+    url: https://x.com/bobocoineth
 ---
 
 # BOBO

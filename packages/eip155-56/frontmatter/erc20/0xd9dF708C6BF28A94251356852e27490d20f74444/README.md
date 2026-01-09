@@ -1,0 +1,13 @@
+---
+symbol: FAKE U
+decimals: 18
+links:
+  - name: website
+    url: https://bscscan.com/token/0xd9dF708C6BF28A94251356852e27490d20f74444
+  - name: explorer
+    url: https://bscscan.com/token/0xd9dF708C6BF28A94251356852e27490d20f74444
+---
+
+# FAKE United Stables
+
+This token is malicious do not interact

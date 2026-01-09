@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c
   - name: github
     url: https://github.com/binance-chain/
-  - name: twitter
-    url: https://twitter.com/binance_dex
+  - name: x
+    url: https://x.com/binance_dex
   - name: telegram
     url: https://t.me/BinanceDEXchange
   - name: blog

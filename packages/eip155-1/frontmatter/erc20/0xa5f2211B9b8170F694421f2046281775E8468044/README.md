@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xa5f2211B9b8170F694421f2046281775E8468044
   - name: github
     url: https://github.com/thorswap
-  - name: twitter
-    url: https://twitter.com/THORSwap
+  - name: x
+    url: https://x.com/THORSwap
   - name: telegram
     url: https://t.me/thorswap_ann
   - name: medium

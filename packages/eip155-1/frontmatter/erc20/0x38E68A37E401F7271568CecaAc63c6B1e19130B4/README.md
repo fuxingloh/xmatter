@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x38e68a37e401f7271568cecaac63c6b1e19130b4
   - name: telegram
     url: https://t.me/Banana_Gun_Portal
-  - name: twitter
-    url: https://twitter.com/BananaGunBot
+  - name: x
+    url: https://x.com/BananaGunBot
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/banana-gun/
 ---

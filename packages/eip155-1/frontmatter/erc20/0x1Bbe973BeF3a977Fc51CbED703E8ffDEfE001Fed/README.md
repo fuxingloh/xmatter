@@ -6,8 +6,8 @@ links:
     url: https://www.portalgaming.com/
   - name: explorer
     url: https://etherscan.io/token/0x1bbe973bef3a977fc51cbed703e8ffdefe001fed
-  - name: twitter
-    url: https://twitter.com/PortalCoin
+  - name: x
+    url: https://x.com/PortalCoin
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/portal-gaming/
 ---

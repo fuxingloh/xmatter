@@ -8,8 +8,8 @@ links:
     url: https://eyetoken.io
   - name: explorer
     url: https://bscscan.com/token/0xE9a97602Ea2985634032a6dFE8a391F7124328F1
-  - name: twitter
-    url: https://twitter.com/network_ey98192
+  - name: x
+    url: https://x.com/network_ey98192
   - name: youtube
     url: https://youtube.com/@eyenetworkai?si=dRR691ySZwBR69Rw
   - name: facebook

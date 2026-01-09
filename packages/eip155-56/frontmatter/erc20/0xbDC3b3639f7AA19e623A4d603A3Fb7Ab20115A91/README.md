@@ -6,8 +6,8 @@ links:
     url: https://coinofchampions.com/
   - name: explorer
     url: https://bscscan.com/token/0xbDC3b3639f7AA19e623A4d603A3Fb7Ab20115A91
-  - name: twitter
-    url: https://twitter.com/coinofchampions
+  - name: x
+    url: https://x.com/coinofchampions
   - name: github
     url: https://github.com/Coin-of-Champions
   - name: telegram

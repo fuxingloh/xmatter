@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C
   - name: github
     url: https://github.com/bancorprotocol
-  - name: twitter
-    url: https://twitter.com/bancornetwork
+  - name: x
+    url: https://x.com/bancornetwork
   - name: reddit
     url: https://reddit.com/r/Bancor/
   - name: blog

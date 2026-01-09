@@ -6,8 +6,8 @@ links:
     url: https://newscrypto.io/
   - name: explorer
     url: https://bscscan.com/token/0x968f6f898a6df937fc1859b323ac2f14643e3fed
-  - name: twitter
-    url: https://twitter.com/NwcPublic
+  - name: x
+    url: https://x.com/NwcPublic
   - name: telegram
     url: https://t.me/nwc_public
   - name: facebook

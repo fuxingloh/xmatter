@@ -10,8 +10,8 @@ links:
     url: https://t.me/coxswap_chat
   - name: coinmarketcap
     url: https://coinmarketcap.com/ru/currencies/coxswap/
-  - name: twitter
-    url: https://twitter.com/Cox_Swap
+  - name: x
+    url: https://x.com/Cox_Swap
 ---
 
 # COXSWAP

@@ -8,8 +8,8 @@ links:
     url: https://www.palmswap.org/
   - name: explorer
     url: https://bscscan.com/token/0x29745314B4D294B7C77cDB411B8AAa95923aae38
-  - name: twitter
-    url: https://twitter.com/Palmswaporg
+  - name: x
+    url: https://x.com/Palmswaporg
   - name: github
     url: https://github.com/palmswap
   - name: coinmarketcap

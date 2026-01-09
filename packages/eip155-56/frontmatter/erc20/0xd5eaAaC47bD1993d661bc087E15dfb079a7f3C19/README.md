@@ -8,8 +8,8 @@ links:
     url: https://komabnb.com
   - name: explorer
     url: https://bscscan.com/token/0xd5eaaac47bd1993d661bc087e15dfb079a7f3c19
-  - name: twitter
-    url: https://twitter.com/komabnb
+  - name: x
+    url: https://x.com/komabnb
   - name: telegram
     url: https://t.me/komabnb
   - name: coinmarketcap

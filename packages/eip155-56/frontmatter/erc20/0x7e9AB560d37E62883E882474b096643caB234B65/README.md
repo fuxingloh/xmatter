@@ -11,8 +11,8 @@ links:
     url: https://bscscan.com/token/0x7e9AB560d37E62883E882474b096643caB234B65
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/ultimate-champions/
-  - name: twitter
-    url: https://twitter.com/UltiChamps
+  - name: x
+    url: https://x.com/UltiChamps
   - name: whitepaper
     url: https://whitepaper.ultimate-champions.com/
   - name: medium

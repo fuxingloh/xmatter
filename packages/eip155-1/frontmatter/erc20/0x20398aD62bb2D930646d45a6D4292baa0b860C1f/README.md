@@ -6,8 +6,8 @@ links:
     url: https://flashstake.io
   - name: explorer
     url: https://etherscan.io/token/0x20398aD62bb2D930646d45a6D4292baa0b860C1f
-  - name: twitter
-    url: https://twitter.com/Flashstake
+  - name: x
+    url: https://x.com/Flashstake
 ---
 
 # Flashstake

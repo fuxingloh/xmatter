@@ -6,8 +6,8 @@ links:
     url: https://mustangtoken.net
   - name: explorer
     url: https://bscscan.com/token/0xa042d20abe198e516d885da52a633b6d44f339b9
-  - name: twitter
-    url: https://twitter.com/Mustangtoken
+  - name: x
+    url: https://x.com/Mustangtoken
   - name: telegram
     url: https://t.me/MustangToken
   - name: reddit

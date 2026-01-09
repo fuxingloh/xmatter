@@ -8,8 +8,8 @@ links:
     url: https://www.minucoin.com/
   - name: explorer
     url: https://bscscan.com/token/0xf48f91df403976060cC05dBbf8A0901b09fdeFd4
-  - name: twitter
-    url: https://twitter.com/minu_coin
+  - name: x
+    url: https://x.com/minu_coin
   - name: telegram
     url: https://t.me/minu_coin
   - name: whitepaper

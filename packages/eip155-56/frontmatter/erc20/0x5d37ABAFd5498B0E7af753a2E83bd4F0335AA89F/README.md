@@ -6,8 +6,8 @@ links:
     url: http://weset.io/
   - name: explorer
     url: https://bscscan.com/token/0x5d37abafd5498b0e7af753a2e83bd4f0335aa89f
-  - name: twitter
-    url: https://twitter.com/WESET_io
+  - name: x
+    url: https://x.com/WESET_io
 ---
 
 # WECOIN

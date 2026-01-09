@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x5b1BaeC64aF6dC54E6e04349315919129A6d3c23
   - name: github
     url: https://github.com/DNAxCAT/
-  - name: twitter
-    url: https://twitter.com/dnaxcat_game
+  - name: x
+    url: https://x.com/dnaxcat_game
   - name: telegram
     url: https://t.me/DNAxCAT_official
 ---

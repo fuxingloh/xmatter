@@ -6,8 +6,8 @@ links:
     url: https://foxfinance.io/
   - name: explorer
     url: https://bscscan.com/token/0xFAd8E46123D7b4e77496491769C167FF894d2ACB
-  - name: twitter
-    url: https://twitter.com/foxfinancebsc
+  - name: x
+    url: https://x.com/foxfinancebsc
   - name: telegram
     url: https://t.me/foxfinancebsc
   - name: discord

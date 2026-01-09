@@ -6,8 +6,8 @@ links:
     url: https://www.shrapnel.com/
   - name: explorer
     url: https://snowtrace.io/token/0xd402298a793948698b9a63311404FBBEe944eAfD
-  - name: twitter
-    url: https://twitter.com/playSHRAPNEL
+  - name: x
+    url: https://x.com/playSHRAPNEL
   - name: discord
     url: https://discord.com/invite/shrapnel
 ---

@@ -8,8 +8,8 @@ links:
     url: https://www.digitalax.xyz/
   - name: explorer
     url: https://etherscan.io/token/0x275f5Ad03be0Fa221B4C6649B8AeE09a42D9412A
-  - name: twitter
-    url: https://twitter.com/DIGITALAX_
+  - name: x
+    url: https://x.com/DIGITALAX_
   - name: telegram
     url: https://t.me/digitalaxTG
   - name: coinmarketcap

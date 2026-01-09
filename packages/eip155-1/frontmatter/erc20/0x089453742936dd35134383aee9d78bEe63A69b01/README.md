@@ -6,8 +6,8 @@ links:
     url: https://hodl.gold/
   - name: explorer
     url: https://etherscan.io/token/0x089453742936dd35134383aee9d78bee63a69b01
-  - name: twitter
-    url: https://twitter.com/GoldCoinETH
+  - name: x
+    url: https://x.com/GoldCoinETH
   - name: coingecko
     url: https://coingecko.com/en/coins/gold-2
   - name: coinmarketcap

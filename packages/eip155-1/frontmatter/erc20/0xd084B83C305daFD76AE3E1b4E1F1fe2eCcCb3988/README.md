@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xd084b83c305dafd76ae3e1b4e1f1fe2ecccb3988
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/terra-virtua-kolect/
-  - name: twitter
-    url: https://twitter.com/terra_virtua
+  - name: x
+    url: https://x.com/terra_virtua
   - name: telegram
     url: https://t.me/terravirtua
 ---

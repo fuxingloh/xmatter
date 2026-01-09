@@ -6,8 +6,8 @@ links:
     url: https://www.bloofoster.com
   - name: explorer
     url: https://basescan.org/token/0x8a5F9a6b653ecbDb406f9EB5F0C8dDba10919Aec
-  - name: twitter
-    url: https://twitter.com/bloofostercoin
+  - name: x
+    url: https://x.com/bloofostercoin
 ---
 
 # bloo foster

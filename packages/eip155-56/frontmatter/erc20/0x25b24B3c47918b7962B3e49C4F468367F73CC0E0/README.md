@@ -11,8 +11,8 @@ links:
     url: https://www.axltoken.com
   - name: explorer
     url: https://bscscan.com/token/0x25b24B3c47918b7962B3e49C4F468367F73CC0E0
-  - name: twitter
-    url: https://twitter.com/axltoken
+  - name: x
+    url: https://x.com/axltoken
   - name: telegram
     url: https://t.me/axltoken
   - name: reddit

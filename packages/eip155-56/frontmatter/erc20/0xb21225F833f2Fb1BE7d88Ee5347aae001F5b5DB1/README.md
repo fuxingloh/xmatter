@@ -6,8 +6,8 @@ links:
     url: https://spay.finance/
   - name: explorer
     url: https://bscscan.com/token/0xb21225F833f2Fb1BE7d88Ee5347aae001F5b5DB1
-  - name: twitter
-    url: https://twitter.com/smart_spay
+  - name: x
+    url: https://x.com/smart_spay
   - name: github
     url: https://github.com/smartpaymen/
   - name: telegram

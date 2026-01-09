@@ -16,8 +16,8 @@ links:
     url: https://reddit.com/r/WHACKDMcAfee/
   - name: forum
     url: https://bitcointalk.org/index.php?topic=5351640
-  - name: twitter
-    url: https://twitter.com/TokenWhackd
+  - name: x
+    url: https://x.com/TokenWhackd
 ---
 
 # Whackd

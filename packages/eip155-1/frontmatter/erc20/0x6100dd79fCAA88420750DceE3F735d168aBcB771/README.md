@@ -8,8 +8,8 @@ links:
     url: https://ethereans.app
   - name: explorer
     url: https://etherscan.io/token/0x6100dd79fCAA88420750DceE3F735d168aBcB771
-  - name: twitter
-    url: https://twitter.com/ethereansOS
+  - name: x
+    url: https://x.com/ethereansOS
   - name: discord
     url: https://discord.com/invite/ncbK6nYdFU
   - name: youtube

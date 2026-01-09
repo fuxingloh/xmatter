@@ -8,8 +8,8 @@ links:
     url: https://bob.eco
   - name: explorer
     url: https://etherscan.io/token/0xe803178b48A0e560C2b19F3b3d4e504f79D229ce
-  - name: twitter
-    url: https://twitter.com/BobEcoOfficial
+  - name: x
+    url: https://x.com/BobEcoOfficial
   - name: github
     url: https://github.com/CryptoMechanics/bobc-token
   - name: telegram

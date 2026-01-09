@@ -6,8 +6,8 @@ links:
     url: https://shibarmybsc.com
   - name: explorer
     url: https://bscscan.com/token/0x940230b6b7ef1979a28F32196A8e3439C645BA49
-  - name: twitter
-    url: https://twitter.com/shibarmybsc
+  - name: x
+    url: https://x.com/shibarmybsc
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/shib-army/
   - name: coingecko

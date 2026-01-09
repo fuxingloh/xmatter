@@ -6,8 +6,8 @@ links:
     url: https://www.mai.finance/
   - name: explorer
     url: https://arbiscan.io/token/0x3F56e0c36d275367b8C502090EDF38289b3dEa0d
-  - name: twitter
-    url: https://twitter.com/0xLaoZi
+  - name: x
+    url: https://x.com/0xLaoZi
   - name: telegram
     url: https://t.me/QiDaoProtocol
 ---

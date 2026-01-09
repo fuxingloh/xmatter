@@ -6,8 +6,8 @@ links:
     url: https://realm.art
   - name: explorer
     url: https://etherscan.io/token/0x464fdb8affc9bac185a7393fd4298137866dcfb8
-  - name: twitter
-    url: https://twitter.com/Enter_Realm
+  - name: x
+    url: https://x.com/Enter_Realm
   - name: telegram
     url: https://t.me/Enter_Realm
   - name: coingecko

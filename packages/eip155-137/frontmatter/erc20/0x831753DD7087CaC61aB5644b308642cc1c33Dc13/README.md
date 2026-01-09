@@ -8,8 +8,8 @@ links:
     url: https://polygonscan.com/token/0x831753dd7087cac61ab5644b308642cc1c33dc13
   - name: github
     url: https://github.com/QuickSwap
-  - name: twitter
-    url: https://twitter.com/QuickswapDEX
+  - name: x
+    url: https://x.com/QuickswapDEX
   - name: telegram
     url: https://t.me/QuickSwapDEX
   - name: medium

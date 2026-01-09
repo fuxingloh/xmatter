@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x8C907e0a72C3d55627E853f4ec6a96b0C8771145
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/zigcoin/
-  - name: twitter
-    url: https://twitter.com/zignaly
+  - name: x
+    url: https://x.com/zignaly
 ---
 
 # ZigCoin

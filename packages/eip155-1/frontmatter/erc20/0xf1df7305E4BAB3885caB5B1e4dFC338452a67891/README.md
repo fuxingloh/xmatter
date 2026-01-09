@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xf1df7305E4BAB3885caB5B1e4dFC338452a67891
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/palm-ai/
-  - name: twitter
-    url: https://twitter.com/palmaierc
+  - name: x
+    url: https://x.com/palmaierc
 ---
 
 # PaLM AI

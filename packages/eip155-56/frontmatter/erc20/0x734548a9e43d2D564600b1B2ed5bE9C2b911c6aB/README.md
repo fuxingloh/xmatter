@@ -8,8 +8,8 @@ links:
     url: https://metaapesgame.com
   - name: explorer
     url: https://bscscan.com/token/0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB
-  - name: twitter
-    url: https://twitter.com/MetaApesGame
+  - name: x
+    url: https://x.com/MetaApesGame
   - name: docs
     url: https://meta-apes.gitbook.io/meta-apes-whitepaper
   - name: medium

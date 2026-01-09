@@ -8,8 +8,8 @@ links:
     url: https://chirpley.ai/
   - name: explorer
     url: https://bscscan.com/token/0xeD00Fc7D48B57B81FE65D1cE71c0985e4CF442CB
-  - name: twitter
-    url: https://twitter.com/chirpley
+  - name: x
+    url: https://x.com/chirpley
   - name: github
     url: https://github.com/chirpley
   - name: telegram

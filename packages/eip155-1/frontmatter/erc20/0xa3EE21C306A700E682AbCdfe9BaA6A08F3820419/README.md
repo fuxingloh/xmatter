@@ -8,8 +8,8 @@ links:
     url: https://creditcoin.org/
   - name: explorer
     url: https://etherscan.io/token/0xa3ee21c306a700e682abcdfe9baa6a08f3820419
-  - name: twitter
-    url: https://twitter.com/creditcoin
+  - name: x
+    url: https://x.com/creditcoin
   - name: github
     url: https://github.com/gluwa/Creditcoin
   - name: telegram

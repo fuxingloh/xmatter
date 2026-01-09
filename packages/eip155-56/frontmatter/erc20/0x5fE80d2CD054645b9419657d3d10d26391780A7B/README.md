@@ -6,8 +6,8 @@ links:
     url: https://mcdex.io
   - name: explorer
     url: https://bscscan.com/token/0x5fE80d2CD054645b9419657d3d10d26391780A7B
-  - name: twitter
-    url: https://twitter.com/MonteCarloDEX
+  - name: x
+    url: https://x.com/MonteCarloDEX
   - name: telegram
     url: https://t.me/Mcdex
   - name: medium

@@ -8,8 +8,8 @@ links:
     url: https://daomars.com
   - name: explorer
     url: https://bscscan.com/token/0x60322971a672B81BccE5947706D22c19dAeCf6Fb
-  - name: twitter
-    url: https://twitter.com/0xMarsDAO
+  - name: x
+    url: https://x.com/0xMarsDAO
   - name: github
     url: https://github.com/MARS-DAO
   - name: coingecko

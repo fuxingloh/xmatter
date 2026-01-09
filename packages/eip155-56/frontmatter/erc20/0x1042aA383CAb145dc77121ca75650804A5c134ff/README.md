@@ -12,8 +12,8 @@ links:
     url: https://facebook.com/Aggleio-106575305321004
   - name: telegram
     url: https://t.me/aggle_io
-  - name: twitter
-    url: https://twitter.com/aggle_io
+  - name: x
+    url: https://x.com/aggle_io
   - name: discord
     url: https://discord.com/qAC48Fvr
   - name: coinmarketcap

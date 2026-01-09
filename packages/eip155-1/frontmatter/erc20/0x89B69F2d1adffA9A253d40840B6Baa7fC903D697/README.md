@@ -8,8 +8,8 @@ links:
     url: https://www.dioneprotocol.com
   - name: explorer
     url: https://etherscan.io/token/0x89B69F2d1adffA9A253d40840B6Baa7fC903D697
-  - name: twitter
-    url: https://twitter.com/DioneProtocol
+  - name: x
+    url: https://x.com/DioneProtocol
   - name: telegram
     url: https://t.me/DioneProtocol
   - name: whitepaper

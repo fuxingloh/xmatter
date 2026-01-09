@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x8a6f3BF52A26a21531514E23016eEAe8Ba7e7018
   - name: github
     url: https://github.com/Multiplier-Finance
-  - name: twitter
-    url: https://twitter.com/MultiplierMXX
+  - name: x
+    url: https://x.com/MultiplierMXX
   - name: telegram
     url: https://t.me/themultiplierio
 ---

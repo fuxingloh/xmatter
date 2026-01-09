@@ -8,8 +8,8 @@ links:
     url: https://polygonscan.com/token/0x76e63a3E7Ba1e2E61D3DA86a87479f983dE89a7E
   - name: github
     url: https://github.com/augury-finance/core
-  - name: twitter
-    url: https://twitter.com/AuguryFinance
+  - name: x
+    url: https://x.com/AuguryFinance
   - name: telegram
     url: https://t.me/auguryfinance
   - name: medium

@@ -6,8 +6,8 @@ links:
     url: https://lendefi.finance
   - name: explorer
     url: https://bscscan.com/token/0x8F1E60D84182db487aC235acC65825e50b5477a1
-  - name: twitter
-    url: https://twitter.com/lendefi_io
+  - name: x
+    url: https://x.com/lendefi_io
   - name: github
     url: https://github.com/lendefi/
   - name: telegram

@@ -10,8 +10,8 @@ links:
     url: https://github.com/GuildFi
   - name: telegram
     url: https://t.me/guildfi
-  - name: twitter
-    url: https://twitter.com/GuildFiGlobal
+  - name: x
+    url: https://x.com/GuildFiGlobal
 ---
 
 # GuildFi

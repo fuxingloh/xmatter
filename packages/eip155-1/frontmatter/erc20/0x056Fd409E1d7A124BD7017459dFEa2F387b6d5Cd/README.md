@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd
   - name: facebook
     url: https://facebook.com/GeminiDotCom
-  - name: twitter
-    url: https://twitter.com/GeminiDotCom
+  - name: x
+    url: https://x.com/GeminiDotCom
   - name: reddit
     url: https://reddit.com/r/Gemini/
   - name: whitepaper

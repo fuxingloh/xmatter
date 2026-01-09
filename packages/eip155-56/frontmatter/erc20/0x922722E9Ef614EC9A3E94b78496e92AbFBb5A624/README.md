@@ -8,8 +8,8 @@ links:
     url: https://www.capocoin.xyz/
   - name: explorer
     url: https://bscscan.com/token/0x922722E9Ef614EC9A3E94b78496e92AbFBb5A624
-  - name: twitter
-    url: https://twitter.com/ilcapocoin
+  - name: x
+    url: https://x.com/ilcapocoin
   - name: telegram
     url: https://t.me/capocoin
   - name: coingecko
@@ -22,4 +22,4 @@ links:
 
 # IL CAPO
 
-HERE IS THE NEW MEME TOKEN I'VE CREATED - $CAPO TOKEN; DEDICATED TO BIGGEST COUNTER TRADING TWITTER ACCOUNT - IL CAPO OF CRYPTO! WE ALL KNOW WHO IS CRYPTO CAPO, AKA "biggest bull trap i ever seen" "Still short and strong" AND MORE JOKES LIKE THAT!
+HERE IS THE NEW MEME TOKEN I'VE CREATED - $CAPO TOKEN; DEDICATED TO BIGGEST COUNTER TRADING x ACCOUNT - IL CAPO OF CRYPTO! WE ALL KNOW WHO IS CRYPTO CAPO, AKA "biggest bull trap i ever seen" "Still short and strong" AND MORE JOKES LIKE THAT!

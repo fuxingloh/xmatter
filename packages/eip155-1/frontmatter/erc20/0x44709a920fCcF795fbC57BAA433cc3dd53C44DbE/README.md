@@ -11,8 +11,8 @@ links:
     url: https://etherscan.io/token/0x44709a920fccf795fbc57baa433cc3dd53c44dbe
   - name: github
     url: https://github.com/dappradar
-  - name: twitter
-    url: https://twitter.com/dappradar
+  - name: x
+    url: https://x.com/dappradar
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/dappradar/
   - name: telegram

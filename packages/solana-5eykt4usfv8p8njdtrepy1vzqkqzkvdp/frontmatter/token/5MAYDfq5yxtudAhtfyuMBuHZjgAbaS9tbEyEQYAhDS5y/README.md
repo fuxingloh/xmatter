@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/5MAYDfq5yxtudAhtfyuMBuHZjgAbaS9tbEyEQYAhDS5y
   - name: github
     url: https://github.com/Access-Labs-Inc/accessprotocol.co
-  - name: twitter
-    url: https://twitter.com/AccessProtocol
+  - name: x
+    url: https://x.com/AccessProtocol
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/access-protocol/
 ---

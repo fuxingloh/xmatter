@@ -6,8 +6,8 @@ links:
     url: https://www.fatecosystem.com
   - name: explorer
     url: https://bscscan.com/token/0xB7Dba4C673beDB174DC3Ff7Ec65d17C863d39b16
-  - name: twitter
-    url: https://twitter.com/FatCakeToken
+  - name: x
+    url: https://x.com/FatCakeToken
   - name: github
     url: https://github.com/FreezyEx/FATCAKE
   - name: telegram

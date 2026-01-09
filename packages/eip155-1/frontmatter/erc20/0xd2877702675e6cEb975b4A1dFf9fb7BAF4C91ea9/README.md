@@ -6,8 +6,8 @@ links:
     url: https://terra.money
   - name: explorer
     url: https://etherscan.io/token/0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9
-  - name: twitter
-    url: https://twitter.com/TerraMoney
+  - name: x
+    url: https://x.com/TerraMoney
   - name: telegram
     url: https://t.me/terra_announcements
   - name: discord

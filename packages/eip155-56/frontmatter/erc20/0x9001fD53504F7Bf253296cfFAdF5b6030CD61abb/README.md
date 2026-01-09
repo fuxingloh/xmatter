@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x9001fd53504f7bf253296cffadf5b6030cd61abb
   - name: github
     url: https://github.com/CyberFM/
-  - name: twitter
-    url: https://twitter.com/CyberFM
+  - name: x
+    url: https://x.com/CyberFM
   - name: telegram
     url: https://t.me/mftudotnet
   - name: facebook

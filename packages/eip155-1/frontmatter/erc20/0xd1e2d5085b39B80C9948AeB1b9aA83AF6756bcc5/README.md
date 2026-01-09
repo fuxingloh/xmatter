@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xd1e2d5085b39b80c9948aeb1b9aa83af6756bcc5
   - name: github
     url: https://github.com/oxen-io/oxen-core
-  - name: twitter
-    url: https://twitter.com/Oxen_io
+  - name: x
+    url: https://x.com/Oxen_io
   - name: whitepaper
     url: https://loki.network/wp-content/uploads/2018/10/LokiWhitepaperV3_1.pdf
 ---

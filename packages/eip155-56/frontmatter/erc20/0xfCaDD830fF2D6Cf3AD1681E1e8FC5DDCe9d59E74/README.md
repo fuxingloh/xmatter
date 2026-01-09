@@ -8,8 +8,8 @@ links:
     url: https://zadauniverse.com
   - name: explorer
     url: https://bscscan.com/token/0xfCaDD830fF2D6Cf3AD1681E1e8FC5DDCe9d59E74
-  - name: twitter
-    url: https://twitter.com/zadabsc
+  - name: x
+    url: https://x.com/zadabsc
   - name: github
     url: https://github.com/ZadaUniverse/Zada-BSC
   - name: telegram

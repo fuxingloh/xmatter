@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x6dc3d0D6EC970BF5522611D8eFF127145D02b675
   - name: github
     url: https://github.com/revolotto
-  - name: twitter
-    url: https://twitter.com/revolotto
+  - name: x
+    url: https://x.com/revolotto
   - name: reddit
     url: https://reddit.com/r/Revolotto/
   - name: whitepaper

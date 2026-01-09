@@ -8,8 +8,8 @@ links:
     url: https://www.deepmaze.finance/
   - name: explorer
     url: https://bscscan.com/token/0xdc0118b27276065c573386aa44e7a6e5e2af07c1
-  - name: twitter
-    url: https://twitter.com/DPZFinance
+  - name: x
+    url: https://x.com/DPZFinance
   - name: github
     url: https://github.com/deepmazefoundation/
   - name: telegram

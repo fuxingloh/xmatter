@@ -8,8 +8,8 @@ links:
     url: https://paraswap.io/
   - name: explorer
     url: https://etherscan.io/token/0xcafe001067cdef266afb7eb5a286dcfd277f3de5
-  - name: twitter
-    url: https://twitter.com/paraswap
+  - name: x
+    url: https://x.com/paraswap
   - name: telegram
     url: https://t.me/paraswap
   - name: coinmarketcap

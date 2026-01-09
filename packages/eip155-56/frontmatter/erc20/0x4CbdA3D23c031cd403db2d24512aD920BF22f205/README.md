@@ -6,8 +6,8 @@ links:
     url: https://subx.finance
   - name: explorer
     url: https://bscscan.com/token/0x4CbdA3D23c031cd403db2d24512aD920BF22f205
-  - name: twitter
-    url: https://twitter.com/officialsubx
+  - name: x
+    url: https://x.com/officialsubx
   - name: telegram
     url: https://t.me/subxofficial
   - name: telegram_news

@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xa4eed63db85311e22df4473f87ccfc3dadcfa3e3
   - name: github
     url: https://github.com/Cryptorubic/rubic_frontend
-  - name: twitter
-    url: https://twitter.com/Rubic
+  - name: x
+    url: https://x.com/Rubic
   - name: telegram
     url: https://t.me/cryptorubic_chat
   - name: discord

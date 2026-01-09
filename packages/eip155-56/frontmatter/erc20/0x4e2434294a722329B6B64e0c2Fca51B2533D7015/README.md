@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x4e2434294a722329b6b64e0c2fca51b2533d7015
   - name: telegram
     url: https://t.me/pepefloki_portal
-  - name: twitter
-    url: https://twitter.com/pepe_floki
+  - name: x
+    url: https://x.com/pepe_floki
 ---
 
 # PEPEFLOKI

@@ -9,8 +9,8 @@ links:
     url: https://distoken.xyz
   - name: explorer
     url: https://bscscan.com/token/0xe2EcC66E14eFa96E9c55945f79564f468882D24C
-  - name: twitter
-    url: https://twitter.com/distoken_xyz
+  - name: x
+    url: https://x.com/distoken_xyz
   - name: telegram
     url: https://t.me/miningtwxyz
   - name: github

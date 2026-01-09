@@ -6,8 +6,8 @@ links:
     url: https://shibamask.org
   - name: explorer
     url: https://bscscan.com/token/0x9105F25A9D6B3d289cC7315b0b4e0b91F3806fB1
-  - name: twitter
-    url: https://twitter.com/shibamaskcoin
+  - name: x
+    url: https://x.com/shibamaskcoin
   - name: github
     url: https://github.com/shibamask
 ---

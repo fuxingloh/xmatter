@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x76A034e76Aa835363056dd418611E4f81870f16e
   - name: github
     url: https://github.com/valuedefi
-  - name: twitter
-    url: https://twitter.com/value_defi
+  - name: x
+    url: https://x.com/value_defi
   - name: telegram
     url: https://t.me/ValueDeFi
   - name: discord

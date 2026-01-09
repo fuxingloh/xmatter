@@ -8,8 +8,8 @@ links:
     url: https://inrx.io/
   - name: explorer
     url: https://bscscan.com/token/0xcD6970d5211EfDF2516A4fc73163db7bA812B212
-  - name: twitter
-    url: https://twitter.com/inrxfoundation
+  - name: x
+    url: https://x.com/inrxfoundation
   - name: telegram
     url: https://t.me/inrxfoundation
   - name: coinmarketcap

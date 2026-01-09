@@ -9,8 +9,8 @@ links:
     url: https://www.affinitybsc.com
   - name: explorer
     url: https://bscscan.com/token/0x0cAE6c43fe2f43757a767Df90cf5054280110F3e
-  - name: twitter
-    url: https://twitter.com/affinitybsc?s=21
+  - name: x
+    url: https://x.com/affinitybsc?s=21
   - name: reddit
     url: https://reddit.com/r/AffinityBSC/
   - name: telegram

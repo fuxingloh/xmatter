@@ -6,8 +6,8 @@ links:
     url: https://cryptobonusmiles.com/
   - name: explorer
     url: https://bscscan.com/token/0x61a97C4914C43f8BD98D01a99418E826C80AfAdC
-  - name: twitter
-    url: https://twitter.com/aeron_aero
+  - name: x
+    url: https://x.com/aeron_aero
   - name: telegram
     url: https://t.me/aeronaero
   - name: coingecko

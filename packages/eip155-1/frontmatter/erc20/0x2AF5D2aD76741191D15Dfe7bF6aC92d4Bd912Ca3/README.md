@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x2AF5D2aD76741191D15Dfe7bF6aC92d4Bd912Ca3
   - name: facebook
     url: https://facebook.com/bitfinex1
-  - name: twitter
-    url: https://twitter.com/bitfinex
+  - name: x
+    url: https://x.com/bitfinex
   - name: telegram
     url: https://t.me/bfxtelegram
   - name: whitepaper

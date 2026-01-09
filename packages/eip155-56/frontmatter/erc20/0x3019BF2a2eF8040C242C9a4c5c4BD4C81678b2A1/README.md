@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x3019BF2a2eF8040C242C9a4c5c4BD4C81678b2A1
   - name: reddit
     url: https://reddit.com/r/StepN/
-  - name: twitter
-    url: https://twitter.com/Stepnofficial
+  - name: x
+    url: https://x.com/Stepnofficial
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/green-metaverse-token/
   - name: coingecko

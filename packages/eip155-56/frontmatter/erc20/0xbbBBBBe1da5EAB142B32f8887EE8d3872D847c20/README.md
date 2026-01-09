@@ -8,8 +8,8 @@ links:
     url: https://bitbonk.io/
   - name: explorer
     url: https://bscscan.com/token/0xbbbbbbe1da5eab142b32f8887ee8d3872d847c20
-  - name: twitter
-    url: https://twitter.com/BitBonk_inu
+  - name: x
+    url: https://x.com/BitBonk_inu
   - name: telegram
     url: https://t.me/BitBonk_inu
 ---

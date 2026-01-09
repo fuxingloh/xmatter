@@ -6,8 +6,8 @@ links:
     url: https://binamon.org
   - name: explorer
     url: https://bscscan.com/token/0x08ba0619b1e7A582E0BCe5BBE9843322C954C340
-  - name: twitter
-    url: https://twitter.com/binamonok
+  - name: x
+    url: https://x.com/binamonok
   - name: telegram
     url: https://t.me/binamon
 ---

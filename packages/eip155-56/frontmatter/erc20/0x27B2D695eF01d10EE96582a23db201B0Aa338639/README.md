@@ -8,8 +8,8 @@ links:
     url: https://www.gicindonesia.com/en
   - name: explorer
     url: https://bscscan.com/token/0x27B2D695eF01d10EE96582a23db201B0Aa338639
-  - name: twitter
-    url: https://twitter.com/gictradeio
+  - name: x
+    url: https://x.com/gictradeio
   - name: telegram
     url: https://t.me/GICTrade
   - name: medium

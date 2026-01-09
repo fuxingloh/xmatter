@@ -6,8 +6,8 @@ links:
     url: https://www.rwa-finance.com/#/
   - name: explorer
     url: https://arbiscan.io/token/0x1F2b426417663Ac76eB92149a037753a45969F31
-  - name: twitter
-    url: https://twitter.com/RWA_Finance_
+  - name: x
+    url: https://x.com/RWA_Finance_
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/rwa-finance/
 ---

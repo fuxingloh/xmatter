@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x3B78458981eB7260d1f781cb8be2CaAC7027DbE2
   - name: github
     url: https://github.com/launchzone
-  - name: twitter
-    url: https://twitter.com/launchzoneann
+  - name: x
+    url: https://x.com/launchzoneann
   - name: whitepaper
     url: https://docs.lz.finance
 ---

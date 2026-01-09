@@ -6,8 +6,8 @@ links:
     url: https://kittenwifhat.xyz/
   - name: explorer
     url: https://solscan.io/token/9a8AmDfQxFJ44RrVhKdiXnkwCWT99igWp5QrRuC73Pin
-  - name: twitter
-    url: https://twitter.com/KittenWif_SOL
+  - name: x
+    url: https://x.com/KittenWif_SOL
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/kittenwifhat/
 ---

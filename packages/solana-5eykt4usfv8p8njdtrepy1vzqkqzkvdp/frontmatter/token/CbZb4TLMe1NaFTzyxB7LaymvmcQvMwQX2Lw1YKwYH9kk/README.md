@@ -6,8 +6,8 @@ links:
     url: https://www.balinbank.com/
   - name: explorer
     url: https://solscan.io/token/CbZb4TLMe1NaFTzyxB7LaymvmcQvMwQX2Lw1YKwYH9kk
-  - name: twitter
-    url: https://twitter.com/BalinBank
+  - name: x
+    url: https://x.com/BalinBank
 ---
 
 # Balin Bank

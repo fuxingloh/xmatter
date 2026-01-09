@@ -6,8 +6,8 @@ links:
     url: https://ownix.com/
   - name: explorer
     url: https://etherscan.io/token/0xcF78C7dD70d6F30F6E3609e905e78305Da98c863
-  - name: twitter
-    url: https://twitter.com/Ownix_nft
+  - name: x
+    url: https://x.com/Ownix_nft
   - name: telegram
     url: https://t.me/ownixglobal
 ---

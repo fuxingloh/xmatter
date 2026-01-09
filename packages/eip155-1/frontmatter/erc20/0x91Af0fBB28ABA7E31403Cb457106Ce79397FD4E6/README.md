@@ -10,8 +10,8 @@ links:
     url: https://github.com/aergoio
   - name: telegram
     url: https://t.me/aergoannouncements
-  - name: twitter
-    url: https://twitter.com/AERGO_IO
+  - name: x
+    url: https://x.com/AERGO_IO
 ---
 
 # Aergo

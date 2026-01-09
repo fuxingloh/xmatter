@@ -9,8 +9,8 @@ links:
     url: https://minati.io/
   - name: explorer
     url: https://bscscan.com/token/0xe4e11e02AA14c7f24DB749421986EAEc1369e8C9
-  - name: twitter
-    url: https://twitter.com/minatifi
+  - name: x
+    url: https://x.com/minatifi
   - name: telegram
     url: https://t.me/Minatifi
   - name: facebook

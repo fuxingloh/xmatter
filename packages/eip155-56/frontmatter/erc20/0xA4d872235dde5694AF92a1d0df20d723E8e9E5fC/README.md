@@ -10,8 +10,8 @@ links:
     url: https://nimbusplatform.io
   - name: explorer
     url: https://bscscan.com/token/0xA4d872235dde5694AF92a1d0df20d723E8e9E5fC
-  - name: twitter
-    url: https://twitter.com/nmbplatform
+  - name: x
+    url: https://x.com/nmbplatform
   - name: telegram
     url: https://t.me/nmbplatform
   - name: youtube

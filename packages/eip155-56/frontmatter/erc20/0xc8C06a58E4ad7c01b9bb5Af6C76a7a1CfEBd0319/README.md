@@ -8,8 +8,8 @@ links:
     url: https://iclickinu.com/
   - name: explorer
     url: https://bscscan.com/token/0xc8C06a58E4ad7c01b9bb5Af6C76a7a1CfEBd0319
-  - name: twitter
-    url: https://twitter.com/iclickinu
+  - name: x
+    url: https://x.com/iclickinu
   - name: github
     url: https://github.com/iclickinu
   - name: telegram

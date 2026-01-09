@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x26E43759551333e57F073bb0772F50329A957b30
   - name: github
     url: https://github.com/degen-vc
-  - name: twitter
-    url: https://twitter.com/degen_vc
+  - name: x
+    url: https://x.com/degen_vc
   - name: whitepaper
     url: https://www.degen.vc
 ---

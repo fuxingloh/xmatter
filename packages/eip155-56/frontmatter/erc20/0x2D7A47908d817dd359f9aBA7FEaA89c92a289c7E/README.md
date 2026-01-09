@@ -12,8 +12,8 @@ links:
     url: https://github.com/LendaFinance
   - name: coingecko
     url: https://coingecko.com/en/coins/lenda
-  - name: twitter
-    url: https://twitter.com/LendaFinance
+  - name: x
+    url: https://x.com/LendaFinance
   - name: telegram
     url: https://t.me/lendafinance
   - name: facebook

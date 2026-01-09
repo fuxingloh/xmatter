@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x06b889a7a7fa15D8cC7CFf147962C4232cCE7CF0
   - name: telegram
     url: https://t.me/Saunafinance
-  - name: twitter
-    url: https://twitter.com/sauna_finance
+  - name: x
+    url: https://x.com/sauna_finance
   - name: blog
     url: https://sauna-finance.medium.com
 ---

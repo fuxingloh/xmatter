@@ -10,8 +10,8 @@ links:
     url: https://t.me/CryptoDropGG
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/cryptodrop/
-  - name: twitter
-    url: https://twitter.com/cryptodropgg
+  - name: x
+    url: https://x.com/cryptodropgg
 ---
 
 # CryptoDrop

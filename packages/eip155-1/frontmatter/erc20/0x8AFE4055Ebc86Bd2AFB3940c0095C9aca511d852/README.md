@@ -6,8 +6,8 @@ links:
     url: https://arbius.ai/
   - name: explorer
     url: https://etherscan.io/token/0x8afe4055ebc86bd2afb3940c0095c9aca511d852
-  - name: twitter
-    url: https://twitter.com/arbius_ai
+  - name: x
+    url: https://x.com/arbius_ai
   - name: telegram
     url: https://t.me/arbius_ai
 ---

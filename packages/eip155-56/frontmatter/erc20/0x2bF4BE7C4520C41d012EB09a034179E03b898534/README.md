@@ -8,8 +8,8 @@ links:
     url: https://asixplus.id
   - name: explorer
     url: https://bscscan.com/token/0x2bF4BE7C4520C41d012EB09a034179E03b898534
-  - name: twitter
-    url: https://twitter.com/asixplusNFT
+  - name: x
+    url: https://x.com/asixplusNFT
   - name: telegram
     url: https://t.me/asixplus
   - name: coingecko

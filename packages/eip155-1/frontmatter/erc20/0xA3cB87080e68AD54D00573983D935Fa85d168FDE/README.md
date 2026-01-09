@@ -6,8 +6,8 @@ links:
     url: https://ibit.infinitybit.io/
   - name: explorer
     url: https://etherscan.io/token/0xA3cB87080e68AD54D00573983D935Fa85d168FDE
-  - name: twitter
-    url: https://twitter.com/infinitybit_io
+  - name: x
+    url: https://x.com/infinitybit_io
   - name: telegram
     url: https://t.me/infinitybit_io
   - name: coinmarketcap

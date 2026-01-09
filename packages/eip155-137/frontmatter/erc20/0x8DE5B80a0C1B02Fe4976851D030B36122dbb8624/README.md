@@ -6,8 +6,8 @@ links:
     url: https://vanarchain.com/
   - name: explorer
     url: https://polygonscan.com/token/0x8DE5B80a0C1B02Fe4976851D030B36122dbb8624
-  - name: twitter
-    url: https://twitter.com/vanarchain
+  - name: x
+    url: https://x.com/vanarchain
   - name: telegram
     url: https://t.me/vanarchain
 ---

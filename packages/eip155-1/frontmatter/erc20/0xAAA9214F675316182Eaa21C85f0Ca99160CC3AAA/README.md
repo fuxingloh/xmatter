@@ -10,8 +10,8 @@ links:
     url: https://t.me/QANplatform
   - name: telegram_news
     url: https://t.me/QANplatform_ANN
-  - name: twitter
-    url: https://twitter.com/qanplatform
+  - name: x
+    url: https://x.com/qanplatform
   - name: discord
     url: https://discord.com/invite/bABaQeTPN7
   - name: reddit

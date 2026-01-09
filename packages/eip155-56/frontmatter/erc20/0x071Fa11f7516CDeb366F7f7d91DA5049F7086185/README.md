@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x071Fa11f7516CDeb366F7f7d91DA5049F7086185
   - name: telegram
     url: https://t.me/rocketboys0fficial
-  - name: twitter
-    url: https://twitter.com/rocketboysbsc
+  - name: x
+    url: https://x.com/rocketboysbsc
   - name: reddit
     url: https://reddit.com/r/rocketboysofficial
   - name: whitepaper

@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xCb5f72d37685C3D5aD0bB5F982443BC8FcdF570E
   - name: github
     url: https://github.com/RootkitFinance
-  - name: twitter
-    url: https://twitter.com/rootkitfinance
+  - name: x
+    url: https://x.com/rootkitfinance
   - name: telegram
     url: https://t.me/rootkitfinanceann
   - name: medium

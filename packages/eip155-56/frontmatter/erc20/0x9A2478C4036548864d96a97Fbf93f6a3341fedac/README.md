@@ -8,8 +8,8 @@ links:
     url: https://www.zillionxo.io/
   - name: explorer
     url: https://bscscan.com/token/0x9A2478C4036548864d96a97Fbf93f6a3341fedac
-  - name: twitter
-    url: https://twitter.com/ZillionXO
+  - name: x
+    url: https://x.com/ZillionXO
   - name: facebook
     url: https://facebook.com/people/Zillion-Aakar-XO/100083067863940/
   - name: coinmarketcap

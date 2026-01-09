@@ -8,8 +8,8 @@ links:
     url: https://www.diviner.io
   - name: explorer
     url: https://bscscan.com/token/0xBf38A8b9cf02223b44f823e15f45219E9978b491
-  - name: twitter
-    url: https://twitter.com/DivinerFi
+  - name: x
+    url: https://x.com/DivinerFi
   - name: telegram
     url: https://t.me/Diviner_Games
   - name: docs

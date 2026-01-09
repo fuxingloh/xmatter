@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x5788105375ecf7f675c29e822fd85fcd84d4cd86
   - name: telegram
     url: https://t.me/hodlinvestorgroup
-  - name: twitter
-    url: https://twitter.com/TokenHodl
+  - name: x
+    url: https://x.com/TokenHodl
   - name: coingecko
     url: https://coingecko.com/en/coins/hodl-2
 ---

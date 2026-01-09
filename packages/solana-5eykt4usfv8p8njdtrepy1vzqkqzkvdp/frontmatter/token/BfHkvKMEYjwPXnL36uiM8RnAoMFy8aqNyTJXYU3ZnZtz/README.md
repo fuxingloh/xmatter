@@ -6,8 +6,8 @@ links:
     url: https://bento.me/ansom
   - name: explorer
     url: https://solscan.io/token/BfHkvKMEYjwPXnL36uiM8RnAoMFy8aqNyTJXYU3ZnZtz
-  - name: twitter
-    url: https://twitter.com/tickerisansom
+  - name: x
+    url: https://x.com/tickerisansom
 ---
 
 # ansom

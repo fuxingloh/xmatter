@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/864YJRb3JAVARC4FNuDtPKFxdEsYRbB39Nwxkzudxy46
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/habibi-cat/
-  - name: twitter
-    url: https://twitter.com/habibixyz_sol
+  - name: x
+    url: https://x.com/habibixyz_sol
 ---
 
 # HABIBICAT

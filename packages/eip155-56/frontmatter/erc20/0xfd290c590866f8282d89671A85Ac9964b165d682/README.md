@@ -6,8 +6,8 @@ links:
     url: http://subme.cash
   - name: explorer
     url: https://bscscan.com/token/0xfd290c590866f8282d89671A85Ac9964b165d682
-  - name: twitter
-    url: https://twitter.com/Subme_app
+  - name: x
+    url: https://x.com/Subme_app
   - name: telegram
     url: https://t.me/subme_cash
   - name: coingecko

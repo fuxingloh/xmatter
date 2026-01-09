@@ -6,8 +6,8 @@ links:
     url: https://marsinu.com/
   - name: explorer
     url: https://bscscan.com/token/0x9910f48EF7bd0291bC050CF900D732C24b39Ec31
-  - name: twitter
-    url: https://twitter.com/MarsInuBsc
+  - name: x
+    url: https://x.com/MarsInuBsc
   - name: telegram
     url: https://t.me/MarsInuBsc
   - name: telegram_news

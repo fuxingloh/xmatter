@@ -6,8 +6,8 @@ links:
     url: https://www.lido.fi/
   - name: explorer
     url: https://etherscan.io/token/0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0
-  - name: twitter
-    url: https://twitter.com/lidofinance
+  - name: x
+    url: https://x.com/lidofinance
   - name: telegram
     url: https://t.me/lidofinance
 ---

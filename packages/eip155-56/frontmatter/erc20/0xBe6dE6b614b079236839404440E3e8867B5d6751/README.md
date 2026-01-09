@@ -6,8 +6,8 @@ links:
     url: https://wolverineofficial.com/
   - name: explorer
     url: https://bscscan.com/token/0xBe6dE6b614b079236839404440E3e8867B5d6751
-  - name: twitter
-    url: https://twitter.com/WolverineBSC
+  - name: x
+    url: https://x.com/WolverineBSC
   - name: telegram
     url: https://t.me/wolverinebsc
   - name: github

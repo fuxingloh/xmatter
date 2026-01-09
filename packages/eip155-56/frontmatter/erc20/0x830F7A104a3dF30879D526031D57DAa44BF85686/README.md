@@ -6,8 +6,8 @@ links:
     url: https://ibnb.finance/
   - name: explorer
     url: https://bscscan.com/token/0x830F7A104a3dF30879D526031D57DAa44BF85686
-  - name: twitter
-    url: https://twitter.com/ibnbfinance
+  - name: x
+    url: https://x.com/ibnbfinance
   - name: telegram
     url: https://t.me/IBNBFinance
   - name: whitepaper

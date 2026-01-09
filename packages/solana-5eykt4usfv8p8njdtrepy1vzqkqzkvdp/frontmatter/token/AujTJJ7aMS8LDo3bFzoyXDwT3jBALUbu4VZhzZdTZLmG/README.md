@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/AujTJJ7aMS8LDo3bFzoyXDwT3jBALUbu4VZhzZdTZLmG
   - name: telegram
     url: https://t.me/beercoinchannel
-  - name: twitter
-    url: https://twitter.com/beercoinmeme
+  - name: x
+    url: https://x.com/beercoinmeme
 ---
 
 # BEER

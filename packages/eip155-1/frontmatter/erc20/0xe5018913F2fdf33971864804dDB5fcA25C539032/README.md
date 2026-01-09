@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xe5018913f2fdf33971864804ddb5fca25c539032
   - name: coingecko
     url: https://coingecko.com/en/coins/openlm-revshare-token
-  - name: twitter
-    url: https://twitter.com/OraProtocol
+  - name: x
+    url: https://x.com/OraProtocol
 ---
 
 # OpenLM RevShare

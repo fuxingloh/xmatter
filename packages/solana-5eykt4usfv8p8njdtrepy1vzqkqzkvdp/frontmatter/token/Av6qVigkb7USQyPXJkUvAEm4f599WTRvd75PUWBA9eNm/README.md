@@ -6,8 +6,8 @@ links:
     url: https://costcodogsol.xyz
   - name: explorer
     url: https://solscan.io/token/Av6qVigkb7USQyPXJkUvAEm4f599WTRvd75PUWBA9eNm
-  - name: twitter
-    url: https://twitter.com/costcodogsol
+  - name: x
+    url: https://x.com/costcodogsol
 ---
 
 # Costco Hot Dog

@@ -6,8 +6,8 @@ links:
     url: https://duckdao.io
   - name: explorer
     url: https://etherscan.io/token/0xfbeea1c75e4c4465cb2fccc9c6d6afe984558e20
-  - name: twitter
-    url: https://twitter.com/dao_duck
+  - name: x
+    url: https://x.com/dao_duck
   - name: telegram
     url: https://t.me/duckdaolobby
   - name: medium

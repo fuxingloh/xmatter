@@ -8,8 +8,8 @@ links:
     url: https://centrifuge.io/
   - name: explorer
     url: https://etherscan.io/token/0xc221b7e65ffc80de234bbb6667abdd46593d34f0
-  - name: twitter
-    url: https://twitter.com/centrifuge
+  - name: x
+    url: https://x.com/centrifuge
   - name: github
     url: https://github.com/centrifuge
   - name: coinmarketcap

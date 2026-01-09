@@ -6,8 +6,8 @@ links:
     url: https://streamr.network
   - name: explorer
     url: https://bscscan.com/token/0x0864c156b3C5F69824564dEC60c629aE6401bf2a
-  - name: twitter
-    url: https://twitter.com/streamr
+  - name: x
+    url: https://x.com/streamr
   - name: github
     url: https://github.com/streamr-dev
   - name: whitepaper

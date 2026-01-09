@@ -8,8 +8,8 @@ links:
     url: https://galaxyheroes.com
   - name: explorer
     url: https://bscscan.com/token/0xd10Fe9d371C22416df34340287cd5D9029842Fc3
-  - name: twitter
-    url: https://twitter.com/GalaxyHeroesGHC
+  - name: x
+    url: https://x.com/GalaxyHeroesGHC
   - name: coingecko
     url: https://coingecko.com/en/coins/galaxy-heroes-coin
   - name: github

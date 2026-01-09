@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x12Da2f2761038486271C99DA7e0FB4413e2B5E38
   - name: github
     url: https://github.com/NFTBlackMarket
-  - name: twitter
-    url: https://twitter.com/NFT_BlackMarket
+  - name: x
+    url: https://x.com/NFT_BlackMarket
   - name: reddit
     url: https://reddit.com/r/NFT_BlackMarket
   - name: telegram

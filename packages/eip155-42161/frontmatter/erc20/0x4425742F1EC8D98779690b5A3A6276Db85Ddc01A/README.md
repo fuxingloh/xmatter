@@ -6,8 +6,8 @@ links:
     url: https://doge.pleasr.org/
   - name: explorer
     url: https://arbiscan.io/token/0x4425742F1EC8D98779690b5A3A6276Db85Ddc01A
-  - name: twitter
-    url: https://twitter.com/ownthedoge
+  - name: x
+    url: https://x.com/ownthedoge
   - name: telegram
     url: https://t.me/ownthedoge
   - name: coinmarketcap

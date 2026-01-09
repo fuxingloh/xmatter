@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x4da08a1bff50be96bded5c7019227164b49c2bfc
   - name: github
     url: https://github.com/MononokeInu
-  - name: twitter
-    url: https://twitter.com/Mononoke_Inu
+  - name: x
+    url: https://x.com/Mononoke_Inu
   - name: reddit
     url: https://reddit.com/r/mononoke_inu
   - name: telegram

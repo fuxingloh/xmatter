@@ -6,8 +6,8 @@ links:
     url: https://metaraca.io
   - name: explorer
     url: https://bscscan.com/token/0x63eC19c2983bfB0D43232aa9C792Fe6F27F63361
-  - name: twitter
-    url: https://twitter.com/metaracaNFT
+  - name: x
+    url: https://x.com/metaracaNFT
   - name: telegram
     url: https://t.me/metaracaio
 ---

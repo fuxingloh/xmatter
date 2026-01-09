@@ -6,8 +6,8 @@ links:
     url: https://flokirocket.finance/
   - name: explorer
     url: https://bscscan.com/token/0x1476e96FAdb37668d7680921297e2ab98Ec36c2F
-  - name: twitter
-    url: https://twitter.com/rlokirocket
+  - name: x
+    url: https://x.com/rlokirocket
   - name: telegram
     url: https://t.me/floki_rocket_official
   - name: facebook

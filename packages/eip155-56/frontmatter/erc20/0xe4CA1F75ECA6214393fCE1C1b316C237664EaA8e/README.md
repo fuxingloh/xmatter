@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xe4ca1f75eca6214393fce1c1b316c237664eaa8e
   - name: github
     url: https://github.com/orionprotocol
-  - name: twitter
-    url: https://twitter.com/orion_protocol
+  - name: x
+    url: https://x.com/orion_protocol
   - name: telegram
     url: https://t.me/orionprotocol
   - name: medium

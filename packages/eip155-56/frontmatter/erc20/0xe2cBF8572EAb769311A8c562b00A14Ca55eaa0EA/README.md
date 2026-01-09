@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xe2cBF8572EAb769311A8c562b00A14Ca55eaa0EA
   - name: telegram
     url: https://t.me/shibanomics
-  - name: twitter
-    url: https://twitter.com/shibanomicsbsc
+  - name: x
+    url: https://x.com/shibanomicsbsc
 ---
 
 # SHIBANOMICS

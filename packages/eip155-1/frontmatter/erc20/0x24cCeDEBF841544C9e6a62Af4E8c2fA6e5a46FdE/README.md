@@ -8,8 +8,8 @@ links:
     url: http://bluesparrowtoken.com
   - name: explorer
     url: https://etherscan.io/token/0x24cCeDEBF841544C9e6a62Af4E8c2fA6e5a46FdE
-  - name: twitter
-    url: https://twitter.com/BlueSparrowETH
+  - name: x
+    url: https://x.com/BlueSparrowETH
   - name: telegram
     url: https://t.me/BlueSparrowOfficial
   - name: coinmarketcap

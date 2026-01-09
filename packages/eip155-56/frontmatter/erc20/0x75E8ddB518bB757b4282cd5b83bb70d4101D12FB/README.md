@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x75e8ddb518bb757b4282cd5b83bb70d4101d12fb
   - name: telegram
     url: https://t.me/nfprompt
-  - name: twitter
-    url: https://twitter.com/nfprompt
+  - name: x
+    url: https://x.com/nfprompt
 ---
 
 # NFPrompt

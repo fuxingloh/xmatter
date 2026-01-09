@@ -9,8 +9,8 @@ links:
     url: https://bobabrewery.com/
   - name: explorer
     url: https://bscscan.com/token/0x9eBBEB7f6b842377714EAdD987CaA4510205107A
-  - name: twitter
-    url: https://twitter.com/boba_brewery
+  - name: x
+    url: https://x.com/boba_brewery
   - name: github
     url: https://github.com/BobaBrewery
   - name: telegram

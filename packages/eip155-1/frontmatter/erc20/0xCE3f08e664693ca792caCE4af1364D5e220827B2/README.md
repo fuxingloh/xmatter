@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0xCE3f08e664693ca792caCE4af1364D5e220827B2
   - name: whitepaper
     url: https://saitamatoken.com/SAITAMA_INU_WHITEPAPER_V1.pdf
-  - name: twitter
-    url: https://twitter.com/WeAreSaitama
+  - name: x
+    url: https://x.com/WeAreSaitama
   - name: telegram
     url: https://t.me/SaitamaWorldwide
   - name: discord

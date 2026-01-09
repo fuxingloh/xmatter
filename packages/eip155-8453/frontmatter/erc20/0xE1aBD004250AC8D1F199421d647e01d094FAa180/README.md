@@ -6,8 +6,8 @@ links:
     url: https://roost.wtf
   - name: explorer
     url: https://basescan.org/token/0xe1abd004250ac8d1f199421d647e01d094faa180
-  - name: twitter
-    url: https://twitter.com/RoostCoin
+  - name: x
+    url: https://x.com/RoostCoin
 ---
 
 # Roost Coin

@@ -8,8 +8,8 @@ links:
     url: https://frzss.com/
   - name: explorer
     url: https://bscscan.com/token/0xac41fb8013c0b63588fc63997785a5d79e73eb28
-  - name: twitter
-    url: https://twitter.com/frztoken?t=50fc06_SxNW9rpEaR8-1cQ&s=09
+  - name: x
+    url: https://x.com/frztoken?t=50fc06_SxNW9rpEaR8-1cQ&s=09
   - name: telegram
     url: https://t.me/frzsstoken
   - name: coinmarketcap

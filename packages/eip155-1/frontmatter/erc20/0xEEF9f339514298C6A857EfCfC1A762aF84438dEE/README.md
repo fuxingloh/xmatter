@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xEEF9f339514298C6A857EfCfC1A762aF84438dEE
   - name: github
     url: https://github.com/hermeznetwork
-  - name: twitter
-    url: https://twitter.com/hermez_network
+  - name: x
+    url: https://x.com/hermez_network
   - name: telegram
     url: https://t.me/hermez_network
 ---

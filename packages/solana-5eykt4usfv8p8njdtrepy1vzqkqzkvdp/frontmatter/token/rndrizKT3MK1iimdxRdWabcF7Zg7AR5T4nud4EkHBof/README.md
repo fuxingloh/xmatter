@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof
   - name: telegram
     url: https://t.me/rendernetwork
-  - name: twitter
-    url: https://twitter.com/rendernetwork
+  - name: x
+    url: https://x.com/rendernetwork
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/render/
 ---

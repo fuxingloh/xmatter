@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xe702c303173f90094ce8c9c6ca3f198eca0e027c
   - name: github
     url: https://github.com/LonelyFans/LonelyFans/
-  - name: twitter
-    url: https://twitter.com/LOFcrypto
+  - name: x
+    url: https://x.com/LOFcrypto
   - name: telegram
     url: https://t.me/LOFcrypto
   - name: reddit
