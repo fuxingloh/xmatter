@@ -11,7 +11,7 @@
     "**/*.js"
   ],
   "scripts": {
-    "build": "tsc --project tsconfig.build.json",
+    "build": "tsc",
     "clean": "tsc --build --clean",
     "lint": "eslint .",
     "test": "vitest run"
@@ -29,8 +29,7 @@
     "clipanion": "3.2.1"
   },
   "devDependencies": {
-    "@crypto-frontmatter/eip155-1": "workspace:*",
-    "@workspace/tsconfig": "workspace:*"
+    "@crypto-frontmatter/eip155-1": "workspace:*"
   },
   "peerDependencies": {
     "@crypto-frontmatter/bip122-000000000019d6689c085ae165831e93": "workspace:*",

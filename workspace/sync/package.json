@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "tsc --project tsconfig.build.json",
+    "build": "tsc",
     "clean": "rm -rf dist",
     "lint": "eslint .",
     "sync": "node dist/bin.js",
@@ -23,8 +23,5 @@
     "clipanion": "3.2.1",
     "ethers": "^6.13.0",
     "yaml": "^2.4.5"
-  },
-  "devDependencies": {
-    "@workspace/tsconfig": "workspace:*"
   }
 }

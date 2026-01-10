@@ -1,3 +1,13 @@
 {
-  "extends": "@workspace/tsconfig"
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "include": ["src"],
+  "exclude": ["**/*.test.ts"],
+  "compilerOptions": {
+    "strict": true,
+    "module": "nodenext",
+    "target": "esnext",
+    "skipLibCheck": true,
+    "declaration": true,
+    "outDir": "dist"
+  }
 }

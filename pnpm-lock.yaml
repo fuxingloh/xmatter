@@ -144,9 +144,6 @@ importers:
       '@crypto-frontmatter/eip155-1':
         specifier: workspace:*
         version: link:../eip155-1
-      '@workspace/tsconfig':
-        specifier: workspace:*
-        version: link:../../workspace/tsconfig
 
   packages/eip155-1:
     devDependencies:
@@ -484,12 +481,6 @@ importers:
       yaml:
         specifier: ^2.4.5
         version: 2.8.2
-    devDependencies:
-      '@workspace/tsconfig':
-        specifier: workspace:*
-        version: link:../tsconfig
-
-  workspace/tsconfig: {}
 
 packages:
 
