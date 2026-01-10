@@ -62,13 +62,12 @@
     "next": "16.1.1",
     "react": "19.2.3",
     "react-dom": "19.2.3",
-    "sharp": "^0.34.5",
-    "shiki": "^0.14.7"
+    "sharp": "^0.34.5"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.18",
     "@types/react": "19.2.8",
-    "autoprefixer": "^10.4.23",
+    "eslint": "^9.39.2",
     "eslint-config-next": "16.1.1",
     "tailwindcss": "^4.1.18"
   }
