@@ -20,4 +20,4 @@ links:
 
 # SMD Coin
 
-SMD COIN is the world’s first integrated platform, providing Coins Staking, Yield Farming and Self-Holding. SMD COIN provides customers with decentralized farming services, personalized financial solutions, and a variety of interest models and earning opportunities.
+SMD COIN is the world’s first integrated platform, providing Coins Staking, Yield Farming and Self-Holding. SMD COIN provides customers with decentralized farming services, personalized financial solutions, and a variety of interest models and earning opportunities. 
