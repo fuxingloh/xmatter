@@ -1,6 +1,4 @@
-import "./ContentedProse.css";
-
-import clsx from "clsx";
+import { clsx } from "clsx";
 import { Parser, ProcessNodeDefinitions } from "html-to-react";
 import Link from "next/link";
 import { ReactElement } from "react";

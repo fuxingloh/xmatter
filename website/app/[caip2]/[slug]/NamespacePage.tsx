@@ -20,7 +20,7 @@ export async function generateMetadata(caip2: string, namespace: string): Promis
   };
 }
 
-export async function Page(props: { caip2: string; namespace: string }): Promise<ReactElement> {
+export async function Page(props: { caip2: string; namespace: string }) {
   const index = await getIndex(props.caip2, props.namespace);
   if (index === undefined) {
     return notFound();
@@ -32,14 +32,14 @@ export async function Page(props: { caip2: string; namespace: string }): Promise
         <table
           className={clsx(
             "min-w-full",
-            "whitespace-nowrap text-left lg:whitespace-normal",
+            "text-left whitespace-nowrap lg:whitespace-normal",
             "[&_tr_:is(th,td)]:font-normal",
             "[&_tr_:is(th,td)]:px-2 [&_tr_:is(th,td)]:py-2.5",
-            "divide-y divide-mono-900",
-            "[&_tbody]:divide-y [&_tbody]:divide-mono-900",
+            "divide-mono-100 divide-y",
+            "[&_tbody]:divide-mono-100 [&_tbody]:divide-y",
           )}
         >
-          <thead className="text-sm text-mono-600">
+          <thead className="text-mono-500 text-sm">
             <tr>
               <th>CAIP19</th>
               <th>SYMBOL</th>
@@ -50,7 +50,7 @@ export async function Page(props: { caip2: string; namespace: string }): Promise
 
           <tbody>
             {index.map((item) => (
-              <tr key={item.path} className="text-mono-200 hover:bg-mono-950">
+              <tr key={item.path} className="hover:bg-mono-50">
                 <td>
                   <Link href={`/${item.path}`} className="-my-2.5 block py-2.5">
                     {item.path}

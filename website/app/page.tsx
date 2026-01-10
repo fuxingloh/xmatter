@@ -1,9 +1,8 @@
 import { clsx } from "clsx";
 import { getInstalledNamespaces } from "crypto-frontmatter";
 import Link from "next/link";
-import type { ReactElement } from "react";
 
-export default async function Page(): Promise<ReactElement> {
+export default async function Page() {
   const namespaces = await getInstalledNamespaces();
   return (
     <main>
@@ -11,14 +10,14 @@ export default async function Page(): Promise<ReactElement> {
         <table
           className={clsx(
             "min-w-full",
-            "whitespace-nowrap text-left lg:whitespace-normal",
+            "text-left whitespace-nowrap lg:whitespace-normal",
             "[&_tr_:is(th,td)]:font-normal",
             "[&_tr_:is(th,td)]:px-2 [&_tr_:is(th,td)]:py-2.5",
-            "divide-y divide-mono-900",
-            "[&_tbody]:divide-y [&_tbody]:divide-mono-900",
+            "divide-mono-100 divide-y",
+            "[&_tbody]:divide-mono-100 [&_tbody]:divide-y",
           )}
         >
-          <thead className="text-sm text-mono-600">
+          <thead className="text-mono-500 text-sm">
             <tr>
               <th>CAIP2/NAMESPACE</th>
               <th>NPM PACKAGE NAME</th>
@@ -27,7 +26,7 @@ export default async function Page(): Promise<ReactElement> {
 
           <tbody>
             {namespaces.map((item) => (
-              <tr key={`${item.caip2}/${item.namespace}`} className="text-mono-200 hover:bg-mono-950">
+              <tr key={`${item.caip2}/${item.namespace}`} className="hover:bg-mono-50">
                 <td>
                   <Link href={`/${item.caip2}/${item.namespace}`} className="-my-2.5 block py-2.5">
                     {item.caip2}/{item.namespace}

@@ -5,7 +5,6 @@
   "scripts": {
     "build": "tsc",
     "clean": "rm -rf dist",
-    "lint": "eslint .",
     "sync": "node dist/bin.js",
     "test": "vitest run"
   },

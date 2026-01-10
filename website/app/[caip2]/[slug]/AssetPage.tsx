@@ -2,10 +2,7 @@ import { FrontmatterContent, getFileId } from "crypto-frontmatter";
 import { Metadata } from "next";
 import Image from "next/image";
 import { notFound } from "next/navigation";
-import { ReactElement } from "react";
-
 import { ContentedProse } from "@/components/contented/ContentedProse";
-import { renderHighlighterHtml } from "@/components/contented/ShikiHighlighter";
 
 async function fetchFrontmatter(caip19: string): Promise<FrontmatterContent> {
   const fileId = getFileId(caip19);
@@ -35,12 +32,12 @@ export async function generateMetadata(caip19: string): Promise<Metadata> {
   };
 }
 
-export async function Page(props: { caip19: string }): Promise<ReactElement> {
+export async function Page(props: { caip19: string }) {
   const frontmatter = await fetchFrontmatter(props.caip19);
   const image = frontmatter.fields.images?.find((image) => image.type === "icon");
 
   return (
-    <main className="flex h-full min-w-0 flex-grow flex-col">
+    <main className="flex h-full min-w-0 grow flex-col">
       <div className="flex-auto pb-48">
         {image !== undefined && (
           <div className="mb-6 h-12 w-12">
@@ -55,8 +52,8 @@ export async function Page(props: { caip19: string }): Promise<ReactElement> {
 
         <ContentedProse html={frontmatter.html} />
 
-        <div className="group/json mt-8 rounded border border-mono-800">
-          <header className="relative flex items-center justify-between rounded-t border-b bg-mono-950 px-4 py-2 text-sm text-mono-500">
+        <div className="group/json border-mono-200 mt-8 rounded border">
+          <header className="border-mono-200 bg-mono-50 text-mono-500 relative flex items-center justify-between rounded-t border-b px-4 py-2 text-sm">
             <div>frontmatter.json</div>
             <div>
               <button>
@@ -67,16 +64,12 @@ export async function Page(props: { caip19: string }): Promise<ReactElement> {
             </div>
           </header>
 
-          <div
+          <pre
             tabIndex={1}
             className="prose max-h-40 overflow-hidden px-4 py-3 text-sm group-focus-within/json:max-h-full group-focus-within/json:overflow-x-auto"
-            dangerouslySetInnerHTML={{
-              __html: await renderHighlighterHtml({
-                code: JSON.stringify(frontmatter, null, 2),
-                language: "json",
-              }),
-            }}
-          />
+          >
+            <>{JSON.stringify(frontmatter, null, 2)}</>
+          </pre>
         </div>
       </div>
     </main>

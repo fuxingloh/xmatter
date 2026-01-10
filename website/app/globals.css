@@ -1,87 +1,30 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
 
-.--tokens-dark {
-  color-scheme: dark;
-  --invert-percent: 0%;
-  --color-invert: 255 255 255;
-
-  --color-mono-50: 250 250 250;
-  --color-mono-100: 245 245 245;
-  --color-mono-200: 229 229 229;
-  --color-mono-300: 212 212 212;
-  --color-mono-400: 163 163 163;
-  --color-mono-500: 115 115 115;
-  --color-mono-600: 82 82 82;
-  --color-mono-700: 64 64 64;
-  --color-mono-800: 38 38 38;
-  --color-mono-900: 23 23 23;
-  --color-mono-950: 10 10 10;
-
-  --shiki-color-text: #c9d1d9;
-  --shiki-color-background: rgba(10, 10, 10, 0.1);
-  --shiki-token-constant: #79c0ff;
-  --shiki-token-string: #79c0ff;
-  --shiki-token-comment: #8b949e;
-  --shiki-token-keyword: #ff7b72;
-  --shiki-token-parameter: #e1e4e8;
-  --shiki-token-function: #d2a8ff;
-  --shiki-token-string-expression: #a5d6ff;
-  --shiki-token-punctuation: #c9d1d9;
-  --shiki-token-link: #c9d1d9;
-}
-
-.--tokens-light {
-  color-scheme: light;
-  --invert-percent: 100%;
-  --color-invert: 0 0 0;
-
-  --color-mono-50: 10 10 10;
-  --color-mono-100: 23 23 23;
-  --color-mono-200: 38 38 38;
-  --color-mono-300: 64 64 64;
-  --color-mono-400: 82 82 82;
-  --color-mono-500: 115 115 115;
-  --color-mono-600: 163 163 163;
-  --color-mono-700: 212 212 212;
-  --color-mono-800: 229 229 229;
-  --color-mono-900: 245 245 245;
-  --color-mono-950: 250 250 250;
-
-  --shiki-color-text: #24292f;
-  --shiki-color-background: rgba(250, 250, 250, 0.1);
-  --shiki-token-constant: #0550ae;
-  --shiki-token-string: #0550ae;
-  --shiki-token-comment: #6e7781;
-  --shiki-token-keyword: #cf222e;
-  --shiki-token-parameter: #24292e;
-  --shiki-token-function: #8250df;
-  --shiki-token-string-expression: #0a3069;
-  --shiki-token-punctuation: #24292f;
-  --shiki-token-link: #24292f;
+@theme {
+  --color-mono-50: light-dark(rgb(250 250 250), rgb(10 10 10));
+  --color-mono-100: light-dark(rgb(245 245 245), rgb(23 23 23));
+  --color-mono-200: light-dark(rgb(229 229 229), rgb(38 38 38));
+  --color-mono-300: light-dark(rgb(212 212 212), rgb(64 64 64));
+  --color-mono-400: light-dark(rgb(163 163 163), rgb(82 82 82));
+  --color-mono-500: rgb(115 115 115);
+  --color-mono-600: light-dark(rgb(82 82 82), rgb(163 163 163));
+  --color-mono-700: light-dark(rgb(64 64 64), rgb(212 212 212));
+  --color-mono-800: light-dark(rgb(38 38 38), rgb(229 229 229));
+  --color-mono-900: light-dark(rgb(23 23 23), rgb(245 245 245));
+  --color-mono-950: light-dark(rgb(10 10 10), rgb(250 250 250));
 }
 
 @layer base {
-  /* Default to Dark */
   :root {
-    @apply --tokens-dark;
+    color-scheme: light dark;
   }
 
-  /* System override */
-  @media (prefers-color-scheme: light) {
-    :root {
-      @apply --tokens-light;
-    }
-  }
-
-  /* Explicit Toggle Override: Light */
+  /* Manual Overrides */
   html[data-theme="light"] {
-    @apply --tokens-light;
+    color-scheme: light;
   }
 
-  /* Explicit Toggle Override: Dark */
   html[data-theme="dark"] {
-    @apply --tokens-dark;
+    color-scheme: dark;
   }
 }

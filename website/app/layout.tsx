@@ -23,16 +23,16 @@ export default function RootLayout(props: { children: ReactNode }): ReactElement
       <head>
         <ThemeScript />
       </head>
-      <body className="mx-auto w-full max-w-screen-lg px-4 text-mono-300 sm:px-6 lg:px-8 xl:px-10">
+      <body className="text-mono-950 mx-auto w-full max-w-5xl px-4 sm:px-6 lg:px-8 xl:px-10">
         <NavigationIndicator />
         <header className="flex items-center justify-between py-6">
           <ActiveLink
             href="/"
             mode="exact"
-            className="-mx-3 -my-1 rounded px-3 py-1 hover:bg-invert/5"
+            className="hover:bg-invert/5 -mx-3 -my-1 rounded px-3 py-1"
             activeClassName="!cursor-default hover:!bg-transparent"
           >
-            <div className="text-lg font-bold text-mono-200">xMatter</div>
+            <div className="text-lg font-bold">xMatter</div>
           </ActiveLink>
         </header>
         {props.children}

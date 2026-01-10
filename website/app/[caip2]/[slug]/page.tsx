@@ -1,12 +1,11 @@
 import { decodeCaip19, getInstalledNamespaces } from "crypto-frontmatter";
 import { Metadata } from "next";
 import { notFound } from "next/navigation";
-import type { ReactElement } from "react";
 
 import * as AssetPage from "@/app/[caip2]/[slug]/AssetPage";
 import * as NamespacePage from "@/app/[caip2]/[slug]/NamespacePage";
 
-export async function generateStaticParams(): Promise<Parameters<typeof Page>[0]["params"][]> {
+export async function generateStaticParams() {
   const namespaces = await getInstalledNamespaces();
   return namespaces.map((namespace) => {
     return {
@@ -17,7 +16,7 @@ export async function generateStaticParams(): Promise<Parameters<typeof Page>[0]
 }
 
 export async function generateMetadata(props: Parameters<typeof Page>[0]): Promise<Metadata> {
-  const path = `${decodeURIComponent(props.params.caip2)}/${decodeURIComponent(props.params.slug)}`;
+  const path = `${decodeURIComponent((await props.params).caip2)}/${decodeURIComponent((await props.params).slug)}`;
   const [caip2, namespace, reference] = decodeCaip19(path);
 
   if (caip2 && namespace && reference) {
@@ -32,18 +31,18 @@ export async function generateMetadata(props: Parameters<typeof Page>[0]): Promi
 }
 
 export default async function Page(props: {
-  params: {
+  params: Promise<{
     caip2: string;
     slug: string;
-  };
-}): Promise<ReactElement> {
-  if (props.params.caip2.startsWith("_")) {
+  }>;
+}) {
+  if ((await props.params).caip2.startsWith("_")) {
     // This route conflicts with public/_crypto-frontmatter static assets.
     // This is an early termination to avoid unnecessary processing.
     return notFound();
   }
 
-  const path = `${decodeURIComponent(props.params.caip2)}/${decodeURIComponent(props.params.slug)}`;
+  const path = `${decodeURIComponent((await props.params).caip2)}/${decodeURIComponent((await props.params).slug)}`;
   const [caip2, namespace, reference] = decodeCaip19(path);
 
   if (caip2 && namespace && reference) {
