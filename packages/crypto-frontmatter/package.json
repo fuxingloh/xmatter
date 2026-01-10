@@ -14,7 +14,7 @@
     "build": "tsc --project tsconfig.build.json",
     "clean": "tsc --build --clean",
     "lint": "eslint .",
-    "test": "jest"
+    "test": "vitest run"
   },
   "lint-staged": {
     "*": [
@@ -25,15 +25,11 @@
       "prettier --write"
     ]
   },
-  "jest": {
-    "preset": "@workspace/jest-preset"
-  },
   "dependencies": {
     "clipanion": "3.2.1"
   },
   "devDependencies": {
     "@crypto-frontmatter/eip155-1": "workspace:*",
-    "@workspace/jest-preset": "workspace:*",
     "@workspace/tsconfig": "workspace:*"
   },
   "peerDependencies": {
