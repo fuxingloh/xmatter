@@ -2,7 +2,7 @@
   "name": "@workspace/contented-config",
   "private": true,
   "type": "module",
-  "main": "./index.mjs",
+  "main": "index.mjs",
   "scripts": {
     "build": ""
   },

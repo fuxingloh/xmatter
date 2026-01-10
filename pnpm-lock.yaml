@@ -49,7 +49,7 @@ importers:
         version: 8.0.1(typanion@3.14.0)
       '@workspace/contented-config':
         specifier: workspace:*
-        version: link:../../workspace/contented-config
+        version: link:../contented-config
 
   packages/bip122-000000000933ea01ad0ee984209779ba:
     devDependencies:
@@ -58,7 +58,7 @@ importers:
         version: 8.0.1(typanion@3.14.0)
       '@workspace/contented-config':
         specifier: workspace:*
-        version: link:../../workspace/contented-config
+        version: link:../contented-config
 
   packages/bip122-034ac8c88a1a9b846750768c1ad6f295:
     devDependencies:
@@ -67,7 +67,7 @@ importers:
         version: 8.0.1(typanion@3.14.0)
       '@workspace/contented-config':
         specifier: workspace:*
-        version: link:../../workspace/contented-config
+        version: link:../contented-config
 
   packages/bip122-279b1a87aedc7b9471d4ad4e5f12967a:
     devDependencies:
@@ -76,7 +76,19 @@ importers:
         version: 8.0.1(typanion@3.14.0)
       '@workspace/contented-config':
         specifier: workspace:*
-        version: link:../../workspace/contented-config
+        version: link:../contented-config
+
+  packages/contented-config:
+    dependencies:
+      '@contentedjs/contented':
+        specifier: ^8.0.1
+        version: 8.0.1(typanion@3.14.0)
+      '@contentedjs/contented-pipeline-md':
+        specifier: ^8.0.1
+        version: 8.0.1
+      image-size:
+        specifier: ^1.1.1
+        version: 1.2.1
 
   packages/crypto-frontmatter:
     dependencies:
@@ -152,7 +164,7 @@ importers:
         version: 8.0.1(typanion@3.14.0)
       '@workspace/contented-config':
         specifier: workspace:*
-        version: link:../../workspace/contented-config
+        version: link:../contented-config
 
   packages/eip155-10:
     devDependencies:
@@ -161,7 +173,7 @@ importers:
         version: 8.0.1(typanion@3.14.0)
       '@workspace/contented-config':
         specifier: workspace:*
-        version: link:../../workspace/contented-config
+        version: link:../contented-config
 
   packages/eip155-11155111:
     devDependencies:
@@ -170,7 +182,7 @@ importers:
         version: 8.0.1(typanion@3.14.0)
       '@workspace/contented-config':
         specifier: workspace:*
-        version: link:../../workspace/contented-config
+        version: link:../contented-config
 
   packages/eip155-1130:
     devDependencies:
@@ -179,7 +191,7 @@ importers:
         version: 8.0.1(typanion@3.14.0)
       '@workspace/contented-config':
         specifier: workspace:*
-        version: link:../../workspace/contented-config
+        version: link:../contented-config
 
   packages/eip155-1313161554:
     devDependencies:
@@ -188,7 +200,7 @@ importers:
         version: 8.0.1(typanion@3.14.0)
       '@workspace/contented-config':
         specifier: workspace:*
-        version: link:../../workspace/contented-config
+        version: link:../contented-config
 
   packages/eip155-137:
     devDependencies:
@@ -197,7 +209,7 @@ importers:
         version: 8.0.1(typanion@3.14.0)
       '@workspace/contented-config':
         specifier: workspace:*
-        version: link:../../workspace/contented-config
+        version: link:../contented-config
 
   packages/eip155-42161:
     devDependencies:
@@ -206,7 +218,7 @@ importers:
         version: 8.0.1(typanion@3.14.0)
       '@workspace/contented-config':
         specifier: workspace:*
-        version: link:../../workspace/contented-config
+        version: link:../contented-config
 
   packages/eip155-42220:
     devDependencies:
@@ -215,7 +227,7 @@ importers:
         version: 8.0.1(typanion@3.14.0)
       '@workspace/contented-config':
         specifier: workspace:*
-        version: link:../../workspace/contented-config
+        version: link:../contented-config
 
   packages/eip155-43114:
     devDependencies:
@@ -224,7 +236,7 @@ importers:
         version: 8.0.1(typanion@3.14.0)
       '@workspace/contented-config':
         specifier: workspace:*
-        version: link:../../workspace/contented-config
+        version: link:../contented-config
 
   packages/eip155-5:
     devDependencies:
@@ -233,7 +245,7 @@ importers:
         version: 8.0.1(typanion@3.14.0)
       '@workspace/contented-config':
         specifier: workspace:*
-        version: link:../../workspace/contented-config
+        version: link:../contented-config
 
   packages/eip155-56:
     devDependencies:
@@ -242,7 +254,7 @@ importers:
         version: 8.0.1(typanion@3.14.0)
       '@workspace/contented-config':
         specifier: workspace:*
-        version: link:../../workspace/contented-config
+        version: link:../contented-config
 
   packages/eip155-80001:
     devDependencies:
@@ -251,7 +263,7 @@ importers:
         version: 8.0.1(typanion@3.14.0)
       '@workspace/contented-config':
         specifier: workspace:*
-        version: link:../../workspace/contented-config
+        version: link:../contented-config
 
   packages/eip155-8453:
     devDependencies:
@@ -260,7 +272,7 @@ importers:
         version: 8.0.1(typanion@3.14.0)
       '@workspace/contented-config':
         specifier: workspace:*
-        version: link:../../workspace/contented-config
+        version: link:../contented-config
 
   packages/solana-5eykt4usfv8p8njdtrepy1vzqkqzkvdp:
     devDependencies:
@@ -269,7 +281,22 @@ importers:
         version: 8.0.1(typanion@3.14.0)
       '@workspace/contented-config':
         specifier: workspace:*
-        version: link:../../workspace/contented-config
+        version: link:../contented-config
+
+  packages/sync:
+    dependencies:
+      ajv:
+        specifier: ^8.16.0
+        version: 8.17.1
+      clipanion:
+        specifier: 3.2.1
+        version: 3.2.1(typanion@3.14.0)
+      ethers:
+        specifier: ^6.13.0
+        version: 6.16.0
+      yaml:
+        specifier: ^2.4.5
+        version: 2.8.2
 
   packages/tip474-2494104990:
     devDependencies:
@@ -278,7 +305,7 @@ importers:
         version: 8.0.1(typanion@3.14.0)
       '@workspace/contented-config':
         specifier: workspace:*
-        version: link:../../workspace/contented-config
+        version: link:../contented-config
 
   packages/tip474-728126428:
     devDependencies:
@@ -287,7 +314,7 @@ importers:
         version: 8.0.1(typanion@3.14.0)
       '@workspace/contented-config':
         specifier: workspace:*
-        version: link:../../workspace/contented-config
+        version: link:../contented-config
 
   website:
     dependencies:
@@ -403,33 +430,6 @@ importers:
       tailwindcss:
         specifier: ^4.1.18
         version: 4.1.18
-
-  workspace/contented-config:
-    dependencies:
-      '@contentedjs/contented':
-        specifier: ^8.0.1
-        version: 8.0.1(typanion@3.14.0)
-      '@contentedjs/contented-pipeline-md':
-        specifier: ^8.0.1
-        version: 8.0.1
-      image-size:
-        specifier: ^1.1.1
-        version: 1.2.1
-
-  workspace/sync:
-    dependencies:
-      ajv:
-        specifier: ^8.16.0
-        version: 8.17.1
-      clipanion:
-        specifier: 3.2.1
-        version: 3.2.1(typanion@3.14.0)
-      ethers:
-        specifier: ^6.13.0
-        version: 6.16.0
-      yaml:
-        specifier: ^2.4.5
-        version: 2.8.2
 
 packages:
 
