@@ -352,10 +352,10 @@ importers:
         specifier: workspace:*
         version: link:../packages/tip474-728126428
       '@heroicons/react':
-        specifier: ^2.1.4
+        specifier: ^2.2.0
         version: 2.2.0(react@18.3.1)
       '@vercel/analytics':
-        specifier: ^1.3.1
+        specifier: ^1.6.1
         version: 1.6.1(next@14.2.35(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)
       clsx:
         specifier: ^2.1.1
@@ -364,7 +364,7 @@ importers:
         specifier: workspace:*
         version: link:../packages/crypto-frontmatter
       dayjs:
-        specifier: ^1.11.11
+        specifier: ^1.11.19
         version: 1.11.19
       framer-motion:
         specifier: 11.2.10
@@ -389,10 +389,10 @@ importers:
         version: 0.14.7
     devDependencies:
       '@tailwindcss/forms':
-        specifier: ^0.5.7
+        specifier: ^0.5.11
         version: 0.5.11(tailwindcss@3.4.19(yaml@2.8.2))
       '@tailwindcss/typography':
-        specifier: ^0.5.13
+        specifier: ^0.5.19
         version: 0.5.19(tailwindcss@3.4.19(yaml@2.8.2))
       '@types/react':
         specifier: 18.2.69
