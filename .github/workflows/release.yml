@@ -32,7 +32,7 @@ jobs:
     name: Release NPM
     runs-on: ubuntu-latest
     needs: version
-    environment: NPM Crypto Frontmatter
+    environment: NPM
     permissions:
       contents: read
       id-token: write

@@ -27,7 +27,7 @@ export async function generateMetadata(caip19: string): Promise<Metadata> {
       title: title,
       description: frontmatter.fields.description,
       url: `${process.env.BASE_URL}/${frontmatter.path}`,
-      siteName: `Crypto Frontmatter`,
+      siteName: `xMatter`,
       locale: 'en_US',
       type: 'article',
       modifiedTime: new Date(frontmatter.modifiedDate).toISOString(),

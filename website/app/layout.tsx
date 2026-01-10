@@ -32,7 +32,7 @@ export default function RootLayout(props: { children: ReactNode }): ReactElement
             className="hover:bg-invert/5 -mx-3 -my-1 rounded px-3 py-1"
             activeClassName="!cursor-default hover:!bg-transparent"
           >
-            <div className="text-mono-200 text-lg font-bold">Crypto Frontmatter</div>
+            <div className="text-mono-200 text-lg font-bold">xMatter</div>
           </ActiveLink>
         </header>
         {props.children}

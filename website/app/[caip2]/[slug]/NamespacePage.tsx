@@ -13,7 +13,7 @@ export async function generateMetadata(caip2: string, namespace: string): Promis
     openGraph: {
       title: title,
       url: `${process.env.BASE_URL}/${caip2}/${namespace}`,
-      siteName: `Crypto Frontmatter`,
+      siteName: `xMatter`,
       locale: 'en_US',
       type: 'article',
     },
