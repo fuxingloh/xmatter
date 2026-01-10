@@ -30,7 +30,7 @@ jobs:
           - trustwallet/assets
           - ethereum-optimism/ethereum-optimism.github.io
     steps:
-      - uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4.1.7
+      - uses: actions/checkout@v6
 
       - uses: actions/setup-node@60edb5dd545a775178f52524783378180af0d1f8 # v4.0.2
         with:
@@ -43,7 +43,7 @@ jobs:
       - run: pnpm turbo run build
         working-directory: workspace/sync
 
-      - uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4.1.7
+      - uses: actions/checkout@v6
         with:
           # PLEASE be aware that this is a security risk when you allow untrusted repositories to be checked out.
           # While `pnpm run sync` is executed such that we're only reading files which pose no security risk,
