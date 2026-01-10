@@ -6,8 +6,8 @@ links:
     url: https://thugs.fi/
   - name: explorer
     url: https://bscscan.com/token/0xE10e9822A5de22F8761919310DDA35CD997d63c0
-  - name: twitter
-    url: https://twitter.com/ThugsFinance
+  - name: x
+    url: https://x.com/ThugsFinance
   - name: telegram
     url: https://t.me/thugsfinance
   - name: discord

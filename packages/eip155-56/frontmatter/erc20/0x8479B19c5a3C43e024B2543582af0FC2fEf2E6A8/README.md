@@ -8,8 +8,8 @@ links:
     url: https://trumpmaga.dev
   - name: explorer
     url: https://bscscan.com/token/0x8479B19c5a3C43e024B2543582af0FC2fEf2E6A8
-  - name: twitter
-    url: https://twitter.com/maga_bnb
+  - name: x
+    url: https://x.com/maga_bnb
   - name: github
     url: https://github.com/trumpmagadev
   - name: telegram

@@ -9,8 +9,8 @@ links:
     url: https://bullbtc.club/
   - name: explorer
     url: https://bscscan.com/token/0x37e5da11b6A4DC6d2f7Abe232cDd30B0B8Fc63B1
-  - name: twitter
-    url: https://twitter.com/BULLBTCCLUBNFT
+  - name: x
+    url: https://x.com/BULLBTCCLUBNFT
   - name: github
     url: https://github.com/bullbtcclub
   - name: telegram

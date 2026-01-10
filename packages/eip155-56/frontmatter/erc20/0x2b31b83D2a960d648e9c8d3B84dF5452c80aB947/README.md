@@ -6,8 +6,8 @@ links:
     url: https://smdcoin.com
   - name: explorer
     url: https://bscscan.com/token/0x2b31b83D2a960d648e9c8d3B84dF5452c80aB947
-  - name: twitter
-    url: https://twitter.com/smdcoinofficial
+  - name: x
+    url: https://x.com/smdcoinofficial
   - name: whitepaper
     url: https://smdcoin.com/css/whitepaper/SMDwhitepaper.pdf
   - name: telegram

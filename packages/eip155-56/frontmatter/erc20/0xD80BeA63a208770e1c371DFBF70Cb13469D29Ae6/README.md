@@ -6,8 +6,8 @@ links:
     url: https://cryptoagrocash.com
   - name: explorer
     url: https://bscscan.com/token/0xD80BeA63a208770e1c371DFBF70Cb13469D29Ae6
-  - name: twitter
-    url: https://twitter.com/cryptoagrocash
+  - name: x
+    url: https://x.com/cryptoagrocash
   - name: whitepaper
     url: https://drive.google.com/file/d/1AJrTNeY29JZWV-JNAkrSXDW1qCYetg9M/view
   - name: coingecko

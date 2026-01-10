@@ -6,8 +6,8 @@ links:
     url: https://btci.finance
   - name: explorer
     url: https://bscscan.com/token/0x79f8E9862c5240F316faBf31e5406e497d65484d
-  - name: twitter
-    url: https://twitter.com/btc_btci
+  - name: x
+    url: https://x.com/btc_btci
   - name: telegram
     url: https://t.me/btc_btci
   - name: youtube

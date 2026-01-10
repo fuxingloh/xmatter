@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x80d55c03180349fff4a229102f62328220a96444
   - name: telegram
     url: https://t.me/opulousapp
-  - name: twitter
-    url: https://twitter.com/opulousapp
+  - name: x
+    url: https://x.com/opulousapp
 ---
 
 # Opulous

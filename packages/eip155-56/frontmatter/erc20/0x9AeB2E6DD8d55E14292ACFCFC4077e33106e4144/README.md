@@ -8,8 +8,8 @@ links:
     url: http://www.memecoins.finance/
   - name: explorer
     url: https://bscscan.com/token/0x9aeb2e6dd8d55e14292acfcfc4077e33106e4144
-  - name: twitter
-    url: https://twitter.com/payu_coin
+  - name: x
+    url: https://x.com/payu_coin
   - name: telegram
     url: https://t.me/payu_coin
   - name: coinmarketcap

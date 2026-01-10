@@ -8,8 +8,8 @@ links:
     url: https://muratiai.com/
   - name: explorer
     url: https://bscscan.com/token/0x69C2fcAe7e30b429166BD616A322e32BeC036bCf
-  - name: twitter
-    url: https://twitter.com/MuratiAI
+  - name: x
+    url: https://x.com/MuratiAI
   - name: telegram
     url: https://t.me/muratiAI
   - name: coinmarketcap

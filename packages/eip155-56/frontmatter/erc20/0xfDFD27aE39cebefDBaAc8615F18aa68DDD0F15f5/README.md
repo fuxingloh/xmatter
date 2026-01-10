@@ -6,8 +6,8 @@ links:
     url: https://www.giftedhands.io
   - name: explorer
     url: https://bscscan.com/token/0xfDFD27aE39cebefDBaAc8615F18aa68DDD0F15f5
-  - name: twitter
-    url: https://twitter.com/giftedhandsGHD
+  - name: x
+    url: https://x.com/giftedhandsGHD
   - name: telegram
     url: https://t.me/GiftedHandsTokenChannel
   - name: youtube

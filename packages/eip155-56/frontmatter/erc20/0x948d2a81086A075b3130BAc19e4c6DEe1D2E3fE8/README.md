@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x948d2a81086a075b3130bac19e4c6dee1d2e3fe8
   - name: github
     url: https://github.com/helmet-insure/helmet-insure.github.io
-  - name: twitter
-    url: https://twitter.com/Helmet_insure
+  - name: x
+    url: https://x.com/Helmet_insure
   - name: telegram
     url: https://t.me/helmet_insure
   - name: discord

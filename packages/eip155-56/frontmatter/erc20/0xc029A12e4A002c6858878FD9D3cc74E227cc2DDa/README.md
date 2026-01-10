@@ -6,8 +6,8 @@ links:
     url: https://velorex.net/
   - name: explorer
     url: https://bscscan.com/token/0xc029A12e4A002c6858878FD9D3cc74E227cc2DDa
-  - name: twitter
-    url: https://twitter.com/VelorexOfficial
+  - name: x
+    url: https://x.com/VelorexOfficial
   - name: telegram
     url: https://t.me/velorex_net
   - name: telegram_news

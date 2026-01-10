@@ -8,8 +8,8 @@ links:
     url: https://bitcoin69.org
   - name: explorer
     url: https://bscscan.com/token/0x5Afa2959C98b030716f7C0a4D85e0b0E35F3791B
-  - name: twitter
-    url: https://twitter.com/bitcoin69_bsc
+  - name: x
+    url: https://x.com/bitcoin69_bsc
   - name: github
     url: https://github.com/ElonXAIDogeMessi69PepeInu
   - name: telegram

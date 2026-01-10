@@ -10,8 +10,8 @@ links:
     url: https://hodltoken.net/about-hodlx
   - name: explorer
     url: https://bscscan.com/token/0xAeBdbcc7d6821E3924EE5167b4138a43c19Cf681
-  - name: twitter
-    url: https://twitter.com/OFFICIAL_HODLX
+  - name: x
+    url: https://x.com/OFFICIAL_HODLX
   - name: telegram
     url: https://t.me/hodlinvestorgroup
   - name: facebook

@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xbededDf2eF49E87037c4fb2cA34d1FF3D3992A11
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/fegtoken-v2/
-  - name: twitter
-    url: https://twitter.com/FEGtoken
+  - name: x
+    url: https://x.com/FEGtoken
   - name: telegram
     url: https://t.me/FEGchat
   - name: coingecko

@@ -12,8 +12,8 @@ links:
     url: https://bscscan.com/token/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3
   - name: blog
     url: https://medium.com/@MakerDAO
-  - name: twitter
-    url: https://twitter.com/MakerDAO
+  - name: x
+    url: https://x.com/MakerDAO
   - name: reddit
     url: https://reddit.com/r/MakerDAO/
   - name: whitepaper

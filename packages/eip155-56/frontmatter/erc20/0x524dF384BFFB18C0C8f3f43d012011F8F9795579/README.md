@@ -6,8 +6,8 @@ links:
     url: https://www.yay.games/
   - name: explorer
     url: https://bscscan.com/token/0x524dF384BFFB18C0C8f3f43d012011F8F9795579
-  - name: twitter
-    url: https://twitter.com/yayprotocol/
+  - name: x
+    url: https://x.com/yayprotocol/
   - name: medium
     url: https://yay-games.medium.com/
   - name: telegram

@@ -6,8 +6,8 @@ links:
     url: https://orica.io/
   - name: explorer
     url: https://bscscan.com/token/0x3045d1A840364c3657b8Df6c6F86a4359c23472B
-  - name: twitter
-    url: https://twitter.com/orica_io
+  - name: x
+    url: https://x.com/orica_io
   - name: telegram
     url: https://t.me/OricaChat
   - name: discord

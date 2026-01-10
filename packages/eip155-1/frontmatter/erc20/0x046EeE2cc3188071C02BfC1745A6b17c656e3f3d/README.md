@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x046eee2cc3188071c02bfc1745a6b17c656e3f3d
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/rollbit-coin/
-  - name: twitter
-    url: https://twitter.com/rollbitcom
+  - name: x
+    url: https://x.com/rollbitcom
   - name: coingecko
     url: https://coingecko.com/en/coins/rollbit-coin/
 ---

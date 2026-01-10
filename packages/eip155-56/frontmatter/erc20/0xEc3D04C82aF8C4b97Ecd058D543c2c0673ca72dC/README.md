@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xEc3D04C82aF8C4b97Ecd058D543c2c0673ca72dC
   - name: telegram
     url: https://t.me/BabyDogeMoneyMaker
-  - name: twitter
-    url: https://twitter.com/BabyDMoneyMaker
+  - name: x
+    url: https://x.com/BabyDMoneyMaker
   - name: reddit
     url: https://reddit.com/r/BabyDogeMoneyMaker/
   - name: facebook

@@ -6,8 +6,8 @@ links:
     url: https://piratecoin.games/
   - name: explorer
     url: https://bscscan.com/token/0x041640ea980e3fe61e9c4ca26d9007bc70094c15
-  - name: twitter
-    url: https://twitter.com/piratecoingames
+  - name: x
+    url: https://x.com/piratecoingames
   - name: telegram
     url: https://t.me/PirateCoinGamesOfficial
 ---

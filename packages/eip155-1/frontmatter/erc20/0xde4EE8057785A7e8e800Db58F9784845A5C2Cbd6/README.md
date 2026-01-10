@@ -11,8 +11,8 @@ links:
     url: https://etherscan.io/token/0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6
   - name: github
     url: https://github.com/dexe-network/DeXe-Protocol
-  - name: twitter
-    url: https://twitter.com/DexeNetwork
+  - name: x
+    url: https://x.com/DexeNetwork
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/dexe/
   - name: coingecko

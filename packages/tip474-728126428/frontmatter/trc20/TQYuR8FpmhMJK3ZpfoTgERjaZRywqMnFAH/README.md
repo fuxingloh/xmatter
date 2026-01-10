@@ -8,8 +8,8 @@ links:
     url: https://paynetcoin.com
   - name: explorer
     url: https://tronscan.io/#/token20/TQYuR8FpmhMJK3ZpfoTgERjaZRywqMnFAH
-  - name: twitter
-    url: https://twitter.com/paynetcoin
+  - name: x
+    url: https://x.com/paynetcoin
   - name: coinmarketcap
     url: https://coinmarketcap.com/ru/currencies/paynet-coin/
   - name: telegram

@@ -11,8 +11,8 @@ links:
     url: https://www.badidea.ai
   - name: explorer
     url: https://etherscan.io/token/0x32b86b99441480a7e5bd3a26c124ec2373e3f015
-  - name: twitter
-    url: https://twitter.com/badideaai
+  - name: x
+    url: https://x.com/badideaai
   - name: source_code
     url: https://gitlab.com/badideacoin/badideai/-/blob/main/Badideai
   - name: discord

@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x808507121b80c02388fad14726482e061b8da827
   - name: github
     url: https://github.com/pendle-finance
-  - name: twitter
-    url: https://twitter.com/pendle_fi
+  - name: x
+    url: https://x.com/pendle_fi
   - name: docs
     url: https://docs.pendle.finance/
   - name: coingecko

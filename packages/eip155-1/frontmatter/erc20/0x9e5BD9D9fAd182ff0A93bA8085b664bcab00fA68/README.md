@@ -12,8 +12,8 @@ links:
     url: https://coinmarketcap.com/currencies/dinger-token/
   - name: coingecko
     url: https://coingecko.com/en/coins/dinger-token
-  - name: twitter
-    url: https://twitter.com/dingertoken
+  - name: x
+    url: https://x.com/dingertoken
   - name: reddit
     url: https://reddit.com/r/schrodinger/
   - name: telegram

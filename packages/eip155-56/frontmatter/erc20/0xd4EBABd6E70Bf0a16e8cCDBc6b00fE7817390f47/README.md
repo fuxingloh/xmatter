@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xd4EBABd6E70Bf0a16e8cCDBc6b00fE7817390f47
   - name: telegram
     url: https://t.me/MarsSpaceXofficial
-  - name: twitter
-    url: https://twitter.com/MarsSpaceX_
+  - name: x
+    url: https://x.com/MarsSpaceX_
   - name: coinmarketcap
     url: https://coinmarketcap.com/ru/currencies/mars-space-x/
 ---

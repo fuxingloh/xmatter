@@ -6,8 +6,8 @@ links:
     url: https://sleepysloth.finance/
   - name: explorer
     url: https://bscscan.com/token/0x86432b9beA373172C852D5bbAB1c275FeC3f15aE
-  - name: twitter
-    url: https://twitter.com/SleepySlothBsc
+  - name: x
+    url: https://x.com/SleepySlothBsc
   - name: telegram
     url: https://t.me/sleepyslothfinance
   - name: reddit

@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0xc944E90C64B2c07662A292be6244BDf05Cda44a7
   - name: github
     url: https://github.com/graphprotocol/graph-node
-  - name: twitter
-    url: https://twitter.com/graphprotocol
+  - name: x
+    url: https://x.com/graphprotocol
   - name: reddit
     url: https://reddit.com/r/thegraph
   - name: telegram

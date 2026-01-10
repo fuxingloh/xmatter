@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x71E80e96Af604Afc23Ca2AED4C1C7466DB6dd0c4
   - name: telegram
     url: https://t.me/thebabyfloki
-  - name: twitter
-    url: https://twitter.com/thebabyfloki
+  - name: x
+    url: https://x.com/thebabyfloki
   - name: reddit
     url: https://reddit.com/r/TheBabyFloki/
   - name: whitepaper

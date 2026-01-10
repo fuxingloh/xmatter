@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x88888888Fc33e4ECba8958c0c2AD361089E19885
   - name: github
     url: https://github.com/birbdev
-  - name: twitter
-    url: https://twitter.com/BirbDefi
+  - name: x
+    url: https://x.com/BirbDefi
   - name: telegram
     url: https://t.me/birbdefi
   - name: coingecko

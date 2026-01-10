@@ -8,8 +8,8 @@ links:
     url: https://superrare.com/
   - name: explorer
     url: https://etherscan.io/token/0xba5BDe662c17e2aDFF1075610382B9B691296350
-  - name: twitter
-    url: https://twitter.com/SuperRare
+  - name: x
+    url: https://x.com/SuperRare
   - name: coingecko
     url: https://coingecko.com/en/coins/superrare/
   - name: coinmarketcap

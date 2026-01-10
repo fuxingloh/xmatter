@@ -8,8 +8,8 @@ links:
     url: https://paputoken.com
   - name: explorer
     url: https://bscscan.com/token/0x91dba2CD05c8A0227B48c3e426077145d23B21df
-  - name: twitter
-    url: https://twitter.com/PapuTokenCom
+  - name: x
+    url: https://x.com/PapuTokenCom
   - name: telegram
     url: https://t.me/PapuToken
   - name: telegram_news

@@ -6,8 +6,8 @@ links:
     url: https://tron.network/
   - name: explorer
     url: https://bscscan.com/token/0xce7de646e7208a4ef112cb6ed5038fa6cc6b12e3
-  - name: twitter
-    url: https://twitter.com/Tronfoundation
+  - name: x
+    url: https://x.com/Tronfoundation
   - name: telegram
     url: https://t.me/tronnetworkEN
   - name: whitepaper

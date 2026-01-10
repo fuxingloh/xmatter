@@ -6,8 +6,8 @@ links:
     url: https://yetubit.com/
   - name: explorer
     url: https://bscscan.com/token/0x6652048fa5e66ed63a0225ffd7c82e106b0aa18b
-  - name: twitter
-    url: https://twitter.com/yetuswap
+  - name: x
+    url: https://x.com/yetuswap
   - name: telegram
     url: https://t.me/joinchat/WCgfoG3TKk0FVYsf
   - name: facebook

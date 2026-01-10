@@ -31,8 +31,8 @@ links:
     url: https://t.me/pantherprotocol
   - name: telegram_news
     url: https://t.me/pantherprotocolann
-  - name: twitter
-    url: https://twitter.com/ZkPanther
+  - name: x
+    url: https://x.com/ZkPanther
   - name: whitepaper
     url: https://pantherprotocol.io/resources/panther-protocol-v-1-0-1.pdf
   - name: youtube

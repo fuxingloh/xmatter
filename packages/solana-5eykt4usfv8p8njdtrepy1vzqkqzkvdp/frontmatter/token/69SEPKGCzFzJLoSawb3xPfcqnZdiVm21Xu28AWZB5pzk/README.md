@@ -6,8 +6,8 @@ links:
     url: https://jizzlordcoin.com/
   - name: explorer
     url: https://solscan.io/token/69SEPKGCzFzJLoSawb3xPfcqnZdiVm21Xu28AWZB5pzk
-  - name: twitter
-    url: https://twitter.com/jizzlordcoin
+  - name: x
+    url: https://x.com/jizzlordcoin
 ---
 
 # JizzLord

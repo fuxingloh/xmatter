@@ -8,8 +8,8 @@ links:
     url: https://magamemecoin.com/
   - name: explorer
     url: https://etherscan.io/token/0x6aA56e1D98b3805921C170EB4B3fe7D4Fda6D89b
-  - name: twitter
-    url: https://twitter.com/MAGAMemecoin
+  - name: x
+    url: https://x.com/MAGAMemecoin
   - name: telegram
     url: https://t.me/MAGAMemecoin
   - name: coinmarketcap

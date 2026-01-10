@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x5D07eDAbA2151a3C6802B28636eCC23082398EdB
   - name: facebook
     url: https://facebook.com/zunacoin
-  - name: twitter
-    url: https://twitter.com/zunacoin
+  - name: x
+    url: https://x.com/zunacoin
   - name: youtube
     url: https://youtube.com/zunacoin
   - name: telegram_news

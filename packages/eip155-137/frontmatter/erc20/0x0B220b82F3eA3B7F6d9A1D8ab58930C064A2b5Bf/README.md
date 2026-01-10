@@ -6,8 +6,8 @@ links:
     url: https://golem.network
   - name: explorer
     url: https://polygonscan.com/token/0x0B220b82F3eA3B7F6d9A1D8ab58930C064A2b5Bf
-  - name: twitter
-    url: https://twitter.com/golemproject
+  - name: x
+    url: https://x.com/golemproject
   - name: github
     url: https://github.com/golemfactory/golem
   - name: coinmarketcap

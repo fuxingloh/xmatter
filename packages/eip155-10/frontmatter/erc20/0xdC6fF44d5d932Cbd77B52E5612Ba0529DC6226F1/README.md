@@ -6,8 +6,8 @@ links:
     url: https://worldcoin.org/
   - name: explorer
     url: https://optimistic.etherscan.io/token/0xdc6ff44d5d932cbd77b52e5612ba0529dc6226f1
-  - name: twitter
-    url: https://twitter.com/worldcoin
+  - name: x
+    url: https://x.com/worldcoin
   - name: telegram
     url: https://t.me/worldcoin
   - name: coinmarketcap

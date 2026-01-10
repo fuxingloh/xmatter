@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x6468e79A80C0eaB0F9A2B574c8d5bC374Af59414
   - name: github
     url: https://github.com/radixdlt
-  - name: twitter
-    url: https://twitter.com/Radix
+  - name: x
+    url: https://x.com/Radix
   - name: telegram
     url: https://t.me/RadixAnnouncements
   - name: discord

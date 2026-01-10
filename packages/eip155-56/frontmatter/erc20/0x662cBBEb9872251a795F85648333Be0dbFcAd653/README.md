@@ -6,8 +6,8 @@ links:
     url: https://defisportscoin.com/
   - name: explorer
     url: https://bscscan.com/token/0x662cBBEb9872251a795F85648333Be0dbFcAd653
-  - name: twitter
-    url: https://twitter.com/DefiSportsCoin
+  - name: x
+    url: https://x.com/DefiSportsCoin
   - name: github
     url: https://github.com/DefiSportsCoin
   - name: discord

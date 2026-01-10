@@ -8,8 +8,8 @@ links:
     url: https://shinatoken.com
   - name: explorer
     url: https://etherscan.io/token/0x243cACb4D5fF6814AD668C3e225246efA886AD5a
-  - name: twitter
-    url: https://twitter.com/ShinaToken
+  - name: x
+    url: https://x.com/ShinaToken
   - name: telegram
     url: https://t.me/shinatokenportal
   - name: coinmarketcap

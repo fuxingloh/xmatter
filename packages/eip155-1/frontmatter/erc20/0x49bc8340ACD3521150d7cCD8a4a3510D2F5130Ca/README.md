@@ -8,8 +8,8 @@ links:
     url: https://ukan.io
   - name: explorer
     url: https://etherscan.io/token/0x49bc8340ACD3521150d7cCD8a4a3510D2F5130Ca
-  - name: twitter
-    url: https://twitter.com/Ukantoken
+  - name: x
+    url: https://x.com/Ukantoken
   - name: github
     url: https://github.com/Ukangit
   - name: telegram

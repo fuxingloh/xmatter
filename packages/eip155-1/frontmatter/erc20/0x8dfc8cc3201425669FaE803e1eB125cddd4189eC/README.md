@@ -8,8 +8,8 @@ links:
     url: https://okageinu.com/
   - name: explorer
     url: https://etherscan.io/token/0x8dfc8cc3201425669fae803e1eb125cddd4189ec
-  - name: twitter
-    url: https://twitter.com/okageerc
+  - name: x
+    url: https://x.com/okageerc
   - name: telegram
     url: https://t.me/OkageInu
 ---

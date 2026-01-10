@@ -6,8 +6,8 @@ links:
     url: https://www.babyflokidoge.info
   - name: explorer
     url: https://bscscan.com/token/0xe24F6Bc7635501d5684a963f7e75C8062b9c0eA4
-  - name: twitter
-    url: https://twitter.com/BabyFlokiDoge/
+  - name: x
+    url: https://x.com/BabyFlokiDoge/
   - name: telegram
     url: https://t.me/babyflokidogecoin
 ---

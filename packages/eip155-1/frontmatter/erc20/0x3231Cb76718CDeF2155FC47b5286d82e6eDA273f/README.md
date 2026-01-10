@@ -6,8 +6,8 @@ links:
     url: https://monerium.com
   - name: explorer
     url: https://etherscan.io/token/0x3231Cb76718CDeF2155FC47b5286d82e6eDA273f
-  - name: twitter
-    url: https://twitter.com/monerium
+  - name: x
+    url: https://x.com/monerium
   - name: telegram
     url: https://t.me/+o89F3aj9PsUzMDQ0
   - name: coinmarketcap

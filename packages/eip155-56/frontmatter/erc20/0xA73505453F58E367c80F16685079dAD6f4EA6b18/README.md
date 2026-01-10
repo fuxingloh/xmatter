@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xA73505453F58E367c80F16685079dAD6f4EA6b18
   - name: telegram
     url: https://t.me/UndermineGOLDchina
-  - name: twitter
-    url: https://twitter.com/UnderMineGold
+  - name: x
+    url: https://x.com/UnderMineGold
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/underinegold
   - name: coingecko

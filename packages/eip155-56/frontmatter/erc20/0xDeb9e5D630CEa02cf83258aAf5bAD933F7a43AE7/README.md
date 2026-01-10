@@ -6,8 +6,8 @@ links:
     url: https://babybitcoin.app
   - name: explorer
     url: https://bscscan.com/token/0xdeb9e5d630cea02cf83258aaf5bad933f7a43ae7
-  - name: twitter
-    url: https://twitter.com/BabyBITC_bsc
+  - name: x
+    url: https://x.com/BabyBITC_bsc
   - name: github
     url: https://github.com/BabyBitcoinOfficial
   - name: coinmarketcap

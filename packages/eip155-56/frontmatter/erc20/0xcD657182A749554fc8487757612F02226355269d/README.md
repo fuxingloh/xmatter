@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xcD657182A749554fc8487757612F02226355269d
   - name: github
     url: https://github.com/MuskSwap
-  - name: twitter
-    url: https://twitter.com/MUSKSWAPCHANNEL
+  - name: x
+    url: https://x.com/MUSKSWAPCHANNEL
   - name: medium
     url: https://medium.com/@muskswap-official
   - name: coinmarketcap

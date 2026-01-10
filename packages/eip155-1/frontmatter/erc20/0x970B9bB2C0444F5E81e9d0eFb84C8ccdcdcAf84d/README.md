@@ -16,8 +16,8 @@ links:
     url: https://docs.fuse.io/
   - name: github
     url: https://github.com/fuseio
-  - name: twitter
-    url: https://twitter.com/Fuse_network
+  - name: x
+    url: https://x.com/Fuse_network
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/fuse-network/
 ---

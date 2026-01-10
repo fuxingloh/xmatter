@@ -8,8 +8,8 @@ links:
     url: https://dogedi.com
   - name: explorer
     url: https://bscscan.com/token/0xDc49d53330317cBc6924fA53042e0C9bCa0A8d63
-  - name: twitter
-    url: https://twitter.com/DogediToken
+  - name: x
+    url: https://x.com/DogediToken
   - name: telegram
     url: https://t.me/dogeditokenofficial
   - name: coinmarketcap

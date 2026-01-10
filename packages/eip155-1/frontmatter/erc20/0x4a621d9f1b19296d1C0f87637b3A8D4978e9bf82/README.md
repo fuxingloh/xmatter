@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x4a621d9f1b19296d1C0f87637b3A8D4978e9bf82
   - name: github
     url: https://github.com/CyberFM/
-  - name: twitter
-    url: https://twitter.com/CyberFM
+  - name: x
+    url: https://x.com/CyberFM
   - name: telegram
     url: https://t.me/mftudotnet
   - name: facebook

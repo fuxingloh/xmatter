@@ -8,8 +8,8 @@ links:
     url: https://xai.codes
   - name: explorer
     url: https://bscscan.com/token/0xD16EaabA33a0822f5cBe4E0C63CA51D3c3fbB08B
-  - name: twitter
-    url: https://twitter.com/xai_codes
+  - name: x
+    url: https://x.com/xai_codes
   - name: github
     url: https://github.com/xaicodes
   - name: telegram

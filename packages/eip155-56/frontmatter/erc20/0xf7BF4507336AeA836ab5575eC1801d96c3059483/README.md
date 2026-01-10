@@ -6,8 +6,8 @@ links:
     url: https://superfloki.net/
   - name: explorer
     url: https://bscscan.com/token/0xf7BF4507336AeA836ab5575eC1801d96c3059483
-  - name: twitter
-    url: https://twitter.com/FlokiSuper
+  - name: x
+    url: https://x.com/FlokiSuper
   - name: telegram
     url: https://t.me/SuperFlokiEn
 ---

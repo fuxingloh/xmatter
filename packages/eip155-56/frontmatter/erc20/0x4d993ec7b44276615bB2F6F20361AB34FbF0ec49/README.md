@@ -10,8 +10,8 @@ links:
     url: https://coinmarketcap.com/currencies/brandpad-finance/
   - name: coingecko
     url: https://coingecko.com/en/coins/brandpad-finance
-  - name: twitter
-    url: https://twitter.com/BrandPadFinance
+  - name: x
+    url: https://x.com/BrandPadFinance
   - name: telegram
     url: https://t.me/BrandPad
 ---

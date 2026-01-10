@@ -6,8 +6,8 @@ links:
     url: https://wormhole.com
   - name: explorer
     url: https://solscan.io/token/85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ
-  - name: twitter
-    url: https://twitter.com/wormhole
+  - name: x
+    url: https://x.com/wormhole
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/wormhole/
 ---

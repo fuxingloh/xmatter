@@ -8,8 +8,8 @@ links:
     url: https://petmoon.net/
   - name: explorer
     url: https://bscscan.com/token/0x97012db0142825526239580caeace634c082bb34
-  - name: twitter
-    url: https://twitter.com/petmoonnft
+  - name: x
+    url: https://x.com/petmoonnft
   - name: telegram
     url: https://t.me/petmoon
   - name: telegram_news

@@ -12,8 +12,8 @@ links:
     url: https://coinmarketcap.com/currencies/basic-attention-token/
   - name: coingecko
     url: https://coingecko.com/en/coins/basic-attention-token/
-  - name: twitter
-    url: https://twitter.com/@attentiontoken
+  - name: x
+    url: https://x.com/@attentiontoken
 ---
 
 # Basic Attention Token

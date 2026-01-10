@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x869Dd7A64AfBe5370a8c591d9B8650BE60c0B8f6
   - name: github
     url: https://github.com/fastmoonfinance
-  - name: twitter
-    url: https://twitter.com/FastMoon Finance
+  - name: x
+    url: https://x.com/FastMoon Finance
   - name: telegram
     url: https://t.me/FastMoonFinance
 ---

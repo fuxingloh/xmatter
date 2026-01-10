@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x16980b3b4a3f9d89e33311b5aa8f80303e5ca4f8
   - name: source_code
     url: https://git.kira.network
-  - name: twitter
-    url: https://twitter.com/kira_core
+  - name: x
+    url: https://x.com/kira_core
   - name: telegram
     url: https://t.me/kirainterex
   - name: blog

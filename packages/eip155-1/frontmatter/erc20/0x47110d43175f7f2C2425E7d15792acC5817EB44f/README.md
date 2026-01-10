@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x47110d43175f7f2C2425E7d15792acC5817EB44f
   - name: discord
     url: https://discord.com/invite/indexcoop
-  - name: twitter
-    url: https://twitter.com/indexcoop
+  - name: x
+    url: https://x.com/indexcoop
 ---
 
 # Bankless DeFi Innovation Index

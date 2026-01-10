@@ -6,8 +6,8 @@ links:
     url: https://binemon.io
   - name: explorer
     url: https://bscscan.com/token/0xe56842ed550ff2794f010738554db45e60730371
-  - name: twitter
-    url: https://twitter.com/binemonnft
+  - name: x
+    url: https://x.com/binemonnft
   - name: telegram
     url: https://t.me/binemonchat
   - name: coinmarketcap

@@ -8,8 +8,8 @@ links:
     url: https://strikex.com
   - name: explorer
     url: https://bscscan.com/token/0xd6fDDe76B8C1C45B33790cc8751D5b88984c44ec
-  - name: twitter
-    url: https://twitter.com/StrikeXofficial
+  - name: x
+    url: https://x.com/StrikeXofficial
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/strikecoin/
   - name: facebook

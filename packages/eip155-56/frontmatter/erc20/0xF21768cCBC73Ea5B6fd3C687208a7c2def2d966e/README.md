@@ -6,8 +6,8 @@ links:
     url: https://reef.finance
   - name: explorer
     url: https://bscscan.com/token/0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e
-  - name: twitter
-    url: https://twitter.com/ReefDeFi
+  - name: x
+    url: https://x.com/ReefDeFi
   - name: telegram
     url: https://t.me/reefdefi
   - name: coingecko

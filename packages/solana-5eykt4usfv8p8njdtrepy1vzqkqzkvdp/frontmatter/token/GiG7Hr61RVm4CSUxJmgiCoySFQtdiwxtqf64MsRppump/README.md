@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/GiG7Hr61RVm4CSUxJmgiCoySFQtdiwxtqf64MsRppump
   - name: telegram
     url: https://t.me/smokingchickenfish
-  - name: twitter
-    url: https://twitter.com/churchofthescf
+  - name: x
+    url: https://x.com/churchofthescf
 ---
 
 # Smoking Chicken Fish

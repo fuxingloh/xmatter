@@ -6,8 +6,8 @@ links:
     url: https://moon.honeyfarm.finance?utm_source=twt&utm_medium=wallet&utm_campaign=twt
   - name: explorer
     url: https://bscscan.com/token/0xE8c93310af068aa50bd7bF0ebFa459Df2a02ceba
-  - name: twitter
-    url: https://twitter.com/HoneyFarmFi
+  - name: x
+    url: https://x.com/HoneyFarmFi
   - name: github
     url: https://github.com/HoneyFarmFi/HoneyFarmContracts
   - name: telegram

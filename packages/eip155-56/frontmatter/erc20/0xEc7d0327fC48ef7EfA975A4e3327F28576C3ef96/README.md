@@ -6,8 +6,8 @@ links:
     url: https://moonprotocol.finance/
   - name: explorer
     url: https://bscscan.com/token/0xEc7d0327fC48ef7EfA975A4e3327F28576C3ef96
-  - name: twitter
-    url: https://twitter.com/ProtocolMoon
+  - name: x
+    url: https://x.com/ProtocolMoon
   - name: telegram
     url: https://t.me/MoonProtocolGroupTG
   - name: telegram_news

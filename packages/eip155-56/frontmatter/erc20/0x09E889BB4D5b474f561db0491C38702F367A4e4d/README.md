@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x09E889BB4D5b474f561db0491C38702F367A4e4d
   - name: github
     url: https://github.com/clover-network
-  - name: twitter
-    url: https://twitter.com/clv_org
+  - name: x
+    url: https://x.com/clv_org
   - name: medium
     url: https://medium.com/@clv_org
 ---

@@ -6,8 +6,8 @@ links:
     url: https://glorydogecoin.com
   - name: explorer
     url: https://bscscan.com/token/0xCC5667333F5e997aC9F0C26d41b7ddA65b2b675a
-  - name: twitter
-    url: https://twitter.com/GloryDogeCoin
+  - name: x
+    url: https://x.com/GloryDogeCoin
   - name: telegram
     url: https://t.me/GloryDogeCoin
   - name: coinmarketcap

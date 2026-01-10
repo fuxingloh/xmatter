@@ -11,8 +11,8 @@ links:
     url: https://bscscan.com/token/0x6a0b66710567b6beb81A71F7e9466450a91a384b
   - name: whitepaper
     url: https://peardao.io/whitepaper
-  - name: twitter
-    url: https://twitter.com/officialpeardao
+  - name: x
+    url: https://x.com/officialpeardao
   - name: telegram
     url: https://t.me/peardaoEN
   - name: medium

@@ -10,8 +10,8 @@ links:
     url: https://polygonscan.com/token/0x1631244689EC1fEcbDD22fb5916E920dFC9b8D30
   - name: telegram
     url: https://t.me/OVRtheReality
-  - name: twitter
-    url: https://twitter.com/OVRtheReality
+  - name: x
+    url: https://x.com/OVRtheReality
   - name: facebook
     url: https://facebook.com/Overmetaverse
   - name: telegram_news

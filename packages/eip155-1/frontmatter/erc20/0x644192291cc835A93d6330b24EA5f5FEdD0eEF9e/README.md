@@ -8,8 +8,8 @@ links:
     url: https://allianceblock.io
   - name: explorer
     url: https://etherscan.io/token/0x644192291cc835a93d6330b24ea5f5fedd0eef9e
-  - name: twitter
-    url: https://twitter.com/allianceblock
+  - name: x
+    url: https://x.com/allianceblock
   - name: telegram
     url: https://t.me/AllianceBlock
   - name: telegram_news

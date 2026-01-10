@@ -9,8 +9,8 @@ links:
     url: https://web3met.com
   - name: explorer
     url: https://bscscan.com/token/0x7208A2671a2f96950D44C6dAAF24719Ce44dEA78
-  - name: twitter
-    url: https://twitter.com/web3met
+  - name: x
+    url: https://x.com/web3met
   - name: telegram
     url: https://t.me/W3MWEB3MET
   - name: source_code

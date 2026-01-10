@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xa83E84d45EDB55324E2d10e1817F071481289D90
   - name: github
     url: https://github.com/cranchtoken/
-  - name: twitter
-    url: https://twitter.com/cranch_io
+  - name: x
+    url: https://x.com/cranch_io
   - name: telegram
     url: https://t.me/cranch_community
 ---

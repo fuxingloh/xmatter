@@ -6,8 +6,8 @@ links:
     url: http://bitto.tech/
   - name: explorer
     url: https://bscscan.com/token/0x816e9e589F8C07149dA4E2496C547952338B27e2
-  - name: twitter
-    url: https://twitter.com/bittoexchange
+  - name: x
+    url: https://x.com/bittoexchange
   - name: telegram
     url: https://t.me/bittoexchange
 ---

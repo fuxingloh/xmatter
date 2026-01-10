@@ -11,8 +11,8 @@ links:
     url: https://arbiscan.io/token/0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7
   - name: github
     url: https://github.com/AngleProtocol
-  - name: twitter
-    url: https://twitter.com/AngleProtocol
+  - name: x
+    url: https://x.com/AngleProtocol
   - name: docs
     url: https://docs.angle.money
   - name: coingecko

@@ -14,8 +14,8 @@ links:
     url: https://vinuchain.org
   - name: explorer
     url: https://bscscan.com/token/0x2Bf83D080d8Bc4715984e75E5b3D149805d11751
-  - name: twitter
-    url: https://twitter.com/vinuchain
+  - name: x
+    url: https://x.com/vinuchain
   - name: github
     url: https://github.com/vinuchain
   - name: telegram

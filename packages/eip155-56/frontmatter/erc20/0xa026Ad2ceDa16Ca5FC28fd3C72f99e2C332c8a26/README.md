@@ -6,8 +6,8 @@ links:
     url: https://xcadnetwork.com/
   - name: explorer
     url: https://bscscan.com/token/0xa026ad2ceda16ca5fc28fd3c72f99e2c332c8a26
-  - name: twitter
-    url: https://twitter.com/XcademyOfficial
+  - name: x
+    url: https://x.com/XcademyOfficial
   - name: telegram
     url: https://t.me/xcademy
   - name: coinmarketcap

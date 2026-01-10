@@ -6,8 +6,8 @@ links:
     url: https://bafe.io
   - name: explorer
     url: https://bscscan.com/token/0x7bb362962F2a4E2089466C79566572B37CFc5D78
-  - name: twitter
-    url: https://twitter.com/Bafeio
+  - name: x
+    url: https://x.com/Bafeio
   - name: telegram
     url: https://t.me/bafeio
   - name: discord

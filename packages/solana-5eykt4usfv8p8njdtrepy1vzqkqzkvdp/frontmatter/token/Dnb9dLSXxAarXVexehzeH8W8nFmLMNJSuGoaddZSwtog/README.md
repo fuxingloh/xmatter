@@ -6,8 +6,8 @@ links:
     url: https://catownkimono.com/
   - name: explorer
     url: https://solscan.io/token/Dnb9dLSXxAarXVexehzeH8W8nFmLMNJSuGoaddZSwtog
-  - name: twitter
-    url: https://twitter.com/catownkimono
+  - name: x
+    url: https://x.com/catownkimono
   - name: telegram
     url: https://t.me/KimonoStaysOn
 ---

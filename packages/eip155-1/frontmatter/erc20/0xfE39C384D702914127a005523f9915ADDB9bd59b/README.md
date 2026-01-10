@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xfE39C384D702914127a005523f9915ADDB9bd59b
   - name: github
     url: https://github.com/hippocrat-dao
-  - name: twitter
-    url: https://twitter.com/Hippocrat_io
+  - name: x
+    url: https://x.com/Hippocrat_io
   - name: telegram
     url: https://t.me/nexofinance
   - name: whitepaper

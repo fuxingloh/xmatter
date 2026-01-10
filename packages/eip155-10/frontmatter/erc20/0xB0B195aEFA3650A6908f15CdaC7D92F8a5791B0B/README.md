@@ -8,8 +8,8 @@ links:
     url: https://www.zkbob.com/
   - name: explorer
     url: https://optimistic.etherscan.io/token/0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B
-  - name: twitter
-    url: https://twitter.com/zkBob_
+  - name: x
+    url: https://x.com/zkBob_
   - name: telegram_news
     url: https://t.me/zkbob_news
   - name: telegram

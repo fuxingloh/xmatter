@@ -6,8 +6,8 @@ links:
     url: https://x.com/fred_cto_sol
   - name: explorer
     url: https://solscan.io/token/CNvitvFnSM5ed6K28RUNSaAjqqz5tX1rA5HgaBN9pump
-  - name: twitter
-    url: https://twitter.com/fred_cto_sol
+  - name: x
+    url: https://x.com/fred_cto_sol
 ---
 
 # First Convicted RACCON

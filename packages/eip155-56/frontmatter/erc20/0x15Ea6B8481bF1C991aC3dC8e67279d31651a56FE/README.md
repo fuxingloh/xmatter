@@ -8,8 +8,8 @@ links:
     url: https://cylum.io
   - name: explorer
     url: https://bscscan.com/token/0x15ea6b8481bf1c991ac3dc8e67279d31651a56fe
-  - name: twitter
-    url: https://twitter.com/cylumfinance
+  - name: x
+    url: https://x.com/cylumfinance
   - name: github
     url: https://github.com/cylumfinance
   - name: telegram

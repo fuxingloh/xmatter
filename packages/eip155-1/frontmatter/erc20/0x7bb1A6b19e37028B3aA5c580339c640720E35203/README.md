@@ -8,8 +8,8 @@ links:
     url: https://singularitydao.ai/dynasets/dynETH
   - name: explorer
     url: https://etherscan.io/token/0x7bb1A6b19e37028B3aA5c580339c640720E35203
-  - name: twitter
-    url: https://twitter.com/SingularityDao
+  - name: x
+    url: https://x.com/SingularityDao
   - name: telegram
     url: https://t.me/chatsight_bot?start=dmVyaWZ5OjotMTAwMTI4NzAxNjEzNw==
   - name: telegram_news

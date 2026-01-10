@@ -6,8 +6,8 @@ links:
     url: https://hashbit.org/
   - name: explorer
     url: https://bscscan.com/token/0xEda3866f07566d9379a91A07F8D62e19C03183e0
-  - name: twitter
-    url: https://twitter.com/HashBitorg
+  - name: x
+    url: https://x.com/HashBitorg
   - name: telegram
     url: https://t.me/hashbitofficial/
   - name: coinmarketcap

@@ -6,8 +6,8 @@ links:
     url: https://griffinart.finance/
   - name: explorer
     url: https://bscscan.com/token/0xd1ECFDD45c49057479c4Ca95E045855370bC4F5B
-  - name: twitter
-    url: https://twitter.com/griffinnftart
+  - name: x
+    url: https://x.com/griffinnftart
   - name: whitepaper
     url: https://griffinart.finance/griffinart-whitepaper.pdf
   - name: telegram

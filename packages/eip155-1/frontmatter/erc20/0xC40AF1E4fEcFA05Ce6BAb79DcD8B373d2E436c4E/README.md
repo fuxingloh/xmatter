@@ -8,8 +8,8 @@ links:
     url: https://hokkaiduinu.com/
   - name: explorer
     url: https://etherscan.io/token/0xC40AF1E4fEcFA05Ce6BAb79DcD8B373d2E436c4E
-  - name: twitter
-    url: https://twitter.com/HokkaInuEth
+  - name: x
+    url: https://x.com/HokkaInuEth
   - name: telegram
     url: https://t.me/HokkaiduInuOfficial
   - name: whitepaper

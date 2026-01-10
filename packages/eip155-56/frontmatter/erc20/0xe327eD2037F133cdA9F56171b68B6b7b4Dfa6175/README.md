@@ -8,8 +8,8 @@ links:
     url: https://www.petoverse.io/
   - name: explorer
     url: https://bscscan.com/token/0xe327eD2037F133cdA9F56171b68B6b7b4Dfa6175
-  - name: twitter
-    url: https://twitter.com/petoverse
+  - name: x
+    url: https://x.com/petoverse
   - name: telegram
     url: https://t.me/petoverse
 ---

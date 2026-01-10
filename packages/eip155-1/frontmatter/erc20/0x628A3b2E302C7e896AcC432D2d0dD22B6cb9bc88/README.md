@@ -8,8 +8,8 @@ links:
     url: https://limewire.com
   - name: explorer
     url: https://etherscan.io/token/0x628a3b2e302c7e896acc432d2d0dd22b6cb9bc88
-  - name: twitter
-    url: https://twitter.com/limewire
+  - name: x
+    url: https://x.com/limewire
   - name: telegram
     url: https://t.me/limewire
 ---

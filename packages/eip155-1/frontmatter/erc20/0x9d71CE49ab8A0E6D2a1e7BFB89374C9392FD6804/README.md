@@ -18,8 +18,8 @@ links:
     url: https://coingecko.com/en/coins/nvirworld
   - name: whitepaper
     url: https://nvirworld.io/
-  - name: twitter
-    url: https://twitter.com/NvirWorld
+  - name: x
+    url: https://x.com/NvirWorld
   - name: telegram
     url: https://t.me/NvirWorldEN
   - name: discord

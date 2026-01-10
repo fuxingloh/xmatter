@@ -6,8 +6,8 @@ links:
     url: https://lido.fi/
   - name: explorer
     url: https://optimistic.etherscan.io/token/0x73cb180bf0521828d8849bc8CF2B920918e23032
-  - name: twitter
-    url: https://twitter.com/overnight_fi
+  - name: x
+    url: https://x.com/overnight_fi
   - name: telegram
     url: https://t.me/overnight_fi
 ---

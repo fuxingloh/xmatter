@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/ULwSJmmpxmnRfpu6BjnK6rprKXqD5jXUmPpS1FxHXFy
   - name: telegram
     url: https://t.me/Hegequarters
-  - name: twitter
-    url: https://twitter.com/HegeCoin
+  - name: x
+    url: https://x.com/HegeCoin
 ---
 
 # Hege

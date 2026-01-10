@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x37ac4d6140e54304d77437a5c11924f61a2d976f
   - name: github
     url: https://github.com/sparkpointio/venus-protocol
-  - name: twitter
-    url: https://twitter.com/SparkDeFi
+  - name: x
+    url: https://x.com/SparkDeFi
   - name: telegram
     url: https://t.me/SparkDeFi
   - name: facebook

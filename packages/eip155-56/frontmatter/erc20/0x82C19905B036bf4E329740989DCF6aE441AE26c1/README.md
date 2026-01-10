@@ -6,8 +6,8 @@ links:
     url: https://bsc.copuppy.io/
   - name: explorer
     url: https://bscscan.com/token/0x82C19905B036bf4E329740989DCF6aE441AE26c1
-  - name: twitter
-    url: https://twitter.com/CoPuppy_BSC
+  - name: x
+    url: https://x.com/CoPuppy_BSC
   - name: telegram
     url: https://t.me/copuppy_bsc
   - name: medium

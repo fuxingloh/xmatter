@@ -6,8 +6,8 @@ links:
     url: https://www.virtuals.io/
   - name: explorer
     url: https://etherscan.io/token/0x44ff8620b8cA30902395A7bD3F2407e1A091BF73
-  - name: twitter
-    url: https://twitter.com/virtuals_io
+  - name: x
+    url: https://x.com/virtuals_io
   - name: telegram
     url: https://t.me/virtuals
 ---

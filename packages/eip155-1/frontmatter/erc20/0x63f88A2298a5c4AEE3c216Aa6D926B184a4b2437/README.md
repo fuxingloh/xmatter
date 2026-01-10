@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x63f88A2298a5c4AEE3c216Aa6D926B184a4b2437
   - name: github
     url: https://github.com/novatokenplatform
-  - name: twitter
-    url: https://twitter.com/gamecredits
+  - name: x
+    url: https://x.com/gamecredits
   - name: telegram
     url: https://t.me/gamecreditsglobal
   - name: discord

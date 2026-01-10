@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xb994882a1b9bd98A71Dd6ea5F61577c42848B0E8
   - name: telegram
     url: https://t.me/worldofdypians
-  - name: twitter
-    url: https://twitter.com/worldofdypians
+  - name: x
+    url: https://x.com/worldofdypians
 ---
 
 # World of Dypians

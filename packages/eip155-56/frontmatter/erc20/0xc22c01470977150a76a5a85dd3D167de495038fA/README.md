@@ -8,8 +8,8 @@ links:
     url: https://spacedragon.io
   - name: explorer
     url: https://bscscan.com/token/0xc22c01470977150a76a5a85dd3D167de495038fA
-  - name: twitter
-    url: https://twitter.com/spacedragon_io
+  - name: x
+    url: https://x.com/spacedragon_io
   - name: telegram
     url: https://t.me/spacedragon_io
 ---

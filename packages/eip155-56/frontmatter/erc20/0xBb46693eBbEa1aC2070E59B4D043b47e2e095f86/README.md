@@ -6,8 +6,8 @@ links:
     url: https://betfury.io/
   - name: explorer
     url: https://bscscan.com/token/0xbb46693ebbea1ac2070e59b4d043b47e2e095f86
-  - name: twitter
-    url: https://twitter.com/betfury_gaming
+  - name: x
+    url: https://x.com/betfury_gaming
   - name: telegram
     url: https://t.me/betfuryofficialchannel
   - name: youtube

@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x4c11249814f11b9346808179cf06e71ac328c1b5
   - name: github
     url: https://github.com/oraichain/
-  - name: twitter
-    url: https://twitter.com/Oraichain and yAI.Finance
+  - name: x
+    url: https://x.com/Oraichain and yAI.Finance
 ---
 
 # Oraichain Token

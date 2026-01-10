@@ -6,8 +6,8 @@ links:
     url: https://tomi.com/
   - name: explorer
     url: https://etherscan.io/token/0x4385328cc4d643ca98dfea734360c0f596c83449
-  - name: twitter
-    url: https://twitter.com/tomipioneers
+  - name: x
+    url: https://x.com/tomipioneers
   - name: telegram
     url: https://t.me/tomipioneers
   - name: coinmarketcap

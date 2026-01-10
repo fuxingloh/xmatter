@@ -8,8 +8,8 @@ links:
     url: https://wetux.com/
   - name: explorer
     url: https://bscscan.com/token/0x58f0C2fd4B7B0fBaC97c9cC71A5Eb810627734C8
-  - name: twitter
-    url: https://twitter.com/wetux_liquidity
+  - name: x
+    url: https://x.com/wetux_liquidity
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/wetux/
   - name: coingecko

@@ -6,8 +6,8 @@ links:
     url: https://zedscan.net/
   - name: explorer
     url: https://bscscan.com/token/0xA4156cc61dc7796faA24278a0F9F229B15e298cb
-  - name: twitter
-    url: https://twitter.com/zedxionc
+  - name: x
+    url: https://x.com/zedxionc
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/token-bitcoin-bridged-zed20/
 ---

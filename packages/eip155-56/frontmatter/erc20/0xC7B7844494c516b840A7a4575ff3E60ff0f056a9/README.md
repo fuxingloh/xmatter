@@ -6,8 +6,8 @@ links:
     url: https://mechmaster.io/
   - name: explorer
     url: https://bscscan.com/token/0xC7B7844494c516b840A7a4575ff3E60ff0f056a9
-  - name: twitter
-    url: https://twitter.com/MechMaster_IO
+  - name: x
+    url: https://x.com/MechMaster_IO
   - name: telegram
     url: https://t.me/MechMaster_Official
   - name: facebook

@@ -8,8 +8,8 @@ links:
     url: https://sweateconomy.com/
   - name: explorer
     url: https://etherscan.io/token/0xb4b9dc1c77bdbb135ea907fd5a08094d98883a35
-  - name: twitter
-    url: https://twitter.com/SweatEconomy
+  - name: x
+    url: https://x.com/SweatEconomy
   - name: whitepaper
     url: https://drive.google.com/file/d/1IPklRcEQvgJkCaeYvGh43yjWl-Dj5_6i/view
   - name: discord

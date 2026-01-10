@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x4cc23264E1eF8dd8173E4Ec07E6a01Cc7476d997
   - name: telegram
     url: https://t.me/robustprotocol/
-  - name: twitter
-    url: https://twitter.com/robustprotocol/
+  - name: x
+    url: https://x.com/robustprotocol/
   - name: docs
     url: https://docs.robustprotocol.fi/
   - name: whitepaper

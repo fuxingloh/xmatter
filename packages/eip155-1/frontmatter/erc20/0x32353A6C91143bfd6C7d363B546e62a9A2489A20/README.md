@@ -6,8 +6,8 @@ links:
     url: https://www.lootproject.com/
   - name: explorer
     url: https://etherscan.io/token/0x32353a6c91143bfd6c7d363b546e62a9a2489a20
-  - name: twitter
-    url: https://twitter.com/lootproject
+  - name: x
+    url: https://x.com/lootproject
   - name: coingecko
     url: https://coingecko.com/en/coins/adventure-gold/
   - name: coinmarketcap

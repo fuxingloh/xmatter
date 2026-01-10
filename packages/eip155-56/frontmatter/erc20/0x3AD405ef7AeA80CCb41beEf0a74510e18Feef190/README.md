@@ -10,8 +10,8 @@ links:
     url: https://sadbaby.org/sadbaby-whitepaper.pdf
   - name: facebook
     url: https://facebook.com/SadbabyToken-104142708605129/
-  - name: twitter
-    url: https://twitter.com/sadbabyglobal
+  - name: x
+    url: https://x.com/sadbabyglobal
   - name: telegram
     url: https://t.me/sadbabyglobal
 ---

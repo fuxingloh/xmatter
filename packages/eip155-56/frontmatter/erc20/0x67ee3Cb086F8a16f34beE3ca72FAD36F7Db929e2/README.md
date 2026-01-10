@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x67ee3Cb086F8a16f34beE3ca72FAD36F7Db929e2
   - name: github
     url: https://github.com/DODOEX/
-  - name: twitter
-    url: https://twitter.com/DODO
+  - name: x
+    url: https://x.com/DODO
   - name: reddit
     url: https://reddit.com/r/DodoEx/
   - name: medium

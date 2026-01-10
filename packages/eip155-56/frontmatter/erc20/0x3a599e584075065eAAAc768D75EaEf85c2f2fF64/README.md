@@ -8,8 +8,8 @@ links:
     url: https://www.fruttidino.com/
   - name: explorer
     url: https://bscscan.com/token/0x3a599e584075065eAAAc768D75EaEf85c2f2fF64
-  - name: twitter
-    url: https://twitter.com/FruttiDino
+  - name: x
+    url: https://x.com/FruttiDino
   - name: telegram
     url: https://t.me/FruttiDino_Official
   - name: coinmarketcap

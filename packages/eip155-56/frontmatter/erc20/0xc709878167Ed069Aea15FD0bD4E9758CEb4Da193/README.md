@@ -8,8 +8,8 @@ links:
     url: https://dayofdefeat.app
   - name: explorer
     url: https://bscscan.com/token/0xc709878167Ed069Aea15FD0bD4E9758CEb4Da193
-  - name: twitter
-    url: https://twitter.com/dayofdefeatBSC
+  - name: x
+    url: https://x.com/dayofdefeatBSC
   - name: telegram
     url: https://t.me/DayOfDefeatBSC
   - name: whitepaper

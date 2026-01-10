@@ -8,8 +8,8 @@ links:
     url: https://ggtkn.com/
   - name: explorer
     url: https://bscscan.com/token/0x1F7e8fe01AEbA6fDAEA85161746f4D53DC9bdA4F
-  - name: twitter
-    url: https://twitter.com/gg_tkn
+  - name: x
+    url: https://x.com/gg_tkn
   - name: facebook
     url: https://facebook.com/ggtoken
   - name: telegram

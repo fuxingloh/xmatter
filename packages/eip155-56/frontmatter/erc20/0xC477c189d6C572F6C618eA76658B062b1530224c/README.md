@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xC477c189d6C572F6C618eA76658B062b1530224c
   - name: telegram
     url: https://t.me/CryptonlyFanz
-  - name: twitter
-    url: https://twitter.com/CryptonlyFanz
+  - name: x
+    url: https://x.com/CryptonlyFanz
 ---
 
 # CryptonlyFanz

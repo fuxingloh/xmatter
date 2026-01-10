@@ -8,8 +8,8 @@ links:
     url: https://irocket.pro/
   - name: explorer
     url: https://bscscan.com/token/0xCBE5BcA571628894A38836b0baE833ff012f71D8
-  - name: twitter
-    url: https://twitter.com/iRocketToken
+  - name: x
+    url: https://x.com/iRocketToken
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/infinity-rocket-token/
   - name: coingecko

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x7979F6C54ebA05E18Ded44C4F986F49a5De551c2
   - name: github
     url: https://github.com/chefkebab
-  - name: twitter
-    url: https://twitter.com/kebabfinance
+  - name: x
+    url: https://x.com/kebabfinance
   - name: telegram
     url: https://t.me/kebabfinance
   - name: medium

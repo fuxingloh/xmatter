@@ -6,8 +6,8 @@ links:
     url: https://solarx.ai/
   - name: explorer
     url: https://bscscan.com/token/0xE58C3A44B74362048e202cb7C8036D4b0B28Af50
-  - name: twitter
-    url: https://twitter.com/solarxchain
+  - name: x
+    url: https://x.com/solarxchain
   - name: telegram
     url: https://t.me/solarxofficial
 ---

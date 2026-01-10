@@ -6,8 +6,8 @@ links:
     url: https://flooring.io/
   - name: explorer
     url: https://etherscan.io/token/0x102c776ddb30c754ded4fdcc77a19230a60d4e4f
-  - name: twitter
-    url: https://twitter.com/flooringproto
+  - name: x
+    url: https://x.com/flooringproto
 ---
 
 # Flooring Lab Credit

@@ -6,8 +6,8 @@ links:
     url: https://plantvsundead.com/
   - name: explorer
     url: https://bscscan.com/token/0x31471e0791fcdbe82fbf4c44943255e923f1b794
-  - name: twitter
-    url: https://twitter.com/vs_nft
+  - name: x
+    url: https://x.com/vs_nft
   - name: telegram
     url: https://t.me/plantvsundead
 ---

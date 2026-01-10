@@ -6,8 +6,8 @@ links:
     url: https://app.openxswap.exchange/info
   - name: explorer
     url: https://optimistic.etherscan.io/token/0xc3864f98f2a61a7caeb95b039d031b4e2f55e0e9
-  - name: twitter
-    url: https://twitter.com/OpenXSwap
+  - name: x
+    url: https://x.com/OpenXSwap
   - name: telegram
     url: https://t.me/OpenXSwap
 ---

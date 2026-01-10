@@ -12,8 +12,8 @@ links:
     url: https://t.me/metagalaxyland
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/metagalaxy-land/
-  - name: twitter
-    url: https://twitter.com/metagalaxyland
+  - name: x
+    url: https://x.com/metagalaxyland
 ---
 
 # METAGALAXY LAND

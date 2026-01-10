@@ -6,8 +6,8 @@ links:
     url: https://morpho.org/
   - name: explorer
     url: https://etherscan.io/token/0x58D97B57BB95320F9a05dC918Aef65434969c2B2
-  - name: twitter
-    url: https://twitter.com/MorphoLabs
+  - name: x
+    url: https://x.com/MorphoLabs
 ---
 
 # Morpho

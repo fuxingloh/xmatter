@@ -6,8 +6,8 @@ links:
     url: https://biaoqing.live/
   - name: explorer
     url: https://etherscan.io/token/0x9Fd9278f04f01c6a39a9d1c1CD79f7782C6ADe08
-  - name: twitter
-    url: https://twitter.com/biaoerc20
+  - name: x
+    url: https://x.com/biaoerc20
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/biaoqing/
 ---

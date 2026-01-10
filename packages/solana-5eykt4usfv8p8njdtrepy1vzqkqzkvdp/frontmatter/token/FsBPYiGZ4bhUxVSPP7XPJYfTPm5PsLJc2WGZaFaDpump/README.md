@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/FsBPYiGZ4bhUxVSPP7XPJYfTPm5PsLJc2WGZaFaDpump
   - name: telegram
     url: https://t.me/mongysol
-  - name: twitter
-    url: https://twitter.com/MongySol
+  - name: x
+    url: https://x.com/MongySol
 ---
 
 # Mongy

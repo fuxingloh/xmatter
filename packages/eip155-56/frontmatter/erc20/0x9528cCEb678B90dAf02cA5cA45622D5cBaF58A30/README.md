@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x9528cCEb678B90dAf02cA5cA45622D5cBaF58A30
   - name: github
     url: https://github.com/GoBlockchain2022/
-  - name: twitter
-    url: https://twitter.com/gocryptomecoin
+  - name: x
+    url: https://x.com/gocryptomecoin
   - name: telegram
     url: https://t.me/GoCryptoMe
 ---

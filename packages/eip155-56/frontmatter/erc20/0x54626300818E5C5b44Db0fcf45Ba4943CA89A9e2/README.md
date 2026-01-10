@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x54626300818e5c5b44db0fcf45ba4943ca89a9e2
   - name: github
     url: https://github.com/TheCheCoin
-  - name: twitter
-    url: https://twitter.com/CheCoinOfficial
+  - name: x
+    url: https://x.com/CheCoinOfficial
   - name: reddit
     url: https://reddit.com/r/CheCoin_/
   - name: telegram

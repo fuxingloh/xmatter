@@ -6,8 +6,8 @@ links:
     url: https://www.shdwdrive.com
   - name: explorer
     url: https://solscan.io/token/SHDWyBxihqiCj6YekG2GUr7wqKLeLAMK1gHZck9pL6y
-  - name: twitter
-    url: https://twitter.com/genesysgo
+  - name: x
+    url: https://x.com/genesysgo
   - name: telegram
     url: https://t.me/FrankGenGo
 ---

@@ -6,8 +6,8 @@ links:
     url: https://bsocial.pro
   - name: explorer
     url: https://bscscan.com/token/0x822DC83fA4dc997fFf24D0BC0A66fCB2954a6156
-  - name: twitter
-    url: https://twitter.com/Bsocialfi
+  - name: x
+    url: https://x.com/Bsocialfi
   - name: telegram
     url: https://t.me/bsocialchannel
   - name: coinmarketcap

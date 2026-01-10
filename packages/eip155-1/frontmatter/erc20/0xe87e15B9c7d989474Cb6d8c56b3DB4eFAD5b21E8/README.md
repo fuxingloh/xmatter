@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xe87e15B9c7d989474Cb6d8c56b3DB4eFAD5b21E8
   - name: telegram
     url: https://t.me/HokkaidoInu
-  - name: twitter
-    url: https://twitter.com/hokkaiduinu
+  - name: x
+    url: https://x.com/hokkaiduinu
 ---
 
 # Hokkaidu Inu

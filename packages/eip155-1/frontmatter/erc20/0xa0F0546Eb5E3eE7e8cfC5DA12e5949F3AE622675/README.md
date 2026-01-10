@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xa0F0546Eb5E3eE7e8cfC5DA12e5949F3AE622675
   - name: github
     url: https://github.com/tokoinofficial
-  - name: twitter
-    url: https://twitter.com/Tokoin
+  - name: x
+    url: https://x.com/Tokoin
   - name: telegram
     url: https://t.me/tokoinglobal
   - name: facebook

@@ -14,8 +14,8 @@ links:
     url: https://coingecko.com/munze/catboy
   - name: telegram
     url: https://t.me/catboybscofficial
-  - name: twitter
-    url: https://twitter.com/BSCCatBoy
+  - name: x
+    url: https://x.com/BSCCatBoy
 ---
 
 # CatBoy

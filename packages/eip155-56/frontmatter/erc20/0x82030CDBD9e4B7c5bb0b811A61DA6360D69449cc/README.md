@@ -6,8 +6,8 @@ links:
     url: https://realfevr.com/fevr
   - name: explorer
     url: https://bscscan.com/token/0x82030CDBD9e4B7c5bb0b811A61DA6360D69449cc
-  - name: twitter
-    url: https://twitter.com/realfevr
+  - name: x
+    url: https://x.com/realfevr
   - name: telegram
     url: https://t.me/realfevrofficial
   - name: github

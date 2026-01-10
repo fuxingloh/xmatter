@@ -10,8 +10,8 @@ links:
     url: https://monbase.com/
   - name: explorer
     url: https://bscscan.com/token/0x551FAAB1027Cc50eFAeA5BED092E330475C3Cd99
-  - name: twitter
-    url: https://twitter.com/monbaseglobal
+  - name: x
+    url: https://x.com/monbaseglobal
   - name: telegram
     url: https://t.me/monbaseglobal
   - name: coinmarketcap

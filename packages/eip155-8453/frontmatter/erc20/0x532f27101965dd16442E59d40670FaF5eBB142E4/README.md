@@ -8,8 +8,8 @@ links:
     url: https://basescan.org/token/0x532f27101965dd16442e59d40670faf5ebb142e4
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/based-brett/
-  - name: twitter
-    url: https://twitter.com/BasedBrett
+  - name: x
+    url: https://x.com/BasedBrett
 ---
 
 # Brett

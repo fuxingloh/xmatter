@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xaa15f52Ef3994213a9e06731F6471786B75372CC
   - name: telegram
     url: https://t.me/Lil_Doge_Floki
-  - name: twitter
-    url: https://twitter.com/lildogefiokiceo
+  - name: x
+    url: https://x.com/lildogefiokiceo
   - name: coingecko
     url: https://coingecko.com/en/coins/lil-doge-floki-token
 ---

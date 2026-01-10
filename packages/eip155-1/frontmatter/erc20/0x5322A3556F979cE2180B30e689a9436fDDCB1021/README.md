@@ -6,8 +6,8 @@ links:
     url: https://ytsla.finance/
   - name: explorer
     url: https://etherscan.io/token/0x5322A3556F979cE2180B30e689a9436fDDCB1021
-  - name: twitter
-    url: https://twitter.com/yTSLA
+  - name: x
+    url: https://x.com/yTSLA
   - name: reddit
     url: https://reddit.com/yTSLA
 ---

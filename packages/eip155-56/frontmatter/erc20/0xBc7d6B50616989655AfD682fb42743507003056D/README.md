@@ -8,8 +8,8 @@ links:
     url: https://www.alchemytech.io/index.html
   - name: explorer
     url: https://bscscan.com/token/0xBc7d6B50616989655AfD682fb42743507003056D
-  - name: twitter
-    url: https://twitter.com/AlchemyPay
+  - name: x
+    url: https://x.com/AlchemyPay
   - name: github
     url: https://github.com/Alchemy-GPS/ERC20Token/blob/master/ACH.sol
   - name: telegram

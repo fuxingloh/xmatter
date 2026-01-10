@@ -8,8 +8,8 @@ links:
     url: https://insuretoken.net/
   - name: explorer
     url: https://snowtrace.io/token/0x5fC17416925789E0852FBFcd81c490ca4abc51F9
-  - name: twitter
-    url: https://twitter.com/InsureToken
+  - name: x
+    url: https://x.com/InsureToken
   - name: medium
     url: https://insureteam.medium.com/
   - name: telegram

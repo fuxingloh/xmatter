@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xC4eEFF5aab678C3FF32362D80946A3f5De4a1861
   - name: github
     url: https://github.com/rice-farm
-  - name: twitter
-    url: https://twitter.com/fuzionchain
+  - name: x
+    url: https://x.com/fuzionchain
   - name: telegram
     url: https://t.me/fuzionchain
   - name: telegram_news

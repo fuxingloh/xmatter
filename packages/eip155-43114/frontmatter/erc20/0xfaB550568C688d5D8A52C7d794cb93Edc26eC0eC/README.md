@@ -9,8 +9,8 @@ links:
     url: https://axelar.network/
   - name: explorer
     url: https://snowtrace.io/token/0xfaB550568C688d5D8A52C7d794cb93Edc26eC0eC
-  - name: twitter
-    url: https://twitter.com/axelarcore
+  - name: x
+    url: https://x.com/axelarcore
   - name: github
     url: https://github.com/axelarnetwork
   - name: telegram

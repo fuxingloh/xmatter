@@ -6,8 +6,8 @@ links:
     url: https://www.memeflate.io
   - name: explorer
     url: https://bscscan.com/token/0xaFE3321309A994831884fc1725F4c3236AC79f76
-  - name: twitter
-    url: https://twitter.com/memeflate
+  - name: x
+    url: https://x.com/memeflate
   - name: github
     url: https://github.com/mrmflate
   - name: telegram

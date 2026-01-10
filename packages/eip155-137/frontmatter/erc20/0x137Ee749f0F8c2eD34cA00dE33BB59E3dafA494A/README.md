@@ -10,8 +10,8 @@ links:
     url: https://discord.com/invite/YbpHVSd
   - name: telegram
     url: https://t.me/concealnetworkusers
-  - name: twitter
-    url: https://twitter.com/ConcealNetwork
+  - name: x
+    url: https://x.com/ConcealNetwork
   - name: github
     url: https://github.com/sushiswap
   - name: medium

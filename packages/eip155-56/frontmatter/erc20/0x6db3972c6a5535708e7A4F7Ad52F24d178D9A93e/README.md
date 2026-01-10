@@ -6,8 +6,8 @@ links:
     url: https://www.drivenx.finance/
   - name: explorer
     url: https://bscscan.com/token/0x6db3972c6a5535708e7A4F7Ad52F24d178D9A93e
-  - name: twitter
-    url: https://twitter.com/DRIVENprotocol
+  - name: x
+    url: https://x.com/DRIVENprotocol
   - name: github
     url: https://github.com/DRIVENx
   - name: telegram

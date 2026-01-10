@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x249ca82617ec3dfb2589c4c17ab7ec9765350a18
   - name: facebook
     url: https://facebook.com/buy.bitcoin.news
-  - name: twitter
-    url: https://twitter.com/bitcoincom
+  - name: x
+    url: https://x.com/bitcoincom
   - name: youtube
     url: https://youtube.com/channel/UCetxkZolEBHX47BqtZktbkg
   - name: blog

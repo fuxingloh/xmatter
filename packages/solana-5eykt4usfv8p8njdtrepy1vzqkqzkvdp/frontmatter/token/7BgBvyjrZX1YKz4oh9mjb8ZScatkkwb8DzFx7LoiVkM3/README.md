@@ -8,8 +8,8 @@ links:
     url: https://slerf.wtf/
   - name: explorer
     url: https://solscan.io/token/7BgBvyjrZX1YKz4oh9mjb8ZScatkkwb8DzFx7LoiVkM3
-  - name: twitter
-    url: https://twitter.com/slerfsol
+  - name: x
+    url: https://x.com/slerfsol
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/slerf/
 ---

@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x3449fc1cd036255ba1eb19d65ff4ba2b8903a69a
   - name: github
     url: https://github.com/Basis-Cash
-  - name: twitter
-    url: https://twitter.com/Basis Cash
+  - name: x
+    url: https://x.com/Basis Cash
   - name: telegram
     url: https://t.me/basiscash
   - name: discord

@@ -10,8 +10,8 @@ links:
     url: https://arbiscan.io/token/0x9623063377ad1b27544c965ccd7342f7ea7e88c7
   - name: github
     url: https://github.com/graphprotocol/graph-node
-  - name: twitter
-    url: https://twitter.com/graphprotocol
+  - name: x
+    url: https://x.com/graphprotocol
   - name: reddit
     url: https://reddit.com/r/thegraph
   - name: telegram

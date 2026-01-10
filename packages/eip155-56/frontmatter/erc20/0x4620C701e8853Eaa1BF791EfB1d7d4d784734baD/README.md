@@ -8,8 +8,8 @@ links:
     url: https://linktr.ee/zedxion
   - name: explorer
     url: https://bscscan.com/token/0x4620c701e8853eaa1bf791efb1d7d4d784734bad
-  - name: twitter
-    url: https://twitter.com/Zedxion
+  - name: x
+    url: https://x.com/Zedxion
   - name: telegram
     url: https://t.me/zedxion
   - name: coinmarketcap

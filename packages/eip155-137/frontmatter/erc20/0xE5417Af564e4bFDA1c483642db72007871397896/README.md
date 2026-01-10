@@ -24,8 +24,8 @@ links:
     url: https://github.com/GainsNetwork/
   - name: blog
     url: https://medium.com/gains-network
-  - name: twitter
-    url: https://twitter.com/GainsNetwork_io
+  - name: x
+    url: https://x.com/GainsNetwork_io
 ---
 
 # Gains Network

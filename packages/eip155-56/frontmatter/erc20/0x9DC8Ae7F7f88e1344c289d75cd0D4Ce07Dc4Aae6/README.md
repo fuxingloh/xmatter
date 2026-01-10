@@ -10,8 +10,8 @@ links:
     url: https://t.me/BabyFlokiZillaBSC
   - name: facebook
     url: https://facebook.com/Baby-Floki-Zilla-107460758405426
-  - name: twitter
-    url: https://twitter.com/BFZillaBSC
+  - name: x
+    url: https://x.com/BFZillaBSC
   - name: discord
     url: https://discord.com/invite/hfkGjSV9qs
   - name: whitepaper

@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x3A4A0D5b8dfAcd651EE28ed4fFEBf91500345489
   - name: github
     url: https://github.com/Filinomus/BerryX
-  - name: twitter
-    url: https://twitter.com/Polar berry
+  - name: x
+    url: https://x.com/Polar berry
   - name: facebook
     url: https://facebook.com/polarberrycom
   - name: whitepaper

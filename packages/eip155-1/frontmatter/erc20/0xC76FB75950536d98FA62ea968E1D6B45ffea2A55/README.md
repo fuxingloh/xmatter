@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xC76FB75950536d98FA62ea968E1D6B45ffea2A55
   - name: github
     url: https://github.com/unitprotocol
-  - name: twitter
-    url: https://twitter.com/unitprotocol
+  - name: x
+    url: https://x.com/unitprotocol
   - name: telegram
     url: https://t.me/unit_ann
   - name: medium

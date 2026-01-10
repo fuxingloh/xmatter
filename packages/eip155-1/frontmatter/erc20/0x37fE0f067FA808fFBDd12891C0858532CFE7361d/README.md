@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x37fE0f067FA808fFBDd12891C0858532CFE7361d
   - name: github
     url: https://github.com/sator-settler/civ-token
-  - name: twitter
-    url: https://twitter.com/token_civ
+  - name: x
+    url: https://x.com/token_civ
   - name: telegram
     url: https://t.me/civsettlers
   - name: medium

@@ -6,8 +6,8 @@ links:
     url: https://cuep.io/
   - name: explorer
     url: https://bscscan.com/token/0x9b9D617D3445f0147Ece2322BaCe8db2768D2770
-  - name: twitter
-    url: https://twitter.com/cueprotocol
+  - name: x
+    url: https://x.com/cueprotocol
   - name: telegram
     url: https://t.me/cueprotolchat
 ---

@@ -10,8 +10,8 @@ links:
     url: https://facebook.com/Finxflo/
   - name: telegram
     url: https://t.me/Finxflo_Community
-  - name: twitter
-    url: https://twitter.com/finxflo
+  - name: x
+    url: https://x.com/finxflo
 ---
 
 # Finxflo

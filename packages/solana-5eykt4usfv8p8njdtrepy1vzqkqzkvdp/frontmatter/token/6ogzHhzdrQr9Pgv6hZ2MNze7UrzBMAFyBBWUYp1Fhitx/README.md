@@ -6,8 +6,8 @@ links:
     url: https://www.retardio.xyz/
   - name: explorer
     url: https://solscan.io/token/6ogzHhzdrQr9Pgv6hZ2MNze7UrzBMAFyBBWUYp1Fhitx
-  - name: twitter
-    url: https://twitter.com/retardiosolana
+  - name: x
+    url: https://x.com/retardiosolana
   - name: telegram
     url: https://t.me/retardiosol
 ---

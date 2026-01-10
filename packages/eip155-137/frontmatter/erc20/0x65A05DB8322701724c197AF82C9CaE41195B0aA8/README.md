@@ -6,8 +6,8 @@ links:
     url: https://shapeshift.com/fox-token
   - name: explorer
     url: https://polygonscan.com/token/0x65A05DB8322701724c197AF82C9CaE41195B0aA8
-  - name: twitter
-    url: https://twitter.com/shapeshift_io
+  - name: x
+    url: https://x.com/shapeshift_io
   - name: telegram
     url: https://t.me/shapeshiftofficial
   - name: coinmarketcap

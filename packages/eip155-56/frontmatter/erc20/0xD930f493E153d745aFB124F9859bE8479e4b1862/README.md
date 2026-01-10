@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xD930f493E153d745aFB124F9859bE8479e4b1862
   - name: github
     url: https://github.com/syllena/spaceman-lol
-  - name: twitter
-    url: https://twitter.com/spaceman_lol
+  - name: x
+    url: https://x.com/spaceman_lol
   - name: telegram
     url: https://t.me/joinchat/REDAvsM_ZAM3MmQ0
   - name: discord

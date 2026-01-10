@@ -9,8 +9,8 @@ links:
     url: https://ethswarm.org
   - name: explorer
     url: https://etherscan.io/token/0x19062190B1925b5b6689D7073fDfC8c2976EF8Cb
-  - name: twitter
-    url: https://twitter.com/ethswarm
+  - name: x
+    url: https://x.com/ethswarm
   - name: github
     url: https://github.com/ethersphere
   - name: medium

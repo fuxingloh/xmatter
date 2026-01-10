@@ -6,8 +6,8 @@ links:
     url: https://multichain.org/
   - name: explorer
     url: https://etherscan.io/token/0x65ef703f5594d2573eb71aaf55bc0cb548492df4
-  - name: twitter
-    url: https://twitter.com/multichainorg
+  - name: x
+    url: https://x.com/multichainorg
   - name: github
     url: https://github.com/anyswap
   - name: telegram

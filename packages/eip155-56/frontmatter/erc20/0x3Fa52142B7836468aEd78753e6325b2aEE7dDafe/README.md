@@ -8,8 +8,8 @@ links:
     url: https://shieldtokencoin.org/
   - name: explorer
     url: https://bscscan.com/token/0x3Fa52142B7836468aEd78753e6325b2aEE7dDafe
-  - name: twitter
-    url: https://twitter.com/ShieldTokenCoin
+  - name: x
+    url: https://x.com/ShieldTokenCoin
   - name: telegram
     url: https://t.me/ShieldTokenCoin
   - name: whitepaper

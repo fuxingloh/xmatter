@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x361c60b7c2828fcab80988d00d1d542c83387b50
   - name: github
     url: https://github.com/DeFiCh/ain
-  - name: twitter
-    url: https://twitter.com/defichain
+  - name: x
+    url: https://x.com/defichain
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/defichain/
 ---

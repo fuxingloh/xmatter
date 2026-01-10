@@ -8,8 +8,8 @@ links:
     url: https://zebec.io/
   - name: explorer
     url: https://bscscan.com/token/0x6D1054C3102E842314e250b9e9C4Be327b8DaaE2
-  - name: twitter
-    url: https://twitter.com/Zebec_HQ
+  - name: x
+    url: https://x.com/Zebec_HQ
   - name: telegram
     url: https://t.me/zebecprotocol
   - name: coinmarketcap

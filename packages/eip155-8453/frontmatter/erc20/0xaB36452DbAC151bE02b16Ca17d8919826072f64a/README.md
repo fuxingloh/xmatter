@@ -6,8 +6,8 @@ links:
     url: https://reserve.org/
   - name: explorer
     url: https://basescan.org/token/0xab36452dbac151be02b16ca17d8919826072f64a
-  - name: twitter
-    url: https://twitter.com/reserveprotocol
+  - name: x
+    url: https://x.com/reserveprotocol
   - name: telegram
     url: https://t.me/reservecurrency
 ---

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xb8167C0E58f4Ca0Ec7a6D967a8d138F05b3A981F
   - name: telegram
     url: https://t.me/jencoin0
-  - name: twitter
-    url: https://twitter.com/Thejencoin
+  - name: x
+    url: https://x.com/Thejencoin
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/jen-coin/
 ---

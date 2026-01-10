@@ -6,8 +6,8 @@ links:
     url: https://shibwifcoin.com/
   - name: explorer
     url: https://solscan.io/token/F6qoefQq4iCBLoNZ34RjEqHjHkD8vtmoRSdw9Nd55J1k
-  - name: twitter
-    url: https://twitter.com/shibwifcoin
+  - name: x
+    url: https://x.com/shibwifcoin
   - name: coingecko
     url: https://coingecko.com/Криптовалюты/shibwifhatcoin
 ---

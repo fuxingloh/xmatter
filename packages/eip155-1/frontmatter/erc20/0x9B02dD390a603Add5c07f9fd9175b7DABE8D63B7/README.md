@@ -6,8 +6,8 @@ links:
     url: https://shopping.io
   - name: explorer
     url: https://etherscan.io/token/0x9b02dd390a603add5c07f9fd9175b7dabe8d63b7
-  - name: twitter
-    url: https://twitter.com/Shoppin.io
+  - name: x
+    url: https://x.com/Shoppin.io
   - name: telegram
     url: https://t.me/joinchat/F8pi_g-SvCtqaLq7hOr2yw
 ---

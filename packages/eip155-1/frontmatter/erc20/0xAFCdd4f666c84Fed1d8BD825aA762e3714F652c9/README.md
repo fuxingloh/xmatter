@@ -15,8 +15,8 @@ links:
     url: https://vitainu.org
   - name: explorer
     url: https://etherscan.io/token/0xAFCdd4f666c84Fed1d8BD825aA762e3714F652c9
-  - name: twitter
-    url: https://twitter.com/vitainucoin
+  - name: x
+    url: https://x.com/vitainucoin
   - name: github
     url: https://github.com/vita-inu
   - name: telegram

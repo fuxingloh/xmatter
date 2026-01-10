@@ -6,8 +6,8 @@ links:
     url: https://www.unidex.exchange/
   - name: explorer
     url: https://optimistic.etherscan.io/token/0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1
-  - name: twitter
-    url: https://twitter.com/MoltenL2
+  - name: x
+    url: https://x.com/MoltenL2
   - name: telegram
     url: https://t.me/moltennetwork
 ---

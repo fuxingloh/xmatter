@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xb78e41AE7fc8121978168557bB096e1A858be2Ea
   - name: telegram
     url: https://t.me/MicroshibaEN
-  - name: twitter
-    url: https://twitter.com/MicroShibaBSC
+  - name: x
+    url: https://x.com/MicroShibaBSC
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/microshib/
 ---

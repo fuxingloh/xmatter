@@ -6,8 +6,8 @@ links:
     url: https://nxt-token.com/
   - name: explorer
     url: https://bscscan.com/token/0x8e428aA75b271EbF905DB7e3F2970453E976481e
-  - name: twitter
-    url: https://twitter.com/token_next
+  - name: x
+    url: https://x.com/token_next
   - name: github
     url: https://github.com/NXTtoken
   - name: telegram

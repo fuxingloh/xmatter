@@ -6,8 +6,8 @@ links:
     url: https://runonflux.io
   - name: explorer
     url: https://solscan.io/token/FLUX1wa2GmbtSB6ZGi2pTNbVCw3zEeKnaPCkPtFXxqXe
-  - name: twitter
-    url: https://twitter.com/RunOnFlux
+  - name: x
+    url: https://x.com/RunOnFlux
   - name: discord
     url: https://discord.com/runonflux
   - name: github

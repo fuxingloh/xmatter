@@ -9,8 +9,8 @@ links:
     url: https://metacade.co/
   - name: explorer
     url: https://etherscan.io/token/0xed328e9c1179a30ddc1e7595e036aed8760c22af
-  - name: twitter
-    url: https://twitter.com/Metacade_
+  - name: x
+    url: https://x.com/Metacade_
   - name: discord
     url: https://discord.com/invite/7XG39NuEKQ
   - name: telegram

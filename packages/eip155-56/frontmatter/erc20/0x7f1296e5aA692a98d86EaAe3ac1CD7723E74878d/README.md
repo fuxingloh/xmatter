@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x7f1296e5aA692a98d86EaAe3ac1CD7723E74878d
   - name: github
     url: https://github.com/BirdFinance/bird-core
-  - name: twitter
-    url: https://twitter.com/bird_aggregator
+  - name: x
+    url: https://x.com/bird_aggregator
   - name: telegram
     url: https://t.me/BirdFinanceGlobal
 ---

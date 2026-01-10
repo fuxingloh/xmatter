@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/8yJ15ee2AUQmwbWPxXLTTeBTzyMGn4MtSRKMqVHw1J1G
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/kitty-ai/
-  - name: twitter
-    url: https://twitter.com/KittyAIsolana
+  - name: x
+    url: https://x.com/KittyAIsolana
 ---
 
 # KITTY AI

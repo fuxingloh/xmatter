@@ -6,8 +6,8 @@ links:
     url: https://theparallel.io
   - name: explorer
     url: https://bscscan.com/token/0xd07e82440A395f3F3551b42dA9210CD1Ef4f8B24
-  - name: twitter
-    url: https://twitter.com/theparallel_io
+  - name: x
+    url: https://x.com/theparallel_io
   - name: github
     url: https://github.com/theparalleldotio
   - name: telegram

@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xbbc2ae13b23d715c30720f079fcd9b4a74093505
   - name: telegram
     url: https://t.me/joinchat/WKqxzZV7I14xItLT
-  - name: twitter
-    url: https://twitter.com/ethernitychain
+  - name: x
+    url: https://x.com/ethernitychain
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/ethernity-chain/
 ---

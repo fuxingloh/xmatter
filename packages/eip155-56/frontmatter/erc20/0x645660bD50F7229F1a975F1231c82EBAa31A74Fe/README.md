@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x645660bD50F7229F1a975F1231c82EBAa31A74Fe
   - name: github
     url: https://github.com/DragonCoin71/
-  - name: twitter
-    url: https://twitter.com/drondragoncoin?s=09
+  - name: x
+    url: https://x.com/drondragoncoin?s=09
   - name: telegram
     url: https://t.me/DRAGON_DRON/
   - name: whitepaper

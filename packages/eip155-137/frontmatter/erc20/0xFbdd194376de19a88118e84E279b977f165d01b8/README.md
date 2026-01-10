@@ -11,8 +11,8 @@ links:
     url: https://polygonscan.com/token/0xFbdd194376de19a88118e84E279b977f165d01b8
   - name: github
     url: https://github.com/beefyfinance
-  - name: twitter
-    url: https://twitter.com/beefyfinance
+  - name: x
+    url: https://x.com/beefyfinance
   - name: telegram
     url: https://t.me/beefyannouncement
   - name: coingecko

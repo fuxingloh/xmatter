@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x079Dd74Cc214Ac5f892f6a7271ef0722F6D0c2e6
   - name: facebook
     url: https://facebook.com/nasadogetoken/
-  - name: twitter
-    url: https://twitter.com/nasadogetoken
+  - name: x
+    url: https://x.com/nasadogetoken
   - name: telegram
     url: https://t.me/nasadogetoken
   - name: reddit

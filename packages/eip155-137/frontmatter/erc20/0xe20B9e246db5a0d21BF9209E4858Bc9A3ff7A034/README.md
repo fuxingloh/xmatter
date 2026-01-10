@@ -8,8 +8,8 @@ links:
     url: https://bsc.banano.cc/
   - name: explorer
     url: https://polygonscan.com/token/0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034
-  - name: twitter
-    url: https://twitter.com/bananocoin
+  - name: x
+    url: https://x.com/bananocoin
   - name: coingecko
     url: https://coingecko.com/en/coins/banano/
 ---

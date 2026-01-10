@@ -8,8 +8,8 @@ links:
     url: https://styleo.network/
   - name: explorer
     url: https://bscscan.com/token/0xd9361d306A9e9A43f5883a064038220EF0D46fB0
-  - name: twitter
-    url: https://twitter.com/ez_Coinmarket
+  - name: x
+    url: https://x.com/ez_Coinmarket
   - name: facebook
     url: https://facebook.com/styleocoin
   - name: telegram_news

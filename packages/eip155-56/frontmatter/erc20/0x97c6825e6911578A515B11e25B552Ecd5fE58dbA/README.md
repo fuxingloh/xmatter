@@ -6,8 +6,8 @@ links:
     url: https://burningmoon.finance/
   - name: explorer
     url: https://bscscan.com/token/0x97c6825e6911578a515b11e25b552ecd5fe58dba
-  - name: twitter
-    url: https://twitter.com/BurningMoonBSC
+  - name: x
+    url: https://x.com/BurningMoonBSC
   - name: telegram
     url: https://t.me/BurningMoonBSC
   - name: coingecko

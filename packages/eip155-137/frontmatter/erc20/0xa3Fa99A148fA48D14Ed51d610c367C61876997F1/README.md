@@ -8,8 +8,8 @@ links:
     url: https://polygonscan.com/token/0xa3fa99a148fa48d14ed51d610c367c61876997f1
   - name: coingecko
     url: https://coingecko.com/en/coins/mimatic/
-  - name: twitter
-    url: https://twitter.com/0xLaoZi
+  - name: x
+    url: https://x.com/0xLaoZi
   - name: discord
     url: https://discord.com/invite/mQq55j65xJ
   - name: medium

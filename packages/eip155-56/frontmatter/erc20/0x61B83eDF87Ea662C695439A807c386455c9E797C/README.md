@@ -16,8 +16,8 @@ links:
     url: https://ignore-fud.gitbook.io/ignore-fud/
   - name: telegram
     url: https://t.me/lgnorefud
-  - name: twitter
-    url: https://twitter.com/ignore_fud
+  - name: x
+    url: https://x.com/ignore_fud
   - name: youtube
     url: https://youtube.com/@IgnoreFud
   - name: medium

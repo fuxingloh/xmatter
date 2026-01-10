@@ -6,8 +6,8 @@ links:
     url: https://aurory.io/
   - name: explorer
     url: https://solscan.io/token/AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP
-  - name: twitter
-    url: https://twitter.com/auroryproject
+  - name: x
+    url: https://x.com/auroryproject
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/aurory/
   - name: coingecko

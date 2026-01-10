@@ -10,8 +10,8 @@ links:
     url: https://polygonscan.com/token/0xf6372cdb9c1d3674e83842e3800f2a62ac9f3c66
   - name: github
     url: https://github.com/iotexproject/iotex-core
-  - name: twitter
-    url: https://twitter.com/iotex_io
+  - name: x
+    url: https://x.com/iotex_io
   - name: telegram
     url: https://t.me/IoTeXGroup
   - name: facebook

@@ -9,8 +9,8 @@ links:
     url: https://badger.finance/
   - name: explorer
     url: https://etherscan.io/token/0x3472A5A71965499acd81997a54BBA8D852C6E53d
-  - name: twitter
-    url: https://twitter.com/$BADGER
+  - name: x
+    url: https://x.com/$BADGER
   - name: discord
     url: https://discord.com/invite/xSPFHHS
   - name: medium

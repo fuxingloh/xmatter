@@ -9,8 +9,8 @@ links:
     url: https://cryptopesos.pro/index.html
   - name: explorer
     url: https://bscscan.com/token/0xbB21c4A6257f3306d0458E92aD0FE583AD0cE858
-  - name: twitter
-    url: https://twitter.com/Crypto_Pesos
+  - name: x
+    url: https://x.com/Crypto_Pesos
   - name: whitepaper
     url: https://cryptopesos.pro/index.html
   - name: telegram

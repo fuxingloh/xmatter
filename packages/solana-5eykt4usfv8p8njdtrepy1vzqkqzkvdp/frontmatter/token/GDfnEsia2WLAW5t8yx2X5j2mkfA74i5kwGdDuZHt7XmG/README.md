@@ -6,8 +6,8 @@ links:
     url: https://thirdtimegames.com/
   - name: explorer
     url: https://solscan.io/token/GDfnEsia2WLAW5t8yx2X5j2mkfA74i5kwGdDuZHt7XmG
-  - name: twitter
-    url: https://twitter.com/photofinishgame
+  - name: x
+    url: https://x.com/photofinishgame
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/crown-by-third-time-games/
 ---

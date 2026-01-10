@@ -6,8 +6,8 @@ links:
     url: https://freemoon.finance
   - name: explorer
     url: https://bscscan.com/token/0x31F0Bc450C12eb62B4c617d4C876f7a66470Fcb3
-  - name: twitter
-    url: https://twitter.com/FREEMOONCOIN
+  - name: x
+    url: https://x.com/FREEMOONCOIN
   - name: github
     url: https://github.com/freemoon-protocol
   - name: telegram

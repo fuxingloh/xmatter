@@ -12,8 +12,8 @@ links:
     url: https://etherscan.io/token/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2
   - name: github
     url: https://github.com/sushiswap
-  - name: twitter
-    url: https://twitter.com/sushiswap
+  - name: x
+    url: https://x.com/sushiswap
   - name: coingecko
     url: https://coingecko.com/en/coins/sushi/
 ---

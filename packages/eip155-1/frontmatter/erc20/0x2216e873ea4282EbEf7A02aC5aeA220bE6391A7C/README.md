@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x2216e873ea4282EbEf7A02aC5aeA220bE6391A7C
   - name: github
     url: https://github.com/smolfinance/
-  - name: twitter
-    url: https://twitter.com/SmolFinance
+  - name: x
+    url: https://x.com/SmolFinance
   - name: telegram
     url: https://t.me/smol_tok
   - name: reddit

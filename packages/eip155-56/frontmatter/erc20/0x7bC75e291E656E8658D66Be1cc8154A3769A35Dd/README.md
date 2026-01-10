@@ -12,8 +12,8 @@ links:
     url: https://coinmarketcap.com/currencies/ime-lab/
   - name: coingecko
     url: https://coingecko.com/coins/ime-lab
-  - name: twitter
-    url: https://twitter.com/ImePlatform
+  - name: x
+    url: https://x.com/ImePlatform
   - name: facebook
     url: https://facebook.com/imeplatform
   - name: discord

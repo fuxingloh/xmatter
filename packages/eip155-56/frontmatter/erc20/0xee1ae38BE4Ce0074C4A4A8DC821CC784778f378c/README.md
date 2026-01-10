@@ -8,8 +8,8 @@ links:
     url: https://vynkchain.org/
   - name: explorer
     url: https://bscscan.com/token/0xee1ae38be4ce0074c4a4a8dc821cc784778f378c
-  - name: twitter
-    url: https://twitter.com/vynkgroup
+  - name: x
+    url: https://x.com/vynkgroup
   - name: github
     url: https://github.com/vynkchain
   - name: telegram

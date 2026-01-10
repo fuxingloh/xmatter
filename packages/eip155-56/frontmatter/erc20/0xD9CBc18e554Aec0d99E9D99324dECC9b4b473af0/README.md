@@ -6,8 +6,8 @@ links:
     url: https://inpacoin.com/
   - name: explorer
     url: https://bscscan.com/token/0xD9CBc18e554Aec0d99E9D99324dECC9b4b473af0
-  - name: twitter
-    url: https://twitter.com/inpacoin2021
+  - name: x
+    url: https://x.com/inpacoin2021
   - name: telegram
     url: https://t.me/inpacoinofficial
   - name: facebook

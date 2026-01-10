@@ -6,8 +6,8 @@ links:
     url: https://unibright.io
   - name: explorer
     url: https://polygonscan.com/token/0x7fbc10850cae055b27039af31bd258430e714c62
-  - name: twitter
-    url: https://twitter.com/unibrightio
+  - name: x
+    url: https://x.com/unibrightio
   - name: telegram
     url: https://t.me/unibright_io
   - name: coinmarketcap

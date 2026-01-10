@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xe320df552e78d57e95cf1182b6960746d5016561
   - name: github
     url: https://github.com/dogecola
-  - name: twitter
-    url: https://twitter.com/doge_cola
+  - name: x
+    url: https://x.com/doge_cola
   - name: telegram
     url: https://t.me/dogecola
 ---

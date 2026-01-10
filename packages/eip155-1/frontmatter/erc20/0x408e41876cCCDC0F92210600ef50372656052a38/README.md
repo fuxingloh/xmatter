@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x408e41876cCCDC0F92210600ef50372656052a38
   - name: github
     url: https://github.com/renproject
-  - name: twitter
-    url: https://twitter.com/renprotocol
+  - name: x
+    url: https://x.com/renprotocol
   - name: reddit
     url: https://reddit.com/r/RenProject
   - name: blog

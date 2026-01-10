@@ -6,8 +6,8 @@ links:
     url: https://duelistking.com/
   - name: explorer
     url: https://bscscan.com/token/0x7Ceb519718A80Dd78a8545AD8e7f401dE4f2faA7
-  - name: twitter
-    url: https://twitter.com/DuelistKingNFT
+  - name: x
+    url: https://x.com/DuelistKingNFT
   - name: telegram
     url: https://t.me/DuelistKingNFT
   - name: whitepaper

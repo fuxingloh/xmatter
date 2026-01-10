@@ -6,8 +6,8 @@ links:
     url: https://ore-system.com/
   - name: explorer
     url: https://bscscan.com/token/0x8e2D8f40818FbaBA663Db6a24FB9B527Fc7100BE
-  - name: twitter
-    url: https://twitter.com/ORESystemNFT
+  - name: x
+    url: https://x.com/ORESystemNFT
   - name: facebook
     url: https://facebook.com/oresystem
   - name: youtube

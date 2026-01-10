@@ -6,8 +6,8 @@ links:
     url: https://thunderada.app/
   - name: explorer
     url: https://bscscan.com/token/0x0A7bB2bddA1c0eA02d98a7b048f4bF809F40277b
-  - name: twitter
-    url: https://twitter.com/ThunderADAapp
+  - name: x
+    url: https://x.com/ThunderADAapp
   - name: telegram
     url: https://t.me/ThunderADA
   - name: docs

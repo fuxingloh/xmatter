@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F
   - name: github
     url: https://github.com/havven/havven
-  - name: twitter
-    url: https://twitter.com/synthetix_io
+  - name: x
+    url: https://x.com/synthetix_io
   - name: reddit
     url: https://reddit.com/r/synthetix_io/
   - name: blog

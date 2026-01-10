@@ -6,8 +6,8 @@ links:
     url: https://tcg.world/
   - name: explorer
     url: https://bscscan.com/token/0xF73d8276C15Ce56b2f4AeE5920e62F767A7f3aEA
-  - name: twitter
-    url: https://twitter.com/OfficialTCGCoin/
+  - name: x
+    url: https://x.com/OfficialTCGCoin/
   - name: telegram
     url: https://t.me/TCGGaming/
   - name: coingecko

@@ -6,8 +6,8 @@ links:
     url: https://thalesmarket.io/
   - name: explorer
     url: https://optimistic.etherscan.io/token/0x217d47011b23bb961eb6d93ca9945b7501a5bb11
-  - name: twitter
-    url: https://twitter.com/thalesmarket
+  - name: x
+    url: https://x.com/thalesmarket
   - name: telegram
     url: https://t.me/thalesprotocol
 ---

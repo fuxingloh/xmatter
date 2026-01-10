@@ -6,8 +6,8 @@ links:
     url: https://www.heroestd.io/
   - name: explorer
     url: https://bscscan.com/token/0x5E2689412Fae5c29BD575fbe1d5C1CD1e0622A8f
-  - name: twitter
-    url: https://twitter.com/heroes_td
+  - name: x
+    url: https://x.com/heroes_td
   - name: discord
     url: https://discord.com/heroestd
   - name: reddit

@@ -6,8 +6,8 @@ links:
     url: https://caw.is/
   - name: explorer
     url: https://etherscan.io/token/0xf3b9569F82B18aEf890De263B84189bd33EBe452
-  - name: twitter
-    url: https://twitter.com/CommunityCaw
+  - name: x
+    url: https://x.com/CommunityCaw
 ---
 
 # A Hunters Dream

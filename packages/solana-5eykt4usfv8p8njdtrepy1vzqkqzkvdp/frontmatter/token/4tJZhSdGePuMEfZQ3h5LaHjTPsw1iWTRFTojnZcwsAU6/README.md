@@ -6,8 +6,8 @@ links:
     url: https://www.elumia.io
   - name: explorer
     url: https://solscan.io/token/4tJZhSdGePuMEfZQ3h5LaHjTPsw1iWTRFTojnZcwsAU6
-  - name: twitter
-    url: https://twitter.com/PlayElumia
+  - name: x
+    url: https://x.com/PlayElumia
   - name: telegram
     url: https://t.me/Legends_of_Elumia_Official/
   - name: coinmarketcap

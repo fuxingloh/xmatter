@@ -6,8 +6,8 @@ links:
     url: https://wsg.gg
   - name: explorer
     url: https://arbiscan.io/token/0xEf04804E1e474D3F9B73184D7ef5D786F3Fce930
-  - name: twitter
-    url: https://twitter.com/WSGToken
+  - name: x
+    url: https://x.com/WSGToken
   - name: telegram
     url: https://t.me/wallstreetgamesarb
   - name: coinmarketcap

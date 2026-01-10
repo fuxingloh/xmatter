@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x389c13d5be24bed2af35c30f211e042225cb06ff
   - name: telegram
     url: https://t.me/ShiborgInu
-  - name: twitter
-    url: https://twitter.com/ShiborgToken
+  - name: x
+    url: https://x.com/ShiborgToken
   - name: reddit
     url: https://reddit.com/r/ShiborgToken/
   - name: facebook

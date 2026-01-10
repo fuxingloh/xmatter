@@ -10,8 +10,8 @@ links:
     url: https://snowtrace.io/token/0xf44Ff799eA2bBFeC96f9A50498209AAc3C2b3b8b
   - name: github
     url: https://github.com/router-protocol
-  - name: twitter
-    url: https://twitter.com/routerprotocol
+  - name: x
+    url: https://x.com/routerprotocol
   - name: coingecko
     url: https://coingecko.com/en/coins/route/
   - name: medium

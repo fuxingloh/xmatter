@@ -6,8 +6,8 @@ links:
     url: https://camelot.exchange/
   - name: explorer
     url: https://arbiscan.io/token/0x3d9907f9a368ad0a51be60f7da3b97cf940982d8
-  - name: twitter
-    url: https://twitter.com/camelotdex
+  - name: x
+    url: https://x.com/camelotdex
   - name: telegram
     url: https://t.me/camelotdex
   - name: coinmarketcap

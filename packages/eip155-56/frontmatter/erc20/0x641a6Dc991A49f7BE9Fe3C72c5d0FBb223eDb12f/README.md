@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x641a6dc991a49f7be9fe3c72c5d0fbb223edb12f
   - name: github
     url: https://github.com/refinetwork
-  - name: twitter
-    url: https://twitter.com/refi_network
+  - name: x
+    url: https://x.com/refi_network
   - name: telegram
     url: https://t.me/Refinetwork
   - name: medium

@@ -6,8 +6,8 @@ links:
     url: https://www.koalaai.vip/
   - name: explorer
     url: https://solscan.io/token/FsA54yL49WKs7rWoGv9sUcbSGWCWV756jTD349e6H2yW
-  - name: twitter
-    url: https://twitter.com/KOALAAIVIP
+  - name: x
+    url: https://x.com/KOALAAIVIP
 ---
 
 # KOALA AI

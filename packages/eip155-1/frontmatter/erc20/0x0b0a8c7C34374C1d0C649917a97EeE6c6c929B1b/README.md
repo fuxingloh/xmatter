@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x0b0a8c7c34374c1d0c649917a97eee6c6c929b1b
   - name: telegram
     url: https://t.me/shibavspepe
-  - name: twitter
-    url: https://twitter.com/shibavspepe
+  - name: x
+    url: https://x.com/shibavspepe
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/shiba-v-pepe/
 ---

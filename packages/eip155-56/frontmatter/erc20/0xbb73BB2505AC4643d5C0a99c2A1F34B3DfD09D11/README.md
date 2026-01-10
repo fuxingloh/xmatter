@@ -8,8 +8,8 @@ links:
     url: https://MetaGamescoin.io
   - name: explorer
     url: https://bscscan.com/token/0xbb73BB2505AC4643d5C0a99c2A1F34B3DfD09D11
-  - name: twitter
-    url: https://twitter.com/MetagamesC
+  - name: x
+    url: https://x.com/MetagamesC
   - name: github
     url: https://github.com/MetaGamescoinio
   - name: telegram

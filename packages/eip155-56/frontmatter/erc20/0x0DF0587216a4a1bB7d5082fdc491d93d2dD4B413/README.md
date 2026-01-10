@@ -6,8 +6,8 @@ links:
     url: https://cheems.pet/
   - name: explorer
     url: https://bscscan.com/token/0x0df0587216a4a1bb7d5082fdc491d93d2dd4b413
-  - name: twitter
-    url: https://twitter.com/LordCheems_bsc
+  - name: x
+    url: https://x.com/LordCheems_bsc
 ---
 
 # Cheems

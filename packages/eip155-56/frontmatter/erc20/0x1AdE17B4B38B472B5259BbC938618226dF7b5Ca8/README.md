@@ -6,8 +6,8 @@ links:
     url: https://quamnetwork.com/
   - name: explorer
     url: https://bscscan.com/token/0x1AdE17B4B38B472B5259BbC938618226dF7b5Ca8
-  - name: twitter
-    url: https://twitter.com/quamnetwork
+  - name: x
+    url: https://x.com/quamnetwork
   - name: telegram
     url: https://t.me/Quamnetwork
   - name: medium

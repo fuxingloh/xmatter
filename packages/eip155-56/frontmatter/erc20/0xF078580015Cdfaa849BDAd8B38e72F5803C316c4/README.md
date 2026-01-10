@@ -8,8 +8,8 @@ links:
     url: https://www.sonofdogev2.com/
   - name: explorer
     url: https://bscscan.com/token/0xF078580015Cdfaa849BDAd8B38e72F5803C316c4
-  - name: twitter
-    url: https://twitter.com/Sonofdoge_
+  - name: x
+    url: https://x.com/Sonofdoge_
   - name: telegram
     url: https://t.me/SonOfDoge
   - name: facebook

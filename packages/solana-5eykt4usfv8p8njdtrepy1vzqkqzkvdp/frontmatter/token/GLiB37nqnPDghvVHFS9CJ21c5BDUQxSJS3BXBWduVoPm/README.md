@@ -6,8 +6,8 @@ links:
     url: https://www.chedda-sol.com/
   - name: explorer
     url: https://solscan.io/token/GLiB37nqnPDghvVHFS9CJ21c5BDUQxSJS3BXBWduVoPm
-  - name: twitter
-    url: https://twitter.com/cheddasolana
+  - name: x
+    url: https://x.com/cheddasolana
   - name: coingecko
     url: https://coingecko.com/en/coins/chedda-2
 ---

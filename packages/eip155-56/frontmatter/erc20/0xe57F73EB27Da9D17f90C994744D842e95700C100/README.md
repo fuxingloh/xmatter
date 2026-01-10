@@ -8,8 +8,8 @@ links:
     url: https://pepe.style
   - name: explorer
     url: https://bscscan.com/token/0xe57F73EB27Da9D17f90C994744D842e95700C100
-  - name: twitter
-    url: https://twitter.com/pepe_ai_bsc
+  - name: x
+    url: https://x.com/pepe_ai_bsc
   - name: github
     url: https://github.com/pepestyle
   - name: telegram

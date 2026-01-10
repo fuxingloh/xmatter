@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x1Bd5ddCD740F2D13b2255fc325c02509da35C4e4
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/baby-cat-coin/
-  - name: twitter
-    url: https://twitter.com/babycatcoinbsc
+  - name: x
+    url: https://x.com/babycatcoinbsc
   - name: coingecko
     url: https://coingecko.com/en/coins/baby-catcoin
   - name: github

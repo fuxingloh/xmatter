@@ -12,8 +12,8 @@ links:
     url: https://xcelpay.io/whitepaper
   - name: telegram
     url: https://t.me/XcelToken
-  - name: twitter
-    url: https://twitter.com/XcelPayWallet
+  - name: x
+    url: https://x.com/XcelPayWallet
   - name: medium
     url: https://medium.com/xcellab-magazine
   - name: facebook

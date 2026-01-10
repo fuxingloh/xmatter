@@ -9,8 +9,8 @@ links:
     url: https://etheking.io/
   - name: explorer
     url: https://bscscan.com/token/0x33efbC79BbF863dB11b4A1BF6570FFB6Bf41d0d2
-  - name: twitter
-    url: https://twitter.com/EthekingNetsky
+  - name: x
+    url: https://x.com/EthekingNetsky
   - name: github
     url: https://github.com/NS8888/EtheToken
   - name: telegram

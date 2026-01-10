@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x64F36701138f0E85cC10c34Ea535FdBADcB54147
   - name: discord
     url: https://discord.com/qzDnC4cyg3
-  - name: twitter
-    url: https://twitter.com/InuAnon
+  - name: x
+    url: https://x.com/InuAnon
   - name: telegram
     url: https://t.me/InuAnonOfficial
 ---

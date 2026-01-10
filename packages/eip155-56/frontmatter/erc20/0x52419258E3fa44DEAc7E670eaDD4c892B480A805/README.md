@@ -9,8 +9,8 @@ links:
     url: https://deploystarship.com
   - name: explorer
     url: https://bscscan.com/token/0x52419258E3fa44DEAc7E670eaDD4c892B480A805
-  - name: twitter
-    url: https://twitter.com/deploystarship
+  - name: x
+    url: https://x.com/deploystarship
   - name: github
     url: https://github.com/deploystarship
   - name: telegram

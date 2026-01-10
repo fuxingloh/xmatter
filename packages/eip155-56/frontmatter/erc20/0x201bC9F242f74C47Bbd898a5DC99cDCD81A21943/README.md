@@ -10,8 +10,8 @@ links:
     url: https://iguverse.com/
   - name: explorer
     url: https://bscscan.com/token/0x201bC9F242f74C47Bbd898a5DC99cDCD81A21943
-  - name: twitter
-    url: https://twitter.com/iguverse
+  - name: x
+    url: https://x.com/iguverse
   - name: github
     url: https://github.com/iguverse
   - name: telegram

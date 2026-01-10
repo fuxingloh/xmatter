@@ -8,8 +8,8 @@ links:
     url: https://www.playtrophy.com/
   - name: explorer
     url: https://polygonscan.com/token/0x1a49e59ab7101d6a66d6b2fa6d09932079cc80ec
-  - name: twitter
-    url: https://twitter.com/playtrophy
+  - name: x
+    url: https://x.com/playtrophy
   - name: discord
     url: https://discord.com/invite/k2D8M95yMc
   - name: coingecko

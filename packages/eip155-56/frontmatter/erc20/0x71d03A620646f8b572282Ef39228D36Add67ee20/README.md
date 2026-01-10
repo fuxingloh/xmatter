@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x71d03a620646f8b572282ef39228d36add67ee20
   - name: telegram
     url: https://t.me/sekuyaofficial
-  - name: twitter
-    url: https://twitter.com/Sekuyaofficial
+  - name: x
+    url: https://x.com/Sekuyaofficial
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/sekuya/
   - name: coingecko

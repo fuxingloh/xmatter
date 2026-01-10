@@ -6,8 +6,8 @@ links:
     url: https://xwg.games/
   - name: explorer
     url: https://bscscan.com/token/0x6b23C89196DeB721e6Fd9726E6C76E4810a464bc
-  - name: twitter
-    url: https://twitter.com/xwg_games
+  - name: x
+    url: https://x.com/xwg_games
   - name: github
     url: https://github.com/XWorldGames
   - name: telegram

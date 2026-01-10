@@ -8,8 +8,8 @@ links:
     url: https://cvi.finance/
   - name: explorer
     url: https://polygonscan.com/token/0x43df9c0a1156c96cea98737b511ac89d0e2a1f46
-  - name: twitter
-    url: https://twitter.com/official_cvi
+  - name: x
+    url: https://x.com/official_cvi
   - name: github
     url: https://github.com/coti-io/cvi-contracts
   - name: telegram

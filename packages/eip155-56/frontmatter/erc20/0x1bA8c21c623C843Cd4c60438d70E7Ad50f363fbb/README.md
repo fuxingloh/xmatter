@@ -6,8 +6,8 @@ links:
     url: https://srnartgallery.com/
   - name: explorer
     url: https://bscscan.com/token/0x1bA8c21c623C843Cd4c60438d70E7Ad50f363fbb
-  - name: twitter
-    url: https://twitter.com/srn_art
+  - name: x
+    url: https://x.com/srn_art
   - name: telegram
     url: https://t.me/srnArtGalleryOfficial
   - name: whitepaper

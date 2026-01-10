@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xe1030B48b2033314979143766d7dC1F40ef8CE11
   - name: facebook
     url: https://facebook.com/groups/thepeoplescoin/
-  - name: twitter
-    url: https://twitter.com/ThePeoples_Coin
+  - name: x
+    url: https://x.com/ThePeoples_Coin
   - name: reddit
     url: https://reddit.com/r/PEEPScoin/
   - name: telegram

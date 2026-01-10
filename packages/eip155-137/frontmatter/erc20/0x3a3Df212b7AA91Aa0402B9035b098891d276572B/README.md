@@ -6,8 +6,8 @@ links:
     url: https://polycat.finance
   - name: explorer
     url: https://polygonscan.com/token/0x3a3df212b7aa91aa0402b9035b098891d276572b
-  - name: twitter
-    url: https://twitter.com/PolycatFinance
+  - name: x
+    url: https://x.com/PolycatFinance
   - name: github
     url: https://github.com/polycatfi
   - name: telegram

@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x42476F744292107e34519F9c357927074Ea3F75D
   - name: telegram
     url: https://t.me/loomnetwork
-  - name: twitter
-    url: https://twitter.com/loomnetwork
+  - name: x
+    url: https://x.com/loomnetwork
   - name: github
     url: https://github.com/loomnetwork
 ---

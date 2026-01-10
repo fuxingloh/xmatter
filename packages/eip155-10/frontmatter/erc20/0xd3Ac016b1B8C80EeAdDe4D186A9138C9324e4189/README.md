@@ -8,8 +8,8 @@ links:
     url: https://okcash.co
   - name: explorer
     url: https://optimistic.etherscan.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189
-  - name: twitter
-    url: https://twitter.com/OkcashCrypto
+  - name: x
+    url: https://x.com/OkcashCrypto
   - name: github
     url: https://github.com/okcashpro
   - name: coinmarketcap

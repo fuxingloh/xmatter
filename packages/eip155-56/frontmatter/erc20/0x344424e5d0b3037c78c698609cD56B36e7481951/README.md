@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x344424e5d0b3037c78c698609cD56B36e7481951
   - name: telegram
     url: https://t.me/MysteryCoin
-  - name: twitter
-    url: https://twitter.com/MysteryCoin_BSC
+  - name: x
+    url: https://x.com/MysteryCoin_BSC
 ---
 
 # MysteryCoin

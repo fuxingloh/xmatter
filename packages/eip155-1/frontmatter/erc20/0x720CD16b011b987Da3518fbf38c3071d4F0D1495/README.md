@@ -8,8 +8,8 @@ links:
     url: https://runonflux.io/
   - name: explorer
     url: https://etherscan.io/token/0x720cd16b011b987da3518fbf38c3071d4f0d1495
-  - name: twitter
-    url: https://twitter.com/RunOnFlux
+  - name: x
+    url: https://x.com/RunOnFlux
   - name: github
     url: https://github.com/runonflux
   - name: facebook

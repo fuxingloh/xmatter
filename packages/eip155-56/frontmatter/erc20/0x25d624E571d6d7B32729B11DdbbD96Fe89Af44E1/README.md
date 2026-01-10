@@ -8,8 +8,8 @@ links:
     url: https://wibegram.com/
   - name: explorer
     url: https://bscscan.com/token/0x25d624E571d6d7B32729B11DdbbD96Fe89Af44E1
-  - name: twitter
-    url: https://twitter.com/wibegram
+  - name: x
+    url: https://x.com/wibegram
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/wibegram/
   - name: telegram

@@ -9,8 +9,8 @@ links:
     url: https://polkabridge.org/
   - name: explorer
     url: https://bscscan.com/token/0x1d1cb8997570e73949930c01fe5796c88d7336c6
-  - name: twitter
-    url: https://twitter.com/realpolkabridge
+  - name: x
+    url: https://x.com/realpolkabridge
   - name: telegram_news
     url: https://t.me/polkabridge
   - name: telegram

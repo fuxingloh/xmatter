@@ -6,8 +6,8 @@ links:
     url: https://zedscan.net
   - name: explorer
     url: https://bscscan.com/token/0x4be35ec329343d7d9f548d42b0f8c17fffe07db4
-  - name: twitter
-    url: https://twitter.com/zedxionc
+  - name: x
+    url: https://x.com/zedxionc
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/tether-usd-bridged-zed20-usdt/
 ---

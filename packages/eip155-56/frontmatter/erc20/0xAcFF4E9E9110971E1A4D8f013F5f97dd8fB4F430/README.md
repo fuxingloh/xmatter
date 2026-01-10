@@ -8,8 +8,8 @@ links:
     url: https://kingforevertoken.com/
   - name: explorer
     url: https://bscscan.com/token/0xacff4e9e9110971e1a4d8f013f5f97dd8fb4f430
-  - name: twitter
-    url: https://twitter.com/kingforeverbsc
+  - name: x
+    url: https://x.com/kingforeverbsc
   - name: coingecko
     url: https://coingecko.com/coins/king-forever
   - name: coinmarketcap

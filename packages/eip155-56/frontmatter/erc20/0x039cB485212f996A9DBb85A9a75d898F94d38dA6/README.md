@@ -11,8 +11,8 @@ links:
     url: https://bscscan.com/token/0x039cb485212f996a9dbb85a9a75d898f94d38da6
   - name: github
     url: https://github.com/dexe-network/DeXe-Protocol
-  - name: twitter
-    url: https://twitter.com/DexeNetwork
+  - name: x
+    url: https://x.com/DexeNetwork
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/dexe/
   - name: coingecko

@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x9E8bfE46f9Af27c5Ea5C9C72b86D71bb86953A0c
   - name: github
     url: https://github.com/ezdex-service
-  - name: twitter
-    url: https://twitter.com/ExchangeEzdex
+  - name: x
+    url: https://x.com/ExchangeEzdex
   - name: facebook
     url: https://facebook.com/EZDexExchange/
   - name: reddit

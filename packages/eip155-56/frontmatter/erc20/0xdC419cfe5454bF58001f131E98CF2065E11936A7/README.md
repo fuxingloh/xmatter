@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xdC419cfe5454bF58001f131E98CF2065E11936A7
   - name: telegram
     url: https://t.me/SUNDOG_TRX
-  - name: twitter
-    url: https://twitter.com/sundog_trx
+  - name: x
+    url: https://x.com/sundog_trx
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/sundog/
 ---

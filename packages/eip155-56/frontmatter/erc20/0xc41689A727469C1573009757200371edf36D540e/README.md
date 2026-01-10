@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xc41689A727469C1573009757200371edf36D540e
   - name: github
     url: https://github.com/dynamixtoken
-  - name: twitter
-    url: https://twitter.com/Dynamixarmy
+  - name: x
+    url: https://x.com/Dynamixarmy
   - name: telegram
     url: https://t.me/DynamixToken
   - name: reddit

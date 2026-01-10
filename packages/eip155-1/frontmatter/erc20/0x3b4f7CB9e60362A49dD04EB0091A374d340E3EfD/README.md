@@ -6,8 +6,8 @@ links:
     url: https://itam.network
   - name: explorer
     url: https://etherscan.io/token/0x3b4f7CB9e60362A49dD04EB0091A374d340E3EfD
-  - name: twitter
-    url: https://twitter.com/itamgames
+  - name: x
+    url: https://x.com/itamgames
   - name: medium
     url: https://medium.com/itam
   - name: telegram

@@ -6,8 +6,8 @@ links:
     url: https://bscgirl.site/
   - name: explorer
     url: https://bscscan.com/token/0xB3b8326C75893632945cA6E4f4Bd76E7a7c7D5Ac
-  - name: twitter
-    url: https://twitter.com/BSC_Girl?s=09
+  - name: x
+    url: https://x.com/BSC_Girl?s=09
   - name: telegram
     url: https://t.me/joinchat/X21yx11I-hMyMzQ1
   - name: whitepaper

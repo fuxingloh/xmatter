@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830
   - name: github
     url: https://github.com/berrydata
-  - name: twitter
-    url: https://twitter.com/berry_data
+  - name: x
+    url: https://x.com/berry_data
   - name: telegram
     url: https://t.me/berrydata
 ---

@@ -8,8 +8,8 @@ links:
     url: https://polygonscan.com/token/0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32
   - name: github
     url: https://github.com/telcoin
-  - name: twitter
-    url: https://twitter.com/telcoin_team
+  - name: x
+    url: https://x.com/telcoin_team
   - name: coingecko
     url: https://coingecko.com/en/coins/telcoin/
   - name: medium

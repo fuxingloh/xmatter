@@ -12,8 +12,8 @@ links:
     url: https://t.me/gmt_token
   - name: facebook
     url: https://facebook.com/GMTtoken
-  - name: twitter
-    url: https://twitter.com/GMT_Token
+  - name: x
+    url: https://x.com/GMT_Token
   - name: telegram
     url: https://t.me/gmt_token_talk
   - name: whitepaper

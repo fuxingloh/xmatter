@@ -6,8 +6,8 @@ links:
     url: https://subquery.network/
   - name: explorer
     url: https://basescan.org/token/0x858c50C3AF1913b0E849aFDB74617388a1a5340d
-  - name: twitter
-    url: https://twitter.com/SubQueryNetwork
+  - name: x
+    url: https://x.com/SubQueryNetwork
 ---
 
 # SubQueryToken

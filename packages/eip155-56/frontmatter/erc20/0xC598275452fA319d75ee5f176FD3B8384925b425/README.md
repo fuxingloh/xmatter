@@ -9,8 +9,8 @@ links:
     url: https://stream-coin.com/
   - name: explorer
     url: https://bscscan.com/token/0xC598275452fA319d75ee5f176FD3B8384925b425
-  - name: twitter
-    url: https://twitter.com/streamcoin_strm
+  - name: x
+    url: https://x.com/streamcoin_strm
   - name: github
     url: https://github.com/stream-coin-tech
 ---

@@ -8,8 +8,8 @@ links:
     url: https://www.orbs.com/
   - name: explorer
     url: https://snowtrace.io/token/0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A
-  - name: twitter
-    url: https://twitter.com/orbs_network
+  - name: x
+    url: https://x.com/orbs_network
   - name: medium
     url: https://medium.com/orbs-network
   - name: telegram

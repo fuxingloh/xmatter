@@ -6,8 +6,8 @@ links:
     url: https://celt.game/
   - name: explorer
     url: https://bscscan.com/token/0xE93B4fb367F3678A32f28254355f9f6ac000c976
-  - name: twitter
-    url: https://twitter.com/GameCelt
+  - name: x
+    url: https://x.com/GameCelt
   - name: github
     url: https://github.com/CeltGame
   - name: telegram

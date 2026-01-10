@@ -8,8 +8,8 @@ links:
     url: https://risehero.io
   - name: explorer
     url: https://bscscan.com/token/0xa3d80275E300237a62D3431C26d52f185584cC1B
-  - name: twitter
-    url: https://twitter.com/RiseHeroNFT
+  - name: x
+    url: https://x.com/RiseHeroNFT
   - name: telegram
     url: https://t.me/RiseHero
 ---

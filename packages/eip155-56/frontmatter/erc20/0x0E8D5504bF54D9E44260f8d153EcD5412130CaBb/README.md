@@ -6,8 +6,8 @@ links:
     url: https://unicrypt.network
   - name: explorer
     url: https://bscscan.com/token/0x0e8d5504bf54d9e44260f8d153ecd5412130cabb
-  - name: twitter
-    url: https://twitter.com/UNCX_token
+  - name: x
+    url: https://x.com/UNCX_token
   - name: medium
     url: https://unicrypt.medium.com/
   - name: telegram

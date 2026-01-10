@@ -6,8 +6,8 @@ links:
     url: https://catboy.finance/
   - name: explorer
     url: https://bscscan.com/token/0xa0e7566D693D015B59F2FD0e7fd26a8aC5Ca03dE
-  - name: twitter
-    url: https://twitter.com/bsccatboy
+  - name: x
+    url: https://x.com/bsccatboy
   - name: reddit
     url: https://reddit.com/user/catboyfinance/
   - name: coinmarketcap

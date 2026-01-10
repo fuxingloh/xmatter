@@ -6,8 +6,8 @@ links:
     url: https://aivcompanions.com/
   - name: explorer
     url: https://bscscan.com/token/0xbe6ad1eb9876cf3d3f9b85feecfb400298e80143
-  - name: twitter
-    url: https://twitter.com/AIV_Companions
+  - name: x
+    url: https://x.com/AIV_Companions
   - name: telegram
     url: https://t.me/AIV_Companions
   - name: coinmarketcap

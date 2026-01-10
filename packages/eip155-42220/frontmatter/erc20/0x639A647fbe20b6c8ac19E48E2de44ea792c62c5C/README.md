@@ -11,8 +11,8 @@ links:
     url: https://explorer.bitquery.io/celo_rc1/token/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C
   - name: github
     url: https://github.com/beefyfinance
-  - name: twitter
-    url: https://twitter.com/beefyfinance
+  - name: x
+    url: https://x.com/beefyfinance
   - name: telegram
     url: https://t.me/beefyannouncement
   - name: coingecko

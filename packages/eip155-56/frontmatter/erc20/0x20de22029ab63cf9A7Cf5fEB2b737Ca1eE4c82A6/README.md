@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x20de22029ab63cf9A7Cf5fEB2b737Ca1eE4c82A6
   - name: github
     url: https://github.com/tranchess/contract-core
-  - name: twitter
-    url: https://twitter.com/tranchess
+  - name: x
+    url: https://x.com/tranchess
   - name: medium
     url: https://medium.com/@tranchess
   - name: telegram

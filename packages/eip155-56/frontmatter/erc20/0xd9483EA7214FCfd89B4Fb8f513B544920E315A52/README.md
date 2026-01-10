@@ -6,8 +6,8 @@ links:
     url: https://travala.com
   - name: explorer
     url: https://bscscan.com/token/0xd9483EA7214FCfd89B4Fb8f513B544920E315A52
-  - name: twitter
-    url: https://twitter.com/travalacom
+  - name: x
+    url: https://x.com/travalacom
   - name: github
     url: https://github.com/AVA-Foundation
   - name: telegram

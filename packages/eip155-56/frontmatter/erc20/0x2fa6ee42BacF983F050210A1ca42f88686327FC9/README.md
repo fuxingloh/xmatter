@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x2fa6ee42BacF983F050210A1ca42f88686327FC9
   - name: telegram
     url: https://t.me/+151I1-uPRDs2Yzg9
-  - name: twitter
-    url: https://twitter.com/w3dao_bsc?s=11
+  - name: x
+    url: https://x.com/w3dao_bsc?s=11
 ---
 
 # W3C

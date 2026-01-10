@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xc22e8114818A918260662375450e19aC73D32852
   - name: telegram
     url: https://t.me/kittycakebsc
-  - name: twitter
-    url: https://twitter.com/kittycaketoken
+  - name: x
+    url: https://x.com/kittycaketoken
   - name: whitepaper
     url: https://dessertswap.finance/audits/KittyCake%20BEP-20%20Audit%209445619.pdf
   - name: coingecko

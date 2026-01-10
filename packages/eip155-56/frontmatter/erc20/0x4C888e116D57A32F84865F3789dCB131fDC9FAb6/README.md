@@ -6,8 +6,8 @@ links:
     url: https://cirusfoundation.com/
   - name: explorer
     url: https://bscscan.com/token/0x4c888e116d57a32f84865f3789dcb131fdc9fab6
-  - name: twitter
-    url: https://twitter.com/CirusFoundation
+  - name: x
+    url: https://x.com/CirusFoundation
   - name: telegram
     url: https://t.me/cirusfoundation
 ---

@@ -6,8 +6,8 @@ links:
     url: https://www.bytemasons.com/
   - name: explorer
     url: https://optimistic.etherscan.io/token/0x39FdE572a18448F8139b7788099F0a0740f51205
-  - name: twitter
-    url: https://twitter.com/ByteMasons
+  - name: x
+    url: https://x.com/ByteMasons
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/oath/
 ---

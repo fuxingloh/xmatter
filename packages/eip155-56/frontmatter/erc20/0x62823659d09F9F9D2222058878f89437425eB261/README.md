@@ -8,8 +8,8 @@ links:
     url: https://ertha.io/
   - name: explorer
     url: https://bscscan.com/token/0x62823659d09F9F9D2222058878f89437425eB261
-  - name: twitter
-    url: https://twitter.com/ErthaGame
+  - name: x
+    url: https://x.com/ErthaGame
   - name: telegram
     url: https://t.me/Erthium
   - name: discord

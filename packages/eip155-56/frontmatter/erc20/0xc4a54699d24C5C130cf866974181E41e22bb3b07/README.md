@@ -6,8 +6,8 @@ links:
     url: https://www.flokielon.net/
   - name: explorer
     url: https://bscscan.com/token/0xc4a54699d24C5C130cf866974181E41e22bb3b07
-  - name: twitter
-    url: https://twitter.com/floki_real
+  - name: x
+    url: https://x.com/floki_real
   - name: github
     url: https://github.com/flokielonreal
   - name: telegram

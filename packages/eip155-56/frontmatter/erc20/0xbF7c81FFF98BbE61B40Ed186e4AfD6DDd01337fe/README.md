@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe
   - name: github
     url: https://github.com/ElrondNetwork
-  - name: twitter
-    url: https://twitter.com/ElrondNetwork
+  - name: x
+    url: https://x.com/ElrondNetwork
   - name: telegram
     url: https://t.me/ElrondNetwork
   - name: blog

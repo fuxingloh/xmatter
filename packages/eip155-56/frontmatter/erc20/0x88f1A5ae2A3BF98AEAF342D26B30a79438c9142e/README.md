@@ -12,8 +12,8 @@ links:
     url: https://bscscan.com/token/0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e
   - name: github
     url: https://github.com/iearn-finance
-  - name: twitter
-    url: https://twitter.com/iearnfinance
+  - name: x
+    url: https://x.com/iearnfinance
   - name: blog
     url: https://medium.com/iearn
   - name: telegram

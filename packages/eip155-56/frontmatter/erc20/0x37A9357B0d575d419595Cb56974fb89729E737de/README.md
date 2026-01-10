@@ -6,8 +6,8 @@ links:
     url: https://glxcoin.space/
   - name: explorer
     url: https://bscscan.com/token/0x37A9357B0d575d419595Cb56974fb89729E737de
-  - name: twitter
-    url: https://twitter.com/GLXcoin_
+  - name: x
+    url: https://x.com/GLXcoin_
   - name: telegram
     url: https://t.me/glxcion
   - name: medium

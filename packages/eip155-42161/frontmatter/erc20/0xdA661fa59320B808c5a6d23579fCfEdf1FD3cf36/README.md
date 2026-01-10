@@ -8,8 +8,8 @@ links:
     url: https://mobox.io
   - name: explorer
     url: https://arbiscan.io/token/0xdA661fa59320B808c5a6d23579fCfEdf1FD3cf36
-  - name: twitter
-    url: https://twitter.com/MOBOX_Official
+  - name: x
+    url: https://x.com/MOBOX_Official
   - name: telegram
     url: https://t.me/mobox_io
   - name: coinmarketcap

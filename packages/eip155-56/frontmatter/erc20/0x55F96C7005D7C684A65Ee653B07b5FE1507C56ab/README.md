@@ -6,8 +6,8 @@ links:
     url: https://woj.finance
   - name: explorer
     url: https://bscscan.com/token/0x55F96C7005D7C684A65Ee653B07b5FE1507C56ab
-  - name: twitter
-    url: https://twitter.com/wojfinance
+  - name: x
+    url: https://x.com/wojfinance
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/wojak-finance/
   - name: medium

@@ -9,8 +9,8 @@ links:
     url: https://nimbusplatform.io
   - name: explorer
     url: https://etherscan.io/token/0xEB58343b36C7528F23CAAe63a150240241310049
-  - name: twitter
-    url: https://twitter.com/nmbplatform
+  - name: x
+    url: https://x.com/nmbplatform
   - name: telegram
     url: https://t.me/nmbplatform
   - name: youtube

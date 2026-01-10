@@ -8,8 +8,8 @@ links:
     url: https://polygonscan.com/token/0x874e178a2f3f3f9d34db862453cd756e7eab0381
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/gravity-finance/
-  - name: twitter
-    url: https://twitter.com/Gravity_Finance
+  - name: x
+    url: https://x.com/Gravity_Finance
   - name: telegram
     url: https://t.me/gravityfinance
   - name: medium

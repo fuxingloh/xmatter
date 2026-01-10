@@ -8,8 +8,8 @@ links:
     url: https://www.artrade.app/fr
   - name: explorer
     url: https://bscscan.com/token/0x7559C49c3Aec50E763A486bB232fA8d0d76078e4
-  - name: twitter
-    url: https://twitter.com/ArtradeApp
+  - name: x
+    url: https://x.com/ArtradeApp
   - name: github
     url: https://github.com/artradeapp/
   - name: telegram

@@ -8,8 +8,8 @@ links:
     url: https://fqswap.org/
   - name: explorer
     url: https://bscscan.com/token/0x9075055C3Ee590Ee0d7a2e1EF4376A851369E8E0
-  - name: twitter
-    url: https://twitter.com/fqswap
+  - name: x
+    url: https://x.com/fqswap
   - name: github
     url: https://github.com/fqswap
   - name: telegram

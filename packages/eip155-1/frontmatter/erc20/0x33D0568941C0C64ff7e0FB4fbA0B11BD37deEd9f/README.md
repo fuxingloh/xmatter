@@ -6,8 +6,8 @@ links:
     url: https://rampdefi.com/
   - name: explorer
     url: https://etherscan.io/token/0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f
-  - name: twitter
-    url: https://twitter.com/RampDefi
+  - name: x
+    url: https://x.com/RampDefi
   - name: telegram
     url: https://t.me/rampdefiofficial
   - name: medium

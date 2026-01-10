@@ -6,8 +6,8 @@ links:
     url: https://madagascar-crypto.com/
   - name: explorer
     url: https://bscscan.com/token/0x4AAd6A01068c2621545d087A3c5281837112585b
-  - name: twitter
-    url: https://twitter.com/MadagascarToken
+  - name: x
+    url: https://x.com/MadagascarToken
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/madagascar/
   - name: coingecko

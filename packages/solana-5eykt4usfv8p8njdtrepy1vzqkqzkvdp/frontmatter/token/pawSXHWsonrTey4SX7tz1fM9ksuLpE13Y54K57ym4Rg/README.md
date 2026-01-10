@@ -6,8 +6,8 @@ links:
     url: https://paypaw.cards/
   - name: explorer
     url: https://solscan.io/token/pawSXHWsonrTey4SX7tz1fM9ksuLpE13Y54K57ym4Rg
-  - name: twitter
-    url: https://twitter.com/paypaw_cards
+  - name: x
+    url: https://x.com/paypaw_cards
 ---
 
 # PayPaw

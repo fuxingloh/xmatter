@@ -6,8 +6,8 @@ links:
     url: https://titano.finance
   - name: explorer
     url: https://bscscan.com/token/0xBA96731324dE188ebC1eD87ca74544dDEbC07D7f
-  - name: twitter
-    url: https://twitter.com/TitanoFinance
+  - name: x
+    url: https://x.com/TitanoFinance
   - name: github
     url: https://github.com/Titano-finance
   - name: telegram

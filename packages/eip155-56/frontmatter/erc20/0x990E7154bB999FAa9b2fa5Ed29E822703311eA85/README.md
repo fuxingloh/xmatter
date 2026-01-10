@@ -8,8 +8,8 @@ links:
     url: https://bridge.thundercore.com/bsc/
   - name: explorer
     url: https://bscscan.com/token/0x990E7154bB999FAa9b2fa5Ed29E822703311eA85
-  - name: twitter
-    url: https://twitter.com/ThunderCoreLab
+  - name: x
+    url: https://x.com/ThunderCoreLab
   - name: discord
     url: https://discord.com/channels/467102816230440970/468561199790030849
 ---

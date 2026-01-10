@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x61C911B6D1B46DcaDbB61bFa7100290a6faaD53D
   - name: whitepaper
     url: https://riseupofficial.com/wp-content/uploads/2021/07/RiseUp_Litepaper_v4.pdf
-  - name: twitter
-    url: https://twitter.com/RISEUP_WE_STAND
+  - name: x
+    url: https://x.com/RISEUP_WE_STAND
   - name: telegram
     url: https://t.me/riseup_officiall
   - name: coinmarketcap

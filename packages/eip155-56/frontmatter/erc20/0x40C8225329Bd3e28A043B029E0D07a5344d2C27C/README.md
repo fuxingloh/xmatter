@@ -9,8 +9,8 @@ links:
     url: https://ageofgods.net
   - name: explorer
     url: https://bscscan.com/token/0x40c8225329bd3e28a043b029e0d07a5344d2c27c
-  - name: twitter
-    url: https://twitter.com/ageofgodsnet
+  - name: x
+    url: https://x.com/ageofgodsnet
   - name: telegram
     url: https://t.me/ageofgodsnet
   - name: coinmarketcap

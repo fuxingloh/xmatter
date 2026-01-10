@@ -9,8 +9,8 @@ links:
     url: https://polygon.bombcrypto.io/
   - name: explorer
     url: https://polygonscan.com/token/0xb2c63830d4478cb331142fac075a39671a5541dc
-  - name: twitter
-    url: https://twitter.com/BombPolygon
+  - name: x
+    url: https://x.com/BombPolygon
   - name: telegram
     url: https://t.me/Bombcrypto2_polygon
   - name: facebook

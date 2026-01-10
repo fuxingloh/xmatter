@@ -12,8 +12,8 @@ links:
     url: https://coinmarketcap.com/currencies/ttcoin/
   - name: coingecko
     url: https://coingecko.com/coins/ttcoin
-  - name: twitter
-    url: https://twitter.com/ttcoinofficial
+  - name: x
+    url: https://x.com/ttcoinofficial
   - name: github
     url: https://github.com/TTCOIN-TC/tc
   - name: telegram

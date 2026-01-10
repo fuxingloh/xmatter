@@ -6,8 +6,8 @@ links:
     url: https://www.babydogeinu.io/
   - name: explorer
     url: https://bscscan.com/token/0x5e5c9001aa81332d405d993ffd1468751d659d1e
-  - name: twitter
-    url: https://twitter.com/babydoge_inu
+  - name: x
+    url: https://x.com/babydoge_inu
   - name: telegram
     url: https://t.me/baby_doge_inu
   - name: coinmarketcap

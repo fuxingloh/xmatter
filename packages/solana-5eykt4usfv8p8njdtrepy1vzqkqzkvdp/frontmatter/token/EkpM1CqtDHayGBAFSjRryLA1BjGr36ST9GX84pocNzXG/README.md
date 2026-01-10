@@ -6,8 +6,8 @@ links:
     url: https://khabycoin.com/
   - name: explorer
     url: https://solscan.io/token/EkpM1CqtDHayGBAFSjRryLA1BjGr36ST9GX84pocNzXG
-  - name: twitter
-    url: https://twitter.com/khabysolana
+  - name: x
+    url: https://x.com/khabysolana
   - name: telegram
     url: https://t.me/khabysolana
 ---

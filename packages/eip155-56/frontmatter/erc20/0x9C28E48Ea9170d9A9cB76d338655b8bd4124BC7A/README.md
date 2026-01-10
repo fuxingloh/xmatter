@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x9c28e48ea9170d9a9cb76d338655b8bd4124bc7a
   - name: github
     url: https://github.com/YearnClassic
-  - name: twitter
-    url: https://twitter.com/earn_finance
+  - name: x
+    url: https://x.com/earn_finance
   - name: telegram
     url: https://t.me/earndefi
   - name: medium

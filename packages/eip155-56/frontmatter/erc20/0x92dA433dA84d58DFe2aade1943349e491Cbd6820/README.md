@@ -8,8 +8,8 @@ links:
     url: https://risedefenders.io/
   - name: explorer
     url: https://bscscan.com/token/0x92da433da84d58dfe2aade1943349e491cbd6820
-  - name: twitter
-    url: https://twitter.com/DefendersRise
+  - name: x
+    url: https://x.com/DefendersRise
   - name: github
     url: https://github.com/ROD-NFT/RiseOfDefendersContract
   - name: telegram

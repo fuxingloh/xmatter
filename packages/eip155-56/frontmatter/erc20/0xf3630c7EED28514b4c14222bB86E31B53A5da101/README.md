@@ -8,8 +8,8 @@ links:
     url: https://metanet.is/
   - name: explorer
     url: https://bscscan.com/token/0xf3630c7EED28514b4c14222bB86E31B53A5da101
-  - name: twitter
-    url: https://twitter.com/MetaNetflix
+  - name: x
+    url: https://x.com/MetaNetflix
   - name: telegram
     url: https://t.me/metanetbsc
   - name: coinmarketcap

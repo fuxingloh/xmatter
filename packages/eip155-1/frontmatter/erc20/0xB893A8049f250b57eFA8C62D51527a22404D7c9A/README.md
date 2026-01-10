@@ -6,8 +6,8 @@ links:
     url: https://americanshiba.info
   - name: explorer
     url: https://etherscan.io/token/0xb893a8049f250b57efa8c62d51527a22404d7c9a
-  - name: twitter
-    url: https://twitter.com/USHIBAEcosystem?s=09
+  - name: x
+    url: https://x.com/USHIBAEcosystem?s=09
   - name: telegram
     url: https://t.me/officialushiba
   - name: telegram_news

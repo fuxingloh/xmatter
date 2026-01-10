@@ -7,8 +7,8 @@ links:
     url: https://www.neirocoin.xyz
   - name: explorer
     url: https://etherscan.io/token/0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637
-  - name: twitter
-    url: https://twitter.com/neiro_ethereum?mx=2
+  - name: x
+    url: https://x.com/neiro_ethereum?mx=2
   - name: telegram
     url: https://t.me/neiro_ethereum
   - name: coinmarketcap

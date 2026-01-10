@@ -6,8 +6,8 @@ links:
     url: https://ridotto.io
   - name: explorer
     url: https://bscscan.com/token/0xe9c64384dEb0C2bF06D991A8D708c77eb545E3d5
-  - name: twitter
-    url: https://twitter.com/ridotto_io
+  - name: x
+    url: https://x.com/ridotto_io
   - name: github
     url: https://github.com/ridotto-io
   - name: telegram

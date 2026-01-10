@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x12BB890508c125661E03b09EC06E404bc9289040
   - name: github
     url: https://github.com/radiocaca/radio-caca
-  - name: twitter
-    url: https://twitter.com/RadioCacaNFT
+  - name: x
+    url: https://x.com/RadioCacaNFT
   - name: medium
     url: https://radiocaca.medium.com/
   - name: telegram

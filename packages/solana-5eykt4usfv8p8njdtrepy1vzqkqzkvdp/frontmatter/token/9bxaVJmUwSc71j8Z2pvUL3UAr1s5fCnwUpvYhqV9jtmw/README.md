@@ -6,8 +6,8 @@ links:
     url: https://www.mewingcoin.io/
   - name: explorer
     url: https://solscan.io/token/9bxaVJmUwSc71j8Z2pvUL3UAr1s5fCnwUpvYhqV9jtmw
-  - name: twitter
-    url: https://twitter.com/MewingOnSolana
+  - name: x
+    url: https://x.com/MewingOnSolana
   - name: telegram
     url: https://t.me/MewingOnSolana
 ---

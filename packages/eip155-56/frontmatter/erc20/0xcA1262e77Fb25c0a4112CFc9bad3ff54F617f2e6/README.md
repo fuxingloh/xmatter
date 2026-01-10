@@ -8,8 +8,8 @@ links:
     url: https://jax.network
   - name: explorer
     url: https://bscscan.com/token/0xcA1262e77Fb25c0a4112CFc9bad3ff54F617f2e6
-  - name: twitter
-    url: https://twitter.com/CommunityJax
+  - name: x
+    url: https://x.com/CommunityJax
   - name: telegram
     url: https://t.me/jax_network
   - name: coinmarketcap

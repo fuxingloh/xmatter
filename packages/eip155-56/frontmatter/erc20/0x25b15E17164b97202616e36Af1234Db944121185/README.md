@@ -6,8 +6,8 @@ links:
     url: https://hyperchainx.com/
   - name: explorer
     url: https://bscscan.com/token/0x25b15E17164b97202616e36Af1234Db944121185
-  - name: twitter
-    url: https://twitter.com/HyperchainX
+  - name: x
+    url: https://x.com/HyperchainX
   - name: telegram
     url: https://t.me/hyperchainx
   - name: telegram_news

@@ -6,8 +6,8 @@ links:
     url: https://binapet.com
   - name: explorer
     url: https://bscscan.com/token/0x24D787e9B88Cb62D74e961C1C1d78E4ee47618E5
-  - name: twitter
-    url: https://twitter.com/binapet
+  - name: x
+    url: https://x.com/binapet
   - name: reddit
     url: https://reddit.com/user/binapet
 ---

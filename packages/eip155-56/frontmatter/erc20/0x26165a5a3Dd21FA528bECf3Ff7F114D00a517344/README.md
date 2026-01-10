@@ -12,8 +12,8 @@ links:
     url: https://t.me/meta_token_bsc
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/meta-/
-  - name: twitter
-    url: https://twitter.com/META_Shiba
+  - name: x
+    url: https://x.com/META_Shiba
 ---
 
 # META

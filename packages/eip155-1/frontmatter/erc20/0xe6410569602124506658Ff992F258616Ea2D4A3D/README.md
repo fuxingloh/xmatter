@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xe6410569602124506658Ff992F258616Ea2D4A3D
   - name: github
     url: https://github.com/katanafinance
-  - name: twitter
-    url: https://twitter.com/katanafinance
+  - name: x
+    url: https://x.com/katanafinance
   - name: telegram
     url: https://t.me/katanafinance
   - name: medium

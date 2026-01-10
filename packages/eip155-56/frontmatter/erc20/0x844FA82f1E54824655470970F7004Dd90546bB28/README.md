@@ -6,8 +6,8 @@ links:
     url: https://dopple.finance/
   - name: explorer
     url: https://bscscan.com/token/0x844FA82f1E54824655470970F7004Dd90546bB28
-  - name: twitter
-    url: https://twitter.com/dopplefi
+  - name: x
+    url: https://x.com/dopplefi
   - name: telegram
     url: https://t.me/dopplefi
 ---

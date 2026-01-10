@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x4185cf99745B2a20727B37EE798193DD4a56cDfa
   - name: github
     url: https://github.com/deusfinance
-  - name: twitter
-    url: https://twitter.com/DeusDao
+  - name: x
+    url: https://x.com/DeusDao
   - name: telegram
     url: https://t.me/deusfinance
   - name: medium

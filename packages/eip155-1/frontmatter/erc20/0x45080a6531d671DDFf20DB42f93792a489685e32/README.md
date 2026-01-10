@@ -6,8 +6,8 @@ links:
     url: https://finance.vote
   - name: explorer
     url: https://etherscan.io/token/0x45080a6531d671ddff20db42f93792a489685e32
-  - name: twitter
-    url: https://twitter.com/financedotvote
+  - name: x
+    url: https://x.com/financedotvote
   - name: telegram
     url: https://t.me/financevote
   - name: docs

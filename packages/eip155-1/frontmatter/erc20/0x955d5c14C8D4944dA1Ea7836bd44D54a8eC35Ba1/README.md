@@ -8,8 +8,8 @@ links:
     url: https://refundcoin.org/
   - name: explorer
     url: https://etherscan.io/token/0x955d5c14c8d4944da1ea7836bd44d54a8ec35ba1
-  - name: twitter
-    url: https://twitter.com/RefundCoinETH
+  - name: x
+    url: https://x.com/RefundCoinETH
   - name: telegram
     url: https://t.me/RFDPortal
   - name: coinmarketcap

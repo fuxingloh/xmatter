@@ -6,8 +6,8 @@ links:
     url: https://fnktoken.com
   - name: explorer
     url: https://etherscan.io/token/0xb5fe099475d3030dde498c3bb6f3854f762a48ad
-  - name: twitter
-    url: https://twitter.com/ethereum
+  - name: x
+    url: https://x.com/ethereum
   - name: telegram
     url: https://t.me/fnktoken
   - name: facebook

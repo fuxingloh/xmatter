@@ -6,8 +6,8 @@ links:
     url: https://spores.app
   - name: explorer
     url: https://etherscan.io/token/0xcbe771323587ea16dacb6016e269d7f08a7acc4e
-  - name: twitter
-    url: https://twitter.com/Spores_Network
+  - name: x
+    url: https://x.com/Spores_Network
   - name: medium
     url: https://spores.medium.com
   - name: coingecko

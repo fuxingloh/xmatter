@@ -6,8 +6,8 @@ links:
     url: https://chainge.finance/
   - name: explorer
     url: https://arbiscan.io/token/0x51C601dC278EB2CFea8e52c4caA35B3d6a9A2c26
-  - name: twitter
-    url: https://twitter.com/FinanceChainge
+  - name: x
+    url: https://x.com/FinanceChainge
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/chainge/
 ---

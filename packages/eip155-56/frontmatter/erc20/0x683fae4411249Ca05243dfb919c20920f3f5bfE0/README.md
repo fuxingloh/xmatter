@@ -6,8 +6,8 @@ links:
     url: https://galaxyheroescoin.com
   - name: explorer
     url: https://bscscan.com/token/0x683fae4411249Ca05243dfb919c20920f3f5bfE0
-  - name: twitter
-    url: https://twitter.com/galaxyheroesghc
+  - name: x
+    url: https://x.com/galaxyheroesghc
   - name: github
     url: https://github.com/sumner770/GalaxyHeroesCoin
   - name: telegram

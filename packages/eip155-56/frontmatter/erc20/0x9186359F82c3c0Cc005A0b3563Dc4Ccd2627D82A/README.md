@@ -8,8 +8,8 @@ links:
     url: https://www.antx.network/
   - name: explorer
     url: https://bscscan.com/token/0x9186359f82c3c0cc005a0b3563dc4ccd2627d82a
-  - name: twitter
-    url: https://twitter.com/AntNetworX
+  - name: x
+    url: https://x.com/AntNetworX
   - name: telegram
     url: https://t.me/AntXAnnouncements
   - name: coinmarketcap

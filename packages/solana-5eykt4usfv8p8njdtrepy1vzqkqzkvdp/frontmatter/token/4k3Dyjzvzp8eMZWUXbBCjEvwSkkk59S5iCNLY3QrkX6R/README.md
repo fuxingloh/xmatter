@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R
   - name: telegram
     url: https://t.me/raydiumprotocol
-  - name: twitter
-    url: https://twitter.com/RaydiumProtocol
+  - name: x
+    url: https://x.com/RaydiumProtocol
   - name: discord
     url: https://discord.com/invite/6EvFwvCfpx
 ---

@@ -6,8 +6,8 @@ links:
     url: https://equal.tech
   - name: explorer
     url: https://bscscan.com/token/0x5c7e71f46e49cf816f9863461eeb36e3bc8e3b51
-  - name: twitter
-    url: https://twitter.com/Equal_Network
+  - name: x
+    url: https://x.com/Equal_Network
   - name: telegram
     url: https://t.me/EQUAL_OFFICIAL
 ---

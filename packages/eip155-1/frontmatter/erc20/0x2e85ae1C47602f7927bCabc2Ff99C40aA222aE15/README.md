@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x2e85ae1C47602f7927bCabc2Ff99C40aA222aE15
   - name: github
     url: https://github.com/katanainu/katacoin-contract
-  - name: twitter
-    url: https://twitter.com/katanainu
+  - name: x
+    url: https://x.com/katanainu
   - name: telegram_news
     url: https://t.me/katanainuannouncement
   - name: telegram

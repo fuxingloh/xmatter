@@ -6,8 +6,8 @@ links:
     url: https://dogecola.finance
   - name: explorer
     url: https://bscscan.com/token/0xbD4a49e1a0bd8D17fAa881D057b48BC18b983E51
-  - name: twitter
-    url: https://twitter.com/doge_cola
+  - name: x
+    url: https://x.com/doge_cola
   - name: telegram
     url: https://t.me/dogecola
 ---

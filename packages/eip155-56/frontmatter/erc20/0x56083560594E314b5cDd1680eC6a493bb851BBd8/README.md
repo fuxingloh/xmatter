@@ -6,8 +6,8 @@ links:
     url: https://www.transhumancoin.finance
   - name: explorer
     url: https://bscscan.com/token/0x56083560594E314b5cDd1680eC6a493bb851BBd8
-  - name: twitter
-    url: https://twitter.com/transhumancoin
+  - name: x
+    url: https://x.com/transhumancoin
   - name: telegram
     url: https://t.me/joinchat/hYQyhaCsavlmNjQ0
   - name: coingecko

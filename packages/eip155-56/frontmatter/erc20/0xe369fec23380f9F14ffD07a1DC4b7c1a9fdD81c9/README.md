@@ -8,8 +8,8 @@ links:
     url: https://froyo.games
   - name: explorer
     url: https://bscscan.com/token/0xe369fec23380f9F14ffD07a1DC4b7c1a9fdD81c9
-  - name: twitter
-    url: https://twitter.com/realfroyogames
+  - name: x
+    url: https://x.com/realfroyogames
   - name: github
     url: https://github.com/froyogames
   - name: telegram

@@ -6,8 +6,8 @@ links:
     url: https://idmcoop.com/
   - name: explorer
     url: https://bscscan.com/token/0x14B13E06f75E1F0Fd51ca2E699589Ef398E10F4C
-  - name: twitter
-    url: https://twitter.com/IDMToken
+  - name: x
+    url: https://x.com/IDMToken
   - name: github
     url: https://github.com/idmtoken
   - name: telegram

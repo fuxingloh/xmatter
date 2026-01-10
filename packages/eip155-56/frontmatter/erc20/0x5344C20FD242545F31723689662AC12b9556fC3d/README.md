@@ -10,8 +10,8 @@ links:
     url: https://github.com/WakandaInu
   - name: telegram
     url: https://t.me/wakandainu
-  - name: twitter
-    url: https://twitter.com/Wakandainu
+  - name: x
+    url: https://x.com/Wakandainu
   - name: facebook
     url: https://facebook.com/wakandainu
 ---

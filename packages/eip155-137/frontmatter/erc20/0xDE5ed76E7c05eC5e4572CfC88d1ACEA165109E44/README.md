@@ -6,8 +6,8 @@ links:
     url: https://deus.finance/
   - name: explorer
     url: https://polygonscan.com/token/0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44
-  - name: twitter
-    url: https://twitter.com/DeusDao
+  - name: x
+    url: https://x.com/DeusDao
   - name: telegram
     url: https://t.me/deusfinance
   - name: medium

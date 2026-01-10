@@ -6,8 +6,8 @@ links:
     url: https://IQ.cash/
   - name: explorer
     url: https://bscscan.com/token/0x8F1B7df4a34C8Dd072CF6408Be9c778CFABdf8D0
-  - name: twitter
-    url: https://twitter.com/IQ_crypto
+  - name: x
+    url: https://x.com/IQ_crypto
   - name: telegram
     url: https://t.me/IQ_cash
   - name: discord

@@ -6,8 +6,8 @@ links:
     url: https://jwtoken.org/
   - name: explorer
     url: https://bscscan.com/token/0xab785054251db0fc44538f5deebe7507b748b692
-  - name: twitter
-    url: https://twitter.com/JWSocial1
+  - name: x
+    url: https://x.com/JWSocial1
   - name: facebook
     url: https://facebook.com/JWTOKEN
   - name: telegram

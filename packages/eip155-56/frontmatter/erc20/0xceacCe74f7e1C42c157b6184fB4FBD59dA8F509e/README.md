@@ -8,8 +8,8 @@ links:
     url: https://awttoken.io
   - name: explorer
     url: https://bscscan.com/token/0xceacCe74f7e1C42c157b6184fB4FBD59dA8F509e
-  - name: twitter
-    url: https://twitter.com/TokenAwt/
+  - name: x
+    url: https://x.com/TokenAwt/
   - name: telegram
     url: https://t.me/+ileHCXlWvTY2MTc1
   - name: github

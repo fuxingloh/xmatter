@@ -9,8 +9,8 @@ links:
     url: https://darikcoin.org
   - name: explorer
     url: https://bscscan.com/token/0x595a67D180BAE10314384265d56927C8ff073426
-  - name: twitter
-    url: https://twitter.com/Darikcoin_Darik
+  - name: x
+    url: https://x.com/Darikcoin_Darik
   - name: telegram
     url: https://t.me/DARIKCOIN_DARIK
   - name: facebook

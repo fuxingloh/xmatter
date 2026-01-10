@@ -6,8 +6,8 @@ links:
     url: https://solape.io
   - name: explorer
     url: https://solscan.io/token/GHvFFSZ9BctWsEc5nujR1MTmmJWY7tgQz2AXE6WVFtGN
-  - name: twitter
-    url: https://twitter.com/solapefinance
+  - name: x
+    url: https://x.com/solapefinance
   - name: discord
     url: https://discord.com/Ypwhz2BPCd
   - name: coingecko

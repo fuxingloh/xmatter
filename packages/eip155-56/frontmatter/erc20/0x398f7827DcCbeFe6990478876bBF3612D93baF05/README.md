@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x398f7827DcCbeFe6990478876bBF3612D93baF05
   - name: facebook
     url: https://facebook.com/mixmarvelplatform
-  - name: twitter
-    url: https://twitter.com/MIXMARVELGAME
+  - name: x
+    url: https://x.com/MIXMARVELGAME
   - name: medium
     url: https://medium.com/mixmarvel-official-blog
 ---

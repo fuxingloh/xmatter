@@ -6,8 +6,8 @@ links:
     url: https://manekineko.world/
   - name: explorer
     url: https://solscan.io/token/25hAyBQfoDhfWx9ay6rarbgvWGwDdNqcHsXS3jQ3mTDJ
-  - name: twitter
-    url: https://twitter.com/unrevealedxyz?s=21&t=0RtVzV5UpcseQByG0w-mOQ
+  - name: x
+    url: https://x.com/unrevealedxyz?s=21&t=0RtVzV5UpcseQByG0w-mOQ
   - name: coingecko
     url: https://coingecko.com/en/coins/maneki
 ---

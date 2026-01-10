@@ -8,8 +8,8 @@ links:
     url: https://tronscan.io/#/token20/TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8
   - name: github
     url: https://github.com/centrehq
-  - name: twitter
-    url: https://twitter.com/centre_io
+  - name: x
+    url: https://x.com/centre_io
 ---
 
 # USD Coin

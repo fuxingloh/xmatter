@@ -8,8 +8,8 @@ links:
     url: https://squidgrow.wtf
   - name: explorer
     url: https://etherscan.io/token/0xd8fa690304d2b2824d918c0c7376e2823704557a
-  - name: twitter
-    url: https://twitter.com/squid_grow
+  - name: x
+    url: https://x.com/squid_grow
   - name: telegram
     url: https://t.me/SquidGrowPortalEntry
   - name: coinmarketcap

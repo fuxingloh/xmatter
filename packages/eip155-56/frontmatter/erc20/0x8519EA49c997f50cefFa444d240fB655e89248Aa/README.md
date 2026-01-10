@@ -6,8 +6,8 @@ links:
     url: https://rampdefi.com/
   - name: explorer
     url: https://bscscan.com/token/0x8519ea49c997f50ceffa444d240fb655e89248aa
-  - name: twitter
-    url: https://twitter.com/RampDefi
+  - name: x
+    url: https://x.com/RampDefi
   - name: telegram
     url: https://t.me/rampdefiofficial
   - name: medium

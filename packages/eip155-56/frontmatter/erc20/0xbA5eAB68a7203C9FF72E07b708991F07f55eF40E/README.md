@@ -8,8 +8,8 @@ links:
     url: https://kodicoin.com
   - name: explorer
     url: https://bscscan.com/token/0xbA5eAB68a7203C9FF72E07b708991F07f55eF40E
-  - name: twitter
-    url: https://twitter.com/kodi_coin
+  - name: x
+    url: https://x.com/kodi_coin
   - name: telegram
     url: https://t.me/kodicoinofficial
   - name: coinmarketcap

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xD4099A517f2Fbe8a730d2ECaad1D0824B75e084a
   - name: telegram
     url: https://t.me/themonopolist
-  - name: twitter
-    url: https://twitter.com/MonoNFTsGame
+  - name: x
+    url: https://x.com/MonoNFTsGame
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/the-monopolist
 ---

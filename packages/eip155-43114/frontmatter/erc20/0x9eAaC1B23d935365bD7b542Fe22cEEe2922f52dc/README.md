@@ -8,8 +8,8 @@ links:
     url: https://yearn.finance/
   - name: explorer
     url: https://snowtrace.io/token/0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc
-  - name: twitter
-    url: https://twitter.com/iearnfinance
+  - name: x
+    url: https://x.com/iearnfinance
   - name: medium
     url: https://medium.com/iearn
   - name: telegram

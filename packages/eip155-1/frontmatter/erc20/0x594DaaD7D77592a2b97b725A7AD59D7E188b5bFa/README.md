@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x594daad7d77592a2b97b725a7ad59d7e188b5bfa
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/apu-apustaja/
-  - name: twitter
-    url: https://twitter.com/apuscoin
+  - name: x
+    url: https://x.com/apuscoin
 ---
 
 # Apu Apustaja

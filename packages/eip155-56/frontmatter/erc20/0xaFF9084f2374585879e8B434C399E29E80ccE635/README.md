@@ -6,8 +6,8 @@ links:
     url: https://runonflux.io
   - name: explorer
     url: https://bscscan.com/token/0xaFF9084f2374585879e8B434C399E29E80ccE635
-  - name: twitter
-    url: https://twitter.com/RunOnFlux
+  - name: x
+    url: https://x.com/RunOnFlux
   - name: discord
     url: https://discord.com/runonflux
   - name: github

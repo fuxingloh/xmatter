@@ -6,8 +6,8 @@ links:
     url: https://evereth.net
   - name: explorer
     url: https://bscscan.com/token/0x16dCc0eC78E91e868DCa64bE86aeC62bf7C61037
-  - name: twitter
-    url: https://twitter.com/EverETHofficial
+  - name: x
+    url: https://x.com/EverETHofficial
   - name: facebook
     url: https://facebook.com/EverETHofficial
   - name: telegram

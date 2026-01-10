@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xca1acab14e85f30996ac83c64ff93ded7586977c
   - name: telegram
     url: https://t.me/AntExChat
-  - name: twitter
-    url: https://twitter.com/Antex_Official
+  - name: x
+    url: https://x.com/Antex_Official
   - name: facebook
     url: https://facebook.com/antexannoucement
   - name: youtube

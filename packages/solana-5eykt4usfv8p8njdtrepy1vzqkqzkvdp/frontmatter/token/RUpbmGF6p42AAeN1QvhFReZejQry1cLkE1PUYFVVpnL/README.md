@@ -6,8 +6,8 @@ links:
     url: https://www.epepcoin.com/
   - name: explorer
     url: https://solscan.io/token/RUpbmGF6p42AAeN1QvhFReZejQry1cLkE1PUYFVVpnL
-  - name: twitter
-    url: https://twitter.com/EpepOnSol
+  - name: x
+    url: https://x.com/EpepOnSol
 ---
 
 # Epep

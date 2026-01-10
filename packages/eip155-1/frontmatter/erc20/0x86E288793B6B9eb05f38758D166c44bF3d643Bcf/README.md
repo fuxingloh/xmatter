@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x86E288793B6B9eb05f38758D166c44bF3d643Bcf
   - name: github
     url: https://github.com/Creditdefi/CRD
-  - name: twitter
-    url: https://twitter.com/credit_defi
+  - name: x
+    url: https://x.com/credit_defi
   - name: facebook
     url: https://facebook.com/CreditDefi-100459715148303
   - name: medium

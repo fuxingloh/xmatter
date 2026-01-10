@@ -6,8 +6,8 @@ links:
     url: https://moonrat.finance/
   - name: explorer
     url: https://bscscan.com/token/0x6D949f9297A522c0f97C232CC209a67Bd7CfA471
-  - name: twitter
-    url: https://twitter.com/MoonRatFinance
+  - name: x
+    url: https://x.com/MoonRatFinance
   - name: telegram
     url: https://t.me/moonrat_finance
   - name: medium

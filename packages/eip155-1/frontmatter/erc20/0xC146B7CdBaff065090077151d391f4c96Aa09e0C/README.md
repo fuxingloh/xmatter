@@ -8,8 +8,8 @@ links:
     url: https://mchain.capital/
   - name: explorer
     url: https://etherscan.io/token/0xc146b7cdbaff065090077151d391f4c96aa09e0c
-  - name: twitter
-    url: https://twitter.com/MulChainCapital
+  - name: x
+    url: https://x.com/MulChainCapital
   - name: github
     url: https://github.com/mchaindev
   - name: telegram

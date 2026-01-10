@@ -8,8 +8,8 @@ links:
     url: https://yesworld.io
   - name: explorer
     url: https://bscscan.com/token/0xb9d35811424600fa9e8cd62a0471fbd025131cb8
-  - name: twitter
-    url: https://twitter.com/yesworld24
+  - name: x
+    url: https://x.com/yesworld24
   - name: github
     url: https://github.com/yesworld24
   - name: telegram

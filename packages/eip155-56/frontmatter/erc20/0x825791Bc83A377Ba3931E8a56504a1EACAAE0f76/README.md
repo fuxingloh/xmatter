@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x825791Bc83A377Ba3931E8a56504a1EACAAE0f76
   - name: telegram
     url: https://t.me/MetaHouseEN
-  - name: twitter
-    url: https://twitter.com/MetaHousebsc?s=09
+  - name: x
+    url: https://x.com/MetaHousebsc?s=09
 ---
 
 # MetaHouse

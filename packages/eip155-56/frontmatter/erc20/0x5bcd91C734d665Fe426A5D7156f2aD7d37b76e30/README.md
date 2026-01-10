@@ -9,8 +9,8 @@ links:
     url: https://vicmove.com
   - name: explorer
     url: https://bscscan.com/token/0x5bcd91C734d665Fe426A5D7156f2aD7d37b76e30
-  - name: twitter
-    url: https://twitter.com/VICMOVEOfficial
+  - name: x
+    url: https://x.com/VICMOVEOfficial
   - name: github
     url: https://github.com/VicMove/Vicmove.com
   - name: telegram

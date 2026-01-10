@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x43d7e65b8ff49698d9550a7f315c87e67344fb59
   - name: telegram
     url: https://t.me/ShibaSaga
-  - name: twitter
-    url: https://twitter.com/shibasagaio
+  - name: x
+    url: https://x.com/shibasagaio
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/shiba-saga/
 ---

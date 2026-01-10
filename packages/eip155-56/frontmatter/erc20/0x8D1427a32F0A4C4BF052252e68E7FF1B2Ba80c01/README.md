@@ -8,8 +8,8 @@ links:
     url: https://www.rimaunangis.world
   - name: explorer
     url: https://bscscan.com/token/0x8D1427a32F0A4C4BF052252e68E7FF1B2Ba80c01
-  - name: twitter
-    url: https://twitter.com/RimaunangisRXT
+  - name: x
+    url: https://x.com/RimaunangisRXT
   - name: facebook
     url: https://facebook.com/Rimaunangis-Digital-LLC-107415268757938/
   - name: telegram

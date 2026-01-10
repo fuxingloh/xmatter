@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xB9d99C33eA2d86EC5eC6b8A4dD816EBBA64404AF
   - name: github
     url: https://github.com/kanonart
-  - name: twitter
-    url: https://twitter.com/KanonDotArt
+  - name: x
+    url: https://x.com/KanonDotArt
   - name: discord
     url: https://discord.com/invite/bzEqs25RKN
   - name: medium

@@ -8,8 +8,8 @@ links:
     url: https://monetasglobal.com/
   - name: explorer
     url: https://bscscan.com/token/0x89e4818eD21F668D65f7851839d2dD8cE5D208b0
-  - name: twitter
-    url: https://twitter.com/home
+  - name: x
+    url: https://x.com/home
   - name: github
     url: https://github.com/monetas-tech
   - name: telegram

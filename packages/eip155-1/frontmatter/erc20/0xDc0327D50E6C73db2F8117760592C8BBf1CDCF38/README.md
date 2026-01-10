@@ -8,8 +8,8 @@ links:
     url: https://strongblock.com
   - name: explorer
     url: https://etherscan.io/token/0xDc0327D50E6C73db2F8117760592C8BBf1CDCF38
-  - name: twitter
-    url: https://twitter.com/Strongblock_io
+  - name: x
+    url: https://x.com/Strongblock_io
   - name: github
     url: https://github.com/StrongBlock/StrongChain
   - name: telegram

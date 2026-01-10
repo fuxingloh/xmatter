@@ -9,8 +9,8 @@ links:
     url: https://flashstake.io
   - name: explorer
     url: https://etherscan.io/token/0xB1f1F47061A7Be15C69f378CB3f69423bD58F2F8
-  - name: twitter
-    url: https://twitter.com/Flashstake
+  - name: x
+    url: https://x.com/Flashstake
   - name: docs
     url: https://docs.flashstake.io/
   - name: coingecko

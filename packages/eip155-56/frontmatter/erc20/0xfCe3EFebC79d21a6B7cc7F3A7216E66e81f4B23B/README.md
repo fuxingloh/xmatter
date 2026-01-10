@@ -8,8 +8,8 @@ links:
     url: https://www.meta-world.game
   - name: explorer
     url: https://bscscan.com/token/0xfCe3EFebC79d21a6B7cc7F3A7216E66e81f4B23B
-  - name: twitter
-    url: https://twitter.com/MetaWorld_Game
+  - name: x
+    url: https://x.com/MetaWorld_Game
   - name: telegram
     url: https://t.me/MetaWorld_Game
 ---

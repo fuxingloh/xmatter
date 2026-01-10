@@ -9,8 +9,8 @@ links:
     url: https://humandataincome.com/
   - name: explorer
     url: https://bscscan.com/token/0x83d8Ea5A4650B68Cd2b57846783d86DF940F7458
-  - name: twitter
-    url: https://twitter.com/humandataincome
+  - name: x
+    url: https://x.com/humandataincome
   - name: telegram
     url: https://t.me/hudicommunity
   - name: telegram_news

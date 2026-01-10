@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x415ff1afc201EeC50BeFF210a2F456674046920b
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/refundcoin/
-  - name: twitter
-    url: https://twitter.com/RefundCoinErc20
+  - name: x
+    url: https://x.com/RefundCoinErc20
   - name: telegram
     url: https://t.me/RefundErc20
 ---

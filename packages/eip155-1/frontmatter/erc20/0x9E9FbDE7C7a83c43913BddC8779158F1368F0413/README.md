@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x9e9fbde7c7a83c43913bddc8779158f1368f0413
   - name: github
     url: https://github.com/Pandora-Labs-Org
-  - name: twitter
-    url: https://twitter.com/Pandora_ERC404
+  - name: x
+    url: https://x.com/Pandora_ERC404
   - name: telegram
     url: https://t.me/pandora_404
 ---

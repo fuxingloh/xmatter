@@ -8,8 +8,8 @@ links:
     url: https://tronscan.io/#/token20/TUpMhErZL2fhh4sVNULAbNKLokS4GjC1F4
   - name: github
     url: https://github.com/trusttoken/TrueUSD
-  - name: twitter
-    url: https://twitter.com/tusd_official
+  - name: x
+    url: https://x.com/tusd_official
   - name: telegram
     url: https://t.me/TUSDofficial_EN
   - name: medium

@@ -8,8 +8,8 @@ links:
     url: https://openleverage.finance/
   - name: explorer
     url: https://bscscan.com/token/0xa865197A84E780957422237B5D152772654341F3
-  - name: twitter
-    url: https://twitter.com/OpenLeverage
+  - name: x
+    url: https://x.com/OpenLeverage
   - name: discord
     url: https://discord.com/invite/openleverage
   - name: medium

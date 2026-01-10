@@ -6,8 +6,8 @@ links:
     url: https://lucidlands.io/
   - name: explorer
     url: https://bscscan.com/token/0x4691F60c894d3f16047824004420542E4674E621
-  - name: twitter
-    url: https://twitter.com/lucid_lands
+  - name: x
+    url: https://x.com/lucid_lands
   - name: telegram
     url: https://t.me/LucidLandsOffical
   - name: coinmarketcap

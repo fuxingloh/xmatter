@@ -6,8 +6,8 @@ links:
     url: https://www.seamlessprotocol.com/
   - name: explorer
     url: https://basescan.org/token/0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85
-  - name: twitter
-    url: https://twitter.com/SeamlessFi
+  - name: x
+    url: https://x.com/SeamlessFi
   - name: telegram
     url: https://t.me/seamless_protocol
 ---

@@ -8,8 +8,8 @@ links:
     url: https://pollen.id
   - name: explorer
     url: https://snowtrace.io/token/0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf
-  - name: twitter
-    url: https://twitter.com/PollenDeFi
+  - name: x
+    url: https://x.com/PollenDeFi
   - name: github
     url: https://github.com/PollenDeFi
   - name: telegram

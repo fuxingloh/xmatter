@@ -6,8 +6,8 @@ links:
     url: https://brianarmstrongcoinbaseusdc2012normie.com
   - name: explorer
     url: https://basescan.org/token/0xf1b4ddf712e108cf43711b1c39f2fddb0d5ce243
-  - name: twitter
-    url: https://twitter.com/BACU2012N
+  - name: x
+    url: https://x.com/BACU2012N
 ---
 
 # BrianArmstrongCoinbaseUSDC2012Normie

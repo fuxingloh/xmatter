@@ -6,8 +6,8 @@ links:
     url: https://safemoon.net/
   - name: explorer
     url: https://etherscan.io/token/0xe574c0c33A7A67d9b09F9F0AdDBB3dCA71A8F3E0
-  - name: twitter
-    url: https://twitter.com/safemoon
+  - name: x
+    url: https://x.com/safemoon
   - name: telegram
     url: https://t.me/SafeMoonv2
 ---

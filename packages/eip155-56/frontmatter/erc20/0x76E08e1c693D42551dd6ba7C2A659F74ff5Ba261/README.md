@@ -6,8 +6,8 @@ links:
     url: https://www.shakitainu.com/
   - name: explorer
     url: https://bscscan.com/token/0x76e08e1c693d42551dd6ba7c2a659f74ff5ba261
-  - name: twitter
-    url: https://twitter.com/ShakitaInu
+  - name: x
+    url: https://x.com/ShakitaInu
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/shakita-inu/
   - name: coingecko

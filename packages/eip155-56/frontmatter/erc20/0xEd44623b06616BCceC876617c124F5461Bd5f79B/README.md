@@ -6,8 +6,8 @@ links:
     url: https://bfkwarzone.com
   - name: explorer
     url: https://bscscan.com/token/0xEd44623b06616BCceC876617c124F5461Bd5f79B
-  - name: twitter
-    url: https://twitter.com/bfkwarzone
+  - name: x
+    url: https://x.com/bfkwarzone
   - name: github
     url: https://github.com/bfkwarzone
   - name: telegram

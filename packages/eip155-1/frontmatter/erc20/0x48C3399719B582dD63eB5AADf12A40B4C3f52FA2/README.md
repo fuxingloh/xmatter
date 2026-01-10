@@ -6,8 +6,8 @@ links:
     url: https://stakewise.io
   - name: explorer
     url: https://etherscan.io/token/0x48C3399719B582dD63eB5AADf12A40B4C3f52FA2
-  - name: twitter
-    url: https://twitter.com/stakewise_io
+  - name: x
+    url: https://x.com/stakewise_io
   - name: github
     url: https://github.com/stakewise
   - name: telegram

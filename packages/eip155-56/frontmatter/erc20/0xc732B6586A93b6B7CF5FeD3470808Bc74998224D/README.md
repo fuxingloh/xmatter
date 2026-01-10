@@ -6,8 +6,8 @@ links:
     url: https://kryptomon.co
   - name: explorer
     url: https://bscscan.com/token/0xc732B6586A93b6B7CF5FeD3470808Bc74998224D
-  - name: twitter
-    url: https://twitter.com/KryptomonTeam
+  - name: x
+    url: https://x.com/KryptomonTeam
   - name: telegram
     url: https://t.me/kryptomonofficial
   - name: medium

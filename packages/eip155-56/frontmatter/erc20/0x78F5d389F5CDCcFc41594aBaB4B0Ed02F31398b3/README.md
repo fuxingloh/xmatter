@@ -15,8 +15,8 @@ links:
     url: https://t.me/apollox_com
   - name: facebook
     url: https://facebook.com/ApolloXcom
-  - name: twitter
-    url: https://twitter.com/ApolloX_com
+  - name: x
+    url: https://x.com/ApolloX_com
   - name: blog
     url: https://apollox.zendesk.com/hc/en-us/categories/4408399479449
   - name: coingecko

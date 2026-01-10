@@ -6,8 +6,8 @@ links:
     url: https://dbzcoin.com/
   - name: explorer
     url: https://bscscan.com/token/0x7a983559e130723B70e45bd637773DbDfD3F71Db
-  - name: twitter
-    url: https://twitter.com/johnnydangandco
+  - name: x
+    url: https://x.com/johnnydangandco
   - name: telegram
     url: https://t.me/joinchat/Oawgdtvj3qNiODdh
   - name: coingecko

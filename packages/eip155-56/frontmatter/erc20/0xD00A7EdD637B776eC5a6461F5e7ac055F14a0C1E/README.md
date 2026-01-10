@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xD00A7EdD637B776eC5a6461F5e7ac055F14a0C1E
   - name: github
     url: https://github.com/ShibaZilla
-  - name: twitter
-    url: https://twitter.com/ShibZillaBSC
+  - name: x
+    url: https://x.com/ShibZillaBSC
   - name: telegram
     url: https://t.me/shibzillaofficial
   - name: reddit

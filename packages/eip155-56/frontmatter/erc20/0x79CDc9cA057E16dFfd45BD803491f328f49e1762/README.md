@@ -8,8 +8,8 @@ links:
     url: https://bitfloki.io/
   - name: explorer
     url: https://bscscan.com/token/0x79CDc9cA057E16dFfd45BD803491f328f49e1762
-  - name: twitter
-    url: https://twitter.com/BitFloki_io
+  - name: x
+    url: https://x.com/BitFloki_io
   - name: telegram
     url: https://t.me/BitFloki_io
 ---

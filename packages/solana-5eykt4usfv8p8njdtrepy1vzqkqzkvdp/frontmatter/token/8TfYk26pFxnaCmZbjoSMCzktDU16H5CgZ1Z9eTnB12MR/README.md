@@ -6,8 +6,8 @@ links:
     url: https://wolfofsolana.io
   - name: explorer
     url: https://solscan.io/token/8TfYk26pFxnaCmZbjoSMCzktDU16H5CgZ1Z9eTnB12MR
-  - name: twitter
-    url: https://twitter.com/Wolf_Of_Solana
+  - name: x
+    url: https://x.com/Wolf_Of_Solana
   - name: telegram
     url: https://t.me/wolf_of_solana
 ---

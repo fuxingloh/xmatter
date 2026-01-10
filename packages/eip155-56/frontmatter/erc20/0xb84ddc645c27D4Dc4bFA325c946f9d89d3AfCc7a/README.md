@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xb84ddc645c27D4Dc4bFA325c946f9d89d3AfCc7a
   - name: telegram
     url: https://t.me/BonusCake
-  - name: twitter
-    url: https://twitter.com/BonusCakeBSC
+  - name: x
+    url: https://x.com/BonusCakeBSC
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/bonus-cake/
   - name: coingecko

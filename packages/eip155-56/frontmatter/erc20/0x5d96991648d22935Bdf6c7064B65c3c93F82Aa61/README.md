@@ -6,8 +6,8 @@ links:
     url: https://herofloki.com
   - name: explorer
     url: https://bscscan.com/token/0x5d96991648d22935bdf6c7064b65c3c93f82aa61
-  - name: twitter
-    url: https://twitter.com/herofloki
+  - name: x
+    url: https://x.com/herofloki
   - name: facebook
     url: https://facebook.com/HeroFloki2021
   - name: blog

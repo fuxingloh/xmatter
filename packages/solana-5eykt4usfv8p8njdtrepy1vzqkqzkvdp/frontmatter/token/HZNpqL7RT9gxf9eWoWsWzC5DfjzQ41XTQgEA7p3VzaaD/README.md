@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/HZNpqL7RT9gxf9eWoWsWzC5DfjzQ41XTQgEA7p3VzaaD
   - name: github
     url: https://github.com/trustwallet/
-  - name: twitter
-    url: https://twitter.com/trustwallet
+  - name: x
+    url: https://x.com/trustwallet
   - name: reddit
     url: https://reddit.com/r/trustapp
 ---

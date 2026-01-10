@@ -9,8 +9,8 @@ links:
     url: https://moonnation.org/
   - name: explorer
     url: https://bscscan.com/token/0x13DfE44c7B461222e10597E517e4485Ff4766582
-  - name: twitter
-    url: https://twitter.com/MoonNation0
+  - name: x
+    url: https://x.com/MoonNation0
   - name: telegram
     url: https://t.me/moonnation
   - name: coinmarketcap

@@ -6,8 +6,8 @@ links:
     url: https://foxgirl.com/
   - name: explorer
     url: https://bscscan.com/token/0x599beec263FA6eA35055011967597B259FC012A4
-  - name: twitter
-    url: https://twitter.com/foxgirltoken
+  - name: x
+    url: https://x.com/foxgirltoken
   - name: coinmarketcap
     url: https://coinmarketcap.com/foxgirl/
   - name: coingecko

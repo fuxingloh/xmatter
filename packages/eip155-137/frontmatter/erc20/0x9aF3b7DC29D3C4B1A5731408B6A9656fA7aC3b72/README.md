@@ -8,8 +8,8 @@ links:
     url: https://polygonscan.com/token/0x9af3b7dc29d3c4b1a5731408b6a9656fa7ac3b72
   - name: github
     url: https://github.com/PolyQuity/contracts
-  - name: twitter
-    url: https://twitter.com/polyquity_org
+  - name: x
+    url: https://x.com/polyquity_org
   - name: coingecko
     url: https://coingecko.com/en/coins/pusd/
   - name: medium

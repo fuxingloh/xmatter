@@ -8,8 +8,8 @@ links:
     url: https://web3game.tech
   - name: explorer
     url: https://bscscan.com/token/0x09d96101db62ffac32f798cb9a61e501337b79c6
-  - name: twitter
-    url: https://twitter.com/Web3GamesBSC
+  - name: x
+    url: https://x.com/Web3GamesBSC
   - name: github
     url: https://github.com/web3gameTECH
   - name: telegram

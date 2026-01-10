@@ -12,8 +12,8 @@ links:
     url: https://coinmarketcap.com/currencies/tether/
   - name: coingecko
     url: https://coingecko.com/en/coins/tether/
-  - name: twitter
-    url: https://twitter.com/Tether_to
+  - name: x
+    url: https://x.com/Tether_to
 ---
 
 # Tether USD

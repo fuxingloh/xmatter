@@ -6,8 +6,8 @@ links:
     url: https://shibnobi.com
   - name: explorer
     url: https://etherscan.io/token/0x7DAc25b1A665e1c70F25F1fC37d88C99274984ed
-  - name: twitter
-    url: https://twitter.com/Shib_nobi
+  - name: x
+    url: https://x.com/Shib_nobi
   - name: telegram
     url: https://t.me/ShibnobiCommunity
   - name: coinmarketcap

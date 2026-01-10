@@ -6,8 +6,8 @@ links:
     url: https://bankerdoge.com
   - name: explorer
     url: https://bscscan.com/token/0xf06419C638a1d809C024Aa693147dBDc42B60145
-  - name: twitter
-    url: https://twitter.com/bankerdoge
+  - name: x
+    url: https://x.com/bankerdoge
   - name: github
     url: https://github.com/NathajiM/bankerdogecontract
   - name: telegram

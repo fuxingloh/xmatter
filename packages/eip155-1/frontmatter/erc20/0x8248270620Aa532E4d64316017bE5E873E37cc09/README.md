@@ -6,8 +6,8 @@ links:
     url: https://www.devve.io
   - name: explorer
     url: https://etherscan.io/token/0x8248270620aa532e4d64316017be5e873e37cc09
-  - name: twitter
-    url: https://twitter.com/DevveEcosystem
+  - name: x
+    url: https://x.com/DevveEcosystem
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/devve/
 ---

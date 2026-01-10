@@ -8,8 +8,8 @@ links:
     url: https://tronscan.io/#/token20/TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7
   - name: telegram
     url: https://t.me/WINkLink_Oracle_official
-  - name: twitter
-    url: https://twitter.com/WinkLink_Oracle
+  - name: x
+    url: https://x.com/WinkLink_Oracle
   - name: whitepaper
     url: https://winklink.org/#/
 ---

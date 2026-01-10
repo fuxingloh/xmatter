@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x3542a28854c5243656FA5cfA1A2811a32E28C1c8
   - name: facebook
     url: https://facebook.com/capitalrockint
-  - name: twitter
-    url: https://twitter.com/CapitalRock_AG
+  - name: x
+    url: https://x.com/CapitalRock_AG
   - name: telegram_news
     url: https://t.me/+WgsDY3hPuBgxY2Q6
   - name: coinmarketcap

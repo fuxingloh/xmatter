@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xb23d80f5fefcddaa212212f028021b41ded428cf
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/echelon-prime/
-  - name: twitter
-    url: https://twitter.com/EchelonFND
+  - name: x
+    url: https://x.com/EchelonFND
 ---
 
 # Prime

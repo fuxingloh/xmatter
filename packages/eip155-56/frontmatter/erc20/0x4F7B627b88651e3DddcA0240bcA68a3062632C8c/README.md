@@ -6,8 +6,8 @@ links:
     url: https://blackeyegalaxy.space
   - name: explorer
     url: https://bscscan.com/token/0x4F7B627b88651e3DddcA0240bcA68a3062632C8c
-  - name: twitter
-    url: https://twitter.com/blackeyegalaxy_
+  - name: x
+    url: https://x.com/blackeyegalaxy_
   - name: telegram
     url: https://t.me/blackeyegalaxypublic
   - name: telegram_news

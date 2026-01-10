@@ -6,8 +6,8 @@ links:
     url: https://firo.org/
   - name: explorer
     url: https://bscscan.com/token/0xd5d0322b6bAb6a762C79f8c81A0B674778E13aeD
-  - name: twitter
-    url: https://twitter.com/firoorg
+  - name: x
+    url: https://x.com/firoorg
   - name: github
     url: https://github.com/firoorg/firo
   - name: reddit

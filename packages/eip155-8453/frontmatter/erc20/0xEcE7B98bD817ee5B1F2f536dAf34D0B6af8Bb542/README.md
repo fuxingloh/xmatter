@@ -6,8 +6,8 @@ links:
     url: https://www.blackrockonbase.com/
   - name: explorer
     url: https://basescan.org/token/0xEcE7B98bD817ee5B1F2f536dAf34D0B6af8Bb542
-  - name: twitter
-    url: https://twitter.com/blackrockonbase
+  - name: x
+    url: https://x.com/blackrockonbase
 ---
 
 # BLACK ROCK

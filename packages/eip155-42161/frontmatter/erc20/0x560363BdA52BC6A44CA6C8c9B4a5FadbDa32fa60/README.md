@@ -6,8 +6,8 @@ links:
     url: https://seedify.fund
   - name: explorer
     url: https://arbiscan.io/token/0x560363BdA52BC6A44CA6C8c9B4a5FadbDa32fa60
-  - name: twitter
-    url: https://twitter.com/seedifyfund
+  - name: x
+    url: https://x.com/seedifyfund
   - name: telegram
     url: https://t.me/seedifyfundofficial
   - name: coinmarketcap

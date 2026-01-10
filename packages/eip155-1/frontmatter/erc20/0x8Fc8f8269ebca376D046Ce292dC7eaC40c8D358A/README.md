@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x8fc8f8269ebca376d046ce292dc7eac40c8d358a
   - name: github
     url: https://github.com/DeFiCh/ain
-  - name: twitter
-    url: https://twitter.com/defichain
+  - name: x
+    url: https://x.com/defichain
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/defichain/
 ---

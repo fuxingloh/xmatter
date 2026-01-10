@@ -10,8 +10,8 @@ links:
     url: https://t.me/binaryxGlobal
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/binaryx/
-  - name: twitter
-    url: https://twitter.com/binary_x
+  - name: x
+    url: https://x.com/binary_x
 ---
 
 # BinaryX

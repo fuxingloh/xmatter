@@ -8,8 +8,8 @@ links:
     url: https://peterpan.finance/
   - name: explorer
     url: https://etherscan.io/token/0xceba2a8f6ec221aeb5f3a7bcd15cbc7e6a387bfb
-  - name: twitter
-    url: https://twitter.com/peterpan_erc20
+  - name: x
+    url: https://x.com/peterpan_erc20
   - name: telegram
     url: https://t.me/peterpancoineth
   - name: coinmarketcap

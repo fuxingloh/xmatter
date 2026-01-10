@@ -6,8 +6,8 @@ links:
     url: https://linktr.ee/zedxion
   - name: explorer
     url: https://bscscan.com/token/0xcce7162344dc758e4715079c8abc981dc72273b9
-  - name: twitter
-    url: https://twitter.com/ZedxionC
+  - name: x
+    url: https://x.com/ZedxionC
 ---
 
 # CRUDE OIL BRENT

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xf46306cdc35b845ebcc823be8363249b21f7ee63
   - name: telegram
     url: https://t.me/tradehubai
-  - name: twitter
-    url: https://twitter.com/tradehubai
+  - name: x
+    url: https://x.com/tradehubai
 ---
 
 # Tradehub

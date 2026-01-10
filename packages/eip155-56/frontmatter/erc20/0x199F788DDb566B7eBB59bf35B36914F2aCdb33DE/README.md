@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x199F788DDb566B7eBB59bf35B36914F2aCdb33DE
   - name: telegram
     url: https://t.me/DeFidoTokenOfficial
-  - name: twitter
-    url: https://twitter.com/defidotoken
+  - name: x
+    url: https://x.com/defidotoken
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/defido/
   - name: coingecko

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xac0c8da4a4748d8d821a0973d00b157aa78c473d
   - name: github
     url: https://github.com/YFI-ONE
-  - name: twitter
-    url: https://twitter.com/yfione
+  - name: x
+    url: https://x.com/yfione
   - name: telegram
     url: https://t.me/YFI_ONE
 ---

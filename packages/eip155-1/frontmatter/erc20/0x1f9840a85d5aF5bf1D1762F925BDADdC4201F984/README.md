@@ -11,8 +11,8 @@ links:
     url: https://etherscan.io/token/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984
   - name: discord
     url: https://discord.com/invite/XErMcTq
-  - name: twitter
-    url: https://twitter.com/UniswapProtocol
+  - name: x
+    url: https://x.com/UniswapProtocol
   - name: blog
     url: https://uniswap.org/blog/uni/
   - name: coinmarketcap

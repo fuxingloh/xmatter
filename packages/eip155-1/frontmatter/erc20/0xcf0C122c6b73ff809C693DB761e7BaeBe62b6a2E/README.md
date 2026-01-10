@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0xcf0c122c6b73ff809c693db761e7baebe62b6a2e
   - name: telegram
     url: https://t.me/FlokiInuToken
-  - name: twitter
-    url: https://twitter.com/realflokiinu
+  - name: x
+    url: https://x.com/realflokiinu
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/floki-inu/
   - name: coingecko

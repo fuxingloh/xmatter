@@ -10,8 +10,8 @@ links:
     url: https://starsharks.com/
   - name: explorer
     url: https://bscscan.com/token/0x26193C7fa4354AE49eC53eA2cEBC513dc39A10aa
-  - name: twitter
-    url: https://twitter.com/StarSharks_SSS
+  - name: x
+    url: https://x.com/StarSharks_SSS
   - name: telegram
     url: https://t.me/starsharks_SSS
   - name: discord

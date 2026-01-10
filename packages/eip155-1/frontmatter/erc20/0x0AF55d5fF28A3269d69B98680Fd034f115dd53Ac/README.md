@@ -6,8 +6,8 @@ links:
     url: https://www.banksocial.io
   - name: explorer
     url: https://etherscan.io/token/0x0AF55d5fF28A3269d69B98680Fd034f115dd53Ac
-  - name: twitter
-    url: https://twitter.com/banksocialio
+  - name: x
+    url: https://x.com/banksocialio
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/banksocial/
 ---

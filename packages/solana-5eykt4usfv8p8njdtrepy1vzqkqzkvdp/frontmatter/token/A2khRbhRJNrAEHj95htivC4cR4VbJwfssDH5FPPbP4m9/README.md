@@ -6,8 +6,8 @@ links:
     url: https://www.dukonsol.vip/
   - name: explorer
     url: https://solscan.io/token/A2khRbhRJNrAEHj95htivC4cR4VbJwfssDH5FPPbP4m9
-  - name: twitter
-    url: https://twitter.com/dukfuksonsol
+  - name: x
+    url: https://x.com/dukfuksonsol
   - name: telegram
     url: https://t.me/dukofficialportal
 ---

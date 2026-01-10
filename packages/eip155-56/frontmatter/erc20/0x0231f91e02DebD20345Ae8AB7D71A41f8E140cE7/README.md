@@ -6,8 +6,8 @@ links:
     url: https://jup.io
   - name: explorer
     url: https://bscscan.com/token/0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7
-  - name: twitter
-    url: https://twitter.com/jup_project
+  - name: x
+    url: https://x.com/jup_project
   - name: facebook
     url: https://facebook.com/JupiterProj
   - name: blog

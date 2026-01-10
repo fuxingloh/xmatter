@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x617724974218A18769020A70162165A539c07E8a
   - name: github
     url: https://github.com/olive-cash
-  - name: twitter
-    url: https://twitter.com/OliveCashBsc
+  - name: x
+    url: https://x.com/OliveCashBsc
   - name: telegram
     url: https://t.me/olive_cash_chat
   - name: medium

@@ -8,8 +8,8 @@ links:
     url: https://herocat.io
   - name: explorer
     url: https://bscscan.com/token/0x032A4E59387e08443Cf1df662141da09c31ceFa1
-  - name: twitter
-    url: https://twitter.com/HeroCatGameFi
+  - name: x
+    url: https://x.com/HeroCatGameFi
   - name: telegram
     url: https://t.me/herocatgamefi
   - name: discord

@@ -8,8 +8,8 @@ links:
     url: https://bnbtiger.top/
   - name: explorer
     url: https://bscscan.com/token/0xAC68931B666E086E9de380CFDb0Fb5704a35dc2D
-  - name: twitter
-    url: https://twitter.com/BnbTiger
+  - name: x
+    url: https://x.com/BnbTiger
   - name: telegram
     url: https://t.me/BNBTigerEN
   - name: github

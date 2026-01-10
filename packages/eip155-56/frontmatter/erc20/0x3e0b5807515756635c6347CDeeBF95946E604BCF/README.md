@@ -9,7 +9,7 @@ links:
   - name: telegram
     url: https://t.me/Facebookmetaverse
   - name: whitepaper
-    url: https://twitter.com/Facemetatoken
+    url: https://x.com/Facemetatoken
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/facebook-metaverse/
   - name: github

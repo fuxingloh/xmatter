@@ -12,8 +12,8 @@ links:
     url: https://t.me/pleasurecoin_crypto
   - name: discord
     url: https://discord.com/invite/GCHkdY6fnF
-  - name: twitter
-    url: https://twitter.com/Pleasure_coin
+  - name: x
+    url: https://x.com/Pleasure_coin
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/pleasure-coin/
   - name: coingecko

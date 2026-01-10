@@ -6,8 +6,8 @@ links:
     url: https://polygon.iron.finance
   - name: explorer
     url: https://polygonscan.com/token/0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A
-  - name: twitter
-    url: https://twitter.com/ironfinance
+  - name: x
+    url: https://x.com/ironfinance
   - name: github
     url: https://github.com/ironfinance
   - name: telegram

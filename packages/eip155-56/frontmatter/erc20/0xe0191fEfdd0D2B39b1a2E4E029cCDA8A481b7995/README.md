@@ -9,8 +9,8 @@ links:
     url: https://cryptomines.app/
   - name: explorer
     url: https://bscscan.com/token/0xe0191fefdd0d2b39b1a2e4e029ccda8a481b7995
-  - name: twitter
-    url: https://twitter.com/CryptoMinesApp
+  - name: x
+    url: https://x.com/CryptoMinesApp
   - name: discord
     url: https://discord.com/invite/cryptomines
   - name: telegram

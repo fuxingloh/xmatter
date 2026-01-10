@@ -9,8 +9,8 @@ links:
     url: https://etherscan.io/token/0x79F05c263055BA20EE0e814ACD117C20CAA10e0c
   - name: github
     url: https://github.com/ice-blockchain
-  - name: twitter
-    url: https://twitter.com/ice_blockchain
+  - name: x
+    url: https://x.com/ice_blockchain
   - name: telegram
     url: https://t.me/iceblockchain
   - name: whitepaper

@@ -6,8 +6,8 @@ links:
     url: https://www.highstreet.market/
   - name: explorer
     url: https://bscscan.com/token/0x5f4Bde007Dc06b867f86EBFE4802e34A1fFEEd63
-  - name: twitter
-    url: 'https://twitter.com/highstreetworld '
+  - name: x
+    url: 'https://x.com/highstreetworld '
   - name: github
     url: https://github.com/TravisBuilds/HighStreet
   - name: telegram

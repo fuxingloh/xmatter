@@ -6,8 +6,8 @@ links:
     url: https://tokenfi.com
   - name: explorer
     url: https://etherscan.io/token/0x4507cEf57C46789eF8d1a19EA45f4216bae2B528
-  - name: twitter
-    url: https://twitter.com/tokenfi
+  - name: x
+    url: https://x.com/tokenfi
 ---
 
 # TokenFi

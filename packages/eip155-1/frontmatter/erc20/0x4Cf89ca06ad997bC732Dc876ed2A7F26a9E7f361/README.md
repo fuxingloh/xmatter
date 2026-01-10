@@ -8,8 +8,8 @@ links:
     url: https://mysterium.network/
   - name: explorer
     url: https://etherscan.io/token/0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361
-  - name: twitter
-    url: https://twitter.com/MysteriumNet
+  - name: x
+    url: https://x.com/MysteriumNet
   - name: telegram
     url: https://t.me/Mysterium_Network
   - name: discord

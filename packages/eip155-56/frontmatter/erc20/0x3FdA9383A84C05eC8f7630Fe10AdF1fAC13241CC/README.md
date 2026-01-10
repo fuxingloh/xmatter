@@ -1,6 +1,9 @@
 ---
 symbol: DEGO
 decimals: 18
+tags:
+  - governance
+  - defi
 links:
   - name: website
     url: https://bsc.dego.finance

@@ -12,8 +12,8 @@ links:
     url: https://t.me/millionjacuzzibar
   - name: reddit
     url: https://reddit.com/r/milliontoken/
-  - name: twitter
-    url: https://twitter.com/Million__Token
+  - name: x
+    url: https://x.com/Million__Token
   - name: facebook
     url: https://facebook.com/groups/milliontoken
   - name: coinmarketcap

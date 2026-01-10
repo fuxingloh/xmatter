@@ -6,8 +6,8 @@ links:
     url: https://mochicatsol.club
   - name: explorer
     url: https://solscan.io/token/EVDQN4P1YTTD1Y3eLBDBoALWnR4aMBC9y2xUYCrbGbuy
-  - name: twitter
-    url: https://twitter.com/TokenMochiCat
+  - name: x
+    url: https://x.com/TokenMochiCat
 ---
 
 # MOCHICAT

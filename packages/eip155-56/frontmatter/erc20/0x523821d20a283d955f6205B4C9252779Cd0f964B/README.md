@@ -8,8 +8,8 @@ links:
     url: https://okcash.co
   - name: explorer
     url: https://bscscan.com/token/0x523821d20a283d955f6205b4c9252779cd0f964b
-  - name: twitter
-    url: https://twitter.com/OkcashCrypto
+  - name: x
+    url: https://x.com/OkcashCrypto
   - name: github
     url: https://github.com/okcashpro
   - name: coinmarketcap

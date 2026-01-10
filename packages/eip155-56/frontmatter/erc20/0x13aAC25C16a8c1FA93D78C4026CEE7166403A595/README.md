@@ -8,8 +8,8 @@ links:
     url: https://m3ga.group
   - name: explorer
     url: https://bscscan.com/token/0x13aAC25C16a8c1FA93D78C4026CEE7166403A595
-  - name: twitter
-    url: https://twitter.com/Moriarty_M3GA
+  - name: x
+    url: https://x.com/Moriarty_M3GA
   - name: github
     url: https://github.com/Moriartycoin
   - name: telegram

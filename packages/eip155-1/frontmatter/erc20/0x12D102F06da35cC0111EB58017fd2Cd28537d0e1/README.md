@@ -6,8 +6,8 @@ links:
     url: https://app.vox.finance/
   - name: explorer
     url: https://etherscan.io/token/0x12D102F06da35cC0111EB58017fd2Cd28537d0e1
-  - name: twitter
-    url: https://twitter.com/RealVoxFinance
+  - name: x
+    url: https://x.com/RealVoxFinance
   - name: telegram
     url: https://t.me/VoxFinance
   - name: discord

@@ -11,8 +11,8 @@ links:
     url: https://pepa-inu.com/
   - name: explorer
     url: https://bscscan.com/token/0xC3137c696796D69F783CD0Be4aB4bB96814234Aa
-  - name: twitter
-    url: https://twitter.com/pepa_inu
+  - name: x
+    url: https://x.com/pepa_inu
   - name: telegram
     url: https://t.me/pepa_inu
   - name: facebook

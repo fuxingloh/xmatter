@@ -8,8 +8,8 @@ links:
     url: https://www.metfx.io
   - name: explorer
     url: https://bscscan.com/token/0x6266a18F1605DA94e8317232ffa634C74646ac40
-  - name: twitter
-    url: https://twitter.com/metfxmetaverse
+  - name: x
+    url: https://x.com/metfxmetaverse
   - name: telegram
     url: https://t.me/METFXWORLD
   - name: facebook

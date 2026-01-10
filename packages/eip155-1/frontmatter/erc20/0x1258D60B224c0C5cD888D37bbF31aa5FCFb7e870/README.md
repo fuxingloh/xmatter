@@ -6,8 +6,8 @@ links:
     url: https://nodes.ai
   - name: explorer
     url: https://etherscan.io/token/0x1258d60b224c0c5cd888d37bbf31aa5fcfb7e870
-  - name: twitter
-    url: https://twitter.com/NodeAIETH
+  - name: x
+    url: https://x.com/NodeAIETH
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/node-ai/
 ---

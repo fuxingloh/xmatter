@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x0b15ddf19d47e6a86a56148fb4afffc6929bcb89
   - name: github
     url: https://github.com/impossiblefinance
-  - name: twitter
-    url: https://twitter.com/impossiblefi
+  - name: x
+    url: https://x.com/impossiblefi
   - name: blog
     url: https://medium.com/impossiblefinance
   - name: telegram

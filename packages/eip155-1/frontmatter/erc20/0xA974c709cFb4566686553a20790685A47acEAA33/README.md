@@ -1,13 +1,25 @@
 ---
 symbol: XIN
 decimals: 18
+tags:
+  - privacy
 links:
   - name: website
     url: https://mixin.one
   - name: explorer
     url: https://etherscan.io/token/0xA974c709cFb4566686553a20790685A47acEAA33
+  - name: x
+    url: https://x.com/MixinKernel
+  - name: github
+    url: https://github.com/MixinNetwork
+  - name: coinmarketcap
+    url: https://coinmarketcap.com/currencies/mixin
+  - name: coingecko
+    url: https://coingecko.com/coins/mixin
+  - name: reddit
+    url: https://reddit.com/r/mixin
 ---
 
 # Mixin
 
-A TEE powered BFT-DAG network, Mixin connects all existing blockchains with unlimited throughput.
+Mixin Network is a privacy layer for other blockchains.

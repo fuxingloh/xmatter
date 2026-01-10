@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x80c8C3dCfB854f9542567c8Dac3f44D709eBc1de
   - name: github
     url: https://github.com/spaceswap/spaceswap
-  - name: twitter
-    url: https://twitter.com/spaceswapdefi
+  - name: x
+    url: https://x.com/spaceswapdefi
   - name: telegram
     url: https://t.me/spaceswap
   - name: discord

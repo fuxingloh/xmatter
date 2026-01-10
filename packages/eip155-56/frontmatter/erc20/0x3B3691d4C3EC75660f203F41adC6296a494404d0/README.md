@@ -8,8 +8,8 @@ links:
     url: https://www.catcoincrypto.me/
   - name: explorer
     url: https://bscscan.com/token/0x3B3691d4C3EC75660f203F41adC6296a494404d0
-  - name: twitter
-    url: https://twitter.com/catcoinbsc
+  - name: x
+    url: https://x.com/catcoinbsc
   - name: telegram
     url: https://t.me/catcoin_bsc
   - name: coinmarketcap

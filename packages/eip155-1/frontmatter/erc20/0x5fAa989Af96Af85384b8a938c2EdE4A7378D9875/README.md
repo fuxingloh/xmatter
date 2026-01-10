@@ -12,8 +12,8 @@ links:
     url: https://coinmarketcap.com/currencies/galxe/
   - name: coingecko
     url: https://coingecko.com/en/coins/galxe
-  - name: twitter
-    url: https://twitter.com/galxe
+  - name: x
+    url: https://x.com/galxe
   - name: telegram
     url: https://t.me/galxe
   - name: discord

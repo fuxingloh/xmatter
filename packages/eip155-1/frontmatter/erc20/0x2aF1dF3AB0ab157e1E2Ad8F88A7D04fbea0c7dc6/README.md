@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x2aF1dF3AB0ab157e1E2Ad8F88A7D04fbea0c7dc6
   - name: blog
     url: https://gov.indexcoop.com
-  - name: twitter
-    url: https://twitter.com/indexcoop
+  - name: x
+    url: https://x.com/indexcoop
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/defi-pulse-index/p
   - name: coingecko

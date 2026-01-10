@@ -6,8 +6,8 @@ links:
     url: https://nutsgaming.net
   - name: explorer
     url: https://bscscan.com/token/0xe6E6A022b4d4e538Ca0a1f47941CbBF3F9cc1467
-  - name: twitter
-    url: https://twitter.com/NUTSGamingBSC
+  - name: x
+    url: https://x.com/NUTSGamingBSC
   - name: github
     url: https://github.com/JeroNUTSG/NUTSgaming
   - name: youtube

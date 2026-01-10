@@ -6,8 +6,8 @@ links:
     url: '-'
   - name: explorer
     url: https://etherscan.io/token/0xBec4A69D6A5fbCb2303c13D24ea1A51a6F19bd12
-  - name: twitter
-    url: https://twitter.com/coinusdx
+  - name: x
+    url: https://x.com/coinusdx
 ---
 
 # USDX

@@ -8,8 +8,8 @@ links:
     url: https://www.headfootball.io/
   - name: explorer
     url: https://bscscan.com/token/0x7917c830eca3360e24e09fd422310a734ac9d2c9
-  - name: twitter
-    url: https://twitter.com/headfootball_io
+  - name: x
+    url: https://x.com/headfootball_io
   - name: github
     url: https://github.com/headfootball
   - name: telegram

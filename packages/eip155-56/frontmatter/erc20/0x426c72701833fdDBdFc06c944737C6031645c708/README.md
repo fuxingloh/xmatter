@@ -8,8 +8,8 @@ links:
     url: https://defina.finance/
   - name: explorer
     url: https://bscscan.com/token/0x426c72701833fddbdfc06c944737c6031645c708
-  - name: twitter
-    url: https://twitter.com/Defina_Official
+  - name: x
+    url: https://x.com/Defina_Official
   - name: telegram
     url: https://t.me/definafinance1
   - name: telegram_news

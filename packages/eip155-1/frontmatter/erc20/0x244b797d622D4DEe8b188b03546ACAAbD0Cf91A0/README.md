@@ -8,8 +8,8 @@ links:
     url: https://www.4thecoin.com/
   - name: explorer
     url: https://etherscan.io/token/0x244b797d622d4dee8b188b03546acaabd0cf91a0
-  - name: twitter
-    url: https://twitter.com/4thecoin
+  - name: x
+    url: https://x.com/4thecoin
   - name: telegram
     url: https://t.me/TheCoin4
 ---

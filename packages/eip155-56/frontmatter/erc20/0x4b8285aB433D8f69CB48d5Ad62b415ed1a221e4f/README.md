@@ -8,8 +8,8 @@ links:
     url: https://magiccraft.io
   - name: explorer
     url: https://bscscan.com/token/0x4b8285aB433D8f69CB48d5Ad62b415ed1a221e4f
-  - name: twitter
-    url: https://twitter.com/MagicCraftGame
+  - name: x
+    url: https://x.com/MagicCraftGame
   - name: telegram
     url: https://t.me/magiccraftgamechat
   - name: whitepaper

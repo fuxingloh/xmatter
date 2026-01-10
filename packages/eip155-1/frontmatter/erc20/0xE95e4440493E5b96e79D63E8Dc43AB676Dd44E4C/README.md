@@ -6,8 +6,8 @@ links:
     url: https://antiseal.finance
   - name: explorer
     url: https://etherscan.io/token/0xe95e4440493e5b96e79d63e8dc43ab676dd44e4c
-  - name: twitter
-    url: https://twitter.com/ANTISEAL1
+  - name: x
+    url: https://x.com/ANTISEAL1
   - name: telegram
     url: https://t.me/ANTI_SEAL
 ---

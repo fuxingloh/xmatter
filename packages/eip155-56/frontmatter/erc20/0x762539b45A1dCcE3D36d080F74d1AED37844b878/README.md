@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x762539b45a1dcce3d36d080f74d1aed37844b878
   - name: github
     url: https://github.com/Linear-finance/linear
-  - name: twitter
-    url: https://twitter.com/LinearFinance
+  - name: x
+    url: https://x.com/LinearFinance
   - name: telegram
     url: https://t.me/linearfinanceofficial
   - name: coinmarketcap

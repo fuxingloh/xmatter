@@ -6,8 +6,8 @@ links:
     url: https://candylad.net/
   - name: explorer
     url: https://bscscan.com/token/0x136BFcdec5DB31b565052451AD806014ab9F2b38
-  - name: twitter
-    url: https://twitter.com/candyladbsc
+  - name: x
+    url: https://x.com/candyladbsc
   - name: telegram
     url: https://t.me/candyladen
   - name: coinmarketcap

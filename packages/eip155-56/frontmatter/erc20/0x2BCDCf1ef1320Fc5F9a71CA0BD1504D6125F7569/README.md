@@ -6,8 +6,8 @@ links:
     url: https://discas.vision/
   - name: explorer
     url: https://bscscan.com/token/0x2BCDCf1ef1320Fc5F9a71CA0BD1504D6125F7569
-  - name: twitter
-    url: https://twitter.com/discasvision
+  - name: x
+    url: https://x.com/discasvision
   - name: telegram
     url: https://t.me/discasvision
   - name: facebook

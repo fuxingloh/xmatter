@@ -8,8 +8,8 @@ links:
     url: https://redfoxlabs.io/
   - name: explorer
     url: https://bscscan.com/token/0x0a3a21356793b49154fd3bbe91cbc2a16c0457f5
-  - name: twitter
-    url: https://twitter.com/redfoxlabs_io
+  - name: x
+    url: https://x.com/redfoxlabs_io
   - name: coingecko
     url: https://coingecko.com/en/coins/redfox-labs-2/
   - name: coinmarketcap

@@ -12,8 +12,8 @@ links:
     url: https://bscscan.com/token/0xBf5140A22578168FD562DCcF235E5D43A02ce9B1
   - name: blog
     url: https://uniswap.org/blog/uni/
-  - name: twitter
-    url: https://twitter.com/UniswapProtocol
+  - name: x
+    url: https://x.com/UniswapProtocol
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/uniswap/
   - name: coingecko

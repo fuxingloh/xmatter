@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x4c4da68D45F23E38ec8407272ee4f38F280263c0
   - name: telegram
     url: https://t.me/pandagirltoken
-  - name: twitter
-    url: https://twitter.com/PandaGirlToken
+  - name: x
+    url: https://x.com/PandaGirlToken
   - name: coingecko
     url: https://coingecko.com/en/coins/panda-girl
   - name: coinmarketcap

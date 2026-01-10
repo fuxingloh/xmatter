@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x651a89fed302227d41425235F8E934502FB94C48
   - name: whitepaper
     url: https://adacash.io/whitepaper
-  - name: twitter
-    url: https://twitter.com/adacashbsc
+  - name: x
+    url: https://x.com/adacashbsc
   - name: telegram
     url: https://t.me/adacashtoken
   - name: reddit

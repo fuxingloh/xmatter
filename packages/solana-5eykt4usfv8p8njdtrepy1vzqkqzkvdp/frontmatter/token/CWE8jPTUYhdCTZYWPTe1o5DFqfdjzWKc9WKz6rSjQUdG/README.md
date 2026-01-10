@@ -10,8 +10,8 @@ links:
     url: https://solscan.io/token/CWE8jPTUYhdCTZYWPTe1o5DFqfdjzWKc9WKz6rSjQUdG
   - name: github
     url: https://github.com/smartcontractkit/chainlink
-  - name: twitter
-    url: https://twitter.com/chainlink
+  - name: x
+    url: https://x.com/chainlink
   - name: reddit
     url: https://reddit.com/r/chainlink
   - name: whitepaper

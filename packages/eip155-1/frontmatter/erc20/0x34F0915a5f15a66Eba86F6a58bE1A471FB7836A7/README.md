@@ -8,8 +8,8 @@ links:
     url: https://pulsedogecoin.com
   - name: explorer
     url: https://etherscan.io/token/0x34F0915a5f15a66Eba86F6a58bE1A471FB7836A7
-  - name: twitter
-    url: https://twitter.com/PLSDogecoin
+  - name: x
+    url: https://x.com/PLSDogecoin
   - name: github
     url: https://github.com/PulseDogecoin
   - name: telegram

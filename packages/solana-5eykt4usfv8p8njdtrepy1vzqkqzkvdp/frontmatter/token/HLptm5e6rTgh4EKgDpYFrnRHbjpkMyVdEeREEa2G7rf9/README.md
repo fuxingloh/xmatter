@@ -6,8 +6,8 @@ links:
     url: https://dukocoin.com/
   - name: explorer
     url: https://solscan.io/token/HLptm5e6rTgh4EKgDpYFrnRHbjpkMyVdEeREEa2G7rf9
-  - name: twitter
-    url: https://twitter.com/dukocoin
+  - name: x
+    url: https://x.com/dukocoin
 ---
 
 # Duko

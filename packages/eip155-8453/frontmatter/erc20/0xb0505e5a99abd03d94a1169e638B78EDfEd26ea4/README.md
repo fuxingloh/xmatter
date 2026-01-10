@@ -8,8 +8,8 @@ links:
     url: https://basescan.org/token/0xb0505e5a99abd03d94a1169e638b78edfed26ea4
   - name: discord
     url: https://discord.com/invite/universalassets
-  - name: twitter
-    url: https://twitter.com/UniversalAsset_
+  - name: x
+    url: https://x.com/UniversalAsset_
 ---
 
 # Sui (Universal)

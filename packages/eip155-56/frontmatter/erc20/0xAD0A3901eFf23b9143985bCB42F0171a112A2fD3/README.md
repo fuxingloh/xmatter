@@ -8,8 +8,8 @@ links:
     url: https://minerblox.com/
   - name: explorer
     url: https://bscscan.com/token/0xAD0A3901eFf23b9143985bCB42F0171a112A2fD3
-  - name: twitter
-    url: https://twitter.com/MinerBloxOffi
+  - name: x
+    url: https://x.com/MinerBloxOffi
   - name: telegram
     url: https://t.me/minerblox
   - name: discord

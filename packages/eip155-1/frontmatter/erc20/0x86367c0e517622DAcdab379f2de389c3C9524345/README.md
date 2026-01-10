@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x86367c0e517622dacdab379f2de389c3c9524345
   - name: reddit
     url: https://reddit.com/r/universalprotocol/
-  - name: twitter
-    url: https://twitter.com/UPPlatform
+  - name: x
+    url: https://x.com/UPPlatform
   - name: coingecko
     url: https://coingecko.com/en/coins/universal-us-dollar/
   - name: medium

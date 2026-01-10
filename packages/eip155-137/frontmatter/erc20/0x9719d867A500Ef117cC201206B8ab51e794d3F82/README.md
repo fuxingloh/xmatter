@@ -8,8 +8,8 @@ links:
     url: https://polygonscan.com/token/0x9719d867a500ef117cc201206b8ab51e794d3f82
   - name: discord
     url: https://discord.com/invite/NPwnWB6
-  - name: twitter
-    url: https://twitter.com/aavegotchi
+  - name: x
+    url: https://x.com/aavegotchi
   - name: coingecko
     url: https://coingecko.com/en/coins/matic-aave-usdc/
   - name: medium

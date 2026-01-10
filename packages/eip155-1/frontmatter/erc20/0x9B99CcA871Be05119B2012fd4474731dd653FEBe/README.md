@@ -6,8 +6,8 @@ links:
     url: https://antimatter.finance/
   - name: explorer
     url: https://etherscan.io/token/0x9B99CcA871Be05119B2012fd4474731dd653FEBe
-  - name: twitter
-    url: https://twitter.com/antimatterdefi
+  - name: x
+    url: https://x.com/antimatterdefi
   - name: telegram
     url: https://t.me/antimatterchat
   - name: github

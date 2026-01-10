@@ -8,8 +8,8 @@ links:
     url: https://jerryinu.com/
   - name: explorer
     url: https://bscscan.com/token/0xdd6978f36c98aff4287e5ac803c9cf1b865641f6
-  - name: twitter
-    url: https://twitter.com/JerryInu
+  - name: x
+    url: https://x.com/JerryInu
   - name: telegram
     url: https://t.me/JerryInuGroup
   - name: coinmarketcap

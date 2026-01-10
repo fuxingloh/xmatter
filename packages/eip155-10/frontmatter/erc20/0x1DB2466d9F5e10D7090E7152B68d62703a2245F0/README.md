@@ -6,8 +6,8 @@ links:
     url: https://sonne.finance/
   - name: explorer
     url: https://optimistic.etherscan.io/token/0x1db2466d9f5e10d7090e7152b68d62703a2245f0
-  - name: twitter
-    url: https://twitter.com/SonneFinance
+  - name: x
+    url: https://x.com/SonneFinance
   - name: telegram
     url: https://t.me/SonneFin
 ---

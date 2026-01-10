@@ -8,8 +8,8 @@ links:
     url: https://www.frenchconnection.finance
   - name: explorer
     url: https://bscscan.com/token/0x4673f018cc6d401AAD0402BdBf2abcBF43dd69F3
-  - name: twitter
-    url: https://twitter.com/FCF_Bsc
+  - name: x
+    url: https://x.com/FCF_Bsc
   - name: reddit
     url: https://reddit.com/r/Frenchconnectiontoken/
   - name: coinmarketcap

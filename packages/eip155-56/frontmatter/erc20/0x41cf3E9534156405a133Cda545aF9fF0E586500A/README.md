@@ -6,8 +6,8 @@ links:
     url: https://www.gamingshibaofficial.com
   - name: explorer
     url: https://bscscan.com/token/0x41cf3E9534156405a133Cda545aF9fF0E586500A
-  - name: twitter
-    url: https://twitter.com/gamingshibabsc
+  - name: x
+    url: https://x.com/gamingshibabsc
   - name: telegram
     url: https://t.me/gamingshibabsc
   - name: coinmarketcap

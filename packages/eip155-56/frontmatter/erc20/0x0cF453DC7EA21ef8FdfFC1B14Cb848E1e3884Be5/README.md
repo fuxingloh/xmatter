@@ -8,8 +8,8 @@ links:
     url: https://sportpoint.app/
   - name: explorer
     url: https://bscscan.com/token/0x0cF453DC7EA21ef8FdfFC1B14Cb848E1e3884Be5
-  - name: twitter
-    url: https://twitter.com/SportPoint_app
+  - name: x
+    url: https://x.com/SportPoint_app
   - name: youtube
     url: https://youtube.com/watch?v=Fem9Bnsh37c
   - name: telegram

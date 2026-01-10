@@ -6,8 +6,8 @@ links:
     url: https://farmingbad.finance
   - name: explorer
     url: https://etherscan.io/token/0x11003E410ca3FcD220765B3d2f343433A0b2bffd
-  - name: twitter
-    url: https://twitter.com/FarmingBad
+  - name: x
+    url: https://x.com/FarmingBad
   - name: telegram
     url: https://t.me/FarmingBad
   - name: discord

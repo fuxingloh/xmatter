@@ -6,8 +6,8 @@ links:
     url: https://nonplayablecoin.io/
   - name: explorer
     url: https://bscscan.com/token/0xFEbfA339E44c28E2aa9E62Ea1027C9CB4e378605
-  - name: twitter
-    url: https://twitter.com/NonPlayableCoin
+  - name: x
+    url: https://x.com/NonPlayableCoin
 ---
 
 # Non-Playable Coin

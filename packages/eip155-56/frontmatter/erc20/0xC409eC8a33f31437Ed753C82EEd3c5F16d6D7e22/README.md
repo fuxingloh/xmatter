@@ -6,8 +6,8 @@ links:
     url: https://tokau.io/
   - name: explorer
     url: https://bscscan.com/token/0xC409eC8a33f31437Ed753C82EEd3c5F16d6D7e22
-  - name: twitter
-    url: https://twitter.com/TOKAU_JP
+  - name: x
+    url: https://x.com/TOKAU_JP
   - name: telegram
     url: https://t.me/tokau2021
 ---

@@ -8,8 +8,8 @@ links:
     url: https://www.theopendao.com/
   - name: explorer
     url: https://etherscan.io/token/0x3b484b82567a09e2588A13D54D032153f0c0aEe0
-  - name: twitter
-    url: https://twitter.com/The_OpenDAO
+  - name: x
+    url: https://x.com/The_OpenDAO
   - name: coingecko
     url: https://coingecko.com/en/coins/opendao/
   - name: discord

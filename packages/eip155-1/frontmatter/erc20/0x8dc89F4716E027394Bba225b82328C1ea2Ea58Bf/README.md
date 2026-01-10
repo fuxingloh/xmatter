@@ -8,8 +8,8 @@ links:
     url: https://galaxyvillains.com
   - name: explorer
     url: https://etherscan.io/token/0x8dc89f4716e027394bba225b82328c1ea2ea58bf
-  - name: twitter
-    url: https://twitter.com/villainsgvc
+  - name: x
+    url: https://x.com/villainsgvc
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/galaxy-villans/
   - name: github

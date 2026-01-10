@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x8b1869f79b9abF52001314A2E6990A96F039058D
   - name: telegram
     url: https://t.me/andycoinbsc
-  - name: twitter
-    url: https://twitter.com/andycoinbsc
+  - name: x
+    url: https://x.com/andycoinbsc
 ---
 
 # Andy

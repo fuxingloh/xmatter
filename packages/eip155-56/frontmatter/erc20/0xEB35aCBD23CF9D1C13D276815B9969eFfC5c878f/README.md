@@ -10,8 +10,8 @@ links:
     url: https://coinmarketcap.com/currencies/mini-shiba/
   - name: telegram
     url: https://t.me/MiniShibaInu
-  - name: twitter
-    url: https://twitter.com/MiniShiba_Token
+  - name: x
+    url: https://x.com/MiniShiba_Token
 ---
 
 # MiniShibaInu

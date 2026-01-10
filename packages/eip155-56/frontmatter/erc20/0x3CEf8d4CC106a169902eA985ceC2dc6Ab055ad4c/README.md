@@ -9,8 +9,8 @@ links:
     url: https://cai.codes
   - name: explorer
     url: https://bscscan.com/token/0x3CEf8d4CC106a169902eA985ceC2dc6Ab055ad4c
-  - name: twitter
-    url: https://twitter.com/CryptoAIbsc
+  - name: x
+    url: https://x.com/CryptoAIbsc
   - name: telegram
     url: https://t.me/CryptoAI_eng
   - name: github

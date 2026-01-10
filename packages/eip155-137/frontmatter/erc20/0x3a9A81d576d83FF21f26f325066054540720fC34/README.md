@@ -6,8 +6,8 @@ links:
     url: https://streamr.network
   - name: explorer
     url: https://polygonscan.com/token/0x3a9A81d576d83FF21f26f325066054540720fC34
-  - name: twitter
-    url: https://twitter.com/streamr
+  - name: x
+    url: https://x.com/streamr
   - name: github
     url: https://github.com/streamr-dev
   - name: whitepaper

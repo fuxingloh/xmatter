@@ -6,8 +6,8 @@ links:
     url: https://www.arkhamintelligence.com/
   - name: explorer
     url: https://etherscan.io/token/0x6e2a43be0b1d33b726f0ca3b8de60b3482b8b050
-  - name: twitter
-    url: https://twitter.com/arkhamintel
+  - name: x
+    url: https://x.com/arkhamintel
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/arkham/
   - name: telegram

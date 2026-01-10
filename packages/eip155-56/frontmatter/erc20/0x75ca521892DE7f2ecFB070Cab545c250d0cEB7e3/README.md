@@ -8,8 +8,8 @@ links:
     url: https://pvcmeta.io/
   - name: explorer
     url: https://bscscan.com/token/0x75ca521892DE7f2ecFB070Cab545c250d0cEB7e3
-  - name: twitter
-    url: https://twitter.com/pvcmeta
+  - name: x
+    url: https://x.com/pvcmeta
   - name: github
     url: https://github.com/pvcmetaofficial
   - name: telegram

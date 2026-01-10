@@ -8,8 +8,8 @@ links:
     url: https://chihuahuabsc.io/
   - name: explorer
     url: https://bscscan.com/token/0x2fd6c9B869Dea106730269E13113361b684f843a
-  - name: twitter
-    url: https://twitter.com/Chihuahua_bsc
+  - name: x
+    url: https://x.com/Chihuahua_bsc
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/chihuahua-token-19fcd0de-eb4d-4fd7-bc4a-a202247dfdbb/
   - name: coingecko

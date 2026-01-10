@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x88C926CA9234Ee194dc47be6e91d35e8CCbEed51
   - name: github
     url: https://github.com/moocowtoken/MooCow/
-  - name: twitter
-    url: https://twitter.com/moocowtoken
+  - name: x
+    url: https://x.com/moocowtoken
   - name: telegram
     url: https://t.me/moocowtoken
   - name: discord

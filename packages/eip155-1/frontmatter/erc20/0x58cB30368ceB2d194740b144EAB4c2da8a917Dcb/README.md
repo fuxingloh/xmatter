@@ -6,8 +6,8 @@ links:
     url: https://www.zyncoin.xyz/
   - name: explorer
     url: https://etherscan.io/token/0x58cb30368ceb2d194740b144eab4c2da8a917dcb
-  - name: twitter
-    url: https://twitter.com/ZynCoinERC20
+  - name: x
+    url: https://x.com/ZynCoinERC20
 ---
 
 # ZynCoin

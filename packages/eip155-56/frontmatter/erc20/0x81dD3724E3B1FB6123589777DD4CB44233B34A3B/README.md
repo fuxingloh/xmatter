@@ -8,8 +8,8 @@ links:
     url: https://flappybirdgo.com
   - name: explorer
     url: https://bscscan.com/token/0x81dd3724e3b1fb6123589777dd4cb44233b34a3b
-  - name: twitter
-    url: https://twitter.com/FlappyBird_Go
+  - name: x
+    url: https://x.com/FlappyBird_Go
   - name: telegram
     url: https://t.me/FlappyBirdGo
   - name: whitepaper

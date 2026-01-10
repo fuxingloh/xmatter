@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xA2120b9e674d3fC3875f415A7DF52e382F141225
   - name: github
     url: https://github.com/automata-network
-  - name: twitter
-    url: https://twitter.com/automatanetwork
+  - name: x
+    url: https://x.com/automatanetwork
   - name: telegram
     url: https://t.me/ata_network
   - name: coingecko

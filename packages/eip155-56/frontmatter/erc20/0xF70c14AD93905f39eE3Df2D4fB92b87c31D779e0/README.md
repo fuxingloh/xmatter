@@ -6,8 +6,8 @@ links:
     url: https://minicardano.finance/
   - name: explorer
     url: https://bscscan.com/token/0xF70c14AD93905f39eE3Df2D4fB92b87c31D779e0
-  - name: twitter
-    url: https://twitter.com/minicardano
+  - name: x
+    url: https://x.com/minicardano
   - name: telegram
     url: https://t.me/mini_cardano
   - name: coingecko

@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xc56c7a0eaa804f854b536a5f3d5f49d2ec4b12b8
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/gamestop/
-  - name: twitter
-    url: https://twitter.com/GMEonETH_
+  - name: x
+    url: https://x.com/GMEonETH_
 ---
 
 # GameStop

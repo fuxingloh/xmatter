@@ -8,8 +8,8 @@ links:
     url: https://basescan.org/token/0xebff2db643cf955247339c8c6bcd8406308ca437
   - name: telegram
     url: https://t.me/chompcoinxyz
-  - name: twitter
-    url: https://twitter.com/Chompcoin
+  - name: x
+    url: https://x.com/Chompcoin
 ---
 
 # ChompCoin

@@ -6,8 +6,8 @@ links:
     url: https://thereallandwolf.com/
   - name: explorer
     url: https://solscan.io/token/Faf89929Ni9fbg4gmVZTca7eW6NFg877Jqn6MizT3Gvw
-  - name: twitter
-    url: https://twitter.com/TheBoysClubWolf
+  - name: x
+    url: https://x.com/TheBoysClubWolf
   - name: telegram
     url: https://t.me/TheRealLandWolf
 ---

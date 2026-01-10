@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x9c2dc0c3cc2badde84b0025cf4df1c5af288d835
   - name: github
     url: https://github.com/coreto-io
-  - name: twitter
-    url: https://twitter.com/Coretoio
+  - name: x
+    url: https://x.com/Coretoio
   - name: telegram
     url: https://t.me/Coreto
   - name: medium

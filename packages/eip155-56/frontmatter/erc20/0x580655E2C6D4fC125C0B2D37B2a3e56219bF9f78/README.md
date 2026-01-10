@@ -6,8 +6,8 @@ links:
     url: https://gallanttoken.com
   - name: explorer
     url: https://bscscan.com/token/0x580655e2c6d4fc125c0b2d37b2a3e56219bf9f78
-  - name: twitter
-    url: https://twitter.com/GallantToken
+  - name: x
+    url: https://x.com/GallantToken
   - name: telegram
     url: https://t.me/GallantTokenOfficial
   - name: discord

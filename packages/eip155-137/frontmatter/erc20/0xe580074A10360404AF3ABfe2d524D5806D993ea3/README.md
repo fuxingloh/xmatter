@@ -10,8 +10,8 @@ links:
     url: https://polygonscan.com/token/0xe580074A10360404AF3ABfe2d524D5806D993ea3
   - name: telegram
     url: https://t.me/PayBolt
-  - name: twitter
-    url: https://twitter.com/PayBoltofficial
+  - name: x
+    url: https://x.com/PayBoltofficial
   - name: youtube
     url: https://youtube.com/c/PayBolt
   - name: facebook

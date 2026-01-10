@@ -8,8 +8,8 @@ links:
     url: https://galaxyheroes.com
   - name: explorer
     url: https://bscscan.com/token/0x9Cb9478C5Db5dAe52D5Af91737FF706F60195e45
-  - name: twitter
-    url: https://twitter.com/GalaxyHeroesGHC
+  - name: x
+    url: https://x.com/GalaxyHeroesGHC
   - name: facebook
     url: https://facebook.com/galaxyheroescoin
   - name: coinmarketcap

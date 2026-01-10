@@ -14,8 +14,8 @@ links:
     url: https://coingecko.com/coins/dragonking
   - name: telegram
     url: https://t.me/dragonkingofficialchannel
-  - name: twitter
-    url: https://twitter.com/Dking_united99
+  - name: x
+    url: https://x.com/Dking_united99
 ---
 
 # DragonKing

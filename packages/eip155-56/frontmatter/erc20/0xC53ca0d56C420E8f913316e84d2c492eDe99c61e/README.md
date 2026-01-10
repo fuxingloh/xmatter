@@ -8,8 +8,8 @@ links:
     url: https://www.grokbsc.xyz/
   - name: explorer
     url: https://bscscan.com/token/0xC53ca0d56C420E8f913316e84d2c492eDe99c61e
-  - name: twitter
-    url: https://twitter.com/TOKEN204999
+  - name: x
+    url: https://x.com/TOKEN204999
   - name: telegram
     url: https://t.me/GROKBSC8
   - name: whitepaper

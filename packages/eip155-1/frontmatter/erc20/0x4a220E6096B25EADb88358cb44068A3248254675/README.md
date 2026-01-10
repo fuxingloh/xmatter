@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x4a220E6096B25EADb88358cb44068A3248254675
   - name: github
     url: https://github.com/quantnetwork
-  - name: twitter
-    url: https://twitter.com/quant_network
+  - name: x
+    url: https://x.com/quant_network
   - name: reddit
     url: https://reddit.com/r/QuantNetwork/
   - name: blog

@@ -10,8 +10,8 @@ links:
     url: https://arbiscan.io/token/0x3082CC23568eA640225c2467653dB90e9250AaA0
   - name: github
     url: https://github.com/radiant-capital
-  - name: twitter
-    url: https://twitter.com/RDNTCapital
+  - name: x
+    url: https://x.com/RDNTCapital
   - name: discord
     url: https://discord.com/invite/radiantcapital
   - name: telegram

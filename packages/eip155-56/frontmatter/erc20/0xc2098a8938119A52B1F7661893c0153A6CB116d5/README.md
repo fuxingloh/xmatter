@@ -6,8 +6,8 @@ links:
     url: ' https://rangersprotocol.com/'
   - name: explorer
     url: https://bscscan.com/token/0xc2098a8938119A52B1F7661893c0153A6CB116d5
-  - name: twitter
-    url: https://twitter.com/rangersprotocol
+  - name: x
+    url: https://x.com/rangersprotocol
   - name: telegram
     url: https://t.me/RangersProtocol
   - name: whitepaper

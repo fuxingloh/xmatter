@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk
   - name: github
     url: https://github.com/ethereum/ethereum-org-website
-  - name: twitter
-    url: https://twitter.com/ethdotorg
+  - name: x
+    url: https://x.com/ethdotorg
   - name: youtube
     url: https://youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g
   - name: discord

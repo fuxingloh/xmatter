@@ -6,8 +6,8 @@ links:
     url: https://info.safeswap.online
   - name: explorer
     url: https://bscscan.com/token/0xe56a473043EaAB7947c0a2408cEA623074500EE3
-  - name: twitter
-    url: https://twitter.com/safeswaponline
+  - name: x
+    url: https://x.com/safeswaponline
   - name: telegram
     url: https://t.me/safeswap_online
   - name: telegram_news

@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de
   - name: github
     url: https://github.com/sirenmarkets/core
-  - name: twitter
-    url: https://twitter.com/sirenprotocol
+  - name: x
+    url: https://x.com/sirenprotocol
 ---
 
 # SIREN

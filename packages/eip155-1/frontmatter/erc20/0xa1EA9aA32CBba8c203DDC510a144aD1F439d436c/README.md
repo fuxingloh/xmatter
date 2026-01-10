@@ -9,8 +9,8 @@ links:
     url: https://www.metaportal.wtf/
   - name: explorer
     url: https://etherscan.io/token/0xa1EA9aA32CBba8c203DDC510a144aD1F439d436c
-  - name: twitter
-    url: https://twitter.com/MetaportaI
+  - name: x
+    url: https://x.com/MetaportaI
   - name: github
     url: https://github.com/
   - name: discord

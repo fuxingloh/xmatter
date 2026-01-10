@@ -8,8 +8,8 @@ links:
     url: https://www.crypto-vektor.com/
   - name: explorer
     url: https://bscscan.com/token/0xF2DA079867785018E6d823DD0FF332f05AAfe485
-  - name: twitter
-    url: https://twitter.com/Vektor_vektor?t=pE8hrBoFe7yDCYMEojK9Kw&s=09
+  - name: x
+    url: https://x.com/Vektor_vektor?t=pE8hrBoFe7yDCYMEojK9Kw&s=09
   - name: telegram
     url: https://t.me/VEKTOR_mentoring
   - name: github

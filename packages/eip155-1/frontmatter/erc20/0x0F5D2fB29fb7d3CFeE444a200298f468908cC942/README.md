@@ -11,8 +11,8 @@ links:
     url: https://etherscan.io/token/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942
   - name: github
     url: https://github.com/decentraland
-  - name: twitter
-    url: https://twitter.com/decentraland
+  - name: x
+    url: https://x.com/decentraland
   - name: reddit
     url: https://reddit.com/r/decentraland
   - name: blog

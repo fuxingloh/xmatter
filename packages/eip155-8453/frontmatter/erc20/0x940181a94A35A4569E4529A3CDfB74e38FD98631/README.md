@@ -6,8 +6,8 @@ links:
     url: https://aerodrome.finance/
   - name: explorer
     url: https://basescan.org/token/0x940181a94a35a4569e4529a3cdfb74e38fd98631
-  - name: twitter
-    url: https://twitter.com/AerodromeFi
+  - name: x
+    url: https://x.com/AerodromeFi
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/aerodrome-finance/
 ---

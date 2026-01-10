@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xc4736f2611a62d545dc2d0d8f0766283617e6fcb
   - name: medium
     url: https://medium.com/@topgoal_nft
-  - name: twitter
-    url: https://twitter.com/TopGoal_NFT
+  - name: x
+    url: https://x.com/TopGoal_NFT
 ---
 
 # TopGoal

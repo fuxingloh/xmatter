@@ -8,8 +8,8 @@ links:
     url: https://www.cratostoken.com/
   - name: explorer
     url: https://bscscan.com/token/0x678e840c640f619e17848045d23072844224dd37
-  - name: twitter
-    url: https://twitter.com/cratostoken
+  - name: x
+    url: https://x.com/cratostoken
   - name: telegram
     url: https://t.me/CratosToken
   - name: coinmarketcap

@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x725C263e32c72dDC3A19bEa12C5a0479a81eE688
   - name: github
     url: https://github.com/Bridge-Mutual
-  - name: twitter
-    url: https://twitter.com/Bridge_Mutual
+  - name: x
+    url: https://x.com/Bridge_Mutual
 ---
 
 # Bridge Mutual

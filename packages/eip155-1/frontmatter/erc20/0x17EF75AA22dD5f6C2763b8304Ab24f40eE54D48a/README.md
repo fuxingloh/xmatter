@@ -6,8 +6,8 @@ links:
     url: https://revolutionpopuli.com/
   - name: explorer
     url: https://etherscan.io/token/0x17EF75AA22dD5f6C2763b8304Ab24f40eE54D48a
-  - name: twitter
-    url: https://twitter.com/Rev_Populi
+  - name: x
+    url: https://x.com/Rev_Populi
   - name: telegram
     url: https://t.me/revpopofficial
   - name: discord

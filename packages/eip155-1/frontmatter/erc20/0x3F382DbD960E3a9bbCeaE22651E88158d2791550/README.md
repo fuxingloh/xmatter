@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550
   - name: github
     url: https://github.com/aavegotchi
-  - name: twitter
-    url: https://twitter.com/aavegotchi
+  - name: x
+    url: https://x.com/aavegotchi
   - name: coingecko
     url: https://coingecko.com/en/coins/aavegotchi/
   - name: medium

@@ -6,8 +6,8 @@ links:
     url: https://yfox.finance
   - name: explorer
     url: https://etherscan.io/token/0x706CB9E741CBFee00Ad5b3f5ACc8bd44D1644a74
-  - name: twitter
-    url: https://twitter.com/yfoxfinance
+  - name: x
+    url: https://x.com/yfoxfinance
   - name: telegram
     url: https://t.me/YFOX_Announcement
 ---

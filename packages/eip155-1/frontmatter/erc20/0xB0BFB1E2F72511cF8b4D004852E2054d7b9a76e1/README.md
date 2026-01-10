@@ -6,8 +6,8 @@ links:
     url: https://streamix.io/
   - name: explorer
     url: https://etherscan.io/token/0xB0BFB1E2F72511cF8b4D004852E2054d7b9a76e1
-  - name: twitter
-    url: https://twitter.com/Streamixio
+  - name: x
+    url: https://x.com/Streamixio
   - name: whitepaper
     url: https://streamix.io/Whitepaper-MIXS-PDF.pdf
 ---

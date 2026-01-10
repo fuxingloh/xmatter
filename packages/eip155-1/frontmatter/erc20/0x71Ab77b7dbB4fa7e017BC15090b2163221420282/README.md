@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x71Ab77b7dbB4fa7e017BC15090b2163221420282
   - name: medium
     url: 'https://medium.com/highstreet-market '
-  - name: twitter
-    url: https://twitter.com/highstreetworld
+  - name: x
+    url: https://x.com/highstreetworld
   - name: github
     url: https://github.com/TravisBuilds/HighStreet
   - name: telegram

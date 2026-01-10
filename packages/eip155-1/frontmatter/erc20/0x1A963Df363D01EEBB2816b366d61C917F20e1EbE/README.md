@@ -8,8 +8,8 @@ links:
     url: https://mememelabs.me
   - name: explorer
     url: https://etherscan.io/token/0x1a963df363d01eebb2816b366d61c917f20e1ebe
-  - name: twitter
-    url: https://twitter.com/mememe69696969
+  - name: x
+    url: https://x.com/mememe69696969
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/mememe/
 ---

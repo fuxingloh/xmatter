@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x4f1960E29b2cA581a38c5c474e123f420F8092db
   - name: telegram
     url: https://t.me/ubxstoken
-  - name: twitter
-    url: https://twitter.com/Bixosinc
+  - name: x
+    url: https://x.com/Bixosinc
   - name: discord
     url: https://discord.com/
   - name: facebook

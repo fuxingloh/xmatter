@@ -8,8 +8,8 @@ links:
     url: https://sushi.com/
   - name: explorer
     url: https://snowtrace.io/token/0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76
-  - name: twitter
-    url: https://twitter.com/sushiswap
+  - name: x
+    url: https://x.com/sushiswap
   - name: medium
     url: https://medium.com/sushiswap/
   - name: github

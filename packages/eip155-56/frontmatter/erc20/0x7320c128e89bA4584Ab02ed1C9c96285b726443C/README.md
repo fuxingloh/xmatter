@@ -18,8 +18,8 @@ links:
     url: https://kokoswap.medium.com/
   - name: docs
     url: https://kokoswap.org/assets/pdf/kokoswap_whitepaper.pdf
-  - name: twitter
-    url: https://twitter.com/kokoswap
+  - name: x
+    url: https://x.com/kokoswap
 ---
 
 # Kokoswap Token

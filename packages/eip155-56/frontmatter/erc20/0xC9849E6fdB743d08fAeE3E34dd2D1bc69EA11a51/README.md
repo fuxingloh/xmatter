@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xC9849E6fdB743d08fAeE3E34dd2D1bc69EA11a51
   - name: github
     url: https://github.com/PancakeBunny-finance/Bunny
-  - name: twitter
-    url: https://twitter.com/PancakeBunnyFin
+  - name: x
+    url: https://x.com/PancakeBunnyFin
   - name: telegram
     url: https://t.me/pancakebunny_fin
   - name: medium

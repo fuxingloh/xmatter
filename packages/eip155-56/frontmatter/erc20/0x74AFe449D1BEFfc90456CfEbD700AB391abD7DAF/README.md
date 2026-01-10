@@ -8,8 +8,8 @@ links:
     url: https://egtoken.io/
   - name: explorer
     url: https://bscscan.com/token/0x74AFe449D1BEFfc90456CfEbD700AB391abD7DAF
-  - name: twitter
-    url: https://twitter.com/elongateog
+  - name: x
+    url: https://x.com/elongateog
   - name: github
     url: https://github.com/EG-Ecosystem
   - name: telegram

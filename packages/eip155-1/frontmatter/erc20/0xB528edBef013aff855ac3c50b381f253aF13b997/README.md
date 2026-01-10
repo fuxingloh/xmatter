@@ -6,8 +6,8 @@ links:
     url: https://www.aevo.xyz/
   - name: explorer
     url: https://etherscan.io/token/0xB528edBef013aff855ac3c50b381f253aF13b997
-  - name: twitter
-    url: https://twitter.com/aevoxyz
+  - name: x
+    url: https://x.com/aevoxyz
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/aevo/
 ---

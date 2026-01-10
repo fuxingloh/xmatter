@@ -6,8 +6,8 @@ links:
     url: https://www.xiamipool.com
   - name: explorer
     url: https://bscscan.com/token/0x8099C0c7b3E530F563d4B121Abd2Ee365c72fB78
-  - name: twitter
-    url: https://twitter.com/xiamipool
+  - name: x
+    url: https://x.com/xiamipool
   - name: telegram
     url: https://t.me/xiamipool
 ---

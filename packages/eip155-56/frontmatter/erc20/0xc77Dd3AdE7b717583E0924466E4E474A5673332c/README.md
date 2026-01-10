@@ -6,8 +6,8 @@ links:
     url: https://beasties.online/
   - name: explorer
     url: https://bscscan.com/token/0xc77Dd3AdE7b717583E0924466E4E474A5673332c
-  - name: twitter
-    url: https://twitter.com/beasties_online
+  - name: x
+    url: https://x.com/beasties_online
   - name: github
     url: https://github.com/MagicBeastiesOnline
   - name: telegram

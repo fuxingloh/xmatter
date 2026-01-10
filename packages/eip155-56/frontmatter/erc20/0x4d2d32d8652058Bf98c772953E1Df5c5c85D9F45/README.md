@@ -10,8 +10,8 @@ links:
     url: https://daomaker.com
   - name: explorer
     url: https://bscscan.com/token/0x4d2d32d8652058bf98c772953e1df5c5c85d9f45
-  - name: twitter
-    url: https://twitter.com/TheDaoMaker
+  - name: x
+    url: https://x.com/TheDaoMaker
   - name: telegram
     url: https://t.me/daomaker
   - name: discord

@@ -8,8 +8,8 @@ links:
     url: https://blur.io/
   - name: explorer
     url: https://etherscan.io/token/0x5283d291dbcf85356a21ba090e6db59121208b44
-  - name: twitter
-    url: https://twitter.com/blur_io
+  - name: x
+    url: https://x.com/blur_io
   - name: coingecko
     url: https://coingecko.com/en/coins/blur/
   - name: coinmarketcap

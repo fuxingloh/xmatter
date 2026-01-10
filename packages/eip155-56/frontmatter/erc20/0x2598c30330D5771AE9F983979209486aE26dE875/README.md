@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x2598c30330D5771AE9F983979209486aE26dE875
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/any-inu/
-  - name: twitter
-    url: https://twitter.com/AnyInuCoin
+  - name: x
+    url: https://x.com/AnyInuCoin
 ---
 
 # Any Inu

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x9a3077f34cc30f9bf8e93a0369119bae0113d9cc
   - name: github
     url: https://github.com/polyplaygames
-  - name: twitter
-    url: https://twitter.com/polyplaycoin
+  - name: x
+    url: https://x.com/polyplaycoin
   - name: coingecko
     url: https://coingecko.com/en/coins/polyplay
   - name: medium

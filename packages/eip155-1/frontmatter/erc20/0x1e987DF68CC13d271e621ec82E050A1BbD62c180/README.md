@@ -12,8 +12,8 @@ links:
     url: https://t.me/WAGMIOfficialGroup
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/wagmi-game/
-  - name: twitter
-    url: https://twitter.com/WagmiGameCo
+  - name: x
+    url: https://x.com/WagmiGameCo
   - name: facebook
     url: https://facebook.com/wagmigame/
   - name: discord

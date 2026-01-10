@@ -12,8 +12,8 @@ links:
     url: https://refinable.medium.com/
   - name: reddit
     url: https://reddit.com/r/refinable
-  - name: twitter
-    url: https://twitter.com/refinableapp
+  - name: x
+    url: https://x.com/refinableapp
   - name: telegram
     url: https://t.me/refinablenft
   - name: discord

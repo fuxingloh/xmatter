@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xa94b7a842aadb617a0b08fa744e033c6de2f7595
   - name: github
     url: https://github.com/FlashXBoss/sourcecode/commit/34b44ebe1fa26ea2724b13814560c8e4d72a9949
-  - name: twitter
-    url: https://twitter.com/CoinFlashx
+  - name: x
+    url: https://x.com/CoinFlashx
   - name: telegram
     url: https://t.me/FlashXUltra
   - name: whitepaper

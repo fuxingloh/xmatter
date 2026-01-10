@@ -9,8 +9,8 @@ links:
     url: https://minto.finance/
   - name: explorer
     url: https://bscscan.com/token/0x410a56541bD912F9B60943fcB344f1E3D6F09567
-  - name: twitter
-    url: https://twitter.com/btcmtofficial
+  - name: x
+    url: https://x.com/btcmtofficial
   - name: telegram
     url: https://t.me/btcmtofficialchat
   - name: telegram_news

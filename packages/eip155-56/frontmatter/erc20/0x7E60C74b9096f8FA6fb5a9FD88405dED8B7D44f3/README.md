@@ -9,8 +9,8 @@ links:
     url: https://bscscan.com/token/0x7E60C74b9096f8FA6fb5a9FD88405dED8B7D44f3
   - name: github
     url: https://github.com/Infiblue-World
-  - name: twitter
-    url: https://twitter.com/InfiblueNFT
+  - name: x
+    url: https://x.com/InfiblueNFT
   - name: whitepaper
     url: https://medium.com/@InfiblueWorld/infiblue-whitepaper-v1-0-8bb685def026
 ---

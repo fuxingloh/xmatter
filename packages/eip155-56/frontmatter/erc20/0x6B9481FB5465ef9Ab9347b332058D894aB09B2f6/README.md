@@ -8,8 +8,8 @@ links:
     url: https://dinoland.io
   - name: explorer
     url: https://bscscan.com/token/0x6B9481FB5465ef9Ab9347b332058D894aB09B2f6
-  - name: twitter
-    url: https://twitter.com/dinolandgame
+  - name: x
+    url: https://x.com/dinolandgame
   - name: telegram
     url: https://t.me/dinolandofficial
   - name: facebook

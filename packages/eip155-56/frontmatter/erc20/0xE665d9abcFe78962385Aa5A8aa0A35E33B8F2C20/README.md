@@ -8,8 +8,8 @@ links:
     url: https://nextmoon.org/
   - name: explorer
     url: https://bscscan.com/token/0xe665d9abcfe78962385aa5a8aa0a35e33b8f2c20
-  - name: twitter
-    url: https://twitter.com/NextMoonToken
+  - name: x
+    url: https://x.com/NextMoonToken
   - name: telegram
     url: https://t.me/NextMoonToken
   - name: reddit

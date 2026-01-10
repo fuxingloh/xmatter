@@ -10,8 +10,8 @@ links:
     url: https://legionnetwork.io
   - name: explorer
     url: https://bscscan.com/token/0x9096b4309224d751fcb43d7eb178dcffc122ad15
-  - name: twitter
-    url: https://twitter.com/LegionNetwork__
+  - name: x
+    url: https://x.com/LegionNetwork__
   - name: github
     url: https://github.com/lgxnetwork/lgxnetwork
   - name: telegram

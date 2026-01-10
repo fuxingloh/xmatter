@@ -8,8 +8,8 @@ links:
     url: https://app.tryroll.com/token/HRTS
   - name: explorer
     url: https://etherscan.io/token/0xb65722e0fbD75aAF5Be39022510Ed9b018FC1FaC
-  - name: twitter
-    url: https://twitter.com/NFTHearts
+  - name: x
+    url: https://x.com/NFTHearts
 ---
 
 # Hearts

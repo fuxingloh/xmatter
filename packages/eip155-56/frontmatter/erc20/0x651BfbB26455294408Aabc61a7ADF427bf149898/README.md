@@ -6,8 +6,8 @@ links:
     url: https://mellotoken.com/
   - name: explorer
     url: https://bscscan.com/token/0x651bfbb26455294408aabc61a7adf427bf149898
-  - name: twitter
-    url: https://twitter.com/@mellotoken
+  - name: x
+    url: https://x.com/@mellotoken
   - name: facebook
     url: https://facebook.com/Mellotoken/
   - name: youtube

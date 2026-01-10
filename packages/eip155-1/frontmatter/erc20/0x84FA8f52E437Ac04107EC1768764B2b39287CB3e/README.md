@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x84FA8f52E437Ac04107EC1768764B2b39287CB3e
   - name: telegram
     url: https://t.me/Grovetoken
-  - name: twitter
-    url: https://twitter.com/GroveToken
+  - name: x
+    url: https://x.com/GroveToken
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/grove/
   - name: coingecko

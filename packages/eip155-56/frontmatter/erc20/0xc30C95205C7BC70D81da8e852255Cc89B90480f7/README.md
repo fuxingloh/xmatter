@@ -8,8 +8,8 @@ links:
     url: https://add.finance/
   - name: explorer
     url: https://bscscan.com/token/0xc30C95205C7BC70D81da8e852255Cc89B90480f7
-  - name: twitter
-    url: https://twitter.com/adddotfinance
+  - name: x
+    url: https://x.com/adddotfinance
   - name: telegram
     url: https://t.me/adddotfinance
   - name: whitepaper

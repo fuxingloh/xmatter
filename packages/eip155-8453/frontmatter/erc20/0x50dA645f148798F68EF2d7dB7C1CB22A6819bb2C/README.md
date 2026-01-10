@@ -6,8 +6,8 @@ links:
     url: https://www.spx6900.com/
   - name: explorer
     url: https://basescan.org/token/0x50da645f148798f68ef2d7db7c1cb22a6819bb2c
-  - name: twitter
-    url: https://twitter.com/spx6900
+  - name: x
+    url: https://x.com/spx6900
 ---
 
 # SPX6900

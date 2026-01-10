@@ -9,8 +9,8 @@ links:
     url: https://footballinu.net/
   - name: explorer
     url: https://bscscan.com/token/0x0416846db6bea02588e546271d4d83c4061b7757
-  - name: twitter
-    url: https://twitter.com/FOOTBALLinuBSC
+  - name: x
+    url: https://x.com/FOOTBALLinuBSC
   - name: telegram
     url: https://t.me/FOOTBALLinu
   - name: whitepaper

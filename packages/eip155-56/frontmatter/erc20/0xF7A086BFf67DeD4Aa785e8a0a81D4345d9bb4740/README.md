@@ -12,8 +12,8 @@ links:
     url: https://t.me/MetaSafeMoonOfficial
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/metasafemoon/
-  - name: twitter
-    url: https://twitter.com/MetaSafeMoon
+  - name: x
+    url: https://x.com/MetaSafeMoon
 ---
 
 # MetaSafeMoon

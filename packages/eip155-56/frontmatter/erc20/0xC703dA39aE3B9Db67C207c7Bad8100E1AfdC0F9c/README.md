@@ -8,8 +8,8 @@ links:
     url: https://frgx.finance
   - name: explorer
     url: https://bscscan.com/token/0xc703da39ae3b9db67c207c7bad8100e1afdc0f9c
-  - name: twitter
-    url: https://twitter.com/FRGXfinance
+  - name: x
+    url: https://x.com/FRGXfinance
   - name: telegram
     url: https://t.me/frgxfinance
   - name: whitepaper

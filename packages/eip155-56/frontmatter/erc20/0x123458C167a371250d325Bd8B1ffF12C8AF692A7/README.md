@@ -8,8 +8,8 @@ links:
     url: https://drac.io
   - name: explorer
     url: https://bscscan.com/token/0x123458C167a371250d325Bd8B1ffF12C8AF692A7
-  - name: twitter
-    url: https://twitter.com/DRAC_Network
+  - name: x
+    url: https://x.com/DRAC_Network
   - name: github
     url: https://github.com/DRAC-Network-Admin
   - name: telegram

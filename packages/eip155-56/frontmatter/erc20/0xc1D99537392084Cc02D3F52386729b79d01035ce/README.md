@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xc1d99537392084cc02d3f52386729b79d01035ce
   - name: github
     url: https://github.com/staysbase/
-  - name: twitter
-    url: https://twitter.com/StaysBASE
+  - name: x
+    url: https://x.com/StaysBASE
   - name: telegram
     url: https://t.me/StaysBASE
   - name: whitepaper

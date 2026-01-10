@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xeBB59CeBFb63f218db6B5094DC14AbF34d56D35D
   - name: github
     url: https://github.com/Xpool-lab/xpo-token-v1
-  - name: twitter
-    url: https://twitter.com/Xpoolofficial
+  - name: x
+    url: https://x.com/Xpoolofficial
   - name: telegram
     url: https://t.me/xpoolofficial
   - name: discord

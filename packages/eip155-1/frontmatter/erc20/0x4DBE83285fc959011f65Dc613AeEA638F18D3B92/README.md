@@ -8,8 +8,8 @@ links:
     url: https://dogami.com
   - name: explorer
     url: https://etherscan.io/token/0x4DBE83285fc959011f65Dc613AeEA638F18D3B92
-  - name: twitter
-    url: https://twitter.com/dogami
+  - name: x
+    url: https://x.com/dogami
   - name: github
     url: https://github.com/dogami-code/Smart-Contracts-EVM
   - name: telegram

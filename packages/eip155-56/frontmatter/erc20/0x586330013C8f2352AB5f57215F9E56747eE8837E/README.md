@@ -6,8 +6,8 @@ links:
     url: https://somax.finance/
   - name: explorer
     url: https://bscscan.com/token/0x586330013c8f2352ab5f57215f9e56747ee8837e
-  - name: twitter
-    url: https://twitter.com/somaxfinance
+  - name: x
+    url: https://x.com/somaxfinance
   - name: reddit
     url: https://reddit.com/r/SomaxFinance
   - name: medium

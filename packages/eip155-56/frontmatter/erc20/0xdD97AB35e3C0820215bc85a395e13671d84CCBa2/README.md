@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xdD97AB35e3C0820215bc85a395e13671d84CCBa2
   - name: telegram
     url: https://t.me/AutoSharkFinance
-  - name: twitter
-    url: https://twitter.com/autosharkfin
+  - name: x
+    url: https://x.com/autosharkfin
   - name: reddit
     url: https://reddit.com/r/AutoSharkOfficial/
   - name: coingecko

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x1802a63EFe3255aBC3004F8e63047dB96300bd1c
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/the-dynasty/
-  - name: twitter
-    url: https://twitter.com/Thedynasty_app
+  - name: x
+    url: https://x.com/Thedynasty_app
 ---
 
 # DYT TOKEN

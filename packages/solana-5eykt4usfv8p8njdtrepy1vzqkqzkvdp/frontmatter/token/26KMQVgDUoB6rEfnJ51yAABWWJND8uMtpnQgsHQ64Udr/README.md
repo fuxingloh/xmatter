@@ -6,8 +6,8 @@ links:
     url: https://www.sadhamster.io/
   - name: explorer
     url: https://solscan.io/token/26KMQVgDUoB6rEfnJ51yAABWWJND8uMtpnQgsHQ64Udr
-  - name: twitter
-    url: https://twitter.com/HammyCommunity
+  - name: x
+    url: https://x.com/HammyCommunity
   - name: telegram
     url: https://t.me/HammyArmy
 ---

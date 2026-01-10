@@ -6,8 +6,8 @@ links:
     url: https://mimany.me
   - name: explorer
     url: https://solscan.io/token/3Rcc6tMyS7ZEa29dxV4g3J5StorS9J1dn98gd42pZTk1
-  - name: twitter
-    url: https://twitter.com/MimanyMaker
+  - name: x
+    url: https://x.com/MimanyMaker
 ---
 
 # MIMANY

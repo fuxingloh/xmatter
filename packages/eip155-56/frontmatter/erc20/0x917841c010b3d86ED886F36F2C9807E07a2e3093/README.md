@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x917841c010b3d86ED886F36F2C9807E07a2e3093
   - name: github
     url: https://github.com/RisingSun-Token
-  - name: twitter
-    url: https://twitter.com/risingsuntoken
+  - name: x
+    url: https://x.com/risingsuntoken
   - name: telegram
     url: https://t.me/risingsun_token
   - name: coinmarketcap

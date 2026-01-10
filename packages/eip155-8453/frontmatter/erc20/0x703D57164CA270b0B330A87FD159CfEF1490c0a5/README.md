@@ -6,8 +6,8 @@ links:
     url: https://rai.finance/
   - name: explorer
     url: https://basescan.org/token/0x703d57164ca270b0b330a87fd159cfef1490c0a5
-  - name: twitter
-    url: https://twitter.com/RaiFinance
+  - name: x
+    url: https://x.com/RaiFinance
   - name: telegram
     url: https://t.me/RaiFinance
   - name: coinmarketcap

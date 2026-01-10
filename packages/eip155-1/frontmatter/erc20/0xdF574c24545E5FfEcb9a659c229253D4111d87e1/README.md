@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0xdF574c24545E5FfEcb9a659c229253D4111d87e1
   - name: github
     url: https://github.com/stcoins/HUSD
-  - name: twitter
-    url: https://twitter.com/Stablecoin_HUSD
+  - name: x
+    url: https://x.com/Stablecoin_HUSD
   - name: blog
     url: https://medium.com/@Stablecoin_HUSD
   - name: coingecko

@@ -6,8 +6,8 @@ links:
     url: https://cyberconnect.me/
   - name: explorer
     url: https://optimistic.etherscan.io/token/0x14778860e937f509e651192a90589de711fb88a9
-  - name: twitter
-    url: https://twitter.com/CyberConnectHQ
+  - name: x
+    url: https://x.com/CyberConnectHQ
   - name: github
     url: https://github.com/cyberconnecthq
   - name: coinmarketcap

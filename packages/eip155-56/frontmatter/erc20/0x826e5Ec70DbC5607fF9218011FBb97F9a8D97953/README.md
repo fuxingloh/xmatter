@@ -11,8 +11,8 @@ links:
     url: https://bscscan.com/token/0x826e5ec70dbc5607ff9218011fbb97f9a8d97953
   - name: github
     url: https://github.com/TokenTravelCare
-  - name: twitter
-    url: https://twitter.com/TravelCareToken
+  - name: x
+    url: https://x.com/TravelCareToken
   - name: telegram
     url: https://t.me/TravelCareToken
   - name: whitepaper

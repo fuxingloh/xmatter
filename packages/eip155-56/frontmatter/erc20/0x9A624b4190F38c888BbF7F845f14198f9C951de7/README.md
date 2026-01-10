@@ -6,8 +6,8 @@ links:
     url: https://burnace.io
   - name: explorer
     url: https://bscscan.com/token/0x9A624b4190F38c888BbF7F845f14198f9C951de7
-  - name: twitter
-    url: https://twitter.com/burnace_io
+  - name: x
+    url: https://x.com/burnace_io
   - name: github
     url: https://github.com/burnace/burnace
   - name: telegram

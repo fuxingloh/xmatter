@@ -9,8 +9,8 @@ links:
     url: https://thedons.vip/
   - name: explorer
     url: https://bscscan.com/token/0x95c91eEf65F50570cFC3f269961a00108Cf7BF59
-  - name: twitter
-    url: https://twitter.com/TheDonsCoin
+  - name: x
+    url: https://x.com/TheDonsCoin
   - name: telegram
     url: https://t.me/TheDonsCoin
   - name: coinmarketcap

@@ -6,8 +6,8 @@ links:
     url: https://zooshi.io/
   - name: explorer
     url: https://bscscan.com/token/0xA060E0c0588D26CabA4a0009513337aCE50752dd
-  - name: twitter
-    url: https://twitter.com/zooshicoin
+  - name: x
+    url: https://x.com/zooshicoin
   - name: telegram
     url: https://t.me/zooshicoin
   - name: telegram_news

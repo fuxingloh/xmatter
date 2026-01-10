@@ -8,8 +8,8 @@ links:
     url: https://flycoin.org
   - name: explorer
     url: https://polygonscan.com/token/0x486FFAf06A681bf22B5209e9fFCE722662A60E8C
-  - name: twitter
-    url: https://twitter.com/FlycoinOfficial
+  - name: x
+    url: https://x.com/FlycoinOfficial
   - name: telegram
     url: https://t.me/+UcIwOEQaTxQyMig0
   - name: coingecko

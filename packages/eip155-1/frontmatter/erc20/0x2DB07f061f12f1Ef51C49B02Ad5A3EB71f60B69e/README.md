@@ -8,8 +8,8 @@ links:
     url: https://sgtslaughtermelon.com/art/
   - name: explorer
     url: https://etherscan.io/token/0x2DB07f061f12f1Ef51C49B02Ad5A3EB71f60B69e
-  - name: twitter
-    url: https://twitter.com/sgt_sl8termelon
+  - name: x
+    url: https://x.com/sgt_sl8termelon
 ---
 
 # Melon

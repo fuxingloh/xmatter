@@ -12,8 +12,8 @@ links:
     url: https://bscscan.com/token/0x2E51b6f3181b342d098B1a939Ae1944ED6768fd4
   - name: telegram
     url: https://t.me/DemonFinanceCommunity
-  - name: twitter
-    url: https://twitter.com/DemonEcosystem
+  - name: x
+    url: https://x.com/DemonEcosystem
 ---
 
 # Demon Token

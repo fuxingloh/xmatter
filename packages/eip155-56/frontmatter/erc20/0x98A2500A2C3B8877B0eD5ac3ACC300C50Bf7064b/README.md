@@ -9,8 +9,8 @@ links:
     url: https://www.noot.fun/
   - name: explorer
     url: https://bscscan.com/token/0x98a2500a2c3b8877b0ed5ac3acc300c50bf7064b
-  - name: twitter
-    url: https://twitter.com/nootcoinbnb
+  - name: x
+    url: https://x.com/nootcoinbnb
   - name: telegram
     url: https://t.me/nootnew
   - name: telegram_news

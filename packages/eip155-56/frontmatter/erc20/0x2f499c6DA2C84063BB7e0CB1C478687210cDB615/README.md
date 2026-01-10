@@ -8,8 +8,8 @@ links:
     url: https://reflexfinance.com/
   - name: explorer
     url: https://bscscan.com/token/0x2f499c6DA2C84063BB7e0CB1C478687210cDB615
-  - name: twitter
-    url: https://twitter.com/Reflex_Finance
+  - name: x
+    url: https://x.com/Reflex_Finance
   - name: telegram
     url: https://t.me/ReflexFinanceV2
   - name: discord

@@ -6,8 +6,8 @@ links:
     url: https://bighbull.com
   - name: explorer
     url: https://bscscan.com/token/0x64B55Bb2F27c3710349d9cA024d0D1Ff2DAB7f62
-  - name: twitter
-    url: https://twitter.com/BIGHBULL1
+  - name: x
+    url: https://x.com/BIGHBULL1
   - name: facebook
     url: https://facebook.com/people/BIGH-BULL/100070381083700/
   - name: github

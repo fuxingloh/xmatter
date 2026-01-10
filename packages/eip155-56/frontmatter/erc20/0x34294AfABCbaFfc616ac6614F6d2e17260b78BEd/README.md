@@ -11,8 +11,8 @@ links:
     url: https://ape.bond/
   - name: explorer
     url: https://bscscan.com/token/0x34294AfABCbaFfc616ac6614F6d2e17260b78BEd
-  - name: twitter
-    url: https://twitter.com/ApeBond
+  - name: x
+    url: https://x.com/ApeBond
   - name: github
     url: https://github.com/ApeSwapFinance
   - name: telegram

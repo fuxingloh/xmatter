@@ -6,8 +6,8 @@ links:
     url: https://spaceport.to/
   - name: explorer
     url: https://bscscan.com/token/0x21EA8618b9168Eb8936c3e02F0809BBE901282ac
-  - name: twitter
-    url: https://twitter.com/SpacePortCoin
+  - name: x
+    url: https://x.com/SpacePortCoin
   - name: telegram
     url: https://t.me/OfficialSpacePort
   - name: discord

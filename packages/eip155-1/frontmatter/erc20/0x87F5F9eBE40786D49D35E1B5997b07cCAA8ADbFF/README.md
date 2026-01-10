@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x87F5F9eBE40786D49D35E1B5997b07cCAA8ADbFF
   - name: github
     url: https://github.com/RebasedToken/Rebased2
-  - name: twitter
-    url: https://twitter.com/Rebased_
+  - name: x
+    url: https://x.com/Rebased_
   - name: telegram
     url: https://t.me/rebasedTG
 ---

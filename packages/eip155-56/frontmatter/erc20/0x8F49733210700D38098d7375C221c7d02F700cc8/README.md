@@ -8,8 +8,8 @@ links:
     url: https://www.pallapay.com
   - name: explorer
     url: https://bscscan.com/token/0x8F49733210700D38098d7375C221c7d02F700cc8
-  - name: twitter
-    url: https://twitter.com/pallapay_com
+  - name: x
+    url: https://x.com/pallapay_com
   - name: telegram
     url: https://t.me/pallapay_channel
   - name: coinmarketcap

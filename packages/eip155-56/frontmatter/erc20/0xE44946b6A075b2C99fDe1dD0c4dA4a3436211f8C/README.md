@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xE44946b6A075b2C99fDe1dD0c4dA4a3436211f8C
   - name: whitepaper
     url: https://drive.google.com/file/d/1rzrF-drYWCire2ghGarFi-J1gI_lWo0S/view
-  - name: twitter
-    url: https://twitter.com/mufantoken
+  - name: x
+    url: https://x.com/mufantoken
   - name: telegram
     url: https://t.me/MUFC_official_channel
   - name: medium

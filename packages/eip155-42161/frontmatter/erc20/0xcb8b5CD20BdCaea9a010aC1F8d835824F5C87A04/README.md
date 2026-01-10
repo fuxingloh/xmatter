@@ -8,8 +8,8 @@ links:
     url: https://cow.fi
   - name: explorer
     url: https://arbiscan.io/token/0xcb8b5CD20BdCaea9a010aC1F8d835824F5C87A04
-  - name: twitter
-    url: https://twitter.com/CoWSwap
+  - name: x
+    url: https://x.com/CoWSwap
   - name: github
     url: https://github.com/cowprotocol
   - name: source_code

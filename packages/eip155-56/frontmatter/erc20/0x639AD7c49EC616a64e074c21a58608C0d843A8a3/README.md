@@ -10,8 +10,8 @@ links:
     url: https://t.me/tripcandy
   - name: telegram_news
     url: https://t.me/tripcandyio
-  - name: twitter
-    url: https://twitter.com/Tripcandyio
+  - name: x
+    url: https://x.com/Tripcandyio
   - name: coingecko
     url: https://coingecko.com/en/coins/tripcandy
   - name: coinmarketcap

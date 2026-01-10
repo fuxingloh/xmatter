@@ -6,8 +6,8 @@ links:
     url: https://www.bul.homes/
   - name: explorer
     url: https://solscan.io/token/8RGy4BZUEkW9dc2UEZ3QHYYdas66X63vazdZJezGJw5e
-  - name: twitter
-    url: https://twitter.com/bulSolCommunity
+  - name: x
+    url: https://x.com/bulSolCommunity
 ---
 
 # bul

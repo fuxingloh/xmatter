@@ -6,8 +6,8 @@ links:
     url: https://neirobropump.com
   - name: explorer
     url: https://solscan.io/token/CTg3ZgYx79zrE1MteDVkmkcGniiFrK1hJ6yiabropump
-  - name: twitter
-    url: https://twitter.com/neirowoof
+  - name: x
+    url: https://x.com/neirowoof
   - name: telegram
     url: https://t.me/NEIROBROPUMP
 ---

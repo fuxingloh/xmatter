@@ -6,8 +6,8 @@ links:
     url: https://www.drive-token.com
   - name: explorer
     url: https://bscscan.com/token/0xa321fC1171EB85498faD47D3d127368eBa70265C
-  - name: twitter
-    url: https://twitter.com/safedrive19
+  - name: x
+    url: https://x.com/safedrive19
   - name: discord
     url: https://discord.com/invite/cHusGCKb"
 ---

@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xA55EF2fB2B7b6A60371FD3def9B806E74a48bE69
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/adamant/
-  - name: twitter
-    url: https://twitter.com/adamantcoin
+  - name: x
+    url: https://x.com/adamantcoin
   - name: telegram
     url: https://t.me/admcadamant
   - name: medium

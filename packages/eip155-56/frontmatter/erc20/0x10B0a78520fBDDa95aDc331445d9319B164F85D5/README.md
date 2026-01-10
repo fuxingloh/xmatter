@@ -6,8 +6,8 @@ links:
     url: https://anpanswap.finance/
   - name: explorer
     url: https://bscscan.com/token/0x10B0a78520fBDDa95aDc331445d9319B164F85D5
-  - name: twitter
-    url: https://twitter.com/anpanswap
+  - name: x
+    url: https://x.com/anpanswap
   - name: github
     url: https://github.com/anpanswap?tab=repositories
   - name: telegram

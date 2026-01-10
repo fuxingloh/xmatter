@@ -6,8 +6,8 @@ links:
     url: https://position.exchange
   - name: explorer
     url: https://bscscan.com/token/0x5CA42204cDaa70d5c773946e69dE942b85CA6706
-  - name: twitter
-    url: https://twitter.com/PositionEx
+  - name: x
+    url: https://x.com/PositionEx
   - name: github
     url: https://github.com/PositionExchange
   - name: telegram

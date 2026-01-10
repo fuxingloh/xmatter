@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0xEc4325F0518584F0774b483c215F65474EAbD27F
   - name: github
     url: https://github.com/ichifarm/ichi-oneToken
-  - name: twitter
-    url: https://twitter.com/ichifarm
+  - name: x
+    url: https://x.com/ichifarm
   - name: telegram
     url: https://t.me/ichifarm
   - name: medium

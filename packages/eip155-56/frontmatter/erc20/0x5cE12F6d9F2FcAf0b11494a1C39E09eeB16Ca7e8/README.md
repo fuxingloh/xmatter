@@ -8,8 +8,8 @@ links:
     url: https://binstarter.ai
   - name: explorer
     url: https://bscscan.com/token/0x5ce12f6d9f2fcaf0b11494a1c39e09eeb16ca7e8
-  - name: twitter
-    url: https://twitter.com/binstarterio
+  - name: x
+    url: https://x.com/binstarterio
   - name: telegram
     url: https://t.me/BinStarterOfficial
   - name: coinmarketcap

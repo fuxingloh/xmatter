@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x23ce9e926048273ef83be0a3a8ba9cb6d45cd978
   - name: telegram
     url: https://t.me/MinesOfDalarnia
-  - name: twitter
-    url: https://twitter.com/MinesOfDalarnia
+  - name: x
+    url: https://x.com/MinesOfDalarnia
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/mines-of-dalarnia/
 ---

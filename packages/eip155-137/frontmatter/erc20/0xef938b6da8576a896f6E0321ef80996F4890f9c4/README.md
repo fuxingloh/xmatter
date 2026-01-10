@@ -8,8 +8,8 @@ links:
     url: https://decentral.games
   - name: explorer
     url: https://polygonscan.com/token/0xef938b6da8576a896f6e0321ef80996f4890f9c4
-  - name: twitter
-    url: https://twitter.com/decentralgames
+  - name: x
+    url: https://x.com/decentralgames
   - name: github
     url: https://github.com/decentralgames
   - name: telegram

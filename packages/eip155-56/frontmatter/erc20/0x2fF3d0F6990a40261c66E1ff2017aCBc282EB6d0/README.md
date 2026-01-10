@@ -6,8 +6,8 @@ links:
     url: https://venus.io/
   - name: explorer
     url: https://bscscan.com/token/0x2fF3d0F6990a40261c66E1ff2017aCBc282EB6d0
-  - name: twitter
-    url: https://twitter.com/VenusProtocol
+  - name: x
+    url: https://x.com/VenusProtocol
   - name: telegram
     url: https://t.me/VenusProtocol
   - name: medium

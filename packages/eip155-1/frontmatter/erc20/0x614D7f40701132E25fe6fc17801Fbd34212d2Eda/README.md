@@ -8,8 +8,8 @@ links:
     url: https://www.safeblastcrypto.com/
   - name: explorer
     url: https://etherscan.io/token/0x614D7f40701132E25fe6fc17801Fbd34212d2Eda
-  - name: twitter
-    url: https://twitter.com/SafeBlastArmy
+  - name: x
+    url: https://x.com/SafeBlastArmy
   - name: facebook
     url: https://facebook.com/SafeBlastCrypto
   - name: medium

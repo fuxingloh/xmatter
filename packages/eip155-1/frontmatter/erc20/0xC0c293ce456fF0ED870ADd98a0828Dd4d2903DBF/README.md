@@ -8,8 +8,8 @@ links:
     url: https://aura.finance
   - name: explorer
     url: https://etherscan.io/token/0xC0c293ce456fF0ED870ADd98a0828Dd4d2903DBF
-  - name: twitter
-    url: https://twitter.com/AuraFinance
+  - name: x
+    url: https://x.com/AuraFinance
   - name: github
     url: https://github.com/aurafinance
   - name: telegram

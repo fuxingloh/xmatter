@@ -8,8 +8,8 @@ links:
     url: https://polygonscan.com/token/0x7c28f627ea3aec8b882b51eb1935f66e5b875714
   - name: github
     url: https://github.com/murall-art
-  - name: twitter
-    url: https://twitter.com/MurAll_art
+  - name: x
+    url: https://x.com/MurAll_art
   - name: telegram
     url: https://t.me/MurALLart
   - name: coinmarketcap

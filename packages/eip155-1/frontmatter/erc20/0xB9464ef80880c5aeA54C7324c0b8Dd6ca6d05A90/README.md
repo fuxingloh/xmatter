@@ -6,8 +6,8 @@ links:
     url: https://sherlocksecurity.io
   - name: explorer
     url: https://etherscan.io/token/0xB9464ef80880c5aeA54C7324c0b8Dd6ca6d05A90
-  - name: twitter
-    url: https://twitter.com/ethereum
+  - name: x
+    url: https://x.com/ethereum
   - name: reddit
     url: https://reddit.com/r/ethereum
   - name: whitepaper

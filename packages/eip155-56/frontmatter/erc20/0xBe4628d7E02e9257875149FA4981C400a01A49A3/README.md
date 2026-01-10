@@ -6,8 +6,8 @@ links:
     url: https://jaildoge.net
   - name: explorer
     url: https://bscscan.com/token/0xBe4628d7E02e9257875149FA4981C400a01A49A3
-  - name: twitter
-    url: https://twitter.com/jaildoge
+  - name: x
+    url: https://x.com/jaildoge
   - name: telegram
     url: https://t.me/jaildoge
 ---

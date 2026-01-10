@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xAaaAfDC2E08371B956Be515B3f3Ff735AB9c9D74
   - name: github
     url: https://github.com/azbit-com/
-  - name: twitter
-    url: https://twitter.com/azbit_news
+  - name: x
+    url: https://x.com/azbit_news
   - name: reddit
     url: https://reddit.com/r/Azbit/
   - name: whitepaper

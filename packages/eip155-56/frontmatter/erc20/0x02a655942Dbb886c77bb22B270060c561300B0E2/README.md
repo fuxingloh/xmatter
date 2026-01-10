@@ -14,8 +14,8 @@ links:
     url: https://github.com/Kodexpay/
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/kodexpay/
-  - name: twitter
-    url: https://twitter.com/kodexpay
+  - name: x
+    url: https://x.com/kodexpay
   - name: reddit
     url: https://reddit.com/user/Kodexpay
   - name: facebook

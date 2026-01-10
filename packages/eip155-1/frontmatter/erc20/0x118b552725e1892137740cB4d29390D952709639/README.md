@@ -12,8 +12,8 @@ links:
     url: https://coinmarketcap.com/currencies/nyx-token/
   - name: telegram
     url: https://t.me/NyxGeneral
-  - name: twitter
-    url: https://twitter.com/NyxToken
+  - name: x
+    url: https://x.com/NyxToken
   - name: facebook
     url: https://facebook.com/NYXToken
 ---

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x9fD87aEfe02441B123c3c32466cD9dB4c578618f
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/thetan-arena/
-  - name: twitter
-    url: https://twitter.com/thetanarena
+  - name: x
+    url: https://x.com/thetanarena
   - name: telegram
     url: https://t.me/thetanarena
 ---

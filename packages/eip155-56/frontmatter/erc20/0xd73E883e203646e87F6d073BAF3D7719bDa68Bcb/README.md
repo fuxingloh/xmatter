@@ -6,8 +6,8 @@ links:
     url: https://rhythm.cash/
   - name: explorer
     url: https://bscscan.com/token/0xd73E883e203646e87F6d073BAF3D7719bDa68Bcb
-  - name: twitter
-    url: https://twitter.com/RhythmBSC
+  - name: x
+    url: https://x.com/RhythmBSC
   - name: coingecko
     url: https://coingecko.com/en/coins/rhythm
   - name: coinmarketcap

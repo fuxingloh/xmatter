@@ -10,8 +10,8 @@ links:
     url: https://fxbox.io
   - name: explorer
     url: https://bscscan.com/token/0x0dbcec4214d7e9c316e0eb53991a43f42f432e15
-  - name: twitter
-    url: https://twitter.com/FxBox_Official
+  - name: x
+    url: https://x.com/FxBox_Official
   - name: telegram
     url: https://t.me/FxBox_Official
   - name: forum

@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4
   - name: github
     url: https://github.com/router-protocol
-  - name: twitter
-    url: https://twitter.com/routerprotocol
+  - name: x
+    url: https://x.com/routerprotocol
   - name: coingecko
     url: https://coingecko.com/en/coins/route/
   - name: medium

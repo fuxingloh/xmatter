@@ -8,8 +8,8 @@ links:
     url: https://www.silo.finance
   - name: explorer
     url: https://etherscan.io/token/0x6f80310CA7F2C654691D1383149Fa1A57d8AB1f8
-  - name: twitter
-    url: https://twitter.com/SiloFinance
+  - name: x
+    url: https://x.com/SiloFinance
   - name: github
     url: https://github.com/silo-finance
   - name: telegram

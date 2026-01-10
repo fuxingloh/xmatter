@@ -6,8 +6,8 @@ links:
     url: https://uncle-doge.com/
   - name: explorer
     url: https://bscscan.com/token/0xd2618bc9c9cdc40ff19e200a7d14a09799c0a152
-  - name: twitter
-    url: https://twitter.com/UncleDogeBSC
+  - name: x
+    url: https://x.com/UncleDogeBSC
   - name: telegram
     url: https://t.me/UncleDogeOfficial
   - name: coinmarketcap

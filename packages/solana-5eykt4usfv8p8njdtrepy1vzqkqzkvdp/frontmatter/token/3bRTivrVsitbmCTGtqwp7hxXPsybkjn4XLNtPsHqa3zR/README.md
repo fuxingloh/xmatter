@@ -6,8 +6,8 @@ links:
     url: https://only1.io/
   - name: explorer
     url: https://solscan.io/token/3bRTivrVsitbmCTGtqwp7hxXPsybkjn4XLNtPsHqa3zR
-  - name: twitter
-    url: https://twitter.com/only1nft
+  - name: x
+    url: https://x.com/only1nft
   - name: telegram
     url: https://t.me/only1nft
   - name: coinmarketcap

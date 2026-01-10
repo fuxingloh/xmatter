@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x2090c8295769791ab7a3cf1cc6e0aa19f35e441a
   - name: source_code
     url: https://jetfuel.finance/contracts
-  - name: twitter
-    url: https://twitter.com/Jetfuelfinance
+  - name: x
+    url: https://x.com/Jetfuelfinance
   - name: telegram
     url: https://t.me/jetfuelfinance
   - name: medium

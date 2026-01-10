@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/GEGQeMTbQpn7fKDe6fjH9iBUdB6XVdEk9KabZbGpboGB
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/jungledoge/
-  - name: twitter
-    url: https://twitter.com/jungledogeonsol
+  - name: x
+    url: https://x.com/jungledogeonsol
 ---
 
 # JungleDoge

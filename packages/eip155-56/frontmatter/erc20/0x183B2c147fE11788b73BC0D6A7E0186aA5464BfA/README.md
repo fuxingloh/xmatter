@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x183B2c147fE11788b73BC0D6A7E0186aA5464BfA
   - name: telegram
     url: https://t.me/FuturaBSC
-  - name: twitter
-    url: https://twitter.com/FuturaBSC
+  - name: x
+    url: https://x.com/FuturaBSC
   - name: github
     url: https://github.com/futurafinance
   - name: whitepaper

@@ -6,8 +6,8 @@ links:
     url: https://lovedoge.io
   - name: explorer
     url: https://bscscan.com/token/0x7144E379C827fA71A7ecAA01d00607cBb7eB1b7A
-  - name: twitter
-    url: https://twitter.com/LoveDoge10
+  - name: x
+    url: https://x.com/LoveDoge10
   - name: telegram
     url: https://t.me/LoveDogeEN1
   - name: coingecko

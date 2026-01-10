@@ -6,8 +6,8 @@ links:
     url: https://ethxy.com/
   - name: explorer
     url: https://basescan.org/token/0xd1917629b3e6a72e6772aab5dbe58eb7fa3c2f33
-  - name: twitter
-    url: https://twitter.com/ethxy
+  - name: x
+    url: https://x.com/ethxy
 ---
 
 # Settled ETHXY

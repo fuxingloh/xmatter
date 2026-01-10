@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6
   - name: blog
     url: https://kin.org/news
-  - name: twitter
-    url: https://twitter.com/kin_ecosystem
+  - name: x
+    url: https://x.com/kin_ecosystem
   - name: reddit
     url: https://reddit.com/r/kin
   - name: whitepaper

@@ -6,8 +6,8 @@ links:
     url: https://www.jindoinu.info
   - name: explorer
     url: https://bscscan.com/token/0x5fEAD99998788AC1BCA768796483d899F1Aef4c4
-  - name: twitter
-    url: https://twitter.com/JINDOFARM0
+  - name: x
+    url: https://x.com/JINDOFARM0
   - name: telegram
     url: https://t.me/JINDOINU2
 ---

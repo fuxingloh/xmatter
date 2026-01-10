@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1
   - name: github
     url: https://github.com/unilend
-  - name: twitter
-    url: https://twitter.com/UniLend_Finance
+  - name: x
+    url: https://x.com/UniLend_Finance
   - name: telegram
     url: https://t.me/UniLendFinance
   - name: medium

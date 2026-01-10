@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT
   - name: discord
     url: https://discord.com/k5gMJUAEJe
-  - name: twitter
-    url: https://twitter.com/stepfinance_
+  - name: x
+    url: https://x.com/stepfinance_
   - name: coingecko
     url: https://coingecko.com/en/coins/step-finance
   - name: coinmarketcap

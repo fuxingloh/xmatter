@@ -6,8 +6,8 @@ links:
     url: https://www.stanleyco.in
   - name: explorer
     url: https://solscan.io/token/CQSzJzwW5H1oyWrp6QhfUKYYwyovbSiVDKnAxNfb1tJC
-  - name: twitter
-    url: https://twitter.com/StanleyCupCoin
+  - name: x
+    url: https://x.com/StanleyCupCoin
 ---
 
 # Stanley Cup Coin

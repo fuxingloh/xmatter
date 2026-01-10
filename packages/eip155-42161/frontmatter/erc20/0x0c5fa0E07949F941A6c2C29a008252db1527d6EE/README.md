@@ -8,8 +8,8 @@ links:
     url: https://arbiscan.io/token/0x0c5fa0E07949F941A6c2C29a008252db1527d6EE
   - name: telegram
     url: https://t.me/opulousapp
-  - name: twitter
-    url: https://twitter.com/opulousapp
+  - name: x
+    url: https://x.com/opulousapp
 ---
 
 # Opulous

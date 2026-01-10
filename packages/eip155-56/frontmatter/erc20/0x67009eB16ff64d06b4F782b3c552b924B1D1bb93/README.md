@@ -7,8 +7,8 @@ links:
     url: https://matrixchain.space/
   - name: explorer
     url: https://bscscan.com/token/0x67009eB16ff64d06b4F782b3c552b924B1D1bb93
-  - name: twitter
-    url: https://twitter.com/Matrixchain_no1
+  - name: x
+    url: https://x.com/Matrixchain_no1
   - name: telegram
     url: https://t.me/MatrixChainn01
   - name: github

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xeff13653eeb698ba291b8bff7aaaab648132c2d7
   - name: github
     url: https://github.com/Bnbshinobi/
-  - name: twitter
-    url: https://twitter.com/BnbShinobi
+  - name: x
+    url: https://x.com/BnbShinobi
   - name: telegram
     url: https://t.me/bnbshinobi
 ---

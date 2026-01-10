@@ -5,7 +5,7 @@ tags:
   - wrapped
 links:
   - name: website
-    url: https://www.curve.fi/
+    url: https://www.curve.finance/
   - name: explorer
     url: https://solscan.io/token/7gjNiPun3AzEazTZoFEjZgcBMeuaXdpjHq2raZTmTrfs
 ---

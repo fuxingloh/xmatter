@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x0733618Ab62eEEC815f2d1739b7a50bF9E74d8a2
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/pomerium-ecosystem-token/
-  - name: twitter
-    url: https://twitter.com/pomerium_space
+  - name: x
+    url: https://x.com/pomerium_space
   - name: medium
     url: https://medium.com/pomerium
 ---

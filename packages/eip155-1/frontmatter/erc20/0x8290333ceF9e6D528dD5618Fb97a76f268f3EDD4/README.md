@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4
   - name: blog
     url: https://medium.com/ankr-network
-  - name: twitter
-    url: https://twitter.com/ankrnetwork?lang=en
+  - name: x
+    url: https://x.com/ankrnetwork?lang=en
   - name: telegram
     url: https://t.me/ankrnetwork
   - name: coingecko

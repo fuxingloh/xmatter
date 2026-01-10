@@ -6,8 +6,8 @@ links:
     url: https://www.whatintarn.org
   - name: explorer
     url: https://solscan.io/token/Adq3wnAvtaXBNfy63xGV1YNkDiPKadDT469xF9uZPrqE
-  - name: twitter
-    url: https://twitter.com/WhatInTarnSol
+  - name: x
+    url: https://x.com/WhatInTarnSol
 ---
 
 # What in Tarnation?

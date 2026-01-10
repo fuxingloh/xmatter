@@ -6,8 +6,8 @@ links:
     url: https://solama.vip/
   - name: explorer
     url: https://solscan.io/token/AVLhahDcDQ4m4vHM4ug63oh7xc8Jtk49Dm5hoe9Sazqr
-  - name: twitter
-    url: https://twitter.com/SolamaSPL
+  - name: x
+    url: https://x.com/SolamaSPL
 ---
 
 # Solama

@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x1337DEF16F9B486fAEd0293eb623Dc8395dFE46a
   - name: github
     url: https://github.com/ArmorFi
-  - name: twitter
-    url: https://twitter.com/ArmorFi
+  - name: x
+    url: https://x.com/ArmorFi
   - name: telegram
     url: https://t.me/ArmorFi
   - name: discord

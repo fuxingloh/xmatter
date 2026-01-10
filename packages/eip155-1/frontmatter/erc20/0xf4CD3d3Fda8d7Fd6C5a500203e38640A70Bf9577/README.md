@@ -8,8 +8,8 @@ links:
     url: https://yfdai.finance/
   - name: explorer
     url: https://etherscan.io/token/0xf4CD3d3Fda8d7Fd6C5a500203e38640A70Bf9577
-  - name: twitter
-    url: https://twitter.com/YfdaiF
+  - name: x
+    url: https://x.com/YfdaiF
 ---
 
 # YfDAI.finance

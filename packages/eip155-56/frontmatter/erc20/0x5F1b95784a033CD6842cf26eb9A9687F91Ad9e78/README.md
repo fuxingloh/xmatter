@@ -6,8 +6,8 @@ links:
     url: https://cakebank.finance
   - name: explorer
     url: https://bscscan.com/token/0x5F1b95784a033CD6842cf26eb9A9687F91Ad9e78
-  - name: twitter
-    url: https://twitter.com/cakebank_bsc
+  - name: x
+    url: https://x.com/cakebank_bsc
   - name: github
     url: https://github.com/cakebank
   - name: telegram

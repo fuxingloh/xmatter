@@ -12,8 +12,8 @@ links:
     url: https://coinmarketcap.com/currencies/vodka-token
   - name: telegram
     url: https://t.me/vodkatoken
-  - name: twitter
-    url: https://twitter.com/VodkaToken
+  - name: x
+    url: https://x.com/VodkaToken
   - name: coingecko
     url: https://coingecko.com/en/coins/vodka-token
 ---

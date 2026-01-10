@@ -9,8 +9,8 @@ links:
     url: https://openworld.vision/
   - name: explorer
     url: https://bscscan.com/token/0x27a339d9B59b21390d7209b78a839868E319301B
-  - name: twitter
-    url: https://twitter.com/OpenWorldVision
+  - name: x
+    url: https://x.com/OpenWorldVision
   - name: telegram
     url: https://t.me/openworldglobal
   - name: docs

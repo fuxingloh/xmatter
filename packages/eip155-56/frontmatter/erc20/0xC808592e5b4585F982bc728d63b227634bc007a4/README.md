@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xC808592e5b4585F982bc728d63b227634bc007a4
   - name: github
     url: https://github.com/cryptofrogfinance
-  - name: twitter
-    url: https://twitter.com/CryptoFrogFi
+  - name: x
+    url: https://x.com/CryptoFrogFi
   - name: telegram
     url: https://t.me/cryptofrogfinance
   - name: medium

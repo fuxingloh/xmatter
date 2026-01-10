@@ -6,8 +6,8 @@ links:
     url: https://terablock.ai
   - name: explorer
     url: https://bscscan.com/token/0xeAF7D8395CCE52DAef138d39a1CEfA51b97C15aE
-  - name: twitter
-    url: https://twitter.com/MyTeraBlock
+  - name: x
+    url: https://x.com/MyTeraBlock
   - name: telegram
     url: https://t.me/TeraBlock
 ---

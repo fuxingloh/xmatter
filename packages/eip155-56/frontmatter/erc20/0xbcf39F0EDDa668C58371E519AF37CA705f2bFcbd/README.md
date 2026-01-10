@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xbcf39F0EDDa668C58371E519AF37CA705f2bFcbd
   - name: github
     url: https://github.com/blocklords/seascape-smartcontracts
-  - name: twitter
-    url: https://twitter.com/SeascapeNetwork
+  - name: x
+    url: https://x.com/SeascapeNetwork
   - name: telegram
     url: https://t.me/seascapenetwork
   - name: discord

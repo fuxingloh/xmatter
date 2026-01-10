@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x1D3437E570e93581Bd94b2fd8Fbf202d4a65654A
   - name: telegram
     url: https://t.me/NanoByteCommunity
-  - name: twitter
-    url: https://twitter.com/nanobyte_io
+  - name: x
+    url: https://x.com/nanobyte_io
 ---
 
 # NanoByte Token

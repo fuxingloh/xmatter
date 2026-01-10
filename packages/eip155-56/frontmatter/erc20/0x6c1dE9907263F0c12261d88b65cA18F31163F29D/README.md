@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x6c1dE9907263F0c12261d88b65cA18F31163F29D
   - name: github
     url: https://github.com/OCTIONOFFICIAL
-  - name: twitter
-    url: https://twitter.com/octionofficial
+  - name: x
+    url: https://x.com/octionofficial
   - name: telegram
     url: https://t.me/octionofficial
   - name: medium

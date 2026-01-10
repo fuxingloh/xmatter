@@ -6,8 +6,8 @@ links:
     url: https://www.coinwind.pro/
   - name: explorer
     url: https://bscscan.com/token/0x422E3aF98bC1dE5a1838BE31A56f75DB4Ad43730
-  - name: twitter
-    url: https://twitter.com/coinwind_com
+  - name: x
+    url: https://x.com/coinwind_com
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/coinwind/
 ---

@@ -6,8 +6,8 @@ links:
     url: https://pegaxy.io
   - name: explorer
     url: https://polygonscan.com/token/0xc1c93D475dc82Fe72DBC7074d55f5a734F8cEEAE
-  - name: twitter
-    url: https://twitter.com/PegaxyOfficial
+  - name: x
+    url: https://x.com/PegaxyOfficial
   - name: github
     url: https://github.com/Pegaxy
   - name: telegram

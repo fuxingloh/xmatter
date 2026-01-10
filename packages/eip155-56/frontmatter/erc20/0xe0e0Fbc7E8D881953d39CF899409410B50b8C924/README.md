@@ -10,8 +10,8 @@ links:
     url: https://coinmarketcap.com/currencies/coin-of-nature/
   - name: coingecko
     url: https://coingecko.com/pl/waluty/coin-of-nature
-  - name: twitter
-    url: https://twitter.com/CoinOfNature
+  - name: x
+    url: https://x.com/CoinOfNature
   - name: github
     url: https://github.com/Coin-of-Nature/Coin-of-Nature
   - name: telegram

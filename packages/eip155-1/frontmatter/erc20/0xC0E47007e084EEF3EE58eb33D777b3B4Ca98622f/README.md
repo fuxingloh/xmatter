@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xC0E47007e084EEF3EE58eb33D777b3B4Ca98622f
   - name: github
     url: https://github.com/stardexio
-  - name: twitter
-    url: https://twitter.com/stardexio
+  - name: x
+    url: https://x.com/stardexio
   - name: telegram
     url: https://t.me/stardexio
   - name: medium

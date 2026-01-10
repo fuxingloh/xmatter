@@ -12,8 +12,8 @@ links:
     url: https://deepspace.game
   - name: explorer
     url: https://bscscan.com/token/0xf275e1AC303a4C9D987a2c48b8E555A77FeC3F1C
-  - name: twitter
-    url: https://twitter.com/DeepSpaceBSC
+  - name: x
+    url: https://x.com/DeepSpaceBSC
   - name: github
     url: https://github.com/deepspace-game
   - name: telegram

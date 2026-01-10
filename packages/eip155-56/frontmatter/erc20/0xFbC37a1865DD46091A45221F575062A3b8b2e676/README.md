@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xFbC37a1865DD46091A45221F575062A3b8b2e676
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/hyperboost/
-  - name: twitter
-    url: https://twitter.com/HyperBoostBSC
+  - name: x
+    url: https://x.com/HyperBoostBSC
 ---
 
 # Hyperboost

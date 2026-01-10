@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xf34960d9d60be18cC1D5Afc1A6F012A723a28811
   - name: github
     url: https://github.com/Kucoin
-  - name: twitter
-    url: https://twitter.com/KuCoinCom
+  - name: x
+    url: https://x.com/KuCoinCom
   - name: facebook
     url: https://facebook.com/KuCoinOfficial/
   - name: blog

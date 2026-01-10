@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE
   - name: facebook
     url: https://facebook.com/ripplepay
-  - name: twitter
-    url: https://twitter.com/Ripple
+  - name: x
+    url: https://x.com/Ripple
 ---
 
 # BNB pegged XRP Token

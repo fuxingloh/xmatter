@@ -12,8 +12,8 @@ links:
     url: https://basescan.org/token/0x0BbbEad62f7647AE8323d2cb243A0DB74B7C2b80
   - name: github
     url: https://github.com/AmbireTech/wallet
-  - name: twitter
-    url: https://twitter.com/AmbireWallet
+  - name: x
+    url: https://x.com/AmbireWallet
   - name: blog
     url: https://ambire.medium.com
   - name: telegram

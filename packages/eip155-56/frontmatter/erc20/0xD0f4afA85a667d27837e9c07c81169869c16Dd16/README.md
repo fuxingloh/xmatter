@@ -6,8 +6,8 @@ links:
     url: https://privapp.network/
   - name: explorer
     url: https://bscscan.com/token/0xD0f4afA85a667d27837e9c07c81169869c16Dd16
-  - name: twitter
-    url: https://twitter.com/PrivappNetwork
+  - name: x
+    url: https://x.com/PrivappNetwork
   - name: github
     url: https://github.com/PrivappNetwork
   - name: telegram

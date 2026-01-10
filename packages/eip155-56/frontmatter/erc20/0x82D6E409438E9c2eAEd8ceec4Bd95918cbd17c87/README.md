@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x82d6e409438e9c2eaed8ceec4bd95918cbd17c87
   - name: telegram
     url: https://t.me/fomobabytelegram
-  - name: twitter
-    url: https://twitter.com/fomobabybsc
+  - name: x
+    url: https://x.com/fomobabybsc
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/fomobaby/
 ---

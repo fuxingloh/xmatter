@@ -8,8 +8,8 @@ links:
     url: https://flagnetwork.finance/
   - name: explorer
     url: https://bscscan.com/token/0xa5496935A247fA81B1462E553ad139d2FD0af795
-  - name: twitter
-    url: https://twitter.com/flagnetwork_NFT
+  - name: x
+    url: https://x.com/flagnetwork_NFT
   - name: telegram
     url: https://t.me/flagnetworkchat
   - name: telegram_news

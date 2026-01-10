@@ -8,8 +8,8 @@ links:
     url: https://arbiscan.io/token/0x10393c20975cf177a3513071bc110f7962cd67da
   - name: github
     url: https://github.com/Jones-DAO
-  - name: twitter
-    url: https://twitter.com/DAOJonesOptions
+  - name: x
+    url: https://x.com/DAOJonesOptions
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/jones-dao/
 ---

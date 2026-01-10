@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x0Da1774e58eD28fF9749340F116055F8d836A7C8
   - name: telegram
     url: https://t.me/vancattokencommunity
-  - name: twitter
-    url: https://twitter.com/vancattoken
+  - name: x
+    url: https://x.com/vancattoken
   - name: coingecko
     url: https://coingecko.com/en/coins/vancat
 ---

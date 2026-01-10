@@ -6,8 +6,8 @@ links:
     url: https://revomon.io/
   - name: explorer
     url: https://bscscan.com/token/0x155040625D7ae3e9caDA9a73E3E44f76D3Ed1409
-  - name: twitter
-    url: https://twitter.com/RevomonVR
+  - name: x
+    url: https://x.com/RevomonVR
   - name: telegram
     url: https://t.me/revomon
   - name: telegram_news

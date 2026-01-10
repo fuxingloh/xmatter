@@ -8,8 +8,8 @@ links:
     url: https://www.spongebobsquare.com/
   - name: explorer
     url: https://bscscan.com/token/0x471f883BBd2c705F418Ba3d6667ef05342C4ee05
-  - name: twitter
-    url: https://twitter.com/Spongssqueare
+  - name: x
+    url: https://x.com/Spongssqueare
   - name: github
     url: https://github.com/spongebobsquareE
   - name: telegram

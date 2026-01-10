@@ -6,8 +6,8 @@ links:
     url: https://bunkeesol.xyz
   - name: explorer
     url: https://solscan.io/token/2nhjjqSkA8FYCUdJvQhYjbtZdPjZbNo8VtNKTkJ3hncb
-  - name: twitter
-    url: https://twitter.com/bunkeesol
+  - name: x
+    url: https://x.com/bunkeesol
 ---
 
 # bunkee

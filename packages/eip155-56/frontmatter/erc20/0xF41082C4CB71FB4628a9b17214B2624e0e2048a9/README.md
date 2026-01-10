@@ -6,8 +6,8 @@ links:
     url: https://realtrumptoken.com/
   - name: explorer
     url: https://bscscan.com/token/0xf41082c4cb71fb4628a9b17214b2624e0e2048a9
-  - name: twitter
-    url: https://twitter.com/realtrumptoken
+  - name: x
+    url: https://x.com/realtrumptoken
   - name: github
     url: https://github.com/realtrumptoken/realtrumptoken
   - name: telegram

@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x0E8d6b471e332F140e7d9dbB99E5E3822F728DA6
   - name: github
     url: https://github.com/abyssfinance
-  - name: twitter
-    url: https://twitter.com/AbyssFinance
+  - name: x
+    url: https://x.com/AbyssFinance
   - name: telegram
     url: https://t.me/abyssfinance
   - name: facebook

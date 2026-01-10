@@ -6,8 +6,8 @@ links:
     url: https://nftglobal.space
   - name: explorer
     url: https://bscscan.com/token/0x76F6cd75cE81E88916f8D933ab76efE18cEd6ad3
-  - name: twitter
-    url: https://twitter.com/NFT_Globall
+  - name: x
+    url: https://x.com/NFT_Globall
   - name: telegram
     url: https://t.me/NFT_Globall
 ---

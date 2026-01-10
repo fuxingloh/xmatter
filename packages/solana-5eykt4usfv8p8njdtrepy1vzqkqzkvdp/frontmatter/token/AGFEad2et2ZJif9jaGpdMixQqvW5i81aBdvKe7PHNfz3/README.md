@@ -6,8 +6,8 @@ links:
     url: https://ftx.com
   - name: explorer
     url: https://solscan.io/token/AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3
-  - name: twitter
-    url: https://twitter.com/FTX_Official
+  - name: x
+    url: https://x.com/FTX_Official
   - name: telegram
     url: https://t.me/FTX_Official
   - name: whitepaper

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x4ce2DB133035519F538b7849201D6D541972164c
   - name: github
     url: https://github.com/MagicBox-Lab
-  - name: twitter
-    url: https://twitter.com/MagicBoxGame
+  - name: x
+    url: https://x.com/MagicBoxGame
   - name: telegram
     url: https://t.me/MagicBox_Game
   - name: coingecko

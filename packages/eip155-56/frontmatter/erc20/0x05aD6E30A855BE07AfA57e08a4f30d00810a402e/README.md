@@ -8,8 +8,8 @@ links:
     url: https://tinyworlds.io/
   - name: explorer
     url: https://bscscan.com/token/0x05aD6E30A855BE07AfA57e08a4f30d00810a402e
-  - name: twitter
-    url: https://twitter.com/tinyworldgamefi
+  - name: x
+    url: https://x.com/tinyworldgamefi
   - name: telegram
     url: https://t.me/tinyworld_en
   - name: docs

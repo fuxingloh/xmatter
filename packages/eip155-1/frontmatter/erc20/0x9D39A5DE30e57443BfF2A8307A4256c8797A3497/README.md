@@ -6,8 +6,8 @@ links:
     url: https://www.ethena.fi/
   - name: explorer
     url: https://etherscan.io/token/0x9d39a5de30e57443bff2a8307a4256c8797a3497
-  - name: twitter
-    url: https://twitter.com/ethena_labs
+  - name: x
+    url: https://x.com/ethena_labs
   - name: telegram
     url: https://t.me/ethena_labs
 ---

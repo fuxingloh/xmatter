@@ -6,8 +6,8 @@ links:
     url: https://gondolacoin.xyz/
   - name: explorer
     url: https://solscan.io/token/ERg4SSavMmM9nsmFWVwyRJZVCTCyLT2r9fgkQngbE4iU
-  - name: twitter
-    url: https://twitter.com/GONDOLA_ONSOL
+  - name: x
+    url: https://x.com/GONDOLA_ONSOL
 ---
 
 # Gondola

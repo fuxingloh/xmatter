@@ -8,8 +8,8 @@ links:
     url: https://basedchad.io
   - name: explorer
     url: https://basescan.org/token/0xecaF81Eb42cd30014EB44130b89Bcd6d4Ad98B92
-  - name: twitter
-    url: https://twitter.com/BasedChad6969
+  - name: x
+    url: https://x.com/BasedChad6969
   - name: github
     url: https://github.com/basechad
   - name: telegram

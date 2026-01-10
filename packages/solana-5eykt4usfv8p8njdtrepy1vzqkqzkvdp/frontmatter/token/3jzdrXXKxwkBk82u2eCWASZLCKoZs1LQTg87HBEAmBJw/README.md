@@ -6,8 +6,8 @@ links:
     url: https://www.floofsolana.com/
   - name: explorer
     url: https://solscan.io/token/3jzdrXXKxwkBk82u2eCWASZLCKoZs1LQTg87HBEAmBJw
-  - name: twitter
-    url: https://twitter.com/FLOOF_SOLANA
+  - name: x
+    url: https://x.com/FLOOF_SOLANA
   - name: telegram
     url: https://t.me/FLOOFSOLANAMEME
   - name: coinmarketcap

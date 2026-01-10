@@ -11,8 +11,8 @@ links:
     url: https://bscscan.com/token/0x8f046a2457a8f1618cae4706fa57bf790e2532a6
   - name: github
     url: https://github.com/restoretruthtoken/restoretruthtoken
-  - name: twitter
-    url: https://twitter.com/restoretruthRTT
+  - name: x
+    url: https://x.com/restoretruthRTT
   - name: telegram
     url: https://t.me/RestoreTruthTokenChat
   - name: whitepaper

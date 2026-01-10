@@ -10,8 +10,8 @@ links:
     url: https://prom.io
   - name: explorer
     url: https://etherscan.io/token/0xfc82bb4ba86045Af6F327323a46E80412b91b27d
-  - name: twitter
-    url: https://twitter.com/prom_io
+  - name: x
+    url: https://x.com/prom_io
   - name: telegram
     url: https://t.me/prom_io
   - name: telegram_news

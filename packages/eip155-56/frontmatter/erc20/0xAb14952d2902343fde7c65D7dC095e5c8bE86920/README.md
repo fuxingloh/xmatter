@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xAb14952d2902343fde7c65D7dC095e5c8bE86920
   - name: github
     url: https://github.com/GOMA-Finance
-  - name: twitter
-    url: https://twitter.com/GomaShibaToken
+  - name: x
+    url: https://x.com/GomaShibaToken
   - name: telegram
     url: https://t.me/GomaShiba
   - name: coinmarketcap

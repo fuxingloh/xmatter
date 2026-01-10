@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xa0bEd124a09ac2Bd941b10349d8d224fe3c955eb
   - name: github
     url: https://github.com/DePayFi
-  - name: twitter
-    url: https://twitter.com/DePayFi
+  - name: x
+    url: https://x.com/DePayFi
   - name: telegram
     url: https://t.me/depayfi
   - name: discord

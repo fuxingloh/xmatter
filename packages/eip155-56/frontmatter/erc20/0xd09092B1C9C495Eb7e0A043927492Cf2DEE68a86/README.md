@@ -6,8 +6,8 @@ links:
     url: https://cxcoin.net/
   - name: explorer
     url: https://bscscan.com/token/0xd09092B1C9C495Eb7e0A043927492Cf2DEE68a86
-  - name: twitter
-    url: https://twitter.com/CoinCx
+  - name: x
+    url: https://x.com/CoinCx
   - name: telegram
     url: https://t.me/CxCoinChat
 ---

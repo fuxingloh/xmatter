@@ -6,8 +6,8 @@ links:
     url: https://www.shibawatch.net
   - name: explorer
     url: https://bscscan.com/token/0x52941a733F7bAb6E52d5C8f2045c9D9D9eA246Ff
-  - name: twitter
-    url: https://twitter.com/shibawatchtoken
+  - name: x
+    url: https://x.com/shibawatchtoken
   - name: telegram
     url: https://t.me/shibawatchofficial
   - name: reddit

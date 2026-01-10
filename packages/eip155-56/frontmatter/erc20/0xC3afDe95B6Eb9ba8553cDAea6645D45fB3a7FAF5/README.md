@@ -8,8 +8,8 @@ links:
     url: https://kibainu.org/
   - name: explorer
     url: https://bscscan.com/token/0xC3afDe95B6Eb9ba8553cDAea6645D45fB3a7FAF5
-  - name: twitter
-    url: https://twitter.com/kibainuworld
+  - name: x
+    url: https://x.com/kibainuworld
   - name: telegram
     url: https://t.me/KibaInuGlobal
   - name: discord

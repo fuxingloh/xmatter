@@ -8,8 +8,8 @@ links:
     url: https://frzswap.com/
   - name: explorer
     url: https://bscscan.com/token/0x2a5dFE9EDd6D1431eecEA70cBb1635Ba88347BaD
-  - name: twitter
-    url: https://twitter.com/frzswap
+  - name: x
+    url: https://x.com/frzswap
   - name: github
     url: https://github.com/FRZSwapping
   - name: telegram

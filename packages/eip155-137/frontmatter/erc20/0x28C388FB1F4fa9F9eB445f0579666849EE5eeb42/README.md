@@ -8,8 +8,8 @@ links:
     url: https://bella.fi/
   - name: explorer
     url: https://polygonscan.com/token/0x28c388fb1f4fa9f9eb445f0579666849ee5eeb42
-  - name: twitter
-    url: https://twitter.com/BellaProtocol
+  - name: x
+    url: https://x.com/BellaProtocol
   - name: telegram
     url: https://t.me/bellaprotocol
   - name: coinmarketcap

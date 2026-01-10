@@ -9,8 +9,8 @@ links:
     url: https://www.dypius.com/
   - name: explorer
     url: https://bscscan.com/token/0xBD100d061E120b2c67A24453CF6368E63f1Be056
-  - name: twitter
-    url: https://twitter.com/dypfinance
+  - name: x
+    url: https://x.com/dypfinance
   - name: github
     url: https://github.com/dypfinance/
   - name: medium

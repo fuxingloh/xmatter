@@ -8,8 +8,8 @@ links:
     url: https://voxies.io/
   - name: explorer
     url: https://polygonscan.com/token/0xd0258a3fd00f38aa8090dfee343f10a9d4d30d3f
-  - name: twitter
-    url: https://twitter.com/VoxiesNFT
+  - name: x
+    url: https://x.com/VoxiesNFT
   - name: discord
     url: https://discord.com/invite/voxies
   - name: coinmarketcap

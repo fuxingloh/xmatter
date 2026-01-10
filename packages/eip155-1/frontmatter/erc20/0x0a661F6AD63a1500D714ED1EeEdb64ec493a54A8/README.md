@@ -8,8 +8,8 @@ links:
     url: https://zedxion.io/
   - name: explorer
     url: https://etherscan.io/token/0x0a661F6AD63a1500D714ED1EeEdb64ec493a54A8
-  - name: twitter
-    url: https://twitter.com/zedxion
+  - name: x
+    url: https://x.com/zedxion
   - name: github
     url: https://github.com/zedxioncryptocurrency
   - name: medium

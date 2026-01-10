@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x3593D125a4f7849a1B059E64F4517A86Dd60c95d
   - name: github
     url: https://github.com/Mantradao
-  - name: twitter
-    url: https://twitter.com/MANTRADAO
+  - name: x
+    url: https://x.com/MANTRADAO
   - name: telegram
     url: https://t.me/MANTRADAO
   - name: coinmarketcap

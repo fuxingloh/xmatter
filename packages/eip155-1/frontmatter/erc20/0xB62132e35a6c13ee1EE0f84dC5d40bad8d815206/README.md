@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206
   - name: github
     url: https://github.com/nexofinance/NEXO-Token/
-  - name: twitter
-    url: https://twitter.com/NexoFinance
+  - name: x
+    url: https://x.com/NexoFinance
   - name: blog
     url: https://medium.com/nexo
   - name: facebook

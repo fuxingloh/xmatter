@@ -8,8 +8,8 @@ links:
     url: https://www.singularity.gold/
   - name: explorer
     url: https://bscscan.com/token/0x5f50411CDE3eEC27b0eaC21691b4e500c69a5a2e
-  - name: twitter
-    url: https://twitter.com/singularitysgly
+  - name: x
+    url: https://x.com/singularitysgly
   - name: telegram
     url: https://t.me/Singularityverse
   - name: github

@@ -6,8 +6,8 @@ links:
     url: https://halfpizza.com
   - name: explorer
     url: https://bscscan.com/token/0xFC646D0B564bf191B3d3adF2B620a792E485e6Da
-  - name: twitter
-    url: https://twitter.com/HalfPizza3
+  - name: x
+    url: https://x.com/HalfPizza3
   - name: github
     url: https://github.com/halfpizza
   - name: telegram

@@ -11,8 +11,8 @@ links:
     url: https://bscscan.com/token/0xbd83010eb60f12112908774998f65761cf9f6f9a
   - name: telegram
     url: https://t.me/mogulproductions
-  - name: twitter
-    url: https://twitter.com/mogulofficial_
+  - name: x
+    url: https://x.com/mogulofficial_
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/mogul-productions/
 ---

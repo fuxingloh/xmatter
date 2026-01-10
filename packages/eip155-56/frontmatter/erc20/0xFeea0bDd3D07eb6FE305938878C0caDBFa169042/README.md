@@ -1,11 +1,19 @@
 ---
 symbol: 8PAY
 decimals: 18
+tags:
+  - defi
 links:
   - name: website
     url: https://8pay.network
   - name: explorer
-    url: https://bscscan.com/token/0xfeea0bdd3d07eb6fe305938878c0cadbfa169042
+    url: https://bscscan.com/token/0xFeea0bDd3D07eb6FE305938878C0caDBFa169042
+  - name: x
+    url: https://x.com/8Pay_network
+  - name: coinmarketcap
+    url: https://coinmarketcap.com/currencies/8pay/
+  - name: coingecko
+    url: https://coingecko.com/en/coins/8pay
 ---
 
 # 8PAY Network

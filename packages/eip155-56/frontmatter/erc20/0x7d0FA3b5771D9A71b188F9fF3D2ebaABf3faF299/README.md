@@ -6,8 +6,8 @@ links:
     url: https://omino.finance
   - name: explorer
     url: https://bscscan.com/token/0x7d0FA3b5771D9A71b188F9fF3D2ebaABf3faF299
-  - name: twitter
-    url: https://twitter.com/FinanceOmino
+  - name: x
+    url: https://x.com/FinanceOmino
   - name: github
     url: https://github.com/ominofinance
   - name: telegram

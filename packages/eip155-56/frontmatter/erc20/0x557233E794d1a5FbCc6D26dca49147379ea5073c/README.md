@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x557233E794d1a5FbCc6D26dca49147379ea5073c
   - name: github
     url: https://github.com/alita-finance
-  - name: twitter
-    url: https://twitter.com/AlitaFinance
+  - name: x
+    url: https://x.com/AlitaFinance
   - name: telegram
     url: https://t.me/ALita_Finance
   - name: coingecko

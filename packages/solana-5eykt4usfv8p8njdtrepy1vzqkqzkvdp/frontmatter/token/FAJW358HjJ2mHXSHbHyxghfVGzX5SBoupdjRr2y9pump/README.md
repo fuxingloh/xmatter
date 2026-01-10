@@ -6,8 +6,8 @@ links:
     url: https://sonnyonsol.xyz/
   - name: explorer
     url: https://solscan.io/token/FAJW358HjJ2mHXSHbHyxghfVGzX5SBoupdjRr2y9pump
-  - name: twitter
-    url: https://twitter.com/sonnyonsolcto
+  - name: x
+    url: https://x.com/sonnyonsolcto
 ---
 
 # staring robot

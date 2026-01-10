@@ -8,8 +8,8 @@ links:
     url: https://metawhaleworld.com
   - name: explorer
     url: https://bscscan.com/token/0xd3ac199e6e6a1668ed6566b6f6dcdf7641868731
-  - name: twitter
-    url: https://twitter.com/MetawhaleWorld
+  - name: x
+    url: https://x.com/MetawhaleWorld
   - name: facebook
     url: https://facebook.com/MetaWhaleMTW
   - name: whitepaper

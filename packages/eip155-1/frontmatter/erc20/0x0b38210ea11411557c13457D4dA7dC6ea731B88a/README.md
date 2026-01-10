@@ -8,8 +8,8 @@ links:
     url: https://api3.org/
   - name: explorer
     url: https://etherscan.io/token/0x0b38210ea11411557c13457D4dA7dC6ea731B88a
-  - name: twitter
-    url: https://twitter.com/API3DAO
+  - name: x
+    url: https://x.com/API3DAO
   - name: telegram
     url: https://t.me/API3DAO
   - name: coinmarketcap

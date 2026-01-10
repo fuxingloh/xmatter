@@ -11,8 +11,8 @@ links:
     url: https://www.everrise.com/
   - name: explorer
     url: https://etherscan.io/token/0xDbA7b24257fC6e397cB7368B4BC922E944072f1b
-  - name: twitter
-    url: https://twitter.com/everrise
+  - name: x
+    url: https://x.com/everrise
   - name: telegram
     url: https://t.me/everriseofficial
   - name: youtube

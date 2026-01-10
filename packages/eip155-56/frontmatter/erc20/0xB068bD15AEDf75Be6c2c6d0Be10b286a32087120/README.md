@@ -6,8 +6,8 @@ links:
     url: https://tokenoid.io/
   - name: explorer
     url: https://bscscan.com/token/0xB068bD15AEDf75Be6c2c6d0Be10b286a32087120
-  - name: twitter
-    url: https://twitter.com/NoidToken
+  - name: x
+    url: https://x.com/NoidToken
   - name: github
     url: https://github.com/TokeNOID/
   - name: telegram

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x2d81ed6edee72d454a5baf51e40704e8c377db2a
   - name: telegram
     url: https://t.me/Fomodota_BSC_EN
-  - name: twitter
-    url: https://twitter.com/FomoDOTA_BSC
+  - name: x
+    url: https://x.com/FomoDOTA_BSC
 ---
 
 # FomoDota

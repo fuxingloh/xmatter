@@ -8,8 +8,8 @@ links:
     url: https://www.hi.com/
   - name: explorer
     url: https://etherscan.io/token/0xC4f6E93AEDdc11dc22268488465bAbcAF09399aC
-  - name: twitter
-    url: https://twitter.com/hi_com_official
+  - name: x
+    url: https://x.com/hi_com_official
   - name: github
     url: https://github.com/HiChainGlobal/hiTokenERC20
   - name: telegram

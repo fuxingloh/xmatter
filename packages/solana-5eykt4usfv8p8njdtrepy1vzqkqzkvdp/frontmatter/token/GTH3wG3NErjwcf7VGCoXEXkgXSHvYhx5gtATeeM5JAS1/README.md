@@ -6,8 +6,8 @@ links:
     url: https://whales.market
   - name: explorer
     url: https://solscan.io/token/GTH3wG3NErjwcf7VGCoXEXkgXSHvYhx5gtATeeM5JAS1
-  - name: twitter
-    url: https://twitter.com/WhalesMarket
+  - name: x
+    url: https://x.com/WhalesMarket
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/whales-market/
 ---

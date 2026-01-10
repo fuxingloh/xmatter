@@ -6,8 +6,8 @@ links:
     url: https://ethpad.network/
   - name: explorer
     url: https://bscscan.com/token/0x8dB1D28Ee0d822367aF8d220C0dc7cB6fe9DC442
-  - name: twitter
-    url: https://twitter.com/ethpadofficial
+  - name: x
+    url: https://x.com/ethpadofficial
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/ethpad/
   - name: coingecko

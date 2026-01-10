@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x2065E3BD318f155abE5Ad6aa263596f197112261
   - name: telegram
     url: https://t.me/ultgg
-  - name: twitter
-    url: https://twitter.com/ultimoggesports
+  - name: x
+    url: https://x.com/ultimoggesports
   - name: youtube
     url: https://youtube.com/c/UltimoHombre/
 ---

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x2B72867c32CF673F7b02d208B26889fEd353B1f8
   - name: telegram
     url: https://t.me/magicsquare_official
-  - name: twitter
-    url: https://twitter.com/MagicSquareio
+  - name: x
+    url: https://x.com/MagicSquareio
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/magic-square/
 ---

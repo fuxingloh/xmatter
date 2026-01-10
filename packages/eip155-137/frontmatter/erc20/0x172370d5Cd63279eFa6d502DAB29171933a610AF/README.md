@@ -3,13 +3,13 @@ symbol: CRV
 decimals: 18
 links:
   - name: website
-    url: https://www.curve.fi/
+    url: https://www.curve.finance/
   - name: explorer
     url: https://polygonscan.com/token/0x172370d5cd63279efa6d502dab29171933a610af
   - name: github
     url: https://github.com/curvefi/curve-contract
-  - name: twitter
-    url: https://twitter.com/CurveFinance
+  - name: x
+    url: https://x.com/CurveFinance
   - name: telegram
     url: https://t.me/curvefi
   - name: coinmarketcap

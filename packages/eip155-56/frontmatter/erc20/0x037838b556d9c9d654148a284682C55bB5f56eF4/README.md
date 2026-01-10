@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x037838b556d9c9d654148a284682c55bb5f56ef4
   - name: telegram
     url: https://t.me/lightningprotocol
-  - name: twitter
-    url: https://twitter.com/LightningDeFi
+  - name: x
+    url: https://x.com/LightningDeFi
   - name: reddit
     url: https://reddit.com/r/Lightning_Incubator/
   - name: facebook

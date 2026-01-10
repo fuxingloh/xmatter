@@ -12,8 +12,8 @@ links:
     url: https://bit.ly/xtrawhitepaper
   - name: telegram
     url: https://t.me/taraplatform
-  - name: twitter
-    url: https://twitter.com/taraplatform
+  - name: x
+    url: https://x.com/taraplatform
   - name: medium
     url: https://medium.com/@aldyputra-xtra/xtra-tara-paltform-a-revolution-of-loyalty-reward-with-blockchain-technology-presale-on-91f007da0838
   - name: facebook

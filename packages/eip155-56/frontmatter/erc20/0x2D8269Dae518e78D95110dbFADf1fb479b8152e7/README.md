@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x2d8269dae518e78d95110dbfadf1fb479b8152e7
   - name: telegram
     url: https://t.me/thegccoin
-  - name: twitter
-    url: https://twitter.com/theGCCOIN
+  - name: x
+    url: https://x.com/theGCCOIN
   - name: whitepaper
     url: https://gccoin-whitepaper.gitbook.io/gccoin-whitepaper/
   - name: coingecko

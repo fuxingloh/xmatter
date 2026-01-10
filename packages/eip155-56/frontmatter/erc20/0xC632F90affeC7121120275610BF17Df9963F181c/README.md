@@ -6,8 +6,8 @@ links:
     url: https://www.thedebtbox.com
   - name: explorer
     url: https://bscscan.com/token/0xc632f90affec7121120275610bf17df9963f181c
-  - name: twitter
-    url: https://twitter.com/thedebtbox
+  - name: x
+    url: https://x.com/thedebtbox
 ---
 
 # DEBT

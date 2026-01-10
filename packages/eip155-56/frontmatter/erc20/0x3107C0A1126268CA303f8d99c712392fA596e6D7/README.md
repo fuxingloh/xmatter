@@ -8,8 +8,8 @@ links:
     url: https://www.gxtglobal.com/en/index.html
   - name: explorer
     url: https://bscscan.com/token/0x3107C0A1126268CA303f8d99c712392fA596e6D7
-  - name: twitter
-    url: https://twitter.com/GXT25075644
+  - name: x
+    url: https://x.com/GXT25075644
   - name: github
     url: https://github.com/gxtmg/gxt_erc20
   - name: telegram

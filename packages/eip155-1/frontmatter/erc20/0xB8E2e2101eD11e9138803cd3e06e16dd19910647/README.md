@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xB8E2e2101eD11e9138803cd3e06e16dd19910647
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/ardcoin/
-  - name: twitter
-    url: https://twitter.com/ard_coin
+  - name: x
+    url: https://x.com/ard_coin
   - name: github
     url: https://github.com/ArdCoin
   - name: whitepaper

@@ -8,8 +8,8 @@ links:
     url: https://babymoonfloki.com
   - name: explorer
     url: https://bscscan.com/token/0x54E87ed5A096f09d9665fD114002bdDFc2084a7F
-  - name: twitter
-    url: https://twitter.com/babymoonfloki
+  - name: x
+    url: https://x.com/babymoonfloki
   - name: telegram
     url: https://t.me/BMFloki
 ---

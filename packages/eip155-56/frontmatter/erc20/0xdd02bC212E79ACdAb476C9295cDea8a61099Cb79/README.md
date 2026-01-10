@@ -8,8 +8,8 @@ links:
     url: https://mcncoin.io
   - name: explorer
     url: https://bscscan.com/token/0xdd02bC212E79ACdAb476C9295cDea8a61099Cb79
-  - name: twitter
-    url: https://twitter.com/MCNOfficialM
+  - name: x
+    url: https://x.com/MCNOfficialM
   - name: telegram
     url: https://t.me/mcn_network
   - name: coinmarketcap

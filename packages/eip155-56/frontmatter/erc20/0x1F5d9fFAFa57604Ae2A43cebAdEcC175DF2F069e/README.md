@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x1f5d9ffafa57604ae2a43cebadecc175df2f069e
   - name: github
     url: https://github.com/InfinitXToken
-  - name: twitter
-    url: https://twitter.com/infinitX_bsc
+  - name: x
+    url: https://x.com/infinitX_bsc
   - name: telegram
     url: https://t.me/infinitx_token
   - name: medium

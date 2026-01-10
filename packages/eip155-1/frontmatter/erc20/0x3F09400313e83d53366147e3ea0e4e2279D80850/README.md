@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x3F09400313e83d53366147e3ea0e4e2279D80850
   - name: github
     url: https://github.com/KushFinance/
-  - name: twitter
-    url: https://twitter.com/KushFinance
+  - name: x
+    url: https://x.com/KushFinance
   - name: telegram
     url: https://t.me/kushfinance
 ---

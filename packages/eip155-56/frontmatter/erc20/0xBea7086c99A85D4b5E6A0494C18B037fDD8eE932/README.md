@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xbea7086c99a85d4b5e6a0494c18b037fdd8ee932
   - name: github
     url: https://github.com/Freedom-Reserve
-  - name: twitter
-    url: https://twitter.com/@FreedomRsv
+  - name: x
+    url: https://x.com/@FreedomRsv
   - name: telegram
     url: https://t.me/freedomreserve1
   - name: whitepaper

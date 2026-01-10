@@ -7,8 +7,8 @@ links:
     url: https://cumrocket.io
   - name: explorer
     url: https://bscscan.com/token/0x27Ae27110350B98d564b9A3eeD31bAeBc82d878d
-  - name: twitter
-    url: https://twitter.com/CumRocketCrypto
+  - name: x
+    url: https://x.com/CumRocketCrypto
   - name: telegram
     url: https://t.me/cumrocket
   - name: discord

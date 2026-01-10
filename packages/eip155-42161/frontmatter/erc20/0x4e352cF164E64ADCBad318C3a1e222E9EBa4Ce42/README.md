@@ -6,8 +6,8 @@ links:
     url: https://mux.network
   - name: explorer
     url: https://arbiscan.io/token/0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42
-  - name: twitter
-    url: https://twitter.com/muxprotocol
+  - name: x
+    url: https://x.com/muxprotocol
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/mcdex/
   - name: coingecko

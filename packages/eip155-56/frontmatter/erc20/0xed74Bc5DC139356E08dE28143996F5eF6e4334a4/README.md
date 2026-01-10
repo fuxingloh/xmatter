@@ -6,8 +6,8 @@ links:
     url: https://SpookyShibaBSC.com
   - name: explorer
     url: https://bscscan.com/token/0xed74Bc5DC139356E08dE28143996F5eF6e4334a4
-  - name: twitter
-    url: https://twitter.com/shibaspooky
+  - name: x
+    url: https://x.com/shibaspooky
   - name: github
     url: https://github.com/CryptoCreators/SpookyShiba
   - name: telegram

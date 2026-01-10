@@ -8,8 +8,8 @@ links:
     url: https://shopx.co/
   - name: explorer
     url: https://etherscan.io/token/0x7bef710a5759d197ec0bf621c3df802c2d60d848
-  - name: twitter
-    url: https://twitter.com/shopxlabs
+  - name: x
+    url: https://x.com/shopxlabs
   - name: github
     url: https://github.com/shopxlabs
   - name: telegram

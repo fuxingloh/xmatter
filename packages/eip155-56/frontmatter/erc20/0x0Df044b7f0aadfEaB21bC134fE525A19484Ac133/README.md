@@ -8,8 +8,8 @@ links:
     url: https://www.uzyth.com/
   - name: explorer
     url: https://bscscan.com/token/0x0Df044b7f0aadfEaB21bC134fE525A19484Ac133
-  - name: twitter
-    url: https://twitter.com/UZythOfficial
+  - name: x
+    url: https://x.com/UZythOfficial
   - name: github
     url: https://github.com/
   - name: facebook

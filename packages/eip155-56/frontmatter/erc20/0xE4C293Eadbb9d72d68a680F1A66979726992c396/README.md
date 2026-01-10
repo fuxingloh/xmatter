@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xe4c293eadbb9d72d68a680f1a66979726992c396
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/lucid-lands-v2/
-  - name: twitter
-    url: https://twitter.com/LucidLands
+  - name: x
+    url: https://x.com/LucidLands
   - name: telegram
     url: https://t.me/LucidLandsOffical
   - name: coingecko

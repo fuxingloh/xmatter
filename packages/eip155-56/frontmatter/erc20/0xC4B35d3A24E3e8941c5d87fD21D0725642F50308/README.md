@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xC4B35d3A24E3e8941c5d87fD21D0725642F50308
   - name: github
     url: https://github.com/DefiPie
-  - name: twitter
-    url: https://twitter.com/defipiepie
+  - name: x
+    url: https://x.com/defipiepie
   - name: telegram
     url: https://t.me/defipie
   - name: medium

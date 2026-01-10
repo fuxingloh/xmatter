@@ -8,8 +8,8 @@ links:
     url: https://sheikhinu.io/
   - name: explorer
     url: https://bscscan.com/token/0xe5b5d4bea7468b4994fa676949308a79497aa24c
-  - name: twitter
-    url: https://twitter.com/sheikhinutoken
+  - name: x
+    url: https://x.com/sheikhinutoken
   - name: github
     url: https://github.com/Sheikhinu
   - name: telegram

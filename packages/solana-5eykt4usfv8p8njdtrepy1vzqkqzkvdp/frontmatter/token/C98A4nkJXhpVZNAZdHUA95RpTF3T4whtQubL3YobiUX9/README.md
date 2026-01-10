@@ -6,8 +6,8 @@ links:
     url: https://coin98.com/
   - name: explorer
     url: https://solscan.io/token/C98A4nkJXhpVZNAZdHUA95RpTF3T4whtQubL3YobiUX9
-  - name: twitter
-    url: https://twitter.com/coin98_finance
+  - name: x
+    url: https://x.com/coin98_finance
   - name: coingecko
     url: https://coingecko.com/en/coins/coin98/
   - name: coinmarketcap

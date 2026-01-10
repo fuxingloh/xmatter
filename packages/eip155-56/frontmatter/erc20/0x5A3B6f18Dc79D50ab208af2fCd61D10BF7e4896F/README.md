@@ -8,8 +8,8 @@ links:
     url: https://aeth.finance/
   - name: explorer
     url: https://bscscan.com/token/0x5A3B6f18Dc79D50ab208af2fCd61D10BF7e4896F
-  - name: twitter
-    url: https://twitter.com/Token_AETH
+  - name: x
+    url: https://x.com/Token_AETH
   - name: telegram
     url: https://t.me/aetheriustoken_eng
 ---

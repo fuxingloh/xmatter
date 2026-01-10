@@ -6,8 +6,8 @@ links:
     url: https://dogemoon.me/
   - name: explorer
     url: https://bscscan.com/token/0x18359CF655A444204e46F286eDC445C9D30fFc54
-  - name: twitter
-    url: https://twitter.com/DogeMoonMain
+  - name: x
+    url: https://x.com/DogeMoonMain
   - name: telegram
     url: https://t.me/dogemoonme
   - name: reddit

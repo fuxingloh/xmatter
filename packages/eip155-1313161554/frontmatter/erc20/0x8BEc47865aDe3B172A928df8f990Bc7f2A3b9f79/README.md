@@ -8,8 +8,8 @@ links:
     url: https://aurora.dev/
   - name: explorer
     url: https://aurorascan.dev/address/0x8bec47865ade3b172a928df8f990bc7f2a3b9f79
-  - name: twitter
-    url: https://twitter.com/auroraisnear
+  - name: x
+    url: https://x.com/auroraisnear
   - name: github
     url: https://github.com/aurora-is-near
   - name: telegram

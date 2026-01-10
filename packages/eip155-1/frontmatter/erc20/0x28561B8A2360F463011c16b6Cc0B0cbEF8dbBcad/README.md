@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x28561b8a2360f463011c16b6cc0b0cbef8dbbcad
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/moo-deng-token/
-  - name: twitter
-    url: https://twitter.com/moodengctoeth
+  - name: x
+    url: https://x.com/moodengctoeth
 ---
 
 # MOO DENG

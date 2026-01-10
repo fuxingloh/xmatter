@@ -6,8 +6,8 @@ links:
     url: https://devincoin.xyz/
   - name: explorer
     url: https://solscan.io/token/7gbEP2TAy5wM3TmMp5utCrRvdJ3FFqYjgN5KDpXiWPmo
-  - name: twitter
-    url: https://twitter.com/DEVINTOTHEMOON
+  - name: x
+    url: https://x.com/DEVINTOTHEMOON
   - name: coingecko
     url: https://coingecko.com/en/coins/devin-on-solana
 ---

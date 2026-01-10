@@ -10,8 +10,8 @@ links:
     url: https://carbon-netrual.global/doc/CNES_GreenPaper_1.0.pdf
   - name: telegram
     url: https://t.me/CNESCommunity
-  - name: twitter
-    url: https://twitter.com/cnesofficial
+  - name: x
+    url: https://x.com/cnesofficial
   - name: medium
     url: https://come-cnes.medium.com/
   - name: coinmarketcap

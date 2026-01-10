@@ -6,8 +6,8 @@ links:
     url: https://www.evergreentokens.org
   - name: explorer
     url: https://bscscan.com/token/0xa865c6CC3A6164c3a0188efEED6F32ABa134693c
-  - name: twitter
-    url: https://twitter.com/evergreentokens
+  - name: x
+    url: https://x.com/evergreentokens
   - name: whitepaper
     url: https://dev.evergreentokens.org/files/Green_Paper.pdf
   - name: coinmarketcap

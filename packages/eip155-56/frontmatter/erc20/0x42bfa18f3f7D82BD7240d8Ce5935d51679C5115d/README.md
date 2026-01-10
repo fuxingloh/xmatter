@@ -8,8 +8,8 @@ links:
     url: https://www.2k75.online/
   - name: explorer
     url: https://bscscan.com/token/0x42bfa18f3f7D82BD7240d8Ce5935d51679C5115d
-  - name: twitter
-    url: https://twitter.com/Sports2k75
+  - name: x
+    url: https://x.com/Sports2k75
   - name: telegram
     url: https://t.me/sports2k75
   - name: github

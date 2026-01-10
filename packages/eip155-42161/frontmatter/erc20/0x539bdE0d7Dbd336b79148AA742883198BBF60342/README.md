@@ -6,8 +6,8 @@ links:
     url: https://treasure.lol/
   - name: explorer
     url: https://arbiscan.io/token/0x539bdE0d7Dbd336b79148AA742883198BBF60342
-  - name: twitter
-    url: https://twitter.com/Treasure_NFT
+  - name: x
+    url: https://x.com/Treasure_NFT
   - name: medium
     url: https://medium.com/@TreasureNFT
   - name: coinmarketcap

@@ -6,8 +6,8 @@ links:
     url: https://wault.finance
   - name: explorer
     url: https://polygonscan.com/token/0x4c4bf319237d98a30a929a96112effa8da3510eb
-  - name: twitter
-    url: https://twitter.com/Wault_Finance
+  - name: x
+    url: https://x.com/Wault_Finance
   - name: github
     url: https://github.com/WaultFinance
   - name: telegram

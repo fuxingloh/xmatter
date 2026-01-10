@@ -6,8 +6,8 @@ links:
     url: https://jackysol.com/
   - name: explorer
     url: https://solscan.io/token/DKnXmFGBcpYEnPsoHLrdj5cbZdEq9DV9z6bVfYrrDEBE
-  - name: twitter
-    url: https://twitter.com/jackysolmeme
+  - name: x
+    url: https://x.com/jackysolmeme
   - name: telegram
     url: https://t.me/jackymeme
 ---

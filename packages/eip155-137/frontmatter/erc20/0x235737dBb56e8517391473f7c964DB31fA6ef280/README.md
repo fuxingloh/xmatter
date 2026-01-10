@@ -8,8 +8,8 @@ links:
     url: https://polygonscan.com/token/0x235737dbb56e8517391473f7c964db31fa6ef280
   - name: github
     url: https://github.com/kasta-io
-  - name: twitter
-    url: https://twitter.com/kasta_app
+  - name: x
+    url: https://x.com/kasta_app
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/kasta/
   - name: telegram

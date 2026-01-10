@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xd27D3F7f329D93d897612E413F207A4dbe8bF799
   - name: github
     url: https://github.com/moonshot-platform
-  - name: twitter
-    url: https://twitter.com/RS25Moonshot
+  - name: x
+    url: https://x.com/RS25Moonshot
   - name: telegram
     url: https://t.me/MoonShotChat
   - name: medium

@@ -6,8 +6,8 @@ links:
     url: https://shirtum.com
   - name: explorer
     url: https://bscscan.com/token/0x7269d98Af4aA705e0B1A5D8512FadB4d45817d5a
-  - name: twitter
-    url: https://twitter.com/shirtumapp
+  - name: x
+    url: https://x.com/shirtumapp
   - name: github
     url: https://github.com/Shirtum
   - name: telegram

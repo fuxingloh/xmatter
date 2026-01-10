@@ -6,8 +6,8 @@ links:
     url: https://bakecoin.org
   - name: explorer
     url: https://bscscan.com/token/0x32eD23b9D263138695168850Ac04609f6e5e0aB4
-  - name: twitter
-    url: https://twitter.com/bakecoin
+  - name: x
+    url: https://x.com/bakecoin
   - name: github
     url: https://github.com/bakecoinbsc
   - name: telegram

@@ -8,8 +8,8 @@ links:
     url: https://metaswap.name/
   - name: explorer
     url: https://bscscan.com/token/0x379f29911956052899e09233a3914f4e1eca075c
-  - name: twitter
-    url: https://twitter.com/MetaSwap_
+  - name: x
+    url: https://x.com/MetaSwap_
   - name: blog
     url: https://metaswap.name/
   - name: discord

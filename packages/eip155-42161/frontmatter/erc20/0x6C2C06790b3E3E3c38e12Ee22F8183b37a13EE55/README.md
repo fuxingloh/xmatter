@@ -6,8 +6,8 @@ links:
     url: https://www.dopex.io/
   - name: explorer
     url: https://arbiscan.io/token/0x6c2c06790b3e3e3c38e12ee22f8183b37a13ee55
-  - name: twitter
-    url: https://twitter.com/dopex_io
+  - name: x
+    url: https://x.com/dopex_io
   - name: github
     url: https://github.com/dopex-io
   - name: coinmarketcap

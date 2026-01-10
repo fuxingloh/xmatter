@@ -8,8 +8,8 @@ links:
     url: https://cosa.is
   - name: explorer
     url: https://bscscan.com/token/0x5f980533b994c93631a639deda7892fc49995839
-  - name: twitter
-    url: https://twitter.com/CosantaNet
+  - name: x
+    url: https://x.com/CosantaNet
   - name: telegram
     url: https://t.me/cosanta_io
   - name: whitepaper

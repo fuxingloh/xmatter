@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x2A17Dc11a1828725cdB318E0036ACF12727d27a2
   - name: telegram
     url: https://t.me/arenaswap
-  - name: twitter
-    url: https://twitter.com/ArenaSwap
+  - name: x
+    url: https://x.com/ArenaSwap
   - name: reddit
     url: https://reddit.com/r/ArenaSwap/
 ---

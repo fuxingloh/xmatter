@@ -9,8 +9,8 @@ links:
     url: https://duet.finance/
   - name: explorer
     url: https://bscscan.com/token/0x95EE03e1e2C5c4877f9A298F1C0D6c98698FAB7B
-  - name: twitter
-    url: https://twitter.com/duetprotocol
+  - name: x
+    url: https://x.com/duetprotocol
   - name: github
     url: https://github.com/duet-protocol
   - name: discord

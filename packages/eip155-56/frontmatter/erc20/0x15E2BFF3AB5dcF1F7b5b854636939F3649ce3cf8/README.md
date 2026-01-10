@@ -9,8 +9,8 @@ links:
     url: https://dogefat.com
   - name: explorer
     url: https://bscscan.com/token/0x15e2bff3ab5dcf1f7b5b854636939f3649ce3cf8
-  - name: twitter
-    url: https://twitter.com/dogefatherDEFI
+  - name: x
+    url: https://x.com/dogefatherDEFI
   - name: telegram
     url: https://t.me/dogefather_global
   - name: whitepaper

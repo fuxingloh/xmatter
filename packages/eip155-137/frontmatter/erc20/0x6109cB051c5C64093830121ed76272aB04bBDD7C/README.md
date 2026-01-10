@@ -6,8 +6,8 @@ links:
     url: https://prosper.so/
   - name: explorer
     url: https://polygonscan.com/token/0x6109cb051c5c64093830121ed76272ab04bbdd7c
-  - name: twitter
-    url: https://twitter.com/Prosperpredict
+  - name: x
+    url: https://x.com/Prosperpredict
   - name: telegram
     url: https://t.me/prosperfi
   - name: coinmarketcap

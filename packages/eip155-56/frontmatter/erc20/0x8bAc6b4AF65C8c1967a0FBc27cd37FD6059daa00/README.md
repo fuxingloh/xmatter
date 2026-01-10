@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x8bAc6b4AF65C8c1967a0FBc27cd37FD6059daa00
   - name: github
     url: https://github.com/SphynxNetworkGitHub
-  - name: twitter
-    url: https://twitter.com/SphynxNetwork
+  - name: x
+    url: https://x.com/SphynxNetwork
   - name: medium
     url: https://sphynx-network.medium.com/
   - name: telegram

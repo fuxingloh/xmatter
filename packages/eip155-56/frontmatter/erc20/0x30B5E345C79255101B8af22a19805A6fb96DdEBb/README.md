@@ -6,8 +6,8 @@ links:
     url: https://rev3al.io/
   - name: explorer
     url: https://bscscan.com/token/0x30B5E345C79255101B8af22a19805A6fb96DdEBb
-  - name: twitter
-    url: https://twitter.com/Rev3alTech
+  - name: x
+    url: https://x.com/Rev3alTech
   - name: telegram
     url: https://t.me/rev3altech
   - name: coinmarketcap

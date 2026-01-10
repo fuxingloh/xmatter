@@ -6,8 +6,8 @@ links:
     url: https://solstream.io/
   - name: explorer
     url: https://solscan.io/token/54jVZGHyWURX5evBtZqUsJjwoKzcZJbVokDU93AUZf2h
-  - name: twitter
-    url: https://twitter.com/SolStreamCoin
+  - name: x
+    url: https://x.com/SolStreamCoin
 ---
 
 # Solstream

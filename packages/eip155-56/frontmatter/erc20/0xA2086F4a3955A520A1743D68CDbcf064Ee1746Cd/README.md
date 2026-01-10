@@ -8,8 +8,8 @@ links:
     url: https://xdoge.app
   - name: explorer
     url: https://bscscan.com/token/0xA2086F4a3955A520A1743D68CDbcf064Ee1746Cd
-  - name: twitter
-    url: https://twitter.com/xdogeapp
+  - name: x
+    url: https://x.com/xdogeapp
   - name: github
     url: https://github.com/xdogeapp
   - name: telegram

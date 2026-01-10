@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xc15e89f2149bCC0cBd5FB204C9e77fe878f1e9b2
   - name: telegram
     url: https://t.me/HuHToken
-  - name: twitter
-    url: https://twitter.com/HuhToken
+  - name: x
+    url: https://x.com/HuhToken
   - name: github
     url: https://github.com/HUH-Token
   - name: coinmarketcap

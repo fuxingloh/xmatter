@@ -8,8 +8,8 @@ links:
     url: https://titanswap.org/
   - name: explorer
     url: https://etherscan.io/token/0x3A8cCCB969a61532d1E6005e2CE12C200caeCe87
-  - name: twitter
-    url: https://twitter.com/TitanSwaporg
+  - name: x
+    url: https://x.com/TitanSwaporg
   - name: github
     url: https://github.com/titanSwap
   - name: telegram

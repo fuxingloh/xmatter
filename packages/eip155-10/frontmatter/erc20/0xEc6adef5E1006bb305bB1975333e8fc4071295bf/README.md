@@ -6,8 +6,8 @@ links:
     url: https://cartesi.io
   - name: explorer
     url: https://optimistic.etherscan.io/token/0xEc6adef5E1006bb305bB1975333e8fc4071295bf
-  - name: twitter
-    url: https://twitter.com/cartesiproject
+  - name: x
+    url: https://x.com/cartesiproject
   - name: telegram
     url: https://t.me/cartesiproject
 ---

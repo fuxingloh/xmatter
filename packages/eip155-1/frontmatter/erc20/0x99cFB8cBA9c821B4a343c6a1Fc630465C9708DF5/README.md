@@ -8,8 +8,8 @@ links:
     url: https://pepeinu.xyz/
   - name: explorer
     url: https://etherscan.io/token/0x99cfb8cba9c821b4a343c6a1fc630465c9708df5
-  - name: twitter
-    url: https://twitter.com/pepeinueth
+  - name: x
+    url: https://x.com/pepeinueth
   - name: telegram
     url: https://t.me/PepeInuETHPortal
   - name: coinmarketcap

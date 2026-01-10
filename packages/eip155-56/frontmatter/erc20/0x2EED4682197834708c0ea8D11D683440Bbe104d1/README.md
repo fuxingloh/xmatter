@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x2EED4682197834708c0ea8D11D683440Bbe104d1
   - name: telegram
     url: https://t.me/naftydiscussions
-  - name: twitter
-    url: https://twitter.com/naftyofficial
+  - name: x
+    url: https://x.com/naftyofficial
   - name: whitepaper
     url: https://naftytoken.com/docs/whitepaper/
   - name: github

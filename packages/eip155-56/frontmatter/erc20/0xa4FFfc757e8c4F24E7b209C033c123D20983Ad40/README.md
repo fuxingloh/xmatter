@@ -10,8 +10,8 @@ links:
     url: https://reddit.com/r/hoge
   - name: discord
     url: https://discord.com/invite/hoge
-  - name: twitter
-    url: https://twitter.com/hogefinance
+  - name: x
+    url: https://x.com/hogefinance
   - name: telegram
     url: https://t.me/hogefinance
   - name: coinmarketcap

@@ -10,8 +10,8 @@ links:
     url: https://coinmarketcap.com/currencies/nobility-new/
   - name: coingecko
     url: https://coingecko.com/en/coins/nobility-new
-  - name: twitter
-    url: https://twitter.com/nobilitytoken
+  - name: x
+    url: https://x.com/nobilitytoken
   - name: telegram
     url: https://t.me/thenobilitytoken
 ---

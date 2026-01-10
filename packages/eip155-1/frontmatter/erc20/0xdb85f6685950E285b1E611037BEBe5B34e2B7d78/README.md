@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xdb85f6685950e285b1e611037bebe5b34e2b7d78
   - name: telegram
     url: https://t.me/zanocoin
-  - name: twitter
-    url: https://twitter.com/zano_project
+  - name: x
+    url: https://x.com/zano_project
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/zano/
 ---

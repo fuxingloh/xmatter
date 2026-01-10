@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x375a7b6a6f74a5acb86c420c53c4ce8cf1d51b4d
   - name: github
     url: https://github.com/HUP-LIFE
-  - name: twitter
-    url: https://twitter.com/hupdotlife
+  - name: x
+    url: https://x.com/hupdotlife
   - name: reddit
     url: https://reddit.com/r/huplife
   - name: telegram

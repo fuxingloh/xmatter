@@ -6,8 +6,8 @@ links:
     url: https://cyborgism.wiki/hypha/act_i
   - name: explorer
     url: https://solscan.io/token/GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump
-  - name: twitter
-    url: https://twitter.com/amplifiedamp
+  - name: x
+    url: https://x.com/amplifiedamp
   - name: telegram
     url: https://t.me/actportal
 ---

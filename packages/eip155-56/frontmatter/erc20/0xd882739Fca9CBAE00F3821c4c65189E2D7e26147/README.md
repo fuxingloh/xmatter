@@ -9,8 +9,8 @@ links:
     url: https://the4thpillar.io/
   - name: explorer
     url: https://bscscan.com/token/0xd882739Fca9CBAE00F3821c4c65189E2D7e26147
-  - name: twitter
-    url: https://twitter.com/4pfour
+  - name: x
+    url: https://x.com/4pfour
   - name: coingecko
     url: https://coingecko.com/en/coins/the-4th-pillar
 ---

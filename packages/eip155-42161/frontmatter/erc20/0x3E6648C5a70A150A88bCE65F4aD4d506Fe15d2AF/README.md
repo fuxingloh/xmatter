@@ -8,8 +8,8 @@ links:
     url: https://abracadabra.money/
   - name: explorer
     url: https://arbiscan.io/token/0x3e6648c5a70a150a88bce65f4ad4d506fe15d2af
-  - name: twitter
-    url: https://twitter.com/MIM_Spell
+  - name: x
+    url: https://x.com/MIM_Spell
   - name: medium
     url: https://abracadabramoney.medium.com/
   - name: coingecko

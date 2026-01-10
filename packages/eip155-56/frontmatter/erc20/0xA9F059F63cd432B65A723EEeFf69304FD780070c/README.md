@@ -8,8 +8,8 @@ links:
     url: https://sanjiinu.club/
   - name: explorer
     url: https://bscscan.com/token/0xA9F059F63cd432B65A723EEeFf69304FD780070c
-  - name: twitter
-    url: https://twitter.com/sanjiinu_tw/
+  - name: x
+    url: https://x.com/sanjiinu_tw/
   - name: telegram
     url: https://t.me/sanjiinucommunity
   - name: github

@@ -6,8 +6,8 @@ links:
     url: https://www.jito.network
   - name: explorer
     url: https://solscan.io/token/J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn
-  - name: twitter
-    url: https://twitter.com/jito_sol
+  - name: x
+    url: https://x.com/jito_sol
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/jito-staked-sol/
 ---

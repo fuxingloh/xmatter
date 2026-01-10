@@ -8,8 +8,8 @@ links:
     url: 'https://green-chart.com/ '
   - name: explorer
     url: https://bscscan.com/token/0x7403802c0FFeE2d83FB13513e23aAF4a3a9C69f0
-  - name: twitter
-    url: https://twitter.com/GreenChartBSC
+  - name: x
+    url: https://x.com/GreenChartBSC
   - name: telegram
     url: https://t.me/greenchartbsc
   - name: coinmarketcap

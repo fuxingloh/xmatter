@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x97ea5efdcb5961a99ba5c96123042507c0210ec1
   - name: github
     url: https://github.com/monkey-shanti/flokinomics/
-  - name: twitter
-    url: https://twitter.com/FlokinomicsCoin
+  - name: x
+    url: https://x.com/FlokinomicsCoin
   - name: reddit
     url: https://reddit.com/user/Flokinimocs312
   - name: medium

@@ -8,8 +8,8 @@ links:
     url: https://catcoin.com
   - name: explorer
     url: https://bscscan.com/token/0x59F4F336Bf3D0C49dBfbA4A74eBD2a6aCE40539A
-  - name: twitter
-    url: https://twitter.com/catcoin
+  - name: x
+    url: https://x.com/catcoin
   - name: telegram_news
     url: https://t.me/catcoinalert
   - name: facebook

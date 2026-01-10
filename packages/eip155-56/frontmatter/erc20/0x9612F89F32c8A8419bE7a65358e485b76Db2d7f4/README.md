@@ -10,8 +10,8 @@ links:
     url: https://t.me/bullextoken
   - name: github
     url: https://github.com/BullexTeam
-  - name: twitter
-    url: https://twitter.com/bullextoken
+  - name: x
+    url: https://x.com/bullextoken
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/bullex/
   - name: coingecko

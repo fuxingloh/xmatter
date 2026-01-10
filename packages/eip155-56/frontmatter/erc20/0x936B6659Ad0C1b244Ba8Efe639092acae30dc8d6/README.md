@@ -8,8 +8,8 @@ links:
     url: https://corite.com
   - name: explorer
     url: https://bscscan.com/token/0x936B6659Ad0C1b244Ba8Efe639092acae30dc8d6
-  - name: twitter
-    url: https://twitter.com/coritecom
+  - name: x
+    url: https://x.com/coritecom
   - name: telegram
     url: https://t.me/corite
   - name: youtube

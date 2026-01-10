@@ -6,8 +6,8 @@ links:
     url: https://multigame.org/
   - name: explorer
     url: https://bscscan.com/token/0x3e6C9eE69B90B53628051F8D6CB5b6b2EaCCB438
-  - name: twitter
-    url: https://twitter.com/multigame_org
+  - name: x
+    url: https://x.com/multigame_org
   - name: telegram
     url: https://t.me/multigame_chat
 ---

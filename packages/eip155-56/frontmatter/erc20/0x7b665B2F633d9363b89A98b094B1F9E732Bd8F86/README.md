@@ -8,8 +8,8 @@ links:
     url: https://amazy.io
   - name: explorer
     url: https://bscscan.com/token/0x7b665b2f633d9363b89a98b094b1f9e732bd8f86
-  - name: twitter
-    url: https://twitter.com/amazyio
+  - name: x
+    url: https://x.com/amazyio
   - name: github
     url: https://github.com/amazy-io
   - name: telegram

@@ -6,8 +6,8 @@ links:
     url: https://thunderbnb.app/
   - name: explorer
     url: https://bscscan.com/token/0xb9654A42f0F5dCDEf5617DebF8bd048E33F180E7
-  - name: twitter
-    url: https://twitter.com/ThunderBNBapp
+  - name: x
+    url: https://x.com/ThunderBNBapp
   - name: telegram
     url: https://t.me/ThunderBNB
   - name: docs

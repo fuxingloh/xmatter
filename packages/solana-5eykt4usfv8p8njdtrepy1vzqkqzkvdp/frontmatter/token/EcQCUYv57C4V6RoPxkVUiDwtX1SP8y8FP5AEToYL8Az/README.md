@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/EcQCUYv57C4V6RoPxkVUiDwtX1SP8y8FP5AEToYL8Az
   - name: medium
     url: https://medium.com/@walken.io
-  - name: twitter
-    url: https://twitter.com/walken_io
+  - name: x
+    url: https://x.com/walken_io
 ---
 
 # Walken

@@ -8,8 +8,8 @@ links:
     url: https://tronscan.io/#/token20/TPAQRJSVatTZLLaguCFMXGFKegKnqnKH2s
   - name: github
     url: https://github.com/CyberFM/
-  - name: twitter
-    url: https://twitter.com/Mainstream For The Underground
+  - name: x
+    url: https://x.com/Mainstream For The Underground
   - name: telegram
     url: https://t.me/mftudotnet
 ---

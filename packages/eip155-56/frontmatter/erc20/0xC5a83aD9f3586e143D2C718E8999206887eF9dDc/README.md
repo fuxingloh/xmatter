@@ -6,8 +6,8 @@ links:
     url: https://www.annex.finance/
   - name: explorer
     url: https://bscscan.com/token/0xC5a83aD9f3586e143D2C718E8999206887eF9dDc
-  - name: twitter
-    url: https://twitter.com/AnnexFinance
+  - name: x
+    url: https://x.com/AnnexFinance
   - name: medium
     url: https://annexfinance.medium.com/
   - name: telegram

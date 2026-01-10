@@ -9,8 +9,8 @@ links:
     url: https://mousehaunt.com/
   - name: explorer
     url: https://bscscan.com/token/0x5Cb2C3Ed882E37DA610f9eF5b0FA25514d7bc85B
-  - name: twitter
-    url: https://twitter.com/mousehaunt
+  - name: x
+    url: https://x.com/mousehaunt
   - name: github
     url: https://github.com/mousehaunt
   - name: telegram

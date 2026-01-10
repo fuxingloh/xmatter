@@ -8,8 +8,8 @@ links:
     url: https://www.aeterna.eco/
   - name: explorer
     url: https://bscscan.com/token/0xe75BF67Df2388183d9b7714231996C937d4a855A
-  - name: twitter
-    url: https://twitter.com/project_aeterna
+  - name: x
+    url: https://x.com/project_aeterna
   - name: telegram
     url: https://t.me/aeternamain
   - name: coinmarketcap

@@ -11,8 +11,8 @@ links:
     url: https://metania.games/
   - name: explorer
     url: https://bscscan.com/token/0x6f64cc61d0d5542e40e6f2828cbdda84507d214d
-  - name: twitter
-    url: https://twitter.com/MetaniaGames
+  - name: x
+    url: https://x.com/MetaniaGames
   - name: github
     url: https://github.com/metaniagames/contract
   - name: telegram

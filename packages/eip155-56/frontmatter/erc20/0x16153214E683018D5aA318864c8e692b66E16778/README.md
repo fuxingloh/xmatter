@@ -6,8 +6,8 @@ links:
     url: https://polkawar.com/
   - name: explorer
     url: https://bscscan.com/token/0x16153214E683018D5aA318864c8e692b66E16778
-  - name: twitter
-    url: https://twitter.com/polkawarnft
+  - name: x
+    url: https://x.com/polkawarnft
   - name: telegram
     url: https://t.me/polkawarchat
 ---

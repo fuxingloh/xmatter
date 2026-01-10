@@ -6,8 +6,8 @@ links:
     url: https://spacecatch.io/
   - name: explorer
     url: https://arbiscan.io/token/0xf0a479C9c3378638EC603b8B6B0d75903902550B
-  - name: twitter
-    url: https://twitter.com/spacecatch_io
+  - name: x
+    url: https://x.com/spacecatch_io
   - name: telegram
     url: https://t.me/spacecatch_io
   - name: coinmarketcap

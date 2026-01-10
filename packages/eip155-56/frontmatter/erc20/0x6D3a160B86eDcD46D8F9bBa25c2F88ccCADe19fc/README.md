@@ -8,8 +8,8 @@ links:
     url: https://www.fwctoken.io/
   - name: explorer
     url: https://bscscan.com/token/0x6d3a160b86edcd46d8f9bba25c2f88cccade19fc
-  - name: twitter
-    url: https://twitter.com/fwcommunity_q2t
+  - name: x
+    url: https://x.com/fwcommunity_q2t
   - name: github
     url: https://github.com/Fwc-Token
   - name: telegram

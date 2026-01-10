@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xf520f5d709dcd40529caafc02b297e7225ff8372
   - name: github
     url: https://github.com/top1st/Moonwilly-Protocal/
-  - name: twitter
-    url: https://twitter.com/Moonwillycoin
+  - name: x
+    url: https://x.com/Moonwillycoin
   - name: reddit
     url: https://reddit.com/r/moonwilly
   - name: telegram

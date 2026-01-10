@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x1f3Af095CDa17d63cad238358837321e95FC5915
   - name: github
     url: https://github.com/Steemhunt/mint.club-contract
-  - name: twitter
-    url: https://twitter.com/MintClubPro
+  - name: x
+    url: https://x.com/MintClubPro
   - name: telegram
     url: https://t.me/mint_club
   - name: docs

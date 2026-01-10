@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD
   - name: github
     url: https://github.com/Loopring
-  - name: twitter
-    url: https://twitter.com/loopringorg
+  - name: x
+    url: https://x.com/loopringorg
   - name: reddit
     url: https://reddit.com/r/loopringorg/
   - name: blog

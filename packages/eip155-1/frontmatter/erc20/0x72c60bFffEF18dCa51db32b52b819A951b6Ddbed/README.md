@@ -6,8 +6,8 @@ links:
     url: https://shido.io/
   - name: explorer
     url: https://etherscan.io/token/0x72c60bFffEF18dCa51db32b52b819A951b6Ddbed
-  - name: twitter
-    url: https://twitter.com/ShidoGlobal
+  - name: x
+    url: https://x.com/ShidoGlobal
   - name: github
     url: https://github.com/ShidoGlobal
   - name: coinmarketcap

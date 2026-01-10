@@ -6,8 +6,8 @@ links:
     url: https://peshi.wtf/
   - name: explorer
     url: https://solscan.io/token/5LwseQRo8fsz4S3y7jbqqe5C7tZTz5PwhXNCHj13jLBi
-  - name: twitter
-    url: https://twitter.com/peshitoken
+  - name: x
+    url: https://x.com/peshitoken
 ---
 
 # PESHI

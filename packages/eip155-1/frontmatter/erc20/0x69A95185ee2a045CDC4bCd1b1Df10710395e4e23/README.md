@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x69A95185ee2a045CDC4bCd1b1Df10710395e4e23
   - name: github
     url: https://github.com/The-Poolz
-  - name: twitter
-    url: https://twitter.com/Poolz
+  - name: x
+    url: https://x.com/Poolz
   - name: telegram
     url: https://t.me/PoolzOfficialCommunity
   - name: discord

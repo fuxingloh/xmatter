@@ -6,8 +6,8 @@ links:
     url: https://babydogecoin.gg
   - name: explorer
     url: https://etherscan.io/token/0xAC8E13ecC30Da7Ff04b842f21A62a1fb0f10eBd5
-  - name: twitter
-    url: https://twitter.com/king_bdoge
+  - name: x
+    url: https://x.com/king_bdoge
   - name: github
     url: https://github.com/babydogecoingg
   - name: telegram

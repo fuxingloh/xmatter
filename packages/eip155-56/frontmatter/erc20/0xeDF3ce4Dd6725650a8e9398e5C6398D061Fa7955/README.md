@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xeDF3ce4Dd6725650a8e9398e5C6398D061Fa7955
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/vempire-ddao/
-  - name: twitter
-    url: https://twitter.com/vEmpiredigital
+  - name: x
+    url: https://x.com/vEmpiredigital
   - name: telegram
     url: https://t.me/vEmpirediscussion
   - name: facebook

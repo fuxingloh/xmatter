@@ -6,8 +6,8 @@ links:
     url: https://aidiverse.com
   - name: explorer
     url: https://etherscan.io/token/0xdA1E53E088023Fe4D1DC5a418581748f52CBd1b8
-  - name: twitter
-    url: https://twitter.com/AidiToken
+  - name: x
+    url: https://x.com/AidiToken
   - name: github
     url: https://github.com/AidiFinance/Aidiverse-Contracts
   - name: telegram

@@ -6,8 +6,8 @@ links:
     url: https://lockin.wtf/
   - name: explorer
     url: https://solscan.io/token/8Ki8DpuWNxu9VsS3kQbarsCWMcFGWkzzA8pUPto9zBd5
-  - name: twitter
-    url: https://twitter.com/LockinONCHAIN
+  - name: x
+    url: https://x.com/LockinONCHAIN
   - name: coingecko
     url: https://coingecko.com/en/coins/lock-in
 ---

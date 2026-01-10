@@ -8,8 +8,8 @@ links:
     url: https://app.hop.exchange/
   - name: explorer
     url: https://etherscan.io/token/0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC
-  - name: twitter
-    url: https://twitter.com/HopProtocol
+  - name: x
+    url: https://x.com/HopProtocol
   - name: github
     url: https://github.com/hop-protocol
   - name: docs

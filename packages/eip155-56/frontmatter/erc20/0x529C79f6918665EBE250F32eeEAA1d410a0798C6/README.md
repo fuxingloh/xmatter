@@ -6,8 +6,8 @@ links:
     url: https://www.catboy.io/
   - name: explorer
     url: https://bscscan.com/token/0x529C79f6918665EBE250F32eeEAA1d410a0798C6
-  - name: twitter
-    url: https://twitter.com/hypergpt
+  - name: x
+    url: https://x.com/hypergpt
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/hypergpt/
 ---

@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x903bEF1736CDdf2A537176cf3C64579C3867A881
   - name: github
     url: https://github.com/ichifarm
-  - name: twitter
-    url: https://twitter.com/ichifoundation
+  - name: x
+    url: https://x.com/ichifoundation
   - name: telegram
     url: https://t.me/ichifarm
   - name: medium

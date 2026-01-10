@@ -9,8 +9,8 @@ links:
     url: https://www.apiinu.com/
   - name: explorer
     url: https://bscscan.com/token/0xa1943bc4a417ffd2e9e11a97383fa3f9548291c3
-  - name: twitter
-    url: https://twitter.com/apiinu
+  - name: x
+    url: https://x.com/apiinu
   - name: github
     url: https://github.com/apiinu
   - name: telegram

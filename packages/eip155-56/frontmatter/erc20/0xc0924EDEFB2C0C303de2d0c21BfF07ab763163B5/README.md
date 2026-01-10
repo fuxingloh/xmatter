@@ -10,8 +10,8 @@ links:
     url: https://docs.steamexchange.ca
   - name: telegram
     url: https://t.me/SteamXchangeOfficial
-  - name: twitter
-    url: https://twitter.com/Steam_Exchange
+  - name: x
+    url: https://x.com/Steam_Exchange
   - name: youtube
     url: https://youtube.com/channel/UC8xL6IB_C51G2GuvYLZJexw
   - name: facebook

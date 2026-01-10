@@ -9,8 +9,8 @@ links:
     url: https://quint.io/
   - name: explorer
     url: https://bscscan.com/token/0x64619f611248256F7F4b72fE83872F89d5d60d64
-  - name: twitter
-    url: https://twitter.com/projectquint
+  - name: x
+    url: https://x.com/projectquint
   - name: telegram
     url: https://t.me/projectquint
   - name: coinmarketcap

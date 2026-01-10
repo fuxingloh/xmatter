@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x31A9042dCE0C13975D04d0E9758Cb7B596F0dD43
   - name: telegram
     url: https://t.me/Burn1Coin
-  - name: twitter
-    url: https://twitter.com/Burn1Coin
+  - name: x
+    url: https://x.com/Burn1Coin
   - name: reddit
     url: https://reddit.com/r/Burn1Coin/
   - name: facebook

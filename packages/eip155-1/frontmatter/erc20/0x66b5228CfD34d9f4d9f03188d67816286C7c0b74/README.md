@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x66b5228CfD34d9f4d9f03188d67816286C7c0b74
   - name: telegram
     url: https://t.me/voltdefi
-  - name: twitter
-    url: https://twitter.com/DEFIVOLT
+  - name: x
+    url: https://x.com/DEFIVOLT
 ---
 
 # VOLT.WIN

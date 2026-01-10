@@ -1,0 +1,13 @@
+---
+symbol: FAKE USDT
+decimals: 18
+links:
+  - name: website
+    url: https://bscscan.com/address/0x6160a6ba050a5b5a63e5b64c4eb03961582dbb3f
+  - name: explorer
+    url: https://bscscan.com/token/0x6160a6BA050A5B5A63E5b64C4eb03961582dbB3F
+---
+
+# FAKE USDT
+
+FAKE USDT

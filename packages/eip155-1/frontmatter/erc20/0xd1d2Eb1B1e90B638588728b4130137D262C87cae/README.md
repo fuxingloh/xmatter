@@ -9,8 +9,8 @@ links:
     url: https://gala.games
   - name: explorer
     url: https://etherscan.io/token/0xd1d2Eb1B1e90B638588728b4130137D262C87cae
-  - name: twitter
-    url: https://twitter.com/GoGalaGames
+  - name: x
+    url: https://x.com/GoGalaGames
   - name: telegram
     url: https://t.me/GoGalaGames
   - name: discord

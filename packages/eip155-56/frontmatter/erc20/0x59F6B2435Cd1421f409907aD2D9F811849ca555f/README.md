@@ -8,8 +8,8 @@ links:
     url: https://tankbattle.co/
   - name: explorer
     url: https://bscscan.com/token/0x59F6B2435Cd1421f409907aD2D9F811849ca555f
-  - name: twitter
-    url: https://twitter.com/tankbattleco
+  - name: x
+    url: https://x.com/tankbattleco
   - name: github
     url: https://github.com/tankbattlex/
   - name: telegram

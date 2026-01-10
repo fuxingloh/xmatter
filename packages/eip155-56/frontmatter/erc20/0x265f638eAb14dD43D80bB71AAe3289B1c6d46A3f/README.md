@@ -6,8 +6,8 @@ links:
     url: https://www.binancedog.net/
   - name: explorer
     url: https://bscscan.com/token/0x265f638eAb14dD43D80bB71AAe3289B1c6d46A3f
-  - name: twitter
-    url: https://twitter.com/BidogCoin
+  - name: x
+    url: https://x.com/BidogCoin
   - name: telegram
     url: https://t.me/BidogCoin
   - name: discord

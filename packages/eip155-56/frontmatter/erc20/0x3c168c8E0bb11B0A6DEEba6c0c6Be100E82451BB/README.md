@@ -10,8 +10,8 @@ links:
     url: https://t.me/shrewdotcom
   - name: youtube
     url: https://youtube.com/channel/UCmregyFHLDxd5jR4sXgCwEQ
-  - name: twitter
-    url: https://twitter.com/shrewdotcom
+  - name: x
+    url: https://x.com/shrewdotcom
   - name: reddit
     url: https://reddit.com/r/shrewtoken/new/
   - name: coingecko

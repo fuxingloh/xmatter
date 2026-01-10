@@ -8,12 +8,12 @@ links:
     url: https://arawtoken.io/
   - name: explorer
     url: https://optimistic.etherscan.io/token/0xCA7661Ba64A7667E3006c421C181502d545D1911
-  - name: twitter
-    url: https://twitter.com/arawtoken
-  - name: telegram
-    url: https://t.me/ArawTokenOfficial
+  - name: x
+    url: https://x.com/arawtoken
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/araw/
+  - name: telegram
+    url: https://t.me/ArawTokenOfficial
 ---
 
 # ARAW

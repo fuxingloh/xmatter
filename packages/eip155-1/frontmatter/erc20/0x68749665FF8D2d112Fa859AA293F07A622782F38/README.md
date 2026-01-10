@@ -6,8 +6,8 @@ links:
     url: https://gold.tether.to/
   - name: explorer
     url: https://etherscan.io/token/0x68749665FF8D2d112Fa859AA293F07A622782F38
-  - name: twitter
-    url: https://twitter.com/tethergold/
+  - name: x
+    url: https://x.com/tethergold/
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/tether-gold/
 ---

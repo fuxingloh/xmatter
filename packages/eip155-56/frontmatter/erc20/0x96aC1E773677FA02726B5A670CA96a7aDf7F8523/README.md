@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x96aC1E773677FA02726B5A670CA96a7aDf7F8523
   - name: github
     url: https://github.com/minihollywooddoge
-  - name: twitter
-    url: https://twitter.com/DogeHollywood
+  - name: x
+    url: https://x.com/DogeHollywood
   - name: telegram
     url: https://t.me/MiniHollywoodDoge
   - name: coingecko

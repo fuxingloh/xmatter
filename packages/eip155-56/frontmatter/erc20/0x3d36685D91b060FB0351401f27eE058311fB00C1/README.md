@@ -6,8 +6,8 @@ links:
     url: https://costcodog.xyz
   - name: explorer
     url: https://bscscan.com/token/0x3d36685d91b060fb0351401f27ee058311fb00c1
-  - name: twitter
-    url: https://twitter.com/CostcoDog150
+  - name: x
+    url: https://x.com/CostcoDog150
 ---
 
 # Costco Hot Dog

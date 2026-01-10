@@ -6,8 +6,8 @@ links:
     url: https://edgematrix.pro/
   - name: explorer
     url: https://arbiscan.io/token/0xdfb8be6f8c87f74295a87de951974362cedcfa30
-  - name: twitter
-    url: https://twitter.com/EMCprotocol
+  - name: x
+    url: https://x.com/EMCprotocol
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/edge-matrix-computing/
 ---

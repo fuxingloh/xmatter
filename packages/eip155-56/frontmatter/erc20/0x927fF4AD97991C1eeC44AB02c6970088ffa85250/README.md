@@ -6,8 +6,8 @@ links:
     url: https://www.xtremcoin.com
   - name: explorer
     url: https://bscscan.com/token/0x927fF4AD97991C1eeC44AB02c6970088ffa85250
-  - name: twitter
-    url: https://twitter.com/xtremcoin
+  - name: x
+    url: https://x.com/xtremcoin
   - name: github
     url: https://github.com/xtremcoin
   - name: telegram

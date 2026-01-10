@@ -8,8 +8,8 @@ links:
     url: https://agatech.io
   - name: explorer
     url: https://bscscan.com/token/0xb427e47e8fDD678278d2A91EEaC014ffcDDaF029
-  - name: twitter
-    url: https://twitter.com/agatechsystems
+  - name: x
+    url: https://x.com/agatechsystems
   - name: github
     url: https://github.com/AgaTechSystems/
   - name: telegram

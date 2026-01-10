@@ -10,8 +10,8 @@ links:
     url: https://t.me/yourmagnetgold/
   - name: facebook
     url: https://facebook.com/yourmagnetgold/
-  - name: twitter
-    url: https://twitter.com/YMagnetgold
+  - name: x
+    url: https://x.com/YMagnetgold
   - name: youtube
     url: https://youtube.com/channel/UClEqjwDYM9DWOa2yyXB1luQ
   - name: whitepaper

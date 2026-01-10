@@ -6,8 +6,8 @@ links:
     url: https://wsbdapp.com
   - name: explorer
     url: https://bscscan.com/token/0x22168882276e5D5e1da694343b41DD7726eeb288
-  - name: twitter
-    url: https://twitter.com/WSBDapp
+  - name: x
+    url: https://x.com/WSBDapp
   - name: medium
     url: https://wsbdapp.medium.com/
   - name: telegram

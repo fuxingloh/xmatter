@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xa753d241ffce10a3570eda72f6561c04b1f9ae77
   - name: whitepaper
     url: https://titscoin.io/whitepaper
-  - name: twitter
-    url: https://twitter.com/titsfortits2
+  - name: x
+    url: https://x.com/titsfortits2
 ---
 
 # TitsV2

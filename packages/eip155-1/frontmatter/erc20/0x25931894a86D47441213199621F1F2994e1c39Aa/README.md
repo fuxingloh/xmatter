@@ -6,8 +6,8 @@ links:
     url: https://www.chaingpt.org/
   - name: explorer
     url: https://etherscan.io/token/0x25931894a86d47441213199621f1f2994e1c39aa
-  - name: twitter
-    url: https://twitter.com/Chain_GPT
+  - name: x
+    url: https://x.com/Chain_GPT
   - name: telegram
     url: https://t.me/chaingpt
   - name: github

@@ -8,8 +8,8 @@ links:
     url: https://www.magpiexyz.io/
   - name: explorer
     url: https://bscscan.com/token/0xd06716e1ff2e492cc5034c2e81805562dd3b45fa
-  - name: twitter
-    url: https://twitter.com/magpiexyz_io
+  - name: x
+    url: https://x.com/magpiexyz_io
   - name: telegram
     url: https://t.me/magpiexyz_official
   - name: telegram_news

@@ -8,8 +8,8 @@ links:
     url: https://pnb.world/
   - name: explorer
     url: https://bscscan.com/token/0xf5bde7eb378661f04c841b22ba057326b0370153
-  - name: twitter
-    url: https://twitter.com/pnbworld
+  - name: x
+    url: https://x.com/pnbworld
   - name: telegram
     url: https://t.me/pinkbnb
   - name: coinmarketcap

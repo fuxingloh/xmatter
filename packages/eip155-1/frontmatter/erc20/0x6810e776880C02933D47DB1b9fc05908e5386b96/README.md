@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x6810e776880C02933D47DB1b9fc05908e5386b96
   - name: github
     url: https://github.com/gnosis
-  - name: twitter
-    url: https://twitter.com/gnosisPM
+  - name: x
+    url: https://x.com/gnosisPM
   - name: reddit
     url: https://reddit.com/r/gnosisPM/
   - name: blog

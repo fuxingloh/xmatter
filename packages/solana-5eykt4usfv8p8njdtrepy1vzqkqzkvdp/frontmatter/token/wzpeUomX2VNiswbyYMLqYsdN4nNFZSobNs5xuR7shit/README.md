@@ -6,8 +6,8 @@ links:
     url: https://shitcoin.co/
   - name: explorer
     url: https://solscan.io/token/wzpeUomX2VNiswbyYMLqYsdN4nNFZSobNs5xuR7shit
-  - name: twitter
-    url: https://twitter.com/shitcoin
+  - name: x
+    url: https://x.com/shitcoin
   - name: telegram
     url: https://t.me/shitcoin
 ---

@@ -8,8 +8,8 @@ links:
     url: https://dlycrypto.com/
   - name: explorer
     url: https://polygonscan.com/token/0x1659fFb2d40DfB1671Ac226A0D9Dcc95A774521A
-  - name: twitter
-    url: https://twitter.com/MiDailyWallet
+  - name: x
+    url: https://x.com/MiDailyWallet
   - name: github
     url: https://github.com/miDaily/Daily-COP
   - name: whitepaper

@@ -8,8 +8,8 @@ links:
     url: https://www.era7.io
   - name: explorer
     url: https://bscscan.com/token/0x6f9F0c4ad9Af7EbD61Ac5A1D4e0F2227F7B0E5f9
-  - name: twitter
-    url: https://twitter.com/Era7_official
+  - name: x
+    url: https://x.com/Era7_official
   - name: telegram
     url: https://t.me/joinchat/aF3LUIC8PKVhNDA6
   - name: reddit

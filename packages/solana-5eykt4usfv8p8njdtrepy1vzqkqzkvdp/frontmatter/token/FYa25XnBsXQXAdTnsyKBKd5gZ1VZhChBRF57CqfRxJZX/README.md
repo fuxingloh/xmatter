@@ -6,8 +6,8 @@ links:
     url: https://monkeyhaircut.com/
   - name: explorer
     url: https://solscan.io/token/FYa25XnBsXQXAdTnsyKBKd5gZ1VZhChBRF57CqfRxJZX
-  - name: twitter
-    url: https://twitter.com/monkhairsol
+  - name: x
+    url: https://x.com/monkhairsol
   - name: telegram
     url: https://t.me/monkeyhaircut
 ---

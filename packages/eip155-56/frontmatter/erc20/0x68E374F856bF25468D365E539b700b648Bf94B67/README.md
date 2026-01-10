@@ -10,8 +10,8 @@ links:
     url: https://t.me/MistNFT
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/mist/
-  - name: twitter
-    url: https://twitter.com/MistNft
+  - name: x
+    url: https://x.com/MistNft
 ---
 
 # Mist

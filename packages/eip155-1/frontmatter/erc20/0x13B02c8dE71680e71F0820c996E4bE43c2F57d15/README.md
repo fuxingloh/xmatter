@@ -8,8 +8,8 @@ links:
     url: https://mirror.finance
   - name: explorer
     url: https://etherscan.io/token/0x13B02c8dE71680e71F0820c996E4bE43c2F57d15
-  - name: twitter
-    url: https://twitter.com/MirrorProtocol
+  - name: x
+    url: https://x.com/MirrorProtocol
   - name: telegram
     url: https://t.me/mirror_protocol
   - name: discord

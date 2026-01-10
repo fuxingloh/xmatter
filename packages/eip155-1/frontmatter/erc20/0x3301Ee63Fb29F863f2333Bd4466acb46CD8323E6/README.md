@@ -10,8 +10,8 @@ links:
     url: https://akita.network
   - name: explorer
     url: https://etherscan.io/token/0x3301Ee63Fb29F863f2333Bd4466acb46CD8323E6
-  - name: twitter
-    url: https://twitter.com/Akita_network
+  - name: x
+    url: https://x.com/Akita_network
   - name: whitepaper
     url: https://akita-dao.gitbook.io/akita-dao/
   - name: coinmarketcap

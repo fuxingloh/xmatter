@@ -6,8 +6,8 @@ links:
     url: https://orca.so/
   - name: explorer
     url: https://solscan.io/token/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE
-  - name: twitter
-    url: https://twitter.com/orca_so
+  - name: x
+    url: https://x.com/orca_so
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/orca/
   - name: coingecko

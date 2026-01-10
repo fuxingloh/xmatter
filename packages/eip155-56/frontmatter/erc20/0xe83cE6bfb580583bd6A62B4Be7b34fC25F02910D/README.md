@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xe83cE6bfb580583bd6A62B4Be7b34fC25F02910D
   - name: telegram
     url: https://t.me/abbcfoundation
-  - name: twitter
-    url: https://twitter.com/abbcfoundation
+  - name: x
+    url: https://x.com/abbcfoundation
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/abbc-coin/
 ---

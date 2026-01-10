@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x31D0a7AdA4d4c131Eb612DB48861211F63e57610
   - name: github
     url: https://github.com/bscstarter
-  - name: twitter
-    url: https://twitter.com/bscstarter
+  - name: x
+    url: https://x.com/bscstarter
   - name: telegram
     url: https://t.me/bscstarter
   - name: medium

@@ -10,8 +10,8 @@ links:
     url: https://tronscan.io/#/token20/TFFxGGpVqxCDvo6upD3od5dFNtiRMv4Hc4
   - name: github
     url: https://github.com/remitt-repos
-  - name: twitter
-    url: https://twitter.com/remitt_bot
+  - name: x
+    url: https://x.com/remitt_bot
   - name: facebook
     url: https://facebook.com/Remitt-104461518999781
   - name: whitepaper

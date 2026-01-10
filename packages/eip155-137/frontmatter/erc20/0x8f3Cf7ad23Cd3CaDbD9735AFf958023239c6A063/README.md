@@ -6,8 +6,8 @@ links:
     url: http://makerdao.com
   - name: explorer
     url: https://polygonscan.com/token/0x8f3cf7ad23cd3cadbd9735aff958023239c6a063
-  - name: twitter
-    url: https://twitter.com/MakerDAO
+  - name: x
+    url: https://x.com/MakerDAO
   - name: reddit
     url: https://reddit.com/r/MakerDAO/
   - name: blog

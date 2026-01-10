@@ -6,8 +6,8 @@ links:
     url: https://www.opx.finance/
   - name: explorer
     url: https://optimistic.etherscan.io/token/0xcdb4bb51801a1f399d4402c61bc098a72c382e65
-  - name: twitter
-    url: https://twitter.com/opxfinance
+  - name: x
+    url: https://x.com/opxfinance
   - name: telegram
     url: https://t.me/opxfinance
 ---

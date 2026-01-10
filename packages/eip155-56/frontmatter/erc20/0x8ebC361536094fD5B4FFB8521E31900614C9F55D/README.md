@@ -6,8 +6,8 @@ links:
     url: https://konstellation.tech/
   - name: explorer
     url: https://bscscan.com/token/0x8ebC361536094fD5B4FFB8521E31900614C9F55D
-  - name: twitter
-    url: https://twitter.com/KNSTL_TECH
+  - name: x
+    url: https://x.com/KNSTL_TECH
   - name: telegram
     url: https://t.me/Konstellation
 ---

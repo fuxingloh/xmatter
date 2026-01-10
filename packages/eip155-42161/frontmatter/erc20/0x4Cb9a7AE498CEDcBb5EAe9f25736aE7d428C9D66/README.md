@@ -8,8 +8,8 @@ links:
     url: https://arbiscan.io/token/0x4Cb9a7AE498CEDcBb5EAe9f25736aE7d428C9D66
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/xai-games/
-  - name: twitter
-    url: https://twitter.com/xai_games
+  - name: x
+    url: https://x.com/xai_games
 ---
 
 # Xai

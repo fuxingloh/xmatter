@@ -6,8 +6,8 @@ links:
     url: https://cleanocean.io/
   - name: explorer
     url: https://bscscan.com/token/0x579F11C75Eb4e47F5290122e87CA411644aDCD97
-  - name: twitter
-    url: https://twitter.com/cleanoceantoken
+  - name: x
+    url: https://x.com/cleanoceantoken
   - name: telegram
     url: https://t.me/cleanocean
   - name: reddit

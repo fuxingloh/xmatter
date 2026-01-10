@@ -6,8 +6,8 @@ links:
     url: https://taboo.community/
   - name: explorer
     url: https://bscscan.com/token/0x9abDbA20EdFbA06B782126b4D8d72A5853918FD0
-  - name: twitter
-    url: https://twitter.com/TABOOOFFICIAL2
+  - name: x
+    url: https://x.com/TABOOOFFICIAL2
   - name: telegram
     url: https://t.me/joinchat/TwoPHvu0f6sxZTA9
   - name: telegram_news

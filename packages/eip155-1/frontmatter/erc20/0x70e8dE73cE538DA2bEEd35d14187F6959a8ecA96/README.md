@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x70e8de73ce538da2beed35d14187f6959a8eca96
   - name: github
     url: https://github.com/Xfers/StraitsX-tokens/
-  - name: twitter
-    url: https://twitter.com/StraitsX
+  - name: x
+    url: https://x.com/StraitsX
 ---
 
 # XSGD

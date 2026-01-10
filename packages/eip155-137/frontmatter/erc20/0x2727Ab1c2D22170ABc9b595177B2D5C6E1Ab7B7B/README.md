@@ -8,8 +8,8 @@ links:
     url: https://cartesi.io
   - name: explorer
     url: https://polygonscan.com/token/0x2727Ab1c2D22170ABc9b595177B2D5C6E1Ab7B7B
-  - name: twitter
-    url: https://twitter.com/cartesiproject
+  - name: x
+    url: https://x.com/cartesiproject
   - name: telegram
     url: https://t.me/cartesiannouncements
   - name: coinmarketcap

@@ -10,8 +10,8 @@ links:
     url: https://coingecko.com/en/coins/alkemi-network-dao-token
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/alkemi-network-dao-token/
-  - name: twitter
-    url: https://twitter.com/AlkemiNetwork
+  - name: x
+    url: https://x.com/AlkemiNetwork
   - name: telegram
     url: https://t.me/AlkemiNetwork
   - name: discord

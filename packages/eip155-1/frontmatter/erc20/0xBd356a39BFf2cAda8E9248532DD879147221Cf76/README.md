@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xBd356a39BFf2cAda8E9248532DD879147221Cf76
   - name: github
     url: https://github.com/wom-protocol
-  - name: twitter
-    url: https://twitter.com/WOMProtocol
+  - name: x
+    url: https://x.com/WOMProtocol
   - name: telegram
     url: https://t.me/WOMProtocolChat
   - name: whitepaper

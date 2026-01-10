@@ -8,8 +8,8 @@ links:
     url: https://mysterbox.io
   - name: explorer
     url: https://bscscan.com/token/0xcdcaef3ce3a138c47ddb0b04a9b04649c13d50ed
-  - name: twitter
-    url: https://twitter.com/mysterbox_io
+  - name: x
+    url: https://x.com/mysterbox_io
   - name: github
     url: https://github.com/mysterboxio/Mystery
   - name: telegram

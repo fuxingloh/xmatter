@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x514910771AF9Ca656af840dff83E8264EcF986CA
   - name: github
     url: https://github.com/smartcontractkit/chainlink
-  - name: twitter
-    url: https://twitter.com/chainlink
+  - name: x
+    url: https://x.com/chainlink
   - name: reddit
     url: https://reddit.com/r/chainlink
   - name: whitepaper

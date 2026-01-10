@@ -13,8 +13,8 @@ links:
     url: https://basescan.org/token/0x24569d33653c404f90aF10A2b98d6E0030D3d267
   - name: medium
     url: https://ultimatechampions.medium.com/
-  - name: twitter
-    url: https://twitter.com/Unagi_studio
+  - name: x
+    url: https://x.com/Unagi_studio
 ---
 
 # Unagi Token (UNA)

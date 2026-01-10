@@ -8,8 +8,8 @@ links:
     url: https://www.hello.one/
   - name: explorer
     url: https://bscscan.com/token/0x0F1cBEd8EFa0E012AdbCCB1638D0aB0147D5Ac00
-  - name: twitter
-    url: https://twitter.com/thehellolabs
+  - name: x
+    url: https://x.com/thehellolabs
   - name: github
     url: https://github.com/Hello1Official
   - name: telegram

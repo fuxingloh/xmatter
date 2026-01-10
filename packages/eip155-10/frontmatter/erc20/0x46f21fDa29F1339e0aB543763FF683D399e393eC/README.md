@@ -6,8 +6,8 @@ links:
     url: https://app.openxswap.exchange/PerpetualBonds
   - name: explorer
     url: https://optimistic.etherscan.io/token/0x46f21fda29f1339e0ab543763ff683d399e393ec
-  - name: twitter
-    url: https://twitter.com/OpenXSwap
+  - name: x
+    url: https://x.com/OpenXSwap
   - name: telegram
     url: https://t.me/OpenXSwap
 ---

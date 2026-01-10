@@ -16,8 +16,8 @@ links:
     url: https://t.me/securedship
   - name: telegram_news
     url: https://t.me/securedshipannouncement
-  - name: twitter
-    url: https://twitter.com/SecuredShip
+  - name: x
+    url: https://x.com/SecuredShip
   - name: discord
     url: https://discord.com/invite/YDggVaD5cc
   - name: facebook

@@ -10,8 +10,8 @@ links:
     url: https://reddit.com/r/RoboDogeCoin/
   - name: telegram
     url: https://t.me/RoboDoge_Coin
-  - name: twitter
-    url: https://twitter.com/https://twitter.com/RobodogeC
+  - name: x
+    url: https://x.com/https://x.com/RobodogeC
 ---
 
 # RoboDoge Coin

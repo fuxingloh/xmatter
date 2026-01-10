@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xf9c27de474cce832fad75107853b78838888ac11
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/apm-coin/
-  - name: twitter
-    url: https://twitter.com/apmcoin
+  - name: x
+    url: https://x.com/apmcoin
   - name: telegram
     url: https://t.me/apmcoin_official
 ---

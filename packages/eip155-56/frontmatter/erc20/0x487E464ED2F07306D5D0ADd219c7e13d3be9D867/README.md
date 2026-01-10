@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x487e464ed2f07306d5d0add219c7e13d3be9d867
   - name: discord
     url: https://discord.com/invite/Q3j7yzsm
-  - name: twitter
-    url: https://twitter.com/The_x_Hunter_
+  - name: x
+    url: https://x.com/The_x_Hunter_
   - name: telegram
     url: https://t.me/X_Hunter_tg
 ---

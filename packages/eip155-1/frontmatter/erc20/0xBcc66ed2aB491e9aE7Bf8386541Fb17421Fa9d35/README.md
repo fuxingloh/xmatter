@@ -8,8 +8,8 @@ links:
     url: https://linktr.ee/skeenee
   - name: explorer
     url: https://etherscan.io/token/0xBcc66ed2aB491e9aE7Bf8386541Fb17421Fa9d35
-  - name: twitter
-    url: https://twitter.com/skeenee_art
+  - name: x
+    url: https://x.com/skeenee_art
   - name: discord
     url: https://discord.com/invite/DZm9tY3
   - name: youtube

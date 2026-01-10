@@ -6,8 +6,8 @@ links:
     url: https://www.biaocoinsol.xyz/
   - name: explorer
     url: https://solscan.io/token/3W52uCb8NW8ruMF9mmJX3oKiYAjdPai4633srsZFQCS6
-  - name: twitter
-    url: https://twitter.com/biaocoinsol
+  - name: x
+    url: https://x.com/biaocoinsol
   - name: telegram
     url: https://t.me/biaocoinsol_cn
 ---

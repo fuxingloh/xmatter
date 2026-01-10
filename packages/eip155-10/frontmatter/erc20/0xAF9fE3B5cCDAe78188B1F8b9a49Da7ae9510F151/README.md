@@ -9,8 +9,8 @@ links:
     url: https://dhedge.org
   - name: explorer
     url: https://optimistic.etherscan.io/token/0xAF9fE3B5cCDAe78188B1F8b9a49Da7ae9510F151
-  - name: twitter
-    url: https://twitter.com/dHedgeOrg
+  - name: x
+    url: https://x.com/dHedgeOrg
   - name: github
     url: https://github.com/dhedge
   - name: telegram

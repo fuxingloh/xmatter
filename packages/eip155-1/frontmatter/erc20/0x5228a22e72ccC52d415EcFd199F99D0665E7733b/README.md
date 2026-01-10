@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x5228a22e72ccC52d415EcFd199F99D0665E7733b
   - name: github
     url: https://github.com/provable-things
-  - name: twitter
-    url: https://twitter.com/pToken pBTC
+  - name: x
+    url: https://x.com/pToken pBTC
   - name: telegram
     url: https://t.me/ptokens
   - name: reddit

@@ -9,8 +9,8 @@ links:
     url: https://babyapefunclub.com/
   - name: explorer
     url: https://bscscan.com/token/0x035ad59058c557be4532141fbcd60f0998fce413
-  - name: twitter
-    url: https://twitter.com/BabyApeFunClub
+  - name: x
+    url: https://x.com/BabyApeFunClub
   - name: telegram
     url: https://t.me/BabyApeFunClub
   - name: coinmarketcap

@@ -6,8 +6,8 @@ links:
     url: https://www.toman-irr.com/
   - name: explorer
     url: https://bscscan.com/token/0x7a532aa9a2ab86f6bd7e1dcd93d3fdd2b0b410a6
-  - name: twitter
-    url: https://twitter.com/IRR_Toman?s=20&t=rSm1Z7nA6bwkeYbXIVutjQ
+  - name: x
+    url: https://x.com/IRR_Toman?s=20&t=rSm1Z7nA6bwkeYbXIVutjQ
   - name: github
     url: https://github.com/toman_irr
   - name: telegram

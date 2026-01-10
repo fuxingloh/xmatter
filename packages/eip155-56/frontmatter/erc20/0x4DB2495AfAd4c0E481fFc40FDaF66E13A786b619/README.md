@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x4DB2495AfAd4c0E481fFc40FDaF66E13A786b619
   - name: telegram
     url: https://t.me/arixdex_official
-  - name: twitter
-    url: https://twitter.com/arixdexofficial
+  - name: x
+    url: https://x.com/arixdexofficial
 ---
 
 # ARIX Token

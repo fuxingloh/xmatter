@@ -8,8 +8,8 @@ links:
     url: https://tronscan.io/#/token20/TMnqP8yuZrKJFXN59KoVDthkmM3LRkiZXP
   - name: github
     url: https://github.com/polluxcoin2020/pox
-  - name: twitter
-    url: https://twitter.com/polluxcoin1
+  - name: x
+    url: https://x.com/polluxcoin1
   - name: telegram
     url: https://t.me/polluxcoinchat
   - name: facebook

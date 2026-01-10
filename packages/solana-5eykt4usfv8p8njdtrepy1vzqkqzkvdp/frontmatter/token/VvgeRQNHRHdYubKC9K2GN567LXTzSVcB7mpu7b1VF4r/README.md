@@ -6,8 +6,8 @@ links:
     url: https://bobecoin.com/
   - name: explorer
     url: https://solscan.io/token/VvgeRQNHRHdYubKC9K2GN567LXTzSVcB7mpu7b1VF4r
-  - name: twitter
-    url: https://twitter.com/bookofbilliesol
+  - name: x
+    url: https://x.com/bookofbilliesol
   - name: telegram
     url: https://t.me/BOBECOINCOMMUNITY
 ---

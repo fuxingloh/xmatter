@@ -6,8 +6,8 @@ links:
     url: https://www.herofi.io/
   - name: explorer
     url: https://bscscan.com/token/0xcfBb1BfA710cb2ebA070CC3beC0C35226FeA4BAF
-  - name: twitter
-    url: https://twitter.com/HeroFiio
+  - name: x
+    url: https://x.com/HeroFiio
   - name: telegram
     url: https://t.me/herofiofficial
   - name: telegram_news

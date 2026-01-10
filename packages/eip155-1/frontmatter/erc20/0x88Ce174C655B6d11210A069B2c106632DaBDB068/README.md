@@ -6,8 +6,8 @@ links:
     url: https://yawnsworld.com/
   - name: explorer
     url: https://etherscan.io/token/0x88Ce174C655B6d11210A069B2c106632DaBDB068
-  - name: twitter
-    url: https://twitter.com/yawnsworld
+  - name: x
+    url: https://x.com/yawnsworld
 ---
 
 # Yawn's World

@@ -6,8 +6,8 @@ links:
     url: https://www.babytroll.ai/
   - name: explorer
     url: https://bscscan.com/token/0x6ec07DbD9311975b8002079d70C6F6d9E3e1EE5C
-  - name: twitter
-    url: https://twitter.com/BabyTrollBsc
+  - name: x
+    url: https://x.com/BabyTrollBsc
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/baby-troll/
 ---

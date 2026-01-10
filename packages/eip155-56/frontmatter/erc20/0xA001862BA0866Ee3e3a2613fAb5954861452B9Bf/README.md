@@ -8,8 +8,8 @@ links:
     url: https://helloenhance.com
   - name: explorer
     url: https://bscscan.com/token/0xA001862BA0866Ee3e3a2613fAb5954861452B9Bf
-  - name: twitter
-    url: https://twitter.com/enhancetoken
+  - name: x
+    url: https://x.com/enhancetoken
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/enhancetoken/
   - name: reddit

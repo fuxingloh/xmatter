@@ -1,6 +1,8 @@
 ---
 symbol: RIO
 decimals: 18
+tags:
+  - defi
 links:
   - name: website
     url: https://realio.fund

@@ -8,8 +8,8 @@ links:
     url: https://owldao.io
   - name: explorer
     url: https://polygonscan.com/token/0x9085B4d52c3e0B8B6F9AF6213E85A433c7D76f19
-  - name: twitter
-    url: https://twitter.com/OWLDAOio
+  - name: x
+    url: https://x.com/OWLDAOio
   - name: telegram
     url: https://t.me/owlDAO
   - name: discord

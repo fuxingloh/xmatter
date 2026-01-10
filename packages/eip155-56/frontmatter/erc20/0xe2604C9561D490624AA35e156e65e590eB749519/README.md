@@ -6,8 +6,8 @@ links:
     url: https://goldminer.games/
   - name: explorer
     url: https://bscscan.com/token/0xe2604c9561d490624aa35e156e65e590eb749519
-  - name: twitter
-    url: https://twitter.com/DeFiGoldMiner
+  - name: x
+    url: https://x.com/DeFiGoldMiner
   - name: telegram
     url: https://t.me/GoldMiner_Game
   - name: medium

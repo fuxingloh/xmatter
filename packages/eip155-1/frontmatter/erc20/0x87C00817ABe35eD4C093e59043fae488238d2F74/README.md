@@ -6,8 +6,8 @@ links:
     url: https://yoink.rocks/
   - name: explorer
     url: https://etherscan.io/token/0x87C00817ABe35eD4C093e59043fae488238d2F74
-  - name: twitter
-    url: https://twitter.com/yoinknetwork
+  - name: x
+    url: https://x.com/yoinknetwork
   - name: telegram
     url: https://t.me/yoinkofficial
 ---

@@ -10,8 +10,8 @@ links:
     url: https://www.dypius.com/
   - name: explorer
     url: https://etherscan.io/token/0x39b46B212bDF15b42B166779b9d1787A68b9D0c3
-  - name: twitter
-    url: https://twitter.com/dypius
+  - name: x
+    url: https://x.com/dypius
   - name: github
     url: https://github.com/dypfinance/
   - name: medium

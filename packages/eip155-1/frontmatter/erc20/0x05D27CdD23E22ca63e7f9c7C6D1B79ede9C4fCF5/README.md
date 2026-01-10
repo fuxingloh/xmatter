@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x05D27CdD23E22ca63e7f9c7C6D1B79ede9C4fCF5
   - name: github
     url: https://github.com/yfpi
-  - name: twitter
-    url: https://twitter.com/YFPIncome
+  - name: x
+    url: https://x.com/YFPIncome
   - name: telegram
     url: https://t.me/YF_PI
   - name: medium

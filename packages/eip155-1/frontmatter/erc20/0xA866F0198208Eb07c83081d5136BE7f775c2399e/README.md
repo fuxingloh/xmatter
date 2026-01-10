@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xA866F0198208Eb07c83081d5136BE7f775c2399e
   - name: github
     url: https://github.com/KORE-Vault
-  - name: twitter
-    url: https://twitter.com/kvault_finance
+  - name: x
+    url: https://x.com/kvault_finance
   - name: telegram
     url: https://t.me/kore_vault
 ---

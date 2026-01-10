@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x53b3338E3345758aE88b930e3d9759A95C5cE05c
   - name: github
     url: https://github.com/GenshinFloki/GenshinFloki
-  - name: twitter
-    url: https://twitter.com/GenshinFloki
+  - name: x
+    url: https://x.com/GenshinFloki
   - name: telegram
     url: https://t.me/GenshinFlokiOfficial
   - name: coinmarketcap

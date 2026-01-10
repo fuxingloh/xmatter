@@ -6,8 +6,8 @@ links:
     url: https://www.thogonsol.com
   - name: explorer
     url: https://solscan.io/token/5CqfXex1knfRiozwDtgFFNaiGR9TsmSUcWDNUTUGZQru
-  - name: twitter
-    url: https://twitter.com/THOGonSOL
+  - name: x
+    url: https://x.com/THOGonSOL
 ---
 
 # Theory Of Gravity

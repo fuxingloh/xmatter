@@ -8,8 +8,8 @@ links:
     url: https://pathfund.net
   - name: explorer
     url: https://bscscan.com/token/0x3c0b6fcb2f62990f477d9af611e4da3ff1f08222
-  - name: twitter
-    url: https://twitter.com/PathFund
+  - name: x
+    url: https://x.com/PathFund
   - name: telegram
     url: https://t.me/PathFund
   - name: reddit

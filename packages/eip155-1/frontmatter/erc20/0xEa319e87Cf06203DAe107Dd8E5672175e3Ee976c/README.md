@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xEa319e87Cf06203DAe107Dd8E5672175e3Ee976c
   - name: github
     url: https://github.com/SURF-Finance/contracts
-  - name: twitter
-    url: https://twitter.com/surf_defi
+  - name: x
+    url: https://x.com/surf_defi
   - name: telegram
     url: https://t.me/surf_finance
   - name: discord

@@ -8,8 +8,8 @@ links:
     url: https://woofsolana.com/
   - name: explorer
     url: https://solscan.io/token/9nEqaUcb16sQ3Tn1psbkWqyhPdLmfHWjKGymREjsAgTE
-  - name: twitter
-    url: https://twitter.com/WoofSolana
+  - name: x
+    url: https://x.com/WoofSolana
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/woof/
   - name: coingecko

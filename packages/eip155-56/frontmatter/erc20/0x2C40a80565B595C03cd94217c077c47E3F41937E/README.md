@@ -6,8 +6,8 @@ links:
     url: http://www.bscironyman.com
   - name: explorer
     url: https://bscscan.com/token/0x2c40a80565b595c03cd94217c077c47e3f41937e
-  - name: twitter
-    url: https://twitter.com/BSC_IronyMan
+  - name: x
+    url: https://x.com/BSC_IronyMan
   - name: telegram
     url: https://t.me/IronyManBSC
 ---

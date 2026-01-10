@@ -8,8 +8,8 @@ links:
     url: https://mavia.com
   - name: explorer
     url: https://etherscan.io/token/0x24fcFC492C1393274B6bcd568ac9e225BEc93584
-  - name: twitter
-    url: https://twitter.com/MaviaGame
+  - name: x
+    url: https://x.com/MaviaGame
   - name: telegram_news
     url: https://t.me/MaviaAnnouncements
   - name: discord

@@ -6,8 +6,8 @@ links:
     url: https://aeron.aero
   - name: explorer
     url: https://bscscan.com/token/0x0C37Bcf456bC661C14D596683325623076D7e283
-  - name: twitter
-    url: https://twitter.com/aeron_aero
+  - name: x
+    url: https://x.com/aeron_aero
   - name: telegram
     url: https://t.me/aeronaero
   - name: coingecko

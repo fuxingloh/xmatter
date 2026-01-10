@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x33A3d962955A3862C8093D1273344719f03cA17C
   - name: github
     url: https://github.com/sporeproject
-  - name: twitter
-    url: https://twitter.com/sporeproject
+  - name: x
+    url: https://x.com/sporeproject
   - name: telegram
     url: https://t.me/sporefinanceofficial
   - name: discord

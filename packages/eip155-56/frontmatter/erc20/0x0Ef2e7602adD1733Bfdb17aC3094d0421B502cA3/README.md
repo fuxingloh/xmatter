@@ -8,8 +8,8 @@ links:
     url: https://e.cash/
   - name: explorer
     url: https://bscscan.com/token/0x0ef2e7602add1733bfdb17ac3094d0421b502ca3
-  - name: twitter
-    url: https://twitter.com/ecashofficial
+  - name: x
+    url: https://x.com/ecashofficial
   - name: telegram
     url: https://t.me/ecash_official
   - name: coinmarketcap

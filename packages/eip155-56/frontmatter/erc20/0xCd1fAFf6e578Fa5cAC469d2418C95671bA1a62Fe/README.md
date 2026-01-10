@@ -8,8 +8,8 @@ links:
     url: https://intro.torum.com
   - name: explorer
     url: https://bscscan.com/token/0xCd1fAFf6e578Fa5cAC469d2418C95671bA1a62Fe
-  - name: twitter
-    url: https://twitter.com/torum_official/
+  - name: x
+    url: https://x.com/torum_official/
   - name: telegram
     url: https://t.me/torum_official_group_en
   - name: telegram_news

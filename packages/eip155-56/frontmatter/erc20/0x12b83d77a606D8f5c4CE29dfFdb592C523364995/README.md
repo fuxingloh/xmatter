@@ -12,8 +12,8 @@ links:
     url: https://github.com/BABYYOOSHI/BABYYOOSHI
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/baby-yooshi/
-  - name: twitter
-    url: https://twitter.com/baby_yooshi
+  - name: x
+    url: https://x.com/baby_yooshi
   - name: telegram
     url: https://t.me/byooshi_offical
   - name: coingecko

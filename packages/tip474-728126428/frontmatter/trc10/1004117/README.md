@@ -8,8 +8,8 @@ links:
     url: https://theflashcurrency.com/
   - name: explorer
     url: https://tronscan.io/#/token/1004117
-  - name: twitter
-    url: https://twitter.com/FlashTfc
+  - name: x
+    url: https://x.com/FlashTfc
   - name: github
     url: https://github.com/theflashcurrency
   - name: telegram

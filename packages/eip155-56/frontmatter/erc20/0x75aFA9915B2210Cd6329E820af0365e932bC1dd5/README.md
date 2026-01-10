@@ -9,8 +9,8 @@ links:
     url: https://smurfsinu.com
   - name: explorer
     url: https://bscscan.com/token/0x75afa9915b2210cd6329e820af0365e932bc1dd5
-  - name: twitter
-    url: https://twitter.com/smurfsinu_
+  - name: x
+    url: https://x.com/smurfsinu_
   - name: telegram
     url: https://t.me/smurfsinu
 ---

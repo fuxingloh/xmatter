@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0xbEa98c05eEAe2f3bC8c3565Db7551Eb738c8CCAb
   - name: github
     url: https://github.com/gysr-io
-  - name: twitter
-    url: https://twitter.com/gysr_io
+  - name: x
+    url: https://x.com/gysr_io
   - name: telegram
     url: https://t.me/gysr_io
   - name: discord

@@ -8,8 +8,8 @@ links:
     url: https://hoppycoinerc20.com
   - name: explorer
     url: https://etherscan.io/token/0x6E79B51959CF968d87826592f46f819F92466615
-  - name: twitter
-    url: https://twitter.com//hoppycoinERC20
+  - name: x
+    url: https://x.com//hoppycoinERC20
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/hoppy-coin/
   - name: coingecko

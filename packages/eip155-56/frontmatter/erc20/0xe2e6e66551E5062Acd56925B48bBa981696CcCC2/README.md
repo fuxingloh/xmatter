@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xe2e6e66551e5062acd56925b48bba981696cccc2
   - name: blog
     url: https://vaultdefi.com
-  - name: twitter
-    url: https://twitter.com/vaultdefi
+  - name: x
+    url: https://x.com/vaultdefi
   - name: facebook
     url: https://facebook.com/vaultdefiofficial
   - name: telegram

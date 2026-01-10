@@ -8,8 +8,8 @@ links:
     url: https://arbiscan.io/token/0x87AAfFdF26c6885f6010219208D5B161ec7609c0
   - name: github
     url: https://github.com/EquationDAO
-  - name: twitter
-    url: https://twitter.com/EquationDAO
+  - name: x
+    url: https://x.com/EquationDAO
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/equation/
 ---

@@ -8,8 +8,8 @@ links:
     url: https://goldfinch.finance/
   - name: explorer
     url: https://etherscan.io/token/0xdab396cCF3d84Cf2D07C4454e10C8A6F5b008D2b
-  - name: twitter
-    url: https://twitter.com/goldfinch_fi
+  - name: x
+    url: https://x.com/goldfinch_fi
   - name: github
     url: https://github.com/goldfinch-eng
   - name: forum

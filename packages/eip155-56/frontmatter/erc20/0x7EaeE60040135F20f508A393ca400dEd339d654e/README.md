@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x7EaeE60040135F20f508A393ca400dEd339d654e
   - name: github
     url: https://github.com/revivaldefitech/
-  - name: twitter
-    url: https://twitter.com/revivaldefi
+  - name: x
+    url: https://x.com/revivaldefi
   - name: telegram
     url: https://t.me/revivaldefi
   - name: discord

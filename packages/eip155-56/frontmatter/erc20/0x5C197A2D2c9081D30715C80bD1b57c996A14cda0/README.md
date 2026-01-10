@@ -8,8 +8,8 @@ links:
     url: https://presale.world
   - name: explorer
     url: https://bscscan.com/token/0x5C197A2D2c9081D30715C80bD1b57c996A14cda0
-  - name: twitter
-    url: https://twitter.com/PresaleWorld
+  - name: x
+    url: https://x.com/PresaleWorld
   - name: telegram
     url: https://t.me/PresaleWorldCommunity
   - name: whitepaper

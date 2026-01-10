@@ -6,8 +6,8 @@ links:
     url: https://vertexprotocol.com/
   - name: explorer
     url: https://arbiscan.io/token/0x95146881b86B3ee99e63705eC87AfE29Fcc044D9
-  - name: twitter
-    url: https://twitter.com/vertex_protocol
+  - name: x
+    url: https://x.com/vertex_protocol
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/vertex-protocol/
 ---

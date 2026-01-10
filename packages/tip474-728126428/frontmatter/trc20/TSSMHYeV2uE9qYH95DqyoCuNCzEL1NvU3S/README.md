@@ -6,8 +6,8 @@ links:
     url: https://sun.io/#/home
   - name: explorer
     url: https://tronscan.org/#/token20/TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S
-  - name: twitter
-    url: https://twitter.com/defi_sunio
+  - name: x
+    url: https://x.com/defi_sunio
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/sun-token/
 ---

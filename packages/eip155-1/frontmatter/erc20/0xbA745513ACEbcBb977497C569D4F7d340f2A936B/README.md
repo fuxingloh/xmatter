@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xbA745513ACEbcBb977497C569D4F7d340f2A936B
   - name: github
     url: https://github.com/CyberFM/
-  - name: twitter
-    url: https://twitter.com/Mainstream For The Underground
+  - name: x
+    url: https://x.com/Mainstream For The Underground
   - name: telegram
     url: https://t.me/mftudotnet
 ---

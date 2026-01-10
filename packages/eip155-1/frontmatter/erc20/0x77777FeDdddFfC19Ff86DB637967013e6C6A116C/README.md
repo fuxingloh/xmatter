@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x77777feddddffc19ff86db637967013e6c6a116c
   - name: github
     url: https://github.com/tornadocash
-  - name: twitter
-    url: https://twitter.com/TornadoCash
+  - name: x
+    url: https://x.com/TornadoCash
   - name: telegram
     url: https://t.me/TornadoCashOfficial
   - name: coingecko

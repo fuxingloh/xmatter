@@ -6,8 +6,8 @@ links:
     url: https://www.meme-alliance.com/
   - name: explorer
     url: https://etherscan.io/token/0x9B3A8159e119eb09822115AE08Ee1526849e1116
-  - name: twitter
-    url: https://twitter.com/memealliancefps
+  - name: x
+    url: https://x.com/memealliancefps
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/meme-alliance/
   - name: telegram

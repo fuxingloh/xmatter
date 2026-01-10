@@ -6,8 +6,8 @@ links:
     url: https://www.liyeplimal.net
   - name: explorer
     url: https://bscscan.com/token/0x383094a91Ef2767Eed2B063ea40465670bf1C83f
-  - name: twitter
-    url: https://twitter.com/limocoinswap
+  - name: x
+    url: https://x.com/limocoinswap
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/limocoin-swap/
   - name: coingecko

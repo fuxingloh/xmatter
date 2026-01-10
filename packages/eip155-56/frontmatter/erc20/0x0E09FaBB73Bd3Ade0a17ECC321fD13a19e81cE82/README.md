@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82
   - name: github
     url: https://github.com/pancakeswap
-  - name: twitter
-    url: https://twitter.com/pancakeswap
+  - name: x
+    url: https://x.com/pancakeswap
   - name: blog
     url: https://medium.com/@pancakeswap
   - name: telegram

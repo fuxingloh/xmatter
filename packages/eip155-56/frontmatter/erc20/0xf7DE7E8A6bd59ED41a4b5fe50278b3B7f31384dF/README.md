@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xf7de7e8a6bd59ed41a4b5fe50278b3b7f31384df
   - name: github
     url: https://github.com/radiant-capital
-  - name: twitter
-    url: https://twitter.com/RDNTCapital
+  - name: x
+    url: https://x.com/RDNTCapital
   - name: discord
     url: https://discord.com/invite/radiantcapital
   - name: telegram

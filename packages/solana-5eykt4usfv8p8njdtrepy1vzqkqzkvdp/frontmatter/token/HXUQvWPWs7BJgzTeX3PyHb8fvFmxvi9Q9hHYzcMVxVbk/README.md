@@ -6,8 +6,8 @@ links:
     url: https://www.bomeow.com
   - name: explorer
     url: https://solscan.io/token/HXUQvWPWs7BJgzTeX3PyHb8fvFmxvi9Q9hHYzcMVxVbk
-  - name: twitter
-    url: https://twitter.com/bomeow_solana
+  - name: x
+    url: https://x.com/bomeow_solana
   - name: coingecko
     url: https://coingecko.com/en/coins/book-of-meow
 ---

@@ -6,8 +6,8 @@ links:
     url: https://clearpool.finance
   - name: explorer
     url: https://etherscan.io/token/0x66761fa41377003622aee3c7675fc7b5c1c2fac5
-  - name: twitter
-    url: https://twitter.com/ClearpoolFin
+  - name: x
+    url: https://x.com/ClearpoolFin
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/clearpool/
 ---

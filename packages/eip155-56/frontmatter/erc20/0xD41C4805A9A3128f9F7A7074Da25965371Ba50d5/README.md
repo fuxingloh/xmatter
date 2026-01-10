@@ -12,8 +12,8 @@ links:
     url: https://coingecko.com/en/coins/coinscope
   - name: telegram
     url: https://t.me/coinscope_co
-  - name: twitter
-    url: https://twitter.com/@coinscopecrypto
+  - name: x
+    url: https://x.com/@coinscopecrypto
   - name: reddit
     url: https://reddit.com/r/Coinscope
   - name: medium

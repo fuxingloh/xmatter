@@ -14,8 +14,8 @@ links:
     url: https://facebook.com/woonkly
   - name: telegram
     url: https://t.me/woonkly
-  - name: twitter
-    url: https://twitter.com/WoonklyEN
+  - name: x
+    url: https://x.com/WoonklyEN
   - name: youtube
     url: https://youtube.com/c/Woonkly
   - name: medium

@@ -8,8 +8,8 @@ links:
     url: https://kenduinu.com
   - name: explorer
     url: https://etherscan.io/token/0xaa95f26e30001251fb905d264Aa7b00eE9dF6C18
-  - name: twitter
-    url: https://twitter.com/KenduInu
+  - name: x
+    url: https://x.com/KenduInu
   - name: telegram
     url: https://t.me/KenduInu
   - name: reddit

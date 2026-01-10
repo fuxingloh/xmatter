@@ -6,8 +6,8 @@ links:
     url: https://stake.solblaze.org
   - name: explorer
     url: https://solscan.io/token/bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1
-  - name: twitter
-    url: https://twitter.com/solblaze_org
+  - name: x
+    url: https://x.com/solblaze_org
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/blazestake-staked-sol/
 ---

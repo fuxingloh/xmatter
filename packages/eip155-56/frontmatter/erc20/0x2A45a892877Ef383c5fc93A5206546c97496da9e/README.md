@@ -8,8 +8,8 @@ links:
     url: https://xai.cx
   - name: explorer
     url: https://bscscan.com/token/0x2A45a892877Ef383c5fc93A5206546c97496da9e
-  - name: twitter
-    url: https://twitter.com/xai_tech
+  - name: x
+    url: https://x.com/xai_tech
   - name: github
     url: https://github.com/xai-cx
   - name: telegram

@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x2e1E15C44Ffe4Df6a0cb7371CD00d5028e571d14
   - name: github
     url: https://github.com/fetchai/mettalex-market-maker
-  - name: twitter
-    url: https://twitter.com/Mettalex
+  - name: x
+    url: https://x.com/Mettalex
   - name: telegram
     url: https://t.me/mettalex_official_news
   - name: discord

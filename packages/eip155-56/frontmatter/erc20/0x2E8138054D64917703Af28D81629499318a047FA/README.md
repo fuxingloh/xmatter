@@ -9,8 +9,8 @@ links:
     url: https://apextoken.io/
   - name: explorer
     url: https://bscscan.com/token/0x2E8138054D64917703Af28D81629499318a047FA
-  - name: twitter
-    url: https://twitter.com/ApexToken
+  - name: x
+    url: https://x.com/ApexToken
   - name: youtube
     url: https://youtube.com/channel/UC4yoDCTSkKuDExNYP-ospyg
   - name: coinmarketcap

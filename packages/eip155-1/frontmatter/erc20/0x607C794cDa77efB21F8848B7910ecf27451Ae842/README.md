@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x607C794cDa77efB21F8848B7910ecf27451Ae842
   - name: github
     url: https://github.com/DefiPie
-  - name: twitter
-    url: https://twitter.com/defipiepie
+  - name: x
+    url: https://x.com/defipiepie
   - name: telegram
     url: https://t.me/defipie
   - name: medium

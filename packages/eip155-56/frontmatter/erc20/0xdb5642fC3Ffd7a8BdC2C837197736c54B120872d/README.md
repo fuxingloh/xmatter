@@ -6,8 +6,8 @@ links:
     url: https://payslinks.com/
   - name: explorer
     url: https://bscscan.com/token/0xdb5642fC3Ffd7a8BdC2C837197736c54B120872d
-  - name: twitter
-    url: https://twitter.com/payslink
+  - name: x
+    url: https://x.com/payslink
   - name: telegram
     url: https://t.me/payslink
 ---

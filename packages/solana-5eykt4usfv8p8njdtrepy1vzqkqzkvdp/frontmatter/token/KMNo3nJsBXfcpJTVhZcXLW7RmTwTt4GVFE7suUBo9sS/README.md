@@ -6,8 +6,8 @@ links:
     url: https://app.kamino.finance/
   - name: explorer
     url: https://solscan.io/token/KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS
-  - name: twitter
-    url: https://twitter.com/KaminoFinancen
+  - name: x
+    url: https://x.com/KaminoFinancen
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/kamino-finance/
 ---

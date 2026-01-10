@@ -6,8 +6,8 @@ links:
     url: https://unlock-protocol.com/
   - name: explorer
     url: https://etherscan.io/token/0x90de74265a416e1393a450752175aed98fe11517
-  - name: twitter
-    url: https://twitter.com/Unlock Protocol
+  - name: x
+    url: https://x.com/Unlock Protocol
   - name: telegram
     url: https://t.me/unlockprotocol
 ---

@@ -12,8 +12,8 @@ links:
     url: https://coinmarketcap.com/currencies/uniswap/
   - name: coingecko
     url: https://coingecko.com/en/coins/uniswap/
-  - name: twitter
-    url: https://twitter.com/uniswap/
+  - name: x
+    url: https://x.com/uniswap/
 ---
 
 # Uniswap

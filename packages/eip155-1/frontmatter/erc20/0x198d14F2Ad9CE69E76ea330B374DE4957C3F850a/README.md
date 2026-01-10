@@ -9,8 +9,8 @@ links:
     url: https://apenft.io/
   - name: explorer
     url: https://etherscan.io/token/0x198d14f2ad9ce69e76ea330b374de4957c3f850a
-  - name: twitter
-    url: https://twitter.com/apenftorg
+  - name: x
+    url: https://x.com/apenftorg
   - name: telegram
     url: https://t.me/apenftEN
   - name: whitepaper

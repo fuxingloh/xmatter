@@ -12,8 +12,8 @@ links:
     url: https://t.me/fegchat
   - name: reddit
     url: https://reddit.com/r/FegToken_Official
-  - name: twitter
-    url: https://twitter.com/FEGtoken
+  - name: x
+    url: https://x.com/FEGtoken
   - name: docs
     url: https://docs.feg.io/
   - name: coinmarketcap

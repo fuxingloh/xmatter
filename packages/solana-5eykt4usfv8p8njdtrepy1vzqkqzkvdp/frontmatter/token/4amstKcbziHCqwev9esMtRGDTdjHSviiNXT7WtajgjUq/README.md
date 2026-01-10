@@ -6,8 +6,8 @@ links:
     url: https://hachiko-token.com/
   - name: explorer
     url: https://solscan.io/token/4amstKcbziHCqwev9esMtRGDTdjHSviiNXT7WtajgjUq
-  - name: twitter
-    url: https://twitter.com/Hachikocoinsol
+  - name: x
+    url: https://x.com/Hachikocoinsol
   - name: telegram
     url: https://t.me/hachikoportaI
 ---

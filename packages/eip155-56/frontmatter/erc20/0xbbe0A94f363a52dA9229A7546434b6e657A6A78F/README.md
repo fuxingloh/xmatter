@@ -10,8 +10,8 @@ links:
     url: https://t.me/joinchat/_zhiZUUM5m45YjUx
   - name: coinmarketcap
     url: https://coinmarketcap.com/ru/currencies/dyor-token/
-  - name: twitter
-    url: https://twitter.com/DYORToken_BSC
+  - name: x
+    url: https://x.com/DYORToken_BSC
 ---
 
 # DYOR Token

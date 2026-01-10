@@ -8,8 +8,8 @@ links:
     url: https://geojam.com/
   - name: explorer
     url: https://etherscan.io/token/0x23894DC9da6c94ECb439911cAF7d337746575A72
-  - name: twitter
-    url: https://twitter.com/geojamofficial
+  - name: x
+    url: https://x.com/geojamofficial
   - name: telegram
     url: https://t.me/geojamofficial
   - name: coinmarketcap

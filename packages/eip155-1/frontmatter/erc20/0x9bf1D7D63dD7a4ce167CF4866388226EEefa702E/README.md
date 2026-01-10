@@ -9,8 +9,8 @@ links:
     url: https://joinbencoin.com/
   - name: explorer
     url: https://etherscan.io/token/0x9bf1d7d63dd7a4ce167cf4866388226eeefa702e
-  - name: twitter
-    url: https://twitter.com/joinbencoin
+  - name: x
+    url: https://x.com/joinbencoin
   - name: telegram
     url: https://t.me/bencoineth
   - name: discord

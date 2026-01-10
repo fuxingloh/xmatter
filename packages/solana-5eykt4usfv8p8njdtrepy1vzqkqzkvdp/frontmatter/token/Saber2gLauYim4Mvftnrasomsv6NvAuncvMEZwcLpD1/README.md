@@ -8,8 +8,8 @@ links:
     url: https://saber.so/
   - name: explorer
     url: https://solscan.io/token/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1
-  - name: twitter
-    url: https://twitter.com/Saber_HQ
+  - name: x
+    url: https://x.com/Saber_HQ
   - name: coinmarketcap
     url: https://coinmarketcap.com/ru/currencies/saber/
 ---

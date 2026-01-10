@@ -9,8 +9,8 @@ links:
     url: https://mango.markets/
   - name: explorer
     url: https://solscan.io/token/MangoCzJ36AjZyKwVj3VnYU4GTonjfVEnJmvvWaxLac
-  - name: twitter
-    url: https://twitter.com/mangomarkets
+  - name: x
+    url: https://x.com/mangomarkets
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/mango-markets/
   - name: github

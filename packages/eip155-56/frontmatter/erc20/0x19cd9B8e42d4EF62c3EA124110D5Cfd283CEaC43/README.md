@@ -8,8 +8,8 @@ links:
     url: https://battleinfinity.io/
   - name: explorer
     url: https://bscscan.com/token/0x19cd9b8e42d4ef62c3ea124110d5cfd283ceac43
-  - name: twitter
-    url: https://twitter.com/ibatofficial
+  - name: x
+    url: https://x.com/ibatofficial
   - name: telegram
     url: https://t.me/battleinfinity
   - name: facebook

@@ -8,8 +8,8 @@ links:
     url: https://lunar.io/
   - name: explorer
     url: https://bscscan.com/token/0x9d4451151a8de5b545a1bc6c8fdeb9d94a2868e1
-  - name: twitter
-    url: https://twitter.com/lnrdefi
+  - name: x
+    url: https://x.com/lnrdefi
   - name: telegram
     url: https://t.me/lnrdefi
   - name: reddit

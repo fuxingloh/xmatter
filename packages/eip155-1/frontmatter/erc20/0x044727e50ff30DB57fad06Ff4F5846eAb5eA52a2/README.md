@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x044727e50ff30DB57fad06Ff4F5846eAb5eA52a2
   - name: github
     url: https://github.com/KittyInu
-  - name: twitter
-    url: https://twitter.com/KittyInuErc20
+  - name: x
+    url: https://x.com/KittyInuErc20
   - name: telegram
     url: https://t.me/KittyInuToken
   - name: coingecko

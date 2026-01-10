@@ -10,8 +10,8 @@ links:
     url: https://gmr.center
   - name: explorer
     url: https://bscscan.com/token/0x168e3b1746Aa249a9b3603B70605924fE255Ee1a
-  - name: twitter
-    url: https://twitter.com/GMRCenter
+  - name: x
+    url: https://x.com/GMRCenter
   - name: github
     url: https://github.com/gmr-center
   - name: telegram

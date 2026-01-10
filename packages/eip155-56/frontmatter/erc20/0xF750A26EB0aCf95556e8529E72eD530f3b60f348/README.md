@@ -6,8 +6,8 @@ links:
     url: https://www.greentrusttoken.com/
   - name: explorer
     url: https://bscscan.com/token/0xf750a26eb0acf95556e8529e72ed530f3b60f348
-  - name: twitter
-    url: https://twitter.com/GNT_token
+  - name: x
+    url: https://x.com/GNT_token
   - name: telegram
     url: https://t.me/greentrusttoken
 ---

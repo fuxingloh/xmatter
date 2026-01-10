@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x6c972b70c533E2E045F333Ee28b9fFb8D717bE69
   - name: github
     url: https://github.com/team-toast/Foundry
-  - name: twitter
-    url: https://twitter.com/foundryDAO
+  - name: x
+    url: https://x.com/foundryDAO
   - name: telegram
     url: https://t.me/FoundryCommunity
   - name: youtube

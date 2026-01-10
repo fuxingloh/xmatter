@@ -6,8 +6,8 @@ links:
     url: https://coindiscovery.app
   - name: explorer
     url: https://bscscan.com/token/0x4AC32178097c1f62beadCC2D215B54D6915013ee
-  - name: twitter
-    url: https://twitter.com/CoinDiscoveryy
+  - name: x
+    url: https://x.com/CoinDiscoveryy
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/coin-discovery
   - name: telegram

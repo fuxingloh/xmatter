@@ -6,8 +6,8 @@ links:
     url: pepecoin.io
   - name: explorer
     url: https://etherscan.io/token/0xA9E8aCf069C58aEc8825542845Fd754e41a9489A
-  - name: twitter
-    url: https://twitter.com/pepecoins
+  - name: x
+    url: https://x.com/pepecoins
   - name: telegram
     url: https://t.me/pepecoins
   - name: coinmarketcap

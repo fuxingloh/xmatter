@@ -6,8 +6,8 @@ links:
     url: https://app.titanx.win/mine
   - name: explorer
     url: https://etherscan.io/token/0xf19308f923582a6f7c465e5ce7a9dc1bec6665b1
-  - name: twitter
-    url: https://twitter.com/TitanXCrypto
+  - name: x
+    url: https://x.com/TitanXCrypto
   - name: telegram
     url: https://t.me/TitanXCrypto
 ---

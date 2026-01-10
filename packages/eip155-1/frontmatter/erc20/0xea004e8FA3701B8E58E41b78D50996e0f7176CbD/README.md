@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xea004e8FA3701B8E58E41b78D50996e0f7176CbD
   - name: github
     url: https://github.com/yffcfinance
-  - name: twitter
-    url: https://twitter.com/yffc_finance
+  - name: x
+    url: https://x.com/yffc_finance
   - name: telegram
     url: https://t.me/yffcfinance
   - name: medium

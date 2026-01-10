@@ -8,8 +8,8 @@ links:
     url: https://www.shellingcoin.com/
   - name: explorer
     url: https://bscscan.com/token/0xbb689057fe1c4bfc573a54c0679ae1a7a1982f26
-  - name: twitter
-    url: https://twitter.com/shelling_coin
+  - name: x
+    url: https://x.com/shelling_coin
   - name: telegram
     url: https://t.me/shellingcoin
   - name: whitepaper

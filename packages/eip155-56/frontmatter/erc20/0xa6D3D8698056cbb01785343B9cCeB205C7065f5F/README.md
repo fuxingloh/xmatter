@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xa6D3D8698056cbb01785343B9cCeB205C7065f5F
   - name: telegram
     url: https://t.me/serenityshield
-  - name: twitter
-    url: https://twitter.com/SerenityShield_
+  - name: x
+    url: https://x.com/SerenityShield_
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/serenity-shield/
 ---

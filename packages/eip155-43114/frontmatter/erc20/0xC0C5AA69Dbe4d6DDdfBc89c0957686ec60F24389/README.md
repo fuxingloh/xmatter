@@ -6,8 +6,8 @@ links:
     url: https://xen.network/
   - name: explorer
     url: https://snowtrace.io/token/0xC0C5AA69Dbe4d6DDdfBc89c0957686ec60F24389
-  - name: twitter
-    url: https://twitter.com/XEN_Crypto
+  - name: x
+    url: https://x.com/XEN_Crypto
   - name: telegram
     url: https://t.me/XENCryptoTalk
   - name: coinmarketcap

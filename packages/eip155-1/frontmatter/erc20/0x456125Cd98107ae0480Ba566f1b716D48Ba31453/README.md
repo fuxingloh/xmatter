@@ -11,8 +11,8 @@ links:
     url: https://etherscan.io/token/0x456125Cd98107ae0480Ba566f1b716D48Ba31453
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/ultimate-champions/
-  - name: twitter
-    url: https://twitter.com/UltiChamps
+  - name: x
+    url: https://x.com/UltiChamps
   - name: whitepaper
     url: https://whitepaper.ultimate-champions.com/
   - name: medium

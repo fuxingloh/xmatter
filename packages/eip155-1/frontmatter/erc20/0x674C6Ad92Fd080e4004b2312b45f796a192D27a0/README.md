@@ -11,8 +11,8 @@ links:
     url: https://etherscan.io/token/0x674c6ad92fd080e4004b2312b45f796a192d27a0
   - name: github
     url: https://github.com/Neutrino-Protocol
-  - name: twitter
-    url: https://twitter.com/neutrino_proto
+  - name: x
+    url: https://x.com/neutrino_proto
   - name: blog
     url: https://medium.com/neutrinoteam
   - name: facebook

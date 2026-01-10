@@ -6,8 +6,8 @@ links:
     url: https://www.klausoneth.com/
   - name: explorer
     url: https://etherscan.io/token/0xb612bFC5cE2FB1337Bd29F5Af24ca85DbB181cE2
-  - name: twitter
-    url: https://twitter.com/KlausOnEth
+  - name: x
+    url: https://x.com/KlausOnEth
   - name: telegram
     url: https://t.me/klausoneth
 ---

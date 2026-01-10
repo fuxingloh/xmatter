@@ -8,8 +8,8 @@ links:
     url: https://polygonscan.com/token/0xcf32822ff397Ef82425153a9dcb726E5fF61DCA7
   - name: discord
     url: https://discord.com/p5ZYTVJeQz
-  - name: twitter
-    url: https://twitter.com/GAMEEToken
+  - name: x
+    url: https://x.com/GAMEEToken
   - name: coingecko
     url: https://coingecko.com/en/coins/gamee
   - name: medium

@@ -6,8 +6,8 @@ links:
     url: https://1doge.io
   - name: explorer
     url: https://bscscan.com/token/0x40619dc9F00ea34e51D96b6EC5d8a6aD75457434
-  - name: twitter
-    url: https://twitter.com/1dogeBSC
+  - name: x
+    url: https://x.com/1dogeBSC
   - name: github
     url: https://github.com/MiniPadLaunchpad/1doge
   - name: telegram

@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x63F712B7EC2b9f7146b54a79133900F9458eeC6a
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/pomerocket/
-  - name: twitter
-    url: https://twitter.com/MyFutureToken
+  - name: x
+    url: https://x.com/MyFutureToken
   - name: telegram
     url: https://t.me/myfuturetoken
 ---

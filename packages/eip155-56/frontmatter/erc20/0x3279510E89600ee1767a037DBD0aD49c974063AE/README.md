@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x3279510E89600ee1767a037DBD0aD49c974063AE
   - name: github
     url: https://github.com/nftbs
-  - name: twitter
-    url: https://twitter.com/nftbstoken
+  - name: x
+    url: https://x.com/nftbstoken
   - name: reddit
     url: https://reddit.com/r/Nftbooks/
   - name: whitepaper

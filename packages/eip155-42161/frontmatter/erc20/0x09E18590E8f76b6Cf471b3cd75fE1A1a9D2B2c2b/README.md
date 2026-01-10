@@ -8,8 +8,8 @@ links:
     url: https://arbdoge.ai/
   - name: explorer
     url: https://arbiscan.io/token/0x09e18590e8f76b6cf471b3cd75fe1a1a9d2b2c2b
-  - name: twitter
-    url: https://twitter.com/arbdogeai
+  - name: x
+    url: https://x.com/arbdogeai
   - name: medium
     url: https://medium.com/@ArbDogeAI
   - name: coinmarketcap

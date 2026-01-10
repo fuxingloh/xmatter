@@ -6,8 +6,8 @@ links:
     url: https://alphakombat.com/
   - name: explorer
     url: https://bscscan.com/token/0x8379B36826675450c35e1eb45d2fd1E1aE8494A4
-  - name: twitter
-    url: https://twitter.com/AlphaKombatgame
+  - name: x
+    url: https://x.com/AlphaKombatgame
   - name: telegram
     url: https://t.me/AlphaKombatChat
   - name: coinmarketcap

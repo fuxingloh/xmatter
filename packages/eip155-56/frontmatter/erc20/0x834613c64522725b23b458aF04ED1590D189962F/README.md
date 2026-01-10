@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x834613c64522725b23b458aF04ED1590D189962F
   - name: github
     url: https://github.com/dkkstoken
-  - name: twitter
-    url: https://twitter.com/dkkstoken
+  - name: x
+    url: https://x.com/dkkstoken
   - name: reddit
     url: https://reddit.com/r/daikokuten_sama
   - name: whitepaper

@@ -6,8 +6,8 @@ links:
     url: https://www.dehub.net/
   - name: explorer
     url: https://bscscan.com/token/0xFC206f429d55c71cb7294EfF40c6ADb20dC21508
-  - name: twitter
-    url: https://twitter.com/dehub_official
+  - name: x
+    url: https://x.com/dehub_official
   - name: github
     url: https://github.com/DeHubToken/dehub-public-contract
   - name: telegram

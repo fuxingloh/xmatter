@@ -9,8 +9,8 @@ links:
     url: https://www.solchicks.io/
   - name: explorer
     url: https://solscan.io/token/cxxShYRVcepDudXhe7U62QHvw8uBJoKFifmzggGKVC2
-  - name: twitter
-    url: https://twitter.com/SolChicksNFT
+  - name: x
+    url: https://x.com/SolChicksNFT
   - name: telegram
     url: https://t.me/solchicksnft
   - name: coinmarketcap

@@ -6,8 +6,8 @@ links:
     url: https://theessentialcoin.org
   - name: explorer
     url: https://bscscan.com/token/0x4c48cca6153Db911002F965D22fdeFcD95f33BE9
-  - name: twitter
-    url: https://twitter.com/essentialESC
+  - name: x
+    url: https://x.com/essentialESC
   - name: discord
     url: https://discord.com/invite/jEHpJMbKF3
   - name: telegram

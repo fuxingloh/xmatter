@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xA78628eCba2BF5fedf3fE27A7CEdaa363b46708f
   - name: github
     url: https://github.com/littlebunnyrocket/littlebunnyrocket
-  - name: twitter
-    url: https://twitter.com/l_bunnyrocket
+  - name: x
+    url: https://x.com/l_bunnyrocket
   - name: telegram
     url: https://t.me/littlebunnyrocket
 ---

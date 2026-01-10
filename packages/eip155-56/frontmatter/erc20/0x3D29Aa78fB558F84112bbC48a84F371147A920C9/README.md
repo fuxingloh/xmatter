@@ -6,8 +6,8 @@ links:
     url: https://dogefather.space/
   - name: explorer
     url: https://bscscan.com/token/0x3d29aa78fb558f84112bbc48a84f371147a920c9
-  - name: twitter
-    url: https://twitter.com/dogefatherbsc_
+  - name: x
+    url: https://x.com/dogefatherbsc_
   - name: telegram
     url: https://t.me/dogefatherBSC
 ---

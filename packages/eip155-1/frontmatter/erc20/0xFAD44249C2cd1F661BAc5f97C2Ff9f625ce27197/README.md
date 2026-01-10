@@ -8,8 +8,8 @@ links:
     url: https://grey.supply/
   - name: explorer
     url: https://etherscan.io/token/0xFAD44249C2cd1F661BAc5f97C2Ff9f625ce27197
-  - name: twitter
-    url: https://twitter.com/GREY_____SUPPLY
+  - name: x
+    url: https://x.com/GREY_____SUPPLY
   - name: discord
     url: https://discord.com/invite/HuG98Kw8T5
 ---

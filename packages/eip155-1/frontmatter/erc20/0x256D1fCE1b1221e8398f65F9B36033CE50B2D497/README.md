@@ -8,8 +8,8 @@ links:
     url: https://www.alveychain.com
   - name: explorer
     url: https://etherscan.io/token/0x256D1fCE1b1221e8398f65F9B36033CE50B2D497
-  - name: twitter
-    url: https://twitter.com/AlveyChain
+  - name: x
+    url: https://x.com/AlveyChain
   - name: github
     url: https://github.com/AlveyCoin
   - name: telegram

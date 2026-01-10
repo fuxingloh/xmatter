@@ -10,8 +10,8 @@ links:
     url: https://www.xdefi.io
   - name: explorer
     url: https://etherscan.io/token/0x72b886d09c117654ab7da13a14d603001de0b777
-  - name: twitter
-    url: https://twitter.com/xdefi_wallet
+  - name: x
+    url: https://x.com/xdefi_wallet
   - name: github
     url: https://github.com/xdefi-tech
   - name: telegram

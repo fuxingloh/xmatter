@@ -8,8 +8,8 @@ links:
     url: https://www.singularitydao.ai
   - name: explorer
     url: https://bscscan.com/token/0x90Ed8F1dc86388f14b64ba8fb4bbd23099f18240
-  - name: twitter
-    url: https://twitter.com/SingularityDao
+  - name: x
+    url: https://x.com/SingularityDao
   - name: telegram
     url: https://t.me/chatsight_bot?start=dmVyaWZ5OjotMTAwMTI4NzAxNjEzNw==
   - name: telegram_news

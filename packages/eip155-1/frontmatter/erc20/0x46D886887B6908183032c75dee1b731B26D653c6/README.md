@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x46d886887b6908183032c75dee1b731b26d653c6
   - name: whitepaper
     url: https://greenflows.gitbook.io/litepaper/
-  - name: twitter
-    url: https://twitter.com/greenflowstech
+  - name: x
+    url: https://x.com/greenflowstech
 ---
 
 # GreenCoin

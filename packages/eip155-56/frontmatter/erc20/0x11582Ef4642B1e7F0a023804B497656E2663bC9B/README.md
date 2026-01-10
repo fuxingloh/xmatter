@@ -6,8 +6,8 @@ links:
     url: https://KCCPAD.io
   - name: explorer
     url: https://bscscan.com/token/0x11582Ef4642B1e7F0a023804B497656E2663bC9B
-  - name: twitter
-    url: https://twitter.com/KCCPad_Official
+  - name: x
+    url: https://x.com/KCCPad_Official
   - name: coingecko
     url: https://coingecko.com/en/coins/kccpad
   - name: telegram

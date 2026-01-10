@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x154ECeB42679ac155EeF18820dE2Be75699263A8
   - name: github
     url: https://github.com/MamyShibaInuGithub/
-  - name: twitter
-    url: https://twitter.com/MamyShibaInu/
+  - name: x
+    url: https://x.com/MamyShibaInu/
   - name: telegram
     url: https://t.me/Mamyshibainuchannel
 ---

@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6
   - name: telegram
     url: https://t.me/polygonofficial
-  - name: twitter
-    url: https://twitter.com/0xPolygon
+  - name: x
+    url: https://x.com/0xPolygon
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/polygon-ecosystem-token/
 ---

@@ -14,8 +14,8 @@ links:
     url: https://github.com/qiibee
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/qiibee/
-  - name: twitter
-    url: https://twitter.com/qiibee
+  - name: x
+    url: https://x.com/qiibee
   - name: reddit
     url: https://reddit.com/r/qiibee
   - name: facebook

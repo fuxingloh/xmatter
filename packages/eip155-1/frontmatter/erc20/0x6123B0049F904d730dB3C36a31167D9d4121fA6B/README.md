@@ -6,8 +6,8 @@ links:
     url: https://www.ribbon.finance/
   - name: explorer
     url: https://etherscan.io/token/0x6123b0049f904d730db3c36a31167d9d4121fa6b
-  - name: twitter
-    url: https://twitter.com/ribbonfinance
+  - name: x
+    url: https://x.com/ribbonfinance
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/ribbon-finance/
 ---

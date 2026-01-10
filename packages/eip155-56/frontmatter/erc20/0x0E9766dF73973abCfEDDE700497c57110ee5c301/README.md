@@ -11,8 +11,8 @@ links:
     url: https://www.hodltoken.net
   - name: explorer
     url: https://bscscan.com/token/0x0E9766dF73973abCfEDDE700497c57110ee5c301
-  - name: twitter
-    url: https://twitter.com/HODL_OFFICIAL
+  - name: x
+    url: https://x.com/HODL_OFFICIAL
   - name: telegram
     url: https://t.me/hodlinvestorgroup
   - name: facebook

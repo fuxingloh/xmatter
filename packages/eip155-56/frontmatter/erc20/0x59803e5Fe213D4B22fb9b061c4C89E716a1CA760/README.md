@@ -6,8 +6,8 @@ links:
     url: https://operationphoenix.network
   - name: explorer
     url: https://bscscan.com/token/0x59803e5fe213d4b22fb9b061c4c89e716a1ca760
-  - name: twitter
-    url: https://twitter.com/Op_PhoenixChain
+  - name: x
+    url: https://x.com/Op_PhoenixChain
   - name: telegram
     url: https://t.me/operationphoenixnetwork
   - name: coinmarketcap

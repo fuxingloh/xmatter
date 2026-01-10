@@ -6,8 +6,8 @@ links:
     url: https://keyboardcat.fun
   - name: explorer
     url: https://basescan.org/token/0x9a26f5433671751c3276a065f57e5a02d2817973
-  - name: twitter
-    url: https://twitter.com/KeyboardCatBase
+  - name: x
+    url: https://x.com/KeyboardCatBase
 ---
 
 # Keyboard Cat

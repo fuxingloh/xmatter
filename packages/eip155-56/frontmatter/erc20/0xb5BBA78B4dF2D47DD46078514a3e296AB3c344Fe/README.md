@@ -10,8 +10,8 @@ links:
     url: https://coinmarketcap.com/currencies/hertz-network/
   - name: coingecko
     url: https://coingecko.com/en/coins/hertz-network
-  - name: twitter
-    url: https://twitter.com/hertz_network
+  - name: x
+    url: https://x.com/hertz_network
   - name: reddit
     url: https://reddit.com/r/hertznetwork/
   - name: telegram

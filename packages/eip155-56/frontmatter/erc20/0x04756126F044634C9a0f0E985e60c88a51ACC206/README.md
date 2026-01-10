@@ -9,8 +9,8 @@ links:
     url: https://carbon.website/
   - name: explorer
     url: https://bscscan.com/token/0x04756126f044634c9a0f0e985e60c88a51acc206
-  - name: twitter
-    url: https://twitter.com/trycarbonio
+  - name: x
+    url: https://x.com/trycarbonio
   - name: github
     url: https://github.com/pellartech
 ---

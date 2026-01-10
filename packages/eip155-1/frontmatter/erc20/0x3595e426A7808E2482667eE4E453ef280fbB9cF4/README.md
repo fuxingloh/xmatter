@@ -6,8 +6,8 @@ links:
     url: https://nosecandy.io/
   - name: explorer
     url: https://etherscan.io/token/0x3595e426a7808e2482667ee4e453ef280fbb9cf4
-  - name: twitter
-    url: https://twitter.com/nosecandytoken
+  - name: x
+    url: https://x.com/nosecandytoken
 ---
 
 # Nose Candy

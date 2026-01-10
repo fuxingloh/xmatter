@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/9WPTUkh8fKuCnepRWoPYLH3aK9gSjPHFDenBq2X1Czdp
   - name: coingecko
     url: https://coingecko.com/en/coins/selfiedogcoin
-  - name: twitter
-    url: https://twitter.com/SelfieDog_SOL
+  - name: x
+    url: https://x.com/SelfieDog_SOL
 ---
 
 # SelfieDogCoin

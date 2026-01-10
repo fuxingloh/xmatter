@@ -6,8 +6,8 @@ links:
     url: https://sageuniverse.meme/
   - name: explorer
     url: https://solscan.io/token/CMe1QWsoDWFUi95GMkk7mCTnnjxBxtnJ3jbrEhQTVWL5
-  - name: twitter
-    url: https://twitter.com/SAGEUNIVERS3
+  - name: x
+    url: https://x.com/SAGEUNIVERS3
   - name: telegram
     url: https://t.me/sage_universe
 ---

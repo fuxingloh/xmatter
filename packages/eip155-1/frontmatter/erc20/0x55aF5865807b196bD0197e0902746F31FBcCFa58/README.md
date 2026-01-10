@@ -6,8 +6,8 @@ links:
     url: https://spookyswap.finance/
   - name: explorer
     url: https://etherscan.io/token/0x55af5865807b196bd0197e0902746f31fbccfa58
-  - name: twitter
-    url: https://twitter.com/spookyswap
+  - name: x
+    url: https://x.com/spookyswap
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/spookyswap/
 ---

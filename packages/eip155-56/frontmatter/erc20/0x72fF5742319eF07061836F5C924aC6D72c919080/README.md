@@ -6,8 +6,8 @@ links:
     url: https://gifto.io/
   - name: explorer
     url: https://bscscan.com/token/0x72fF5742319eF07061836F5C924aC6D72c919080
-  - name: twitter
-    url: https://twitter.com/GiftoMetaverse
+  - name: x
+    url: https://x.com/GiftoMetaverse
   - name: telegram
     url: https://t.me/Gifto_Official
   - name: coinmarketcap

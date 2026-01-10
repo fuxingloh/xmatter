@@ -8,8 +8,8 @@ links:
     url: https://axelar.network/
   - name: explorer
     url: https://snowtrace.io/token/0x44c784266cf024a60e8acF2427b9857Ace194C5d
-  - name: twitter
-    url: https://twitter.com/axelarcore
+  - name: x
+    url: https://x.com/axelarcore
   - name: github
     url: https://github.com/axelarnetwork
   - name: telegram

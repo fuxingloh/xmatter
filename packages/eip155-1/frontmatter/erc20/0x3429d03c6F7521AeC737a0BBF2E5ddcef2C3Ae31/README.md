@@ -6,8 +6,8 @@ links:
     url: https://www.pixels.xyz/
   - name: explorer
     url: https://etherscan.io/token/0x3429d03c6F7521AeC737a0BBF2E5ddcef2C3Ae31
-  - name: twitter
-    url: https://twitter.com/pixels_online
+  - name: x
+    url: https://x.com/pixels_online
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/pixels/
 ---

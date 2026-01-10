@@ -6,8 +6,8 @@ links:
     url: https://www.daddysuniversity.com/
   - name: explorer
     url: https://solscan.io/token/4Cnk9EPnW5ixfLZatCPJjDB1PUtcRpVVgTQukm9epump
-  - name: twitter
-    url: https://twitter.com/daddytatecto
+  - name: x
+    url: https://x.com/daddytatecto
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/daddy-tate/
 ---

@@ -8,8 +8,8 @@ links:
     url: https://metaxiz.com
   - name: explorer
     url: https://bscscan.com/token/0x70d8d5b3416888fd05e806195312dd2d9597d50c
-  - name: twitter
-    url: https://twitter.com/Metaxiz_MEXI
+  - name: x
+    url: https://x.com/Metaxiz_MEXI
   - name: telegram
     url: https://t.me/Metaxiz
   - name: docs

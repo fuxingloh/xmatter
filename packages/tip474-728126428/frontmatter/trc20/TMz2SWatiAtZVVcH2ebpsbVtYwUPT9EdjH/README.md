@@ -8,8 +8,8 @@ links:
     url: https://www.binance.com/en/busd
   - name: explorer
     url: https://tronscan.io/#/token20/TMz2SWatiAtZVVcH2ebpsbVtYwUPT9EdjH
-  - name: twitter
-    url: https://twitter.com/binance
+  - name: x
+    url: https://x.com/binance
   - name: telegram
     url: https://t.me/binanceexchange
 ---

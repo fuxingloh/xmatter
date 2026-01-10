@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x2189455051A1c1E6190276f84f73Ec6Fb2fe62DF
   - name: github
     url: https://github.com/harshasamedha/BitConey
-  - name: twitter
-    url: https://twitter.com/Bitconey
+  - name: x
+    url: https://x.com/Bitconey
   - name: whitepaper
     url: https://bitconeytoken.com/BitConey_Whitepaper.pdf
   - name: facebook

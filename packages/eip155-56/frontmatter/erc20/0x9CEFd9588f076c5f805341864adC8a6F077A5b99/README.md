@@ -6,8 +6,8 @@ links:
     url: https://867crypto.com/
   - name: explorer
     url: https://bscscan.com/token/0x9CEFd9588f076c5f805341864adC8a6F077A5b99
-  - name: twitter
-    url: https://twitter.com/867_crypto
+  - name: x
+    url: https://x.com/867_crypto
   - name: telegram
     url: https://t.me/EightSixSeven
   - name: whitepaper

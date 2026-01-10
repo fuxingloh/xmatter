@@ -6,8 +6,8 @@ links:
     url: https://solgunsniper.bot/
   - name: explorer
     url: https://solscan.io/token/CyJRzN4iavA2b9tQB2YMCMKYBcT9L5LSijLb5TeyqvLA
-  - name: twitter
-    url: https://twitter.com/SolgunBot
+  - name: x
+    url: https://x.com/SolgunBot
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/solgun/
 ---

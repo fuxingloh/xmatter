@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xb9d8592e16a9c1a3ae6021cddb324eac1cbc70d6
   - name: github
     url: https://github.com/perafinance
-  - name: twitter
-    url: https://twitter.com/perafinance
+  - name: x
+    url: https://x.com/perafinance
   - name: blog
     url: https://perafinance.medium.com/
   - name: telegram

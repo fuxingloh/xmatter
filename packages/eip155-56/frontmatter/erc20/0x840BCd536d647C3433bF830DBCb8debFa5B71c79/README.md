@@ -6,8 +6,8 @@ links:
     url: https://bnbfintech.com
   - name: explorer
     url: https://bscscan.com/token/0x840BCd536d647C3433bF830DBCb8debFa5B71c79
-  - name: twitter
-    url: https://twitter.com/BNBCashOfficial
+  - name: x
+    url: https://x.com/BNBCashOfficial
   - name: github
     url: https://github.com/BNBCash
   - name: telegram

@@ -8,8 +8,8 @@ links:
     url: https://www.fs.video
   - name: explorer
     url: https://bscscan.com/token/0xE9c7a827a4bA133b338b844C19241c864E95d75f
-  - name: twitter
-    url: https://twitter.com/FSV_fsvideo
+  - name: x
+    url: https://x.com/FSV_fsvideo
   - name: github
     url: https://github.com/FileSystemVideo
   - name: telegram

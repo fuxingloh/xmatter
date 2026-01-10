@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x9d3E14B607b2f569CfAFe29AF71e811d7E575CFe
   - name: github
     url: https://github.com/FlokiBonk/FlokiBonk-Token
-  - name: twitter
-    url: https://twitter.com/FLOKO_BONKO
+  - name: x
+    url: https://x.com/FLOKO_BONKO
   - name: reddit
     url: https://reddit.com/r/flokibonk
   - name: telegram

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xeda21b525ac789eab1a08ef2404dd8505ffb973d
   - name: github
     url: https://github.com/BHCHappiness/
-  - name: twitter
-    url: https://twitter.com/BHC_Happiness
+  - name: x
+    url: https://x.com/BHC_Happiness
   - name: reddit
     url: https://reddit.com/user/BillionHappiness
 ---

@@ -6,8 +6,8 @@ links:
     url: https://zipswap.fi/
   - name: explorer
     url: https://optimistic.etherscan.io/token/0xFA436399d0458Dbe8aB890c3441256E3E09022a8
-  - name: twitter
-    url: https://twitter.com/Zip_swap
+  - name: x
+    url: https://x.com/Zip_swap
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/zipswap/
 ---

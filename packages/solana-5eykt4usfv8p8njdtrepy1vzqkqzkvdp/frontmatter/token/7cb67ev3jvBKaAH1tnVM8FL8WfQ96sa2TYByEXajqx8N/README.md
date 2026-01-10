@@ -6,8 +6,8 @@ links:
     url: https://www.dawkoins.online/
   - name: explorer
     url: https://solscan.io/token/7cb67ev3jvBKaAH1tnVM8FL8WfQ96sa2TYByEXajqx8N
-  - name: twitter
-    url: https://twitter.com/DawkoinsOnSol
+  - name: x
+    url: https://x.com/DawkoinsOnSol
   - name: coingecko
     url: https://coingecko.com/en/coins/dawkoin
 ---

@@ -6,8 +6,8 @@ links:
     url: https://binahero.com
   - name: explorer
     url: https://bscscan.com/token/0x78C3AdE403438B37638304F9FbbFB1b76608c1BD
-  - name: twitter
-    url: https://twitter.com/binahero
+  - name: x
+    url: https://x.com/binahero
   - name: telegram
     url: https://t.me/BinaHero
 ---

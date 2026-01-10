@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x71aB195498b6dC1656aBb4D9233f83Ae5F19495B
   - name: telegram
     url: https://t.me/MarvinInuofficial
-  - name: twitter
-    url: https://twitter.com/marvin_inu?s=21
+  - name: x
+    url: https://x.com/marvin_inu?s=21
 ---
 
 # Marvin Inu

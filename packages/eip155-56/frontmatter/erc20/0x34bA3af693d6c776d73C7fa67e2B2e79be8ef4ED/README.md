@@ -6,8 +6,8 @@ links:
     url: https://shambala.finance/
   - name: explorer
     url: https://bscscan.com/token/0x34bA3af693d6c776d73C7fa67e2B2e79be8ef4ED
-  - name: twitter
-    url: https://twitter.com/ShambalaUni
+  - name: x
+    url: https://x.com/ShambalaUni
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/shambala/
 ---

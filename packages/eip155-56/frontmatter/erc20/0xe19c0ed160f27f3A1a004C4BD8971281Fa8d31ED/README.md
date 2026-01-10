@@ -6,8 +6,8 @@ links:
     url: https://eggybsc.com
   - name: explorer
     url: https://bscscan.com/token/0xe19c0ed160f27f3A1a004C4BD8971281Fa8d31ED
-  - name: twitter
-    url: https://twitter.com/EGGY_BSC
+  - name: x
+    url: https://x.com/EGGY_BSC
 ---
 
 # EGGY

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x5232b3f532b58fbf96ec7cbdbf10c01cb0520c87
   - name: telegram
     url: https://t.me/rielcoin
-  - name: twitter
-    url: https://twitter.com/rielcoin
+  - name: x
+    url: https://x.com/rielcoin
   - name: facebook
     url: https://facebook.com/rielcoin
   - name: source_code

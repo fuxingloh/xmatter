@@ -6,8 +6,8 @@ links:
     url: https://www.babyxrp.org/
   - name: explorer
     url: https://bscscan.com/token/0x8beAbaa4f025D00B4699d56a683758d692d17F20
-  - name: twitter
-    url: https://twitter.com/officialbabyxrp
+  - name: x
+    url: https://x.com/officialbabyxrp
   - name: telegram
     url: https://t.me/OfficialBabyXRP
   - name: coinmarketcap

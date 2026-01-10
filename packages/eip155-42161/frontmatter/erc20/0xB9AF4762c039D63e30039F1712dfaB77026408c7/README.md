@@ -6,8 +6,8 @@ links:
     url: https://bull-bear.ai/
   - name: explorer
     url: https://arbiscan.io/token/0xb9af4762c039d63e30039f1712dfab77026408c7
-  - name: twitter
-    url: https://twitter.com/bullbear_ai
+  - name: x
+    url: https://x.com/bullbear_ai
   - name: telegram
     url: https://t.me/ai_bullbear
   - name: coinmarketcap

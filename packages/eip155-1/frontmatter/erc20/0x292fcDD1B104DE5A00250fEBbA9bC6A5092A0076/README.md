@@ -6,8 +6,8 @@ links:
     url: https://hashai.cc
   - name: explorer
     url: https://etherscan.io/token/0x292fcDD1B104DE5A00250fEBbA9bC6A5092A0076
-  - name: twitter
-    url: https://twitter.com/HashAi_Eth
+  - name: x
+    url: https://x.com/HashAi_Eth
 ---
 
 # HashAI

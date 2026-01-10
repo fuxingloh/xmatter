@@ -6,8 +6,8 @@ links:
     url: https://www.chaincade.com
   - name: explorer
     url: https://bscscan.com/token/0x2FFEE7b4DF74F7C6508A4Af4D6D91058dA5420D0
-  - name: twitter
-    url: https://twitter.com/chaincadebsc
+  - name: x
+    url: https://x.com/chaincadebsc
   - name: github
     url: https://github.com/chaincade
   - name: telegram

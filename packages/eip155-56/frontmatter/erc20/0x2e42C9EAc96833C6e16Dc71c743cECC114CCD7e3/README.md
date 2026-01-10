@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x2e42C9EAc96833C6e16Dc71c743cECC114CCD7e3
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/metacash/
-  - name: twitter
-    url: https://twitter.com/MetaCashBSC
+  - name: x
+    url: https://x.com/MetaCashBSC
   - name: telegram
     url: https://t.me/MetaCash
 ---

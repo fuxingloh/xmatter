@@ -6,8 +6,8 @@ links:
     url: https://ondo.finance/
   - name: explorer
     url: https://etherscan.io/token/0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3
-  - name: twitter
-    url: https://twitter.com/ondofinance
+  - name: x
+    url: https://x.com/ondofinance
   - name: telegram
     url: https://t.me/ondofinance
   - name: coinmarketcap

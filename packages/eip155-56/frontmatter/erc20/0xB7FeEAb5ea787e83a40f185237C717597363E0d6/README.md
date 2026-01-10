@@ -6,8 +6,8 @@ links:
     url: https://xenonpay.org
   - name: explorer
     url: https://bscscan.com/token/0xB7FeEAb5ea787e83a40f185237C717597363E0d6
-  - name: twitter
-    url: https://twitter.com/PayX2P
+  - name: x
+    url: https://x.com/PayX2P
   - name: whitepaper
     url: https://assets.website-files.com/610aef4e2da61c281db06172/6116c6bdb929435fbc897923_Whitepaper_X2P_Official.pdf
   - name: telegram

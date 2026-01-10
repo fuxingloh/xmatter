@@ -8,8 +8,8 @@ links:
     url: https://hpop8i.com/
   - name: explorer
     url: https://etherscan.io/token/0x07E0EDf8ce600FB51d44F51E3348D77D67F298ae
-  - name: twitter
-    url: https://twitter.com/HPOP8I
+  - name: x
+    url: https://x.com/HPOP8I
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/harrypotterobamapacman8inu/
 ---

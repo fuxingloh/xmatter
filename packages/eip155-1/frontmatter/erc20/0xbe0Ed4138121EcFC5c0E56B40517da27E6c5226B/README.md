@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xbe0ed4138121ecfc5c0e56b40517da27e6c5226b
   - name: telegram
     url: https://t.me/aethir_cloud
-  - name: twitter
-    url: https://twitter.com/AethirCloud
+  - name: x
+    url: https://x.com/AethirCloud
 ---
 
 # Aethir

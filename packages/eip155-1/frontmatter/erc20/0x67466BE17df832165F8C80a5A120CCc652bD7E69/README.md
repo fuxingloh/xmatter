@@ -6,8 +6,8 @@ links:
     url: https://boysclubwolf.com/
   - name: explorer
     url: https://etherscan.io/token/0x67466be17df832165f8c80a5a120ccc652bd7e69
-  - name: twitter
-    url: https://twitter.com/Wolf0x67
+  - name: x
+    url: https://x.com/Wolf0x67
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/landwolf-coin/
 ---

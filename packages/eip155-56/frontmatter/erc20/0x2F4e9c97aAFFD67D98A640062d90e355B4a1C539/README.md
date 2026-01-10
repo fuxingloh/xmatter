@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x2F4e9c97aAFFD67D98A640062d90e355B4a1C539
   - name: telegram
     url: https://t.me/afrostarcommunity
-  - name: twitter
-    url: https://twitter.com/afrostarcrypto
+  - name: x
+    url: https://x.com/afrostarcrypto
   - name: reddit
     url: https://reddit.com/user/afrostarcrypto
   - name: discord

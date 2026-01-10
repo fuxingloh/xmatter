@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xE66747a101bFF2dBA3697199DCcE5b743b454759
   - name: github
     url: https://github.com/gatechain
-  - name: twitter
-    url: https://twitter.com/gatechain_io/photo
+  - name: x
+    url: https://x.com/gatechain_io/photo
   - name: blog
     url: https://medium.com/@gatechain
   - name: coingecko

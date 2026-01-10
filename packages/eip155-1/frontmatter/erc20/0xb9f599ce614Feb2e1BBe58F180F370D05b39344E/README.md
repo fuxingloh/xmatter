@@ -6,8 +6,8 @@ links:
     url: https://porkcoin.com/
   - name: explorer
     url: https://etherscan.io/token/0xb9f599ce614Feb2e1BBe58F180F370D05b39344E
-  - name: twitter
-    url: https://twitter.com/Pork0x
+  - name: x
+    url: https://x.com/Pork0x
   - name: coingecko
     url: https://coingecko.com/en/coins/pepefork/
 ---

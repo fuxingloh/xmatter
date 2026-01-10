@@ -6,8 +6,8 @@ links:
     url: https://magicdoge.net
   - name: explorer
     url: https://bscscan.com/token/0x46568808a8d73c301071b8dF710402Ce44F1C472
-  - name: twitter
-    url: https://twitter.com/MagicDogeToken
+  - name: x
+    url: https://x.com/MagicDogeToken
   - name: facebook
     url: https://facebook.com/magicdogeofficial/
   - name: telegram

@@ -15,8 +15,8 @@ links:
     url: https://coingecko.com/coins/asix
   - name: telegram
     url: https://t.me/asixtoken
-  - name: twitter
-    url: https://twitter.com/AsixToken
+  - name: x
+    url: https://x.com/AsixToken
 ---
 
 # ASIX Token

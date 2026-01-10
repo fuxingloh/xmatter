@@ -6,8 +6,8 @@ links:
     url: https://naftytoken.com
   - name: explorer
     url: https://bscscan.com/token/0x18C5fAC26C5d8b859b3A83f0f167D8924098d28a
-  - name: twitter
-    url: https://twitter.com/naftyofficial
+  - name: x
+    url: https://x.com/naftyofficial
   - name: telegram
     url: https://t.me/naftydiscussions
   - name: whitepaper

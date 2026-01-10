@@ -6,8 +6,8 @@ links:
     url: https://www.bomeow.com
   - name: explorer
     url: https://solscan.io/token/BTWvZsjwgnGT7qSM3AAXxjZohCLsMHpdAhaiQMJbBvcF
-  - name: twitter
-    url: https://twitter.com/hulvinsol
+  - name: x
+    url: https://x.com/hulvinsol
   - name: coingecko
     url: https://coingecko.com/en/coins/hulvin
 ---

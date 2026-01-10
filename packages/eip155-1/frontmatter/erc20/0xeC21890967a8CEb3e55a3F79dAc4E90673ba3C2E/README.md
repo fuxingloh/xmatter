@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xec21890967a8ceb3e55a3f79dac4e90673ba3c2e
   - name: telegram
     url: https://t.me/BEBE_Officiall
-  - name: twitter
-    url: https://twitter.com/xbebe_artist?s=21
+  - name: x
+    url: https://x.com/xbebe_artist?s=21
 ---
 
 # BEBE

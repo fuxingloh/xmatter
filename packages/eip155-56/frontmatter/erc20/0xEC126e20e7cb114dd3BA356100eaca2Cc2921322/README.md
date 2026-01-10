@@ -10,8 +10,8 @@ links:
     url: https://t.me/solarenergyfinance
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/solar-energy/
-  - name: twitter
-    url: https://twitter.com/solarenergy2021
+  - name: x
+    url: https://x.com/solarenergy2021
 ---
 
 # Solar Energy

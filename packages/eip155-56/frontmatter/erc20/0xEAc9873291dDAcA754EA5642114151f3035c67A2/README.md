@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xEAc9873291dDAcA754EA5642114151f3035c67A2
   - name: telegram
     url: https://t.me/decubate
-  - name: twitter
-    url: https://twitter.com/decubate
+  - name: x
+    url: https://x.com/decubate
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/decubate/
 ---

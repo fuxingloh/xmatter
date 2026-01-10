@@ -11,8 +11,8 @@ links:
     url: https://etherscan.io/token/0x1a4b46696b2bb4794eb3d4c26f1c55f9170fa4c5
   - name: discord
     url: https://discord.com/invite/bitdao
-  - name: twitter
-    url: https://twitter.com/bitdao_official
+  - name: x
+    url: https://x.com/bitdao_official
   - name: telegram
     url: https://t.me/bitdao_official
   - name: blog

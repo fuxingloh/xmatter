@@ -6,8 +6,8 @@ links:
     url: https://dogezillacoin.com
   - name: explorer
     url: https://bscscan.com/token/0x7a565284572d03ec50c35396f7d6001252eb43b6
-  - name: twitter
-    url: https://twitter.com/dogezillacoin
+  - name: x
+    url: https://x.com/dogezillacoin
   - name: telegram
     url: https://t.me/DogeZillaPortal
 ---

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xaEC945e04baF28b135Fa7c640f624f8D90F1C3a6
   - name: github
     url: https://github.com/coin98
-  - name: twitter
-    url: https://twitter.com/coin98_finance
+  - name: x
+    url: https://x.com/coin98_finance
   - name: telegram
     url: https://t.me/coin98_labs
   - name: whitepaper

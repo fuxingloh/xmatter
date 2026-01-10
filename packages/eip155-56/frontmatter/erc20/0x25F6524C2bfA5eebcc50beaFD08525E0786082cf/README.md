@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x25f6524c2bfa5eebcc50beafd08525e0786082cf
   - name: github
     url: https://github.com/MarioBros-Coin/MarioBrosCoin
-  - name: twitter
-    url: https://twitter.com/Mariobroscoin
+  - name: x
+    url: https://x.com/Mariobroscoin
   - name: telegram
     url: https://t.me/mariobros_coin
   - name: reddit

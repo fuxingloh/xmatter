@@ -6,8 +6,8 @@ links:
     url: https://www.solgoat.io/
   - name: explorer
     url: https://solscan.io/token/9HXewqNjkHz22AKds3JUzFBNguzhoH4cJ4h1EksZyPGH
-  - name: twitter
-    url: https://twitter.com/SOLGOATCOIN
+  - name: x
+    url: https://x.com/SOLGOATCOIN
 ---
 
 # SOLGOAT

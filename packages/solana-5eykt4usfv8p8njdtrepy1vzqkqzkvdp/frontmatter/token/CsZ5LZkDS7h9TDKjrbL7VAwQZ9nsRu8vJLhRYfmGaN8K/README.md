@@ -8,8 +8,8 @@ links:
     url: https://aleph.im/
   - name: explorer
     url: https://solscan.io/token/CsZ5LZkDS7h9TDKjrbL7VAwQZ9nsRu8vJLhRYfmGaN8K
-  - name: twitter
-    url: https://twitter.com/aleph_im
+  - name: x
+    url: https://x.com/aleph_im
   - name: github
     url: https://github.com/aleph-im
   - name: coinmarketcap

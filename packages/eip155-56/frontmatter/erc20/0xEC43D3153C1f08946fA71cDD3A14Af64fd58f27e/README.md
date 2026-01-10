@@ -6,8 +6,8 @@ links:
     url: http://pawnmynft.online/
   - name: explorer
     url: https://bscscan.com/token/0xEC43D3153C1f08946fA71cDD3A14Af64fd58f27e
-  - name: twitter
-    url: https://twitter.com/PawnMyNFT
+  - name: x
+    url: https://x.com/PawnMyNFT
   - name: telegram
     url: https://t.me/PawnMyNFT
   - name: coingecko

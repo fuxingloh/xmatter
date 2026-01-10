@@ -6,8 +6,8 @@ links:
     url: http://cocopad.co/
   - name: explorer
     url: https://bscscan.com/token/0xFd431CB76965cF80c6FCec011a273B46df23EB04
-  - name: twitter
-    url: https://twitter.com/Cocopad_BSC
+  - name: x
+    url: https://x.com/Cocopad_BSC
   - name: telegram
     url: https://t.me/cocopad_official
   - name: medium

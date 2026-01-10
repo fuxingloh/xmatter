@@ -6,8 +6,8 @@ links:
     url: https://asteroidshiba-erc.com/
   - name: explorer
     url: https://etherscan.io/token/0xf280b16ef293d8e534e370794ef26bf312694126
-  - name: twitter
-    url: https://twitter.com/ashiba_eth?s=21
+  - name: x
+    url: https://x.com/ashiba_eth?s=21
   - name: telegram
     url: https://t.me/AsteroidShibaCTO
 ---

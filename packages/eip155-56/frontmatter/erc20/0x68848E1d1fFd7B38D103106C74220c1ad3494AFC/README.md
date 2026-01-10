@@ -6,8 +6,8 @@ links:
     url: https://www.rewardsbunny.com/
   - name: explorer
     url: https://bscscan.com/token/0x68848e1d1ffd7b38d103106c74220c1ad3494afc
-  - name: twitter
-    url: https://twitter.com/RewardsBunny
+  - name: x
+    url: https://x.com/RewardsBunny
   - name: whitepaper
     url: https://rewardsbunny.com/whitepaper
   - name: medium

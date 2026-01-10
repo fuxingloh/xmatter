@@ -8,8 +8,8 @@ links:
     url: https://akash.network
   - name: explorer
     url: https://etherscan.io/token/0xC727f87871ee12Bbcedd2973746D1Deb7529aaD6
-  - name: twitter
-    url: https://twitter.com/akashnet_
+  - name: x
+    url: https://x.com/akashnet_
   - name: telegram
     url: https://t.me/AkashNW
   - name: coinmarketcap

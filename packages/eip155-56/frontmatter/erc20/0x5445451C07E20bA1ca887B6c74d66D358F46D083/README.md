@@ -8,8 +8,8 @@ links:
     url: https://zombieworldz.io
   - name: explorer
     url: https://bscscan.com/token/0x5445451C07E20bA1ca887B6c74d66D358F46D083
-  - name: twitter
-    url: https://twitter.com/ZWZ_Official
+  - name: x
+    url: https://x.com/ZWZ_Official
   - name: telegram
     url: https://t.me/zombieworldz
   - name: discord

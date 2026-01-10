@@ -6,8 +6,8 @@ links:
     url: https://quidax.com
   - name: explorer
     url: https://bscscan.com/token/0x08bc237aa00f275b758542c9f5c125b568bc390a
-  - name: twitter
-    url: https://twitter.com/QuidaxGlobal
+  - name: x
+    url: https://x.com/QuidaxGlobal
   - name: telegram
     url: https://t.me/QDXToken
 ---

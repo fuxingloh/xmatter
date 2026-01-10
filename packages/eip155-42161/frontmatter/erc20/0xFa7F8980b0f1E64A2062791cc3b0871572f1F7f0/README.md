@@ -11,8 +11,8 @@ links:
     url: https://arbiscan.io/token/0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0
   - name: discord
     url: https://discord.com/invite/XErMcTq
-  - name: twitter
-    url: https://twitter.com/UniswapProtocol
+  - name: x
+    url: https://x.com/UniswapProtocol
   - name: blog
     url: https://uniswap.org/blog/uni/
   - name: coinmarketcap

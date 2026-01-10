@@ -8,8 +8,8 @@ links:
     url: https://healthland.io/
   - name: explorer
     url: https://bscscan.com/token/0x1a8B6E637aAB57c8544DC90BD813c62fAA68AA1C
-  - name: twitter
-    url: https://twitter.com/healthland_io
+  - name: x
+    url: https://x.com/healthland_io
   - name: telegram
     url: https://t.me/healthland_io
 ---

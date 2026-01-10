@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x88c55B3255aE1e6628C953C5CDfF27Ad3Cc33C81
   - name: github
     url: https://github.com/MyDefiLegendsOfficial/
-  - name: twitter
-    url: https://twitter.com/MyDefiLegends
+  - name: x
+    url: https://x.com/MyDefiLegends
   - name: telegram
     url: https://t.me/MyDefiLegends
 ---

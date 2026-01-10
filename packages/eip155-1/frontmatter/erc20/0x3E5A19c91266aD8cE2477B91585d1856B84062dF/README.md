@@ -6,8 +6,8 @@ links:
     url: https://ancient8.gg/
   - name: explorer
     url: https://etherscan.io/token/0x3E5A19c91266aD8cE2477B91585d1856B84062dF
-  - name: twitter
-    url: https://twitter.com/Ancient8_gg
+  - name: x
+    url: https://x.com/Ancient8_gg
   - name: telegram
     url: https://t.me/ancient8_gg
   - name: coinmarketcap

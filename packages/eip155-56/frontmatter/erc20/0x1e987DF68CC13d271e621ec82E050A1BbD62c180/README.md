@@ -9,8 +9,8 @@ links:
     url: https://www.wagmigame.io/
   - name: explorer
     url: https://bscscan.com/token/0x1e987DF68CC13d271e621ec82E050A1BbD62c180
-  - name: twitter
-    url: https://twitter.com/WagmiGameCo
+  - name: x
+    url: https://x.com/WagmiGameCo
   - name: discord
     url: https://discord.com/wagmigame
   - name: reddit

@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272
   - name: github
     url: https://github.com/sushiswap
-  - name: twitter
-    url: https://twitter.com/SushiSwap
+  - name: x
+    url: https://x.com/SushiSwap
   - name: discord
     url: https://discord.com/invite/sqhXAqc
 ---

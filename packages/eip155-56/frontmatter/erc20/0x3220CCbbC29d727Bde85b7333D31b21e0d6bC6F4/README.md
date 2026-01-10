@@ -6,8 +6,8 @@ links:
     url: https://pupdoge.finance/
   - name: explorer
     url: https://bscscan.com/token/0x3220CCbbC29d727Bde85b7333D31b21e0d6bC6F4
-  - name: twitter
-    url: https://twitter.com/PupDogeCoin
+  - name: x
+    url: https://x.com/PupDogeCoin
   - name: telegram
     url: https://t.me/pupdogecoin
 ---

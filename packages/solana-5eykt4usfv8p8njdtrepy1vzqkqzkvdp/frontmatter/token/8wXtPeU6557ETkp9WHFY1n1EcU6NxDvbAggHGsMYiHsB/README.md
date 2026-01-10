@@ -6,8 +6,8 @@ links:
     url: https://wallstsucks.lol
   - name: explorer
     url: https://solscan.io/token/8wXtPeU6557ETkp9WHFY1n1EcU6NxDvbAggHGsMYiHsB
-  - name: twitter
-    url: https://twitter.com/gmecoinsol
+  - name: x
+    url: https://x.com/gmecoinsol
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/gme/
 ---

@@ -6,8 +6,8 @@ links:
     url: https://www.fletaconnect.io
   - name: explorer
     url: https://polygonscan.com/token/0xE33dC9d2D7D64c1e23467aC7eD7F8eF56d0a8d66
-  - name: twitter
-    url: https://twitter.com/fletachain
+  - name: x
+    url: https://x.com/fletachain
   - name: github
     url: https://github.com/fletaio/fletaconnect
   - name: telegram

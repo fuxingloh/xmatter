@@ -8,8 +8,8 @@ links:
     url: https://www.legocoinlive.com/
   - name: explorer
     url: https://bscscan.com/token/0x520EbCcc63E4d0804b35Cda25978BEb7159bF0CC
-  - name: twitter
-    url: https://twitter.com/legocoinlive
+  - name: x
+    url: https://x.com/legocoinlive
   - name: telegram
     url: https://t.me/legocoinlive
   - name: coingecko

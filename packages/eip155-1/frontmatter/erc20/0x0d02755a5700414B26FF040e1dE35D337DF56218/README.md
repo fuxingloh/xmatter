@@ -8,8 +8,8 @@ links:
     url: https://www.benddao.xyz/
   - name: explorer
     url: https://etherscan.io/token/0x0d02755a5700414B26FF040e1dE35D337DF56218
-  - name: twitter
-    url: https://twitter.com/BendDAO
+  - name: x
+    url: https://x.com/BendDAO
   - name: github
     url: https://github.com/BendDAO/
 ---

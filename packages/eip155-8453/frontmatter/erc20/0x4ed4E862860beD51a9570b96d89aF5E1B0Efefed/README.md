@@ -8,8 +8,8 @@ links:
     url: https://www.degen.tips/
   - name: explorer
     url: https://basescan.org/token/0x4ed4e862860bed51a9570b96d89af5e1b0efefed
-  - name: twitter
-    url: https://twitter.com/degentokenbase
+  - name: x
+    url: https://x.com/degentokenbase
   - name: telegram
     url: https://t.me/degentokenbase
   - name: coinmarketcap

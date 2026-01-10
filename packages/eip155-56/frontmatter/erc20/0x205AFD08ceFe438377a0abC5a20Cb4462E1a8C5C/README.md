@@ -8,8 +8,8 @@ links:
     url: https://obroktoken.com
   - name: explorer
     url: https://bscscan.com/token/0x205afd08cefe438377a0abc5a20cb4462e1a8c5c
-  - name: twitter
-    url: https://twitter.com/Obroktoken
+  - name: x
+    url: https://x.com/Obroktoken
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/obrok-token/
   - name: coingecko

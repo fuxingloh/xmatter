@@ -6,8 +6,8 @@ links:
     url: https://thedogeworld.io
   - name: explorer
     url: https://bscscan.com/token/0xc5a72FC4324EF3fcEBAFf9b5E729487719Eb5B7A
-  - name: twitter
-    url: https://twitter.com/thedogeworld_io
+  - name: x
+    url: https://x.com/thedogeworld_io
   - name: telegram
     url: https://t.me/thedogeworld_io
   - name: coingecko

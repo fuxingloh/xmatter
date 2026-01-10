@@ -8,8 +8,8 @@ links:
     url: http://ladz.city/
   - name: explorer
     url: https://etherscan.io/token/0x1287c0509df9a475Ef178471aB2132b9dfD312B3
-  - name: twitter
-    url: https://twitter.com/ladzcity
+  - name: x
+    url: https://x.com/ladzcity
   - name: discord
     url: https://discord.com/invite/aX5bGCBkmR/
   - name: youtube

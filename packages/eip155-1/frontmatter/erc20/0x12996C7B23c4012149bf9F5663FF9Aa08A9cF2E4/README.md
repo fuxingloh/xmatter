@@ -6,8 +6,8 @@ links:
     url: https://wsh-token.com/
   - name: explorer
     url: https://etherscan.io/token/0x12996C7B23c4012149bf9F5663FF9Aa08A9cF2E4
-  - name: twitter
-    url: https://twitter.com/WshToken
+  - name: x
+    url: https://x.com/WshToken
   - name: telegram
     url: https://t.me/wsh_token
 ---

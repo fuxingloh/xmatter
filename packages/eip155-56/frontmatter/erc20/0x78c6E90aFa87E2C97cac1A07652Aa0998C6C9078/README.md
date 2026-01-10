@@ -9,8 +9,8 @@ links:
     url: https://haretoken.finance/
   - name: explorer
     url: https://bscscan.com/token/0x78c6E90aFa87E2C97cac1A07652Aa0998C6C9078
-  - name: twitter
-    url: https://twitter.com/Hare_token
+  - name: x
+    url: https://x.com/Hare_token
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/hare-plus/
   - name: telegram

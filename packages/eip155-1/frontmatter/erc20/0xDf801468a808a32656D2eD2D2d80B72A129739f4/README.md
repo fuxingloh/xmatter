@@ -8,8 +8,8 @@ links:
     url: https://www.somniumspace.com/
   - name: explorer
     url: https://etherscan.io/token/0xdf801468a808a32656d2ed2d2d80b72a129739f4
-  - name: twitter
-    url: https://twitter.com/somniumspace
+  - name: x
+    url: https://x.com/somniumspace
   - name: telegram
     url: https://t.me/somniumspace
   - name: coinmarketcap

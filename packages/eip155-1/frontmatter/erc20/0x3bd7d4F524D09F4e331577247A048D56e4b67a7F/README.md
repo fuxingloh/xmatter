@@ -6,8 +6,8 @@ links:
     url: https://www.5ire.org/
   - name: explorer
     url: https://etherscan.io/token/0x3bd7d4F524D09F4e331577247A048D56e4b67a7F
-  - name: twitter
-    url: https://twitter.com/5ireChain
+  - name: x
+    url: https://x.com/5ireChain
   - name: telegram
     url: https://t.me/OfficialFireChain
   - name: coinmarketcap

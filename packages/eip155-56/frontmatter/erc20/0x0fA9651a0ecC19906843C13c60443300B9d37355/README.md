@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x0fA9651a0ecC19906843C13c60443300B9d37355
   - name: reddit
     url: https://reddit.com/r/XMINE
-  - name: twitter
-    url: https://twitter.com/xmineofficial
+  - name: x
+    url: https://x.com/xmineofficial
   - name: facebook
     url: https://facebook.com/xmineofficial
   - name: discord

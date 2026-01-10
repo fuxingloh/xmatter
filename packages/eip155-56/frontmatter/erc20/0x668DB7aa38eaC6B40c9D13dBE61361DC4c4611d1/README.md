@@ -6,8 +6,8 @@ links:
     url: http://mdt.io
   - name: explorer
     url: https://bscscan.com/token/0x668db7aa38eac6b40c9d13dbe61361dc4c4611d1
-  - name: twitter
-    url: https://twitter.com/MeasurableData
+  - name: x
+    url: https://x.com/MeasurableData
   - name: github
     url: https://github.com/measurabledatatoken
   - name: coinmarketcap

@@ -8,8 +8,8 @@ links:
     url: https://tapfantasy.io/
   - name: explorer
     url: https://bscscan.com/token/0x35bEdBF9291b22218a0dA863170dcC9329Ef2563
-  - name: twitter
-    url: https://twitter.com/tapfantasy2021
+  - name: x
+    url: https://x.com/tapfantasy2021
   - name: github
     url: https://github.com/tapfantasy/
   - name: telegram

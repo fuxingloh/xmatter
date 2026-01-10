@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x62359Ed7505Efc61FF1D56fEF82158CcaffA23D7
   - name: github
     url: https://github.com/cVault-finance/
-  - name: twitter
-    url: https://twitter.com/CORE_VAULT
+  - name: x
+    url: https://x.com/CORE_VAULT
   - name: telegram
     url: https://t.me/COREVault
 ---

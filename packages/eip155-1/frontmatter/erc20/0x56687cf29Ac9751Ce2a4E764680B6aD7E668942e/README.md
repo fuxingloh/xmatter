@@ -6,8 +6,8 @@ links:
     url: https://outpost-protocol.com/jamm
   - name: explorer
     url: https://etherscan.io/token/0x56687cf29Ac9751Ce2a4E764680B6aD7E668942e
-  - name: twitter
-    url: https://twitter.com/jammsession_
+  - name: x
+    url: https://x.com/jammsession_
 ---
 
 # FlynJamm

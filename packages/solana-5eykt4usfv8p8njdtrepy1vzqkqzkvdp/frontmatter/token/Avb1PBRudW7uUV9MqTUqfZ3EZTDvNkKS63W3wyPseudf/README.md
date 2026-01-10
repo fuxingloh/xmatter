@@ -6,8 +6,8 @@ links:
     url: https://catwiftoken.org/
   - name: explorer
     url: https://solscan.io/token/Avb1PBRudW7uUV9MqTUqfZ3EZTDvNkKS63W3wyPseudf
-  - name: twitter
-    url: https://twitter.com/Catwifhat_2024
+  - name: x
+    url: https://x.com/Catwifhat_2024
 ---
 
 # CatWifHat

@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/2JcXacFwt9mVAwBQ5nZkYwCyXQkRcdsYrDXn6hj22SbP
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/mini/
-  - name: twitter
-    url: https://twitter.com/minigangsol
+  - name: x
+    url: https://x.com/minigangsol
 ---
 
 # mini

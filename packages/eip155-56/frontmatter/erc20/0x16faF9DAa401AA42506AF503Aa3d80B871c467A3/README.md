@@ -6,8 +6,8 @@ links:
     url: https://dexcheck.ai/
   - name: explorer
     url: https://bscscan.com/token/0x16faf9daa401aa42506af503aa3d80b871c467a3
-  - name: twitter
-    url: https://twitter.com/DexCheck_io
+  - name: x
+    url: https://x.com/DexCheck_io
   - name: whitepaper
     url: https://t.me/dexcheck
   - name: coinmarketcap

@@ -6,8 +6,8 @@ links:
     url: https://animeonbase.art/
   - name: explorer
     url: https://basescan.org/token/0x0e0c9756a3290cD782CF4aB73ac24D25291c9564
-  - name: twitter
-    url: https://twitter.com/animeonbase
+  - name: x
+    url: https://x.com/animeonbase
   - name: telegram
     url: https://t.me/AnimeOnBase
   - name: coinmarketcap

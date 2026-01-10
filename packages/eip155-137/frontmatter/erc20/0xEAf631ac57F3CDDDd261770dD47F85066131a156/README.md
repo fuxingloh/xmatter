@@ -6,8 +6,8 @@ links:
     url: https://www.equalizer.finance/
   - name: explorer
     url: https://polygonscan.com/token/0xEAf631ac57F3CDDDd261770dD47F85066131a156
-  - name: twitter
-    url: https://twitter.com/EqualizerFlash
+  - name: x
+    url: https://x.com/EqualizerFlash
   - name: github
     url: https://github.com/Equalizer-Finance
   - name: telegram

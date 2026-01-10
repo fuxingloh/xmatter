@@ -8,8 +8,8 @@ links:
     url: https://grokinucoin.vip/
   - name: explorer
     url: https://bscscan.com/token/0xD08b9e557D1f64c8dd50A168453eA302A83E47FC
-  - name: twitter
-    url: https://twitter.com/RealGrok_Inu
+  - name: x
+    url: https://x.com/RealGrok_Inu
   - name: telegram
     url: https://t.me/grokinu_portal
   - name: whitepaper

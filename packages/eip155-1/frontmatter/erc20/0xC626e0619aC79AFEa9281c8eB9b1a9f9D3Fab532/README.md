@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xc626e0619ac79afea9281c8eb9b1a9f9d3fab532
   - name: github
     url: https://github.com/Freedom-Reserve
-  - name: twitter
-    url: https://twitter.com/@freedomreserve1
+  - name: x
+    url: https://x.com/@freedomreserve1
   - name: telegram
     url: https://t.me/freedomreserve1
   - name: whitepaper

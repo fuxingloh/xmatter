@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x6d6ba21e4c4b29ca7bfa1c344ba1e35b8dae7205
   - name: github
     url: https://github.com/katanainu/katacoin-contract
-  - name: twitter
-    url: https://twitter.com/katanainu
+  - name: x
+    url: https://x.com/katanainu
   - name: telegram_news
     url: https://t.me/katanainuannouncement
   - name: telegram

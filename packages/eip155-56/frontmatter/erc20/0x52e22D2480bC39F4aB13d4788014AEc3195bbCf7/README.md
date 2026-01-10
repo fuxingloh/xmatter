@@ -6,8 +6,8 @@ links:
     url: https://safebank.app
   - name: explorer
     url: https://bscscan.com/token/0x52e22D2480bC39F4aB13d4788014AEc3195bbCf7
-  - name: twitter
-    url: https://twitter.com/SafeBankToken
+  - name: x
+    url: https://x.com/SafeBankToken
   - name: telegram
     url: https://t.me/SafeBank
   - name: whitepaper

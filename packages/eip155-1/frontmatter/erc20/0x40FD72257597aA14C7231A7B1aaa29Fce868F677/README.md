@@ -6,8 +6,8 @@ links:
     url: https://sora.org
   - name: explorer
     url: https://etherscan.io/token/0x40FD72257597aA14C7231A7B1aaa29Fce868F677
-  - name: twitter
-    url: https://twitter.com/Sora
+  - name: x
+    url: https://x.com/Sora
   - name: telegram
     url: https://t.me/sora_xor
   - name: reddit

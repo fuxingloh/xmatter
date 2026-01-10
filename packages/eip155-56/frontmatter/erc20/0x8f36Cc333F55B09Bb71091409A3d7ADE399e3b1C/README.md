@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x8f36Cc333F55B09Bb71091409A3d7ADE399e3b1C
   - name: github
     url: https://github.com/cherrynetwork
-  - name: twitter
-    url: https://twitter.com/cherry_network
+  - name: x
+    url: https://x.com/cherry_network
   - name: telegram
     url: https://t.me/cherrynetwork
   - name: medium

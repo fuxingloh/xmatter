@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x94ba29d58d419bd798b282476db3dd9d97ba8c23
   - name: telegram
     url: https://t.me/frostedcaketoken
-  - name: twitter
-    url: https://twitter.com/FrostedCakeBSC
+  - name: x
+    url: https://x.com/FrostedCakeBSC
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/frostedcake/
 ---

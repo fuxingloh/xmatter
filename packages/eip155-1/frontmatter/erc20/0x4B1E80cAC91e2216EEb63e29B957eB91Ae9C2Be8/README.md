@@ -6,8 +6,8 @@ links:
     url: https://jup.io
   - name: explorer
     url: https://etherscan.io/token/0x4B1E80cAC91e2216EEb63e29B957eB91Ae9C2Be8
-  - name: twitter
-    url: https://twitter.com/jup_project
+  - name: x
+    url: https://x.com/jup_project
   - name: blog
     url: https://blog.jup.io
   - name: facebook

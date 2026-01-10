@@ -6,8 +6,8 @@ links:
     url: https://koda.finance/
   - name: explorer
     url: https://bscscan.com/token/0x8094e772fA4A60bdEb1DfEC56AB040e17DD608D5
-  - name: twitter
-    url: https://twitter.com/CoinKoda
+  - name: x
+    url: https://x.com/CoinKoda
   - name: telegram
     url: https://t.me/kodakingofdogaltschat
   - name: discord

@@ -8,8 +8,8 @@ links:
     url: https://bitbtc.money/
   - name: explorer
     url: https://optimistic.etherscan.io/token/0x5029C236320b8f15eF0a657054B84d90bfBEDED3
-  - name: twitter
-    url: https://twitter.com/SatoshiNJunior
+  - name: x
+    url: https://x.com/SatoshiNJunior
   - name: medium
     url: https://ibitlabs.medium.com/
   - name: coinmarketcap

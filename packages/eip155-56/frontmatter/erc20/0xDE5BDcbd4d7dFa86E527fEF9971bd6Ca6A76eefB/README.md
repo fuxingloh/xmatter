@@ -8,8 +8,8 @@ links:
     url: https://ivendpay.com
   - name: explorer
     url: https://bscscan.com/token/0xde5bdcbd4d7dfa86e527fef9971bd6ca6a76eefb
-  - name: twitter
-    url: https://twitter.com/ivendpay
+  - name: x
+    url: https://x.com/ivendpay
   - name: telegram
     url: https://t.me/ivendpay_chat
 ---

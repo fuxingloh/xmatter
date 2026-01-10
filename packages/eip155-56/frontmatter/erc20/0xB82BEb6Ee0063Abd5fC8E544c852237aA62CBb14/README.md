@@ -8,8 +8,8 @@ links:
     url: https://squaretoken.org
   - name: explorer
     url: https://bscscan.com/token/0xB82BEb6Ee0063Abd5fC8E544c852237aA62CBb14
-  - name: twitter
-    url: https://twitter.com/tokensquare
+  - name: x
+    url: https://x.com/tokensquare
   - name: telegram
     url: https://t.me/officialsquaretoken
   - name: coinmarketcap

@@ -6,8 +6,8 @@ links:
     url: https://www.cryptify.ai/
   - name: explorer
     url: https://etherscan.io/token/0x3F66aE0c8E9Fb57f661aF4Ba8C8445D36ec5d7F7
-  - name: twitter
-    url: https://twitter.com/Cryptifyai
+  - name: x
+    url: https://x.com/Cryptifyai
   - name: telegram
     url: https://t.me/cryptifyai
 ---

@@ -8,8 +8,8 @@ links:
     url: https://snowtrace.io/token/0xF2F7CE610a091B94d41D69f4fF1129434a82E2f0
   - name: github
     url: https://github.com/GalaxyGoggle
-  - name: twitter
-    url: https://twitter.com/galaxygoggledao
+  - name: x
+    url: https://x.com/galaxygoggledao
   - name: telegram
     url: https://t.me/ApeX_Token
   - name: coinmarketcap

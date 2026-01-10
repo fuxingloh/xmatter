@@ -9,8 +9,8 @@ links:
     url: https://realshibadoge.com
   - name: explorer
     url: https://etherscan.io/token/0x6adb2e268de2aa1abf6578e4a8119b960e02928f
-  - name: twitter
-    url: https://twitter.com/realshibadoge
+  - name: x
+    url: https://x.com/realshibadoge
   - name: telegram
     url: https://t.me/ShibaDoge_Portal
   - name: whitepaper

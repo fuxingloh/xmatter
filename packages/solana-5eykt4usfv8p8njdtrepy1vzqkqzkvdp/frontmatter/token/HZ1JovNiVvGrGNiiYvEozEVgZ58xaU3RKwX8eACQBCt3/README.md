@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3
   - name: telegram
     url: https://t.me/Pyth_Network
-  - name: twitter
-    url: https://twitter.com/PythNetwork
+  - name: x
+    url: https://x.com/PythNetwork
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/pyth-network/
 ---

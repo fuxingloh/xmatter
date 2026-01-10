@@ -12,8 +12,8 @@ links:
     url: https://bscscan.com/token/0x984811e6f2695192add6f88615dF637bf52a5Cae
   - name: telegram
     url: https://t.me/HoppyMeme_Official
-  - name: twitter
-    url: https://twitter.com/HoppyMeme
+  - name: x
+    url: https://x.com/HoppyMeme
   - name: medium
     url: https://hoppymeme.medium.com/
 ---

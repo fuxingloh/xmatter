@@ -8,8 +8,8 @@ links:
     url: https://babygrok.ai
   - name: explorer
     url: https://bscscan.com/token/0x88da9901b3a02fe24e498e1ed683d2310383e295
-  - name: twitter
-    url: https://twitter.com/babygrok_
+  - name: x
+    url: https://x.com/babygrok_
   - name: telegram
     url: https://t.me/babygrok
   - name: coinmarketcap

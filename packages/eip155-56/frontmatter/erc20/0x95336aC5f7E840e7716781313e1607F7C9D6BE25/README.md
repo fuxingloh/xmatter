@@ -10,8 +10,8 @@ links:
     url: https://github.com/robustprotocol
   - name: docs
     url: https://docs.robustswap.com
-  - name: twitter
-    url: https://twitter.com/robustswap
+  - name: x
+    url: https://x.com/robustswap
   - name: telegram
     url: https://t.me/robustswap
   - name: telegram_news

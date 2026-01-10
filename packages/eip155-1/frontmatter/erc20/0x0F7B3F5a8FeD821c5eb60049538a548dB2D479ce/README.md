@@ -10,8 +10,8 @@ links:
     url: https://ator.io/
   - name: explorer
     url: https://etherscan.io/token/0x0f7b3f5a8fed821c5eb60049538a548db2d479ce
-  - name: twitter
-    url: https://twitter.com/atorprotocol
+  - name: x
+    url: https://x.com/atorprotocol
   - name: telegram
     url: https://t.me/atorofficialportal
   - name: github

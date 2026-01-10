@@ -10,8 +10,8 @@ links:
     url: https://rune.game/
   - name: explorer
     url: https://bscscan.com/token/0x2098fEf7eEae592038f4f3C4b008515fed0d5886
-  - name: twitter
-    url: https://twitter.com/RuneMetaverse
+  - name: x
+    url: https://x.com/RuneMetaverse
   - name: telegram
     url: https://t.me/RuneMetaverse
   - name: medium

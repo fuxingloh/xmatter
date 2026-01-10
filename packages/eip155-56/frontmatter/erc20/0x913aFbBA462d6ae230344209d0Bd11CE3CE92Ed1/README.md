@@ -8,8 +8,8 @@ links:
     url: https://rijentcoin.com/
   - name: explorer
     url: https://bscscan.com/token/0x913aFbBA462d6ae230344209d0Bd11CE3CE92Ed1
-  - name: twitter
-    url: https://twitter.com/RijentC
+  - name: x
+    url: https://x.com/RijentC
   - name: facebook
     url: https://facebook.com/rijentcoin
   - name: coinmarketcap

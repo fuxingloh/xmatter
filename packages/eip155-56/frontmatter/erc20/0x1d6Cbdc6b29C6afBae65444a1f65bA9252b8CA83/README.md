@@ -9,8 +9,8 @@ links:
     url: https://tor.cash
   - name: explorer
     url: https://bscscan.com/token/0x1d6Cbdc6b29C6afBae65444a1f65bA9252b8CA83
-  - name: twitter
-    url: https://twitter.com/HectorDAO_HEC
+  - name: x
+    url: https://x.com/HectorDAO_HEC
   - name: medium
     url: https://medium.com/@hectordao
   - name: whitepaper

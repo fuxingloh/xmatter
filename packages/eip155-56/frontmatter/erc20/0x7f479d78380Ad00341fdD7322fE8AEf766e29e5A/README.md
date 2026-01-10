@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x7f479d78380ad00341fdd7322fe8aef766e29e5a
   - name: github
     url: https://github.com/whirlfinance/sourcecode/commit/5bbbdbe26e4a5ee83ea21919cd2b1c807b283fad
-  - name: twitter
-    url: https://twitter.com/FinanceWhirl
+  - name: x
+    url: https://x.com/FinanceWhirl
   - name: telegram
     url: https://t.me/WhirlFinance
   - name: whitepaper

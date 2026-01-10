@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xb3Ed0A426155B79B898849803E3B36552f7ED507
   - name: github
     url: https://github.com/pendle-finance
-  - name: twitter
-    url: https://twitter.com/pendle_fi
+  - name: x
+    url: https://x.com/pendle_fi
   - name: docs
     url: https://docs.pendle.finance/
   - name: coingecko

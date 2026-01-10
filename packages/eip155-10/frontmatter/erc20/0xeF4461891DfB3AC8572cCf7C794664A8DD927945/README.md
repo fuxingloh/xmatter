@@ -6,8 +6,8 @@ links:
     url: https://walletconnect.network/
   - name: explorer
     url: https://optimistic.etherscan.io/token/0xeF4461891DfB3AC8572cCf7C794664A8DD927945
-  - name: twitter
-    url: https://twitter.com/WalletConnect
+  - name: x
+    url: https://x.com/WalletConnect
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/walletconnect-token/
 ---

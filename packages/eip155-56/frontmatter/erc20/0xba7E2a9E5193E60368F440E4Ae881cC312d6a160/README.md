@@ -9,8 +9,8 @@ links:
     url: https://minionsinu.net/
   - name: explorer
     url: https://bscscan.com/token/0xba7e2a9e5193e60368f440e4ae881cc312d6a160
-  - name: twitter
-    url: https://twitter.com/MinionsINUbsc
+  - name: x
+    url: https://x.com/MinionsINUbsc
   - name: telegram
     url: https://t.me/MinionsINUbsc
   - name: youtube

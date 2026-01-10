@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xd8a2aE43Fd061d24acd538e3866Ffc2c05151b53
   - name: telegram
     url: https://t.me/aircoinreal
-  - name: twitter
-    url: https://twitter.com/Aircoinreal
+  - name: x
+    url: https://x.com/Aircoinreal
   - name: github
     url: https://github.com/Aircoin-official
   - name: facebook

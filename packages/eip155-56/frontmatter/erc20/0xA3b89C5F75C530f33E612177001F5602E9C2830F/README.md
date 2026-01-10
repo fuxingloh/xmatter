@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xa3b89c5f75c530f33e612177001f5602e9c2830f
   - name: telegram
     url: https://t.me/miniBABYDOGEofficialgroup
-  - name: twitter
-    url: https://twitter.com/MBabydoge
+  - name: x
+    url: https://x.com/MBabydoge
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/mini-baby-doge/
   - name: coingecko

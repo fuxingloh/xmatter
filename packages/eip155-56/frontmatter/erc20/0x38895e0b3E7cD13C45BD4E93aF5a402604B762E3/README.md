@@ -6,8 +6,8 @@ links:
     url: https://babypoo.io/
   - name: explorer
     url: https://bscscan.com/token/0x38895e0b3E7cD13C45BD4E93aF5a402604B762E3
-  - name: twitter
-    url: https://twitter.com/babypootoken
+  - name: x
+    url: https://x.com/babypootoken
   - name: telegram
     url: https://t.me/OfficialBabyPooCoin
   - name: whitepaper

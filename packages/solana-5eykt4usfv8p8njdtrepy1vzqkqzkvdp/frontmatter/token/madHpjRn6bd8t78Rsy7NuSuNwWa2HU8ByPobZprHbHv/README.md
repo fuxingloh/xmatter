@@ -6,8 +6,8 @@ links:
     url: https://www.madcoin.vip/
   - name: explorer
     url: https://solscan.io/token/madHpjRn6bd8t78Rsy7NuSuNwWa2HU8ByPobZprHbHv
-  - name: twitter
-    url: https://twitter.com/madcoinvip
+  - name: x
+    url: https://x.com/madcoinvip
   - name: telegram
     url: https://t.me/MadCoinVip
 ---

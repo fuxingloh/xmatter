@@ -8,8 +8,8 @@ links:
     url: https://stablz.one
   - name: explorer
     url: https://etherscan.io/token/0xA4Eb9C64eC359D093eAc7B65F51Ef933D6e5F7cd
-  - name: twitter
-    url: https://twitter.com/Stablzone
+  - name: x
+    url: https://x.com/Stablzone
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/stablz/
   - name: telegram

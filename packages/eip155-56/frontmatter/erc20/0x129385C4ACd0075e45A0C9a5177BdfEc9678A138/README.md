@@ -8,8 +8,8 @@ links:
     url: https://metakings.ai
   - name: explorer
     url: https://bscscan.com/token/0x129385C4ACd0075e45A0C9a5177BdfEc9678A138
-  - name: twitter
-    url: https://twitter.com/metakingsai
+  - name: x
+    url: https://x.com/metakingsai
   - name: github
     url: https://github.com/metakings
   - name: telegram

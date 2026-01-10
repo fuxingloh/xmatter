@@ -6,8 +6,8 @@ links:
     url: https://rizeabove.finance
   - name: explorer
     url: https://bscscan.com/token/0x01e9611dF08548994C883e4Ca729B0128E73470F
-  - name: twitter
-    url: https://twitter.com/RizeToken
+  - name: x
+    url: https://x.com/RizeToken
   - name: telegram
     url: https://t.me/rzetoken
   - name: whitepaper

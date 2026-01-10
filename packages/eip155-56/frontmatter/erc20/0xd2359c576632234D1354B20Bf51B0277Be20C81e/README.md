@@ -12,8 +12,8 @@ links:
     url: https://coinmarketcap.com/currencies/gameguru
   - name: coingecko
     url: https://coingecko.com/en/coins/gameguru
-  - name: twitter
-    url: https://twitter.com/GameGuruToken
+  - name: x
+    url: https://x.com/GameGuruToken
   - name: telegram
     url: https://t.me/GameGuruToken
   - name: whitepaper

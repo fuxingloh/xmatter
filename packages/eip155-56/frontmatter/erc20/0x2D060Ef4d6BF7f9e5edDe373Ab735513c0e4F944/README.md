@@ -8,8 +8,8 @@ links:
     url: https://www.aitech.io/
   - name: explorer
     url: https://bscscan.com/token/0x2D060Ef4d6BF7f9e5edDe373Ab735513c0e4F944
-  - name: twitter
-    url: https://twitter.com/AITECHio
+  - name: x
+    url: https://x.com/AITECHio
   - name: telegram
     url: https://t.me/solidusaichat
   - name: discord

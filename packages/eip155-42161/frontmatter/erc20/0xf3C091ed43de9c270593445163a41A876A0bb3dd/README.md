@@ -6,8 +6,8 @@ links:
     url: https://orbs.com
   - name: explorer
     url: https://arbiscan.io/token/0xf3C091ed43de9c270593445163a41A876A0bb3dd
-  - name: twitter
-    url: https://twitter.com/orbs_network
+  - name: x
+    url: https://x.com/orbs_network
   - name: github
     url: https://github.com/orbs-network
   - name: telegram

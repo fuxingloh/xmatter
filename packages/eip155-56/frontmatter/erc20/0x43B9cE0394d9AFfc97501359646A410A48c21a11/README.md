@@ -8,8 +8,8 @@ links:
     url: https://pepecoin.rocks
   - name: explorer
     url: https://bscscan.com/token/0x43B9cE0394d9AFfc97501359646A410A48c21a11
-  - name: twitter
-    url: https://twitter.com/pepecoin_global
+  - name: x
+    url: https://x.com/pepecoin_global
   - name: github
     url: https://github.com/pepecoinbsc
   - name: telegram

@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x2ad9addd0d97ec3cdba27f92bf6077893b76ab0b
   - name: facebook
     url: https://facebook.com/JoinOurPlanet/
-  - name: twitter
-    url: https://twitter.com/joinourplanet/
+  - name: x
+    url: https://x.com/joinourplanet/
   - name: telegram
     url: https://t.me/JoinOurPlanet
   - name: coingecko

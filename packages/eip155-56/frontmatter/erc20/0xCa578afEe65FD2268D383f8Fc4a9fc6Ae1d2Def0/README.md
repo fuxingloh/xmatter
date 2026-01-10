@@ -6,8 +6,8 @@ links:
     url: https://fairmoon.community/
   - name: explorer
     url: https://bscscan.com/token/0xCa578afEe65FD2268D383f8Fc4a9fc6Ae1d2Def0
-  - name: twitter
-    url: https://twitter.com/fairmooncoin
+  - name: x
+    url: https://x.com/fairmooncoin
   - name: telegram
     url: https://t.me/fairmooncoin
   - name: discord

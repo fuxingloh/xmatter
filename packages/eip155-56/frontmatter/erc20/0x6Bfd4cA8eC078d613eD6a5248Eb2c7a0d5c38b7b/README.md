@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x6bfd4ca8ec078d613ed6a5248eb2c7a0d5c38b7b
   - name: reddit
     url: https://reddit.com/user/EcoChainOfficial?utm_medium=android_app&utm_source=share
-  - name: twitter
-    url: https://twitter.com/EcoChainToken?s=09
+  - name: x
+    url: https://x.com/EcoChainToken?s=09
   - name: telegram
     url: https://t.me/joinchat/Id7sXKJ0Xvw5ZTY0
 ---

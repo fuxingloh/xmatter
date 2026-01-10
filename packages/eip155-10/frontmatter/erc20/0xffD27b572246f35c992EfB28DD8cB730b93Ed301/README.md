@@ -6,8 +6,8 @@ links:
     url: https://www.rubicon.finance
   - name: explorer
     url: https://optimistic.etherscan.io/token/0xffD27b572246f35c992EfB28DD8cB730b93Ed301
-  - name: twitter
-    url: https://twitter.com/rubicondefi
+  - name: x
+    url: https://x.com/rubicondefi
   - name: telegram
     url: https://t.me/rubicondefi
 ---

@@ -9,8 +9,8 @@ links:
     url: https://www.web2inu.com
   - name: explorer
     url: https://bscscan.com/token/0x00998d97c22B564d1dAF39d493e74C21D83fffbA
-  - name: twitter
-    url: https://twitter.com/web2inu
+  - name: x
+    url: https://x.com/web2inu
   - name: github
     url: https://github.com/web2inu
   - name: telegram

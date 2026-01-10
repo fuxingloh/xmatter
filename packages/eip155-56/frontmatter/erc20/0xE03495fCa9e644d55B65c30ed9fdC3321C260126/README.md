@@ -6,8 +6,8 @@ links:
     url: https://whenlambo.vip/
   - name: explorer
     url: https://bscscan.com/token/0xE03495fCa9e644d55B65c30ed9fdC3321C260126
-  - name: twitter
-    url: https://twitter.com/@WhenLamboTokens
+  - name: x
+    url: https://x.com/@WhenLamboTokens
   - name: github
     url: https://github.com/whenlambotoken/whenlambo-protocol
   - name: telegram

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x708C671Aa997da536869B50B6C67FA0C32Ce80B2
   - name: telegram
     url: https://t.me/curate
-  - name: twitter
-    url: https://twitter.com/curateproject
+  - name: x
+    url: https://x.com/curateproject
   - name: reddit
     url: https://reddit.com/r/XCUR
   - name: discord

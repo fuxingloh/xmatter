@@ -6,8 +6,8 @@ links:
     url: https://artrade.app/
   - name: explorer
     url: https://solscan.io/token/ATRLuHph8dxnPny4WSNW7fxkhbeivBrtWbY6BfB4xpLj
-  - name: twitter
-    url: https://twitter.com/ArtradeApp
+  - name: x
+    url: https://x.com/ArtradeApp
 ---
 
 # Artrade

@@ -6,8 +6,8 @@ links:
     url: https://www.zetachain.com/
   - name: explorer
     url: https://bscscan.com/token/0x0000028a2eb8346cd5c0267856ab7594b7a55308
-  - name: twitter
-    url: https://twitter.com/zetablockchain
+  - name: x
+    url: https://x.com/zetablockchain
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/zetachain/
 ---

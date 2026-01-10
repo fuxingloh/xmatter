@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07
   - name: github
     url: https://github.com/omgnetwork
-  - name: twitter
-    url: https://twitter.com/omgnetworkhq
+  - name: x
+    url: https://x.com/omgnetworkhq
   - name: blog
     url: https://omg.network/blog
   - name: facebook

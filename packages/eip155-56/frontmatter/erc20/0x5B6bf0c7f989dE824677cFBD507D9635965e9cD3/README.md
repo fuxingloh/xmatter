@@ -8,8 +8,8 @@ links:
     url: https://gamium.world
   - name: explorer
     url: https://bscscan.com/token/0x5B6bf0c7f989dE824677cFBD507D9635965e9cD3
-  - name: twitter
-    url: https://twitter.com/gamiumcorp
+  - name: x
+    url: https://x.com/gamiumcorp
   - name: telegram
     url: https://t.me/gamiumcorp
   - name: coinmarketcap

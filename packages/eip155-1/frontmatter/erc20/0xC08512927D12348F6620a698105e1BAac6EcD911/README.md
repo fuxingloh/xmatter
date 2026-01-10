@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xC08512927D12348F6620a698105e1BAac6EcD911
   - name: github
     url: https://github.com/trust-zcom/
-  - name: twitter
-    url: https://twitter.com/GMOTrust
+  - name: x
+    url: https://x.com/GMOTrust
   - name: medium
     url: https://gmotrust.medium.com/
   - name: coinmarketcap

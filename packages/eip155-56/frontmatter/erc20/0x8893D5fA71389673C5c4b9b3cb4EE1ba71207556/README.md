@@ -6,8 +6,8 @@ links:
     url: https://squirrel.finance
   - name: explorer
     url: https://bscscan.com/token/0x8893D5fA71389673C5c4b9b3cb4EE1ba71207556
-  - name: twitter
-    url: https://twitter.com/SquirrelDeFi
+  - name: x
+    url: https://x.com/SquirrelDeFi
   - name: telegram
     url: https://t.me/SquirrelDeFi
 ---

@@ -8,8 +8,8 @@ links:
     url: https://solscan.io/token/HBoNJ5v8g71s2boRivrHnfSB5MVPLDHHyVjruPfhGkvL
   - name: telegram
     url: https://t.me/Purpe_SOL
-  - name: twitter
-    url: https://twitter.com/PurplePepeS0L
+  - name: x
+    url: https://x.com/PurplePepeS0L
 ---
 
 # Purple Pepe

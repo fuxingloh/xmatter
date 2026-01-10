@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC
   - name: github
     url: https://github.com/keep-network/keep-core
-  - name: twitter
-    url: https://twitter.com/keep_project
+  - name: x
+    url: https://x.com/keep_project
   - name: reddit
     url: https://reddit.com/r/KeepNetwork
   - name: coingecko

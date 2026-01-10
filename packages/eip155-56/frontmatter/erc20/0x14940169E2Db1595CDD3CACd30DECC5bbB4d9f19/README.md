@@ -8,8 +8,8 @@ links:
     url: https://www.santafloki.com/
   - name: explorer
     url: https://bscscan.com/token/0x14940169E2Db1595CDD3CACd30DECC5bbB4d9f19
-  - name: twitter
-    url: https://twitter.com/Santa_Floki
+  - name: x
+    url: https://x.com/Santa_Floki
   - name: telegram
     url: https://t.me/Santa_Floki
 ---

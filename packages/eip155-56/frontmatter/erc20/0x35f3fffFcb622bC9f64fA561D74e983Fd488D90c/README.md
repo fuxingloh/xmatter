@@ -7,15 +7,15 @@ links:
   - name: website
     url: https://p.cash/
   - name: explorer
-    url: https://bscscan.com/token/0x35f3ffffcb622bc9f64fa561d74e983fd488d90c
-  - name: twitter
-    url: https://twitter.com/PirateCash_NET
+    url: https://bscscan.com/token/0x35f3fffFcb622bC9f64fA561D74e983Fd488D90c
+  - name: x
+    url: https://x.com/PirateCash_NET
   - name: telegram
     url: https://t.me/pcash
   - name: whitepaper
     url: https://p.cash/en#about
   - name: source_code
-    url: https://bscscan.com/token/0x35f3ffffcb622bc9f64fa561d74e983fd488d90c#code
+    url: https://bscscan.com/token/0x35f3fffFcb622bC9f64fA561D74e983Fd488D90c#code
   - name: github
     url: https://github.com/piratecash
 ---

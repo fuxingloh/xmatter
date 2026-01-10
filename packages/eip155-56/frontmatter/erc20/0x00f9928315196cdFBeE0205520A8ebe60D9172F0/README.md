@@ -8,8 +8,8 @@ links:
     url: https://develocity.finance
   - name: explorer
     url: https://bscscan.com/token/0x00f9928315196cdFBeE0205520A8ebe60D9172F0
-  - name: twitter
-    url: https://twitter.com/develocitygroup
+  - name: x
+    url: https://x.com/develocitygroup
   - name: github
     url: https://github.com/DevelocityLLC/
   - name: telegram

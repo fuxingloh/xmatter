@@ -6,8 +6,8 @@ links:
     url: https://narwhalswap.org
   - name: explorer
     url: https://bscscan.com/token/0xa1303e6199b319a891b79685f0537d289af1fc83
-  - name: twitter
-    url: https://twitter.com/narwhalswap
+  - name: x
+    url: https://x.com/narwhalswap
   - name: telegram
     url: https://t.me/narwhalswap
   - name: medium

@@ -8,8 +8,8 @@ links:
     url: https://polygonscan.com/token/0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a
   - name: github
     url: https://github.com/sushiswap
-  - name: twitter
-    url: https://twitter.com/sushiswap
+  - name: x
+    url: https://x.com/sushiswap
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/sushiswap/
   - name: coingecko

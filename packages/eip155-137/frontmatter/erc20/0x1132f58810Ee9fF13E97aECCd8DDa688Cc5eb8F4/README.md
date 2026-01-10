@@ -8,8 +8,8 @@ links:
     url: https://polygonscan.com/token/0x1132f58810ee9ff13e97aeccd8dda688cc5eb8f4
   - name: discord
     url: https://discord.com/YcdXESeMzK
-  - name: twitter
-    url: https://twitter.com/spaceratmatic
+  - name: x
+    url: https://x.com/spaceratmatic
   - name: coingecko
     url: https://coingecko.com/en/coins/spacerat/
   - name: medium

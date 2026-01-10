@@ -13,8 +13,8 @@ links:
     url: https://coinmarketcap.com/currencies/frax/
   - name: coingecko
     url: https://coingecko.com/en/coins/frax/
-  - name: twitter
-    url: https://twitter.com/fraxfinance
+  - name: x
+    url: https://x.com/fraxfinance
 ---
 
 # Frax

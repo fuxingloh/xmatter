@@ -10,8 +10,8 @@ links:
     url: https://github.com/Pocmoncom
   - name: telegram
     url: https://t.me/pocmoncom
-  - name: twitter
-    url: https://twitter.com/pocmoncom
+  - name: x
+    url: https://x.com/pocmoncom
   - name: whitepaper
     url: https://pocmoncom.gitbook.io/pocmon/
 ---

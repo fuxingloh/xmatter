@@ -6,8 +6,8 @@ links:
     url: https://www.epik-protocol.io/
   - name: explorer
     url: https://bscscan.com/token/0x87ECEa8512516Ced5db9375c63c23A0846c73a57
-  - name: twitter
-    url: https://twitter.com/EpikProtocol
+  - name: x
+    url: https://x.com/EpikProtocol
   - name: telegram
     url: https://t.me/EpikProtocol
   - name: medium

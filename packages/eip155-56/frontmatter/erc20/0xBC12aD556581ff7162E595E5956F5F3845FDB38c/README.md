@@ -6,8 +6,8 @@ links:
     url: https://helicopterfinance.co/
   - name: explorer
     url: https://bscscan.com/token/0xBC12aD556581ff7162E595E5956F5F3845FDB38c
-  - name: twitter
-    url: https://twitter.com/Helicoptercorp
+  - name: x
+    url: https://x.com/Helicoptercorp
   - name: telegram
     url: https://t.me/helicopter_finance
 ---

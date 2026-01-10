@@ -8,8 +8,8 @@ links:
     url: https://mast.magic-cube.finance/#/farms
   - name: explorer
     url: https://bscscan.com/token/0xB31FD05CAF496CEf34C945667E90dd89C20E0D09
-  - name: twitter
-    url: https://twitter.com/MagicCubeDeFi
+  - name: x
+    url: https://x.com/MagicCubeDeFi
   - name: telegram
     url: https://t.me/magicpowercommunityglobal
   - name: github

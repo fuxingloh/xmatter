@@ -8,8 +8,8 @@ links:
     url: https://www.decentrawood.com/
   - name: explorer
     url: https://polygonscan.com/token/0xe77abb1e75d2913b2076dd16049992ffeaca5235
-  - name: twitter
-    url: https://twitter.com/decentrawood
+  - name: x
+    url: https://x.com/decentrawood
   - name: telegram
     url: https://t.me/decentrawood_platform
   - name: facebook

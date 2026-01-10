@@ -6,8 +6,8 @@ links:
     url: https://goldmoney.network/
   - name: explorer
     url: https://bscscan.com/token/0x9fdb6a13bdcf1188fbafe5cd435a8b92a327d92e
-  - name: twitter
-    url: https://twitter.com/goldmoney_gdm
+  - name: x
+    url: https://x.com/goldmoney_gdm
   - name: telegram
     url: https://t.me/GOLDMONEY_ANNOUNCEMENT
 ---

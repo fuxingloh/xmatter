@@ -6,8 +6,8 @@ links:
     url: https://starknet.io/
   - name: explorer
     url: https://etherscan.io/token/0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766
-  - name: twitter
-    url: https://twitter.com/StarkWareLtd
+  - name: x
+    url: https://x.com/StarkWareLtd
   - name: github
     url: https://github.com/orgs/starkware-libs/repositories
 ---

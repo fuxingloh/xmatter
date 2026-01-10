@@ -8,8 +8,8 @@ links:
     url: https://elcash.info
   - name: explorer
     url: https://bscscan.com/token/0x1722bf5DA9391D6986092b90a53672E8E0fead83
-  - name: twitter
-    url: https://twitter.com/elcash_official
+  - name: x
+    url: https://x.com/elcash_official
   - name: telegram
     url: https://t.me/electriccash_official
   - name: github

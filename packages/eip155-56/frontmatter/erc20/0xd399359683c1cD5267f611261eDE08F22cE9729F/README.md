@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xd399359683c1cd5267f611261ede08f22ce9729f
   - name: github
     url: https://github.com/CyberFM/
-  - name: twitter
-    url: https://twitter.com/Mainstream For The Underground
+  - name: x
+    url: https://x.com/Mainstream For The Underground
   - name: telegram
     url: https://t.me/mftudotnet
 ---

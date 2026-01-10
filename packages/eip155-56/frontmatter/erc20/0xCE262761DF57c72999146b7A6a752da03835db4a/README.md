@@ -6,8 +6,8 @@ links:
     url: https://www.mucoin.us
   - name: explorer
     url: https://bscscan.com/token/0xce262761df57c72999146b7a6a752da03835db4a
-  - name: twitter
-    url: https://twitter.com/MUConFinTech
+  - name: x
+    url: https://x.com/MUConFinTech
   - name: github
     url: https://github.com/MuConFinTech
   - name: telegram

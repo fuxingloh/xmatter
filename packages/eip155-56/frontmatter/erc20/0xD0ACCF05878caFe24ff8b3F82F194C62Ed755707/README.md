@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xD0ACCF05878caFe24ff8b3F82F194C62Ed755707
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/simp-token/
-  - name: twitter
-    url: https://twitter.com/letsallsimp
+  - name: x
+    url: https://x.com/letsallsimp
 ---
 
 # SIMP Token

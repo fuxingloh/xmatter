@@ -8,8 +8,8 @@ links:
     url: https://lescollectionneurs.org/
   - name: explorer
     url: https://etherscan.io/token/0xf4922496163E8176CeD096ED80c67ca8ea2168D6
-  - name: twitter
-    url: https://twitter.com/Collections_NFT
+  - name: x
+    url: https://x.com/Collections_NFT
   - name: discord
     url: https://discord.com/invite/lcnft
 ---

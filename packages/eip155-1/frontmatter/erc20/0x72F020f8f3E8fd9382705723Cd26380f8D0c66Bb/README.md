@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x72f020f8f3e8fd9382705723cd26380f8d0c66bb
   - name: github
     url: https://github.com/plotx
-  - name: twitter
-    url: https://twitter.com/TryPlotX
+  - name: x
+    url: https://x.com/TryPlotX
   - name: telegram
     url: https://t.me/plotx_official
   - name: discord

@@ -6,8 +6,8 @@ links:
     url: https://bazingasolana.univer.se/
   - name: explorer
     url: https://solscan.io/token/C3JX9TWLqHKmcoTDTppaJebX2U7DcUQDEHVSmJFz6K6S
-  - name: twitter
-    url: https://twitter.com/bazingahappy
+  - name: x
+    url: https://x.com/bazingahappy
 ---
 
 # Bazinga

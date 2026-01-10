@@ -6,8 +6,8 @@ links:
     url: https://www.radioshack.org/
   - name: explorer
     url: https://optimistic.etherscan.io/token/0xf899e3909B4492859d44260E1de41A9E663e70F5
-  - name: twitter
-    url: https://twitter.com/radioshack
+  - name: x
+    url: https://x.com/radioshack
   - name: telegram
     url: https://t.me/radioshackfairlaunch
 ---

@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x48CbC7f87C657fEA3B297F658a5133a5deeF9b04
   - name: telegram
     url: https://t.me/miniflokiada
-  - name: twitter
-    url: https://twitter.com/miniflookiada
+  - name: x
+    url: https://x.com/miniflookiada
   - name: github
     url: https://github.com/MiniFlokiADA/MiniFlokiADA
   - name: telegram_news

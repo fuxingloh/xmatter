@@ -11,8 +11,8 @@ links:
     url: https://bscscan.com/token/0x14016e85a25aeb13065688cafb43044c2ef86784
   - name: github
     url: https://github.com/trusttoken/TrueUSD
-  - name: twitter
-    url: https://twitter.com/tusd_official
+  - name: x
+    url: https://x.com/tusd_official
   - name: telegram
     url: https://t.me/TUSDofficial_EN
   - name: medium

@@ -8,8 +8,8 @@ links:
     url: https://www.peacockcoin.finance/
   - name: explorer
     url: https://bscscan.com/token/0xCC0d50F79E18AF6D89f36692dB59Aef77E45aFEd
-  - name: twitter
-    url: https://twitter.com/peacockcoin
+  - name: x
+    url: https://x.com/peacockcoin
   - name: telegram
     url: https://t.me/peacockcoin
 ---

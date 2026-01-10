@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x2cc26dd730f548dc4ac291ae7d84a0c96980d2cb
   - name: github
     url: https://github.com/pizzafinancebsc
-  - name: twitter
-    url: https://twitter.com/Pizza_Finance
+  - name: x
+    url: https://x.com/Pizza_Finance
   - name: telegram
     url: https://t.me/PizzaFinance
 ---

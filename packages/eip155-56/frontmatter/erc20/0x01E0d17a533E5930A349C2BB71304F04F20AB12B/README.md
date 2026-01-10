@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x01E0d17a533E5930A349C2BB71304F04F20AB12B
   - name: github
     url: https://github.com/Revolve-games
-  - name: twitter
-    url: https://twitter.com/RevolveGamesio
+  - name: x
+    url: https://x.com/RevolveGamesio
   - name: telegram
     url: https://t.me/revolvegames_official
 ---

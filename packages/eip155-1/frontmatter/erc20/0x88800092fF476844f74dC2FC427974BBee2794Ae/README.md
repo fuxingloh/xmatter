@@ -12,8 +12,8 @@ links:
     url: https://etherscan.io/token/0x88800092fF476844f74dC2FC427974BBee2794Ae
   - name: github
     url: https://github.com/AmbireTech/wallet
-  - name: twitter
-    url: https://twitter.com/AmbireWallet
+  - name: x
+    url: https://x.com/AmbireWallet
   - name: blog
     url: https://ambire.medium.com
   - name: telegram

@@ -8,8 +8,8 @@ links:
     url: https://www.dracoomaster.com/dracoo
   - name: explorer
     url: https://bscscan.com/token/0x40ffafcd7415ed2f7a902312407181140ad14e68
-  - name: twitter
-    url: https://twitter.com/Dracoo_Master
+  - name: x
+    url: https://x.com/Dracoo_Master
   - name: github
     url: https://github.com/dracoomaster
   - name: telegram

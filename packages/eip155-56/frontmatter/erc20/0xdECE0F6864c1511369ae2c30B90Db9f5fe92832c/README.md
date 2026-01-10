@@ -6,8 +6,8 @@ links:
     url: https://disciplina.io
   - name: explorer
     url: https://bscscan.com/token/0xdECE0F6864c1511369ae2c30B90Db9f5fe92832c
-  - name: twitter
-    url: https://twitter.com/tchmpls_events
+  - name: x
+    url: https://x.com/tchmpls_events
   - name: blog
     url: https://dscpl.medium.com
   - name: telegram

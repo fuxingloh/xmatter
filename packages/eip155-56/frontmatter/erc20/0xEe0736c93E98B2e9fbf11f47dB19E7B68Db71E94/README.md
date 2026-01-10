@@ -12,8 +12,8 @@ links:
     url: https://coinmarketcap.com/currencies/farmerdoge/
   - name: coingecko
     url: https://coingecko.com/en/coins/farmerdoge-v3
-  - name: twitter
-    url: https://twitter.com/FarmerDogeBSC?t=GNh1BY1qXDmD69TqtZwuCQ&s=09
+  - name: x
+    url: https://x.com/FarmerDogeBSC?t=GNh1BY1qXDmD69TqtZwuCQ&s=09
   - name: telegram
     url: https://t.me/FarmerDogeCrypto
   - name: facebook

@@ -8,8 +8,8 @@ links:
     url: https://symbiosis.finance
   - name: explorer
     url: https://arbiscan.io/token/0x9e758b8a98a42d612b3d38b66a22074dc03d7370
-  - name: twitter
-    url: https://twitter.com/symbiosis_fi
+  - name: x
+    url: https://x.com/symbiosis_fi
   - name: github
     url: https://github.com/symbiosis-finance
   - name: telegram

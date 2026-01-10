@@ -8,8 +8,8 @@ links:
     url: https://tronscan.io/#/token20/TCDgp5bwtixaShPifUm7HpZ71C1pe6zif1
   - name: github
     url: https://github.com/netcoincapital/
-  - name: twitter
-    url: https://twitter.com/ncctoken
+  - name: x
+    url: https://x.com/ncctoken
   - name: medium
     url: https://medium.com/netcoincapital
   - name: telegram

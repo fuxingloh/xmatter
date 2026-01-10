@@ -10,8 +10,8 @@ links:
     url: https://scottybeam.io/
   - name: explorer
     url: https://bscscan.com/token/0x000351d035d8bbf2aa3131ebfecd66fb21836f6c
-  - name: twitter
-    url: https://twitter.com/ScottyBeamIO
+  - name: x
+    url: https://x.com/ScottyBeamIO
   - name: github
     url: https://github.com/ScottyBeam/
   - name: telegram

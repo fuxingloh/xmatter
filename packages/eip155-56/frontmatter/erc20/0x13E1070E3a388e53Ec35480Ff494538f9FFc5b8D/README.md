@@ -6,8 +6,8 @@ links:
     url: https://mybricksfinance.com/
   - name: explorer
     url: https://bscscan.com/token/0x13e1070e3a388e53ec35480ff494538f9ffc5b8d
-  - name: twitter
-    url: https://twitter.com/MyBricksFinance
+  - name: x
+    url: https://x.com/MyBricksFinance
   - name: reddit
     url: https://reddit.com/r/MyBricksFinance/
   - name: whitepaper

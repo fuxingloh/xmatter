@@ -11,8 +11,8 @@ links:
     url: https://etherscan.io/token/0x96610186F3ab8d73EBEe1CF950C750f3B1Fb79C2
   - name: github
     url: https://github.com/enjinstarter/enjinstarter-tge-contracts
-  - name: twitter
-    url: https://twitter.com/enjinstarter
+  - name: x
+    url: https://x.com/enjinstarter
   - name: telegram
     url: https://t.me/ENJINSTARTER
   - name: facebook

@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0x21bfbda47a0b4b5b1248c767ee49f7caa9b23697
   - name: telegram
     url: https://t.me/OVRtheReality
-  - name: twitter
-    url: https://twitter.com/OVRtheReality
+  - name: x
+    url: https://x.com/OVRtheReality
   - name: facebook
     url: https://facebook.com/Overmetaverse
   - name: telegram_news

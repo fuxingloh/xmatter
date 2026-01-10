@@ -6,8 +6,8 @@ links:
     url: https://epikduckcoin.com
   - name: explorer
     url: https://solscan.io/token/3BgwJ8b7b9hHX4sgfZ2KJhv9496CoVfsMK2YePevsBRw
-  - name: twitter
-    url: https://twitter.com/epikduckcoin
+  - name: x
+    url: https://x.com/epikduckcoin
 ---
 
 # TEH EPIK DUCK

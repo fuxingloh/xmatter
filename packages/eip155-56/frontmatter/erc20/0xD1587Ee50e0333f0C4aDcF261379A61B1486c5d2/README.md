@@ -8,8 +8,8 @@ links:
     url: https://windswap.finance/
   - name: explorer
     url: https://bscscan.com/token/0xD1587Ee50e0333f0C4aDcF261379A61B1486c5d2
-  - name: twitter
-    url: https://twitter.com/windswap
+  - name: x
+    url: https://x.com/windswap
   - name: telegram
     url: https://t.me/windswapmembers
 ---

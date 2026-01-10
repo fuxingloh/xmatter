@@ -6,8 +6,8 @@ links:
     url: https://damncool.io/
   - name: explorer
     url: https://bscscan.com/token/0xB4AA0CD9FACeB466DB69b825DC666EdAF3293d28
-  - name: twitter
-    url: https://twitter.com/_DAMNCool_
+  - name: x
+    url: https://x.com/_DAMNCool_
   - name: reddit
     url: https://reddit.com/r/DAMNCoolOfficial/
   - name: coinmarketcap

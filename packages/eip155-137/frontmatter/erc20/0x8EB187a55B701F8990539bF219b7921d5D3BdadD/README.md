@@ -6,8 +6,8 @@ links:
     url: https://www.mocaverse.xyz/moca-id
   - name: explorer
     url: https://polygonscan.com/token/0x8eb187a55b701f8990539bf219b7921d5d3bdadd
-  - name: twitter
-    url: https://twitter.com/MocaverseNFT
+  - name: x
+    url: https://x.com/MocaverseNFT
   - name: discord
     url: https://discord.com/invite/MocaverseNFT
 ---

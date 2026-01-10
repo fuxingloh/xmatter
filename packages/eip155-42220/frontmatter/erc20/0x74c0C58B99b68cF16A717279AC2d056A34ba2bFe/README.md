@@ -8,8 +8,8 @@ links:
     url: https://resource.finance
   - name: explorer
     url: https://explorer.bitquery.io/celo_rc1/token/0x74c0c58b99b68cf16a717279ac2d056a34ba2bfe
-  - name: twitter
-    url: https://twitter.com/ReSource_Fi
+  - name: x
+    url: https://x.com/ReSource_Fi
   - name: telegram
     url: https://t.me/theresourcenetwork
   - name: github

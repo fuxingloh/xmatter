@@ -12,8 +12,8 @@ links:
     url: https://coingecko.com/en/coins/shibosu
   - name: telegram
     url: https://t.me/shibosu
-  - name: twitter
-    url: https://twitter.com/ShibosuBSC
+  - name: x
+    url: https://x.com/ShibosuBSC
   - name: facebook
     url: https://facebook.com/shibosuofficial
 ---

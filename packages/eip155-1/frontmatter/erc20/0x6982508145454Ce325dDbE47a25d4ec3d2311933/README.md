@@ -8,8 +8,8 @@ links:
     url: https://www.pepe.vip/
   - name: explorer
     url: https://etherscan.io/token/0x6982508145454ce325ddbe47a25d4ec3d2311933
-  - name: twitter
-    url: https://twitter.com/pepecoineth
+  - name: x
+    url: https://x.com/pepecoineth
   - name: telegram
     url: https://t.me/pepecoineth
   - name: coinmarketcap

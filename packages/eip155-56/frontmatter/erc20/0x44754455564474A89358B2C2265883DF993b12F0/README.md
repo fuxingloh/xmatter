@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x44754455564474A89358B2C2265883DF993b12F0
   - name: github
     url: https://github.com/ZeroswapLabs
-  - name: twitter
-    url: https://twitter.com/ZeroSwapLabs
+  - name: x
+    url: https://x.com/ZeroSwapLabs
   - name: telegram
     url: https://t.me/zeroswap
   - name: medium

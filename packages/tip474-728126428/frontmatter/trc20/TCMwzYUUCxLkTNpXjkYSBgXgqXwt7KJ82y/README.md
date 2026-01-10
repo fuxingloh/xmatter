@@ -8,8 +8,8 @@ links:
     url: https://tronscan.io/#/token20/TCMwzYUUCxLkTNpXjkYSBgXgqXwt7KJ82y
   - name: whitepaper
     url: https://github.com/TTCOIN-TC/tc/raw/main/whitepaper/tc-whitepaper-v2-EN.pdf
-  - name: twitter
-    url: https://twitter.com/ttcoinofficial
+  - name: x
+    url: https://x.com/ttcoinofficial
   - name: telegram
     url: https://t.me/ttcoinworld
   - name: facebook

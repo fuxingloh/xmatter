@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256
   - name: github
     url: https://github.com/orgs/eucrypt
-  - name: twitter
-    url: https://twitter.com/unmarshal
+  - name: x
+    url: https://x.com/unmarshal
   - name: telegram
     url: https://t.me/Unmarshal_Chat
   - name: blog

@@ -8,8 +8,8 @@ links:
     url: https://meritcircle.io/
   - name: explorer
     url: https://etherscan.io/token/0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE
-  - name: twitter
-    url: https://twitter.com/buildonbeam
+  - name: x
+    url: https://x.com/buildonbeam
   - name: github
     url: https://github.com/Merit-Circle
   - name: telegram

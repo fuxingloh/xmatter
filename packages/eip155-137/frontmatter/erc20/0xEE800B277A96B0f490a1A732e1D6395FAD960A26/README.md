@@ -8,8 +8,8 @@ links:
     url: https://arpachain.io/
   - name: explorer
     url: https://polygonscan.com/token/0xee800b277a96b0f490a1a732e1d6395fad960a26
-  - name: twitter
-    url: https://twitter.com/arpaofficial?source=user_profile---------------------------
+  - name: x
+    url: https://x.com/arpaofficial?source=user_profile---------------------------
   - name: telegram
     url: https://t.me/arpa_community
   - name: coinmarketcap

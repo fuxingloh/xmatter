@@ -6,8 +6,8 @@ links:
     url: https://www.vitadao.com
   - name: explorer
     url: https://etherscan.io/token/0x81f8f0bb1cB2A06649E51913A151F0E7Ef6FA321
-  - name: twitter
-    url: https://twitter.com/vita_dao
+  - name: x
+    url: https://x.com/vita_dao
   - name: github
     url: https://github.com/VitaDAO
   - name: telegram

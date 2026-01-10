@@ -6,8 +6,8 @@ links:
     url: https://terawattled.com
   - name: explorer
     url: https://etherscan.io/token/0x27C891c210aEc85267c2Eb5Fd3aD2E7c5758a1dC
-  - name: twitter
-    url: https://twitter.com/terawatt_led
+  - name: x
+    url: https://x.com/terawatt_led
 ---
 
 # Terawatt LED Token

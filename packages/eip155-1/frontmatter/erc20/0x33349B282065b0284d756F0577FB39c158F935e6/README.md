@@ -8,8 +8,8 @@ links:
     url: https://maple.finance/
   - name: explorer
     url: https://etherscan.io/token/0x33349b282065b0284d756f0577fb39c158f935e6
-  - name: twitter
-    url: https://twitter.com/maplefinance
+  - name: x
+    url: https://x.com/maplefinance
   - name: github
     url: https://github.com/maple-labs
   - name: telegram

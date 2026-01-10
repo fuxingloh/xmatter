@@ -6,8 +6,8 @@ links:
     url: https://www.solanacorn.xyz/
   - name: explorer
     url: https://solscan.io/token/6DSqVXg9WLTWgz6LACqxN757QdHe1sCqkUfojWmxWtok
-  - name: twitter
-    url: https://twitter.com/CornOnSolana
+  - name: x
+    url: https://x.com/CornOnSolana
 ---
 
 # Solanacorn

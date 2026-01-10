@@ -8,8 +8,8 @@ links:
     url: https://shibaswap.com/
   - name: explorer
     url: https://etherscan.io/token/0x9813037ee2218799597d83D4a5B6F3b6778218d9
-  - name: twitter
-    url: https://twitter.com/shibtoken
+  - name: x
+    url: https://x.com/shibtoken
   - name: telegram
     url: https://t.me/bonedogekiller
   - name: coinmarketcap

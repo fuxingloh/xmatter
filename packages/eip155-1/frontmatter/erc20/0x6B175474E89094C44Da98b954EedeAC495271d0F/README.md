@@ -9,8 +9,8 @@ links:
     url: http://makerdao.com
   - name: explorer
     url: https://etherscan.io/token/0x6B175474E89094C44Da98b954EedeAC495271d0F
-  - name: twitter
-    url: https://twitter.com/MakerDAO
+  - name: x
+    url: https://x.com/MakerDAO
   - name: reddit
     url: https://reddit.com/r/MakerDAO/
   - name: blog

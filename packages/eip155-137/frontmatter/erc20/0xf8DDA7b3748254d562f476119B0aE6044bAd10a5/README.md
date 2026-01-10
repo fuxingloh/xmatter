@@ -6,8 +6,8 @@ links:
     url: https://humanity-protocol.com
   - name: explorer
     url: https://polygonscan.com/token/0xf8dda7b3748254d562f476119b0ae6044bad10a5
-  - name: twitter
-    url: https://twitter.com/HmntyProtocol
+  - name: x
+    url: https://x.com/HmntyProtocol
   - name: telegram
     url: https://t.me/SRSbyHumanity
 ---

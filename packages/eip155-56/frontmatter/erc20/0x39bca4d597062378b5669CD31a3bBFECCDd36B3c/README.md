@@ -11,8 +11,8 @@ links:
     url: https://bscscan.com/token/0x39bca4d597062378b5669cd31a3bbfeccdd36b3c
   - name: github
     url: https://github.com/leslarmetaverse
-  - name: twitter
-    url: https://twitter.com/leslarmetaverse
+  - name: x
+    url: https://x.com/leslarmetaverse
   - name: telegram
     url: https://t.me/leslarmetaverse_global
   - name: coinmarketcap

@@ -6,8 +6,8 @@ links:
     url: https://gapt.io/
   - name: explorer
     url: https://bscscan.com/token/0x63a4644142ca6dc83cfe0e2bdba8d62174491fd8
-  - name: twitter
-    url: https://twitter.com/GaptToken
+  - name: x
+    url: https://x.com/GaptToken
   - name: telegram
     url: https://t.me/GAPTCHAT
   - name: discord

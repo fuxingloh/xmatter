@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x5b17b4d5e4009b5c43e3e3d63a5229f794cba389
   - name: source_code
     url: https://app.acryptos.com/contracts/
-  - name: twitter
-    url: https://twitter.com/acryptosx
+  - name: x
+    url: https://x.com/acryptosx
   - name: telegram
     url: https://t.me/acryptos9
   - name: medium

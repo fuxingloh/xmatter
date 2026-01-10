@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xBFEf6cCFC830D3BaCA4F6766a0d4AaA242Ca9F3D
   - name: github
     url: https://github.com/NAVCoin
-  - name: twitter
-    url: https://twitter.com/Navcoin
+  - name: x
+    url: https://x.com/Navcoin
   - name: telegram
     url: https://t.me/navcoin
   - name: discord

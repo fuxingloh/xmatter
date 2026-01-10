@@ -8,8 +8,8 @@ links:
     url: https://bsc.mdex.com/
   - name: explorer
     url: https://bscscan.com/token/0x9C65AB58d8d978DB963e63f2bfB7121627e3a739
-  - name: twitter
-    url: https://twitter.com/Mdextech
+  - name: x
+    url: https://x.com/Mdextech
   - name: github
     url: https://github.com/mdexSwap
   - name: telegram

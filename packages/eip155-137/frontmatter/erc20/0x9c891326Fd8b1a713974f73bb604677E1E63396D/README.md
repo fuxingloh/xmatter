@@ -6,8 +6,8 @@ links:
     url: https://islamicoin.finance
   - name: explorer
     url: https://polygonscan.com/token/0x9c891326fd8b1a713974f73bb604677e1e63396d
-  - name: twitter
-    url: https://twitter.com/islamicoin
+  - name: x
+    url: https://x.com/islamicoin
   - name: github
     url: https://github.com/islamiblockchain
   - name: telegram

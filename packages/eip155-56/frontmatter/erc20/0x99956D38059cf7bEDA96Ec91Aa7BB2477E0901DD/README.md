@@ -8,8 +8,8 @@ links:
     url: https://diadata.org
   - name: explorer
     url: https://bscscan.com/token/0x99956d38059cf7beda96ec91aa7bb2477e0901dd
-  - name: twitter
-    url: https://twitter.com/DIAdata_org
+  - name: x
+    url: https://x.com/DIAdata_org
   - name: github
     url: https://github.com/diadata-org
   - name: blog

@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0xf3a3023e6dede84ad88a656a3269f2a36e83c9a9
   - name: telegram
     url: https://t.me/SharbiPortal
-  - name: twitter
-    url: https://twitter.com/SharbiToken
+  - name: x
+    url: https://x.com/SharbiToken
 ---
 
 # SHARBI

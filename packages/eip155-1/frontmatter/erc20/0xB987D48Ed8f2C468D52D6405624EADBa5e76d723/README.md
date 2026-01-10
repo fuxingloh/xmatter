@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xB987D48Ed8f2C468D52D6405624EADBa5e76d723
   - name: github
     url: https://github.com/stabilize-token/
-  - name: twitter
-    url: https://twitter.com/StabilizePro
+  - name: x
+    url: https://x.com/StabilizePro
   - name: telegram
     url: https://t.me/stabilizeprotocol
 ---

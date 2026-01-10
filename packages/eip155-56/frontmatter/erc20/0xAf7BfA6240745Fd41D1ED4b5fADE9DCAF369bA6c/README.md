@@ -6,8 +6,8 @@ links:
     url: https://maticverse.io/
   - name: explorer
     url: https://bscscan.com/token/0xAf7BfA6240745Fd41D1ED4b5fADE9DCAF369bA6c
-  - name: twitter
-    url: https://twitter.com/maticverse
+  - name: x
+    url: https://x.com/maticverse
   - name: telegram
     url: https://t.me/MaticVerse
   - name: telegram_news

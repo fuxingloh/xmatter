@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xa73dF9480e9408908c828be2e1A7345855501508
   - name: telegram
     url: https://t.me/BabyDogeZillaBSC
-  - name: twitter
-    url: https://twitter.com/BabydogezillaA
+  - name: x
+    url: https://x.com/BabydogezillaA
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/babydogezilla/
   - name: coingecko

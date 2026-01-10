@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xBb238FcE6E2eE90781cD160C9C6eAf3a4CfAD801
   - name: github
     url: https://github.com/bagels-dev
-  - name: twitter
-    url: https://twitter.com/BagelsFinance
+  - name: x
+    url: https://x.com/BagelsFinance
   - name: telegram
     url: https://t.me/bagelsfinance
   - name: medium

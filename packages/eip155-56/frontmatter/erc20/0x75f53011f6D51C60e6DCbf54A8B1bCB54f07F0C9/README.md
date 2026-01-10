@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0x75f53011f6D51C60e6DCbf54A8B1bCB54f07F0C9
   - name: telegram
     url: https://t.me/glimpsetoken
-  - name: twitter
-    url: https://twitter.com/glimpse_nft
+  - name: x
+    url: https://x.com/glimpse_nft
   - name: medium
     url: https://medium.com/@glimpsenft
   - name: coinmarketcap

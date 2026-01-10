@@ -6,8 +6,8 @@ links:
     url: https://egyptcat.io/
   - name: explorer
     url: https://solscan.io/token/5t4EVfkb5QU8NZXmTzcSK2bQsNWUr2HL64rRb8i6wpat
-  - name: twitter
-    url: https://twitter.com/egyptcatsolana
+  - name: x
+    url: https://x.com/egyptcatsolana
   - name: coingecko
     url: https://coingecko.com/en/coins/egypt-cat
 ---

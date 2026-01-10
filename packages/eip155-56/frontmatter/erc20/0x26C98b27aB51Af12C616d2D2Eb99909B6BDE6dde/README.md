@@ -8,8 +8,8 @@ links:
     url: https://yoex.io/
   - name: explorer
     url: https://bscscan.com/token/0x26c98b27ab51af12c616d2d2eb99909b6bde6dde
-  - name: twitter
-    url: https://twitter.com/yo_exchange
+  - name: x
+    url: https://x.com/yo_exchange
   - name: telegram
     url: https://t.me/yoexchange
 ---

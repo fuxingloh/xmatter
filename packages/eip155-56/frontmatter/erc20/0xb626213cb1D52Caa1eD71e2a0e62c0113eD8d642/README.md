@@ -6,8 +6,8 @@ links:
     url: https://hughug.io
   - name: explorer
     url: https://bscscan.com/token/0xb626213cb1D52Caa1eD71e2a0e62c0113eD8d642
-  - name: twitter
-    url: https://twitter.com/HUGHUG_coin
+  - name: x
+    url: https://x.com/HUGHUG_coin
   - name: telegram
     url: https://t.me/HUGHUG_coin
   - name: medium

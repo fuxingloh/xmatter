@@ -6,8 +6,8 @@ links:
     url: https://koromaruinu.net/
   - name: explorer
     url: https://etherscan.io/token/0xd0d42005e7b3c0812b1268f0e5faf97ff2423651
-  - name: twitter
-    url: https://twitter.com/KoromaruInu
+  - name: x
+    url: https://x.com/KoromaruInu
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/koromaru/
   - name: coingecko

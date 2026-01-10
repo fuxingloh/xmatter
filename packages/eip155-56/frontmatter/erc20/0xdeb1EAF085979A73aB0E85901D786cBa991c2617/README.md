@@ -6,8 +6,8 @@ links:
     url: https://lfd.su/
   - name: explorer
     url: https://bscscan.com/token/0xdeb1EAF085979A73aB0E85901D786cBa991c2617
-  - name: twitter
-    url: https://twitter.com/LuckyFortuneDog
+  - name: x
+    url: https://x.com/LuckyFortuneDog
   - name: github
     url: https://github.com/LuckyFortuneDog
   - name: telegram

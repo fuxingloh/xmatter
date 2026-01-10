@@ -8,8 +8,8 @@ links:
     url: https://www.ariva.digital/
   - name: explorer
     url: https://etherscan.io/token/0x79C7EF95aD32DcD5ECadB231568Bb03dF7824815
-  - name: twitter
-    url: https://twitter.com/ArivaCoin
+  - name: x
+    url: https://x.com/ArivaCoin
   - name: github
     url: https://github.com/ariva-digital
   - name: telegram

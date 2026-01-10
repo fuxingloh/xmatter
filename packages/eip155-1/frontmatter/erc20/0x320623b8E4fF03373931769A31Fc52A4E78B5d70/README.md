@@ -8,8 +8,8 @@ links:
     url: https://reserve.org
   - name: explorer
     url: https://etherscan.io/token/0x320623b8E4fF03373931769A31Fc52A4E78B5d70
-  - name: twitter
-    url: https://twitter.com/reserveprotocol
+  - name: x
+    url: https://x.com/reserveprotocol
   - name: telegram
     url: https://t.me/reservecurrency
   - name: github

@@ -9,8 +9,8 @@ links:
     url: https://www.douglas-amc.org
   - name: explorer
     url: https://bscscan.com/token/0xDD3162aD2185928bf3D92Bc05174Aa442E7382Ef
-  - name: twitter
-    url: https://twitter.com/DouglasAMC
+  - name: x
+    url: https://x.com/DouglasAMC
   - name: telegram
     url: https://t.me/OffshorePlanChian
 ---

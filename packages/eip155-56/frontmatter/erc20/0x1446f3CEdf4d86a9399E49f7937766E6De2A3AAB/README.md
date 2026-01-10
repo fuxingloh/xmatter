@@ -6,8 +6,8 @@ links:
     url: https://kingdefi.io
   - name: explorer
     url: https://bscscan.com/token/0x1446f3CEdf4d86a9399E49f7937766E6De2A3AAB
-  - name: twitter
-    url: https://twitter.com/KingDefi2
+  - name: x
+    url: https://x.com/KingDefi2
   - name: telegram
     url: https://t.me/KingDefi_Community
   - name: discord

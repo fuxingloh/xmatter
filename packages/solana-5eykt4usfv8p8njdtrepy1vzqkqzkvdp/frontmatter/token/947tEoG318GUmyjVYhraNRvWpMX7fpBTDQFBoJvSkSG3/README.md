@@ -6,8 +6,8 @@ links:
     url: https://solchat.io/
   - name: explorer
     url: https://solscan.io/token/947tEoG318GUmyjVYhraNRvWpMX7fpBTDQFBoJvSkSG3
-  - name: twitter
-    url: https://twitter.com/solchatcoin
+  - name: x
+    url: https://x.com/solchatcoin
 ---
 
 # Solchat

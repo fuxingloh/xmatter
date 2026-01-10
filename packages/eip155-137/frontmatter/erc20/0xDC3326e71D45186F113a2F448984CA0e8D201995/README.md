@@ -8,8 +8,8 @@ links:
     url: https://straitsx.com/xsgd
   - name: explorer
     url: https://polygonscan.com/token/0xDC3326e71D45186F113a2F448984CA0e8D201995
-  - name: twitter
-    url: https://twitter.com/straitsx
+  - name: x
+    url: https://x.com/straitsx
   - name: github
     url: https://github.com/Xfers/straitsx-tokens/tree/master/Polygon/XSGD
   - name: blog

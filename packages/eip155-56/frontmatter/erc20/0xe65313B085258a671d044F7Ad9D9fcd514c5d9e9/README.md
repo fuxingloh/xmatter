@@ -8,8 +8,8 @@ links:
     url: https://www.fairface.io/
   - name: explorer
     url: https://bscscan.com/token/0xe65313b085258a671d044f7ad9d9fcd514c5d9e9
-  - name: twitter
-    url: https://twitter.com/Faftoken
+  - name: x
+    url: https://x.com/Faftoken
   - name: telegram
     url: https://t.me/fairfacereview
 ---

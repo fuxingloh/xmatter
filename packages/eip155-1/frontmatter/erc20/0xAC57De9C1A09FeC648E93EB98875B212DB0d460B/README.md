@@ -8,8 +8,8 @@ links:
     url: https://babydoge.com/
   - name: explorer
     url: https://etherscan.io/token/0xac57de9c1a09fec648e93eb98875b212db0d460b
-  - name: twitter
-    url: https://twitter.com/babydogecoin
+  - name: x
+    url: https://x.com/babydogecoin
   - name: telegram
     url: https://t.me/babydogecoin
   - name: discord

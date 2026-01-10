@@ -11,8 +11,8 @@ links:
     url: https://arbiscan.io/token/0x82e3A8F066a6989666b031d916c43672085b1582
   - name: github
     url: https://github.com/iearn-finance
-  - name: twitter
-    url: https://twitter.com/iearnfinance
+  - name: x
+    url: https://x.com/iearnfinance
   - name: blog
     url: https://medium.com/iearn
   - name: telegram

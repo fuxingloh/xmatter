@@ -11,8 +11,8 @@ links:
     url: https://aspo.world
   - name: explorer
     url: https://bscscan.com/token/0x1a9b49E9f075c37Fe5f86C916bac9DEb33556D7E
-  - name: twitter
-    url: https://twitter.com/AspoWorld
+  - name: x
+    url: https://x.com/AspoWorld
   - name: github
     url: https://github.com/ASPO-World
   - name: telegram

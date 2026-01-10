@@ -6,8 +6,8 @@ links:
     url: https://www.wifbag.com/
   - name: explorer
     url: https://solscan.io/token/D8r8XTuCrUhLheWeGXSwC3G92RhASficV3YA7B2XWcLv
-  - name: twitter
-    url: https://twitter.com/wifbag
+  - name: x
+    url: https://x.com/wifbag
   - name: coingecko
     url: https://coingecko.com/en/coins/catwifbag
 ---

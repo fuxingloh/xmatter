@@ -6,8 +6,8 @@ links:
     url: https://crosswallet.app/
   - name: explorer
     url: https://bscscan.com/token/0x5A726a26eDB0Df8Fd55f03cc30aF8A7cEa81e78D
-  - name: twitter
-    url: https://twitter.com/Cross_Wallet
+  - name: x
+    url: https://x.com/Cross_Wallet
   - name: telegram
     url: https://t.me/crosswallet
 ---

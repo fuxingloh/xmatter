@@ -11,8 +11,8 @@ links:
     url: https://etherscan.io/token/0x38e382f74dfb84608f3c1f10187f6bef5951de93
   - name: github
     url: https://github.com/multibit-repo
-  - name: twitter
-    url: https://twitter.com/Multibit_Bridge
+  - name: x
+    url: https://x.com/Multibit_Bridge
   - name: telegram
     url: https://t.me/multibitprotocol
   - name: medium

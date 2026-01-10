@@ -6,8 +6,8 @@ links:
     url: https://www.safeicarus.io/
   - name: explorer
     url: https://bscscan.com/token/0xD2f9B51C6a1b5598f0ea51eF95d70cB045692D0F
-  - name: twitter
-    url: https://twitter.com/safeicarus
+  - name: x
+    url: https://x.com/safeicarus
   - name: telegram
     url: https://t.me/safeicarus
 ---

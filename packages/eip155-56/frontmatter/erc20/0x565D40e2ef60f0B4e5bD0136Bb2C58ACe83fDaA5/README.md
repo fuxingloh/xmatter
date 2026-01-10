@@ -10,8 +10,8 @@ links:
     url: https://s315protocol.github.io/
   - name: explorer
     url: https://bscscan.com/token/0x565D40e2ef60f0B4e5bD0136Bb2C58ACe83fDaA5
-  - name: twitter
-    url: https://twitter.com/Shahd32533828
+  - name: x
+    url: https://x.com/Shahd32533828
   - name: telegram
     url: https://t.me/swap315Dev
 ---

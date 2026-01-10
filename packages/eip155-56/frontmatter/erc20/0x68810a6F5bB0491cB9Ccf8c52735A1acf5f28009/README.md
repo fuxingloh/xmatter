@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x68810a6F5bB0491cB9Ccf8c52735A1acf5f28009
   - name: telegram
     url: https://t.me/shibazillacoin
-  - name: twitter
-    url: https://twitter.com/shibazillacoin
+  - name: x
+    url: https://x.com/shibazillacoin
   - name: coinmarketcap
     url: https://coinmarketcap.com/ru/currencies/shibazillacoin/
 ---

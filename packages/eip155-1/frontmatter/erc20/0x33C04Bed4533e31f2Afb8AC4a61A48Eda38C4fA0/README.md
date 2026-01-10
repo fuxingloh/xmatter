@@ -6,8 +6,8 @@ links:
     url: https://gorillatoken.io/
   - name: explorer
     url: https://etherscan.io/token/0x33C04Bed4533e31f2Afb8AC4a61A48Eda38C4fA0
-  - name: twitter
-    url: https://twitter.com/gorillatokenio
+  - name: x
+    url: https://x.com/gorillatokenio
   - name: telegram
     url: https://t.me/gorillatokenio
   - name: coinmarketcap

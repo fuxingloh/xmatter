@@ -6,8 +6,8 @@ links:
     url: https://pandaswapsol.io/
   - name: explorer
     url: https://solscan.io/token/9m21fukdvCPBgEjmeeshbskPwbaa5RH8HTHQGeTnGd2t
-  - name: twitter
-    url: https://twitter.com/PandaSwapSol
+  - name: x
+    url: https://x.com/PandaSwapSol
   - name: coingecko
     url: https://coingecko.com/en/coins/panda-swap
 ---

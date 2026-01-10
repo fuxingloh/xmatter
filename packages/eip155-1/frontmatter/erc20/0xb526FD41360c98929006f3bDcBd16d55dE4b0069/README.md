@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0xb526FD41360c98929006f3bDcBd16d55dE4b0069
   - name: github
     url: https://github.com/thirmtoken
-  - name: twitter
-    url: https://twitter.com/thirmprotocol
+  - name: x
+    url: https://x.com/thirmprotocol
 ---
 
 # THIRM

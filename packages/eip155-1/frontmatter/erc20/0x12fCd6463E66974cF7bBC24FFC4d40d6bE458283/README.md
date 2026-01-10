@@ -6,8 +6,8 @@ links:
     url: https://globitex.com/
   - name: explorer
     url: https://etherscan.io/token/0x12fCd6463E66974cF7bBC24FFC4d40d6bE458283
-  - name: twitter
-    url: https://twitter.com/globitex_
+  - name: x
+    url: https://x.com/globitex_
   - name: telegram
     url: https://t.me/globitex_com
 ---

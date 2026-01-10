@@ -6,8 +6,8 @@ links:
     url: https://tacocat.life
   - name: explorer
     url: https://bscscan.com/token/0xa8fcee78b782ef97380326e90df80d72f025f020
-  - name: twitter
-    url: https://twitter.com/TacoCatCrew
+  - name: x
+    url: https://x.com/TacoCatCrew
   - name: telegram
     url: https://t.me/TacoCatCrew
   - name: reddit

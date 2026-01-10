@@ -8,8 +8,8 @@ links:
     url: https://offshift.io/
   - name: explorer
     url: https://etherscan.io/token/0x76BC677d444f1E9d57dAf5187ee2b7dC852745aE
-  - name: twitter
-    url: https://twitter.com/OffshiftXFT
+  - name: x
+    url: https://x.com/OffshiftXFT
   - name: github
     url: https://github.com/
   - name: telegram

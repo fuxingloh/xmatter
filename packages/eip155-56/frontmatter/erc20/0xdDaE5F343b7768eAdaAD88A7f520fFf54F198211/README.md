@@ -8,8 +8,8 @@ links:
     url: https://www.bitcoiva.com
   - name: explorer
     url: https://bscscan.com/token/0xddae5f343b7768eadaad88a7f520fff54f198211
-  - name: twitter
-    url: https://twitter.com/bitcoiva
+  - name: x
+    url: https://x.com/bitcoiva
   - name: facebook
     url: https://facebook.com/Bitcoiva.com.2021/
   - name: youtube

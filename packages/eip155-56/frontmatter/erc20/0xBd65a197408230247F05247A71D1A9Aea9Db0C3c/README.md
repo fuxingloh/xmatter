@@ -6,8 +6,8 @@ links:
     url: https://polkadog.io
   - name: explorer
     url: https://bscscan.com/token/0xBd65a197408230247F05247A71D1A9Aea9Db0C3c
-  - name: twitter
-    url: https://twitter.com/_EINSTEINISBACK
+  - name: x
+    url: https://x.com/_EINSTEINISBACK
   - name: telegram
     url: https://t.me/polkadog_io_official
   - name: medium

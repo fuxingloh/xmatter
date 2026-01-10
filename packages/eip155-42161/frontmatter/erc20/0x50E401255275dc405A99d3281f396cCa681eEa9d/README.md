@@ -8,8 +8,8 @@ links:
     url: https://kortanalegacy.com/
   - name: explorer
     url: https://arbiscan.io/token/0x50e401255275dc405a99d3281f396cca681eea9d
-  - name: twitter
-    url: https://twitter.com/KortanaLegacy
+  - name: x
+    url: https://x.com/KortanaLegacy
   - name: telegram
     url: https://t.me/KortanaLegacyOFFICIAL
   - name: whitepaper

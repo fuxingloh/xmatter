@@ -6,8 +6,8 @@ links:
     url: https://www.titanwar.io/
   - name: explorer
     url: https://bscscan.com/token/0x76F34cd142ca4a5ea2E197ebffbF5234A1c29268
-  - name: twitter
-    url: https://twitter.com/TitanWarNFT
+  - name: x
+    url: https://x.com/TitanWarNFT
   - name: github
     url: https://github.com/TitanWarNFT
   - name: telegram

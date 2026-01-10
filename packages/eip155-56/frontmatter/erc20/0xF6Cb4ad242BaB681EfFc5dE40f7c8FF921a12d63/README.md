@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0xF6Cb4ad242BaB681EfFc5dE40f7c8FF921a12d63
   - name: github
     url: https://github.com/Centric-Org
-  - name: twitter
-    url: https://twitter.com/centricrise
+  - name: x
+    url: https://x.com/centricrise
   - name: reddit
     url: https://reddit.com/user/joincentric
   - name: discord

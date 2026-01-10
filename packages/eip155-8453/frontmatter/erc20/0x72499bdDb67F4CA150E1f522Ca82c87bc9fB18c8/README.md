@@ -6,8 +6,8 @@ links:
     url: https://bonkonbase.vip/
   - name: explorer
     url: https://basescan.org/token/0x72499bddb67f4ca150e1f522ca82c87bc9fb18c8
-  - name: twitter
-    url: https://twitter.com/bonk_onbase
+  - name: x
+    url: https://x.com/bonk_onbase
   - name: telegram
     url: https://t.me/Bonk_On_Base
 ---

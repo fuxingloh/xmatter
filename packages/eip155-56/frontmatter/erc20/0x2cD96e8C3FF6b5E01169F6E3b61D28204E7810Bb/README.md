@@ -8,8 +8,8 @@ links:
     url: https://luckyblock.com/
   - name: explorer
     url: https://bscscan.com/token/0x2cD96e8C3FF6b5E01169F6E3b61D28204E7810Bb
-  - name: twitter
-    url: https://twitter.com/luckyblockcoin
+  - name: x
+    url: https://x.com/luckyblockcoin
   - name: github
     url: https://github.com/finixio/luckyblock-smartcontract
   - name: telegram

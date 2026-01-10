@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xADCa52302e0a6c2d5D68EDCdB4Ac75DeB5466884
   - name: github
     url: https://github.com/gmr-center/gmr-token-v2
-  - name: twitter
-    url: https://twitter.com/GMRCenter
+  - name: x
+    url: https://x.com/GMRCenter
   - name: telegram
     url: https://t.me/gmrcenter
   - name: discord

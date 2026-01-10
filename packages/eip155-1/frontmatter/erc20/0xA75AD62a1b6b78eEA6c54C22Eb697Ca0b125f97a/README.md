@@ -6,8 +6,8 @@ links:
     url: https://www.meowcoinerc.com/
   - name: explorer
     url: https://etherscan.io/token/0xa75ad62a1b6b78eea6c54c22eb697ca0b125f97a
-  - name: twitter
-    url: https://twitter.com/meowerc20
+  - name: x
+    url: https://x.com/meowerc20
   - name: telegram
     url: https://t.me/meowerc20portal
 ---

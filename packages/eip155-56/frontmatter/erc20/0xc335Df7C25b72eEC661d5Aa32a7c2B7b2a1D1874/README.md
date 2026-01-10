@@ -11,8 +11,8 @@ links:
     url: https://coinmarketcap.com/currencies/ice-decentralized-future/
   - name: github
     url: https://github.com/ice-blockchain
-  - name: twitter
-    url: https://twitter.com/ice_blockchain
+  - name: x
+    url: https://x.com/ice_blockchain
   - name: telegram
     url: https://t.me/iceblockchain
   - name: whitepaper

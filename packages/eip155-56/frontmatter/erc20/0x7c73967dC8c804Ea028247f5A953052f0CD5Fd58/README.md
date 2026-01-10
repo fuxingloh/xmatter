@@ -12,8 +12,8 @@ links:
     url: https://discord.com/invite/cyball
   - name: blog
     url: https://blog.cyball.com/
-  - name: twitter
-    url: https://twitter.com/CyBallOfficial
+  - name: x
+    url: https://x.com/CyBallOfficial
   - name: telegram
     url: https://t.me/cyballofficial
   - name: coingecko

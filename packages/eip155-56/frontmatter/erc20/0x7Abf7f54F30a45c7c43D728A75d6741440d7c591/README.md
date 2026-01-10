@@ -6,8 +6,8 @@ links:
     url: https://elonsperm.com/
   - name: explorer
     url: https://bscscan.com/token/0x7Abf7f54F30a45c7c43D728A75d6741440d7c591
-  - name: twitter
-    url: https://twitter.com/elonsperm
+  - name: x
+    url: https://x.com/elonsperm
   - name: telegram
     url: https://t.me/elonspermtomars
 ---

@@ -10,8 +10,8 @@ links:
     url: https://t.me/TORGTogether
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/torg/
-  - name: twitter
-    url: https://twitter.com/TorgTogether
+  - name: x
+    url: https://x.com/TorgTogether
 ---
 
 # TORG

@@ -6,8 +6,8 @@ links:
     url: https://www.harmony.one
   - name: explorer
     url: https://etherscan.io/token/0xD5cd84D6f044AbE314Ee7E414d37cae8773ef9D3
-  - name: twitter
-    url: https://twitter.com/harmonyprotocol
+  - name: x
+    url: https://x.com/harmonyprotocol
 ---
 
 # Harmony

@@ -6,8 +6,8 @@ links:
     url: https://www.metamatrix.network
   - name: explorer
     url: https://bscscan.com/token/0xD1A6eFF20958403F9fa137760e62dfDE4516a0b1
-  - name: twitter
-    url: https://twitter.com/MetaMatrixBSC
+  - name: x
+    url: https://x.com/MetaMatrixBSC
   - name: telegram
     url: https://t.me/MetaverseMatrix
   - name: coinmarketcap

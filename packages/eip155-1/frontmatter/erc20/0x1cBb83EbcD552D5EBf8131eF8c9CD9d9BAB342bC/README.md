@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x1cBb83EbcD552D5EBf8131eF8c9CD9d9BAB342bC
   - name: github
     url: https://github.com/NFYFinance/
-  - name: twitter
-    url: https://twitter.com/NFYFinance
+  - name: x
+    url: https://x.com/NFYFinance
   - name: telegram
     url: https://t.me/NFYOfficialChat
   - name: discord

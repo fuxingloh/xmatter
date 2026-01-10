@@ -11,8 +11,8 @@ links:
     url: https://kingworld.finance/
   - name: explorer
     url: https://bscscan.com/token/0x74f08aF7528Ffb751e3A435ddD779b5C4565e684
-  - name: twitter
-    url: https://twitter.com/kingfinance
+  - name: x
+    url: https://x.com/kingfinance
   - name: reddit
     url: https://reddit.com/r/KingFinance/
   - name: telegram

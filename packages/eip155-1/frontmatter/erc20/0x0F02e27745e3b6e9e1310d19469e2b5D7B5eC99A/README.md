@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x0F02e27745e3b6e9e1310d19469e2b5D7B5eC99A
   - name: github
     url: https://github.com/Peculium-Dev/peculiumContracts
-  - name: twitter
-    url: https://twitter.com/peculium
+  - name: x
+    url: https://x.com/peculium
   - name: facebook
     url: https://facebook.com/PeculiumICO
   - name: reddit

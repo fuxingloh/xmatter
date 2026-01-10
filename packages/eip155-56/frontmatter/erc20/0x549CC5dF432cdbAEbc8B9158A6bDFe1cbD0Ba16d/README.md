@@ -6,8 +6,8 @@ links:
     url: https://howlcity.io
   - name: explorer
     url: https://bscscan.com/token/0x549cc5df432cdbaebc8b9158a6bdfe1cbd0ba16d
-  - name: twitter
-    url: https://twitter.com/HowlCityNft
+  - name: x
+    url: https://x.com/HowlCityNft
   - name: telegram
     url: https://t.me/HowlCity_Official
   - name: discord

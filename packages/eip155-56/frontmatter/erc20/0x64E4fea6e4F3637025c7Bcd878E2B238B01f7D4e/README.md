@@ -8,8 +8,8 @@ links:
     url: https://Insurance.game
   - name: explorer
     url: https://bscscan.com/token/0x64E4fea6e4F3637025c7Bcd878E2B238B01f7D4e
-  - name: twitter
-    url: https://twitter.com/insurance0game
+  - name: x
+    url: https://x.com/insurance0game
   - name: telegram
     url: https://t.me/insurance0game
   - name: whitepaper

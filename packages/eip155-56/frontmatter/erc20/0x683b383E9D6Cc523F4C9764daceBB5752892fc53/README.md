@@ -10,8 +10,8 @@ links:
     url: https://t.me/SparkLabOfficialChannel
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/sparklab/
-  - name: twitter
-    url: https://twitter.com/Sparklab3
+  - name: x
+    url: https://x.com/Sparklab3
   - name: github
     url: https://github.com/TheSparkLab/SparkLab
   - name: facebook

@@ -8,8 +8,8 @@ links:
     url: https://walkwithstep.io/
   - name: explorer
     url: https://bscscan.com/token/0x465707181ACba42Ed01268A33f0507e320a154bD
-  - name: twitter
-    url: https://twitter.com/walkwithstep
+  - name: x
+    url: https://x.com/walkwithstep
   - name: telegram
     url: https://t.me/walkwithstep
   - name: telegram_news

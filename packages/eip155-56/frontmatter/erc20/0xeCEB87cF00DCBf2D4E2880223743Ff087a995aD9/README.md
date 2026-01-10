@@ -8,8 +8,8 @@ links:
     url: https://www.numbersprotocol.io/
   - name: explorer
     url: https://bscscan.com/token/0xeCEB87cF00DCBf2D4E2880223743Ff087a995aD9
-  - name: twitter
-    url: https://twitter.com/numbersprotocol
+  - name: x
+    url: https://x.com/numbersprotocol
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/numbers-protocol/
   - name: coingecko

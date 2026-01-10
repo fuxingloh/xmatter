@@ -6,8 +6,8 @@ links:
     url: https://yoco.finance
   - name: explorer
     url: https://bscscan.com/token/0xDd17629D05E068A9D118ee35d11101d4140D0586
-  - name: twitter
-    url: https://twitter.com/yocoiny
+  - name: x
+    url: https://x.com/yocoiny
   - name: telegram
     url: https://t.me/YOCOyocoin
   - name: coinmarketcap

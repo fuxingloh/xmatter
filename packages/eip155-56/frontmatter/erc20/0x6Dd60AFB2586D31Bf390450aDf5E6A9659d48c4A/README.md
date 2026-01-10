@@ -10,8 +10,8 @@ links:
     url: https://bscscan.com/token/0x6Dd60AFB2586D31Bf390450aDf5E6A9659d48c4A
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/mafagafo/
-  - name: twitter
-    url: https://twitter.com/mafagafogame
+  - name: x
+    url: https://x.com/mafagafogame
   - name: whitepaper
     url: https://whitepaper.mafagafo.com/
 ---

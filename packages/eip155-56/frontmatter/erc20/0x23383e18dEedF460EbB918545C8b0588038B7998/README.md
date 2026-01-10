@@ -9,8 +9,8 @@ links:
     url: https://senspark.com
   - name: explorer
     url: https://bscscan.com/token/0x23383e18dEedF460EbB918545C8b0588038B7998
-  - name: twitter
-    url: https://twitter.com/SensparkMeta
+  - name: x
+    url: https://x.com/SensparkMeta
   - name: telegram
     url: https://t.me/senspark_channel
   - name: facebook

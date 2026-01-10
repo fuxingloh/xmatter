@@ -8,8 +8,8 @@ links:
     url: https://endlessboardgame.com
   - name: explorer
     url: https://bscscan.com/token/0x7eefb6aeb8bc2c1ba6be1d4273ec0758a1321272
-  - name: twitter
-    url: https://twitter.com/EngToken
+  - name: x
+    url: https://x.com/EngToken
   - name: telegram
     url: https://t.me/endlessbg
   - name: whitepaper

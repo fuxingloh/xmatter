@@ -12,8 +12,8 @@ links:
     url: https://bscscan.com/token/0x947950bcc74888a40ffa2593c5798f11fc9124c4
   - name: github
     url: https://github.com/sushiswap
-  - name: twitter
-    url: https://twitter.com/sushiswap
+  - name: x
+    url: https://x.com/sushiswap
   - name: blog
     url: https://medium.com/sushiswap
   - name: coingecko

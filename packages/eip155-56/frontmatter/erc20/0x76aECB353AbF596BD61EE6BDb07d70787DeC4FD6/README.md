@@ -8,8 +8,8 @@ links:
     url: https://www.curetoken.net/
   - name: explorer
     url: https://bscscan.com/token/0x76aECB353AbF596BD61EE6BDb07d70787DeC4FD6
-  - name: twitter
-    url: https://twitter.com/cure_token
+  - name: x
+    url: https://x.com/cure_token
   - name: telegram
     url: https://t.me/CureTokenV2
   - name: youtube

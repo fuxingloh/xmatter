@@ -8,8 +8,8 @@ links:
     url: https://bgverse.io/
   - name: explorer
     url: https://bscscan.com/token/0xa03110800894b3CcF8723D991d80875561F96777
-  - name: twitter
-    url: https://twitter.com/BITGAMEVERSE
+  - name: x
+    url: https://x.com/BITGAMEVERSE
   - name: facebook
     url: https://facebook.com/BITGAMEVERSE
   - name: coinmarketcap

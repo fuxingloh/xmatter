@@ -6,8 +6,8 @@ links:
     url: http://basedshibainu.com/
   - name: explorer
     url: https://basescan.org/token/0xfea9dcdc9e23a9068bf557ad5b186675c61d33ea
-  - name: twitter
-    url: https://twitter.com/BasedShibaInu
+  - name: x
+    url: https://x.com/BasedShibaInu
 ---
 
 # Based Shiba Inu

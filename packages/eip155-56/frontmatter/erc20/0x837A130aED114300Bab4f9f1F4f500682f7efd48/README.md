@@ -8,8 +8,8 @@ links:
     url: https://wesendit.io
   - name: explorer
     url: https://bscscan.com/token/0x837A130aED114300Bab4f9f1F4f500682f7efd48
-  - name: twitter
-    url: https://twitter.com/WeSendit
+  - name: x
+    url: https://x.com/WeSendit
   - name: github
     url: https://github.com/wesenditmedia/contracts
   - name: telegram

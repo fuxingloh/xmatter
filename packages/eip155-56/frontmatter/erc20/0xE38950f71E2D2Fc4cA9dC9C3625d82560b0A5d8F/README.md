@@ -9,8 +9,8 @@ links:
     url: https://nelo.network/
   - name: explorer
     url: https://bscscan.com/token/0xE38950f71E2D2Fc4cA9dC9C3625d82560b0A5d8F
-  - name: twitter
-    url: https://twitter.com/NELOnetwork
+  - name: x
+    url: https://x.com/NELOnetwork
   - name: telegram
     url: https://t.me/NELOnetwork
   - name: discord

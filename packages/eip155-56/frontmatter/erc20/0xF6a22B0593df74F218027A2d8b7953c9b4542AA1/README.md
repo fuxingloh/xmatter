@@ -10,8 +10,8 @@ links:
     url: https://linksync.tech
   - name: explorer
     url: https://bscscan.com/token/0xF6a22B0593df74F218027A2d8b7953c9b4542AA1
-  - name: twitter
-    url: https://twitter.com/LinkSync_Tech
+  - name: x
+    url: https://x.com/LinkSync_Tech
   - name: telegram
     url: https://t.me/LinkSyncOfficial
   - name: discord

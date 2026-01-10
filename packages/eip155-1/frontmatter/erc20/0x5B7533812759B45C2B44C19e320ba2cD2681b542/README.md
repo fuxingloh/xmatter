@@ -13,8 +13,8 @@ links:
     url: https://github.com/singnet
   - name: whitepaper
     url: https://public.singularitynet.io/whitepaper.pdf
-  - name: twitter
-    url: https://twitter.com/singularity_net
+  - name: x
+    url: https://x.com/singularity_net
   - name: telegram
     url: https://t.me/singularitynet
   - name: reddit

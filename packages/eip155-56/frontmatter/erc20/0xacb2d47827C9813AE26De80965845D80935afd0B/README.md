@@ -6,8 +6,8 @@ links:
     url: https://macaronswap.finance/
   - name: explorer
     url: https://bscscan.com/token/0xacb2d47827C9813AE26De80965845D80935afd0B
-  - name: twitter
-    url: https://twitter.com/macaronswap
+  - name: x
+    url: https://x.com/macaronswap
   - name: telegram
     url: https://t.me/macaronswap
   - name: medium

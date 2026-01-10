@@ -10,8 +10,8 @@ links:
     url: https://etherscan.io/token/0xa1d65E8fB6e87b60FECCBc582F7f97804B725521
   - name: github
     url: https://github.com/levelkdev/BC-DAPP
-  - name: twitter
-    url: https://twitter.com/Dxdao_
+  - name: x
+    url: https://x.com/Dxdao_
   - name: telegram
     url: https://t.me/dxDAO
 ---

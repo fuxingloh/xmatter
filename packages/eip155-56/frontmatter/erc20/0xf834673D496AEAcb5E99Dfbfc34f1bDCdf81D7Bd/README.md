@@ -6,8 +6,8 @@ links:
     url: https://aegislaunchpad.com/
   - name: explorer
     url: https://bscscan.com/token/0xf834673d496aeacb5e99dfbfc34f1bdcdf81d7bd
-  - name: twitter
-    url: https://twitter.com/AegisLaunchpad
+  - name: x
+    url: https://x.com/AegisLaunchpad
   - name: telegram
     url: https://t.me/AegisLaunchpad
   - name: facebook

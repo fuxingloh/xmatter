@@ -9,8 +9,8 @@ links:
     url: https://pstake.finance/
   - name: explorer
     url: https://bscscan.com/token/0xc2E9d07F66A89c44062459A47a0D2Dc038E4fb16
-  - name: twitter
-    url: https://twitter.com/pStakeFinance
+  - name: x
+    url: https://x.com/pStakeFinance
   - name: github
     url: https://github.com/persistenceOne
   - name: telegram

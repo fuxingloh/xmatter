@@ -8,8 +8,8 @@ links:
     url: https://bscscan.com/token/0xaDD8A06fd58761A5047426e160B2B88AD3B9D464
   - name: github
     url: https://github.com/cheeseswapbsc/
-  - name: twitter
-    url: https://twitter.com/cheeseswapbsc
+  - name: x
+    url: https://x.com/cheeseswapbsc
   - name: telegram
     url: https://t.me/cheeseswapbsc
 ---

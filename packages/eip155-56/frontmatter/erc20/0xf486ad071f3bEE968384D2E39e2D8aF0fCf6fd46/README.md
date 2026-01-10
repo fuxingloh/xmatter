@@ -8,8 +8,8 @@ links:
     url: http://velo.org/
   - name: explorer
     url: https://bscscan.com/token/0xf486ad071f3bee968384d2e39e2d8af0fcf6fd46
-  - name: twitter
-    url: https://twitter.com/veloprotocol
+  - name: x
+    url: https://x.com/veloprotocol
   - name: whitepaper
     url: https://velo.org/doc/Velo_Whitepaper_EN.pdf
   - name: coinmarketcap

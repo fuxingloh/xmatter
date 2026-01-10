@@ -6,8 +6,8 @@ links:
     url: https://gemguardian.io
   - name: explorer
     url: https://bscscan.com/token/0x885c5fb8f0e67b2b0cf3a437e6cc6ebc0f9f9014
-  - name: twitter
-    url: https://twitter.com/GemGuardianNFT
+  - name: x
+    url: https://x.com/GemGuardianNFT
   - name: telegram
     url: https://t.me/GemGuardianOfficialChat
   - name: coinmarketcap

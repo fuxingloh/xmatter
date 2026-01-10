@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x777E2ae845272a2F540ebf6a3D03734A5a8f618e
   - name: telegram
     url: https://t.me/RyoshisVision
-  - name: twitter
-    url: https://twitter.com/RyoshisVision
+  - name: x
+    url: https://x.com/RyoshisVision
   - name: blog
     url: https://medium.com/@RyoshisVision
   - name: discord

@@ -8,8 +8,8 @@ links:
     url: https://mvlchain.io/
   - name: explorer
     url: https://bscscan.com/token/0x5f588efaf8eb57e3837486e834fc5a4e07768d98
-  - name: twitter
-    url: https://twitter.com/mvlchain
+  - name: x
+    url: https://x.com/mvlchain
   - name: telegram
     url: https://t.me/mvlchain_en
   - name: coinmarketcap

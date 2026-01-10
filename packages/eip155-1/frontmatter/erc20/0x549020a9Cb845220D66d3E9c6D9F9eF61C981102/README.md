@@ -12,8 +12,8 @@ links:
     url: https://etherscan.io/token/0x549020a9Cb845220D66d3E9c6D9F9eF61C981102
   - name: github
     url: https://github.com/sidusHeroes
-  - name: twitter
-    url: https://twitter.com/galaxy_sidus
+  - name: x
+    url: https://x.com/galaxy_sidus
   - name: medium
     url: https://medium.com/sidus-nft-heroes
   - name: reddit

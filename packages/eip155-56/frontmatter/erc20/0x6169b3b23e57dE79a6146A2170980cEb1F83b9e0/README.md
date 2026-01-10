@@ -10,8 +10,8 @@ links:
     url: https://t.me/vetterplatform
   - name: facebook
     url: https://facebook.com/vetterplatform
-  - name: twitter
-    url: https://twitter.com/vetterplatform
+  - name: x
+    url: https://x.com/vetterplatform
 ---
 
 # Vetter Token

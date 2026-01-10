@@ -8,8 +8,8 @@ links:
     url: https://mms-soilminerals.com
   - name: explorer
     url: https://bscscan.com/token/0x67Db74b6D1Ea807CB47248489c99D144323D348d
-  - name: twitter
-    url: https://twitter.com/mmsplatform
+  - name: x
+    url: https://x.com/mmsplatform
   - name: github
     url: https://github.com/Goldcopytrade/MMSCOIN/
   - name: telegram

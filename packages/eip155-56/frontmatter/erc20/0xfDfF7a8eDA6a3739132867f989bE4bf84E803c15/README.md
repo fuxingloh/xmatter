@@ -6,8 +6,8 @@ links:
     url: https://ny-token.com/
   - name: explorer
     url: https://bscscan.com/token/0xfDfF7a8eDA6a3739132867f989bE4bf84E803c15
-  - name: twitter
-    url: https://twitter.com/new_year_token
+  - name: x
+    url: https://x.com/new_year_token
   - name: github
     url: https://github.com/new-year-token
   - name: telegram

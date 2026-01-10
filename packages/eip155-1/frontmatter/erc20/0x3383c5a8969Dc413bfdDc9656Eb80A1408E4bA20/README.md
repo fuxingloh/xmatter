@@ -8,8 +8,8 @@ links:
     url: https://etherscan.io/token/0x3383c5a8969Dc413bfdDc9656Eb80A1408E4bA20
   - name: github
     url: https://github.com/anathatech/
-  - name: twitter
-    url: https://twitter.com/Anatha_IO
+  - name: x
+    url: https://x.com/Anatha_IO
   - name: reddit
     url: https://reddit.com/r/Anatha
 ---

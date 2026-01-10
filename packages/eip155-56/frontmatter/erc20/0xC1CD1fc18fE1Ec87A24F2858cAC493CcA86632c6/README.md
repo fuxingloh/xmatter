@@ -8,8 +8,8 @@ links:
     url: https://bbpay.io
   - name: explorer
     url: https://bscscan.com/token/0xC1CD1fc18fE1Ec87A24F2858cAC493CcA86632c6
-  - name: twitter
-    url: https://twitter.com/BigboysCoin
+  - name: x
+    url: https://x.com/BigboysCoin
   - name: facebook
     url: https://facebook.com/Bigboyscoin
 ---

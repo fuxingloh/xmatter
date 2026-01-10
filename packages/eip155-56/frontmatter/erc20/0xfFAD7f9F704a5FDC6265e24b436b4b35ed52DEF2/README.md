@@ -6,8 +6,8 @@ links:
     url: https://cloudtx.finance/
   - name: explorer
     url: https://bscscan.com/token/0xffad7f9f704a5fdc6265e24b436b4b35ed52def2
-  - name: twitter
-    url: https://twitter.com/Cloudtxofficial
+  - name: x
+    url: https://x.com/Cloudtxofficial
   - name: telegram
     url: https://t.me/Cloudtx
   - name: coinmarketcap

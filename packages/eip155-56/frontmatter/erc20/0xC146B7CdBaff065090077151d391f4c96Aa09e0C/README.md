@@ -9,8 +9,8 @@ links:
     url: https://mchain.capital
   - name: explorer
     url: https://bscscan.com/token/0xC146B7CdBaff065090077151d391f4c96Aa09e0C
-  - name: twitter
-    url: https://twitter.com/MulChainCapital
+  - name: x
+    url: https://x.com/MulChainCapital
   - name: github
     url: https://github.com/mchaindev
   - name: telegram

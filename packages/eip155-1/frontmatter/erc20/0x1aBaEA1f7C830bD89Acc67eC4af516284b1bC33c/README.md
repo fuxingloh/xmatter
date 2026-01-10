@@ -6,8 +6,8 @@ links:
     url: https://www.circle.com/en/eurc
   - name: explorer
     url: https://etherscan.io/token/0x1abaea1f7c830bd89acc67ec4af516284b1bc33c
-  - name: twitter
-    url: https://twitter.com/circle
+  - name: x
+    url: https://x.com/circle
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/euro-coin/
 ---

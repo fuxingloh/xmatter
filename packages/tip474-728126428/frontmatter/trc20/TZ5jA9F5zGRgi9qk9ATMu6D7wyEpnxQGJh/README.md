@@ -8,8 +8,8 @@ links:
     url: https://tronscan.io/#/token20/TZ5jA9F5zGRgi9qk9ATMu6D7wyEpnxQGJh
   - name: github
     url: https://github.com/CyberFM/
-  - name: twitter
-    url: https://twitter.com/CyberFM
+  - name: x
+    url: https://x.com/CyberFM
   - name: telegram
     url: https://t.me/mftudotnet
   - name: facebook

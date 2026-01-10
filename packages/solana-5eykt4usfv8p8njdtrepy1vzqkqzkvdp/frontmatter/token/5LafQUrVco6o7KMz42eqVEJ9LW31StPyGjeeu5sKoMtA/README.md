@@ -6,8 +6,8 @@ links:
     url: https://www.mumu.ing
   - name: explorer
     url: https://solscan.io/token/5LafQUrVco6o7KMz42eqVEJ9LW31StPyGjeeu5sKoMtA
-  - name: twitter
-    url: https://twitter.com/mumudabull
+  - name: x
+    url: https://x.com/mumudabull
   - name: coinmarketcap
     url: https://coinmarketcap.com/currencies/mumu-ing/
 ---

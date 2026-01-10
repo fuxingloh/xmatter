@@ -6,8 +6,8 @@ links:
     url: https://dogeraca.com/
   - name: explorer
     url: https://bscscan.com/token/0xB547607EAE3B10d94B211DA84A3B51BFa545774d
-  - name: twitter
-    url: https://twitter.com/dogeraca
+  - name: x
+    url: https://x.com/dogeraca
   - name: github
     url: https://github.com/dogeraca
   - name: telegram

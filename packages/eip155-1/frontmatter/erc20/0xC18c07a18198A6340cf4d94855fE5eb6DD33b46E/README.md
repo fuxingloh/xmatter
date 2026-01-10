@@ -9,8 +9,8 @@ links:
     url: https://qlindo.io/
   - name: explorer
     url: https://etherscan.io/token/0xC18c07a18198A6340cf4d94855fE5eb6DD33b46E
-  - name: twitter
-    url: https://twitter.com/Qlindoio
+  - name: x
+    url: https://x.com/Qlindoio
   - name: telegram
     url: https://t.me/qlindoio
   - name: whitepaper

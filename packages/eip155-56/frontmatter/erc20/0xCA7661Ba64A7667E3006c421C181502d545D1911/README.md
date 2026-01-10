@@ -8,8 +8,8 @@ links:
     url: https://arawtoken.io/
   - name: explorer
     url: https://bscscan.com/token/0xca7661ba64a7667e3006c421c181502d545d1911
-  - name: twitter
-    url: https://twitter.com/arawtoken
+  - name: x
+    url: https://x.com/arawtoken
   - name: telegram
     url: https://t.me/ArawTokenOfficial
   - name: coinmarketcap

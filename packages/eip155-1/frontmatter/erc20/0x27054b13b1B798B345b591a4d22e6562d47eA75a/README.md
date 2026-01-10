@@ -6,8 +6,8 @@ links:
     url: https://www.airswap.io
   - name: explorer
     url: https://etherscan.io/token/0x27054b13b1B798B345b591a4d22e6562d47eA75a
-  - name: twitter
-    url: https://twitter.com/airswap
+  - name: x
+    url: https://x.com/airswap
   - name: discord
     url: https://discord.com/invite/ecQbV7H
   - name: github

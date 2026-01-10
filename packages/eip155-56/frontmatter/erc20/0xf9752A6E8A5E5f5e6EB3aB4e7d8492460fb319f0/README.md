@@ -6,8 +6,8 @@ links:
     url: https://www.aresprotocol.io/
   - name: explorer
     url: https://bscscan.com/token/0xf9752A6E8A5E5f5e6EB3aB4e7d8492460fb319f0
-  - name: twitter
-    url: https://twitter.com/AresProtocolLab
+  - name: x
+    url: https://x.com/AresProtocolLab
   - name: telegram
     url: https://t.me/aresprotocolLab
   - name: medium

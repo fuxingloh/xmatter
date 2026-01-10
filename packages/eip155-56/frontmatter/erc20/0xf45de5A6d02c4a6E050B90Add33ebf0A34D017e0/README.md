@@ -8,8 +8,8 @@ links:
     url: https://web3doge.io
   - name: explorer
     url: https://bscscan.com/token/0xf45de5a6d02c4a6e050b90add33ebf0a34d017e0
-  - name: twitter
-    url: https://twitter.com/web3_doge
+  - name: x
+    url: https://x.com/web3_doge
   - name: github
     url: https://github.com/web3doge
   - name: telegram

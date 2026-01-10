@@ -6,8 +6,8 @@ links:
     url: https://powsche.com
   - name: explorer
     url: https://solscan.io/token/8CkiSHHJDHJV4LUoiRMLUhqG58cUkbyJRtcP4Z3mCXNf
-  - name: twitter
-    url: https://twitter.com/powscheonsol
+  - name: x
+    url: https://x.com/powscheonsol
 ---
 
 # POWSCHE
