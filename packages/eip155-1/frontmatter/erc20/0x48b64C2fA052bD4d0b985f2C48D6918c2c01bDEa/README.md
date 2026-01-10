@@ -1,5 +1,5 @@
 ---
-symbol: '365'
+symbol: "365"
 decimals: 18
 links:
   - name: explorer

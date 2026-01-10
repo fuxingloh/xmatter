@@ -9,15 +9,15 @@ import {
   remarkGfm,
   remarkParse,
   remarkRehype,
-} from '@contentedjs/contented-pipeline-md';
-import { join } from 'node:path';
-import { copyFile } from 'node:fs/promises';
-import { imageSize } from 'image-size';
-import { mkdirSync, existsSync, createReadStream } from 'node:fs';
-import { createHash } from 'node:crypto';
-import { promisify } from 'node:util';
-import { pipeline } from 'node:stream';
-import { readFileSync, writeFileSync } from 'fs';
+} from "@contentedjs/contented-pipeline-md";
+import { join } from "node:path";
+import { copyFile } from "node:fs/promises";
+import { imageSize } from "image-size";
+import { mkdirSync, existsSync, createReadStream } from "node:fs";
+import { createHash } from "node:crypto";
+import { promisify } from "node:util";
+import { pipeline } from "node:stream";
+import { readFileSync, writeFileSync } from "fs";
 
 /**
  * To reduce complexity,
@@ -32,18 +32,18 @@ const MDProcessor = MarkdownPipeline.withProcessor((processor) => {
     .use(remarkFrontmatterResolve)
     .use(remarkFrontmatterValidate)
     .use(remarkRehype)
-    .use(rehypeExternalLinks, { target: '_blank', rel: ['noopener', 'noreferrer'] })
+    .use(rehypeExternalLinks, { target: "_blank", rel: ["noopener", "noreferrer"] })
     .use(rehypeStringify);
 });
 
 function sha256(data) {
-  return createHash('sha256').update(data).digest('hex');
+  return createHash("sha256").update(data).digest("hex");
 }
 
 async function generateContentHash(filePath) {
-  const hash = createHash('sha256');
+  const hash = createHash("sha256");
   await promisify(pipeline)(createReadStream(filePath), hash);
-  return hash.digest('hex');
+  return hash.digest("hex");
 }
 
 /**
@@ -53,10 +53,10 @@ async function generateContentHash(filePath) {
  * @return {Promise<[{mime: string, path: string}]>}
  */
 async function computeImageField(fileId, namespace, filePath) {
-  const reference = filePath.replace(/\/README\.md$/, '');
+  const reference = filePath.replace(/\/README\.md$/, "");
 
   async function computeAs({ type, from, ext, mime }) {
-    const pngLogoPath = join('frontmatter', namespace, reference, from);
+    const pngLogoPath = join("frontmatter", namespace, reference, from);
     if (existsSync(pngLogoPath) === false) {
       return [];
     }
@@ -80,25 +80,25 @@ async function computeImageField(fileId, namespace, filePath) {
 
   return [
     ...(await computeAs({
-      type: 'icon',
-      from: 'icon.png',
-      ext: '.png',
-      mime: 'image/png',
+      type: "icon",
+      from: "icon.png",
+      ext: ".png",
+      mime: "image/png",
     })),
     ...(await computeAs({
-      type: 'icon',
-      from: 'icon.svg',
-      ext: '.svg',
-      mime: 'image/svg+xml',
+      type: "icon",
+      from: "icon.svg",
+      ext: ".svg",
+      mime: "image/svg+xml",
     })),
   ];
 }
 
 function computeFileId(caip19) {
-  const [caip2, asset] = caip19.split('/');
-  const [namespace, reference] = asset.split(':');
+  const [caip2, asset] = caip19.split("/");
+  const [namespace, reference] = asset.split(":");
 
-  if (namespace === 'erc20' && reference) {
+  if (namespace === "erc20" && reference) {
     return sha256(`${caip2}/${namespace}:${reference.toLowerCase()}`);
   }
 
@@ -111,10 +111,10 @@ function computeFileId(caip19) {
  * @return {import('@contentedjs/contented').ContentedConfig}
  */
 export default function config(caip2, pipelines) {
-  const packageJson = JSON.parse(readFileSync('package.json', 'utf-8'));
+  const packageJson = JSON.parse(readFileSync("package.json", "utf-8"));
 
   writeFileSync(
-    'index.json',
+    "index.json",
     JSON.stringify({
       package: packageJson.name,
       caip2: caip2,
@@ -129,55 +129,55 @@ export default function config(caip2, pipelines) {
 
   return {
     processor: {
-      rootDir: 'frontmatter',
-      outDir: './',
+      rootDir: "frontmatter",
+      outDir: "./",
       pipelines: pipelines.map(({ namespace }) => {
         mkdirSync(`_${namespace}`, { recursive: true });
 
         return {
           type: `_${namespace}`,
           dir: namespace,
-          pattern: '**/README.md',
+          pattern: "**/README.md",
           processor: MDProcessor,
           fields: {
             caip2: {
-              type: 'string',
+              type: "string",
               resolve: () => {
                 return caip2;
               },
             },
             namespace: {
-              type: 'string',
+              type: "string",
               resolve: () => {
                 return namespace;
               },
             },
             symbol: {
-              type: 'string',
+              type: "string",
               required: true,
             },
             decimals: {
-              type: 'number',
+              type: "number",
               required: true,
             },
             tags: {
-              type: 'string[]',
+              type: "string[]",
               required: false,
             },
             links: {
-              type: 'object',
+              type: "object",
               required: false,
             },
             /**
              * Populated by computeImageField
              */
             images: {
-              type: 'object',
+              type: "object",
               required: false,
             },
           },
           transform: async (fileContent, filePath) => {
-            const reference = filePath.replace(/\/README\.md$/, '');
+            const reference = filePath.replace(/\/README\.md$/, "");
             const caip19 = `${caip2}/${namespace}:${reference}`;
             const fileId = computeFileId(caip19);
 

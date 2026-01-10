@@ -1,5 +1,5 @@
 ---
-symbol: 'MCD-DUSD'
+symbol: "MCD-DUSD"
 decimals: 8
 ---
 

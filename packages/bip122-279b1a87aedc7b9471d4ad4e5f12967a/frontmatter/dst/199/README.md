@@ -1,5 +1,5 @@
 ---
-symbol: 'ARKK#199'
+symbol: "ARKK#199"
 decimals: 8
 ---
 

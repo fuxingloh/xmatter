@@ -1,5 +1,5 @@
 ---
-symbol: 'FF#159'
+symbol: "FF#159"
 decimals: 8
 ---
 

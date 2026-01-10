@@ -1,5 +1,5 @@
 ---
-symbol: 'ABT#193'
+symbol: "ABT#193"
 decimals: 8
 ---
 

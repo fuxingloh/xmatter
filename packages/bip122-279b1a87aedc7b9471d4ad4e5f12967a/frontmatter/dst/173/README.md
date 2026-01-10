@@ -1,5 +1,5 @@
 ---
-symbol: 'EDG#173'
+symbol: "EDG#173"
 decimals: 8
 ---
 

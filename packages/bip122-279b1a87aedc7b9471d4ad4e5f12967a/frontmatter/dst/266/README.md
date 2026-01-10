@@ -1,5 +1,5 @@
 ---
-symbol: 'UPS-DUSD'
+symbol: "UPS-DUSD"
 decimals: 8
 ---
 

@@ -1,5 +1,5 @@
 ---
-symbol: 'KATBAU#154'
+symbol: "KATBAU#154"
 decimals: 8
 ---
 

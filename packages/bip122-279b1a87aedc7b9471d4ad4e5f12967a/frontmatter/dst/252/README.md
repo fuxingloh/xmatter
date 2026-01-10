@@ -1,5 +1,5 @@
 ---
-symbol: 'UPS'
+symbol: "UPS"
 decimals: 8
 ---
 

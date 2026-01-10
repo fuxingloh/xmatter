@@ -3,7 +3,7 @@ symbol: XPO
 decimals: 18
 links:
   - name: website
-    url: 'https://xpool.app/ '
+    url: "https://xpool.app/ "
   - name: explorer
     url: https://bscscan.com/token/0xeBB59CeBFb63f218db6B5094DC14AbF34d56D35D
   - name: github

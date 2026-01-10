@@ -1,5 +1,5 @@
 ---
-symbol: 'TCM#185'
+symbol: "TCM#185"
 decimals: 8
 ---
 

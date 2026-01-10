@@ -1,1 +1,1 @@
-module.exports = require('@workspace/eslint-config-next');
+module.exports = require("@workspace/eslint-config-next");

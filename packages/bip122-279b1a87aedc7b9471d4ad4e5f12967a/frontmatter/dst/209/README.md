@@ -1,5 +1,5 @@
 ---
-symbol: 'BITI'
+symbol: "BITI"
 decimals: 8
 ---
 

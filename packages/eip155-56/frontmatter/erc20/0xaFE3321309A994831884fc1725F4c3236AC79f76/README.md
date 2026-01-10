@@ -11,7 +11,7 @@ links:
   - name: github
     url: https://github.com/mrmflate
   - name: telegram
-    url: 'https://t.me/MemeFlateReloaded '
+    url: "https://t.me/MemeFlateReloaded "
   - name: whitepaper
     url: https://memeflate.io/white-paper/
   - name: coinmarketcap

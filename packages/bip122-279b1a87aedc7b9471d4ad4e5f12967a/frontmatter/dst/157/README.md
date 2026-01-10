@@ -1,5 +1,5 @@
 ---
-symbol: 'SAND#157'
+symbol: "SAND#157"
 decimals: 8
 ---
 

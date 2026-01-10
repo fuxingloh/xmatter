@@ -1,5 +1,5 @@
 ---
-symbol: 'SOL-DFI'
+symbol: "SOL-DFI"
 decimals: 8
 ---
 

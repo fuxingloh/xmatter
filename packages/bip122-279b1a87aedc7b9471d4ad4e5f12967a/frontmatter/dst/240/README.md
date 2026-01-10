@@ -1,5 +1,5 @@
 ---
-symbol: 'PSQ'
+symbol: "PSQ"
 decimals: 8
 ---
 

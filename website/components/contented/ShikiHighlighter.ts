@@ -1,6 +1,6 @@
-import { getHighlighter, Highlighter, Lang, renderToHtml } from 'shiki';
-import JsonGrammar from 'shiki/languages/json.tmLanguage.json';
-import CssVariablesTheme from 'shiki/themes/css-variables.json';
+import { getHighlighter, Highlighter, Lang, renderToHtml } from "shiki";
+import JsonGrammar from "shiki/languages/json.tmLanguage.json";
+import CssVariablesTheme from "shiki/themes/css-variables.json";
 
 let highlighter: Highlighter;
 
@@ -13,9 +13,9 @@ export async function renderHighlighterHtml(props: { code: string; language: Lan
       theme: CssVariablesTheme as any,
       langs: [
         {
-          id: 'json',
-          scopeName: 'source.json',
-          path: '-',
+          id: "json",
+          scopeName: "source.json",
+          path: "-",
           grammar: JsonGrammar as any,
         },
       ],

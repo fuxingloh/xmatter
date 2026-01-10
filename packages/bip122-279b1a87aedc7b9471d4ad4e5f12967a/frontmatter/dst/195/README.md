@@ -1,5 +1,5 @@
 ---
-symbol: 'SEX#195'
+symbol: "SEX#195"
 decimals: 8
 ---
 

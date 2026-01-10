@@ -1,37 +1,37 @@
 version: 2
 updates:
-  - package-ecosystem: 'github-actions'
-    directory: '/'
+  - package-ecosystem: "github-actions"
+    directory: "/"
     schedule:
-      interval: 'weekly'
+      interval: "weekly"
 
   - package-ecosystem: npm
-    directory: '/'
+    directory: "/"
     schedule:
-      interval: 'weekly'
+      interval: "weekly"
     groups:
       lint:
         update-types:
-          - 'minor'
-          - 'patch'
+          - "minor"
+          - "patch"
         patterns:
-          - 'husky'
-          - 'lint-staged'
-          - 'eslint'
-          - 'globals'
-          - '@eslint/*'
-          - '*eslint*'
-          - 'prettier'
-          - 'prettier-plugin-*'
+          - "husky"
+          - "lint-staged"
+          - "eslint"
+          - "globals"
+          - "@eslint/*"
+          - "*eslint*"
+          - "prettier"
+          - "prettier-plugin-*"
         exclude-patterns:
-          - 'eslint-config-next'
+          - "eslint-config-next"
       react:
         patterns:
-          - 'react'
-          - 'react-dom'
-          - '@types/react'
+          - "react"
+          - "react-dom"
+          - "@types/react"
       next:
         patterns:
-          - 'eslint-config-next'
-          - 'next'
-          - '@next/*'
+          - "eslint-config-next"
+          - "next"
+          - "@next/*"

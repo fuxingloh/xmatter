@@ -1,5 +1,5 @@
 ---
-symbol: 'ETH-DFI#191'
+symbol: "ETH-DFI#191"
 decimals: 8
 ---
 

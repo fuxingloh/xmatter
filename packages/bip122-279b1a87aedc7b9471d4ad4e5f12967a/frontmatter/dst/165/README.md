@@ -1,5 +1,5 @@
 ---
-symbol: 'PEC#165'
+symbol: "PEC#165"
 decimals: 8
 ---
 

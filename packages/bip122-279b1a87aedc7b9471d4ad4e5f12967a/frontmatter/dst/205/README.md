@@ -1,5 +1,5 @@
 ---
-symbol: 'XLRE-DUSD'
+symbol: "XLRE-DUSD"
 decimals: 8
 ---
 

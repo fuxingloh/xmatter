@@ -1,5 +1,5 @@
 ---
-symbol: 'HOT#164'
+symbol: "HOT#164"
 decimals: 8
 ---
 

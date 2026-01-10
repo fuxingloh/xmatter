@@ -1,5 +1,5 @@
 ---
-symbol: 'LST#155'
+symbol: "LST#155"
 decimals: 8
 ---
 

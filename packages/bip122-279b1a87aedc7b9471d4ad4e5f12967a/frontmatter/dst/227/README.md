@@ -1,5 +1,5 @@
 ---
-symbol: 'DOT'
+symbol: "DOT"
 decimals: 8
 ---
 

@@ -1,5 +1,5 @@
 ---
-symbol: 'SOL'
+symbol: "SOL"
 decimals: 8
 ---
 

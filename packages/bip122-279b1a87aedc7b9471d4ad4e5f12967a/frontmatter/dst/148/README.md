@@ -1,5 +1,5 @@
 ---
-symbol: 'Monaco#148'
+symbol: "Monaco#148"
 decimals: 8
 ---
 

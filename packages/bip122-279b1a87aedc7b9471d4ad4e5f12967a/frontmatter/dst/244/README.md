@@ -1,5 +1,5 @@
 ---
-symbol: 'BKNG'
+symbol: "BKNG"
 decimals: 8
 ---
 

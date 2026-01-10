@@ -1,5 +1,5 @@
 ---
-symbol: 'TST#152'
+symbol: "TST#152"
 decimals: 8
 ---
 

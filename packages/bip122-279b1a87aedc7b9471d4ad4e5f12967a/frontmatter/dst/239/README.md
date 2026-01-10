@@ -1,5 +1,5 @@
 ---
-symbol: 'TBF-DUSD'
+symbol: "TBF-DUSD"
 decimals: 8
 ---
 

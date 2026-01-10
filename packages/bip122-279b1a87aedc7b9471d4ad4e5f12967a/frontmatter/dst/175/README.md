@@ -1,5 +1,5 @@
 ---
-symbol: 'IZT#175'
+symbol: "IZT#175"
 decimals: 8
 ---
 

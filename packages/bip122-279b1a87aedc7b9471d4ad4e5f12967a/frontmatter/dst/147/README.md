@@ -1,5 +1,5 @@
 ---
-symbol: 'HOPI#147'
+symbol: "HOPI#147"
 decimals: 8
 ---
 

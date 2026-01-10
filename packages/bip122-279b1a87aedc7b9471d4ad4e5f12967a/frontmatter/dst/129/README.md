@@ -1,5 +1,5 @@
 ---
-symbol: 'Ira#129'
+symbol: "Ira#129"
 decimals: 8
 ---
 

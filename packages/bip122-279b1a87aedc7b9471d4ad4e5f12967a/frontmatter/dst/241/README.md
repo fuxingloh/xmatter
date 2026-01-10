@@ -1,5 +1,5 @@
 ---
-symbol: 'TSLS'
+symbol: "TSLS"
 decimals: 8
 ---
 

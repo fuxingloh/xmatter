@@ -1,5 +1,5 @@
 ---
-symbol: 'DFI#190'
+symbol: "DFI#190"
 decimals: 8
 ---
 

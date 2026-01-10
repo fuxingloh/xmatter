@@ -1,5 +1,5 @@
 ---
-symbol: 'STEF#137'
+symbol: "STEF#137"
 decimals: 8
 ---
 

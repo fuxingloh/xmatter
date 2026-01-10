@@ -1,5 +1,5 @@
 ---
-symbol: 'EFC#130'
+symbol: "EFC#130"
 decimals: 8
 ---
 

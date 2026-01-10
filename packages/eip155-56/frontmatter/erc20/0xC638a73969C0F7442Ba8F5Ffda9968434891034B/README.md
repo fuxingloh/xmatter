@@ -1,5 +1,5 @@
 ---
-symbol: 'DDoge '
+symbol: "DDoge "
 decimals: 18
 tags:
   - defi

@@ -1,5 +1,5 @@
 ---
-symbol: 'MCA#135'
+symbol: "MCA#135"
 decimals: 8
 ---
 

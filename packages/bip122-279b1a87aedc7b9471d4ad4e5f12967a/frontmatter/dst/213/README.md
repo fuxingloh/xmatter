@@ -1,5 +1,5 @@
 ---
-symbol: 'SHEL-DUSD'
+symbol: "SHEL-DUSD"
 decimals: 8
 ---
 

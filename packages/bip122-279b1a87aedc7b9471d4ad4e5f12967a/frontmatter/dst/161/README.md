@@ -1,5 +1,5 @@
 ---
-symbol: 'CHR#161'
+symbol: "CHR#161"
 decimals: 8
 ---
 

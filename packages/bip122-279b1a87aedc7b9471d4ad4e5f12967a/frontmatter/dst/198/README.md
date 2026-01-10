@@ -1,5 +1,5 @@
 ---
-symbol: 'DUSD#198'
+symbol: "DUSD#198"
 decimals: 8
 ---
 

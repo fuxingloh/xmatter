@@ -1,5 +1,5 @@
 ---
-symbol: 'USDT#223'
+symbol: "USDT#223"
 decimals: 8
 ---
 

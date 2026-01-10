@@ -1,5 +1,5 @@
 ---
-symbol: 'CashFlow#189'
+symbol: "CashFlow#189"
 decimals: 8
 ---
 

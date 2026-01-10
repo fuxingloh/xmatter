@@ -1,12 +1,12 @@
-import { decodeCaip19, getInstalledNamespaces } from 'crypto-frontmatter';
-import { Metadata } from 'next';
-import { notFound } from 'next/navigation';
-import type { ReactElement } from 'react';
+import { decodeCaip19, getInstalledNamespaces } from "crypto-frontmatter";
+import { Metadata } from "next";
+import { notFound } from "next/navigation";
+import type { ReactElement } from "react";
 
-import * as AssetPage from '@/app/[caip2]/[slug]/AssetPage';
-import * as NamespacePage from '@/app/[caip2]/[slug]/NamespacePage';
+import * as AssetPage from "@/app/[caip2]/[slug]/AssetPage";
+import * as NamespacePage from "@/app/[caip2]/[slug]/NamespacePage";
 
-export async function generateStaticParams(): Promise<Parameters<typeof Page>[0]['params'][]> {
+export async function generateStaticParams(): Promise<Parameters<typeof Page>[0]["params"][]> {
   const namespaces = await getInstalledNamespaces();
   return namespaces.map((namespace) => {
     return {
@@ -37,7 +37,7 @@ export default async function Page(props: {
     slug: string;
   };
 }): Promise<ReactElement> {
-  if (props.params.caip2.startsWith('_')) {
+  if (props.params.caip2.startsWith("_")) {
     // This route conflicts with public/_crypto-frontmatter static assets.
     // This is an early termination to avoid unnecessary processing.
     return notFound();

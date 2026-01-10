@@ -1,5 +1,5 @@
 ---
-symbol: '777'
+symbol: "777"
 decimals: 18
 links:
   - name: explorer

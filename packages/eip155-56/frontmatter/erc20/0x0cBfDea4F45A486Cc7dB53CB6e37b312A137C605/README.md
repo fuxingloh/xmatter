@@ -5,7 +5,7 @@ tags:
   - defi
 links:
   - name: website
-    url: ' https://seedx.app'
+    url: " https://seedx.app"
   - name: explorer
     url: https://bscscan.com/token/0x0cBfDea4F45A486Cc7dB53CB6e37b312A137C605
   - name: x

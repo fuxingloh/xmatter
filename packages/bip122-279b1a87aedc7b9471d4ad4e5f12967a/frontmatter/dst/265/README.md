@@ -1,5 +1,5 @@
 ---
-symbol: 'UBER-DUSD'
+symbol: "UBER-DUSD"
 decimals: 8
 ---
 

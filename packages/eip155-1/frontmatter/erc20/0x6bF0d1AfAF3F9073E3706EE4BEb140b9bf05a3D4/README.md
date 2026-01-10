@@ -1,5 +1,5 @@
 ---
-symbol: 'TRB '
+symbol: "TRB "
 decimals: 0
 links:
   - name: explorer

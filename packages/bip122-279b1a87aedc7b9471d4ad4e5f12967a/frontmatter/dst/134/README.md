@@ -1,5 +1,5 @@
 ---
-symbol: 'JULE#134'
+symbol: "JULE#134"
 decimals: 8
 ---
 

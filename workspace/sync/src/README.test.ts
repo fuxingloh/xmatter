@@ -1,14 +1,14 @@
-import { expect, it } from '@jest/globals';
+import { expect, it } from "@jest/globals";
 
-import { validate } from './README';
+import { validate } from "./README";
 
 it.each([
   {
     valid: true,
     readme: {
-      title: 'Ethereum (ETH)',
+      title: "Ethereum (ETH)",
       frontmatter: {
-        symbol: 'ETH',
+        symbol: "ETH",
         decimals: 1,
       },
     },
@@ -16,9 +16,9 @@ it.each([
   {
     valid: true,
     readme: {
-      title: '(ETH)',
+      title: "(ETH)",
       frontmatter: {
-        symbol: 'ETH',
+        symbol: "ETH",
         decimals: 0,
       },
     },
@@ -26,9 +26,9 @@ it.each([
   {
     valid: true,
     readme: {
-      title: 'Ethereum (ETH)',
+      title: "Ethereum (ETH)",
       frontmatter: {
-        symbol: 'ETH',
+        symbol: "ETH",
         decimals: 18,
       },
     },
@@ -36,25 +36,25 @@ it.each([
   {
     valid: true,
     readme: {
-      title: 'Ethereum (ETH)',
+      title: "Ethereum (ETH)",
       frontmatter: {
-        symbol: 'ETH',
+        symbol: "ETH",
         decimals: 18,
-        tags: ['ethereum', 'eth'],
+        tags: ["ethereum", "eth"],
       },
     },
   },
   {
     valid: true,
     readme: {
-      title: 'Ethereum (ETH)',
+      title: "Ethereum (ETH)",
       frontmatter: {
-        symbol: 'ETH',
+        symbol: "ETH",
         decimals: 18,
         links: [
           {
-            name: 'explorer',
-            url: 'https://etherscan.io',
+            name: "explorer",
+            url: "https://etherscan.io",
           },
         ],
       },
@@ -63,9 +63,9 @@ it.each([
   {
     valid: false,
     readme: {
-      title: 'Ethereum (ETH)',
+      title: "Ethereum (ETH)",
       frontmatter: {
-        symbol: 'ETH ',
+        symbol: "ETH ",
         decimals: 0,
       },
     },
@@ -73,9 +73,9 @@ it.each([
   {
     valid: false,
     readme: {
-      title: 'Ethereum (ETH)',
+      title: "Ethereum (ETH)",
       frontmatter: {
-        symbol: 'ETH',
+        symbol: "ETH",
         decimals: -1,
       },
     },
@@ -83,9 +83,9 @@ it.each([
   {
     valid: false,
     readme: {
-      title: 'Ethereum ',
+      title: "Ethereum ",
       frontmatter: {
-        symbol: 'ETH',
+        symbol: "ETH",
         decimals: 0,
       },
     },
@@ -93,9 +93,9 @@ it.each([
   {
     valid: false,
     readme: {
-      title: 'Ethereum (ETH)',
+      title: "Ethereum (ETH)",
       frontmatter: {
-        symbol: 'ETH',
+        symbol: "ETH",
         decimals: -1,
       },
     },
@@ -103,9 +103,9 @@ it.each([
   {
     valid: false,
     readme: {
-      title: 'Ethereum (ETH)',
+      title: "Ethereum (ETH)",
       frontmatter: {
-        symbol: 'ETH',
+        symbol: "ETH",
         decimals: 0.5,
       },
     },
@@ -114,7 +114,7 @@ it.each([
     valid: false,
     readme: {
       frontmatter: {
-        symbol: 'ETH',
+        symbol: "ETH",
         decimals: 18,
       },
     },
@@ -122,9 +122,9 @@ it.each([
   {
     valid: false,
     readme: {
-      title: '',
+      title: "",
       frontmatter: {
-        symbol: 'ETH',
+        symbol: "ETH",
         decimals: 18,
       },
     },
@@ -132,12 +132,12 @@ it.each([
   {
     valid: false,
     readme: {
-      title: 'ETH',
+      title: "ETH",
       frontmatter: {
         decimals: 18,
       },
     },
   },
-])('should be validate README', async ({ readme, valid }) => {
+])("should be validate README", async ({ readme, valid }) => {
   expect(validate(readme)).toBe(valid);
 });

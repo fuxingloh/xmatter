@@ -1,5 +1,5 @@
 ---
-symbol: 'SINGA#192'
+symbol: "SINGA#192"
 decimals: 8
 ---
 

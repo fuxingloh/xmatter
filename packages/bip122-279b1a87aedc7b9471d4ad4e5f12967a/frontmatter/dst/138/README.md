@@ -1,5 +1,5 @@
 ---
-symbol: 'DF1#138'
+symbol: "DF1#138"
 decimals: 8
 ---
 

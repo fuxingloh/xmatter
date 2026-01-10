@@ -1,5 +1,5 @@
 ---
-symbol: 'RAP#187'
+symbol: "RAP#187"
 decimals: 8
 ---
 

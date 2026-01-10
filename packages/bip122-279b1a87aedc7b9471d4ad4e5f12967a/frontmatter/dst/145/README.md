@@ -1,5 +1,5 @@
 ---
-symbol: 'ICC#145'
+symbol: "ICC#145"
 decimals: 8
 ---
 

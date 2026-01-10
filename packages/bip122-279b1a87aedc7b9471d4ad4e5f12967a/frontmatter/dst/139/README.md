@@ -1,5 +1,5 @@
 ---
-symbol: 'BIO#139'
+symbol: "BIO#139"
 decimals: 8
 ---
 

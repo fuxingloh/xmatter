@@ -1,5 +1,5 @@
 ---
-symbol: 'wBTC#142'
+symbol: "wBTC#142"
 decimals: 8
 ---
 

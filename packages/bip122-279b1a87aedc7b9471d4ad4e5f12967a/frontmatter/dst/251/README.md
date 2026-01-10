@@ -1,5 +1,5 @@
 ---
-symbol: 'UBER'
+symbol: "UBER"
 decimals: 8
 ---
 

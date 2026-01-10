@@ -1,5 +1,5 @@
 ---
-symbol: 'SCO-DUSD'
+symbol: "SCO-DUSD"
 decimals: 8
 ---
 

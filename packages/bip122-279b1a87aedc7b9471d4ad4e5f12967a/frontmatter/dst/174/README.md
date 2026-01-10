@@ -1,5 +1,5 @@
 ---
-symbol: 'FNCY#174'
+symbol: "FNCY#174"
 decimals: 8
 ---
 

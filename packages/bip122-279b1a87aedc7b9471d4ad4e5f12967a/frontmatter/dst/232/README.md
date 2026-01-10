@@ -1,5 +1,5 @@
 ---
-symbol: 'SUI'
+symbol: "SUI"
 decimals: 8
 ---
 

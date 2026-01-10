@@ -1,5 +1,5 @@
 ---
-symbol: '0x0'
+symbol: "0x0"
 decimals: 9
 tags:
   - privacy

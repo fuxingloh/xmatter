@@ -1,5 +1,5 @@
 ---
-symbol: 'LEG#149'
+symbol: "LEG#149"
 decimals: 8
 ---
 

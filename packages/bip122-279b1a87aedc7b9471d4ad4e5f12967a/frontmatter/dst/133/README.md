@@ -1,5 +1,5 @@
 ---
-symbol: 'DGT#133'
+symbol: "DGT#133"
 decimals: 8
 ---
 

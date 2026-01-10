@@ -1,5 +1,5 @@
 ---
-symbol: 'GLNCY-DUSD'
+symbol: "GLNCY-DUSD"
 decimals: 8
 ---
 

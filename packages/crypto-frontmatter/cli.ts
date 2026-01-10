@@ -1,9 +1,9 @@
-import { copyFile, mkdir } from 'node:fs/promises';
-import { join } from 'node:path';
+import { copyFile, mkdir } from "node:fs/promises";
+import { join } from "node:path";
 
-import { Command, Option, runExit } from 'clipanion';
+import { Command, Option, runExit } from "clipanion";
 
-import { FrontmatterNamespace, getIndex, getIndexPath, getInstalledNamespaces, getNodeModulesPath } from './index';
+import { FrontmatterNamespace, getIndex, getIndexPath, getInstalledNamespaces, getNodeModulesPath } from "./index";
 
 export class MirrorCommand extends Command {
   static override paths = [[`mirror`]];
@@ -26,19 +26,19 @@ export class MirrorCommand extends Command {
     for (const namespace of await getInstalledNamespaces()) {
       let count = 0;
 
-      if (this.includes('index.json')) {
+      if (this.includes("index.json")) {
         const toPath = getIndexPath(namespace.caip2, namespace.namespace);
-        await this.mirrorFile(namespace, 'index.json', toPath);
+        await this.mirrorFile(namespace, "index.json", toPath);
         count++;
       }
 
       for (const frontmatter of (await getIndex(namespace.caip2, namespace.namespace))!) {
-        if (this.includes('frontmatter.json')) {
-          await this.mirrorFile(namespace, frontmatter.fileId + '.json');
+        if (this.includes("frontmatter.json")) {
+          await this.mirrorFile(namespace, frontmatter.fileId + ".json");
           count++;
         }
 
-        if (this.includes('images')) {
+        if (this.includes("images")) {
           for (const image of frontmatter.fields.images) {
             await this.mirrorFile(namespace, image.path);
             count++;

@@ -1,10 +1,10 @@
-import { copyFile, readFile } from 'node:fs/promises';
-import { join } from 'node:path';
+import { copyFile, readFile } from "node:fs/promises";
+import { join } from "node:path";
 
-import { getAddress } from 'ethers';
+import { getAddress } from "ethers";
 
-import { README } from '../../README';
-import { hasFile, SyncCommand } from '../../SyncCommand';
+import { README } from "../../README";
+import { hasFile, SyncCommand } from "../../SyncCommand";
 
 interface Data {
   name: string;
@@ -28,12 +28,12 @@ export class EthereumOptimism extends SyncCommand<Data> {
   static override paths = [[`ethereum-optimism/ethereum-optimism.github.io`]];
 
   async execute(): Promise<number | void> {
-    await this.walkDir('repo/data', {
+    await this.walkDir("repo/data", {
       filter: (data) => !!data.tokens.ethereum,
       toPath: (data) => `../../packages/eip155-1/frontmatter/erc20/${getAddress(data.tokens.ethereum.address)}`,
     });
 
-    await this.walkDir('repo/data', {
+    await this.walkDir("repo/data", {
       filter: (data) => !!data.tokens.optimism,
       toPath: (data) => `../../packages/eip155-10/frontmatter/erc20/${getAddress(data.tokens.optimism.address)}`,
       toREADME: (data) => {
@@ -49,7 +49,7 @@ export class EthereumOptimism extends SyncCommand<Data> {
       },
     });
 
-    await this.walkDir('repo/data', {
+    await this.walkDir("repo/data", {
       filter: (data) => !!data.tokens.base,
       toPath: (data) => `../../packages/eip155-8453/frontmatter/erc20/${getAddress(data.tokens.base.address)}`,
       toREADME: (data) => {
@@ -68,8 +68,8 @@ export class EthereumOptimism extends SyncCommand<Data> {
 
   async readData(fromPath: string): Promise<Data | undefined> {
     return JSON.parse(
-      await readFile(join(fromPath, 'data.json'), {
-        encoding: 'utf-8',
+      await readFile(join(fromPath, "data.json"), {
+        encoding: "utf-8",
       }),
     ) as Data;
   }
@@ -77,19 +77,19 @@ export class EthereumOptimism extends SyncCommand<Data> {
   async write(data: Data, fromPath: string, toPath: string, readme: README): Promise<void> {
     await super.write(data, fromPath, toPath, readme);
 
-    const logoPng = join(fromPath, 'logo.png');
+    const logoPng = join(fromPath, "logo.png");
     if (await hasFile(logoPng)) {
-      await copyFile(logoPng, join(toPath, 'icon.png'));
+      await copyFile(logoPng, join(toPath, "icon.png"));
     }
 
-    const logoSvg = join(fromPath, 'logo.svg');
+    const logoSvg = join(fromPath, "logo.svg");
     if (await hasFile(logoSvg)) {
-      await copyFile(logoSvg, join(toPath, 'icon.svg'));
+      await copyFile(logoSvg, join(toPath, "icon.svg"));
     }
   }
 
   async shouldWrite(data: Data, fromPath: string, toPath: string): Promise<boolean> {
-    return !(await hasFile(join(toPath, 'README.md')));
+    return !(await hasFile(join(toPath, "README.md")));
   }
 
   toREADME(data: Data): README {
@@ -104,13 +104,13 @@ export class EthereumOptimism extends SyncCommand<Data> {
   }
 }
 
-function createLinks(data: Partial<Data>): README['frontmatter']['links'] {
-  const links: README['frontmatter']['links'] = [];
-  if (data.website) links.push({ name: 'website', url: data.website });
+function createLinks(data: Partial<Data>): README["frontmatter"]["links"] {
+  const links: README["frontmatter"]["links"] = [];
+  if (data.website) links.push({ name: "website", url: data.website });
   if (data.twitter)
     links.push({
-      name: 'twitter',
-      url: `https://twitter.com/${data.twitter.replace('@', '')}`,
+      name: "twitter",
+      url: `https://twitter.com/${data.twitter.replace("@", "")}`,
     });
   return links;
 }

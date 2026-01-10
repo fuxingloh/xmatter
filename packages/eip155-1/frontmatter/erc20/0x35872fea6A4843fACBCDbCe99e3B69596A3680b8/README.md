@@ -1,5 +1,5 @@
 ---
-symbol: '1337'
+symbol: "1337"
 decimals: 4
 links:
   - name: explorer

@@ -1,5 +1,5 @@
 ---
-symbol: 'TCMN#140'
+symbol: "TCMN#140"
 decimals: 8
 ---
 

@@ -1,5 +1,5 @@
 ---
-symbol: 'DFG#132'
+symbol: "DFG#132"
 decimals: 8
 ---
 

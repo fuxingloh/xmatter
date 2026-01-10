@@ -1,5 +1,5 @@
 ---
-symbol: 'MARK#158'
+symbol: "MARK#158"
 decimals: 8
 ---
 

@@ -1,5 +1,5 @@
 ---
-symbol: 'GLNCY'
+symbol: "GLNCY"
 decimals: 8
 ---
 

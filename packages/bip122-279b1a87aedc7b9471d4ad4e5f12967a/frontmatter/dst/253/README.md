@@ -1,5 +1,5 @@
 ---
-symbol: 'V'
+symbol: "V"
 decimals: 8
 ---
 

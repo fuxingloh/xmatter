@@ -8,7 +8,7 @@
 }
 
 .prose .admonitions {
-  @apply border-mono-500/30 bg-mono-500/5 text-mono-200 rounded border leading-6;
+  @apply rounded border border-mono-500/30 bg-mono-500/5 leading-6 text-mono-200;
   @apply my-6 py-4 pl-10 pr-4;
 }
 
@@ -64,12 +64,12 @@
 }
 
 .prose :is(h1, h2, h3, h4, h5, h6) a:first-child:before {
-  content: '#';
+  content: "#";
   @apply absolute -ml-7 text-blue-500;
 }
 
 .prose :is(h2, h3, h4, h5, h6) a:first-child:before {
-  content: '#';
+  content: "#";
   @apply -ml-6;
 }
 
@@ -125,9 +125,9 @@
 .prose .codeblock-group nav {
   @apply rounded-t border;
   @apply border-mono-700/70;
-  @apply bg-mono-950/10 h-[36px] px-4;
+  @apply h-[36px] bg-mono-950/10 px-4;
   @apply flex items-center justify-between;
-  @apply text-mono-400 text-sm;
+  @apply text-sm text-mono-400;
 }
 
 .prose .codeblock-header .rehype-shiki pre.css-variable {
@@ -146,7 +146,7 @@
 }
 
 .prose .codeblock-group nav button.codeblock-language-selected::after {
-  content: '▾';
+  content: "▾";
   font-size: 18px;
   @apply ml-1;
 }

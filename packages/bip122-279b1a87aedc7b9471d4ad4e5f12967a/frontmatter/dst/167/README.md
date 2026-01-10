@@ -1,5 +1,5 @@
 ---
-symbol: 'GOLD#167'
+symbol: "GOLD#167"
 decimals: 8
 ---
 

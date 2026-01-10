@@ -1,5 +1,5 @@
 ---
-symbol: '300'
+symbol: "300"
 decimals: 18
 links:
   - name: explorer

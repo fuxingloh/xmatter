@@ -1,5 +1,5 @@
 ---
-symbol: ' BEB'
+symbol: " BEB"
 decimals: 18
 links:
   - name: explorer

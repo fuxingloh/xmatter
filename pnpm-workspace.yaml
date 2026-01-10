@@ -1,4 +1,4 @@
 packages:
-  - 'packages/*'
-  - 'workspace/*'
-  - 'website'
+  - "packages/*"
+  - "workspace/*"
+  - "website"

@@ -1,5 +1,5 @@
 ---
-symbol: 'eA#156'
+symbol: "eA#156"
 decimals: 8
 ---
 

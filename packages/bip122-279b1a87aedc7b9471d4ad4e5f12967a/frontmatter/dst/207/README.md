@@ -1,5 +1,5 @@
 ---
-symbol: 'XLE-DUSD'
+symbol: "XLE-DUSD"
 decimals: 8
 ---
 

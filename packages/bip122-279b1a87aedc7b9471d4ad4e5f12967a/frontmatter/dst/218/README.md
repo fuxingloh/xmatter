@@ -1,5 +1,5 @@
 ---
-symbol: 'EUROC-DUSD'
+symbol: "EUROC-DUSD"
 decimals: 8
 ---
 

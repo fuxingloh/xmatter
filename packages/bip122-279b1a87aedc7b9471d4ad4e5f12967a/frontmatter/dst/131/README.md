@@ -1,5 +1,5 @@
 ---
-symbol: 'SPZY#131'
+symbol: "SPZY#131"
 decimals: 8
 ---
 

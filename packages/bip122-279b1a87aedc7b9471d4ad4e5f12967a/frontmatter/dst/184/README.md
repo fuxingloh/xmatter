@@ -1,5 +1,5 @@
 ---
-symbol: 'PCT#184'
+symbol: "PCT#184"
 decimals: 8
 ---
 

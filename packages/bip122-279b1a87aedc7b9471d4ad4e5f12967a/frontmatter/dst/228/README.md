@@ -1,5 +1,5 @@
 ---
-symbol: 'MATIC'
+symbol: "MATIC"
 decimals: 8
 ---
 

@@ -1,5 +1,5 @@
 ---
-symbol: 'SUI-DFI'
+symbol: "SUI-DFI"
 decimals: 8
 ---
 

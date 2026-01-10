@@ -1,5 +1,5 @@
 ---
-symbol: 'SH'
+symbol: "SH"
 decimals: 8
 ---
 

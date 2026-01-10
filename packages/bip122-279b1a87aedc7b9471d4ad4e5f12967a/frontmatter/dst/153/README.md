@@ -1,5 +1,5 @@
 ---
-symbol: 'BAUKAT#153'
+symbol: "BAUKAT#153"
 decimals: 8
 ---
 

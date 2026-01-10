@@ -1,5 +1,5 @@
 ---
-symbol: '2192'
+symbol: "2192"
 decimals: 18
 links:
   - name: website

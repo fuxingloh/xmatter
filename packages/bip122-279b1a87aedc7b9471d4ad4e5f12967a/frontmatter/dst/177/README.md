@@ -1,5 +1,5 @@
 ---
-symbol: 'HCT#177'
+symbol: "HCT#177"
 decimals: 8
 ---
 

@@ -76,12 +76,12 @@
   }
 
   /* Explicit Toggle Override: Light */
-  html[data-theme='light'] {
+  html[data-theme="light"] {
     @apply --tokens-light;
   }
 
   /* Explicit Toggle Override: Dark */
-  html[data-theme='dark'] {
+  html[data-theme="dark"] {
     @apply --tokens-dark;
   }
 }

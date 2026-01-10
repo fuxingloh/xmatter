@@ -1,5 +1,5 @@
 ---
-symbol: 'NSRGY'
+symbol: "NSRGY"
 decimals: 8
 ---
 

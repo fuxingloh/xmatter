@@ -1,5 +1,5 @@
 ---
-symbol: 'ARKX-DUSD'
+symbol: "ARKX-DUSD"
 decimals: 8
 ---
 

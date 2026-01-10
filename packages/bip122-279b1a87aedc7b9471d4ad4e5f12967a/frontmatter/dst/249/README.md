@@ -1,5 +1,5 @@
 ---
-symbol: 'PFE'
+symbol: "PFE"
 decimals: 8
 ---
 

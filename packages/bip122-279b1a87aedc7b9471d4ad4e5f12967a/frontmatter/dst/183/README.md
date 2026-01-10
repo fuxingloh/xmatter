@@ -1,5 +1,5 @@
 ---
-symbol: 'WSB#183'
+symbol: "WSB#183"
 decimals: 8
 ---
 

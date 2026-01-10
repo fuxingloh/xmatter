@@ -1,5 +1,5 @@
 ---
-symbol: 'CET#178'
+symbol: "CET#178"
 decimals: 8
 ---
 

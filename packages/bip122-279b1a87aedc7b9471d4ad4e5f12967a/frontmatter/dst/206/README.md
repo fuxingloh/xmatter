@@ -1,5 +1,5 @@
 ---
-symbol: 'VBK-DUSD'
+symbol: "VBK-DUSD"
 decimals: 8
 ---
 

@@ -1,5 +1,5 @@
 ---
-symbol: 'BTC#168'
+symbol: "BTC#168"
 decimals: 8
 ---
 

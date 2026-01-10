@@ -1,54 +1,54 @@
-import Ajv from 'ajv';
+import Ajv from "ajv";
 
 const schema = {
-  $schema: 'http://json-schema.org/draft-07/schema#',
-  type: 'object',
+  $schema: "http://json-schema.org/draft-07/schema#",
+  type: "object",
   properties: {
     title: {
-      type: 'string',
+      type: "string",
       minLength: 1,
-      pattern: '^(?!\\s)(?!.*\\s$).*$',
+      pattern: "^(?!\\s)(?!.*\\s$).*$",
     },
     frontmatter: {
-      type: 'object',
+      type: "object",
       properties: {
         symbol: {
-          type: 'string',
+          type: "string",
           minLength: 1,
-          pattern: '^(?!\\s)(?!.*\\s$).*$',
+          pattern: "^(?!\\s)(?!.*\\s$).*$",
         },
         decimals: {
-          type: 'number',
+          type: "number",
           minimum: 0,
           maximum: 256,
           multipleOf: 1,
         },
         tags: {
-          type: 'array',
+          type: "array",
           items: {
-            type: 'string',
+            type: "string",
           },
         },
         links: {
-          type: 'array',
+          type: "array",
           items: {
-            type: 'object',
+            type: "object",
             properties: {
               name: {
-                type: 'string',
+                type: "string",
               },
               url: {
-                type: 'string',
+                type: "string",
               },
             },
-            required: ['name', 'url'],
+            required: ["name", "url"],
           },
         },
       },
-      required: ['symbol', 'decimals'],
+      required: ["symbol", "decimals"],
     },
   },
-  required: ['title', 'frontmatter'],
+  required: ["title", "frontmatter"],
 };
 
 const ajv = new Ajv();

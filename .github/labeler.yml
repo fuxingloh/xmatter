@@ -32,10 +32,10 @@ labels:
       title: "^bump(\\(.+\\))?: .+"
 
 checks:
-  - context: 'Semantic Pull Request'
+  - context: "Semantic Pull Request"
     description:
       success: Ready for review & merge.
-      failure: 'Missing semantic title for merge [kind(directory): title]'
+      failure: "Missing semantic title for merge [kind(directory): title]"
     labels:
       any:
         - kind/feature

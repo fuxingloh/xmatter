@@ -1,5 +1,5 @@
 ---
-symbol: 'dMISC#194'
+symbol: "dMISC#194"
 decimals: 8
 ---
 

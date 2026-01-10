@@ -1,16 +1,16 @@
-import './ContentedProse.css';
+import "./ContentedProse.css";
 
-import clsx from 'clsx';
-import { Parser, ProcessNodeDefinitions } from 'html-to-react';
-import Link from 'next/link';
-import { ReactElement } from 'react';
+import clsx from "clsx";
+import { Parser, ProcessNodeDefinitions } from "html-to-react";
+import Link from "next/link";
+import { ReactElement } from "react";
 
 const HtmlToReactParser = Parser();
 const processNodeDefinitions = ProcessNodeDefinitions();
 const processingInstructions = [
   {
     replaceChildren: false,
-    shouldProcessNode: (node: any) => node.name === 'a',
+    shouldProcessNode: (node: any) => node.name === "a",
     processNode: (node: any, children: ReactElement) => {
       const { href, target, ...props } = node.attribs;
       return (
@@ -30,7 +30,7 @@ export function ContentedProse(props: { className?: string; html: string }): Rea
   const parsed = HtmlToReactParser.parseWithInstructions(props.html, () => true, processingInstructions);
 
   return (
-    <article id="contented-prose" className={clsx(props.className, 'dark:prose-invert prose')}>
+    <article id="contented-prose" className={clsx(props.className, "dark:prose-invert prose")}>
       {parsed}
     </article>
   );

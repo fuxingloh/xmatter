@@ -1,5 +1,5 @@
 ---
-symbol: 'ETH#222'
+symbol: "ETH#222"
 decimals: 8
 ---
 

@@ -1,5 +1,5 @@
 ---
-symbol: 'MATIC-DFI'
+symbol: "MATIC-DFI"
 decimals: 8
 ---
 

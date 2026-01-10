@@ -1,8 +1,8 @@
-'use client';
+"use client";
 
-import { AnimatePresence, motion } from 'framer-motion';
-import { usePathname, useSearchParams } from 'next/navigation';
-import { ReactElement, Suspense, useCallback, useEffect, useState } from 'react';
+import { AnimatePresence, motion } from "framer-motion";
+import { usePathname, useSearchParams } from "next/navigation";
+import { ReactElement, Suspense, useCallback, useEffect, useState } from "react";
 
 export function NavigationIndicator(): ReactElement {
   return (
@@ -27,10 +27,10 @@ function ClientNavigationIndicator(): ReactElement {
     // Ignore when new tab
     if (event.metaKey || event.ctrlKey) return;
 
-    const anchor = event.target.closest('a');
+    const anchor = event.target.closest("a");
     if (!anchor) return;
     // Ignore when _blank
-    if (anchor.target === '_blank') return;
+    if (anchor.target === "_blank") return;
     // Ignore when anchor navigation
     if (isAnchor(anchor)) return;
 
@@ -41,8 +41,8 @@ function ClientNavigationIndicator(): ReactElement {
     setShow(false);
     setWidth(20);
 
-    document.addEventListener('click', onClickLink);
-    return () => document.removeEventListener('click', onClickLink);
+    document.addEventListener("click", onClickLink);
+    return () => document.removeEventListener("click", onClickLink);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [pathname, searchParams]);
 
@@ -63,11 +63,11 @@ function ClientNavigationIndicator(): ReactElement {
       <AnimatePresence>
         {show && (
           <motion.div
-            className="bg-mono-200 fixed left-0 right-0 top-0 z-50 w-full"
-            initial={{ width: '0%', opacity: 0, height: 0 }}
+            className="fixed left-0 right-0 top-0 z-50 w-full bg-mono-200"
+            initial={{ width: "0%", opacity: 0, height: 0 }}
             animate={{ width: `${width}%`, opacity: 1, height: 3 }}
-            exit={{ width: '300%', opacity: 0 }}
-            transition={{ type: 'linear', duration: duration, ease: 'linear' }}
+            exit={{ width: "300%", opacity: 0 }}
+            transition={{ type: "linear", duration: duration, ease: "linear" }}
           />
         )}
       </AnimatePresence>
@@ -77,16 +77,16 @@ function ClientNavigationIndicator(): ReactElement {
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
-            transition={{ type: 'linear', duration: duration, ease: 'linear' }}
+            transition={{ type: "linear", duration: duration, ease: "linear" }}
           >
             <svg
               className="fixed right-3 top-2 z-50 h-5 w-5 animate-[spin_500ms_linear_infinite]"
               fill="none"
               viewBox="0 0 24 24"
             >
-              <circle className="text-invert/20 stroke-current" cx="12" cy="12" r="10" strokeWidth="4" />
+              <circle className="stroke-current text-invert/20" cx="12" cy="12" r="10" strokeWidth="4" />
               <path
-                className="text-mono-200 fill-current"
+                className="fill-current text-mono-200"
                 d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"
               />
             </svg>
@@ -114,7 +114,7 @@ function isAnchor(anchor: HTMLAnchorElement): boolean {
     currentURL.pathname === clickedURL.pathname &&
     currentURL.search === clickedURL.search
   ) {
-    return currentURL.href.replace(currentURL.hash, '') === clickedURL.href.replace(clickedURL.hash, '');
+    return currentURL.href.replace(currentURL.hash, "") === clickedURL.href.replace(clickedURL.hash, "");
   }
   return false;
 }

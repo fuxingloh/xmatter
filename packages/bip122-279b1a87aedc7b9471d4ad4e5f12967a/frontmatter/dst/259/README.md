@@ -1,5 +1,5 @@
 ---
-symbol: 'JPM-DUSD'
+symbol: "JPM-DUSD"
 decimals: 8
 ---
 

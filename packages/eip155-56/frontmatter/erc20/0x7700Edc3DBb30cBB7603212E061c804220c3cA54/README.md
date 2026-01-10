@@ -5,7 +5,7 @@ tags:
   - defi
 links:
   - name: website
-    url: 'https://quantic.finance/ '
+    url: "https://quantic.finance/ "
   - name: explorer
     url: https://bscscan.com/token/0x7700Edc3DBb30cBB7603212E061c804220c3cA54
   - name: telegram

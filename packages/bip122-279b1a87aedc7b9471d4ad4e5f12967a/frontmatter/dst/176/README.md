@@ -1,5 +1,5 @@
 ---
-symbol: 'SEP#176'
+symbol: "SEP#176"
 decimals: 8
 ---
 

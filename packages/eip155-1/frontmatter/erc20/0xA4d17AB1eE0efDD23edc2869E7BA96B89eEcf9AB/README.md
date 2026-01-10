@@ -1,5 +1,5 @@
 ---
-symbol: 'TRUE'
+symbol: "TRUE"
 decimals: 18
 links:
   - name: explorer

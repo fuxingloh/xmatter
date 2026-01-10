@@ -1,5 +1,5 @@
 ---
-symbol: 'DOT-DFI'
+symbol: "DOT-DFI"
 decimals: 8
 ---
 

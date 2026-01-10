@@ -1,5 +1,5 @@
 ---
-symbol: 'ALC#136'
+symbol: "ALC#136"
 decimals: 8
 ---
 

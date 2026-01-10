@@ -7,7 +7,7 @@ links:
   - name: explorer
     url: https://bscscan.com/token/0x5f4Bde007Dc06b867f86EBFE4802e34A1fFEEd63
   - name: x
-    url: 'https://x.com/highstreetworld '
+    url: "https://x.com/highstreetworld "
   - name: github
     url: https://github.com/TravisBuilds/HighStreet
   - name: telegram
@@ -25,7 +25,7 @@ links:
   - name: coingecko
     url: https://coingecko.com/en/coins/highstreet
   - name: medium
-    url: 'https://medium.com/highstreet-market '
+    url: "https://medium.com/highstreet-market "
 ---
 
 # Highstreet Token

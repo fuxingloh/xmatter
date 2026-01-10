@@ -1,5 +1,5 @@
 ---
-symbol: 'PEKC '
+symbol: "PEKC "
 decimals: 9
 links:
   - name: website

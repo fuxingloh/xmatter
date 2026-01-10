@@ -1,5 +1,5 @@
 ---
-symbol: 'ABNB-DUSD'
+symbol: "ABNB-DUSD"
 decimals: 8
 ---
 

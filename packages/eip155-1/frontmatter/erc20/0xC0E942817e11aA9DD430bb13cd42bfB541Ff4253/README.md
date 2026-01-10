@@ -1,5 +1,5 @@
 ---
-symbol: '999'
+symbol: "999"
 decimals: 3
 links:
   - name: explorer

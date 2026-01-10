@@ -1,5 +1,5 @@
 ---
-symbol: 'TBF'
+symbol: "TBF"
 decimals: 8
 ---
 

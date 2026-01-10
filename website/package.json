@@ -11,12 +11,24 @@
     "start": "next start"
   },
   "lint-staged": {
-    "*": [
+    "!(*.{js,jsx,ts,tsx})": [
       "prettier --write --ignore-unknown"
     ],
     "*.{js,jsx,ts,tsx}": [
       "eslint --fix",
       "prettier --write"
+    ]
+  },
+  "prettier": {
+    "plugins": [
+      "prettier-plugin-tailwindcss",
+      "prettier-plugin-packagejson"
+    ],
+    "printWidth": 120,
+    "tailwindFunctions": [
+      "clsx",
+      "cva",
+      "clazz"
     ]
   },
   "dependencies": {

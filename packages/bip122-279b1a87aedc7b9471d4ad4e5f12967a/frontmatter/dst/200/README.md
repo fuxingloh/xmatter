@@ -1,5 +1,5 @@
 ---
-symbol: 'TSLA#200'
+symbol: "TSLA#200"
 decimals: 8
 ---
 

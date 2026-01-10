@@ -1,11 +1,11 @@
-import { FrontmatterContent, getFileId } from 'crypto-frontmatter';
-import { Metadata } from 'next';
-import Image from 'next/image';
-import { notFound } from 'next/navigation';
-import { ReactElement } from 'react';
+import { FrontmatterContent, getFileId } from "crypto-frontmatter";
+import { Metadata } from "next";
+import Image from "next/image";
+import { notFound } from "next/navigation";
+import { ReactElement } from "react";
 
-import { ContentedProse } from '@/components/contented/ContentedProse';
-import { renderHighlighterHtml } from '@/components/contented/ShikiHighlighter';
+import { ContentedProse } from "@/components/contented/ContentedProse";
+import { renderHighlighterHtml } from "@/components/contented/ShikiHighlighter";
 
 async function fetchFrontmatter(caip19: string): Promise<FrontmatterContent> {
   const fileId = getFileId(caip19);
@@ -28,8 +28,8 @@ export async function generateMetadata(caip19: string): Promise<Metadata> {
       description: frontmatter.fields.description,
       url: `${process.env.BASE_URL}/${frontmatter.path}`,
       siteName: `xMatter`,
-      locale: 'en_US',
-      type: 'article',
+      locale: "en_US",
+      type: "article",
       modifiedTime: new Date(frontmatter.modifiedDate).toISOString(),
     },
   };
@@ -37,7 +37,7 @@ export async function generateMetadata(caip19: string): Promise<Metadata> {
 
 export async function Page(props: { caip19: string }): Promise<ReactElement> {
   const frontmatter = await fetchFrontmatter(props.caip19);
-  const image = frontmatter.fields.images?.find((image) => image.type === 'icon');
+  const image = frontmatter.fields.images?.find((image) => image.type === "icon");
 
   return (
     <main className="flex h-full min-w-0 flex-grow flex-col">
@@ -55,8 +55,8 @@ export async function Page(props: { caip19: string }): Promise<ReactElement> {
 
         <ContentedProse html={frontmatter.html} />
 
-        <div className="border-mono-800 group/json mt-8 rounded border">
-          <header className="bg-mono-950 text-mono-500 relative flex items-center justify-between rounded-t border-b px-4 py-2 text-sm">
+        <div className="group/json mt-8 rounded border border-mono-800">
+          <header className="relative flex items-center justify-between rounded-t border-b bg-mono-950 px-4 py-2 text-sm text-mono-500">
             <div>frontmatter.json</div>
             <div>
               <button>
@@ -73,7 +73,7 @@ export async function Page(props: { caip19: string }): Promise<ReactElement> {
             dangerouslySetInnerHTML={{
               __html: await renderHighlighterHtml({
                 code: JSON.stringify(frontmatter, null, 2),
-                language: 'json',
+                language: "json",
               }),
             }}
           />

@@ -1,5 +1,5 @@
 ---
-symbol: 'MCY '
+symbol: "MCY "
 decimals: 4
 links:
   - name: explorer

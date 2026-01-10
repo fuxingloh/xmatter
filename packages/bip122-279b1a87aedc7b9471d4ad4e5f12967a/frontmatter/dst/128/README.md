@@ -1,5 +1,5 @@
 ---
-symbol: 'Arb#128'
+symbol: "Arb#128"
 decimals: 8
 ---
 

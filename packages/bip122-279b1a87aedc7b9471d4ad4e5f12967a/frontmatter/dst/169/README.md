@@ -1,5 +1,5 @@
 ---
-symbol: 'SWTT#169'
+symbol: "SWTT#169"
 decimals: 8
 ---
 

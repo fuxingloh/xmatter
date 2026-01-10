@@ -1,5 +1,5 @@
 ---
-symbol: 'BITI-DUSD'
+symbol: "BITI-DUSD"
 decimals: 8
 ---
 

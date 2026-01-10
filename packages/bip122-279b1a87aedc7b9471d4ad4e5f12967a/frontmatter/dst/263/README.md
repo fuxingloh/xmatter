@@ -1,5 +1,5 @@
 ---
-symbol: 'PFE-DUSD'
+symbol: "PFE-DUSD"
 decimals: 8
 ---
 

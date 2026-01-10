@@ -1,9 +1,9 @@
-import { clsx } from 'clsx';
-import { getIndex } from 'crypto-frontmatter';
-import { Metadata } from 'next';
-import Link from 'next/link';
-import { notFound } from 'next/navigation';
-import { ReactElement } from 'react';
+import { clsx } from "clsx";
+import { getIndex } from "crypto-frontmatter";
+import { Metadata } from "next";
+import Link from "next/link";
+import { notFound } from "next/navigation";
+import { ReactElement } from "react";
 
 export async function generateMetadata(caip2: string, namespace: string): Promise<Metadata> {
   const title = `${caip2}/${namespace}`;
@@ -14,8 +14,8 @@ export async function generateMetadata(caip2: string, namespace: string): Promis
       title: title,
       url: `${process.env.BASE_URL}/${caip2}/${namespace}`,
       siteName: `xMatter`,
-      locale: 'en_US',
-      type: 'article',
+      locale: "en_US",
+      type: "article",
     },
   };
 }
@@ -31,15 +31,15 @@ export async function Page(props: { caip2: string; namespace: string }): Promise
       <div className="mx-auto w-full overflow-x-auto pb-48">
         <table
           className={clsx(
-            'min-w-full',
-            'whitespace-nowrap text-left lg:whitespace-normal',
-            '[&_tr_:is(th,td)]:font-normal',
-            '[&_tr_:is(th,td)]:px-2 [&_tr_:is(th,td)]:py-2.5',
-            'divide-mono-900 divide-y',
-            '[&_tbody]:divide-mono-900 [&_tbody]:divide-y',
+            "min-w-full",
+            "whitespace-nowrap text-left lg:whitespace-normal",
+            "[&_tr_:is(th,td)]:font-normal",
+            "[&_tr_:is(th,td)]:px-2 [&_tr_:is(th,td)]:py-2.5",
+            "divide-y divide-mono-900",
+            "[&_tbody]:divide-y [&_tbody]:divide-mono-900",
           )}
         >
-          <thead className="text-mono-600 text-sm">
+          <thead className="text-sm text-mono-600">
             <tr>
               <th>CAIP19</th>
               <th>SYMBOL</th>

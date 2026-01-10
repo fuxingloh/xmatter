@@ -1,5 +1,5 @@
 ---
-symbol: 'XFR#171'
+symbol: "XFR#171"
 decimals: 8
 ---
 

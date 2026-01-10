@@ -1,5 +1,5 @@
 ---
-symbol: 'SBUX-DUSD'
+symbol: "SBUX-DUSD"
 decimals: 8
 ---
 

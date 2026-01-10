@@ -1,5 +1,5 @@
 ---
-symbol: 'DHT#180'
+symbol: "DHT#180"
 decimals: 8
 ---
 

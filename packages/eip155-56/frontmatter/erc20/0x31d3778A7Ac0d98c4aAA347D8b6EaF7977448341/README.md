@@ -5,7 +5,7 @@ tags:
   - defi
 links:
   - name: website
-    url: 'https://kibainu.space/ '
+    url: "https://kibainu.space/ "
   - name: explorer
     url: https://bscscan.com/token/0x31d3778A7Ac0d98c4aAA347D8b6EaF7977448341
   - name: coinmarketcap

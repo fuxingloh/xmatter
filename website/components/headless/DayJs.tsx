@@ -1,9 +1,9 @@
-import dayjs from 'dayjs';
-import advancedFormat from 'dayjs/plugin/advancedFormat';
-import localizedFormat from 'dayjs/plugin/localizedFormat';
-import relativeTime from 'dayjs/plugin/relativeTime';
-import timezone from 'dayjs/plugin/timezone';
-import { ReactElement } from 'react';
+import dayjs from "dayjs";
+import advancedFormat from "dayjs/plugin/advancedFormat";
+import localizedFormat from "dayjs/plugin/localizedFormat";
+import relativeTime from "dayjs/plugin/relativeTime";
+import timezone from "dayjs/plugin/timezone";
+import { ReactElement } from "react";
 
 dayjs.extend(localizedFormat);
 dayjs.extend(advancedFormat);
@@ -18,7 +18,7 @@ export function DayJsFormat(props: {
   className?: string;
 }): ReactElement {
   return (
-    <span className={props.className}>{dayjs(props.children).format(props.template ?? 'MMM D, YYYY hh:mm A')}</span>
+    <span className={props.className}>{dayjs(props.children).format(props.template ?? "MMM D, YYYY hh:mm A")}</span>
   );
 }
 

@@ -1,5 +1,5 @@
 ---
-symbol: 'USDC#224'
+symbol: "USDC#224"
 decimals: 8
 ---
 

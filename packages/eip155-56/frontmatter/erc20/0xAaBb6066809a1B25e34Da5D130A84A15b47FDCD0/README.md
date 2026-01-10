@@ -1,5 +1,5 @@
 ---
-symbol: '4'
+symbol: "4"
 decimals: 18
 tags:
   - memes

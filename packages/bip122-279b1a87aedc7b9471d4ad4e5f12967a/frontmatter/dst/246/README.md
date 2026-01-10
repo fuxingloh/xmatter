@@ -1,5 +1,5 @@
 ---
-symbol: 'AI'
+symbol: "AI"
 decimals: 8
 ---
 

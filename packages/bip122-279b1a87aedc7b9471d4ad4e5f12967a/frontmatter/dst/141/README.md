@@ -1,5 +1,5 @@
 ---
-symbol: 'BUSH2#141'
+symbol: "BUSH2#141"
 decimals: 8
 ---
 

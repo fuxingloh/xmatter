@@ -1,5 +1,5 @@
 ---
-symbol: 'JPM'
+symbol: "JPM"
 decimals: 8
 ---
 

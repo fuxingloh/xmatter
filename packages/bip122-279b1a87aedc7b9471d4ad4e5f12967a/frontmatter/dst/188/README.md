@@ -1,5 +1,5 @@
 ---
-symbol: 'BTCDFI#188'
+symbol: "BTCDFI#188"
 decimals: 8
 ---
 

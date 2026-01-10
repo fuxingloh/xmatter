@@ -1,5 +1,5 @@
 ---
-symbol: 'PTCD#151'
+symbol: "PTCD#151"
 decimals: 8
 ---
 

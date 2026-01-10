@@ -1,5 +1,5 @@
 ---
-symbol: 'EUROC'
+symbol: "EUROC"
 decimals: 8
 ---
 

@@ -5,7 +5,7 @@ tags:
   - defi
 links:
   - name: website
-    url: 'https://babycatcoin.net/ '
+    url: "https://babycatcoin.net/ "
   - name: explorer
     url: https://bscscan.com/token/0x1Bd5ddCD740F2D13b2255fc325c02509da35C4e4
   - name: coinmarketcap

@@ -1,5 +1,5 @@
 ---
-symbol: 'PSQ-DUSD'
+symbol: "PSQ-DUSD"
 decimals: 8
 ---
 

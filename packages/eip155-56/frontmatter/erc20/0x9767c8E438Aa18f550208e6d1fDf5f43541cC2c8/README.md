@@ -1,5 +1,5 @@
 ---
-symbol: 'MMIT '
+symbol: "MMIT "
 decimals: 18
 tags:
   - defi

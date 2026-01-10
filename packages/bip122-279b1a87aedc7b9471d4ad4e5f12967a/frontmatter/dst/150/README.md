@@ -1,5 +1,5 @@
 ---
-symbol: 'YNWA#150'
+symbol: "YNWA#150"
 decimals: 8
 ---
 

@@ -3,7 +3,7 @@ symbol: BOSS
 decimals: 9
 links:
   - name: website
-    url: 'https://bosstoken.com/ '
+    url: "https://bosstoken.com/ "
   - name: explorer
     url: https://bscscan.com/token/0x49324d59327fB799813B902dB55b2a118d601547
   - name: coinmarketcap

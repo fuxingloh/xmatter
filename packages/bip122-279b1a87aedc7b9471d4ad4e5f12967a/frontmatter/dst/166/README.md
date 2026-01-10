@@ -1,5 +1,5 @@
 ---
-symbol: 'MHC#166'
+symbol: "MHC#166"
 decimals: 8
 ---
 

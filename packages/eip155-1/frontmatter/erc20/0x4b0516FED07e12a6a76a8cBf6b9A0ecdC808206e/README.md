@@ -1,5 +1,5 @@
 ---
-symbol: ' MADAZA'
+symbol: " MADAZA"
 decimals: 18
 links:
   - name: explorer

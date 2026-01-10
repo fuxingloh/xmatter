@@ -1,5 +1,5 @@
 ---
-symbol: 'XCHF-DUSD'
+symbol: "XCHF-DUSD"
 decimals: 8
 ---
 

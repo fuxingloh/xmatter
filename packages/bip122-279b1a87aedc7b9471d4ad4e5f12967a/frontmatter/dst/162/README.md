@@ -1,5 +1,5 @@
 ---
-symbol: 'KUEP#162'
+symbol: "KUEP#162"
 decimals: 8
 ---
 

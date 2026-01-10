@@ -1,5 +1,5 @@
 ---
-symbol: 'FFI#172'
+symbol: "FFI#172"
 decimals: 8
 ---
 

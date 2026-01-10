@@ -1,5 +1,5 @@
 ---
-symbol: 'BuPi#163'
+symbol: "BuPi#163"
 decimals: 8
 ---
 

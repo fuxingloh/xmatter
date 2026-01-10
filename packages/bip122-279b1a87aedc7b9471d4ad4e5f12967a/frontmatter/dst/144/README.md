@@ -1,5 +1,5 @@
 ---
-symbol: 'wETH#144'
+symbol: "wETH#144"
 decimals: 8
 ---
 

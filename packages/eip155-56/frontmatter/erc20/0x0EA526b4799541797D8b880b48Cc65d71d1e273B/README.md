@@ -1,5 +1,5 @@
 ---
-symbol: 'SHIBAGAMES '
+symbol: "SHIBAGAMES "
 decimals: 9
 tags:
   - deflationary

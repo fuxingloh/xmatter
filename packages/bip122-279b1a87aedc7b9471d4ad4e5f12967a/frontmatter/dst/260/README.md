@@ -1,5 +1,5 @@
 ---
-symbol: 'AI-DUSD'
+symbol: "AI-DUSD"
 decimals: 8
 ---
 

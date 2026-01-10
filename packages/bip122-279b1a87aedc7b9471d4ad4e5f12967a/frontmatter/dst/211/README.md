@@ -1,5 +1,5 @@
 ---
-symbol: 'SHEL'
+symbol: "SHEL"
 decimals: 8
 ---
 

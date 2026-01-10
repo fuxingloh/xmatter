@@ -1,5 +1,5 @@
 ---
-symbol: 'EUROC-DFI'
+symbol: "EUROC-DFI"
 decimals: 8
 ---
 

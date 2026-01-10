@@ -23,9 +23,6 @@ importers:
       '@workspace/eslint-config':
         specifier: workspace:*
         version: link:workspace/eslint-config
-      '@workspace/prettier-config':
-        specifier: workspace:*
-        version: link:workspace/prettier-config
       eslint:
         specifier: ^8.57.0
         version: 8.57.1
@@ -41,6 +38,12 @@ importers:
       prettier:
         specifier: ^3.3.1
         version: 3.7.4
+      prettier-plugin-packagejson:
+        specifier: ^2.5.20
+        version: 2.5.20(prettier@3.7.4)
+      prettier-plugin-tailwindcss:
+        specifier: ^0.6.9
+        version: 0.6.14(prettier@3.7.4)
       turbo:
         specifier: ^2.7.3
         version: 2.7.3
@@ -480,15 +483,6 @@ importers:
         version: 12.1.1(eslint@8.57.1)
 
   workspace/jest-preset: {}
-
-  workspace/prettier-config:
-    dependencies:
-      prettier-plugin-packagejson:
-        specifier: ^2.5.0
-        version: 2.5.20(prettier@3.7.4)
-      prettier-plugin-tailwindcss:
-        specifier: ^0.6.9
-        version: 0.6.14(prettier@3.7.4)
 
   workspace/sync:
     dependencies:

@@ -1,5 +1,5 @@
 ---
-symbol: 'V-DUSD'
+symbol: "V-DUSD"
 decimals: 8
 ---
 

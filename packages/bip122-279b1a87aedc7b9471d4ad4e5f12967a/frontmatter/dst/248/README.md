@@ -1,5 +1,5 @@
 ---
-symbol: 'MCD'
+symbol: "MCD"
 decimals: 8
 ---
 

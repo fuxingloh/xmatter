@@ -1,5 +1,6 @@
 {
   "$schema": "https://turbo.build/schema.json",
+  "ui": "tui",
   "globalDependencies": ["tsconfig.json"],
   "tasks": {
     "clean": {
@@ -15,7 +16,8 @@
       "dependsOn": ["^build"]
     },
     "lint": {
-      "outputs": []
+      "outputs": [],
+      "outputLogs": "errors-only"
     }
   }
 }

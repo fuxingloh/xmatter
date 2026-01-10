@@ -1,5 +1,5 @@
-'use client';
-import { ReactElement, ReactNode, useEffect } from 'react';
+"use client";
+import { ReactElement, ReactNode, useEffect } from "react";
 
 /**
  * Use <BodyLock> instead of this hook to avoid unnecessary client-side rendering.
@@ -8,7 +8,7 @@ export function useBodyLock(shouldLock: boolean = true): void {
   useEffect(() => {
     if (shouldLock) {
       const originalStyle = window.getComputedStyle(document.body).overflow;
-      document.body.style.overflow = 'hidden';
+      document.body.style.overflow = "hidden";
 
       return () => {
         document.body.style.overflow = originalStyle;

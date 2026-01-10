@@ -1,5 +1,5 @@
 ---
-symbol: 'SCO'
+symbol: "SCO"
 decimals: 8
 ---
 

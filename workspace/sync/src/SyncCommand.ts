@@ -1,10 +1,10 @@
-import { mkdir, readdir, stat, writeFile } from 'node:fs/promises';
-import { join } from 'node:path';
+import { mkdir, readdir, stat, writeFile } from "node:fs/promises";
+import { join } from "node:path";
 
-import { Command } from 'clipanion';
-import { stringify } from 'yaml';
+import { Command } from "clipanion";
+import { stringify } from "yaml";
 
-import { getValidateErrors, README, validate } from './README';
+import { getValidateErrors, README, validate } from "./README";
 
 /* eslint-disable @typescript-eslint/no-unused-vars */
 
@@ -41,14 +41,14 @@ export abstract class SyncCommand<Data> extends Command {
   abstract toREADME(data: Data): README;
 
   async shouldWrite(data: Data, fromPath: string, toPath: string, readme: README): Promise<boolean> {
-    return !(await hasFile(join(toPath, 'LOCK')));
+    return !(await hasFile(join(toPath, "LOCK")));
   }
 
   async write(data: Data, fromPath: string, toPath: string, readme: README): Promise<void> {
     await mkdir(toPath, { recursive: true });
     await writeFile(
-      join(toPath, 'README.md'),
-      [`---`, stringify(readme.frontmatter), `---`, '', `# ${readme.title}`, '', readme.body ?? ''].join('\n'),
+      join(toPath, "README.md"),
+      [`---`, stringify(readme.frontmatter), `---`, "", `# ${readme.title}`, "", readme.body ?? ""].join("\n"),
     );
   }
 }

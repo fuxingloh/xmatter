@@ -1,5 +1,5 @@
 ---
-symbol: 'BURN2-DUSD'
+symbol: "BURN2-DUSD"
 decimals: 8
 ---
 

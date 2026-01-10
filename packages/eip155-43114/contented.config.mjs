@@ -1,10 +1,10 @@
-import config from '@workspace/contented-config';
+import config from "@workspace/contented-config";
 
-export default config('eip155:43114', [
+export default config("eip155:43114", [
   {
-    namespace: 'slip44',
+    namespace: "slip44",
   },
   {
-    namespace: 'erc20',
+    namespace: "erc20",
   },
 ]);

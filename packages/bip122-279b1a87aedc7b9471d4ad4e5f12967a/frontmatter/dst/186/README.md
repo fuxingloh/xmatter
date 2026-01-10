@@ -1,5 +1,5 @@
 ---
-symbol: 'NFT#186'
+symbol: "NFT#186"
 decimals: 8
 ---
 

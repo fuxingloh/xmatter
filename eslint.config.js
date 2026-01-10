@@ -1,1 +1,1 @@
-module.exports = require('@workspace/eslint-config');
+module.exports = require("@workspace/eslint-config");

@@ -5,7 +5,7 @@ tags:
   - gamefi
 links:
   - name: website
-    url: 'https://www.arenaplaycoin.com/ '
+    url: "https://www.arenaplaycoin.com/ "
   - name: explorer
     url: https://bscscan.com/token/0x2AA504586d6CaB3C59Fa629f74c586d78b93A025
   - name: x
