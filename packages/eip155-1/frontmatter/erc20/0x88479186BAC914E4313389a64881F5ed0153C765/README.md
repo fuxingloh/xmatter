@@ -20,4 +20,4 @@ links:
 
 # SquidGrow
 
-SquidGrow was conceptualized by anonymous crypto billionaire “Shibtoshi” and is pushing boundaries and setting precedents for a growing meme-utility token.
+SquidGrow was conceptualized by anonymous crypto billionaire “Shibtoshi” and is pushing boundaries and setting precedents for a growing meme-utility token. 
