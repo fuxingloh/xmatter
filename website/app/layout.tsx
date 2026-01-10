@@ -11,10 +11,10 @@ import { ThemeScript } from '@/components/Theme';
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.BASE_URL!),
   title: {
-    template: `%s – Crypto Frontmatter`,
-    default: `Crypto Frontmatter`,
+    template: `%s – xMatter`,
+    default: `xMatter`,
   },
-  description: 'Crypto Frontmatter is a collection of frontmatter for crypto projects.',
+  description: 'xMatter is a collection of frontmatter for crypto projects.',
 };
 
 export default function RootLayout(props: { children: ReactNode }): ReactElement {
