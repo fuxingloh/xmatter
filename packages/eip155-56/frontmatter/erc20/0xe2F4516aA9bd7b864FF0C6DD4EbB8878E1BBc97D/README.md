@@ -10,4 +10,4 @@ links:
 
 # SafePitbull
 
-SAFEPIT is an auto liquidity and reflective token on BSC. Join our telegram safepitofficial or visit website to learn more.
+SAFEPIT is an auto liquidity and reflective token on BSC. Join our telegram safepitofficial or visit website to learn more. 
