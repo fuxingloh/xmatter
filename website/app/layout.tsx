@@ -1,4 +1,4 @@
-import "./globals.css";
+import "./layout.css";
 
 import { Analytics } from "@vercel/analytics/react";
 import type { Metadata } from "next";
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     template: `%s – xMatter`,
     default: `xMatter`,
   },
-  description: "xMatter is a collection of frontmatter for crypto projects.",
+  description: "Structured metadata for smart contracts, the frontpage of an address.",
 };
 
 export default function RootLayout(props: { children: ReactNode }): ReactElement {

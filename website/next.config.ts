@@ -1,4 +1,5 @@
 import type { NextConfig } from "next";
+import createMDX from "@next/mdx";
 
 function getBaseUrl() {
   if (process.env.NEXT_PUBLIC_URL) {
@@ -11,9 +12,18 @@ function getBaseUrl() {
   return `http://localhost:${process.env.PORT ?? 3000}`;
 }
 
-// TODO(@fuxingloh): remove BASE_UR and trailingSlash: false
+const ContentSecurityPolicy = `
+    default-src 'self';
+    script-src 'self' 'unsafe-eval' 'unsafe-inline';
+    style-src 'self' 'unsafe-inline';
+    img-src 'self' blob: data:;
+    object-src 'none';
+    frame-ancestors 'none';
+    upgrade-insecure-requests;
+`;
 
 const nextConfig: NextConfig = {
+  // TODO(@fuxingloh): remove BASE_UR and trailingSlash: false
   env: {
     BASE_URL: getBaseUrl(),
   },
@@ -24,6 +34,10 @@ const nextConfig: NextConfig = {
       {
         source: "/(.*)",
         headers: [
+          {
+            key: "Content-Security-Policy",
+            value: ContentSecurityPolicy.replace(/\n/g, ""),
+          },
           {
             key: "Referrer-Policy",
             value: "no-referrer",
@@ -37,10 +51,6 @@ const nextConfig: NextConfig = {
             value: "DENY",
           },
           {
-            key: "X-XSS-Protection",
-            value: "1; mode=block",
-          },
-          {
             key: "Strict-Transport-Security",
             value: "max-age=63072000; includeSubDomains; preload",
           },
@@ -50,4 +60,8 @@ const nextConfig: NextConfig = {
   },
 };
 
-export default nextConfig;
+const withMDX = createMDX({
+  extension: /\.md$/,
+});
+
+export default withMDX(nextConfig);

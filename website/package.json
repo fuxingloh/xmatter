@@ -49,22 +49,26 @@
     "@crypto-frontmatter/tip474-2494104990": "workspace:*",
     "@crypto-frontmatter/tip474-728126428": "workspace:*",
     "@heroicons/react": "^2.2.0",
+    "@mdx-js/loader": "^3.1.1",
+    "@mdx-js/react": "^3.1.1",
+    "@next/mdx": "^16.1.2",
     "@vercel/analytics": "^1.6.1",
     "clsx": "^2.1.1",
     "crypto-frontmatter": "workspace:*",
     "dayjs": "^1.11.19",
     "html-to-react": "^1.7.0",
     "motion": "12.25.0",
-    "next": "16.1.1",
+    "next": "16.1.2",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "sharp": "^0.34.5"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.18",
+    "@types/mdx": "^2.0.13",
     "@types/react": "19.2.8",
     "eslint": "^9.39.2",
-    "eslint-config-next": "16.1.1",
+    "eslint-config-next": "16.1.2",
     "tailwindcss": "^4.1.18"
   }
 }
