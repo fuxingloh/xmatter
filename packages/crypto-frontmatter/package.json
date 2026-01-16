@@ -27,10 +27,6 @@
     "@crypto-frontmatter/eip155-1": "workspace:*"
   },
   "peerDependencies": {
-    "@crypto-frontmatter/bip122-000000000019d6689c085ae165831e93": "workspace:*",
-    "@crypto-frontmatter/bip122-000000000933ea01ad0ee984209779ba": "workspace:*",
-    "@crypto-frontmatter/bip122-034ac8c88a1a9b846750768c1ad6f295": "workspace:*",
-    "@crypto-frontmatter/bip122-279b1a87aedc7b9471d4ad4e5f12967a": "workspace:*",
     "@crypto-frontmatter/eip155-1": "workspace:*",
     "@crypto-frontmatter/eip155-10": "workspace:*",
     "@crypto-frontmatter/eip155-11155111": "workspace:*",
@@ -49,18 +45,6 @@
     "@crypto-frontmatter/tip474-728126428": "workspace:*"
   },
   "peerDependenciesMeta": {
-    "@crypto-frontmatter/bip122-000000000019d6689c085ae165831e93": {
-      "optional": true
-    },
-    "@crypto-frontmatter/bip122-000000000933ea01ad0ee984209779ba": {
-      "optional": true
-    },
-    "@crypto-frontmatter/bip122-034ac8c88a1a9b846750768c1ad6f295": {
-      "optional": true
-    },
-    "@crypto-frontmatter/bip122-279b1a87aedc7b9471d4ad4e5f12967a": {
-      "optional": true
-    },
     "@crypto-frontmatter/eip155-1": {
       "optional": true
     },

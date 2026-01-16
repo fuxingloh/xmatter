@@ -39,42 +39,6 @@ importers:
         specifier: ^4.0.16
         version: 4.0.16(@types/node@24.10.6)(jiti@2.6.1)(lightningcss@1.30.2)(yaml@2.8.2)
 
-  packages/bip122-000000000019d6689c085ae165831e93:
-    devDependencies:
-      '@contentedjs/contented':
-        specifier: ^8.0.1
-        version: 8.0.1(typanion@3.14.0)
-      '@workspace/contented-config':
-        specifier: workspace:*
-        version: link:../contented-config
-
-  packages/bip122-000000000933ea01ad0ee984209779ba:
-    devDependencies:
-      '@contentedjs/contented':
-        specifier: ^8.0.1
-        version: 8.0.1(typanion@3.14.0)
-      '@workspace/contented-config':
-        specifier: workspace:*
-        version: link:../contented-config
-
-  packages/bip122-034ac8c88a1a9b846750768c1ad6f295:
-    devDependencies:
-      '@contentedjs/contented':
-        specifier: ^8.0.1
-        version: 8.0.1(typanion@3.14.0)
-      '@workspace/contented-config':
-        specifier: workspace:*
-        version: link:../contented-config
-
-  packages/bip122-279b1a87aedc7b9471d4ad4e5f12967a:
-    devDependencies:
-      '@contentedjs/contented':
-        specifier: ^8.0.1
-        version: 8.0.1(typanion@3.14.0)
-      '@workspace/contented-config':
-        specifier: workspace:*
-        version: link:../contented-config
-
   packages/contented-config:
     dependencies:
       '@contentedjs/contented':
@@ -89,18 +53,6 @@ importers:
 
   packages/crypto-frontmatter:
     dependencies:
-      '@crypto-frontmatter/bip122-000000000019d6689c085ae165831e93':
-        specifier: workspace:*
-        version: link:../bip122-000000000019d6689c085ae165831e93
-      '@crypto-frontmatter/bip122-000000000933ea01ad0ee984209779ba':
-        specifier: workspace:*
-        version: link:../bip122-000000000933ea01ad0ee984209779ba
-      '@crypto-frontmatter/bip122-034ac8c88a1a9b846750768c1ad6f295':
-        specifier: workspace:*
-        version: link:../bip122-034ac8c88a1a9b846750768c1ad6f295
-      '@crypto-frontmatter/bip122-279b1a87aedc7b9471d4ad4e5f12967a':
-        specifier: workspace:*
-        version: link:../bip122-279b1a87aedc7b9471d4ad4e5f12967a
       '@crypto-frontmatter/eip155-10':
         specifier: workspace:*
         version: link:../eip155-10
@@ -313,20 +265,10 @@ importers:
         specifier: workspace:*
         version: link:../contented-config
 
+  packages/xmatter: {}
+
   website:
     dependencies:
-      '@crypto-frontmatter/bip122-000000000019d6689c085ae165831e93':
-        specifier: workspace:*
-        version: link:../packages/bip122-000000000019d6689c085ae165831e93
-      '@crypto-frontmatter/bip122-000000000933ea01ad0ee984209779ba':
-        specifier: workspace:*
-        version: link:../packages/bip122-000000000933ea01ad0ee984209779ba
-      '@crypto-frontmatter/bip122-034ac8c88a1a9b846750768c1ad6f295':
-        specifier: workspace:*
-        version: link:../packages/bip122-034ac8c88a1a9b846750768c1ad6f295
-      '@crypto-frontmatter/bip122-279b1a87aedc7b9471d4ad4e5f12967a':
-        specifier: workspace:*
-        version: link:../packages/bip122-279b1a87aedc7b9471d4ad4e5f12967a
       '@crypto-frontmatter/eip155-1':
         specifier: workspace:*
         version: link:../packages/eip155-1
