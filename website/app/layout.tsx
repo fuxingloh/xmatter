@@ -9,10 +9,10 @@ import { NavigationIndicator } from "@/components/NavigationIndicator";
 import { ThemeScript } from "@/components/Theme";
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.BASE_URL!),
+  metadataBase: new URL("https://xmatter.org"),
   title: {
-    template: `%s – xMatter`,
-    default: `xMatter`,
+    template: `%s – xmatter`,
+    default: `xmatter`,
   },
   description: "Structured metadata for smart contracts, the frontpage of an address.",
 };
@@ -32,7 +32,7 @@ export default function RootLayout(props: { children: ReactNode }): ReactElement
             className="hover:bg-invert/5 -mx-3 -my-1 rounded px-3 py-1"
             activeClassName="!cursor-default hover:!bg-transparent"
           >
-            <div className="text-lg font-bold">xMatter</div>
+            <div className="text-lg font-bold">xmatter</div>
           </ActiveLink>
         </header>
         {props.children}

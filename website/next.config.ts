@@ -1,17 +1,6 @@
 import type { NextConfig } from "next";
 import createMDX from "@next/mdx";
 
-function getBaseUrl() {
-  if (process.env.NEXT_PUBLIC_URL) {
-    return process.env.NEXT_PUBLIC_URL;
-  }
-  if (process.env.VERCEL_URL) {
-    return `https://${process.env.VERCEL_URL}`;
-  }
-
-  return `http://localhost:${process.env.PORT ?? 3000}`;
-}
-
 const ContentSecurityPolicy = `
     default-src 'self';
     script-src 'self' 'unsafe-eval' 'unsafe-inline';
@@ -23,11 +12,6 @@ const ContentSecurityPolicy = `
 `;
 
 const nextConfig: NextConfig = {
-  // TODO(@fuxingloh): remove BASE_UR and trailingSlash: false
-  env: {
-    BASE_URL: getBaseUrl(),
-  },
-  trailingSlash: false,
   poweredByHeader: false,
   async headers() {
     return [

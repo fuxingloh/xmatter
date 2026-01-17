@@ -1,6 +1,5 @@
 ---
+name: Sepoila USDC
 symbol: USDC
 decimals: 6
 ---
-
-# Sepoila USDC

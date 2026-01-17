@@ -1,4 +1,5 @@
 ---
+name: DOVU
 symbol: DOVU
 decimals: 8
 tags:
@@ -7,8 +8,6 @@ tags:
 links:
   - name: website
     url: https://dovu.earth/
-  - name: explorer
-    url: https://aurorascan.dev/address/0x4007168965cBdB189A98E03C28695F900D92a11E
   - name: github
     url: https://github.com/dovuofficial/
   - name: x
@@ -22,7 +21,3 @@ links:
   - name: youtube
     url: https://youtube.com/@DOVUearth
 ---
-
-# DOVU
-
-DOVU is a technology infrastructure provider, powering trusted environmental and carbon digital markets by providing market integrity. The DOVU token serves as the protocol’s utility token, enabling holders to participate and create their own environmental audit trail ecosystems. Token holders can stake their DOVU to earn multiplier rewards, aligning long-term incentives with the protocol’s mission of building reliable carbon markets.

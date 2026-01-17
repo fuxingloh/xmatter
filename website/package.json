@@ -56,9 +56,11 @@
     "clsx": "^2.1.1",
     "crypto-frontmatter": "workspace:*",
     "dayjs": "^1.11.19",
+    "gray-matter": "^4.0.3",
     "html-to-react": "^1.7.0",
     "motion": "12.25.0",
     "next": "16.1.2",
+    "next-mdx-remote-client": "^2.1.7",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "sharp": "^0.34.5"

@@ -1,6 +1,5 @@
 ---
+name: Sepolia Aave USDC
 symbol: USDC
 decimals: 6
 ---
-
-# Sepolia Aave USDC
