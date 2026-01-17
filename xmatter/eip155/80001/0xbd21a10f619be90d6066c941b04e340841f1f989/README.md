@@ -1,6 +1,5 @@
 ---
 symbol: USDT
 decimals: 6
+name: Polygon Mumbai Aave USDT
 ---
-
-# Polygon Mumbai Aave USDT
