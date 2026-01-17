@@ -8,6 +8,5 @@ node_modules
 dist
 pnpm-lock.yaml
 generated/
-website/public/_crypto-frontmatter/
 packages/*/_*/
 .github/pull_request_template.md

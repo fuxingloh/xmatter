@@ -2,18 +2,14 @@
   "$schema": "https://turbo.build/schema.json",
   "extends": ["//"],
   "tasks": {
-    "mirror": {
-      "outputs": ["public/_crypto-frontmatter"],
-      "dependsOn": ["^build"]
-    },
     "build": {
       "cache": false,
-      "dependsOn": ["^build", "mirror"]
+      "dependsOn": ["^build"]
     },
     "dev": {
       "cache": false,
       "persistent": true,
-      "dependsOn": ["^build", "mirror"]
+      "dependsOn": ["^build"]
     }
   }
 }

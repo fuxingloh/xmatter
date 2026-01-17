@@ -1,8 +1,8 @@
 "use client";
-import { clsx } from "clsx";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { ComponentProps, ReactElement, ReactNode } from "react";
+import { ComponentProps, ReactElement, ReactNode, useMemo } from "react";
+import { cx } from "@/components/ClassName";
 
 /**
  * ActiveLink is a wrapper around Next.js Link that adds an `activeClassName` prop.
@@ -21,12 +21,14 @@ export function ActiveLink(
     mode?: "prefix" | "exact";
   },
 ): ReactElement {
-  const pathname = usePathname();
   const { children, className, mode, activeClassName, ...rest } = props;
-  const isActive = mode === "prefix" ? pathname.startsWith(props.href) : pathname === props.href;
+  const pathname = usePathname();
+  const isActive = useMemo(() => {
+    return mode === "prefix" ? pathname.startsWith(props.href) : pathname === props.href;
+  }, [mode, pathname, props.href]);
 
   return (
-    <Link {...rest} className={clsx(className, { [activeClassName]: isActive })}>
+    <Link {...rest} className={cx(className, { [activeClassName]: isActive })}>
       {children}
     </Link>
   );

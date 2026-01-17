@@ -22,14 +22,14 @@ export async function generateStaticParams() {
 
 export async function generateMetadata(props: PageProps<"/eip155/[chainId]/[address]">): Promise<Metadata> {
   const { chainId, address } = await props.params;
-  const { data } = await getContent(chainId, address);
+  const { data } = await getFile(chainId, address);
 
   return {
     title: data.title,
   };
 }
 
-async function getContent(chainId: string, address: string) {
+async function getFile(chainId: string, address: string) {
   const markdown = await readFile(`../xmatter/eip155/${chainId}/${address}/README.md`, {
     encoding: "utf-8",
   });
@@ -38,7 +38,7 @@ async function getContent(chainId: string, address: string) {
 
 export default async function Page(props: PageProps<"/eip155/[chainId]/[address]">) {
   const { chainId, address } = await props.params;
-  const { content, data } = await getContent(chainId, address);
+  const { content, data } = await getFile(chainId, address);
 
   // <div className="mb-6 h-12 w-12">
   //   <Image

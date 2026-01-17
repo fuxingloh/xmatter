@@ -1,12 +1,11 @@
 import "./layout.css";
 
-import { Analytics } from "@vercel/analytics/react";
 import type { Metadata } from "next";
 import type { ReactElement, ReactNode } from "react";
+import { ThemeProvider } from "next-themes";
+import { Analytics } from "@vercel/analytics/react";
 
-import { ActiveLink } from "@/components/headless/ActiveLink";
-import { NavigationIndicator } from "@/components/NavigationIndicator";
-import { ThemeScript } from "@/components/Theme";
+import { ActiveLink } from "@/components/ActiveLink";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://xmatter.org"),
@@ -19,23 +18,22 @@ export const metadata: Metadata = {
 
 export default function RootLayout(props: { children: ReactNode }): ReactElement {
   return (
-    <html lang="en">
-      <head>
-        <ThemeScript />
-      </head>
-      <body className="text-mono-950 mx-auto w-full max-w-5xl px-4 sm:px-6 lg:px-8 xl:px-10">
-        <NavigationIndicator />
-        <header className="flex items-center justify-between py-6">
-          <ActiveLink
-            href="/"
-            mode="exact"
-            className="hover:bg-invert/5 -mx-3 -my-1 rounded px-3 py-1"
-            activeClassName="!cursor-default hover:!bg-transparent"
-          >
-            <div className="text-lg font-bold">xmatter</div>
-          </ActiveLink>
-        </header>
-        {props.children}
+    <html lang="en" suppressHydrationWarning>
+      <head />
+      <body className="bg-mono-50 text-mono-950 mx-auto w-full max-w-5xl px-5">
+        <ThemeProvider>
+          <header className="flex items-center justify-between py-6">
+            <ActiveLink
+              href="/"
+              mode="exact"
+              className="hover:bg-invert/5 -mx-3 -my-1 rounded px-3 py-1"
+              activeClassName="!cursor-default hover:!bg-transparent"
+            >
+              <div className="text-lg font-bold">xmatter</div>
+            </ActiveLink>
+          </header>
+          {props.children}
+        </ThemeProvider>
         <Analytics />
       </body>
     </html>
