@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import { readdir, readFile } from "node:fs/promises";
 import gray from "gray-matter";
 import { MDXRemote } from "next-mdx-remote-client/rsc";
@@ -40,18 +41,13 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
   const { chainId, address } = await props.params;
   const { content, data } = await getFile(chainId, address);
 
-  // <div className="mb-6 h-12 w-12">
-  //   <Image
-  //     src={`/_crypto-frontmatter/${image.path}`}
-  //     alt={`${frontmatter.fields.symbol} Logo`}
-  //     width={image.size.width}
-  //     height={image.size.height}
-  //   />
-  // </div>
-
   return (
     <div>
       <pre>{JSON.stringify(data, null, 2)}</pre>
+
+      <div>
+        <Image src={`/eip155/${chainId}/${address}/icon.webp`} alt={`${data.name} Logo`} width={100} height={100} />
+      </div>
 
       <MDXRemote source={content} />
     </div>
