@@ -34,9 +34,7 @@
   "dependencies": {
     "@crypto-frontmatter/eip155-1": "workspace:*",
     "@crypto-frontmatter/eip155-10": "workspace:*",
-    "@crypto-frontmatter/eip155-11155111": "workspace:*",
     "@crypto-frontmatter/eip155-1130": "workspace:*",
-    "@crypto-frontmatter/eip155-1313161554": "workspace:*",
     "@crypto-frontmatter/eip155-137": "workspace:*",
     "@crypto-frontmatter/eip155-42161": "workspace:*",
     "@crypto-frontmatter/eip155-42220": "workspace:*",
@@ -54,7 +52,6 @@
     "@next/mdx": "^16.1.2",
     "@vercel/analytics": "^1.6.1",
     "clsx": "^2.1.1",
-    "crypto-frontmatter": "workspace:*",
     "dayjs": "^1.11.19",
     "gray-matter": "^4.0.3",
     "html-to-react": "^1.7.0",
