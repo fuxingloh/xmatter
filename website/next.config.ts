@@ -1,5 +1,4 @@
 import type { NextConfig } from "next";
-import createMDX from "@next/mdx";
 
 const ContentSecurityPolicy = `
     default-src 'self';
@@ -44,8 +43,4 @@ const nextConfig: NextConfig = {
   },
 };
 
-const withMDX = createMDX({
-  extension: /\.md$/,
-});
-
-export default withMDX(nextConfig);
+export default nextConfig;
