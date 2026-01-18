@@ -1,0 +1,10 @@
+---
+symbol: SNTVT
+decimals: 18
+links:
+  - name: website
+    url: "https://sentivate.com/"
+name: Sentivate
+---
+
+SENTIVATE IS A HYBRID WEB BUILT TO BE A VIABLE & REALISTIC REPLACEMENT FOR THE MODERN WEB. FASTER, SAFER, & MORE SCALABLE THAN ANY SOLELY CENTRALIZED OR DECENTRALIZED WEB.

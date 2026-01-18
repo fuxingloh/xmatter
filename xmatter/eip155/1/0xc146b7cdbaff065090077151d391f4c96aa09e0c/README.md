@@ -1,0 +1,26 @@
+---
+symbol: MCC
+decimals: 9
+tags:
+  - defi
+links:
+  - name: website
+    url: "https://mchain.capital/"
+  - name: x
+    url: "https://x.com/MulChainCapital"
+  - name: github
+    url: "https://github.com/mchaindev"
+  - name: telegram
+    url: "https://t.me/MultiChainCapital"
+  - name: blog
+    url: "https://multichaincapital.medium.com/"
+  - name: coingecko
+    url: "https://coingecko.com/en/coins/multi-chain-capital"
+  - name: coinmarketcap
+    url: "https://coinmarketcap.com/currencies/multi-chain-capital-new"
+  - name: discord
+    url: "https://discord.com/invite/4GwbcQNa7P"
+name: Multi-Chain Capital
+---
+
+You buy $MCC on Ethereum and Binance Smart Chain, we farm on multiple chains and return the profits to holders.

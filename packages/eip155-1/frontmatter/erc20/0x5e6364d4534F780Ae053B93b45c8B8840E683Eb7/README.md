@@ -1,9 +1,0 @@
----
-symbol: NOTES
-decimals: 18
-links:
-  - name: explorer
-    url: https://etherscan.io/token/0x5e6364d4534F780Ae053B93b45c8B8840E683Eb7
----
-
-# NOTES

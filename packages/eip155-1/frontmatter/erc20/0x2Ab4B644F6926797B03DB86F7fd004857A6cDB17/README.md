@@ -1,9 +1,0 @@
----
-symbol: TDShare
-decimals: 18
-links:
-  - name: explorer
-    url: https://etherscan.io/token/0x2Ab4B644F6926797B03DB86F7fd004857A6cDB17
----
-
-# 0x0000000000000000000000000000000000000000000000000000000000000000

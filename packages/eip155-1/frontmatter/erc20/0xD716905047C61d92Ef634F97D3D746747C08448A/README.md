@@ -1,9 +1,0 @@
----
-symbol: JACOB
-decimals: 4
-links:
-  - name: explorer
-    url: https://etherscan.io/token/0xD716905047C61d92Ef634F97D3D746747C08448A
----
-
-# JACOB

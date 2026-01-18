@@ -1,0 +1,25 @@
+---
+symbol: PEPE2.0
+decimals: 18
+tags:
+  - memes
+links:
+  - name: website
+    url: "https://pepe20.vip"
+  - name: x
+    url: "https://x.com/pepe2coineth"
+  - name: telegram
+    url: "https://t.me/Pepe2Portal"
+  - name: github
+    url: "https://github.com/pepe2coineth"
+  - name: coinmarketcap
+    url: "https://coinmarketcap.com/currencies/pepe-2-0"
+  - name: coingecko
+    url: "https://coingecko.com/en/coins/pepe-2-0"
+  - name: source_code
+    url: >-
+      https://github.com/pepe2coineth/SmartContract/blob/main/Ethereum_PEPE20_CA.sol
+name: Pepe 2.0
+---
+
+Learning from past token mistakes, blacklisting some investors. Pepe 2.0 wants to make things right and redo his billion-dollar run.

@@ -1,0 +1,20 @@
+---
+symbol: Nsure
+decimals: 18
+links:
+  - name: website
+    url: "https://nsure.network"
+  - name: github
+    url: "https://github.com/nsure-tech"
+  - name: x
+    url: "https://x.com/Nsure"
+  - name: telegram
+    url: "https://t.me/nsurenet"
+  - name: medium
+    url: "https://medium.com/@nsure_network"
+  - name: whitepaper
+    url: "https://nsure.network/Nsure_WP_0.7.pdf"
+name: Nsure
+---
+
+Nsure is an open insurance platform for Open Finance. The project borrows the idea of Lloyd’s London, a market place to trade insurance risks, where premiums are determined by a Dynamic Pricing Model. Capital mining will be implemented to secure capital required to back the risks at any point of time. A 3-phase crowd voting mechanism is used to ensure every claim is handled professionally.
