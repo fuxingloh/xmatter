@@ -18,15 +18,5 @@ build
 coverage
 .nyc_output
 
-# turborepo
 .turbo
-
-# contented
-.contented
-
 .vercel
-
-# tsconfig.json
-packages/*/**/*.d.ts
-packages/*/**/*.d.ts.map
-packages/*/**/*.js

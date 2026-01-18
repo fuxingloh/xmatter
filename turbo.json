@@ -1,14 +1,13 @@
 {
   "$schema": "https://turbo.build/schema.json",
   "ui": "tui",
-  "globalDependencies": ["tsconfig.json"],
   "tasks": {
     "clean": {
       "cache": false
     },
     "build": {
-      "inputs": ["contented.config.mjs", "frontmatter/**", "package.json", "tsconfig.build.json", "./**/*.ts"],
-      "outputs": ["_*/*", "index.js", "index.d.ts", "index.json", "./**/*.js", "./**/*.d.ts", "./**/*.d.ts.map"],
+      "inputs": ["tsconfig.json", "./**/*.ts"],
+      "outputs": ["dist/**"],
       "dependsOn": ["^build"]
     },
     "test": {
