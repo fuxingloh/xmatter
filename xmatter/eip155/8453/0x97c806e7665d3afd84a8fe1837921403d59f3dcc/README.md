@@ -1,0 +1,15 @@
+---
+symbol: ALI
+decimals: 18
+links:
+  - name: website
+    url: "https://www.aiprotocol.info/"
+  - name: x
+    url: "https://x.com/real_alethea"
+  - name: coinmarketcap
+    url: >-
+      https://coinmarketcap.com/currencies/alethea-artificial-liquid-intelligence-token/
+name: Artificial Liquid Intelligence
+---
+
+The ALI Token is the native utility token of the AI Protocol.
