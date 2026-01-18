@@ -12,6 +12,9 @@ const ContentSecurityPolicy = `
 
 const nextConfig: NextConfig = {
   poweredByHeader: false,
+  outputFileTracingExcludes: {
+    "/*": ["../xmatter/**/*"],
+  },
   async headers() {
     return [
       {
