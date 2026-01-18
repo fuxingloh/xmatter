@@ -7,7 +7,7 @@ export async function generateStaticParams() {
   return await walk("eip155");
 }
 
-const FILES = ["icon.svg", "icon.png", "icon.jpg", "icon.jpeg", "icon.webp"];
+const FILES = ["icon.svg", "icon.png", "icon.jpg"];
 
 export async function GET(_: Request, context: RouteContext<"/eip155/[chainId]/[address]/icon.webp">) {
   const { chainId, address } = await context.params;

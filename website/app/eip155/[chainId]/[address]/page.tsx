@@ -1,9 +1,7 @@
 import type { Metadata } from "next";
 import Image from "next/image";
-import { readdir, readFile } from "node:fs/promises";
-import gray from "gray-matter";
-import { MDXRemote } from "next-mdx-remote-client/rsc";
 import { getMatter, walk } from "@/app/matter";
+import Markdown from "react-markdown";
 
 export const dynamicParams = false;
 
@@ -32,7 +30,7 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
         <Image src={`/eip155/${chainId}/${address}/icon.webp`} alt={`${data.name} Logo`} width={100} height={100} />
       </div>
 
-      <MDXRemote source={content} />
+      <Markdown>{content}</Markdown>
     </div>
   );
 }
