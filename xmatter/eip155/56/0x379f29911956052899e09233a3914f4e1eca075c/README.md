@@ -1,0 +1,22 @@
+---
+symbol: Meta
+decimals: 18
+tags:
+  - governance
+links:
+  - name: website
+    url: "https://metaswap.name/"
+  - name: x
+    url: "https://x.com/MetaSwap_"
+  - name: blog
+    url: "https://metaswap.name/"
+  - name: discord
+    url: "https://discord.com/B4SFK2hK9e"
+  - name: telegram
+    url: "https://t.me/metaswapofficialchat"
+  - name: medium
+    url: "https://medium.com/@metaswap_"
+name: MetaSwapToken
+---
+
+MetaSwap Exchange, also known as Distributed Autonomous Organization Security Token Exchange. It is an STO platform fully deployed on the BSC chain. Issued by major, medium and small companies around the world, Listing and trading through DAO voting governance behavior, thereby simplifying the complicated process of STO.governance, it eliminates centralized supervision restrictions, greatly reduces issuance costs, and leaves it to token holders for democracy decision making.

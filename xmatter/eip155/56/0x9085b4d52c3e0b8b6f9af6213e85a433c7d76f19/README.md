@@ -1,0 +1,24 @@
+---
+symbol: OWL
+decimals: 18
+tags:
+  - gamefi
+links:
+  - name: website
+    url: "https://owldao.io/"
+  - name: x
+    url: "https://x.com/OWLDAOio"
+  - name: github
+    url: "https://github.com/theowlgame"
+  - name: telegram
+    url: "https://t.me/owlDAO"
+  - name: telegram_news
+    url: "https://t.me/owlDAONews"
+  - name: coingecko
+    url: "https://coingecko.com/en/coins/owldao"
+  - name: coinmarketcap
+    url: "https://coinmarketcap.com/currencies/owldao/"
+name: OwlDAO Token
+---
+
+OwlDAO is the Top 1 iGaming Solution Provider for Web 3.0. Owl.games is OwlDAO's signature casino. Supporting ETH, BSC, Matic, FTM, Solana, Near, Aptos, etc. Play with Metamask, WalletConnect directly!

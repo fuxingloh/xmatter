@@ -1,0 +1,23 @@
+---
+symbol: FLOKIZ
+decimals: 18
+links:
+  - name: website
+    url: "https://flokizap.finance/"
+  - name: x
+    url: "https://x.com/FlokiZap"
+  - name: github
+    url: >-
+      https://github.com/interfinetwork/smart-contract-audits/blob/main/FlokiZap_AuditReport_InterFi.pdf
+  - name: telegram
+    url: "https://t.me/FlokiZapOfficial"
+  - name: discord
+    url: "https://discord.com/invite/gvD9TAwxpp"
+  - name: coinmarketcap
+    url: "https://coinmarketcap.com/currencies/flokizap/"
+  - name: whitepaper
+    url: "https://flokizap.finance/assets/images/FlokiZap-VikingPaper.pdf"
+name: FlokiZap Token
+---
+
+FlokiZ is an airdrop platform and protocol where up-and-coming projects are promoted. It focusses on increasing holders as well as filtering out legit and safe projects for its community. Holders of the token will be eligible for Airdrops, NFT's and exclusivity to contribute in new projects.

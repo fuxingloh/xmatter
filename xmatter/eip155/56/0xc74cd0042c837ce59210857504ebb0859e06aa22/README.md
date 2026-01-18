@@ -1,0 +1,32 @@
+---
+symbol: SAFUYIELD
+decimals: 9
+links:
+  - name: website
+    url: "https://safuyield.com"
+  - name: x
+    url: "https://x.com/safuyield"
+  - name: github
+    url: "https://github.com/safuyield"
+  - name: telegram
+    url: "https://t.me/safuyield"
+  - name: telegram_news
+    url: "https://t.me/safuyield_news"
+  - name: medium
+    url: "https://safuyield.medium.com"
+  - name: discord
+    url: "https://discord.com/invite/h57WyJuqEp"
+  - name: reddit
+    url: "https://reddit.com/r/SafuYield"
+  - name: whitepaper
+    url: "https://safu.net/SafuYield-Protocol-litepaper.pdf"
+  - name: coinmarketcap
+    url: "https://coinmarketcap.com/currencies/safuyield-protocol"
+  - name: coingecko
+    url: "https://coingecko.com/en/coins/safuyield-protocol"
+  - name: facebook
+    url: "https://facebook.com/safu.net"
+name: SafuYield
+---
+
+SAFUYIELD is the native ecosystem token of the www.SAFU.net platform and utility for all its projects.

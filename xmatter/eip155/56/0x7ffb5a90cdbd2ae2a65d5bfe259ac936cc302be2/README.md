@@ -1,0 +1,22 @@
+---
+symbol: GDX
+decimals: 18
+tags:
+  - staking
+links:
+  - name: website
+    url: "https://gridxecosystem.com"
+  - name: x
+    url: "https://x.com/GridxEcosystem"
+  - name: github
+    url: "https://github.com/gridxeco"
+  - name: telegram
+    url: "https://t.me/gridxfinance"
+  - name: coinmarketcap
+    url: "https://coinmarketcap.com/currencies/gridx-ecosystem/"
+  - name: whitepaper
+    url: "https://gridxecosystem.com/img/whitepaper.pdf"
+name: GridX
+---
+
+GridX is a decentralized finance (DeFi) project that has recently gained attention in the cryptocurrency world. This project aims to address some of the issues that have plagued the DeFi space, such as high transaction fees, low transaction speeds, and limited scalability.

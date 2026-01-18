@@ -1,0 +1,27 @@
+---
+symbol: BTCGAME
+decimals: 9
+links:
+  - name: website
+    url: "https://btcgamee.com"
+  - name: x
+    url: "https://x.com/BtcGameofficial"
+  - name: github
+    url: "https://github.com/btcgamee"
+  - name: telegram
+    url: "https://t.me/joinchat/KZ0FMWzF-EU4YzU1"
+  - name: facebook
+    url: "https://facebook.com/btcgame.official"
+  - name: discord
+    url: "https://discord.com/channels/887210364704522241/887210365568561184"
+  - name: medium
+    url: "https://medium.com/@btcgamee/bitcoin-game-a5c88bc3f515"
+  - name: whitepaper
+    url: >-
+      https://btcgamee.com/wp-content/uploads/2021/09/BtcGame-Whitepaper-1.1-3.pdf
+  - name: youtube
+    url: "https://youtube.com/watch?v=SB9TB3W_LBA"
+name: BTC GAME
+---
+
+Btc Game is a blockchain-based community driven social games experience that pays dividends to the players. The platform is filled with reward systems to give players many ways to win and earn over time.

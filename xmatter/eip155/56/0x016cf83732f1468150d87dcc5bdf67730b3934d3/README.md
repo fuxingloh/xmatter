@@ -1,0 +1,10 @@
+---
+symbol: AIRT
+decimals: 18
+links:
+  - name: website
+    url: "http://airnfts.com"
+name: AirNFT Token
+---
+
+AirNFTs is NFT marketplace built on Binance Smart Chain where you can Create, Buy and Sell NFTs

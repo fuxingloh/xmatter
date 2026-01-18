@@ -1,0 +1,28 @@
+---
+symbol: KOL
+decimals: 18
+tags:
+  - gamefi
+links:
+  - name: website
+    url: "http://kingoflegends.net"
+  - name: github
+    url: "https://github.com/King0fLegends"
+  - name: x
+    url: "https://x.com/kingofIegends"
+  - name: facebook
+    url: "https://facebook.com/kingoflegends.net"
+  - name: whitepaper
+    url: "https://kingoflegends.net/whitepaper.pdf"
+  - name: youtube
+    url: "https://youtube.com/channel/UCbnEsUX-GpUdX-xlSQOdzqw"
+  - name: telegram
+    url: "https://t.me/KingofLegends_Global"
+  - name: coinmarketcap
+    url: "https://coinmarketcap.com/currencies/king-of-legends-2"
+  - name: coingecko
+    url: "https://coingecko.com/coins/king-of-legends"
+name: King of Legends
+---
+
+King of Legends is a metaverse platform built specifically for the GameFi project.

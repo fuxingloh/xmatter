@@ -1,0 +1,27 @@
+---
+symbol: JADE
+decimals: 18
+links:
+  - name: website
+    url: "https://www.jadecurrency.com"
+  - name: x
+    url: "https://x.com/CurrencyJade"
+  - name: whitepaper
+    url: >-
+      https://jadecurrency.com/wp-content/uploads/2021/07/jade_currency_whitepaper_v2.pdf
+  - name: github
+    url: "https://github.com/CryptoJade"
+  - name: coinmarketcap
+    url: "https://coinmarketcap.com/currencies/jade-currency"
+  - name: coingecko
+    url: "https://coingecko.com/en/coins/jade-currency"
+  - name: telegram
+    url: "https://t.me/jadecurrency"
+  - name: medium
+    url: "https://jadecurrency.medium.com/"
+  - name: facebook
+    url: "https://facebook.com/"
+name: Jade Currency
+---
+
+Jade Currency project is committed to changing the world by creating the first ever NFT (non-fungible token) marketplace and metaverse shop for precious gems such as jade where buyers can purchase in cryptocurrency. We believe the future holds a strong demand for the use of cryptocurrencies and there is somewhat of a barrier to entry for the current industry which Crypto Jade can solve. The holders of Jade Currency (JADE) token have majority ownership of the company.

@@ -1,0 +1,25 @@
+---
+symbol: LTT
+decimals: 9
+tags:
+  - staking
+  - deflationary
+links:
+  - name: website
+    url: "https://lordtoken.com"
+  - name: x
+    url: "https://x.com/lordtoken_off/"
+  - name: facebook
+    url: "https://facebook.com/LordToken-102969834974531/"
+  - name: whitepaper
+    url: "https://ico.lordtoken.com/en/register/information_document"
+  - name: coinmarketcap
+    url: "https://coinmarketcap.com/currencies/lordtoken/"
+  - name: coingecko
+    url: "https://coingecko.com/coins/lordtoken"
+  - name: telegram
+    url: "https://t.me/LordTokenGroup"
+name: LordToken
+---
+
+LordToken’s ambition is to fill this gap, by granting access to anyone, regardless of his level of expertise, to a comprehensive set of tools while relying on premium customer service. The same goes for crypto: blockchain technology is quite complex, but if users are offered simple ways of interacting with it along with proper customer care, they will be able to take full advantage of it.

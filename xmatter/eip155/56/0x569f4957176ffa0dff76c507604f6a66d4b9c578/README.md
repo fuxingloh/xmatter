@@ -1,0 +1,22 @@
+---
+symbol: CPS
+decimals: 18
+links:
+  - name: website
+    url: "https://www.crypto-stone.io/"
+  - name: x
+    url: "https://x.com/cryptostone_io"
+  - name: telegram
+    url: "https://t.me/cryptostonegroup"
+  - name: coingecko
+    url: "https://coingecko.com/coins/cryptostone"
+  - name: coinmarketcap
+    url: "https://coinmarketcap.com/currencies/cryptostone"
+  - name: whitepaper
+    url: "https://www.crypto-stone.io/whitepaper.pdf"
+  - name: medium
+    url: "https://crypto-stone.medium.com/"
+name: Cryptostone
+---
+
+Cryptostone is a disruptive innovation and fully anonymous No-KYC blockchain financial ecosystem that utilizes blockchain technology as a financial tool in people's lives. Cryptostone token is the native utility token of the Cryptostone project.

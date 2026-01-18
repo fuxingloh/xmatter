@@ -1,0 +1,26 @@
+---
+symbol: SALE
+decimals: 18
+links:
+  - name: website
+    url: "https://dxsale.network/"
+  - name: x
+    url: "https://x.com/dxsale"
+  - name: telegram
+    url: "https://t.me/DxSale"
+  - name: telegram_news
+    url: "https://t.me/DxSaleAnn"
+  - name: medium
+    url: "https://hash-dxsale.medium.com/"
+  - name: coingecko
+    url: "https://coingecko.com/en/coins/dxsale-network"
+  - name: coinmarketcap
+    url: "https://coinmarketcap.com/currencies/dxsale-network/"
+  - name: youtube
+    url: "https://youtube.com/channel/UCDrVyjNivEdu7_cIA53B0cg"
+  - name: docs
+    url: "https://docs.dxsale.network"
+name: DxSale Network
+---
+
+DxSale is a decentralized, cross chain, token management platform as a service. DxSale DAO allows for seamless onboarding of chains to provide tools to facilitate and grow out a chains ecosystem.

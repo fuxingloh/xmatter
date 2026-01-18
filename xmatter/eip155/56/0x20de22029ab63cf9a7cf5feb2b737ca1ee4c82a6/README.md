@@ -1,0 +1,24 @@
+---
+symbol: CHESS
+decimals: 18
+links:
+  - name: website
+    url: "https://tranchess.com/"
+  - name: github
+    url: "https://github.com/tranchess/contract-core"
+  - name: x
+    url: "https://x.com/tranchess"
+  - name: medium
+    url: "https://medium.com/@tranchess"
+  - name: telegram
+    url: "https://t.me/tranchess"
+  - name: coingecko
+    url: "https://coingecko.com/en/coins/tranchess"
+  - name: coinmarketcap
+    url: "https://coinmarketcap.com/currencies/tranchess"
+  - name: discord
+    url: "https://discord.com/invite/tKxAq78VBr"
+name: Chess
+---
+
+Tranchess Protocol is a tokenized asset management and derivatives trading protocol. Inspired by tranches fund that caters investors with different risk appetite, Tranchess aims to provide different risk/return matrix out of a single main fund that tracks a specific underlying asset.

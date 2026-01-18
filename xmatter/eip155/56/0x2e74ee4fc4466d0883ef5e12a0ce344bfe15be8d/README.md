@@ -1,0 +1,16 @@
+---
+symbol: PETH
+decimals: 9
+links:
+  - name: website
+    url: "https://pumpeth.com"
+  - name: x
+    url: "https://x.com/PumpETHToken"
+  - name: coinmarketcap
+    url: "https://coinmarketcap.com/currencies/pumpeth/"
+  - name: coingecko
+    url: "https://coingecko.com/en/coins/pumpeth"
+name: PumpETH
+---
+
+Rebase Token that offers some Utility (dApps) and also rewards 4% all the holders with BEP20 ETH
