@@ -10,10 +10,6 @@ overrides:
 importers:
 
   .:
-    dependencies:
-      gray-matter:
-        specifier: ^4.0.3
-        version: 4.0.3
     devDependencies:
       '@types/node':
         specifier: ^24
@@ -43,73 +39,6 @@ importers:
         specifier: ^4.0.16
         version: 4.0.16(@types/node@24.10.6)(jiti@2.6.1)(lightningcss@1.30.2)(yaml@2.8.2)
 
-  packages/contented-config:
-    dependencies:
-      '@contentedjs/contented':
-        specifier: ^8.0.1
-        version: 8.0.1(typanion@3.14.0)
-      '@contentedjs/contented-pipeline-md':
-        specifier: ^8.0.1
-        version: 8.0.1
-      image-size:
-        specifier: ^1.2.1
-        version: 1.2.1
-
-  packages/crypto-frontmatter:
-    dependencies:
-      '@crypto-frontmatter/eip155-10':
-        specifier: workspace:*
-        version: link:../eip155-10
-      '@crypto-frontmatter/eip155-11155111':
-        specifier: workspace:*
-        version: link:../eip155-11155111
-      '@crypto-frontmatter/eip155-1130':
-        specifier: workspace:*
-        version: link:../eip155-1130
-      '@crypto-frontmatter/eip155-1313161554':
-        specifier: workspace:*
-        version: link:../eip155-1313161554
-      '@crypto-frontmatter/eip155-137':
-        specifier: workspace:*
-        version: link:../eip155-137
-      '@crypto-frontmatter/eip155-42161':
-        specifier: workspace:*
-        version: link:../eip155-42161
-      '@crypto-frontmatter/eip155-42220':
-        specifier: workspace:*
-        version: link:../eip155-42220
-      '@crypto-frontmatter/eip155-43114':
-        specifier: workspace:*
-        version: link:../eip155-43114
-      '@crypto-frontmatter/eip155-5':
-        specifier: workspace:*
-        version: link:../eip155-5
-      '@crypto-frontmatter/eip155-56':
-        specifier: workspace:*
-        version: link:../eip155-56
-      '@crypto-frontmatter/eip155-80001':
-        specifier: workspace:*
-        version: link:../eip155-80001
-      '@crypto-frontmatter/eip155-8453':
-        specifier: workspace:*
-        version: link:../eip155-8453
-      '@crypto-frontmatter/solana-5eykt4usfv8p8njdtrepy1vzqkqzkvdp':
-        specifier: workspace:*
-        version: link:../solana-5eykt4usfv8p8njdtrepy1vzqkqzkvdp
-      '@crypto-frontmatter/tip474-2494104990':
-        specifier: workspace:*
-        version: link:../tip474-2494104990
-      '@crypto-frontmatter/tip474-728126428':
-        specifier: workspace:*
-        version: link:../tip474-728126428
-      clipanion:
-        specifier: 3.2.1
-        version: 3.2.1(typanion@3.14.0)
-    devDependencies:
-      '@crypto-frontmatter/eip155-1':
-        specifier: workspace:*
-        version: link:../eip155-1
-
   packages/eip155-1:
     devDependencies:
       '@contentedjs/contented':
@@ -122,29 +51,11 @@ importers:
         specifier: ^8.0.1
         version: 8.0.1(typanion@3.14.0)
 
-  packages/eip155-11155111:
-    devDependencies:
-      '@contentedjs/contented':
-        specifier: ^8.0.1
-        version: 8.0.1(typanion@3.14.0)
-      '@workspace/contented-config':
-        specifier: workspace:*
-        version: link:../contented-config
-
   packages/eip155-1130:
     devDependencies:
       '@contentedjs/contented':
         specifier: ^8.0.1
         version: 8.0.1(typanion@3.14.0)
-
-  packages/eip155-1313161554:
-    devDependencies:
-      '@contentedjs/contented':
-        specifier: ^8.0.1
-        version: 8.0.1(typanion@3.14.0)
-      '@workspace/contented-config':
-        specifier: workspace:*
-        version: link:../contented-config
 
   packages/eip155-137:
     devDependencies:
@@ -170,19 +81,7 @@ importers:
         specifier: ^8.0.1
         version: 8.0.1(typanion@3.14.0)
 
-  packages/eip155-5:
-    devDependencies:
-      '@contentedjs/contented':
-        specifier: ^8.0.1
-        version: 8.0.1(typanion@3.14.0)
-
   packages/eip155-56:
-    devDependencies:
-      '@contentedjs/contented':
-        specifier: ^8.0.1
-        version: 8.0.1(typanion@3.14.0)
-
-  packages/eip155-80001:
     devDependencies:
       '@contentedjs/contented':
         specifier: ^8.0.1
@@ -252,15 +151,9 @@ importers:
       '@crypto-frontmatter/eip155-43114':
         specifier: workspace:*
         version: link:../packages/eip155-43114
-      '@crypto-frontmatter/eip155-5':
-        specifier: workspace:*
-        version: link:../packages/eip155-5
       '@crypto-frontmatter/eip155-56':
         specifier: workspace:*
         version: link:../packages/eip155-56
-      '@crypto-frontmatter/eip155-80001':
-        specifier: workspace:*
-        version: link:../packages/eip155-80001
       '@crypto-frontmatter/eip155-8453':
         specifier: workspace:*
         version: link:../packages/eip155-8453
@@ -2314,11 +2207,6 @@ packages:
     resolution: {integrity: sha512-Hs59xBNfUIunMFgWAbGX5cq6893IbWg4KnrjbYwX3tx0ztorVgTDA6B2sxf8ejHJ4wz8BqGUMYlnzNBer5NvGg==}
     engines: {node: '>= 4'}
 
-  image-size@1.2.1:
-    resolution: {integrity: sha512-rH+46sQJ2dlwfjfhCyNx5thzrv+dtmBIhPHk0zgRUukHzZ/kRueTJXoYYsclBaKcSMBWuGbOFXtioLpzTb5euw==}
-    engines: {node: '>=16.x'}
-    hasBin: true
-
   import-fresh@3.3.1:
     resolution: {integrity: sha512-TR3KfrTZTYLPB6jUjfx6MF9WcWrHL9su5TObK4ZkYgBdWKPOFoSoQIdEuTuR82pmtxH2spWG9h6etwfr1pLBqQ==}
     engines: {node: '>=6'}
@@ -2326,9 +2214,6 @@ packages:
   imurmurhash@0.1.4:
     resolution: {integrity: sha512-JmXMZ6wuvDmLiHEml9ykzqO6lwFbof0GG4IkcGaENdCRDDmMVnny7s5HsIgHCbaq0w2MyPhDqkhTUgS2LU2PHA==}
     engines: {node: '>=0.8.19'}
-
-  inherits@2.0.4:
-    resolution: {integrity: sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ==}
 
   inline-style-parser@0.2.7:
     resolution: {integrity: sha512-Nb2ctOyNR8DqQoR0OwRG95uNWIC0C1lCgf5Naz5H6Ji72KZ8OcFZLz2P5sNgwlyoJ8Yif11oMuYs5pBQa86csA==}
@@ -3135,9 +3020,6 @@ packages:
 
   queue-microtask@1.2.3:
     resolution: {integrity: sha512-NuaNSa6flKT5JaSYQzJok04JzTL1CA6aGhv5rfLW3PgqA+M2ChpZQnAC8h8i4ZFkBS8X5RqkDBHA7r4hej3K9A==}
-
-  queue@6.0.2:
-    resolution: {integrity: sha512-iHZWu+q3IdFZFX36ro/lKBkSvfkztY5Y7HMiPlOUjhupPcG2JMfst2KKEpu5XndviX/3UhFbRngUPNKtgvtZiA==}
 
   react-dom@19.2.3:
     resolution: {integrity: sha512-yELu4WmLPw5Mr/lmeEpox5rw3RETacE++JgHqQzd2dg+YbJuat3jH4ingc+WPZhxaoFzdv9y33G+F7Nl5O0GBg==}
@@ -5880,18 +5762,12 @@ snapshots:
 
   ignore@7.0.5: {}
 
-  image-size@1.2.1:
-    dependencies:
-      queue: 6.0.2
-
   import-fresh@3.3.1:
     dependencies:
       parent-module: 1.0.1
       resolve-from: 4.0.0
 
   imurmurhash@0.1.4: {}
-
-  inherits@2.0.4: {}
 
   inline-style-parser@0.2.7: {}
 
@@ -6924,10 +6800,6 @@ snapshots:
   punycode@2.3.1: {}
 
   queue-microtask@1.2.3: {}
-
-  queue@6.0.2:
-    dependencies:
-      inherits: 2.0.4
 
   react-dom@19.2.3(react@19.2.3):
     dependencies:

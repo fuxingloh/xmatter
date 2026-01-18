@@ -1,14 +1,19 @@
 import sharp from "sharp";
 import { join } from "path";
 import { readFile } from "node:fs/promises";
+import { walk } from "@/app/matter";
 
-const filePriority = ["icon.svg", "icon.png", "icon.jpg", "icon.jpeg", "icon.webp"];
+export async function generateStaticParams() {
+  return await walk("eip155");
+}
+
+const FILES = ["icon.svg", "icon.png", "icon.jpg", "icon.jpeg", "icon.webp"];
 
 export async function GET(_: Request, context: RouteContext<"/eip155/[chainId]/[address]/icon.webp">) {
   const { chainId, address } = await context.params;
   const baseDir = join("../xmatter/eip155", chainId, address);
 
-  for (const filename of filePriority) {
+  for (const filename of FILES) {
     try {
       const filePath = join(baseDir, filename);
       const buffer = await readFile(filePath);

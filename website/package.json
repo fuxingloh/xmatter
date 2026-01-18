@@ -28,7 +28,7 @@
     "tailwindFunctions": [
       "clsx",
       "cva",
-      "clazz"
+      "cx"
     ]
   },
   "dependencies": {

@@ -2,7 +2,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { ComponentProps, ReactElement, ReactNode, useMemo } from "react";
-import { cx } from "@/components/ClassName";
+import { cx } from "@/components/cx";
 
 /**
  * ActiveLink is a wrapper around Next.js Link that adds an `activeClassName` prop.
