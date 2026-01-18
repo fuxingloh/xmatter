@@ -1,8 +1,9 @@
 {
-  "name": "@workspace/agent-base",
+  "name": "@workspace/agent-trust-wallet",
   "version": "0.0.0",
   "private": true,
   "scripts": {
+    "run": "tsx agent.mts",
     "test": "vitest run"
   },
   "lint-staged": {
@@ -11,7 +12,7 @@
     ]
   },
   "dependencies": {
-    "gray-matter": "^4.0.3",
-    "zod": "^4.3.5"
+    "@workspace/agent-base": "workspace:*",
+    "tsx": "^4.19.2"
   }
 }

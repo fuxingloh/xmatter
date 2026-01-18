@@ -1,8 +1,7 @@
 import { copyFile, readFile } from "node:fs/promises";
 import { join } from "node:path";
 
-import { README } from "../../README";
-import { hasFile, SyncCommand } from "../../SyncCommand";
+import { hasFile, README, FileSystemAgent } from "@workspace/agent-base";
 
 interface Info {
   name: string;
@@ -21,72 +20,70 @@ interface Info {
   }[];
 }
 
-export class TrustWalletAssets extends SyncCommand<Info> {
-  static override paths = [[`trustwallet/assets`]];
-
+export class TrustWalletAssets extends FileSystemAgent<Info> {
   async execute(): Promise<void> {
-    await this.walkDir("repo/blockchains/ethereum/assets", {
+    await this.walk("repo/blockchains/ethereum/assets", {
       toPath: (data) => `../../packages/eip155-1/frontmatter/erc20/${data.id}`,
       filter: (data) => data.type === "ERC20",
     });
 
-    await this.walkDir("repo/blockchains/polygon/assets", {
+    await this.walk("repo/blockchains/polygon/assets", {
       toPath: (data) => `../../packages/eip155-137/frontmatter/erc20/${data.id}`,
       filter: (data) => data.type === "POLYGON",
     });
 
-    await this.walkDir("repo/blockchains/avalanchec/assets", {
+    await this.walk("repo/blockchains/avalanchec/assets", {
       toPath: (data) => `../../packages/eip155-43114/frontmatter/erc20/${data.id}`,
       filter: (data) => data.type === "AVALANCHE",
     });
 
-    await this.walkDir("repo/blockchains/smartchain/assets", {
+    await this.walk("repo/blockchains/smartchain/assets", {
       toPath: (data) => `../../packages/eip155-56/frontmatter/erc20/${data.id}`,
       filter: (data) => data.type === "BEP20",
     });
 
-    await this.walkDir("repo/blockchains/arbitrum/assets", {
+    await this.walk("repo/blockchains/arbitrum/assets", {
       toPath: (data) => `../../packages/eip155-42161/frontmatter/erc20/${data.id}`,
       filter: (data) => data.type === "ARBITRUM",
     });
 
-    await this.walkDir("repo/blockchains/optimism/assets", {
+    await this.walk("repo/blockchains/optimism/assets", {
       toPath: (data) => `../../packages/eip155-10/frontmatter/erc20/${data.id}`,
       filter: (data) => data.type === "OPTIMISM",
     });
 
-    await this.walkDir("repo/blockchains/aurora/assets", {
+    await this.walk("repo/blockchains/aurora/assets", {
       toPath: (data) => `../../packages/eip155-1313161554/frontmatter/erc20/${data.id}`,
       filter: (data) => data.type === "AURORA",
     });
 
-    await this.walkDir("repo/blockchains/celo/assets", {
+    await this.walk("repo/blockchains/celo/assets", {
       toPath: (data) => `../../packages/eip155-42220/frontmatter/erc20/${data.id}`,
       filter: (data) => data.type === "CELO",
     });
 
-    await this.walkDir("repo/blockchains/base/assets", {
+    await this.walk("repo/blockchains/base/assets", {
       toPath: (data) => `../../packages/eip155-8453/frontmatter/erc20/${data.id}`,
       filter: (data) => data.type === "BASE",
     });
 
-    await this.walkDir("repo/blockchains/tron/assets", {
+    await this.walk("repo/blockchains/tron/assets", {
       toPath: (data) => `../../packages/tip474-728126428/frontmatter/trc10/${data.id}`,
       filter: (data) => data.type === "TRC10",
     });
 
-    await this.walkDir("repo/blockchains/tron/assets", {
+    await this.walk("repo/blockchains/tron/assets", {
       toPath: (data) => `../../packages/tip474-728126428/frontmatter/trc20/${data.id}`,
       filter: (data) => data.type === "TRC20",
     });
 
-    await this.walkDir("repo/blockchains/solana/assets", {
+    await this.walk("repo/blockchains/solana/assets", {
       toPath: (data) => `../../packages/solana-5eykt4usfv8p8njdtrepy1vzqkqzkvdp/frontmatter/token/${data.id}`,
       filter: (data) => data.type === "SPL",
     });
   }
 
-  async readData(path: string): Promise<Info | undefined> {
+  async readEntry(path: string): Promise<Info | undefined> {
     return JSON.parse(
       await readFile(join(path, "info.json"), {
         encoding: "utf-8",
@@ -103,15 +100,15 @@ export class TrustWalletAssets extends SyncCommand<Info> {
     }
   }
 
-  toREADME(data: Info): README {
+  toReadmeFile(data: Info): README {
     return {
       frontmatter: {
+        name: data.name,
         symbol: data.symbol,
         decimals: data.decimals,
         tags: data.tags,
         links: createLinks(data),
       },
-      title: data.name,
       body: hasDescription(data) ? data.description : "",
     };
   }
@@ -137,3 +134,6 @@ function createLinks(info: Partial<Info>): README["frontmatter"]["links"] {
   }
   return links;
 }
+
+const agent = new TrustWalletAssets();
+await agent.execute();

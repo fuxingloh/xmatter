@@ -7,7 +7,7 @@ on:
       - main
     paths:
       - agent.yml
-      - workspace/sync/**/*
+      - packages/agent-*/**/*
   schedule:
     - cron: "0 0 * * *"
 
@@ -26,15 +26,17 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        repo:
-          - trustwallet/assets
-          - ethereum-optimism/ethereum-optimism.github.io
+        include:
+          - agent: trust-wallet
+            repo: trustwallet/assets
+          - agent: ethereum-optimism
+            repo: ethereum-optimism/ethereum-optimism.github.io
     steps:
       - uses: actions/checkout@v6
       - uses: ./.github/actions/setup
 
       - run: pnpm turbo run build
-        working-directory: workspace/sync
+        working-directory: packages
 
       - uses: actions/checkout@v6
         with:
@@ -42,12 +44,12 @@ jobs:
           # While `pnpm run sync` is executed such that we're only reading files which pose no security risk,
           # it's nonetheless possible through other means to execute arbitrary code
           # when you attempt to do "TOO MUCH" outside its intended use case.
-          path: workspace/sync/repo
+          path: packages/agent-${{ matrix.agent }}/repo
           repository: ${{ matrix.repo }}
           ref: master
 
-      - run: pnpm run sync ${{ matrix.repo }}
-        working-directory: workspace/sync
+      - run: pnpm run sync
+        working-directory: packages/agent-${{ matrix.agent }}
 
       #      - id: app
       #        uses: tibdex/github-app-token@3beb63f4bd073e61482598c45c71c1019b59b73a # v2.1.0
@@ -64,6 +66,6 @@ jobs:
           body: |
             #### What this PR does / why we need it:
 
-            Sync latest changes from `${{ matrix.repo }}` repository using `@workspace/sync`.
+            Sync latest changes from `${{ matrix.repo }}` repository using `@workspace/agent-${{ matrix.agent }}`.
 
           branch: sync/${{ matrix.repo }}

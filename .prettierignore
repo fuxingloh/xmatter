@@ -3,6 +3,7 @@
 .vscode
 .next
 .turbo
+.repo
 node_modules
 dist
 pnpm-lock.yaml
