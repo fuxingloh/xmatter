@@ -1,0 +1,16 @@
+---
+symbol: METAX
+decimals: 8
+tags:
+  - RWA
+links:
+  - name: website
+    url: "https://assets.backed.fi/products"
+  - name: x
+    url: "https://x.com/xstocksfi"
+  - name: coinmarketcap
+    url: "https://coinmarketcap.com/currencies/meta-tokenized-stock-xstock/"
+name: Meta tokenized stock (xStock)
+---
+
+Meta tokenized stock (xStock) (METAX) is a cryptocurrency and operates on the Solana platform. Meta tokenized stock (xStock) has a current supply of 1,000. The last known price of Meta tokenized stock (xStock) is 769.51285738 USD and is up 1.36 over the last 24 hours. It is currently trading on 26 active market(s) with $3,617,932.72 traded over the last 24 hours. More information can be found at https://assets.backed.fi/products/meta-xstock.
