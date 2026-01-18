@@ -22,50 +22,36 @@ permissions:
 jobs:
   main:
     runs-on: ubuntu-latest
-    environment: FRONTMATTER_BOT
     strategy:
       fail-fast: false
       matrix:
         include:
-          - agent: trust-wallet
+          - agent: agent-trust-wallet
             repo: trustwallet/assets
-          - agent: ethereum-optimism
+            ref: master
+          - agent: agent-ethereum-optimism
             repo: ethereum-optimism/ethereum-optimism.github.io
+            ref: master
     steps:
       - uses: actions/checkout@v6
       - uses: ./.github/actions/setup
 
-      - run: pnpm turbo run build
-        working-directory: packages
-
       - uses: actions/checkout@v6
         with:
           # PLEASE be aware that this is a security risk when you allow untrusted repositories to be checked out.
-          # While `pnpm run sync` is executed such that we're only reading files which pose no security risk,
+          # While the agent is executed such that we're only reading files which pose no security risk,
           # it's nonetheless possible through other means to execute arbitrary code
           # when you attempt to do "TOO MUCH" outside its intended use case.
-          path: packages/agent-${{ matrix.agent }}/repo
+          path: packages/${{ matrix.agent }}/.repo
           repository: ${{ matrix.repo }}
-          ref: master
+          ref: ${{ matrix.ref }}
 
-      - run: pnpm run sync
-        working-directory: packages/agent-${{ matrix.agent }}
+      - run: pnpm run run
+        working-directory: packages/${{ matrix.agent }}
 
-      #      - id: app
-      #        uses: tibdex/github-app-token@3beb63f4bd073e61482598c45c71c1019b59b73a # v2.1.0
-      #        with:
-      #          app_id: ${{ secrets.SYNC_APP_ID }}
-      #          private_key: ${{ secrets.SYNC_PRIVATE_KEY }}
-
-      # permission is set to `write` for `pull-requests` and `contents`
       - uses: peter-evans/create-pull-request@98357b18bf14b5342f975ff684046ec3b2a07725 # v8.0.0
         with:
-          #          token: ${{ steps.app.outputs.token }}
-          commit-message: "chore(sync): ${{ matrix.repo }}"
-          title: "chore(sync): ${{ matrix.repo }}"
-          body: |
-            #### What this PR does / why we need it:
-
-            Sync latest changes from `${{ matrix.repo }}` repository using `@workspace/agent-${{ matrix.agent }}`.
-
-          branch: sync/${{ matrix.repo }}
+          title: "chore(agent): ${{ matrix.agent }}"
+          commit-message: "chore(agent): ${{ matrix.agent }}"
+          branch: agents/${{ matrix.agent }}
+          draft: always-true
