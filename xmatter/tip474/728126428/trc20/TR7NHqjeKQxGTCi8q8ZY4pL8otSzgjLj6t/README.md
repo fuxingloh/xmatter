@@ -1,0 +1,24 @@
+---
+symbol: USDT
+decimals: 6
+links:
+  - name: website
+    url: "https://tether.to"
+  - name: whitepaper
+    url: "https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf"
+  - name: x
+    url: "https://x.com/Tether_to"
+  - name: telegram
+    url: "https://t.me/tronnetworkEN"
+  - name: medium
+    url: "https://medium.com/tron-foundation"
+  - name: discord
+    url: "https://discord.com/invite/hqKvyAM"
+  - name: reddit
+    url: "https://reddit.com/r/Tronix/"
+  - name: facebook
+    url: "https://facebook.com/tronfoundation"
+name: Tether
+---
+
+Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar.

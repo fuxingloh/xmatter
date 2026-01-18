@@ -10,8 +10,8 @@ import { ActiveLink } from "@/components/ActiveLink";
 export const metadata: Metadata = {
   metadataBase: new URL("https://xmatter.org"),
   title: {
-    template: `%s – xmatter`,
-    default: `xmatter`,
+    template: `%s – XMatter`,
+    default: `XMatter`,
   },
   description: "Structured metadata for smart contracts, the frontpage of an address.",
 };
