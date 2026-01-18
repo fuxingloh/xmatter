@@ -1,7 +1,7 @@
-import { copyFile, readFile } from "node:fs/promises";
+import { readFile } from "node:fs/promises";
 import { join } from "node:path";
 
-import { hasFile, README, FileSystemAgent } from "@workspace/agent-base";
+import { ReadmeFile, FileSystemAgent, hasFile, copyIfExists } from "@workspace/agent-base";
 
 interface Info {
   name: string;
@@ -21,95 +21,50 @@ interface Info {
 }
 
 export class TrustWalletAssets extends FileSystemAgent<Info> {
-  async execute(): Promise<void> {
-    await this.walk("repo/blockchains/ethereum/assets", {
-      toPath: (data) => `../../packages/eip155-1/frontmatter/erc20/${data.id}`,
-      filter: (data) => data.type === "ERC20",
-    });
-
-    await this.walk("repo/blockchains/polygon/assets", {
-      toPath: (data) => `../../packages/eip155-137/frontmatter/erc20/${data.id}`,
-      filter: (data) => data.type === "POLYGON",
-    });
-
-    await this.walk("repo/blockchains/avalanchec/assets", {
-      toPath: (data) => `../../packages/eip155-43114/frontmatter/erc20/${data.id}`,
-      filter: (data) => data.type === "AVALANCHE",
-    });
-
-    await this.walk("repo/blockchains/smartchain/assets", {
-      toPath: (data) => `../../packages/eip155-56/frontmatter/erc20/${data.id}`,
-      filter: (data) => data.type === "BEP20",
-    });
-
-    await this.walk("repo/blockchains/arbitrum/assets", {
-      toPath: (data) => `../../packages/eip155-42161/frontmatter/erc20/${data.id}`,
-      filter: (data) => data.type === "ARBITRUM",
-    });
-
-    await this.walk("repo/blockchains/optimism/assets", {
-      toPath: (data) => `../../packages/eip155-10/frontmatter/erc20/${data.id}`,
-      filter: (data) => data.type === "OPTIMISM",
-    });
-
-    await this.walk("repo/blockchains/aurora/assets", {
-      toPath: (data) => `../../packages/eip155-1313161554/frontmatter/erc20/${data.id}`,
-      filter: (data) => data.type === "AURORA",
-    });
-
-    await this.walk("repo/blockchains/celo/assets", {
-      toPath: (data) => `../../packages/eip155-42220/frontmatter/erc20/${data.id}`,
-      filter: (data) => data.type === "CELO",
-    });
-
-    await this.walk("repo/blockchains/base/assets", {
-      toPath: (data) => `../../packages/eip155-8453/frontmatter/erc20/${data.id}`,
-      filter: (data) => data.type === "BASE",
-    });
-
-    await this.walk("repo/blockchains/tron/assets", {
-      toPath: (data) => `../../packages/tip474-728126428/frontmatter/trc10/${data.id}`,
-      filter: (data) => data.type === "TRC10",
-    });
-
-    await this.walk("repo/blockchains/tron/assets", {
-      toPath: (data) => `../../packages/tip474-728126428/frontmatter/trc20/${data.id}`,
-      filter: (data) => data.type === "TRC20",
-    });
-
-    await this.walk("repo/blockchains/solana/assets", {
-      toPath: (data) => `../../packages/solana-5eykt4usfv8p8njdtrepy1vzqkqzkvdp/frontmatter/token/${data.id}`,
-      filter: (data) => data.type === "SPL",
-    });
-  }
-
-  async readEntry(path: string): Promise<Info | undefined> {
+  async readEntry(sourcePath: string): Promise<Info | undefined> {
     return JSON.parse(
-      await readFile(join(path, "info.json"), {
+      await readFile(join(sourcePath, "info.json"), {
         encoding: "utf-8",
       }),
     ) as Info;
   }
 
-  async write(data: Info, fromPath: string, toPath: string, readme: README): Promise<void> {
-    await super.write(data, fromPath, toPath, readme);
-
-    const logoPath = join(fromPath, "logo.png");
-    if (await hasFile(logoPath)) {
-      await copyFile(logoPath, join(toPath, "icon.png"));
+  async write(uri: string, data: Info, source: string, target: string, readme: ReadmeFile): Promise<void> {
+    if (await hasFile(join(target, "README.md"))) {
+      // Don't override if a README already exists
+      return;
     }
+
+    await super.write(uri, data, source, target, readme);
+    await copyIfExists(join(source, "logo.png"), join(target, "icon.png"));
   }
 
-  toReadmeFile(data: Info): README {
+  toReadmeFile(uri: string, data: Info): ReadmeFile {
+    const links: ReadmeFile["data"]["links"] = [];
+    if (data.website) links.push({ name: "website", url: data.website });
+    if (data.explorer) links.push({ name: "explorer", url: data.explorer });
+
+    if (data.links) {
+      for (const link of data.links) {
+        if (link.name === "website" || link.name === "explorer") continue;
+        if (!link.url?.startsWith("https://")) continue;
+        if (!link.name) continue;
+        links.push(link);
+      }
+    }
+
+    const standards = getStandards(data.type);
+
     return {
-      frontmatter: {
+      data: {
         name: data.name,
+        provenance: "@fuxingloh/agent-trust-wallet",
+        standards: standards,
         symbol: data.symbol,
         decimals: data.decimals,
-        tags: data.tags,
-        links: createLinks(data),
+        links: links,
       },
-      body: hasDescription(data) ? data.description : "",
+      content: hasDescription(data) ? data.description : "",
     };
   }
 }
@@ -119,21 +74,87 @@ function hasDescription(info: Info): boolean {
   return info.description.replaceAll(/[-—_.]/g, "").trim() !== "";
 }
 
-function createLinks(info: Partial<Info>): README["frontmatter"]["links"] {
-  const links: Info["links"] = [];
-  if (info.website) links.push({ name: "website", url: info.website });
-  if (info.explorer) links.push({ name: "explorer", url: info.explorer });
-
-  if (info.links) {
-    for (const link of info.links) {
-      if (link.name === "website" || link.name === "explorer") continue;
-      if (!link.url?.startsWith("https://")) continue;
-      if (!link.name) continue;
-      links.push(link);
-    }
+function getStandards(type: string): string[] {
+  switch (type) {
+    case "ERC20":
+    case "POLYGON":
+    case "AVALANCHE":
+    case "BEP20":
+    case "ARBITRUM":
+    case "OPTIMISM":
+    case "AURORA":
+    case "CELO":
+    case "BASE":
+      return ["erc20"];
+    case "TRC10":
+      return ["trc10"];
+    case "TRC20":
+      return ["trc20"];
+    case "SPL":
+      return ["spl-token"];
+    default:
+      return [];
   }
-  return links;
 }
 
 const agent = new TrustWalletAssets();
-await agent.execute();
+
+await agent.walk(".repo/blockchains/ethereum/assets", {
+  filter: (data) => data.type === "ERC20",
+  toUri: (data) => `eip155/1/${data.id.toLowerCase()}`,
+});
+
+await agent.walk(".repo/blockchains/polygon/assets", {
+  filter: (data) => data.type === "POLYGON",
+  toUri: (data) => `eip155/137/${data.id.toLowerCase()}`,
+});
+
+await agent.walk(".repo/blockchains/avalanchec/assets", {
+  filter: (data) => data.type === "AVALANCHE",
+  toUri: (data) => `eip155/43114/${data.id.toLowerCase()}`,
+});
+
+await agent.walk(".repo/blockchains/smartchain/assets", {
+  filter: (data) => data.type === "BEP20",
+  toUri: (data) => `eip155/56/${data.id.toLowerCase()}`,
+});
+
+await agent.walk(".repo/blockchains/arbitrum/assets", {
+  filter: (data) => data.type === "ARBITRUM",
+  toUri: (data) => `eip155/42161/${data.id.toLowerCase()}`,
+});
+
+await agent.walk(".repo/blockchains/optimism/assets", {
+  filter: (data) => data.type === "OPTIMISM",
+  toUri: (data) => `eip155/10/${data.id.toLowerCase()}`,
+});
+
+await agent.walk(".repo/blockchains/aurora/assets", {
+  filter: (data) => data.type === "AURORA",
+  toUri: (data) => `eip155/1313161554/${data.id.toLowerCase()}`,
+});
+
+await agent.walk(".repo/blockchains/celo/assets", {
+  filter: (data) => data.type === "CELO",
+  toUri: (data) => `eip155/42220/${data.id.toLowerCase()}`,
+});
+
+await agent.walk(".repo/blockchains/base/assets", {
+  filter: (data) => data.type === "BASE",
+  toUri: (data) => `eip155/8453/${data.id.toLowerCase()}`,
+});
+
+await agent.walk(".repo/blockchains/tron/assets", {
+  filter: (data) => data.type === "TRC10",
+  toUri: (data) => `tip474/728126428/trc10/${data.id}`,
+});
+
+await agent.walk(".repo/blockchains/tron/assets", {
+  filter: (data) => data.type === "TRC20",
+  toUri: (data) => `tip474/728126428/trc20/${data.id}`,
+});
+
+await agent.walk(".repo/blockchains/solana/assets", {
+  filter: (data) => data.type === "SPL",
+  toUri: (data) => `solana/5eykt4usfv8p8njdtrepy1vzqkqzkvdp/${data.id}`,
+});
