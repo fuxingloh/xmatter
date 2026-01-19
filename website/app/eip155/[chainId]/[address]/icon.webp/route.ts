@@ -1,24 +1,27 @@
 import sharp from "sharp";
-import { join } from "path";
-import { readFile } from "node:fs/promises";
-import { walk } from "@/app/matter";
+import { publicFetch } from "@/app/public";
 
 export async function generateStaticParams() {
-  return await walk("eip155");
+  return [
+    {
+      chainId: "1",
+      address: "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    },
+  ];
 }
 
 const FILES = ["icon.svg", "icon.png", "icon.jpg"];
 
 export async function GET(_: Request, context: RouteContext<"/eip155/[chainId]/[address]/icon.webp">) {
   const { chainId, address } = await context.params;
-  const baseDir = join("../xmatter/eip155", chainId, address);
 
   for (const filename of FILES) {
     try {
-      const filePath = join(baseDir, filename);
-      const buffer = await readFile(filePath);
+      const image = await publicFetch(`/eip155/${chainId}/${address}/${filename}`);
+      if (!image.ok) continue;
 
-      const webpBuffer = await sharp(buffer).resize({ width: 512, height: 512 }).webp({ quality: 100 }).toBuffer();
+      const imageBuffer = await image.arrayBuffer();
+      const webpBuffer = await sharp(imageBuffer).resize({ width: 512, height: 512 }).webp({ quality: 100 }).toBuffer();
 
       return new Response(new Uint8Array(webpBuffer), {
         headers: {

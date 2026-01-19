@@ -1,17 +1,22 @@
 import type { Metadata } from "next";
 import Image from "next/image";
-import { getMatter, walk } from "@/app/matter";
 import Markdown from "react-markdown";
-
-export const dynamicParams = false;
+import { publicFetch } from "@/app/public";
+import gray from "gray-matter";
 
 export async function generateStaticParams() {
-  return await walk("eip155");
+  return [
+    {
+      chainId: "1",
+      address: "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    },
+  ];
 }
 
 export async function generateMetadata(props: PageProps<"/eip155/[chainId]/[address]">): Promise<Metadata> {
   const { chainId, address } = await props.params;
-  const { data } = await getMatter("eip155", chainId, address);
+  const readme = await publicFetch(`/eip155/${chainId}/${address}/README.md`);
+  const { data } = gray(await readme.text());
 
   return {
     title: data.title,
@@ -20,7 +25,8 @@ export async function generateMetadata(props: PageProps<"/eip155/[chainId]/[addr
 
 export default async function Page(props: PageProps<"/eip155/[chainId]/[address]">) {
   const { chainId, address } = await props.params;
-  const { content, data } = await getMatter("eip155", chainId, address);
+  const readme = await publicFetch(`/eip155/${chainId}/${address}/README.md`);
+  const { content, data } = gray(await readme.text());
 
   return (
     <div>
