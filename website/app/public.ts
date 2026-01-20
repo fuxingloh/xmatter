@@ -6,6 +6,9 @@ export async function publicFetch(path: string): Promise<Response> {
   const host = h.get("host");
 
   return fetch(`${proto}://${host}${path}`, {
+    headers: {
+      PUBLIC_FETCH_BYPASS: process.env.PUBLIC_FETCH_BYPASS!,
+    },
     next: { revalidate: false },
   });
 }
