@@ -26,7 +26,7 @@ export async function GET(_: Request, context: RouteContext<"/eip155/[chainId]/[
       return new Response(new Uint8Array(webpBuffer), {
         headers: {
           "Content-Type": "image/webp",
-          "Cache-Control": "public, max-age=31536000, immutable",
+          "Cache-Control": "public, max-age=604800, immutable",
         },
       });
     } catch (error) {}
