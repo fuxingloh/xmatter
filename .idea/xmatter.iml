@@ -6,6 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/pnpm-lock.yaml" />
       <excludeFolder url="file://$MODULE_DIR$/.vercel" />
       <excludeFolder url="file://$MODULE_DIR$/.husky" />
+      <excludeFolder url="file://$MODULE_DIR$/website/public" />
       <excludePattern pattern=".turbo" />
       <excludePattern pattern=".repo" />
       <excludePattern pattern="dist" />
