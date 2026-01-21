@@ -31,6 +31,11 @@ export abstract class FileSystemAgent<Entry> {
         continue;
       }
 
+      // If got LOCK file and target don't process this entry
+      if (await hasFile(join(targetPath, "LOCK"))) {
+        continue;
+      }
+
       await this.write(uri, data, sourcePath, targetPath, parsed.data);
     }
   }
