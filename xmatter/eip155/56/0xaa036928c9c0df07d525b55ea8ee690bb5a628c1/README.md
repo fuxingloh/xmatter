@@ -13,6 +13,11 @@ links:
   - name: telegram
     url: "https://t.me/evaaprotocol"
 name: Evaa protocol
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#3404ec"
 ---
 
 The $EVAA token is the governance and utility token of the EVAA lending protocol. It allows holders to participate in decentralized governance by voting on protocol upgrades, stake their tokens to earn passive income, and enjoy lower fees for platform services.

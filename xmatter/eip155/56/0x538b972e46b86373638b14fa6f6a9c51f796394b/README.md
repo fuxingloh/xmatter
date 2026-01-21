@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/adtoken_official"
 name: AD Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fbcd0a"
 ---
 
 ADToken is dedicated to the tokennation of advertising impressions and realizes the circulation of advertising value through DeFi.

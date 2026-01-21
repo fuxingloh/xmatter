@@ -25,6 +25,11 @@ links:
   - name: youtube
     url: "https://youtube.com/@mefaibot"
 name: META FINANCIALAI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#3e98e5"
 ---
 
 AI Powered Insights for Smarter Trading Harnessing AI for advanced market signals. Trade with data, not just emotion.

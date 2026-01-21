@@ -13,6 +13,11 @@ links:
   - name: telegram
     url: "https://t.me/chainlinkofficial"
 name: Chainlink Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#335cd3"
 ---
 
 A blockchain-based middleware, acting as a bridge between cryptocurrency smart contracts, data feeds, APIs and traditional bank account payments.

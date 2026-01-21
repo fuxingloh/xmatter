@@ -15,6 +15,11 @@ links:
   - name: docs
     url: "https://goma-finance.gitbook.io/docs"
 name: GOMA
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#a1042d"
 ---
 
 GOMA is a Multi-chain Hyper-Deflationary Incentive, DeFi & Staking Ecosystem

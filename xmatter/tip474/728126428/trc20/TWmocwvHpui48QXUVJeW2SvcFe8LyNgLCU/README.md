@@ -13,6 +13,9 @@ links:
   - name: telegram
     url: "https://t.me/ncc_trading"
 name: NETCOINCAPITAL
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - trc20
 ---
 
 NetcoinCapital is blockchain based project it's made for financial service, technology & future

@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/mftudotnet"
 name: Mainstream For The Underground
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dedcd7"
 ---
 
 Utility token to pay Independent Musicians as a Distributed Ledger Performance Rights Organization.

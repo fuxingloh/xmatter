@@ -17,6 +17,11 @@ links:
   - name: source_code
     url: "https://github.com/finodao/smartcontracts/"
 name: FINO DAO
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fbbf08"
 ---
 
 Fino DAO Token is a new BEP20 token with an elastic supply and automatic LP adds.

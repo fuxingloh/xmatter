@@ -30,6 +30,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UCrQZWj09aoP_IpeRT0Gng-g"
 name: Coinscope
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1bd5ec"
 ---
 
 Coinscope is the leading early coin listing and voting website. It is aiming to make crypto discoverable and efficient globally. It provides all the essential tools to assist users draw their own conclusions.

@@ -30,6 +30,11 @@ links:
   - name: blog
     url: "https://blog.ethswarm.org/"
 name: Swarm
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#db7305"
 ---
 
 Swarm is a decentralised permisionless data storage and distribution technology.

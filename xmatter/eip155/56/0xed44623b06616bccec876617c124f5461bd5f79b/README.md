@@ -22,6 +22,11 @@ links:
     url: >-
       https://bscscan.com/address/0xed44623b06616bccec876617c124f5461bd5f79b#code
 name: BFK WARZONE
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#10100e"
 ---
 
 Battle Fort Knox - BFK is a complete gaming ecosystem with our native token $BFK, our NFT Marketplace, and our P2E 2D shooter coming to iOS, Android, and Windows.

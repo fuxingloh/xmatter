@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/kogin-by-virtuals"
 name: Kogin by Virtuals
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#694652"
 ---
 
 Introducing Kogin, Ronin Realms' AI Agent coin on Base! Join the cynical AI Kogin Tonic as he drowns his sorrows over token prices in hard liquor. Help him cope, and maybe he'll toast to crypto's rise with you!

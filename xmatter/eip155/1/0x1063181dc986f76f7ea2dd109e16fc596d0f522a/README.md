@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/cybriacoin"
 name: Cybria
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Cybria is a Layer 2 blockchain platform built on top of the Ethereum network.

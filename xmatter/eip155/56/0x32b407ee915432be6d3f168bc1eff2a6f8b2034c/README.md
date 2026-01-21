@@ -38,6 +38,11 @@ links:
   - name: facebook
     url: "https://facebook.com/HODLtokenBSC"
 name: HODL
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#bdd8fc"
 ---
 
 $HODL: Claim 5% BNB rewards every 7 days. ATH $230M, Doxxed team, KYC verified, LP locked 250+ years, registered company, over 20,000 BNB paid so far! Use 6% slippage to buy and join the community earning as they hold!

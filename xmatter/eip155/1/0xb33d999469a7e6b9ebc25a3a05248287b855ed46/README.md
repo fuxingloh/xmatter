@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/flock/"
 name: Flockerz
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#92caea"
 ---
 
 The future of decentralization has arrived. In the chaotic PVP world of meme coins, where every key decision is made by a single leader, FLOCKERZ empowers its community—known as 'The Flock'—to guide the project to the promised land

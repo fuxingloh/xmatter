@@ -17,6 +17,11 @@ links:
   - name: telegram
     url: "https://t.me/galaxyheroescoin"
 name: Galaxy Heroes
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#8dd7eb"
 ---
 
 This is not your regular Binance Smart Chain Token. Here we build for the longterm and always based on utility development. GHC is your gateway to a decentralized galaxy where holders can take leadership of their finances and earn sparkly rewards.

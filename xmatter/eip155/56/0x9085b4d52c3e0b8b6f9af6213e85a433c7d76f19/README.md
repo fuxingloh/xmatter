@@ -19,6 +19,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/owldao/"
 name: OwlDAO Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f3e0bf"
 ---
 
 OwlDAO is the Top 1 iGaming Solution Provider for Web 3.0. Owl.games is OwlDAO's signature casino. Supporting ETH, BSC, Matic, FTM, Solana, Near, Aptos, etc. Play with Metamask, WalletConnect directly!

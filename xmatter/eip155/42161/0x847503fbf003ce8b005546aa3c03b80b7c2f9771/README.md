@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/Byte_ERC20"
 name: Byte
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#292822"
 ---
 
 Byte ($BYTE) is a novel ERC meme token that creatively intertwines the worlds of cryptocurrency and popular culture. Inspired by Elon Musk's announcement of naming his dog 'Byte' in reference to his Grok AI project.

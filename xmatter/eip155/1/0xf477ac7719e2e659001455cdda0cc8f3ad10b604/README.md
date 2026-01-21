@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/CryptoAutosOfficial"
 name: CryptoAutos
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fa4405"
 ---
 
 Revolutionizing the car-buying experience, CryptoAutos marketplace empowers car dealers to showcase their vehicles to a global audience while enabling customers to seamlessly purchase cars using digital assets.

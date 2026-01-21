@@ -27,6 +27,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/rabi"
 name: Rabi
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#5bbbba"
 ---
 
 The Rabi project is a DeFi application built on the Binance Smart Chain blockchain. It generates Rabi tokens that are soft-pegged to Bitcoin, gold, oil, the US dollar, and shares of technology companies.

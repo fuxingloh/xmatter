@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/equation/"
 name: Equation
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#151613"
 ---
 
 Equation is a decentralized perpetual protocol built on Arbitrum.

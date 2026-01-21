@@ -22,6 +22,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/pepa-inu"
 name: Pepa Inu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f2aecf"
 ---
 
 The newest and most exciting memecoin! With a community-driven approach and a burning passion for memes, we believe Pepa Inu is the next big thing in the meme market. Join us on this journey to revolutionize the world of memecoins and let's go to the moon together!

@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://quickswap-layer2.medium.com/"
 name: QuickSwap
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1c265a"
 ---
 
 Next-gen Layer 2 DEX. Trade at lightning-fast speeds with near-zero gas fees, Powered by Polygon

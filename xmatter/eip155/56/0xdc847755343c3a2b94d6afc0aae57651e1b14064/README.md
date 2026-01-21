@@ -27,6 +27,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UCZA6agzb8YjBvPj-T8EVijA"
 name: BODA V2
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#24353b"
 ---
 
 BODAV2 rewards holders with up to 19% in BUSD dividend rewards. 6% BUSD from buy orders and 13% BUSD from sell orders.

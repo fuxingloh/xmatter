@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/trumpius-maximus/"
 name: Trumpius Maximus
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#825342"
 ---
 
 Trumpius Maximus is a meme token.

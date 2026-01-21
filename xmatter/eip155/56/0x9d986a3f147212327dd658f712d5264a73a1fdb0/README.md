@@ -13,6 +13,9 @@ links:
   - name: blog
     url: "https://landshare.medium.com"
 name: Landshare Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 Landshare brings tokenized real estate to the Binance Smart Chain.

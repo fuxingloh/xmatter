@@ -7,6 +7,11 @@ links:
   - name: whitepaper
     url: "https://cryptobrl.com/download/Whitepaper_CBRL.pdf"
 name: CryptoBRL
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#246cc4"
 ---
 
 The CryptoBRL (cBRL) is a stablecoin pegged one for one to the Brazilian Real. It's supported and adopted by a consortium with several companies from Brazilian cryptocurrency market.

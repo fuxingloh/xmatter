@@ -26,6 +26,11 @@ links:
     url: >-
       https://bscscan.com/address/0x2456BBAD80BfAD346AecEa45fA38C81a6963132D#code
 name: Meta Ruffy
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#141513"
 ---
 
 Meta Ruffy is an open world in the Metaverse, besides the already playable Metaverse it also offers tons of other Utilities like Mystery Staking, NFTs and many more.!

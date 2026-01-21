@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/+m1r6wQyqhhNkOGY1"
 name: TRUMP2024
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#8d6f60"
 ---
 
 TRUMP 2024 is meme on base

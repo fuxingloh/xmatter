@@ -15,6 +15,11 @@ links:
   - name: medium
     url: "https://medium.com/@mirror-protocol"
 name: mNFLX Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#af040c"
 ---
 
 Wrapped Mirror NFLX Token.

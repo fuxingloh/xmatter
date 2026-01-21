@@ -15,6 +15,11 @@ links:
   - name: medium
     url: "https://hyperjumpbsc.medium.com/"
 name: HyperBurn
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#4bcae5"
 ---
 
 HyperBurn is a deflationary DeFi token with a passive yield mechanism. The HyperJump team is the continuation of THUGS one of the earliest successes on Binance Smart Chain.

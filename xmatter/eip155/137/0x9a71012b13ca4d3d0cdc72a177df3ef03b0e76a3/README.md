@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/balancer/"
 name: Balancer
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Balancer is a n-dimensional automated market-maker that allows anyone to create or add liquidity to customizable pools and earn trading fees. Instead of the traditional constant product AMM model, Balancer’s formula is a generalization that allows any number of tokens in any weights or trading fees.

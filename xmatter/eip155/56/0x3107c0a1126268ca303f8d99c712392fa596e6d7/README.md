@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/gem-exchange-and-trading"
 name: Gem Exchange and Trading
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#6772e2"
 ---
 
 GXT, the pioneer of NFT and Diamond Distribution evolves with no limit.

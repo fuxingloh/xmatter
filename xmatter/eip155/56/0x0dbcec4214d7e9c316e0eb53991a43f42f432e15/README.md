@@ -31,6 +31,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/fxbox-io"
 name: FxBox
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#3c6bdc"
 ---
 
 FxBox.io - Play 2 Earn Financial Games. Investing, Mining NFTs, Trading, Lottery, Market Predictions.

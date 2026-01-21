@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/smardex/"
 name: SmarDex Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#07f8b1"
 ---
 
 SmarDex introduces USDN, a synthetic dollar that is set to replace traditional, centralized synthetic dollars like Ethena, which are becoming obsolete. USDN operates as a fully decentralized, on-chain solution designed to provide stability and reliability in the fast-paced crypto environment.

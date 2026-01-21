@@ -19,6 +19,11 @@ links:
   - name: discord
     url: "https://discord.com/FEpu3xF2Hb"
 name: CZFarm
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#73abc0"
 ---
 
 Defi ecosystem by CZodiac with farms, pools, NFTs, stablecoin borrowing, and the best APR on BSC.

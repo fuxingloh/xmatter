@@ -13,6 +13,11 @@ links:
   - name: blog
     url: "https://blog.kira.network"
 name: KIRA Network
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#8a35d1"
 ---
 
 KIRA is a Layer 1 network enabling market access to any digital asset in the cryptocurrency ecosystem.

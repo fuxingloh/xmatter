@@ -5,6 +5,11 @@ links:
   - name: website
     url: "https://www.mycred.io/"
 name: LibraToken
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#064ed4"
 ---
 
 Libra Credit is a decentralized lending ecosystem that facilitates open access to credit anywhere and anytime based on the Ethereum blockchain. Libra Credit is a global initiative with a mission to provide financial inclusion and lower the cost of financial services.

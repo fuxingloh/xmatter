@@ -13,6 +13,11 @@ links:
   - name: docs
     url: "https://docs.ninebot.io/"
 name: Ninebot
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d53c9f"
 ---
 
 Ninebot is an app to manage automatic trading on Binance. Ninebot also makes your trading transactions run automatically according to the settings in App you provide.

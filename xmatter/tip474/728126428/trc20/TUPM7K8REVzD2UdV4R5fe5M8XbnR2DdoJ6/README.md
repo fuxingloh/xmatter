@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/htx/"
 name: HTX
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - trc20
+icon: icon.png
+color: "#e63538"
 ---
 
 HTX is the governance token of HTX DAO, a decentralized autonomous organization relying on the collective autonomy of HTX token holders. HTX holders possess the right to vote on proposals and can freely delegate and exercise their voting rights in the decision-making process.

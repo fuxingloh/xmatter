@@ -15,6 +15,11 @@ links:
   - name: facebook
     url: "https://facebook.com/mcontentofficial/"
 name: MContent
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dab313"
 ---
 
 MContent is introducing the world’s first digital content market place that aims to build a collaborative content ecosystem with the core purpose of seed funding, incubating and curating film makers and content producers around the World.

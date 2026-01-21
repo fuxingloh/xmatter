@@ -19,6 +19,11 @@ links:
   - name: youtube
     url: "https://youtube.com/HertzNetwork"
 name: Hertz Network BEP-20 Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0454ac"
 ---
 
 HTZ BEP-20 is the Hertz Network bep-20 token created on Binance Smart Chain. HTZ BEP-20 can be swapped with native HTZ using Hertz Network DeFi tool or exchanges.HTZ coin is the native chain of Hertz Network blockchain.

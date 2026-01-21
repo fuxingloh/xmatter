@@ -23,6 +23,11 @@ links:
   - name: github
     url: "https://github.com/TabooOFFICIAL/TABOO"
 name: Taboo
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ccb197"
 ---
 
 Taboo is an adult NFT & Streaming media project. Specializing in highly, exclusive content. With models, who are not strictly porn stars. Their marketplace is cutting-edge, built by the Enjin Coin Marketplace Developers. Features include Cross-Chain, DeFi protocols, upcoming VR, and a fiat on-ramp, to allow users unfamiliar with crypto, easy access to the platform's features.

@@ -5,6 +5,11 @@ links:
   - name: website
     url: "https://lever.network/"
 name: Lever Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#b363c4"
 ---
 
 Lever is the world's first AMM-based decentralized margin trading protocol. Lever allows users to lend, borrow and carry out leveraged trading without needing to transfer assets to other third-party platforms. Lever aims to significantly increase capital efficiency in DeFi.

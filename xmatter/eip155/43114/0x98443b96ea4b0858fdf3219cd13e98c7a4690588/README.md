@@ -13,6 +13,11 @@ links:
   - name: x
     url: "https://x.com/@attentiontoken"
 name: Basic Attention Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fc5404"
 ---
 
 The Avalanche Bridge Wrapped BAT. The Basic Attention Token is the new token for the digital advertising industry.

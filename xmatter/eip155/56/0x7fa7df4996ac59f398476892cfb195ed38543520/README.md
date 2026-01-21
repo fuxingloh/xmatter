@@ -11,6 +11,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/wagyuswap"
 name: Wagyuswap.org
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#cc454e"
 ---
 
 Wag is the native currency of Wagyuswap DEX

@@ -20,6 +20,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/celsius-degree-token/"
 name: Celsius
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#4354a4"
 ---
 
 The Celsius Network will be the next generation of lending and borrowing for the cryptocurrency community.

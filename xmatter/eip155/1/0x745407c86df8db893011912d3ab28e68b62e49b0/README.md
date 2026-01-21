@@ -15,6 +15,11 @@ links:
   - name: medium
     url: "https://medium.com/mahadao"
 name: MahaDAO
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ea4243"
 ---
 
 MahaDAO introduces the world's first valuecoin ARTH, a new kind of currency that remains stable short term, but appreciates long-term

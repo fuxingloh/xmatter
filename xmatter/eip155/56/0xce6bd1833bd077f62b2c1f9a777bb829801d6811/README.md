@@ -25,6 +25,11 @@ links:
   - name: whitepaper
     url: "https://bob.eco/Bob_eco_Whitepaper.pdf"
 name: Bobcoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#17140e"
 ---
 
 Bobcoin is a social asset-backed crypto—a cryptographically secured representation of the rights of a Bobcoin holder to receive a benefit from their tokens. As every Bobcoin is linked to an electric vehicle managed by Bob Eco, the tokens are always backed by the value of the asset they represent.

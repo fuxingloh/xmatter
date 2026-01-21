@@ -17,6 +17,11 @@ links:
   - name: medium
     url: "https://medium.com/@dexIRA"
 name: dexIRA
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e6e7e8"
 ---
 
 dexIRA provides fully automated BNB redistribution, multi-currency dividend rewards, advanced buyback protocols, and tokenomics that promote longterm holding

@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/openai-erc"
 name: OpenAI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0e0e0e"
 ---
 
 FXGT.com is a registered brand and trademark that is authorized to operate by various companies in accordance with the law and procurement of licenses in their respective countries

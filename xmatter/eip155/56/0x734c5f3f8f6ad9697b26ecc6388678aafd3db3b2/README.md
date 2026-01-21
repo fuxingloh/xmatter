@@ -15,6 +15,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/musk-metaverse/"
 name: METAMUSK Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ff147a"
 ---
 
 MetaMusk Token's fundamental objective is to transform the monetary system.

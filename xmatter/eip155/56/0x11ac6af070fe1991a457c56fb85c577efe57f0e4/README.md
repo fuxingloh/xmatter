@@ -15,6 +15,11 @@ links:
   - name: x
     url: "https://x.com/Dking_united99"
 name: DragonKing
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#122e30"
 ---
 
 Dragonking is lords over the sea, also a symbol of good fortune and strength. Dragonking is 100% community driven token. Dragonking community is the strongest community you'll find, supportive of one another, and pushing each other towards success. We rewards Dragonking holder who more than 15 billion with USDT based on on-chain transaction.

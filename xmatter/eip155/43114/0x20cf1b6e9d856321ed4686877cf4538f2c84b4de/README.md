@@ -27,6 +27,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/ankr-network"
 name: Ankr Network
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2474eb"
 ---
 
 Ankr is building an infrastructure platform and marketplace for Web3-stack deployment.

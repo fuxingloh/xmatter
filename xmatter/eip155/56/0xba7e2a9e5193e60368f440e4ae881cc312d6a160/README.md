@@ -18,6 +18,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/minions-inu/"
 name: Minions INU
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e8c664"
 ---
 
 MinionsINU is designed to create a complex ecosystem in which DeFi and Metaverse are integrated together.

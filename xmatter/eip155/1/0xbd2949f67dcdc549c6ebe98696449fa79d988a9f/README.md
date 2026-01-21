@@ -17,6 +17,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/Meter_io/"
 name: Meter Governance mapped by Meter.io
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1c2c5c"
 ---
 
 eMTRG is the ERC-20 equivalent of MTRG, the governance coin of the Meter network.

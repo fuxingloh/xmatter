@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/moontax"
 name: Moontax
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#242423"
 ---
 
 $CPAI is your key to unlock a complete crypto tax accounting network. The first AI based crypto accounting tool, supported by human reconciliation and legal services for when you need something extra.

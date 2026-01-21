@@ -18,6 +18,11 @@ links:
   - name: whitepaper
     url: "https://content.travelcare.io/whitepaper/whitepaperENG.pdf"
 name: TravelCare
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#6496d9"
 ---
 
 TRAVEL is the reward token of the Travel Care platform.

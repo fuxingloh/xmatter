@@ -13,6 +13,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/zzzKhejARz"
 name: OpenDAO
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#7d9eda"
 ---
 
 $SOS is grateful to all NFT creators, collectors and markets for nurturing the entire NFT ecosystem.

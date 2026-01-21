@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/basic-attention-token/"
 name: Basic Attention Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fc5404"
 ---
 
 Basic Attention Token (BAT) project is an open-source, decentralized ad exchange platform built, on the Ethereum platform.

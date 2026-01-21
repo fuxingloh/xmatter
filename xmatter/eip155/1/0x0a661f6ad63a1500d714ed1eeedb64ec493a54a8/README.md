@@ -21,6 +21,11 @@ links:
   - name: whitepaper
     url: "https://futures.zedxion.io/en_US/cms/WHITE%20PAPER"
 name: Zedxion
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1d7260"
 ---
 
 Zedxion offers a comprehensive solution to the major problems faced by the traditional, fiat-driven monetary system. Building a crypto-powered ecosystem comprising Zedxion.

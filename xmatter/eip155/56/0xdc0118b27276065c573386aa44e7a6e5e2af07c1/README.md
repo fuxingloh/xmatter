@@ -19,6 +19,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/deepmaze-finance/"
 name: DeepMaze
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040505"
 ---
 
 DEEPMAZE is a crowding pool backed auto liquidity Defi token built on Binance Smart Chain. It solves the liquidity, value, and discretion trilemma that is a problem in the current ecosystem.

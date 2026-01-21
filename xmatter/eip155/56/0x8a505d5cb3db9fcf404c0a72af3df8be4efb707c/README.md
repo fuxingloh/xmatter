@@ -12,6 +12,11 @@ links:
   - name: facebook
     url: "https://facebook.com/profile.php?id=100080916680027"
 name: ENERGY COIN
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#651872"
 ---
 
 The Energy Web Decentralized Operating System Open-Source Technology. ENG Multi-Blockchain can make it possible to track low-carbon energy and certificates from their origin through every stage and transaction.

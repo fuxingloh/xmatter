@@ -33,6 +33,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/puli-inu"
 name: Puli
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#744f9a"
 ---
 
 Puli (PULI) delivers simple yet very addicting P2E games supported by a novel NFT system. The first game, Puli Runner, was successfully launched on 31 January 2022. The team has also acquired a gaming studio for the development of Play-to-Earn games, which includes support for Android and IOS. The purpose and key features of the token include a 10% Buy and 10% Sell tax that are used to fund aggressive marketing, development and stable liquidity. In addition, the asset can be staked for added earnings with instructions available at their website.

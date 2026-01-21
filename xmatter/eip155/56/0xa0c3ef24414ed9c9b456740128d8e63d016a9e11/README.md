@@ -25,6 +25,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/apeswap-finance"
 name: Ape Swap LP BNB-ETH
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#946455"
 ---
 
 ApeSwap is an Automated Market Maker, Yield Farming, and Staking platform on Binance Smart Chain. ApeSwap was built by DeFi Apes, for DeFi Apes. We have a dedicated team of experienced monkeys, who have been in the crypto space for years.

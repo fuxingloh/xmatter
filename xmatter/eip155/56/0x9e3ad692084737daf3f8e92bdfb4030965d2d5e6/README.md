@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/metaplay"
 name: MetaPlay
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 MetaPlay project hosts professional and amateur e-sport tournaments especially for trendy games like CSGO and others. This all with a sizeable prize pool funded by all the transactions made whilst offering staking and launchpad for its holders focused on heavily vetted projects and GameFi niche.

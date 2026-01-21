@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/nailong_sol"
 name: Nailong
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#efce26"
 ---
 
 I apply to join your life.

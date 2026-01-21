@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/staked-usdt/"
 name: Staked USDT
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - trc20
+icon: icon.png
+color: "#0a211d"
 ---
 
 stUSDT is the first RWA platform on the TRON Network. Shape, expand, and share the future of real-world assets tokenization on TRON.

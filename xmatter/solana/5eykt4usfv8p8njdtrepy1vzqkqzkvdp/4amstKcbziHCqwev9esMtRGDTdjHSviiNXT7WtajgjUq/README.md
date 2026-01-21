@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/hachikoportaI"
 name: Hachiko
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#eec175"
 ---
 
 Hachiko is one of the most famous & legendary dog in the world from Japan

@@ -17,6 +17,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UCrYDr-2HjWwtGG0meSxzNsA"
 name: Game Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dfb45d"
 ---
 
 Game Coin aims to allow any athlete in the world the ability to create their own sports token.

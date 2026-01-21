@@ -19,6 +19,11 @@ links:
   - name: x
     url: "https://x.com/kokoswap"
 name: Kokoswap Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e6dcd1"
 ---
 
 Kokoswap is a unique decentralised platform that is transforming the world of crypto, NFTs & Game-Fi.

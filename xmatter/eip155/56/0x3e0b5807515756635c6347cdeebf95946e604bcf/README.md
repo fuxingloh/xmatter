@@ -13,6 +13,11 @@ links:
   - name: github
     url: "https://github.com/FacebookMetaverse"
 name: Facebook Metaverse
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1d58aa"
 ---
 
 Facebook Metaverse is a project that's inspired by Mark Zuckerberg

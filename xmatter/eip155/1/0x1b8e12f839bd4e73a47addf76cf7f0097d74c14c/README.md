@@ -15,6 +15,11 @@ links:
   - name: medium
     url: "https://medium.com/@valuedefi"
 name: Value USD
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#4b54e6"
 ---
 
 Value DeFi: Bringing True Value to DeFi.

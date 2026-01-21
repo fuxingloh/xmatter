@@ -16,6 +16,11 @@ links:
   - name: blog
     url: "https://blog.ftx.com/"
 name: Wrapped FTX
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#6ed2e1"
 ---
 
 FTX’s leveraged tokens aim to provide a clean, automated way for users to get leverage. FTT is the FTX ecosystem utility token.

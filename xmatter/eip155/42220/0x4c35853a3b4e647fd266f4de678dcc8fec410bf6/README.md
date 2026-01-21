@@ -17,6 +17,11 @@ links:
   - name: blog
     url: "https://www.mento.org/blog"
 name: Mento South African Rand
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#540ec3"
 ---
 
 Mento South African Rand (ZARm) is a decentralized stablecoin pegged to the South African Rand on the Celo blockchain.

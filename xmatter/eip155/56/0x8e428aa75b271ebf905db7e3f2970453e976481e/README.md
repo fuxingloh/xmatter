@@ -26,6 +26,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/pi%C3%A8ces/next-token"
 name: Next Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1d252a"
 ---
 
 Connect companies to influencers.

@@ -13,6 +13,11 @@ links:
   - name: telegram
     url: "https://t.me/ForTubeFi"
 name: The Force Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#04dccc"
 ---
 
 FOR is the ecological token of ForTube. ForTube transfers the power of community autonomy to FOR holders as much as possible through FOR to promote the realization of decentralized governance.

@@ -19,6 +19,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/binance-peg-firo/"
 name: Binance-Peg Firo Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#9c1b2b"
 ---
 
 Firo, a decentralized and open source currency that provides financial privacy enabled by the Lelantus protocol. Proven cryptography and auditability.

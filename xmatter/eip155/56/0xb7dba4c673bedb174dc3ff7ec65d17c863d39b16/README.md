@@ -20,6 +20,11 @@ links:
   - name: discord
     url: "https://discord.com/vVHgkbY5"
 name: FatCake
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#232323"
 ---
 
 Fat Cake Token is your investment position into F.A.T.E. (Financial Assets & Tokenized Ecosystem). Holders of the token become investors into the business and earn dividends from the profits of the ecosystem. Gaming, Social Media, Payment Processing, OmniDex, Launchpad, and much more.

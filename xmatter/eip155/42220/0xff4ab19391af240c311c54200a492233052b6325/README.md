@@ -17,6 +17,11 @@ links:
   - name: blog
     url: "https://www.mento.org/blog"
 name: Mento Canadian Dollar
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f0d9e8"
 ---
 
 Mento Canadian Dollar (CADm) is a decentralized stablecoin pegged to the Canadian Dollar on the Celo blockchain.

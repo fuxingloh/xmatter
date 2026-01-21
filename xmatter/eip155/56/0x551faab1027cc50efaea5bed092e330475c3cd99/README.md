@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/monbasecoin"
 name: MonbaseCoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#043cfc"
 ---
 
 Monbase is a digital asset exchange offering hundreds of cryptocurrencies for buying, selling, and trading. Users can register, complete KYC, deposit funds, and manage their investments using an exchange wallet. Live market data is also provided for market analysis.

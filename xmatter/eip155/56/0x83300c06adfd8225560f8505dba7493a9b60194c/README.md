@@ -15,6 +15,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UCYDhnjyL-Tbrt8sFzIxnU1Q"
 name: NDT METAVERSE
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d3747a"
 ---
 
 NDT METAVERSE is a far-reaching technology that has brought breakthrough ideas into life. This token is a revolutionary product, as it is one of the latest developments in the crypto space that utilities state-of-the-art technologies.

@@ -16,6 +16,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/leslarverse/"
 name: LESLARVERSE
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f6d96d"
 ---
 
 LESLAR Metaverse aims to empower people to the future and create an ecosystem for people to connect, trade, learn, and play the immersive world of Web 3.0 with rewards.

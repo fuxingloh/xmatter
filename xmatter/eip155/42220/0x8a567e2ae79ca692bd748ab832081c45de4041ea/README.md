@@ -17,6 +17,11 @@ links:
   - name: blog
     url: "https://www.mento.org/blog"
 name: Mento Colombian Peso
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f78309"
 ---
 
 Mento Colombian Peso (COPm) is a decentralized stablecoin pegged to the Colombian Peso on the Celo blockchain.

@@ -16,6 +16,11 @@ links:
   - name: telegram
     url: "https://t.me/FireworkGames_group"
 name: Firework Games
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#df4210"
 ---
 
 Fireworks Games is a pioneer of open and inclusive diversified game world.In the blockchain game industry, we want to build a decentralized virtual reality game ecosystem, and promote the construction of GameFi.

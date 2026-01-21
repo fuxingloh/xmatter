@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/cryptoblades-kingdoms"
 name: CryptoBlades KING Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#3a3427"
 ---
 
 Cryptoblades Kingdoms is a play to earn game built on the Binance Smart Chain blockchain platform. Players will be able to put their character to a battle arena to earn KING tokens.

@@ -15,6 +15,11 @@ links:
   - name: telegram
     url: "https://t.me/coin_of_nature"
 name: Coin of Nature
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#3bb44c"
 ---
 
 The major aim of the project is not only to promote sports and a healthy lifestyle but also to develop a sustainable ecosystem based on innovative solutions.

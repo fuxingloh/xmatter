@@ -17,6 +17,11 @@ links:
   - name: medium
     url: "https://depay.medium.com"
 name: DePay
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f6f5f4"
 ---
 
 DePay is a simple, decentralized payment protocol that simplifies crypto payments.

@@ -15,6 +15,11 @@ links:
   - name: medium
     url: "https://medium.com/@mirror-protocol"
 name: mAMZN Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Wrapped Mirror AMZN Token.

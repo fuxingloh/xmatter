@@ -14,6 +14,11 @@ links:
     url: >-
       https://bscscan.com/address/0x2a5eB92f6a410AC0BB38D92C13DA934bD68EF24E#code
 name: Tiny Titans V3
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 World of Tiny Titans. Tiny Titans — collectable & tradeable NFTs on BSC which you can train, level and earn for play.

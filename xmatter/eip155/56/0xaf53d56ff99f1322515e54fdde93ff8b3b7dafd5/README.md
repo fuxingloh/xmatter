@@ -27,6 +27,11 @@ links:
   - name: github
     url: "https://github.com/prom-io"
 name: Prom
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ea8082"
 ---
 
 Prom is a gaming NFT marketplace & rental. Completely decentralized, confidential, and safe, it meets the needs of players, metaverse-enthusiasts, NFT owners, guilds, and games.

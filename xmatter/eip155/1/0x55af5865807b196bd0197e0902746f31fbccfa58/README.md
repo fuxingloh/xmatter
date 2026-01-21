@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/spookyswap/"
 name: Spooky
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#3c2148"
 ---
 
 SpookySwap is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network.

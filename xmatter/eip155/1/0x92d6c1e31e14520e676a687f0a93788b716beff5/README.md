@@ -11,6 +11,11 @@ links:
   - name: github
     url: "https://github.com/dydxfoundation"
 name: dYdX
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#333349"
 ---
 
 Trade & stake to earn rewards. Vote on the future of your exchange. Take control of the most powerful decentralized derivatives protocol.

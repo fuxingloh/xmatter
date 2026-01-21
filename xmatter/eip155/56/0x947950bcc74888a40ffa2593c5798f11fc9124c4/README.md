@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/sushiswap/"
 name: Sushi
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0f172f"
 ---
 
 SushiSwap claims to be an evolution of #Uniswap with $SUSHI tokenomics.

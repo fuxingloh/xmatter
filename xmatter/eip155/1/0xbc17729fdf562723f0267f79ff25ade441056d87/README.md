@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/KSM_starter"
 name: KSM Starter Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e6007a"
 ---
 
 KSM Starter is the primary launchpad on Kusama that supports upcoming projects that wish to build on the Kusama network and the greater Substrate ecosystem.

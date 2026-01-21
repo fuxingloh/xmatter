@@ -17,6 +17,11 @@ links:
   - name: github
     url: "https://github.com/marsecosystem"
 name: Mars Ecosystem Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f36c15"
 ---
 
 Builds the central bank and reserve currency for DeFi.

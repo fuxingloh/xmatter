@@ -9,6 +9,11 @@ links:
   - name: facebook
     url: "https://facebook.com/atoshifoundation/"
 name: ATOS
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fc8113"
 ---
 
 ATOSHI is a cryptocurrency created for diverse usage between countries, a new cryptocurrency for ordinary people, which you can “mine” by your phone. ATOS may be the best option to store value, increase value and ease the life for the people of the world.

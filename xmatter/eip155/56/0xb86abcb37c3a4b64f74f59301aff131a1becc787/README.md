@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/zilliqa/"
 name: Zilliqa
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Zilliqa (ZIL) is a public blockchain built on a sharded architecture. It has solved blockchain scalability and speed by implementing sharding.

@@ -9,6 +9,9 @@ links:
   - name: telegram
     url: "https://t.me/TeraBlock"
 name: TeraBlock Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 Machine Learning driven, personalised cryptocurrency trade automation to help you easily manage your assets.

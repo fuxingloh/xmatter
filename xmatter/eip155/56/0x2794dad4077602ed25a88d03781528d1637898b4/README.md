@@ -11,6 +11,11 @@ links:
   - name: medium
     url: "https://medium.com/vitelabs"
 name: VITE Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#007aff"
 ---
 
 VITE(Vite) is a lightning-fast blockchain where transactions incur zero fees.

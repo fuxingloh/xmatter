@@ -23,6 +23,11 @@ links:
   - name: whitepaper
     url: "https://docsend.com/view/nnea7um4434u49uh"
 name: PlotX
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#04142c"
 ---
 
 PlotX is a non-custodial prediction market protocol that enables users to earn rewards on high-yield prediction markets. Dubbed as the Uniswap of Prediction Markets, PlotX uses an Automated Market Making algorithm to settle markets and distribute rewards on the Ethereum Blockchain without any counterparty risk. Markets are focused on crypto-pairs like BTC-USD & ETH-USD and created in intervals of 4h, 1d and 1w.

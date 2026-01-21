@@ -13,6 +13,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UCUvxcGE0XCWVPmflZiUXK-g"
 name: WallStreetBets DApp
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1a1543"
 ---
 
 WSBDApp gives users access to stocks, staking and crypto portfolios.

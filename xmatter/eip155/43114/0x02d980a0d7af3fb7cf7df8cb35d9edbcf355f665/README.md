@@ -13,6 +13,11 @@ links:
   - name: telegram
     url: "https://t.me/shibainuthedogecoinkiller"
 name: SHIBA INU
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#efa23b"
 ---
 
 The Avalanche Bridge Wrapped SHIBA INU. SHIBA INU is a 100% decentralized community experiment with it claims that 1/2 the tokens have been sent to Vitalik and the other half were locked to a Uniswap pool and the keys burned.

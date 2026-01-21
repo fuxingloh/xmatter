@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/thedeepworm_"
 name: Deep Worm
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#e9c3ba"
 ---
 
 Deep Worm 𝕏 has moved to @deepwormxyz

@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/ratscoin"
 name: Ratscoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#de887f"
 ---
 
 RatsCoin is now completely owned and run by its amazing community.

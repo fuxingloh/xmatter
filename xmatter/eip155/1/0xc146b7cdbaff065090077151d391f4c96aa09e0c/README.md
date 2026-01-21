@@ -21,6 +21,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/4GwbcQNa7P"
 name: Multi-Chain Capital
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#131a1b"
 ---
 
 You buy $MCC on Ethereum and Binance Smart Chain, we farm on multiple chains and return the profits to holders.

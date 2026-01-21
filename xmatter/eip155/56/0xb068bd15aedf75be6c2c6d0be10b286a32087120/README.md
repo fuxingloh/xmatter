@@ -21,6 +21,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UCYiyO8VMCZvakrMCqkOpyDw"
 name: Tokenoid
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#12f4b2"
 ---
 
 TokeNoid is developing games using the blockchain technology for their transactions. More game, More utility for NOID.

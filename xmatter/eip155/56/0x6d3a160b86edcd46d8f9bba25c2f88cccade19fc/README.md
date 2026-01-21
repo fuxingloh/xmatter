@@ -21,6 +21,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/qatar-2022-token/"
 name: Football World Community
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#edc836"
 ---
 
 FWC is a BEP-20 token designed for buying tickets to the World Cup, booking hotels, using various related services, placing bets, and participating in lotteries.

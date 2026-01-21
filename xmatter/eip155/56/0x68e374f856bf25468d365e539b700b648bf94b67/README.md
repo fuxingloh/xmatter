@@ -11,6 +11,11 @@ links:
   - name: x
     url: "https://x.com/MistNft"
 name: Mist
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#785820"
 ---
 
 Mist Token is the native in-game currency of Mist developed to incorporate NFTs with in-game functions for MMO audience.

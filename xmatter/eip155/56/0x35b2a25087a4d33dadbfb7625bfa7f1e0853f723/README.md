@@ -15,6 +15,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/AnnexFinance/"
 name: Annex USDT
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0c213d"
 ---
 
 Money Markets. A Decentralized Marketplace for Lenders and Borrowers

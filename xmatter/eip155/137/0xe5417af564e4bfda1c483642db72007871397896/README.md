@@ -25,6 +25,11 @@ links:
   - name: x
     url: "https://x.com/GainsNetwork_io"
 name: Gains Network
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#3ad4b4"
 ---
 
 Gains Network is developing the next-gen decentralized leveraged trading platform - gTrade.

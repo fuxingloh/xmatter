@@ -31,6 +31,11 @@ links:
   - name: source_code
     url: "https://github.com/rewardsbunny/RewardsBunny/tree/main"
 name: Rewards Bunny
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d1bbdc"
 ---
 
 Rewards Bunny ($RBunny) is a cashback platform where we reward users for their online shopping in Crypto or USD. Start saving now with deals and discounts from top participating brands like AliExpress, Agoda, ASOS, Booking.com, Bose, Klook, Viator, and etc.

@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://medium.com/bosagora"
 name: BOSAGORA
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#004f9e"
 ---
 
 Contribute to making a better world with blockchain technology as a project enabler.

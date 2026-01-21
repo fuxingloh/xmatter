@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/andyonbsctoken"
 name: Andy
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fad124"
 ---
 
 $ANDY, PEPE's best friend and the yellow mascot of the yellow chain, BSC.

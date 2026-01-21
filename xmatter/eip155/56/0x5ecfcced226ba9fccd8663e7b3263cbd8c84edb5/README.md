@@ -21,6 +21,11 @@ links:
   - name: medium
     url: "https://medium.com/@Xtremcoin"
 name: Xtremcoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#6633ff"
 ---
 
 Wearable technologies are rapidly taking their place in our lives all over the world. Xtremcoin brings you a brand new technology in the world of crypto money.

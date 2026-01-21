@@ -13,6 +13,9 @@ links:
   - name: medium
     url: "https://rs25moonshot.medium.com/"
 name: Moonshot
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 Moonshot is a deflationary, frictionless yield and liquidity generation protocol.

@@ -21,6 +21,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/xeta-reality"
 name: Xeta Reality
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#86147e"
 ---
 
 Xeta is a Serverless Layer-1 Blockchain Ecosystem for Metaverse, Gaming, and NFT Applications.

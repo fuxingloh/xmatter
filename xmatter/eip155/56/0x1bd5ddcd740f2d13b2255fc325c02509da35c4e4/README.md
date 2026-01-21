@@ -19,6 +19,11 @@ links:
   - name: telegram
     url: "https://t.me/BabyCatcoinChat"
 name: Baby Catcoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#716e81"
 ---
 
 Introducing Baby CatCoin, featuring an ever increasing price floor and simple yet effective rewarding system giving ALL holders a massive 3% BUSD rewards. Utility, Nfts, Dapp.

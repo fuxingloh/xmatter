@@ -17,6 +17,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UCcMavJs-DvX_bqf9G6b70Gg"
 name: Silva Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#777677"
 ---
 
 SILVA Token is a multi-functional platform which allows each participant to keep money in a multi-currency online wallet, buy and sell currency on the exchange, invest money, get a huge benefit in a convenient currency.

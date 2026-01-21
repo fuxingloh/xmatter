@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/levelup-gaming"
 name: LevelUp Gaming
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#050e06"
 ---
 
 LevelUP your one stop P2E Blockchain Gaming Platform built for both players and game developers.

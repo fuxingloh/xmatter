@@ -20,6 +20,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/grove"
 name: Grove
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 Our mission is to create wealth, for all Grovers, by harnessing the opportunities of a secure, decentralized digital currency in an environmentally conscious way. By compensating nature for years of abuse, Grove will create a healthier, wealthier future for all.

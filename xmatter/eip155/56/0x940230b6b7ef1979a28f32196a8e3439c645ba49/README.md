@@ -17,6 +17,11 @@ links:
   - name: medium
     url: "https://shibarmybsc.medium.com/"
 name: Shib Army
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#6b6f4c"
 ---
 
 SHIBARMY is a trendy project that pays you a huge chunk of SHIBA INU as dividend for holding. SHIBARMY is here to follow SHIBA INU’s footsteps.

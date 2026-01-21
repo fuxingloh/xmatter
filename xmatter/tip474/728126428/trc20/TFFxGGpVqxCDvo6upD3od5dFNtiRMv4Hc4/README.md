@@ -15,6 +15,11 @@ links:
   - name: whitepaper
     url: "https://remitt.ai"
 name: Remitt USD
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - trc20
+icon: icon.png
+color: "#2c8c9c"
 ---
 
 Remitt USD stable coin

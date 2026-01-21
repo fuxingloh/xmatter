@@ -9,6 +9,11 @@ links:
   - name: telegram_news
     url: "https://t.me/LifeTokenAnnouncements"
 name: Life Token v2
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0665d5"
 ---
 
 Life Token v2 is a charity orientated token on the Binance Smart Chain aiming to aid suicide prevention charities all over the world, to help save lives.

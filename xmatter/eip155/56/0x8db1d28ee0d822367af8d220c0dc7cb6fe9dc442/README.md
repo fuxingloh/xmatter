@@ -11,6 +11,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/ethpad"
 name: ETHPAD.network
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#a4b4f4"
 ---
 
 ETHPad is a launchpad token

@@ -23,6 +23,11 @@ links:
   - name: medium
     url: "https://medium.com/@grok_grok"
 name: Grok
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Grok and GPT-4 belong to a class of AI models known as Large Language Models. GROK improves model alignment - the ability to follow user intentions while also making it more truthful and generating less offensive or dangerous output.

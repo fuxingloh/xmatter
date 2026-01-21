@@ -23,6 +23,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/9DyPCHsk"
 name: DRAC Network (DRAC)
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#840404"
 ---
 
 Decentralized Rewarding Autonomous Chain.

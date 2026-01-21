@@ -7,6 +7,11 @@ links:
   - name: x
     url: "https://x.com/palulu_cto"
 name: Palu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f1f0ed"
 ---
 
 Meme king Palulu. $Palu also become Binance’s new mascot.

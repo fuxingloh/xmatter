@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/chaingpt/"
 name: ChainGPT
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0d0d0d"
 ---
 
 ChainGPT is an advanced AI model designed specifically for Blockchain, Crypto, and the Web3 space. ChainGPT offers variety of features such as no-code smart contract generator, auditor, fast and reliable source of information, AI trading, and more. ChainGPT is backed by the CGPT utility token.

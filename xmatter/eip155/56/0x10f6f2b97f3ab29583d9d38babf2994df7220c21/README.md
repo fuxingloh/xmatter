@@ -29,6 +29,9 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UCcD7AsRqhU92IfqTh4SY0kQ"
 name: Teddy Doge
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 TEDDY is the DEFI ecological token of Teddy Doge with Swap & Cross bridge& Wallet.

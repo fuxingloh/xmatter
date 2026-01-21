@@ -16,6 +16,11 @@ links:
     url: >-
       https://www.tokoin.io/whitepaper/Tokoin-Whitepaper.pdf?id=ebfd311b2b26bf1a6201
 name: TOKO
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#6f679e"
 ---
 
 Tokoin's mission is to facilitate trustworthy data exchange in a specified platform so that SMEs will be able to meet their needs for financing and business services without intermediaries.

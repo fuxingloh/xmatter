@@ -15,6 +15,11 @@ links:
   - name: whitepaper
     url: "https://dsw3rxqm9wq1x.cloudfront.net/book/FSV-White-Paper.pdf"
 name: FileSystemVideo
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#4680b8"
 ---
 
 FSV is the world's first interstellar video public chain based on ipfs application, focusing on distributed storage of video files.

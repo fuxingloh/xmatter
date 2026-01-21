@@ -17,6 +17,11 @@ links:
   - name: discord
     url: "https://discord.com/BananaTFA"
 name: Banana Task Force Ape
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e9af88"
 ---
 
 BTFA is a collection of 10,000 Task Force Apes with over 150 unique traits. What makes BTFA special is that NFT holders have a shared stake in our company and revenue generated from Blip Studios!

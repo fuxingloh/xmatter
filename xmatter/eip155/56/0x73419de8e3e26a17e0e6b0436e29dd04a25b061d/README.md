@@ -19,6 +19,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/miku"
 name: MIKU
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#4e8ecd"
 ---
 
 Miku is token built on binance smart chain with unique product and tokenomics, a unique original character created as a brand, a girl from heaven with blue hair and the power of wings, the goddess of trust and loyalty.

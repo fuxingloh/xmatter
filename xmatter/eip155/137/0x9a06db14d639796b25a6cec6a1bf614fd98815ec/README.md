@@ -34,6 +34,11 @@ links:
   - name: whitepaper
     url: "https://pantherprotocol.io/resources/panther-protocol-v-1-0-1.pdf"
 name: $ZKP Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#a1a2b0"
 ---
 
 Panther Protocol Token on Polygon

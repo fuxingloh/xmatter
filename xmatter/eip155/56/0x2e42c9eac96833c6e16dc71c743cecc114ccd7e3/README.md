@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/MetaCash"
 name: MetaCash
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#4cc64c"
 ---
 
 The metacash project is referred to the world of the metaverse and virtual reality, through creating a large community of more than 3000 members.

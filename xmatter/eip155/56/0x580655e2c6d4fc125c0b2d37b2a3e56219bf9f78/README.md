@@ -13,6 +13,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UCojYADZqVqM-rUwWNcqrBxg"
 name: Gallant
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#976922"
 ---
 
 Gallant is a utility token developed for Blockchain Gaming.

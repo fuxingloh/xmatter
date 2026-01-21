@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://medium.com/coreto"
 name: Coreto
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#045dcb"
 ---
 
 A reputation based, tokenized social platform orientated towards the crypto communities needs, educating retail investors about blockchain based projects.

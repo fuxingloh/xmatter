@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/DOGE_COIN20"
 name: DOGE20
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e3af53"
 ---
 
 Utilising smart contracts powered by Ethereum, DOGE20 is much more than a meme coin and brings passive earning potential to the community.

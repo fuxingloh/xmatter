@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/0x/"
 name: ZRX
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1c1c1c"
 ---
 
 0x is an open, permissionless protocol allowing for tokens to be traded on the Ethereum blockchain.

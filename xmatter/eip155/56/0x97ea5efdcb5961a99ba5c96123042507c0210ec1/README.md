@@ -24,6 +24,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/flokinomics/"
 name: Flokinomics
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e19e3b"
 ---
 
 Flokinomics is the first ever token on the BSC smartchain to combine rebase tokenomics with Doge rewards. Hold $FLOKIN and receive $DOGE directly to your BEP-20 wallet as a reward for holding

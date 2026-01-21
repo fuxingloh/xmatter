@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/bitget-wallet-token"
 name: Bitget Wallet Token (Wormhole)
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#060607"
 ---
 
 As the foundational asset of the decentralized Bitget Wallet ecosystem, BWB empowers holders with exclusive benefits, including governance rights within our communities and eligibility for future rewards.

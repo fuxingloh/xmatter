@@ -25,6 +25,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/legion-network"
 name: Legion Network
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2c45b4"
 ---
 
 The best of blockchain in one super app.

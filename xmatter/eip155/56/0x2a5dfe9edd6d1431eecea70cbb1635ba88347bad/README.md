@@ -19,6 +19,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/frzswap/"
 name: FRZ Swapping
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e8cd77"
 ---
 
 FRZW is native token of FRZSwap which is a decentralized exchange (DEX) and belongs to FRZSS ecosystem

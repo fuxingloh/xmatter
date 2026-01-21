@@ -17,6 +17,11 @@ links:
   - name: whitepaper
     url: "https://defi.com.vn/document/DFY-White-Paper.pdf"
 name: DeFi For You.
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#352504"
 ---
 
 DEFI For You. Is a listing where by users can make pawn loans online to a worldwide market. We are basically letting you run your own online finance company with rates of your choosing. If you ever dreamed of owning your own bank well now you can. DEFi For You aims to clean up the Pawn industry using DFY smart contracts. At last Cryptocurrency has come if age. This is a world first and the market is limitless.

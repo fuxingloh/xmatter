@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/ancient8/"
 name: Ancient8
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0a0c06"
 ---
 
 Ancient8 builds Ethereum L2 for Gaming on OP Stack with Celestia Underneath, offering a suite of Web3 gaming infrastructure tools that serve as the distribution and marketing channel for games globally.

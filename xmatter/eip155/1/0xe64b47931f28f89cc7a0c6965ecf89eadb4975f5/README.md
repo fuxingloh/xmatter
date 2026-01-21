@@ -5,6 +5,11 @@ links:
   - name: website
     url: "http://ludos.one/"
 name: Ludos Protocol
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#eedcea"
 ---
 
 The Ludos Protocol is a decentralized solution game ecosystem. The protocol is mainly composed of three parts:Main chain + multi-sidechain infrastructure, Toolbox for game developers, DApps, and incentivized game ecosystem.

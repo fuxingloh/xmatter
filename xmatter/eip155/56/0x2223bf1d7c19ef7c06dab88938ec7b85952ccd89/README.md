@@ -33,6 +33,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/kryxivia-game"
 name: Kryxivia
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1f1113"
 ---
 
 The most advanced 3D NFT Metaverse MMORPG On Blockchain | #BNBChain

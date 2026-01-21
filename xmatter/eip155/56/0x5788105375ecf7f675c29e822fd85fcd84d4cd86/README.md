@@ -11,6 +11,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/hodl-2"
 name: HODL 2.0
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#eef2f9"
 ---
 
 HODL is a community driven DeFi project built on Binance Smart Chain. HODL brings the most revolutionary mechanism to BSC ecosystem.

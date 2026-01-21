@@ -19,6 +19,11 @@ links:
   - name: github
     url: "https://github.com/BlueSparrowToken"
 name: BlueSparrow
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#27292c"
 ---
 
 BlueSparrow stands as the premier native token of BlueBit.io Exchange and BlueVinci.io NFT Marketplace. By holding BlueSparrow, users gain access to exclusive trading discounts and lucrative staking opportunities.

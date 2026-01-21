@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/metanet/"
 name: MetaNet
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0c090f"
 ---
 
 MetaNet is a proprietary, hyper deflationary token on the Binance Smart Chain network. MetaNet is a platform in where content creators buy and sell NFTs.

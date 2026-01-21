@@ -15,6 +15,11 @@ links:
   - name: medium
     url: "https://medium.com/@cezo_io"
 name: Cezo OS
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 CEZO is a decentralized OS infrastructure to enable full ecosystem required by complex computations of DApps.

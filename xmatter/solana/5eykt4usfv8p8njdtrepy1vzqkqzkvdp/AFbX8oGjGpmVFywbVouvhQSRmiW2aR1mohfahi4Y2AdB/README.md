@@ -17,6 +17,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/stepn"
 name: Green Satoshi Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#c1c1c1"
 ---
 
 GST serves as the replacement to experience points and in-app currency. Users equipped with NFT Sneakers – walk, jog or run outdoors to earn GST, which can be used to level up and mint new Sneakers.

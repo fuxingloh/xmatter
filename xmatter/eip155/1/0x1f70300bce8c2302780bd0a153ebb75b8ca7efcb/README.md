@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/mini-donald"
 name: Mini Donald
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#bf9582"
 ---
 
 Mini Donald is a meme coin that's bringing a fresh twist to the crypto world. With a charming and instantly recognizable logo, Mini Donald is set to capture the hearts of meme enthusiasts and crypto traders alike.

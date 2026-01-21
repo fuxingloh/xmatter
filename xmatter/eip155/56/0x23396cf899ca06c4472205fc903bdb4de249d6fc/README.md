@@ -15,6 +15,11 @@ links:
   - name: medium
     url: "https://medium.com/terra-money"
 name: Wrapped UST Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#5592f1"
 ---
 
 TerraUSD is the first decentralized stablecoin that is scalable, yield bearing and interchain.

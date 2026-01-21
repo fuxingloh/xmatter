@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/orbler/"
 name: Orbler
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#393c3c"
 ---
 
 Orbler is a dynamic Web3 marketing platform bridging Web2 audiences, offering missions, staking, and community-driven growth strategies.

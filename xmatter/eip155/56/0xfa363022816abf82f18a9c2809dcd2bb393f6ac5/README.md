@@ -17,6 +17,11 @@ links:
   - name: docs
     url: "https://docs.honeyfarm.finance/"
 name: HONEY
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f1ab1f"
 ---
 
 A Native Token of HoneyFarm Finance Layer 1

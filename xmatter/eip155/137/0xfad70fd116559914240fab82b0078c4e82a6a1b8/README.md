@@ -11,6 +11,11 @@ links:
   - name: whitepaper
     url: "https://docs.cremepieswap.finance"
 name: CremePieSwap
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#8cdbc3"
 ---
 
 Lead chain adoption by creating the lowest fee, highest rewarding AMM on the Polygon (MATIC) network.

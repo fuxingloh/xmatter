@@ -12,6 +12,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/prefrontal-cortex-convo-agent-by-virtuals"
 name: Prefrontal Cortex Convo Agent by Virtuals
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e6f0df"
 ---
 
 The Prefrontal Cortex Convo agent is an advanced AI system built for meaningful, dynamic conversations. It integrates perception, long-term memory, and decision-making to deliver personalized, context-aware responses. Unlike traditional agents, it consciously decides how to respond, engaging in deep conversations, retaining information across sessions, and making autonomous decisions.

@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/Bridge_Mutual"
 name: Bridge Mutual
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#243434"
 ---
 
 Bridge Mutual is a decentralized, discretionary p2p/p2b platform that provides coverage for stablecoins, centralized exchanges, and smart contracts. Its allows users to provide coverage, decide on payouts, and get compensated for taking part in the ecosystem.

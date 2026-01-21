@@ -27,6 +27,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/SingularityDAO/"
 name: DynETH DynaSet
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#959595"
 ---
 
 dynETH gives users exposure to Ethereum using long only strategies optimised by the Dynamic Asset Manager with less fees & expenses. Powered by SingularityDAO.ai.

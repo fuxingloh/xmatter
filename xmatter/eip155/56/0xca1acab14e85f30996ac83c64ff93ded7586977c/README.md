@@ -17,6 +17,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/nC7eRbtfrM"
 name: Antex
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fcb804"
 ---
 
 AntEx provides an ever-growing suite of decentralized services. The objective is to bring value to the DeFi space as a whole by delivering disruptive, flexible and audited technology. Strengthen your project and reward your communities using our services.

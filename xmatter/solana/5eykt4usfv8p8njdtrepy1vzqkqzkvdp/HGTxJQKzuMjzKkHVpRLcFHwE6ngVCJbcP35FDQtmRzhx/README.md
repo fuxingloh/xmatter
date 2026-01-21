@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/hive-game-token"
 name: Hive Game Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#4fefda"
 ---
 
 HGT - one and only utility token with limited amount and no-mint after TGE. HGT is spent in a number of most challenging in-game activities and mechanics, as well as Battle Arena fights between players and spent inside the in-game shop for any possible purchases.

@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/digital-files/"
 name: Digital Files
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#373838"
 ---
 
 DIFI is a decentralized electronic document trading platform, where you can sell videos, codes, audio, pictures, games, databases, etc., using DIFI tokens for transactions.

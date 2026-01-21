@@ -14,6 +14,11 @@ links:
   - name: x
     url: "https://x.com/_icoin"
 name: I-COIN
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#04a4ec"
 ---
 
 A Huge Ecosystem on Blockchain

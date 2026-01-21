@@ -19,6 +19,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/uvuArrUg"
 name: AetherV2
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#098cd1"
 ---
 
 AetherV2 is the first crypto token building a bridge between science and cryptocurrency.

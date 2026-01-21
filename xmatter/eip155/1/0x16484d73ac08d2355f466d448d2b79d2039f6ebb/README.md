@@ -25,6 +25,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/fortknoxster"
 name: FortKnoxster
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#3474fc"
 ---
 
 FortKnoxster's DieFi solution is an automated crypto testament and inheritance platform. DieFi users' crypto portfolio information and credentials are automatically passed on to the chosen beneficiaries in case of emergency, memory loss, or death.

@@ -17,6 +17,11 @@ links:
     url: >-
       https://gamespad.io/wp-content/uploads/2022/02/GamesPad-Whitepaper-compressed.pdf
 name: GamesPad
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ffb800"
 ---
 
 GMPD is the native token of GamesPad: the ultimate gaming, NFT, and metaverse ecosystem.

@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/1inch/"
 name: 1INCH Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#101a26"
 ---
 
 The 1INCH token on Binance Smart Chain will be used for a bridge between the Binance and Ethereum networks.

@@ -17,6 +17,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/zh/currencies/alchemy-pay/"
 name: Alchemy
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d8d8d8"
 ---
 
 Alchemy is the pioneer of Hybrid Crypto-Fiat Gateway that is bridging the gap between the fiat and crypto economies - driving crypto adoption by making payments, blockchain solutions and DeFI services readily available to everyone.

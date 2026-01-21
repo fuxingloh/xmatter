@@ -12,6 +12,11 @@ links:
   - name: telegram
     url: "https://t.me/NFTYChat"
 name: NFTY Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ddd1e6"
 ---
 
 NFTY is a multi-chain NFT and Web3 authentication network.

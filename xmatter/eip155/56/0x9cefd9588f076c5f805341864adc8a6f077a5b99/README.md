@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/867"
 name: "867"
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c2af8f"
 ---
 
 The $867 Casino is an all-inclusive crypto casino and community entertainment platform! With various casino style games scheduled for release! The 867 Casino is sure to entertain everyone! /KEEP_WATCHING The casino platform will allow holders of $867 tokens to access and play a wide range of casino style, casino tournament style games, and skill based games.

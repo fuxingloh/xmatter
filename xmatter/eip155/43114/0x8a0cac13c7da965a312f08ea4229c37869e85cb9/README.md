@@ -13,6 +13,11 @@ links:
   - name: x
     url: "https://x.com/graphprotocol"
 name: Graph Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#433fad"
 ---
 
 The Graph is an indexing protocol and global API for organizing blockchain data and making it easily accessible with GraphQL.

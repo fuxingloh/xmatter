@@ -25,6 +25,11 @@ links:
   - name: facebook
     url: "https://facebook.com/VabbleApp/"
 name: Vabble
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c22bbe"
 ---
 
 Vabble is an interactive, social based streaming platform. Vabble ecosystem supports the film industry both from a view of independent film creators or larger production studios.

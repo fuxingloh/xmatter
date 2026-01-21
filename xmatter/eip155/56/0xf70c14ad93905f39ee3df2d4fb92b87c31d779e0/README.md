@@ -15,6 +15,11 @@ links:
   - name: github
     url: "https://github.com/Mini-Cardano/MiniCardano-Contract"
 name: Mini Cardano
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#071522"
 ---
 
 The first and biggest Cardano ADA reflection token with auto-claim feature.

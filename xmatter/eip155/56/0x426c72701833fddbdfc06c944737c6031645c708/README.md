@@ -27,6 +27,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/defina-finance"
 name: Defina Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e9d293"
 ---
 
 FINA is BEP-20 governance and utility token for the Defina Metaverse ecosystem. There are multiple use cases for FINA and it plays a very important role in both gaming and community governance.

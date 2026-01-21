@@ -11,6 +11,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/pulsepad"
 name: PulsePad.io
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2667fc"
 ---
 
 PulsePad is a launchpad

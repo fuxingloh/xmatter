@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/suchirjustice"
 name: JUSTICE FOR SUCHIR
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#ae8861"
 ---
 
 Suchir Balaji didn’t kill himself

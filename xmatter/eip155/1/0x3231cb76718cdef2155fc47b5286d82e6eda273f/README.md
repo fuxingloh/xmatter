@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/monerium/"
 name: Monerium EUR emoney
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0483c1"
 ---
 
 The Monerium EURe is the first fully authorized and regulated euro stablecoin. It's the only onchain fiat directly transferable between bank accounts and web3 wallets.

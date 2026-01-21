@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/balancer/"
 name: Balancer
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Balancer is an automated portfolio manager and trading platform.

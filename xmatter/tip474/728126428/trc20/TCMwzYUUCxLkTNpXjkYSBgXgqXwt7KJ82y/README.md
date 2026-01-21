@@ -20,6 +20,11 @@ links:
   - name: github
     url: "https://github.com/TTCOIN-TC/tc"
 name: TTCOIN
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - trc20
+icon: icon.png
+color: "#b2b1b1"
 ---
 
 TTcoin is designed for use in TTcoin brands and organizations.

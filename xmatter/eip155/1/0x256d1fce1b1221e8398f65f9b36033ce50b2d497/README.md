@@ -13,6 +13,11 @@ links:
   - name: telegram
     url: "https://t.me/AlveyChain"
 name: Alvey Chain
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#47c4de"
 ---
 
 Alvey Coin is a decentralized blockchain project built on Bitcoin's UTXO model, with support for Ethereum Virtual Machine based smart contracts, and secured by a Proof of Stake consensus.

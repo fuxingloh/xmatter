@@ -7,6 +7,11 @@ links:
   - name: x
     url: "https://x.com/yawnsworld"
 name: Yawn's World
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#7cc9cb"
 ---
 
 He slept through his chance to join the Boys' Club, a regret he's carried ever since. Now, Yawn is launching $YAWN, the first meme token letting holders benefit from Yawn-branded ventures

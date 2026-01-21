@@ -13,6 +13,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/YieldCredit"
 name: Yield
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#33343b"
 ---
 
 A p2p defi lending app where lenders earn fixed, guaranteed interest and borrowers earn YLD for every repaid loan

@@ -13,6 +13,11 @@ links:
   - name: telegram
     url: "https://t.me/marrco_travel"
 name: MRC Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f3f3fa"
 ---
 
 Marco token is hosted by Binance Smart Chain, and its sole purpose is to function as a form of currency, storing value over time and allowing businesses to account for and pay for services..

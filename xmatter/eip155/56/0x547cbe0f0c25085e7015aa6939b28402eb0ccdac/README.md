@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://medium.com/elastic-bitcoin-xbt"
 name: Elastic BNB
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#231b14"
 ---
 
 Elastic BNB (XBN) is a new Defi protocol that enables Adaptive Supply Model. 1 XBN will anchor to 0.001 BNB with 100 days lag factor.

@@ -13,6 +13,9 @@ links:
   - name: whitepaper
     url: "https://bridge.link/Bridge_White_Paper.pdf"
 name: Bridge Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - trc20
 ---
 
 First Ever Public Oracle System on TRON Network

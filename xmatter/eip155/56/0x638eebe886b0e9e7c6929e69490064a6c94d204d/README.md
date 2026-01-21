@@ -23,6 +23,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/hector-finance"
 name: Hector Finance
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#b3a384"
 ---
 
 Hector Finance is developing a financial center on the Fantom Opera Chain and beyond.

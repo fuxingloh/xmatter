@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/xcad-network/"
 name: XCAD
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#eb2857"
 ---
 
 XCAD Network is a tokenisation & NFT platform for content creators.

@@ -19,6 +19,11 @@ links:
   - name: whitepaper
     url: "https://metabusdcoin.com/assets/files/WhitePaper.pdf"
 name: MetaBUSDCoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f65fd2"
 ---
 
 MetaBusdCoin is a deflationary reward token, rewarding holders in a stable coin pegged to the Binance Smart Chain.

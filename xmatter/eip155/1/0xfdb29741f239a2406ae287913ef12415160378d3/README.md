@@ -7,6 +7,9 @@ links:
   - name: discord
     url: "https://discord.com/nHZ2bUd"
 name: EthOS
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 EMERGENCY: the OS contract is switched to 0x0574a1959E3b7C86791759E1f6e249bF31656012 Don't use or buy this token anymore. The EthOS Team is no longer supporting it.

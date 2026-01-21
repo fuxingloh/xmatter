@@ -31,6 +31,11 @@ links:
   - name: source_code
     url: "https://github.com/ZadaUniverse/Zada-BSC"
 name: Zada
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1c1c1c"
 ---
 
 ZADA is the first of its kind, a Hyper Reflection token that rewards its holders in a multitude of ways by simplifying the investing process and building a strong and varied portfolio.

@@ -7,6 +7,11 @@ links:
   - name: x
     url: "https://x.com/1888277030896328735?s=46"
 name: NEZHA
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#a37363"
 ---
 
 NEZHA is a new Meme coin based on the BSC chain, taking the traditional Chinese mythological figure Nezha as the cultural core, and is committed to promoting the integration of blockchain and Guocao IP.

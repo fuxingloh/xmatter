@@ -19,6 +19,11 @@ links:
   - name: docs
     url: "https://docs.yay.games/"
 name: YAY Games
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#4ad93b"
 ---
 
 YAY Games is an innovative GameFi project, game publisher and developer of a wide range of games focused on Play-2-earn, NFTs, and DeFi.

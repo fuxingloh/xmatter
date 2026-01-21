@@ -20,6 +20,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/horizen/"
 name: Horizen
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fbcb14"
 ---
 
 A Base appchain built for privacy

@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/kleekai"
 name: KleeKai
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#656485"
 ---
 
 This token sports a Play-2-Earn Cryptocurrency game namely called KleeRun. This game is an addictive, fast paced running game and fun for all ages! Available on Google Play, PC & Apple IOS devices.

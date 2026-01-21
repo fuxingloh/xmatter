@@ -15,6 +15,11 @@ links:
   - name: whitepaper
     url: "https://crypter.quest/Crypter-Whitepaper-V2"
 name: CrypterToken
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#cbfbbb"
 ---
 
 Crypter is a hyper deflationary token with great utility. Holders of CRYPT will receive 8% of every Buy/Sell transaction in BUSD. Crypter's ecosystem will consist of a Facebook-like social network platform with integrated DAPPs (Crypter DEX, Crypter Wallet, a Sniper Bot and a Portfolio Tracker). A skill-based fighting game similar to Tekken will also be developed (ChainQuest). Crypter will eventually become the first engage-to-earn social trading platform.

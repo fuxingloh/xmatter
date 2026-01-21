@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/kwantxbt"
 name: kwantxbt
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#070f0d"
 ---
 
 ultimate technical analysis agent

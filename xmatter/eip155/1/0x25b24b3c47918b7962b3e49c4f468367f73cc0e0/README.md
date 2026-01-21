@@ -11,6 +11,11 @@ links:
   - name: facebook
     url: "https://facebook.com/Axltoken"
 name: AXL INU
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#242424"
 ---
 
 The Ultimate Decentralized Platform

@@ -25,6 +25,11 @@ links:
   - name: medium
     url: "https://medium.com/@pepe_ai"
 name: Pepe AI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#63863e"
 ---
 
 The most memeable memecoin in existence. The dogs have had their day, it’s time for Pepe AI to take reign.

@@ -7,6 +7,11 @@ links:
   - name: website
     url: "https://guhtoken.org/"
 name: Goes Up Higher
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fbcb5c"
 ---
 
 GUH (Goes Up Higher) is an elastic supply token that is mathematically guaranteed to increase in price until it exceeds the price of bitcoin

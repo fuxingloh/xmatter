@@ -7,6 +7,11 @@ links:
   - name: x
     url: "https://x.com/TAUonBSC"
 name: Taucoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f7cb27"
 ---
 
 A random meme to verify the formula τ = 2π. First TAU on fourmeme.

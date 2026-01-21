@@ -24,6 +24,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/cashcow"
 name: CashCow
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#233640"
 ---
 
 CashCow is a fairly launched, low supply and highly deflationary DeFi Token that includes NFT and Play2Earn features

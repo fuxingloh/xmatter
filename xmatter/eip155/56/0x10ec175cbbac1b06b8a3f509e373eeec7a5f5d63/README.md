@@ -10,6 +10,11 @@ links:
   - name: x
     url: "https://x.com/tier10k/status/1891943785468141598"
 name: Karina Milei
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d7c4d0"
 ---
 
 Karina Milei, sister of the president of Argentinia, Javier Milei Accepted bribes to pump Argentinian token

@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://medium.com/@yffs.finance"
 name: YFARM
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#41495c"
 ---
 
 YFFS adopts a modular design. Modularity refers to the combination of various elements of the product to form a subsystem with specific functions. We combine these subsystem as a universal module with other modules to create a new system with multiple functions and performance.

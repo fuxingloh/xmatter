@@ -23,6 +23,11 @@ links:
   - name: medium
     url: "https://medium.com/@JesuscoinDAO"
 name: Jesus Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#997a57"
 ---
 
 Jesus Coin was created to encourage generosity, foster community, and transform charitable giving.

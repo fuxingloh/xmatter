@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/knobcoin"
 name: KNOB
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#1369f1"
 ---
 
 The first ever reverse meta coin on Solana Chain

@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/bullex"
 name: BulleX
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#072b48"
 ---
 
 BulleX is revolutionizing the way we earn passive income. A Hyper-Deflationary Buy-Back token that automatically rewards holders with BNB. Our Rewards Pool ensures that rewards remain flowing should there be low volume.

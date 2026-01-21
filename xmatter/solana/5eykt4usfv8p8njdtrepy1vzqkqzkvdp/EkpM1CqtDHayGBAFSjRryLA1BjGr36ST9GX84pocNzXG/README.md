@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/khabysolana"
 name: KHABY
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#642a33"
 ---
 
 KHABY is The First Official Unofficial Memecoin!

@@ -17,6 +17,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/sphynx-network/"
 name: Sphynx Network
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0e151d"
 ---
 
 Sphynx Network is aiming to improve the fundamental nature of DeFi by using alchemy in blockchain technology to comply with the next generation of yield farming and liquidity mining by implementing the NFT stake.

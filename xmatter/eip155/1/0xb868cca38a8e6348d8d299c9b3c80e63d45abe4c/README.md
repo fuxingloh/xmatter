@@ -9,6 +9,9 @@ links:
   - name: x
     url: "https://x.com/Fusion_ERC20"
 name: Fusion AI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 Fusion is a cutting-edge no-code platform that turns your inputs into fully functional applications.

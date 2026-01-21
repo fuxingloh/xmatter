@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/enzyme/"
 name: Enzyme
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#7354fa"
 ---
 
 Melon is an Ethereum-based protocol for decentralized on-chain asset management.

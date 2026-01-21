@@ -23,6 +23,11 @@ links:
   - name: medium
     url: "https://medium.com/@dogefatherGlobal"
 name: DogeFather
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1b161b"
 ---
 
 DogeFather is a community owned Meme token, which aims to build a completely decentralised ecosystem. It aims to develop dGames dChart dSwap dPad.

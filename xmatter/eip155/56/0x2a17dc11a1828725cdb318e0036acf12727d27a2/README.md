@@ -11,6 +11,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/ArenaSwap/"
 name: Arena Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c39b5c"
 ---
 
 Arena Token is a game token issued by ArenaSwap on Binance Smart Chain

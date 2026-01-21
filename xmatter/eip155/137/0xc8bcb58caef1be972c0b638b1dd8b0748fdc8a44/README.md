@@ -19,6 +19,11 @@ links:
   - name: docs
     url: "https://doc.pearzap.com"
 name: PearZap Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e4d6f9"
 ---
 
 High yield farms & pools on the Polygon Chain. Secure, experienced team and innovative farm features

@@ -11,6 +11,11 @@ links:
   - name: github
     url: "https://github.com/SymmaBlockchain"
 name: Elgos Company Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#74659c"
 ---
 
 Elgos is a urban mobility application, and ELGOS is our token.

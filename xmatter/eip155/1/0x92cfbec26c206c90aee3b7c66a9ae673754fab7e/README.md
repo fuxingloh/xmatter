@@ -25,6 +25,11 @@ links:
   - name: youtube
     url: "https://youtube.com/@openleverageprotocol9047"
 name: Openleverage Token (Old)
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c757af"
 ---
 
 OpenLeverage is a permissionless money market protocol enabling decentralized lending, borrowing, and margin trading across a diverse range of cryptocurrency pairs, fostering an accessible and efficient DeFi ecosystem.

@@ -18,6 +18,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UCL6fPF63i2RBVi-mTKPBDgg"
 name: BabyApeFunClub
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#468796"
 ---
 
 BabyApeFunClub is designed to create a complex ecosystem in which DeFi, Metaverse & Real World are integrated together. Crypto users will access all DeFi & Metaverse services quickly, cheaply and effectively with only BabyApeFunClub platforms. For this, we are building the BAFC Stake, BAFC Swap, BAFC Marketplace, BAFC Metaverse, BAFC Store.Specifically, the BAFC Store was designed to help poor people around the world and is in great preparation.

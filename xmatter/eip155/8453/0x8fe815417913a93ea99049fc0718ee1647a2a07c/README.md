@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/xswap"
 name: XSwap
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f1f4f5"
 ---
 
 XSwap is a dapp built on Chainlink CCIP - a decentralized interoperability protocol to transfer messages and funds between blockchains. XSwap provides a service layer on top of CCIP to execute cross-chain token swaps and flexible smart contract execution on the destination chains.

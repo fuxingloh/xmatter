@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/pleasure-coin"
 name: Pleasure Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#7704be"
 ---
 
 Pleasure Coin (NSFW) is an ERC-20 token on Ethereum and the Polygon chain that will be utilized within the Pleasure Network, an adult industry ecosystem that empowers individuals and businesses.

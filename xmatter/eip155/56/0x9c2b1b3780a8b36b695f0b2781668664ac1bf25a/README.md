@@ -20,6 +20,11 @@ links:
   - name: telegram_news
     url: "https://t.me/SpookyShibaNewsChannel"
 name: SpookyShiba
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#230809"
 ---
 
 SpookyShiba is an E-Sports company and meme token with a unique multiplayer game with an integrated NFT marketplace.

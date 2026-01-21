@@ -20,6 +20,11 @@ links:
     url: >-
       https://github.com/pepe2coineth/SmartContract/blob/main/Ethereum_PEPE20_CA.sol
 name: Pepe 2.0
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ec9710"
 ---
 
 Learning from past token mistakes, blacklisting some investors. Pepe 2.0 wants to make things right and redo his billion-dollar run.

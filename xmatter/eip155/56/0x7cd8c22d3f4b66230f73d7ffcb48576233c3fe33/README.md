@@ -13,6 +13,11 @@ links:
   - name: x
     url: "https://x.com/metagalaxyland"
 name: METAGALAXY LAND
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#33807e"
 ---
 
 The spacemap focuses on the development of the technology, operations infrastructure, new partnerships, and marketing initiatives.

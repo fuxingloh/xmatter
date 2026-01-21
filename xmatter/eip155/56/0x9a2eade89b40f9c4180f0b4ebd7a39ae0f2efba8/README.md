@@ -7,6 +7,11 @@ links:
   - name: website
     url: "https://four.meme/token/0x9A2EADe89b40f9C4180f0B4ebD7a39ae0F2EFBA8"
 name: Tahnoon Bin Zayed
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#bd9475"
 ---
 
 Tahnoon Bin Zayed

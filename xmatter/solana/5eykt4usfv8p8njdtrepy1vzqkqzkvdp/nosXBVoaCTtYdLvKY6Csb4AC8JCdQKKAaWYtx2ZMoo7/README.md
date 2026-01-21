@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/NosanaCompute"
 name: Nosana
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#16e410"
 ---
 
 Nosana will democratize GPU cloud computing. They privode companies with more accessible and affordable compute power for running AI.

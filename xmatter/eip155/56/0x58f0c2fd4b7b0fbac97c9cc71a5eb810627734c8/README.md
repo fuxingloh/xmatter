@@ -15,6 +15,11 @@ links:
   - name: telegram
     url: "https://t.me/Wetux_Community"
 name: Wetux
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#debc29"
 ---
 
 Put your idle crypto-asset to work towards enhancing

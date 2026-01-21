@@ -19,6 +19,11 @@ links:
   - name: whitepaper
     url: "https://whitepaper.gamium.world"
 name: Gamium
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#151515"
 ---
 
 GMM is the governance and medium of exchange token of Gamium

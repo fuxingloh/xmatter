@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/build-on-bnb"
 name: Build On BNB
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#24231f"
 ---
 
 Meme created by Binance in an interaction with the Binance intern. they asked the community to name their mascot and confirmed the name as bob. his instructions were to make bsc great again.

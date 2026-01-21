@@ -19,6 +19,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/de/munze/aggle-io"
 name: aggle.io
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#080f48"
 ---
 
 aggle.io is a decentralized sports betting platform where you can accept the best odds or interact as a bookmaker yourself.

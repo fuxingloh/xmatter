@@ -15,6 +15,11 @@ links:
   - name: docs
     url: "https://m3ga.group/whitepepar"
 name: Moriarty
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0d0a09"
 ---
 
 My first coin... Professor Moriarty

@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/ben-the-dog"
 name: Ben the Dog
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#f0ca6c"
 ---
 
 In 2017, Anatoly Yakovenko faced a big decision about starting Solana, a new blockchain project, while doubters surrounded him.

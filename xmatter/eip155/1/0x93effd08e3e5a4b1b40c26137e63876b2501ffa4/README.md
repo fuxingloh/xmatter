@@ -7,6 +7,11 @@ links:
   - name: github
     url: "https://github.com/JustLiquidity"
 name: JulSwap
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#68cdaa"
 ---
 
 The JulSwap Token on ETH .

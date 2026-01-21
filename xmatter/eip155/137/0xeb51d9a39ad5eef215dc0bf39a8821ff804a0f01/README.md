@@ -7,6 +7,11 @@ links:
   - name: x
     url: "https://x.com/SaluteOrigin"
 name: Longinus
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#272626"
 ---
 
 ORIGIN is a DeFi 3.0 protocol based on the algorithmic non-stablecoin LGNS, aiming to establish the world's first privacy-anonymous stablecoin payment ecosystem, set global financial benchmarks, and guide future financial development.

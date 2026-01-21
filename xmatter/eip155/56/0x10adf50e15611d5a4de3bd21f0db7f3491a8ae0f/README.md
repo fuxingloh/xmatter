@@ -24,6 +24,9 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/monetas/"
 name: Monetas Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 MNTG is a stablecoin issued by Monetas in partnership with Binance.The establishment of MONETAS is also based on the purpose of betterment of the future game environment, using better virtual tokens.

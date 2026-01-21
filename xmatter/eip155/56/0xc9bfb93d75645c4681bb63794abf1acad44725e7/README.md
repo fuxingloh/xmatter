@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/trip"
 name: trip
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#3c9eb2"
 ---
 
 Trip Token is a blockchain-powered platform aiming to revolutionize the travel and tourism industry by providing a seamless, secure, and rewarding experience for travelers and stakeholders.

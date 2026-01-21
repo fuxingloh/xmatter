@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/candylad"
 name: CANDYLAD
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0f1f2a"
 ---
 
 Building a Blockchain 4.0 Charity Community

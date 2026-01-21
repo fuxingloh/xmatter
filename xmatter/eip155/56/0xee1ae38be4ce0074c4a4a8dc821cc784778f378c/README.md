@@ -19,6 +19,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/vynk-chain/"
 name: VYNK CHAIN
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f59b04"
 ---
 
 VYNC is the governance token of VYNKSAFE: A Decentralized Crypto Bank. VYNK CHAIN is the Defi and Utility token. VYNK CHAIN and VYNKSAFE both are from VynkPay, which is a crypto payments application in the sectors of e-commerce, affiliate marketing, travel & bill payments.

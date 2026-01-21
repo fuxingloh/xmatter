@@ -17,6 +17,11 @@ links:
   - name: whitepaper
     url: "https://teddydoge.finance/Whitepaper.pdf"
 name: Teddy Doge V2
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c5c1bd"
 ---
 
 A one-stop full-featured decentralized exchange.

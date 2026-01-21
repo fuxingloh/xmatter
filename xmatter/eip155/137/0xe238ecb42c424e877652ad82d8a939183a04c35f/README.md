@@ -11,6 +11,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/wifi"
 name: WiFi Map
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2a6bf4"
 ---
 
 WiFi Map are wifi finder, as well as esim provider.

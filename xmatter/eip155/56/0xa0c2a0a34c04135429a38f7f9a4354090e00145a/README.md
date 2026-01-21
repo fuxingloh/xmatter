@@ -13,6 +13,11 @@ links:
   - name: whitepaper
     url: "https://prxeco.io/whitepaper.pdf"
 name: Primex Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#141c2b"
 ---
 
 PRX is a token issued by Primex under Binance Smart-Chain.

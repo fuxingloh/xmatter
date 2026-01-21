@@ -34,6 +34,11 @@ links:
   - name: youtube
     url: "https://youtube.com/@Axelarcore"
 name: Axelar Wrapped USDC
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2775cb"
 ---
 
 Axelar delivers secure cross-chain communication for Web3. Our infrastructure enables dApp users to interact with any asset or application, on any chain, with one click.

@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/sfmoney_Announcement"
 name: SFMONEY
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f70a04"
 ---
 
 SFMONEY stands firmly in support of financial freedom and the liberty that SFMONEY provides globally for anyone to voluntarily participate in a permissionless and decentralized network.

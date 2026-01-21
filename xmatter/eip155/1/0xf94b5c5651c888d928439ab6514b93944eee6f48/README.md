@@ -9,6 +9,11 @@ links:
   - name: whitepaper
     url: "https://yield.app/whitepaper"
 name: Yield
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0c347c"
 ---
 
 YLD is a utility token that allows YIELD.app users to boost their APY

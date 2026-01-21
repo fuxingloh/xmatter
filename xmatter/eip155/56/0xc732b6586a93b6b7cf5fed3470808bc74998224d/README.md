@@ -25,6 +25,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/Kryptomon/"
 name: KmonCoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f028b0"
 ---
 
 Kryptomons are digital collectible monsters. Breed and take care of them and fight with other players. Every creature has a unique but mutable genetic code made up of different genotypes that will determine all the aspects - both physical and behavioural - of the creature.

@@ -15,6 +15,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UCaHAkMglUoB9BhGOUBztgAQ"
 name: GLMS Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d44594"
 ---
 
 GLMS is the native token of the Glimpse social media application.

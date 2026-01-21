@@ -19,6 +19,11 @@ links:
   - name: docs
     url: "https://docs.adadao.org"
 name: Adadao
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#141414"
 ---
 
 A DeFi protocol which facilitates creation of fully collateralized stable coins leveraging Native Cardano Assets

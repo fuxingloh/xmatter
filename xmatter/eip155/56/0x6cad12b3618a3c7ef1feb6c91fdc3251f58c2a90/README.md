@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/ninneko/"
 name: Ninneko
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fc6b04"
 ---
 
 NINO token is a utility token that was issued by Ninneko development team.

@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/uniswap/"
 name: BNB pegged Uniswap
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fcecf4"
 ---
 
 BNB pegged Uniswap (UNI BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Uniswap (UNI ERC20) at a ratio of 1:1.

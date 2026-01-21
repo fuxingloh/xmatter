@@ -22,6 +22,11 @@ links:
   - name: medium
     url: "https://idrx.medium.com/"
 name: IDRX
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0c54e3"
 ---
 
 IDRX is a stable token pegged to the value of the Indonesian Rupiah (IDR). As a cryptocurrency, IDRX offers users the benefits of blockchain technology, including security, transparency, and decentralized control. At the same time, as a stable token, IDRX offers price stability by maintaining a fixed exchange rate with the IDR, which is the national currency of Indonesia.

@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/+EZ2IS35heZA1OGMx"
 name: Major Frog
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#c17b36"
 ---
 
 The Major Frog Incident: A Glimpse Into the Truth They Don’t Want You to See

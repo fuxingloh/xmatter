@@ -25,6 +25,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/american-shiba"
 name: American Shiba (USHIBA)
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#debaa7"
 ---
 
 USHIBA is a community token built on the Ethereum blockchain. It has been adopted by a strong and active community who believes passionately in decentralization and charity causes. The core team consists of more than thirty dedicated members from diverse backgrounds, all working hard to build a strong and lasting community. As holders of the USHIBA token, you're part of a community that is at the center of the Decentralized Finance movement.

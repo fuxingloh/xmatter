@@ -13,6 +13,11 @@ links:
   - name: github
     url: "https://github.com/INPACOINOfficial"
 name: INPA Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d5be83"
 ---
 
 INPA Coin (International Non-Fungible permanent asset) is an Autonomous yield and Liquidity generation protocol

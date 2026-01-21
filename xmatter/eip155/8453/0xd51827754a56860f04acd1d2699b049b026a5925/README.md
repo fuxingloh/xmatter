@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/g-agents-ai/"
 name: G-Agents AI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d08b10"
 ---
 
 A platform with AI-Reinforcement Learning system for web3 token economy management, automated engagement and AI Agent Player. G-Agents brings AI, Gaming and Engagement together.

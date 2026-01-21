@@ -19,6 +19,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/chiliz/"
 name: Chiliz
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d40c24"
 ---
 
 Chiliz, powering Socios.com, aims to give sports and esports fans the ability to crowd-manage their favorite teams, games, leagues, and events.

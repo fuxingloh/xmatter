@@ -10,6 +10,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/fartcoin/"
 name: Fartcoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#141414"
 ---
 
 Tokenising farts with the help of bots. No TG, no cabal, fart freely!

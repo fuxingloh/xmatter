@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/lumoz/"
 name: Lumoz
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#a8e70c"
 ---
 
 Lumoz is a globally distributed modular computing protocol, offering a powerful, secure, and flexible computing platform for users worldwide.

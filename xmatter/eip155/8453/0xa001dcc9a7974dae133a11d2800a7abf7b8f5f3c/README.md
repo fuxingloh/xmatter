@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/dyorexchange"
 name: Do Your Own Research
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#045cfb"
 ---
 
 A user-friendly app to help you start investing in DeFi & Web3 in seconds.

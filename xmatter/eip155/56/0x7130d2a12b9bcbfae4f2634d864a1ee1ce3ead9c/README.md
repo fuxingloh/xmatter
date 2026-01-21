@@ -15,6 +15,11 @@ links:
   - name: blog
     url: "https://binance.org/en/blog/"
 name: BNB pegged BTCB Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fa9e32"
 ---
 
 Bitcoin BEP2 (BTCB) is a token on Binance Chain issued by Binance, where the price is pegged to BTC at a rate of 1 BTCB = 1 BTC.

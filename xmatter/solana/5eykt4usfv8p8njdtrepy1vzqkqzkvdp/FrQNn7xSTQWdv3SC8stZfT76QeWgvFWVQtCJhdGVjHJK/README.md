@@ -19,6 +19,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/neurashi"
 name: Neurashi
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#040404"
 ---
 
 Neurashi (NEI) is an AI-driven trading ecosystem on Solana, empowering traders with smart analytics & real-time market insights.

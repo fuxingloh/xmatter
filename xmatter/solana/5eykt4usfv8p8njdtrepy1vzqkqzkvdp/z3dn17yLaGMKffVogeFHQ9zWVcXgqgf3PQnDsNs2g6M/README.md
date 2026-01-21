@@ -11,6 +11,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/oxygen"
 name: Oxygen Protocol
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#f4f8f8"
 ---
 
 The OXY token powers the Oxygen Protocol, governing it and 100% of its revenue

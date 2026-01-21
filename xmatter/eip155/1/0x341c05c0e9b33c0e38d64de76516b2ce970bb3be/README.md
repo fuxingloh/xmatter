@@ -20,6 +20,11 @@ links:
     url: >-
       https://gov.indexcoop.com/t/iip-171-launch-the-diversified-staked-eth-index-dseth/4389
 name: Diversified Staked ETH Index
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#404b4a"
 ---
 
 The Diversified Staked Ethereum Index is an index token of the leading Ethereum liquid staking tokens weighted according to their degree of decentralization.

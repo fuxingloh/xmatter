@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/rbasebydefiprophets"
 name: rbase.finance
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1bb1d6"
 ---
 
 RFI + Base = RBASE.

@@ -27,6 +27,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/glowv2"
 name: GlowV2
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#397f99"
 ---
 
 GLOWV2 represents the illumination of the darkness in the crypto DeFi space through security, clarity, passive income, education, and charity.

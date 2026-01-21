@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/OrfanoToken"
 name: Orfano
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#8313c3"
 ---
 
 Orfano is a charity focused token on the Binance Smart Chain.

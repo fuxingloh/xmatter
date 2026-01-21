@@ -19,6 +19,11 @@ links:
   - name: whitepaper
     url: "https://drive.google.com/file/d/1rVgfFV0SC68cv4W15pMc80jct2qrLArm/view"
 name: HOWL
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1e1e34"
 ---
 
 HOWL is the token of the HowlCity project, a 3D metaverse game

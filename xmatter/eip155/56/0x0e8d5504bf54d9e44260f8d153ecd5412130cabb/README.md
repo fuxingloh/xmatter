@@ -17,6 +17,11 @@ links:
   - name: docs
     url: "https://docs.unicrypt.network/"
 name: UNCL
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1baafc"
 ---
 
 UNCL is the liquidity rewards token of the UniCrypt Farming platform.

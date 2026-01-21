@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/Phoenix_Chain"
 name: Phoenix Global
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1768d7"
 ---
 
 Phoenix Global is built for the enterprise, with the consumer in mind. Developed and deploy decentralized consumer apps built to scale, and fit within the existing customer experience.

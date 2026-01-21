@@ -13,6 +13,11 @@ links:
   - name: whitepaper
     url: "https://www.morpher.com/docs/morpher_whitepaper.pdf"
 name: Morpher Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#00c080"
 ---
 
 Morpher rebuilds financial markets from the ground up on the Ethereum Blockchain. All in the pursuit of the perfect trading experience. With Zero Fees, Perfectly Liquid Markets, No Counterparties, Verifiable and Transparent Execution all Secured with Blockchain Technology

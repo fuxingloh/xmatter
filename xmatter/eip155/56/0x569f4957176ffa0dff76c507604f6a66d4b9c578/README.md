@@ -17,6 +17,11 @@ links:
   - name: medium
     url: "https://crypto-stone.medium.com/"
 name: Cryptostone
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#01adb6"
 ---
 
 Cryptostone is a disruptive innovation and fully anonymous No-KYC blockchain financial ecosystem that utilizes blockchain technology as a financial tool in people's lives. Cryptostone token is the native utility token of the Cryptostone project.

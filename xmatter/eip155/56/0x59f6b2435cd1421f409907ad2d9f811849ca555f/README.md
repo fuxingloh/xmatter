@@ -25,6 +25,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UCC_Rclf5zz9YsJO3V9as_bA"
 name: TankBattle Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f4b316"
 ---
 
 Tank Battle is a game that shows creativity in assembling TANK to fight.

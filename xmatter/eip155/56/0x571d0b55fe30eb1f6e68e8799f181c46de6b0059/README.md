@@ -15,6 +15,11 @@ links:
   - name: medium
     url: "https://thugsfinance.medium.com/"
 name: Street Credit
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#202b3d"
 ---
 
 Street Credit (CRED) is the Exchange Token for the leading BSC AMM & Most Gangster Exchange Ever Created StreetSwap.vip. CRED is created by staking THUGS. The THUGS value per CRED continues to grow as Exchange Fees are used to buy-back THUGS and fund the CRED contract autonomously.

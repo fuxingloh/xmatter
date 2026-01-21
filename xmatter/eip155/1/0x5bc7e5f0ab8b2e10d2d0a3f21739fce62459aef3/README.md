@@ -5,6 +5,11 @@ links:
   - name: website
     url: "https://hut34.io/"
 name: Hut34 Entropy Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fc5c34"
 ---
 
 Building the tools for the new data economy.

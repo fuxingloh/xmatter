@@ -21,6 +21,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/robustprotocol/"
 name: Robust Reward
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#3c3ccc"
 ---
 
 Robust Token (RBT) is an original concept token on the Binance Smart Chain with a limited supply of 100 000 RBT and a 1% burn per transaction that gets converted into Robust Reward (RBW).

@@ -15,6 +15,11 @@ links:
   - name: whitepaper
     url: "https://omlira.com/whitepaper.pdf"
 name: OM Lira
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1362ab"
 ---
 
 Kullanımı kolay kripto para

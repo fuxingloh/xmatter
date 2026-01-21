@@ -13,6 +13,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/btcint"
 name: BITCOIN INTERNATIONAL
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#eab504"
 ---
 
 BITCOIN INTERNATIONAL is a non-inflationary Stake , Farm ,DeFi and NFT ecosystem aiming to provide yield generating investments strategies to long-term BTCI holders.

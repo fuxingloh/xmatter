@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/bonk-of-america"
 name: Bonk of America
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#c9e3f1"
 ---
 
 Bonk of America is building the Bonk Teller bot, a new way for token communities to boost holder retention and incentivize engagement by rewarding holders in their native tokens for a wide range of activity across multiple platforms.

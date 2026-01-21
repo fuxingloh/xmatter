@@ -31,6 +31,11 @@ links:
   - name: blog
     url: "https://why.youwho.io/news"
 name: YOUWHO
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#04cb98"
 ---
 
 YOUWHO is a Crypto Based On-Demand Services Platform with the main focus of eliminating global unemployment. The YOUWHO platform enables everyone in the world to list their service (eg. maid, doctor, electrician, gardener, dog walker, saturation diver, astrophysicist, etc. whatever skill you possess!) and book and use these same services, effectively offering peer to peer services on a global scale.

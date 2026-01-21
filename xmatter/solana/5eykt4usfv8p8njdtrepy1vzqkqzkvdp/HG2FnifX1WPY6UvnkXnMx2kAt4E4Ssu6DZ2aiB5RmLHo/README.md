@@ -15,6 +15,11 @@ links:
   - name: facebook
     url: "https://facebook.com/islamicoin"
 name: ISLAMICOIN
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#896740"
 ---
 
 ISLAMICOIN is a cryptocurrency for the Global Muslim community

@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/bnbshinobi"
 name: BNB Shinobi
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1d1c13"
 ---
 
 BNB Shinobi is the all encompassing BSC reward coin, blockchain arcade, & blockchain metaverse.

@@ -5,6 +5,11 @@ links:
   - name: website
     url: "https://www.cryptoguyinza.co.za"
 name: CryptoGuyInZA
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - trc10
+icon: icon.png
+color: "#e7e8e8"
 ---
 
 Crypto Guy In South Africa (CryptoGuyInZA) is a Cryptocurrency Enthusiast in South Africa that has been elected as a Tron Super Representative by the community.

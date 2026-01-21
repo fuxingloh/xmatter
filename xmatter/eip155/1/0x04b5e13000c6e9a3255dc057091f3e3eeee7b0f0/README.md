@@ -7,6 +7,11 @@ links:
   - name: whitepaper
     url: "https://unifund.global/assets/docs/UnipumpWPv1.pdf"
 name: UNIFUND
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#140414"
 ---
 
 Managed Trading Funds on Uniswap

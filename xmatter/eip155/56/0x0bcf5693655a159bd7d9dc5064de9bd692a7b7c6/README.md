@@ -15,6 +15,11 @@ links:
   - name: github
     url: "https://github.com/BighBullTech"
 name: BIGH BULL
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1b1362"
 ---
 
 Replace with old Contract 0x64B55Bb2F27c3710349d9cA024d0D1Ff2DAB7f62, Reason (Compromise Private Key)

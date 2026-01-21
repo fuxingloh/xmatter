@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/PantherAiapp"
 name: Panther AI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2c2c2c"
 ---
 
 Experience the power of community ownership, global governance, and explore infinite use cases within the Panther AI ecosystem.

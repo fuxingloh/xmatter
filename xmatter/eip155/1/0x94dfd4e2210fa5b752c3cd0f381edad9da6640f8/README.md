@@ -19,6 +19,11 @@ links:
   - name: source_code
     url: "https://github.com/sphynxeth/sphynx-eth"
 name: Sphynx ETH
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#08050b"
 ---
 
 At Sphynx we aim to provide an AIO(All-In-One) solution for trading, farming, staking and holding. The amount of trading, staking and farming platforms out there can be overwhelming and difficult to navigate. This creates a massive barrier to entry for those new to the world of crypto trading.

@@ -17,6 +17,9 @@ links:
   - name: reddit
     url: "https://reddit.com/r/Meter_io/"
 name: Meter Stable mapped by Meter.io
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 eMTR is the ERC-20 equivalent of MTR, the low-volatility coin of the Meter network.

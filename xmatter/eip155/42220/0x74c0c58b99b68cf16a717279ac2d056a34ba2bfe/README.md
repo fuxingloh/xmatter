@@ -13,6 +13,11 @@ links:
   - name: github
     url: "https://github.com/ReSource-Network/"
 name: SOURCE
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ba6afa"
 ---
 
 SOURCE is the utility token that powers the ReSource protocol—a DeFi protocol enabling the world’s first on-chain mutual credit economic system.

@@ -11,6 +11,11 @@ links:
   - name: medium
     url: "https://medium.com/VenusProtocol"
 name: Venus CAN
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f6f2ec"
 ---
 
 Venus is a decentralized finance (DeFi) algorithmic money market protocol on BNB Chain.

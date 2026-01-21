@@ -11,6 +11,11 @@ links:
   - name: facebook
     url: "https://facebook.com/finiko.token"
 name: FNK
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f7d079"
 ---
 
 Token FNK. Ready-made solutions for maximum profit

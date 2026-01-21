@@ -22,6 +22,11 @@ links:
     url: >-
       https://bscscan.com/address/0xa2086f4a3955a520a1743d68cdbcf064ee1746cd#code
 name: X Doge
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f8b544"
 ---
 
 X Doge is the next evolutionary Decentralized Finance cryptocurrency that strives to provide wide ranging DeFi services from premier charting solutions.

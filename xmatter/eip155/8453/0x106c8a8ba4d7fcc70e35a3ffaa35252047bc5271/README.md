@@ -11,6 +11,9 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/goat-based/"
 name: GOAT BASED
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 With the rise of $GOAT and the growing allure of Truth Terminal’s darkly humorous, unpredictable personality, this site was born as a byproduct of its influence.

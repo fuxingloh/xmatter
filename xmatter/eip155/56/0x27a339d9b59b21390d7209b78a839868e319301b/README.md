@@ -16,6 +16,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/cryptowar-xblade"
 name: Open World
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e75085"
 ---
 
 OpenWorld works with blockchain technology to build a distinct metaverse world with a sound circular economy based on real monetary flow.

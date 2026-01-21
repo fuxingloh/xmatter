@@ -18,6 +18,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/ZheVAnFt6h"
 name: Staked EURA
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#8db0fa"
 ---
 
 stEUR is a Euro savings solution built on top of EURA by the Angle Protocol.

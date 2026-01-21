@@ -15,6 +15,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/bxgyXMZ2U5"
 name: DEXTF Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#3a8724"
 ---
 
 The DEXTF token is an ERC20 token built on the Ethereum blockchain designed to be used as a governance and incentive mechanism for usage, upgrades and potential changes to the protocol.

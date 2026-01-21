@@ -13,6 +13,11 @@ links:
   - name: whitepaper
     url: "https://newscrypto.io/whitepaper.pdf"
 name: Newscrypto
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2b78bd"
 ---
 
 Newscrypto is a project that brings together education, information and trading tools for traders in the crypto markets.

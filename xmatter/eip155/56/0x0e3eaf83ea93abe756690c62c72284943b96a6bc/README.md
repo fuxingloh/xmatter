@@ -36,6 +36,11 @@ links:
   - name: github
     url: "https://github.com/HODL-org/contract"
 name: HODL Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#419db7"
 ---
 
 HODL is a community driven DeFi project built on Binance Smart Chain(BSC). HODL brings the most revolutionary mechanism to BSC ecosystem: Earn $BNB by simply holding $HODL token

@@ -18,6 +18,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/MusoFinance"
 name: MUSO Finance
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f38f08"
 ---
 
 MUSO Finance is a BEP20 token built on the Binance Smart Chain, meaning low fees, fast transaction times, and smart contract compatibility Idea to innovation - MUSO Finance was founded in 2021 by likeminded people whom all have a keen interest in music and crypto. With MUSO Finance being the driving force of various projects the team have every intention to be at the forefront of the music industry, offering fair payment to all artists and zestful community events.

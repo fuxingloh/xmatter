@@ -12,6 +12,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/the-4th-pillar"
 name: The 4th Pillar Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#bcbcbc"
 ---
 
 FOUR token is a technical and incentive component dedicated to; (1) RTA (i.e. right-to-access), and; (2) MTO (i.e. multiple-transfer option) models in the ecosystem of Web3 communication.

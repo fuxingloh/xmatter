@@ -15,6 +15,11 @@ links:
   - name: facebook
     url: "https://facebook.com/enhancetoken/"
 name: ENHANCE
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1ca69b"
 ---
 
 Enhance is a reflectionary token that distributes safemoon with every transaction while including burn and liquidity pooling mechanisms on chain.

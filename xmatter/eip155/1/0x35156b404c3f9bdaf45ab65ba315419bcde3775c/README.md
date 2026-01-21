@@ -25,6 +25,11 @@ links:
     url: >-
       https://etherscan.io/address/0x35156b404c3f9bdaf45ab65ba315419bcde3775c#code
 name: Chihiro Inu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#335f94"
 ---
 
 CHIRO is Chihiroverse an Integrated Ecosystem of Interactive Gaming.

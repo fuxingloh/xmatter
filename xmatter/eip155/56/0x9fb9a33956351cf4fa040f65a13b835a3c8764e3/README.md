@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/multichain/"
 name: Multichain
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2c63d3"
 ---
 
 Multichain is a cross-chain router protocol (CRP), to be the ultimate router for Web3.

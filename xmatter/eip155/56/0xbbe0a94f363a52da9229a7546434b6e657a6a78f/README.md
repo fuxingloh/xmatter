@@ -11,6 +11,9 @@ links:
   - name: x
     url: "https://x.com/DYORToken_BSC"
 name: DYOR Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 DYOR (Do Your Own Research) Token was developed by victims of scams to bring together a community to fight against the growing number of rug pulls

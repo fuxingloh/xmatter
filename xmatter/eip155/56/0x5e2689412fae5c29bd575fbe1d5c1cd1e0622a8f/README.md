@@ -35,6 +35,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/heroes-td"
 name: HeroesTD
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c944cb"
 ---
 
 Heroes TD is a Free to Play or Play to Earn 3D GameFi built with Heroes Metaverse. You can play with each other and trade items on the NFT market! Join Heroes TD today and get your life-time investment!

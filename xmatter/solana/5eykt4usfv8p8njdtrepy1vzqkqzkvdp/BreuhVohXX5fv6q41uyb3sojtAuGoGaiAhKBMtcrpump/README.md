@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/+RyQeKYGn0BBiMDRh"
 name: hehe
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#424233"
 ---
 
 hehe is a community token inspired by famous `hehe cat` meme

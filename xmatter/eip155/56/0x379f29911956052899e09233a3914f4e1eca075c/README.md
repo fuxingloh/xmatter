@@ -17,6 +17,11 @@ links:
   - name: medium
     url: "https://medium.com/@metaswap_"
 name: MetaSwapToken
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1e202c"
 ---
 
 MetaSwap Exchange, also known as Distributed Autonomous Organization Security Token Exchange. It is an STO platform fully deployed on the BSC chain. Issued by major, medium and small companies around the world, Listing and trading through DAO voting governance behavior, thereby simplifying the complicated process of STO.governance, it eliminates centralized supervision restrictions, greatly reduces issuance costs, and leaves it to token holders for democracy decision making.

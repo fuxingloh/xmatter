@@ -15,6 +15,11 @@ links:
   - name: telegram_news
     url: "https://t.me/RedFloki_Giveaways"
 name: Red Floki
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fb9b1c"
 ---
 
 Red Floki is a Deflationary Token That Charges Tx Fees On Everything But Buys. The Fees Charged On All Non-Buy Transactions Help Reward And Protect All HOLDRs. Everyone loves profits.

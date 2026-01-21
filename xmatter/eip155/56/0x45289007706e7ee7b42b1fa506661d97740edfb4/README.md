@@ -21,6 +21,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/floki-ceo"
 name: FLOKI CEO
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2d95d3"
 ---
 
 FLOKICEO a Meme token in the BSC ecosystem, $FlokiCeo is comunity-driven cannot control by anyone. Instant Usage Rewards for every active user transaction a 7% $FLOKICEO reward is granted to holders (decentralized wallets only)

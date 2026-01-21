@@ -12,6 +12,11 @@ links:
     url: >-
       https://s3-us-west-1.amazonaws.com/app.ankr.network/assets/Ankr_Whitepaper_20190524.pdf
 name: Ankr Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#579ceb"
 ---
 
 Ankr is building an infrastructure platform and marketplace for Web3-stack deployment.

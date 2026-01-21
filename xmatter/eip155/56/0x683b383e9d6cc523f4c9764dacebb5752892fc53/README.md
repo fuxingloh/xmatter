@@ -21,6 +21,11 @@ links:
   - name: whitepaper
     url: "https://thesparklab.io/whitepapersparklab.pdf"
 name: SparkLab
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2597f7"
 ---
 
 Sparklab is a next generation portfolio tracker with tons of unique features to make your token management safer and easier.

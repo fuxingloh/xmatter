@@ -23,6 +23,11 @@ links:
   - name: source_code
     url: "https://github.com/rz-game-dev/rzusd/blob/main/contracts%2FRZUSD.sol"
 name: rzusd
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#54ac94"
 ---
 
 RZUSD is a decentralized, crypto-backed stablecoin powering the RZChain ecosystem with secure, fast, and low-cost transactions.

@@ -29,6 +29,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/multivac"
 name: MultiVAC
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#76e0f8"
 ---
 
 MultiVAC is the innovative sharding protocol and pioneering flexible computing framework. MultiVAC is also called 'Multi-core Ethereum'. As a high-throughput and flexible public blockchain platform, MultiVAC proposed an all-dimensional sharding solution to increase TPS of blockchain, and MultiVAC is the first one that proposed a flexible computing framework, so the developers can trade-off freely about the blockchain trilemma on this framework.

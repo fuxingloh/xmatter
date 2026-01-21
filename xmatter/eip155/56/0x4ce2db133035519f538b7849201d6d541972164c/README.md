@@ -15,6 +15,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/magicbox"
 name: Magicbox Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#13042c"
 ---
 
 MagicBox is committed to the ecological exploration of the metaverse and building an independent frictionless production liquidity survival agreement.

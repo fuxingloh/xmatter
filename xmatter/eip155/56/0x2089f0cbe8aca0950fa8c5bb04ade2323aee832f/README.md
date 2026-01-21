@@ -23,6 +23,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/londex"
 name: Londex
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#88eeeb"
 ---
 
 Londex (LDC) is a revolutionary rewards token pioneering trust, transparency and integrity on the binance smart chain. We have introduced a vast utility platform called to accompany the londex token for all crypto investors.

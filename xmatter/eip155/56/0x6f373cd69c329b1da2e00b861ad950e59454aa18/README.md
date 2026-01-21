@@ -21,6 +21,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/doge-yellow-coin"
 name: Doge Yellow Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#100d0a"
 ---
 
 Doge Yellow Coin DOGEY Doge Yellow Coin is a new cryptocurrency born to emulate dogecoin with the help of Elon Musk

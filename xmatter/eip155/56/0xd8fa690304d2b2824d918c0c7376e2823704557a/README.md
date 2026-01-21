@@ -17,6 +17,11 @@ links:
   - name: github
     url: "https://github.com/shibtoshi"
 name: SquidGrow
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#eee628"
 ---
 
 SquidGrow is the next big meme utility token in the cryptocurrency space! Created by the biggest Shiba Inu whale, SquidGrow has the building blocks to get to the highest level. With our owner being one of the biggest investors in the world, the possibilities and connections for SquidGrow are endless!

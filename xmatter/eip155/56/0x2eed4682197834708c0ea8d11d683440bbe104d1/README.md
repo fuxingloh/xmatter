@@ -21,6 +21,11 @@ links:
   - name: discord
     url: "https://discord.com/CvtBYZGCKm"
 name: Nafty
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dc3c84"
 ---
 
 Nafty is the token for the adult industry, aimed to empower content creators and reward content consumers across the Nafty Network

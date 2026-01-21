@@ -17,6 +17,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/infinitx/"
 name: InfinitX
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#272b3b"
 ---
 
 InfinitX is a rebase token that also rewards in XRP.

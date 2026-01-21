@@ -15,6 +15,11 @@ links:
   - name: medium
     url: "https://medium.com/@valuedefi"
 name: YFValue
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#056adb"
 ---
 
 Value DeFi: Bringing True Value to DeFi.

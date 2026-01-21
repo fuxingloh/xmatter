@@ -17,6 +17,11 @@ links:
   - name: whitepaper
     url: "https://yesworld.io/YesWorld-Whitepaper.pdf"
 name: YES WORLD
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#3cd9d4"
 ---
 
 An Asset-based token with aim to reduce carbon emissions using several utilities for the token.

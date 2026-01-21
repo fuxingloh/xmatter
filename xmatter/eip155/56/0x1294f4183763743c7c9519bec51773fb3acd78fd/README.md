@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/fideum/"
 name: Fideum
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e1ddfb"
 ---
 
 Fideum (previously blockbank) offers regulatory-compliant infrastructure tailored to the needs of financial institutions, banks, and SMEs. Its adaptable microservice architecture facilitates a wide range of financial services, enabling businesses to smoothly transition into the digital asset era.

@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/bounce-token/"
 name: Bounce Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Bounce is a decentralized auction platform, incorporating liquidity mining, decentralized governance and staking mechanisms. The first principle of Bounce is scarcity of resources, which creates a competitive swap environment.

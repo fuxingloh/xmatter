@@ -17,6 +17,11 @@ links:
   - name: telegram
     url: "https://t.me/onyx"
 name: Onyx
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#141c1c"
 ---
 
 Onyx Protocol enables users to access a cross-token aggregated liquidity protocol that supports NFTs, Tokens and ETH all-in-one. Onyx is powered by Onyxcoin (XCN), the protocols native utility and governance token.

@@ -21,6 +21,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/metapets/"
 name: MetaPets
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0474eb"
 ---
 
 Own your pets in the metaverse

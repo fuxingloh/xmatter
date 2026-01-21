@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/test-token-bsc/"
 name: Test
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fbedc7"
 ---
 
 $TST is a test token deployed by BNBchain on four.meme

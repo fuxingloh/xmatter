@@ -9,6 +9,11 @@ links:
   - name: github
     url: "https://github.com/celo-org"
 name: Celo
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fbfb54"
 ---
 
 Celo is a carbon-negative, permissionless, blockchain with a rich ecosystem of global partners building innovative Web3 dapps to support a more inclusive financial system.

@@ -26,6 +26,11 @@ links:
   - name: medium
     url: "https://financedotvote.medium.com/"
 name: finance.vote
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#b7ebf6"
 ---
 
 FVT is a utility token that powers the finance.vote dApp Suite.

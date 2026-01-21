@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://medium.com/dodoex"
 name: DODO
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#060604"
 ---
 
 DODO is a liquidity protocol powered by the Proactive Market Maker (PMM) algorithm and built for capital efficiency.

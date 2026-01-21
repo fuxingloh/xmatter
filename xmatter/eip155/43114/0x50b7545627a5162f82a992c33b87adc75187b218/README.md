@@ -11,6 +11,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/wrapped-bitcoin/"
 name: Wrapped BTC
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0c0c0c"
 ---
 
 Wrapped Bitcoin is an ERC20 token backed 1:1 with Bitcoin. Completely transparent. 100% verifiable. Community led.

@@ -19,6 +19,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/shiborg-inu"
 name: SHIBORG INU
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#eab16b"
 ---
 
 A CYBORG SHIBA INU DOG FROM PLANET SHIBAMOON X1000. A DECENTRALIZED MEME TOKEN

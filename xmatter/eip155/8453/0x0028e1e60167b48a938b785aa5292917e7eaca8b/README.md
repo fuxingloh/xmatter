@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/coinye-west"
 name: Coinye West
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#edd63c"
 ---
 
 Coinye West is the oldest meme and most memorable memecoin in existence that pays homage to the world's oldest and most beloved meme.

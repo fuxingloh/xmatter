@@ -13,6 +13,11 @@ links:
   - name: whitepaper
     url: "https://flokirocket.finance/Whitepaper.pdf"
 name: Floki Rocket
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2f2639"
 ---
 
 Alongside our limited edition NFT’s, Floki Rocket is a low tax reward token which has been designed to generously reward you in $BNB simply for holding!

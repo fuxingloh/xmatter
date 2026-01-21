@@ -5,6 +5,11 @@ links:
   - name: website
     url: "https://justbuyitffs.com/"
 name: Fuck$ Finance v2.0
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d4917f"
 ---
 
 Fuck$ Finance is a community driven token that will allow its owners to interact with FFS tools that will be developed based on community's needs. FFS2 token will also be used to fund charity donations.

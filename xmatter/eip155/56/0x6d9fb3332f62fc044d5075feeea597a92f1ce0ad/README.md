@@ -19,6 +19,11 @@ links:
   - name: whitepaper
     url: "https://babydogebillionaire.net/assets/whitepaper.pdf"
 name: Baby Doge Billionaire
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#5a4f25"
 ---
 
 The Richest Baby Dog In The Universe Has His Own Themed Token Now That Rewards All Investors, Whilst Giving Dogs And Other Animals A New Home!

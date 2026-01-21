@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/spacedragon_io"
 name: Space Dragon
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d6757c"
 ---
 
 Space Dragon is a deflationary token created for the community. The focus of the project is to create a universe of dApps to support the BSC ecosystem.

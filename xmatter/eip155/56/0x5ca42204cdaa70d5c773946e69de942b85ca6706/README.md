@@ -25,6 +25,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/position-token"
 name: Position
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#19ca92"
 ---
 
 Position Exchange is a decentralized trading platform, powered by a virtual Automated Market Maker (vAMM) and operating on Binance Smart Chain (BSC), aiming to provide on-chain Derivatives trading on Crypto assets with high leverage, low slippage and low fees.

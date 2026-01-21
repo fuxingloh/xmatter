@@ -25,6 +25,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/ariva"
 name: Ariva
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#739574"
 ---
 
 Ariva (ARV) is a cryptocurrency supported by Ariva Co., produced for active use in global and local tourism and travel networks in the near future.

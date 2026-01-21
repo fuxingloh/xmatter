@@ -27,6 +27,11 @@ links:
   - name: youtube
     url: "https://youtube.com/@CoWSwap"
 name: CoW Protocol Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f3cb14"
 ---
 
 COW token allows its holders the right to govern and curate the infrastructure of the CoW Protocol ecosystem through the CowDAO. Additionally, COW token holders receive fee discounts when trading on CowSwap & some other perks.

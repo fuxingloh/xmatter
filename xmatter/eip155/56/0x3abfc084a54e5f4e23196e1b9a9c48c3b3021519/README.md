@@ -13,6 +13,11 @@ links:
   - name: whitepaper
     url: "https://docdro.id/LWOMgmY"
 name: Planet
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#9b3ef3"
 ---
 
 A protocol built on Binance Smart Chain to boost rewards on liquidity mining on lower gas costs and utilizing incentivisation strategies, Supercharged NFT collectibles and community governance models.

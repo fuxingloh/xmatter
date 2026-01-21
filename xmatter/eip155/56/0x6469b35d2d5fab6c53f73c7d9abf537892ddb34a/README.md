@@ -13,6 +13,11 @@ links:
   - name: telegram
     url: "https://t.me/rbtr_token"
 name: Arbitrage Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fbdc0b"
 ---
 
 Arbitrage Token

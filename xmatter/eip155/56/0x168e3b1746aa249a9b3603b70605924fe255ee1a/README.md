@@ -27,6 +27,11 @@ links:
   - name: youtube
     url: "https://youtube.com/GMRCenter"
 name: GAMER
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f2a22e"
 ---
 
 GMR: The nexus of gaming and blockchain. Trade, play, interact, and thrive in a digital world powered by the $GMR token.

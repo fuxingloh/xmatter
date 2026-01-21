@@ -23,6 +23,11 @@ links:
   - name: whitepaper
     url: "https://babydogemoneymaker.com/assets/whitepaper.pdf"
 name: Baby Doge Money Maker
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f0b439"
 ---
 
 The One And Only Doge And Lucky Cat Hybrid In Crypto World!

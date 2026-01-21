@@ -34,6 +34,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/stakewise/"
 name: StakeWise SWISE
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#8678a8"
 ---
 
 SWISE is the StakeWise governance token.

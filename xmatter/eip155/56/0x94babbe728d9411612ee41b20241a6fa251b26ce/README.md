@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://medium.com/@jetfuelfinance"
 name: GFORCE
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e3bb50"
 ---
 
 Gforce is an innovative token in the Jetfuel.Finance Ecosystem that is revolutionizing the passive yield and staking token landscape.

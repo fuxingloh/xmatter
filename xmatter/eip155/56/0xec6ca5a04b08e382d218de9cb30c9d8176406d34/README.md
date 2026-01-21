@@ -11,6 +11,11 @@ links:
   - name: x
     url: "https://x.com/cryptodropgg"
 name: CryptoDrop
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#051b30"
 ---
 
 The only decentralized random gamification on chain BSC

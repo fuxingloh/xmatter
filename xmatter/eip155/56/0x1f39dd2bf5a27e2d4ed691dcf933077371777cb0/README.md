@@ -21,6 +21,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/snowcrash-token"
 name: SnowCrash Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d4d3d5"
 ---
 
 $Nora is the community governance token of SnowCrash DAO. Players can trade $Nora on the exchange, or earn $Nora by completing tasks in the game. Players in MetaVoxel can use $Nora to buy land, islands, goods and various raw materials.

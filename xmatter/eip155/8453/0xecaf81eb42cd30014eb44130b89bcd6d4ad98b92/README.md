@@ -23,6 +23,11 @@ links:
   - name: youtube
     url: "https://youtube.com/@BasedChad69"
 name: Based Chad
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1453f2"
 ---
 
 Wake Up. Chad Harder. Repeat.

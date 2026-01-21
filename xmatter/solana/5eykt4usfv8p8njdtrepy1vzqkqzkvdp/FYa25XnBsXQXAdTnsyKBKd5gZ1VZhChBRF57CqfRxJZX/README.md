@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/monkeyhaircut"
 name: monkeyhaircut
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#97858b"
 ---
 
 it's literally a monkey getting a haircut.

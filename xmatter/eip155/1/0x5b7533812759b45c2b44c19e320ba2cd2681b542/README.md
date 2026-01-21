@@ -28,6 +28,11 @@ links:
   - name: forum
     url: "https://community.singularitynet.io/"
 name: SingularityNET Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1c0c4b"
 ---
 
 SingularityNET is a blockchain-powered platform that allows anybody to easily create, share, and monetize AI services, thanks to its globally-accessible AI marketplace.

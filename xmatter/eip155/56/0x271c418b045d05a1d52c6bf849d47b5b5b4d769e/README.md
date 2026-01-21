@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/veraswap"
 name: Veraswap Protocol
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#be2509"
 ---
 
 Fully Dex protocol, staking and more on Binance Smart Chain. #Defi #BSC

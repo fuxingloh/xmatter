@@ -15,6 +15,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/RKZ4S3b"
 name: Data Economy Index
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#110404"
 ---
 
 The Data Economy Index is an ecosystem of data-based products and services.

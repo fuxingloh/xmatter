@@ -7,6 +7,11 @@ links:
   - name: website
     url: "https://four.meme/token/0xe7BA3E4BE1fb144D9e097736a5CF93fC45c6d270"
 name: SheepCZ
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c9d3d8"
 ---
 
 SheepCZ

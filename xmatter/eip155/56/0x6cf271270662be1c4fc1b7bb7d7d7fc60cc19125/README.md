@@ -22,6 +22,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/kunci-coin"
 name: Kunci Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#703895"
 ---
 
 Kunci Coin is building the next generation blockchain for mass adoption, born to support NFT Marketplace, Metaverse, Decentralize Finance, and retail penetration.

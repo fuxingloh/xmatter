@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/openswap/"
 name: OpenSwap
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d7546e"
 ---
 
 OpenSwap is an integrated one-stop DeFi hub designed to revolutionize on-chain liquidity.

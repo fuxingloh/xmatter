@@ -15,6 +15,11 @@ links:
   - name: whitepaper
     url: "https://litepaper.playtrophy.com/usdwins-token/usdwins-token"
 name: WinsToken
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f5c048"
 ---
 
 $WINS is a gaming rewards token designed to be sustainable and deflationary in order to address problems from the last generation of "play-to-earn" web3 games.

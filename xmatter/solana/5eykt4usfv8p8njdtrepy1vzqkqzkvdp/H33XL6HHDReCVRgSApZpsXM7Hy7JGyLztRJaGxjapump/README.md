@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/dog-with-apple-in-mouth"
 name: dog with apple in mouth
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#985c5c"
 ---
 
 Apple Dog, the lovable and cheerful pup inspired by the viral TikTok meme, is here to spread smiles across the blockchain!

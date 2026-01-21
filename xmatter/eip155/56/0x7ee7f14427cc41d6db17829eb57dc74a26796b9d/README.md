@@ -19,6 +19,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/moonrise/"
 name: MoonRise
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#92bade"
 ---
 
 MoonRise is the first MoonShot token on BSC, and is also a proprietary and hyper-deflationary buyback token with a suite of new innovations that help increase return for investors. On top of the automated buys from the Whale Wallet upon every market sell, "Moon Shots" will be activated at certain milestones using the Whale Wallet's BNB!

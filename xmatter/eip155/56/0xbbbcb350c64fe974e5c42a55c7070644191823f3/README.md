@@ -17,6 +17,11 @@ links:
   - name: whitepaper
     url: "https://docs.cheersland.org/"
 name: CheersLand Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f9b006"
 ---
 
 A scalable GameFi Metaverse Aggregator where anyone can monetize their gaming experiences and social networks

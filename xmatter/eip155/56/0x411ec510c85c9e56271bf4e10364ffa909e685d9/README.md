@@ -19,6 +19,11 @@ links:
   - name: discord
     url: "https://discord.com/yUWKW9cY"
 name: Moniwar
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#4de5cb"
 ---
 
 MOWA token is a utility token that was issued by Moniwar development team.

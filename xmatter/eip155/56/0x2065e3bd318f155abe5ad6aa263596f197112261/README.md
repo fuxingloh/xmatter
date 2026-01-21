@@ -11,6 +11,11 @@ links:
   - name: youtube
     url: "https://youtube.com/c/UltimoHombre/"
 name: UltimoGG
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1e1928"
 ---
 
 ULTGG - The game-changing esports token.

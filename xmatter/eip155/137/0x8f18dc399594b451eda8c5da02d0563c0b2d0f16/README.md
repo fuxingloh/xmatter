@@ -13,6 +13,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/Moonwolf_io/"
 name: moonwolf.io
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1c144d"
 ---
 
 Moonwolf is a deflationary token on Matic / Polygon

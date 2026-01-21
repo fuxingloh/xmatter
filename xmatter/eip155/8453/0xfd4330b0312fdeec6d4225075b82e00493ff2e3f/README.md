@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/smardex/"
 name: SmarDex
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#07f8b1"
 ---
 
 SMARDEX is an Automated Market Maker (AMM) that addresses the issue of Impermanent Loss (IL) and in some cases transforms it into Impermanent Gain (IG).

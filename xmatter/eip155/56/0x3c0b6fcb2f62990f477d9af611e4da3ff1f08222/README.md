@@ -19,6 +19,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/"
 name: PathFundV2
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1b0437"
 ---
 
 PathFund's initiative is to build and make available to investors a secure and friendly ecosystem with an intuitive interface.

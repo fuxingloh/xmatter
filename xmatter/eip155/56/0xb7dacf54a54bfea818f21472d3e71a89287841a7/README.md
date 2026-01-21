@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/ru/currencies/wealthsecrets/"
 name: WealthSecrets
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d3c28b"
 ---
 
 We allow access to different odds slips, sell likely winnable odds, P2P betting and the creation of your bet event with our WSC token.

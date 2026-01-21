@@ -18,6 +18,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/milo-inu"
 name: Milo Inu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#baa4cd"
 ---
 
 Milo does what he can to help more vulnerable people in need

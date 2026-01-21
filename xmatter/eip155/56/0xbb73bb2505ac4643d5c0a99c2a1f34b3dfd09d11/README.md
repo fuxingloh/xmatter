@@ -37,6 +37,11 @@ links:
   - name: source_code
     url: "https://github.com/MetaGamescoinio/smart-contract-audits"
 name: MetaGamescoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ac7617"
 ---
 
 MGC token is Rewarding token of RANKING platform, and financial support for MGC Ecosystem, playing games and register your results and earn MGC, play games anytime and anywhere and earn MGC.

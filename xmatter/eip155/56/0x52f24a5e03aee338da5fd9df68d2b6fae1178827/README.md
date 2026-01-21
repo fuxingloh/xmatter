@@ -29,6 +29,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/ankr-staked-bnb"
 name: Ankr Staked BNB
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fbeb1b"
 ---
 
 ankrBNB represents your staked BNB and provides liquidity for your staked position. All staking rewards are built into the token price, and ankrBNB grows daily in value, but never in number.

@@ -11,6 +11,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UCTlThuhFNg6yFw8hak4upDw"
 name: BFG Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fa355d"
 ---
 
 BFG is the internal token of BetFury platform launched on BSC.

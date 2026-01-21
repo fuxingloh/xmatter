@@ -13,6 +13,11 @@ links:
   - name: whitepaper
     url: "https://dl.kardiachain.io/KardiaChain-WhitePaper-English.pdf"
 name: Kardiachain
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#b32329"
 ---
 
 Kardiachain is a public blockchain platform focused on Interoperability and providing hybrid blockchain solutions for enterprises and governments in Vietnam and other countries in South & East Asia.

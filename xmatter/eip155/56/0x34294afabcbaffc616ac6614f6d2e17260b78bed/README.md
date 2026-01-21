@@ -28,6 +28,11 @@ links:
   - name: medium
     url: "https://ApeBond.medium.com"
 name: ApeBond
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#7764b5"
 ---
 
 ApeBond is a multichain DeFi Hub offering an accessible, transparent, and secure experience for everyone.

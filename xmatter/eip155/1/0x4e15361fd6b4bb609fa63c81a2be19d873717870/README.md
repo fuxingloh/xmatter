@@ -15,6 +15,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/fantom/"
 name: Fantom Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1c6cfc"
 ---
 
 Fantom is a high-performance, scalable, customizable, and secure smart-contract platform. It is designed to overcome the limitations of previous generation blockchain platforms. Fantom is permissionless, decentralized, and open-source.

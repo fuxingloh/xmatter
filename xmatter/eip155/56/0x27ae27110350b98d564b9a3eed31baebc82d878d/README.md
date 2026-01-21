@@ -16,6 +16,11 @@ links:
   - name: docs
     url: "https://cumrocket.gitbook.io/cumrocket"
 name: CumRocket
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f506c1"
 ---
 
 One of the most viral coins in history!

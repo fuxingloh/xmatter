@@ -5,6 +5,9 @@ links:
   - name: website
     url: "https://solscan.io/token/LSh1UzLNtAgXJ9LWADYSC73inLNbEx2CwE2rXy7daos"
 name: SPAM KLIP
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
 ---
 
 SPAM KLIP

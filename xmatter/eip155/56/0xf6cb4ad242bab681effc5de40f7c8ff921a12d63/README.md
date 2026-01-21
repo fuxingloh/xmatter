@@ -19,6 +19,11 @@ links:
   - name: telegram_news
     url: "https://t.me/centric"
 name: Centric SWAP
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#26c336"
 ---
 
 Centric is an innovative dual-token digital currency & decentralized blockchain protocol built on sound economics that yields a return hourly.

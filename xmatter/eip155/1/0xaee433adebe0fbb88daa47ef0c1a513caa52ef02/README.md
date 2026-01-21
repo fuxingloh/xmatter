@@ -11,6 +11,11 @@ links:
   - name: medium
     url: "https://pontoonfi.medium.com/"
 name: PontoonToken
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f4543c"
 ---
 
 Cross-chain liquidity mirror protocol

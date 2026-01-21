@@ -23,6 +23,9 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UC0XEhzirmXN0AZQIhoR_Vzg"
 name: Galaxy Heroes Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 Galaxy Heroes Coin is more than just a token. It will have a never seen before NFT platform and gaming app. Be a hero, a Galaxy Hero!

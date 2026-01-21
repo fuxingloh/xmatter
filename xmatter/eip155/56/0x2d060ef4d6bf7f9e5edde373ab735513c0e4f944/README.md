@@ -17,6 +17,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/solidus-ai-tech/"
 name: AITECH
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#cacacb"
 ---
 
 Powering the future of AI with our HPC data center, IaaS platform, AI Marketplace, AITECH Pad Launchpad. Powered by $AITECH token

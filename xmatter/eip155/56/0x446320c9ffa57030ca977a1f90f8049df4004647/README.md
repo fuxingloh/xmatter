@@ -13,6 +13,11 @@ links:
   - name: whitepaper
     url: "https://bulldogswap.com/Bulldogswap-paper.pdf"
 name: BullDogToken
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c67935"
 ---
 
 Bulldogswap is a foundational layer in decentralized finance, enabling safe, and customizable transactions for the global crypto.

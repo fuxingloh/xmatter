@@ -25,6 +25,11 @@ links:
   - name: source_code
     url: "https://bscscan.com/token/0x6120ba0b3538e40aa7aac32558e5dd0737b7ac90#code"
 name: Jesus Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e6d7ca"
 ---
 
 Jesus Christ forgives your sins, redeems your bad trades, and blesses you with heavenly riches. The world is full of rug pulls and honey pots but Jesus is here to set you free.

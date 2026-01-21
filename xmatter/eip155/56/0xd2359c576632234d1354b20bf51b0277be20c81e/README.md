@@ -17,6 +17,11 @@ links:
   - name: whitepaper
     url: "https://whitepaper.gameguru.gg"
 name: GameGuru
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#145be4"
 ---
 
 GameGuru aims to be the first crypto marketplace for eGift cards and digital gaming products.

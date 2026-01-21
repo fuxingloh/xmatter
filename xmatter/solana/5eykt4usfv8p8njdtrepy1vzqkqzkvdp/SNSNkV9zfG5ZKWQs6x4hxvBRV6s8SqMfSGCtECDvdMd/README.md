@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/synesis-one/"
 name: SynesisOne
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#070707"
 ---
 
 Data fuels AI. No matter how sophisticated an AI algorithm is, if the input data is garbage, then the output result will be garbage. In addition to quality, quantity is also hugely important for AI. Today, the few tech giants hoard and monetize their users' data, dominating the field of AI for their own profits.

@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/nomnom"
 name: nomnom
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#aa876f"
 ---
 
 nomnom is a hungry hamster on the Solana network. This hamster is SO hungry that any-ting is on the menu!

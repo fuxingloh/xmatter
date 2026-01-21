@@ -5,6 +5,11 @@ links:
   - name: website
     url: "https://brigadeiro.finance"
 name: Brigadeiro
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#673230"
 ---
 
 Welcome to Brigadeiro.Finance. A Charitable Yield-Generating Crypto. Help us save children and give them wonderful experiences with Brigadeiro.Finance. 5% of Total Supply + Rewards is set-up for Charity. 5% Dev Wallet for Marketing and Growth of the Token. 10% tax on transactions. 6% reflected back to holders. 4% sent directly to burn address. Burn address does not receive reflections. 1% max of supply in one transaction.

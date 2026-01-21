@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://greenheartcbd.medium.com/"
 name: Greenheart CBD Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#24642c"
 ---
 
 Greenheart CBD Token - A Cryptocurrency for Hemp Farmers.

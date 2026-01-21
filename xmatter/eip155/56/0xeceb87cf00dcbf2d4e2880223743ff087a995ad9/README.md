@@ -27,6 +27,11 @@ links:
   - name: youtube
     url: "https://youtube.com/c/numbersprotocol"
 name: NUM Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0404db"
 ---
 
 Numbers protocol is a decentralised photo network, for creating community, value and trust in digital media.

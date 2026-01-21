@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/plastiksio"
 name: Plastiks
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0a2eb8"
 ---
 
 Plastiks is an NFT marketplace deployed that brings People, Organizations and Companies together to fight against plastic pollution.

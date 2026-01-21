@@ -13,6 +13,11 @@ links:
   - name: whitepaper
     url: "https://erc20.tech/erc20token-whitepaper"
 name: ERC20
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 ERC20 is an innovative NFT Collectible token and a new kind of DeFi. With a built-in smart-contract introduced the future needs and desires of holders ERC20 Token is open-ended by design, it is extremely well-suited to serving as a foundational layer for a very large number of both financial, non-financial and farming with Non-fungible token (NFT) world in the years to come.

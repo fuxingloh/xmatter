@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/lets-fuckin-go"
 name: Lets Fuckin Go
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#4289cc"
 ---
 
 Introducing Lets Fuckin Go: launched on April 8th, 2024, on the Solana network in Pumpfun, experienced a community takeover the very next day on April 9th, 2024.

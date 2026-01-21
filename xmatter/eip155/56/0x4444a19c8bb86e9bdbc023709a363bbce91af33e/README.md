@@ -29,6 +29,11 @@ links:
   - name: youtube
     url: "https://youtube.com/c/CryptoTanks"
 name: CryptoTanks
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 CryptoTanks is an NFT-based play-to-earn game. Allows the player to delve into a world of nostalgia and experience the power of the new technology of the crypto world, DEFI and NFT.

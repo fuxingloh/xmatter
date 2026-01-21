@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/tornado-cash/"
 name: Binance-Peg TornadoCash Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Tornado Cash is a fully decentralized protocol for private transactions on Ethereum.

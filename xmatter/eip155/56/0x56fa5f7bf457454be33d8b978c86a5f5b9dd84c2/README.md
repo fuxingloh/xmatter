@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/Official_MagpieMegaDao/101125"
 name: Listapie
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d28f34"
 ---
 
 Listapie is a next-generation DeFi platform designed to provide Lista DAO users with yield and veTokenomics boosting services

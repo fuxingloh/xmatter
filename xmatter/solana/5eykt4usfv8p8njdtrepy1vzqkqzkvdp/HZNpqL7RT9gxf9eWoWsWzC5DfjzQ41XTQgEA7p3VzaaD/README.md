@@ -11,6 +11,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/trustapp"
 name: Trust Wallet
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#0505fc"
 ---
 
 Utility token to increase adoption of cryptocurrency.

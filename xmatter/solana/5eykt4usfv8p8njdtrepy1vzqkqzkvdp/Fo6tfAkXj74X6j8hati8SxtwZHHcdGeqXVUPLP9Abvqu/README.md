@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/wally-the-whale"
 name: Wally The Whale
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#fbbb04"
 ---
 
 Wally The Whale, The King Of The Sea! WTW? Find out...

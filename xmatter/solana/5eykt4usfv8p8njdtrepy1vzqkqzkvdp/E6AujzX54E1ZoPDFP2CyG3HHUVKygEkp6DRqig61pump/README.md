@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/pochita-biz"
 name: Pochita
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#dec38d"
 ---
 
 The NEW face of Solana $POCHITA

@@ -15,6 +15,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/goldminer/"
 name: GoldMiner
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#252f6d"
 ---
 
 GoldMiner is a play-to-earn Third-person shooter gold-playing game.$GM is the world's first token that combines GameFi DeFi, and automatic BUYBACK deflation mechanism

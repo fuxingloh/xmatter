@@ -13,6 +13,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/CetY6Y4"
 name: Wrapped ETH
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#2a2e2e"
 ---
 
 Ethereum is a global, open-source platform for decentralized applications. Eth is fueling transactions on the Chain.

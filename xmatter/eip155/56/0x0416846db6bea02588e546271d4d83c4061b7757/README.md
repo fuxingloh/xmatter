@@ -18,6 +18,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/footballinu/"
 name: Football INU
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dd9c82"
 ---
 
 Football INU is a P2E 3D multiplayer football metaverse that joins billions of football enthusiasts in a community where you can develop your NFT football avatar, manage your own club or arena, build fanbase, attract sponsorships and earn real income.

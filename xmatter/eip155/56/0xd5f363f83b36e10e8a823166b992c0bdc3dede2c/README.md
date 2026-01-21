@@ -20,6 +20,11 @@ links:
   - name: telegram
     url: "https://t.me/elonbankbscglobal"
 name: ElonBank
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e3c7b8"
 ---
 
 ElonBank is a financial protocol that includes mechanisms for auto-staking, auto-compounding, and auto-liquidity.

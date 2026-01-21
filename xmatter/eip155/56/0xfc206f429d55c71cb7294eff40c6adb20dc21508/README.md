@@ -21,6 +21,11 @@ links:
   - name: medium
     url: "https://medium.com/@dehub.bsc"
 name: DeHub
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Blockchain's first gaming and streaming aggregator platform.

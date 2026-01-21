@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/dinolfg"
 name: DinoLFG (DINO)
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#9fd056"
 ---
 
 $DINO - Building Bridges Between Crypto, Games, and Financial Adventure!

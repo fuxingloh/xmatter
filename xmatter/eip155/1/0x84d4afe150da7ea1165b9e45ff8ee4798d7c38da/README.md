@@ -11,6 +11,11 @@ links:
   - name: medium
     url: "https://medium.com/dmm-dao"
 name: "DMM: USDT"
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#437cc4"
 ---
 
 mToken wrapper for USDT

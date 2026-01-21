@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/terravirtua"
 name: Terra Virtua Kolect
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#49879b"
 ---
 
 TVK is the fuel of Terra Virtua, opening up a whole world of privileges, experiences and opportunities. Use TVK to get exclusive NFTs, drops, discounts, staking and other privileges.

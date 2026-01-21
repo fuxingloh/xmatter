@@ -20,6 +20,11 @@ links:
     url: >-
       https://www.galaxyvillains.com/_files/ugd/834baa_0f0fbd0ed2644f17b7d9add713eb73c9.pdf
 name: Galaxy Villains
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ea0506"
 ---
 
 Galaxy Villains is a community driven token under the Galaxy Heroes ecosystem. GVC is your gateway to a decentralized galaxy where holders can take leadership of their finances and earn sparkly rewards.

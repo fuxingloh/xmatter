@@ -25,6 +25,11 @@ links:
     url: >-
       https://github.com/TechRate/Smart-Contract-Audits/blob/main/November/SPAY%20Full%20Smart%20Contract%20Security%20Audit.pdf
 name: SPAY
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0c343b"
 ---
 
 Crypto in your everyday life. SPAY aims to provide a decentralized, private and instant payment method based on cryptocurrency.

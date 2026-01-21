@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/chaos-and-disorder"
 name: chaos and disorder
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#443628"
 ---
 
 CHAOS tokens can be traded on decentralized exchanges.

@@ -15,6 +15,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/safepal/"
 name: SafePal Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0c0505"
 ---
 
 SafePal is a cryptocurrency wallet that aims to provide a secure and user-friendly crypto asset management platform.

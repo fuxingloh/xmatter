@@ -11,6 +11,11 @@ links:
   - name: medium
     url: "https://medium.com/rampdefi"
 name: RAMP DEFI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c4bcbc"
 ---
 
 Unlocking Liquid Capital From Staked Assets

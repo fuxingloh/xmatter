@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/koma-inu"
 name: Koma Inu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#bf2e25"
 ---
 
 Koma, son of Shib and protector of BNB, is a dog themed token built around community driven decentralization and charity.

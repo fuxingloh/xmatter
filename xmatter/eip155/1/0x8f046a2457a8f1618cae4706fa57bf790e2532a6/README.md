@@ -24,6 +24,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/restore-truth-token"
 name: Restore Truth Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#cba83b"
 ---
 
 Using the power of crypto, RTT puts American values at the forefront of its decision making, and you can play your part by using the RTT ecosystem to help fix issues important to you.

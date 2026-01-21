@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/rifampicin"
 name: Rifampicin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#aba3f3"
 ---
 
 $RIF token represents longevity experiments performed with the compound Rifampicin. These experiments are live-streamed on Pump Science.

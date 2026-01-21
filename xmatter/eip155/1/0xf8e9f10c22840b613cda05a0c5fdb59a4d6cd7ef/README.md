@@ -25,6 +25,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/dogsofelon"
 name: Dogs Of Elon
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f5d4ac"
 ---
 
 $DOE is a community-focused, DeFi cryptocurrency token, and the companion to the Dogs Of Elon NFTs.

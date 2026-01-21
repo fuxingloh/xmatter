@@ -41,6 +41,11 @@ links:
     url: >-
       https://etherscan.io/address/0xAFCdd4f666c84Fed1d8BD825aA762e3714F652c9#code
 name: Vita Inu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#077af7"
 ---
 
 Vita Inu is the world’s first fast and feeless dog coin with high TPS and native smart contracts. VINU is the powerful multi-chain currency and governance token of the Vinuverse. The VINU community believes cryptocurrencies should be moved around freely, securely, and efficiently.

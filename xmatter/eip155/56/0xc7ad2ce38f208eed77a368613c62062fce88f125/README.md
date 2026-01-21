@@ -19,6 +19,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/AerdropOfficial/"
 name: AERDROP
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1b6991"
 ---
 
 $AER token offers holders redistribution %, $AER airdrops & free access to the first Defi launchpad for new tokens offering exclusive airdrops.

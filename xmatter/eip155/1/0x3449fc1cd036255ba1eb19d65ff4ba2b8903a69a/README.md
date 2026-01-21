@@ -15,6 +15,11 @@ links:
   - name: medium
     url: "https://medium.com/basis-cash"
 name: Basis Cash
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#8848f8"
 ---
 
 Basis Cash is an open source, permissionless stablecoin pegged to USD. The protocol is designed to expand and contract supply similarly to the way central banks buy and sell fiscal debt to stabilze purchasing power, without any REBASES or risking colletrals.

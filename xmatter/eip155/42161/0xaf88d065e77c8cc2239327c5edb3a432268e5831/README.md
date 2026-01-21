@@ -13,6 +13,11 @@ links:
   - name: blog
     url: "https://centre.io/blog"
 name: USD Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2474cc"
 ---
 
 USDC is a fully collateralized US Dollar stablecoin developed by CENTRE, the open source project with Circle being the first of several forthcoming issuers.

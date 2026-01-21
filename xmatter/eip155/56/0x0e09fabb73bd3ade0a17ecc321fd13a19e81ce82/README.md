@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/pancakeswap-token/"
 name: PancakeSwap Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#37d3df"
 ---
 
 PancakeSwap is a yield farming project whereby users can get FLIP (LP token) for staking and get CAKE token as reward.

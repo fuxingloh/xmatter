@@ -26,6 +26,11 @@ links:
   - name: medium
     url: "https://medium.com/@cere-network"
 name: Cere Network
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#9225e2"
 ---
 
 Cere Network, backed by Binance Labs, Republic Labs, and Polygon, powers data projects in a decentralized way. It provides decentralized storage (“AWS S3”), cost-efficient data streaming (“Cloudflare”), and AI workflows (“Databricks”). This while preserving data privacy, ensuring data ownership, and enabling secure data operations.

@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/banana-gun/"
 name: Banana
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#facc46"
 ---
 
 Banana Gun is a Telegram DEX Trading Bot, featuring: Auto Sniper, MEV-resistant swaps, Anti Rug & Re-org Protection.

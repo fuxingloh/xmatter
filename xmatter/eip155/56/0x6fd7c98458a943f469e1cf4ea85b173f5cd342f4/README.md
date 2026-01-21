@@ -11,6 +11,11 @@ links:
   - name: reddit
     url: "https://reddit.com/user/BillionHappiness"
 name: BillionHappiness
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fc842c"
 ---
 
 Billion Happiness has a token called BHC. Users can earn BHC cashback through shopping on the online store, NFT Marketplace and via staking/farming.

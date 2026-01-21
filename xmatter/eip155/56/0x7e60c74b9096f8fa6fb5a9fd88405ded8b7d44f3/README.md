@@ -12,6 +12,11 @@ links:
   - name: whitepaper
     url: "https://medium.com/@InfiblueWorld/infiblue-whitepaper-v1-0-8bb685def026"
 name: Infiblue World Monie
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#3667a0"
 ---
 
 Infiblue world is a GameFi, SocialFi DApp. It is a metaverse that offers players infinite way to make wealth and build social life.

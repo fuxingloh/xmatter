@@ -17,6 +17,11 @@ links:
   - name: medium
     url: "https://medium.com/okcash"
 name: Okcash
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040811"
 ---
 
 OK is the leading multi chain PoS, web3 + NFTs open source electronic cash, its design is public, nobody owns or controls Okcash and everyone can take part.

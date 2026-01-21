@@ -13,6 +13,11 @@ links:
   - name: whitepaper
     url: "https://github.com/bitphantom-ops/whitepaper"
 name: BitPhantom Pro
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#008000"
 ---
 
 Bitphantom Pro is the utility token of Bitphantom Exchange, Token holder enjoy certain benefits for holding.

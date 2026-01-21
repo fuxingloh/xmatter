@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/tellor/"
 name: Tellor
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#44f7aa"
 ---
 
 Tellor (a decentralized oracle) aims to address the Oracle problem on Ethereum.

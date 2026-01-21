@@ -20,6 +20,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/multibit"
 name: MUBI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#44d6b2"
 ---
 
 MultiBit is the first-ever dual-sided bridge designed for easy cross-network transfers between BRC20 and ERC20 tokens.

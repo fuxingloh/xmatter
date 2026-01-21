@@ -19,6 +19,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/swissborg/"
 name: SwissBorg
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#85c145"
 ---
 
 SwissBorg is a wealthtech offering Swiss-made crypto investment solutions to the world.

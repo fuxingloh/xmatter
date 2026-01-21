@@ -19,6 +19,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/trillioner/"
 name: Trillioner
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fabb1c"
 ---
 
 The Trillioner crypto project aims to bridge the gap between traditional finance and the crypto world by offering financial services for both crypto projects and private users.

@@ -33,6 +33,11 @@ links:
   - name: medium
     url: "https://checkdot.medium.com"
 name: CheckDot
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#39ee93"
 ---
 
 CheckDot is designed to be the ultimate blockchain technology tool for end-users and developers, offering a various range of services that can help, simplify and innovates customers experience on cryptocurrency and blockchain world.

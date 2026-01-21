@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://medium.com/tenspeed/"
 name: TENS
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ec8b97"
 ---
 
 TenSpeed is the next generation of high yield deflationary farming, utilizing the TENS cryptocurrency which has been programmed to decrease in total supply the more active trading, yield farming and moving tokens becomes.

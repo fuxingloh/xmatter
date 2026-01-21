@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://medium.com/@jetfuelfinance"
 name: Fuel Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Jetfuel is a yield farming and yield aggregator platform that combines features from the most successful DeFi projects. The Jet Vault allows users to automate and maximize their returns through various Binance Smart Chain protocols using a variety of liquidity provider tokens, staking tokens and other assets that generate positive yield for the user. The Jet Vaults will automatically harvest, sell, compound and buy tokens for you so you can maximize your returns without lifting a finger.

@@ -24,6 +24,11 @@ links:
   - name: medium
     url: "https://medium.com/@XAI_tech"
 name: X AI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#8c8c8c"
 ---
 
 X AI is an application that leverages artificial intelligence and machine learning algorithms to create distinct digital assets that can be sold as Non-Fungible Tokens.

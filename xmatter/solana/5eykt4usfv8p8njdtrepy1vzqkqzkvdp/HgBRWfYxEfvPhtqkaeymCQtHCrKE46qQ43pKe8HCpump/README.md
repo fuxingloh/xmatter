@@ -18,6 +18,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/bertram-the-pomeranian/"
 name: Bertram The Pomeranian
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#2874d2"
 ---
 
 In a market dominated by hype and lack of substance, $BERT was born with one simple yet powerful mission: to transform a meme into a real force for good - helping dogs globally. Inspired by a real dog, Bertram the Pomeranian, with millions of fans globally, $BERT bridges the gap between Web2 and Web3 through AI, smart dog tags and real world impact. $BERT is no longer a meme, it is a global movement

@@ -17,6 +17,11 @@ links:
   - name: whitepaper
     url: "https://shinatoken.com/whitepaper/ShinaTokenWhitepaper-v0.6.pdf"
 name: Shina Inu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#351c3b"
 ---
 
 Shina Token is a decentralized meme token on the Ethereum blockchain. Its mission is to give back to the crypto community, give to charity, and win the heart of the greatest token of all time - Shina Inu.

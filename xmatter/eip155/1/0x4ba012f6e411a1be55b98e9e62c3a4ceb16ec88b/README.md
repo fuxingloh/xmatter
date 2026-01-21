@@ -11,6 +11,11 @@ links:
   - name: whitepaper
     url: "https://www.cybercoin.site/Cybercoin.pdf"
 name: Cybercoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 The next-generation blockchain platform for large-scale stacking value. Cybercoin is a platform solution for true digital value storage - Blockchain for everyone - Digital security and boundless possibilities.

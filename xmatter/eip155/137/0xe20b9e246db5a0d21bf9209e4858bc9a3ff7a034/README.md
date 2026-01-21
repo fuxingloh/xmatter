@@ -11,6 +11,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/banano/"
 name: Wrapped Banano
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#323235"
 ---
 
 Wrapped Banano is a token pegged to Banano, enabling to wrap/unwrap your Banano on the Polygon network.

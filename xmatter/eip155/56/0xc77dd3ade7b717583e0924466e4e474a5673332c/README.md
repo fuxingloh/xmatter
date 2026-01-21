@@ -20,6 +20,11 @@ links:
     url: >-
       https://bscscan.com/address/0xc77Dd3AdE7b717583E0924466E4E474A5673332c#code
 name: Magic Beasties
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0e2e54"
 ---
 
 BSTS is a hyper-deflationary token running on Binance Smart Chain, which will be used in the in-game store to buy Beasties and other items

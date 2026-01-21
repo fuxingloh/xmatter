@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/ethena_labs"
 name: Staked USDe
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0e0e0e"
 ---
 
 vEthena is a synthetic dollar protocol built on Ethereum that will provide a crypto-native solution for money not reliant on traditional banking system infrastructure, alongside a globally accessible dollar denominated savings instrument - the 'Internet Bond'.

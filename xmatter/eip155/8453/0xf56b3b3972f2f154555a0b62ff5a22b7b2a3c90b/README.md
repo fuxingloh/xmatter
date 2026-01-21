@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/zap-2"
 name: ZAP
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f8f80c"
 ---
 
 ZAP is a web3 token distribution protocol. ZAP has three core products that allow consumers to discover, earn, and deploy tokens on chain. ZAP Drops is a mission based airdrop platform that users complete on and off-chain missions for different protocols earn a variety of rewards whilst completing these missions.

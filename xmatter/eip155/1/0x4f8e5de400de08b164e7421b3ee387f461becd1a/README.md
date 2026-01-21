@@ -11,6 +11,11 @@ links:
   - name: whitepaper
     url: "https://usdd.io/USDD-en.pdf"
 name: Decentralized USD
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#246c5c"
 ---
 
 Decentralized USD (USDD) is a fully decentralized stablecoin pegged to the US dollar through crypto reserves.

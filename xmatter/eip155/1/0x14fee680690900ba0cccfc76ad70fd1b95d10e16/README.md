@@ -11,6 +11,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/paal-ai"
 name: PAAL AI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#520780"
 ---
 
 Paal is an advanced chatbot built on AI and ML technologies, designed to streamline tasks that typically require human intellect, such as natural language understanding, image recognition, decision-making, and problem-solving.

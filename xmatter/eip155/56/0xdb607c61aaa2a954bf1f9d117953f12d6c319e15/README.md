@@ -17,6 +17,11 @@ links:
   - name: telegram
     url: "https://t.me/honeypadofficial"
 name: HONEYPAD
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fca824"
 ---
 
 Honeypad Is The Hive To Bee! We Reward Holders Through Tax Rewards, Automatic Token Burning, and a Pioneering Buy-back System. All While Providing A Secure And Vibrant Eco-system.

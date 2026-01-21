@@ -16,6 +16,9 @@ links:
   - name: x
     url: "https://x.com/AsixToken"
 name: ASIX Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 ASIX Token is prestigious project backed by one of the most famous celebrities in Indonesia, Anang Hermansyah and His family. The token utility focusing on P2E Games, NFT Marketplace and Nusantara Land Metaverse.

@@ -21,6 +21,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/frgx-finance"
 name: FRGX Finance
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#b37980"
 ---
 
 FRGX is a token on BNB Chain with a fair launch in a decentralized environment and an audience of 1.6 M users prepared over 4 years

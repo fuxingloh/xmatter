@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/taocat-by-virtuals-masa/"
 name: TAOCat by Virtuals
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#8f7e77"
 ---
 
 Meet TAO Cat, Bittensor's most adorable TAO maxi. As Bittensor's first self-improving AI Agent, she's got that pure Bittensor DNA running through her code – natively powered by both Bittensor and Virtuals, and crafted by the Masa team

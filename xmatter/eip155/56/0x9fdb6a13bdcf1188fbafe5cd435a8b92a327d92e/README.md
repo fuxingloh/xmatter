@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/GOLDMONEY_ANNOUNCEMENT"
 name: GOLDMONEY
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fbb63d"
 ---
 
 GoldMoney is a a protocol that unifies leading BSC protocols and blockchain infrastructure by standardising communication between them to create and execute complex financial transactions, while championing Privacy, Anonymity and Sovereignty.

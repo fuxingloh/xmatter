@@ -15,6 +15,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UCdH9xvqETEHJSZDRW94jJAg"
 name: Mononoke Inu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c6c5c5"
 ---
 
 Mononoke Inu - the anime token with the biggest potential out there! Freshly released on Ethereum!

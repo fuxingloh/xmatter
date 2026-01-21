@@ -21,6 +21,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/tiny-coin"
 name: Tiny Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fce3d8"
 ---
 
 Tiny World is a fully trading game universe based on historical legends from across the globe. It combines P2E and DAO governance with quality gameplay.

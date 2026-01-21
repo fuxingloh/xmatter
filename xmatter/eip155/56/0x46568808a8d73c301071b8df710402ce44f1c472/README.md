@@ -17,6 +17,11 @@ links:
   - name: github
     url: "https://github.com/magicdogenet/"
 name: MagicDOGE
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2f355e"
 ---
 
 MagicDOGE is a BSC based smart contract with offers holders hourly rewards in BNB, or ANY BSC token of the holders choosing. Backed by a professional, highly experienced business and marketing team, the project has strong fundamentals. Launching on the 11th October 2021 via an IDO, selling out in 45 minutes, MagicDOGE has set its foundations for a solid future.

@@ -20,6 +20,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/babyflokizilla"
 name: BabyFlokiZilla
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ebb26d"
 ---
 
 BabyFlokiZilla is a Community-driven, Meme token on Binance Smart Chain.

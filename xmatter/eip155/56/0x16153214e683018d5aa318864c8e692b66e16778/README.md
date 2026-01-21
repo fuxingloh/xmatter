@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/polkawarchat"
 name: PolkaWar
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d00c76"
 ---
 
 PolkaWar is a blockchain based NFT gaming platform and marketplace. Inspired by the recent crypto NFT and gaming narratives, PolkaWar will combine and synergize them both to build an attractive platform.

@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/michiportal"
 name: michi
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#9e8164"
 ---
 
 michi memes

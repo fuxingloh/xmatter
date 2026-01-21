@@ -19,6 +19,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/feg-token"
 name: FEG Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#edb454"
 ---
 
 a community-driven, innovative DeFi project committed to transparency, long-term sustainability, and inclusivity. By prioritizing security, ethical practices, and empowering users through accessible financial tools and opportunities, FEG aims to revolutionize decentralized finance and foster a thriving, trustworthy ecosystem.

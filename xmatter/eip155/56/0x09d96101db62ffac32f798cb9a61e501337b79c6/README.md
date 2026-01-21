@@ -19,6 +19,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/web3-game/"
 name: WEB3 Game
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#95222a"
 ---
 
 WEB3 Game building a Game Studio, Metaverse, DeFi and Web3.0. An unique play-to-earn game that strives to return ownership back to the gamers

@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/DarwiniaNetwork"
 name: Darwinia Commitment Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#388956"
 ---
 
 Darwinia Network is a decentralized heterogeneous cross-chain bridge protocol built on Substrate, focusing on decentralized cross-chain token swap, exchange and market. Darwinia also serves as critical infrastructure for single-chain application upgrade to cross-chain version, including Defi, Game, DEX, NFT market, etc. Our vision is to build future Internet of Tokens.

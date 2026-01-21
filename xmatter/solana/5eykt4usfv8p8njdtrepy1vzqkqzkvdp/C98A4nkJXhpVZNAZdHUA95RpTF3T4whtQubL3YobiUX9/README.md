@@ -15,6 +15,11 @@ links:
   - name: telegram
     url: "https://t.me/StackerVentures"
 name: Coin98
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#d9b44e"
 ---
 
 Coin98 enables value transfer as easily as using the Internet by the innovation of Multi-chain Engine, Fully Automatic Liquidity and Space Gate, all in one Super Liquidity Aggregator.

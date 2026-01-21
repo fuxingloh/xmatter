@@ -9,6 +9,11 @@ links:
   - name: whitepaper
     url: "https://docs.apy.finance/whitepaper/litepaper"
 name: APY.Finance
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#18123b"
 ---
 
 Yield Farming Robo-Advisor

@@ -11,6 +11,11 @@ links:
   - name: reddit
     url: "https://reddit.com/user/luckylionofficial"
 name: Lucky
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#faae27"
 ---
 
 LUCKY is a token for play a game in Lucky Lion Platform.

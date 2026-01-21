@@ -15,6 +15,11 @@ links:
   - name: whitepaper
     url: "https://drive.google.com/file/d/1Z7gUARX-h5xiF7Y5xFRQCiGf0yZQ7QP_/view"
 name: Giftedhands on BSC
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Giftedhands aims to offer solutions to constant issues in payment to freelancer developers in terms of speeding up the payment process.

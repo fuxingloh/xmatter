@@ -14,6 +14,11 @@ links:
     url: >-
       https://add.finance/static/assets/Add%20Finance%20-%20Whitepaper%20Final.pdf
 name: ADD FINANCE
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#344675"
 ---
 
 Add finance is emerging tech platform which scale the defi with AI (Artificial Intelligence ) to make more scalable and reliable trading bots and DApps.

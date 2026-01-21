@@ -17,6 +17,11 @@ links:
   - name: github
     url: "https://github.com/robustprotocol/"
 name: Robust Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#3c3cd4"
 ---
 
 Robust Token (RBT) is an original concept token on the Binance Smart Chain with a limited supply of 100 000 RBT and a 1% burn per transaction that gets converted into Robust Reward (RBW).

@@ -5,6 +5,11 @@ links:
   - name: website
     url: "https://encrypgen.com"
 name: EncrypGen (old)
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dc3c3c"
 ---
 
 This token has been deprecated and replaced with contract address 0xef6344de1fcfC5F48c30234C16c1389e8CdC572C

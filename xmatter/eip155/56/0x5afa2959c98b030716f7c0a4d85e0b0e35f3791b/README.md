@@ -21,6 +21,11 @@ links:
   - name: medium
     url: "https://medium.com/@bitcoin69"
 name: ElonXAIDogeMessi69PepeInu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e6dcce"
 ---
 
 Aims to create a connection between Artificial Intelligence and Cryptocurrency to build a strong web3 system.

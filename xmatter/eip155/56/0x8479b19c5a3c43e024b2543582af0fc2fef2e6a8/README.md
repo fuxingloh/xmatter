@@ -22,6 +22,11 @@ links:
   - name: medium
     url: "https://medium.com/@maga_bnb"
 name: TRUMP
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1c2843"
 ---
 
 MAGA Movement on the Blockchain. Powered by AI Technology.

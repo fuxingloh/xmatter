@@ -32,6 +32,11 @@ links:
   - name: medium
     url: "https://starlinkmeta.medium.com/"
 name: StarLink $STARL
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d82c1c"
 ---
 
 Starlink Metaverse is a 3D video game featuring NFT collectible virtual real-estate powered by blockchain technology.

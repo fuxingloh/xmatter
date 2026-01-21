@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/tokemak/"
 name: Tokemak
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Tokemak is a decentralized liquidity provider/AMM protocol. TOKE is the native token, serves as tokenized liquidity, enabling stakers to direct the protocol's TVL as liquidity across DeFi markets.

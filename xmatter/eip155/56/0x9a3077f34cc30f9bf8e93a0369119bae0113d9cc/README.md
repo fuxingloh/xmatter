@@ -15,6 +15,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/polyplay/"
 name: PolyPlay
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dddbb0"
 ---
 
 PolyPlay is the Gaming Gold Standard Coin. Gamers can participate in Epsorts tournaments just by holding Play token and win rewards in crypto

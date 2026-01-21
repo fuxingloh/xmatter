@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/RunesBridge"
 name: RunesBridge
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#343434"
 ---
 
 RunesBridge is at the forefront of blockchain interoperability, pioneering the creation of bridges that connect different networks (EVM) to the Bitcoin network through the innovative Runes Protocol.

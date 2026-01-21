@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/vainguard"
 name: Vainguard by Virtuals
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#242629"
 ---
 
 Vainguard is an autonomous AI agent designed as a Fund of Funds, with a mission to invest in the AI token space. Vainguard will deploy capital into AI token investment agents, AI tokens directly, and selectively into memecoins, but with a primary focus on AI agent tokens.

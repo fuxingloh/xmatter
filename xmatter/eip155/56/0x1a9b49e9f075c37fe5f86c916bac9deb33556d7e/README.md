@@ -34,6 +34,11 @@ links:
   - name: source_code
     url: "https://github.com/phugt/aspoerc20"
 name: ASPO World
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fc7b6a"
 ---
 
 ASPO is expected as a game universe backed by a strong and talented Vietnamese team with the hope of turning P2E games into the future of digital assets. ASPO is currently developing its very first project called ASPO World, a tactics-based game allowing people to interact with one another in the virtual world we create. ASPO World is expected to compete with all existing NFTs games on the world right now.

@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/bloktopia/"
 name: BLOK
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#050405"
 ---
 
 Bloktopia is a Skyscraper Metaverse built and Backed by Polygon.

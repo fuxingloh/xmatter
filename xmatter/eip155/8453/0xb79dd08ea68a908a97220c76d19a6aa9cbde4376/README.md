@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/overnight_fi"
 name: USD+
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#041d44"
 ---
 
 USD+ is a yield-generating stablecoin yielding 8-12% pa, via daily rebase. It is fully backed by a portfolio of liquid, yield generating, low risk DeFi assets.

@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/Bonk_On_Base"
 name: Bonk
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#b0cbf6"
 ---
 
 BONK on Base Inspired by Bonk on Solana, us $BONK enthusiasts knew there needed to be a safe $BONK with strong backers on the quickly evolving Base Chain (Coinbase's L2 Network)

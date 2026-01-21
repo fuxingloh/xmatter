@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/"
 name: AntNetworX
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#6c34f3"
 ---
 
 AntNetworX aims to help blockchain, Web3 and DeFi achieve mass adoption by providing seamless and accessible dApps for the next generation. We cover a vast range of solutions such as seamless Web3 UI, keyless smart wallet, Decentralised communication and blockchain gigs. AntNetworX has a first of its kind profit sharing model, with revenue and utility burns.

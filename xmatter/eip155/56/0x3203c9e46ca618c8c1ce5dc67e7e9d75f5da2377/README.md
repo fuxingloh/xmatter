@@ -7,6 +7,11 @@ links:
   - name: website
     url: "https://mobox.io"
 name: MOBOX
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1c5bf4"
 ---
 
 An Optimized Yield-Farming platform combining the best of DeFi and Gaming NFTs. Creating a truly Free To Play Play To Earn Ecosystem on the Binance Smart Chain

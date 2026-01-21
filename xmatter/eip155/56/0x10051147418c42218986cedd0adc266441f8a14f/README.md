@@ -23,6 +23,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/dyor"
 name: DYOR Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0693fb"
 ---
 
 DYOR Project's motto is Educate, Equip, Empower. DYOR Project strives to teach investors how to find reputable crypto projects while avoiding scams.

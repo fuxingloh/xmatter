@@ -21,6 +21,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/amaterasu-omikami"
 name: AMATERASU OMIKAMI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f69d09"
 ---
 
 A decentralized token evolving into a vibrant ecosystem, revolutionizing DeFi, Web3, AI, Machine Learning, and the Metaverse.

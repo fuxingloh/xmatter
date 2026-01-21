@@ -15,6 +15,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/gari/"
 name: Gari
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#2a1027"
 ---
 
 CHINGARI IS THE LARGEST ON CHAIN SOCIAL GRAPH ON WEB3

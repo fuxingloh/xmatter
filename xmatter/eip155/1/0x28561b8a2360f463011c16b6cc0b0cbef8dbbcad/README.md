@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/moodengctoeth"
 name: MOO DENG
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#b89a8b"
 ---
 
 oodeng is a community-driven meme coin on Ethereum, inspired by a famous hippo from a Thai zoo.

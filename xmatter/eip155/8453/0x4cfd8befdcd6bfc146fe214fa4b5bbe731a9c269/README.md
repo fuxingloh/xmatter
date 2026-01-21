@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/marbitz"
 name: MARBITZ
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d79db5"
 ---
 
 Marbitz is the most transparent project coming to the base chain

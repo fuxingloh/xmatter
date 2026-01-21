@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/cybloc-battery-token"
 name: CyBloc Battery Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#6775bf"
 ---
 
 CyBloc Battery Token is CyBall's primary Play-to-Earn reward and utility token with no fixed supply.

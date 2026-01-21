@@ -13,6 +13,11 @@ links:
   - name: telegram
     url: "https://t.me/kasta_announcements"
 name: Kasta
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#631cfa"
 ---
 
 $Kasta is redefining the current understanding of digital payments.

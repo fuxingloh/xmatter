@@ -14,6 +14,11 @@ links:
   - name: facebook
     url: "https://facebook.com/TeamSenspark"
 name: Senspark
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d9340e"
 ---
 
 Senspark is a token used to build a platform to support the financial and economic system applied to GameFi and Metaverse products in the ecosystem of Senspark and its partners.

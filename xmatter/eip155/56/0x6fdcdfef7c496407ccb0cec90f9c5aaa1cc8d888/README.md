@@ -21,6 +21,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/vechain"
 name: VeChain
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#14bcfc"
 ---
 
 VeChain is the world’s leading blockchain platform offering Blockchain-as-a-Service to enterprises for products and information. VeChain strives to build a trust-free and distributed business ecosystem.

@@ -8,6 +8,11 @@ links:
   - name: x
     url: "https://x.com/petuniabsc"
 name: Petunia
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#918576"
 ---
 
 A community claimed ownership for this token on Feb 12 2025

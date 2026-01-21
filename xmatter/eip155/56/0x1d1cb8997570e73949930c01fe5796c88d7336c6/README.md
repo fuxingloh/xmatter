@@ -18,6 +18,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/polkabridge/"
 name: PolkaBridge
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e2067c"
 ---
 
 Decentralized all-in-one financial applications

@@ -13,6 +13,11 @@ links:
   - name: docs
     url: "https://docs.cryptozoon.io/"
 name: CryptoZoon
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f43405"
 ---
 
 CryptoZoon is a complete platform of Digital Creatures Universe live on the Binance Smart Chain (BSC).

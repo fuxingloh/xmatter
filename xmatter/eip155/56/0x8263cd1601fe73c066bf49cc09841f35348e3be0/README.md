@@ -13,6 +13,11 @@ links:
   - name: telegram
     url: "https://t.me/alturanft"
 name: Altura
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#5b8cfb"
 ---
 
 Altura is the next generation gaming NFT platform.

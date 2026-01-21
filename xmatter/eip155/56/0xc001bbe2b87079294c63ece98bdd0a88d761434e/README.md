@@ -19,6 +19,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/evergrow"
 name: EverGrow Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#880ea9"
 ---
 
 EverGrow is a deflationary token designed to become more scarce over time through regular burn. All holders of $EGC will earn an 8% reward from every Buy/Transfer/Sell Transaction in $BUSD

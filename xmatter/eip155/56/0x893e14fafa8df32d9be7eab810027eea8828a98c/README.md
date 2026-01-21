@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/unimoonnetwork"
 name: UNIMOON
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#7bcdd7"
 ---
 
 The First L1 Blockchain Built to Decentralize Social Me​dia

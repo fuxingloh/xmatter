@@ -15,6 +15,11 @@ links:
   - name: whitepaper
     url: "https://docs.dephy.io/other-resources/papers"
 name: DePHY
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 DePHY creates a decentralized service mesh infra that connects services, AIs and hardware.

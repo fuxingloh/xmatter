@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/sphynx"
 name: Sphynx BSC
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e59759"
 ---
 
 SphynxSwap aims to provide an AIO solution for trading, farming, staking and holding in a cross chain environment. The amount of platforms out there can be overwhelming and difficult for an individual to navigate. The idea is to break that massive barrier for those new to the world of crypto.

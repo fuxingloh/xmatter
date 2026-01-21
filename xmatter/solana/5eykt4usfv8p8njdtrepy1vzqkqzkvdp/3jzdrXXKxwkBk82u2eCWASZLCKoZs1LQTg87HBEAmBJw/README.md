@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/floof"
 name: FLOOF
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#ebe4e0"
 ---
 
 We offer the finest Floof on the Solana blockchain

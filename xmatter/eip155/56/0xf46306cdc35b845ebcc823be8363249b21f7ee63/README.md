@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/tradehubai"
 name: Tradehub
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1b302a"
 ---
 
 AI Predictions for Optimal Trading -- Unleash the power of Artificial Intelligence for Trading Excellence!

@@ -11,6 +11,11 @@ links:
   - name: whitepaper
     url: "https://www.avalabs.org/whitepapers"
 name: Binance-Peg Avalanche Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ec4343"
 ---
 
 Avalanche is an open-source platform for launching Decentralized Finance (DeFi) applications and enterprise blockchain deployments in an interoperable, highly scalable ecosystem.

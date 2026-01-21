@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/buxcommunity"
 name: BUX Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#04bc6c"
 ---
 
 BUX is a platform that makes crypto trading simple and accessible.

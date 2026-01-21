@@ -27,6 +27,11 @@ links:
   - name: youtube
     url: "https://youtube.com/@CoWSwap"
 name: CoW Protocol Virtual Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f3cb14"
 ---
 
 CoW Protocol lets you swap assets MEV protected at the best exchange rate by leveraging its batch settlement layer built on top of AMMs and DEX Aggregators.

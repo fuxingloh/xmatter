@@ -7,6 +7,11 @@ links:
   - name: website
     url: "https://four.meme/token/0x8B0B1D4016f912561D9420ae6035AA543fE9a69d"
 name: Mayelon
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#09090d"
 ---
 
 Mayelon

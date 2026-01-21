@@ -15,6 +15,11 @@ links:
   - name: medium
     url: "https://medium.com/yetuswap"
 name: Yetucoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#daa53d"
 ---
 
 Yetucoin is the governance token of the Pan-Afrikan decentralized exchange YetuSwap.

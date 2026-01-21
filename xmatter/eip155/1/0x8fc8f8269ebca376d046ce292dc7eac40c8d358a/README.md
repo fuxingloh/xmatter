@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/defichain/"
 name: DeFiChain
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f91eac"
 ---
 
 DeFiChain (DFI) is a blockchain platform built with the mission of maximizing the full potential of DeFi within the Bitcoin (BTC) ecosystem.

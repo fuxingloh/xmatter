@@ -15,6 +15,11 @@ links:
   - name: telegram
     url: "https://t.me/universalprotocolplatform"
 name: Universal US Dollar
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2645f3"
 ---
 
 The UPUSD is a fully-transparent, digital asset that is collateralized 1-to-1 with U.S. dollars to be held at U.S. domiciled, FDIC-insured banks.

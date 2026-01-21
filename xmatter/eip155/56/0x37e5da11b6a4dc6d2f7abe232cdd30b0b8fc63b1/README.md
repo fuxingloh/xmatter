@@ -16,6 +16,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/bull-btc-club/"
 name: Bull BTC Club
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Bull BTC CLUB is a Hashrate service platform integrating bitcoin Hashrate distribution and multiple financial derivatives of Bitcoin.

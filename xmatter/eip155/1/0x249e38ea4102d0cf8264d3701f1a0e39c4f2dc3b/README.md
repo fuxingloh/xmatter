@@ -13,6 +13,11 @@ links:
   - name: github
     url: "https://github.com/UFOTOKENOFFICIAL/supergalactic"
 name: The Truth
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#16cbeb"
 ---
 
 UFO is an dual purpose token that powers the metaverse and helps govern it.

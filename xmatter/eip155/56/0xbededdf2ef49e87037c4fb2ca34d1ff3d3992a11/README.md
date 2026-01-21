@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/feg-token"
 name: FEG Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e8e9ea"
 ---
 
 Building an ecosystem and passive income around a governance token. Trade your crypto assets using our non-custodial peer-to-peer trading protocol and earn a passive income with our asset-backed governance token.

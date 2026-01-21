@@ -17,6 +17,11 @@ links:
   - name: blog
     url: "https://www.mento.org/blog"
 name: Mento Japanese Yen
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#540dc4"
 ---
 
 Mento Japanese Yen (JPYm) is a decentralized stablecoin pegged to the Japanese Yen on the Celo blockchain.

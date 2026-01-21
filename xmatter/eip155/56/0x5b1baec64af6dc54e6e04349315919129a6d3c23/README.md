@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/DNAxCAT_official"
 name: DNAxCAT
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fcbc24"
 ---
 
 DNAxCAT creates a digital cat pet world where players can raise and breed varies of cute cats and fight shoulder to shoulder in the adventure world with your cats

@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://icarus-finance.medium.com/"
 name: icarus.finance
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0c131b"
 ---
 
 icarus.finace is a decentralized mining protocol that brings ETH and BTC mining to DeFi applications.

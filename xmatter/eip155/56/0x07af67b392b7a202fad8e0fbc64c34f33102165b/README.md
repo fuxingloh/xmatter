@@ -11,6 +11,9 @@ links:
   - name: discord
     url: "https://discord.com/invite/E94cMhRhyu"
 name: Aquagoat
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 AquaGoat Finance is a decentralized community-led eco-DeFi project, with AquaGoat acting as its DeFi alternative to conventional high-interest savings accounts.

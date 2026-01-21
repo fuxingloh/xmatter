@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://rootkitfinance.medium.com"
 name: Rootkit Finance
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Rootkit (ROOT) is a highly deflationary, yield-farmable token that uses permanently locked liquidity pools to unlock new possibilities.

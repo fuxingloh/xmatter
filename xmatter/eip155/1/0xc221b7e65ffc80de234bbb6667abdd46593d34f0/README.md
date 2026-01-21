@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/centrifuge"
 name: Centrifuge
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#cecece"
 ---
 
 The Centrifuge Token (CFG) guides the development of Centrifuge using an onchain governance mechanism. This is an ERC20 wrapped token of CFG deployed on Ethereum and backed 1:1 by CFG on Centrifuge Chain.

@@ -20,6 +20,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/baby-poocoin"
 name: BabyPooCoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c79d66"
 ---
 
 BabyPooCoin is a rewards token ran on the Binance Smart Chain, holders receive rewards in the form of the native utility token of the charting platform PooCoin

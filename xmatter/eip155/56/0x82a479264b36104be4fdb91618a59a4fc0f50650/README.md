@@ -19,6 +19,9 @@ links:
   - name: reddit
     url: "https://reddit.com/r/BirbDefi/"
 name: Birb
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 Welcome to Birb, a high deflationary defi token built on the Binance Smart Chain.

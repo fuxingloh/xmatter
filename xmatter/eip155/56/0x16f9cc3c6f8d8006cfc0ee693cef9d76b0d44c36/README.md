@@ -11,6 +11,11 @@ links:
   - name: x
     url: "https://x.com/BabyBalibsc"
 name: Baby Bali
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2d2e2f"
 ---
 
 We are the first token to combine these 5 super elements at once.

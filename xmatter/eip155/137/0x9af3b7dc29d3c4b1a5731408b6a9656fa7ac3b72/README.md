@@ -15,6 +15,11 @@ links:
   - name: telegram
     url: "https://t.me/polyquityorg"
 name: PUSD
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#895ced"
 ---
 
 PUSD is a completely decentralized stablecoin minted by staking Matic on Polygon network. PUSD is the USD-pegged stablecoin used to pay out loans on the PolyQuity protocol.

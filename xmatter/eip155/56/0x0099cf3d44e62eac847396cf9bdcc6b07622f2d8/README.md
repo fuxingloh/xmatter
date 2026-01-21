@@ -7,6 +7,11 @@ links:
   - name: website
     url: "https://four.meme/token/0x0099cF3d44E62eaC847396CF9BDcc6b07622f2d8"
 name: sandwiches
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dcdbda"
 ---
 
 sandwiches

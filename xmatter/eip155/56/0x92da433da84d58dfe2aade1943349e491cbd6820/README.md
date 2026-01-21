@@ -21,6 +21,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/x7cAKWnWh4"
 name: Rise of Defenders Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dbdbda"
 ---
 
 Rise of Defenders is a very interesting Metaverse NFT game, you can use your creativity and tactical thinking to become an excellent player and receive extremely attractive rewards.

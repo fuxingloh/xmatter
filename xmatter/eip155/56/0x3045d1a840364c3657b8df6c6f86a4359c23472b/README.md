@@ -13,6 +13,11 @@ links:
   - name: whitepaper
     url: "https://orica.io/media/orica_whitepaper.pdf"
 name: Orica
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Orica is an NFT marketplace in Binance Smart Chain for all kind of digital arts, the token which uses in this NFT marketplace is ORI

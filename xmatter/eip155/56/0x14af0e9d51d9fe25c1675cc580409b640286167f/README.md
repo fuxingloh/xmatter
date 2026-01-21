@@ -30,6 +30,11 @@ links:
     url: >-
       https://bscscan.com/address/0x14af0e9d51d9fe25c1675cc580409b640286167f#code#L1
 name: Boom Shiba
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e48554"
 ---
 
 Boom Shiba - BUSD Rewards with the Power of Shiba.

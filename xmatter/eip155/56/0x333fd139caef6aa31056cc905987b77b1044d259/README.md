@@ -13,6 +13,11 @@ links:
   - name: docs
     url: "https://docs.theweb3project.com"
 name: The Web3 Project
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#04436b"
 ---
 
 The Web3 Project provides a high, stable and fixed yield to their users whilst bridging the gap between web2 and web3 for the masses.

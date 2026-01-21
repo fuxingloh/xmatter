@@ -23,6 +23,11 @@ links:
   - name: reddit
     url: "https://reddit.com/Altraniyumm/"
 name: Altranium
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#b05e0b"
 ---
 
 Altranium coin comes fully equipped with the cogitating & imperative ecosystem with the emerging and integrated technologies which can build DeFi, SocialFi, GameFi and metaverses. ALTR hones the ability to process tokens deploying full decentralize systems such as DeFi on Ethereum, by using the native Blockchain to create the interactive visual experiences, enhancing the experience further with VR (Virtual Reality) Media Codec within Metaverse(s) as well as CRE (Corporate Real Estate)

@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/ChildAidFund"
 name: Childrens Aid Foundation
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1f963b"
 ---
 
 Children's Aid Foundation is a public welfare MEME coin that uses transaction tax revenue to assist children or organizations needing assistance.

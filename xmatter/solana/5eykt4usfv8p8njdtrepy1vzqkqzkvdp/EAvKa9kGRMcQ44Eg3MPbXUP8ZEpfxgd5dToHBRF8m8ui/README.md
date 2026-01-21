@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/pepewifhat-3"
 name: Pepewifhat
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#cd2613"
 ---
 
 its pepe wif a hat

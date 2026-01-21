@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/bald/"
 name: Bald
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0404fb"
 ---
 
 Bald (BALD) is a cryptocurrency and operates on the Base platform.

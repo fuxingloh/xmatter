@@ -5,6 +5,9 @@ links:
   - name: website
     url: "https://bscscan.com/token/0xf5967b4a40be5d721f06a9e8165dd11f521f37ea"
 name: HONEYPOT Zether USD
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 HONEYPOT Zether USD

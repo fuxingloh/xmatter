@@ -21,6 +21,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/ovr/"
 name: OVR
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#b648a5"
 ---
 
 OVR is the decentralized infrastructure for the metaverse, merging physical and virtual world through Augmented Reality

@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/speedcto"
 name: real fast
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#d1bfb9"
 ---
 
 Launched on 30 April 2024, real fast (speed) is a meme coin focused on a dog sprinting across a floor. It was subject to a community takeover on 05 May 2024, by a team that saw the massive potential in the coin. Since then, speed has been zooming across the entire Solana blockchain.

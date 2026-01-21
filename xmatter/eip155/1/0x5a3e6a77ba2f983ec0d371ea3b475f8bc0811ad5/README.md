@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/0x0-ai-ai-smart-contract/"
 name: "0x0.ai: AI Smart Contract Auditor"
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dcdddd"
 ---
 
 0x0.ai focuses on privacy, advanced AI-based safety tools, and a unique revenue-sharing model. With its cutting-edge technology, secure transactions, and opportunities for passive income, 0x0 revolutionizes the DeFi landscape.

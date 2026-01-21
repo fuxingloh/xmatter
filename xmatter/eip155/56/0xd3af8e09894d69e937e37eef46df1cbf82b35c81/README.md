@@ -15,6 +15,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/NanoDogeCoin/"
 name: NanoDogeCoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#cbccde"
 ---
 
 NanoDogeCoin (INDC) is the revolutionary token that allows investors to earn USD Tether while helping to save dogs worldwide.

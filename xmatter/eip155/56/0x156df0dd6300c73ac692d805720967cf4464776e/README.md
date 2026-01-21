@@ -13,6 +13,11 @@ links:
   - name: telegram
     url: "https://t.me/astrospacesio"
 name: AstroSpaces.io
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#041529"
 ---
 
 AstroSpaces.io is building the biggest web3 integrated social network!

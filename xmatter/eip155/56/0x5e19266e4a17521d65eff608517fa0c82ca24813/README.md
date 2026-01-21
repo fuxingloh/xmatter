@@ -19,6 +19,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/cleanocean"
 name: CleanOcean
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0f75bc"
 ---
 
 An innovative crypto investment project combining the growth potential of blockchain technology with oceanic conservatory operations.

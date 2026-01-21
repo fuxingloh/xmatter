@@ -23,6 +23,11 @@ links:
   - name: medium
     url: "https://gamerse.medium.com/"
 name: LFG Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#29312f"
 ---
 
 GAMΞRSΞ is the new home for NFT gaming and the metaverse social economy. Our cross-chain, cross-platform, and cross-verse solutions are unifying the fragmented NFT gaming ecosystem.

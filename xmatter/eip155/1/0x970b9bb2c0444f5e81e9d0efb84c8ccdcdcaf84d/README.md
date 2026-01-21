@@ -19,6 +19,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/fuse-network/"
 name: Fuse Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#b3fbbb"
 ---
 
 Fuse is a no-code smart contract platform for entrepreneurs that allows entrepreneurs to integrate everyday payments into their business.

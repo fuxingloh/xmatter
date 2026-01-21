@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/microshib/"
 name: MicroSHIBA
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#3b3d59"
 ---
 
 MicroSHIBA is a brand new token from a very experienced team that has implemented a manual buy back system to help protect investors maintain a steady market price in the event of a whale dump or continuous market sells.

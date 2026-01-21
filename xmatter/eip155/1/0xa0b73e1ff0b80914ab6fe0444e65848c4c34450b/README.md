@@ -19,6 +19,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/crypto-com-chain/"
 name: Crypto.com Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#232c57"
 ---
 
 Crypto.com Chain will be a privacy preserving payment network that focuses on enabling crypto spending in the real world, powering the future of mobile money.

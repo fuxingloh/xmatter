@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/DBZ_tribute"
 name: Dragonball Z Tribu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e1a979"
 ---
 
 $DBZ A tribute to the legend, the mastermind behind the record-breaking Dragon Ball Franchise.

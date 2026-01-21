@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/bscbet-online"
 name: Smilek
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#fbbf0d"
 ---
 
 SMILEK is revolutionizing the crypto space, challenging traditional finance with a grin! Born to defy the norms, SMILEK is not just a token, but a movement.

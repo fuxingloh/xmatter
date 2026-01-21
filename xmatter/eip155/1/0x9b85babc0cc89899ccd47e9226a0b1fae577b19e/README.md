@@ -11,6 +11,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/EwpWyGu"
 name: PPBToken
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#7bfbfb"
 ---
 
 A stablecoin to bank the unbanked

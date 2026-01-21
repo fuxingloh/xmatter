@@ -13,6 +13,11 @@ links:
   - name: facebook
     url: "https://facebook.com/cyberfm"
 name: CyberFM Radio
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - trc20
+icon: icon.png
+color: "#dde2e5"
 ---
 
 Utility token to reward Radio listeners and is 1 of 2 in the DLPRO Dual Token Economy.

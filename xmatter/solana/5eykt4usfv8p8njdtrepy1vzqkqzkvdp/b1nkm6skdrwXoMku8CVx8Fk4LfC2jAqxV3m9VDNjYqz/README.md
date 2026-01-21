@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/blinkdotfun"
 name: blinkdotfun
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#0b0b0b"
 ---
 
 infiniteBLINK is the first test token that's forever tradable using only blinks.

@@ -15,6 +15,11 @@ links:
   - name: facebook
     url: "https://facebook.com/Etherconnt"
 name: Etherconnect Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#8858fc"
 ---
 
 Etherconnect is an Open Decentralized Finance Ecosystem Platform for derivative financial instruments. It is on BEP20 blockchain technology, which helps you to turn your Crypto Holdings in to future growth.

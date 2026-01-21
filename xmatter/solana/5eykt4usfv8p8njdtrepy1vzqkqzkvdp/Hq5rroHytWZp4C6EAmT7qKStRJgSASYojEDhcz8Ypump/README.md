@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/JOEbyeden"
 name: JOE BYEden
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#e1dfdd"
 ---
 
 Joe $BYEden is going into retirement, we want to thank 46th president of the USA for all the wonderful things he didn't do.

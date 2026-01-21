@@ -18,6 +18,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/reserve-rights-token/"
 name: Reserve Rights
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 The Reserve team's goal is to make the most accessible, economically strongest, and most robust-to-attack currency.

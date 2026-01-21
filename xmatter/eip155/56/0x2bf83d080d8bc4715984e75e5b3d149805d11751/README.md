@@ -33,6 +33,11 @@ links:
   - name: source_code
     url: "https://bscscan.com/token/0x2Bf83D080d8Bc4715984e75E5b3D149805d11751#code"
 name: VinuChain
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#070707"
 ---
 
 VinuChain (VC) is a groundbreaking layer-1 blockchain project that encompasses the best of both worlds - innovation and scalability. As a DAG-based EVM chain, VinuChain boasts one-second finality and near-infinite scalability at a fraction of the cost of traditional blockchains, or zero cost to users who stake.

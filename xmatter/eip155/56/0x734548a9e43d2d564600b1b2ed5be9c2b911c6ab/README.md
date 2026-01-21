@@ -15,6 +15,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/aave/"
 name: PEEL Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#cda83e"
 ---
 
 PEEL is the governance token of Meta Apes, a mobile strategy game.

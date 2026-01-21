@@ -13,6 +13,11 @@ links:
   - name: telegram
     url: "https://t.me/myfuturetoken"
 name: FutureToken
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#b3b3b3"
 ---
 
 FutureToken (FTR) invites you to embark on a journey into the future of finance, where innovation meets opportunity

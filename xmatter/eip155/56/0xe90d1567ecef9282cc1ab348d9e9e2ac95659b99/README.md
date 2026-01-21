@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/Coinxpad"
 name: CXPAD Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#5b94f3"
 ---
 
 Cex / Dex Multi-Chain IDO Launchpad. CoinxPad is where you get access to the best new tokens before they list on other centralized or decentralized exchanges.

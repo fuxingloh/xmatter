@@ -15,6 +15,11 @@ links:
   - name: whitepaper
     url: "https://www.underminegold.com/en/UMG_White_Paper.pdf"
 name: UnderMineGold
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d7be67"
 ---
 
 UnderMineGold project will become a platform, which includes NFT, De-Fi and game.

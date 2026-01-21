@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/NeuralYield"
 name: NeuralYield
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 AI-powered yield optimization on BSC. Smarter staking, higher returns, zero effort

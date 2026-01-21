@@ -31,6 +31,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/bumoon"
 name: BUMooN
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#11779f"
 ---
 
 BUMooN is a Eco-Living Token that aims to be dividend tools between its green project closed-loop revenue and user.

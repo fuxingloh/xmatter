@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/maker/"
 name: Binance-Peg Maker
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#5cbbab"
 ---
 
 Maker is a utility token, governance token and recapitalization resource of the Maker system.

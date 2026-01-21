@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/kin"
 name: Kin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#7444f4"
 ---
 
 Kin gives everyone skin in the game – making it easy for apps and brands to reward users and create exciting experiences with cryptocurrency.

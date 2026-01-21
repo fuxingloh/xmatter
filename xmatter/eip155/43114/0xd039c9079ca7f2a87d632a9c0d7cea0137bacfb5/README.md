@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/ape-x"
 name: Ape-X
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#694e9c"
 ---
 
 Liquidity Generating, Frictionless Yield, and Self Sustaining Smart Contract

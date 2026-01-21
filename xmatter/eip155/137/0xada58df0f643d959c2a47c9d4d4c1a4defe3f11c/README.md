@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/crypto-com-chain/"
 name: Crypto.com Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1067af"
 ---
 
 The most profitable and secure platform to entrust your digital assets. Absolutely safe with multi-layer encrypted protection.

@@ -15,6 +15,11 @@ links:
   - name: whitepaper
     url: "https://docs.a7a5.io/additional/whitepaper"
 name: A7A5
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c61909"
 ---
 
 A7A5 is an RWA token backed by fiat deposits in top-tier banks with high overnight rates. A7A5 automatically distributes 50% of its daily income to all token holders at a random time each day, requiring no action on their part. A7A5 has a wrapped version - wA7A5 (0x0d57436f2d39c0664c6f0f2e349229483f87ea38) which is used for DeFi platforms as A7A5 is a rebasing token.

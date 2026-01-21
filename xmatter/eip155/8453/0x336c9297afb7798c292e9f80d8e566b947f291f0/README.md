@@ -23,6 +23,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/phala-network"
 name: Phala
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#060608"
 ---
 
 Phala Network is the most decentralized protocol to run AI Agents as coprocessors for blockchains.

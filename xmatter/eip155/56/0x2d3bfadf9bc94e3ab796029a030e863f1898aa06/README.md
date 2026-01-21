@@ -15,6 +15,11 @@ links:
   - name: medium
     url: "https://medium.com/@CreamdotFinance"
 name: Cream Trust Wallet
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e7c398"
 ---
 
 C.R.E.A.M. bridges liquidity across underserved assets by providing algorithmic money markets to these underserved assets. Users can supply any supported assets and use these supplied assets as collateral to borrow any other supported assets. C.R.E.A.M. has launched on Ethereum and Binance Smart Chain.

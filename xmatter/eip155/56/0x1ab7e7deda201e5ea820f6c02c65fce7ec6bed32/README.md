@@ -21,6 +21,11 @@ links:
   - name: medium
     url: "https://botplanet.medium.com/"
 name: BOT
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c416fc"
 ---
 
 BOT is a token issued by Botplanet Ltd

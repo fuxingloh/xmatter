@@ -17,6 +17,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/ator"
 name: ATOR Protocol
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#04b3c3"
 ---
 
 ATOR empowers The Onion Router (Tor) through on-chain incentives, and facilitates wider adoption of secure network relay protocols through hardware products.

@@ -9,6 +9,11 @@ links:
   - name: github
     url: "https://github.com/Tavitt/token"
 name: Tavittcoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#04509a"
 ---
 
 Tavitt builds a platform that allows travelers as Travel Providers to earn income while traveling.

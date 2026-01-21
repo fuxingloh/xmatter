@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://bafe-io.medium.com/"
 name: Bafe.io
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fae605"
 ---
 
 Self generating liquidity token - Reflection paid back to holders.

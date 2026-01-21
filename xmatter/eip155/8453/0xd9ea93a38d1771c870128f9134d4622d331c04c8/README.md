@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/make-america-based-again/"
 name: Make America Based Again
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e2d8ce"
 ---
 
 About MABA Let's get real - Trump isn't just another pup in the pack. He's the alpha, leading the world pack with more sass than a cat on a hot tin roof. Why? Because we're riding high on the Base Blockchain, the kind of tech so spicy, it had tech moguls sliding into our DMs for a peek. We told them, Back off, big brains! This tech is too hot to handle!

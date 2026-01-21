@@ -17,6 +17,11 @@ links:
   - name: whitepaper
     url: "https://binstarter.io/bsrdoc/BinStarter-Whitepaper-PDF.pdf"
 name: BinStarter
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ffbc00"
 ---
 
 BSR is is a BinStarter Launchpad Token

@@ -11,6 +11,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UCwpmXZhLzaFyzMVvMXVombA"
 name: Ronin Gamez
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#241310"
 ---
 
 Token issued by Ronin Gamez studio as a transactional token for the future game launchpad

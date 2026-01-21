@@ -15,6 +15,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/govi/"
 name: GOVI (PoS)
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2667af"
 ---
 
 CVI is created by computing a decentralized volatility index from cryptocurrency option prices together with analyzing the market’s expectation of future volatility.

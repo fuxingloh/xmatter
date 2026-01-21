@@ -21,6 +21,11 @@ links:
   - name: github
     url: "https://github.com/ThoreumFinance/ThoreumCapital"
 name: Thoreum V4 (Thoreum.AI)
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d3ac62"
 ---
 
 THOREUM v4 is upgraded from Thoreum V3 with even more deflationary and value building features: AI Powered Collective Burning, Deepening liquidity and Liquidity Arbitrage Mechanism

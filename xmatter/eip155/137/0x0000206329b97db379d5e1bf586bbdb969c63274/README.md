@@ -18,6 +18,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/ZheVAnFt6h"
 name: USDA
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#4bd1b2"
 ---
 
 USDA is an over-collateralized and decentralized USD stablecoin by the Angle Protocol.

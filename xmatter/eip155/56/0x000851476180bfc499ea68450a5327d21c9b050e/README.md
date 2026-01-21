@@ -18,6 +18,11 @@ links:
   - name: github
     url: "https://github.com/slamtoken"
 name: SLAM Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#252e46"
 ---
 
 SLAM aims to create an ecosystem of products ranging from casino platforms to innovative NFT collections and applications. SLAM holders get dividends.

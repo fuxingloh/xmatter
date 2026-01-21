@@ -11,6 +11,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/elonomics"
 name: Elonomics
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#94be37"
 ---
 
 Elonomics is a Rebase and BUSD Rewards token in the BSC network.

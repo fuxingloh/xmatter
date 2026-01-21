@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/ownixglobal"
 name: Ownix
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Forget everything you know About owning things. ownix - The most dynamic NFT platform of our digital era. Presenting a huge collection of artworks, moments and digital assets - a total experience for the creators and collectors around the world

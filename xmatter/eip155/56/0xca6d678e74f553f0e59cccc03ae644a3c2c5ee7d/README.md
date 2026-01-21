@@ -15,6 +15,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/planettoken/"
 name: PLANET
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#04e5bf"
 ---
 
 Join The Planet is a pioneering #ReFi project that partners with the world’s biggest celebrities to address environmental and sustainable causes. Backed by the $PLANET token, this blockchain for good platform is disrupting the $300 billion green tech market by introducing celebrity-backed Real World Assets (RWAs) to Web3, unlocking incredible real-life experiences for $PLANET holders and creating a sustainable revenue model.

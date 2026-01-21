@@ -17,6 +17,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/rielcoin"
 name: Rielcoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fbc304"
 ---
 
 Rielcoin is a future token for financial freedom that provide a functional token for using cryptocurrency exchanges and payments worldwide

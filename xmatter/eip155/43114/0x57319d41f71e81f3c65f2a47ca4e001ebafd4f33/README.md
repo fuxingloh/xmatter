@@ -15,6 +15,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/joe/"
 name: JoeBar
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 One-stop Decentralized Trading on Avalanche.

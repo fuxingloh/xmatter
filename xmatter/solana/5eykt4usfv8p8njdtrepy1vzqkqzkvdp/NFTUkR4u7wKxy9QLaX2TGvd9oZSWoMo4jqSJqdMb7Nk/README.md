@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/blockasset"
 name: Blockasset
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#444444"
 ---
 
 Blockasset is a leading Web3 sports network with an officially parnership with the UFG, that connects its community with unique experiences through athlete partnerships and innovative products.

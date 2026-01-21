@@ -5,6 +5,11 @@ links:
   - name: website
     url: "https://bankex.com/en/"
 name: '"""BANKEX"" project utility token"'
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#12adfc"
 ---
 
 The BANKEX Proof-of-Asset (PoA) Protocol is a new standard used to create smart assets and smart contracts for decentralized capital markets.

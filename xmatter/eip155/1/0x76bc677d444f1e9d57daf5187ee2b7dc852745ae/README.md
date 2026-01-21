@@ -26,6 +26,11 @@ links:
   - name: docs
     url: "https://open.offshift.io/offshiftXFT/new-papers"
 name: Offshift
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#4f049f"
 ---
 
 Pioneering #PriFi on Ethereum Layer 1

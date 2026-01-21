@@ -17,6 +17,11 @@ links:
   - name: medium
     url: "https://medium.com/@opxtoken"
 name: Opex
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fc9b04"
 ---
 
 Opex OPX is a stablecoin, a digital asset pegged to the Kyrgyz som (KGS), and is designed to facilitate payment transactions, as well as to protect against the volatility common to many other cryptocurrencies.

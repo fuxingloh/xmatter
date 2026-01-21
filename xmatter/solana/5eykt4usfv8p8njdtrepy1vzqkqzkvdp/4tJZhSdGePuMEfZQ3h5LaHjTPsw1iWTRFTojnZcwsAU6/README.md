@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/legends-of-elumia/"
 name: Elumia Crowns
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#b8c1c8"
 ---
 
 Legends of Elumia is leading the way for MMORPG players to gain full ownership of their ingame assets via revolutionary new mechanics.

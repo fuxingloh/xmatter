@@ -32,6 +32,11 @@ links:
     url: >-
       https://github.com/stakewise/contracts/blob/master/contracts/tokens/RewardEthToken.sol
 name: StakeWise rETH2
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e35453"
 ---
 
 rETH2 is a token that represents reward ether in StakeWise.

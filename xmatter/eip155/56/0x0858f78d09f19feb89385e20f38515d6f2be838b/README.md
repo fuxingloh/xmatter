@@ -7,6 +7,11 @@ links:
   - name: x
     url: "https://x.com/habibi_cto"
 name: Habibi
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e2e4e3"
 ---
 
 If you missed out on Mubarak, this is your next big opportunity

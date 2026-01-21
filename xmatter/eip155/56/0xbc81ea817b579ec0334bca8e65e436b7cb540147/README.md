@@ -12,6 +12,11 @@ links:
   - name: telegram
     url: "https://t.me/LaqiraProtocol"
 name: Laqira Protocol
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#6d2397"
 ---
 
 A Metaverse Complex, Tunneling Between People on Earth and Blockchain-Based Technologies

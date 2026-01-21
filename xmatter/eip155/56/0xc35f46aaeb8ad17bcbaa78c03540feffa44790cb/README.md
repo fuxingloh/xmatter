@@ -15,6 +15,11 @@ links:
   - name: medium
     url: "https://lemurfinance.medium.com/"
 name: Lemur Finance
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dfdfdd"
 ---
 
 Lemur is an automated yield farming token and 100% decentralized led by the community.

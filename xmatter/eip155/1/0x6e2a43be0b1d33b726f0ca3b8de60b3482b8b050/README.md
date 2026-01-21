@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/arkhamintelligence"
 name: Arkham
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0f0f0f"
 ---
 
 ARKM is an intel-to-earn and incentive system that help to balance the token economy, with ARKM entering circulation via intel-to-earn payments and ARKM rewards, and cycling out of circulation via pay-in-ARKM platform purchases and exchange fees.

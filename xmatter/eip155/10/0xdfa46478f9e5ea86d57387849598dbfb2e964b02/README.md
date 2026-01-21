@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/QiDaoProtocol"
 name: Mai Stablecoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#41403f"
 ---
 
 miMatic is an algorithmic stablecoin that is collateralized with Matic tokens

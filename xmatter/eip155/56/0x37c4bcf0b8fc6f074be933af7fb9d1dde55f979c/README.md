@@ -24,6 +24,11 @@ links:
     url: >-
       https://bscscan.com/address/0x37c4bcf0b8fc6f074be933af7fb9d1dde55f979c#code
 name: Black Diamond
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f3db91"
 ---
 
 A Diamond In The Rough!

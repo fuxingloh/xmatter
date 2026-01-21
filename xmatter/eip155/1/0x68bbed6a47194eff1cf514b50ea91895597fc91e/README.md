@@ -19,6 +19,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/boysclubandy"
 name: ANDY
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#322a1e"
 ---
 
 Andy is Pepe's lifelong best friend.

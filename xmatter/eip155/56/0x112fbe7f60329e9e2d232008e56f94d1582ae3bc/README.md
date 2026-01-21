@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/babyflokibillionaire"
 name: Baby Floki Billionaire
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f2f683"
 ---
 
 BabyflokiBillionaire is a meme token based on Floki hype

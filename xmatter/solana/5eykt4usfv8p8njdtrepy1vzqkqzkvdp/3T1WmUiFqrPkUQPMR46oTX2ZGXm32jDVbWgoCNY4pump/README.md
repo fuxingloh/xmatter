@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/bichi-mao"
 name: bichi mao
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#fbe7cc"
 ---
 
 Bichi Mao is a creative project centered around a beloved webcomic series that shares heartwarming and relatable stories about cats

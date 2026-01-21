@@ -13,6 +13,11 @@ links:
   - name: telegram
     url: "https://t.me/dxDAO"
 name: DXD
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#3958fb"
 ---
 
 The DXdao is a decentralized organization initialized in May of 2019 and has over 400 unique stakeholder addresses. It develops, governs, and grows DeFi protocols and products. Owned and operated by the community, the DXdao has the potential to significantly scale its membership.

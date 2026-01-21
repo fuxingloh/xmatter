@@ -19,6 +19,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UC3L64zz-sbwaEgMVotqLkTA"
 name: Celestial
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#38260c"
 ---
 
 Celestial is a cross chain metaverse game that combines Gamefi, Socialfi, and NFTSwap with the theme of interstellar warfare.

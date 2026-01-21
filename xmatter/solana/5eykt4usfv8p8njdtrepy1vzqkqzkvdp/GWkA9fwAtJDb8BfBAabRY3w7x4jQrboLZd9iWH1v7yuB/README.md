@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/FKETH2023"
 name: Fuck Eth
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#131313"
 ---
 
 Fuck Eth is a community movement poking fun at the ethereum blockchain

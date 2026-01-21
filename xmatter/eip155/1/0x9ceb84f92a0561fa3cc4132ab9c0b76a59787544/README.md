@@ -11,6 +11,11 @@ links:
   - name: medium
     url: "https://medium.com/@dokidoki.finance"
 name: Doki Doki Finance
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f991c0"
 ---
 
 Experience DeFi in Retro Japan

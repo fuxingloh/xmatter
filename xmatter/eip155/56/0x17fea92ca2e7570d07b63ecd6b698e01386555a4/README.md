@@ -11,6 +11,11 @@ links:
   - name: x
     url: "https://x.com/Cox_Swap"
 name: COXSWAP
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f8c940"
 ---
 
 COXSWAP - Decentralized Exchange – DEX. Trade, farming, staking, earn more token .

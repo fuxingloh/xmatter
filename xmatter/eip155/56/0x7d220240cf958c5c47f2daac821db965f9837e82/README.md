@@ -22,6 +22,11 @@ links:
   - name: medium
     url: "https://medium.com/@Web5inu"
 name: WEB5 Inu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0d69f9"
 ---
 
 WEB5 INU aim to develop BNB Chain Charting Solution with WEB5 Identity enables developers to leverage Decentralized Identifiers

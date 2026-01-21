@@ -11,6 +11,11 @@ links:
   - name: medium
     url: "https://medium.com/@clv_org"
 name: CLV
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#050606"
 ---
 
 Clover is the native token of CLV M-Chain, and is used for staking to take part in network consensus, transaction fees, platform rewards, and network governance.

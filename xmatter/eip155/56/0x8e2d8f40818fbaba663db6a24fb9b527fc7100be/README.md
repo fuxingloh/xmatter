@@ -26,6 +26,11 @@ links:
   - name: source_code
     url: "https://github.com/ORESystem/OREToken/"
 name: ORE Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#043444"
 ---
 
 ORE Token is a component of The ORE System (c) Next-Gen Blockchain Ecosystem

@@ -13,6 +13,11 @@ links:
   - name: youtube
     url: "https://youtube.com/LADZCity"
 name: Ladz
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#775c5e"
 ---
 
 $LADZ is the social token of the Layer1 channel and network.

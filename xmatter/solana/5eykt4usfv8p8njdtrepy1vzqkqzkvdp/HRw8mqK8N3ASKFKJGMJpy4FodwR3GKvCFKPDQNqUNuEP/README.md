@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/trumpcoin"
 name: TrumpCoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#957870"
 ---
 
 The Official coin of Donald J Trump

@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/DCIPfinance"
 name: DCIP
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f4f4f4"
 ---
 
 DCIP is world's first Decentralized Community Investment Protocol.

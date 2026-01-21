@@ -11,6 +11,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/jet"
 name: Jet Protocol
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#cbe5e6"
 ---
 
 Jet is a decentralized borrowing and lending protocol built for speed, power, and scalability on Solana

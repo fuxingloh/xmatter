@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/botto/"
 name: Botto
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Botto is a decentralized autonomous artist that creates works of art based on collective feedback from the community. Our participation is what completes Botto as an artist.

@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://medium.com/@mirror-protocol"
 name: mUSO Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#141c2c"
 ---
 
 Wrapped Mirror USO Token.

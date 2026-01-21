@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/nexum/"
 name: Nexum Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#04decc"
 ---
 
 Nexum is the utility token that aims to power the multi-billion Shipping & Oil industry. NEXM is designed to unbank the shipping industry

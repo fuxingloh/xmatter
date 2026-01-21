@@ -15,6 +15,11 @@ links:
   - name: whitepaper
     url: "https://babycatecoin.net/wp-content/uploads/2021/11/WHITEPAPER-finalz.pdf"
 name: Baby CateCoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f9c80a"
 ---
 
 Baby CateCoin is a meme token that will have utility (e.g. Baby Cate Coin Swap, NFT Marketplace, Merch Shop, Wallet and P2E). It has a very strong community and a very hard working team that has a sole goal to make this successful.

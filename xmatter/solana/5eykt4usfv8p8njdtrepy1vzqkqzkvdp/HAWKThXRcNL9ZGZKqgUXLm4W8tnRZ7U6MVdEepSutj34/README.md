@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/HawkPortalofficial"
 name: Hawk Tuah
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#a58372"
 ---
 
 $HAWK isn’t just a Meme Coin, it’s a part of the culture.

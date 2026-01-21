@@ -16,6 +16,11 @@ links:
     url: >-
       https://503ed78d-728e-4e57-a382-25b391e649e1.filesusr.com/ugd/c294fa_c3ed87277a5c43b09f109904668bd741.pdf
 name: Mini Hollywood Doge
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2d2a27"
 ---
 
 Mini Hollywood Doge is BEP20 Token based on a fun meme, but at its heart is a serious mission to contribute to charitable organisations as voted by its community of holders, and to enable a launchpad for future meme token projects.

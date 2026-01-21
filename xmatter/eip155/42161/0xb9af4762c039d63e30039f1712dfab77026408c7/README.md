@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/bullbear-ai/"
 name: BullBear AI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#20162a"
 ---
 
 BullBear AI is developed using AI to predict the BULL and BEAR markets through User Behaviors and Price Action, generating profit for users.

@@ -25,6 +25,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/micropets"
 name: MicroPets
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ed4e90"
 ---
 
 Meet MicroPets – Home to the cutest NFT’s on the Binance Smart Chain! We’ve taken your favorite memes and packaged them up into adorable pets you can trade or stake. The rarer the MicroPet the better the rewards.

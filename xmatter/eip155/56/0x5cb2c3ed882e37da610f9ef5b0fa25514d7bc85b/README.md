@@ -28,6 +28,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/mouse-haunt"
 name: Mouse Haunt Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c071eb"
 ---
 
 Mouse Haunt is a multiplayer play-to-earn game where players collect NFTs, farm tokens, breed characters, and build levels. In this revolutionary game, players play as the heroes, as the villains, and as the architects of the castles. If desired, players can exchange their earned tokens for real money.

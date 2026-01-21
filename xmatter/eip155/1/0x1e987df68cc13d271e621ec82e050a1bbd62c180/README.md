@@ -17,6 +17,11 @@ links:
   - name: discord
     url: "https://discord.com/wagmigame"
 name: WAGMI Game
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 WAGMI is the brilliant product of combining a Play-To-Earn game concept with a cultural acronym.

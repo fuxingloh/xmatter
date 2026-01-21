@@ -17,6 +17,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/galxe"
 name: Galxe
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1c5cfc"
 ---
 
 Galxe is the leading Web3 credential data network in the world.

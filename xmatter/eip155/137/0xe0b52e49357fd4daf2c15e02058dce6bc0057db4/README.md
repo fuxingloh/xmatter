@@ -18,6 +18,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/ZheVAnFt6h"
 name: EURA
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#8cb0fb"
 ---
 
 EURA is an over-collateralized and decentralized Euro stablecoin by the Angle Protocol.

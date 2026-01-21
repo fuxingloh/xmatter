@@ -15,6 +15,11 @@ links:
   - name: github
     url: "https://github.com/babycakebsc"
 name: BABY CAKE
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d28a4c"
 ---
 
 Baby Cake is the first token on the BSC to reward holders with Cake.

@@ -15,6 +15,11 @@ links:
   - name: github
     url: "https://github.com/bhonetwork"
 name: BHO Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f6edf5"
 ---
 
 Bring blockchain to life.

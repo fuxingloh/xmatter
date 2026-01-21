@@ -15,6 +15,11 @@ links:
   - name: whitepaper
     url: "https://tendacoin.com/whitepaper/"
 name: TendaCoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#041b33"
 ---
 
 Decentralized Currency from People to People.

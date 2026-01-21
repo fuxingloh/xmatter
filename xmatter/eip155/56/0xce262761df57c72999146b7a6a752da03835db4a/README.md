@@ -25,6 +25,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/mu-continent"
 name: Mu Continent
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#055225"
 ---
 
 A sustainable economic model with Vaults, Hold and Earn, and Black Hole design.

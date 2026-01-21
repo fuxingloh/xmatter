@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/TeaMemeCoin"
 name: TEA
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#cddeba"
 ---
 
 $TEA is the premier community-driven memecoin on Solana, uniting tea lovers and the crypto communi-TEA.

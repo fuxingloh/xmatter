@@ -15,6 +15,11 @@ links:
   - name: whitepaper
     url: "https://rhythm.cash/whitepaper"
 name: Rhythm
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#232424"
 ---
 
 $RHYTHM is the token powering the Rhythm music streaming platform, which boasts a library of over 100 million songs, offering holders in-app rewards, perks, NFTs, and powering the Artist Partner Program.

@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/satoshistreetbets"
 name: SatoshiStreetBets Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e6b046"
 ---
 
 An Accelerated Hyper-Deflationary Token powered by advanced tokenomics and the SSB Business Model.

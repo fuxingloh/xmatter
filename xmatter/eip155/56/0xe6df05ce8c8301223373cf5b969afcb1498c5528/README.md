@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/koge"
 name: BNB48 Club Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f9c60c"
 ---
 
 48 Club® was founded in Sept. 2017 by a diverse and tight-knit group of investors with a common passion for BNB. We now have over 500 club members with various backgrounds hailing from all over the world. 48 Club® is run as a decentralized autonomous organization (DAO) and its main areas of operations and expertise are industry research, angel investment, product development, community development and management, and technical operations and maintenance.

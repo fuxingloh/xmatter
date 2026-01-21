@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/venusprotocol"
 name: Venus XVS
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#369af0"
 ---
 
 Venus is a community-driven multichain decentralized protocol delivering best-in-class functionality for crypto money markets.

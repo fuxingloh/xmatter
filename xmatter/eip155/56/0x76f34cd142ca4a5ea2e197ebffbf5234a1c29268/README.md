@@ -23,6 +23,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UCyT8GKH09kifnkEx2_5MaBg"
 name: Titan War
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#cc3e31"
 ---
 
 A Decentralized Gaming Play to Earn Token Based On Binance Smart Chain

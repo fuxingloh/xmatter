@@ -15,6 +15,11 @@ links:
   - name: whitepaper
     url: "https://nominex.io/docs/nominex-whitepaper.pdf"
 name: Nominex Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#84ccfc"
 ---
 
 NMX is the first decentralized exchange token with automatic market making (AMM) functionality.

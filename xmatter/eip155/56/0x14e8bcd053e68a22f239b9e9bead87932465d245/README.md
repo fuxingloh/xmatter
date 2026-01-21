@@ -22,6 +22,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/value-finance"
 name: Value Finance
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d7a731"
 ---
 
 Value finance helps to empower new and existing project with infrastructures required for active blockchain participation

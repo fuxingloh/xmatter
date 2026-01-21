@@ -19,6 +19,11 @@ links:
   - name: facebook
     url: "https://facebook.com/KodexPay"
 name: KodexPay
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2f3a60"
 ---
 
 KodexPay is backed by the easiest and most efficient cryptocurrency gateway to use.

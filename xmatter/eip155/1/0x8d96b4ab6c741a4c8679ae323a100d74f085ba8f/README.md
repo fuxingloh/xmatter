@@ -13,6 +13,11 @@ links:
   - name: telegram
     url: "https://t.me/+47OlE7imAd8yNjQ0"
 name: Bazaars
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#245335"
 ---
 
 Adding BZR Token Logo to Trust Wallet Assets Repo

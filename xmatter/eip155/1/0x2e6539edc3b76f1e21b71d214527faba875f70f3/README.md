@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://medium.com/@YFdotFinance"
 name: Yearn Finance Dot
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e11481"
 ---
 
 Yearn Finance Dot platform is powerful enough from a scalability, interoperability, developability and governance perspective to help make the vision of Web3 a reality that aims to get more value for an investment.

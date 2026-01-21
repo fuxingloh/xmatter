@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/camelot-token/"
 name: Camelot
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#141413"
 ---
 
 Camelot is an ecosystem-focused and community-driven DEX built on Arbitrum.

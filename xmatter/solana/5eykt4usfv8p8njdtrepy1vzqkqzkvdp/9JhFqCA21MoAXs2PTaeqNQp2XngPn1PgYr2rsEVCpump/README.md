@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/opus_genesis"
 name: Claude Opus
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#7a8fb8"
 ---
 
 We are Magnum Opus, an AI accelerator managing and growing the $OPUS ecosystem with guidance from @opus_genesis

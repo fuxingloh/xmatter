@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/MarinadeFinance"
 name: Marinade staked
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#6f90cd"
 ---
 
 Marinade.finance is a liquid staking protocol built on Solana.

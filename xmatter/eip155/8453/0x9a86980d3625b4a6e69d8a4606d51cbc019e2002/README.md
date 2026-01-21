@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/fomo-bull-club"
 name: FOMO BULL CLUB
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d28c0a"
 ---
 
 FOMO BULL CLUB is a members-only, decentralized launchpad and liquidity hub. It initially supports memecoins on the Base blockchain and is set to expand its platform to include Solana, Ethereum, Polygon, and others.

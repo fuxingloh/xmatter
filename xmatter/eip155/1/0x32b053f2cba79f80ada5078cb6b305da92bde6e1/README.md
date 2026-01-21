@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/goneuralai"
 name: NeuralAI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#249860"
 ---
 
 Neural AI aims to create 3D Assets with AI on Bittensor.

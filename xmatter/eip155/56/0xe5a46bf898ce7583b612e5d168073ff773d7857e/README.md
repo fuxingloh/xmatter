@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/cvip"
 name: CVIP
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1f7694"
 ---
 
 CVIP is a decentralized protocol on binance smart chain where users can farm ,stake participate in IDOs. Users and Partners can perform farm optimisers and earn crypto by participating in various options.

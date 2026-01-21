@@ -21,6 +21,11 @@ links:
   - name: medium
     url: "https://medium.com/@radixdlt"
 name: E-RADIX
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#3bc98b"
 ---
 
 E-RADIX (eXRD) is the Ethereum token of Radix, the first layer one protocol built for DeFi. Radix introduces a scalable, secure-by-design, composable platform with a DeFi specific build environment to make it easy to build and launch scalable DeFi.

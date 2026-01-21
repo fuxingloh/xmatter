@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/RivusDAO"
 name: RivusDAO
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Seamlessly integrate staking rewards while maintaining liquidity and flexibility for your digital assets.

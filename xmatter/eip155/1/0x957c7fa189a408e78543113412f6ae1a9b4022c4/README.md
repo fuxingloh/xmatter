@@ -7,6 +7,11 @@ links:
   - name: x
     url: "https://x.com/LF_LabsFund"
 name: LF
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 As an emerging force in the Web3 space, LF Labs is dedicated to driving innovation and market growth.

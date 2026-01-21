@@ -15,6 +15,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/theworldstate"
 name: World$tateCoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e8e8e9"
 ---
 
 Official crypto currency of The World State

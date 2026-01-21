@@ -9,6 +9,11 @@ links:
   - name: whitepaper
     url: "https://github.com/emptysetsquad/dollar/blob/master/d%C3%B8llar.pdf"
 name: Dynamic Set Dollar
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#bababa"
 ---
 
 Algorithmic Stable-coin forked from Empty Set Dollar

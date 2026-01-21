@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/nutcoin-org"
 name: Nutcoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#f19b72"
 ---
 
 NUT is a memecoin deployed on Ethereum with a fixed capped supply. The cryptocurrency was created for entertainment purposes and for building a strong community around NUTS memes creation.

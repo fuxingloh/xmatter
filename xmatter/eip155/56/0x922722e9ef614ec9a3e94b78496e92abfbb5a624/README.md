@@ -17,6 +17,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/il-capo-of-crypto/"
 name: IL CAPO
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#060604"
 ---
 
 HERE IS THE NEW MEME TOKEN I'VE CREATED - $CAPO TOKEN; DEDICATED TO BIGGEST COUNTER TRADING x ACCOUNT - IL CAPO OF CRYPTO! WE ALL KNOW WHO IS CRYPTO CAPO, AKA "biggest bull trap i ever seen" "Still short and strong" AND MORE JOKES LIKE THAT!

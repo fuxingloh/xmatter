@@ -32,6 +32,11 @@ links:
     url: >-
       https://github.com/mysterboxio/Mystery/blob/main/Mystery%20Source%20Code.sol
 name: Mystery
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#923d9f"
 ---
 
 We are a strong mysterious community based project focused on having fun, giveaways, donations, and building strong utilities.

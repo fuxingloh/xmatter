@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/cat-in-hoodie/"
 name: Cat in Hoodie
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#f5cf1d"
 ---
 
 Join the Cat Cartel and show those “genius” scammers what real crypto cats can do. Because, clearly, they thought we’d just sit back and let them win.

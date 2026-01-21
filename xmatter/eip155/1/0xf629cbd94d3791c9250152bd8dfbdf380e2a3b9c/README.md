@@ -24,6 +24,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/enjincoin/"
 name: Enjin Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#38eef8"
 ---
 
 The Enjin ecosystem (comprising the Enjin Platform, Explorer, Wallet, Beam) aims to empower gamers with ownership of digital assets and enables game industry businesses to increase revenue.

@@ -15,6 +15,10 @@ links:
   - name: github
     url: "https://github.com/curate-project"
 name: Curate
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
 ---
 
 The official token for Curate

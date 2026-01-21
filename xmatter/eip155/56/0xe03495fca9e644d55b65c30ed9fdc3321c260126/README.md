@@ -19,6 +19,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/whenlambo/"
 name: WhenLambo
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f85da3"
 ---
 
 WhenLambo is a fully decentralized reflection & automated liquidity token with CAKE rewards for token holders and a unique chance to win big in our special draw system!

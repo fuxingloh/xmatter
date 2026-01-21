@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://medium.com/@yfpincome"
 name: Yearn Finance Passive Income
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2c2c2c"
 ---
 
 YEARN FINANCE PASSIVE INCOME (YFPI) is a Governance token. Users who stake YFPI tokens can vote for potential product upgrades, releases, and parameter fixes.

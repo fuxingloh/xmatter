@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/binanceexchange"
 name: BUSD Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - trc20
+icon: icon.png
+color: "#f1ba0c"
 ---
 
 BUSD is issued on Ethereum by Paxos and regulated by the NYDFS. Binance provides the pegged token service, which locks BUSD on Ethereum and issues an equivalent amount of Binance-Peg BUSD on corresponding other networks (BNB Chain, Avalanche and Polygon, TRON etc). Please note that Binance-Peg BUSD is a Binance product. It is not issued by Paxos nor regulated by the NYDFS.

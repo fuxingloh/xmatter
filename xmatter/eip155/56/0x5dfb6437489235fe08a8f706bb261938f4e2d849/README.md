@@ -15,6 +15,11 @@ links:
   - name: facebook
     url: "https://facebook.com/shibosuofficial"
 name: Shibosu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#7fc4ed"
 ---
 
 Shibosu is the Japanese Gifting Shiba that will take over the Shiba world by storm. Shibosu is a mix between Shiba and Kabosu.

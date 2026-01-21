@@ -21,6 +21,11 @@ links:
     url: >-
       https://github.com/PulseDogecoin/PulseDogecoin-contract/blob/main/Pulsedogecoin.sol
 name: PulseDogecoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dec389"
 ---
 
 Meme coins are some of the most widely held cryptocurrencies in the world. PulseDogecoin aims to onboard new users into the PulseChain ecosystem by creating a scarce and strongly held cryptocurrency. Initially, launched on Ethereum PLSD will be copied over to PulseChain at chain launch but will continue thrive on both chains.

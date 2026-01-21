@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/TheCoin4"
 name: Four
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#121212"
 ---
 
 It all started with a tweet. Then it became a rallying cry to fight FUD. Now it's a memecoin.

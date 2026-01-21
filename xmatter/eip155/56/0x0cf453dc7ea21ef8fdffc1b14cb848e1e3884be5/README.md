@@ -15,6 +15,11 @@ links:
   - name: docs
     url: "https://sportpoint.app/docs/wp_sportpoint.pdf"
 name: SportPoint
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#054b82"
 ---
 
 Sport and Booking: SportPoint offers a unified subscription for all gyms and sports activities. Enjoy easy booking of training sessions worldwide and find the most convenient sports locations using GPS. Pay only for actual visits.

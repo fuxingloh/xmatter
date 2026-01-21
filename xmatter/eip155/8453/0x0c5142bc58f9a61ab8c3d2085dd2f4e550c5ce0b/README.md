@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/russell"
 name: RUSSELL
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0454fb"
 ---
 
 Russell the Goodest Boy on Base. CEO of Coinbase Brian Armstrong's Dog and Best Man at his Wedding.

@@ -14,6 +14,11 @@ links:
   - name: facebook
     url: "https://facebook.com/BombPolygon"
 name: Bombcrypto Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fcd144"
 ---
 
 BOMB, the native utility token of Bomb Crypto 2 is used to play, exchange, and trade on the ecosystem.

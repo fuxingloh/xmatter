@@ -17,6 +17,11 @@ links:
   - name: blog
     url: "https://www.mento.org/blog"
 name: Mento West African CFA Franc
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#550dc3"
 ---
 
 Mento West African CFA Franc (XOFm) is a decentralized stablecoin pegged to the West African CFA Franc on the Celo blockchain.

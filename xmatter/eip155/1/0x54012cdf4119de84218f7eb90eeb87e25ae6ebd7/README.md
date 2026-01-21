@@ -15,6 +15,11 @@ links:
   - name: facebook
     url: "https://facebook.com/groups/luffytoken"
 name: LUFFY
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c5882b"
 ---
 
 Luffy is a versatile altcoin featuring a layer-2 blockchain for fast and cheap transactions.

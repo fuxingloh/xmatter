@@ -5,6 +5,11 @@ links:
   - name: website
     url: "https://www.linkercoin.com/en"
 name: Linker Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#8398e6"
 ---
 
 Collection of the systems which facilitate the inter-transaction between Linker Coin and various economic networks built on crypto-currency market, financial market, e-commerce market, etc.

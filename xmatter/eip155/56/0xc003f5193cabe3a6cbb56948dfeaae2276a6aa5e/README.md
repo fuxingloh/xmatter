@@ -31,6 +31,11 @@ links:
   - name: source_code
     url: "https://github.com/trubadger/smart-contracs"
 name: TruBadger
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#cfcfd0"
 ---
 
 TruBadger is a Reflection, Deflationary and Utility DeFi token that cares about its holders, implementing true community governance. The TruBadger ecosystem is making crypto accessible to everyone.

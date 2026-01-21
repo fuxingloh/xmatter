@@ -13,6 +13,11 @@ links:
   - name: telegram
     url: "https://t.me/LoveswapDexGroup"
 name: Loveswap DEX
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c71e1c"
 ---
 
 MULTI BLOCKCHAIN - Decentralized Exchange Platform Network

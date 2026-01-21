@@ -19,6 +19,11 @@ links:
   - name: whitepaper
     url: "https://wraithprotocol.io/wp-content/uploads/2021/08/wraithpaper.pdf"
 name: Wraith Protocol
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0dda8e"
 ---
 
 Revolutionizing Privacy Throughout The Blockchain

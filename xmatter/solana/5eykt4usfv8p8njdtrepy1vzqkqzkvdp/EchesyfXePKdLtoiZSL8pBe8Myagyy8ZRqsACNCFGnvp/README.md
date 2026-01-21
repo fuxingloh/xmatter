@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/bonfida"
 name: Solana Name Service
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#1b2437"
 ---
 
 Bonfida is the full product suite that bridges the gap between Serum, Solana and the user

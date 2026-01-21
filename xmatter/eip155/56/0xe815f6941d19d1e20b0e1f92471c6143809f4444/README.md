@@ -17,6 +17,11 @@ links:
   - name: whitepaper
     url: "https://baby-4-1.gitbook.io/baby4"
 name: Baby 4
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1c140a"
 ---
 
 4

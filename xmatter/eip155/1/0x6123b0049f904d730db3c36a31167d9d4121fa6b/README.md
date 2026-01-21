@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/ribbon-finance/"
 name: Ribbon
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fc0c54"
 ---
 
 Ribbon uses financial engineering to create structured products that aim to deliver sustainable yield. Ribbon's first product focuses on yield through automated options strategies. The protocol also allows developers to create arbitrary structured products by combining various DeFi derivatives.

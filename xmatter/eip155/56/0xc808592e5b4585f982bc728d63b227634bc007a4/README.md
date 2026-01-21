@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://cryptofrogfinance.medium.com"
 name: CryptoFrog.Finance
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#375728"
 ---
 
 CryptoFrog.Finance is the first collectible frog NFT and a yield farming project on Binance Smart Chain.

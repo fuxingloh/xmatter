@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/livepeer/"
 name: Livepeer Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 A decentralized video streaming protocol that empowers developers to build video enabled applications backed by a competitive market of economically incentivized service providers.

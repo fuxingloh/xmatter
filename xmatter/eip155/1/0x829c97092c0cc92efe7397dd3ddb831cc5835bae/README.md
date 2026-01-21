@@ -15,6 +15,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/mine-network/"
 name: Mine Network
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f4fbfa"
 ---
 
 MINE Network is an innovative cross-chain mining Metaverse solution that seamlessly connects the worlds of DeFi, GameFi and NFT's into one consolidated, easy-to-use open-source protocol.

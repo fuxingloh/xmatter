@@ -32,6 +32,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/safeswap-online"
 name: Safeswap TOKEN
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1b33c3"
 ---
 
 Safeswap.finance (SWAP) is a DeFi (DEX) based decentralized trading protocol that allows different types of cryptocurrencies to be swapped & exchanged, SWAP token issued by safeswap.online protocol.

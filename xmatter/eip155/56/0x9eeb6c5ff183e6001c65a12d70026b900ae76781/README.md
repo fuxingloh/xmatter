@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/irena-green-energy/"
 name: Irena Green Energy
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#7bae18"
 ---
 
 The future is now in renewable green energy and eco-friendly electric cars and solar panels

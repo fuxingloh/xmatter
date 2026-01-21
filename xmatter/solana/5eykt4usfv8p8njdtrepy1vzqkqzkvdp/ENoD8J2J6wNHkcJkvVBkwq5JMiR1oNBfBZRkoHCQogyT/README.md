@@ -7,6 +7,11 @@ links:
   - name: x
     url: "https://x.com/abblecoin"
 name: Abble
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#060606"
 ---
 
 I want to put a ding in the memeverse — Stev Jabs

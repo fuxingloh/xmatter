@@ -21,6 +21,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/zoro-inu"
 name: Zoro Inu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e2bf7c"
 ---
 
 Frictionless Defi adoption through tools & education.

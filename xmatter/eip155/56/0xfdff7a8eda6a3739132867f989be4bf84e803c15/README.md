@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/new-year-token"
 name: New Year Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#46b74d"
 ---
 
 The New Year token is a currency focused on NFT and New Year symbols, with real use.

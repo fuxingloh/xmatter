@@ -11,6 +11,11 @@ links:
   - name: github
     url: "https://github.com/traderjoe-xyz/"
 name: JOE
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#bd6a63"
 ---
 
 One-stop Decentralized Trading on Avalanche.

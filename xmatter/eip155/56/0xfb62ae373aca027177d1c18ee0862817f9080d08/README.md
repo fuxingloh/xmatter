@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/mydefipet"
 name: My DeFi Pet Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fbdf2b"
 ---
 
 My DeFi Pet brings traditional game experience and DeFi features to NFT collectibles where players can collect, breed and trade monsters or items, battle and participate in events.

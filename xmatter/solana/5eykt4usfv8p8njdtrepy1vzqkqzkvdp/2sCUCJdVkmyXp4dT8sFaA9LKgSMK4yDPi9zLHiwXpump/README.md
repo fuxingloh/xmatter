@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/alphaofsol"
 name: Alpha
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#040404"
 ---
 
 $ALPHA embodies the essence of being a true alpha and a GIGA Chad

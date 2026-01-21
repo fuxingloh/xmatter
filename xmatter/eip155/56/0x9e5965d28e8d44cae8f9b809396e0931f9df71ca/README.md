@@ -23,6 +23,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/HvVTRAT9"
 name: Space SIP
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#4544e6"
 ---
 
 Space SIP is the first NFT space battleship game with worldclass design of gaming experience in a real-value collectible ecosystem.

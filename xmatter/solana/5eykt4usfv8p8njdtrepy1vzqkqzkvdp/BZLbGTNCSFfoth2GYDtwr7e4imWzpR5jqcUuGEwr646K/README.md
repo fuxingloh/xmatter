@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/io-net/"
 name: IO
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#040404"
 ---
 
 io.net the world’s largest decentralized AI computing network that allows machine learning engineers to access scalable distributed clusters at a small fraction of the cost of comparable centralized services.

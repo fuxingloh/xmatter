@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/bart-simpson-coin/"
 name: Bart Simpson Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f6c01c"
 ---
 
 BART, the memecoin deployed on the Binance Smart Chain (BSC) that pays homage to everyone’s favorite mischievous cartoon character.

@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/cherry-network"
 name: Cherry Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#6cf1ab"
 ---
 
 Trustless, distributed storage for decentralized applications

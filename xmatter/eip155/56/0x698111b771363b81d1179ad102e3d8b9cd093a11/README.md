@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/ukadogechat"
 name: UKA DOGE COIN
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f1ba15"
 ---
 
 Uka Doge is an adventure game being built on a BSC and Ethereum, Polygon network

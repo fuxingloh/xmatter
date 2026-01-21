@@ -24,6 +24,9 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UCtbkIqnNuKbgWHYH7ndb1Pg"
 name: Affinity
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 Affinity was built with community as its guiding principle. It starts by giving the most rewards of any reflection token currently on the market — 87.5% of all fees collected are put directy back into holder’s wallets in the form of BUSD and Cardano ADA. It continues into this project’s primary use case, ADAPT, which is built to make sending cryptocurrency to friends, family and businesses secure and easier than ever.

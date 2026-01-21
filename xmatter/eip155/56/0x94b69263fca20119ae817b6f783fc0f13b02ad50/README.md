@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/leagueofancients"
 name: League Of Ancients
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f1d283"
 ---
 
 Free-To-Play & Play-To-Earn NFT MOBA GameFi in Binance Smart Chain

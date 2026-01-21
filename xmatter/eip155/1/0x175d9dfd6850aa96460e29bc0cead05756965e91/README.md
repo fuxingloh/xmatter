@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://medium.com/iov-internet-of-values"
 name: Starname (WIOV)
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#5d65b4"
 ---
 
 ERC20 version of the IOV token

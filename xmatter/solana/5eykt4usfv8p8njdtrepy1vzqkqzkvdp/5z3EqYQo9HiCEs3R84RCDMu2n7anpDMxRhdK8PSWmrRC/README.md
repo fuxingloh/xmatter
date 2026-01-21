@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/ponke/"
 name: PONKE
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#f7b20b"
 ---
 
 PONKE is a degenerate gambler with anger issues on the Solana network.

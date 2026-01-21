@@ -7,6 +7,11 @@ links:
   - name: website
     url: "https://building.ceo/"
 name: Keep Building
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d1c3b3"
 ---
 
 BUILDING token follows CZ's mantra: "Keep Building." Built on BNB Chain, empowering Web3 builders through all market cycles. LFG!

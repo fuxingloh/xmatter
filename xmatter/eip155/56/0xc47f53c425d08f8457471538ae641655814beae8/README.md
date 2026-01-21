@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/surfmoon"
 name: SurfMoon Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#3c444c"
 ---
 
 SurfMoon is the first travel-based BNB redistribution token focusing on rewarding it's holders.

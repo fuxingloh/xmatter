@@ -19,6 +19,11 @@ links:
     url: >-
       https://github.com/interfinetwork/project-delivery-data/blob/main/Jewelry/Jewelry_AuditReport_InterFi.pdf
 name: jewelry
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c7c7c7"
 ---
 
 Jewelry Token introduces a game marketplace ,allowing users to buy, sell, and trade jewelry just like in a real market—but with the thrill of a game!

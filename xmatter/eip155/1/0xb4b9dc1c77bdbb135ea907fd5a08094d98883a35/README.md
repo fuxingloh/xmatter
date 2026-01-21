@@ -15,6 +15,11 @@ links:
   - name: telegram
     url: "https://t.me/sweateconomy"
 name: SWEAT
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fc0c74"
 ---
 
 Welcome to Sweat Economy. An ecosystem designed to bring value to your movement, and inspire a healthier, wealthier planet.

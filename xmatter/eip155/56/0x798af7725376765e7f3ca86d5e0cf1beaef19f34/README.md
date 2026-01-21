@@ -19,6 +19,11 @@ links:
   - name: telegram
     url: "https://t.me/AtomicWalletNews"
 name: Atomic Wallet Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#242c4c"
 ---
 
 Atomic Wallet is a decentralized cryptocurrency wallet that supports more than 500 coins and tokens, providing simplicity, safety, and convenience for its users.

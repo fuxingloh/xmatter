@@ -7,6 +7,11 @@ links:
   - name: x
     url: "https://x.com/SlothanaCoin"
 name: Slothana
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#aba284"
 ---
 
 Slothana - Slovenly on Sol

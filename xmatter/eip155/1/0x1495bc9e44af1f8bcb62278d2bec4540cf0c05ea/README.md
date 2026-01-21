@@ -26,6 +26,11 @@ links:
   - name: github
     url: "https://github.com/z1labs"
 name: Zero1 Labs
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#97bdbe"
 ---
 
 Zero1 is a DeAI ecosystem creating a new economic primitive.

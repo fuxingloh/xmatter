@@ -9,6 +9,11 @@ links:
   - name: whitepaper
     url: "https://axiaprotocol.io/Axia%20Protocol%20Whitepaper%202020.pdf"
 name: AXIA TOKEN
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f43b5f"
 ---
 
 Axia Protocol is a Decentralized platform for Cryptocurrency Index Fund management.

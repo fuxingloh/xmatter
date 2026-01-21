@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/elixir-games"
 name: Elixir Games
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#facbe2"
 ---
 
 Elixir Games is the largest gaming platform in the Web3 ecosystem, providing end-to-end distribution & fintech enterprise-grade solutions.

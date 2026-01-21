@@ -13,6 +13,11 @@ links:
   - name: x
     url: "https://x.com/compoundfinance"
 name: Compound
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#04d092"
 ---
 
 The Avalanche Bridge Wrapped Compound.

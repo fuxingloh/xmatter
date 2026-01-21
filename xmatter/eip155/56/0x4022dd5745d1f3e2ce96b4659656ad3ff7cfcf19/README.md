@@ -7,6 +7,11 @@ links:
   - name: website
     url: "https://four.meme/token/0x4022Dd5745D1F3E2Ce96b4659656aD3fF7CFcF19"
 name: big cousin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dcdbda"
 ---
 
 big cousin

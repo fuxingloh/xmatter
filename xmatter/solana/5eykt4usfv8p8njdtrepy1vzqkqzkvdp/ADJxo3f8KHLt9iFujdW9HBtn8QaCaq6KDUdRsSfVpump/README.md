@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/miraya-7f"
 name: Miraya 7f
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#f4e3d7"
 ---
 
 M7F tokens can be traded on decentralized exchanges.

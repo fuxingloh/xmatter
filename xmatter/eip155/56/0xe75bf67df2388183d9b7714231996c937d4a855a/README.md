@@ -15,6 +15,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/snV7qnVWj8"
 name: Aeterna
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1b1237"
 ---
 
 Aeterna is a unique de-fi eco-system that offers a variety of ways to generate wealth and navigate your way through a confusing decentralized world.

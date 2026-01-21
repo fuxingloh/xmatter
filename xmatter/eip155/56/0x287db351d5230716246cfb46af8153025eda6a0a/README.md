@@ -23,6 +23,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/block-monsters"
 name: BlockMonsters
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#6bf3fb"
 ---
 
 BlockMonsters is a play to earn game where players can earn MNSTRS tokens and collect and trade Blockmonster NFTs.

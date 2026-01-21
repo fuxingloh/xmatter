@@ -10,6 +10,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/book-of-meme/"
 name: BOOK OF MEME
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#56832e"
 ---
 
 Introducing the BOOK OF MEME: an experimental project poised to redefine web3 culture by amalgamating memes, decentralized storage solutions, and degen shitcoin trading and gambling

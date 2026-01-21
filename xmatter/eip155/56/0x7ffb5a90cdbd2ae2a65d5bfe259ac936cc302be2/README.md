@@ -17,6 +17,11 @@ links:
   - name: whitepaper
     url: "https://gridxecosystem.com/img/whitepaper.pdf"
 name: GridX
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#4178ba"
 ---
 
 GridX is a decentralized finance (DeFi) project that has recently gained attention in the cryptocurrency world. This project aims to address some of the issues that have plagued the DeFi space, such as high transaction fees, low transaction speeds, and limited scalability.

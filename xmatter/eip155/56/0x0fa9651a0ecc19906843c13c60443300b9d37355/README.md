@@ -21,6 +21,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/pt/moedas/xmine"
 name: XMINE Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fac305"
 ---
 
 XMINE is DeFi, miner with ASIC and rewards to holders.

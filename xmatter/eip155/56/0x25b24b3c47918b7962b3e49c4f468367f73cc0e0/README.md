@@ -24,6 +24,11 @@ links:
   - name: telegram_news
     url: "https://t.me/Axl_Token"
 name: AXL INU
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#242424"
 ---
 
 AXL INU is being developed as Decentralized Eco-System with a LaunchPad, Farming, Staking, NFT MarketPlace and a Metaverse.

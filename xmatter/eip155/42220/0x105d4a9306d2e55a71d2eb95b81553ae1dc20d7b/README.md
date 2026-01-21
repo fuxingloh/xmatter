@@ -17,6 +17,11 @@ links:
   - name: blog
     url: "https://www.mento.org/blog"
 name: Mento Philippine Peso
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d6d4f3"
 ---
 
 Mento Philippine Peso (PHPm) is a decentralized stablecoin pegged to the Philippine Peso on the Celo blockchain.

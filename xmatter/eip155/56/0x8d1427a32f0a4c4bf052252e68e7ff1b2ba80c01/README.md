@@ -19,6 +19,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/rimaunangis"
 name: Rimaunangis
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#b17719"
 ---
 
 Tokenization for Food Chain and Lifestyle as Bridge of Metaworld Ecosystem

@@ -15,6 +15,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/yVGAW86x"
 name: DODToken
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fbfbf1"
 ---
 
 DOD (Day of Defeat) is a token issued on the Binance Smart Chain. It is first and exciting social experiment on this planet, with a radical deflationary mathematical model which will keep the price of DOD token rising continuously.

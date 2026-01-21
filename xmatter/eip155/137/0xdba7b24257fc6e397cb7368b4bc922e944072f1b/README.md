@@ -24,6 +24,11 @@ links:
   - name: facebook
     url: "https://facebook.com/EverRiseToken"
 name: Vote-escrowed EverRise
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#04abfa"
 ---
 
 Virtual token that allows the Vote Escrowed (ve) EverRise weighted governance tokens from EverRise Staking NFTs to display in wallet balances.

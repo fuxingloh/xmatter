@@ -15,6 +15,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/planettoken/"
 name: PLANET
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#04e5bf"
 ---
 
 A state of the art platform to tokenize Real-World Assets (RWA), bringing yields into the web3, all while striving for sustainable growth #RWA #ReFi

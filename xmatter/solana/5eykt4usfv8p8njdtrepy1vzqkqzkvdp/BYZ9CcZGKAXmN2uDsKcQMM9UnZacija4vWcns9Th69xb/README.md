@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/botify/"
 name: BOTIFY
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#040604"
 ---
 
 Botify.cloud is the Shopify of Crypto, featuring a Marketplace and an AI Agent & Bot Creation Hub.

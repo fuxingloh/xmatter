@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/RWABase"
 name: Rug World Assets
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#aeb96e"
 ---
 
 $RWA is a meme token.

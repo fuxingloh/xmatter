@@ -21,6 +21,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/moonlight-token"
 name: Moonlight Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#041434"
 ---
 
 Hold Moonlight Token to get premium access to Bubblemaps

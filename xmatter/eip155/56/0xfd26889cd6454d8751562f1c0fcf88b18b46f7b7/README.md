@@ -15,6 +15,11 @@ links:
   - name: medium
     url: "https://thugsfinance.medium.com/"
 name: DRUGS
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#5d5b86"
 ---
 
 DRUGS is the primary token of the Traphouse yield farm playa. The most gangster yield farm ever created. Created by the THUGS interactive team.

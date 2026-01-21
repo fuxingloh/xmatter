@@ -27,6 +27,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/torum"
 name: Torum
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c93583"
 ---
 
 Torum is a SocialFi ecosystem (Social + NFT + DeFi + Metaverse) that is specially designed to connect cryptocurrency users

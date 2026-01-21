@@ -16,6 +16,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/basic-attention-token/"
 name: BNB pegged Basic Attention Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fc5404"
 ---
 
 BNB pegged Basic Attention Token (BAT BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Basic Attention (BAT ERC20) at a ratio of 1:1.

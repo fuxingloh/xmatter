@@ -11,6 +11,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/billy"
 name: BILLY
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#a69d7f"
 ---
 
 $BILLY is the cutest dog on Solana, on a mission to be worth billyons and billyons!

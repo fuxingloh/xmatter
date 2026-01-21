@@ -13,6 +13,11 @@ links:
   - name: x
     url: "https://x.com/uniswap/"
 name: Uniswap
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fcecf4"
 ---
 
 The Avalanche Bridge Wrapped Uniswap. Unwrapped Etherscan ERC20 Desc Below:UNI token served as governance token for Uniswap protocol with 1 billion UNI have been minted at genesis. 60% of the UNI genesis supply is allocated to Uniswap community members and remaining for team, investors and advisors.

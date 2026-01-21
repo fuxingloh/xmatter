@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/genshinflokiinu-token"
 name: GenshinFlokiInu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d8d6d4"
 ---
 
 First two-dimensional meta-universe Decentralized Meme Coin Creates the BEST Metaverse on BSC genshinfloki FUN METAVERSE = NFT + GameFi + SmartToy + GenshinFlokiInu

@@ -31,6 +31,11 @@ links:
   - name: reddit
     url: "https://reddit.com/user/BaliToken"
 name: Bali Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f9a408"
 ---
 
 Bali Token is a utility token for tourism business in Bali, Indonesia

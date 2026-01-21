@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/biopassport-token/"
 name: BioPassport
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#132444"
 ---
 
 BioPassport is committed to help make healthcare a personal component of our daily lives. This starts with a 'health passport' platform that houses a patient's DPHR, or decentralized personal health record built around DID (decentralized identity) technology

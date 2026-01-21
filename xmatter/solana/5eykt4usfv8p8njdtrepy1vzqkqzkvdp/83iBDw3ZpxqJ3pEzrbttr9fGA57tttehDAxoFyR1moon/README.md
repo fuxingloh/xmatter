@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/memdex100"
 name: SaMEMDEX100ros
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#e6ecec"
 ---
 
 A Revolutionary Ecosystem for the Future of Decentralized Finance

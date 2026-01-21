@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/meow-2"
 name: Meow
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#2b3338"
 ---
 
 $MEOW is a blockchain-driven cryptocurrency project designed to revolutionize animal welfare initiatives. By leveraging community support, innovative DeFi solutions, and transparent governance, $MEOW enables meaningful contributions to animal shelters and rescues while creating value for its holders.

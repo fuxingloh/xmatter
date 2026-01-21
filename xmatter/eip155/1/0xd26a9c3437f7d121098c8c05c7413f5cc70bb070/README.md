@@ -12,6 +12,11 @@ links:
     url: >-
       https://www.azumacoin.io/static/Azuma_WP_Sep17-2b944767e8ac9abe89bd3ae0fdf6cfa1.pdf
 name: Azuma coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#cea33d"
 ---
 
 Azuma Games is a crypto game development company striving to integrate AAA graphics, exciting game-play, and crypto rewards. Azuma Coin is our native token.

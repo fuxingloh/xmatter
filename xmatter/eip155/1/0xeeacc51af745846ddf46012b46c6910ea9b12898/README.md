@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/DogeChaserCommunity"
 name: Dogc
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#191814"
 ---
 
 Join DogeChaser, Lead The World!

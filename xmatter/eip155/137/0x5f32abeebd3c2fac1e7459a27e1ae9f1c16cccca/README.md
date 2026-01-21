@@ -11,6 +11,11 @@ links:
   - name: youtube
     url: "https://youtube.com/@Farcana"
 name: Farcana
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#000000"
 ---
 
 The FAR token is the utility token for the Farcana ecosystem. Farcana is a multiplayer arena hero shooter powered by a Web3 economy

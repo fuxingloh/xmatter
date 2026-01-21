@@ -19,6 +19,11 @@ links:
   - name: whitepaper
     url: "https://sidusheroes.com/docs/whitepaper.pdf"
 name: SENATE
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ee1021"
 ---
 
 The financial system of the Sidus Heroes game includes two tokens: the SIDUS token and the SENATE token. The SENATE token is used by the in-game mechanics as a governance coin as well as in-game currency for certain products within the game.

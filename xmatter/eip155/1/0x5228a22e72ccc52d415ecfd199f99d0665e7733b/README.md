@@ -15,6 +15,11 @@ links:
   - name: whitepaper
     url: "https://ptokens.io/ptokens-rev5b.pdf"
 name: pTokens BTC
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f06060"
 ---
 
 pTokens BTC is a one-to-one pegged tokenised Bitcoin on Ethereum. Leveraging the pTokens system, Bitcoin is automatically moved into the Ethereum protocol as an ERC-777 token. pTokens BTC makes Bitcoin compatible with all financial dApps, bringing unparalleled liquidity to the DeFi ecosystem.

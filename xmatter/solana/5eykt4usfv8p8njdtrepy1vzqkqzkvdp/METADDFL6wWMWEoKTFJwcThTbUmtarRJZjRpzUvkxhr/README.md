@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/meta-2"
 name: META
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#fbfbfb"
 ---
 
 MetaDAO was created in 2023 with its initial token distribution via airdrop to aligned parties in November, 2023 with 10,000 tokens distributed and a remaining 990,000 in the DAO treasury. In March of 2023 the DAO traded a proposal which burned all remaining treasury META tokens culminating with a total burn of 979,000 META tokens.

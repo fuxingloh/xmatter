@@ -15,6 +15,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/ru/currencies/keystone-of-opportunity-knowledge/"
 name: KOK Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#5f0dd2"
 ---
 
 OK is a next-generation digital content platform that combines AI and blockchain, the core of Industry 4.0.

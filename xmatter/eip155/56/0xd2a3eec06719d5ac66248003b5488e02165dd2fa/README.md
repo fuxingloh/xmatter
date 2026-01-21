@@ -23,6 +23,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/paxe"
 name: Paxe
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dfdef2"
 ---
 
 PAXE Protocol is a cutting-edge native yield platform that provides access to cost-effective and secure high-quality yield opportunities across the industry.

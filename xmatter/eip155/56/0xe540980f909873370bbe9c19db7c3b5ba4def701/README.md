@@ -13,6 +13,11 @@ links:
   - name: telegram
     url: "https://t.me/iLayerEcosystem"
 name: iLayer
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#def7fb"
 ---
 
 Sustainable and ongoing buy-back generation.The iLayer token will be the first project on the iLayer ecosystem and will have a 5% Buy-back tax on each transaction which will be locked in the contract and be used to allow buy-back of some of the tokens whenever a sell occurs.

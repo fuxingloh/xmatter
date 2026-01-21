@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/stablz/"
 name: Stablz
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0d090e"
 ---
 
 Stablz is a stablecoin yield aggregator that converts yield to the same type as deposits. Deposit USDT, and earn your yield in USDT in a truly set-and-forget manner.

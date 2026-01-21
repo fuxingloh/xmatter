@@ -15,6 +15,11 @@ links:
   - name: whitepaper
     url: "https://nftblackmarket.io/static/pdf/NFTBlackMarket.pdf"
 name: NFTBlackMarket
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#141414"
 ---
 
 In NFTBlackMarket you can create, collect, and trade NFT Tokens.

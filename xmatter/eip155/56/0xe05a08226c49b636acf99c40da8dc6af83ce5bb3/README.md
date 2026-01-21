@@ -29,6 +29,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/ankr-staked-eth"
 name: Ankr Staked ETH
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fbeb1b"
 ---
 
 ankrETH represents your staked ETH and provides liquidity for your staked position. All staking rewards are built into the token price, and ankrETH grows daily in value, but never in number.

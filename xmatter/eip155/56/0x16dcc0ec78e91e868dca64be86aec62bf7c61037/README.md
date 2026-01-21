@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/EverETHofficial"
 name: EverETH
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#8d2ba4"
 ---
 
 EverETH is a native utility token that is used for recieving dividends in Ethereum.

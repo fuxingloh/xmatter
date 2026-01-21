@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/microsoft-tokenized-stock-ondo"
 name: Microsoft (Ondo Tokenized)
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dcdcdc"
 ---
 
 MSFTon is the Ondo Tokenized version of Microsoft, giving tokenholders economic exposure similar to holding MSFT and reinvesting any dividends. Ondo tokenized stocks enable non-US retail and institutional users around the world to instantly mint and redeem tokenized U.S. stocks and ETFs, 24 hours a day, five days a week with full access to traditional exchange liquidity. Additional restrictions apply. Learn more at ondo.finance/global-markets.

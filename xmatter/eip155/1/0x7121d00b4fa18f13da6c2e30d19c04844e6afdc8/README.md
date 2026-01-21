@@ -13,6 +13,9 @@ links:
   - name: whitepaper
     url: "https://luffytoken.com/pdf/whitepaper.pdf"
 name: Luffy
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 Luffy wants to revolutionize the cryptoverse by creating a matchless ecosystem combined with an own blockchain.

@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/impossible-finance/"
 name: Impossible Finance
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040c5c"
 ---
 
 Impossible Finance is a builder-focused multichain ecosystem featuring decentralized incubator, launchpad, and swap. IF is the governance and fee accrual token for the swap.

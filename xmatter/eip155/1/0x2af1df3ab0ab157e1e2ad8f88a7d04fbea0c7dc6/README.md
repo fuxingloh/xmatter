@@ -15,6 +15,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/RKZ4S3b"
 name: Bankless BED Index
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0f0e0e"
 ---
 
 The Bankless BED Index is an equal weighted index of Bitcoin, Ethereum and DPI.

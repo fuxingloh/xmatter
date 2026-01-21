@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/JustKiraTings"
 name: Just Kira
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#74412c"
 ---
 
 Kira sets a completely new way to interact with Artificial Intelligence

@@ -15,6 +15,11 @@ links:
   - name: whitepaper
     url: "https://edxalabs.gitbook.io"
 name: EDXA Labs
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#aed3eb"
 ---
 
 EDXA Dex and Yield Farm

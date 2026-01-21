@@ -17,6 +17,11 @@ links:
   - name: whitepaper
     url: "https://whitepaper.kissantoken.com/"
 name: Kissan
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#69cde4"
 ---
 
 At Kissan Token, we are revolutionizing the agricultural sector by merging traditional farming practices with cutting-edge blockchain technology. Our mission is to empower farmers, enhance financial inclusion, and foster sustainability through a decentralized ecosystem that benefits everyone from producers to consumers. Born out of a deep understanding of the challenges faced by farmers, Kissan Token aims to create a future where agriculture is not only sustainable but also prosperous for all stakeholders.

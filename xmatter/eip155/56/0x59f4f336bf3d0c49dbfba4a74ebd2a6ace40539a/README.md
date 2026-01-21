@@ -13,6 +13,11 @@ links:
   - name: facebook
     url: "https://facebook.com/catcoincom"
 name: Catcoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c49d54"
 ---
 
 Catcoin is a cat theme token that focuses on community decentralization and adoption. $CAT is designed to make memeCoins great again.

@@ -18,6 +18,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/buff-doge-coin/"
 name: Buff Doge Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c2a64c"
 ---
 
 Buff Doge Coin is extremely hyper deflationary where each burn will double in its quantity to the previous burn.

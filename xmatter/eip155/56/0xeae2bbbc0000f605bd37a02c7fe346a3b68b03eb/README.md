@@ -15,6 +15,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/crir-msh"
 name: CRIR MSH
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0e58e4"
 ---
 
 A Fast & Secure Cryptocurrency and Multi chain DEX.

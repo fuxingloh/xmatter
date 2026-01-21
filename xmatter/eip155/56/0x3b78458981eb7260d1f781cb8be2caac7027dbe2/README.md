@@ -11,6 +11,11 @@ links:
   - name: whitepaper
     url: "https://docs.lz.finance"
 name: LaunchZone
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#5ca72d"
 ---
 
 LaunchZone is The Ultimate DeFi Platform. $LZ is the utility and governance token of LaunchZone Ecosystem

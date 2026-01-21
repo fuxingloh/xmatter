@@ -34,6 +34,11 @@ links:
   - name: docs
     url: "https://iclickinu.com/tokeninfo"
 name: ICLICK INU
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#00fffc"
 ---
 
 Introducing the best PTC Blockchain platform. At iClick Inu, we have combined the power of blockchain with PTC advertising to create a whole new way to earn. Our platform ensures that your interactions and earnings are recorded on a secure and tamper-proof digital ledger, making everything transparent and trustworthy.

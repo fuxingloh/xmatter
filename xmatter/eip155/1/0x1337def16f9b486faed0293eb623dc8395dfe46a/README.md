@@ -17,6 +17,11 @@ links:
   - name: whitepaper
     url: "https://armorfi.gitbook.io/armor/"
 name: ARMOR
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1b93fc"
 ---
 
 Armor is a DeFi coverage aggregator to secure and scale adoption.

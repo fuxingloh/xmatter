@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/operation-phoenix/"
 name: Operation Phoenix
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#050808"
 ---
 
 The mission of Operation Phoenix is simple. To become what SafeMoon should have been.

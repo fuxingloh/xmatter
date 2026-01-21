@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/JINDOINU2"
 name: JINDO INU
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f9a05c"
 ---
 
 This token will be used by JINDO SWAP and JINDO NFT in the future. JINDO SWAP is a SWAP built on the BSC chain, and if it provides liquidity, you can receive JINDO FEED tokens. JINDO FEED tokens will be issued with the launch of the SWAP and will be distributed to 100% liquidity providers.

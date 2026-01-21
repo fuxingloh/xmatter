@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/RiseHero"
 name: RiseHero
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1b1c24"
 ---
 
 A legendary hero metaverse.

@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/zenith-by-virtuals"
 name: Zenith by Virtuals
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#281b39"
 ---
 
 AI CEO of the first asset management firm run by an agent swarm.

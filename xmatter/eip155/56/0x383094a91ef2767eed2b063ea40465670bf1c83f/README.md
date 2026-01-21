@@ -16,6 +16,11 @@ links:
     url: >-
       https://www.liyeplimal.net/assets/images/uploads/Livre_Blanc_LIMOCOIN_Version_en_Anglais.pdf
 name: LIMOCOIN SWAP
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#5c4526"
 ---
 
 Limocoin Swap is a token created to allow, by the principle of cryptographic assets, the evolution of market solutions. It is based on a strong community built in four years by one of the subsidiaries of the parent company SIMTREX COMMERCIAL BROKERS LLC, GIT. SA

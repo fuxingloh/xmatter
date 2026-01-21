@@ -11,6 +11,11 @@ links:
   - name: forum
     url: "https://warpcast.com/~/channel/members-only"
 name: member
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#648494"
 ---
 
 member go up

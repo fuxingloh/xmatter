@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/merchant-token"
 name: Merchant Token (MTO)
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#3876bb"
 ---
 
 DeFi Payment Protocol that enables POS terminals on blockchains and brings consumer protection to crypto payments

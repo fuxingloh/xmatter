@@ -15,6 +15,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/metfx-watch-to-earn/"
 name: METFX Watch-To-Earn
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#a004c8"
 ---
 
 The MetFx Marketplace is where you will find all the accessories you may require to do so, and also find a wide range of NFT’s that can be used in our metaverse.

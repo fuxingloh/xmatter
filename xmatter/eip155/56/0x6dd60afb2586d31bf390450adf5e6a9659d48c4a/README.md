@@ -13,6 +13,11 @@ links:
   - name: whitepaper
     url: "https://whitepaper.mafagafo.com/"
 name: Mafagafo NFT Game
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#6d29f6"
 ---
 
 Have FUN playing Mafagafo, COLLECT Genesis NFTs and PROFIT from MafaCoins.

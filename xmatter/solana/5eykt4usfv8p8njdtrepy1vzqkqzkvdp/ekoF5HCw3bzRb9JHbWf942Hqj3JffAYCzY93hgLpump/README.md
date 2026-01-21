@@ -5,6 +5,9 @@ links:
   - name: website
     url: "https://solscan.io/token/ekoF5HCw3bzRb9JHbWf942Hqj3JffAYCzY93hgLpump"
 name: FAKE EURC
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
 ---
 
 This token is malicious do not interact

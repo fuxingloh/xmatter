@@ -9,6 +9,9 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/gamestopcoin-net/"
 name: GameStop Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 Power to the GameStop, Stop Wall St.

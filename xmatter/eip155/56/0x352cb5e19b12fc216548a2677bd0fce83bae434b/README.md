@@ -19,6 +19,11 @@ links:
   - name: medium
     url: "https://medium.com/@BitTorrent"
 name: BitTorrent
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#000000"
 ---
 
 BTT is the official token of BitTorrent Chain. BitTorrent Chain is a brand-new heterogeneous cross-chain interoperability protocol, which leverages sidechains for the scaling of smart contracts.

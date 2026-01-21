@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/babybroccoli/"
 name: BabyBroccoli
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e69b3a"
 ---
 
 BabyBroccoli ($BABYBROCCOLI) is a crypto memecoin that has emerged as the playful, 'baby' version of the $Broccoli token, inspired by Changpeng Zhao (CZ)'s dog named Broccoli, which he officially announced on X. Positioned as a community-driven project on the BNB Chain, $BABYBROCCOLI rewards its holders with official $Broccoli tokens.

@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/walter-dog-solana"
 name: walter
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#7e786a"
 ---
 
 Walter (WALTER) is a community-driven memecoin that emphasizes decentralization and collective governance.

@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://medium.com/@smaugnft"
 name: Smaugs NFT
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0473ec"
 ---
 
 NFT Marketplace token to buy and sell NFT digital assets.

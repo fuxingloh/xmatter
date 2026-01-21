@@ -13,6 +13,11 @@ links:
   - name: facebook
     url: "https://facebook.com/wakandainu"
 name: Wakanda Inu Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f6c766"
 ---
 
 A decentralized meme token built as a charity-oriented meme token that is entirely for social good across the globe.

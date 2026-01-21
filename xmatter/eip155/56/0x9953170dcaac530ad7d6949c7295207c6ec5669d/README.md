@@ -21,6 +21,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/metadoge-v2"
 name: MetaDoge V2
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f4f3ec"
 ---
 
 MetaDoge is a community-driven project. It is a Memecoin and utility token in the crypto sphere.

@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/pippinlovesyou"
 name: STORAGENT
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#040404"
 ---
 
 Store, manage, and protect your data with military-grade encryption and decentralized infrastructure.

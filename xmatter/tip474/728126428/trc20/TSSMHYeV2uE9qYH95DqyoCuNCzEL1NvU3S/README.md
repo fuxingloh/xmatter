@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/sun-token/"
 name: Sun
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - trc20
+icon: icon.png
+color: "#fad61a"
 ---
 
 The SUN.io platform is TRON's first one-stop platform that supports stablecoin swap, token mining and self-governance.

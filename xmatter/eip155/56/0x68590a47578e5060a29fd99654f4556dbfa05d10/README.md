@@ -11,6 +11,11 @@ links:
   - name: medium
     url: "https://medium.com/moonrat-finance"
 name: MoonRat
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#45d7c6"
 ---
 
 MoonRat is a community driven, fair launched DeFi project built on Binance Smart Chain #BSC. Three functions occur during each trade: Reflection, LP Acquisition, & Burn. MoonRat brings the most revolutionary mechanism to BSC ecosystem: Earn $BNB just by holding $MRAT token

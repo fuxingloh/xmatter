@@ -17,6 +17,11 @@ links:
   - name: blog
     url: "https://www.mento.org/blog"
 name: Mento British Pound
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dee4fb"
 ---
 
 Mento British Pound (GBPm) is a decentralized stablecoin pegged to the British Pound on the Celo blockchain.

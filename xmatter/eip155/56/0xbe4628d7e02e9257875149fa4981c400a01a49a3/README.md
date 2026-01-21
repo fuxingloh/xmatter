@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/jaildoge"
 name: Jail Doge
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#666152"
 ---
 
 Jail Doge is a deflationary DeFi token that takes a 9% tax from each buy and sell. This tax acts to benefit the project as a whole by putting 3% in the liquidity pool for a stable price floor, 3% proportionally reflected back to all holders of a JAILDOGE token and 3% added to a marketing wallet to make sure that the project is able to succeed in the long term.

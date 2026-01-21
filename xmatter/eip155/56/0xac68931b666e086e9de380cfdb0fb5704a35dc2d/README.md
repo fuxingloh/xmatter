@@ -22,6 +22,11 @@ links:
   - name: whitepaper
     url: "https://bnbtiger.top/static/upload/file/20230203/1675386735503028.pdf"
 name: BNB Tiger Inu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#302425"
 ---
 
 BNBTiger is the king of beasts. They are the symbol of victory and strength. Powerful and tough.and our $BNBTIGER community is the same.

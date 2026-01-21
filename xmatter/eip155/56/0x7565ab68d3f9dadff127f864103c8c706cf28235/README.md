@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/trustfi-network-token"
 name: TrustFi Network Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ffe000"
 ---
 
 TFI is the native token of TrustFi Network, a decentralized BaaS solution for DeFi market based on multichain environment.

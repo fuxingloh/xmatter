@@ -19,6 +19,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/prosper"
 name: Prosper
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#a4c18e"
 ---
 
 Prosper is a decentralized protocol built for a community dedicated to Bitcoin. It bridges institutional-level Bitcoin mining power to the blockchain and aims to unlock new possibilities through liquidity farming.

@@ -13,6 +13,11 @@ links:
   - name: telegram
     url: "https://t.me/LuckyBlockChainTG"
 name: LuckyBlock
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#6b4f18"
 ---
 
 Lucky Block envisions a worldwide lottery with players using blockchain protocols, operating on the binance smart chain. The LBlock token is listed on Pancakeswap (DEX), A leading decentralised exchange (DEX) that allows users to buy and sell. We have more than 42K token holders.

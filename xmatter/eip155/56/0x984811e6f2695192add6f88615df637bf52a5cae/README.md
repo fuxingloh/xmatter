@@ -15,6 +15,11 @@ links:
   - name: medium
     url: "https://hoppymeme.medium.com/"
 name: Hoppy
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#8bba3d"
 ---
 
 For a Greener Future, one Hop at a time!

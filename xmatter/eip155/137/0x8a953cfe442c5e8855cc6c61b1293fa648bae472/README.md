@@ -15,6 +15,11 @@ links:
   - name: blog
     url: "https://polydoge.medium.com/"
 name: PolyDoge
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ebba57"
 ---
 
 PolyDoge is a digital currency with one of the most vibrant communities on the powerful Polygon Network.

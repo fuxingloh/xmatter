@@ -27,6 +27,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/ankr-staked-matic"
 name: Ankr Staked MATIC
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fbeb1b"
 ---
 
 ankrMATIC represents your staked MATIC and provides liquidity for your staked position. All staking rewards are built into the token price, and ankrMATIC grows daily in value, but never in number

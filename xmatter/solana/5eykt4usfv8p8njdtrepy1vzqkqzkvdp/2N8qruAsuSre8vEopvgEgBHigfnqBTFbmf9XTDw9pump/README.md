@@ -7,6 +7,11 @@ links:
   - name: x
     url: "https://x.com/grok"
 name: GROK'S SHITCOIN
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#141518"
 ---
 
 DooDooCoin is a playful, valueless cryptocurrency, often called a 'shitcoin' for its lack of practical use and speculative nature in the crypto market

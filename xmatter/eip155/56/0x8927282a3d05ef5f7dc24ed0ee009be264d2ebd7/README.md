@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/baby-floki-up"
 name: Baby Floki Up
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#113b72"
 ---
 
 As the little brother of $FLOKI, Baby Floki Up is here to bring the cutest most inspiring coin of the whole Doge family thanks to the #DogeFather Elon Musk

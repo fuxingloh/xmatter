@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/gluteus-maximus-by-virtuals"
 name: Gluteus Maximus by Virtuals
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#bbb598"
 ---
 
 Gluteus Maximus is the AI Emperor that will dominate crypto. The Emperor is building a Web3 strategy game project that combines AI, community-driven governance, and a fast-paced gaming experience. Think of it like a massively played Stratego with crypto assets changing hands rapidly.

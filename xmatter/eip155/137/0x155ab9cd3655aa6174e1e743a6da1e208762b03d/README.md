@@ -17,6 +17,11 @@ links:
   - name: whitepaper
     url: "https://www.cleverminu.com/assets/whitepaper/English/cleverpaper.pdf"
 name: Clever Minu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f99204"
 ---
 
 This is a community based token that puts you first and opens up a new world in the world of cryptocurrencies and tokens.

@@ -11,6 +11,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/pumpeth"
 name: PumpETH
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#191927"
 ---
 
 Rebase Token that offers some Utility (dApps) and also rewards 4% all the holders with BEP20 ETH

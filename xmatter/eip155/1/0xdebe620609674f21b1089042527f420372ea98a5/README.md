@@ -13,6 +13,11 @@ links:
   - name: telegram
     url: "https://t.me/altavaofficial"
 name: ALTAVA
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#050505"
 ---
 
 We bring culture defining brands into the metaverse through our virtual platforms and access to others

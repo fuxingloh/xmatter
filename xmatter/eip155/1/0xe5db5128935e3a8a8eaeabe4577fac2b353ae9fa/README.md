@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/aurk-ai/"
 name: Aurk AI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2c2c2c"
 ---
 
 AURK is the decentralized AI platform designed for everyone. Build, deploy, and monetize AI agents without writing a single line of code

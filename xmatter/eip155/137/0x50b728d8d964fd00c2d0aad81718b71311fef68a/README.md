@@ -19,6 +19,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/havven/"
 name: Synthetix
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0c042c"
 ---
 
 Synthetix is a derivatives liquidity protocol on Ethereum that enables the issuance and trading of synthetic assets.

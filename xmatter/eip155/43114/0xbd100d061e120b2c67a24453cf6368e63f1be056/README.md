@@ -22,6 +22,11 @@ links:
   - name: whitepaper
     url: "https://drive.google.com/drive/folders/1PprliiDlNB6Cx-35eaEun-gmjk0-a1O4"
 name: iDeFiYieldProtocol
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#8fe3a0"
 ---
 
 iDYP is part of the Dypius dual token economy and is used as a component of smart contract strategies related to staking, analytical tools, NFTs, and metaverse.

@@ -18,6 +18,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/shelling/"
 name: shelling
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ba934b"
 ---
 
 Shelling is building a payment platform that allows companies and individuals to accept cryptocurrency for their services and goods.

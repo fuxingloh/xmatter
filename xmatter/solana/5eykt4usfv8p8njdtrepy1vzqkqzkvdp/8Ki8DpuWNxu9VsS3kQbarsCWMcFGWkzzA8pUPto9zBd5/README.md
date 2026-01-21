@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/lock-in"
 name: LOCK IN
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#cecfcf"
 ---
 
 LOCKIN is a Memecoin based around the viral phrase of Locked In.

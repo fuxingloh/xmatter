@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/grok-inu"
 name: Grok Inu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#242d48"
 ---
 
 GROK INU is the combination of two trends, Elon Musk's Grok AI and Shiba Inu. This combination will be pervasive and is expected to be a future trend in the cryptocurrency sector.

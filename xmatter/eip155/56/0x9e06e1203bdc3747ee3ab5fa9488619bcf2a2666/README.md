@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/industrial/"
 name: Industrial
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#eecc07"
 ---
 
 Industrial Token (INDUSTRIAL) is a BEP20 token built to transform the industrial sector through blockchain technology, gamification

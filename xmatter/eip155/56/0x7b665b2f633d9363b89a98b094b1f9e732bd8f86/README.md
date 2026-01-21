@@ -29,6 +29,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/amazy"
 name: Amazy Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#04a3f6"
 ---
 
 AMAZY is a crypto fitness app with two main courses: to Move and to Earn by equipping NFT sneakers, uniting the ideas of a healthy lifestyle and profiting simultaneously. The project focuses on becoming the ecosystem, called the AMAZY Realverse, focusing on a healthy lifestyle.

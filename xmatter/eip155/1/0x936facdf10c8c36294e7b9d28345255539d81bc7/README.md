@@ -14,6 +14,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/hKGEdPp9Ge"
 name: RockSolid rETH Vault
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#284350"
 ---
 
 Our rETH vault both monitors for the latest opportunities, monitors funding rates to ensure optimal allocations and negotiates with DeFi protocols for preferred terms for vault depositors.

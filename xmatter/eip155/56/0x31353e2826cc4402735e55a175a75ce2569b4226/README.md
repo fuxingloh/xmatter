@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/world-of-waves"
 name: World of Waves
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#26a4f9"
 ---
 
 WOW is the World‘s first charity-based NFT marketplace!

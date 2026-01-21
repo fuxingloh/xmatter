@@ -19,6 +19,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/PinkPanda/"
 name: Bamboo
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1a125d"
 ---
 
 Bamboo is is an ERC-20 compliant governance and utility token currently deployed on the BNB Smart Chain. It is used within the BAM ecosystem to enable simplified onboarding into digital assets, via a decentralized community coupled with Bamboo Asset Management building a mobile-first digital assets platform.

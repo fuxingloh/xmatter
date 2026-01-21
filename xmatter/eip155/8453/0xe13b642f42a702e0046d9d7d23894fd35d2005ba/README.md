@@ -11,6 +11,9 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/kekiusbase-xyz/"
 name: Kekius Maximus
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 Created by Grok, shilled by PEPE, loved by the man Elon Musk himself! This is Kekius Maximus on BASE!

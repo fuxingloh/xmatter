@@ -14,6 +14,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/gala/"
 name: pTokens GALA
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dddddd"
 ---
 
 Gala Games is dedicated to decentralizing the multi-billion dollar gaming industry by giving players access to their in-game items.

@@ -19,6 +19,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/evergrow"
 name: LUCRO
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#426da7"
 ---
 
 Lucro is an ecosystem token that powers a suite of leading utilities, including LunaSky - an NFT Marketplace, The Abstract - a 3d gaming/Metaverse platform and other utilities/partnerships under development.

@@ -14,6 +14,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/moon-nation-game/"
 name: Moon Nation Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0e6d6c"
 ---
 
 Utility token to play and inGame economy of Moon Nation Game.

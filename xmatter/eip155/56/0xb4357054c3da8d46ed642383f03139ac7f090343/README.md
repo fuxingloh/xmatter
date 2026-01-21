@@ -5,6 +5,9 @@ links:
   - name: website
     url: "https://bscscan.com/token/0xb4357054c3dA8D46eD642383F03139aC7f090343"
 name: HONEYPOT Port3 Network
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 This token is malicious do not interact

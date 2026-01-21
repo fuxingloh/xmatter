@@ -9,6 +9,11 @@ links:
   - name: facebook
     url: "https://facebook.com/EFFORCE/"
 name: Efforce
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 The first blockchain-based energy-saving platform.

@@ -5,6 +5,11 @@ links:
   - name: website
     url: "https://zippie.org/"
 name: Zippie
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#262626"
 ---
 
 Zippie makes storing and sending digital currencies, such as ether, easier than ever. Using your Zippie Card, it takes just a single tap to your phone to confirm large payments. NFC technology ensures that only you can move your funds.

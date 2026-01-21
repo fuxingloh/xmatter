@@ -13,6 +13,11 @@ links:
   - name: x
     url: "https://x.com/qrkitaexchanger?s=09"
 name: QRKITA TOKEN
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f0e0df"
 ---
 
 We Are First Online Qris Platform In Indonesia. Qrkita Provides The Latest Technology For Online And Offline Merchant To Boost Their Sales.

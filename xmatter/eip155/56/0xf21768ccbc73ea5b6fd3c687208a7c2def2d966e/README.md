@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/reef/"
 name: Reef.finance
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#bd28c4"
 ---
 
 Reef Finance is a multi-chain smart yield engine and liquidity aggregator where any DeFi protocol can integrate into.

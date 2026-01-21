@@ -15,6 +15,11 @@ links:
   - name: source_code
     url: "https://github.com/pepe2coineth/SmartContract"
 name: Pepe 2.0
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#eb9610"
 ---
 
 Learning from past other tokens mistakes, Pepe2.0 wants to make things right and redo his billion-dollar run.

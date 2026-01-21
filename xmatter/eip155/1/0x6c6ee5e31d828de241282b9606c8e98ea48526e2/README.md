@@ -21,6 +21,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/holotoken/"
 name: Holo
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#04848b"
 ---
 
 Holochain (HOT) is a decentralized application platform that uses peer-to-peer networking for processing agent-centric agreement and consensus mechanisms between users.

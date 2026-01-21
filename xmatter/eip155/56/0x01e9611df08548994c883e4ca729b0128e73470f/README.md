@@ -16,6 +16,11 @@ links:
   - name: facebook
     url: "https://facebook.com/RizeAboveToken/"
 name: RIZE ABOVE EVOLUTION
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#080705"
 ---
 
 RIZE ABOVE EVOLUTION is a community driven hyper-deflationary decentralized digital currency for THE PEOPLE by THE PEOPLE. RZE rewards holders with binance wrapped DOGE.

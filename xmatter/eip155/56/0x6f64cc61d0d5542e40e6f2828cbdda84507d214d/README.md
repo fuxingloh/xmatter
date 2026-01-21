@@ -35,6 +35,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/metaniagames"
 name: METANIAGAMES
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#9236c1"
 ---
 
 We produce various collections, games, NFTs that you can use in games, and maps for you to navigate in your own world.

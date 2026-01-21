@@ -17,6 +17,11 @@ links:
   - name: medium
     url: "https://medium.com/@zillionzax"
 name: ZILLION AAKAR XO
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d6b571"
 ---
 
 Zax is a simple utility token created with an existence on Binance Smart Chain! As the name suggests, this token encompasses the entire crypto universe in one circle.

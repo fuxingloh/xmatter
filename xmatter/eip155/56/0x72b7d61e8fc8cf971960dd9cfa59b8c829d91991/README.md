@@ -11,6 +11,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/FD5vHyh9Rv"
 name: AQUA
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1d1441"
 ---
 
 AQUA is a utility based cryptocurrency designed to accrue value & govern the planets.

@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/Akasha_Rising"
 name: She Rises
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#c68ad1"
 ---
 
 Sent from the year 2167 through the Solana blockchain commissioned to save the world.

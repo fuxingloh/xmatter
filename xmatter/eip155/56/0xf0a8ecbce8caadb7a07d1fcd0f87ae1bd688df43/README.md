@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/ru/currencies/cryptogodz/"
 name: CryptoGodz
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#262523"
 ---
 
 CRYPTOGODZA VIRTUAL UNIVERSE OF FANTASY HEROES FOR P2P NFT GAMING

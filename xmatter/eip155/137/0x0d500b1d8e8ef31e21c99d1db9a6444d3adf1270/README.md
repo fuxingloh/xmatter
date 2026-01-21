@@ -11,6 +11,11 @@ links:
   - name: github
     url: "https://github.com/maticnetwork/"
 name: Wrapped MATIC
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#8444e4"
 ---
 
 Wrapped MATIC

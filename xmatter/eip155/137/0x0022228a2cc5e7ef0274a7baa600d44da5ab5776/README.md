@@ -18,6 +18,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/ZheVAnFt6h"
 name: Staked USDA
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#43cfae"
 ---
 
 stUSD is a USD savings solution built on top of USDA by the Angle Protocol

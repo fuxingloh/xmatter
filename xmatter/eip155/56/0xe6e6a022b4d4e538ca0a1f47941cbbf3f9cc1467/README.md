@@ -17,6 +17,11 @@ links:
   - name: medium
     url: "https://medium.com/@NUTSGamingBSC"
 name: NUTS Gaming
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#da6880"
 ---
 
 NUTS Gaming is a token developed through the Binance Smart Chain. It aims to apply crypto technology to optimize the economy of the poker & gaming industry.

@@ -22,6 +22,11 @@ links:
   - name: source_code
     url: "https://github.com/crypto-ai-git/contract/blob/main/crypto_ai.sol"
 name: Crypto AI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0e0971"
 ---
 
 Crypto AI, an AI-powered using AI Machine Learning to Create Digital Asset.

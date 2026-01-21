@@ -24,6 +24,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/taiko/"
 name: Taiko Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fbf8fa"
 ---
 
 Taiko is a permissionless based rollup on Ethereum

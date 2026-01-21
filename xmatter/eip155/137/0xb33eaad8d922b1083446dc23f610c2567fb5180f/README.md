@@ -15,6 +15,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/uniswap/"
 name: Uniswap (PoS)
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fcc2df"
 ---
 
 The Uniswap protocol empowers developers, liquidity providers and traders to participate in a financial marketplace that is open and accessible to all.

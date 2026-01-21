@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/seachain"
 name: SeaChain
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#05a3c4"
 ---
 
 SeaChain is a decentralised, community-driven ecosystem funding trash barriers in the most polluted rivers.

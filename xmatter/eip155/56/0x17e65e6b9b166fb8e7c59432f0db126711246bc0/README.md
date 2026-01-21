@@ -24,6 +24,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/TiFiToken"
 name: TiFi Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#00a3ff"
 ---
 
 TiFi Token is the the first crypto token that support allverse, which united metaverse and universe, by stimulating trading in decentralized ecosystem.

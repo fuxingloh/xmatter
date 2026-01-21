@@ -31,6 +31,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/meritcircle"
 name: Beam
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#9ddce5"
 ---
 
 Beam is a sovereign network focused on gaming brought to you by the Merit Circle DAO.

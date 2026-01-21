@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/yawn"
 name: YAWN
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#802cbf"
 ---
 
 Welcome to Yawn’s World!

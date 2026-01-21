@@ -24,6 +24,11 @@ links:
     url: >-
       https://bscscan.com/address/0x49152dd96be5a710facf9a8ab7de4343a49186d5#code
 name: DART Inu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f18b24"
 ---
 
 Dart Inu is a Metaverse token which supports the vision of NASA's Double Asteroid Redirection Test to defend Mother Earth

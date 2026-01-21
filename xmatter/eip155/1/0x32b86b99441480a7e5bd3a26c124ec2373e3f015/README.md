@@ -25,6 +25,11 @@ links:
   - name: telegram
     url: "https://t.me/badideaai"
 name: Bad Idea AI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#102a3a"
 ---
 
 $BAD is a decentralized experiment combining Blockchain, AI, and DAOs. Aiming to ensure AI works for humanity, it's a risky yet innovative approach. Created for education, entertainment, and experimentation, it represents a unique response to AI's growing influence.

@@ -15,6 +15,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/goma-finance"
 name: GOMA Finance
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 GOMA is a Hyper-Deflationary Community DeFi token foused on staking, reflection and NFTs.
