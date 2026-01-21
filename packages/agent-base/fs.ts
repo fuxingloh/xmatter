@@ -36,6 +36,7 @@ export abstract class FileSystemAgent<Entry> {
         continue;
       }
 
+      await mkdir(targetPath, { recursive: true });
       await this.write(uri, data, sourcePath, targetPath, parsed.data);
     }
   }
@@ -45,7 +46,6 @@ export abstract class FileSystemAgent<Entry> {
   abstract toReadmeFile(uri: string, entry: Entry, source: Path, target: Path): XmatterFile;
 
   async write(uri: string, entry: Entry, source: Path, target: Path, file: XmatterFile): Promise<void> {
-    await mkdir(target, { recursive: true });
     file = await this.mergeFile(target, file);
     file = await this.mergeIcon(target, file);
     file = await this.mergeColor(target, file);
