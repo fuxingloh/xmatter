@@ -31,9 +31,8 @@ export class TrustWalletAssets extends FileSystemAgent<Info> {
   }
 
   async write(uri: string, data: Info, source: string, target: string, file: XmatterFile): Promise<void> {
-    if (!(await hasFile(join(target, "README.md")))) {
-      await super.write(uri, data, source, target, file);
-    }
+    const mergedFile = await this.mergeFile(target, file);
+    await super.write(uri, data, source, target, mergedFile);
 
     if (!(await hasFile(join(target, "icon.png")))) {
       await copyIf(join(source, "logo.png"), join(target, "icon.png"));

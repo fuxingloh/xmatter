@@ -41,6 +41,28 @@ export abstract class FileSystemAgent<Entry> {
     await mkdir(target, { recursive: true });
     await writeFile(join(target, "README.md"), gray.stringify(file.content ?? "", file.data));
   }
+
+  async mergeFile(target: string, file: XmatterFile): Promise<XmatterFile> {
+    const readmePath = join(target, "README.md");
+
+    if (!(await hasFile(readmePath))) {
+      return file;
+    }
+
+    const existing = gray.read(readmePath);
+    const data = existing.data as XmatterFile["data"];
+
+    for (const key in file.data) {
+      if (!(key in data)) {
+        data[key] = file.data[key];
+      }
+    }
+
+    return {
+      data: data,
+      content: existing.content.trim() ? existing.content : file.content,
+    };
+  }
 }
 
 export async function copyIf(from: string, to: string): Promise<void> {
