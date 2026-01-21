@@ -20,4 +20,11 @@ coverage
 
 .turbo
 .vercel
+
+# Agent
 .repo
+
+# tsconfig.json
+packages/*/**/*.d.ts
+packages/*/**/*.d.ts.map
+packages/*/**/*.js

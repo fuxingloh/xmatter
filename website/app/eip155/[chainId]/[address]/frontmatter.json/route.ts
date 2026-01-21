@@ -8,7 +8,7 @@ export async function GET(_: Request, context: RouteContext<"/eip155/[chainId]/[
   const { data } = gray(await readme.text());
   return Response.json(data, {
     headers: {
-      "Cache-Control": "public, max-age=604800, immutable",
+      "Cache-Control": "public, max-age=604800",
     },
   });
 }

@@ -1,7 +1,8 @@
 import { readFile } from "node:fs/promises";
 import { join } from "node:path";
 
-import { ReadmeFile, FileSystemAgent, hasFile, copyIfExists } from "@workspace/agent-base";
+import { XmatterFile } from "xmatter/schema";
+import { FileSystemAgent, hasFile, copyIfExists } from "@workspace/agent-base/fs";
 
 interface Token {
   address: string;
@@ -34,19 +35,19 @@ export class EthereumOptimism extends FileSystemAgent<TokenData> {
     ) as TokenData;
   }
 
-  async write(uri: string, data: TokenData, source: string, target: string, readme: ReadmeFile): Promise<void> {
+  async write(uri: string, data: TokenData, source: string, target: string, file: XmatterFile): Promise<void> {
     if (await hasFile(join(target, "README.md"))) {
       // Don't override if a README already exists
       return;
     }
 
-    await super.write(uri, data, source, target, readme);
+    await super.write(uri, data, source, target, file);
     await copyIfExists(join(source, "logo.png"), join(target, "icon.png"));
     await copyIfExists(join(source, "logo.svg"), join(target, "icon.svg"));
   }
 
-  toReadmeFile(uri: string, data: TokenData): ReadmeFile {
-    const links: ReadmeFile["data"]["links"] = [];
+  toReadmeFile(uri: string, data: TokenData): XmatterFile {
+    const links: XmatterFile["data"]["links"] = [];
     if (data.website) links.push({ name: "website", url: data.website });
     if (data.twitter) {
       links.push({ name: "x", url: `https://x.com/${data.twitter.replace("@", "")}` });

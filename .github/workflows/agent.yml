@@ -1,4 +1,4 @@
-name: Sync
+name: Agent
 
 on:
   workflow_dispatch:

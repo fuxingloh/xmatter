@@ -3,6 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
+    "build": "tsc",
+    "clean": "tsc --build --clean",
     "test": "vitest run"
   },
   "lint-staged": {
@@ -12,6 +14,7 @@
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
+    "xmatter": "workspace:*",
     "zod": "^4.3.5"
   }
 }

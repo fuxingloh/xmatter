@@ -1,7 +1,7 @@
 import { copyFile, mkdir, readdir, stat, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 import gray from "gray-matter";
-import { ReadmeFile, ReadmeFileSchema } from "./ReadmeFile";
+import { XmatterSchema, XmatterFile } from "xmatter/schema";
 
 type Path = string;
 
@@ -23,7 +23,7 @@ export abstract class FileSystemAgent<Entry> {
       const uri = options.toUri(data);
       const targetPath = join("../../xmatter", uri);
       const file = this.toReadmeFile(uri, data, sourcePath, targetPath);
-      const parsed = ReadmeFileSchema.safeParse(file);
+      const parsed = XmatterSchema.safeParse(file);
       if (!parsed.success) {
         console.error(`Invalid README for ${targetPath}, ${parsed.error}`);
         continue;
@@ -35,11 +35,11 @@ export abstract class FileSystemAgent<Entry> {
 
   abstract readEntry(source: Path): Promise<Entry | undefined>;
 
-  abstract toReadmeFile(uri: string, entry: Entry, source: Path, target: Path): ReadmeFile;
+  abstract toReadmeFile(uri: string, entry: Entry, source: Path, target: Path): XmatterFile;
 
-  async write(uri: string, entry: Entry, source: Path, target: Path, readme: ReadmeFile): Promise<void> {
+  async write(uri: string, entry: Entry, source: Path, target: Path, file: XmatterFile): Promise<void> {
     await mkdir(target, { recursive: true });
-    await writeFile(join(target, "README.md"), gray.stringify(readme.content, readme.data));
+    await writeFile(join(target, "README.md"), gray.stringify(file.content, file.data));
   }
 }
 

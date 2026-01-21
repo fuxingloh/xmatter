@@ -44,6 +44,9 @@ importers:
       gray-matter:
         specifier: ^4.0.3
         version: 4.0.3
+      xmatter:
+        specifier: workspace:*
+        version: link:../xmatter
       zod:
         specifier: ^4.3.5
         version: 4.3.5
@@ -56,6 +59,9 @@ importers:
       tsx:
         specifier: ^4.19.2
         version: 4.21.0
+      xmatter:
+        specifier: workspace:*
+        version: link:../xmatter
 
   packages/agent-trust-wallet:
     dependencies:
@@ -65,8 +71,15 @@ importers:
       tsx:
         specifier: ^4.19.2
         version: 4.21.0
+      xmatter:
+        specifier: workspace:*
+        version: link:../xmatter
 
-  packages/xmatter: {}
+  packages/xmatter:
+    dependencies:
+      zod:
+        specifier: ^4.3.5
+        version: 4.3.5
 
   website:
     dependencies:

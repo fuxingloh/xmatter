@@ -4,3 +4,4 @@ packages:
 ignoredBuiltDependencies:
   - sharp
   - unrs-resolver
+updateNotifier: false

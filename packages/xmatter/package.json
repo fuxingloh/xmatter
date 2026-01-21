@@ -2,7 +2,22 @@
   "name": "xmatter",
   "version": "0.0.0",
   "private": false,
-  "files": [],
-  "scripts": {},
-  "devDependencies": {}
+  "files": [
+    "**/*.d.ts",
+    "**/*.d.ts.map",
+    "**/*.js"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "clean": "tsc --build --clean",
+    "test": "vitest run"
+  },
+  "lint-staged": {
+    "*": [
+      "prettier --write --ignore-unknown"
+    ]
+  },
+  "dependencies": {
+    "zod": "^4.3.5"
+  }
 }
