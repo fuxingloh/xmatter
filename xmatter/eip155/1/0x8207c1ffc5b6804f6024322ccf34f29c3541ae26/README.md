@@ -9,6 +9,9 @@ links:
   - name: github
     url: "https://github.com/originprotocol"
 name: Origin Protocol
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Enabling peer-to-peer commerce

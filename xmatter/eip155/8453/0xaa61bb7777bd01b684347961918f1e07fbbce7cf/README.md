@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/boundless_xyz"
 name: ZK Coin
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+ZKC is the native token of the Boundless protocol. It functions as the backbone for all ZK Proving.

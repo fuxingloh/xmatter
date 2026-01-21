@@ -8,4 +8,9 @@ links:
   - name: twitter
     url: "https://twitter.com/USD_3"
 name: Web 3 Dollar
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+An RToken that earns the DeFi rate any time you're in stables.

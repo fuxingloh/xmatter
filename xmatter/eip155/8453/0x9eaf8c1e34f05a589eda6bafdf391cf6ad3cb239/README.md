@@ -17,6 +17,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/yearn-finance/"
 name: yearn.finance
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 DeFi made simple.

@@ -11,6 +11,9 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/altlayer/"
 name: AltLayer
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 AltLayer is an open and decentralised protocol for rollups.

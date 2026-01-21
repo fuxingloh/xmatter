@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/TheTNetwork"
 name: Base tBTC v2
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+Decentralized, Permissionless Bitcoin Bridge

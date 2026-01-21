@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/defli_networks"
 name: DRODEC
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+DRODEC is the utility and reward token for the DeFli Drone Detection Network. Bridged by wormhole.

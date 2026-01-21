@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/MetalSwapNet"
 name: MetalSwap
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+A decentralized platform that allows hedging swaps on financial markets providing a coverage to those working with commodities and investment opportunities for those who contribute to the shared liquidity of the project.

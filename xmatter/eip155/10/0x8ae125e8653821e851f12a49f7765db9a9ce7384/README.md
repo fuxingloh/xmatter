@@ -9,6 +9,9 @@ links:
   - name: telegram
     url: "https://t.me/InverseFinance"
 name: Dola USD Stablecoin
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Dola is a debt and asset backed, capital-efficient, decentralized stablecoin from Inverse Finance

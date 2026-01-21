@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/ArianeeProject"
 name: ARIANEE
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+ARIA20 is the native token for Arianee Protocol.

@@ -15,6 +15,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/pettai"
 name: Pett AI
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 PettAI is an AI-driven game merging advanced gameplay with intricate economics.

@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/RaiFinance"
 name: Rai.Finance
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+Join the new era of SocialFi.

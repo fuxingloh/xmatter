@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/LizLabsio"
 name: Lizcoin
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+The Lizcoin ERC20 token is the governance token for the Gaming Sub-DAO of Lizard Labs. While the studio focuses on immersive, interconnected gaming experiences, the token is primarily used for yield farming and revenue distribution for active participants, protocol governance, and liquidity staking.

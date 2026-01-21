@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/https://x.com/blocklords"
 name: BLOCKLORDS
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+A multi-chain token

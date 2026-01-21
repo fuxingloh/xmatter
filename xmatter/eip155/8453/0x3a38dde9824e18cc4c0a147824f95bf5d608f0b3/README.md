@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/HairDAO_"
 name: HairDAO
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+HairDAO Governance Token

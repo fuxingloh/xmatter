@@ -17,6 +17,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/1inch/"
 name: 1INCH Token
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 1inch is a decentralized exchange (DEX) aggregator, connecting several DEXes into one platform to allow its users to find the most efficient swapping routes across all platforms. In order for a user to find the best price for a swap, they need to look at every exchange — DEX aggregators eliminate the need for manually checking, bringing efficiency to swapping on DEXs.

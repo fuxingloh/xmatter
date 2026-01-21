@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/https://twitter.com/dotmoovs"
 name: dotmoovs
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+AI Human Biomechanics & Web3

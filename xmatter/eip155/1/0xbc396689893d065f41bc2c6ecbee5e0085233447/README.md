@@ -11,6 +11,9 @@ links:
   - name: whitepaper
     url: "https://docs.perp.fi/"
 name: Perpetual
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Decentralized Perpetual Contract for Every Assets

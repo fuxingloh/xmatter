@@ -17,6 +17,9 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UCO7CNhdHYiJoBICgbo-yyiw/featured"
 name: GYEN
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 GYEN anchors its value to the price of the Japanese Yen. Redeemable and pegged 1-to-1 with fiat currency to virtually eliminate volatility, while still benefiting from the advantages of cryptocurrency, such as high-speed transaction and low costs, especially for cross-border payments

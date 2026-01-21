@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/flixxo"
 name: Flixx
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+FLIXX is an ERC20 token issued by Flixxo, a video distribution platform.

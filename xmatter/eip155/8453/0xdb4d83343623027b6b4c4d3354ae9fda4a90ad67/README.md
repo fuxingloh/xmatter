@@ -7,4 +7,7 @@ links:
   - name: twitter
     url: "https://twitter.com/https://x.com/rss3_"
 name: RSS3
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---

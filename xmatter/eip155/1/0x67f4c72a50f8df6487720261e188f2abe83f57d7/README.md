@@ -13,6 +13,9 @@ links:
   - name: forum
     url: "https://forum.pokt.network/"
 name: Wrapped Pocket (wPOKT)
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Reliable, performant, and cost-effective RPC infrastructure that is owned and governed by its users. Unstoppable Open Data, powered by decentralization.

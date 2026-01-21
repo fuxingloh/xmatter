@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/PhunToken"
 name: PhunToken
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+Rewarding you for being you.

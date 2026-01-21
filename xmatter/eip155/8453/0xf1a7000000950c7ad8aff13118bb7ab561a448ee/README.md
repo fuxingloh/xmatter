@@ -9,6 +9,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/flayer"
 name: Flayer
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 In this white paper, we introduce the ƒlayer protocol: a novel solution for providing fungible liquidity to non-fungible token (NFT) collections

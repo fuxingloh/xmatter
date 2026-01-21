@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/0xconcentrator"
 name: AladdinCRV
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+Aladdin concentrator is a platform that boosts rewards for Curve & Convex stakers and liquidity providers alike, all in a simple and easy to use interface.

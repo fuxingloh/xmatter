@@ -15,6 +15,9 @@ links:
   - name: medium
     url: "https://medium.com/rocket-pool"
 name: Rocket Pool
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Rocket Pool Protocol (RPL) - Decentralised Proof of Stake Pool

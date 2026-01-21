@@ -15,6 +15,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/hanchain/"
 name: HanChain
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Dual cryptocurrency platform with DeFi structure focusing on real-life use.

@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/https://twitter.com/EcoAssoc"
 name: Eco
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+Eco is a cryptocurrency with independent monetary policy, designed to enable an independently governed payment economy.

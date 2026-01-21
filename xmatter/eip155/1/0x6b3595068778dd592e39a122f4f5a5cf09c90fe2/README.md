@@ -15,6 +15,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/sushi/"
 name: SushiSwap
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 SushiSwap claims to be an evolution of #Uniswap with $SUSHI tokenomics.

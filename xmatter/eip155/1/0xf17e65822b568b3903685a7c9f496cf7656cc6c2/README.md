@@ -11,6 +11,9 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/biconomy/"
 name: Biconomy
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Biconomy is a multichain relayer protocol that aims to reduce the friction point when dealing with blockchain technology for its mass adoption.

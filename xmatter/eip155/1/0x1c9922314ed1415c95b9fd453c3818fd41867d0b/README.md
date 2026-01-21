@@ -15,6 +15,9 @@ links:
   - name: whitepaper
     url: "https://lightpaper.crazydefenseheroes.com/"
 name: TOWER
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Utility token to the blockchain game of Crazy Kings franchise.

@@ -5,6 +5,9 @@ links:
   - name: website
     url: "https://spankchain.com/"
 name: SPANK
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 A cryptoeconomic powered adult entertainment ecosystem built on the Ethereum network.

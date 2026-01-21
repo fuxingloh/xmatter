@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/wormholecrypto"
 name: Aptos
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+APT from Aptos, bridged by Wormhole.

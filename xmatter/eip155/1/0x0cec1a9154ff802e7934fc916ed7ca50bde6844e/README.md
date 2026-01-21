@@ -13,6 +13,9 @@ links:
   - name: github
     url: "https://github.com/pooltogether"
 name: PoolTogether
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 PoolTogether is the open source, decentralized primitive for no-loss prize games

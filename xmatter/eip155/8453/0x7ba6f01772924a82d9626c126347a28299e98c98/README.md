@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/MetronomeDAO"
 name: Metronome Synth ETH
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+Metronome Synth ETH

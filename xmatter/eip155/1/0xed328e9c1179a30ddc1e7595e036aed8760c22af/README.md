@@ -18,6 +18,9 @@ links:
   - name: medium
     url: "https://medium.com/@metacade"
 name: Metacade (MCADE)
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 At Metacade our vision is to become the premier gaming platform that empowers developers and players, providing unparalleled opportunities for growth and collaboration. Through creativity and innovation we aim to create a fun first community that offers a rewarding and enjoyable experience, while delivering a revenue driven platform that gives value to $MCADE token holders.

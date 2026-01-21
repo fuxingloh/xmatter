@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/adsharesnet"
 name: Adshares
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+Adshares powers the ADS Fund — a token launchpad on the BASE chain. The platform enables open-source projects to launch tokens, helping finance development efforts and increase project visibility.

@@ -15,6 +15,9 @@ links:
   - name: discord
     url: "https://discord.com/invite/EwKuFDCA5V"
 name: DogeGF
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Warm-hearted community fuelled by the magic of reciprocity.

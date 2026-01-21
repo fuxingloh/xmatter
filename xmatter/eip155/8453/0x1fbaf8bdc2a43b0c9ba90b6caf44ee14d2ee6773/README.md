@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/FissionBioDeSci"
 name: Fission Bio
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+Fission Bio IP Token

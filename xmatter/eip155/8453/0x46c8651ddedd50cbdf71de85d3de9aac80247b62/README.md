@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/Team3D_Official"
 name: Vidya
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+A GameFi token

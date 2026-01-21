@@ -19,6 +19,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/telcoin/"
 name: Telcoin
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Telcoin (TEL) is an Ethereum-based decentralized crypto established.

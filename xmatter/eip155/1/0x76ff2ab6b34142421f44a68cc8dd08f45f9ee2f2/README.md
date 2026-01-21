@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/getpipcom"
 name: PIP
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+The one platform for all your crypto payment needs

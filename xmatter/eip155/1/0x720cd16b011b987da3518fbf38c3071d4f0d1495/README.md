@@ -19,6 +19,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/zelcash/"
 name: Flux
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Flux is the cryptocurrency powering the Flux Ecosystem, including a massive decentralized computational network. Flux gives users both institutional and private control over their cloud infrastructure in a decentralized manner.

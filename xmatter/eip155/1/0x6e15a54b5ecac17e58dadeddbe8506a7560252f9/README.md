@@ -13,6 +13,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/synfutures"
 name: SynFutures
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 SynFutures (F) is a leading decentralized exchange (DEX) and full-stack financial infrastructure powering the future of trading. Utilizing its Oyster AMM model and a fully onchain order-matching engine for derivatives, SynFutures enables anyone to list and trade any asset with leverage.

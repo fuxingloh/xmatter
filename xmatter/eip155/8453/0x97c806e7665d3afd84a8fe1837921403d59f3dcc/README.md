@@ -10,6 +10,9 @@ links:
     url: >-
       https://coinmarketcap.com/currencies/alethea-artificial-liquid-intelligence-token/
 name: Artificial Liquid Intelligence
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 The ALI Token is the native utility token of the AI Protocol.

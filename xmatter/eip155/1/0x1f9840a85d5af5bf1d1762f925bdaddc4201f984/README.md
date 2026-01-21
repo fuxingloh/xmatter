@@ -18,6 +18,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/uniswap/"
 name: Uniswap
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 UNI is the Uniswap protocol token. Uniswap is a decentralized protocol for automated liquidity provision on Ethereum.

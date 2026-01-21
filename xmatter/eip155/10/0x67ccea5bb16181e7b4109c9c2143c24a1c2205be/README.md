@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/fraxfinance"
 name: FXS
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+Frax Shares (FXS) is the seigniorage token in the Frax protocol.

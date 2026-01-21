@@ -7,4 +7,7 @@ links:
   - name: twitter
     url: "https://twitter.com/razor_network"
 name: Razor Network
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---

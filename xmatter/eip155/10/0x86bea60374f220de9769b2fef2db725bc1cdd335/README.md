@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/Flashstake"
 name: Flashstake
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+Flashstake protocol is a financial infrastructure allowing users to receive instant yield on deposits by locking up principal for a chosen duration.

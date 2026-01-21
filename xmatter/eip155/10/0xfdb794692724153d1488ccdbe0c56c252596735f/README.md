@@ -7,4 +7,7 @@ links:
   - name: twitter
     url: "https://twitter.com/LidoFinance"
 name: Lido DAO Token
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---

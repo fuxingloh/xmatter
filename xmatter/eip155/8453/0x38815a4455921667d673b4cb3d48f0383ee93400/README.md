@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/pStakeFinance"
 name: pSTAKE Finance
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+pSTAKE Finance is a Bitcoin Yield and Liquid Staking protocol, backed by Binance Labs.

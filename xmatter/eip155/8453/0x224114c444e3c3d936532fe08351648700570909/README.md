@@ -7,4 +7,7 @@ links:
   - name: twitter
     url: "https://twitter.com/Paladin_vote"
 name: Paladin Token
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---

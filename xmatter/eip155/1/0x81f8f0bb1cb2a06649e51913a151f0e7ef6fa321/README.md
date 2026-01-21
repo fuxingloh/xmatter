@@ -27,6 +27,9 @@ links:
   - name: youtube
     url: "https://youtube.com/c/vitadao"
 name: VitaDAO
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 The governance token for VitaDAO, a decentralized collective funding early stage longevity research.

@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/yokai_game"
 name: "YokAI: Generative Monsters"
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+GenAI Augmented Reality Monsters. Trained on local folklore. Powered by $YOKAI.

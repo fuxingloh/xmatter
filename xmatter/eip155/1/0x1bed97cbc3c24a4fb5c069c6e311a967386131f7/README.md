@@ -9,6 +9,9 @@ links:
   - name: x
     url: "https://x.com/iearnfinance"
 name: Yearn Ether
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 THE DEFI WAY TO EARN ON CRYPTO

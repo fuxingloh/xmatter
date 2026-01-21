@@ -15,6 +15,9 @@ links:
   - name: discord
     url: "https://discord.com/invite/9x9VUngNZD"
 name: Pendle
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Pendle is a protocol for people to trade and hedge yield. Users can tokenize yield and trade them on Pendle's AMM

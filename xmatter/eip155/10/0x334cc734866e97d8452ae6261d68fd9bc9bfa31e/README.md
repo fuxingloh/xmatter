@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/arpaofficial"
 name: ARPA Token
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+ARPA innovates cryptographic systems to make blockchains more versatile, reliable, and interlinked.

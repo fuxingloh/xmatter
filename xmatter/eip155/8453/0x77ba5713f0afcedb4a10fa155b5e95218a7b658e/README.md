@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/https://twitter.com/sudoswap"
 name: SUDO GOVERNANCE TOKEN
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+SUDO is the governance token for Sudoswap, an NFT marketplace designed for creators & collectors with support for any asset and on-chain royalties.

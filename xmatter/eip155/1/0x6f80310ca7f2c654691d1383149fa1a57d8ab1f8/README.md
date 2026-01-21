@@ -21,6 +21,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/silo-finance"
 name: Silo Finance
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Silo's lending protocol (Silo Finance) is owned and operated by the SiloDAO. The governance token ($SILO) endows holders with full control over the DAO and its lending protocol through voting and delegation rights.

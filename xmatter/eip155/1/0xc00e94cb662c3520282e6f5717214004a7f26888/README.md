@@ -13,6 +13,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/compound-governance-token/"
 name: Compound
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Compound is the governance token for the Compound protocol.

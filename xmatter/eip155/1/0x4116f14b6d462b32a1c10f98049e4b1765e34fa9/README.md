@@ -25,6 +25,9 @@ links:
   - name: reddit
     url: "https://reddit.com/r/dotmoovs"
 name: dotmoovs
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 dotmoovs is leading the way in AI Human Biomechanics, pioneering advancements in critical areas such sports, smart cities, and healthcare sectors. Our platform capitalizes on the importance of Human Movement. With a B2B API and a user friendly mobile app, our project is designed to attract all audiences, both users and companies.

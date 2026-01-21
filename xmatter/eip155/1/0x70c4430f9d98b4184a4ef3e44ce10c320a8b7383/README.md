@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/gyrostable"
 name: Gyroscope
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+Gyroscope's governance token. Gyroscope makes superliquidity simple: efficient, passive access to concentrated liquidity and superliquid stablecoin yield.

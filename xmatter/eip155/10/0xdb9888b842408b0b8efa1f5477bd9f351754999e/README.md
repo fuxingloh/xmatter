@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/baxacoin"
 name: BAXagent Coin
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+A community currency for the accounting industry.
