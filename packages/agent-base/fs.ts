@@ -121,11 +121,30 @@ export abstract class FileSystemAgent<Entry> {
 }
 
 export async function copyImage(from: string, to: string): Promise<void> {
-  if (await hasFile(from)) {
-    if (!(await hasFile(to))) {
-      await copyFile(from, to);
-    }
+  if (!(await hasFile(from))) {
+    return;
   }
+
+  if (await hasFile(to)) {
+    return;
+  }
+
+  // Check file size, skip if >1MB
+  const fileStats = await stat(from);
+  if (fileStats.size > 1024 * 1024) {
+    console.warn(`Skipping ${from}: file size exceeds 1MB`);
+    return;
+  }
+
+  // Validate file can be parsed by sharp
+  try {
+    await sharp(from).metadata();
+  } catch (error) {
+    console.warn(`Skipping ${from}: cannot be parsed by sharp`, error);
+    return;
+  }
+
+  await copyFile(from, to);
 }
 
 // Simple utility to check a filepath exist.
