@@ -43,7 +43,7 @@ export abstract class FileSystemAgent<Entry> {
   }
 }
 
-export async function copyIfExists(from: string, to: string): Promise<void> {
+export async function copyIf(from: string, to: string): Promise<void> {
   if (await hasFile(from)) {
     await copyFile(from, to);
   }
