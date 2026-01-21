@@ -95,7 +95,7 @@ export abstract class FileSystemAgent<Entry> {
 
       // Convert SVG to PNG using sharp before color extraction
       if (file.data.icon.endsWith(".svg")) {
-        buffer = Buffer.from(await sharp(buffer).png().resize(64, 64).toBuffer());
+        buffer = Buffer.from(await sharp(buffer).png().resize(128, 128).toBuffer());
       }
 
       const primaryColor = await getColor(buffer);
