@@ -43,7 +43,6 @@ export class TrustWalletAssets extends FileSystemAgent<Info> {
   toReadmeFile(uri: string, data: Info): XmatterFile {
     const links: XmatterFile["data"]["links"] = [];
     if (data.website) links.push({ name: "website", url: data.website });
-    if (data.explorer) links.push({ name: "explorer", url: data.explorer });
 
     if (data.links) {
       for (const link of data.links) {
