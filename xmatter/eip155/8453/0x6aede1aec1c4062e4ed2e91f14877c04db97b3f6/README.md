@@ -10,6 +10,8 @@ name: "YokAI: Generative Monsters"
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#be6a60"
 ---
 
 GenAI Augmented Reality Monsters. Trained on local folklore. Powered by $YOKAI.

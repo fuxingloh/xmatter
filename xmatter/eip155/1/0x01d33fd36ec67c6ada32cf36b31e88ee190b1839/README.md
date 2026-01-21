@@ -8,6 +8,8 @@ name: BRZ Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#cec217"
 ---
 
 BRZ is a token backed by the Brazilian Real (BRL) currency

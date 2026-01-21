@@ -12,6 +12,8 @@ name: ARC
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#3855e8"
 ---
 
 $ARC is your all in one solution for Web3 and AI.

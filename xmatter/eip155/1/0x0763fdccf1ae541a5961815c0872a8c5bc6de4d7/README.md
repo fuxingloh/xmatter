@@ -16,6 +16,8 @@ name: SUKU
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.png
+color: "#1b1c1c"
 ---
 
 The link between open finance, traceability, and transparency. The future of supply chains today.

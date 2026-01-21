@@ -10,6 +10,8 @@ name: Mrs Miggles
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#d8bbba"
 ---
 
 Mr Miggles loving wife is here to take over base

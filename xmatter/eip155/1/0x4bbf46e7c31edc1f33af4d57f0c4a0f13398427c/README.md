@@ -10,6 +10,8 @@ name: MBS
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 MonkeyLeague is a fast, strategy-based sports game. Build your dream team of MonkeyAthletes, play matches, compete in tournaments and climb the Leagues!

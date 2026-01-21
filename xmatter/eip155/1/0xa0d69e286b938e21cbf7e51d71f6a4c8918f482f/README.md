@@ -10,6 +10,8 @@ name: Electronic Dollar
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#bfbfbf"
 ---
 
 The eUSD Yield DTF is a fully collateralized US-dollar stablecoin built on the Reserve Protocol

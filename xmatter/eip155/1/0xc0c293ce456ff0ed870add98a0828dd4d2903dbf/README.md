@@ -30,6 +30,8 @@ name: Aura Finance (AURA)
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#7e3acf"
 ---
 
 Boosting DeFi stakeholders' yield potential and governance power, starting with Balancer.

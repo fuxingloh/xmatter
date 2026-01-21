@@ -25,6 +25,8 @@ name: Loopring
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.png
+color: "#2a63f3"
 ---
 
 The Loopring protocol smart contracts and zero-knowledge proof circuits allow the building of high-performance DEXes using a zkRollup construction.

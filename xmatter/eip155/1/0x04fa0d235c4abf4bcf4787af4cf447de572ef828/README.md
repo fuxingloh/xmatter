@@ -16,6 +16,8 @@ name: UMA
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.png
+color: "#fc4b4b"
 ---
 
 UMA Protocol is a Decentralized Finance (DeFi) Protocol on Ethereum for any two counterparties to create their own financial contracts and synthetic assets.

@@ -12,6 +12,8 @@ name: SPX6900
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.png
+color: "#dab24d"
 ---
 
 SPX6900 is an advanced blockchain cryptography token with limitless possibilities and scientific utilization.

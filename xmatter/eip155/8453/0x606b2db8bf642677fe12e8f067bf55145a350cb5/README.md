@@ -10,6 +10,8 @@ name: ShibaDoge
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.png
+color: "#e1c145"
 ---
 
 The first community-driven utility token & ecosystem created by Shiba & Dogecoin whales coming together for the greater good of both communities

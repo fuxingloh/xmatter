@@ -10,6 +10,8 @@ name: Feisty Doge
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#d4c395"
 ---
 
 A fractionalized NFT of and from the real doge, Kabosu.

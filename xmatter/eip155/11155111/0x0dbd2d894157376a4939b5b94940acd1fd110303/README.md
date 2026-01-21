@@ -10,6 +10,8 @@ links:
     url: "https://x.com/irara823"
 symbol: IRARA
 decimals: 18
+icon: icon.svg
+color: "#000000"
 ---
 
 IRARA Token is a test ERC20 for the ClaimToken contract, serving as a cross-chain demo with imToken. Once the token is deposited into the ClaimToken contract on the specified blockchain, the airdrop can be executed through our upcoming Account Abstraction wallet.

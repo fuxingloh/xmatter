@@ -16,6 +16,8 @@ name: Ethereans
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#e2dbfc"
 ---
 
 Governance Token of EthereansOS (EthOS) protocol. More info: https://ethos.eth

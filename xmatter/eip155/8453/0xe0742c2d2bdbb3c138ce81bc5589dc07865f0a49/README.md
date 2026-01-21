@@ -10,6 +10,8 @@ name: LikeButton.eth
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#2cabe3"
 ---
 
 A decentralized 'like button' for Web3.

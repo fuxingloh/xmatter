@@ -10,6 +10,8 @@ name: BEPRO Network
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#dfdfef"
 ---
 
 A Code-as-a-Service protocol providing technology and support for blockchain-based applications

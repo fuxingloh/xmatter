@@ -10,6 +10,8 @@ name: dotmoovs
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#042dfc"
 ---
 
 AI Human Biomechanics & Web3

@@ -10,6 +10,8 @@ name: Cryptoodles Toodle Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.png
+color: "#a86f49"
 ---
 
 TODL is the native token for the world of Cryptoodles.

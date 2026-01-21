@@ -10,6 +10,8 @@ name: GENOME
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#7d8fc4"
 ---
 
 GENOME is the utility and Governance token of the GenomesDAO tools and platforms. It acts as the native currency within Genomes.io

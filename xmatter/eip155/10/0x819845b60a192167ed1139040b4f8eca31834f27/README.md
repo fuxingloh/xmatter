@@ -10,6 +10,8 @@ name: MetaPoolETH
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#bbc3e3"
 ---
 
 mpETH is a modern liquid staking token for ethereum.

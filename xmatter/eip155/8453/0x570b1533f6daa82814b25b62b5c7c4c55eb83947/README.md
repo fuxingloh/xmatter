@@ -10,6 +10,8 @@ name: BOBO
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#6a402b"
 ---
 
 the official bear mascot of all financial markets

@@ -12,6 +12,8 @@ name: Curve.Finance USD Stablecoin
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#e2ebe4"
 ---
 
 crvUSD is a collateralized-debt-position (CDP) stablecoin pegged to the US Dollar

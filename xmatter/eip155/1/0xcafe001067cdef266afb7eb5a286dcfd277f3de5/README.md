@@ -16,6 +16,8 @@ name: ParaSwap
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#4f87fb"
 ---
 
 ParaSwap aggregates decentralized exchanges and other DeFi services in one comprehensive interface to streamline and facilitate users' interactions with decentralized finance on Ethereum and EVM-compatible chains Polygon, Avalanche, BSC & more to come.

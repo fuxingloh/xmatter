@@ -10,6 +10,8 @@ name: Gemach
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#000000"
 ---
 
 DAO offering AI on-chain trading agents and companions. All products are self-custodial - interest free loans, index funds, and sniper bot.

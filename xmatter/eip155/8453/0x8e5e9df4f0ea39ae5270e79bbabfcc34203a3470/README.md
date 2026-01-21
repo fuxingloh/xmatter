@@ -11,6 +11,8 @@ name: Revenue Generating USD
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#04fa9b"
 ---
 
 An RToken that holds a $1 USD peg, and deploys collateral to generate safe, on-chain yield to incentivize liquidity for itself and partners.

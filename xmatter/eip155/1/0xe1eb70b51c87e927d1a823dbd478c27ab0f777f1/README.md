@@ -10,6 +10,8 @@ name: DRODEC
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#fceaea"
 ---
 
 DRODEC is the utility and reward token for the DeFli Drone Detection Network. Bridged by wormhole.

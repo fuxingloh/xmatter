@@ -10,6 +10,8 @@ name: pSTAKE Finance
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 pSTAKE Finance is a Bitcoin Yield and Liquid Staking protocol, backed by Binance Labs.

@@ -10,6 +10,8 @@ name: Popcorn
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#070705"
 ---
 
 Popcorn is a regenerative yield optimizing protocol with soul.

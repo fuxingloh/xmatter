@@ -10,6 +10,8 @@ name: Nova DAO
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.png
+color: "#56628f"
 ---
 
 Nova DAO’s ownership is fully conferred via the NOVA Token – with every holder’s tokens entitling them to true ownership and control over the entirety of Nova’s protocols.

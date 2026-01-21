@@ -12,6 +12,8 @@ name: Cartesi Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#050505"
 ---
 
 Cartesi Rollups is a modular execution layer that elevates simple smart contracts to decentralized Linux runtime.

@@ -22,6 +22,8 @@ name: BOB
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#e07aec"
 ---
 
 BOB is a stable token optimized for the zkBob protocol.

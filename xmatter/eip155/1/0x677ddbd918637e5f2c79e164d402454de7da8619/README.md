@@ -10,4 +10,6 @@ name: VUSD
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#5c6cec"
 ---

@@ -23,6 +23,8 @@ name: Flashstake
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#040405"
 ---
 
 The Flashstake protocol is a novel financial infrastructure that allows users to receive instant yield on deposited assets by locking up principal for a chosen duration. The protocol is made possible by Flash Strategies, which utilize underlying protocols such as AAVE, Yearn, etc. to generate yield. For more information visit the documentation: https://docs.flashstake.io/

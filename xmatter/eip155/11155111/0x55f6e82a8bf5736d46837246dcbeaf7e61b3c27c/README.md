@@ -10,6 +10,8 @@ links:
     url: "https://x.com/syndicateio"
 symbol: SYND
 decimals: 18
+icon: icon.svg
+color: "#cdcdcd"
 ---
 
 Syndicate is infrastructure for building and scaling appchains with programmable onchain sequencers.

@@ -10,6 +10,8 @@ name: Aura BAL
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#8b44dc"
 ---
 
 auraBAL is a token issued for staking BAL on Aura Finance. This token is an OFT bridged with LayerZero.

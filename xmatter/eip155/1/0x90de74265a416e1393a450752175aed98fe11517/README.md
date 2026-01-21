@@ -12,6 +12,8 @@ name: Unlock Protocol
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#fbf3eb"
 ---
 
 Unlock lets you easily lock and manage access to your content, apps, community and even real life events and spaces.

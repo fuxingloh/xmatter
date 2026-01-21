@@ -10,6 +10,8 @@ links:
     url: "https://x.com/UTUtrust"
 symbol: UTU
 decimals: 18
+icon: icon.svg
+color: "#ead66d"
 ---
 
 UTU Coin is the utility token of the UTU decentralised reputation protocol.

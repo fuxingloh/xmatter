@@ -10,6 +10,8 @@ name: Heurist
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#040404"
 ---
 
 Heurist is a decentralized AI computing platform enabling serverless access to open source AI models.

@@ -10,6 +10,8 @@ name: DexKit
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#040404"
 ---
 
 DexKit builds DexAppBuilder: a no-low code web3 DApp builder

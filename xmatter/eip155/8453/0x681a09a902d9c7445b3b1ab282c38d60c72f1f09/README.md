@@ -10,6 +10,8 @@ name: AlphaKEK.AI
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#235e6d"
 ---
 
 Leading AI infrastructure for onchain degens & builders. Find the next 100x, leverage our unbiased models, and generate memes.

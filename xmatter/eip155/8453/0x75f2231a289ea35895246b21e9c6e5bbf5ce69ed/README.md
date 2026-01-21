@@ -10,6 +10,8 @@ name: AltLayer
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#182020"
 ---
 
 Accelerate scaling for Web3

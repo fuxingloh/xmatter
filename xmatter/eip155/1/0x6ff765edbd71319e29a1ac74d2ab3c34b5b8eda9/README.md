@@ -10,6 +10,8 @@ name: Polkastarter
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#04bbfb"
 ---
 
 Decentralized protocol for launching new ideas

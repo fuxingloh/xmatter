@@ -10,6 +10,8 @@ name: Realio Network
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#121212"
 ---
 
 End-to-end platform for compliant issuance, p2p trading and life-cycle management of digital assets.

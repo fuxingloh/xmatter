@@ -10,6 +10,8 @@ links:
     url: "https://x.com/https://twitter.com/BenjiBananas"
 symbol: TYBENG
 decimals: 18
+icon: icon.svg
+color: "#06215b"
 ---
 
 TYBENG

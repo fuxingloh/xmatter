@@ -10,4 +10,6 @@ links:
     url: "https://x.com/ethstatus"
 symbol: SNT
 decimals: 18
+icon: icon.svg
+color: "#4463dc"
 ---

@@ -12,6 +12,8 @@ name: Sovrun
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#fc1474"
 ---
 
 Sovrun is reimagining gaming by empowering players to own their digital assets and become architects of their virtual worlds.

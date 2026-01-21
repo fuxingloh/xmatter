@@ -10,6 +10,8 @@ name: Tetu Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#1c1c4d"
 ---
 
 Asset management protocol

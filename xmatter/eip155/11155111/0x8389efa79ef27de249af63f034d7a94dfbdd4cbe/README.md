@@ -10,4 +10,6 @@ links:
     url: "https://x.com/bittrees_"
 symbol: BTREE
 decimals: 18
+icon: icon.svg
+color: "#2c944c"
 ---

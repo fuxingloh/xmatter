@@ -20,6 +20,8 @@ name: SuperVerse
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#242424"
 ---
 
 SuperVerse is a cross-chain DeFi protocol that allows users to deploy crypto and NFT farms with no code required!

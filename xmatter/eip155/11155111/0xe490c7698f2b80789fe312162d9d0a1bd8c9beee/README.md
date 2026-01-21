@@ -10,6 +10,8 @@ links:
     url: "https://x.com/usebraintrust"
 symbol: BTRST
 decimals: 18
+icon: icon.svg
+color: "#141417"
 ---
 
 Token for ownership and governance of Braintrust, the decentralized talent network.

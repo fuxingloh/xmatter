@@ -16,6 +16,8 @@ name: Tether
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.png
+color: "#24a37b"
 ---
 
 Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar.

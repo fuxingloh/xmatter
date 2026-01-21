@@ -10,6 +10,8 @@ name: Bright
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#f88860"
 ---
 
 BrightDAO community token

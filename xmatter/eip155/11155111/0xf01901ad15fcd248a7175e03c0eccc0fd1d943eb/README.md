@@ -10,6 +10,8 @@ links:
     url: "https://x.com/SeamlessFi"
 symbol: SEAM
 decimals: 18
+icon: icon.svg
+color: "#040404"
 ---
 
 Seamless Governance Token (native Base L2 token)

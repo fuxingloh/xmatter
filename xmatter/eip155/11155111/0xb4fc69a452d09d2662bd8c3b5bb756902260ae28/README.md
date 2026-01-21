@@ -10,6 +10,8 @@ links:
     url: "https://x.com/boundless_xyz"
 symbol: ZKC
 decimals: 18
+icon: icon.svg
+color: "#4d4d4d"
 ---
 
 ZKC is the native token of the Boundless protocol. It functions as the backbone for all ZK Proving.

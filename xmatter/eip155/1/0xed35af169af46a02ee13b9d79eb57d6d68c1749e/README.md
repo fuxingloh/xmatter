@@ -18,6 +18,8 @@ name: OMI Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#dc3444"
 ---
 
 The OMI token underpins transactions on the VeVe digital collectible NFT platform, offering premium licensed NFTs to millions of users around the world from more than 200+ brand partners and artists, including Disney, Marvel, General Motors, Cartoon Network, Pixar, Sony, Universal and more

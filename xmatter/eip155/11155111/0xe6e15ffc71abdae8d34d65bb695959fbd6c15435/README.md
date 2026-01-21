@@ -10,6 +10,8 @@ links:
     url: "https://x.com/SubQueryNetwork"
 symbol: SQT
 decimals: 18
+icon: icon.svg
+color: "#4f85d6"
 ---
 
 The SubQuery Network is facilitating an open web3 data revolution by allowing you to completely decentralise your infrastructure stack.

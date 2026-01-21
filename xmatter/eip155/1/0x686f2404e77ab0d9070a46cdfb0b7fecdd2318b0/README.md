@@ -10,6 +10,8 @@ name: Lords
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 The $Lords token is the native token of the Realms Autonomous World. It is governed by BibliothecaDAO who controls the issuance of the token.

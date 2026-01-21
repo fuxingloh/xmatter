@@ -10,6 +10,8 @@ name: DogeGF
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#e4dfe6"
 ---
 
 DogeGF is an innovative blockchain meme project that stands at the crossroads of cryptocurrency and community spirit. Built on a foundation of reciprocity, it aims to redefine the meme coin landscape by promoting acts of kindness and mutual support among its users.

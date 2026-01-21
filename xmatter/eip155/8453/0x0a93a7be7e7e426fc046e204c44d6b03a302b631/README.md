@@ -6,6 +6,8 @@ name: Nouns
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.png
+color: "#eccb0c"
 ---
 
 A nounish fungible token. Each Noun equals 1M $nouns.

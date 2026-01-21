@@ -14,6 +14,8 @@ name: Worldcoin
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#000000"
 ---
 
 The Worldcoin system revolves around World ID, a privacy-preserving global identity network. World ID enables users to verify their humanness online (`Proof of Personhood`) while maintaining their privacy through zero-knowledge proofs.

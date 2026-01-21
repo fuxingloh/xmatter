@@ -10,6 +10,8 @@ name: Aura
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#7e3acf"
 ---
 
 AURA is a governance and utility token used on Aura Finance. This token is an OFT bridged with LayerZero.

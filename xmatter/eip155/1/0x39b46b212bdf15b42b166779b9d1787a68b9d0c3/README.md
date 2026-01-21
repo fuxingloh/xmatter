@@ -26,6 +26,8 @@ name: Dypius
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.png
+color: "#665fdc"
 ---
 
 Dypius is a powerful, decentralized ecosystem with a focus on scalability, security, and global adoption through next-gen infrastructure. We offer a variety of products and services that cater to both beginners and advanced users in the crypto space including DeFi solutions, analytical tools, NFTs, Metaverse and more!

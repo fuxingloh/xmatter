@@ -35,6 +35,8 @@ name: dHEDGE DAO Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#0c0c0c"
 ---
 
 Decentralized asset management protocol connecting the world’s best investment managers with investors in a permissionless, trustless fashion.

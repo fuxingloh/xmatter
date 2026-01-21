@@ -16,6 +16,8 @@ name: Tellor
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.png
+color: "#44f7aa"
 ---
 
 Tellor (a decentralized oracle) aims to address the Oracle problem on Ethereum.

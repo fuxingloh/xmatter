@@ -10,6 +10,8 @@ name: HuntToken
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#fc6c6c"
 ---
 
 Hunt Town is a Web3 builders guild where builders come together to contribute to the expansion of Web3 culture and products.

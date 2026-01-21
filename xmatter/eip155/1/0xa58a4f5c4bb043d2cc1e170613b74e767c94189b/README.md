@@ -14,6 +14,8 @@ name: UTU Coin
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#ead66d"
 ---
 
 Utility token that powers the trust infrastructure of the internet.
