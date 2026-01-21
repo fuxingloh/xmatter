@@ -5,11 +5,6 @@
     "clean": {
       "cache": false
     },
-    "agent": {
-      "cache": false,
-      "inputs": ["tsconfig.json", "./**/*.ts"],
-      "dependsOn": []
-    },
     "build": {
       "inputs": ["tsconfig.json", "./**/*.ts"],
       "outputs": ["./**/*.js", "./**/*.d.ts", "./**/*.d.ts.map"],
