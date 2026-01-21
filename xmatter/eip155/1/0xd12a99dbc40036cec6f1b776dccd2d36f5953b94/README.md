@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/DraggyOfficialCTO"
 name: Draggy
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dba473"
 ---
 
 Draggy is an epic dragon character based on `The Night Riders` book, a famous comic book by artist and illustrator Matt Furie.

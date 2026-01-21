@@ -15,6 +15,11 @@ links:
   - name: medium
     url: "https://www.medium.com/@ShumoOfficial"
 name: Shumo.io
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ea5334"
 ---
 
 SHUMO THE WORLDS MOST POWERFUL SHIB!

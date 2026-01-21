@@ -23,6 +23,11 @@ links:
   - name: youtube
     url: "https://youtube.com/c/yocoinyoco"
 name: YoCoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#152b3f"
 ---
 
 A Safe, Secure, Eco-Friendly, DeFi Cryptocurrency Engineered with the Lowest Trading Fees Available as well as Automatic Rewards for Life!

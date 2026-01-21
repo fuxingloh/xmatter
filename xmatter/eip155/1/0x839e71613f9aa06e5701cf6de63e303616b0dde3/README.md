@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/vvs-finance/"
 name: VVS Finance
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2c3b53"
 ---
 
 A utility, governance, and reward token with applications throughout the VVS platform.

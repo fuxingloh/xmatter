@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/vlaunch"
 name: VLaunch
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#05071e"
 ---
 
 The Launchpad where Leading Influencers and Projects meet.

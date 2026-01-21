@@ -12,6 +12,11 @@ links:
     url: >-
       https://coinmarketcap.com/currencies/sharplink-gaming-inc-tokenized-stock-ondo
 name: SharpLink Gaming (Ondo Tokenized)
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#080808"
 ---
 
 SBETon is the Ondo Tokenized version of SharpLink Gaming, Inc, giving tokenholders economic exposure similar to holding SBET and reinvesting any dividends. Ondo tokenized stocks enable non-US retail and institutional users around the world to instantly mint and redeem tokenized U.S. stocks and ETFs, 24 hours a day, five days a week with full access to traditional exchange liquidity. Additional restrictions apply. Learn more at ondo.finance/global-markets.

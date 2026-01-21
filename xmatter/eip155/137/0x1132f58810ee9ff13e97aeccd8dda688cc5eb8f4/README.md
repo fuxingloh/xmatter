@@ -15,6 +15,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/spacerat/"
 name: SpaceRat
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ef9092"
 ---
 
 SpaceRat is a community-driven project built on Matic Network. Three functions occur during each trade: Reflection, LP Acquisition, & Burn.

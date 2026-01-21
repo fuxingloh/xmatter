@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/damn-token"
 name: Damn Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#070704"
 ---
 
 DAMN Connecting the World through Blockchain Innovations.

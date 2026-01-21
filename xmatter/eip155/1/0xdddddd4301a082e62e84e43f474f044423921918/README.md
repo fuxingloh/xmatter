@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/deversifi/"
 name: DeversiFi Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f5eae6"
 ---
 
 RhinoFi is designed as a Layer 2 protocol on Ethereum using zk proofs for settlement.

@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/ru/Криптовалюты/bonus-cake"
 name: Bonus Cake
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d98444"
 ---
 
 Bonus Cake is the first dividend and lucky draw CAKE reflection token.

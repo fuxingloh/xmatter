@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/velaspad/"
 name: VELASPAD
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#05d3bb"
 ---
 
 VLXPAD is a token for VelasPad launchpad

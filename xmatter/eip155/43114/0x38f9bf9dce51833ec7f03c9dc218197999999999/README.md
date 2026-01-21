@@ -16,6 +16,11 @@ links:
   - name: docs
     url: "https://wiki.nya.vip"
 name: Nya
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fbcd72"
 ---
 
 Explore the cultural phenomenon of Nya - the playful cat sound that's become a symbol of joy and connection. Discover how this simple word unites fans worldwide.

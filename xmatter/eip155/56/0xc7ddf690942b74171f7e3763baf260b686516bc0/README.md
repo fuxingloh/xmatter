@@ -22,6 +22,11 @@ links:
   - name: github
     url: "https://github.com/AtlantisFi"
 name: Atlantis
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d3e4e8"
 ---
 
 Utilizing an innovative elastic supply protocol, Atlantis makes it workable for token circulation to be paid straight forwardly corresponding to the age rebase rewards.

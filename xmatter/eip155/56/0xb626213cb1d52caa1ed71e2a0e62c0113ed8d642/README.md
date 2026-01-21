@@ -17,6 +17,11 @@ links:
   - name: github
     url: "https://github.com/Rock-n-Block/AUDIT/blob/main/HGHG"
 name: HUGHUG
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d2ad67"
 ---
 
 HUG HUG COIN PROJECT is launched to address the long-standing problem of the Japanese idol industry. HUG HUG COIN PROJECT operates to realize the idea of content protection by utilizing new technologies such as blockchain and NFT.

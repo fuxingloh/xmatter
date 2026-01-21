@@ -30,6 +30,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/black-phoenix"
 name: Black Phoenix
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - trc20
+icon: icon.png
+color: "#040404"
 ---
 
 The token is designed to be profitable for people unfamiliar with digital currency.And tries to be profitable. And teach the new generation of money to the world with future plans and its amazing combination of metaverse, DeFi, GameFi and NFT instruments.

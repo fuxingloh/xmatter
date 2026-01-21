@@ -29,6 +29,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/cryptosnack"
 name: Crypto Snack 2.0
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f14c43"
 ---
 
 Crypto Snack leverages blockchain technology to bring exclusive business and investment opportunities. Introducing SNACK 2.0, the most sophisticated utility token, Crypto Snack now provides revolutionary benefits in the igaming, real estate and ticketing industries.

@@ -21,6 +21,11 @@ links:
   - name: blog
     url: "https://blog.space.id/"
 name: SPACE ID
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040605"
 ---
 
 SPACE ID is a universal name service network that seamlessly connects people, information, assets, and applications in the digital world. SPACE ID is also the provider of .bnb domain name service.

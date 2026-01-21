@@ -17,6 +17,11 @@ links:
   - name: whitepaper
     url: "https://doc.nixtoken.info/"
 name: NIX
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#a165df"
 ---
 
 The NIX token was created decentrally to be a utility token that benefits multiple platforms around the world - Including being the utility token of its own brokerage, which will also be called NIX.

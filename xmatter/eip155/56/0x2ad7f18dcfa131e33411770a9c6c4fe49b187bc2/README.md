@@ -22,6 +22,11 @@ links:
     url: >-
       https://github.com/TechRate/Smart-Contract-Audits/blob/main/March/MetaUFO.pdf
 name: MetaUFO
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1b2d17"
 ---
 
 MetaUFO is a decentralized gaming platform with play-to-earn elements, NFTs, its own NFT collection combined with an auto battler. MetaUFO is built on BSC.

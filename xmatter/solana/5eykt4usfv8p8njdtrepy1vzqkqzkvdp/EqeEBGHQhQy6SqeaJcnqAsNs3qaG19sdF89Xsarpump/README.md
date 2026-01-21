@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/trust-the-process/"
 name: Trust The Process
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#b5943f"
 ---
 
 $TRUST the process is the number 1 normie driven solana meme which can be traded on Jupiter & Raydium as well as centralized exchanges.

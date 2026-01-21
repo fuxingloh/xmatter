@@ -19,6 +19,11 @@ links:
   - name: whitepaper
     url: "https://howinu.com/download/107/?tmstv=1685559667"
 name: HowInu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#959a9f"
 ---
 
 HowInu is a Meme Cryptocurrency running on the Binance Smart Chain Network created by Pasindu Shenal based on an image of a fictional dog.The HowInu Crypto project aims to play a role in advancing the crypto industry beyond the functionality of a normal meme cryptocurrency.Ultimately, the project aims to remain stable in the Crypto market for a long time and become a popular Meme Cryptocurrency in the world along with the growth of the Crypto market.

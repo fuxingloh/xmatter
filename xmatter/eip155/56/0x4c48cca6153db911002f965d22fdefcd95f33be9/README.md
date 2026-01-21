@@ -21,6 +21,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/the-essential-coin"
 name: The Essential Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2c2c2b"
 ---
 
 The essential Coin is a utility ecosystem that provides rewards to long term investors.The Essential Coins is a focus-based project with many products that will be released in multiple phases. ESC will be a blockchain meta-verse, which will have the ESC token as its native currency.

@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/tron-bull-tbull/"
 name: Tron Bull
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - trc20
+icon: icon.png
+color: "#c95051"
 ---
 
 TBULL is the first memecoin inspired by the official mascot of Tron DAO, Tron Bull

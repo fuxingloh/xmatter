@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/Ripple"
 name: Wrapped XRP
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#242c2c"
 ---
 
 XRP is a digital asset built for payments

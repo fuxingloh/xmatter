@@ -19,6 +19,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/propchain"
 name: Propchain
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#04143c"
 ---
 
 Propchain is an innovative organization focusing on transforming the real estate sector through blockchain technology. Allowing for fractionalized investments in real estate strategies and assets.

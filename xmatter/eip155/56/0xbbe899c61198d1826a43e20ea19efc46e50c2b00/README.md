@@ -19,6 +19,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/safe-energy"
 name: Safe Energy
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#4dcd98"
 ---
 
 Safe Energy, or $ENERGYX is a community-driven deflationary token (cryptocurrency), with future projects to reduce our carbon footprint by making renewable energy sources more accessible.

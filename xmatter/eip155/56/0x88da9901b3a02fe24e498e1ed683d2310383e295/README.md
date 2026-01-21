@@ -17,6 +17,11 @@ links:
   - name: telegram_news
     url: "https://t.me/babygrok"
 name: Baby Grok
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ddddde"
 ---
 
 Welcome to Baby Grok The Future of DeFi! 🚀

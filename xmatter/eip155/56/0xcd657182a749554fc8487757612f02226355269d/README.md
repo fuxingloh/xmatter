@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/muskswap/"
 name: MUSK Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ce1f6f"
 ---
 
 MUSK is a token in Binance Smart Chain

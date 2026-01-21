@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/first-neiro-on-ethereum/"
 name: Neiro
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e2af3f"
 ---
 
 The 1st $Neiro on Ethereum,community-managed.The heir aoparent to @dogecoin.

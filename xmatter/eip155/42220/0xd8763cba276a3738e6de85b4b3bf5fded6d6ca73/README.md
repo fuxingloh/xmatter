@@ -19,6 +19,11 @@ links:
   - name: blog
     url: "https://www.mento.org/blog"
 name: Mento Euro
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#550fc4"
 ---
 
 Mento Euro (EURm) is a decentralized stablecoin pegged to the Euro on the Celo blockchain.

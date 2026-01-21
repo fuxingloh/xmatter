@@ -26,6 +26,11 @@ links:
     url: >-
       https://bscscan.com/address/0xd0c4bc1b89bbd105eecb7eba3f13e7648c0de38f#code
 name: WEB3 Inu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dfe2ba"
 ---
 
 Web3 Inu is a Rent-To-Earn token concept based in real world data interacting in two different layers: On-Chain and Off-Chain.

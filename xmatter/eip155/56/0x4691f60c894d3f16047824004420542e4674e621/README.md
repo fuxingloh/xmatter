@@ -13,6 +13,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/lucid-lands"
 name: LucidLandsGem
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 Lucid Lands is the first decentralized NFT play-to-earn game on BSC network that integrates both 3D-animated gaming NFT and 2D unique computer-generated collective NFT marketplace.

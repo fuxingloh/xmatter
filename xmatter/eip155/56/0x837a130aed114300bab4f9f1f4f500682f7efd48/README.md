@@ -25,6 +25,11 @@ links:
   - name: medium
     url: "https://medium.com/@WeSendit"
 name: WeSendit
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#053464"
 ---
 
 WeSendit token is at the heart of WeSendit's growth strategy. It aims to create a powerful, user-friendly system for sending, storing and managing data for businesses.

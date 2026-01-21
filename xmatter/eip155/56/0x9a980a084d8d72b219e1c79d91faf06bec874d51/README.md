@@ -19,6 +19,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/anonverse/"
 name: Anonverse
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Multi-element decentralized autonomous application platform.1st Global platform that integrates fully decentralized non-custodial protocol, security solutions, GameFi and DAO! Anonverse, Security Audit, Play2Earn, Compete2Earn, DAO!

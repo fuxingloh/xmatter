@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/circuitsofvalue"
 name: CircuitsOfValue
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ebecf0"
 ---
 
 Combine different blockchain tokens into a single token. Tradable DeFi Pools. Make any token a privacy token. Make Tradable Portfolios.

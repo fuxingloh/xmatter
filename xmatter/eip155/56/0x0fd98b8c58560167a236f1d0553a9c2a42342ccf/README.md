@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/devolution/"
 name: DeVolution
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#b7bbbb"
 ---
 
 Devolution is an NFT based game. You can collect, earn, win and trade your NFTs while playing and socializing with your friends.

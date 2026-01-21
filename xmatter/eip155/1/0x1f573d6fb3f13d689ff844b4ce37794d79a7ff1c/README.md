@@ -22,6 +22,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/bancor/"
 name: Bancor
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0c0c2b"
 ---
 
 Bancor is an on-chain liquidity protocol that enables automated, decentralized exchange on Ethereum and across blockchains.

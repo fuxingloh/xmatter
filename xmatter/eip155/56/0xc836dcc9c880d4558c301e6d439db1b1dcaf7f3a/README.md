@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/bnbgoldtoken"
 name: BNB Gold
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 BNBGOLD is the governance token for the BNBGOLD Ecosystem.

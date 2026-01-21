@@ -20,6 +20,11 @@ links:
     url: >-
       https://github.com/epicheronft/epichero-token-contract?fbclid=IwAR0irxgUcWDejbebFNa08qYalvg5SpNlbwWWuTcRSIKAKjbLvlANcy8BQsU
 name: EpicHero Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ecbb3a"
 ---
 
 EpicHero is the Biggest 3D NFT War Game on BSC, the first ever P2E game with NFT holders reflection rewards in BNB

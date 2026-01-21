@@ -21,6 +21,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/kinto"
 name: Kinto
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#262626"
 ---
 
 Kinto is a modular exchange and Ethereum Layer 2 (L2) designed for sybil resistance, KYC-native compliance, and smart contract wallets by default. It offers the performance and user experience of centralized exchanges (CEXs) while remaining fully non-custodial.

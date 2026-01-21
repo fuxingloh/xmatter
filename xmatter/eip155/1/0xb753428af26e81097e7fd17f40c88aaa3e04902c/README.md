@@ -15,6 +15,11 @@ links:
   - name: medium
     url: "https://medium.com/saffron-finance"
 name: saffron.finance
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c44434"
 ---
 
 Asset collateralization and risk customization protocol

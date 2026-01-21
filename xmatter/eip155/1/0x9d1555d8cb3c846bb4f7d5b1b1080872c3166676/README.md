@@ -15,6 +15,11 @@ links:
   - name: medium
     url: "https://medium.com/@mirror-protocol"
 name: mSLV Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#141c2c"
 ---
 
 Wrapped Mirror SLV Token.

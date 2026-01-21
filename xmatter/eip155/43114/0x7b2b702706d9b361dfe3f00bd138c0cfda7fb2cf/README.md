@@ -23,6 +23,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/KJzrVTU8RT"
 name: Pollen
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fc2c54"
 ---
 
 Pollen is a crypto asset management suite that brings together the core principles of DeFi with collective intelligence.

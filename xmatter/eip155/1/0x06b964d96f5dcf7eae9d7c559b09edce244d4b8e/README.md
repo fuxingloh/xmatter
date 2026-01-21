@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/usualmoney"
 name: USUALX
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#131313"
 ---
 
 $USUALx is the staked version of $USUAL. It empowers holders with governance rights and grants daily $USUAL rewards.

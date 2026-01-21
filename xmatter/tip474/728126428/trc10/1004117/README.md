@@ -27,6 +27,11 @@ links:
   - name: facebook
     url: "https://facebook.com/groups/1046965489139636/"
 name: The Flash Currency
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - trc10
+icon: icon.png
+color: "#141812"
 ---
 
 TheFlashCurrencyTFC The flash currency is a new token built according to the TRON standard TRC10 standard

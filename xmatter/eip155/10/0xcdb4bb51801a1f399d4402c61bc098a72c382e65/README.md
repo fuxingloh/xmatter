@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/opxfinance"
 name: OPX
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#db453c"
 ---
 
 OPX (Decentralized Spot & Perpetual Exchange) - the next DEX generation in optimizing investment efficiency & Leverage Trading.

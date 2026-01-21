@@ -31,6 +31,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/flux-zelcash"
 name: Flux
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2c64d4"
 ---
 
 The Flux Ecosystem is a suite of decentralized computing services and blockchain-as-a-service solutions together to offer an interoperable, decentralized AWS-like environment.Flux utilizes a POW to power the ecosystem, providing incentive for hardware, governance on-chain, enterprise-grade compute power and utilizes the blockchain to ensure transparency.Flux node operators can choose from three tiers to stand up nodes, rewarding anyone for providing hardware to the network anywhere in the world.

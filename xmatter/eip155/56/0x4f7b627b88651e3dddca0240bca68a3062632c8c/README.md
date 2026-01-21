@@ -19,6 +19,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/black-eye-galaxy/"
 name: BlackEyeGalaxy Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Black Eye Galaxy is a cross-chain space NFT metaverse with a unique economy. Buy planets and solar systems, explore the galaxy, mine resources, start your civilization!

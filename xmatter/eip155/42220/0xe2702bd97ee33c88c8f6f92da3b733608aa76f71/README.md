@@ -17,6 +17,11 @@ links:
   - name: blog
     url: "https://www.mento.org/blog"
 name: Mento Nigerian Naira
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#540ec3"
 ---
 
 Mento Nigerian Naira (NGNm) is a decentralized stablecoin pegged to the Nigerian Naira on the Celo blockchain.

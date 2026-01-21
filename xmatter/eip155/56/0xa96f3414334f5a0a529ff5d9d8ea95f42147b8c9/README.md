@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://riskmoonbsc.medium.com/"
 name: RiskMoon
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#731f28"
 ---
 
 RiskMoon is an evolving platform to leverage risk with dynamic yield generating strategies from NFTs. NFT staking, marketplace, and DEEPSPACE game in progress.

@@ -20,6 +20,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UCWzOp5iZ8B3vONrxlarIXbg"
 name: Enjinstarter
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#b63eae"
 ---
 
 The Next-Generation Launchpad for Blockchain Games and the Metaverse

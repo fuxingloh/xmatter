@@ -19,6 +19,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/WcGQnQpK23"
 name: BridgeAI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#faaa2b"
 ---
 
 Bridge AI is an advanced blockchain-powered ecosystem that integrates artificial intelligence to enhance data accessibility, automation, and transparency. The project leverages AI-driven solutions to facilitate smart contract execution, decentralized data processing, and seamless interactions within Web3 applications.

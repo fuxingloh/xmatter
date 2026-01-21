@@ -19,6 +19,11 @@ links:
   - name: facebook
     url: "https://facebook.com/chihuahuabsc"
 name: Chihuahua
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#24bb1c"
 ---
 
 Chihuahua aims to spread animal adoption awareness. Part of the taxes applied to every transaction is donated to animal shelters worldwide.

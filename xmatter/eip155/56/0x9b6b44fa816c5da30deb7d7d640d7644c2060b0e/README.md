@@ -7,6 +7,11 @@ links:
   - name: website
     url: "https://four.meme/token/0x9B6B44FA816C5Da30DEb7d7d640D7644C2060b0e"
 name: Good Will Alliance
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ecb714"
 ---
 
 Good Will Alliance

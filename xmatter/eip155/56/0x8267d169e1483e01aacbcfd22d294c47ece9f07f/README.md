@@ -17,6 +17,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/zh/currencies/dragonmoon/"
 name: DragonMoon
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e40414"
 ---
 
 The DragonMoon Protocol is a community driven, fair launched deflationary reflection token. Three common functions are Hold, Earn and Burn.

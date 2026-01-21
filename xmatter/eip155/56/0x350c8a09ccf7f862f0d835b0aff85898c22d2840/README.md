@@ -13,6 +13,11 @@ links:
   - name: whitepaper
     url: "https://baby.mindmusic.finance/white-paper.html"
 name: Baby Mind
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#281a13"
 ---
 
 Baby Mind has been set up to raise awareness for mental health t hrough the power of memes and rewards.

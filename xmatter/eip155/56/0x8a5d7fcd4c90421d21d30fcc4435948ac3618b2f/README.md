@@ -37,6 +37,11 @@ links:
   - name: github
     url: "https://github.com/cake-monster"
 name: Cake Monster
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#afafc7"
 ---
 
 Cake Monster is a Hyper-Deflationary and Dividend-Yielding asset on BNB Chain that introduces a new form of monetary policy.

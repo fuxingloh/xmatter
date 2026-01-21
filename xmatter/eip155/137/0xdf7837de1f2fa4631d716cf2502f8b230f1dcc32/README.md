@@ -15,6 +15,11 @@ links:
   - name: telegram
     url: "https://t.me/telcoincommunity"
 name: Telcoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#15cbfc"
 ---
 
 A cryptocurrency distributed by your mobile operator and accepted everywhere.

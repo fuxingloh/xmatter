@@ -16,6 +16,11 @@ links:
   - name: youtube
     url: "https://youtube.com/@MinatiToken"
 name: Minati
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#020202"
 ---
 
 Minati is a leading digital currency platform, combining DeFi, AI, and blockchain to revolutionize finance. We create a transparent, secure ecosystem for individuals to control their financial destiny. Leveraging blockchain, we record transactions on an immutable ledger, prioritizing safety through encryption and robust security.

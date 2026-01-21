@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/traders-coin"
 name: Traders Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#070604"
 ---
 
 TRDC is a decentralized platform project of cryptocurrencies trading where users get full control of their money.

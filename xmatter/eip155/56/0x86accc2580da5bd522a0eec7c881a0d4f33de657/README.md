@@ -25,6 +25,9 @@ links:
   - name: discord
     url: "https://discord.com/invite/NyemjyETwA"
 name: CRYPTO SNACK
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 Crypto Snack is the world’s fastest growing iGaming token

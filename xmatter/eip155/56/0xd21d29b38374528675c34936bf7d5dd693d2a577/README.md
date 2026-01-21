@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/parsiq/"
 name: Parsiq Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#121a36"
 ---
 
 A Blockchain monitoring and compliance platform.

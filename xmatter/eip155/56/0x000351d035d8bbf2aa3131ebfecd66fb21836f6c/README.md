@@ -31,6 +31,11 @@ links:
   - name: whitepaper
     url: "https://scottybeam.io/assets/scotty-beam-pitch.pdf"
 name: Scotty Beam
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e0a382"
 ---
 
 Scotty Beam is the world's first cross-chain NFT platform – here to help cryptonians move NFTs across blockchain galaxies; exchange tokens and NFTs via P2P deals; participate in cool INOs; connecting Metaverses, games and marketplaces; maximize value and fun throughout the voyage.

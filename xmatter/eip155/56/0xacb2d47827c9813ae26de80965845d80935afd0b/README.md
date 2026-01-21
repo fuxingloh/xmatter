@@ -11,6 +11,11 @@ links:
   - name: medium
     url: "https://medium.com/macaronswap"
 name: MacaronSwap Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#30326c"
 ---
 
 The future of decentralized exchange & farming platform on BSC

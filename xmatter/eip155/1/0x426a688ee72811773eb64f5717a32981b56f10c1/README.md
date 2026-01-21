@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/TheSocietyPortal"
 name: AMC
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d6dbe1"
 ---
 
 America's Meme Coin (AMC) is a meme coin - representing USA and ETH.

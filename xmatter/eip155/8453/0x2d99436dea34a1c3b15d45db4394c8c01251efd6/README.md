@@ -11,6 +11,9 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/dog-on-base/"
 name: Dog on Base
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 Discover a gateway to parallel universe.

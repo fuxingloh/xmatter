@@ -11,6 +11,11 @@ links:
   - name: facebook
     url: "https://facebook.com/paxosglobal/"
 name: Pax Gold
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dcc41b"
 ---
 
 A digital token, backed by physical gold

@@ -13,6 +13,11 @@ links:
   - name: github
     url: "https://github.com/awttokenapp"
 name: AWT
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e2bd3a"
 ---
 
 AWT is a decentralized blockchain protocol that allow users to lend borrow selected cryptocurrency. It establishes money markets by polling assets together and algorithmically setting interest rates based on supply and demand of assets.

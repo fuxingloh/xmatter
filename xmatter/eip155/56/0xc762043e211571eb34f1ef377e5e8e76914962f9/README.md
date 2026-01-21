@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/apecoin-ape/"
 name: ApeCoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#074bd4"
 ---
 
 ApeCoin is an BEP-20 governance and utility token used within the APE ecosystem to empower a decentralized community building at the forefront of web3.

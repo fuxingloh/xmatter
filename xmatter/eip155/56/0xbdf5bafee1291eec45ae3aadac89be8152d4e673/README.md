@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/Catamoto"
 name: CATAMOTO
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#202127"
 ---
 
 $CATA is changing the rules of memecoins by using superior cat math to create the most advanced smart contract in the world

@@ -22,6 +22,11 @@ links:
   - name: facebook
     url: "https://facebook.com/"
 name: Jade Currency
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#987b45"
 ---
 
 Jade Currency project is committed to changing the world by creating the first ever NFT (non-fungible token) marketplace and metaverse shop for precious gems such as jade where buyers can purchase in cryptocurrency. We believe the future holds a strong demand for the use of cryptocurrencies and there is somewhat of a barrier to entry for the current industry which Crypto Jade can solve. The holders of Jade Currency (JADE) token have majority ownership of the company.

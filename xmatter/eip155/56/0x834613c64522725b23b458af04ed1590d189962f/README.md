@@ -28,6 +28,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/daikokuten-sama"
 name: DAIKOKUTEN SAMA TOKEN
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f5e4de"
 ---
 
 DKKS is project to makes the lives of all those who believe in the project always lucky in life, enrich spiritually ,materially and help people in the world.

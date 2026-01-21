@@ -5,6 +5,11 @@ links:
   - name: website
     url: "https://imps.me/"
 name: Ether Kingdoms Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#13a2af"
 ---
 
 Ether Kingdoms is a new crypto-game with its own ERC20 token, IMP. Key features: up to 365% annual POS reward, ERC-721 items, no ICO, fair airdrop distribution only.

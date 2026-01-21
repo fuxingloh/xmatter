@@ -16,6 +16,11 @@ links:
     url: >-
       https://bscscan.com/address/0xa3b89c5f75c530f33e612177001f5602e9c2830f#code
 name: miniBABYDOGE
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f2ccd3"
 ---
 
 miniBabydoge is a BEP20 project that is focused on the entire cryptocurrency community. We plan to build a strong community through honest, friendly and constant social media engagement on our channels, thereby facilitating mainstream adoption of decentralised blockchain technology.

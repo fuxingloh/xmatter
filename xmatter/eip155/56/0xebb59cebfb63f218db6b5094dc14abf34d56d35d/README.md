@@ -15,6 +15,11 @@ links:
   - name: medium
     url: "https://medium.com/@Xpool"
 name: XPOOL
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#252a2e"
 ---
 
 X-pool is an open-source Decentralized protocol - built on Binance Smart Chain that enables users to borrow assets from the platform, deploy your assets and earn yield with ease

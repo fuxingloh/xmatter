@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/hispanic-pepe"
 name: hispanic pepe
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#c39b7b"
 ---
 
 Sapo Conchito, Hispanic Pepe

@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/carv"
 name: CARV
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#e5e2e2"
 ---
 
 CARV is building the largest modular Identity and Data Layer (IDL) for gaming

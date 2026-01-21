@@ -21,6 +21,11 @@ links:
   - name: discord
     url: "https://discord.com/x4G55weEME"
 name: Hokkaidu Inu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d36395"
 ---
 
 Hokkaidu Inu memecoin revival. Emerging from the abyss, forged by the community.

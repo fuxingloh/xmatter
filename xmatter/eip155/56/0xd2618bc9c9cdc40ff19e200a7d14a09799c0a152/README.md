@@ -16,6 +16,11 @@ links:
     url: >-
       https://bscscan.com/address/0xd2618bc9c9cdc40ff19e200a7d14a09799c0a152#code
 name: Uncle Doge
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e29026"
 ---
 
 Uncle Doge is a community focused token with unique tokenomics. At the center of the tokenomics is the “Kraken” the buy back mechanism that ensures price stability. In addition token olders recieve 1% in reflections and benefit from the burned tokens through the Kraken. The community is global, with over 12,000 holders on launch day and over 16M volume.

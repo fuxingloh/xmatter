@@ -19,6 +19,11 @@ links:
   - name: github
     url: "https://github.com/ThunderAda/contracts"
 name: ThunderADA
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e2bb32"
 ---
 
 The next evolution of a reflection token on the BSC with double reward reflection token using the power of 80/20 to maximize your earnings for both now & future

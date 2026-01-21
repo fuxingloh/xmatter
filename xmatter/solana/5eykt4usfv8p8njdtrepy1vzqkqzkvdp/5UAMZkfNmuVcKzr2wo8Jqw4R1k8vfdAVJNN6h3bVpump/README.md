@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/limbo"
 name: LIMBO
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#c26862"
 ---
 
 LIMBO tokens can be traded on decentralized exchanges and centralized crypto exchanges

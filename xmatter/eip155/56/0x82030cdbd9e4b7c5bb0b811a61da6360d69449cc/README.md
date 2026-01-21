@@ -18,6 +18,11 @@ links:
     url: >-
       https://realfevr-production.s3.eu-central-1.amazonaws.com/nfts-markeplace/LitePaperExports.pdf
 name: FEVR Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#4f07a2"
 ---
 
 FEVR is the fuel of the RealFevr ecosystem of video collectibles

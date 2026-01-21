@@ -25,6 +25,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/fB4tkF52H5"
 name: AllianceBlock Nexera Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#a5b4fc"
 ---
 
 Seamless gateways between TradFi and DeFi

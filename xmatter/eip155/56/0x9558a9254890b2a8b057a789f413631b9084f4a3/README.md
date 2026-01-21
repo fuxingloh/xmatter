@@ -17,6 +17,11 @@ links:
   - name: whitepaper
     url: "https://infinity-ground.gitbook.io/whitepaper/"
 name: Infinity Ground
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Infinity Ground is the leading Blockchain Infrastructure for Vibe Coders, creating an agent-driven development environment free from centralized limitations.

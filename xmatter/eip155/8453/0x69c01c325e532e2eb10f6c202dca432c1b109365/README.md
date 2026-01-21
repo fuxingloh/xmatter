@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/baseinchinese"
 name: Base属于每一个人
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#173e75"
 ---
 
 Base belongs to everyone, everyone should have their own Base.

@@ -24,6 +24,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/bake-coin"
 name: BAKE COIN
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d18b4c"
 ---
 
 BakeCoin aims to revolutionize the NFT space as Curator by allowing people the creation and drawing of NFTs by popular nft influencers through the bakecoin protocol which makes the creation, sale, and use of NFT as easy as possible.

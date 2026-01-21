@@ -19,6 +19,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/delot-io/"
 name: DELOT.IO
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#5c93fa"
 ---
 
 DELOT is the decentralized lottery game for token holders. DELOT token is the utility token that is used in the Lottery game.

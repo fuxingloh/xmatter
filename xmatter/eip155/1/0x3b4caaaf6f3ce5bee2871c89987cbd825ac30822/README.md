@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://medium.com/@ofin"
 name: Ofin Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c76c2f"
 ---
 
 Ofin is non-custodial investment protocol that enables novices to invest directly into the funds managed by seasoned crypto traders

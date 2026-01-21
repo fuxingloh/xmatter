@@ -23,6 +23,11 @@ links:
   - name: whitepaper
     url: "https://docsend.com/view/czjyuggsatn8hpj5"
 name: Highstreet
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0fdefc"
 ---
 
 Inspired by classics from Nintendo, encouraged by a shared addiction in MMOs, and finally consolidated by our team’s 6 years of experience serving retail customers with VR, Highstreet creates the Shopify experience on an MMORPG for brands while presenting a true path to the Metaverse for players.

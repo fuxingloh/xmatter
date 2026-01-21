@@ -5,6 +5,11 @@ links:
   - name: website
     url: "https://neftipedia.com/"
 name: NEFTiPEDiA
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2f808c"
 ---
 
 NEFTiPEDiA is NEFTiPEDiA is a marketplace that will fulfil the niche of much required decentralized venue for selling not only the pieces of art or other intangible valuables but also will allow trading is jewelry, fashion and even vehicles and property

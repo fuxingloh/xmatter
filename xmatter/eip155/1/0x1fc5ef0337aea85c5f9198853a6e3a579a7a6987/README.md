@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/reapchain/"
 name: ReapChain
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0b2444"
 ---
 
 REAP CHAIN aims to solve Trilemma problem of existing blockchains based on PoDC consensus structure and implements a scalable platform to create a fair and transparent sharing economy ecosystem.

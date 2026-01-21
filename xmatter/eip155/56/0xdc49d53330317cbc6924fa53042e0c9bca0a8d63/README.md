@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/dogedi"
 name: DOGEDI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e7bc87"
 ---
 
 DOGEDI ($DOGEDI or DOGEDI) is a collateralized cryptocurrency that grants investors holding DOGEDI instant BNB rewards on all transactions with AUTOCLAIM

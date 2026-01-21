@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/magic-internet-money-meme"
 name: Magic Internet Money
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#eaed5f"
 ---
 
 A cultural movement powered by a fun, timeless, universal narrative. Led by the vision to thrive as a powerful cultural phenomenon in web3 and mainsteam culture. The $MIM narrative is best positioned to reach the masses through the scalability Solana offers.

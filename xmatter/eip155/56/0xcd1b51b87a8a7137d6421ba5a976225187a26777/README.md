@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/L7_Official"
 name: LSD
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f47424"
 ---
 
 L7 is a Web3 digital asset management and traffic aggregation platform.

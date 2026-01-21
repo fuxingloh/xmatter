@@ -18,6 +18,11 @@ links:
   - name: facebook
     url: "https://facebook.com/rubyplaynetwork"
 name: RUBY
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#bb2021"
 ---
 
 The Ruby Play Network is a gaming rewards platform. We aim to drive adoption of the blockchain to mainstream players by providing them simple ways to earn cryptocurrency.

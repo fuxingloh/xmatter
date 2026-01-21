@@ -17,6 +17,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/mmsc-platform/"
 name: MMS COIN
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c6a73f"
 ---
 
 Crypto for Staking platform and marketplace platform we create an online store use MMSC shopping product

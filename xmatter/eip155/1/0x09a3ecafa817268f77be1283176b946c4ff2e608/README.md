@@ -15,6 +15,11 @@ links:
   - name: medium
     url: "https://medium.com/@mirror-protocol"
 name: Mirror Protocol
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#03093d"
 ---
 
 Goverance token of Mirror Protocol.

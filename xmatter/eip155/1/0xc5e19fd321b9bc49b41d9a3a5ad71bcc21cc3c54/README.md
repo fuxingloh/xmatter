@@ -9,6 +9,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/yyc6wY"
 name: Tradepower Dex
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Frictionless Token Swap Experience. Automated liquidity pools deployment. TDEX dividends sharing program and Staking Dapp.

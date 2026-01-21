@@ -13,6 +13,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/Polkadog_Official/"
 name: POLKADOG
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f17710"
 ---
 
 EINSTEIN is back from the future! Einstein is an innovative NFT and fair DeFi project that provides frictionless token both flexible and functional, available on multiple DEXs to provide optimum choice and benefits a plenty. With daily prizes through our NFT lottery, and incredible Tokenomics rewards whether you are holding, selling or yield farming, follow our memorable mascot EINSTEIN – he’s leading the charge towards the good times!

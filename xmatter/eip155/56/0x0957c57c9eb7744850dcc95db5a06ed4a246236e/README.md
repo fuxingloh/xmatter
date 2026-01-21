@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/DangoANN"
 name: DANGO
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f5ece8"
 ---
 
 An Innovative Yield Farm on Binance Smart Chain.

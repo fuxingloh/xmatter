@@ -17,6 +17,11 @@ links:
   - name: github
     url: "https://github.com/BitcoMine/"
 name: BitcoMine
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040c44"
 ---
 
 BitcoMine Token rewards its holders 11% from each successful transaction in BTC on daily basis depending on the trading volume.

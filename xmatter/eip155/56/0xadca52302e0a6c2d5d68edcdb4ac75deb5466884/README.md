@@ -23,6 +23,9 @@ links:
   - name: youtube
     url: "https://youtube.com/GMRCenter"
 name: GAMER
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 GMR: The decentralised gaming token and social GameFi platform. Create. Empower. Game.

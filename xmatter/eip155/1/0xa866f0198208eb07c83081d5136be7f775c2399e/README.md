@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/kore_vault"
 name: KORE Vault
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ed5ff5"
 ---
 
 KORE is the first deflationary farming token with autonomous profit generation strategies

@@ -17,6 +17,11 @@ links:
   - name: discord
     url: "https://discord.com/HgsgryRpwB"
 name: SquidGrow
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#eee628"
 ---
 
 SquidGrow was conceptualized by anonymous crypto billionaire “Shibtoshi” and is pushing boundaries and setting precedents for a growing meme-utility token.

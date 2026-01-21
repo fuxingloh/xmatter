@@ -15,6 +15,11 @@ links:
   - name: github
     url: "https://github.com/CORE-Blockchain"
 name: CORE MultiChain Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ff7152"
 ---
 
 CORE is a multi chain PoS network focused on interoperability, scalability and usability. It utilizes AI-enabled Proof of Stake algorithm, multi layered consensus model and voting based governance.

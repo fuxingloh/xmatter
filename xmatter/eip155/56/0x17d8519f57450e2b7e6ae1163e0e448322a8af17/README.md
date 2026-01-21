@@ -17,6 +17,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UC_dA60kbHtbJjPjD4gS4dKQ"
 name: LOFI-DEFI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#750ee1"
 ---
 
 Connecting creators and investors in a virtual space!

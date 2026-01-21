@@ -23,6 +23,11 @@ links:
   - name: youtube
     url: "https://youtube.com/@LaqiraProtocol"
 name: Laqira Protocol
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#6d2397"
 ---
 
 Crafting Solutions for Your Blockchain Needs

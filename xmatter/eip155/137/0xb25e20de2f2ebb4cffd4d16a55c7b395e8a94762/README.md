@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/request/"
 name: Request
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#04241c"
 ---
 
 Request Network is the protocol for payment requests. They are immutably recorded processed without an intermediary. Companies, DAOs & individuals pay & get paid in cryptos of payment networks incl. Ethereum, BSC, & Fantom.

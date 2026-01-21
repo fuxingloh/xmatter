@@ -21,6 +21,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UCmBAbGxaNUXhRokbO1GCzgg"
 name: CCN
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d33c3c"
 ---
 
 The world's first 24-hour crypto currency news and analysis network.

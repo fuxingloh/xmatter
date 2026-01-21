@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/berrydata"
 name: Berry Data
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#7ab51b"
 ---
 
 Berry Data is a transparent community-veriﬁed price oracle on BSC(Binance Smart Chain).

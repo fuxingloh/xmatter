@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/pippinlovesyou"
 name: Pippin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#edfafb"
 ---
 
 A place where gentle wonders shape unseen connections, and kind words bloom like flowers.

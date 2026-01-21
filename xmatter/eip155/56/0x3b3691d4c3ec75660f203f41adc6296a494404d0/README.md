@@ -15,6 +15,9 @@ links:
   - name: source_code
     url: "https://github.com/catcointoken-cats/"
 name: Catcoin Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 Catcoin is the community driven project to connect cat lovers worldwide

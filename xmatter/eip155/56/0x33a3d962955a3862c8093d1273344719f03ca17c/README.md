@@ -23,6 +23,11 @@ links:
   - name: medium
     url: "https://sporeproject.medium.com/"
 name: Spore
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#323a74"
 ---
 
 Spore is an international movement of artists and blockchain developers who are building an ecosystem that connects content creators with users, using open standards for fair distribution. The ecosystem, which includes an NFT platform, is fueled by SPORE, a deflationary, globally-accepted currency available on Avalanche and Binance Smart Chain. The token seamlessly connects two massive blockchains and their user bases with the first of its kind Avalanche-BSC bridge, developed in-house by Spore.

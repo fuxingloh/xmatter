@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/weth/"
 name: Wrapped Ether
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#080707"
 ---
 
 wETH is wrapped ETH

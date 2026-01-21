@@ -15,6 +15,11 @@ links:
   - name: docs
     url: "https://drive.google.com/file/d/12QYe9KfTejQyWW9JpcY9VHWyjCGH6xqo/view"
 name: Agrocash X
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#201b11"
 ---
 
 The cryptocurrency for Agribusiness

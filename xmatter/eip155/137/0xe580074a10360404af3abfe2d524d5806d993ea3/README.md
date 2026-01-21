@@ -21,6 +21,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/paybolt/"
 name: PayBolt
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Pay expenses, earn $PAY rewards with your crypto tokens in near-instant time. Start spending your tokens at cafe, restaurant and everywhere.

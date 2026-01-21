@@ -7,6 +7,11 @@ links:
   - name: x
     url: "https://x.com/GEODNET_"
 name: Geodnet
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#cb2434"
 ---
 
 Join the world’s largest Web3 blockchain-based precise positioning network. Contribute RTK data to power robotics and earn GEOD tokens

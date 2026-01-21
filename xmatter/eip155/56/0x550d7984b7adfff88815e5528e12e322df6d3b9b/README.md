@@ -21,6 +21,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/pandai"
 name: PandAI Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#242424"
 ---
 
 PANDAI is a cute AI meme token on BSC, making AI accessible for everyone.

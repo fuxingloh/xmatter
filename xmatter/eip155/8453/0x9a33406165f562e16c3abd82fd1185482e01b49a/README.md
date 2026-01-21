@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/talent-protocol"
 name: TalentProtocolToken
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#846cec"
 ---
 
 Bringing verified reputation onchain to help great builders stand out.

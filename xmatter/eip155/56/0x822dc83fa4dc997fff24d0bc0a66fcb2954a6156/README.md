@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/bsocial"
 name: BSocial
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#6067a9"
 ---
 
 BSocial is a social network specialized for Cryptocurrency and MMO (making money online) communities.

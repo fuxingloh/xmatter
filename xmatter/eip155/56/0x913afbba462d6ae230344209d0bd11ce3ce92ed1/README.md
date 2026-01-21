@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/rijent-coin/"
 name: Rijent Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fbcb2b"
 ---
 
 Rijent Coin is a revolutionary utility token and crypto education platform designed to connect worldwide cryptocurrency users.

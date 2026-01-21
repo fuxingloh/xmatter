@@ -17,6 +17,11 @@ links:
   - name: medium
     url: "https://medium.com/@metyacom"
 name: MetYa
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d6e61e"
 ---
 
 Metya - The largest and most influential dating platform #SocialFi

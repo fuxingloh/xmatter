@@ -13,6 +13,11 @@ links:
   - name: telegram
     url: "https://t.me/bakeryswap"
 name: Bakery Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d2863f"
 ---
 
 BakerySwap, an AMM Dex on Binance Smart Chain.

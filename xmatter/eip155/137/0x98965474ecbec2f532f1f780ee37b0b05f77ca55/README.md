@@ -18,6 +18,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/supertrust/"
 name: SUPER TRUST
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#304090"
 ---
 
 We aim to increase the global user base of SUPERTRUST's real economy platform ecosystem and expand the real-world fixed purchase tax of SUT as a payment method.

@@ -19,6 +19,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/g2ybayjgGR"
 name: MuratiAI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ee62a1"
 ---
 
 The MuraAI platform is built on top of blockchain technology, providing a decentralized and secure environment for artist and animators to create and distribute their work.

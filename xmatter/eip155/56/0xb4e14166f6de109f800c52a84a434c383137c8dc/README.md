@@ -19,6 +19,11 @@ links:
   - name: docs
     url: "https://docs.payvertise.com"
 name: Payvertise
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#04243e"
 ---
 
 Payvertise is a blockchain-based digital advertising platform that integrates cryptocurrency and NFTs, offering a unique revenue-sharing model for token holders and innovative advertising solutions.

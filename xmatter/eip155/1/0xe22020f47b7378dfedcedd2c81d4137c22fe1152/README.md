@@ -19,6 +19,11 @@ links:
   - name: facebook
     url: "https://facebook.com/mysmartcontract.io"
 name: My Liquidity Partner (MLP)
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#7648ea"
 ---
 
 My Liquidity Partner is a rewards token based on the ethereum blockchain built to help onboard people into a stable growth liquidity pool program.

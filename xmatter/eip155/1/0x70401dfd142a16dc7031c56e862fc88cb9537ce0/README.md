@@ -5,6 +5,11 @@ links:
   - name: website
     url: "https://bird.money"
 name: Bird.Money
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ac0404"
 ---
 
 Bird.Money leverages the power of its off-chain oracle analytics to provide on-chain protocols with trust data, combined with a lending platform. Allowing you to safely maximize borrowing while gaining access to additional digital assets.

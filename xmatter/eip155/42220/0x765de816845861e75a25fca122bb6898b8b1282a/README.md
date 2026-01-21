@@ -19,6 +19,11 @@ links:
   - name: blog
     url: "https://www.mento.org/blog"
 name: Mento Dollar
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#530fc3"
 ---
 
 Mento Dollar (USDm) is a decentralized stablecoin pegged to the US Dollar on the Celo blockchain.

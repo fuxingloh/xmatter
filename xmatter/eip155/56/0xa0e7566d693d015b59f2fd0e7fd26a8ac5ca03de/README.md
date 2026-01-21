@@ -15,6 +15,11 @@ links:
   - name: whitepaper
     url: "https://catboy.finance/wp-content/uploads/2021/11/Whitepaper.pdf"
 name: CatBoy
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#9dc3d9"
 ---
 
 CatGirl has found her soulmate. He’s called CatBoy. Witness how CatBoy will conquer the Binance Blockchain and go to the highest high the Binance Blockchain has ever seen.

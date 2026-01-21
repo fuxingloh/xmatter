@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/_pogai_"
 name: POGAI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0b0b0b"
 ---
 
 Pogai, or poor guy

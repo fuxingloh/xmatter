@@ -27,6 +27,11 @@ links:
   - name: source_code
     url: "https://solidity.finance/audits/Vulkania/"
 name: Vulkania
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0c0b1c"
 ---
 
 Vulkania offers customizable Blockchain Dashboards, one stop solutions for gathering data of crypto projects while saving time.

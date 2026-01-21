@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/jnglcoin"
 name: Jungle
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#5ee82a"
 ---
 
 $JNGL powers the Jungle Labz ecosystem, consisting of Supreme Kong and 3 other collections that were initially rugged by previous team back in April 2022.

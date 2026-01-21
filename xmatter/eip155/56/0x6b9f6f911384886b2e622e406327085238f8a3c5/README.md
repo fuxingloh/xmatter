@@ -25,6 +25,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/heroverse/ico/"
 name: HeroVerse
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fcbb14"
 ---
 
 HeroVerse is the first Match-3 Puzzle and RPG Strategy Game on Binance Smart Chain.

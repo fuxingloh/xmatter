@@ -15,6 +15,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/pvc-meta/"
 name: PVC META
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#045c84"
 ---
 
 PVC Meta is your premier source for everything cryptocurrency related. PVC Meta is definitely the most trusted and leading cryptocurrency on all digital platforms which is based on Binance smart chain

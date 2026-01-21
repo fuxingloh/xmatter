@@ -17,6 +17,11 @@ links:
   - name: telegram_news
     url: "https://t.me/shakita_inu"
 name: Shakita Inu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#924a0e"
 ---
 
 SHAK ($Shak) is a fun, community-focused cryptocurrency with a game in development and unique tokenomics to fuel it’s growth.

@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/ru/currencies/zebec-protocol/"
 name: ZEBEC
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#eefbfa"
 ---
 
 Zebec is enabling composable transfer of value starting with Zebec Payroll. Zebec Safe is fully customizable multi-sig on Solana.

@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/bitcoin-standard-hashrate-token/"
 name: StandardBTCHashrateToken
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Bitcoin Standard Hashrate Token (BTCST) is a token collateralized by 0.1 TH/s of actual Bitcoin mining power standardized to an efficiency of 60 W/TH.

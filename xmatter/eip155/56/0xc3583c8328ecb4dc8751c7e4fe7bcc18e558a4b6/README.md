@@ -20,6 +20,11 @@ links:
     url: >-
       https://bscscan.com/address/0xc3583C8328eCB4DC8751C7e4fe7bCC18E558A4b6#code
 name: Vikings Inu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ea8e75"
 ---
 
 Vikings Doge Coin for Global Communities. 4% redistribution, curated aggregation platform & Vikings Treasure Hunt Game.

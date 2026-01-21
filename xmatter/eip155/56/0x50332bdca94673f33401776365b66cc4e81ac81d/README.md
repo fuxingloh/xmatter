@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/cryptocars/"
 name: CryptoCars
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c2ead4"
 ---
 
 CCAR is the main token of CryptoCars Project

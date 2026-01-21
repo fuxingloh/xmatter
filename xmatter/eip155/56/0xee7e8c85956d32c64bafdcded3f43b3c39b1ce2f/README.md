@@ -21,6 +21,11 @@ links:
   - name: medium
     url: "https://medium.com/@web4ai"
 name: WEB4 AI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#3a2012"
 ---
 
 Web4 AI strives to disrupt the Decentralized Finance cryptocurrency space using Artificial Intelligence. Web4 AI, through its diverse DeFi offerings.

@@ -24,6 +24,11 @@ links:
   - name: telegram
     url: "https://t.me/wilder_world"
 name: Wilder World
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#9aaaf1"
 ---
 
 Wilder World is an immersive 5D metaverse powered entirely by NFTs.

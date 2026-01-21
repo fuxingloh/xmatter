@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/Landwolfeth"
 name: Landwolf
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f6d34b"
 ---
 
 #Landwolf is Pepe’s best friend.

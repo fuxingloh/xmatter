@@ -15,6 +15,11 @@ links:
   - name: telegram
     url: "https://t.me/polyquityorg"
 name: PYQ
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#140544"
 ---
 
 PolyQuity is a decentralized borrowing protocol that allows users to draw interest-free loans against Matic used as collateral.

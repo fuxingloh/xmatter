@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/saros-finance"
 name: Saros
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#742ff9"
 ---
 
 A Unified Suite of DeFi Products on Solana

@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/pinlink"
 name: PINLINK
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#111313"
 ---
 
 PinLink is the first RWA-Tokenized DePIN platform, empowering users with fractionalized ownership of DePIN assets.

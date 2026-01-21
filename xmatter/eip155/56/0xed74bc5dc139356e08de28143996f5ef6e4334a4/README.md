@@ -23,6 +23,9 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UCaTAm3R9Orew15BAMD7w6xQ"
 name: SpookyShiba
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 SpookyShiba is the first horror Genre Token on Binance Smartchain with utility for holders tied into the NFT Marketplace.

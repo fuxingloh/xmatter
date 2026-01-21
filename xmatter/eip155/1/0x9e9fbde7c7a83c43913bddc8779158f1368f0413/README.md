@@ -13,6 +13,9 @@ links:
   - name: telegram
     url: "https://t.me/pandora_404"
 name: Pandora
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 Pandora is the first ERC404, an experimental mixed ERC20/ERC721 implementation with native liquidity and fractionalization for non-fungible tokens.

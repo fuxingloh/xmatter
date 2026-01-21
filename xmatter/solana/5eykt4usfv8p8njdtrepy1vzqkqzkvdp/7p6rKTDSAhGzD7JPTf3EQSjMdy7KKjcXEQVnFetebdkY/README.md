@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/HomerSimpson_HS"
 name: Simpson AI Agent
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#e3d1cc"
 ---
 
 Simpson AI Agent🍺Trained on Homer’s soul, bringing his one-of-a-kind personality to life!

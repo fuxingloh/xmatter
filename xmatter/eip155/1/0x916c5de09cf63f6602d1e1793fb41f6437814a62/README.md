@@ -21,6 +21,11 @@ links:
   - name: whitepaper
     url: "https://jacytoken.io/Jacy-Token-WP.pdf"
 name: JACY
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 We are a community run crypto currency that thrives on your involvement. We look forward to talking with you and having you join us on this adventure.

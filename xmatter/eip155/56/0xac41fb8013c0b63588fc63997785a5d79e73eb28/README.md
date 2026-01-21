@@ -18,6 +18,11 @@ links:
     url: >-
       https://bscscan.com/address/0xac41fb8013c0b63588fc63997785a5d79e73eb28#code
 name: Frz solar system
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e7d195"
 ---
 
 the main purpose of the FRZS token is to strengthen the solar energy industry

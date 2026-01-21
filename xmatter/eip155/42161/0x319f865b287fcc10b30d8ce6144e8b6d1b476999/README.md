@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/cartesiproject"
 name: Cartesi
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Cartesi, The Blockchain OS, is a layer-2 platform for the development and deployment of scalable decentralized applications. The Blockchain OS offers a Linux operating system coupled with a blockchain infrastructure.

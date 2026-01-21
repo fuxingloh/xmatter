@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/polycat-finance/"
 name: Fish
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1d161f"
 ---
 
 Value-oriented, economically sustainable hybrid yield aggregator on Polygon.

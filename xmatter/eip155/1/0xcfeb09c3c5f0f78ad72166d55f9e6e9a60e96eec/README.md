@@ -21,6 +21,11 @@ links:
   - name: blog
     url: "https://medium.com/@v-empire.digital"
 name: vEmpire DDAO
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#6ad992"
 ---
 
 vEmpire DDAO is the world’s largest Decentralized Metaverse Investment Organization. The official vEmpire protocol incorporates different strategies to incentivize Metaverse token staking to fund the battle against centralisation.

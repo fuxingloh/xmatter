@@ -11,6 +11,11 @@ links:
   - name: telegram_news
     url: "https://t.me/corgidoge_news"
 name: Corgiswap
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f8d071"
 ---
 
 CORGISWAP is a decentralized finance (DeFi) application that lets users exchange tokens while also providing liquidity through farming and earning fees

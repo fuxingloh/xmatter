@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/hermez_network"
 name: Hermez Network Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fc4b0c"
 ---
 
 Hermez is a decentralized zk-rollup focused on scaling payments and token transfers on top of Ethereum.

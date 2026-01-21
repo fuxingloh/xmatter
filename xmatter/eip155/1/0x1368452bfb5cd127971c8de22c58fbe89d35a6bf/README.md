@@ -9,6 +9,11 @@ links:
   - name: whitepaper
     url: "https://jointerinc.github.io/"
 name: JNTR/e
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fab937"
 ---
 
 Jointer’s Decentralized Finance (DeFi) Auction

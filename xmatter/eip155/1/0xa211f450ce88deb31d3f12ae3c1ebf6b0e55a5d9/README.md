@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://medium.com/parsiq"
 name: Parsiq Boost
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#8ca4bc"
 ---
 
 Incentivization of Liquidity Providers by PARSIQ.

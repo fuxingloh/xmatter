@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/zircuit/"
 name: Zircuit
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#31241d"
 ---
 
 Experience the safest chain for DeFi and staking. Zircuit is the fastest growing L2 with $2 Billion TVL. Where innovation meets security, designed for everyone. Zircuit offers developers powerful features while giving users peace of mind. Designed by a team of web3 security veterans and PhDs, Zircuit combines high performance with unmatched security.

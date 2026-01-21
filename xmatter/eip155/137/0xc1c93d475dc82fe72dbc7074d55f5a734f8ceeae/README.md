@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/pegaxy-stone"
 name: Pegaxy
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#be1935"
 ---
 
 Pegaxy Game Native Governance Token

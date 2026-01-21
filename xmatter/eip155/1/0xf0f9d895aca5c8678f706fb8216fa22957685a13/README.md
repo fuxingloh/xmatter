@@ -15,6 +15,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/cult-dao/"
 name: Cult DAO (CULT)
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dad9d9"
 ---
 
 CULT is the tradable and liquid token of CULT DAO, transacting CULT will contribute to protocol by filling the DAO treasury slowly, to fund investments into decentralised technologies to fast forward the revolution against centralization. This is achieved due to a 0.4% collection on transactions.

@@ -33,6 +33,11 @@ links:
   - name: facebook
     url: "https://facebook.com/LandRockergame"
 name: LandRocker
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 LandRocker offers an infinite universe for discovery, space exploration, and combat in a free-to-play, multiplayer game. Players embark on missions across over 79 quintillion unique planets, each with distinct environments, ecosystems, and wildlife. They engage in battles against alien forces and gather rewards such as crypto tokens and crafting materials. Audited by Certik: https://skynet.certik.com/projects/landrocker

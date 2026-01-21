@@ -13,6 +13,11 @@ links:
   - name: docs
     url: "https://docs.diviner.games/"
 name: DIVINER
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#04346b"
 ---
 
 We’ve been endeavoring to maintain the fairness of the project by avoiding external funding and keeping self-funding, in order to ensure its long-term significance. We sincerely hold that Diviner will be the cradle of cross-NFT, game, and cross-meta-universe.

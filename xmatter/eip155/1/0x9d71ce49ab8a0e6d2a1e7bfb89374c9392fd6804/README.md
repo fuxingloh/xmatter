@@ -29,6 +29,11 @@ links:
   - name: facebook
     url: "https://facebook.com/NvirworldOfficial"
 name: NVIR Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0454f3"
 ---
 
 NvirWorld is a new concept blockchain which aims to create a new digital world where everything users enjoy becomes profitable.

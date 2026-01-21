@@ -11,6 +11,11 @@ links:
   - name: medium
     url: "https://go-apecoin.medium.com"
 name: Apecoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#68764d"
 ---
 
 APEcoin embraces the humor and viral nature of memes by developing an ecosystem of platforms that celebrate and explore crypto trends. GO APE!

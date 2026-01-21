@@ -11,6 +11,11 @@ links:
   - name: x
     url: "https://x.com/StraitsX"
 name: XSGD
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#144ce4"
 ---
 
 Fully collateralised Singapore-dollar backed stablecoin.

@@ -11,6 +11,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/dexioprotocoltoken/"
 name: Dexioprotocol
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0c2b3c"
 ---
 
 Dexioprotocol provides the world with a new way of engagement to the world of blockchain and cryptocurrency.

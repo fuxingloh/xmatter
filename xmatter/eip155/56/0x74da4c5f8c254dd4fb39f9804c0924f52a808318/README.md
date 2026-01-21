@@ -7,6 +7,11 @@ links:
   - name: x
     url: "https://x.com/Caila_AI"
 name: Caila
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#3a587d"
 ---
 
 Caila is your AI-powered weather intelligence agent supported by thousands of Nubila Network’s sensor — real-time, AI-powered, providing real-time, hyperlocal weather insights for both individuals and enterprises

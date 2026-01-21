@@ -23,6 +23,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/1doge"
 name: 1Doge
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ebbe43"
 ---
 
 1Doge is building a comprehensive platform with Static reflection and play to earn gaming mechanisms to enable gamers from all over the world experience Gaming and NFT on the blockchain.

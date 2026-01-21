@@ -10,6 +10,11 @@ links:
   - name: x
     url: "https://x.com/kabosumama"
 name: Takki
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#cec8b6"
 ---
 
 kabochan.blog.jp/archives/53279750.html https://pic.x.com/kVuA9r2Ylp

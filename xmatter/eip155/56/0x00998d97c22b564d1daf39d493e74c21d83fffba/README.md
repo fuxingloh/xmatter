@@ -23,6 +23,11 @@ links:
     url: >-
       https://bscscan.com/address/0x00998d97c22b564d1daf39d493e74c21d83fffba#code
 name: WEB2 Inu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#cfd82f"
 ---
 
 Web2 Inu is a community driven token, the project rejects any form of centralization and limits.

@@ -5,6 +5,11 @@ links:
   - name: website
     url: "https://vaintoken.com"
 name: Vain
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#60c840"
 ---
 
 Vain is a token made to make the world a better and greener place by planting trees.

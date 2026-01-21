@@ -13,6 +13,11 @@ links:
   - name: facebook
     url: "https://facebook.com/pandainutoken/"
 name: PandaInuWalletToken
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#3de7fb"
 ---
 
 PandaInu is a meme-based token & Defi Wallets

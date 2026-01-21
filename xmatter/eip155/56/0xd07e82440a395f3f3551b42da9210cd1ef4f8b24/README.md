@@ -37,6 +37,11 @@ links:
   - name: source_code
     url: "https://github.com/theparalleldotio"
 name: Parallel Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f8d310"
 ---
 
 The Parallel takes some of the greatest ideas from the real world and puts them to work in a magical world, The Parallel Metaverse where everyone can have fun and find happiness.

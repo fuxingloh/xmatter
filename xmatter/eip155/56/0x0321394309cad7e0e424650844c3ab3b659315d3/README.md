@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://medium.com/elastic-bitcoin-xbt"
 name: XBN Community
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#231b14"
 ---
 
 XBN Community is a community-driven, fair-launched DeFi project built on Binance Smart Chain #BSC. Three functions occur during each trade: Reflection, LP Acquisition, and Burn.

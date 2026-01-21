@@ -13,6 +13,11 @@ links:
   - name: blog
     url: "https://hedge-finance.medium.com/"
 name: HEDGE Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f46565"
 ---
 
 A custom tailored reflection token offering dynamic rewards based on market conditions and community input

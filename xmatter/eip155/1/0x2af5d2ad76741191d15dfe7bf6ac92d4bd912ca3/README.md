@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/leo-token/"
 name: UNUS SED LEO
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#14051c"
 ---
 
 LEO Token is a Bitfinex exchange token, which mainly use is for discounts on the exchange.

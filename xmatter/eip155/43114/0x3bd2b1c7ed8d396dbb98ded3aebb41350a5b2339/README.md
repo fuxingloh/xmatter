@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/uma/"
 name: UMA Voting Token v1
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fc4c4c"
 ---
 
 UMA is a decentralized financial contracts platform built to enable Universal Market Access.

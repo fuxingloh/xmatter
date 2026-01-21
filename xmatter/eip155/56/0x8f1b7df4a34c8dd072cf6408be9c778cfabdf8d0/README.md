@@ -13,6 +13,11 @@ links:
   - name: facebook
     url: "https://facebook.com/TradersFair/"
 name: Wrapped IQ.Cash
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ebd4dc"
 ---
 
 IQ is a multi-chain (NeoScrypt and BEP-20) masternode cryptocurrency for Investors, Traders and Miners. Fork of DASH. Users can earn rewards with masternodes, benefiting the entire network and ecosysytem.

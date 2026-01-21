@@ -15,6 +15,11 @@ links:
   - name: whitepaper
     url: "https://github.com/unitprotocol/protocol_docs/blob/master/unit_wp.pdf"
 name: Unit protocol
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fb9bcc"
 ---
 
 Unit protocol is a decentralized borrowing protocol that allows using a variety of tokens as collateral.

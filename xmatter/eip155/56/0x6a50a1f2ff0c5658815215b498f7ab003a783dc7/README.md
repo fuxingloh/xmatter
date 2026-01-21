@@ -19,6 +19,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/monsta-xrp/"
 name: CV TOKEN
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#777a97"
 ---
 
 CV Tokens enable users to buy and sell virtual products and services in the Metaverse. With a vibrant e-commerce system, users can purchase virtual clothes, accessories, and other digital items to personalize their avatars, enhancing their virtual reality experiences.

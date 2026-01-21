@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/vulcan-forged-pyr/"
 name: PYR Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#cf472f"
 ---
 
 Vulcan Forged is an established non-fungible token (NFT) game studio, marketplace, and dApp incubator with 10+ games, a 20000+ community, and top 5 NFT marketplace volume.

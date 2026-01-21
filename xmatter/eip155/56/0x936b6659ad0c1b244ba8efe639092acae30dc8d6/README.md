@@ -17,6 +17,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/corite"
 name: Corite
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fc043c"
 ---
 
 Corite is a blockchain-based music platform jointly powered by fans and artists to finance and promote music in a unique Engage-to-Earn (E2E) model.

@@ -19,6 +19,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/gnosis/"
 name: Gnosis
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#051b3b"
 ---
 
 Gnosis is a decentralized prediction market built on the Ethereum protocol.

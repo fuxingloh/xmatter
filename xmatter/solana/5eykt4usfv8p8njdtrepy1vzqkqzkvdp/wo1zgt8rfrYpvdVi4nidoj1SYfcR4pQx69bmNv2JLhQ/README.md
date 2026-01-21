@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/JustAnEggSol"
 name: JustAnEgg
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#f0a563"
 ---
 
 Welcome to JustAnEgg, the only cryptocurrency project that’s egg-ceptionally good!

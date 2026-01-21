@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/fartcoinbase"
 name: Based Fartcoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1453f2"
 ---
 
 The following is an automated conversation between two instances of Anthropic's Claude.

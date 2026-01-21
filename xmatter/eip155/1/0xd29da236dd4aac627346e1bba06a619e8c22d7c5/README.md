@@ -15,6 +15,11 @@ links:
   - name: telegram
     url: "https://t.me/MAGA_HAT"
 name: MAGA
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#b91d22"
 ---
 
 MAGA - TRUMP'S HAT. SUPPORT TRUMP SUPPORT MAGA

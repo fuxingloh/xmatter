@@ -15,6 +15,11 @@ links:
   - name: telegram
     url: "https://t.me/SakaiVault"
 name: Sakai Vault
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#4eb694"
 ---
 
 Sakai Vault is decentralized perpetual exchange. A Layer-2 Perpetual exchange is a specific type of decentralized perpetual exchange that utilizes a second layer of scaling technology on top of a blockchain network

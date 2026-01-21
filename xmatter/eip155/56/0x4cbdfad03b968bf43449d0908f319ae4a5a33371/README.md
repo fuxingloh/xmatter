@@ -7,6 +7,9 @@ links:
   - name: website
     url: "https://ecoin-finance.com/"
 name: E-COIN Finance
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 E-COIN Finance is a decentralized & deflationary BEP-20 token that aims to be an online payment platform replacing conventional fiat currency through our integrated debit card.

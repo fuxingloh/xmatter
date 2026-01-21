@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/seed-photo"
 name: Seed.Photo
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#8c7b3c"
 ---
 
 Protect the value of your photography against misuse or violation from artificial intelligence, social media and news platforms.

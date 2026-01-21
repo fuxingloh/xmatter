@@ -19,6 +19,11 @@ links:
   - name: whitepaper
     url: "https://whitepaper.wam.app"
 name: WAM
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fbc904"
 ---
 
 WAM is a play & earn crypto-gaming platform where everybody can play & compete with friends in simple hyper-casual tournaments to earn crypto rewards.

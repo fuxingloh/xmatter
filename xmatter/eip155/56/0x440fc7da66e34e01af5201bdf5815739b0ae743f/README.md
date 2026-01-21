@@ -17,6 +17,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/squidgametoken/"
 name: SquidGameToken
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#767cb6"
 ---
 
 Squid Game Token game free ETH by playing this game! Squid Game Token is a token on the Binance Smart Chain that offers auto static rewards on every transaction.

@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/safe_earn"
 name: SafeEarn
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1b0718"
 ---
 
 Safe Earn is the first mover of double-reflection tokens. Safe Earn acts as an earning platform by rewarding SafeMoon tokens to holders at a rate of 8.5%, which are then eligible to benefit from the SafeMoon standard reflections of 5%.

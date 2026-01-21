@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/crowcomputer"
 name: Crow Computer
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#040404"
 ---
 
 CROW Computer - Intelligence is Resistance Operatives Required

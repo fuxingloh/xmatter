@@ -12,6 +12,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/swell-sweth/"
 name: swETH
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ecf3f8"
 ---
 
 swETH is a decentralized and non-custodial liquid staking token that provides users with the opportunity to earn staking rewards while retaining liquidity over their Ethereum holdings.

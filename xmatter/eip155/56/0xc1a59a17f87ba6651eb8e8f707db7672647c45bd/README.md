@@ -17,6 +17,11 @@ links:
   - name: facebook
     url: "https://facebook.com/lnrdefi"
 name: Lunar
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#733cfc"
 ---
 
 LNR is the community currency and utility token that powers the Lunar Ecosystem.

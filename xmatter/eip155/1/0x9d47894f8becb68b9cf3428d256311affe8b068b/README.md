@@ -11,6 +11,11 @@ links:
   - name: medium
     url: "https://dontbuyrope.medium.com"
 name: ROPE
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#000000"
 ---
 
 Fair launch NFT and yield bearing asset platform.

@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/VenusProtocol"
 name: Venus MATIC
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1c242d"
 ---
 
 Venus is a decentralized finance (DeFi) algorithmic money market protocol on BNB Chain.

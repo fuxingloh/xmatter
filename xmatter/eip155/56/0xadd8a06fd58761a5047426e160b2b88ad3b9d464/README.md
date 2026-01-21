@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/cheeseswapbsc"
 name: CheeseSwap
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fcc92a"
 ---
 
 CheeseSwap is A Decentralized Finance & Entertainment Project.

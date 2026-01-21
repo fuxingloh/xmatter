@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/Healix__AI"
 name: X Money
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#222222"
 ---
 
 $xmoney is a community-driven meme token inspired by X’s vision of global financial transformation. While not affiliated with X, it merges decentralized finance with meme culture, offering degen traders and crypto enthusiasts a fun way to embrace the evolving world of financial tools.

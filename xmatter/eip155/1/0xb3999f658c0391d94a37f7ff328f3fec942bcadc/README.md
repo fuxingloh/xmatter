@@ -13,6 +13,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/Hashflow"
 name: Hashflow
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#20222a"
 ---
 
 Hashflow is a decentralized exchange designed for interoperability, zero slippage, and MEV-protected trades.

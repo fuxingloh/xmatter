@@ -13,6 +13,11 @@ links:
   - name: whitepaper
     url: "https://dragon-dron.com/index.php/whitepaper/"
 name: DragonCoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#cc8b26"
 ---
 
 DragonCoin is a promising project for all the people of the world. Our goal in creating this project to show the power of the dragon to the whole world. Which means that we will maximize holder investment by DragonCoin project and we will spend part of the profits to use of Solar energy.

@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/playbux"
 name: Playbux
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 The largest web3 entertainment platform in the world. Backed by Binance Labs and VISA Accelerator 2023

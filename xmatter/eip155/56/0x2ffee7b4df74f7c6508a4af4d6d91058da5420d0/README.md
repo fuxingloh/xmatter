@@ -27,6 +27,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/chaincade/"
 name: ChainCade
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d8266d"
 ---
 
 The future of the arcade is here! ChainCade is developing its one-of-a-kind blockchain arcade ecosystem to benefit players, creators, and investors together. Join the arcade revolution.

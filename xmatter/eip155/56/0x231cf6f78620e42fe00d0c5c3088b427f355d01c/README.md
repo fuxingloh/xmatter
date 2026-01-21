@@ -17,6 +17,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/marketmove"
 name: MarketMove.ai
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 AI-driven platform to lower the entry barrier on BSC, fueled by the MOVE token. Visit marketmove.ai to learn more.

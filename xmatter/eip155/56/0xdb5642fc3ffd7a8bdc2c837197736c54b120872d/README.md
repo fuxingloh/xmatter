@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/payslink"
 name: Payslink Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#24e4dc"
 ---
 
 Technology poised to disrupt the entire payment industry covering peer to peer payments and mass payments.

@@ -21,6 +21,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/metaxiz"
 name: MEXI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#9840ac"
 ---
 
 MEXI is the governance token of the Metaxiz system. Users can use MEXI for their NFT’s transactions on the Metaxiz marketplace, join the play-and-earn games in Metaxiz Metaverse and enjoy various functionalities of the Metaxiz ecosystem in the future.

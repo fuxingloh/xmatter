@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/kittenwifhat/"
 name: KittenWifHat
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#ebbca7"
 ---
 
 KittenWifHat is simply a Kitten wif a hat, Let's add hats to the cat. KittenWifHat is DogWifHat's biggest competitor!

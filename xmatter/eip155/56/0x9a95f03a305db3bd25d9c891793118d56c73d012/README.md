@@ -30,6 +30,11 @@ links:
     url: >-
       https://bscscan.com/address/0x9a95f03a305db3bd25d9c891793118d56c73d012#code
 name: Shiba Monk
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f59d2e"
 ---
 
 Shiba Monk's purpose is to create a platform devoted to teaching people mindfulness. By teaching people to take care of their minds, we can improve their mental health and create a better world for everyone.

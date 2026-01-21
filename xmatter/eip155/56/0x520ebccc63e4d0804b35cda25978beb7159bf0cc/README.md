@@ -17,6 +17,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/kKZZYJ5aaD"
 name: Lego Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#772abc"
 ---
 
 LEGOCOIN is a social meme token and reward, with goals to contribute in social and creativity movement all around the world through your favorite toys: LEGO .

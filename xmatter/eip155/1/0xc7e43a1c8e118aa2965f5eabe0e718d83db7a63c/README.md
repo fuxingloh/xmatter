@@ -5,6 +5,11 @@ links:
   - name: website
     url: "https://zcore.network"
 name: ZCore Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#5cb36b"
 ---
 
 The proposal of the ZCore Token (ZCRT) is to take advantage of the technological and usability advantages offered by the platform ZCore Network.

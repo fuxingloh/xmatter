@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/green-chart/"
 name: Green Chart
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#04b25c"
 ---
 
 Green Chart provides a secure platform for yield farming for it's holders via staking rewards with a fixed APY compounding.

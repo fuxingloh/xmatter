@@ -14,6 +14,11 @@ links:
   - name: whitepaper
     url: "https://token.blombard.com/docs/whitepaper.pdf"
 name: Blombard
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#881ff1"
 ---
 
 Blombard is an AI-powered platform dedicated to elevating cryptocurrency trading with advanced market analysis and financial services. It offers tools for smarter decision-making and lending solutions, all powered by the Binance Smart Chain (BSC).

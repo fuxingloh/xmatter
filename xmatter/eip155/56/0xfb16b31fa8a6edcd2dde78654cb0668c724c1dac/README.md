@@ -22,6 +22,11 @@ links:
     url: >-
       https://bscscan.com/address/0xfb16b31fa8a6edcd2dde78654cb0668c724c1dac#code
 name: SafePokeman Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#b0b2b5"
 ---
 
 Upload logo for SafePokeman Token

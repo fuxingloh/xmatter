@@ -19,6 +19,11 @@ links:
   - name: medium
     url: "https://neurashi.medium.com/"
 name: Neurashi
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Neurashi is a contemporary and steadfast AI blockchain framework that integrates the robustness of blockchain infrastructure with the nexus of artificial intelligence (AI).

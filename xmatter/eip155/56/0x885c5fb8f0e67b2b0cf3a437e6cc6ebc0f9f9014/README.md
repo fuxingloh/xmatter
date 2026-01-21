@@ -17,6 +17,11 @@ links:
   - name: whitepaper
     url: "https://gemguardian.io/docs/gemguardian.pdf"
 name: GemGuardian
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#000000"
 ---
 
 GEMG is a GemGuardian NFT Game Token

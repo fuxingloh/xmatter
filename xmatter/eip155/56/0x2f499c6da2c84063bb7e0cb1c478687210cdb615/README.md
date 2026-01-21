@@ -23,6 +23,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UCIcGozPp0vTrLbtc83AgzFg"
 name: Reflex V2
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2b2b3b"
 ---
 
 $RFX, our native token, is a hyper deflationary reflection token hosted on the Binance Smart Chain. It is based on an innovative liquidity generating protocol with additional staking opportunities.

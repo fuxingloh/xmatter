@@ -26,6 +26,11 @@ links:
     url: >-
       https://github.com/Golden-Doge-Token/contract/blob/main/smart%20contract.sol
 name: Golden Doge
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#481511"
 ---
 
 Golden Doge (GDOGE) is a community token that has a special Golden Vault which gets filled by 5% of every GDOGE transaction on Pancakeswap and rewards the GDOGE community in BNB.

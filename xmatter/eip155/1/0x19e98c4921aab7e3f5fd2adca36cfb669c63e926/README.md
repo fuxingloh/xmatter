@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/colawork/"
 name: Cola Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#142c6c"
 ---
 
 Colawork is a workplace benefits provider that rewards employees with cryptocurrency (COLA) for their participation at the digital workplace/collaboration tool.

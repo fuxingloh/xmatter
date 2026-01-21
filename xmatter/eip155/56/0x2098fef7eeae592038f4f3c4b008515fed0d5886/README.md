@@ -25,6 +25,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/rune/"
 name: Rune Shards
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0a0a0a"
 ---
 
 The governance token and in-game currency of Rune, an epic dark fantasy universe

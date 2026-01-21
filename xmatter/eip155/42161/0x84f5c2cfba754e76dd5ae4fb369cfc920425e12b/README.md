@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/cryptex-finance/"
 name: Cryptex
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e7b5f6"
 ---
 
 CTX is a governance token that powers and secures the Cryptex.Finance TCAP protocol.

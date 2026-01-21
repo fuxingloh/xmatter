@@ -13,6 +13,11 @@ links:
   - name: x
     url: "https://x.com/BULLAMASCOT"
 name: BULLA
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c7ab9c"
 ---
 
 BULLA - the king of memes and the official mascot of the bull market. A pure meme token inspired by Hasbulla, one of the most iconic figures on the internet and in Web3. Backed by a cult-like community, BULLA blends meme culture, virality, and bold energy, embodying the spirit of every true bull in the market.

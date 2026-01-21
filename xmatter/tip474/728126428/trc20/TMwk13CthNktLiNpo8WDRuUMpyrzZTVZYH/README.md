@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/to-the-sun/"
 name: To The Sun
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - trc20
+icon: icon.png
+color: "#e06c1d"
 ---
 
 SUNPUMP: The Meme Token Shooting Beyond the Moon

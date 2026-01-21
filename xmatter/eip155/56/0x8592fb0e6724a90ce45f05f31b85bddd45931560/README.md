@@ -13,6 +13,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/Swinate"
 name: Swinate
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fb043c"
 ---
 
 Swinate is the auto-generating liquidity protocol with static farming by holding on Binance Smart Chain.

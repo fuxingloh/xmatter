@@ -17,6 +17,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/memecoin/"
 name: Memecoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#451834"
 ---
 
 Memecoin (MEME) is the native ecosystem token of Memeland. Memeland is the web3 venture studio by 9GAG, the globally popular meme platform.

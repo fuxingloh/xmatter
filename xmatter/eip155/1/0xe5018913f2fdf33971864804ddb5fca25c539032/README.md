@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/OraProtocol"
 name: OpenLM RevShare
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#06dce4"
 ---
 
 Ethereum's Trustless AI.

@@ -5,6 +5,11 @@ links:
   - name: website
     url: "https://www.tendieswap.org/"
 name: TENDIE
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#df7627"
 ---
 
 TendieSwap is a non-custodial prediction protocol that enables users to earn unlimited rewards on high-yield prediction markets. TENDIE ($TENDIE) is the utility token of the TendieSwap ecosystem and is based on the BEP-20 token standard with a dual deployment to MATIC coming soon.

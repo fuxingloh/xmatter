@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/safenebula"
 name: SafeNebula
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1c131d"
 ---
 
 The SafeNebula Protocol is a community driven, fair launched DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition, & Burn.

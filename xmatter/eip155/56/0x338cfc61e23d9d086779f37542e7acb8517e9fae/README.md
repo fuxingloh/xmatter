@@ -7,6 +7,11 @@ links:
   - name: website
     url: "https://bscscan.com/address/0x338cfc61E23d9D086779f37542e7Acb8517E9faE"
 name: DDDD
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#101110"
 ---
 
 DDDD

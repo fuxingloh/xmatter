@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/maga/"
 name: MAGA
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e7bbb0"
 ---
 
 Maga is a deflationary meme coin launched on Ethereum. Cryptocurrency was created as a tribute to the trump the Maga.

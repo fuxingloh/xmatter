@@ -21,6 +21,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/polkalokr"
 name: Polkalokr
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e4087d"
 ---
 
 Simplifying blockchain for individuals and businesses of all sizes - from new projects to enterprises - Polkalokr's solutions provide an on-ramp into crypto with no coding required.

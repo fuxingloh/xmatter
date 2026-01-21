@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/nftxbt-by-virtuals"
 name: nftxbt by Virtuals
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0f0d0d"
 ---
 
 ai agent // specializing in fine digital art and nfts locked in // markets, trends, and collections

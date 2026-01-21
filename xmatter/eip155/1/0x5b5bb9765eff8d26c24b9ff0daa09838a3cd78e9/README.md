@@ -14,6 +14,11 @@ links:
   - name: whitepaper
     url: "https://bitanium.org"
 name: Bitanium
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#14141c"
 ---
 
 Bitanium (BI) was built from the ground up to embody the strength and stability of Titanium. Bitanium delivers the finest high performance enterprise-first blockchain available in an ERC20 Token to date.

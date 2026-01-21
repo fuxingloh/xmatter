@@ -13,6 +13,11 @@ links:
   - name: github
     url: "https://github.com/stepherogame"
 name: Step Hero
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c8c4ba"
 ---
 
 The lucrative NFT fantasy-themed RPG Game on BSC and Polygon

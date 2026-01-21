@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/hq"
 name: Metaverse HQ
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#053d7a"
 ---
 
 Metaverse HQ (MVHQ) is an AI enhanced Questing protocol for Gaming, De-Fi, Protocols, Creators, NFT/Memecoin communities, and Decentralized Ecosystems. MVHQ has distributed millions of dollars in value to users as it becomes the universal nexus for on and off-chain rewards.

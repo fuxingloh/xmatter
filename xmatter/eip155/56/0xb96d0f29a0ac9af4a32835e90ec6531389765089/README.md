@@ -16,6 +16,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/vapor-fund"
 name: Vapor Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2183aa"
 ---
 
 Inflation Hedge Fund: Your Gateway to Curated Crypto Investments

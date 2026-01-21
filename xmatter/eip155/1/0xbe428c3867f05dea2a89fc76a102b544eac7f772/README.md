@@ -17,6 +17,11 @@ links:
   - name: medium
     url: "https://medium.com/cybervein"
 name: CyberVeinToken
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#3f34ff"
 ---
 
 Utility token to increase adoption of cryptocurrency.

@@ -13,6 +13,11 @@ links:
   - name: facebook
     url: "https://facebook.com/profile.php?id=100089680055861"
 name: BITCONEY
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d7e7e5"
 ---
 
 BITCONEY is a game reward token created for the 'Crypto Bunny' mobile game, a free play-to-earn crypto game. The players in the game are rewarded with CB coins which they can convert to BITCONEY tokens and withdraw to their wallets.

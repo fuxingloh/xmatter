@@ -19,6 +19,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/shibnobi"
 name: Shibnobi
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 SHIBNOBI is a community-driven token / platform that wants to develop a cross-chain token swap for the next generation of investors and make crypto simple and safe for everyone.

@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/id/koin_koin/idm-token"
 name: IDM Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f9d20c"
 ---
 
 IDM Token is intended to invite crypto currency investors to finance our big project in building a digital ecosystem of cooperatives and MSMEs in Indonesia. IDM tokens are at an early stage on the Binance Smart Chain network.

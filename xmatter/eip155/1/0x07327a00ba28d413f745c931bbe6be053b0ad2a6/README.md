@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/humanscape/"
 name: Humanscape
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#246cfc"
 ---
 
 Humanscape aims to cure incurable diseases, by curating personal health data.

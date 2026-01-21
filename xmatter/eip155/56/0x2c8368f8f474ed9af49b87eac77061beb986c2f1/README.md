@@ -19,6 +19,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/leonicorn-swap/"
 name: LeonicornSwap
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#b06e7c"
 ---
 
 Leonicorn Swap is an Advance AMM with features Like NFT Marketplace, Lottery, IDO and many other advanced features.

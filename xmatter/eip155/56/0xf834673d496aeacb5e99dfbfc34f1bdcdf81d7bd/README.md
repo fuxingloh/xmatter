@@ -23,6 +23,11 @@ links:
     url: >-
       https://bscscan.com/address/0xf834673d496aeacb5e99dfbfc34f1bdcdf81d7bd#code
 name: Aegis Launchpad
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1f1e1c"
 ---
 
 A launchpad that allows any token amount held by investors to participate in IDO's. It also includes an insurance system and P2E game.

@@ -19,6 +19,11 @@ links:
   - name: whitepaper
     url: "https://tfstoken.com/storage/2021/12/White-Paper-Fairspin.pdf"
 name: TFS Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#141414"
 ---
 
 TFS is an ERC-20/BEP-20 internal token of the Fairspin platform. It is a full-fledged tool that will suit both players and crypto investors willing to increase their profits.

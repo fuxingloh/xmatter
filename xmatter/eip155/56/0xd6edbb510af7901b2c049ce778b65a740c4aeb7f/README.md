@@ -15,6 +15,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/hollywood-capital-group-warrior/"
 name: WOR
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f3b85c"
 ---
 
 The "Hollywood 3.0 Warrior Warrant" issued by Hollywood Capital Group, abbreviated as WOR. Number of token holders: 89,816

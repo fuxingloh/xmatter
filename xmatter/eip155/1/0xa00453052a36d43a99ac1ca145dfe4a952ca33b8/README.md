@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/cateonethereum"
 name: Cate
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d0b274"
 ---
 
 Claims to be part of the Dogeverse, born from @ownthedoge tweet. Based on Ethereum.

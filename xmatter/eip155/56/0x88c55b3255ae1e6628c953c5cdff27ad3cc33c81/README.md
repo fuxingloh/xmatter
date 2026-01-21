@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/MyDefiLegends"
 name: My Defi Legends
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#b0b4b1"
 ---
 
 My Defi Legends is a complete metaverse of Digital Heroes that live on the Binance Smart Chain (BSC), which allows millions of people to join the NFT & blockchain-based gaming world in an easy, creative and fun way.

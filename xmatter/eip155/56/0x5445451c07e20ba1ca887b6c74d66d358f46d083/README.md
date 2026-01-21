@@ -17,6 +17,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/zombie-world-z"
 name: Zombie World Z
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2f1f4e"
 ---
 
 Zombie World Z is upgraded and developed based on Zombie Idle Defense – a successful and established game in the market. Currently, the publisher has transformed the upgrade by applying blockchain technology and metaverse to game mining in a new aspect with a game economy tied to Tokens and blockchain on the Binance Smartchain platform.

@@ -22,6 +22,11 @@ links:
   - name: whitepaper
     url: "https://happyfans.club/wp-content/uploads/2021/09/litepaper.pdf"
 name: Happy Fans Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e84070"
 ---
 
 Happy Fans is a subscription-based social network based on blockchain technology

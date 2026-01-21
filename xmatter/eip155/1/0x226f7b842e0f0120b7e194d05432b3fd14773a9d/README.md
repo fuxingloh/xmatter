@@ -5,6 +5,11 @@ links:
   - name: website
     url: "https://www.unn.finance/"
 name: UNION Protocol Governance Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#7065fc"
 ---
 
 UNION's cornerstone of full stack protection reduces the risks and costs of DeFi

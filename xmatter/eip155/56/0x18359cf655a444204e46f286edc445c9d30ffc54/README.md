@@ -11,6 +11,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/DogemoonToken/"
 name: DOGEMOON
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#170d08"
 ---
 
 Dogemoon is a charity project built on Binance Smart Chain featuring auto burns to a locked liquidity, auto staking mechanism, and 6% tax is imposed on transactions for charity and marketing.

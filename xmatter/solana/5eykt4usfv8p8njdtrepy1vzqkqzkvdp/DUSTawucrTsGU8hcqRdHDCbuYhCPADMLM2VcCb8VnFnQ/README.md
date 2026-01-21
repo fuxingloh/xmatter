@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/dust-protocol"
 name: DUST Protocol
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#141414"
 ---
 
 Dust Protocol (DUST) is a decentralized protocol and multi-chain utility & governance token that aims to facilitate community-led governance over holder proposals & the Dust DAO treasury.

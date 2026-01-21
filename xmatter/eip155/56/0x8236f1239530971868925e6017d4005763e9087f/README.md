@@ -11,6 +11,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/dexioprotocoltoken/"
 name: Dexigas
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#10a190"
 ---
 
 Dexigas has been created to be the utility token within the Dexioprotocol gaming ecosystem.

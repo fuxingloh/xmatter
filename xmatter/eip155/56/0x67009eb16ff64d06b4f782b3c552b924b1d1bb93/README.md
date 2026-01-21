@@ -16,6 +16,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/matrix-chain/"
 name: Matrix Chain
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#352711"
 ---
 
 The World’s Leading Decentralized Finance Platform

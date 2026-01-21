@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/tron/"
 name: TRON
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ec0c2c"
 ---
 
 TRON is a dedicated to build the infrastructure for a truly decentralized Internet.

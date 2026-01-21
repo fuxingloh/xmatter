@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/tomantoken"
 name: Toman
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - trc10
+icon: icon.png
+color: "#986b07"
 ---
 
 Simple buying and selling of goods online.

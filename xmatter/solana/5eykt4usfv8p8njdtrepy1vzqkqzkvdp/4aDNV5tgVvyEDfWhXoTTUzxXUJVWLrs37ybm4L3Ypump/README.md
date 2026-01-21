@@ -7,6 +7,11 @@ links:
   - name: x
     url: "https://x.com/pusscat_cto"
 name: Puss in Boots
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#3d3e1f"
 ---
 
 PUSS is cute and he attracts everyone with his eyes , how can you sell puss ? puss will take over other cats cause he is the cutest frends

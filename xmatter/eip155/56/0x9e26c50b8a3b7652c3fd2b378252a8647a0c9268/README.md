@@ -25,6 +25,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/shibance"
 name: Shibance Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fbd304"
 ---
 
 The First Meme DEX and Launchpad on BSC

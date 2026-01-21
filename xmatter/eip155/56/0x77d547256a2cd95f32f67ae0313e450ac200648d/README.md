@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/lazio-fan-token"
 name: S.S. Lazio Fan Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#bfd1d4"
 ---
 
 BEP-20 utility token for S.S. Lazio

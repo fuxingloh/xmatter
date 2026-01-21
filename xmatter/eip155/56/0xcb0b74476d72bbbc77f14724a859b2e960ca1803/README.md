@@ -15,6 +15,11 @@ links:
   - name: facebook
     url: "https://facebook.com/mindmusicbsc"
 name: Mind Music
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#049404"
 ---
 
 Mind Music is the world’s first record label to be powered by crypto. 20% of all the profits made from the record label are used to buy & burn the token and increase its value for the holders.

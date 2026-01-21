@@ -25,6 +25,11 @@ links:
   - name: medium
     url: "https://medium.com/@islamicoin"
 name: ISLAMICOIN
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#896740"
 ---
 
 ISLAMICOIN A Cryptocurrency For The Global Muslim Community

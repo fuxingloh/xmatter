@@ -11,6 +11,11 @@ links:
   - name: medium
     url: "https://medium.com/@deusfinance"
 name: DEI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d67366"
 ---
 
 DEUS Finance Evolution is a marketplace of decentralized financial services, where we provide the infrastructure for others to build financial instruments, such as synthetic stock trading platforms, options, and futures trading.

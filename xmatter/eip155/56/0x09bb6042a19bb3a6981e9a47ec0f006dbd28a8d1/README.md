@@ -15,6 +15,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/wedex-token-v2/"
 name: WEDEX TOKEN V2
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#4ba343"
 ---
 
 Wedex - A next evolution DeFi exchange on Binance Smart Chain (BSC)

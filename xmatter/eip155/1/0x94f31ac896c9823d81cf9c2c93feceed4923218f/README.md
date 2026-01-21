@@ -15,6 +15,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/yftether/"
 name: Yftether.io
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1ca47c"
 ---
 
 YFTether aims to expand the utilization of blockchain from elementary value transfer to further complex financial use cases.

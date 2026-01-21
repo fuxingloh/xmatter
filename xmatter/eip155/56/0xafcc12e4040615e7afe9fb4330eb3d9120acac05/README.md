@@ -17,6 +17,11 @@ links:
   - name: github
     url: "https://github.com/piratecash"
 name: PirateCash
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 PirateCash as Software-defined networking (SDN). This technology will provide good quality of service and it will be High Availability (HA), flexible and DDoS resistant network.

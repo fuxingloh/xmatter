@@ -17,6 +17,11 @@ links:
   - name: medium
     url: "https://flappybirdgo.medium.com/"
 name: Flap Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fbeda4"
 ---
 
 FlappyBird Go is the NFT game version of FlappyBird concept Play-to-Earn on Binance Smart Chain. Try to flap, Happy reward!

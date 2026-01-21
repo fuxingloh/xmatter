@@ -26,6 +26,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UClJFNLaXDLy2OeMDYhvgmfg"
 name: Vanity
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#262627"
 ---
 
 $VNY is the first token ever released on any blockchain to provide Custom Wallet Addresses for Bitcoin, Ethereum, Binance Smart Chain, Litecoin and Dogecoin Chains.

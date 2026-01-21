@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/mongcoin/"
 name: MongCoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#7b14f3"
 ---
 
 The MongMob was born out of the incoherent ramblings of a US congressman.

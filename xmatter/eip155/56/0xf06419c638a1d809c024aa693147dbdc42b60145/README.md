@@ -30,6 +30,11 @@ links:
   - name: discord
     url: "https://discord.com/bZHRk3dBqn"
 name: BankerDoge
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e9aa55"
 ---
 
 BankerDoge is a Defi as a Service platform designed to add features such as staking, time-locking, and Defi lending to any BSC token.

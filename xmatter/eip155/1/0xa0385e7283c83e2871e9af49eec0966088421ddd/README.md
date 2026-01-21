@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/apecoinportal"
 name: Ape
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0443f9"
 ---
 
 Pur Ape Meme.

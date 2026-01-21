@@ -15,6 +15,11 @@ links:
   - name: telegram
     url: "https://t.me/hoppycoinERC20"
 name: Hoppy
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#787a3a"
 ---
 
 Hoppy is an anthropomorphic frog character based on the famous comic book «The Night Riders», published in 2012 by artist and illustrator Matt Furie. Today, this is one of the few characters of Matt Furie that can truly be considered unique. Hoppy began his memetic revolution through countless iterations of memes cementing his iconic status, mastering every form with his unparalleled power. With its roots in internet culture, Hoppy infuses humor and meme magic into the world, fostering a movement that unites and makes everyone happy.

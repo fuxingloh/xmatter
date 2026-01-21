@@ -17,6 +17,11 @@ links:
   - name: whitepaper
     url: "https://shibxbsc.com/wp-content/uploads/2021/10/SHIBX-WHITEPAPER-1.pdf"
 name: ShibX
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d0b9df"
 ---
 
 SHIBX is the first Rebase token which passively rewards Binance Pegged $SHIB INU for holding the token. This Rebase tokens also known as elastic supply is a new contract function that has has taken the BSC network by storm.

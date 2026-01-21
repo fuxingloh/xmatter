@@ -19,6 +19,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/huh"
 name: HUH Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0434fb"
 ---
 
 HUH Token is the first ever UTIMEME cryptocurrency combining the power of meme tokens with the usability of utility tokens. Refer friends now and earn 10% in BNB.

@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/kakarot/"
 name: Kakarot
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#ec6d25"
 ---
 
 Join the ultimate journey with Goku as we explore the origins, transformations, and achievements of the legendary Saiyan warrior.

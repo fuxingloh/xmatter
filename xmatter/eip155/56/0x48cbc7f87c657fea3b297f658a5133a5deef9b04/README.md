@@ -15,6 +15,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/miniflokiada"
 name: MiniFlokiADA
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1c1712"
 ---
 
 MiniFlokiADA, the All-In-One Function Token in Binance Smart Chain

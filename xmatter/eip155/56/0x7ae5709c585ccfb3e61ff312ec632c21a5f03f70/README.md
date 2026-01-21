@@ -21,6 +21,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/doge-dash"
 name: Doge Dash
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e59044"
 ---
 
 Crypto Gaming made Easy: The aim of the game is simple... Dash as fast as you can through all of the 10 levels whilst collecting coins along the way. Successful players who complete all 10 levels will be rewarded with the collected Doge Dash coins direct to their wallets

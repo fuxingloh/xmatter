@@ -24,6 +24,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/katana-inu/"
 name: Katana Inu Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ccc7bf"
 ---
 
 Katana Inu is a play2earn metaverse NFT-Game in an interactive openworld - All skins and weapons are NFTs. A project that focuses on driving Gaming & NFT crypto innovation through its innovative game offerings with auto staking in in-game reward method.

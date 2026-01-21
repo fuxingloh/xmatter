@@ -13,6 +13,11 @@ links:
   - name: whitepaper
     url: "https://revolotto.org/#whitepaper"
 name: Revolotto
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#04c9fc"
 ---
 
 Revolotto is a Deflationary token; four-dimensional, 80% to buyer, 9% to LP, 5% burns & 6% distribution.

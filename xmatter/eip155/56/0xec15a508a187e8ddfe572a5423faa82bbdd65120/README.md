@@ -21,6 +21,11 @@ links:
   - name: whitepaper
     url: "https://babylons.io/assets/litepaper.pdf"
 name: Babylons Governance Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d27804"
 ---
 
 Babylons is the first community-governed game aggregator and NFT marketplace operating on BSC. Create, participate, collect and earn. Only on Babylons..

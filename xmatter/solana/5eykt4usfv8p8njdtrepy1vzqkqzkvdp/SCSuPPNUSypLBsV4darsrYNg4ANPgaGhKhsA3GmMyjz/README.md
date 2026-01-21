@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/solcasino-token"
 name: Solcasino
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#232c3b"
 ---
 
 Solcasino.io - Top One Crypto Casino on Solana network.

@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/doge-floki-coin"
 name: Doge Floki Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f49922"
 ---
 
 Doge Floki Coin DOFI is a new cryptocurrency born to emulate dogecoin with the help of Elon Musk

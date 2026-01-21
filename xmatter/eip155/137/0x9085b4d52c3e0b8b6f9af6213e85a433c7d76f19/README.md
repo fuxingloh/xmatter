@@ -13,6 +13,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/8MUcukEKnC"
 name: OWL
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#19223d"
 ---
 
 OwlDAO - Build the Best Casino Solution on Ethereum Networks.

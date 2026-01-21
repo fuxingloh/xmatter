@@ -13,6 +13,11 @@ links:
   - name: telegram_news
     url: "https://t.me/SquidanomicsAnnouncement"
 name: Squidanomics
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d2295f"
 ---
 
 Bringing Squid Game to life through gaming, NFTs and community prizes!

@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/kekius-maximus-wtf/"
 name: Kekius Maximus
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#352732"
 ---
 
 The ultimate warrior in the Crypto World!

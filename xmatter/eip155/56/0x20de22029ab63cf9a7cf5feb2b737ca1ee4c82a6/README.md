@@ -19,6 +19,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/tKxAq78VBr"
 name: Chess
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#050505"
 ---
 
 Tranchess Protocol is a tokenized asset management and derivatives trading protocol. Inspired by tranches fund that caters investors with different risk appetite, Tranchess aims to provide different risk/return matrix out of a single main fund that tracks a specific underlying asset.

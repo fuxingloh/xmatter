@@ -11,6 +11,9 @@ links:
   - name: reddit
     url: "https://reddit.com/user/BillionHappiness"
 name: HappinessToken
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 HPS is a booster token for BillionHappiness project to support, build the ecosystem, and Develop NFT marketplace. To create, buy, or collect digital items secured with BSC blockchain.

@@ -21,6 +21,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/TVrWrcjVJH"
 name: MetaGear Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#5eb4ee"
 ---
 
 MetaGear is a game that shows creativity in assembling robots to fight.

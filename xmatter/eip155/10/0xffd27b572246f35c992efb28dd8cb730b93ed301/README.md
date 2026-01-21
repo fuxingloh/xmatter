@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/rubicondefi"
 name: Rubicon
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f8f4f2"
 ---
 
 The Rubicon Protocol is a decentralized exchange protocol on the Ethereum blockchain.

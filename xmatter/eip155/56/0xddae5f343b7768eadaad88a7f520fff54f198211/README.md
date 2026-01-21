@@ -21,6 +21,11 @@ links:
   - name: blog
     url: "https://blog.bitcoiva.com/"
 name: Bitcoiva
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e8932a"
 ---
 
 Bitcoiva is the Next-generation crypto-trading platform that supports various forms of transactions such as Fiat to Crypto trading, Crypto to Crypto trading and direct purchase option. Instant, fast and easy transactions are possible with Bitcoiva.

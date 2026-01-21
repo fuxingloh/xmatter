@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://bearn-defi.medium.com/"
 name: bDollar Share
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#4998fb"
 ---
 
 sBDO is the share token of bDollar protocol - an algorithmic stable-coin running on Binance Smart-chain.

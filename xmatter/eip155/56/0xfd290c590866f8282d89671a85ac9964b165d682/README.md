@@ -17,6 +17,11 @@ links:
   - name: medium
     url: "https://medium.com/subme-app"
 name: Subme
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e1273c"
 ---
 
 Subme is the world's first platform focused on subscribing to both physical products and services.

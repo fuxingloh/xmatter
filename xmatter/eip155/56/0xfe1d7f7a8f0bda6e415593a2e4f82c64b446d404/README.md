@@ -16,6 +16,11 @@ links:
     url: >-
       https://bullperks.com/wp-content/uploads/2022/02/BullPerks-Whitepaper-compressed.pdf
 name: BLP Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1e8a82"
 ---
 
 The BLP token powers The BullPerks ecosystem allowing holders to participate in deals on the platform.

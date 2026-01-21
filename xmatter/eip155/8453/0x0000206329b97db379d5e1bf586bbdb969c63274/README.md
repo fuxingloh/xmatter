@@ -7,6 +7,11 @@ links:
   - name: twitter
     url: "https://x.com/AngleProtocol"
 name: USDA
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e6f2f1"
 ---
 
 Supercharge your DeFi journey with USDA, the most complete & reliable yield-bearing U.S. Dollar stablecoin

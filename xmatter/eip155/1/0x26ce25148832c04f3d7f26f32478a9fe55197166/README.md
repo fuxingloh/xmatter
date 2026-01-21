@@ -7,6 +7,9 @@ links:
   - name: x
     url: "https://x.com/DexToolsapp"
 name: DEXTools
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 Ultimate Hub and Defi App For Uniswap and DEX trading.

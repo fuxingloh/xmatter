@@ -27,6 +27,11 @@ links:
   - name: docs
     url: "https://docs.feeder.finance"
 name: Feeder Finance
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#141c2c"
 ---
 
 Feeder Finance is a DeFi aggregator for diversified yield generation on Binance Smart Chain (“BSC”). Feeder aims to allow investors to feed capital into lending protocols, liquidity pools, vaults, and other DeFi products in an automated and diversified process — A single deposit with macro exposure.

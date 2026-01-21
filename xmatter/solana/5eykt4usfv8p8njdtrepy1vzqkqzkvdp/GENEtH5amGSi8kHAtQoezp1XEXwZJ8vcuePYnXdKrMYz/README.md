@@ -11,6 +11,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/genopets"
 name: Genopets
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#042f30"
 ---
 
 A Genopet is your NFT spirit animal encoded with your personality and fitness data.

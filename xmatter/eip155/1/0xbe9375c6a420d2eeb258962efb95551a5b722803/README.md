@@ -11,6 +11,9 @@ links:
   - name: reddit
     url: "https://reddit.com/r/stormxio/"
 name: StormX
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 Earn crypto when you shop online.

@@ -17,6 +17,11 @@ links:
   - name: docs
     url: "https://docs.burnace.com"
 name: BURNACE
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e6d096"
 ---
 
 Burnace is the World's Highest Hyper deflationary Token created to evolve with burn methods.

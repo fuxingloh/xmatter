@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/AsteroidShibaCTO"
 name: Asteroid Shiba
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#202834"
 ---
 
 $Asteroid is a crypto meme coin that's bringing the adorable spirit of Asteroid, the Shiba Inu floating with the Polaris Dawn crew, into the digital currency realm.

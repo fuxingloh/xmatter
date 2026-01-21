@@ -15,6 +15,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/"
 name: SquidGrow
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 SquidGrow was conceptualized by anonymous crypto billionaire “Shibtoshi” and is pushing boundaries and setting precedents for a growing meme-utility token.

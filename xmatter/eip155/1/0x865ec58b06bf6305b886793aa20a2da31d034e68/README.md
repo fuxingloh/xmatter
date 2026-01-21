@@ -5,6 +5,11 @@ links:
   - name: website
     url: "http://moss.land"
 name: Moss Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#37b1c1"
 ---
 
 Moss Coin (MOC) is a cryptocurrency and operates on the Ethereum platform.

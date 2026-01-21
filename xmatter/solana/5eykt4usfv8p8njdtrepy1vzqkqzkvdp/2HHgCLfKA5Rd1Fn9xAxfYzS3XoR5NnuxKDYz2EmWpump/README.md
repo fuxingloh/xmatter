@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/sbrsolana"
 name: Strategic Bitcoin Reserve
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#f1920f"
 ---
 
 Make BTC Great Again

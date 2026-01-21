@@ -25,6 +25,11 @@ links:
     url: >-
       https://bscscan.com/address/0xa176fa55bef56d18ab671251957acb0db630539b#code
 name: SymBULL
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#60cc48"
 ---
 
 A Decentralized Token that created a Crypto EcoVERSE! SymBULL, RIDE, CHARGE, BullSwap, Innovative Reward System,and BullRUN NFT Game! All holders of SymBULL will earn 8% reward from every Buy/Sell Transaction in BUSD, which is automatically sent to your wallet by simply holding SymBULL.

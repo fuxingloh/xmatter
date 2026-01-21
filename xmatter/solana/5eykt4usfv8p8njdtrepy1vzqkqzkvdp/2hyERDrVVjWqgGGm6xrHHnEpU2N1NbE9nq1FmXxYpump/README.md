@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/PercySolCTO"
 name: Percy Verence
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#0d1217"
 ---
 
 The token of perseverance and brilliance

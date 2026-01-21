@@ -17,6 +17,11 @@ links:
   - name: facebook
     url: "https://facebook.com/afrostarcrypto"
 name: Afrostar
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#826c27"
 ---
 
 AFROSTAR IS THE UNITED DIGITAL CURRENCY OF AFRICA. It aims to be THE digital currency that is trusted and used across the continent, and a top crypto currency worldwide. The Afrostar ecosystem will provide a range of powerful real world use cases for the Afrostar crypto token.

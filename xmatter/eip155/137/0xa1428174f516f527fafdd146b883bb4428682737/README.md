@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/superfarm/"
 name: SuperVerse
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 SuperVerse is a cross-chain DeFi protocol that allows users to deploy crypto and NFT farms with no code required!

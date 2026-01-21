@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://revolutionpopuli.medium.com/"
 name: Revolution Populi
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#000000"
 ---
 
 The Blockchain Database for the Internet.

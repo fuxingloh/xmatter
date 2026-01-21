@@ -15,6 +15,11 @@ links:
   - name: whitepaper
     url: "https://docs.pls2e.io/"
 name: P2E Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#da2323"
 ---
 
 PLS2E.io = DAO+DEX+NFTs+GameFi LaunchPad. The best GameFi infrastructure platform on BSC and put forward the concept of Earn As A Service (EAAS)

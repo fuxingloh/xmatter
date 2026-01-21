@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/ritestream"
 name: RITE Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Ritestream is the world's gateway into Web3. Everyone talks about bringing millions into Web3. Few can. We will. Our ecosystem is a natural funnel with 3x themes of entertain, inform and invest. It gives us unrivalled virality and exposure, thereby creating major demand for the $RITE token through its strong utility and sustainable buyback.

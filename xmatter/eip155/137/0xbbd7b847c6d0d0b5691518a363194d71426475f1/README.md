@@ -24,6 +24,11 @@ links:
   - name: facebook
     url: "https://facebook.com/EverRiseToken"
 name: EverRise Rewards
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#cd4231"
 ---
 
 Virtual token that allows unclaimed rewards from EverRise Staking NFTs and its Vote Escrowed (ve) EverRise to display in wallet balances.

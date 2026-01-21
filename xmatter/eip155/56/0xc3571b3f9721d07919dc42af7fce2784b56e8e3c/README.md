@@ -7,6 +7,11 @@ links:
   - name: x
     url: "https://x.com/chengpangzhoa"
 name: Chengpang Zhoa
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#837a79"
 ---
 
 Chengpang Zhoa is a community-driven meme token on the BNB Chain, inspired by Changpeng Zhao, the founder of Binance and BNB known as CZ. This token features a humorous and caricatured version of his name and likeness adding a hilarious touch to the character. If Yu C\*nt Holdl Yu Wund bi reech.

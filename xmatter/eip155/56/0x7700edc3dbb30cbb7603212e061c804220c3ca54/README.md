@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/quantic"
 name: Quantic
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#195481"
 ---
 
 Quantic is the next innovative DeFi release for the Binance Smart Chain that is designed to provide holders of $QUANTIC high passive returns just by holding the token, in which the smart contract does all the work for them.

@@ -19,6 +19,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/leonicorn-swap/"
 name: Leon Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#230b1c"
 ---
 
 Next generation AMM and yield farm with deflationary token model on Binance Smart Chain.

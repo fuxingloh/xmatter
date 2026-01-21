@@ -17,6 +17,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/keep-network/"
 name: KEEP Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#4bdbb3"
 ---
 
 Keep technology is what sets tBTC apart as the only decentralized solution for Bitcoin on Ethereum.

@@ -15,6 +15,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/automata-network/"
 name: Automata
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c24414"
 ---
 
 Automata Network is a decentralized service protocol that provides a privacy middleware layer for dApps across multiple blockchains.

@@ -15,6 +15,11 @@ links:
   - name: whitepaper
     url: "https://cybertronchain.com/beta/page6.php"
 name: cybertronchain
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dcbc0c"
 ---
 
 CYBERTRON is redefining the way payments move, consume and use real life. We are supporting the fee and future of the economy.

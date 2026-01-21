@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/penguiana"
 name: Penguiana
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#ebc891"
 ---
 
 Solana-Based Memecoin With Upcoming Play To Earn Utility. Welcome to Penguiana: We at Penguiana believe in a slow and steady race to the top, just like how penguins waddle in search of fish, let's eat the dip, the penguin style.

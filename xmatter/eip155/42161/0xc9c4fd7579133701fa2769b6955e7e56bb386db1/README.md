@@ -23,6 +23,11 @@ links:
   - name: medium
     url: "https://medium.com/@bridge_oracle"
 name: Bridge Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#efb236"
 ---
 
 Bridge Oracle System is a technology through which external data can be injected.

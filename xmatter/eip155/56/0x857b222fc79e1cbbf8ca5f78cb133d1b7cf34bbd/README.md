@@ -30,6 +30,11 @@ links:
     url: >-
       https://ltonetwork.com/documents/LTO%20Network%20-%20Identities%20Paper.pdf
 name: LTO Network
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#939cfc"
 ---
 
 LTO Network is a layer-1 platform for decentralized identities, verifiable credentials and decentralized workflow applications, while maintaining data privacy and GDPR compliance.

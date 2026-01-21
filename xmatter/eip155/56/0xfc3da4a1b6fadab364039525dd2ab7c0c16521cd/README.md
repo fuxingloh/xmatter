@@ -27,6 +27,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/Mrweb_Finance"
 name: MRWEB
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#3d2d7c"
 ---
 
 MRweb is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world. MRweb is an open source.

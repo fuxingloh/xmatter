@@ -19,6 +19,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/bob"
 name: BOB
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dc78ee"
 ---
 
 BOB is a stable token optimized for the zkBob protocol.

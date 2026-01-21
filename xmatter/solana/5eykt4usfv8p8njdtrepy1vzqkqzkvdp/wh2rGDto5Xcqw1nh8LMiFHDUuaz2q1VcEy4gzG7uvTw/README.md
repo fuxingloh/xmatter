@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/YURO2024"
 name: Yuro 2024
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#193ed5"
 ---
 
 The ofishul home of YOUAYFA men’s nashinol futball - on Solana

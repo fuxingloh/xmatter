@@ -7,6 +7,11 @@ links:
   - name: website
     url: "https://four.meme/token/0x75022d03eEaC2Da632B7d8054dA1306c6F8b870F"
 name: Red Dragon
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e3e3eb"
 ---
 
 Red Dragon (中): Represents success, power, and good fortune.

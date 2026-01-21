@@ -12,6 +12,11 @@ links:
   - name: whitepaper
     url: "https://orakuru.io/whitepaper.pdf"
 name: Orakuru
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f81858"
 ---
 
 The Orakuru (ora-ku-ru) is Binance Smart Chain’s community owned and operated Oracle. A trustless feed of prices and off-chain data powering the 3.0. Unstoppable, all-seeing.

@@ -15,6 +15,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/BABYXRP_ARMY"
 name: BABYXRP
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#cab463"
 ---
 
 BabyXrp is a deflationary token on BSc chain. BabyXrp rewards the long term holders with XRP every week.

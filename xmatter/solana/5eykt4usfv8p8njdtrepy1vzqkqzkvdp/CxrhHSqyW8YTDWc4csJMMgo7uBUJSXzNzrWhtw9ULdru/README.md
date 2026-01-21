@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com//Криптовалюты/neversol"
 name: neversol
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#100806"
 ---
 
 $never,the crypto meme token that turns traditional marketing strategies on their head.

@@ -22,6 +22,11 @@ links:
     url: >-
       https://etherscan.io/address/0xac8e13ecc30da7ff04b842f21a62a1fb0f10ebd5#code
 name: BabyDoge ETH
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f5a023"
 ---
 
 BabyDoge is fully decentralized and on a mission to bring popular cryptocurrency concepts to the mainstream in one, easy to understand project.

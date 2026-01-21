@@ -14,6 +14,11 @@ links:
   - name: telegram_news
     url: "https://t.me/Novaland_channel"
 name: NOVALAND
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#db87bc"
 ---
 
 NOVALAND

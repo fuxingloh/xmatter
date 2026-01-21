@@ -21,6 +21,11 @@ links:
   - name: github
     url: "https://github.com/Koda-Finance"
 name: Koda Cryptocurrency
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dce8ec"
 ---
 
 Koda token is a futuristic currency created and developed by Summit BC development team and will be the native token on SummitSwap.

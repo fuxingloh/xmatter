@@ -15,6 +15,11 @@ links:
   - name: telegram
     url: "https://t.me/BoxerInuOfficial"
 name: BabyBoxer
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#5d1675"
 ---
 
 Baby Boxer is a community-driven, deflationary token on the Binance Smart Chain with a mission to help malnourished babies around the world.

@@ -23,6 +23,11 @@ links:
   - name: facebook
     url: "https://facebook.com/subxofficial"
 name: SUBX FINANCE LAB
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 SUBX FINANCE LAB is a blockchain-as-a-service provider for businesses to integrate web3 technologies into their products and services.

@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/chex-token"
 name: Chintai Exchange Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#08243b"
 ---
 
 The CHEX token is the utility token of the Chintai Network. Its primary use is for resource handling on the network and for helping to increase liquidity on the platform through a variety of incentive methods.

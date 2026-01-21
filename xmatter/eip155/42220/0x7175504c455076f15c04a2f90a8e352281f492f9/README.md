@@ -17,6 +17,11 @@ links:
   - name: blog
     url: "https://www.mento.org/blog"
 name: Mento Australian Dollar
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#b0c7f9"
 ---
 
 Mento Australian Dollar (AUDm) is a decentralized stablecoin pegged to the Australian Dollar on the Celo blockchain.

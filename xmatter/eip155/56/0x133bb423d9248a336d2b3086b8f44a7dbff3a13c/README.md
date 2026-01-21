@@ -11,6 +11,11 @@ links:
   - name: medium
     url: "https://sil-finance.medium.com"
 name: SIL Finance Token V2
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#080804"
 ---
 
 SIL.Finance is a single sided yield aggregator (1 click hedging) with adventurous functional #NFT farming card add-ons.

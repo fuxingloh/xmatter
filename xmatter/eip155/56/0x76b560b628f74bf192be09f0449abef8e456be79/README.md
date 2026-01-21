@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/babycate"
 name: BabyCate
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f9e97c"
 ---
 
 BabyDoge + Cate = BabyCate Welcome back CZ, We will make BSC great again Trending new trend BabyCate on BSC, We not just meme, we are family! $BABYCATE

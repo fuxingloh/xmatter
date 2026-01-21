@@ -19,6 +19,11 @@ links:
   - name: source_code
     url: "https://github.com/omgnetwork"
 name: OMG Network
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#141414"
 ---
 
 OMG Network, formerly known as OmiseGO, is a non-custodial, layer-2 scaling solution built for the Ethereum blockchain. As an Ethereum scaling solution, OMG Network is designed to allow users to transfer ETH and ERC-20 tokens significantly faster and cheaper than when transacting directly on the Ethereum network.

@@ -20,6 +20,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/apollox"
 name: ApolloX Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#7b3cfc"
 ---
 
 APX is the native token of the ApolloX ecosystem, and ApolloX is a world class leading decentralized derivatives exchange.

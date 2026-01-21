@@ -32,6 +32,11 @@ links:
   - name: source_code
     url: "https://github.com/vcgamers/smartcontract"
 name: VCGamers
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1a8ecf"
 ---
 
 $VCG is developed on top of a social commerce platform that connects gamers and enables them to buy and sell digital gaming items and gaming NFTs.

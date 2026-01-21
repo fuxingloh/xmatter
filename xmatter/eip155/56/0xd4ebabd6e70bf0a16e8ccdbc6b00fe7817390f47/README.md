@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/ru/currencies/mars-space-x/"
 name: MarsSpaceXToken
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c6c6de"
 ---
 
 Mars Space X is a deflationary cryptocurrency, but also modern high-end finance.

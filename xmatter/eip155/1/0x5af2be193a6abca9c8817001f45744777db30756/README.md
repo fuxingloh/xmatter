@@ -17,6 +17,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/ethos/"
 name: Voyager Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 The Voyager Token (VGX) rewards users within the Voyager crypto broker ecosystem.

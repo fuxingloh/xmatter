@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/burningmoon/"
 name: BurningMoon
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e15f12"
 ---
 
 BurningMoon is a hyper-deflationary reward token with multiple use cases. It features unique tokenomics to create and sustain an entire ecosystem, which makes it very different from the tokens that are usually entering the cryptosphere.

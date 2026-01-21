@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/trackgood-ai"
 name: Trackgood AI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#42aaa4"
 ---
 
 Trackgood is a cutting-edge supply chain tracking and transparency solution built on the Base L2 on Ethereum. Trackgood integrates AI and token incentives to revolutionise the consumer experience of product authenticity and verification. This is done via Traicy, the world’s most comprehensive ESG-focused LLM and AI agent, designed to effectively communicate accurate sustainability and ESG data.

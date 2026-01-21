@@ -22,6 +22,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/moonshot"
 name: Moonshot
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d3a343"
 ---
 
 Moonshot is a deflationary, frictionless yield and liquidity generation protocol featuring MoonBoxes.io and MoonSea.io

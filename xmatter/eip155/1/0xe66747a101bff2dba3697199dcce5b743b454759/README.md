@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/gatechain-token/"
 name: Gatechain Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ca5454"
 ---
 
 GateChain is a public blockchain dedicated to blockchain asset safety even after private keys are compromised.

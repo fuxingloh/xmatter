@@ -11,6 +11,11 @@ links:
   - name: blog
     url: "https://jojometaverse.medium.com"
 name: JOJO Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fbda47"
 ---
 
 Decentralized Meme Coin Creates the BEST Metaverse on BSC, JOJO FUN METAVERSE = NFT + GameFi + SmartToy

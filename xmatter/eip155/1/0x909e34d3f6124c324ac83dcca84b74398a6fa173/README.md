@@ -36,6 +36,11 @@ links:
   - name: youtube
     url: "https://youtube.com/c/PantherProtocol"
 name: $ZKP Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#a1a2b0"
 ---
 
 Panther Protocol Token

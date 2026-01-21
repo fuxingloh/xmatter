@@ -11,6 +11,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/orca"
 name: Orca
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#080706"
 ---
 
 Orca is the easiest place to exchange cryptocurrency on Solana.

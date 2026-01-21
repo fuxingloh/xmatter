@@ -23,6 +23,9 @@ links:
   - name: facebook
     url: "https://facebook.com/EverRiseToken"
 name: EverRise (old)
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 The Original Buyback Token Powering The EverRise Ecosystem. EverRise token (RISE) is a multi-chain collateralized cryptocurrency that protects both the ecosystem and investors with its innovative buyback and staking protocol.

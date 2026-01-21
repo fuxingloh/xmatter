@@ -23,6 +23,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/stronger"
 name: Stronger
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f8cb19"
 ---
 
 Stronger is a cryptocurrency and operates on the Ethereum platform.

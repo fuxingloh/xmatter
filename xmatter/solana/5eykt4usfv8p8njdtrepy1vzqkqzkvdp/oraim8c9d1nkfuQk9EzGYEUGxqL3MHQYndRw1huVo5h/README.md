@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/agentsdotland"
 name: MAX
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#0b0c14"
 ---
 
 The First AI Agent Launch Platform

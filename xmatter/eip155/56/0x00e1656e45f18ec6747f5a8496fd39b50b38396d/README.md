@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/bomber-coin"
 name: Bomber Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fbca46"
 ---
 
 BCOIN is the token used in the Bomb Crypto game

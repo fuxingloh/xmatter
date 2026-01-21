@@ -35,6 +35,11 @@ links:
     url: >-
       https://bscscan.com/token/0x53F042f3e809d2DcC9492dE2DbF05d1DA0EF5fbb#readContract
 name: NOSHIT
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fc047c"
 ---
 
 Educative token-review platform aiming to make the crypto-world more comprehendible & less shitty. - NFTs, dApp games, Rewards

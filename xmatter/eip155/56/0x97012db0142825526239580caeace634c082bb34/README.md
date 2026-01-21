@@ -17,6 +17,11 @@ links:
   - name: github
     url: "https://github.com/petmoon/petmoon"
 name: Petmoon
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#5355b2"
 ---
 
 Petmoon is Play-to-Earn NFT game on the BSC network which integrates (BEP721) tokens into the dAPP.

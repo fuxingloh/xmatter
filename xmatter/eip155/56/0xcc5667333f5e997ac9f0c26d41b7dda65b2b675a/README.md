@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/glorydoge"
 name: GloryDoge
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#7d4d1e"
 ---
 
 Building a secure DeFi ecosystem to help bring creative ideas to life and protect early investors' funds.

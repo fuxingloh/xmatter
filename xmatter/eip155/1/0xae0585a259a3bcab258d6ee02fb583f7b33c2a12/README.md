@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/temdao/"
 name: TemDAO
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#a20d5c"
 ---
 
 TemDAO, a community collectively funding and supporting world heritage protection to develop, governed by $TEM hodlers.

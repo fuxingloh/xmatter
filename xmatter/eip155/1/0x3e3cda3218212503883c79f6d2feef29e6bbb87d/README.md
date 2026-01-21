@@ -9,6 +9,11 @@ links:
   - name: whitepaper
     url: "https://gpyx.money/gpyxlitepaper.pdf"
 name: GoldenPyrex
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fbbf42"
 ---
 
 GPYX is the native token of gpyx.money DeFi platform.

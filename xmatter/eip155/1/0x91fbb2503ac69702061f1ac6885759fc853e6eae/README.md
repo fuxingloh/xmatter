@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/k9-finance-dao"
 name: K9 Finance DAO
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e44e20"
 ---
 
 K9 Finance, a Shibarium-based LSD platform, offers core DeFi services and acts as an official validator. Rewarding $KNINE holders with $BONE for block validation, it aims to drive DeFi adoption via the 'Roundtable of Dogs' DAO, which governs treasury and roadmap decisions.

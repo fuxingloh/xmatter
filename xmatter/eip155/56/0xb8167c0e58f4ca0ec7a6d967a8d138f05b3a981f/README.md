@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/jen-coin/"
 name: Jencoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e6bb31"
 ---
 
 Jen coin is token based in BNB Smart Chain. its total supply is 21 Million. it has multiple utilities like online shopping Store, Von, Lottery and Networking.

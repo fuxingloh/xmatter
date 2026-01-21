@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/morphware/"
 name: Morphware
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0c1423"
 ---
 
 Morphware is a project at the intersection of AI and Web3 that uses cheap renewable electricity to power large language models and cryptocurrency mining workloads. We aim to provide users access to open-source large language models at the lowest prices in the world.

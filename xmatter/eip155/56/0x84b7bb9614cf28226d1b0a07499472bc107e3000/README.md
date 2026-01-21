@@ -23,6 +23,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UCRUb5jOLSi73bzUBh7Ao5og"
 name: EverestCoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c59745"
 ---
 
 EverestCoin is a Play to Earn Game token and will be the biggest token on BSC.

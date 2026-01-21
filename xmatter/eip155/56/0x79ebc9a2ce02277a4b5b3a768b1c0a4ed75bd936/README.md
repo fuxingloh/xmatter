@@ -13,6 +13,11 @@ links:
   - name: telegram
     url: "https://t.me/catgirlcoin"
 name: Catgirl
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f1b5be"
 ---
 
 CATGIRL¢ is a NFT focused, community driven crypto currency, with real world use.

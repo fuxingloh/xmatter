@@ -13,6 +13,11 @@ links:
   - name: x
     url: "https://x.com/@attentiontoken"
 name: 1INCH Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#101a26"
 ---
 
 The Avalanche Bridge Wrapped 1INCH Token. 1inch is a decentralized exchange aggregator that sources liquidity from various exchanges and is capable of splitting a single trade transaction across multiple DEXs.

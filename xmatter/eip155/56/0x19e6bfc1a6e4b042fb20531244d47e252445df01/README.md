@@ -21,6 +21,11 @@ links:
   - name: docs
     url: "https://templardao-finance.gitbook.io/templardao"
 name: Templar DAO
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#892f2b"
 ---
 
 TemplarDAO is a decentralized reserve currency and hedge fund featuring a proprietary treasury-reverse protocol

@@ -17,6 +17,11 @@ links:
   - name: whitepaper
     url: "https://armorfi.gitbook.io/armor/"
 name: Armor NXM
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1b93fc"
 ---
 
 arNXM is the yield-bearing token for the arNXM vault.

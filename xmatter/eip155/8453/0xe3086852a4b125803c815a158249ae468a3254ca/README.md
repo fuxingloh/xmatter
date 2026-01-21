@@ -8,6 +8,11 @@ links:
   - name: x
     url: "https://x.com/sartoshi_rip"
 name: mfercoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f9b373"
 ---
 
 a peer-to-peer electronic mfer system

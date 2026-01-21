@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/g2_gaming"
 name: G2 Crypto Gaming & Lottery
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#214674"
 ---
 
 G² is a new multidimensional ecosystem built around gaming, a diamond hold lottery ticket, and a staking pool. G² launched on 2nd November, 2021.

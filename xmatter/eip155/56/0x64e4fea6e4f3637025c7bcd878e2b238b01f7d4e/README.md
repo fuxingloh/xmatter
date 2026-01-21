@@ -17,6 +17,11 @@ links:
   - name: blog
     url: "https://Insurance.game/blog"
 name: insurance
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#15be38"
 ---
 
 Insurance token for insurance industry by offering a digital platform for insuring both physical and digital assets

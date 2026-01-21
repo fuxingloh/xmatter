@@ -39,6 +39,11 @@ links:
   - name: source_code
     url: "https://github.com/ZionTopia/ziontopia/blob/main/ziontopia"
 name: ZionTopia
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0a3411"
 ---
 
 ZionTopia will act as a tokenized decentralised VR Crypto Underground world. The ZionTopia Metaverse will work as a real estate and present shops that can be purchased, sold or governed by the ZION token holders.

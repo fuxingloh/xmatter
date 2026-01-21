@@ -13,6 +13,11 @@ links:
   - name: telegram_news
     url: "https://t.me/freemoon_bot"
 name: FREEMOON
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0fe9fa"
 ---
 
 Deflationary token with automatic profit distribution and blocked liquidity pool

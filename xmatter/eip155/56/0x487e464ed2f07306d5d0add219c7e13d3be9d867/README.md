@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/X_Hunter_tg"
 name: The xHunter
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0b2c04"
 ---
 
 The xHunter is a community driven platform that aims to bridge the gap between blockchain and the outdoors. Our goal is to be the gateway for all outdoor enthusiasts into the crypto world. This will be made possible through outdoor events, adventure store and our very own NFT game.

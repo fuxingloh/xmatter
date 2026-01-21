@@ -16,6 +16,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/riseup"
 name: RiseUp
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0c436a"
 ---
 
 Rise Up is a movement and the next growth token with an innovative buy back and burn system. A hyper deflationary token decreasing supply and economically increasing the price over time. Rise Up is building utilities to help investors check smart contracts and for launching safe tokens

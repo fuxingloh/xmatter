@@ -15,6 +15,11 @@ links:
   - name: whitepaper
     url: "https://mcncoin.io/white-paper"
 name: MCNCOIN
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#93530b"
 ---
 
 MCN - Multi-Community Network! MCN is an innovative GameFi platform that revolutionizes the way players interact with gaming entertainment and earn.

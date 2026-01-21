@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/ru/currencies/aleph-im/"
 name: Wrapped ALEPH (Sollet)
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#e1edfb"
 ---
 
 Fetch.ai aims to be at the forefront of accelerating research and the deployment of emerging technologies such as blockchain and AI.

@@ -19,6 +19,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/presale-world"
 name: Presale.World
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2567dc"
 ---
 
 Presale.World aims to make searching for presales easy by allowing users to search, sort and filter presales from some of the biggest launchpads in crypto. At present, this includes PinkSale, DxSale, Unicrypt, GemPad, CookieSale, Novation, and of course PresaleWorld. Not only is it for investors, project owners can generate a token, lock tokens or use our launchpad with unique features such as the pool protection pot where investors are able to claim back a percentage of their initial investment in the event of a scam.

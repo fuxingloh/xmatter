@@ -11,6 +11,11 @@ links:
   - name: github
     url: "https://github.com/airswap"
 name: AirSwap
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2b73fc"
 ---
 
 AirSwap powers peer-to-peer trading.

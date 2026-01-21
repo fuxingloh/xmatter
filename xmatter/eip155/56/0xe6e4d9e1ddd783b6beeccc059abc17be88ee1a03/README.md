@@ -19,6 +19,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/verum-coin"
 name: Verum Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f6aa12"
 ---
 
 Verum Coin is one of the digital currencies that use the mechanism of increased transaction confidentiality.

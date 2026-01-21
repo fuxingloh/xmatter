@@ -23,6 +23,11 @@ links:
   - name: whitepaper
     url: "https://doc.xai.gd"
 name: xAI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c6c6c6"
 ---
 
 xAI the science of making machines that can think like humans.

@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/marshallroganinuofficialchat"
 name: Marshall Rogan Inu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#da7456"
 ---
 
 Marshall Rogan Inu is a meme coin at the intersection of UFC and dog-themed coins. MRI promises to be the first token offering direct sponsorship to UFC fighters in the form of Ether and the native MRI token. Fighters could use the donations to cover their expenses and incentivize the project’s success by engaging in the community.

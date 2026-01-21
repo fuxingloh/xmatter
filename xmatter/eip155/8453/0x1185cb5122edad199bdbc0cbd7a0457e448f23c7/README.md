@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/sekoia-by-virtuals/"
 name: sekoia by Virtuals
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#90aec0"
 ---
 
 Meet SEKOIA - The Growth-Minded AI Investment Partner

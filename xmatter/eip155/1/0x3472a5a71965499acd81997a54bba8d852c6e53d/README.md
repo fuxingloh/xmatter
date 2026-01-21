@@ -14,6 +14,11 @@ links:
   - name: medium
     url: "https://badgerdao.medium.com/"
 name: Badger
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#191419"
 ---
 
 DAO dedicated to building products and infrastructure to bring Bitcoin to DeFi.

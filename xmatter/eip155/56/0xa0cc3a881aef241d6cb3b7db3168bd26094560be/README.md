@@ -24,6 +24,11 @@ links:
     url: >-
       https://bscscan.com/address/0xa0cc3a881aef241d6cb3b7db3168bd26094560be#code
 name: Crypto Inu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f8a42f"
 ---
 
 Crypto Inu is an immersive multiplayer board game with 3D and VR modes that incorporates metaverse real estate investment.

@@ -11,6 +11,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/x2y2"
 name: X2Y2Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2991e4"
 ---
 
 The decentralized NFT marketplace. By the people, for the people.

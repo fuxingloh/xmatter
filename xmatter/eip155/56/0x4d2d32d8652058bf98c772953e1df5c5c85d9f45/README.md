@@ -21,6 +21,11 @@ links:
   - name: telegram_news
     url: "https://t.me/daomaker_ann"
 name: DAO Maker
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2c2c44"
 ---
 
 DAO Maker is the leading incubation, fundraising and acceleration platform with a vast network of successful projects launched.

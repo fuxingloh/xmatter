@@ -11,6 +11,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/puffer"
 name: Puffer
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#545ce4"
 ---
 
 Reinventing Ethereum’s Future with LRT, Rollups, AVS & Institutional Solutions.

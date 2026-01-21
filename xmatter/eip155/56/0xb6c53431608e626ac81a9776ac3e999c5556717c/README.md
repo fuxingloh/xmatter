@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/telos/"
 name: pTokens TLOS
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#faf3d0"
 ---
 
 pNetwork enables cross-chain movement of assets and data.

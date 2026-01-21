@@ -19,6 +19,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/cryptoguards"
 name: CryptoGuards
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2b112b"
 ---
 
 CryptoGuards is 3rd project of CryptoCity Metaverse

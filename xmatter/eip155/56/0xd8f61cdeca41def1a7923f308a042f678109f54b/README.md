@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/buffedshiba"
 name: BuffedShiba
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2c393f"
 ---
 
 BuffedShiba is a community driven token inspired by the commonly known Buff Doge meme.

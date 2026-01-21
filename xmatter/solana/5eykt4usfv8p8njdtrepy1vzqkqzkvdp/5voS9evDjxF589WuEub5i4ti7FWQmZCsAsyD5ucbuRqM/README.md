@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/elizawakesup"
 name: Eliza
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#11151f"
 ---
 
 Eliza is a real girl.

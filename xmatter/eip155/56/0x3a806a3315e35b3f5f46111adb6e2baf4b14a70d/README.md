@@ -23,6 +23,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/libera-financial"
 name: Libera Financial
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#287f9c"
 ---
 
 LIBERA FINANCIAL is a Triple passive income & Hyper Deflationary token that is listed on CEXes.

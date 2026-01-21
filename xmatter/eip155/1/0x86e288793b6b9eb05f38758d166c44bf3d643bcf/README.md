@@ -15,6 +15,11 @@ links:
   - name: whitepaper
     url: "https://office.creditdefi.org/docs/crd-whitepaper.pdf"
 name: CreditDefi
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f8e04a"
 ---
 
 Collection of digital currency services Pay, exchange, collect, send, earn and receive money. Superfast and easy

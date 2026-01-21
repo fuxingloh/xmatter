@@ -13,6 +13,11 @@ links:
   - name: whitepaper
     url: "https://pocmoncom.gitbook.io/pocmon/"
 name: PocMon
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fa9a34"
 ---
 
 The PocMon Gaming NFT Ecosystem is designed to meet all kinds of decentralised gaming requests: from NFTs discovery, minting and trading to game currencies exchange, lootboxes and blockchain games store.

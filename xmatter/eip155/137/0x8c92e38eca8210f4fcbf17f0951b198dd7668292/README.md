@@ -32,6 +32,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/dhedge-dao"
 name: dHEDGE DAO Token (PoS)
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0c0c0c"
 ---
 
 Decentralized asset management protocol connecting the world’s best investment managers with investors in a permissionless, trustless fashion.

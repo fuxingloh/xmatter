@@ -17,6 +17,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/hup-life/"
 name: HUP.LIFE
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#17350e"
 ---
 
 HUP.LIFE ($HUP) is building an all-in-one NFT Marketplace enabling socially conscious visual artists and collectors to authenticate their artwork, find copycats across the web, and buy, sell, and license their artwork through its copyright - while complying with international copyright and securities law.

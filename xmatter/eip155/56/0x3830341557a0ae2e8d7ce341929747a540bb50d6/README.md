@@ -7,6 +7,11 @@ links:
   - name: website
     url: "https://four.meme/token/0x3830341557A0AE2e8d7cE341929747a540bb50d6"
 name: SharkBoy
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#bb8179"
 ---
 
 SharkBoy

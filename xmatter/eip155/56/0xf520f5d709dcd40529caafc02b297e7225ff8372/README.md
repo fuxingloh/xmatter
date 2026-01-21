@@ -17,6 +17,11 @@ links:
   - name: medium
     url: "https://medium.com/@moonwillycoin"
 name: MoonWilly
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#de9199"
 ---
 
 MoonWilly is Certificate Of Deposit on Binance Smart Chain. Holders Earn Passive Rewards in DAI (USD Stablecoin) every Hour, Forever.

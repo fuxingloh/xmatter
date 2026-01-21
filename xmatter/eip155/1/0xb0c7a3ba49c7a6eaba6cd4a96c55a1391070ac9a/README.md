@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/magic/"
 name: MAGIC
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f34444"
 ---
 
 Treasure is the decentralized gaming ecosystem bringing games and players together through MAGIC.

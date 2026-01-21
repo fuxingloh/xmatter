@@ -13,6 +13,11 @@ links:
   - name: docs
     url: "https://safelaunchpad.gitbook.io/safelaunchpad"
 name: SafeLaunchpad
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#cba145"
 ---
 
 SafeLaunchpad is High Deflationary Project Incubator Utility Token.

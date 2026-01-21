@@ -15,6 +15,11 @@ links:
   - name: facebook
     url: "https://facebook.com/groups/552451382428964"
 name: Baby Doge Inu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dda177"
 ---
 
 Baby Doge Inu is a deflationary token with high holder rewards on Binance Smart Chain (BSC).

@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/anyswap/"
 name: Anyswap
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#5876ec"
 ---
 
 Anyswap is a mpc decentralized cross-chain swap protocol.

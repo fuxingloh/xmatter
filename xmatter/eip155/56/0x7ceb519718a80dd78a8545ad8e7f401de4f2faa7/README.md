@@ -21,6 +21,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/nvN2WqgPfw"
 name: Duelist King Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c59f5a"
 ---
 
 DKT is governance token of Duelist King NFT Trading Card Game.

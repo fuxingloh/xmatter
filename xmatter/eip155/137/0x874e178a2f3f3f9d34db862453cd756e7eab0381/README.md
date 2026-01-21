@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/gravity-finance/"
 name: Gravity Finance
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ffa600"
 ---
 
 Gravity Finance is a suite of DeFi products on the Polygon Network.

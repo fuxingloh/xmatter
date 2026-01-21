@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/LetsPumpNow"
 name: DDDD
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#141413"
 ---
 
 What you despise and loathe reveals your deepest fears. Learn MEME, understand MEME, become a MEME. Now I'm busy posting comments everywhere telling everyone 'DDDD'

@@ -21,6 +21,11 @@ links:
   - name: whitepaper
     url: "https://bonkroyale.com/docs"
 name: BNB Smart Chain
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f24c09"
 ---
 
 Baby Bonk isn't just a regular coin; it's a special idea that brings together the power of DeFi with the strength of a community.

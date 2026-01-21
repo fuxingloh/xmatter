@@ -15,6 +15,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/MooCowToken/"
 name: MooCow
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dad0cc"
 ---
 
 Wen moo? A deflationary DeFi token/cow that wants to take you to the moon.

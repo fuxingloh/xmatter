@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://medium.com/@hodl.finance"
 name: Hodl Finance Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c83bc8"
 ---
 
 Hodl Finance merges centralized and decentralized finance to create a sustainable ecosystem for constant innovation. By combining the best aspects of community governance and a transparent foundation, the growth of the community and ecosystem is ensured.

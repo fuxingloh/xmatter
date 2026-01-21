@@ -21,6 +21,11 @@ links:
   - name: facebook
     url: "https://facebook.com/securedship"
 name: Secured Ship
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dec5b8"
 ---
 
 Secured Ship is a P2E Tournament Gaming Project with future implementation of NFT and Marketplace developed on Binance Smart Chain.

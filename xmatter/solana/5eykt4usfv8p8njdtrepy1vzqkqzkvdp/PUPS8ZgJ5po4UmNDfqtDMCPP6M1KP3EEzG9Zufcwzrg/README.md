@@ -7,6 +7,11 @@ links:
   - name: x
     url: "https://x.com/pupstoken"
 name: PUPS
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#e2c2b0"
 ---
 
 Pup is the first memecoin on Bitcoin

@@ -15,6 +15,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/67M9ckF3q3"
 name: DeRace Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#050505"
 ---
 
 DeRace is a complete NFT horse racing ecosystem where you can participate in horse races, breed NFT horses with unique characteristics, build your own NFT hippodrome

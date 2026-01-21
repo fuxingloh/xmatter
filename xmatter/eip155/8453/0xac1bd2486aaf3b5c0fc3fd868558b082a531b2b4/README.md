@@ -19,6 +19,11 @@ links:
   - name: medium
     url: "https://medium.com/@Toshi_Base"
 name: Toshi
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0755f4"
 ---
 
 Toshi aims to become the first Base-native token to get listed on Coinbase.

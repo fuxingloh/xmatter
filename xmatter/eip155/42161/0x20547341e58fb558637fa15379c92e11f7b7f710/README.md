@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/mozaic/"
 name: Mozaic
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#cdcdcd"
 ---
 
 Automatic, omnichain yield farming. Mozaic provides AI-optimized yield and liquidity strategies, powered by LayerZero. Farm automatically on every blockchain: Deposit and withdraw on any chain, in any coin or LP token

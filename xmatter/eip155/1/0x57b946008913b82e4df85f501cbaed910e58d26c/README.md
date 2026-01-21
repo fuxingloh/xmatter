@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/marlin/"
 name: Marlin POND
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#3b43c4"
 ---
 
 Marlin is an open protocol that provides a high-performance programmable network infrastructure for Web 3.0

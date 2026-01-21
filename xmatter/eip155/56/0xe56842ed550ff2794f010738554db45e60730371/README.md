@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/binemon/"
 name: Binemon token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#363749"
 ---
 
 Binemon is a virtual pet NFT game combined with elements of an Idle RPG game.

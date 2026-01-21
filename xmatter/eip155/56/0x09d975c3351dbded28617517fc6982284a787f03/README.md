@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/nl/coins/crypto-island"
 name: Crypto Island
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#152433"
 ---
 
 CISLA is a community driven token set to buy and decentralize a private island which will be co-owned by its holders and supported by a community app.

@@ -28,6 +28,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/yield-guild-games"
 name: Yield Guild Games
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#133683"
 ---
 
 Yield Guild Games (YGG) is a decentralized autonomous organization (DAO) for investing in non fungible tokens (NFTs) used in virtual worlds and blockchain-based games. The organization’s mission is to create the biggest virtual world economy, optimizing its community-owned assets for maximum utility and sharing its profits with its token holders.

@@ -20,6 +20,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/cheelee/"
 name: Cheelee
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d815bd"
 ---
 
 CHEEL is the governance token, which will be issued in a total quantity of 1,000,000,000. With this token, the community can vote on important issues of the platform development, according to the DAO principle. CHEEL also allows to level up NFT glasses.

@@ -17,6 +17,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/my-pet-social/"
 name: My Pet Social
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f0ad72"
 ---
 
 MyPetSocial is a social network for NFTs gaming on Binance Smart Chain, where you can generate more profit from your NFTs. By making the most of NFTs usage, MyPetSocial promises to bring about the best users experience of the crypto world.

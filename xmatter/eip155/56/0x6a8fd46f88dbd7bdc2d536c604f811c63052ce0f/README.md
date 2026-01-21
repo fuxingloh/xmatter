@@ -11,6 +11,11 @@ links:
   - name: medium
     url: "https://medium.com/dtravel-community"
 name: TRVL
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#a32b2c"
 ---
 
 Dtravel is a DAO: a community-owned and governed ecosystem that operates for the benefit of its community members.

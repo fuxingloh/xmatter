@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/platform-of-meme-coins/"
 name: Platform of meme coins
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#cdd0ca"
 ---
 
 The most catchy memecoin out there that anyone can win. Platform of meme coins. Shop with your meme coins. Stake or earn meme coins.

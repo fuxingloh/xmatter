@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/moutai/"
 name: Moutai
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#13307d"
 ---
 
 $MOUTAI is no ordinary meme coin.

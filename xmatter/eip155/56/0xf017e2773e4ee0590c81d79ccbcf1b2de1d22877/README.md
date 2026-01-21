@@ -13,6 +13,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/SAFEMOONCASHCommunity/"
 name: SAFEMOONCASH
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#060808"
 ---
 
 Safemoon Cash is – in short – a rug proof, ownership renounced community driven project that will bring rivalry to Safemoon with positive vibes only.

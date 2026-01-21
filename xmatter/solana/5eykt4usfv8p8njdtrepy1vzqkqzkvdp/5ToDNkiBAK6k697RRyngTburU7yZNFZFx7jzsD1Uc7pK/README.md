@@ -12,6 +12,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/non-playable-coin-solana"
 name: NPC Solana
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#040505"
 ---
 
 Meme for all Solana fans. We provide some of the most detailed and impressive meme's of Wojak, the worlds most recognizable NPC meme, across all social media platforms.

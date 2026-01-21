@@ -17,6 +17,11 @@ links:
   - name: docs
     url: "https://docs.thugs.fi/thugonomics/hoes"
 name: HOES
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#cf5f9a"
 ---
 
 HOES is the staked form of DRUGS. Hoes are used to stake for other tokens on the Traphouse.

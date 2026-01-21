@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/alien-worlds/"
 name: Alien Worlds Trilium
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0f0f0f"
 ---
 
 Trilium (TLM) is the native utility token of the Alien Worlds metaverse

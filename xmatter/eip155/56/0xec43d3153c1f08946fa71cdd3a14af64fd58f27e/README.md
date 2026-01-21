@@ -15,6 +15,11 @@ links:
   - name: facebook
     url: "https://facebook.com/pawnmynft/"
 name: PAWN MY NFT
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#050505"
 ---
 
 NFT borrowing and lending made easy at your fingertips

@@ -25,6 +25,11 @@ links:
   - name: facebook
     url: "https://facebook.com/ttcoinofficial"
 name: TTcoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fbcb2b"
 ---
 
 More than 2 million users with TTcoin Football Club, TTcoin brands and more projects.

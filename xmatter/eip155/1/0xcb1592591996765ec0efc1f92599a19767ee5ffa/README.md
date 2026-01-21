@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/bio-protocol"
 name: BIO
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1c2414"
 ---
 
 BIO Protocol enables global communities of scientists, patients, and investors to collectively fund, develop, and co-own new drugs and therapeutics through its network of Biotech Decentralized Autonomous Organizations (BioDAOs).

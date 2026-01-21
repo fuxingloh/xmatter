@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/nasa-doge"
 name: Nasa Doge
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#303c78"
 ---
 
 NasaDoge is loyal to his family, like all dogs should be! All holders of $NasaDoge will earn more tokens on each transaction that is automatically sent to your wallet.

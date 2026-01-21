@@ -11,6 +11,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/rollbit-coin/"
 name: Rollbit Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2e272a"
 ---
 
 RLB is Rollbit's native token. It introduces 'RLB Lottery' which includes a prize pool grown from a share of Rollbit's casino profits.

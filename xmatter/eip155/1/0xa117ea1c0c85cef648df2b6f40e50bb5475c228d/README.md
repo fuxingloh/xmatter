@@ -15,6 +15,11 @@ links:
   - name: whitepaper
     url: "https://ducato.io/files/DUCATO_Whitepaper_ENG_v0.8.3.pdf"
 name: DUCATO Protocol Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#002caa"
 ---
 
 The DUCATO Protocols aims at developing an optimized blockchain technology, providing user-centric services, expanding of network participants and developing credible algorithm and decentralized governance for network users’ profit.

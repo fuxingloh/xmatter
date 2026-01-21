@@ -20,6 +20,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UCZkhr0IkDHvbJSTwMGuN2Sg"
 name: XTRA Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1c1c2c"
 ---
 
 XTRA is a revolution of Loyalty Rewards & Cashback with blockchain technology.

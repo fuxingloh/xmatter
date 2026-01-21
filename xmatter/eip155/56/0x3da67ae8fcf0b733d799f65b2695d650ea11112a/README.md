@@ -5,6 +5,11 @@ links:
   - name: website
     url: "https://www.saint-token.com"
 name: SAINT Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#402c18"
 ---
 
 Saint is a decentralized deflationary auto-staking & yield farming protocol, owned by the community with a charitable focus based on social experimentation. Ownership renounced, liquidity burned! The community run this token with dev support.

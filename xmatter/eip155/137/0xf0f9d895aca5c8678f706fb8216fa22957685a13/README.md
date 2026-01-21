@@ -17,6 +17,11 @@ links:
   - name: blog
     url: "https://wearecultdao.medium.com/"
 name: Revolt 2 Earn
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f8f0f0"
 ---
 
 Revolt is CULT DAOs first ecosystem token, and has been built on the Polygon network with 0.4% taxation. RVLT seeks to support The Many individuals who are working towards the same goal of helping the CULT ecosystem.

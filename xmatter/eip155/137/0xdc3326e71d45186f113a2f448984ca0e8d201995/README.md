@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/xsgd"
 name: XSGD
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#144ce4"
 ---
 
 XSGD is the fully collateralized Singapore Dollar stablecoin, powered by open-source blockchain protocols.

@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/lendefi"
 name: Lendefi
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#090909"
 ---
 
 The Lendefi Protocol facilitates leveraged trading through secured lending, delivering confidence within the highly volatile cryptocurrency marketplace.

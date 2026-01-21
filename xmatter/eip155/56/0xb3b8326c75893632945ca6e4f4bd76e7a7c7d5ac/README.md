@@ -17,6 +17,11 @@ links:
   - name: facebook
     url: "https://facebook.com/BSCGIRL.CHAN/"
 name: Binance Smart Chain BOY CZ
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f1e6d8"
 ---
 
 Binance Smart Chain BOY CZ is a token of the same project as Binance Smart Chain Girl.

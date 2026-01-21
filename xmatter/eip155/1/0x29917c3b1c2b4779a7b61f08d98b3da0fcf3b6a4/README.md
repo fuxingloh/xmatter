@@ -9,6 +9,11 @@ links:
   - name: whitepaper
     url: "https://argenpeso.com/whitepaper.pdf"
 name: ArgenPeso
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#b9a15e"
 ---
 
 ArgenPeso is the Argentine digital cryptocurrency that seeks to give a new value to the Argentine peso.

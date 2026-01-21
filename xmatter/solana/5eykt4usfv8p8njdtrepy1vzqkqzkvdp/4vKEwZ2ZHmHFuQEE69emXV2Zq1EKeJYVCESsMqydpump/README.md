@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/bloomsperg-terminal/"
 name: Bloomsperg Terminal
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#70dac2"
 ---
 
 This is a meme coin project where an AI model, trained to be a wild and risk-taking crypto trader, powers a set of four AI agents

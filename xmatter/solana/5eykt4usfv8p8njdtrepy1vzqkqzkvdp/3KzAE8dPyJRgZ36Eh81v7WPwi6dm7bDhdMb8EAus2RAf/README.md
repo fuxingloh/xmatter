@@ -29,6 +29,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UCl98r2sL8dO058XWToApIJw"
 name: GoMining
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#7444ec"
 ---
 
 Gomining is an exchange token backed by a Top 10 global bitcoin mining project.

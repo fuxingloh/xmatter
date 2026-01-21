@@ -25,6 +25,11 @@ links:
   - name: medium
     url: "https://medium.com/@nftstyle"
 name: NFTStyle
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e4703d"
 ---
 
 Future Fashion is shaped by unstoppable nft technology. Nft-Style; It will be the first nft fashion stop where fashion icons, stylists, world brands and amateur artists will guide fashion. The future will now be felt much more closely.Who knows, maybe in the very near future your fashion design will become a unique icon in the world of Fortnite.

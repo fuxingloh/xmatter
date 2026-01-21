@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/LFDToken"
 name: LuckyFortuneDog
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dfc869"
 ---
 
 LFD is a community experiment conducted by a charity organization.

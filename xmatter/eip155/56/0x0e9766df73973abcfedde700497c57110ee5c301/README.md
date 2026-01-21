@@ -39,6 +39,11 @@ links:
   - name: github
     url: "https://github.com/HODL-org/contract"
 name: HODL
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#049bfc"
 ---
 
 HODL Token is the longest-serving, highest-paying reward token on the Binance Smart Chain (BSC). Simply hold $HODL and get BNB rewards and reflection within a deflationary ecosystem. HODL is - Passive Income Made Easy.

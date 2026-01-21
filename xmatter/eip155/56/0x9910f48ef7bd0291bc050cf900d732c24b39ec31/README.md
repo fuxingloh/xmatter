@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/mars-inu/"
 name: Mars Inu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ebd4b4"
 ---
 
 MARS INU is a decentralized cryptocurrency token built on Binance Smart Chain network. It was created with the community and investor in mind.

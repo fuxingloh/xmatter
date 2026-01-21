@@ -22,6 +22,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/MadagascarTIMETOKEN/"
 name: MADAGASCAR
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#242525"
 ---
 
 Buy some $TIME for our future generations. The planet is dying, and we're going to help. Planting 1,000,000 trees, whilst cleaning up our air and oceans and protecting wildlife, all whilst contributing to charities with the same drive and focus.

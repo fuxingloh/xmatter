@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/ethernity-chain/"
 name: Ethernity Chain
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#090624"
 ---
 
 What is Ethernity Chain? Ethernity is the groundbreaking authenticated NFT project which auctions verified artwork featuring the top artists and stars from music, film, sports and entertainment. Each of these digital artworks is represented as a non-fungible token (NFT). The pieces feature well-known public figures and a portion of all funds raised from the endeavor will be donated to charitable causes.

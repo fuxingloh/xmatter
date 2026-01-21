@@ -13,6 +13,11 @@ links:
   - name: telegram_news
     url: "https://t.me/kittyshibanews"
 name: Kitty Shiba
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d7c8c2"
 ---
 
 KittyShiba, a decentralized & unique way to earn. Running on BSC, Token REFLECTION earning with very intelligent coding, makes KittyShiba much powerful.

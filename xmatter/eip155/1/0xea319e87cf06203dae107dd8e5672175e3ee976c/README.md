@@ -17,6 +17,11 @@ links:
   - name: whitepaper
     url: "https://surf.finance/whitepaper.pdf"
 name: SURF Finance
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d1e7df"
 ---
 
 SURF.Finance is a financial experiment that aims to discover what happens when a transparent team fairly launches a governance token that is designed to reward long-term holders

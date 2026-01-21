@@ -23,6 +23,11 @@ links:
   - name: facebook
     url: "https://facebook.com/DRIVENprotocol"
 name: DVX
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#04042b"
 ---
 
 DRIVENx - Made by humans for humans

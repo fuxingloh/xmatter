@@ -19,6 +19,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/stable-1inch/"
 name: Stable 1inch
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c65a5e"
 ---
 
 Stable 1inch is the stablecoin created for the 1inch community. Backed by both a treasury of 1inch and collateral of USDC this ERC20 token can be redeemed for USDC at anytime and also provides a vote for governance of the 1inch treasury.

@@ -21,6 +21,11 @@ links:
   - name: medium
     url: "https://ignorefud.medium.com/"
 name: Ignore Fud
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0aac0c"
 ---
 
 A new kind of meme token that supports DeFi and Blockchain innovations

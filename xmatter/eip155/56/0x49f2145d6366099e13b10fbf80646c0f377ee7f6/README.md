@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/fc-porto/"
 name: FC Porto Fan Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c1a095"
 ---
 
 BEP-20 Utility token for FC Porto

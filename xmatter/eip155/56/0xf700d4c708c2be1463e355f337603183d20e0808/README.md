@@ -25,6 +25,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/outer-ring-mmo-gq/"
 name: Galactic Quadrant
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#39cabc"
 ---
 
 Galactic Quadrant is a utility token for the Outer Ring video game that allows making in-game and off-games purchases.

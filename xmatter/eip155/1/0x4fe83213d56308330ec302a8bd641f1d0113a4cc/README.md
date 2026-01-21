@@ -15,6 +15,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/nucypher/"
 name: NuCypher
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1860f0"
 ---
 
 NuCypher is a decentralized threshold cryptography network.

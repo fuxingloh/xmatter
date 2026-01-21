@@ -19,6 +19,11 @@ links:
   - name: forum
     url: "https://aircoin.community"
 name: AIR
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e8a642"
 ---
 
 AIR is to mock the madness of the cryptocurrency market. AIR is everywhere, after buying AirCoin you get nothing but AIR.

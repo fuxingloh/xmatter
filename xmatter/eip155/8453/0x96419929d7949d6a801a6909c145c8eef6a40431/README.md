@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/spectral/"
 name: Spectral Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#043c9b"
 ---
 
 Spectral is simplifying the creation and deployment of decentralized applications through autonomous Onchain Agents. Syntax, Spectral’s flagship product, translates natural language into Solidity code, enabling both novices and experts to build on the blockchain effortlessly. With a commitment to transparency and user empowerment, Spectral is shaping a future where anyone can participate in the blockchain revolution.

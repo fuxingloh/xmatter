@@ -27,6 +27,11 @@ links:
   - name: facebook
     url: "https://facebook.com/safu.net"
 name: SafuYield
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#099b99"
 ---
 
 SAFUYIELD is the native ecosystem token of the www.SAFU.net platform and utility for all its projects.

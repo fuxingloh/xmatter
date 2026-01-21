@@ -23,6 +23,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UCHartwkRUURf2Q7MlKOV84w"
 name: Biswap Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#147dee"
 ---
 
 The First DEX on BSC network with a three-type referral system

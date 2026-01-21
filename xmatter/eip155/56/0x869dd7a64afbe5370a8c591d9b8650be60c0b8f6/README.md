@@ -13,6 +13,11 @@ links:
   - name: telegram
     url: "https://t.me/FastMoonFinance"
 name: FastMoon
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#8f667c"
 ---
 
 FastMoon is extremely fast autonomous yield and liquidity generation protocol.

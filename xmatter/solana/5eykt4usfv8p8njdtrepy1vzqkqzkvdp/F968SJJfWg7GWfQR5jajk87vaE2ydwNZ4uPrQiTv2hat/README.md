@@ -7,6 +7,11 @@ links:
   - name: x
     url: "https://x.com/terminalca"
 name: "CA:ART"
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#050505"
 ---
 
 Welcome to the quantum nexus of $CAART - where digital art meets blockchain conspiracy.

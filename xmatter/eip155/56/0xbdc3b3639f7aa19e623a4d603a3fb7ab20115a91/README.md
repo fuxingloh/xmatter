@@ -13,6 +13,11 @@ links:
   - name: whitepaper
     url: "https://coinofchampions.com/whitepaper"
 name: Coin of Champions
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#daeb06"
 ---
 
 COC token was created to link blockchain and sport industry. The project aims to create a collectible NFT card game based on sports. COC brand would like to spread the values and the features that distinguish the brand and differentiate it from competitors. Sharing, community building, famous sports testimonials and the chance of saving: these are the concepts conveyed through the structure of the brand.

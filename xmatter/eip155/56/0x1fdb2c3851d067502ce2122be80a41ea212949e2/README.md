@@ -25,6 +25,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UCM3UyEcna3hk2m_lftbiXOA"
 name: Pige Inu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f3d3a3"
 ---
 
 PIGE INU is a fully decentralized and community driven project, our contract is fully renounced Liquidity pool burned or locked forever

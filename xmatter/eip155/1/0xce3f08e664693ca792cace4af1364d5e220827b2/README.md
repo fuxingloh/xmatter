@@ -21,6 +21,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/saitama-inu/"
 name: SAITAMA
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d3d0c9"
 ---
 
 Community Owned Decentralised Token

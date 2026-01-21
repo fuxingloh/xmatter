@@ -19,6 +19,11 @@ links:
   - name: whitepaper
     url: "https://www.getverse.com/verse-whitepaper.pdf"
 name: Verse
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0484fc"
 ---
 
 VERSE is Bitcoin.com's ecosystem token, providing rewards and utility to users of Bitcoin.com's products and services.

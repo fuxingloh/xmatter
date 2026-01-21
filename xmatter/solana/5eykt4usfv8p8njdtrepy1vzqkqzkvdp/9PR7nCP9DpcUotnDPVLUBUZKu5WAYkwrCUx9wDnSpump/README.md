@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/ban_comedian"
 name: Comedian
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#dbdbdb"
 ---
 
 The emergence of Comedian as a cryptocurrency taps into a unique blend of irony and commentary.

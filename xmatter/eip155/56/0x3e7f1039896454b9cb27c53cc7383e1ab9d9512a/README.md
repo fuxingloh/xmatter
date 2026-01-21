@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/metfi"
 name: MetFi
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#78f7d0"
 ---
 
 MetFi is a decentralized investment vehicle for the masses - giving everyday people early-stage access to some of the world’s most promising Web3, Metaverse, and AI startups, long before the public knows about them – all profits are shared with the MetFi community.

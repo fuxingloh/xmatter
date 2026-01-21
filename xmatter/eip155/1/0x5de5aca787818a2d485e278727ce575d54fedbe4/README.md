@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/gme-mascot/"
 name: GME MASCOT
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d7b7bc"
 ---
 
 $Buck is the official mascot token for the GME community.

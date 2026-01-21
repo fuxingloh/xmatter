@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/tezillafinance"
 name: TEZILLA
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#180807"
 ---
 
 Tezilla, this is the action game you have been waiting for!

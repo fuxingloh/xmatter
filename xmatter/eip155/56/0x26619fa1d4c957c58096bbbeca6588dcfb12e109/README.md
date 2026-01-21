@@ -14,6 +14,11 @@ links:
   - name: whitepaper
     url: "https://www.meta-time.org/whitepaper.pdf"
 name: TIME
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0735a0"
 ---
 
 TIME is a token that can be earned or used in a developed game for entertainment.

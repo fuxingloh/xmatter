@@ -11,6 +11,11 @@ links:
   - name: x
     url: "https://x.com/MetaHousebsc?s=09"
 name: MetaHouse
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e46c1c"
 ---
 
 Meta House is part of the meta world.

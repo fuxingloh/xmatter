@@ -20,6 +20,11 @@ links:
     url: >-
       https://bscscan.com/address/0x996c1bf72ec220289ae0edd3a8d77080642121a2#code
 name: DefiConnect
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d06800"
 ---
 
 Defi Connect aims to bring real-life and DeFi together by building applications of DeFi in digital marketing, healthcare, transportation, and logistics

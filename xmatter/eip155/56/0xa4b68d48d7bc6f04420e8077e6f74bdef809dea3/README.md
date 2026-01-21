@@ -15,6 +15,11 @@ links:
   - name: forum
     url: "https://anttalk.io"
 name: BugsCoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#070604"
 ---
 
 BugsCoin is a Web3-based investment education and simulated trading platform designed to help users learn trading skills risk-free while earning rewards.

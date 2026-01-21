@@ -27,6 +27,9 @@ links:
   - name: reddit
     url: "https://reddit.com/r/Coinerr_ERR"
 name: Coinerr
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 Eliminating online fraud by applying escrow system using smart contracts in Trustless methods where no 3rd party is needed in those unbreakable contracts.

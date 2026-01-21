@@ -15,6 +15,11 @@ links:
   - name: telegram
     url: "https://t.me/aavegotchi"
 name: Matic Aave interest bearing USDC
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#cbc3df"
 ---
 
 aTokens on Polygon are known as maTokens.

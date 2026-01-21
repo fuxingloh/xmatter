@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/everdome"
 name: Everdome
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#984b9b"
 ---
 
 Everdome will provide a destination for Metahero’s remarkable tech to live, interact and flourish. Taking Metahero from the gateway into the metaverse, together with Everdome, to a fully ubiquitous web3 experience - to the point when you take off your VR headset you won’t be able to tell what’s real and what’s not.

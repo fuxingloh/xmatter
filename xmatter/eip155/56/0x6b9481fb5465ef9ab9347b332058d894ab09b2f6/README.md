@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/dinoland"
 name: Dinoland Metaverse
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#3263e4"
 ---
 
 DNL is a transferable representation of attributed utility functions specified in the protocol/code of Dinoland, and which is designed to be used solely as an interoperable utility token thereon.

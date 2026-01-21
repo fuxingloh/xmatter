@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/ru/currencies/fetch/"
 name: Fetch
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1c2c44"
 ---
 
 Fetch.ai aims to be at the forefront of accelerating research and the deployment of emerging technologies such as blockchain and AI.

@@ -21,6 +21,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/civilization/"
 name: Civilization
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#476d88"
 ---
 
 The World's First 100% Decentralized Investment Fund (DIF)

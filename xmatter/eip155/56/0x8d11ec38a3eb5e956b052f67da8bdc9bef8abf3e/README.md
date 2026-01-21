@@ -19,6 +19,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/kira-network/"
 name: KIRA Network
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#8134d4"
 ---
 
 Maintain 100% liquidity of your capital, trade and use DeFi while simultaneously earning block and fee rewards by staking ANY digital asset

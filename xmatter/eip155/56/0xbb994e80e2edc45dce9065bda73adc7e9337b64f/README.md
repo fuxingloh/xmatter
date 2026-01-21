@@ -17,6 +17,11 @@ links:
   - name: facebook
     url: "https://facebook.com/only1token"
 name: Only 1 Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#100e1e"
 ---
 
 O1T is a single BEP20 token shared by its holders

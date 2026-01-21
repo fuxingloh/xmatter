@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/heeeheee"
 name: HeeeHeee
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#f5bc14"
 ---
 
 HEEHEE is a memecoin launched on the Solana blockchain, built around community engagement and represented by its fox mascot, “Woodford,” who is the face of HEEHEE’s animations and meme content. More than a token, HEEHEE aims to be a welcoming, safe space for everyone in the crypto community, particularly those impacted by scams or rug pulls.

@@ -23,6 +23,11 @@ links:
   - name: facebook
     url: "https://facebook.com/melontoken"
 name: $MLNX
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#047c72"
 ---
 
 MELONx - We can beat breast cancer. Together!

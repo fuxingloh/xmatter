@@ -17,6 +17,11 @@ links:
   - name: medium
     url: "https://medium.com/@hyperchainx"
 name: HyperChainX
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 HyperChain X is revolutionizing the gaming industry with its all-in-one platform specifically designed for gamers. Our platform offers a range of features including buy-in tournaments, 1 vs 1 high stake battles, and the ability for esport teams to create their own leagues. We also have a live streaming feature and an NFT marketplace/launchpad that is unrivaled in the industry.

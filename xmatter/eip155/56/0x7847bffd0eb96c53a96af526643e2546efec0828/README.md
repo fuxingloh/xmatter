@@ -17,6 +17,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/jetmax"
 name: JETMAX
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#b5cad9"
 ---
 
 JETMAX – A utility token powering an ecosystem for logistics and decentralized finance on BNB Chain.

@@ -15,6 +15,11 @@ links:
   - name: medium
     url: "https://medium.com/@Ukantoken"
 name: Ukan
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0d6bcb"
 ---
 
 UKAN token is the first of its kind token, driven by the community that empowers a nation during an immense humanitarian crisis. Nicknamed the SAVIOR, because we utilize blockchain technology for the better good, and bring a transparent project to the world that will help bootstrap the economy of Ukraine during and especially in the aftermath of the war.

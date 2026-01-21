@@ -15,6 +15,11 @@ links:
   - name: whitepaper
     url: "https://lafayettetabor.medium.com/deus-goes-coinbase-1d69f51e1b55"
 name: wCOINBASE-IOU
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 DEUS GOES COINBASE. From our next system update, you will be able to buy Coinbase Futures on DEUS Swap!

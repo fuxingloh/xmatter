@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/catwifbag"
 name: catwifbag
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#a39c79"
 ---
 
 The Dogwifhat owner’s cat.

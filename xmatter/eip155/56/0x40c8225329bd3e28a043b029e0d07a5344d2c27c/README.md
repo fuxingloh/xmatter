@@ -14,6 +14,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/ageofgods/"
 name: AgeOfGods
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#3a3e3e"
 ---
 
 AgeOfGods is an AFKArena inspired game that uses the fundamentals of the 6.6 million‼️ player game combining it with Token economy and Play-to-Earn.

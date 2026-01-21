@@ -19,6 +19,11 @@ links:
   - name: facebook
     url: "https://facebook.com/BNBCash"
 name: BNB Cash
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f4a929"
 ---
 
 BNB Cash is the native token of the BNB Fintech ecosystem

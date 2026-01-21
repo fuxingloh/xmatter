@@ -19,6 +19,11 @@ links:
   - name: github
     url: "https://github.com/InfinityRocket"
 name: Infinity Rocket Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#4858a0"
 ---
 
 Infinity Rocket is a multi-purpose platform that allows you to simplify the launch and promotion of any projects on the blockchain.

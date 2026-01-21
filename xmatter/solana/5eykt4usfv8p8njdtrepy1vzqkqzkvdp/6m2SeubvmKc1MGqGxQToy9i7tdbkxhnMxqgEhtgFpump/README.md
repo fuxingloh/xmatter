@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/the-baby-cheetah"
 name: The Baby Cheetah
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#7a655c"
 ---
 
 Meet the cutest baby cheetah on SOLANA

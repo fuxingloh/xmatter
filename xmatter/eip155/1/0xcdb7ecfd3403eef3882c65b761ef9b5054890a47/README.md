@@ -5,6 +5,11 @@ links:
   - name: website
     url: "https://hurify.co/"
 name: Hurify Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#5983a3"
 ---
 
 Hurify Inc. founded by Ex-Intel veterans, is an Ethereum based decentralized platform that facilitates IoT Developers to monetize their IoT hardware resources and services via Smart Contracts. Hurify is powered by Ethereum ERC20 standard HUR Tokens.

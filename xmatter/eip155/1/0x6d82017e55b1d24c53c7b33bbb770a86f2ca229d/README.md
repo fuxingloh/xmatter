@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/stable-fil"
 name: Stable FIL
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0488fc"
 ---
 
 Stable FIL is the stablecoin created for the Filecoin community. Backed by both a treasury of FIL and collateral of USDC this ERC20 token can be redeemed for USDC at anytime and also provides a vote for governance of the FIL treasury.

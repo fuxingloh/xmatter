@@ -17,6 +17,11 @@ links:
   - name: medium
     url: "https://medium.com/@bitgameverse"
 name: BIT GAME VERSE TOKEN
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c58f04"
 ---
 
 Bit Game Verse is the trending crypto channel which enables earning through different gaming channels. It is a peer to peer marketplace , where transactions take place directly between the crypto traders.

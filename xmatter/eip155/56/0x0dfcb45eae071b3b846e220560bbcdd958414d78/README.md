@@ -22,6 +22,11 @@ links:
   - name: github
     url: "https://github.com/liberofinancial/LiberoFinancial"
 name: Libero Financial Freedom (LIBERO)
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1f8786"
 ---
 
 Libero Finance is transforming DeFi with the Libero Autostaking Protocol (LAP) that delivers the industry’s fixed APY, compounding rewards every 30 minutes, and a simple buy-hold-earn system that grows Investors' portfolio in their wallet fast with fixed interest of 2.02% per day or 158,893.59% a year without having to do anything

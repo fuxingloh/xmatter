@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/BenqiFinance"
 name: BENQI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#042129"
 ---
 
 BENQI is a decentralized non-custodial liquidity market as well as a liquid staking protocol built on the high-speed Avalanche smart contract network.

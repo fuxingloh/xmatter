@@ -19,6 +19,11 @@ links:
   - name: medium
     url: "https://medium.com/@elfwallet"
 name: ELF wallet (ELF)
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1dbcdb"
 ---
 
 Multi-chain Wallet in WEB3.Multi-chain Wallet, Security First, Full Control by User.

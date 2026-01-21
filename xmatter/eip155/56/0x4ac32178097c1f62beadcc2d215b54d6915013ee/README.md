@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/coin-discovery"
 name: Coin Discovery Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#000000"
 ---
 
 $CODI is a decentralized, community-driven ecosystem backed by CoinDiscovery that is the most trusted cryptocurrency data authority, coin voting and listing platform. It is the third largest in terms of no. of tokens listed with over 6000 tokens. We get 30k-60k users daily on the platform

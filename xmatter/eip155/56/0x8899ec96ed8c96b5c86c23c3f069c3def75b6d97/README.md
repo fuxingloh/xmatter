@@ -20,6 +20,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/openfabric-ai/"
 name: Openfabric AI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#06183f"
 ---
 
 A planetary-scale network for building and connecting decentralized AI applications.

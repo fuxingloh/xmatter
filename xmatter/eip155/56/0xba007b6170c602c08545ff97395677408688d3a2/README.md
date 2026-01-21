@@ -19,6 +19,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/metaplanet"
 name: MetaPlanet
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#09080d"
 ---
 
 MetaPlanet is an Ultimate Defi + Gamefi Ecosystem. Its mission is to develop a full suite of professional defi applications and gamefi sector play to reward crypto investors and help them profit from the industry's growth. Metaplanet's platform gives customers access to the same types of institutional crypto tools used by the world's leading financial services provider and dozens of other well-known worldwide businesses. The benefits of these tools include timeline accuracy and a significant depth of crypto market data.

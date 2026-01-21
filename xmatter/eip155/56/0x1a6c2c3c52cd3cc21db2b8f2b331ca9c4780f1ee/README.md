@@ -5,6 +5,9 @@ links:
   - name: website
     url: "https://www.aerdrop.finance/"
 name: AERDROP
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 Old Contract, please see 0xc7ad2ce38f208eed77a368613c62062fce88f125

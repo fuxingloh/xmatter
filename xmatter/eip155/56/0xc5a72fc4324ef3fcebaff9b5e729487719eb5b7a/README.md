@@ -15,6 +15,11 @@ links:
   - name: whitepaper
     url: "https://thedogeworld.io/whitepaper.pdf"
 name: The Doge World
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1b2030"
 ---
 
 TheDogeWorld is a community based token with upcoming NFT marketplace.

@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/joecoinportal"
 name: Joe Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#977a2a"
 ---
 
 Joe Coin is a meme coin.

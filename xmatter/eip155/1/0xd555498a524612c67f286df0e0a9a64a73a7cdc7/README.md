@@ -11,6 +11,9 @@ links:
   - name: telegram
     url: "https://t.me/DeFrogs"
 name: DeFrogs
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 A collection of 10000 DeFrogs enabled by erc404, an experimental token standard on Ethereum. The 1st ERC404 PFP.

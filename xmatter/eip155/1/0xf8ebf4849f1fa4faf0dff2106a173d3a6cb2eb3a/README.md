@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/troll-new/"
 name: TROLL
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#161616"
 ---
 
 Your fave childhood meme reborn, 100% safe & pure fun. Get ready 2 troll on! Renounced contract, LP burned

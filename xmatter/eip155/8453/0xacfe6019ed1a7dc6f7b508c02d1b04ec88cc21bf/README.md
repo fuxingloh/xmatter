@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/venice-token/"
 name: Venice
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#11344d"
 ---
 
 The Venice token (VVV) is an access key for AI agents and developers to consume private, uncensored inference through the Venice API, without paying per request.

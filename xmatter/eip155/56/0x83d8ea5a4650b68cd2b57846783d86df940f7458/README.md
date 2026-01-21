@@ -32,6 +32,11 @@ links:
   - name: whitepaper
     url: "https://asset.humandataincome.com/docs/litepaper.pdf"
 name: HUDI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f4a204"
 ---
 
 HUDI is the first web3 data exchange protocol empowering people and organizations to enrich, trade and monetize their data.

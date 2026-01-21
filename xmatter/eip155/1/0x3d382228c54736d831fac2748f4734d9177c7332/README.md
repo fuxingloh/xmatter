@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/aniverse/"
 name: ANIVERSE
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0f4023"
 ---
 
 ANIVERSE project is an 'Online Theme Park' platform that combines actual businesses based on animation IP with blockchain technology. ANIVERSE allows anyone to access animation IP sources through our platform to create and sell IP products, contents.

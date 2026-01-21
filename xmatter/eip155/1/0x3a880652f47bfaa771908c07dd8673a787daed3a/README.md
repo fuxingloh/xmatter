@@ -19,6 +19,11 @@ links:
   - name: medium
     url: "https://medium.com/derivadex"
 name: DDX
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2d1684"
 ---
 
 Discover the future of trading with DerivaDEX, a community-governed derivatives exchange that unites performance and autonomy.

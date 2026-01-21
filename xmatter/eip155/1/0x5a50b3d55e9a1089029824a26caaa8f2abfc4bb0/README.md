@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/xuniifinance"
 name: xunii.finance
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c8d8eb"
 ---
 
 A Yield Farming Project.

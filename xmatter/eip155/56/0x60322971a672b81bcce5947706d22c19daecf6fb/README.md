@@ -17,6 +17,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/marsdao/"
 name: MarsDAO
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ff5b04"
 ---
 
 MarsDAO is a multifunctional decentralized platform designed for the use of crypto tools, which operates based on a DAO principle, on its native MDAO token.

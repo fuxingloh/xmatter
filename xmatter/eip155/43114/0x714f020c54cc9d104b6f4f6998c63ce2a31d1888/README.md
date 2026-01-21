@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/stepappchat"
 name: Step App
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#343434"
 ---
 
 Step App (FITFI) is a project based on the Step protocol for FitFi (Fitness Finance) where users and their metaverse avatars complete fitness quests and PvP (player versus player) challenges.

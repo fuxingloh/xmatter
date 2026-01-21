@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/jen-hsun-huang"
 name: Lil Bub
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#bed0bf"
 ---
 
 Lil Bub, was an American celebrity cat known for her unique physical appearance. Her photos were first posted to Tumblr in November 2011, before taking off after being featured on the social news website Reddit. Lil Bub on Facebook has over three million likes.

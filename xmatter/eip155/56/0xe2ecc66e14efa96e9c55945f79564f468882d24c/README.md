@@ -24,6 +24,11 @@ links:
   - name: whitepaper
     url: "https://distoken.xyz/distoken-whitepaper-2-0/"
 name: Disney
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#070706"
 ---
 
 DIS launched by Miningtw Technology Co., Ltd., It is a meme token of cryptocurrency, and mining. Tokens for interaction, rewards, gifts purposes, the token economic model 50% of 5 years of pledge mining, and users rewards per second according to the total amount of pledges , for fun and joy.

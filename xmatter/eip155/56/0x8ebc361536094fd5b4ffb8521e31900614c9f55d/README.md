@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/Konstellation"
 name: DARC Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#042b63"
 ---
 
 DARC is the main token for Konstellation network, a blockchain ecosystem for the global financial services industry.

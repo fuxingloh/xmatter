@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/simonscat/"
 name: Simons Cat
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#100a0a"
 ---
 
 Simon's Cat is a meme token aims for every trade that feeds the hungry cats around the world.

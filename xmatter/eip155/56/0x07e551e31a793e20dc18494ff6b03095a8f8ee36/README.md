@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/qmall/"
 name: Qmall Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d5522c"
 ---
 
 The QMALL token is a service token of the Qmall Exchange, the main application of which is to use it to pay a commission when using the exchange's services, including a trading commission, as well as to obtain additional privileges.

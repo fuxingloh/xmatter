@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/travala/"
 name: Travala.com
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#000000"
 ---
 
 Travala.com claims to be the leading blockchain-based travel booking platform.

@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/carv_official_global"
 name: CARV
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e5e2e2"
 ---
 
 The CARV Protocol is a modular data layer that facilitates data exchange and value distribution across gaming, AI and ∞. It encompasses end-to-end data flow processes, including data verification, identity authentication, storage, processing, model training, and value distribution.

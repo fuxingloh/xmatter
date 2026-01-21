@@ -15,6 +15,11 @@ links:
   - name: docs
     url: "https://docs.thugs.fi/"
 name: THUGS
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#646484"
 ---
 
 THUGS is a Binance Smart Chain DeFi Token with a burn mechanism, forever locked initial liquidity & the centerpiece of the Thugs Fi ecosystem (StreetSwap Exchange, Traphouse Yield Farm & NFT Marketplace).

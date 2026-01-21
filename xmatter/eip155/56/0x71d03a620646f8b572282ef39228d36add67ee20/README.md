@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/sekuya"
 name: Sekuya
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#38582a"
 ---
 
 The New Earth Multiverse - Sekuya exists to be a virtual world full of excitement for everyone. Borderless. Decentralized.

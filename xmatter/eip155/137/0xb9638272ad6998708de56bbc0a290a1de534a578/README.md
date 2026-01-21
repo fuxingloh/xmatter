@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/ru/currencies/everipedia/"
 name: Everipedia IQ
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ec5ea3"
 ---
 
 Everipedia IQ’s mission is to bring the world’s knowledge on-chain.

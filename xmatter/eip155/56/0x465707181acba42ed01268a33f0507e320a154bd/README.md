@@ -21,6 +21,11 @@ links:
   - name: whitepaper
     url: "https://walkwithstep.io/whitepaperstep.pdf"
 name: Step
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1a1c12"
 ---
 
 Track fitness activity, earn crypto, and be the best version of you. Same effort, more results.

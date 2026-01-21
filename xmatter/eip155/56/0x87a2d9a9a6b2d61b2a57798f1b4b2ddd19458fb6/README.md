@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/kdg_en"
 name: Kingdom Game 4.0
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d9be72"
 ---
 
 Kingdom Game 4.0 is a blockchain-based gaming platform that aims to provide a sustainable sharing economy model.

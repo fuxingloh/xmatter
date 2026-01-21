@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/biconomy-token/"
 name: Biconomy Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1362af"
 ---
 
 Biconomy is a Canadian digital currency exchange.

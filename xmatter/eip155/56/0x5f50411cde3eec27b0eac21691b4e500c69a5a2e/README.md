@@ -15,6 +15,11 @@ links:
   - name: facebook
     url: "https://facebook.com/profile.php?id=100074305448608"
 name: Singularity
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1c1c24"
 ---
 
 Singularity is a metaverse gaming world of universe exploration and adventure.

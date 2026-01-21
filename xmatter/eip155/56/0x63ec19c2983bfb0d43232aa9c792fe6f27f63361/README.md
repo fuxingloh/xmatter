@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/metaracaio"
 name: METARACA
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e18a99"
 ---
 
 Metarverse + Raca = MetaRaca, a collection of puppies in the form of NFTs. We're a dedicated team that want to build something for the crypto community in general and the $RACA lovers in particular.

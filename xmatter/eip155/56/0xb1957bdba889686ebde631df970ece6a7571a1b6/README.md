@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/defi-tiger/"
 name: Defi Tiger
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#201918"
 ---
 
 A Decentralized Meme Asset Driven By A Community Of Defi Enthusiasts With A Unique Love For Felines.

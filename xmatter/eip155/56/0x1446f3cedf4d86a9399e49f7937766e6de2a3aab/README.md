@@ -11,6 +11,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/9d3RrbNvTM"
 name: Krown
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#141c2b"
 ---
 
 Krown is a multi-chain yield aggregator.

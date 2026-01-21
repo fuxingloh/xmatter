@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/minu/"
 name: Minu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f79608"
 ---
 
 Minu is the first mining dog coin on Binance Smart Chain.

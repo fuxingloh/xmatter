@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/rexwifhat"
 name: rexwifhat
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#eac480"
 ---
 
 REXHAT - A long-lost meme coin has risen on Solana. The supreme king will rule the world again. $REXHAT

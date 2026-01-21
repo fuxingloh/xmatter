@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/CryptonlyFanz"
 name: CryptonlyFanz
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e3d6e9"
 ---
 
 Cryptonlyfanz is a decentralized social network dedicated to providing a platform that connects exclusive influencer content and their fanz like never before. Our decentralized platform is powered by COF Token; a cryptocurrency with embedded features that sustains a low-cost environment where content creators and subscribers can connect with little interference from a third party. To learn more please reference our “

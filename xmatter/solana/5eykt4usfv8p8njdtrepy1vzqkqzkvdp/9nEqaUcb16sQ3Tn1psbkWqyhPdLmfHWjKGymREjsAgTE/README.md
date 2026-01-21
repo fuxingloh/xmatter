@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/woof-token"
 name: WOOFENOMICS
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#1b1d1e"
 ---
 
 WOOF tested the idea of the effect of burning tokens by creating a massive total supply of 1 Trillion tokens.

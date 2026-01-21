@@ -27,6 +27,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/SingularityDAO/"
 name: DynBTC DynaSet
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0a0a0a"
 ---
 
 DynBTC gives users exposure to Bitcoin using long only strategies optimised by the Dynamic Asset Manager with less fees & expenses. Powered by SingularityDAO.ai.

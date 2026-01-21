@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/FlippedPepe"
 name: Flipped Pepe
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#396a2c"
 ---
 
 Flipped Pepe $EPEP. The most memeable memecoin in existence, FLIPPED.

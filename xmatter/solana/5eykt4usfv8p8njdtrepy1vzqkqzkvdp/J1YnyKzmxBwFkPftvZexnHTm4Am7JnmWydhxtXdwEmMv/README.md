@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/open-ticketing-ecosystem"
 name: Open Ecosystem Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#f4e9f8"
 ---
 
 Previously called GET Protocol, the OPEN Ticketing Ecosystem is the home of onchain ticketing, building state-of-the-art ticketing infrastructure & tools for integrators, event organizers, and artists to tap into new avenues for financing, access, and fostering fan relationships.

@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/iron-titanium-token/"
 name: IRON Titanium Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#141423"
 ---
 
 Multi-chain Partial-Collateralized Stablecoin

@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/carbon-coin"
 name: Carbon Coin - CNES
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#24b374"
 ---
 
 $CBC (Carbon Coin) is released on the basis of BINANCE SMART CHAIN platform and fully complies with BEP20\* standard.

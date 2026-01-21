@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/alphadoge/"
 name: AlphaDOGE
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#15130d"
 ---
 
 AlphaDOGE, the undisputed master of memecoins, embodies strength, confidence, and success.

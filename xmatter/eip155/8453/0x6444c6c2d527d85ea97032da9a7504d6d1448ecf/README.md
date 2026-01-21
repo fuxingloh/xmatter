@@ -13,6 +13,11 @@ links:
   - name: github
     url: "https://github.com/ratio1"
 name: Ratio1
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1c44f4"
 ---
 
 Ratio1 (R1) is the utility token of a decentralized AI compute network, enabling secure, private, and scalable AI execution with fair rewards for Node Providers.

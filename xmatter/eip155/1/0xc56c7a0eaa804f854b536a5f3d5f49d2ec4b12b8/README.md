@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/GMEonETH_"
 name: GameStop
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#937660"
 ---
 
 The $GME on Ethereum For The People

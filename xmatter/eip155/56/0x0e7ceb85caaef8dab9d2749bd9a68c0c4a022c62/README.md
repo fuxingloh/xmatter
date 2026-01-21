@@ -11,6 +11,11 @@ links:
   - name: facebook
     url: "https://facebook.com/korbitcoinofficial"
 name: KORBIT COIN
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#222229"
 ---
 
 KORBIT COIN is a multi blockchain wallet

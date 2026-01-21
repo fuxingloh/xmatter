@@ -27,6 +27,11 @@ links:
   - name: whitepaper
     url: "https://ankr.com/ankr-whitepaper-2.0.pdf"
 name: Ankr Staked AVAX
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fbeb1b"
 ---
 
 ankrAVAX represents your staked AVAX and provides liquidity for your staked position. All staking rewards are built into the token price, and ankrAVAX grows daily in value, but never in number.

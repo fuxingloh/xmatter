@@ -19,6 +19,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/pepemusk"
 name: Pepemusk
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#a39d69"
 ---
 
 PepeMusk is one of the members of the Elon Musk family, promoting the spirit of Musk PepeMusk main responsibility.

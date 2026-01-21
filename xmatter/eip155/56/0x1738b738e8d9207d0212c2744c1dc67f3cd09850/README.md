@@ -7,6 +7,11 @@ links:
   - name: x
     url: "https://x.com/answerme_onbsc"
 name: Answer me
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#745a52"
 ---
 
 Answer me

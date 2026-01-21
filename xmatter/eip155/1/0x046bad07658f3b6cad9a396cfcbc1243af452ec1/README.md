@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/archloot/"
 name: Archloot
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#68db93"
 ---
 
 ArchLoot, launched in 2022, is a UGC (user-generated content) NFT game built on BNB Chain, introducing loot-style composability and interactive NFTs. By leveraging innovative protocols like EIP 4985 and BEP 129, it allows for on-chain implementation of upgradeable characters and items, enhancing playability and supporting robust user-generated content.

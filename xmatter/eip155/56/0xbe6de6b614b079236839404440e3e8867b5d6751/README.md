@@ -20,6 +20,11 @@ links:
     url: >-
       https://bscscan.com/address/0xbe6de6b614b079236839404440e3e8867b5d6751#code
 name: Wolverine
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d3aa69"
 ---
 
 $WLV aims to protect wildlife through our signature token – with benefits to our investors such as minimum taxes, Reflections and consistent marketing to increase the value of $WLV.

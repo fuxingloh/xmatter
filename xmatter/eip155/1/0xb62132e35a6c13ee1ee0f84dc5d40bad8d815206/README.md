@@ -19,6 +19,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/nexo/"
 name: Nexo
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#6daded"
 ---
 
 NEXO (NEXO) is a compliant token that is backed by the underlying assets of Nexo’s loan portfolio.

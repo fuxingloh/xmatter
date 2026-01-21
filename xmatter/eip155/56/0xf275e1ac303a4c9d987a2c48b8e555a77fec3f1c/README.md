@@ -44,6 +44,11 @@ links:
     url: >-
       https://bscscan.com/address/0xf275e1AC303a4C9D987a2c48b8E555A77FeC3F1C#code
 name: DEEPSPACE
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#7f16d3"
 ---
 
 Welcome to the DEEPSPACE Metaverse! DEEPSPACE is a Play-to-Earn space multiverse exploration strategy game! Earn passive income from holding $DPS, trading NFTs, and taking risks as you explore DEEPSPACE with your fleet of ships! Prepare to explore, harvest, and fight your way through the DEEPSPACE universe!

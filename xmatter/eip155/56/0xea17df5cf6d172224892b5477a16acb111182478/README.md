@@ -29,4 +29,9 @@ links:
   - name: source_code
     url: "https://github.com/elizaos/eliza"
 name: elizaOS
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#050404"
 ---

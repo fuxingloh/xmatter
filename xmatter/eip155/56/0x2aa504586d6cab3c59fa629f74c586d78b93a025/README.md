@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/arenaplay"
 name: ArenaPlay
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f9bd28"
 ---
 
 ArenaPlay is committed to building on-chain infrastructure covering; gaming, quizzes, E-Sports, NFT, and the wider Meta-Universe.

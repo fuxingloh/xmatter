@@ -23,6 +23,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UCDLlAleEEmhc7pVdB5pZWFg"
 name: Volt Inu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#3c3c3c"
 ---
 
 Volt Inu is a hyper-deflationary token whose aim is to invest in multiple asset classes such as NFTs, nodes, altcoins, staking & farming of stablecoins. This investment diversity allows to mitigate the risk while taking advantage of the possible non-correlated growth of the trending assets.

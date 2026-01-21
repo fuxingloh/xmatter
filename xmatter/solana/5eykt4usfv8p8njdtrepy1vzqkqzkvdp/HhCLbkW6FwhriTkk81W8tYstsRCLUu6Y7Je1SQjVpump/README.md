@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/kikicat"
 name: KIKICat
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#f3cb38"
 ---
 
 Launched on December 22nd, 2024, $KIKI is a Solana-based cryptocurrency project that merges the popularity of digital IPs with blockchain technology

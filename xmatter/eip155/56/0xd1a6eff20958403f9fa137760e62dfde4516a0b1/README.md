@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/metamatrix/"
 name: MetaMatrix
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#08c5ac"
 ---
 
 MetaMatrix is a cryptocurrency built on Binance Smart Chain (BEP20). MetaMatrix is also a community NFT Marketplace connected with an NFT Launchpad platform.

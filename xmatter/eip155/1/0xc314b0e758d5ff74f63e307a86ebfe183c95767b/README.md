@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/adappter-token/"
 name: Adappter Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#4169e3"
 ---
 
 Adappter creates ‘the Pleasant World’ connected by a Blockchain where users, partners, and everyone together improve value based on the spirit of fairness, sharing, and trust.

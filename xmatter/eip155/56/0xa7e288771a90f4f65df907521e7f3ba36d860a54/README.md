@@ -22,6 +22,11 @@ links:
   - name: youtube
     url: "https://youtube.com/watch?v=SB9TB3W_LBA"
 name: BTC GAME
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c5aa61"
 ---
 
 Btc Game is a blockchain-based community driven social games experience that pays dividends to the players. The platform is filled with reward systems to give players many ways to win and earn over time.

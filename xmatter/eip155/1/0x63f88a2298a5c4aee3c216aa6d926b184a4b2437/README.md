@@ -21,6 +21,11 @@ links:
   - name: whitepaper
     url: "https://gamecredits.org/wp-content/uploads/2020/04/GC_whitepaper.pdf"
 name: GAME Credits
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#35a845"
 ---
 
 The next-generation blockchain platform for large-scale online games and social apps. GAME Credits is a platform eSports solution for true digital item ownership - Blockchain for every game and every gamer - empower your players and deliver what they want - true ownership, digital security and boundless possibilities for fun.

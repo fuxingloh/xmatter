@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/huobi-token/"
 name: Huobi Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2aaee3"
 ---
 
 Huobi Token (HT) is an exchange based token and native currency of the Huobi crypto exchange.

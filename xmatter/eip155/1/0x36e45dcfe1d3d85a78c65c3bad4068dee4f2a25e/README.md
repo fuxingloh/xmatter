@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/percy_cto"
 name: TRRUE
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#041423"
 ---
 
 Trrue is a pioneering blockchain ecosystem designed to empower impact-driven investments through cutting-edge technology and compliance-focused innovation.

@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/robin-rug"
 name: Robin Rug
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#e99a34"
 ---
 
 Robin Rug: The meme coin with a mission! Guarding your gains with stealthy bots 🤖 and letting you bet against the rug pulls.

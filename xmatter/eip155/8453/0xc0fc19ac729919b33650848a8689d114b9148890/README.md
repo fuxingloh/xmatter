@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/biopassport-token/"
 name: Crypto Jesus Trump
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#342318"
 ---
 
 Crypto Jesus Trump is a meme and a cultural phenomenon that has emerged in the cryptocurrency community.

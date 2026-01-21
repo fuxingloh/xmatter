@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/okb/"
 name: OKB
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2965ec"
 ---
 
 OKB is a global utility token issued by OK Blockchain foundation.

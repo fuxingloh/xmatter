@@ -21,6 +21,11 @@ links:
   - name: reddit
     url: "https://reddit.com/user/XP_network/"
 name: XP.network
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#242434"
 ---
 
 XP.network is the first blockchain-agnostic NFT ecosystem

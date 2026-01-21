@@ -21,6 +21,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/polkamonster"
 name: PolkaMonster
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e19c40"
 ---
 
 PolkaMonster is the fighting game on the Binance Smart Chain. PolkaMonster are sophisticated digital collections created using Blockchain technology

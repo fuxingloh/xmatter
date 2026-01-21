@@ -13,6 +13,11 @@ links:
   - name: telegram
     url: "https://t.me/vault_defi"
 name: SafeVault
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#b1975e"
 ---
 
 SafeVault is the first 25.65% auto-reimbursing, BUSD rewarding token. It's Hyper-Deflationary & Self-Sustaining. The Vault team is proud to bring an unprecedented vision to the DeFi space.

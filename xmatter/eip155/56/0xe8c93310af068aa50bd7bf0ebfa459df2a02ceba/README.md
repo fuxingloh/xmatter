@@ -24,6 +24,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/HoneyFarm_Official/"
 name: HoneyMoon
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fbf4c5"
 ---
 
 MOON is a native token of HoneyFarm Layer 3 - HoneyMoon

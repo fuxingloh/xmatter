@@ -19,6 +19,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/tamadoge"
 name: Tamadoge
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f9ce0b"
 ---
 
 The Tamadoge Token ($TAMA) is the native token of the tamaverse. You’ll be able to use it to play Tamadoge games, earn rewards and buy special items from the tamadoge pet store.

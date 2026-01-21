@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/community-doge-coin/"
 name: Community Doge Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ee9025"
 ---
 
 CCDOGE is an auto-farming, auto-deflation, auto-market-maker token based on BSC network.

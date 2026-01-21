@@ -22,6 +22,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/quant-network/"
 name: Quant
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2ab6b6"
 ---
 
 The Quant Network team developed Quant as a cryptocurrency token based on the Ethereum blockchain. The solutions offered by Quant include Overledger OS and GoVerify.

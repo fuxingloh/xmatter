@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/trumpmeme-net/"
 name: TRUMP MEME
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#60aad8"
 ---
 
 A meme coin blending Trump’s persona with viral humor, empowering a fun and engaged crypto community.

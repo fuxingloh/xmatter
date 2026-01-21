@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/ru/currencies/disciplina/"
 name: DISCIPLINA
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#8ae0bf"
 ---
 
 The first blockchain to create verified personal profiles based on academic and professional achievements.

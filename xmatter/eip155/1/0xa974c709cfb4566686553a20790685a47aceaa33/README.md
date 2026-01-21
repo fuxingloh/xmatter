@@ -17,6 +17,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/mixin"
 name: Mixin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1bc4fc"
 ---
 
 Mixin Network is a privacy layer for other blockchains.

@@ -23,6 +23,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/mybricks"
 name: BRICKS Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f87058"
 ---
 
 BRICKS is a token issued by MyBricks aiming to make property investment accessible for everyone.

@@ -13,6 +13,11 @@ links:
   - name: whitepaper
     url: "https://ethlax.io/whitepaper.pdf"
 name: ETHLAX
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f47c34"
 ---
 
 Transforming Businesses with Artificial Intelligence. A few years ago technology that could learn and solve problems on its own only found on the pages of science fiction. Nowadays, Ethlax with these advanced capabilities is surfacing all around us, and represents the latest in a series of rapid development. AI (AI) is changing our lifestyle and empowering machines to perform things that people used to think humans were the only ones capable of doing

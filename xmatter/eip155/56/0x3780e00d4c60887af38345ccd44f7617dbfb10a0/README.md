@@ -17,6 +17,11 @@ links:
   - name: facebook
     url: "https://facebook.com/DOGECOIN2/"
 name: Dogecoin 2.0
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#252426"
 ---
 
 Dogecoin 2.0 is a DEFI token on the BSC network. Born out of the original Dogecoin community.

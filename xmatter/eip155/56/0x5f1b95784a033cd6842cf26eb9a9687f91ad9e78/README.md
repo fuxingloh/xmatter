@@ -22,6 +22,11 @@ links:
     url: >-
       https://bscscan.com/address/0x5f1b95784a033cd6842cf26eb9a9687f91ad9e78#code
 name: CAKE BANK
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#7bc4cd"
 ---
 
 The CAKEBANK protocol is a community inspired DeFi experiment built on Binance. every buy/sell is taken and redistributed to all holders. Hold CAKEBANK tokens, earn CAKE.

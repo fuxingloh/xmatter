@@ -11,6 +11,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/adapad"
 name: ADAPad.io
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0433ac"
 ---
 
 ADAPad is launchpad

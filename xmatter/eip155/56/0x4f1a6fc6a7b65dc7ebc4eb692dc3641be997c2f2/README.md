@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/santa-coin"
 name: Santa Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ecb546"
 ---
 
 HYPER DEFLATIONARY TOKEN WITH REFLECTIONS IN BUSD. Santa Came early bearing gifts…the gift that keeps on giving!

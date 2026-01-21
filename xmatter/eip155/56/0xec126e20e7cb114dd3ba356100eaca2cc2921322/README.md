@@ -11,6 +11,11 @@ links:
   - name: x
     url: "https://x.com/solarenergy2021"
 name: Solar Energy
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0b0a08"
 ---
 
 Solar Energy ($SEG) is a deflationary BEP20 token from Binance Smart Chain

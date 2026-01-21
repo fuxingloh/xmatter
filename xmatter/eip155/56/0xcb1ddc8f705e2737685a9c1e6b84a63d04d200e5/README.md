@@ -17,6 +17,11 @@ links:
   - name: facebook
     url: "https://facebook.com/groups/391197236447689"
 name: DecentralizedUnited
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Decentralized United aims to unite the Defi space with its unique utilities and games, which makes it a one stop shop with our Trade to Earn Smart Swap, Anon Bridge and Root Layer Yielding utilities.

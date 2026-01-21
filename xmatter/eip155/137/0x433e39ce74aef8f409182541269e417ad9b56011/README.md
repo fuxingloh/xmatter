@@ -15,6 +15,11 @@ links:
   - name: whitepaper
     url: "https://flickertechnology.com/flicker/uploads/whitepaper.pdf"
 name: FlickerPro
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f9435b"
 ---
 
 FlickerPro where we introduce an innovative crypto token designed to revolutionize finance, real estate, e-commerce, and the traveling & hospitality sectors. offering high-speed transactions and low fees. This whitepaper outlines the key aspects of FlickerPro including its token overview, project details, future plans, staking program, tokenomics, roadmap, and the profiles of its creators.

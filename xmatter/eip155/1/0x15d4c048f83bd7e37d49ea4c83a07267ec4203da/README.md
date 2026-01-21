@@ -18,6 +18,9 @@ links:
   - name: reddit
     url: "https://reddit.com/r/GoGalaGames"
 name: Gala
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 GALA is the utility token powering the Gala Games ecosystem.

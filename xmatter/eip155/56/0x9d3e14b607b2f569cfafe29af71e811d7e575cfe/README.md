@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/flokibonk"
 name: FlokiBonk
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#b98a5d"
 ---
 
 FlokiBonk is a meme token on BSC, created to support and unite meme creators. FlokiBonk token has built-in automatic yield generation properties. 10% tax on each transaction split evenly to provide reflections to holders and increase the price floor through LP Acquisition

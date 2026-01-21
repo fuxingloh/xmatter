@@ -15,6 +15,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/elan/"
 name: Elan
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Elan Future is a clean-tech Research & Development company located in Canada, leading the way toward affordable and reliable electricity through decentralized energy systems.

@@ -13,6 +13,11 @@ links:
   - name: telegram
     url: "https://t.me/starfishos"
 name: Starfish OS
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2277ee"
 ---
 
 Starfish OS is a starfish-style institution consensus collaboration system.

@@ -11,6 +11,11 @@ links:
   - name: x
     url: "https://x.com/GuildFiGlobal"
 name: GuildFi
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040936"
 ---
 
 GuildFi aspires to create an interconnected ecosystem of games, NFTs, and communities, to maximize players' benefits and enable interoperability across the metaverse.

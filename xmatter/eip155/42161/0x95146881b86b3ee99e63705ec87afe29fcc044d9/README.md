@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/vertex-protocol/"
 name: Vertex
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c8a8ed"
 ---
 
 Vertex is a cross-margined decentralized exchange (DEX) protocol offering spot, perpetuals, and an integrated money market bundled into one vertically integrated application on Arbitrum.

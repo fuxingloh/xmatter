@@ -11,6 +11,11 @@ links:
   - name: whitepaper
     url: "https://arenatwo.com/en/whitepaper"
 name: Arena Two
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f3fb3c"
 ---
 
 Arena Two is the world’s first Web3 live sports ecosystem, where real-world tournaments meet crypto. Fans don’t just watch - they vote on real match decisions, back athlete-led teams, and earn rewards through memberships, NFTs, and the $ATWO token.

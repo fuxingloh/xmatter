@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/minidoge"
 name: Minidoge
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#fab22a"
 ---
 
 Minidoge carries on the spirit of Doge

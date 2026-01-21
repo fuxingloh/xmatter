@@ -15,6 +15,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/titano/"
 name: Titano
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#101624"
 ---
 
 Titano Finance is transforming DeFi with the Titano Autostaking Protocol (TAP) that delivers the industry’s highest fixed APY, rebasing rewards every 30 minutes, and a simple buy-hold-earn system that grows your portfolio in your wallet, fast

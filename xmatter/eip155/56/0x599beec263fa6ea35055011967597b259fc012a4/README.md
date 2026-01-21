@@ -19,6 +19,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/FoxGirl/"
 name: FoxGirl
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#eda863"
 ---
 
 The FoxGirl contract is simple but powerful in helping FoxGirl grow with great portion of the 10% buy/sell tax received going straight to marketing and further advanced of the foxgirl.com platform.

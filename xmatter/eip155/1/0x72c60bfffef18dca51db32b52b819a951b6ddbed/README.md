@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/shido-2/"
 name: Shido
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040405"
 ---
 
 Shido is an infinitely scalable Layer 1 in the interoperable Cosmos, powered by Tendermint Consensus, EVM and WebAssembly.

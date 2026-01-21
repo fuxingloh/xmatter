@@ -17,6 +17,11 @@ links:
   - name: docs
     url: "https://docs.unicrypt.network/"
 name: UniCrypt
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c2fbd8"
 ---
 
 UNCX is the governance token of the UniCrypt platform.

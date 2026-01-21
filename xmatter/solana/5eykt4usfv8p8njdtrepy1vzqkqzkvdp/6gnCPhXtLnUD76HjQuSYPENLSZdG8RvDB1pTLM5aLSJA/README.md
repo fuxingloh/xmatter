@@ -19,6 +19,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/basket"
 name: Basket
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#3c4c6f"
 ---
 
 BSKT tracks the top assets across the crypto ecosystem, eliminating the need to track and analyse individual coins

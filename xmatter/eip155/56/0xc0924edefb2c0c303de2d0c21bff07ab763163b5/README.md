@@ -15,6 +15,11 @@ links:
   - name: facebook
     url: "https://facebook.com/Steam-Exchange-142284624637992/"
 name: Steam Exchange
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#342408"
 ---
 
 Canada's first Centralized and Decentralied Exchange

@@ -13,6 +13,11 @@ links:
   - name: github
     url: "https://github.com/Sports2K75"
 name: Sports 2K75
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Sports 2K75 is a Web-3 based Sport-Fi Metaverse, combined with NFTs, De-Fi and gaming platform, users stake sports matches like NBA, Soccer, Esports with our S2E gaming platform.

@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/coinalpha"
 name: CoinAlpha
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fa965a"
 ---
 
 CoinAlpha is community based coin listing and voting platform.

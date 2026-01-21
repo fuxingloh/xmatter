@@ -15,6 +15,11 @@ links:
   - name: whitepaper
     url: "https://docs.unizen.io"
 name: Unizen
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e1e2c0"
 ---
 
 Seamless omni-chain enabled swapping with industry leading rates and access to millions of digital assets, from the moment of their inception.

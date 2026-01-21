@@ -20,6 +20,11 @@ links:
     url: >-
       https://bscscan.com/address/0x6c43751fef27c956f7e75d5c345a65df1465f7e0#code#L1
 name: CR7 Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#b170c3"
 ---
 
 CR7 Token is a token built for the next generation of fan engagement and the digital assets that power it!

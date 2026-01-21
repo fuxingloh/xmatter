@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/access-protocol/"
 name: Access Protocol
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#6493fa"
 ---
 
 Access Protocol offers a new way for digital media publications and content creators to monetize their work. Instead of traditional subscription payments, users stake the ACS token to receive access to premium digital content.

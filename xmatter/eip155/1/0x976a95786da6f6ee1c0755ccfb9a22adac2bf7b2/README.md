@@ -27,6 +27,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/SingularityDAO/"
 name: DynDYDX DynaSet
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#131312"
 ---
 
 Thanks to this innovative DynaSet, the DAM can use dYdX derivative solutions to hedge, short and apply leverage to the market. Powered by SingularityDAO.ai.

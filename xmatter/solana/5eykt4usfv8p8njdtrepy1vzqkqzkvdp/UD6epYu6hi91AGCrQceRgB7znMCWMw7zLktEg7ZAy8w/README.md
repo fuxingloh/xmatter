@@ -5,6 +5,9 @@ links:
   - name: website
     url: "https://solscan.io/token/UD6epYu6hi91AGCrQceRgB7znMCWMw7zLktEg7ZAy8w"
 name: Fake XLM
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
 ---
 
 Fake XLM

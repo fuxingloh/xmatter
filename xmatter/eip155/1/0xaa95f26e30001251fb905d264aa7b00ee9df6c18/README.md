@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/kendu-inu"
 name: Kendu Inu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1b1312"
 ---
 
 Uniting the six native Japanese dog breeds. Kendu is the keeper of peace, the preserver of life, and the protector of unity. Join the pack!

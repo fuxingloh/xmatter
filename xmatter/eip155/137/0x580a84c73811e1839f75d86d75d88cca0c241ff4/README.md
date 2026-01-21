@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://0xlaozi.medium.com/"
 name: Qi Dao
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#16151c"
 ---
 
 Qi (pronounced CHEE) is the governance token of the QiDao Protocol. It allows those who hold it to vote on changes to the QiDao Protocol.

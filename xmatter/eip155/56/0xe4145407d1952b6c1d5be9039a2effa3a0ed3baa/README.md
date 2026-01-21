@@ -15,6 +15,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/AnnexFinance/"
 name: Annex BTC
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0c213c"
 ---
 
 Money Markets. A Decentralized Marketplace for Lenders and Borrowers

@@ -7,6 +7,11 @@ links:
   - name: website
     url: "https://pump.fun/coin/FWAr6oWa6CHg6WUcXu8CqkmsdbhtEqL8t31QTonppump"
 name: PVS
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#984968"
 ---
 
 PVS is the utility token of the Paraverse ecosystem, primarily used for paying for rendering services, receiving airdrop rewards, accessing 3D application experiences, and trading or exchanging on exchanges.

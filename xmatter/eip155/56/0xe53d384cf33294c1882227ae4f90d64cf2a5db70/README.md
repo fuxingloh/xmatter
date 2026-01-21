@@ -13,6 +13,11 @@ links:
   - name: telegram
     url: "https://t.me/ocicatcoin"
 name: Ocicat
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#060505"
 ---
 
 Ocicat is a community-driven crypto project with DAO governance and DeFi utility.

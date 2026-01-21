@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/twurtle-the-turtle"
 name: twurtle the turtle
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#243660"
 ---
 
 The world is supported on the back of a baby twurtle ◡̈.

@@ -13,6 +13,11 @@ links:
   - name: github
     url: "https://github.com/b3-fun"
 name: B3
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#346cec"
 ---
 
 B3 is a layer 3 gaming ecosystem. We believe the future of gaming is open, connected, and shaped by the players themselves

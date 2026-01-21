@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/architex"
 name: Architex
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Architex leverages decentralized ASIC & GPU hardware to enhance blockchain and AI networks, including Bitcoin, Bittensor, and Morpheus.

@@ -17,6 +17,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/maskdoge"
 name: MaskDoge Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dc8c26"
 ---
 
 MaskDoge is a deflationary, liquidity auto-growing and community-driven DeFi token. It is featured with anti-rugpull and anti-whale mechanisms. It also has a charity wallet which will be used to support charities around the globe.

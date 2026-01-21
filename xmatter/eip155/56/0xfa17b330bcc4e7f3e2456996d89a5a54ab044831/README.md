@@ -21,6 +21,11 @@ links:
   - name: facebook
     url: "https://facebook.com/cardence.io"
 name: Cardence
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#62a5b7"
 ---
 
 Cardence is a launchpad for new projects on Cardano platform creating a trustless fund raising ecosystem for carefully vetted Cardano projects.

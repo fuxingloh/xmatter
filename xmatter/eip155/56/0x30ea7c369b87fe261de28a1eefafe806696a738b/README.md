@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/doxxed"
 name: DOXXED
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 DOXXED is a Binance Smart Chain Startup with a unique ecosystem of multiple utilities & use case, reflection to holders, revenue share and buybacks.

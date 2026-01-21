@@ -21,6 +21,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/bemfoundation"
 name: BemChain
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - trc20
+icon: icon.png
+color: "#12df84"
 ---
 
 The overall purpose of the BEM Foundation is to bridge the gap between Network Marketing and Blockchain The Bemchain suite is one of the ICO projects of the BEM Foundation, which sells BCN tokens.

@@ -19,6 +19,11 @@ links:
   - name: whitepaper
     url: "https://dalitoken.io/docs/whitepaper.pdf"
 name: Dali
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ec3c4c"
 ---
 
 Dali has three projects. DaliNFT, DaliSwap and DaliGames. First one is DaliNFT. DaliNFT is the next generation NFT Marketplace to facilitate working with NFTs. It helps change the artworks to on-chain artworks, injecting new value to classical artworks. DaliNFT also connects celebrities and their fans in a special project, where celebrities present their NFTs to millions of fans in a user-friendly environment, and fans can have mementos of their favorite celebrities.

@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/angle/"
 name: ANGLE
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#98b1fa"
 ---
 
 Angle is an over-collateralized, decentralized and capital-efficient stablecoin protocol.

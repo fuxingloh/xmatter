@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/grok-ai-agent/"
 name: Grok AI Agent
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#786872"
 ---
 
 Grok AI Agent is a groundbreaking artificial intelligence technology developed by a company led by Elon Musk, designed to equip AI systems with deep learning and cognitive reasoning capabilities that go beyond traditional models

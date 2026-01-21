@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/SonneFin"
 name: Sonne
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f48c5d"
 ---
 
 Sonne Finance is the first native decentralized lending protocol for individuals, institutions and protocols to access financial services on Optimism. Users can deposit their assets, use them as collateral and borrow against them.

@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/orbs_network"
 name: Orbs
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#738de5"
 ---
 
 Orbs is a blockchain infrastructure-as-a-service built for large scale consumer applications to meet their business and technological requirements.

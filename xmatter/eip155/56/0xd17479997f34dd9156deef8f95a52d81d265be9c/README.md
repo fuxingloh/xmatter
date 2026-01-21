@@ -11,6 +11,11 @@ links:
   - name: whitepaper
     url: "https://usdd.io/USDD-en.pdf"
 name: Decentralized USDOLD
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#246c5c"
 ---
 
 USDD is a fully decentralized algorithmic stablecoin

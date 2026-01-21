@@ -17,6 +17,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/doge-raca/"
 name: Doge Raca
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ecd44c"
 ---
 
 DOCA is the BEST MEMECOIN. Unique features to shill to the MARS: Memecoin - DeFi - GameFi - Metaverse

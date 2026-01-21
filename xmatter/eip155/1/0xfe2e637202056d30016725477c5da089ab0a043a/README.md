@@ -32,6 +32,11 @@ links:
     url: >-
       https://github.com/stakewise/contracts/blob/master/contracts/tokens/StakedEthToken.sol
 name: StakeWise sETH2
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#6bab63"
 ---
 
 sETH2 is a token that represents staked ether in StakeWise.

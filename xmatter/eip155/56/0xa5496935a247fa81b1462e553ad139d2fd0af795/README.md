@@ -25,6 +25,11 @@ links:
   - name: facebook
     url: "https://facebook.com/Flag-Network-105491488596621"
 name: Flag Network
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ecbc1c"
 ---
 
 FLAG - a decentralized blockchain network of the world-scale for NFT, Gamfi, Metaverse, Web3 applications.

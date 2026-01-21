@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://medium.com/@SleepySlothFinance"
 name: Sleepy Sloth
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ba6226"
 ---
 
 Sleepy Sloth, frictionless yield and NFT Auction place.

@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/edgenetwork"
 name: Edge
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0c8f47"
 ---
 
 Edge is the infrastructure of Web3. A peer-to-peer network, powered by blockchain technology and built using the spare capacity all around us.

@@ -15,6 +15,11 @@ links:
   - name: whitepaper
     url: "https://peculium.io/white-paper"
 name: Peculium
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2404bc"
 ---
 
 PECULIUM revolutionises savings management by deploying immutable Smart-Contracts over the Ethereum blockchain. These smart contracts provide a trust-less way of achieving transparent, decentralised, and infallible contractual agreements.

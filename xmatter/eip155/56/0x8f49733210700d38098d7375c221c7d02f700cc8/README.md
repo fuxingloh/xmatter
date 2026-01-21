@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/pallapay"
 name: Pallapay
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#050d2d"
 ---
 
 Pallapay is the only payments solution in UAE which allows businesses to accept, process and disburse payments with its product suite.

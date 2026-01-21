@@ -5,6 +5,11 @@ links:
   - name: website
     url: "http://zipper.io/"
 name: Zipper
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#dedede"
 ---
 
 Zipper is a decentralized value transfer network that enables point to point Message communication, Transaction Transfer and Transaction Settlement across multiple blockchain networks among different financial institutions. Zipper enables and empowers rich and comprehensive blockchain-based services for global financial institutions.

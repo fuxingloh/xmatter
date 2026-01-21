@@ -11,6 +11,11 @@ links:
   - name: x
     url: "https://x.com/TorgTogether"
 name: TORG
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f9a518"
 ---
 
 A sustainable, completely decentralized, and utility-focused cryptocurrency, aimed at global human development.

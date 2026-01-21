@@ -15,6 +15,11 @@ links:
   - name: telegram
     url: "https://t.me/routerprotocol"
 name: Route
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ec4c58"
 ---
 
 Router Protocol is a crosschain-liquidity aggregator platform that was built to seamlessly provide bridging infrastructure between current and emerging Layer 1 and Layer 2 blockchain solutions.

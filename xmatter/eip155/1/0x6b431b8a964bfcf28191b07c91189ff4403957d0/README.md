@@ -7,6 +7,11 @@ links:
   - name: x
     url: "https://x.com/corgiaiclub"
 name: CorgiAI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#faf5ea"
 ---
 
 $CORGIAI is the core token used within the CorgiAI ecosystem.

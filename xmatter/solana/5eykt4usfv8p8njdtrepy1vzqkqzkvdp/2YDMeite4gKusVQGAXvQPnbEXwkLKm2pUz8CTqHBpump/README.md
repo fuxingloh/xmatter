@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/museum-of-memes"
 name: Museum Of Memes
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#040404"
 ---
 
 MOM tokens can be traded on decentralized exchanges and centralized crypto exchanges

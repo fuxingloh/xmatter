@@ -20,6 +20,11 @@ links:
     url: >-
       https://coinmarketcap.com/dexscan/bsc/0xf931442e35a0b3fe29cf4d9844f281bdfb51718d/
 name: Monetas
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fa9b39"
 ---
 
 Monetas Global is a leading player in the rapidly growing world of gaming. With a focus on gaming, our platform combines the excitement of play-to-earn elements with the unique ownership and collectability of NFTs

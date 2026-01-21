@@ -25,6 +25,11 @@ links:
   - name: whitepaper
     url: "https://saito.io/saito-whitepaper.pdf"
 name: Saito
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f41c3c"
 ---
 
 Saito is a massively scaling layer one blockchain for application developers.

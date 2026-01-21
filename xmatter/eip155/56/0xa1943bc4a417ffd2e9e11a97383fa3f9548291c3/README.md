@@ -20,6 +20,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/api-inu/"
 name: API Inu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2fa9dc"
 ---
 
 API Inu provide a traditional API service to smart contracts in a decentralized way.

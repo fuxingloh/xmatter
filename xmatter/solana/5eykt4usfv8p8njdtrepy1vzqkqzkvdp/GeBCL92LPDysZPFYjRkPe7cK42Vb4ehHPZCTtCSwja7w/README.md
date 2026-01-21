@@ -7,6 +7,11 @@ links:
   - name: x
     url: "https://x.com/BaoBaoPandaMeme"
 name: BaoBao
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#58c623"
 ---
 
 In a world of sluggish markets and boring memes

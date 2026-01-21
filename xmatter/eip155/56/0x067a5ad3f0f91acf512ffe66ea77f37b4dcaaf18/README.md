@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://wynautmoney.medium.com/"
 name: Wynaut Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#d0f1f4"
 ---
 
 Just like Wynaut, this token has the ability to reflect any token it receives back to the suppliers of its token.

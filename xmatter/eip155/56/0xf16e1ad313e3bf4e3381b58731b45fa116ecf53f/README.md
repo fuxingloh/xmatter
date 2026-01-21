@@ -9,6 +9,9 @@ links:
   - name: x
     url: "https://x.com/Luckypigtoken"
 name: LuckyPig
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 Luckypig, the Bsc token we all need right now! Let's bring the old Bsc era back with a pinch of hot features to avoid dumps. Luckypig will bring NFT, lottery/jackpot concepts together and a contract with low taxes. Our team's longterm goal is to build an online casino which will be pegged with our token.

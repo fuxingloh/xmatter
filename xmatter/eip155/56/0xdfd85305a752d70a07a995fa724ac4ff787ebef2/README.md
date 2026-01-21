@@ -12,6 +12,11 @@ links:
   - name: telegram
     url: "https://t.me/x2pofficial"
 name: Xenon Pay
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Xenon Pay is a deflationary, high-yield, frictionless & decentralized token on the Binance Smart Chain. The simple way to grow your money like the world’s most sophisticated investors. While existing solutions offer to solve just one problem at a time, our team is up to build secure, useful, & easy to use payment solutions for multiple problems. It includes easy cryptocurrency payment systems integration.

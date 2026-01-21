@@ -20,6 +20,11 @@ links:
   - name: github
     url: "https://github.com/Sperlo64/KING-SHIBA"
 name: KING SHIBA
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ee7b0e"
 ---
 
 The King of the Shiba Kingdom has arrived to the Binance Smart Chain to provide. His subjects protection for their investments and rewards for their fealty. King Shiba banishes all reward tokens from his lands, instead providing the kingdom reflection and daily burns to give it the best chance to moon.

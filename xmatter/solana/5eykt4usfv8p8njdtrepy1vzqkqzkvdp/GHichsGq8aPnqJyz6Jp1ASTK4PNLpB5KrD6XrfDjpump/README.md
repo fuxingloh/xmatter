@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/just-buy-1-worth-of-this-coin"
 name: just buy $1 worth of this coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#4d5248"
 ---
 
 $1 is a wholly community-owned movement and meme coin. After the dev dumped the coin, the $1 community organized and took over control of the coin to realize the movement’s original purpose - to send $1 to $1 and beyond.

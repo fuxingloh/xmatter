@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/SafesextokenReal"
 name: SafeSex
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#7edde5"
 ---
 
 SafeSex is a token designed for safely interacting with adult performers

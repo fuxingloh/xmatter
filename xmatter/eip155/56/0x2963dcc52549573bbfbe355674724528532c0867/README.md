@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/pexcoin"
 name: Project-X
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#242c4c"
 ---
 
 Metaverse platform made for artists and content creators

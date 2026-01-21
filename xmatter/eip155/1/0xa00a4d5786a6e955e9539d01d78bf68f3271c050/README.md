@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/qtcongroup"
 name: Quiztok
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#338cfb"
 ---
 
 'Quiztok' is a blockchain-based startup with a 'Quiz Content Service Platform' business It started in January 2017 and is currently providing Quiz talk service. It has established a local corporation in Japan and the Philippines to prepare for global service launch.

@@ -7,6 +7,11 @@ links:
   - name: whitepaper
     url: "https://earnbet.io/BET"
 name: BET
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0a77ed"
 ---
 
 EarnBet is a fully decentralized profit-sharing casino

@@ -25,6 +25,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/ridotto"
 name: Ridotto Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2f56c1"
 ---
 
 RDT is the native token for the Ridotto cross-chain gambling & lottery protocol.

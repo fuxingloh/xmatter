@@ -24,6 +24,11 @@ links:
     url: >-
       https://bscscan.com/address/0xf45de5a6d02c4a6e050b90add33ebf0a34d017e0#code
 name: WEB3 Doge
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#eea617"
 ---
 
 Web3 Doge allows you to enter the metaverse by employing a 3D NFT avatar of your real pet on the Web3 Doge platform.

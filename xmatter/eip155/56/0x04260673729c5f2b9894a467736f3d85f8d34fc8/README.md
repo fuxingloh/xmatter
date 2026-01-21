@@ -21,6 +21,11 @@ links:
   - name: whitepaper
     url: "https://whitepaper.cryptoplanes.me/"
 name: CryptoPlanes
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f2c36c"
 ---
 
 CryptoPlanes is an expansion of the CryptoCity metaverse. The place where the famous NFT racing game was founded.

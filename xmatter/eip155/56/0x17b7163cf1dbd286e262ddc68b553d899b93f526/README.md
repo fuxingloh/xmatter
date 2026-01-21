@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/qubit/"
 name: Qubit Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fccb04"
 ---
 
 Qubit Finance is a DeFi lending protocol that is optimized to deliver lending as a utility for the BSC.

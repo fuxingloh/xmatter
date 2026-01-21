@@ -13,6 +13,11 @@ links:
   - name: facebook
     url: "https://facebook.com/battleinfinityofficial"
 name: Battle Infinity
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#154cb9"
 ---
 
 Battle Infinity is a gaming platform with multiple P2E battle games which is integrated with the metaverse world.

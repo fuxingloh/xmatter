@@ -17,6 +17,11 @@ links:
   - name: whitepaper
     url: "https://potent.finance/static/moon_safe/img/White-paper.pdf"
 name: POTENT
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f27c0d"
 ---
 
 Potent coin is an ecosystem on the Binance Smart Chain blockchain that offers fast and efficient solutions for using cryptocurrencies.

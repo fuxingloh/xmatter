@@ -11,6 +11,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/aurory"
 name: Aurory
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#5f2da4"
 ---
 
 The Aurory team is composed of 30+ talents from the gaming and the cryptocurrency industry.

@@ -27,6 +27,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/TeslaSafe/"
 name: RiceFarm Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#287127"
 ---
 
 RiceFarm is the next generation of Yield Farming with the highest burn rate on Binance Smart Chain.

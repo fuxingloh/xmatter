@@ -15,6 +15,11 @@ links:
   - name: medium
     url: "https://medium.com/@smolfinance"
 name: smol
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#93f991"
 ---
 
 beeg tings, smol package

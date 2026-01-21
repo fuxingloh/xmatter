@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/litentry/"
 name: Litentry
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e8faf4"
 ---
 
 Decentralized identity authentication and user activity data management Infrastructure.

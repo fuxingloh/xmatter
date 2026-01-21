@@ -11,6 +11,11 @@ links:
   - name: github
     url: "https://github.com/RedTeam-Blockchain"
 name: RedFEG
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e20604"
 ---
 
 REDFEG is BEP-20 token that is determined to feed every community member.

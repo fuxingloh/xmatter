@@ -15,6 +15,11 @@ links:
   - name: whitepaper
     url: "https://sharering.network/public/sharetoken-whitepaper-en-web-v1.2.pdf"
 name: ShareToken
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1a6fb5"
 ---
 
 ShareRing is the first global sharing ecosystem that makes services and goods more accessible for everyone.

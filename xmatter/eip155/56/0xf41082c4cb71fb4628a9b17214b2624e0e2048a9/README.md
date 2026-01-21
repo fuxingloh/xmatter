@@ -17,6 +17,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/real-trump-token-v2"
 name: Real Trump Token V2
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 Real Trump Token is a crypto designed to donate into organizations that put America First & President Donald J. Trump's 2024 re-election.

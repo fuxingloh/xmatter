@@ -11,6 +11,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/Se7enBSC"
 name: Se7en
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 Se7en is a first of its kind Token. Sales restrictions with BNB dividends delivered directly to your wallet.

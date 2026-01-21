@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/stinkcoincto?s=21"
 name: Stink
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#040404"
 ---
 
 The token of perseverance and brilliance

@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/goochcoinsol"
 name: gooch coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#281a2b"
 ---
 
 Zerebro's most genius creation

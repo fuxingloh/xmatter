@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/mogpepechat"
 name: MOG PEPE
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#47803c"
 ---
 
 MOG PEPE: Alpha Meme with AI Prowess.

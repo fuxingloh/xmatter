@@ -21,6 +21,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/black-whale"
 name: Black Whale Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 BLK whale completed various ETF derivatives that Cefi could not do, but in Defi. Users are able to mint ETF tokens designed to track in real-time an index of various valuable coins on multiple exchanges around the world as well as users can check the ETF portfolios of BLK whales manages.

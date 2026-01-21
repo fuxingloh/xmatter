@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/crow-with-knife/"
 name: crow with knife
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#777872"
 ---
 
 Memecoin on the Cronos chain launched by the Cro Crow community. Cro Crow was the first NFT deployed on the Cronos chain, on block 946. $CAW is a decentralized memecoin with 100% of the supply is in circulation from day one.

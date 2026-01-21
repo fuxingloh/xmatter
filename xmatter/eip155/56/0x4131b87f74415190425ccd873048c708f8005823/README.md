@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/themultiplierio"
 name: Multiplier Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fbd304"
 ---
 
 Multiplier is a non-custodial lending protocol on Binance Smart Chain with flash loans.

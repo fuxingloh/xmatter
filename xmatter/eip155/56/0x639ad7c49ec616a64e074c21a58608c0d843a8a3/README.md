@@ -27,6 +27,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UCG4_fomFKDwVe6IWmMrHd-Q"
 name: TripCandy
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#043361"
 ---
 
 TripCandy is an accommodations booking platform that brings you great discounts via cashback rewards in the form of blockchain tokens, turning your bookings into lucrative investments.

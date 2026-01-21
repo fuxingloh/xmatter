@@ -15,6 +15,11 @@ links:
   - name: telegram
     url: "https://t.me/SocaverseGlobal"
 name: Socaverse
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#8cede6"
 ---
 
 A soccer community with NFTs, Farms, DeFi, and sports betting platfrom.

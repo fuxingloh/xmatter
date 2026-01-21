@@ -10,6 +10,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/mound-token"
 name: Mound Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 The MND token is a vehicle created to capture and distribute the full value of our ecosystem expansion directly to the PancakeBunny Community. and the Mound Vault that you can stake MND is designed as a means for the PancakeBunny Community to share in the full value of all of the innovative DeFi projects/products that Team Bunny has to offer, now and in the future.

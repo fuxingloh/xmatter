@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/game7/"
 name: Game7
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fc2c2c"
 ---
 
 Game7 is a permissionless, modular Web3 gaming ecosystem designed to solve the most critical challenges for players and developers: infrastructure, distribution, and sustained player engagement.

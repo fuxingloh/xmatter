@@ -9,6 +9,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/dasha"
 name: Dasha
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#d38745"
 ---
 
 $VVAIFU is the token of the first AI Agent launched on our platform, Dasha.

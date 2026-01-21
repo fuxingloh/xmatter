@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/dora-factory/"
 name: Dorayaki
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#090605"
 ---
 
 Dora Factory is a programmable DAO-as-a-Service open infrastructure on Substrate. All cool features regrading on-chain governance can be built on this infrastructure as pallets by the developers, and they can be rewarded in a SaaS model when DAOs launched on Dora Factory deploy them.

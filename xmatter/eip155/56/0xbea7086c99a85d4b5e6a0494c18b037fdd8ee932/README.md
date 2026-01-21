@@ -13,6 +13,11 @@ links:
   - name: whitepaper
     url: "https://freedomreserv.eth.link/img/FreedomReserveWhitepaper.pdf"
 name: Freedom Reserve
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2a8466"
 ---
 
 Freedom Reserve is a Project to build a Store of Value and unit of exchange suitable for the people of the British Isles

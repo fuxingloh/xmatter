@@ -17,6 +17,11 @@ links:
   - name: source_code
     url: "https://bscscan.com/address/0x39647d0d700ef077c6d90de963cf6989ef38e341"
 name: TianYu Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#34449c"
 ---
 
 Tianyu Loop is a decentralized crypto-asset trading and management platform that integrates Loop, a group of like-minds and Swap, decentralized trading, enabling share of trust and benefits on the basis of transfer in/between individualized crypto-asset. Tianyu Loop features a rich array of financial derivatives including liquidity mining, banking and crypto-asset hedging.

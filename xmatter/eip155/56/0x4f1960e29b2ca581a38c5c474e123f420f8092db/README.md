@@ -15,6 +15,11 @@ links:
   - name: facebook
     url: "https://facebook.com/bixosinc"
 name: UBXS Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1eafd9"
 ---
 
 The Combination of NFT Technology and the Real Estate Sector on Blockchain

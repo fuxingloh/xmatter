@@ -14,6 +14,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/looksrare/"
 name: LooksRare
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040504"
 ---
 
 LooksRare is the community-first NFT marketplace with rewards for participating.

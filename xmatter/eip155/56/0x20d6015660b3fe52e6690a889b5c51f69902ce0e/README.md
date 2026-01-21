@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/giggle-fund/"
 name: Giggle Fund
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#63cafa"
 ---
 
 GiggleFund — The UNSTOPPABLE force of kindness 💛 Supporting children's education through community donations to GiggleAcademy 🎓 Built by the people, for the people - A true community takeover 🤝

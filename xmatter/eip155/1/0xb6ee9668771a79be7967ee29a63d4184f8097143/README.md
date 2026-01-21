@@ -5,6 +5,11 @@ links:
   - name: website
     url: "https://cargox.io/"
 name: CargoX Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#243c8b"
 ---
 
 CargoX aims to disrupt the global logistics industry by replacing legacy paper Bill of Lading documents with Smart B/L Contract based on blockchain technology to able to state and transfer cargo ownership rights without the hassle of handling paper.

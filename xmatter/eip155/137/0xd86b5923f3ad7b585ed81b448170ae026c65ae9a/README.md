@@ -13,6 +13,11 @@ links:
   - name: medium
     url: "https://medium.com/@ironfinance"
 name: IRON Stablecoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f47424"
 ---
 
 Multi-chain Partial-Collateralized Stablecoin

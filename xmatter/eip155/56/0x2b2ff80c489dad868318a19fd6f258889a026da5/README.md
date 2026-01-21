@@ -20,6 +20,11 @@ links:
   - name: forum
     url: "https://medium.com/@Dexit.finance"
 name: DEXIT
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#2e9ef9"
 ---
 
 DEXIT planning to Build world’s most advanced cryptocurrency exchange. Combining the speed and features of a centralized exchange with the security of a DEX, will be the only cryptocurrency exchange that does not compromise performance or security. The new exchange makes it easier than ever for market makers to integrate with their existing infrastructure and provide deep liquidity in a secure manner.

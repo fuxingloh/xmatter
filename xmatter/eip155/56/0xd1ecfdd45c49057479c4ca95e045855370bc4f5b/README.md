@@ -13,6 +13,11 @@ links:
   - name: reddit
     url: "https://reddit.com/user/GriffinNftArt/"
 name: Griffin Art
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f21b62"
 ---
 
 A Game Platform integrated with a next-generation NFT marketplace.

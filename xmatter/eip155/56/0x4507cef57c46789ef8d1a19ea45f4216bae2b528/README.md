@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/tokenfi"
 name: TokenFi (TOKEN)
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 TokenFi is the ultimate platform for crypto and asset tokenization. Our aim is to make tokenization seamless and easy for the masses!.

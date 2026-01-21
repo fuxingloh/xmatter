@@ -23,6 +23,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/republic-protocol/"
 name: Ren
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0b0b0b"
 ---
 
 Ren is an open protocol meant to enable the permissionless and private transfer of value between any blockchain.

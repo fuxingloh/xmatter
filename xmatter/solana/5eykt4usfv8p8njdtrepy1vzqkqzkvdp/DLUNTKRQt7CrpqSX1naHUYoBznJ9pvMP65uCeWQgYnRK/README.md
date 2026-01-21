@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/solcard"
 name: SolCard
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#daa7d1"
 ---
 
 SolCard is a financial tool designed to bridge the gap between cryptocurrency and traditional online shopping. Launched in Q1 2024 by a team of seasoned blockchain experts, SolCard introduces a no-KYC (Know Your Customer) payment solution tailored for the crypto community, specifically utilizing the Solana blockchain for its operations.

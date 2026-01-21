@@ -7,6 +7,9 @@ links:
   - name: x
     url: "https://x.com/euro2024Beers"
 name: Beers
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 ---
 
 EURO 2024 is a vibrant crypto community that celebrates football, camaraderie, and the love of the game.

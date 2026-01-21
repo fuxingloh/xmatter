@@ -9,6 +9,11 @@ links:
   - name: telegram
     url: "https://t.me/defiant1s"
 name: World Liberty Financial
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#232323"
 ---
 
 The WLFi protocol aims to become the one-stop-shop for DeFi across the globe. It is being designed and built by leading pioneers in the crypto industry.

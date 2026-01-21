@@ -16,6 +16,11 @@ links:
   - name: whitepaper
     url: "https://makerdao.com/whitepaper/"
 name: Dai Stablecoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f4ac34"
 ---
 
 Multi-Collateral Dai, brings a lot of new and exciting features, such as support for new CDP collateral types and Dai Savings Rate.

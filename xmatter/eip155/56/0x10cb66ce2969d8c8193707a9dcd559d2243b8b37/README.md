@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/crypto-legions-bloodstone"
 name: Crypto Legions Bloodstone
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e23039"
 ---
 
 Crypto Legions is a cutting edge Play-To-Earn NFT game on the BSC network, with a genius Omni-Balanced Oracle system for a sustainable game economy. By just playing a few minutes each day, you can earn Bloodstone tokens (BLST), which can be converted into any currency you want.

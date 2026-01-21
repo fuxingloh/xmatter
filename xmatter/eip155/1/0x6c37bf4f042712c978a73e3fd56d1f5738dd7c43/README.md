@@ -5,6 +5,11 @@ links:
   - name: website
     url: "https://www.etherlegends.io"
 name: Elementeum
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#87774c"
 ---
 
 Elementeum Games is behind the Ether Legends Trading Card Game, which aims to merge physical and blockchain trading cards with engaging gameplay.

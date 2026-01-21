@@ -19,6 +19,11 @@ links:
   - name: github
     url: "https://github.com/metamate-blockchain"
 name: MetaMate Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e9b013"
 ---
 
 MetaMate is a unique social and dating metaverse combining a digital dating platform and an NFT game.

@@ -11,6 +11,11 @@ links:
   - name: medium
     url: "https://safestar.medium.com/"
 name: Safe Star Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0e254f"
 ---
 
 Frictionless yield & liquidity generation protocol

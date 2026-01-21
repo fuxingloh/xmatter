@@ -11,6 +11,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/media-network"
 name: Media Network
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#06060b"
 ---
 
 Media Network is a privacy-first and community-governed CDN.

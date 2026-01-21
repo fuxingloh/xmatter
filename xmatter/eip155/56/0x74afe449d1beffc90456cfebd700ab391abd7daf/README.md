@@ -25,6 +25,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/ElonGateToken"
 name: EG Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#6bb3e3"
 ---
 
 EG is a community-owned token at the heart of a powerful ecosystem. From enterprise integration to real-world giving, EG is at the forefront of meaningful social impact with crypto.

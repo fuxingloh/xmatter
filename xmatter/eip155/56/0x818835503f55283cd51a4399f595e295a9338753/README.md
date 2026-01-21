@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/delysium/"
 name: AGI Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 $LADYS is appropriating the tokenisation model to facilitate the accumulation of meme capital in the era of unstoppable meme coins.

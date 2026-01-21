@@ -14,6 +14,11 @@ links:
     url: >-
       https://www.forbes.com/sites/tommywilliams1/2021/05/19/meet-antz-influencer--record-label-ceo-launching-an-nft-focused-cryptocurrency-called-baitcoin-to-collide-crypto-with-the-industry/?sh=6fbf93dd1d54
 name: BaitCoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#b8ddf2"
 ---
 
 Baitcoin is a full-on-chain liquidity protocol with Decentralised financing that can be implemented on any smart contract-enabled blockchain.

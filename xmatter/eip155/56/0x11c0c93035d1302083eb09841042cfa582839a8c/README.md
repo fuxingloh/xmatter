@@ -15,6 +15,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UC5Wchz1uKKWHnEVGU7AWagw"
 name: Kaiken Shiba
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ef8e2b"
 ---
 
 Kaiken Shiba is not only hyper-deflationary with a built-in smart betting system to reward holders, but also helps save dogs that are in need.

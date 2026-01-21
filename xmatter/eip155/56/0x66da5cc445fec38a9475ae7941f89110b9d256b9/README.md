@@ -15,6 +15,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/vodka-token"
 name: Vodka Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0808fb"
 ---
 
 Vodka Token — collectible play-to-earn NFT game based on DeFi.

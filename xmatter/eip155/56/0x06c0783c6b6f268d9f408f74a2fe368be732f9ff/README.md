@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/luckypig/"
 name: LuckyPig
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1e1213"
 ---
 
 Luckypig will bring NFT, lottery/jackpot concepts together and a contract with low taxes. Our team's longterm goal is to build an online casino which will be pegged with our token.

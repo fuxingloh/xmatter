@@ -5,6 +5,11 @@ links:
   - name: website
     url: "https://www.brztoken.io/"
 name: Brazilian Digital Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#4c4c4c"
 ---
 
 BRZ is a fully backed Brazilian Real stablecoin, a multi-chain digital asset that provides international liquidity and ease-of-access to both Latin Americans and international players who wish to access the Brazilian market

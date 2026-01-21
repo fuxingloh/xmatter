@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/maticverse"
 name: MaticVerse
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#eabfcd"
 ---
 
 MATICVERSE is your gateway to the Baby Vengers multiverse!

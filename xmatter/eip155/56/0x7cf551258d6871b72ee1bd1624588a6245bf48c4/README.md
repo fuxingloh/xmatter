@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/chitcat/"
 name: ChitCAT
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0c0908"
 ---
 
 ChitCAT is a decentralized messaging dApp that utilizes blockchain technology and the IBC protocol to offer secure communication solutions.

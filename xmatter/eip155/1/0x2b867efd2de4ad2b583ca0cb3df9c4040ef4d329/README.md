@@ -11,6 +11,11 @@ links:
   - name: telegram
     url: "https://t.me/LuckyBlockChainTG"
 name: LuckyBlock
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e2bc60"
 ---
 
 A games & competitions platform with play-to-earn rewards using blockchain protocols.

@@ -23,6 +23,11 @@ links:
   - name: github
     url: "https://github.com/Uns-Technology"
 name: UNS Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1ccc1c"
 ---
 
 UNS Token, a Multi-Sector Utility BEP20 Token that enables in connecting real-life utilities with the digital world.

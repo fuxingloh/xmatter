@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/nevada"
 name: Nevada
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#efe488"
 ---
 
 Give your shot at one of the most lucrative lottery game on BSC! Our team are developing an online casino with lottery concepts for those investing on our token. Our project will develop the concept with low-tax contract, with up to 1000% possible winning!

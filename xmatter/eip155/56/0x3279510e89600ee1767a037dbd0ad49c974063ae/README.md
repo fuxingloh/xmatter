@@ -28,6 +28,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/nftbooks"
 name: NFTBooks
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#b69883"
 ---
 
 NFTBooks envisions to transform the world of book-readings, making it become more affordable and more accessible to many people.

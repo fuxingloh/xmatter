@@ -23,6 +23,11 @@ links:
   - name: whitepaper
     url: "https://docs.openlivenft.com/"
 name: Openlive NFT
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#41aed7"
 ---
 
 OPENLIVE NFT is a decentralized marketplace where users can generate, store, buy & sell NFTs.

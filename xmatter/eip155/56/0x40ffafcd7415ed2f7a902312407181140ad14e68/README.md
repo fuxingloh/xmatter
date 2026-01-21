@@ -17,6 +17,11 @@ links:
   - name: whitepaper
     url: "https://whitepaper.dracooworld.com/"
 name: Big Amber Stone
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#db62a5"
 ---
 
 Dracoo Master is a deck-building game based on blockchain technologies.

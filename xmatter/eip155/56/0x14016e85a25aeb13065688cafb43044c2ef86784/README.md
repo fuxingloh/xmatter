@@ -18,6 +18,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/true-usd/"
 name: BNB pegged TrueUSD Old
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#1b5bfc"
 ---
 
 BNB pegged TrueUSD (TUSDP BEP20) is a token issued by Binance on Smart Chain; its price is pegged to TrueUSD (TUSD ERC20) at a ratio of 1:1.

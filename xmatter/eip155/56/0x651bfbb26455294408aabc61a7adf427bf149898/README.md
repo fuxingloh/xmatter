@@ -13,6 +13,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/MelloToken/"
 name: Mello
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#eccc2b"
 ---
 
 The Mello Token is a cryptocurrency designed for integration into the Mello Virtual Reality Casino Concept.

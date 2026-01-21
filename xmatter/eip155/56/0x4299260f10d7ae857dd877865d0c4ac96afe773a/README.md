@@ -13,6 +13,11 @@ links:
   - name: docs
     url: "https://docs.alaskatoken.io/"
 name: DiamondsAlaskaMalamute
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#c7c7c7"
 ---
 
 DAM is a token used to compensate Alaskainu community.

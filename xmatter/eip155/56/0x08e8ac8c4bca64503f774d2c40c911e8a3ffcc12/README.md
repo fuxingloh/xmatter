@@ -7,6 +7,11 @@ links:
   - name: x
     url: "https://x.com/TccTokenBsc"
 name: TCC
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 TCC

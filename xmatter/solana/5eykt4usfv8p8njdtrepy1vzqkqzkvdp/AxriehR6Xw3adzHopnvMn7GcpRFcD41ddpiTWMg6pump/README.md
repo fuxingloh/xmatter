@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/stoolpresidente"
 name: Stool Prisondente
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#73685b"
 ---
 
 tool Prisondente (jailstool)

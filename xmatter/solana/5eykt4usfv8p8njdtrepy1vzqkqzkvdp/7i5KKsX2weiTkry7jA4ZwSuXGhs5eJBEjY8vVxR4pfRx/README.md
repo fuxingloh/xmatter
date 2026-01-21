@@ -17,6 +17,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/stepn"
 name: Green Metaverse Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#e2c475"
 ---
 
 GMT is the governance token of STEPN, which is a Web3 lifestyle app with fun social elements and gamification design.

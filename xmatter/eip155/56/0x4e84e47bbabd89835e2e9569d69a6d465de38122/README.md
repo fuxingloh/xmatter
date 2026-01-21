@@ -9,6 +9,11 @@ links:
   - name: telegram_news
     url: "https://t.me/sadbabyglobal"
 name: Sadbaby
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fb7315"
 ---
 
 Coin created to support babies with Sma

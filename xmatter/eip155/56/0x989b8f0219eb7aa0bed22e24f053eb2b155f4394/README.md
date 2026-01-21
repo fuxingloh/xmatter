@@ -19,6 +19,11 @@ links:
   - name: discord
     url: "https://discord.com/BGkFPN3WzT"
 name: MommyDoge Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#64dbe3"
 ---
 
 Mommy Doge is fully decentralized, environmental friendly and on a mission to support the Women's rights movement and gender equality initiatives

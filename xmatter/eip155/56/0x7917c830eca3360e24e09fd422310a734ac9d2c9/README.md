@@ -23,6 +23,11 @@ links:
   - name: source_code
     url: "https://github.com/HeadFootball/HeadFootball"
 name: Head Football
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#41446d"
 ---
 
 Head Football is a new crypto currency that allows you to enjoy the game and also make money by duelling other opponents. Please also check our previous PR fee already paid https://github.com/trustwallet/assets/pull/17660

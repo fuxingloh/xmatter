@@ -17,6 +17,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/mantra-dao/"
 name: Binance-Peg MANTRA
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#343434"
 ---
 
 MANTRA DAO leverages the wisdom of the crowd to create a community-governed, transparent, and decentralized ecosystem for Web 3.0

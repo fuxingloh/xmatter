@@ -14,6 +14,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/kittycake"
 name: KittyCake
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f4cf8a"
 ---
 
 KittyCake is an evolution of a yield-generating contract on the Binance Smart Chain (BSC): you get rewarded in CAKE instead of tokens.

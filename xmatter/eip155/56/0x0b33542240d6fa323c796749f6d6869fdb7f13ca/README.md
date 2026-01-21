@@ -11,6 +11,11 @@ links:
   - name: x
     url: "https://x.com/EthereumMeta"
 name: Ethereum Meta
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#040404"
 ---
 
 If Ethereum is like http then Ethereum Meta is https — a secure transport layer

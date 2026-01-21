@@ -13,6 +13,11 @@ links:
   - name: telegram
     url: "https://t.me/COREVault"
 name: cVault.finance
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#808080"
 ---
 
 CORE is the first ever deflationary farming token.

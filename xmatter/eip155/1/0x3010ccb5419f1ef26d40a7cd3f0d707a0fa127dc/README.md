@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/gems-vip"
 name: GEMS
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#34eeb2"
 ---
 
 Gems is a blockchain launchpad enabling project fundraising via private token sales.

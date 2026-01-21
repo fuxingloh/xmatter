@@ -31,6 +31,11 @@ links:
   - name: source_code
     url: "https://github.com/portuma/portoken"
 name: Portuma
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#050505"
 ---
 
 First In-game and Metaverse Ads Token On Blockchain. Portuma Token ($POR) is a BEP20 token issued on the Binance Smart Chain with a fixed supply of 10 Billion tokens in total. POR's bravest goal to offer an in-game advertising tool to all mobile and desktop game developers and companies and users of the world.

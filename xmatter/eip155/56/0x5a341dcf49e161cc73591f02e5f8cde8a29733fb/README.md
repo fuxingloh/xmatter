@@ -31,6 +31,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/reflecto"
 name: Reflecto
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#3cc79a"
 ---
 
 Multi-reward token with utilities that generate profits for holders.

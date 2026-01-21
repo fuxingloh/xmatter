@@ -19,6 +19,11 @@ links:
   - name: docs
     url: "https://docs.calltocombat.com"
 name: CalltoCombat
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#efefef"
 ---
 
 Call to Combat is the world's first multiplayer online role-playing game universe that exists inside the MetaVerse world where real players connect and earn.

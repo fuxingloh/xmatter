@@ -22,6 +22,11 @@ links:
   - name: medium
     url: "https://medium.com/@pepecoin_global"
 name: Pepecoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#57883c"
 ---
 
 Pepecoin is here to make memecoins great again. Launched stealth with no presale, zero taxes, LP locked and contract renounced.

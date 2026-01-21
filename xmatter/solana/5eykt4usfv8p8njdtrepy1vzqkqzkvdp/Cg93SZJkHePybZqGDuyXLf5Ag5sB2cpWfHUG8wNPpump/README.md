@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/alphaarc"
 name: AlphaArc
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#201f27"
 ---
 
 AlphaArc translates blockchainese into a language LLMs & AI agents understand

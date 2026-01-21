@@ -11,6 +11,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/bonk1/"
 name: Bonk
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ed950b"
 ---
 
 According to the one-pager, BONK is the first dog-themed coin on Solana 'for the people, by the people' with 50% of the total supply of the cryptocurrency airdropped to the Solana community. BONK is similar to Shiba Inu (SHIB) and Dogecoin (DOGE) memecoins, it was launched on December 25, 2022, and led to an increase in the price of the SOL token (a rise of 34% in 48 hours).

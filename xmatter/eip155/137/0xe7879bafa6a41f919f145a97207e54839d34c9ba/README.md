@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/stream-coin/"
 name: Matic-Peg Stream
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#db2c2c"
 ---
 
 All-in-one Live Streaming on a blockchain-based platform.

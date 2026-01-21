@@ -9,6 +9,11 @@ links:
   - name: x
     url: "https://x.com/kingofmemesreal"
 name: King Of Memes
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#cdb57a"
 ---
 
 Revolutionizing the memecoin landscape with innovative utilities and community-driven features.

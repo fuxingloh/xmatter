@@ -9,6 +9,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/pepefork/"
 name: PepeFork
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f8abda"
 ---
 
 $PORK, a pepe-fork created by @Pauly0x.

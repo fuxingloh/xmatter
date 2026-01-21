@@ -18,6 +18,11 @@ links:
   - name: telegram
     url: "https://t.me/ultimatechampions"
 name: Ultimate Champions Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e1bb85"
 ---
 
 Ultimate Champions is a free to play and play to earn fantasy sports game.

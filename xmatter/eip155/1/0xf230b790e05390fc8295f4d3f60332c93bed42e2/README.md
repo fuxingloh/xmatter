@@ -17,6 +17,11 @@ links:
   - name: discord
     url: "https://discord.com/invite/pn6WWmXtQV"
 name: Tronix (TRX)
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#ec0c2c"
 ---
 
 TRON is the protocol dedicated to accelerating the decentralization of the Internet via blockchain technology and decentralized applications, or DApps. Since its inception in 2017, the TRON network has focused on two ideals: empowering developers and putting the power in the hands of the people. TRON network completed full decentralization in Dec 2021 and is now a purely community-governed DAO focused on creating an internet for all.

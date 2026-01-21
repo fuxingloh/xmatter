@@ -13,6 +13,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/eagle-of-truth"
 name: EAGLE OF TRUTH
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#161412"
 ---
 
 A community driven token providing a voice for the people, stopping the spread of misinformation, and shining light on the corruption and hypocrisy of those trusted with power, yet unworthy to have it. We are the rebellion. This is the coin of resistance.

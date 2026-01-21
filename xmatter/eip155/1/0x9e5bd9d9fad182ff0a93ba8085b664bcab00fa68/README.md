@@ -20,6 +20,11 @@ links:
     url: >-
       https://518c9b86-70e1-4684-a158-a6ac5cc28fdd.filesusr.com/ugd/4f7660_9c16e33add7a4e2f872af0e00ff2d848.pdf
 name: Dinger Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#8f583c"
 ---
 
 Schrodinger token is a community-driven project that hopes to provide the kind of purr-fectly amazing, enthusiastic joy that DOGE, SHIB and others have for crypto investors.

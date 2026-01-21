@@ -13,6 +13,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/ru/currencies/samoyedcoin/"
 name: Samoyedcoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
+icon: icon.png
+color: "#dedce1"
 ---
 
 The premier community, dog money, & ambassador of the Solana ecosystem.

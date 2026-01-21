@@ -13,6 +13,11 @@ links:
   - name: telegram
     url: "https://t.me/joinchat/vrVYpnWtMRljNjYx"
 name: GamingDoge
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e0a012"
 ---
 
 GamingDoge is the ultimate companion and only wants to make Doge community and Gamers proud.

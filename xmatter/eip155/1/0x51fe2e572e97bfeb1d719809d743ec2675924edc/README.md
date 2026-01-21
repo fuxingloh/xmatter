@@ -21,6 +21,11 @@ links:
   - name: whitepaper
     url: "https://www.vlaunch.com/whitepaper"
 name: VLaunch
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#83bf90"
 ---
 
 First Fully Influencer-Backed Multi-Chain Launchpad

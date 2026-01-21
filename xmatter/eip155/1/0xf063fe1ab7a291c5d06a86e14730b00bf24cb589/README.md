@@ -21,6 +21,11 @@ links:
   - name: docs
     url: "https://docs.dxsale.network"
 name: DxSale Network
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#e0e0e0"
 ---
 
 DxSale is a decentralized, cross chain, token management platform as a service. DxSale DAO allows for seamless onboarding of chains to provide tools to facilitate and grow out a chains ecosystem.

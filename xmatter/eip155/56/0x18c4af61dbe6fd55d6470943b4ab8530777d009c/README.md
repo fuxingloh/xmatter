@@ -40,6 +40,11 @@ links:
   - name: forum
     url: "https://t.me/agatechsystemsnews"
 name: Agatech
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#7ce3ad"
 ---
 
 Agata Token transcends the typical role of a cryptocurrency, embodying the foundation of the Agatech ecosystem. Ingeniously designed for diverse utility, it stands as the key currency for governance, staking, and accessing a variety of services within the Agatech network.

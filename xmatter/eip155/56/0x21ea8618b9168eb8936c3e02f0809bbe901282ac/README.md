@@ -17,6 +17,11 @@ links:
   - name: reddit
     url: "https://reddit.com/r/SpacePortCoin/"
 name: SpacePort Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#b9d2df"
 ---
 
 SpacePort is a revolutionary retro style arcade game where players can PLAY TO EARN in SPC. Game is completely free to play for all users!

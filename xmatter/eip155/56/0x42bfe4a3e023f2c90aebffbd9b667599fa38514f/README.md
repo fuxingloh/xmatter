@@ -22,6 +22,11 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/ulti-arena"
 name: ULTI Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#f6cf96"
 ---
 
 Ulti Arena - NFT Marketplace for Game Assets with Proof of Gaming and Trading Card Game.

@@ -19,6 +19,11 @@ links:
   - name: telegram
     url: "https://t.me/iMeLime"
 name: iMe Lab
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#efba14"
 ---
 
 iMe is an all-in-one app with the Telegram-based messenger, non-custodial Crypto Wallet (Polygon, BNB Chain, Ethereum, more to come), DeFi tools, its own native utility token $LIME. The app allows sending crypto in a few clicks right on Telegram, using Binance functionality, tipping Telegram resources with crypto, having access to NFT / Web 3.0, and more. iMe is available on Google Play and App Store. iMe is on a mission to make DeFi more accessible to a wider population.

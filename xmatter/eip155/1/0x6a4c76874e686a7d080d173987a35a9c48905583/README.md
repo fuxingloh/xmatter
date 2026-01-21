@@ -29,6 +29,11 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/luxurious-pro-network-token"
 name: Luxurious Pro Network Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#011230"
 ---
 
 Luxurious Pro Network Token is A high demand ERC20 token for everyone. A big, growing and sustainable community is holding LPNT today. Community of people who want to grow their economy with blockchain.

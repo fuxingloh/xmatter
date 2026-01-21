@@ -11,6 +11,11 @@ links:
   - name: youtube
     url: "https://youtube.com/channel/UC7kAc4_H2GqebP163LoNvwQlkm,"
 name: TrusterCoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#fc5404"
 ---
 
 TrusterCoin is a utility token for business tokenization platform at a time when entrepreneurs through blockchain technology.

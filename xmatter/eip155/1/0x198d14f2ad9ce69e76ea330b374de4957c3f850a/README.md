@@ -16,6 +16,11 @@ links:
   - name: medium
     url: "https://apenftorg.medium.com/"
 name: APENFT
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#050505"
 ---
 
 APENFT Fund was born with the mission to register worid-class artworks as NFTs on blockchain and aim to be the ARK Funds in the NFT space to buld a bridge between top-notch artists and blockchain, and to support the growth of native crypto NFT artists.

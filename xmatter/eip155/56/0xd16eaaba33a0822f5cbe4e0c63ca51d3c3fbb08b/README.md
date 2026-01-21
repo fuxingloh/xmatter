@@ -23,6 +23,11 @@ links:
   - name: medium
     url: "https://medium.com/@XAI_Codes"
 name: X AI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icon: icon.png
+color: "#0e0e0e"
 ---
 
 X AI intends to promptly establish a robust presence in the DeFi market by offering exceptional use cases.
