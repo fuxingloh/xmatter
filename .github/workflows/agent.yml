@@ -9,7 +9,7 @@ on:
       - .github/workflows/agent.yml
       - packages/agent-*/**/*
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "30 6 * * *"
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.event_name }}-${{ github.ref }}

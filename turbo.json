@@ -5,6 +5,10 @@
     "clean": {
       "cache": false
     },
+    "agent": {
+      "inputs": ["tsconfig.json", "./**/*.ts"],
+      "dependsOn": ["^build"]
+    },
     "build": {
       "inputs": ["tsconfig.json", "./**/*.ts"],
       "outputs": ["dist/**"],
