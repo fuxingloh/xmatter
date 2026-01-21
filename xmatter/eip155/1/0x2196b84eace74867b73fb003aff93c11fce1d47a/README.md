@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/psy_dao"
 name: PsyDAO Token
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+PsyDAO Governance Token

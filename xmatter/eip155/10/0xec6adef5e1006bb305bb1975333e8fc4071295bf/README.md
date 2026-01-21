@@ -9,6 +9,9 @@ links:
   - name: telegram
     url: "https://t.me/cartesiproject"
 name: Cartesi Token
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Cartesi Rollups is a modular execution layer that elevates simple smart contracts to decentralized Linux runtime.

@@ -11,6 +11,9 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/chainlink/"
 name: ChainLink
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 A blockchain-based middleware, acting as a bridge between cryptocurrency smart contracts, data feeds, APIs and traditional bank account payments.

@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/CryoDAO"
 name: CryoDAO
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+CryoDAO Governance Token

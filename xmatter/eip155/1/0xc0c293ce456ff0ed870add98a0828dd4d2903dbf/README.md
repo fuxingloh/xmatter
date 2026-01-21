@@ -27,6 +27,9 @@ links:
   - name: source_code
     url: "https://github.com/aurafinance/aura-contracts"
 name: Aura Finance (AURA)
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Boosting DeFi stakeholders' yield potential and governance power, starting with Balancer.

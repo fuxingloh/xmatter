@@ -17,6 +17,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/dforce-token/"
 name: dForce
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 dForce Lending is a decentralized lending protocol.

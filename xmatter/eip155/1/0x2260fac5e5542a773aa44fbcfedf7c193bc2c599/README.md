@@ -14,6 +14,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/wrapped-bitcoin/"
 name: Wrapped Bitcoin
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Wrapped Bitcoin (WBTC) is the first ERC20 token backed 1:1 with Bitcoin.

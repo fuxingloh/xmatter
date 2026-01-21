@@ -23,6 +23,9 @@ links:
   - name: whitepaper
     url: "https://drive.google.com/drive/folders/1PprliiDlNB6Cx-35eaEun-gmjk0-a1O4"
 name: Dypius
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Dypius is a powerful, decentralized ecosystem with a focus on scalability, security, and global adoption through next-gen infrastructure. We offer a variety of products and services that cater to both beginners and advanced users in the crypto space including DeFi solutions, analytical tools, NFTs, Metaverse and more!

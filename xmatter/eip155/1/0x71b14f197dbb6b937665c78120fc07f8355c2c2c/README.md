@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/idriss_xyz"
 name: IDRISS
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+IDRISS is the utility and governance token of IDRISS DAO.

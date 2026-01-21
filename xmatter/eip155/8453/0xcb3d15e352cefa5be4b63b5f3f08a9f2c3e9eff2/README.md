@@ -7,4 +7,7 @@ links:
   - name: twitter
     url: "https://twitter.com/WardenSwap"
 name: WardenSwap
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---

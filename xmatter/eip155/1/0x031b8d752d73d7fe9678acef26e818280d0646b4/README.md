@@ -9,6 +9,9 @@ links:
   - name: x
     url: "https://x.com/SovrunOfficial"
 name: Sovrun
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Sovrun is reimagining gaming by empowering players to own their digital assets and become architects of their virtual worlds.

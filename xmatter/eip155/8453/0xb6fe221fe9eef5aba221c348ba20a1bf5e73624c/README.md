@@ -11,6 +11,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/rocket-pool-eth/"
 name: Rocket Pool ETH
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Rocket Pool is a decentralised Ethereum Proof of Stake pool.

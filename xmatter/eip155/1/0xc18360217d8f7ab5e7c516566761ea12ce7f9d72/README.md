@@ -13,6 +13,9 @@ links:
   - name: discord
     url: "https://discord.com/invite/ens"
 name: Ethereum Name Service
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Decentralised naming for wallets, websites, & more.

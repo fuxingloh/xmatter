@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/GMOTrust"
 name: GMO JPY
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+GYEN is the first regulated digital JPY which is 100% Fiat-backed.

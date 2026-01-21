@@ -7,6 +7,9 @@ links:
   - name: x
     url: "https://x.com/TybengToken"
 name: TYBENG
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Log in now to join Tournament and win cool gifts, or play mobile game and hold Benji Pass to earn $TYBENG

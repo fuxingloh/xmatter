@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/bananacat_erc20"
 name: BananaCat
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+The world's most famous cat in a banana suit.

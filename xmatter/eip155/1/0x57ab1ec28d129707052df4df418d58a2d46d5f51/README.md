@@ -18,6 +18,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/nusd/"
 name: sUSD
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 sUSD is an ERC-20 token made by the Synthetix team which tracks the price of USD.

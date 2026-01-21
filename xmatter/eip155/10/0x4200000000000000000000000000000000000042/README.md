@@ -13,6 +13,9 @@ links:
   - name: github
     url: "https://github.com/ethereum-optimism/"
 name: Optimism
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Optimism is a Layer 2 scaling solution for Ethereum.

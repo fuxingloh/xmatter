@@ -17,6 +17,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/status/"
 name: Status
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Status (SNT) is an open source messaging platform and mobile interface built to interact with applications that run on the Ethereum network.

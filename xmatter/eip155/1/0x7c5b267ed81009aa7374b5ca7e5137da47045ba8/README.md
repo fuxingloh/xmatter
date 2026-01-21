@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/taikainetwork"
 name: TAIKAI Token
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+TKAI is TAIKAI’s native ERC-20 utility token which will be used as a medium of exchange within the TAIKAI Hackathon and Garden Ecosystem.

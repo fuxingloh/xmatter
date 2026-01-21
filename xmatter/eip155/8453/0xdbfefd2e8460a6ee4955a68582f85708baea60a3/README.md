@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/OriginProtocol"
 name: Super OETH
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+Real yield, maximized on layer 2

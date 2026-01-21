@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/iskra_world"
 name: ISKRA TOKEN
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+ISKRA governance token

@@ -7,4 +7,7 @@ links:
   - name: twitter
     url: "https://twitter.com/Rocket_Pool"
 name: Rocket Pool Protocol
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---

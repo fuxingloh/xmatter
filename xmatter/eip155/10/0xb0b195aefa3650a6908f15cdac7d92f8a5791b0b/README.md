@@ -19,6 +19,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/bob"
 name: BOB
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 BOB is a stable token optimized for the zkBob protocol.

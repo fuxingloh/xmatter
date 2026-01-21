@@ -20,6 +20,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/dai/"
 name: Dai
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Dai is a stable cryptocurrency supported by Maker (MKR). To ensure price stability, Dai minimizes the price volatility against the US dollar, through an incentive structure for its participants.

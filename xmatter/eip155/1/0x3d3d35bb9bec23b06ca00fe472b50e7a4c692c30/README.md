@@ -5,6 +5,9 @@ links:
   - name: website
     url: "https://team3d.io"
 name: Vidya
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Vidya is a DeFi gaming token for multiplayer games, cross-game inventories and experimental financial models on the blockchain.

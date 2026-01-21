@@ -16,6 +16,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/maker/"
 name: Maker
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Maker (MKR) is a utility token, governance token and recapitalization resource of the Maker system.

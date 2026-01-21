@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/BrightIDProject"
 name: Bright
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+BrightDAO community token

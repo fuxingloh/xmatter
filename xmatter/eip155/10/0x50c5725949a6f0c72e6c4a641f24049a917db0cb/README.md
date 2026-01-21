@@ -9,6 +9,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/lyra-finance"
 name: Lyra Finance
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Lyra is an options trading protocol accessing the scalability of Layer 2 Ethereum to provide a robust, lightning-fast and reliable trading experience.

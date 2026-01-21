@@ -8,4 +8,9 @@ links:
   - name: twitter
     url: "https://twitter.com/reserveprotocol"
 name: Electronic Dollar
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+The eUSD Yield DTF is a fully collateralized US-dollar stablecoin built on the Reserve Protocol

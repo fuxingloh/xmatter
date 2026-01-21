@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/GigaChadOGonEth"
 name: GigaChad
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+Join the OG Giga Chad Community on Eth - Tokenized Masculinity in its perfect form.

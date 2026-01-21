@@ -5,4 +5,7 @@ links:
   - name: website
     url: "https://amptoken.org/"
 name: Amp
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---

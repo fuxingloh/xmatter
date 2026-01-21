@@ -7,4 +7,7 @@ links:
   - name: twitter
     url: "https://twitter.com/pendle_fi"
 name: Pendle
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---

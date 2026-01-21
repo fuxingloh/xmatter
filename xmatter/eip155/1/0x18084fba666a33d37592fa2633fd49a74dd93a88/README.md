@@ -12,6 +12,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/tbtc"
 name: tBTC v2 (tBTC)
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 tBTC is a decentralized Bitcoin onchain that allows Bitcoin holders to use their BTC across multiple blockchains, decentralized finance, and other financial markets.

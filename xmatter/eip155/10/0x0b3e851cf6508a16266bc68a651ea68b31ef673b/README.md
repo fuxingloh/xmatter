@@ -7,4 +7,7 @@ links:
   - name: twitter
     url: "https://twitter.com/0xloopfi"
 name: Loopfi
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---

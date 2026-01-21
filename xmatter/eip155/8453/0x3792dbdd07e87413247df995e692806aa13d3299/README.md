@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/ecomi_"
 name: OMI Token
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+OMI is the official utility token of the VeVe Digital Collectibles Ecosystem

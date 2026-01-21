@@ -9,6 +9,9 @@ links:
   - name: telegram
     url: "https://t.me/reservecurrency"
 name: Reserve Rights
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 The fluctuating protocol token that plays a role in stabilizing RSV and confers the cryptographic right to purchase excess Reserve tokens as the network grows.

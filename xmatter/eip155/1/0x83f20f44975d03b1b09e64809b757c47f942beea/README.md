@@ -9,6 +9,9 @@ links:
   - name: x
     url: "https://x.com/MakerDAO"
 name: Savings Dai
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Savings Dai (sDAI) is an ERC-4626 representation/wrapper of DAI in the Dai Savings Rate (DSR) module.

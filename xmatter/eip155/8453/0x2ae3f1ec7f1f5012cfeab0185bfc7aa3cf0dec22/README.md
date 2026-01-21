@@ -9,6 +9,9 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/coinbase-wrapped-staked-eth/"
 name: Coinbase Wrapped Staked ETH
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Coinbase Wrapped Staked ETH (“cbETH”) is a utility token that represents Ethereum 2 (ETH2), which is ETH staked through Coinbase.

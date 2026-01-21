@@ -25,6 +25,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/geyser"
 name: GYSR
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 GYSR is an open platform for on-chain incentives.

@@ -17,6 +17,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/kryll/"
 name: Kryll.io Token
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Kryll integrates with the main exchanges, allowing you to centralize your portfolio and trade more easily! New exchanges are added regularly

@@ -9,6 +9,9 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/cryptex-finance/"
 name: Cryptex
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 CTX is a governance token that powers and secures the Cryptex.Finance TCAP protocol.

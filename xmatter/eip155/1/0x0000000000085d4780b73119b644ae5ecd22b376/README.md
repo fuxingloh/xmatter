@@ -17,6 +17,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/true-usd/"
 name: TrueUSD
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 TrueUSD is the first independently-verified digital asset redeemable 1-for-1 for US Dollars.

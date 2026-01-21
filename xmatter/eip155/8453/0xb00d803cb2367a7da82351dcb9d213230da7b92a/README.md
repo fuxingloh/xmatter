@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/iykyk_official"
 name: IYKYK
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+IYKYK

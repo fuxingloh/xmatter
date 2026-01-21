@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/RigoBlock"
 name: Rigo Token
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+RigoBlock is a DeFi protocol for token management

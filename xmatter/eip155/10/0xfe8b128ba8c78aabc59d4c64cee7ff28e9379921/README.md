@@ -13,6 +13,9 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/balancer/"
 name: Balancer
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Balancer is an automated portfolio manager and trading platform.

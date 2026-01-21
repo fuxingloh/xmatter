@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/compoundfinance"
 name: Compound
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+Compound DAO Governance Token

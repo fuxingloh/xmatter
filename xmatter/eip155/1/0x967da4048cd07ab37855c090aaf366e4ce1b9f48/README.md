@@ -19,6 +19,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/ocean-protocol/"
 name: Ocean Protocol
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 Ocean Protocol describes itself as a decentralized data exchange protocol that lets people share and monetize data while providing control, auditability, transparency, and compliance to all actors involved.

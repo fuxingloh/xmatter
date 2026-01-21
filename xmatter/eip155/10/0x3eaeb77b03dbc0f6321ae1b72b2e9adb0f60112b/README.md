@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/SushiSwap"
 name: SushiToken
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+Buy and Sell Instantly on Sushi. Wherever. Whoever. Whenever.

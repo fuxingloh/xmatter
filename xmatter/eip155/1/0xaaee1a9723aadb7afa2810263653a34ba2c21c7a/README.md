@@ -11,6 +11,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/en/coins/mog-coin"
 name: Mog Coin
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 This coin Mogs all other coins.

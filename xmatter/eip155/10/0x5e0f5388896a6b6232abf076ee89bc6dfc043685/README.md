@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/ajnafi"
 name: Ajna
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+AJNA tokens are the Ajna Protocol's native token.

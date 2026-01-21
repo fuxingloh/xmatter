@@ -19,6 +19,9 @@ links:
   - name: coingecko
     url: "https://coingecko.com/coins/hop-protocol"
 name: Hop
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
 
 A protocol for sending tokens across rollups and their shared layer-1 network in a quick and trustless manner

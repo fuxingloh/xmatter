@@ -7,4 +7,9 @@ links:
   - name: twitter
     url: "https://twitter.com/ubidoteth"
 name: Universal Basic Income
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 ---
+
+UBI is a cryptocurrency that streams to verified humans on Ethereum
