@@ -36,9 +36,6 @@ export class EthereumOptimism extends FileSystemAgent<TokenData> {
   }
 
   async write(uri: string, data: TokenData, source: string, target: string, file: XmatterFile): Promise<void> {
-    const mergedFile = await this.mergeFile(target, file);
-    await super.write(uri, data, source, target, mergedFile);
-
     if (!(await hasFile(join(target, "icon.png")))) {
       await copyIf(join(source, "logo.png"), join(target, "icon.png"));
     }
@@ -46,6 +43,8 @@ export class EthereumOptimism extends FileSystemAgent<TokenData> {
     if (!(await hasFile(join(target, "icon.svg")))) {
       await copyIf(join(source, "logo.svg"), join(target, "icon.svg"));
     }
+
+    await super.write(uri, data, source, target, file);
   }
 
   toReadmeFile(uri: string, data: TokenData): XmatterFile {

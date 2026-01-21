@@ -2,8 +2,11 @@ import { copyFile, mkdir, readdir, stat, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 import gray from "gray-matter";
 import { XmatterSchema, XmatterFile } from "xmatter/schema";
+import ColorThief from "colorthief";
 
 type Path = string;
+
+const colorThief = new ColorThief();
 
 export abstract class FileSystemAgent<Entry> {
   async walk(
@@ -39,6 +42,9 @@ export abstract class FileSystemAgent<Entry> {
 
   async write(uri: string, entry: Entry, source: Path, target: Path, file: XmatterFile): Promise<void> {
     await mkdir(target, { recursive: true });
+    file = await this.mergeFile(target, file);
+    file = await this.mergeIcon(target, file);
+    file = await this.mergeColor(target, file);
     await writeFile(join(target, "README.md"), gray.stringify(file.content ?? "", file.data));
   }
 
@@ -62,6 +68,49 @@ export abstract class FileSystemAgent<Entry> {
       data: data,
       content: existing.content.trim() ? existing.content : file.content,
     };
+  }
+
+  async mergeIcon(target: string, file: XmatterFile): Promise<XmatterFile> {
+    for (const icon of ["icon.svg", "icon.png", "icon.jpg"]) {
+      const iconPath = join(target, icon);
+      if (await hasFile(iconPath)) {
+        return { ...file, data: { ...file.data, icon: icon } };
+      }
+    }
+
+    return file;
+  }
+
+  async mergeColor(target: string, file: XmatterFile): Promise<XmatterFile> {
+    if (!file.data.icon) {
+      return file;
+    }
+
+    const iconPath = join(target, file.data.icon);
+    if (!(await hasFile(iconPath))) {
+      return file;
+    }
+
+    try {
+      const primaryColor = await new Promise<[number, number, number]>((resolve, reject) => {
+        colorThief.getColorFromUrl(iconPath, (color) => {
+          if (color) resolve(color);
+          else reject(new Error("Color extraction failed"));
+        });
+      });
+      const hexColor = `#${primaryColor.map((c: number) => c.toString(16).padStart(2, "0")).join("")}`;
+
+      return {
+        ...file,
+        data: {
+          ...file.data,
+          color: hexColor,
+        },
+      };
+    } catch (error) {
+      console.error(`Failed to extract color from ${iconPath}:`, error);
+      return file;
+    }
   }
 }
 

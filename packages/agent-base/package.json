@@ -12,8 +12,12 @@
     ]
   },
   "dependencies": {
+    "colorthief": "^2.6.0",
     "gray-matter": "^4.0.3",
     "xmatter": "workspace:*",
     "zod": "^4.3.5"
+  },
+  "devDependencies": {
+    "@types/colorthief": "^2.6.0"
   }
 }

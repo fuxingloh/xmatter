@@ -24,7 +24,11 @@ export const FrontmatterSchema = z.object({
     .optional(),
   decimals: z.number().int().min(0).max(256).optional(),
   icon: z.string().optional().describe("Primary icon for this entry."),
-  color: z.string().optional().describe("Primary color for this entry based on its icon."),
+  color: z
+    .string()
+    .regex(/^#[0-9a-f]{6}$/i)
+    .optional()
+    .describe("Primary color for this entry based on its icon."),
 });
 
 export const XmatterSchema = z.object({
