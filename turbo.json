@@ -6,12 +6,13 @@
       "cache": false
     },
     "agent": {
+      "cache": false,
       "inputs": ["tsconfig.json", "./**/*.ts"],
-      "dependsOn": ["^build"]
+      "dependsOn": []
     },
     "build": {
       "inputs": ["tsconfig.json", "./**/*.ts"],
-      "outputs": ["dist/**"],
+      "outputs": ["./**/*.js", "./**/*.d.ts", "./**/*.d.ts.map"],
       "dependsOn": ["^build"]
     },
     "test": {

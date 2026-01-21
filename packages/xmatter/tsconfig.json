@@ -3,7 +3,8 @@
   "compilerOptions": {
     "module": "ESNext",
     "target": "ES2022",
-    "moduleResolution": "node",
+    "moduleResolution": "bundler",
+    "skipLibCheck": true,
     "declaration": true,
     "declarationMap": true
   }
