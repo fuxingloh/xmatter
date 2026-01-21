@@ -10,6 +10,8 @@ name: YFX Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#f0a000"
 ---
 
 YFX Basechain token

@@ -10,6 +10,8 @@ name: Animalverse Club
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.png
+color: "#c4dacb"
 ---
 
 Animalverse Club (AVC) token is an important part of the Animalverse Lab.CO.,LTD ecosystem and is an important step for a startup like us to showcase our potential to the world publick good., Prepare for the ultimate Animalverse Club (AVC) upgrade! We’re sending What people crave for is neutrality and independence in social media. through our ecosystem fave towards a more sustainable future. Stake AVC today to start earning eco-friendly rewards.

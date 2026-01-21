@@ -18,6 +18,8 @@ name: TOWER
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#c5c5c5"
 ---
 
 Utility token to the blockchain game of Crazy Kings franchise.

@@ -11,6 +11,8 @@ name: Web 3 Dollar
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#24ac2c"
 ---
 
 An RToken that earns the DeFi rate any time you're in stables.

@@ -10,6 +10,8 @@ links:
     url: "https://x.com/Brickken"
 symbol: BKN
 decimals: 18
+icon: icon.svg
+color: "#3069c1"
 ---
 
 Brickken transforms tokenization or Real World Assets (RWA) and asset management with its comprehensive Token Suite

@@ -10,6 +10,8 @@ name: Attention Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#040404"
 ---
 
 ATTN - The attention token of collective memory

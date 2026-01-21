@@ -10,6 +10,8 @@ name: Deribet DEGEN
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#2e73fc"
 ---
 
 dbDEGEN is the official DEGEN IOU token issued by Deribet.io. The token is redeemable 1-to-1 (1 dbDEGEN = 1 DEGEN) on the platform Deribet.io

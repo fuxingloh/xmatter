@@ -10,6 +10,8 @@ name: Defactor
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.png
+color: "#5c5cec"
 ---
 
 Defactor pioneers real world assets (RWA) tokenisation and Decentralised Finance (DeFi).

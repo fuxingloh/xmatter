@@ -22,6 +22,8 @@ name: Hop
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#d167cc"
 ---
 
 A protocol for sending tokens across rollups and their shared layer-1 network in a quick and trustless manner

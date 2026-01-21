@@ -10,6 +10,8 @@ links:
     url: "https://x.com/litprotocol"
 symbol: LITKEY
 decimals: 18
+icon: icon.png
+color: "#fc4404"
 ---
 
 LITKEY is the token for Lit Protocol, a decentralized key management system

@@ -10,6 +10,8 @@ name: Kibble
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#e5a514"
 ---
 
 The currency of Cat Town, an idle economic game built on Base.

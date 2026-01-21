@@ -10,6 +10,8 @@ name: Glacier Network
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#57f1fc"
 ---
 
 The First Data-Centric Blockchain to Supercharge AI at Scale

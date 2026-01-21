@@ -10,4 +10,6 @@ name: Paladin Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#f06c2a"
 ---

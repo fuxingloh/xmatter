@@ -10,6 +10,8 @@ name: SubQueryToken
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#4f85d6"
 ---
 
 The SubQuery Network is facilitating an open web3 data revolution by allowing you to completely decentralise your infrastructure stack.

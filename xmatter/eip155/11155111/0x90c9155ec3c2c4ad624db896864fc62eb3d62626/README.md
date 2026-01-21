@@ -10,4 +10,6 @@ links:
     url: "https://x.com/TrueMarketsOrg"
 symbol: "TRUE"
 decimals: 18
+icon: icon.svg
+color: "#044cfc"
 ---

@@ -10,4 +10,6 @@ links:
     url: "https://x.com/OpenLoot"
 symbol: OPENLOOT
 decimals: 18
+icon: icon.svg
+color: "#c9c9c9"
 ---

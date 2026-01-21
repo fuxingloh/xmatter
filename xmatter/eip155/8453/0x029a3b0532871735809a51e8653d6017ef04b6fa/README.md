@@ -10,6 +10,8 @@ name: TYBENG
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#06215b"
 ---
 
 Log in now to join Tournament and win cool gifts, or play mobile game and hold Benji Pass to earn $TYBENG

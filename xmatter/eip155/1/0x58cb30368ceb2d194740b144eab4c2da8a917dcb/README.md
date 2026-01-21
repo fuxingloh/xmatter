@@ -10,6 +10,8 @@ name: ZynCoin
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#113f49"
 ---
 
 ZynCoin is a community-led memecoin project focused on the proliferaiton of ZYN.

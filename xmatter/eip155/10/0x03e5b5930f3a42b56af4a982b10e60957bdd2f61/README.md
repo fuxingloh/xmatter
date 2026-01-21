@@ -10,6 +10,8 @@ name: Prime
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#14042c"
 ---
 
 A DAO collective focused on researching and building next-generation coordination tools for decentralized organizations.

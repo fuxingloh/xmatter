@@ -6,6 +6,8 @@ name: One Cent Coin
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#d4a283"
 ---
 
 A $0.01 stable meme coin.

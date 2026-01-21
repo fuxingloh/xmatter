@@ -10,6 +10,8 @@ name: GGToken
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#191919"
 ---
 
 GGTK (GG Token) powers GG DApp, a Web3 gaming platform and DeFi ecosystem that rewards players, developers, and liquidity providers.

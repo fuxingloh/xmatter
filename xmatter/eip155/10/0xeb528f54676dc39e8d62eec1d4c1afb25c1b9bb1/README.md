@@ -10,6 +10,8 @@ name: Darwinia Commitment xKTON
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#378755"
 ---
 
 KTON is a token that incentivizes users to deposit their RING token for a specific period of time.

@@ -18,6 +18,8 @@ name: Pett AI
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#6149d5"
 ---
 
 PettAI is an AI-driven game merging advanced gameplay with intricate economics.

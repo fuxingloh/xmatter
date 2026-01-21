@@ -10,6 +10,8 @@ links:
     url: "https://x.com/send"
 symbol: send
 decimals: 0
+icon: icon.svg
+color: "#050505"
 ---
 
 Send is designed for instant payments and utilizes smart contract accounts to onboard users into the world of crypto.

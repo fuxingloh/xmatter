@@ -10,6 +10,8 @@ name: Wrapped eETH
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#5045b7"
 ---
 
 Ether.fi Wrapped eETH

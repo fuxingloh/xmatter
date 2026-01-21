@@ -10,6 +10,8 @@ links:
     url: "https://x.com/token"
 symbol: TT
 decimals: 6
+icon: icon.svg
+color: "#68a4f2"
 ---
 
 Testing token used in order to check Base bridge functionality for building dapps in Base blockchain.

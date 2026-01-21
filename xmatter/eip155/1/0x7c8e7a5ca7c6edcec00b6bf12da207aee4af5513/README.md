@@ -10,6 +10,8 @@ name: Wrapped HOGE
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#399efc"
 ---
 
 Redeemable 1-for-1 for HOGE on ETH. No tax or reflections.

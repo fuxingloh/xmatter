@@ -12,6 +12,8 @@ name: Rocket Pool ETH
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#f48040"
 ---
 
 Rocket Pool is the first truly decentralised Ethereum staking pool.

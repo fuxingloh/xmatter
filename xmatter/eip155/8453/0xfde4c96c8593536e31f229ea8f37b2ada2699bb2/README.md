@@ -12,6 +12,8 @@ name: Bridged Tether USD
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.png
+color: "#24a37b"
 ---
 
 This bridged token is not issued by, redeemable by, or affiliated with, Tether. Tether is not responsible for it. The T Logo is used under license from Tether solely to identify a bridged version of a token issued by Tether.

@@ -10,6 +10,8 @@ name: Cerebrum DAO Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#e0dbfc"
 ---
 
 Cerebrum DAO Governance Token

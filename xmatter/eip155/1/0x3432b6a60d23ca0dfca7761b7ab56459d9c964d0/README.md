@@ -18,6 +18,8 @@ name: Frax Share
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#f12e47"
 ---
 
 Frax is a new paradigm in stablecoin design, bringing together a two-token seigniorage share system, swap-based monetary policy, fully on-chain oracles, and decentralized governance alongside its fractional-algorithmic stablecoin design.

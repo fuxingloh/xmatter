@@ -30,6 +30,8 @@ name: VitaDAO
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#f9d933"
 ---
 
 The governance token for VitaDAO, a decentralized collective funding early stage longevity research.

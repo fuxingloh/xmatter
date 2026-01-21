@@ -10,6 +10,8 @@ name: ARPA Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#c8cfd5"
 ---
 
 ARPA innovates cryptographic systems to make blockchains more versatile, reliable, and interlinked.

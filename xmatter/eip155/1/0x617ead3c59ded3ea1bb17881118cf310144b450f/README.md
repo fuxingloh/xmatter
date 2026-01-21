@@ -10,6 +10,8 @@ name: The Secret Coin
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.png
+color: "#a21d1a"
 ---
 
 The Secret Coin is a fun Meme coin on the Ethereum network.

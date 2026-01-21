@@ -22,6 +22,7 @@ name: Fear
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
 ---
 
 Fear is a blockchain horror gaming and NFT project from the creators of the famous Whack It games.

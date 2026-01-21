@@ -12,6 +12,8 @@ name: Prime
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#d8f040"
 ---
 
 The Echelon Prime Foundation is a Web3 ecosystem advancing the next-gen of gaming. Echelon creates and distributes tools to encourage innovation in, and promote the growth of, games. These tools encompass smart contract libraries, communication infrastructure, governance frameworks and more.

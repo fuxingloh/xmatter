@@ -10,6 +10,8 @@ links:
     url: "https://x.com/ArcBlock_io"
 symbol: ABT
 decimals: 18
+icon: icon.svg
+color: "#1dcecf"
 ---
 
 ArcBlock is a blockchain ecosystem for building and deploying decentralized applications.

@@ -12,6 +12,8 @@ name: imgnAI.com
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#040404"
 ---
 
 $imgnAI is the creator token that powers the imgnAI platform - a suite of creative AI tools built for maximum fun, and maximum freedom.

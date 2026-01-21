@@ -10,6 +10,8 @@ name: Cigarette Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#f38c22"
 ---
 
 A memecoin inspired by the 2nd most common trait of the CryptoPunks

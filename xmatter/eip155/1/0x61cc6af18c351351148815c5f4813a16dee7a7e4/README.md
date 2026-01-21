@@ -12,6 +12,8 @@ name: WalletConnect
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#0c8bf3"
 ---
 
 WCT is the native token of the WalletConnect Network that secures the network via staking, rewards, fees, and governance.

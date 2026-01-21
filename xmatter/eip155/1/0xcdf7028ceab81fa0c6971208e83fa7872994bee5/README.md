@@ -16,6 +16,8 @@ name: Threshold Network Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#c28afc"
 ---
 
 Threshold Network is the home of $tBTC v2, proxy re-encryption #PRE, $thUSD, and all threshold cryptography.

@@ -16,6 +16,8 @@ name: Goldfinch
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#504160"
 ---
 
 Connect the world’s capital with the world’s growth.

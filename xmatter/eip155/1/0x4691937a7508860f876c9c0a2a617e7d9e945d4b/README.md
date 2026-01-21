@@ -18,6 +18,8 @@ name: WOO Network
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
+icon: icon.svg
+color: "#242434"
 ---
 
 Wootrade is a layer one trading infrastructure complete with deep liquidity, frontend trading GUI, and the ability to integrate into any exchange, trading desk, wallet, dApp, or other trading-related platform.
