@@ -99,3 +99,8 @@ await agent.walk(".repo/data", {
   filter: (data) => !!data.tokens.base,
   toUri: (data) => `eip155/8453/${data.tokens.base.address.toLowerCase()}`,
 });
+
+await agent.walk(".repo/data", {
+  filter: (data) => !!data.tokens.sepolia,
+  toUri: (data) => `eip155/11155111/${data.tokens.sepolia.address.toLowerCase()}`,
+});

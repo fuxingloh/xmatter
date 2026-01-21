@@ -29,7 +29,7 @@ export const FrontmatterSchema = z.object({
 
 export const XmatterSchema = z.object({
   data: FrontmatterSchema,
-  content: z.string(),
+  content: z.string().optional(),
 });
 
 export type Frontmatter = z.infer<typeof FrontmatterSchema>;

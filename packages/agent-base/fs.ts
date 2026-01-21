@@ -39,12 +39,12 @@ export abstract class FileSystemAgent<Entry> {
 
   async write(uri: string, entry: Entry, source: Path, target: Path, file: XmatterFile): Promise<void> {
     await mkdir(target, { recursive: true });
-    await writeFile(join(target, "README.md"), gray.stringify(file.content, file.data));
+    await writeFile(join(target, "README.md"), gray.stringify(file.content ?? "", file.data));
   }
 }
 
 export async function copyIfExists(from: string, to: string): Promise<void> {
-  if (await this.hasFile(from)) {
+  if (await hasFile(from)) {
     await copyFile(from, to);
   }
 }
