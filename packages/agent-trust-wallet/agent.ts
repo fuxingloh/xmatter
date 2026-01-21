@@ -49,6 +49,10 @@ export class TrustWalletAssets extends FileSystemAgent<Info> {
         if (link.name === "website" || link.name === "explorer") continue;
         if (!link.url?.startsWith("https://")) continue;
         if (!link.name) continue;
+        if (link.name === "twitter") {
+          link.name = "x";
+        }
+
         links.push(link);
       }
     }
@@ -58,7 +62,7 @@ export class TrustWalletAssets extends FileSystemAgent<Info> {
     return {
       data: {
         name: data.name,
-        provenance: "@fuxingloh/agent-trust-wallet",
+        provenance: "https://github.com/trustwallet/assets",
         standards: standards,
         symbol: data.symbol,
         decimals: data.decimals,

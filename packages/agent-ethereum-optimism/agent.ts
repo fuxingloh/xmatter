@@ -56,7 +56,7 @@ export class EthereumOptimism extends FileSystemAgent<TokenData> {
     const file = {
       data: {
         name: data.name,
-        provenance: "@fuxingloh/agent-ethereum-optimism",
+        provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io",
         standards: ["erc20"],
         symbol: data.symbol,
         decimals: data.decimals,
