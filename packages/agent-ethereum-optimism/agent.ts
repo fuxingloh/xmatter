@@ -95,7 +95,7 @@ await agent.walk(".repo/data", {
   toUri: (data) => `eip155/10/${data.tokens.optimism.address.toLowerCase()}`,
 });
 
-await agent.walk("repo/data", {
+await agent.walk(".repo/data", {
   filter: (data) => !!data.tokens.base,
   toUri: (data) => `eip155/8453/${data.tokens.base.address.toLowerCase()}`,
 });
