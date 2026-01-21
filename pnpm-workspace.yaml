@@ -2,6 +2,5 @@ packages:
   - "packages/*"
   - "website"
 ignoredBuiltDependencies:
-  - sharp
   - unrs-resolver
 updateNotifier: false

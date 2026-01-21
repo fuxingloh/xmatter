@@ -2,7 +2,7 @@ import { readFile } from "node:fs/promises";
 import { join } from "node:path";
 
 import { XmatterFile } from "xmatter/schema";
-import { FileSystemAgent, hasFile, copyIf } from "@workspace/agent-base/fs";
+import { FileSystemAgent, hasFile, copyImage } from "@workspace/agent-base/fs";
 
 interface Info {
   name: string;
@@ -31,9 +31,7 @@ export class TrustWalletAssets extends FileSystemAgent<Info> {
   }
 
   async write(uri: string, data: Info, source: string, target: string, file: XmatterFile): Promise<void> {
-    if (!(await hasFile(join(target, "icon.png")))) {
-      await copyIf(join(source, "logo.png"), join(target, "icon.png"));
-    }
+    await copyImage(join(source, "logo.png"), join(target, "icon.png"));
 
     await super.write(uri, data, source, target, file);
   }

@@ -1,12 +1,11 @@
-import { copyFile, mkdir, readdir, stat, writeFile } from "node:fs/promises";
+import { copyFile, mkdir, readdir, readFile, stat, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 import gray from "gray-matter";
 import { XmatterSchema, XmatterFile } from "xmatter/schema";
-import ColorThief from "colorthief";
+import { getColor } from "colorthief";
+import sharp from "sharp";
 
 type Path = string;
-
-const colorThief = new ColorThief();
 
 export abstract class FileSystemAgent<Entry> {
   async walk(
@@ -92,12 +91,19 @@ export abstract class FileSystemAgent<Entry> {
     }
 
     try {
-      const primaryColor = await new Promise<[number, number, number]>((resolve, reject) => {
-        colorThief.getColorFromUrl(iconPath, (color) => {
-          if (color) resolve(color);
-          else reject(new Error("Color extraction failed"));
-        });
-      });
+      let buffer: Buffer = await readFile(iconPath);
+
+      // Convert SVG to PNG using sharp before color extraction
+      if (file.data.icon.endsWith(".svg")) {
+        buffer = Buffer.from(await sharp(buffer).png().resize(64, 64).toBuffer());
+      }
+
+      const primaryColor = await getColor(buffer);
+
+      if (!primaryColor) {
+        return file;
+      }
+
       const hexColor = `#${primaryColor.map((c: number) => c.toString(16).padStart(2, "0")).join("")}`;
 
       return {
@@ -114,9 +120,11 @@ export abstract class FileSystemAgent<Entry> {
   }
 }
 
-export async function copyIf(from: string, to: string): Promise<void> {
+export async function copyImage(from: string, to: string): Promise<void> {
   if (await hasFile(from)) {
-    await copyFile(from, to);
+    if (!(await hasFile(to))) {
+      await copyFile(from, to);
+    }
   }
 }
 

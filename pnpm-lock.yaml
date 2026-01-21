@@ -47,16 +47,15 @@ importers:
       gray-matter:
         specifier: ^4.0.3
         version: 4.0.3
+      sharp:
+        specifier: ^0.34.5
+        version: 0.34.5
       xmatter:
         specifier: workspace:*
         version: link:../xmatter
       zod:
         specifier: ^4.3.5
         version: 4.3.5
-    devDependencies:
-      '@types/colorthief':
-        specifier: ^2.6.0
-        version: 2.6.0
 
   packages/agent-ethereum-optimism:
     dependencies:
@@ -993,9 +992,6 @@ packages:
 
   '@types/chai@5.2.3':
     resolution: {integrity: sha512-Mw558oeA9fFbv65/y4mHtXDs9bPnFMZAL/jxdPFUpOHHIXX91mcgEHbS5Lahr+pwZFR8A7GQleRWeI6cGFC2UA==}
-
-  '@types/colorthief@2.6.0':
-    resolution: {integrity: sha512-GZBHPzkgEsyZqO7a9rhqkcW2BJZW+UpRlIUorY8vfOk7BVFVZMuDvZRPyaExv7ML0DaeB/t78PUOTkGo/THDpQ==}
 
   '@types/debug@4.1.12':
     resolution: {integrity: sha512-vIChWdVG3LG1SMxEvI/AK+FWJthlrqlTu7fbrlywTkkaONwk/UAGaULXRlf8vkzFBLVm0zkMdCquhL5aOjhXPQ==}
@@ -3891,8 +3887,6 @@ snapshots:
     dependencies:
       '@types/deep-eql': 4.0.2
       assertion-error: 2.0.1
-
-  '@types/colorthief@2.6.0': {}
 
   '@types/debug@4.1.12':
     dependencies:

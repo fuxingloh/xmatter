@@ -2,7 +2,7 @@ import { readFile } from "node:fs/promises";
 import { join } from "node:path";
 
 import { XmatterFile } from "xmatter/schema";
-import { FileSystemAgent, hasFile, copyIf } from "@workspace/agent-base/fs";
+import { FileSystemAgent, hasFile, copyImage } from "@workspace/agent-base/fs";
 
 interface Token {
   address: string;
@@ -36,13 +36,8 @@ export class EthereumOptimism extends FileSystemAgent<TokenData> {
   }
 
   async write(uri: string, data: TokenData, source: string, target: string, file: XmatterFile): Promise<void> {
-    if (!(await hasFile(join(target, "icon.png")))) {
-      await copyIf(join(source, "logo.png"), join(target, "icon.png"));
-    }
-
-    if (!(await hasFile(join(target, "icon.svg")))) {
-      await copyIf(join(source, "logo.svg"), join(target, "icon.svg"));
-    }
+    await copyImage(join(source, "logo.png"), join(target, "icon.png"));
+    await copyImage(join(source, "logo.svg"), join(target, "icon.svg"));
 
     await super.write(uri, data, source, target, file);
   }
