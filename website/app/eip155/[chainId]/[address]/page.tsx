@@ -29,7 +29,7 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
   const { content, data } = gray(await readme.text());
 
   return (
-    <div>
+    <main className="mx-auto w-full max-w-7xl px-5">
       <pre>{JSON.stringify(data, null, 2)}</pre>
 
       <div>
@@ -37,6 +37,6 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
       </div>
 
       <Markdown>{content}</Markdown>
-    </div>
+    </main>
   );
 }
