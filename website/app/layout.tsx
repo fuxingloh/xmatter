@@ -6,6 +6,7 @@ import { ThemeProvider } from "next-themes";
 import { Analytics } from "@vercel/analytics/react";
 
 import { ActiveLink } from "@/components/ActiveLink";
+import { XMatter } from "@/components/icons/XMatter";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://xmatter.org"),
@@ -26,10 +27,11 @@ export default function RootLayout(props: { children: ReactNode }): ReactElement
             <ActiveLink
               href="/"
               mode="exact"
-              className="hover:bg-invert/5 -mx-3 -my-1 rounded px-3 py-1"
+              className="hover:bg-invert/5 -mx-3 -my-1 flex items-center gap-1.5 rounded px-3 py-1"
               activeClassName="!cursor-default hover:!bg-transparent"
             >
-              <div className="text-lg font-bold">xmatter</div>
+              <XMatter className="size-4.5" />
+              <div className="text-lg font-bold">XMatter</div>
             </ActiveLink>
           </header>
           {props.children}
