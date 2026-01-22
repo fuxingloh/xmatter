@@ -6,13 +6,15 @@ import { ThemeProvider } from "next-themes";
 import { Analytics } from "@vercel/analytics/react";
 
 import { ActiveLink } from "@/components/ActiveLink";
+import { GitHub } from "@/components/icons/GitHub";
 import { XMatter } from "@/components/icons/XMatter";
+import Link from "next/link";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://xmatter.org"),
   title: {
     template: `%s – XMatter`,
-    default: `XMatter`,
+    default: `XMatter: The frontpage of an address.`,
   },
   description: "Structured metadata for smart contracts, the frontpage of an address.",
 };
@@ -33,6 +35,14 @@ export default function RootLayout(props: { children: ReactNode }): ReactElement
               <XMatter className="size-4.5" />
               <div className="text-lg font-bold">XMatter</div>
             </ActiveLink>
+            <Link
+              href="https://github.com/fuxingloh/xmatter"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="-mx-3 -my-1 flex items-center gap-1.5 rounded px-3 py-1"
+            >
+              <GitHub className="size-4.5" />
+            </Link>
           </header>
           {props.children}
         </ThemeProvider>
