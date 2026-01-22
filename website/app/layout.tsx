@@ -21,9 +21,9 @@ export default function RootLayout(props: { children: ReactNode }): ReactElement
   return (
     <html lang="en" suppressHydrationWarning>
       <head />
-      <body className="bg-mono-50 text-mono-950 mx-auto w-full max-w-5xl px-5">
+      <body className="bg-mono-50 text-mono-950">
         <ThemeProvider>
-          <header className="flex items-center justify-between py-6">
+          <header className="mx-auto flex w-full max-w-7xl items-center justify-between px-5 py-5">
             <ActiveLink
               href="/"
               mode="exact"
