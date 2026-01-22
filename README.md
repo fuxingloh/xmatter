@@ -1,8 +1,10 @@
 # [XMatter](https://xmatter.org)
 
-**Frontmatter** = Structured metadata for a Markdown file, the front matter of a file.
+Structured metadata for smart contracts, the frontpage of an address.
 
-**XMatter** = Structured metadata for smart contracts, the frontpage of an address.
+> If you need a beautifully crafted crypto icon library for Tokens, Networks, and Wallets,
+> you should look at [0xa3k5/web3icons](https://github.com/0xa3k5/web3icons).
+> This library focuses on a separate problem space.
 
 ## XMatter Standards
 
