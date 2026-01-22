@@ -40,7 +40,8 @@
     "react-dom": "19.2.3",
     "react-markdown": "^10.1.0",
     "sharp": "^0.34.5",
-    "tailwind-merge": "^3.4.0"
+    "tailwind-merge": "^3.4.0",
+    "xmatter": "workspace:*"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.18",
