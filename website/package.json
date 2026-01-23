@@ -3,11 +3,11 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "next build",
+    "build": "bun --bun next build",
     "clean": "rm -rf .next",
-    "dev": "next dev",
+    "dev": "bun --bun next dev",
     "lint": "eslint .",
-    "start": "next start"
+    "start": "bun --bun next start"
   },
   "lint-staged": {
     "!(*.{js,jsx,ts,tsx})": [

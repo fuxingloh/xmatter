@@ -18,22 +18,22 @@ Xmatter is a structured metadata registry for smart contracts - the "frontpage" 
 ## Commands
 
 ```bash
-pnpm install          # Install dependencies
-pnpm build            # Build all packages (turbo)
-pnpm test             # Run all tests (turbo)
-pnpm lint             # Lint and fix (turbo)
-pnpm format           # Format with prettier
+bun install           # Install dependencies
+bun run build         # Build all packages (turbo)
+bun run test          # Run all tests (turbo)
+bun run lint          # Lint and fix (turbo)
+bun run format        # Format with prettier
 
 # Run a single package's tests
-turbo run test --filter=xmatter
-turbo run test --filter=@workspace/agent-base
+bunx turbo run test --filter=xmatter
+bunx turbo run test --filter=@workspace/agent-base
 
 # Run agents to ingest data (from their package directories)
-cd packages/agent-ethereum-optimism && pnpm agent
-cd packages/agent-trust-wallet && pnpm agent
+cd packages/agent-ethereum-optimism && bun run agent
+cd packages/agent-trust-wallet && bun run agent
 
 # Website development
-cd website && pnpm dev
+cd website && bun run dev
 ```
 
 ## Architecture
@@ -63,7 +63,7 @@ The `FrontmatterSchema` defines:
 
 ## Technical Stack
 
-- Node 24, pnpm 10.28.0
+- Bun
 - TypeScript 5.9, Vitest for testing
 - Turborepo for monorepo orchestration
 - Website: Next.js 16, React 19, Tailwind CSS 4

@@ -1,6 +1,0 @@
-packages:
-  - "packages/*"
-  - "website"
-ignoredBuiltDependencies:
-  - unrs-resolver
-updateNotifier: false

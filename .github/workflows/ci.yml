@@ -27,7 +27,7 @@ jobs:
       - uses: actions/checkout@v6
       - uses: ./.github/actions/setup
 
-      - run: turbo run build --filter "./packages/*"
+      - run: bunx turbo run build --filter "./packages/*"
 
   test:
     name: Test
@@ -36,7 +36,7 @@ jobs:
       - uses: actions/checkout@v6
       - uses: ./.github/actions/setup
 
-      - run: turbo run test
+      - run: bunx turbo run test
 
   lint_prettier:
     name: Lint [prettier]
@@ -45,7 +45,7 @@ jobs:
       - uses: actions/checkout@v6
       - uses: ./.github/actions/setup
 
-      - run: pnpm prettier --check .
+      - run: bunx prettier --check .
 
   lint_eslint:
     name: Lint [eslint]
@@ -54,4 +54,4 @@ jobs:
       - uses: actions/checkout@v6
       - uses: ./.github/actions/setup
 
-      - run: turbo run lint
+      - run: bunx turbo run lint
