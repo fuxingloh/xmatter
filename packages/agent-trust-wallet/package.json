@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "agent": "tsx agent.ts",
+    "agent": "bun agent.ts",
     "test": "vitest run"
   },
   "lint-staged": {
@@ -14,7 +14,6 @@
   },
   "dependencies": {
     "@workspace/agent-base": "workspace:*",
-    "tsx": "^4.19.2",
     "xmatter": "workspace:*"
   }
 }

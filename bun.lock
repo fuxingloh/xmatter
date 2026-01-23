@@ -32,7 +32,6 @@
       "version": "0.0.0",
       "dependencies": {
         "@workspace/agent-base": "workspace:*",
-        "tsx": "^4.19.2",
         "xmatter": "workspace:*",
       },
     },
@@ -41,7 +40,6 @@
       "version": "0.0.0",
       "dependencies": {
         "@workspace/agent-base": "workspace:*",
-        "tsx": "^4.19.2",
         "xmatter": "workspace:*",
       },
     },
