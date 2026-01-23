@@ -1,4 +1,4 @@
-# [XMatter](https://xmatter.org)
+# [Xmatter](https://xmatter.org)
 
 Structured metadata for smart contracts, the frontpage of an address.
 
@@ -6,9 +6,9 @@ Structured metadata for smart contracts, the frontpage of an address.
 > you should look at [0xa3k5/web3icons](https://github.com/0xa3k5/web3icons).
 > This library focuses on a separate problem space.
 
-## XMatter Standards
+## Xmatter Standards
 
-XMatter follows a url-safe [CAIP-10](https://standards.chainagnostic.org) standard to determine
+Xmatter follows a url-safe [CAIP-10](https://standards.chainagnostic.org) standard to determine
 the canonical identifier for a "matter".
 For example, Wrapped Ether (WETH) is `eip155/1/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2` without checksum.
 While an asset can implement multiple standards,

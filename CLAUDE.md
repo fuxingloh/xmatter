@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-XMatter is a structured metadata registry for smart contracts - the "frontpage" of blockchain addresses. It uses a URL-safe CAIP-10 standard for canonical identifiers across multiple blockchain namespaces (EVM/eip155, Solana/solana, TVM/tip474).
+Xmatter is a structured metadata registry for smart contracts - the "frontpage" of blockchain addresses. It uses a URL-safe CAIP-10 standard for canonical identifiers across multiple blockchain namespaces (EVM/eip155, Solana/solana, TVM/tip474).
 
 ## Repository Structure
 
@@ -43,7 +43,7 @@ cd website && pnpm dev
 Agents extend `FileSystemAgent<Entry>` from `@workspace/agent-base/fs`:
 
 1. `readEntry(path)` - Parse source data (JSON files from external repos)
-2. `toReadmeFile(uri, entry)` - Transform to XMatter schema format
+2. `toReadmeFile(uri, entry)` - Transform to Xmatter schema format
 3. `write()` - Merge with existing data, copy icons, extract primary colors, write README.md
 
 Entries are written to `xmatter/{namespace}/{chainId}/{address}/README.md` as YAML frontmatter + markdown content. A `LOCK` file in a directory prevents agent overwrites.
