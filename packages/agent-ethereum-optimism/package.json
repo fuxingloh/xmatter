@@ -4,8 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "agent": "bun agent.ts",
-    "test": "vitest run"
+    "agent": "bun agent.ts"
   },
   "lint-staged": {
     "*": [

@@ -10,8 +10,7 @@
   ],
   "scripts": {
     "build": "tsc",
-    "clean": "tsc --build --clean",
-    "test": "vitest run"
+    "clean": "tsc --build --clean"
   },
   "lint-staged": {
     "*": [
