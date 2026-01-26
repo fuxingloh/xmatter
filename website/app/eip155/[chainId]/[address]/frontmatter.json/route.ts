@@ -6,15 +6,17 @@ export async function GET(_: Request, context: RouteContext<"/eip155/[chainId]/[
   const { chainId, address } = await context.params;
 
   const readme = await publicFetch(`/eip155/${chainId}/${address}/README.md`);
+  if (!readme.ok) {
+    return new Response(null, { status: 404 });
+  }
+
   const { data, content } = gray(await readme.text());
   const stripped = removeMarkdown(content).trim();
   const description = stripped.length > 200 ? stripped.slice(0, 200) + "…" : stripped;
-  return Response.json(
-    { ...data, description },
-    {
-      headers: {
-        "Cache-Control": "public, max-age=604800",
-      },
+  const frontmatter = { ...data, description };
+  return Response.json(frontmatter, {
+    headers: {
+      "Cache-Control": "public, max-age=604800",
     },
-  );
+  });
 }
