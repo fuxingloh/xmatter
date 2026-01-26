@@ -7,7 +7,7 @@ export async function GET(_: Request, context: RouteContext<"/eip155/[chainId]/[
 
   const readme = await publicFetch(`/eip155/${chainId}/${address}/README.md`);
   if (!readme.ok) {
-    return new Response(null, { status: 404 });
+    return new Response(null, { status: readme.status });
   }
 
   const { data, content } = gray(await readme.text());
