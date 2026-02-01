@@ -12,7 +12,7 @@ export async function generateStaticParams() {
 
 const FILES = ["icon.svg", "icon.png", "icon.jpg"];
 
-export async function GET(_: Request, context: RouteContext<"/eip155/[chainId]/[address]/icon.webp">) {
+export async function GET(_: Request, context: RouteContext<"/eip155/[chainId]/[address]/icon">) {
   const { chainId, address } = await context.params;
 
   for (const filename of FILES) {
@@ -21,7 +21,7 @@ export async function GET(_: Request, context: RouteContext<"/eip155/[chainId]/[
       if (!image.ok) continue;
 
       const imageBuffer = await image.arrayBuffer();
-      const webpBuffer = await sharp(imageBuffer).resize({ width: 512, height: 512 }).webp({ quality: 80 }).toBuffer();
+      const webpBuffer = await sharp(imageBuffer).resize({ width: 256, height: 256 }).webp({ quality: 90 }).toBuffer();
 
       // Cache 1 day max.
       return new Response(new Uint8Array(webpBuffer), {
@@ -33,5 +33,5 @@ export async function GET(_: Request, context: RouteContext<"/eip155/[chainId]/[
     } catch (error) {}
   }
 
-  return new Response("Icon not found", { status: 404 });
+  return new Response(null, { status: 404, headers: { "Cache-Control": "public, max-age=86400" } });
 }

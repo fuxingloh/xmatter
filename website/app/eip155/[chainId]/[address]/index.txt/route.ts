@@ -49,7 +49,7 @@ export async function generateStaticParams() {
   return result;
 }
 
-export async function GET(_req: Request, route: RouteContext<"/eip155/[chainId]/[address]/index">) {
+export async function GET(_req: Request, route: RouteContext<"/eip155/[chainId]/[address]/index.txt">) {
   const { chainId, address } = await route.params;
   const prefix = address.toLowerCase();
 
