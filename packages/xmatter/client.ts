@@ -9,7 +9,7 @@ export class Eip155Client {
   private readonly baseUrl: URL;
   private readonly cache: LRUCache<string, string[]>;
 
-  constructor(baseUrl: string | URL = "https://xmatter.org", cacheSize: number = 512) {
+  constructor(baseUrl: string | URL = "https://xmatter.org", cacheSize: number = 4096) {
     this.baseUrl = new URL(baseUrl);
     this.cache = new LRUCache({ max: cacheSize });
   }
@@ -33,7 +33,8 @@ export class Eip155Client {
     }
     const text = await res.text();
     const entries = text === "" ? [] : text.split("\n");
-    this.cache.set(key, entries);
+    const ttl = parseMaxAge(res.headers.get("cache-control"));
+    this.cache.set(key, entries, { ttl });
     return entries;
   }
 
@@ -90,6 +91,11 @@ export class Eip155Client {
     if (!(await this.has(chainId, address))) return undefined;
     return this.getUrl(`/eip155/${chainId}/${address}/icon.webp`);
   }
+}
+
+function parseMaxAge(header: string | null): number {
+  const match = header?.match(/max-age=(\d+)/);
+  return match ? parseInt(match[1]!, 10) * 1000 : 30 * 60 * 1000;
 }
 
 export class XmatterError extends Error {
