@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://xmatter.org"),
   title: {
     template: `%s – Xmatter`,
-    default: `Xmatter: The frontpage of an address.`,
+    default: `Xmatter - frontpage for address`,
   },
   description: "Structured metadata for smart contracts, the frontpage of an address.",
 };
