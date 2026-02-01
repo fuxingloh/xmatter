@@ -1,10 +1,10 @@
 import type { ReactNode } from "react";
 
-import type { Eip155Client } from "../client.js";
+import type { XmatterClient } from "../client.js";
 import { IconWithFallback, type IconWithFallbackProps } from "./client.js";
 
 export type XmatterIconProps = {
-  client: Eip155Client;
+  client: XmatterClient;
   chainId: string;
   address: string;
 } & Omit<IconWithFallbackProps, "src">;

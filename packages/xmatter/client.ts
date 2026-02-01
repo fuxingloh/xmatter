@@ -3,27 +3,28 @@ import type { Frontmatter } from "./schema.js";
 
 export type { Frontmatter };
 
-export type Eip155Address = `0x${string}`;
-
-export class Eip155Client {
+export class XmatterClient {
+  private readonly namespace: string;
   private readonly baseUrl: URL;
   private readonly cache: LRUCache<string, string[]>;
 
-  constructor(baseUrl: string | URL = "https://xmatter.org", cacheSize: number = 4096) {
+  constructor(namespace: string, baseUrl: string | URL = "https://xmatter.org", cacheSize: number = 4096) {
+    this.namespace = namespace;
     this.baseUrl = new URL(baseUrl);
     this.cache = new LRUCache({ max: cacheSize });
   }
 
   /**
-   * List addresses or sub-prefixes under an EIP-155 chain by prefix.
-   * Returns full addresses if <=256 matches, otherwise returns next-byte prefixes.
+   * Fetch `/{namespace}/{chainId}/{prefix}/index.txt` and return the entries.
+   * Returns full addresses if <=256 matches, otherwise returns next-byte sub-prefixes.
+   * Results are cached with TTL from the response Cache-Control header.
    */
   async getIndex(chainId: string, prefix: string): Promise<string[]> {
     const key = `${chainId}/${prefix.toLowerCase()}`;
     const cached = this.cache.get(key);
     if (cached !== undefined) return cached;
 
-    const res = await fetch(new URL(`/eip155/${chainId}/${prefix}/index.txt`, this.baseUrl));
+    const res = await fetch(new URL(`/${this.namespace}/${chainId}/${prefix}/index.txt`, this.baseUrl));
     if (!res.ok) {
       throw new XmatterError(res.status, await res.text());
     }
@@ -35,8 +36,9 @@ export class Eip155Client {
   }
 
   /**
-   * Check if an address exists by walking the index prefix tree.
-   * Returns true if the address is found in the index, false otherwise.
+   * Check if an address exists by walking the index prefix tree in 2-byte steps.
+   * Fetches progressively longer prefixes until entries resolve to full addresses,
+   * then checks for an exact match.
    */
   async has(chainId: string, address: string): Promise<boolean> {
     const lower = address.toLowerCase();
@@ -56,13 +58,14 @@ export class Eip155Client {
   }
 
   /**
-   * Get frontmatter metadata for a specific address.
-   * Uses the index to check existence first, avoiding unnecessary requests.
+   * Fetch `/{namespace}/{chainId}/{address}/frontmatter.json` which returns
+   * parsed YAML frontmatter from the address's README.md.
+   * Checks existence via the index first to avoid unnecessary requests.
    */
-  async getFrontmatter(chainId: string, address: Eip155Address): Promise<Frontmatter | undefined> {
+  async getFrontmatter(chainId: string, address: string): Promise<Frontmatter | undefined> {
     if (!(await this.has(chainId, address))) return undefined;
 
-    const res = await fetch(new URL(`/eip155/${chainId}/${address}/frontmatter.json`, this.baseUrl));
+    const res = await fetch(new URL(`/${this.namespace}/${chainId}/${address}/frontmatter.json`, this.baseUrl));
     if (res.status === 404) return undefined;
     if (!res.ok) {
       throw new XmatterError(res.status, await res.text());
@@ -71,21 +74,23 @@ export class Eip155Client {
   }
 
   /**
-   * Get the icon URL for a specific address.
-   * Uses the index to check existence first, returning undefined for missing addresses.
+   * Build the URL for `/{namespace}/{chainId}/{address}/icon` which serves
+   * the original image (svg/png/jpg) if <25KB, otherwise converts to 256x256 WebP.
+   * Checks existence via the index first, returning undefined for missing addresses.
    */
   async getIconUrl(chainId: string, address: string): Promise<URL | undefined> {
     if (!(await this.has(chainId, address))) return undefined;
-    return new URL(`/eip155/${chainId}/${address}/icon`, this.baseUrl);
+    return new URL(`/${this.namespace}/${chainId}/${address}/icon`, this.baseUrl);
   }
 
   /**
-   * Get the icon WebP URL for a specific address.
-   * Uses the index to check existence first, returning undefined for missing addresses.
+   * Build the URL for `/{namespace}/{chainId}/{address}/icon.webp` which always
+   * converts the original icon (svg/png/jpg) to 256x256 WebP.
+   * Checks existence via the index first, returning undefined for missing addresses.
    */
-  async getIconWebpUrl(chainId: string, address: Eip155Address): Promise<URL | undefined> {
+  async getIconWebpUrl(chainId: string, address: string): Promise<URL | undefined> {
     if (!(await this.has(chainId, address))) return undefined;
-    return new URL(`/eip155/${chainId}/${address}/icon.webp`, this.baseUrl);
+    return new URL(`/${this.namespace}/${chainId}/${address}/icon.webp`, this.baseUrl);
   }
 }
 

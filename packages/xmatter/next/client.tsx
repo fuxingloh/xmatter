@@ -4,6 +4,7 @@ import Image, { type ImageProps } from "next/image";
 import { type ReactNode, useState } from "react";
 
 export type XmatterIconProps = {
+  namespace: string;
   chainId: string;
   address: string;
   fallback: ReactNode;
@@ -25,11 +26,12 @@ export function IconWithFallback({ fallback, ...props }: IconWithFallbackProps):
 }
 
 export function XmatterIcon({
+  namespace,
   chainId,
   address,
   fallback,
   baseUrl = "https://xmatter.org",
   ...props
 }: XmatterIconProps): ReactNode {
-  return <IconWithFallback src={`${baseUrl}/eip155/${chainId}/${address}/icon`} fallback={fallback} {...props} />;
+  return <IconWithFallback src={`${baseUrl}/${namespace}/${chainId}/${address}/icon`} fallback={fallback} {...props} />;
 }
