@@ -12,7 +12,8 @@ const ContentSecurityPolicy = `
 
 const nextConfig: NextConfig = {
   poweredByHeader: false,
-  cacheComponents: true,
+  // TODO(@fuxing): https://github.com/vercel/next.js/issues/76612
+  cacheComponents: false,
   outputFileTracingExcludes: {
     "/*": ["../xmatter/**/*", "./public/**/*"],
   },
