@@ -41,10 +41,19 @@ export class Eip155Client {
     return res.json();
   }
 
+  async getIcon(chainId: string, address: Eip155Address): Promise<ArrayBuffer | undefined> {
+    const res = await fetch(this.getUrl(`/eip155/${chainId}/${address}/icon`));
+    if (res.status === 404) return undefined;
+    if (!res.ok) {
+      throw new XmatterError(res.status, await res.text());
+    }
+    return res.arrayBuffer();
+  }
+
   /**
    * Get the icon for a specific address as a WebP ArrayBuffer.
    */
-  async getIcon(chainId: string, address: Eip155Address): Promise<ArrayBuffer | undefined> {
+  async getIconWebp(chainId: string, address: Eip155Address): Promise<ArrayBuffer | undefined> {
     const res = await fetch(this.getUrl(`/eip155/${chainId}/${address}/icon.webp`));
     if (res.status === 404) return undefined;
     if (!res.ok) {
