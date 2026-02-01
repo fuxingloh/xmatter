@@ -21,12 +21,13 @@ export async function GET(_: Request, context: RouteContext<"/eip155/[chainId]/[
       if (!image.ok) continue;
 
       const imageBuffer = await image.arrayBuffer();
-      const webpBuffer = await sharp(imageBuffer).resize({ width: 256, height: 256 }).webp({ quality: 100 }).toBuffer();
+      const webpBuffer = await sharp(imageBuffer).resize({ width: 512, height: 512 }).webp({ quality: 80 }).toBuffer();
 
+      // Cache 1 day max.
       return new Response(new Uint8Array(webpBuffer), {
         headers: {
           "Content-Type": "image/webp",
-          "Cache-Control": "public, max-age=604800",
+          "Cache-Control": "public, max-age=86400",
         },
       });
     } catch (error) {}

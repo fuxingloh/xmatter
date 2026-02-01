@@ -6,6 +6,7 @@ export const FrontmatterSchema = z.object({
     .min(1)
     .regex(/^(?!\s)(?!.*\s$).*$/)
     .describe("Name of the token"),
+  description: z.string().optional(),
   provenance: z.string().describe("Where did this entry come from?"),
   standards: z.array(z.string()),
   tags: z.array(z.string()).optional(),

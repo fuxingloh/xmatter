@@ -16,7 +16,7 @@ export async function GET(_: Request, context: RouteContext<"/eip155/[chainId]/[
   const frontmatter = { ...data, description };
   return Response.json(frontmatter, {
     headers: {
-      "Cache-Control": "public, max-age=604800",
+      "Cache-Control": "public, max-age=86400",
     },
   });
 }
