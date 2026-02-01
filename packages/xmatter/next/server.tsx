@@ -1,11 +1,13 @@
 import type { ReactNode } from "react";
 
 import type { Eip155Client } from "../client.js";
-import { XmatterIcon as ClientXmatterIcon, type XmatterIconProps as ClientXmatterIconProps } from "./client.js";
+import { IconWithFallback, type IconWithFallbackProps } from "./client.js";
 
 export type XmatterIconProps = {
   client: Eip155Client;
-} & ClientXmatterIconProps;
+  chainId: string;
+  address: string;
+} & Omit<IconWithFallbackProps, "src">;
 
 export async function XmatterIcon({
   client,
@@ -14,10 +16,10 @@ export async function XmatterIcon({
   fallback,
   ...props
 }: XmatterIconProps): Promise<ReactNode> {
-  const exists = await client.has(chainId, address);
-  if (!exists) {
+  const url = await client.getIconUrl(chainId, address);
+  if (!url) {
     return fallback;
   }
 
-  return <ClientXmatterIcon chainId={chainId} address={address} fallback={fallback} {...props} />;
+  return <IconWithFallback src={url.toString()} fallback={fallback} {...props} />;
 }

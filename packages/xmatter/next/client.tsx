@@ -10,6 +10,20 @@ export type XmatterIconProps = {
   baseUrl?: string;
 } & Omit<ImageProps, "src" | "onError">;
 
+export type IconWithFallbackProps = {
+  fallback: ReactNode;
+} & Omit<ImageProps, "onError">;
+
+export function IconWithFallback({ fallback, ...props }: IconWithFallbackProps): ReactNode {
+  const [error, setError] = useState(false);
+
+  if (error) {
+    return fallback;
+  }
+
+  return <Image onError={() => setError(true)} {...props} />;
+}
+
 export function XmatterIcon({
   chainId,
   address,
@@ -17,11 +31,5 @@ export function XmatterIcon({
   baseUrl = "https://xmatter.org",
   ...props
 }: XmatterIconProps): ReactNode {
-  const [error, setError] = useState(false);
-
-  if (error) {
-    return fallback;
-  }
-
-  return <Image src={`${baseUrl}/eip155/${chainId}/${address}/icon`} onError={() => setError(true)} {...props} />;
+  return <IconWithFallback src={`${baseUrl}/eip155/${chainId}/${address}/icon`} fallback={fallback} {...props} />;
 }

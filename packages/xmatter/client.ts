@@ -74,7 +74,7 @@ export class Eip155Client {
    * Get the icon URL for a specific address.
    * Uses the index to check existence first, returning undefined for missing addresses.
    */
-  async getIconUrl(chainId: string, address: Eip155Address): Promise<URL | undefined> {
+  async getIconUrl(chainId: string, address: string): Promise<URL | undefined> {
     if (!(await this.has(chainId, address))) return undefined;
     return new URL(`/eip155/${chainId}/${address}/icon`, this.baseUrl);
   }
