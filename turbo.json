@@ -8,7 +8,8 @@
     "build": {
       "inputs": ["tsconfig.json", "./**/*.ts"],
       "outputs": ["./**/*.js", "./**/*.d.ts", "./**/*.d.ts.map"],
-      "dependsOn": ["^build"]
+      "dependsOn": ["^build"],
+      "env": ["PUBLIC_FETCH_BYPASS"]
     },
     "test": {
       "inputs": ["tsconfig.json", "./**/*.ts", "./**/*.test.ts"],
