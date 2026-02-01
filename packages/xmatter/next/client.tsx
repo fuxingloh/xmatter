@@ -3,40 +3,25 @@
 import Image, { type ImageProps } from "next/image";
 import { type ReactNode, useState } from "react";
 
-export type Eip155IconProps = {
+export type XmatterIconProps = {
   chainId: string;
   address: string;
   fallback: ReactNode;
-  alt: string;
-  width: number;
-  height: number;
   baseUrl?: string;
-} & Omit<ImageProps, "src" | "alt" | "width" | "height" | "onError">;
+} & Omit<ImageProps, "src" | "onError">;
 
-export function Eip155Icon({
+export function XmatterIcon({
   chainId,
   address,
   fallback,
-  alt,
-  width,
-  height,
   baseUrl = "https://xmatter.org",
   ...props
-}: Eip155IconProps): ReactNode {
+}: XmatterIconProps): ReactNode {
   const [error, setError] = useState(false);
 
   if (error) {
     return fallback;
   }
 
-  return (
-    <Image
-      src={`${baseUrl}/eip155/${chainId}/${address}/icon`}
-      alt={alt}
-      width={width}
-      height={height}
-      onError={() => setError(true)}
-      {...props}
-    />
-  );
+  return <Image src={`${baseUrl}/eip155/${chainId}/${address}/icon`} onError={() => setError(true)} {...props} />;
 }

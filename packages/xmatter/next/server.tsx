@@ -1,23 +1,23 @@
 import type { ReactNode } from "react";
 
-import type { Eip155Address, Eip155Client } from "../client.js";
-import { Eip155Icon as ClientEip155Icon, type Eip155IconProps } from "./client.js";
+import type { Eip155Client } from "../client.js";
+import { XmatterIcon as ClientXmatterIcon, type XmatterIconProps as ClientXmatterIconProps } from "./client.js";
 
-export type ServerEip155IconProps = {
+export type XmatterIconProps = {
   client: Eip155Client;
-} & Eip155IconProps;
+} & ClientXmatterIconProps;
 
-export async function Eip155Icon({
+export async function XmatterIcon({
   client,
   chainId,
   address,
   fallback,
   ...props
-}: ServerEip155IconProps): Promise<ReactNode> {
-  const exists = await client.has(chainId, address as Eip155Address);
+}: XmatterIconProps): Promise<ReactNode> {
+  const exists = await client.has(chainId, address);
   if (!exists) {
     return fallback;
   }
 
-  return <ClientEip155Icon chainId={chainId} address={address} fallback={fallback} {...props} />;
+  return <ClientXmatterIcon chainId={chainId} address={address} fallback={fallback} {...props} />;
 }

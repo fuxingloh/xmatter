@@ -38,7 +38,7 @@ export class Eip155Client {
    * Check if an address exists by walking the index prefix tree.
    * Returns true if the address is found in the index, false otherwise.
    */
-  async has(chainId: string, address: Eip155Address): Promise<boolean> {
+  async has(chainId: string, address: string): Promise<boolean> {
     const lower = address.toLowerCase();
 
     for (let len = 2; len < lower.length; len += 2) {
