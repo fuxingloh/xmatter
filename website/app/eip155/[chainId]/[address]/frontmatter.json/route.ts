@@ -1,6 +1,6 @@
 import { publicFetch } from "@/app/public";
 import gray from "gray-matter";
-import removeMarkdown from "remove-markdown";
+import removeMd from "remove-markdown";
 
 export async function GET(_: Request, context: RouteContext<"/eip155/[chainId]/[address]/frontmatter.json">) {
   const { chainId, address } = await context.params;
@@ -11,7 +11,7 @@ export async function GET(_: Request, context: RouteContext<"/eip155/[chainId]/[
   }
 
   const { data, content } = gray(await readme.text());
-  const stripped = removeMarkdown(content).trim();
+  const stripped = removeMd(content).trim();
   const description = stripped.length > 200 ? stripped.slice(0, 200) + "…" : stripped;
   const frontmatter = { ...data, description };
   return Response.json(frontmatter, {
