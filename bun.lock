@@ -49,6 +49,17 @@
         "lru-cache": "^11.2.5",
         "zod": "^4.3.5",
       },
+      "devDependencies": {
+        "@types/react": "^19.2.10",
+      },
+      "peerDependencies": {
+        "next": ">=14",
+        "react": ">=18",
+      },
+      "optionalPeers": [
+        "next",
+        "react",
+      ],
     },
     "website": {
       "name": "@workspace/website",
