@@ -14,10 +14,6 @@ export class Eip155Client {
     this.cache = new LRUCache({ max: cacheSize });
   }
 
-  private getUrl(path: string): URL {
-    return new URL(path, this.baseUrl);
-  }
-
   /**
    * List addresses or sub-prefixes under an EIP-155 chain by prefix.
    * Returns full addresses if <=256 matches, otherwise returns next-byte prefixes.
@@ -27,7 +23,7 @@ export class Eip155Client {
     const cached = this.cache.get(key);
     if (cached !== undefined) return cached;
 
-    const res = await fetch(this.getUrl(`/eip155/${chainId}/${prefix}/index.txt`));
+    const res = await fetch(new URL(`/eip155/${chainId}/${prefix}/index.txt`, this.baseUrl));
     if (!res.ok) {
       throw new XmatterError(res.status, await res.text());
     }
@@ -66,7 +62,7 @@ export class Eip155Client {
   async getFrontmatter(chainId: string, address: Eip155Address): Promise<Frontmatter | undefined> {
     if (!(await this.has(chainId, address))) return undefined;
 
-    const res = await fetch(this.getUrl(`/eip155/${chainId}/${address}/frontmatter.json`));
+    const res = await fetch(new URL(`/eip155/${chainId}/${address}/frontmatter.json`, this.baseUrl));
     if (res.status === 404) return undefined;
     if (!res.ok) {
       throw new XmatterError(res.status, await res.text());
@@ -80,7 +76,7 @@ export class Eip155Client {
    */
   async getIconUrl(chainId: string, address: Eip155Address): Promise<URL | undefined> {
     if (!(await this.has(chainId, address))) return undefined;
-    return this.getUrl(`/eip155/${chainId}/${address}/icon`);
+    return new URL(`/eip155/${chainId}/${address}/icon`, this.baseUrl);
   }
 
   /**
@@ -89,7 +85,7 @@ export class Eip155Client {
    */
   async getIconWebpUrl(chainId: string, address: Eip155Address): Promise<URL | undefined> {
     if (!(await this.has(chainId, address))) return undefined;
-    return this.getUrl(`/eip155/${chainId}/${address}/icon.webp`);
+    return new URL(`/eip155/${chainId}/${address}/icon.webp`, this.baseUrl);
   }
 }
 
