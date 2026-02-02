@@ -43,6 +43,10 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
             <h4></h4>
           </div>
 
+          <div>
+            <h4 className="text-mono-500 mb-2 text-sm">LINKS</h4>
+          </div>
+
           {data.icon && (
             <div>
               <h4 className="text-mono-500 mb-2.5 text-sm">ICONS</h4>
@@ -56,7 +60,13 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
           </div>
 
           <div>
-            <h4 className="text-mono-500 mb-2 text-sm">CODE</h4>
+            <div className="mb-2 flex">
+              <h4 className="text-mono-950 bg-mono-100 rounded-sm px-1.5 py-1.5 font-mono text-sm select-all">
+                <span className="select-none">`</span>
+                <span>npm install xmatter</span>
+                <span className="select-none">`</span>
+              </h4>
+            </div>
           </div>
         </div>
       </main>
@@ -69,6 +79,17 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
 
         <div>
           <h4 className="text-mono-500 mb-2 text-sm">TAGS</h4>
+        </div>
+
+        <div>
+          <h4 className="text-mono-500 mb-2 text-sm">STANDARDS</h4>
+          <ul className="flex items-center gap-2">
+            {data.standards.map((standard) => (
+              <li className="bg-mono-100 rounded-sm px-2 py-0.75 text-sm uppercase" key={standard}>
+                {standard}
+              </li>
+            ))}
+          </ul>
         </div>
       </aside>
     </div>
