@@ -25,24 +25,26 @@ export default function RootLayout(props: { children: ReactNode }): ReactElement
       <head />
       <body className="bg-mono-50 text-mono-950">
         <ThemeProvider>
-          <header className="mx-auto flex w-full max-w-7xl items-center justify-between px-5 py-5">
-            <ActiveLink
-              href="/"
-              mode="exact"
-              className="hover:bg-invert/5 -mx-3 -my-1 flex items-center gap-1.5 rounded px-3 py-1"
-              activeClassName="!cursor-default hover:!bg-transparent"
-            >
-              <Xmatter className="size-4.5" />
-              <div className="text-lg font-bold">Xmatter</div>
-            </ActiveLink>
-            <Link
-              href="https://github.com/fuxingloh/xmatter"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="-mx-3 -my-1 flex items-center gap-1.5 rounded px-3 py-1"
-            >
-              <GitHub className="size-4.5" />
-            </Link>
+          <header className="border-mono-200 border-b py-3">
+            <nav className="mx-auto flex w-full max-w-7xl items-center justify-between px-5">
+              <ActiveLink
+                href="/"
+                mode="exact"
+                className="hover:bg-invert/5 -mx-3 -my-1 flex items-center gap-1.5 rounded px-3 py-1"
+                activeClassName="!cursor-default hover:!bg-transparent"
+              >
+                <Xmatter className="size-4.5" />
+                <div className="text-lg font-bold">Xmatter</div>
+              </ActiveLink>
+              <Link
+                href="https://github.com/fuxingloh/xmatter"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="-mx-3 -my-1 flex items-center gap-1.5 rounded px-3 py-1"
+              >
+                <GitHub className="size-4.5" />
+              </Link>
+            </nav>
           </header>
           {props.children}
         </ThemeProvider>
