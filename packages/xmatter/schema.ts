@@ -24,7 +24,7 @@ export const FrontmatterSchema = z.object({
     .regex(/^(?!\s)(?!.*\s$).*$/)
     .optional(),
   decimals: z.number().int().min(0).max(256).optional(),
-  icon: z.string().optional().describe("Primary icon for this entry."),
+  icons: z.array(z.string()).describe("icon files available"),
   color: z
     .string()
     .regex(/^#[0-9a-f]{6}$/i)

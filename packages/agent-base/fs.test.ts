@@ -141,6 +141,7 @@ class TestAgent extends FileSystemAgent<{ name: string; symbol: string }> {
         symbol: entry.symbol,
         provenance: "test-agent",
         standards: ["erc20"],
+        icons: [],
       },
       content: "",
     };
@@ -168,6 +169,7 @@ describe("FileSystemAgent", () => {
           provenance: "test",
           standards: ["erc20"],
           symbol: "TEST",
+          icons: [],
         },
         content: "Test content",
       };
@@ -193,6 +195,7 @@ describe("FileSystemAgent", () => {
           provenance: "new",
           standards: ["erc721"],
           symbol: "NEW",
+          icons: [],
         },
         content: "New content",
       };
@@ -222,6 +225,7 @@ describe("FileSystemAgent", () => {
           name: "New Name",
           provenance: "new",
           standards: ["erc721"],
+          icons: [],
         },
         content: "New content",
       };
@@ -232,20 +236,21 @@ describe("FileSystemAgent", () => {
     });
   });
 
-  describe("mergeIcon", () => {
-    it("should return original file when no icon exists", async () => {
+  describe("mergeIcons", () => {
+    it("should return empty icons when no icon exists", async () => {
       const file: XmatterFile = {
         data: {
           name: "Test",
           provenance: "test",
           standards: ["erc20"],
+          icons: [],
         },
         content: "",
       };
 
-      const result = await agent.mergeIcon(dir, file);
+      const result = await agent.mergeIcons(dir, file);
 
-      expect(result.data.icon).toBeUndefined();
+      expect(result.data.icons).toEqual([]);
     });
 
     it("should detect icon.svg", async () => {
@@ -256,13 +261,14 @@ describe("FileSystemAgent", () => {
           name: "Test",
           provenance: "test",
           standards: ["erc20"],
+          icons: [],
         },
         content: "",
       };
 
-      const result = await agent.mergeIcon(dir, file);
+      const result = await agent.mergeIcons(dir, file);
 
-      expect(result.data.icon).toBe("icon.svg");
+      expect(result.data.icons).toEqual(["icon.svg"]);
     });
 
     it("should detect icon.png", async () => {
@@ -277,13 +283,14 @@ describe("FileSystemAgent", () => {
           name: "Test",
           provenance: "test",
           standards: ["erc20"],
+          icons: [],
         },
         content: "",
       };
 
-      const result = await agent.mergeIcon(dir, file);
+      const result = await agent.mergeIcons(dir, file);
 
-      expect(result.data.icon).toBe("icon.png");
+      expect(result.data.icons).toEqual(["icon.png"]);
     });
 
     it("should detect icon.jpg", async () => {
@@ -299,16 +306,17 @@ describe("FileSystemAgent", () => {
           name: "Test",
           provenance: "test",
           standards: ["erc20"],
+          icons: [],
         },
         content: "",
       };
 
-      const result = await agent.mergeIcon(dir, file);
+      const result = await agent.mergeIcons(dir, file);
 
-      expect(result.data.icon).toBe("icon.jpg");
+      expect(result.data.icons).toEqual(["icon.jpg"]);
     });
 
-    it("should prefer svg over png over jpg", async () => {
+    it("should collect all available icons with svg first", async () => {
       await writeFile(join(dir, "icon.svg"), "<svg></svg>");
       const pngBuffer = Buffer.from(
         "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==",
@@ -321,23 +329,25 @@ describe("FileSystemAgent", () => {
           name: "Test",
           provenance: "test",
           standards: ["erc20"],
+          icons: [],
         },
         content: "",
       };
 
-      const result = await agent.mergeIcon(dir, file);
+      const result = await agent.mergeIcons(dir, file);
 
-      expect(result.data.icon).toBe("icon.svg");
+      expect(result.data.icons).toEqual(["icon.svg", "icon.png"]);
     });
   });
 
   describe("mergeColor", () => {
-    it("should return original file when no icon specified", async () => {
+    it("should return original file when icons is empty", async () => {
       const file: XmatterFile = {
         data: {
           name: "Test",
           provenance: "test",
           standards: ["erc20"],
+          icons: [],
         },
         content: "",
       };
@@ -353,7 +363,7 @@ describe("FileSystemAgent", () => {
           name: "Test",
           provenance: "test",
           standards: ["erc20"],
-          icon: "nonexistent.png",
+          icons: ["nonexistent.png"],
         },
         content: "",
       };
@@ -383,7 +393,7 @@ describe("FileSystemAgent", () => {
           name: "Test",
           provenance: "test",
           standards: ["erc20"],
-          icon: "icon.png",
+          icons: ["icon.png"],
         },
         content: "",
       };
@@ -405,7 +415,7 @@ describe("FileSystemAgent", () => {
           name: "Test",
           provenance: "test",
           standards: ["erc20"],
-          icon: "icon.svg",
+          icons: ["icon.svg"],
         },
         content: "",
       };
@@ -424,7 +434,7 @@ describe("FileSystemAgent", () => {
           name: "Test",
           provenance: "test",
           standards: ["erc20"],
-          icon: "icon.png",
+          icons: ["icon.png"],
         },
         content: "",
       };
@@ -444,6 +454,7 @@ describe("FileSystemAgent", () => {
           provenance: "test",
           standards: ["erc20"],
           symbol: "TEST",
+          icons: [],
         },
         content: "Token description",
       };
@@ -478,6 +489,7 @@ describe("FileSystemAgent", () => {
           provenance: "new",
           standards: ["erc721"],
           symbol: "NEW",
+          icons: [],
         },
         content: "New description",
       };

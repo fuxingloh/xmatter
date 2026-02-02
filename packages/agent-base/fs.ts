@@ -47,7 +47,7 @@ export abstract class FileSystemAgent<Entry> {
 
   async write(uri: string, entry: Entry, source: Path, target: Path, file: XmatterFile): Promise<void> {
     file = await this.mergeFile(target, file);
-    file = await this.mergeIcon(target, file);
+    file = await this.mergeIcons(target, file);
     file = await this.mergeColor(target, file);
     await writeFile(join(target, "README.md"), gray.stringify(file.content ?? "", file.data));
   }
@@ -74,23 +74,26 @@ export abstract class FileSystemAgent<Entry> {
     };
   }
 
-  async mergeIcon(target: string, file: XmatterFile): Promise<XmatterFile> {
-    for (const icon of ["icon.svg", "icon.png", "icon.jpg"]) {
+  async mergeIcons(target: string, file: XmatterFile): Promise<XmatterFile> {
+    const icons: string[] = [];
+
+    for (const icon of ["icon.svg", "icon.png", "icon.jpg", "icon.jpeg"]) {
       const iconPath = join(target, icon);
       if (await hasFile(iconPath)) {
-        return { ...file, data: { ...file.data, icon: icon } };
+        icons.push(icon);
       }
     }
 
-    return file;
+    return { ...file, data: { ...file.data, icons } };
   }
 
   async mergeColor(target: string, file: XmatterFile): Promise<XmatterFile> {
-    if (!file.data.icon) {
+    const icon = file.data.icons[0];
+    if (!icon) {
       return file;
     }
 
-    const iconPath = join(target, file.data.icon);
+    const iconPath = join(target, icon);
     if (!(await hasFile(iconPath))) {
       return file;
     }
@@ -99,7 +102,7 @@ export abstract class FileSystemAgent<Entry> {
       let buffer: Buffer = await readFile(iconPath);
 
       // Convert SVG to PNG using sharp before color extraction
-      if (file.data.icon.endsWith(".svg")) {
+      if (icon.endsWith(".svg")) {
         buffer = Buffer.from(await sharp(buffer).png().resize(128, 128).toBuffer());
       }
 
