@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#d4b97f"
+icons:
+  - icon.svg
 ---
 
 Wild Goat Coin (WGC) is a fixed-supply, omnichain memecoin with its primary presence on HyperEVM. It pairs Hyperliquid’s HYPE token and gold-backed stablecoins such as Tether’s XAUT0 as core liquidity, positioning itself as a ‘GOLD × HYPE Memecoin’.

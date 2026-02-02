@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c5d44"
+icons:
+  - icon.png
 ---
 
 Decentralized Perpetual Contract for Every Assets

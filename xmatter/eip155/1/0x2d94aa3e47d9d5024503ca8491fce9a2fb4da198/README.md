@@ -32,6 +32,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Bankless DAO is a decentralized community to coordinate and propagate bankless media, culture, and education. Its goal is to drive adoption and awareness of truly bankless money systems like Ethereum, DeFi, and Bitcoin.

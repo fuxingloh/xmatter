@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#94b8ba"
+icons:
+  - icon.svg
 ---
 
 Yield Farming Protocol

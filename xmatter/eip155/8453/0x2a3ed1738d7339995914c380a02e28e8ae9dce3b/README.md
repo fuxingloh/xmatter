@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#060606"
+icons:
+  - icon.svg
 ---
 
 A tokenized yield strategy

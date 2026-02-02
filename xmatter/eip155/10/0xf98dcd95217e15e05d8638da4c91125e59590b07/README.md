@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b0c1f2"
+icons:
+  - icon.png
 ---
 
 Non-mintable ERC20 token deployed on Ethereum, secured by OpenZepellin and audited by MythX with a total supply of 100 million.

@@ -12,6 +12,8 @@ symbol: BOBA
 decimals: 18
 icon: icon.svg
 color: "#5f6f3f"
+icons:
+  - icon.svg
 ---
 
 Boba is an Ethereum L2 optimistic rollup

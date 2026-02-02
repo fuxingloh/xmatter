@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#cc9c34"
+icons:
+  - icon.svg
 ---
 
 Powering Universal Commerce

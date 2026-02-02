@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#999ba5"
+icons:
+  - icon.svg
 ---
 
 RING is the governance token of RingDAO. It's widely used in RingDAO projects, such as staking for XAPI, gas for the Darwinia Network, and payments for Msgport. We use RING to capture value in our decentralized system, build decentralized governance, and unite all RING holders to collectively advance the entire ecosystem.

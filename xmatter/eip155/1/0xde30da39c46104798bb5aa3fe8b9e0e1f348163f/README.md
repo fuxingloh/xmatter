@@ -22,6 +22,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#0c0d39"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 GTC is the governance token we’re using to decentralize Gitcoin into a DAO (GitcoinDAO) ecosystem, collectively working to fund the next generation of public goods.

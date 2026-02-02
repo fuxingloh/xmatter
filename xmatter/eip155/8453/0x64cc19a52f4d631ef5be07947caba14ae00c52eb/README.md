@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#e5a514"
+icons:
+  - icon.svg
 ---
 
 The currency of Cat Town, an idle economic game built on Base.

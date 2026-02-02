@@ -8,6 +8,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#d4a283"
+icons:
+  - icon.svg
 ---
 
 A $0.01 stable meme coin.

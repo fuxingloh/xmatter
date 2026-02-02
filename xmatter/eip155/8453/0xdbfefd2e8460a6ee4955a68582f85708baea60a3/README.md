@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#277bfc"
+icons:
+  - icon.svg
 ---
 
 Real yield, maximized on layer 2

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6fea9b"
+icons:
+  - icon.png
 ---
 
 NFTEarth is a decentralized NFT marketplace built on Optimism and other networks designed for scalability. The native protocol token NFTE is bridged between chains via LayerZero.

@@ -18,6 +18,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#04d091"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Compound is the governance token for the Compound protocol.

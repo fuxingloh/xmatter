@@ -12,6 +12,8 @@ symbol: ABT
 decimals: 18
 icon: icon.svg
 color: "#1dcecf"
+icons:
+  - icon.svg
 ---
 
 ArcBlock is a blockchain ecosystem for building and deploying decentralized applications.

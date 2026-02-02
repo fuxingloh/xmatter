@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#4d4d4d"
+icons:
+  - icon.svg
 ---
 
 ZKC is the native token of the Boundless protocol. It functions as the backbone for all ZK Proving.

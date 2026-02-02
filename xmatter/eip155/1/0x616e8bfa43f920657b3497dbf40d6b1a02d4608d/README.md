@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#8b44dc"
+icons:
+  - icon.svg
 ---
 
 auraBAL is a token issued for staking BAL on Aura Finance. This token is an OFT bridged with LayerZero.

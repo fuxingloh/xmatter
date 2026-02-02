@@ -16,6 +16,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#53fb6b"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Covalent X Token (CXT) plays a pivotal role in the Covalent Network, a platform dedicated to safeguarding and enhancing the availability of Ethereum's historical data. This token is integral for staking and governance, allowing holders to participate actively in the network's decision-making processes. The Covalent Network aims to provide a comprehensive solution for accessing blockchain data, ensuring transparency and efficiency.

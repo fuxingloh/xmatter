@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc4b4b"
+icons:
+  - icon.png
 ---
 
 UMA Protocol is a Decentralized Finance (DeFi) Protocol on Ethereum for any two counterparties to create their own financial contracts and synthetic assets.

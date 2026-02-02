@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#c5c5c5"
+icons:
+  - icon.svg
 ---
 
 AthenaDAO Governance Token

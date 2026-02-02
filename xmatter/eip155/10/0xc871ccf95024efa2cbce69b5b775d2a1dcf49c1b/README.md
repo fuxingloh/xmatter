@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#39bd8a"
+icons:
+  - icon.svg
 ---
 
 ValleyDAO Governance Token

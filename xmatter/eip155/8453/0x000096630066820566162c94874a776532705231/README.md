@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#53eb3b"
+icons:
+  - icon.svg
 ---
 
 IDRISS is the utility and governance token of IDRISS DAO.

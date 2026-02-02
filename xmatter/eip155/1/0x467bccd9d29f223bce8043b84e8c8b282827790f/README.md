@@ -24,6 +24,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#14ccfc"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Telcoin (TEL) is an Ethereum-based decentralized crypto established.

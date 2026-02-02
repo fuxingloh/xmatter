@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#0880b8"
+icons:
+  - icon.svg
 ---
 
 Blockchain Project Launchpad & Token Exchange. Powered by INDODAX.

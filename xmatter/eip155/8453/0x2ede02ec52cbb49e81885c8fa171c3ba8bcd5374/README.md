@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#2f2322"
+icons:
+  - icon.svg
 ---
 
 $HOBA is the premium Honey Badger-themed token on Ethereum. Step into the Hobaverse!

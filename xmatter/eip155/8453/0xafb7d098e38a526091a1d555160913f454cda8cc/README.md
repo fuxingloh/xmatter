@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#050506"
+icons:
+  - icon.svg
 ---
 
 Culture/Lifestyle Coin

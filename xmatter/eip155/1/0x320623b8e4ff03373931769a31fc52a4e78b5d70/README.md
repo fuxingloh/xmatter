@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#050505"
+icons:
+  - icon.png
 ---
 
 The Reserve team's goal is to make the most accessible, economically strongest, and most robust-to-attack currency.

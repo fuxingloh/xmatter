@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#c9c9cd"
+icons:
+  - icon.svg
 ---
 
 Creating on-chain monster collectibles

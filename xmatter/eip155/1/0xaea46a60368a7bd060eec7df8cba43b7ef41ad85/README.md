@@ -10,6 +10,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#050505"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Fetch.ai aims to be at the forefront of accelerating research and the deployment of emerging technologies such as blockchain and AI.

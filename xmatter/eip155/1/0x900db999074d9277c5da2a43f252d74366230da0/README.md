@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#5424ec"
+icons:
+  - icon.svg
 ---
 
 The token for Giveth, a decentralized platform for supporting non-profits and building the Future of Giving.

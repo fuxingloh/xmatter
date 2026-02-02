@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#dddddd"
+icons:
+  - icon.svg
 ---
 
 Forth DAO Governance

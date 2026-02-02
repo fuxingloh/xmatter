@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#6224ec"
+icons:
+  - icon.svg
 ---
 
 FLI is the utility and rewards token for DeFli Networks.

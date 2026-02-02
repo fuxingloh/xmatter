@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#474747"
+icons:
+  - icon.png
 ---
 
 Join the OG Giga Chad Community on Eth - Tokenized Masculinity in its perfect form.

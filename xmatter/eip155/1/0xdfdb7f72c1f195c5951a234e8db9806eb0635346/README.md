@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#d4c395"
+icons:
+  - icon.svg
 ---
 
 A fractionalized NFT of and from the real doge, Kabosu.

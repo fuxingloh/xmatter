@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6ba0f7"
+icons:
+  - icon.png
 ---
 
 Decentralised naming for wallets, websites, & more.

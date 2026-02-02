@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#d5a31e"
+icons:
+  - icon.svg
 ---
 
 The People's BITCOIN

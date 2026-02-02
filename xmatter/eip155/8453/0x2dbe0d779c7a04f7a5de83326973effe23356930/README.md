@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#3c74fc"
+icons:
+  - icon.svg
 ---
 
 FOX is an ERC-20 token created by ShapeShift which serves as the governance token for the ShapeShift DAO. The token supports and provides utility for a borderless, cross-chain crypto trading platform and portfolio manager for user self-sovereignty.

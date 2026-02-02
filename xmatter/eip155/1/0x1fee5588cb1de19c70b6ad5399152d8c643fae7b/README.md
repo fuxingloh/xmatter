@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#4820f0"
+icons:
+  - icon.svg
 ---
 
 Rewarding you for being you.

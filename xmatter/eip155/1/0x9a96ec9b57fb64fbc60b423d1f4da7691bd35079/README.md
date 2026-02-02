@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#f2d8ef"
+icons:
+  - icon.svg
 ---
 
 AJNA tokens are the Ajna Protocol's native token.

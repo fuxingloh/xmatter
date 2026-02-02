@@ -12,6 +12,8 @@ symbol: MASQ
 decimals: 18
 icon: icon.png
 color: "#049ff7"
+icons:
+  - icon.png
 ---
 
 MASQ dVPN and web3 browser brings global freedom to users and adds a privacy layer to your life online.

@@ -12,6 +12,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#1a1c12"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 LEGEND – AI Agents for Sports use AI and blockchain to unlock revenue and boost fan engagement. As the first Web3 product featured by the IOC, $LEGEND powers AI-driven match reports, chatbots, staking, and digital trophies. Our gamified staking pools offer high-yield returns optimized by AI.

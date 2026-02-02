@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#ff414d"
+icons:
+  - icon.svg
 ---
 
 Adshares powers the ADS Fund — a token launchpad on the BASE chain. The platform enables open-source projects to launch tokens, helping finance development efforts and increase project visibility.

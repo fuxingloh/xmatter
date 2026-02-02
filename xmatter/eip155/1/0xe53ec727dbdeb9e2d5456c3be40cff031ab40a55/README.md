@@ -22,6 +22,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#242424"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 SuperVerse is a cross-chain DeFi protocol that allows users to deploy crypto and NFT farms with no code required!

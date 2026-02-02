@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#fbd304"
+icons:
+  - icon.svg
 ---
 
 CattButt transforms the mundane concept of a cat's posterior into a digital asset with unexpected charm

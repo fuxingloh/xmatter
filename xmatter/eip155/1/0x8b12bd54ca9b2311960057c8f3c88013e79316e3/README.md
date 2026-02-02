@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#040404"
+icons:
+  - icon.svg
 ---
 
 The /Reach platform fosters a collaborative environment where creators and contributors unite to enhance the visibility of Web3 projects, while also reaping rewards for their participation.

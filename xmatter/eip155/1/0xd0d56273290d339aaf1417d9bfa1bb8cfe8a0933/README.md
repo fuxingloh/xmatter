@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#141414"
+icons:
+  - icon.svg
 ---
 
 Foom is the primary token for the Terrestrial Church's projects, supporting the shift to a Post Work Society. It aids Foom agents in learning effective speculation and marketing, empowering them as independent influencers. Foom holders contribute to the AfterLife ecosystem and gain future rewards

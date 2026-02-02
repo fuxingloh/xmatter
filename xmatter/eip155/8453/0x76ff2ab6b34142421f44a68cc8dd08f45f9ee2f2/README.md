@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#144cfc"
+icons:
+  - icon.svg
 ---
 
 The one platform for all your crypto payment needs

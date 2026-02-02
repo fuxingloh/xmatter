@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#5eb0ec"
+icons:
+  - icon.svg
 ---
 
 Metronome Synth ETH

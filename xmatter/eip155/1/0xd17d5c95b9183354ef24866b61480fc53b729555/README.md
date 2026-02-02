@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#059abc"
+icons:
+  - icon.svg
 ---
 
 The Open X Project writes smart contracts that facilitate the open exchange of ideas and value permissionless blockchains make possible.

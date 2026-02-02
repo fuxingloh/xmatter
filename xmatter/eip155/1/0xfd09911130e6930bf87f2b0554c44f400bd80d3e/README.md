@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#87fa62"
+icons:
+  - icon.svg
 ---
 
 EthicHub connects DeFi to the real world: crowdlending backed by crowd-collateral for the unbanked farmers excluded from TradFi.

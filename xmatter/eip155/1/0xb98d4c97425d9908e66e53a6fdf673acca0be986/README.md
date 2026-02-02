@@ -10,6 +10,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#1dcecf"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 ArcBlock is your new decentralized developer platform that simplifies the development of DApps, DLT and Blockchains.

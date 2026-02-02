@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#fc2c84"
+icons:
+  - icon.svg
 ---
 
 GALAXIS Token is a utility token. Throughout the platform utilities, benefits and features can be unlocked by holding Galaxis Token. This will apply to both community creators and community members. Galaxis will provide grants to eligible communities in Galaxis Token.

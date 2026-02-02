@@ -8,6 +8,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eccb0c"
+icons:
+  - icon.png
 ---
 
 A nounish fungible token. Each Noun equals 1M $nouns.

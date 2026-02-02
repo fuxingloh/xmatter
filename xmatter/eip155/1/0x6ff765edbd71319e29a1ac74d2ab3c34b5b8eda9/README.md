@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#04bbfb"
+icons:
+  - icon.svg
 ---
 
 Decentralized protocol for launching new ideas

@@ -18,6 +18,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#000000"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Reliable, performant, and cost-effective RPC infrastructure that is owned and governed by its users. Unstoppable Open Data, powered by decentralization.

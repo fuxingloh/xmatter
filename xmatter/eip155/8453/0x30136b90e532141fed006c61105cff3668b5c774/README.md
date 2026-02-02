@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#334bfa"
+icons:
+  - icon.svg
 ---
 
 Swap & Liquidity Pool Token for BlueSwap DEX

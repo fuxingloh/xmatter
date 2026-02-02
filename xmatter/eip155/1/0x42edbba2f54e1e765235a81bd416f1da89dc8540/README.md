@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#be6a60"
+icons:
+  - icon.svg
 ---
 
 GenAI Augmented Reality Monsters. Trained on local folklore. Powered by $YOKAI.

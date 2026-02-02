@@ -16,6 +16,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#d5a31e"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 HarryPotterObamaSonic10Inu (Ticker: BITCOIN) is a endgame of crypto-assets (0 Tax). BITCOIN incentivizes the creation of novel and entertaining meme content.

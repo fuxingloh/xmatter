@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#042cde"
+icons:
+  - icon.svg
 ---
 
 Aladdin concentrator is a platform that boosts rewards for Curve & Convex stakers and liquidity providers alike, all in a simple and easy to use interface.

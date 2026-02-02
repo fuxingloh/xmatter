@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#e5ef95"
+icons:
+  - icon.svg
 ---
 
 Gyroscope's governance token. Gyroscope makes superliquidity simple: efficient, passive access to concentrated liquidity and superliquid stablecoin yield.

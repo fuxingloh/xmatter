@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5739fa"
+icons:
+  - icon.png
 ---
 
 DeFi Flash Loans Made Easy. The first dedicated platform that equalizes the decentralized markets.

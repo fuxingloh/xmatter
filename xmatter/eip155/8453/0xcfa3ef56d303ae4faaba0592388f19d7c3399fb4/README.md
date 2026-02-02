@@ -13,6 +13,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#bfbfbf"
+icons:
+  - icon.svg
 ---
 
 The eUSD Yield DTF is a fully collateralized US-dollar stablecoin built on the Reserve Protocol

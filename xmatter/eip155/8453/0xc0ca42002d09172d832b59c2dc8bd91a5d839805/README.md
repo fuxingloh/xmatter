@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ccccca"
+icons:
+  - icon.png
 ---
 
 A meme coin about cocaine

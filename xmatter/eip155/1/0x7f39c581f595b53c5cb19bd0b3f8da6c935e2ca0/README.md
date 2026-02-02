@@ -14,6 +14,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#a0ddfc"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 wstETH is a wrapped version of stETH. As some DeFi protocols require a constant balance mechanism for tokens, wstETH keeps your balance of stETH fixed and uses an underlying share system to reflect your earned staking rewards.

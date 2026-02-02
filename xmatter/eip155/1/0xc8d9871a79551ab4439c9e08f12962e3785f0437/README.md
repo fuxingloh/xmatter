@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#3e62cd"
+icons:
+  - icon.svg
 ---
 
 A Decentralized Advisory DAO

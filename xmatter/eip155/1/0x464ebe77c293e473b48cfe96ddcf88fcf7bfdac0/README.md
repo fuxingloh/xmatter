@@ -22,6 +22,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#3b0e76"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Kryll integrates with the main exchanges, allowing you to centralize your portfolio and trade more easily! New exchanges are added regularly

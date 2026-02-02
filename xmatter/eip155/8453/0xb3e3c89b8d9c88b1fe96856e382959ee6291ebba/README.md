@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#dded0b"
+icons:
+  - icon.svg
 ---
 
 Rekt Coin is a meme coin inspired by the Rektguy NFT project celebrating rekt culture.

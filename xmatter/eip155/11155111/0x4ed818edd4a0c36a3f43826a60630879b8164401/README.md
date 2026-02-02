@@ -12,4 +12,6 @@ symbol: DF
 decimals: 18
 icon: icon.svg
 color: "#272e46"
+icons:
+  - icon.svg
 ---

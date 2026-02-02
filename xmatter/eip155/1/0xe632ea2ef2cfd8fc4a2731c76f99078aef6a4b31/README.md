@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#fbe304"
+icons:
+  - icon.svg
 ---
 
 Start questing today, lock your $THX and claim your rewards. THX Network is the number #1 Reward Engine for communities in gaming and beyond.

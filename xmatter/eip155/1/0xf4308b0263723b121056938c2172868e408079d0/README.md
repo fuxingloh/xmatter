@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#040405"
+icons:
+  - icon.svg
 ---
 
 CryoDAO Governance Token

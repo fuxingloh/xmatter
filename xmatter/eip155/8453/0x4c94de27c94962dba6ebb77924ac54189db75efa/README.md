@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#5045b7"
+icons:
+  - icon.svg
 ---
 
 Ether.fi Wrapped eETH

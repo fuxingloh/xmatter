@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#55a8e8"
+icons:
+  - icon.png
 ---
 
 Organizing the world's token symbols

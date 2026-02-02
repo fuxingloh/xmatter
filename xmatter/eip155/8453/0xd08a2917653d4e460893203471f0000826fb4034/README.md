@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#c7e0dd"
+icons:
+  - icon.svg
 ---
 
 Harvest Finance Reward Token

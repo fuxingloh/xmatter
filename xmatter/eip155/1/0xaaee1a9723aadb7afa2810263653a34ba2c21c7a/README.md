@@ -16,6 +16,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#2a39ad"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 This coin Mogs all other coins.

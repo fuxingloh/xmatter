@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#fc05d5"
+icons:
+  - icon.svg
 ---
 
 HEX is the native utility token of the Hex Protocol

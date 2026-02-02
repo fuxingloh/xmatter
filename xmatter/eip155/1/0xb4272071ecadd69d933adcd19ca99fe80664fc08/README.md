@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ce0e2d"
+icons:
+  - icon.png
 ---
 
 The CryptoFranc (XCHF) is a stable coin bound to the Swiss Franc and classifies as a payment token in accordance with the FINMA ICO guidelines.

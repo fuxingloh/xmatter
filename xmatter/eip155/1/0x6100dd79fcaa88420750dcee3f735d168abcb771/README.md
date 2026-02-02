@@ -18,6 +18,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#e2dbfc"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Governance Token of EthereansOS (EthOS) protocol. More info: https://ethos.eth

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#235e6d"
+icons:
+  - icon.svg
 ---
 
 Leading AI infrastructure for onchain degens & builders. Find the next 100x, leverage our unbiased models, and generate memes.

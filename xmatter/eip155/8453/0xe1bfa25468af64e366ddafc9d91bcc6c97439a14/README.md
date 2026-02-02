@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#121212"
+icons:
+  - icon.svg
 ---
 
 The ecosystem token for the Black Mirror digital experience ecosystem, enabling reputation-based participation and governance.

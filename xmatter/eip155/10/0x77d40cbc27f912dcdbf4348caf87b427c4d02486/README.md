@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#58148c"
+icons:
+  - icon.svg
 ---
 
 Dream big, start small, stick together!

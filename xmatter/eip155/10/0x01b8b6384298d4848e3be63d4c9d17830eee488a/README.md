@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f77860"
+icons:
+  - icon.png
 ---
 
 DAOhaus is the protocol for purpose-driven governance

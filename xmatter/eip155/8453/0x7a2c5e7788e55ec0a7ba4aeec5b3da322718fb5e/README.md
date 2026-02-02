@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#5f873f"
+icons:
+  - icon.svg
 ---
 
 Apu, also known as Peepo or Helper, is a pepe-variant that is used to represent a much younger, kinder and more naive anthropomorphic frog.

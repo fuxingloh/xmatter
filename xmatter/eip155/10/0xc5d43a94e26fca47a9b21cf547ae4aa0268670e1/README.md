@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#040404"
+icons:
+  - icon.svg
 ---
 
 The Frax Price Index is a protocol within the Frax ecosystem. The system will adjust every month according to an on-chain Consumer Price Index oracle so that holders of the FPI will increase their dollar-denominated value each month according to the reported CPI increase.

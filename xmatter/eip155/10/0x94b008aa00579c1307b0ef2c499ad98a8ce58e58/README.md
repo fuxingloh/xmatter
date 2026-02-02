@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#23a37b"
+icons:
+  - icon.png
 ---
 
 Tether gives you the joint benefits of open blockchain technology and traditional currency by converting your cash into a stable digital currency equivalent.

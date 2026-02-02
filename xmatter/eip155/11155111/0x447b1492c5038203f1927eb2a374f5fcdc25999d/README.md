@@ -12,6 +12,8 @@ symbol: UDT
 decimals: 18
 icon: icon.svg
 color: "#fbf3eb"
+icons:
+  - icon.svg
 ---
 
 Governance token for Unlock Protocol, a protocol for creating memberships and subscriptions as NFTs

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#045cac"
+icons:
+  - icon.svg
 ---
 
 GYEN is the first regulated digital JPY which is 100% Fiat-backed.

@@ -12,6 +12,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#6bb282"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Base Onchain MMORPG. Level your character. Open world PvP. Epic boss PvE. Degen with friends.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#c474eb"
+icons:
+  - icon.svg
 ---
 
 A GameFi token

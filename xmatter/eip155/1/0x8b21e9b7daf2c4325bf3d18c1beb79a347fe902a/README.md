@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3c34b"
+icons:
+  - icon.png
 ---
 
 Communities with Skin in the Game

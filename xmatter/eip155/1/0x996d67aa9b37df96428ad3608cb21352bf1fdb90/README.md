@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#dad9f4"
+icons:
+  - icon.svg
 ---
 
 The Metagame, The Unified Play Layer Bridging Gaming, AI, and Blockchain

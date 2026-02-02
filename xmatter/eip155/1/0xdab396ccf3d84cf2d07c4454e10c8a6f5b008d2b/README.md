@@ -18,6 +18,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#504160"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Connect the world’s capital with the world’s growth.

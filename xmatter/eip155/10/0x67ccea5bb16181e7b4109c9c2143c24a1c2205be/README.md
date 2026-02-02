@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#f12e47"
+icons:
+  - icon.svg
 ---
 
 Frax Shares (FXS) is the seigniorage token in the Frax protocol.

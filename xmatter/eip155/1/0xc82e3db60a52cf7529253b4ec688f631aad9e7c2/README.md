@@ -14,6 +14,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#3855e8"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 $ARC is your all in one solution for Web3 and AI.

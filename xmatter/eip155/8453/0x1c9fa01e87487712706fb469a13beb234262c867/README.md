@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#c8cfd5"
+icons:
+  - icon.svg
 ---
 
 ARPA innovates cryptographic systems to make blockchains more versatile, reliable, and interlinked.

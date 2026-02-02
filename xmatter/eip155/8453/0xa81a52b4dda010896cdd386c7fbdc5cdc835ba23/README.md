@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6344db"
+icons:
+  - icon.png
 ---
 
 The Trace token (TRAC) is a utility token for the OriginTrail Decentralized Knowledge Graph (DKG).

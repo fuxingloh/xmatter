@@ -8,6 +8,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#e01058"
+icons:
+  - icon.svg
 ---
 
 Multi-strategy crypto hedge fund

@@ -18,6 +18,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#19c9cf"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 SynFutures (F) is a leading decentralized exchange (DEX) and full-stack financial infrastructure powering the future of trading. Utilizing its Oyster AMM model and a fully onchain order-matching engine for derivatives, SynFutures enables anyone to list and trade any asset with leverage.

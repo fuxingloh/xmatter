@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#fbc32c"
+icons:
+  - icon.svg
 ---
 
 RigoBlock is a DeFi protocol for token management

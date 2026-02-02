@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#040405"
+icons:
+  - icon.svg
 ---
 
 Flashstake protocol is a financial infrastructure allowing users to receive instant yield on deposits by locking up principal for a chosen duration.

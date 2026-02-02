@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#1548cd"
+icons:
+  - icon.svg
 ---
 
 Liquity: LQTY Token

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#2c2c2c"
+icons:
+  - icon.svg
 ---
 
 Fully Collateralized, Scalable, Decentralized Stablecoin

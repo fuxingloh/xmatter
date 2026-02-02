@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#c4342c"
+icons:
+  - icon.svg
 ---
 
 The official token of TRON Network

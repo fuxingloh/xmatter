@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#e34156"
+icons:
+  - icon.svg
 ---
 
 TRALA is a utility token built for an AAA Web3 GameFi experience. Earned through gameplay, it is used for trading in-game assets and participating in the governance of the game’s ecosystem.

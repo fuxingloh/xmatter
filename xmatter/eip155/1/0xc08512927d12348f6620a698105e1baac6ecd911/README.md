@@ -22,6 +22,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#045cac"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 GYEN anchors its value to the price of the Japanese Yen. Redeemable and pegged 1-to-1 with fiat currency to virtually eliminate volatility, while still benefiting from the advantages of cryptocurrency, such as high-speed transaction and low costs, especially for cross-border payments

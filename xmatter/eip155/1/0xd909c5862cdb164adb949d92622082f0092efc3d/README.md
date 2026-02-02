@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#d4d4b4"
+icons:
+  - icon.svg
 ---
 
 Governance token for Interest Protocol

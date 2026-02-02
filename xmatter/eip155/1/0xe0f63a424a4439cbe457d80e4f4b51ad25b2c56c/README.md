@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dab24d"
+icons:
+  - icon.png
 ---
 
 SPX6900 is an advanced blockchain cryptography token with limitless possibilities and scientific utilization.

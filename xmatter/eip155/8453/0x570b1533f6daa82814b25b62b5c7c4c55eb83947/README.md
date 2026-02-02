@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#6a402b"
+icons:
+  - icon.svg
 ---
 
 the official bear mascot of all financial markets

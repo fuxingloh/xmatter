@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d4b806"
+icons:
+  - icon.png
 ---
 
 The world's most famous cat in a banana suit.

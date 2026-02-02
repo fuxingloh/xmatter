@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#8c8cc4"
+icons:
+  - icon.svg
 ---
 
 Transform your technology with XYO. Leverage the millions of nodes in our DePIN to scale data storage and A.I. applications with our sovereignty protocol. Verify data trails through our Proof-of-Origin blockchain, and propel your project into Web3 — all with one XYO ecosystem.

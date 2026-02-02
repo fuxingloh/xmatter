@@ -14,6 +14,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#040405"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 MistCoin is the prototype or manuscript for ERC-20. Its launch on November 3rd, 2015, coincided with the introduction of a custom token system for the Ethereum Mist Wallet. Ethereum pioneers Fabian Vogelsteller and Alex Van de Sande both lead the project.

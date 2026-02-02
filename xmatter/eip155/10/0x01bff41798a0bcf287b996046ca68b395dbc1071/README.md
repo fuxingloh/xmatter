@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9de3d2"
+icons:
+  - icon.png
 ---
 
 USD₮0 is the omnichain deployment of USDT.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c1e1e"
+icons:
+  - icon.png
 ---
 
 Impermax is a DeFi lending marketplace where liquidity providers can borrow liquidity in a transparent way.

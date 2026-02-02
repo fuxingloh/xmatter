@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#c28afc"
+icons:
+  - icon.svg
 ---
 
 Threshold Network is the home of $tBTC, proxy re-encryption #PRE, $thUSD, and all threshold cryptography.

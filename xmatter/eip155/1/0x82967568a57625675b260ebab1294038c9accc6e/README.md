@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#56628f"
+icons:
+  - icon.png
 ---
 
 Nova DAO’s ownership is fully conferred via the NOVA Token – with every holder’s tokens entitling them to true ownership and control over the entirety of Nova’s protocols.

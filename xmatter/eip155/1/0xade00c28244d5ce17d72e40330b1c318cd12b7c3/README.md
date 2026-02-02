@@ -12,6 +12,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#749cfc"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 The AdEx Network aims to build a decentralized solution for digital advertising that reduces fraud, improves budgets, and protects user privacy.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#1a1c12"
+icons:
+  - icon.svg
 ---
 
 LEGEND is the ERC20 token that fuels the Legend AI & Gamified Staking platforms focused on sports.

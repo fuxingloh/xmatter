@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#57f1fc"
+icons:
+  - icon.svg
 ---
 
 The First Data-Centric Blockchain to Supercharge AI at Scale

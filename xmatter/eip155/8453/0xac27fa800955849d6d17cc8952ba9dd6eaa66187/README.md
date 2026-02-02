@@ -24,6 +24,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#faf2ea"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 The UP token governs Unlock Protocol, a decentralized framework for granting secure, frictionless access to digital content and experiences. By holding UP tokens, stakeholders can propose, vote on, and shape protocol upgrades, ensuring creators, publishers, and communities retain control over monetization and resource allocation.

@@ -12,6 +12,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#fc443c"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Tokenized Risk Protocol

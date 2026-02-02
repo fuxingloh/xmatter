@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#5b595b"
+icons:
+  - icon.svg
 ---
 
 The Minds Token

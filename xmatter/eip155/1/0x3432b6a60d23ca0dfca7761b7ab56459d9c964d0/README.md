@@ -20,6 +20,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#f12e47"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Frax is a new paradigm in stablecoin design, bringing together a two-token seigniorage share system, swap-based monetary policy, fully on-chain oracles, and decentralized governance alongside its fractional-algorithmic stablecoin design.

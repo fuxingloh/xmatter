@@ -10,6 +10,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#1f2d2c"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 RAI is a non pegged, ETH backed stable asset built by Reflexer. It is the first asset of its kind that, instead of being pegged to a specific target such as the USD, it freely floats while it’s being influenced by market forces.

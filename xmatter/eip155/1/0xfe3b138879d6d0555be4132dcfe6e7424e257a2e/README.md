@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#044cac"
+icons:
+  - icon.svg
 ---
 
 SOFT is for launching tokens

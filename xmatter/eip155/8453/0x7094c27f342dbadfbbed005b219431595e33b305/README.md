@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#278cc2"
+icons:
+  - icon.svg
 ---
 
 QuickSwap DEX token

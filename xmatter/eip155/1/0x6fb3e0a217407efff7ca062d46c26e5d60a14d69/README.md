@@ -12,6 +12,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#67a4b9"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 IoTeX is DePIN's only modular infrastructure platform connecting smart devices and real-world data to blockchains.

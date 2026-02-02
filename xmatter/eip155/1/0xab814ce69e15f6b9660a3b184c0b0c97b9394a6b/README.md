@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#e0dbfc"
+icons:
+  - icon.svg
 ---
 
 Cerebrum DAO Governance Token

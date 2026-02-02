@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#ea1efb"
+icons:
+  - icon.svg
 ---
 
 GHST is the eco-governance token of the Aavegotchi Crypto Gaming Protocol.

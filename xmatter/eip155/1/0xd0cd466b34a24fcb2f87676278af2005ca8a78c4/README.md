@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#070705"
+icons:
+  - icon.svg
 ---
 
 Popcorn is a regenerative yield optimizing protocol with soul.
