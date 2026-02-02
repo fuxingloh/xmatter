@@ -2,6 +2,11 @@
   "name": "xmatter",
   "version": "0.0.0",
   "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fuxingloh/xmatter",
+    "directory": "packages/xmatter"
+  },
   "type": "module",
   "files": [
     "**/*.d.ts",
