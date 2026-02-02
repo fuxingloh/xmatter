@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
-import Image from "next/image";
 import Markdown from "react-markdown";
 
 import { getDescription } from "@/app/eip155/[chainId]/[address]/frontmatter.json/route";
 import { getXmatterFile } from "@/app/public";
+import { IconsTab } from "@/app/eip155/[chainId]/[address]/IconsTab";
 
 export async function generateStaticParams() {
   return [
@@ -47,12 +47,7 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
             <h4 className="text-mono-500 mb-2 text-sm">LINKS</h4>
           </div>
 
-          {data.icon && (
-            <div>
-              <h4 className="text-mono-500 mb-2.5 text-sm">ICONS</h4>
-              <IconSpace chainId={chainId} address={address} icon={data.icon} />
-            </div>
-          )}
+          <IconsTab chainId={chainId} address={address} icons={data.icons} />
 
           <div>
             <h4 className="text-mono-500 mb-2 text-sm">README</h4>
@@ -103,40 +98,4 @@ function getFirstSentence(description?: string): string | undefined {
   if (match && match[0].trim().length >= 40) {
     return match[0].trim();
   }
-}
-
-function IconSpace(props: { chainId: string; address: string; icon: string }) {
-  return (
-    <div className="grid grid-cols-2 overflow-hidden rounded-md">
-      <div className="bg-mono-100 text-mono-950 flex items-end justify-center gap-4 p-6">
-        <IconImage {...props} size={16} />
-        <IconImage {...props} size={32} />
-        <IconImage {...props} size={48} />
-        <IconImage {...props} size={64} />
-      </div>
-      <div className="bg-mono-950 text-mono-100 flex items-end justify-center gap-4 p-6">
-        <IconImage {...props} size={16} />
-        <IconImage {...props} size={32} />
-        <IconImage {...props} size={48} />
-        <IconImage {...props} size={64} />
-      </div>
-    </div>
-  );
-}
-
-function IconImage(props: { chainId: string; address: string; icon: string; size: number }) {
-  return (
-    <div className="flex flex-col items-center gap-2">
-      <Image
-        src={`/eip155/${props.chainId}/${props.address}/${props.icon}`}
-        alt={`${props.address} icon`}
-        width={64}
-        height={64}
-        style={{ width: props.size, height: props.size }}
-      />
-      <h6 className="text-sm">
-        {props.size}x{props.size}
-      </h6>
-    </div>
-  );
 }
