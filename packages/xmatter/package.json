@@ -23,8 +23,8 @@
     ]
   },
   "dependencies": {
-    "lru-cache": "^11.2.5",
-    "zod": "^4.3.5"
+    "lru-cache": "^11",
+    "zod": "^4"
   },
   "devDependencies": {
     "@types/react": "^19"
