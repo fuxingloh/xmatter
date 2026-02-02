@@ -49,7 +49,7 @@ export class EthereumOptimism extends FileSystemAgent<TokenData> {
       links.push({ name: "x", url: `https://x.com/${data.twitter.replace("@", "")}` });
     }
 
-    const file = {
+    const file: XmatterFile = {
       data: {
         name: data.name,
         provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io",
@@ -57,6 +57,7 @@ export class EthereumOptimism extends FileSystemAgent<TokenData> {
         symbol: data.symbol,
         decimals: data.decimals,
         links: links,
+        icons: [],
       },
       content: data.description,
     };

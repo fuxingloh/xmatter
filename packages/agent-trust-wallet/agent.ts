@@ -63,6 +63,7 @@ export class TrustWalletAssets extends FileSystemAgent<Info> {
         symbol: data.symbol,
         decimals: data.decimals,
         links: links,
+        icons: [],
       },
       content: hasDescription(data) ? data.description : "",
     };
