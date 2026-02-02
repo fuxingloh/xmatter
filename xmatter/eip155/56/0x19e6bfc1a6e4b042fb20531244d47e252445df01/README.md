@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#892f2b"
+icons:
+  - icon.png
 ---
 
 TemplarDAO is a decentralized reserve currency and hedge fund featuring a proprietary treasury-reverse protocol

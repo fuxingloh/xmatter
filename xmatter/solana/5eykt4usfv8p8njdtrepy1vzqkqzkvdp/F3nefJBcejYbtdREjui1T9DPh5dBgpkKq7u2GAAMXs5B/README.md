@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#3c7ca3"
+icons:
+  - icon.png
 ---
 
 The All.Art Protocol marks an advance in digital assets and NFT technology

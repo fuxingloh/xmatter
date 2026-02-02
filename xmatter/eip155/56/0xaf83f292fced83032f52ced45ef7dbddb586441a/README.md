@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bed359"
+icons:
+  - icon.png
 ---
 
 Twinci - The first NFTs Social-Marketplace. Create, sell and collect digital items secured with blockchain

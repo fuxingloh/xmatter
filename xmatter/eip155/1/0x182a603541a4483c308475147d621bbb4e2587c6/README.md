@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b345c"
+icons:
+  - icon.png
 ---
 
 Zerobank is a legal ecosystem utilizing blockchain and smart contract.

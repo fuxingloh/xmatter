@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a30463"
+icons:
+  - icon.png
 ---
 
 Fasttoken is the cryptocurrency of Fastex ecosystem, SoftConstruct ecosystem, and future native coin of Fastex EVM-based blockchain solution.

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#306296"
+icons:
+  - icon.png
 ---
 
 BleuFi Marketplace is a next generation marketplace where artists and collectors can create, sell and collect digital items secured with blockchain.

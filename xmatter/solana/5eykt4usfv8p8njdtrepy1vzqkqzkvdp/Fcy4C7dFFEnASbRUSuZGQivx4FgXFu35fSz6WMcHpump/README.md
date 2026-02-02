@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#141518"
+icons:
+  - icon.png
 ---
 
 Grok's version of Fartcoin would be BrainFart Token. Here's the ASCII art

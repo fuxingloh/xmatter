@@ -14,6 +14,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#1d1c3e"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 CTX is a governance token that powers and secures the Cryptex.Finance TCAP protocol.

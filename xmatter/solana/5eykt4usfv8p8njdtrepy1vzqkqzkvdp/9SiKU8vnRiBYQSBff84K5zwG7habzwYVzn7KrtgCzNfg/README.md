@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#1c1f08"
+icons:
+  - icon.png
 ---
 
 Dev jeeted. Community took over, new tg and twiiter been growing exponentially.

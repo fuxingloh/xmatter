@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4ba343"
+icons:
+  - icon.png
 ---
 
 Wedex - A next evolution DeFi exchange on Binance Smart Chain (BSC)

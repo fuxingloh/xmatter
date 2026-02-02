@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#17c6da"
+icons:
+  - icon.png
 ---
 
 Zuki Moba is a MOBA Esport Game (Multiplayer Online Battle Arena) which is built with a Decentralized Economy application community-oriented. In-game NFT is used to build characters, game items, and Metaverse structures. In addition, Play to Earn mechanism is applied to create economic benefits for Gamers, creating a unique point compared to traditional MOBA games. $ZUKI is Zuki Moba's in-game token

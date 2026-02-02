@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f57744"
+icons:
+  - icon.png
 ---
 
 Coinverter.info is a platform where you can easily see information about coin rates.

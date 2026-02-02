@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04beab"
+icons:
+  - icon.png
 ---
 
 Bitforex Token (BF) is token issued by BitForex Exchange, it is the proof of platform ownership. BF are issued mainly through trade mining, community and ecosystem mutual construction, and being released gradually.

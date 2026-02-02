@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d29949"
+icons:
+  - icon.png
 ---
 
 Official coin of the Tiger King

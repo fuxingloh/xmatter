@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cfd82f"
+icons:
+  - icon.png
 ---
 
 Web2 Inu is a community driven token, the project rejects any form of centralization and limits.

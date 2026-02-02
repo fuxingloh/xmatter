@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#070707"
+icons:
+  - icon.png
 ---
 
 Revolutionizing Global Connectivity by Leveraging DePIN, OpenRoaming and User Incentives.

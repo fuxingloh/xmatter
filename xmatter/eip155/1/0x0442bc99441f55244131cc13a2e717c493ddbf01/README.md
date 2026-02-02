@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#54d4b4"
+icons:
+  - icon.png
 ---
 
 V2.0 of REVO

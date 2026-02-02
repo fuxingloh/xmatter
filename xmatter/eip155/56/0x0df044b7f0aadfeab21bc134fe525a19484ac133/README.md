@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0584ec"
+icons:
+  - icon.png
 ---
 
 Uzyth is developing an ecosystem of services aimed at providing users the possibility of being rewarded ZYTH tokens based on their active participation on the platform.

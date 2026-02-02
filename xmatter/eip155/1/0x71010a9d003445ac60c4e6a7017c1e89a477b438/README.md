@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#543484"
+icons:
+  - icon.png
 ---
 
 Aave REP V1 is an interest bearing token pegged 1:1 to the underlying REP deposited in Aave V1. aREP V1 accrue interest in real time in your wallet.

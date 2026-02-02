@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3c5575"
+icons:
+  - icon.png
 ---
 
 The Morpheus.Network is a full-service, global, automated, supply chain platform for the global trading industry utilizing blockchain technology. This is achieved with Smart Contracts driving the supply chain with predetermined, automated work contracts, shipping & customs documents as well.

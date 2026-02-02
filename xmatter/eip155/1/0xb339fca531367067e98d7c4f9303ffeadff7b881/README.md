@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#132ba3"
+icons:
+  - icon.png
 ---
 
 Aludra is a Decentralized Network where Financial Instruments are Traded. We Provide Services and Trust in OTC Sales for Cryptocurrency

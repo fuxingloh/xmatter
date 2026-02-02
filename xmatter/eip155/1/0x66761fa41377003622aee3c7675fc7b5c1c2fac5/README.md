@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3f5f7"
+icons:
+  - icon.png
 ---
 
 Clearpool is a cecentralized capital markets ecosystem, where institutional borrowers can access unsecured loans directly from the DeFi ecosystem. Clearpool introduces a dynamic interest model driven by market supply and demand forces.

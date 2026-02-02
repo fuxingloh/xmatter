@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0488fc"
+icons:
+  - icon.png
 ---
 
 Stable FIL is the stablecoin created for the Filecoin community. Backed by both a treasury of FIL and collateral of USDC this ERC20 token can be redeemed for USDC at anytime and also provides a vote for governance of the FIL treasury.

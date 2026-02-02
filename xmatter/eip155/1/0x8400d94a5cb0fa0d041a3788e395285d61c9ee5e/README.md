@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#25568a"
+icons:
+  - icon.png
 ---
 
 Unibright offers a unified framework that aims to bring blockchain technology and smart contracts to mainstream usage.

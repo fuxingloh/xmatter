@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbda47"
+icons:
+  - icon.png
 ---
 
 Decentralized Meme Coin Creates the BEST Metaverse on BSC, JOJO FUN METAVERSE = NFT + GameFi + SmartToy

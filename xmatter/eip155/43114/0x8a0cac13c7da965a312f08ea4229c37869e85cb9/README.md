@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#433fad"
+icons:
+  - icon.png
 ---
 
 The Graph is an indexing protocol and global API for organizing blockchain data and making it easily accessible with GraphQL.

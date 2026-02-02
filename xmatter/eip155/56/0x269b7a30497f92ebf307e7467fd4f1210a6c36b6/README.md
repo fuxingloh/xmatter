@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b2284"
+icons:
+  - icon.png
 ---
 
 Evin Token is AI Based Healty Life Assistant. Withness to Power of the Community !

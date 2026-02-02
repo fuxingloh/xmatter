@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4ca4fc"
+icons:
+  - icon.png
 ---
 
 Poly Ontology Token (ONT POLYGON) is a token issued by Binance on Smart Chain; its price is pegged to Ontology Token (ONT) at a ratio of 1:1.

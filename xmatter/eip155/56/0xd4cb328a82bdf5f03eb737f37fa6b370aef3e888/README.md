@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6ce4dc"
+icons:
+  - icon.png
 ---
 
 Cream - Crypto Rules Everything Around Me

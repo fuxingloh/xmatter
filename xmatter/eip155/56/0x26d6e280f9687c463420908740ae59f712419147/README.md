@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c07537"
+icons:
+  - icon.png
 ---
 
 Bakerytools is the ultimate hub & trading tool for Binance smart chain pairs & pool explorer and a hotspot for Private and pre-sale listings.

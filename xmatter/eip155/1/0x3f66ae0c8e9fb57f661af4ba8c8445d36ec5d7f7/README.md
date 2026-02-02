@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f8f0e3"
+icons:
+  - icon.png
 ---
 
 Cryptify AI is a platform designed to optimize influencer marketing by using AI and Big Data analytics.

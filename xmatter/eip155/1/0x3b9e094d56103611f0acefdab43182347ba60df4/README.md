@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c345c"
+icons:
+  - icon.png
 ---
 
 No.1 Trading Strategy Marketplace

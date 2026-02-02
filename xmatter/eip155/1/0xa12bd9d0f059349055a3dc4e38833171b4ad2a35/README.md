@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fad4b5"
+icons:
+  - icon.png
 ---
 
 POWM coin is a holder-flexible staking coin

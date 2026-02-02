@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#69bcdb"
+icons:
+  - icon.png
 ---
 
 Decentr is a publicly accessible, open-source blockchain protocol that targets the consumer crypto loans market, securing user data, and returning data value to the user.

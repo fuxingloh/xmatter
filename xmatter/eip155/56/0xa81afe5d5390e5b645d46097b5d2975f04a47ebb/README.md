@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c3b5de"
+icons:
+  - icon.png
 ---
 
 OG Mubarak

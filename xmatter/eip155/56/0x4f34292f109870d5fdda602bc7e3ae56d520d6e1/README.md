@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#38260c"
+icons:
+  - icon.png
 ---
 
 Celestial is a cross chain metaverse game that combines Gamefi, Socialfi, and NFTSwap with the theme of interstellar warfare.

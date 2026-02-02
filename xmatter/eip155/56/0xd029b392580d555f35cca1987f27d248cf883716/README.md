@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 DePHY creates a decentralized service mesh infra that connects services, AIs and hardware.

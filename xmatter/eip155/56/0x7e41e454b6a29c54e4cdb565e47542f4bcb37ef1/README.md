@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dcbc0c"
+icons:
+  - icon.png
 ---
 
 CYBERTRON is redefining the way payments move, consume and use real life. We are supporting the fee and future of the economy.

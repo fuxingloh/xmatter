@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d42424"
+icons:
+  - icon.png
 ---
 
 Gomics aims to provide a blockchain entertainment platform to facilitate the process of producing and consuming content.

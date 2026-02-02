@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#488af7"
+icons:
+  - icon.png
 ---
 
 BitBook is the travel platform where users can book accommodation and earn tokens in the process providing a passive income to users that create and share travel content.

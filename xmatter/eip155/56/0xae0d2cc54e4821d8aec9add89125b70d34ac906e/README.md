@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bc8d47"
+icons:
+  - icon.png
 ---
 
 The purpose of our coin is to build a vast community world wide for all apes to call home, our very own planet of the apes.

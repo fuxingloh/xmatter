@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d28f34"
+icons:
+  - icon.png
 ---
 
 Listapie is a next-generation DeFi platform designed to provide Lista DAO users with yield and veTokenomics boosting services

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#043ceb"
+icons:
+  - icon.png
 ---
 
 All of PIP's products are built on the open and permissionless nature of cryptocurrency, allowing anyone to send and receive money globally without limitations.

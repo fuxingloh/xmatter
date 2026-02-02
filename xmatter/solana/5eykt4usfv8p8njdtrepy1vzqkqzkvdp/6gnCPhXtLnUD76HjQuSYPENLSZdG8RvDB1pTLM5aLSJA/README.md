@@ -24,6 +24,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#3c4c6f"
+icons:
+  - icon.png
 ---
 
 BSKT tracks the top assets across the crypto ecosystem, eliminating the need to track and analyse individual coins

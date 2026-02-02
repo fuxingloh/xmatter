@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eba23c"
+icons:
+  - icon.png
 ---
 
 Supported By ELON MUSK. Named by its beloved father, Elon Musk and the potential for this adorable little baby puppy is limitless.

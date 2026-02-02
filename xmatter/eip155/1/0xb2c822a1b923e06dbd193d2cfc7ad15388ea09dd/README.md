@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7a2447"
+icons:
+  - icon.png
 ---
 
 VAMP is native token for Vampire Protocol. VAMP gains value by rebasing and farming tokens & items. MANA Token - a token that grants a holder an enhanced rebase.

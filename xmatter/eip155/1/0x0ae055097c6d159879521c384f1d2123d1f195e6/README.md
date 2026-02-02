@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#48a9a6"
+icons:
+  - icon.png
 ---
 
 POA Network has launched the first-ever blockchain where the native currency of the chain is USD-stable.

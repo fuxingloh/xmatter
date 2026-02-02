@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1e1e1e"
+icons:
+  - icon.png
 ---
 
 We Meme Business.

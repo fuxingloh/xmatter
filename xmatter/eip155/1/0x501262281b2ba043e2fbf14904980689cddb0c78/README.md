@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6c7473"
+icons:
+  - icon.png
 ---
 
 Mithril Ore is a Casper Ethereum Staking Pool. Participation in Casper may be limited due to complexity, network-congestion, and/or lack of funds. This token allows participation by resolving these variables.

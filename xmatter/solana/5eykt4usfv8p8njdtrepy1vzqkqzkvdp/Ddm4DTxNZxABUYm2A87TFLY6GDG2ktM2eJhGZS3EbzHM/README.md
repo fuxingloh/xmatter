@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#8852f1"
+icons:
+  - icon.png
 ---
 
 Launch Tokens with a distributor in minutes, without coding knowledge

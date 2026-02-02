@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5c09ee"
+icons:
+  - icon.png
 ---
 
 Cross-chain prediction market and hedging platform that is pioneering the technology of on-chain liquidity aggregation

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#bbbcb1"
+icons:
+  - icon.png
 ---
 
 $ALON is a meme coin. Pumpfun's dev Alon is just the CTO of it

@@ -10,6 +10,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#d8181c"
+icons:
+  - icon.png
 ---
 
 LoveHearts claims to be an online currency that connects people.

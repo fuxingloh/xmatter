@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f5c088"
+icons:
+  - icon.png
 ---
 
 ZThe cutest cat in crypto. Named after the CEO of Coinbase's cat.

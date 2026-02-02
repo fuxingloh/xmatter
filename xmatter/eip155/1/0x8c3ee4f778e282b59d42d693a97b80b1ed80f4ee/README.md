@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f45659"
+icons:
+  - icon.png
 ---
 
 Crypto Payment Gateway

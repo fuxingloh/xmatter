@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7088b3"
+icons:
+  - icon.png
 ---
 
 Aave AAVE V1 is an interest bearing token pegged 1:1 to the underlying AAVE deposited in Aave V1. aAAVE V1 accrue interest in real time in your wallet.

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#daa53d"
+icons:
+  - icon.png
 ---
 
 Yetucoin is the governance token of the Pan-Afrikan decentralized exchange YetuSwap.

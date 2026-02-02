@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f55954"
+icons:
+  - icon.png
 ---
 
 Lunyr is an Ethereum-based decentralized world knowledge base which rewards users with app tokens for peer-reviewing and contributing information.

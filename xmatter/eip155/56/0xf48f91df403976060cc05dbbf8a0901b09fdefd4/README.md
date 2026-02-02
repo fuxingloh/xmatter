@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f79608"
+icons:
+  - icon.png
 ---
 
 Minu is the first mining dog coin on Binance Smart Chain.

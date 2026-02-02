@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#545453"
+icons:
+  - icon.png
 ---
 
 Vista Finance bring trade, brokers, traders, and investors together in a decentralized, open, and fair network to make them more modern and global. This backstage smart contract technology provides an automated and completely transparent method of investing and a profit- sharing system by offering investment attractiveness to successful traders around the world.

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#8283e8"
+icons:
+  - icon.png
 ---
 
 $Aria Coin powers a vibrant ecosystem, providing users with diverse utilities that combine entertainment

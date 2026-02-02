@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d28a4c"
+icons:
+  - icon.png
 ---
 
 Baby Cake is the first token on the BSC to reward holders with Cake.

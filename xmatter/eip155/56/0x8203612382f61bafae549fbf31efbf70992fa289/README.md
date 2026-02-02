@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7c150b"
+icons:
+  - icon.png
 ---
 
 ShibaPup is a BSC token focused in the dog driven community, providing a play to earn Shiba game.

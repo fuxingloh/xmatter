@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e6bb31"
+icons:
+  - icon.png
 ---
 
 Jen coin is token based in BNB Smart Chain. its total supply is 21 Million. it has multiple utilities like online shopping Store, Von, Lottery and Networking.

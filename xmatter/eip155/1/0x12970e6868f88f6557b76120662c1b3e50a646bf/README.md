@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7d5a4d"
+icons:
+  - icon.png
 ---
 
 $LADYS is appropriating the tokenisation model to facilitate the accumulation of meme capital in the era of unstoppable meme coins.

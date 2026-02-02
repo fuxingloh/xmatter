@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d40d26"
+icons:
+  - icon.png
 ---
 
 snglsDAO Governance Token is the reputation token for the snglsDAO. Join the revolution of unstoppable media and the fight for freedom from censorship!

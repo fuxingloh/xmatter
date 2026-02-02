@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#060a09"
+icons:
+  - icon.png
 ---
 
 Liquidity Generation & Hyper Deflationary Token, Environmental Charity focused that rewards our community & token holders.

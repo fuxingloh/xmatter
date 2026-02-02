@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#a6dae2"
+icons:
+  - icon.png
 ---
 
 Bitgert is a revolutionary crypto engineering organization that aims to revolutionize the way people interact with digital assets. Through their numerous projects, Bitgert has created a comprehensive ecosystem of products that cover all aspects of digital asset ownership.

@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f4f8f8"
+icons:
+  - icon.png
 ---
 
 The OXY token powers the Oxygen Protocol, governing it and 100% of its revenue

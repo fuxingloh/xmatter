@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f04848"
+icons:
+  - icon.png
 ---
 
 The Bonded platform was created to incubate and deploy experimental, high-yield, smart-contract driven, financial instruments that push the bounds of open finance.

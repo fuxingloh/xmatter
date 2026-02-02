@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#530c7c"
+icons:
+  - icon.png
 ---
 
 Biffy is a cybernetic system that lives on the Ethereum blockchain and loves art.

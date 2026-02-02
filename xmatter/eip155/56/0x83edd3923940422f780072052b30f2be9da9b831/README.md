@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e6dbca"
+icons:
+  - icon.png
 ---
 
 Welcome to $FORA the official Mascot of FourMeme

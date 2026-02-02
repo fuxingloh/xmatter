@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e2bd3a"
+icons:
+  - icon.png
 ---
 
 AWT is a decentralized blockchain protocol that allow users to lend borrow selected cryptocurrency. It establishes money markets by polling assets together and algorithmically setting interest rates based on supply and demand of assets.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f27c42"
+icons:
+  - icon.png
 ---
 
 xSpace Finance offers a 100% community-driven Defi token XSPACE with deflationary mechanism

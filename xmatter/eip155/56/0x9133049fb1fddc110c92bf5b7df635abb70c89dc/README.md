@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c243c"
+icons:
+  - icon.png
 ---
 
 Dot.Finance is a new DeFi platform designed to incentivize the growth of the Polkadot ecosystem.

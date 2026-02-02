@@ -15,6 +15,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#141414"
+icons:
+  - icon.png
 ---
 
 Tokenising farts with the help of bots. No TG, no cabal, fart freely!

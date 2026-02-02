@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#fbbb04"
+icons:
+  - icon.png
 ---
 
 Wally The Whale, The King Of The Sea! WTW? Find out...

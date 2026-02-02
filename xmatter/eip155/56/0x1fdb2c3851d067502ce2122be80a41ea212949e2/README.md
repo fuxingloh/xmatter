@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3d3a3"
+icons:
+  - icon.png
 ---
 
 PIGE INU is a fully decentralized and community driven project, our contract is fully renounced Liquidity pool burned or locked forever

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a304fc"
+icons:
+  - icon.png
 ---
 
 TONE is a decentralized and social NFT marketplace (driven by the community) where you can turn your songs, music, performance or TONE'S into unique NFTs and win prizes, sell them or place it on an auction.

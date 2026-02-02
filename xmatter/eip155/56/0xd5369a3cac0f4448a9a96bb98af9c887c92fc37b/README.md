@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b4b4a8"
+icons:
+  - icon.png
 ---
 
 Hey my name is Bubb, im Bubbin around BNB.

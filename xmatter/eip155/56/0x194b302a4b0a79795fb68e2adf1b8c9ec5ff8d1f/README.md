@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#151112"
+icons:
+  - icon.png
 ---
 
 Anubi Foundation introduces the first #Web3 launcher for global users, achieving real integration of user data and applications through #DePIN technology.

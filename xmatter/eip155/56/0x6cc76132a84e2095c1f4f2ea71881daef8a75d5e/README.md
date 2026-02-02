@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d53c9f"
+icons:
+  - icon.png
 ---
 
 Ninebot is an app to manage automatic trading on Binance. Ninebot also makes your trading transactions run automatically according to the settings in App you provide.

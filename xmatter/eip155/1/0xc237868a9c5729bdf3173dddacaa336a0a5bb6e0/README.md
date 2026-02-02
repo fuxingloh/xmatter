@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e30404"
+icons:
+  - icon.png
 ---
 
 Tokenized version of the Wagerr

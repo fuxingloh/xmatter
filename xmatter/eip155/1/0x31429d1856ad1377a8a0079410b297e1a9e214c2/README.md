@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#98b1fa"
+icons:
+  - icon.png
 ---
 
 Angle is an over-collateralized, decentralized and capital-efficient stablecoin protocol.

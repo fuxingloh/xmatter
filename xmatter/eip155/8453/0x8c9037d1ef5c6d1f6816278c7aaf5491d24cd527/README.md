@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3eafb"
+icons:
+  - icon.png
 ---
 
 Create and own fan tokens

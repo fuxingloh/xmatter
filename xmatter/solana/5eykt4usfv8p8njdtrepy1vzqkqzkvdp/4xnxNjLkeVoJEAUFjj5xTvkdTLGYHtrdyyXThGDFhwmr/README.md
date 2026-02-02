@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#eabdbb"
+icons:
+  - icon.png
 ---
 
 We're a group of visionary gofurs led by Neon 'Flash Drive' Glowpaw and our elite executive team. With over +6 years of experience building in crypto,

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 VANRY is the official token of the VANAR blockchain. Vanar offers a carbon-neutral, high-speed and low-cost L1 chain designed for entertainment and mainstream.

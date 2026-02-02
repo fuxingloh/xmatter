@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbbd04"
+icons:
+  - icon.png
 ---
 
 A new project seeking to change how tokens are generated utilizing Proof of Time. Only one new coin is minted every hour.

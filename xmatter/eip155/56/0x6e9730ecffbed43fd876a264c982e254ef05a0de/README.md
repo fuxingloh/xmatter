@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#142484"
+icons:
+  - icon.png
 ---
 
 Nord Finance, a blockchain agnostic platform, is an advanced decentralized financial ecosystem focusing on simplifying decentralized finance products.

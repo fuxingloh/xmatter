@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#009999"
+icons:
+  - icon.png
 ---
 
 Wrapped version of Ormeus Ecosystem (ECO)

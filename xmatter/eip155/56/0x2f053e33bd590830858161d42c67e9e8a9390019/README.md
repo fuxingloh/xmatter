@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0a1421"
+icons:
+  - icon.png
 ---
 
 Philippines' First NFT Marketplace for Local Artists & Celebrities.

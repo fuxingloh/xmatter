@@ -34,6 +34,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f82878"
+icons:
+  - icon.png
 ---
 
 LUKSO is the blockchain for the new digital lifestyle.

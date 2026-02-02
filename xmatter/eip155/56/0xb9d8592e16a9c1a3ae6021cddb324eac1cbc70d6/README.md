@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e64f23"
+icons:
+  - icon.png
 ---
 
 Pera Finance is a DeFi platform where traders, liquidity providers and holders yield farm together through the DeFi's first decentralized trading competition.

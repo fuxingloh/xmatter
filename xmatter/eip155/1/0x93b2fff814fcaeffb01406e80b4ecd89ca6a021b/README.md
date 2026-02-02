@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#80604e"
+icons:
+  - icon.png
 ---
 
 Official $GRUMPY, a community focused Defi project with the aim to help animals in need. Donations are funded by our community.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#080d0e"
+icons:
+  - icon.png
 ---
 
 The AI agent named BnbAI is your new buddy. This agent can talk to you in text and voice

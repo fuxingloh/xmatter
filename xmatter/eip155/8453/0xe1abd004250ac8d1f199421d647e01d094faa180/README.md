@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1358f0"
+icons:
+  - icon.png
 ---
 
 ROOST is the champion of the Base ecosystem. Protecting, vibing and growing the $ROOST community.

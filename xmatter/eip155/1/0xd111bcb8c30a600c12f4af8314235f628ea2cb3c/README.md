@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cccccc"
+icons:
+  - icon.png
 ---
 
 Webflix describes itself as a blockchain-based broadcasting platform that connects broadcasters with users.

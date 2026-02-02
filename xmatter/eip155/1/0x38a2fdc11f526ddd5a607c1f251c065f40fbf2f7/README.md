@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e3dbfb"
+icons:
+  - icon.png
 ---
 
 Digital identity and authentication protocols to power the next generation of DeFi apps.

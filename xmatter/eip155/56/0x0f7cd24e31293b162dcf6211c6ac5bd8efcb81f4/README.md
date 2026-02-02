@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1dc3da"
+icons:
+  - icon.png
 ---
 
 The Future of Business enabled by Blockchain. A decentralized hub for all your financial needs.

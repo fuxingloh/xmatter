@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8174d8"
+icons:
+  - icon.png
 ---
 
 TEAM is a utility token for TokenStars - the talent management platform, that connects sports & entertainment stars with fans and advertisers, bringing interaction between them to a new level.

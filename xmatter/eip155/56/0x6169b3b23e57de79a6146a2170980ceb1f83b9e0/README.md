@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#092f3d"
+icons:
+  - icon.png
 ---
 
 Vetter Platform is where crowdsourcing meets A.I. and gamification to empower the crypto investor

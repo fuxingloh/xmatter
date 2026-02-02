@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c90505"
+icons:
+  - icon.png
 ---
 
 RedFOX Labs is a tech-forward venture builder delivering companies & platforms that are secure, scalable, and innovative, bringing the world into a new era of technology and prosperity.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d7b7bc"
+icons:
+  - icon.png
 ---
 
 $Buck is the official mascot token for the GME community.

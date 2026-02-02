@@ -13,6 +13,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#335cd3"
+icons:
+  - icon.png
 ---
 
 BNB pegged ChainLink (LINK BEP20) is a token issued by Binance on Smart Chain; its price is pegged to ChainLink (LINK ERC20) at a ratio of 1:1.

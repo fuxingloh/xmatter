@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f4543c"
+icons:
+  - icon.png
 ---
 
 Cross-chain liquidity mirror protocol

@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#b8c1c8"
+icons:
+  - icon.png
 ---
 
 Legends of Elumia is leading the way for MMORPG players to gain full ownership of their ingame assets via revolutionary new mechanics.

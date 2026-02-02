@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#052639"
+icons:
+  - icon.png
 ---
 
 Our mission is to connect the unconnected, so brick and mortar stores business can access previously unavailable insights.

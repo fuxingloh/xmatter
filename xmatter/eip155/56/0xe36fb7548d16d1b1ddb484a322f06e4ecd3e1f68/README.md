@@ -18,6 +18,7 @@ name: NeutralAI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 USDN operates on a decentralized and transparent smart contract infrastructure, ensuring stability, security, and efficiency. The smart contracts are deployed on multiple blockchain networks, supporting key functionalities.

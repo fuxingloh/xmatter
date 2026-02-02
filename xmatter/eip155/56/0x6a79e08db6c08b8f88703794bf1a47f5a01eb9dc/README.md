@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e4c9f6"
+icons:
+  - icon.png
 ---
 
 WINLAMBO is a Lambo generating token! Holders benefit from 2% passive income and a lifetime of chances at winning 210,000 BUSD.

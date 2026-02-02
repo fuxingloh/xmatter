@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#d2d1cb"
+icons:
+  - icon.png
 ---
 
 The most photogenic dog on the internet

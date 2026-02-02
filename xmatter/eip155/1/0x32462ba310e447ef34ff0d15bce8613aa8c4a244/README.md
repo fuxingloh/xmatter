@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5064e0"
+icons:
+  - icon.png
 ---
 
 Dohrnii is redefining crypto education, breaking down the barriers that have long kept investors from accessing the knowledge they need to thrive in the digital asset revolution

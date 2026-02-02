@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#190808"
+icons:
+  - icon.png
 ---
 
 GNON Labs builds decentralized, model-agnostic, censorship-resistant platforms for AI agent-to-agent communication, benchmarking, and development.

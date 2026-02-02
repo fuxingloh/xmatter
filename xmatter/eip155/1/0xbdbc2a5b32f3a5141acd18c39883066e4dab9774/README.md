@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#205139"
+icons:
+  - icon.png
 ---
 
 EMRX Token has been designed to incentivize the traders, investors, issuers and partners within the Emirex ecosystem.

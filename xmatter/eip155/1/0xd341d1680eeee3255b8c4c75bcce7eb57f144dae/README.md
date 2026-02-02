@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e0cc08"
+icons:
+  - icon.png
 ---
 
 SoMee.Social (ONG) is a cryptocurrency and operates on the Ethereum platform.

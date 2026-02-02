@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eed0d4"
+icons:
+  - icon.png
 ---
 
 PancakeHunny.Finance — Enhance and Optimise Your DeFi Yield Farming on Binance Smart Chan (BSC).

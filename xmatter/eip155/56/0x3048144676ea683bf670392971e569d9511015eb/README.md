@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d22728"
+icons:
+  - icon.png
 ---
 
 Decentralizing the U.S dollar to create the worlds favourite USD stable token.

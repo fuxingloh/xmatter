@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Decentralized auctions including fixed swap, sealed-bid, Dutch auction, NFT auctions.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#33ccfc"
+icons:
+  - icon.png
 ---
 
 CanYaCoin (CAN) is the BEP20 asset for the CanWork ecosystem

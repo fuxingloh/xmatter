@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#738dc0"
+icons:
+  - icon.png
 ---
 
 $COST the greatest fight against inflation. Available at a Costco near you for only $1.50. The people love these dogs.

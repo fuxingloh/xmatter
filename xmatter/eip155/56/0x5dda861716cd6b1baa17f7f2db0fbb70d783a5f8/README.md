@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#36092b"
+icons:
+  - icon.png
 ---
 
 Where Grok's memes turn into rewards.

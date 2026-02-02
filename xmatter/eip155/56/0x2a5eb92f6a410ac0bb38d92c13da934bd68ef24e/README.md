@@ -19,6 +19,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 World of Tiny Titans. Tiny Titans — collectable & tradeable NFTs on BSC which you can train, level and earn for play.

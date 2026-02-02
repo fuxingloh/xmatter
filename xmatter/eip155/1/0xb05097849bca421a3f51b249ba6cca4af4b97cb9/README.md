@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7e04fc"
+icons:
+  - icon.png
 ---
 
 FLOAT - a non-pegged stabilised coin that defends purchasing power in the long-run.

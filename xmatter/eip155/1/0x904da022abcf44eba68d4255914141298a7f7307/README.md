@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7ccaa0"
+icons:
+  - icon.png
 ---
 
 A self-governing cryptocurrency evaluation platform achieved by utilising on-chain governance, peer reviews and voting.

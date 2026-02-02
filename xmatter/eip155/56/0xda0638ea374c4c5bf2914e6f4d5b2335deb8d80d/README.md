@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8145f0"
+icons:
+  - icon.png
 ---
 
 GBankAPY Auto-Staking and Compounding feature provides the ultimate ease of use for GBK holders with APY up to 953,456% and Rewards holders every 3 Seconds / 28,800 Times Daily! By simply buying and holding GBK tokens in your wallet, you’ll earn GBK rewards as interest payments directly into your wallet. Your amount of GBK reward tokens will increase every 3 seconds.

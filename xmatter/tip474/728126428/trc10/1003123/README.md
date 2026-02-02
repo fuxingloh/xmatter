@@ -10,6 +10,8 @@ standards:
   - trc10
 icon: icon.png
 color: "#dfb540"
+icons:
+  - icon.png
 ---
 
 ZetBit is an open source peer-to-peer digital currency.

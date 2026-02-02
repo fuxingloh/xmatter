@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0f6cd6"
+icons:
+  - icon.png
 ---
 
 BZRX is a bZx protocol governance token

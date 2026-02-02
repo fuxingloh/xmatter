@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#de0f05"
+icons:
+  - icon.png
 ---
 
 New way of yield farming defi BITBERRY FINANCE

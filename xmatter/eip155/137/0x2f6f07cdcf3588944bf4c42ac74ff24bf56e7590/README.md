@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b7b7b7"
+icons:
+  - icon.png
 ---
 
 Stargate is a fully composable liquidity transport protocol that lives at the heart of Omnichain DeFi.

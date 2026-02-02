@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d41c23"
+icons:
+  - icon.png
 ---
 
 Tokenized version of the GBP

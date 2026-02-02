@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d8ecea"
+icons:
+  - icon.png
 ---
 
 VizslaSwap is a decentralized exchange running on BNB Smart Chain with lots of features that let you trade and earn tokens.

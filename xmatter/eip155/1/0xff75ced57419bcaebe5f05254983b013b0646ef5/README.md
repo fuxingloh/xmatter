@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c3464"
+icons:
+  - icon.png
 ---
 
 COOK token is a governance and utility token issued by Cook Protocol.

@@ -16,6 +16,7 @@ name: Landshare Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 Landshare brings tokenized real estate to the Binance Smart Chain.

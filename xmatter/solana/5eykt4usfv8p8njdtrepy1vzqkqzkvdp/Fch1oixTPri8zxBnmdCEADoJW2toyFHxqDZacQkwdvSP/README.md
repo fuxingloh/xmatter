@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#cbd0d2"
+icons:
+  - icon.png
 ---
 
 Harambe Coin: Unleashing the Power of Memes on Solana

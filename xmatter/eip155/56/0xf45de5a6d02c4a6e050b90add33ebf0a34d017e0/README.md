@@ -29,6 +29,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eea617"
+icons:
+  - icon.png
 ---
 
 Web3 Doge allows you to enter the metaverse by employing a 3D NFT avatar of your real pet on the Web3 Doge platform.

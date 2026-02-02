@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ed2c76"
+icons:
+  - icon.png
 ---
 
 YFII is a fork of Yearn.finance YFI with YIP 8 implemented.

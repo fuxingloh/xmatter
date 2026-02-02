@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#28ac99"
+icons:
+  - icon.png
 ---
 
 TOS is a decentralized hierarchical block network technology based on SDAG for the Internet of Things (IoT) industry.

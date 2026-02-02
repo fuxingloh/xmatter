@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f8d2a3"
+icons:
+  - icon.png
 ---
 
 SHIBZILLA is a METAVERSE token which rewards you with $SHIB

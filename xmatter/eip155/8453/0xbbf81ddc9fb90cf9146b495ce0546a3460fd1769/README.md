@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#14140c"
+icons:
+  - icon.png
 ---
 
 Braza AI is the friend you needed to help you with your money.

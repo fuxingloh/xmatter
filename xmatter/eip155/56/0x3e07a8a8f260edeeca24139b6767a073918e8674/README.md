@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dbb160"
+icons:
+  - icon.png
 ---
 
 CATGE is the cat coin, a semi-deflationary token and the utility token for the Startup Token Launchpad exchange.

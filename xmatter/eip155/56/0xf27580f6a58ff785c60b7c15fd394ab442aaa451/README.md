@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0a0909"
+icons:
+  - icon.png
 ---
 
 Nicheman is a defi project developed for the investors/enthusiasts who always wanted to own a coin that is community-driven and fairly launched.

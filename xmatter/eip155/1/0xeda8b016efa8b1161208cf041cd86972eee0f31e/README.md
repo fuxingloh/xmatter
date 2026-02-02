@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6c9d21"
+icons:
+  - icon.png
 ---
 
 IHT Real Estate Protocol Global Real Estate Blockchain Cloud Platform

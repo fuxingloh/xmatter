@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#14145d"
+icons:
+  - icon.png
 ---
 
 BnKToTheFuture (BFT) is an online investment platform created to facilitate investments in equity and cryptoassets

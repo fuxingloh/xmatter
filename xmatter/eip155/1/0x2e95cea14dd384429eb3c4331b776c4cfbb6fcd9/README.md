@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#141414"
+icons:
+  - icon.png
 ---
 
 Throne has developed an exciting and disruptive blockchain technology that will transform our relationship to content and empower content creators like never before.

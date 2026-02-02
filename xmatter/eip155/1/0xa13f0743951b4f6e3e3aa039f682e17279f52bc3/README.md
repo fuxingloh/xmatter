@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#051c5c"
+icons:
+  - icon.png
 ---
 
 Sentinel Chain (SENC) is a cryptocurrency and operates on the Ethereum platform.

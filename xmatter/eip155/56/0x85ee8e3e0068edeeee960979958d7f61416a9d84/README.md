@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4e37dc"
+icons:
+  - icon.png
 ---
 
 $STORY is the token fueling our crowdfunding platform called Story. Story provides anyone, anywhere with the platform to help others. Simply share their Story in 60 seconds or less and our community listens.

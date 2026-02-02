@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d66af8"
+icons:
+  - icon.png
 ---
 
 A DeFi powerhouse at the center of the hottest trend in the crypto industry.

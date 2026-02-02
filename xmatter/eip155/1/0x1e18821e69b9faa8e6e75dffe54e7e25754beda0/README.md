@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbb68a"
+icons:
+  - icon.png
 ---
 
 KIMCHI is so hot

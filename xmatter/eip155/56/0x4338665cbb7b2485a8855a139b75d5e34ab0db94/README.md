@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3b5c9c"
+icons:
+  - icon.png
 ---
 
 BNB pegged Litecoin Token (LTC BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Litecoin (LTC) at a ratio of 1:1.

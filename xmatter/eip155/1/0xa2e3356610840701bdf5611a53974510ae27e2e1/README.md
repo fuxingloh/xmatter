@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3c625"
+icons:
+  - icon.png
 ---
 
 wBETH is a reward-bearing ETH liquid staking token offered by Binance. Each wBETH represents 1 BETH (1:1 to staked ETH) plus all of its accrued ETH2.0 staking rewards starting from when wBETH's conversion rate was initialized at 1:1 on Apr 27th 2023 00:00 (UTC+0).

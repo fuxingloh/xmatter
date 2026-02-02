@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1d1716"
+icons:
+  - icon.png
 ---
 
 Decentralized Meme Tokens that grew into a vibrant ecosystem.

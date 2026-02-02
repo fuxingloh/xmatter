@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7cd2a3"
+icons:
+  - icon.png
 ---
 
 HONEYPOT PhilosoRaptor

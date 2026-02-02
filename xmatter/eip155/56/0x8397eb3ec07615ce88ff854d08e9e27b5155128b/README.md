@@ -17,6 +17,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#23231b"
+icons:
+  - icon.png
 ---
 
 BLOCKCHAIN

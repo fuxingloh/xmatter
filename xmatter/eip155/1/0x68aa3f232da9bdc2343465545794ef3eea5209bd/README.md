@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#311040"
+icons:
+  - icon.png
 ---
 
 Cryptocurrency exchange built from the ground up to support cryptocurrency traders with fiat pairs.

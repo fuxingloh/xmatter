@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f4e9f8"
+icons:
+  - icon.png
 ---
 
 Previously called GET Protocol, the OPEN Ticketing Ecosystem is the home of onchain ticketing, building state-of-the-art ticketing infrastructure & tools for integrators, event organizers, and artists to tap into new avenues for financing, access, and fostering fan relationships.

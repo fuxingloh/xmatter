@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c2643"
+icons:
+  - icon.png
 ---
 
 HNB aims to build a decentralized blockchain network where individuals and enterprises can exchange products and services with trust and security.

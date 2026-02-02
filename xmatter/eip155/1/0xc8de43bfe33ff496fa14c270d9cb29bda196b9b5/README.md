@@ -21,6 +21,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbfaeb"
+icons:
+  - icon.png
 ---
 
 Big Eyes’ is a full-on community token with the express goal of shifting wealth into the defi ecosystem and protecting an important part of the world’s ecosystem. We are creating the BIG Casino and 20+ P2E games all utilizing $BIG to play. This is the beginning of the $BIG-gest ecosystem in Crypto.

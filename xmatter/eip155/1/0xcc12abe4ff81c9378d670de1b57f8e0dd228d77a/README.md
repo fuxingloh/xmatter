@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b188b8"
+icons:
+  - icon.png
 ---
 
 Aave REN is an interest bearing token pegged 1:1 to the underlying REN deposited in Aave. aREN accrue interest in real time in your wallet.

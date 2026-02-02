@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#faf5ea"
+icons:
+  - icon.png
 ---
 
 $CORGIAI is the core token used within the CorgiAI ecosystem.

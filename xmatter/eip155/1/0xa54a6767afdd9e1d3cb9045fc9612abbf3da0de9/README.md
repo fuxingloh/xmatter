@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5104f8"
+icons:
+  - icon.png
 ---
 
 YOLK is a network of independent nodes that provide a decentralized encrypted databaser service.

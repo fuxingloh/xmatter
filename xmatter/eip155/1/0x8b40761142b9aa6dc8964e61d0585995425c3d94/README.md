@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fb7c9c"
+icons:
+  - icon.png
 ---
 
 Tripio describes itself as a blockchain-based travel marketplace and protocols.

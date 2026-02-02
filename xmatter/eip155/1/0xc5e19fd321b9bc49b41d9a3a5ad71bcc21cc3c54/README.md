@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Frictionless Token Swap Experience. Automated liquidity pools deployment. TDEX dividends sharing program and Staking Dapp.

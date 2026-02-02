@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9ba06"
+icons:
+  - icon.png
 ---
 
 MARU - The world's most famous cat, guinness world record holder! 535M+ views

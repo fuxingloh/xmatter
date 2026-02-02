@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5c34db"
+icons:
+  - icon.png
 ---
 
 OnlyCalls is pioneering a new era of crypto trading through an ecosystem of specialized AI agents trained on extensive market data.

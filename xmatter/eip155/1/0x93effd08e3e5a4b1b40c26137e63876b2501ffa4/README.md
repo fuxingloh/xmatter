@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#68cdaa"
+icons:
+  - icon.png
 ---
 
 The JulSwap Token on ETH .

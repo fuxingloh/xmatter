@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eab40b"
+icons:
+  - icon.png
 ---
 
 BSCPAD is the first decentralized IDO platform on the Binance Smart Chain Network.

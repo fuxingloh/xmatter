@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c67ae"
+icons:
+  - icon.png
 ---
 
 Pioneer of Global Game Public Chain, dedicated to creating a game ecology based on blockchain technology.

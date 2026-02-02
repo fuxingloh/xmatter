@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#73427f"
+icons:
+  - icon.png
 ---
 
 The $WRLD Token was created with the cryptocurrency social media platform community in mind. The $WRLD token project aims to allow users to be a part of a project by merely being a part of the token creator’s social network(s).

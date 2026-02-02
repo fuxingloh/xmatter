@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#afafaf"
+icons:
+  - icon.png
 ---
 
 Cryptaur (CPT) is a cryptocurrency and operates on the Ethereum platform.

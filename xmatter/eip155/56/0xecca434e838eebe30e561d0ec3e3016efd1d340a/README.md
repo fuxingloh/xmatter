@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#14244c"
+icons:
+  - icon.png
 ---
 
 BenefitMine is a comprehensive cryptocurrency platform designed to empower users with a range of financial tools and services. Developed by a dedicated team, BenefitMine offers a user-friendly interface and a suite of features tailored to meet the diverse needs of cryptocurrency enthusiasts and investors.

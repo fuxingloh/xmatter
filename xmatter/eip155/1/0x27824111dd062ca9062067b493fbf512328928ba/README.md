@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04040c"
+icons:
+  - icon.png
 ---
 
 UNI Payment System, a globally accepted payment system based exclusively on cryptocurrencies and stablecoins.

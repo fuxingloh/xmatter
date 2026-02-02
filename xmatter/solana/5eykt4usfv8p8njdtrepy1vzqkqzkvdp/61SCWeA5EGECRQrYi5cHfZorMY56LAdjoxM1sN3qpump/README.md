@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#002098"
+icons:
+  - icon.png
 ---
 
 A multi-platform AIGUI managing everything

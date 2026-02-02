@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#141c2c"
+icons:
+  - icon.png
 ---
 
 Wrapped Mirror SLV Token.

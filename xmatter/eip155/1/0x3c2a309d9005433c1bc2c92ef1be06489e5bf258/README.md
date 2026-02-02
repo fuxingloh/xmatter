@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0894f8"
+icons:
+  - icon.png
 ---
 
 PayProtocol is a simple and convenient cryptocurrency payment platform for both e-commerce and retail use. It is a cryptocurrency project supported by Danal, a payment company based in South Korea.

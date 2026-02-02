@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f1861f"
+icons:
+  - icon.png
 ---
 
 First Multichain NFT game

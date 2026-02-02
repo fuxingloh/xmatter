@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b0cdcd"
+icons:
+  - icon.png
 ---
 
 rsETH is a Liquid Restaked Token (LRT) issued by Kelp DAO designed to offer liquidity to illiquid assets deposited into restaking platforms, such as EigenLayer. It aims to address the risks and challenges posed by the current offering of restaking

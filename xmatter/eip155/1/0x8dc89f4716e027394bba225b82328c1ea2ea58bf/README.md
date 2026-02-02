@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ea0506"
+icons:
+  - icon.png
 ---
 
 Galaxy Villains is a community driven token under the Galaxy Heroes ecosystem. GVC is your gateway to a decentralized galaxy where holders can take leadership of their finances and earn sparkly rewards.

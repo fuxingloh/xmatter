@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#192129"
+icons:
+  - icon.png
 ---
 
 SAFEWIN is a utility token created for the SafeWin app.

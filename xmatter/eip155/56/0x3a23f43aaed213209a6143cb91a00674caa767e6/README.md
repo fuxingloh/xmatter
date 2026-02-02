@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5a4e52"
+icons:
+  - icon.png
 ---
 
 Hentaicoin is a decentralized token on the Binance Smart Chain and NFT platform dedicated to the world of Hentai, ero manga or adult Japanimation.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3e708e"
+icons:
+  - icon.png
 ---
 
 Guild of Guardians is a mobile RPG where players can turn their gaming passion into assets.

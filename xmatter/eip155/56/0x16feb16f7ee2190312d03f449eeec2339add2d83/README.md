@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c0728a"
+icons:
+  - icon.png
 ---
 
 A Frictionless Yield Generation, Community Driven Protocol.

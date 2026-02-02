@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d06800"
+icons:
+  - icon.png
 ---
 
 Defi Connect aims to bring real-life and DeFi together by building applications of DeFi in digital marketing, healthcare, transportation, and logistics

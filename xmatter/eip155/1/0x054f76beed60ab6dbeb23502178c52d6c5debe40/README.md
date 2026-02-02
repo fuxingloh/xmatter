@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0a64b4"
+icons:
+  - icon.png
 ---
 
 Earn interest and access instant loans through DeFiner’s noncustodial platform. Truly peer-to-peer. Secure. No middlemen.

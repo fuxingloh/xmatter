@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8355ff"
+icons:
+  - icon.png
 ---
 
 DeFiat is the first gateway to decentralized financial services with fully-embedded governance, loyalty discounts, and deflationary mechanisms at its core.

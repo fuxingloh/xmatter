@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7048e0"
+icons:
+  - icon.png
 ---
 
 The Nerve token (NRV) is the governance token for the Nerve Finance ecosystem of low slippage stable-swaps and bridged assets from the BSC, Ethereum, and Bitcoin networks

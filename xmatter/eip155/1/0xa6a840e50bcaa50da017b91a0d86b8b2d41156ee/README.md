@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4294ad"
+icons:
+  - icon.png
 ---
 
 EKO is a blockchain based system that provides verified education, skill, and work experience information.

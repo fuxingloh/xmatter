@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f38406"
+icons:
+  - icon.png
 ---
 
 Wrapped Mirror BABA Token.

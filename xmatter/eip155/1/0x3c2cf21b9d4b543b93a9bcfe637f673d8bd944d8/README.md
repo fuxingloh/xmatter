@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eaca8b"
+icons:
+  - icon.png
 ---
 
 OD is the Dsdaq ecosystem utility token

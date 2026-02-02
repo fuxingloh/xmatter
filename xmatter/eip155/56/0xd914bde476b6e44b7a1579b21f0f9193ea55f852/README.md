@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ecdbc2"
+icons:
+  - icon.png
 ---
 
 Husky Shiba is a community driven charity token, 50% of all generated liquidity will be donated to charities chosen by the community! We have already made our first donation, after only 24hr's, and we donated $100,000! Check out our website for more info.

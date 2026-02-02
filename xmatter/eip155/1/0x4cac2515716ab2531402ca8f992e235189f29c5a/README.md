@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0474bc"
+icons:
+  - icon.png
 ---
 
 A seamlessly integrated cryptocurrency exchange that meets your specific trading and investing needs.

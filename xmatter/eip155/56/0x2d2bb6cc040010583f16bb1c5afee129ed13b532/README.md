@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cd3609"
+icons:
+  - icon.png
 ---
 
 Yield farm MARS on Binance Smart Chain.

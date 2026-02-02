@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eccf6b"
+icons:
+  - icon.png
 ---
 
 Sanji Inu is a community meme token, ownership will be removed. The project will be developed in the direction of NFT and adventure game to give One Piece fans an experience of the journey across the ocean.

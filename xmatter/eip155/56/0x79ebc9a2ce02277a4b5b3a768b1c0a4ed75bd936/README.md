@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f1b5be"
+icons:
+  - icon.png
 ---
 
 CATGIRL¢ is a NFT focused, community driven crypto currency, with real world use.

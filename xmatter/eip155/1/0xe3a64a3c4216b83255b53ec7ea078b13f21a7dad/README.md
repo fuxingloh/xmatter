@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bcc4d4"
+icons:
+  - icon.png
 ---
 
 The project aims to connect multiple Defi projects in a single app.

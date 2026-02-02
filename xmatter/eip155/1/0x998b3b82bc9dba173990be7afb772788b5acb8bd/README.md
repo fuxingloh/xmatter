@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#247eac"
+icons:
+  - icon.png
 ---
 
 Banca is a type of an investment bank community which uses AI and expert system to achieve the dynamics of Banca's eco-chain and the automatic management.

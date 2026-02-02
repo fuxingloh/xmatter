@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#07b8a9"
+icons:
+  - icon.png
 ---
 
 IoTeX is the next generation of the IoT-oriented blockchain platform with vast scalability, privacy, isolatability, and developability. IoTeX connects the physical world, block by block.

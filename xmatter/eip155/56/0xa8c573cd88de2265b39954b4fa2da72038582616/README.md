@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#27202b"
+icons:
+  - icon.png
 ---
 
 Stealth Shiba is a Community-based defi token that aims to provide a safe, trusted and seamless crypto investing and trading environment.

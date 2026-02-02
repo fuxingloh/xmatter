@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#49879b"
+icons:
+  - icon.png
 ---
 
 TVK is the fuel of Terra Virtua, opening up a whole world of privileges, experiences and opportunities. Use TVK to get exclusive NFTs, drops, discounts, staking and other privileges.

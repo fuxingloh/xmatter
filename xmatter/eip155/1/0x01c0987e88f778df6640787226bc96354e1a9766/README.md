@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#252525"
+icons:
+  - icon.png
 ---
 
 UAT is a non-refundable functional utility token which will be used as the payment medium of service exchange between participants on the UAT platform.

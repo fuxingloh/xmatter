@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#633427"
+icons:
+  - icon.png
 ---
 
 Ben is a decentralized community experiment which is inspired by Elon Musk and Dogecoin.

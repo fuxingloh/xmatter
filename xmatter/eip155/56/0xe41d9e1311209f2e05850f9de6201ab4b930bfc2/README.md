@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9028f8"
+icons:
+  - icon.png
 ---
 
 Sponsee is the bridge that connects influencers with businesses in a fast, efficient and safe manner. Through the use of smart contracts, processes like peer reviews, dispute resolution(JURY Protocol), digital contracture are integrated into one seamless workflow.

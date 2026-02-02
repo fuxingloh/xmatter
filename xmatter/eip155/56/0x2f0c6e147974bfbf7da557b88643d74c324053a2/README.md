@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#706e74"
+icons:
+  - icon.png
 ---
 
 World's Best Community Driven Coin

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a77c4f"
+icons:
+  - icon.png
 ---
 
 Wrapped version of Ormeus Coin (ORMEUS)

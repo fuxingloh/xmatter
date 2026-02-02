@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#21d8a4"
+icons:
+  - icon.png
 ---
 
 Elongate Deluxe The passive reward protocol with advanced elongation technology.

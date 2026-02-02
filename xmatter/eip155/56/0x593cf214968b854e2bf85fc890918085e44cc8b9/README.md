@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ef8338"
+icons:
+  - icon.png
 ---
 
 Trade on four.meme, flap.sh, or on any DEX on Binance Smart Chain with blazing fast speeds. You can also analyse tokens with our AI agent while trading!

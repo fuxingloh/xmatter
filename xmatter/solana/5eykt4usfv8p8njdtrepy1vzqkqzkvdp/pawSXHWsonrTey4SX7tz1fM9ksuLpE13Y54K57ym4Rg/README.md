@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#040405"
+icons:
+  - icon.png
 ---
 
 At the core of PayPaw, the $PAW Token is more than just currency, it's your stake in our future.

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1860f0"
+icons:
+  - icon.png
 ---
 
 NuCypher is a decentralized threshold cryptography network.

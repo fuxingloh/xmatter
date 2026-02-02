@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c1c1c"
+icons:
+  - icon.png
 ---
 
 Aurum is the golden standard of reward tokens and BSC security. First token to allow holders to choose any BSC token as their redistribution reward; with a focus on developing utility to enhance security across the BSC network.

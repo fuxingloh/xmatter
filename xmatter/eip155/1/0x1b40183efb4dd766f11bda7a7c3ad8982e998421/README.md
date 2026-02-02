@@ -10,6 +10,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#443cac"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Vesper provides a platform for easy-to-use DeFi products. Vesper's DeFi products deliver ease-of-use in achieving your crypto-finance objectives.

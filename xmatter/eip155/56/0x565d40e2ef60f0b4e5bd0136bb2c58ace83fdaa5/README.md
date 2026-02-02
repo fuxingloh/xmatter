@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#101b22"
+icons:
+  - icon.png
 ---
 
 The swap 315 Dual Pump Protocol is a new protocol that supports both 314 contract transfer transactions and swap transactions. The swap 315 Dual Pump Protocol effectively solves the risk of contract code corruption and also addresses the risk of swap pool withdraw

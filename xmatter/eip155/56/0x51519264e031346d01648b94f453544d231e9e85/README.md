@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#20201e"
+icons:
+  - icon.png
 ---
 
 TDOGE makes everyone's income better.

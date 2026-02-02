@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbac14"
+icons:
+  - icon.png
 ---
 
 TRUSTMAX is a blockchain technology development project protected and managed by Bright Invest GmbH, Darmstadt.

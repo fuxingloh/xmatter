@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#2a2e2e"
+icons:
+  - icon.png
 ---
 
 Ethereum is a global, open-source platform for decentralized applications. Eth is fueling transactions on the Chain.

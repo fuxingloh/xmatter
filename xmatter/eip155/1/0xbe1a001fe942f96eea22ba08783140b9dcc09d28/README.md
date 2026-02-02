@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04cb04"
+icons:
+  - icon.png
 ---
 
 Beta Finance is a cross-chain permissionless money market protocol for lending, borrowing, and shorting crypto. Beta Finance has created an integrated “1-Click” Short Tool to initiate, manage, and close short positions, as well as allow anyone to create money markets for a token automatically.

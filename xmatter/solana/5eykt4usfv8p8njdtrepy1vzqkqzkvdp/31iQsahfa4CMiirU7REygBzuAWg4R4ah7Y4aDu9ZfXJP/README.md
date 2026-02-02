@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#68b0af"
+icons:
+  - icon.png
 ---
 
 Emerging from the depths of the $SOL space, $SOLZILLA rises. More than just a symbol of strength, $SOLZILLA is a harbinger of a monumental shift in the $SOL.

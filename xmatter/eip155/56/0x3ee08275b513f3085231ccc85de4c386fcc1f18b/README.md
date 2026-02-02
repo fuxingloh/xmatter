@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b43c3"
+icons:
+  - icon.png
 ---
 
 The BelecX protocol will build and combine the crypto industry's Metaverse+NFT+GameFi+Defi+ blind-box multi-ring crypto world based on previous standards.BelecX provides a solution for web3.0 true autonomous community modules.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3fdca0"
+icons:
+  - icon.png
 ---
 
 Lyra is an options trading protocol accessing the scalability of Layer 2 Ethereum to provide a robust, lightning-fast and reliable trading experience.

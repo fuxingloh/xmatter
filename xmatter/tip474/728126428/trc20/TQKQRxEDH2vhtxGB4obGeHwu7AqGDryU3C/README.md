@@ -14,6 +14,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#f2e7d5"
+icons:
+  - icon.png
 ---
 
 The first boy on Tron with one mission; to share his $SUGAR.

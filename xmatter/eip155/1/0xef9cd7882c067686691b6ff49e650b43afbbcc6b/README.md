@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5c3194"
+icons:
+  - icon.png
 ---
 
 FNX is the token of FinNexus, the project building a network of multi-chain protocol clusters to power innovative cross-chain DeFi products.

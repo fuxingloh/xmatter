@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#211d28"
+icons:
+  - icon.png
 ---
 
 Unveil Shiba Saga: Where gaming meets blockchain magic. Earn SHIA tokens while playing, redeem for rewards, trade on exchanges, and participate in social impact initiatives. Level up your gaming experience with us!

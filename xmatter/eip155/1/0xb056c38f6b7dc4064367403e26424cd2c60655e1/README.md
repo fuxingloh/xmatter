@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1319fb"
+icons:
+  - icon.png
 ---
 
 CEEK VR (CEEK) is a cryptocurrency and operates on the Ethereum platform.

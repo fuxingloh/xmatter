@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#280543"
+icons:
+  - icon.png
 ---
 
 What Is Bacon Protocol (Bacon AI)? Bacon Protocol is an innovative AI-powered framework designed to revolutionize interactions within the Web3 ecosystem.

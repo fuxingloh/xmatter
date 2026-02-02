@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c4355b"
+icons:
+  - icon.png
 ---
 
 Sin City is a metaverse multiplayer game built on blockchain. Your very own decentralized virtual world, centered around a social play-to-earn empire building model and housing multiple gaming & gambling applications for an immersive experience.

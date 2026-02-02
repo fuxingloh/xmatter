@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#75c1d4"
+icons:
+  - icon.png
 ---
 
 KOALA AI brings to the Solana blockchain $KOKO, a meme token inspired by Pepe the Frog, designed to invigorate the space with innovative community engagement and liquidity solutions.

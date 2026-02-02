@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#546454"
+icons:
+  - icon.png
 ---
 
 Adamant is a yield optimizer vault that provides users with an easy and safe way to automatically compound their tokens on the Polygon (MATIC) network and maximize their yields.

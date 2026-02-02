@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3f34ff"
+icons:
+  - icon.png
 ---
 
 Utility token to increase adoption of cryptocurrency.

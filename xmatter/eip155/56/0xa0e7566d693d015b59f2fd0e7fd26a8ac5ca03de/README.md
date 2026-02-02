@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9dc3d9"
+icons:
+  - icon.png
 ---
 
 CatGirl has found her soulmate. He’s called CatBoy. Witness how CatBoy will conquer the Binance Blockchain and go to the highest high the Binance Blockchain has ever seen.

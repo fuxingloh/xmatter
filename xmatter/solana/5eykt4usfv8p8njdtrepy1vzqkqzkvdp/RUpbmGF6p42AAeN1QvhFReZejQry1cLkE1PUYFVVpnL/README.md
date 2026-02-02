@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f097b4"
+icons:
+  - icon.png
 ---
 
 It all started with a small Epep and a dream, one day while perched on his lili pad his rod caught a snag, what was it he thought to himself…

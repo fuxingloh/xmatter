@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ff147a"
+icons:
+  - icon.png
 ---
 
 MetaMusk Token's fundamental objective is to transform the monetary system.

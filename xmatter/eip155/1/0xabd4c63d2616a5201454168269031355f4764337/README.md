@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#35134a"
+icons:
+  - icon.png
 ---
 
 The Orderly-Chain: Powering DeFi with Cloud Liquidity

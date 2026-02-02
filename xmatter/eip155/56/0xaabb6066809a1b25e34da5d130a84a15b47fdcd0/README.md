@@ -13,6 +13,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eab50d"
+icons:
+  - icon.png
 ---
 
 https://x.com/blockRambo/status/1892099794988040512

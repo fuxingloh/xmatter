@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#203868"
+icons:
+  - icon.png
 ---
 
 The Hyperion Fund is a closed-end blockchain-based venture capital fund.

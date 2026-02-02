@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc4404"
+icons:
+  - icon.png
 ---
 
 4-Stock is a token for selling and buying a part of the company.

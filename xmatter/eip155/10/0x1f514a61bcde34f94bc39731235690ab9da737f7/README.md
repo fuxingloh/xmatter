@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dbdbdb"
+icons:
+  - icon.png
 ---
 
 Tarot is a multi-chain, decentralized lending protocol where users can participate as lenders or borrowers in isolated lending pools.

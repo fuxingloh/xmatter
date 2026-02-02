@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e7a43d"
+icons:
+  - icon.png
 ---
 
 Drakons.IO is a strategy game and crypto collectibles site powered by blockchain

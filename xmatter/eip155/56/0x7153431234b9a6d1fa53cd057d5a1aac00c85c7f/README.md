@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e4c235"
+icons:
+  - icon.png
 ---
 
 KichiCoin (KICH) is a revolutionary De-Fi community-driven utility token that provides safe, secure, hassle-free transactions for everyone, along with a weekly lottery system utilizing Chainlink VRF that brings joy to our holders. Kichi aims to create interactive games on the BSC network and NFT Platform for the education sector. KICHI (吉) COIN’s concept was born to unite the community together to achieve common goals that reward everyone involved. Doxxed Team!

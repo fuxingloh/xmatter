@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1414a4"
+icons:
+  - icon.png
 ---
 
 Take back control of your data, store it on our encrypted wallet, license it to earn from your data

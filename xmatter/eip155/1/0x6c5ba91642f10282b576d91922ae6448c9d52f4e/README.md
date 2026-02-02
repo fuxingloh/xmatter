@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Phala Network is the most decentralized protocol to run AI Agents as coprocessors for blockchains.

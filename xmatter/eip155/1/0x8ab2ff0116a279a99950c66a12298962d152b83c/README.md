@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#151515"
+icons:
+  - icon.png
 ---
 
 Ordiswap is a pioneering protocol, merges the worlds of Bitcoin and DeFi by introducing the first AMM on Bitcoin's native layer through off-chain balance state logic.

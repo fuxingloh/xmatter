@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f8abda"
+icons:
+  - icon.png
 ---
 
 $PORK, a pepe-fork created by @Pauly0x.

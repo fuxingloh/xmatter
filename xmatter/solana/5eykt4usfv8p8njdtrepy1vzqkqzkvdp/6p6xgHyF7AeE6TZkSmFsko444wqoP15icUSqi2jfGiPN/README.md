@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#1f1c18"
+icons:
+  - icon.png
 ---
 
 $TRUMP are now freely tradeable on the blockchain.

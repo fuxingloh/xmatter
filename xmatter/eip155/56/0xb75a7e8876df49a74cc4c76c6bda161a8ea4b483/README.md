@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f1f0ed"
+icons:
+  - icon.png
 ---
 
 Meme king Palulu. $Palu also become Binance’s new mascot.

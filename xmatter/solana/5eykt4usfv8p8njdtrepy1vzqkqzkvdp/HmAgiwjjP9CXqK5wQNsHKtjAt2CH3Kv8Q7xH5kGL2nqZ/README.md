@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#444048"
+icons:
+  - icon.png
 ---
 
 $BARRON Time Traveler is a CTO driven by Praetorians loyal to Barron Trvmp. They have vowed to follow him and meme their way into orbit.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#049bdb"
+icons:
+  - icon.png
 ---
 
 Yobit Token (YO) is the native asset of Yobit Exchange.

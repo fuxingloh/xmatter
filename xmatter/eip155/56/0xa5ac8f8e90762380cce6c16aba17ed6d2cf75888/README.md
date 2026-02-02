@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e2dcd9"
+icons:
+  - icon.png
 ---
 
 Strike the moon, shoot at the stars.

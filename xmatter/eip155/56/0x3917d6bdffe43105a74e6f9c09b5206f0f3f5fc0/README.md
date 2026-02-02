@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ae6f42"
+icons:
+  - icon.png
 ---
 
 LCAT (Lion CAT) is a community-driven meme coin on BNB chain bringing together crypto enthusiasts with a bold and adventurous spirit. Inspired by the strength of lions, LCAT aims to create a fun, engaging experience while building a dedicated community and reaching new heights in the crypto space!

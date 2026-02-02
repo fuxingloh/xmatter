@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#802cbf"
+icons:
+  - icon.png
 ---
 
 Welcome to Yawn’s World!

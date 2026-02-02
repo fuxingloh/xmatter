@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#14bcfc"
+icons:
+  - icon.png
 ---
 
 VeChain is the world’s leading blockchain platform offering Blockchain-as-a-Service to enterprises for products and information. VeChain strives to build a trust-free and distributed business ecosystem.

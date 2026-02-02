@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#000000"
+icons:
+  - icon.png
 ---
 
 PUBE is a community run project focused on helping the homeless and various cancer organizations.

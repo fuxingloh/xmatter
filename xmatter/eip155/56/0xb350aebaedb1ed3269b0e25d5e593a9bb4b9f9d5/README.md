@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#070706"
+icons:
+  - icon.png
 ---
 
 Ryoshi is a deflationary, community driven meme token that came to take over the meme game. With 10% burn from every transaction that decreases the supply and increases the demand you can kick back and watch your RYOSHI value grow.

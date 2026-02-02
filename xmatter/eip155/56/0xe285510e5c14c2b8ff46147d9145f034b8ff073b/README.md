@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5475d0"
+icons:
+  - icon.png
 ---
 
 VANCAT Sperm Token (VCSPERM) is a subtoken of VANCAT Token and VANCAT universe. Users must have VCSPERM to mint Special NFTs

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b9bcbe"
+icons:
+  - icon.png
 ---
 
 Fawkes Mask works on an autonomous frictionless yield farming and liquidity generation protocol

@@ -11,6 +11,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#000000"
+icons:
+  - icon.png
 ---
 
 AI-Powered Market Intelligence for Web3 Traders.

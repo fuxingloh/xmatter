@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7fb942"
+icons:
+  - icon.png
 ---
 
 World's First Health Metaverse & NFT Store

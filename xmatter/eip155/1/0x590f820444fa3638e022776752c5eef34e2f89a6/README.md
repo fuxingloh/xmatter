@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc3434"
+icons:
+  - icon.png
 ---
 
 Scalable for devs. Secure for users. Decentralized for all. Innovative sharding meets expressive sUTXO and efficient Proof-of-Less-Work to secure scalable dApps for real-world use cases.

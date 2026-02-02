@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 AI-powered yield optimization on BSC. Smarter staking, higher returns, zero effort

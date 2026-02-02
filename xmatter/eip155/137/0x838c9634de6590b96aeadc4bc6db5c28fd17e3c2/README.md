@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f97425"
+icons:
+  - icon.png
 ---
 
 Matri1x is a global Web3 entertainment platform that aims to blend multi-episode games, NFT art, Esports, online literature, and community engagement

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#34ac54"
+icons:
+  - icon.png
 ---
 
 Wrapped Mirror GOOGL Token.

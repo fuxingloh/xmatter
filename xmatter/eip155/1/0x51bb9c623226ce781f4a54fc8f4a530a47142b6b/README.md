@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040423"
+icons:
+  - icon.png
 ---
 
 Core utility, staking, and governance token for Peet decentralized finance platform.

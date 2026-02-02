@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#ec1b23"
+icons:
+  - icon.png
 ---
 
 Eli Lilly xStock (LLYx) is a tracker certificate issued as Solana SPL and ERC-20 tokens. LLYx tracks the price of Eli Lilly and Company (the underlying). LLYx is designed to give eligible cryptocurrency market participants regulatory-compliant access to the stock price of Eli Lilly and Company, whilst maintaining the benefits of blockchain technology. Eli Lilly and Company is a global pharmaceutical company based in Indianapolis, Indiana, that discovers, develops, manufactures, and markets human healthcare products.

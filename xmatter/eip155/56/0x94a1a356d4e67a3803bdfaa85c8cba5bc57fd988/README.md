@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#100b07"
+icons:
+  - icon.png
 ---
 
 SNACK is a utility token designed to bridge digital and real‑world economies. Our vision: power immersive iGaming, fintech payments, and fractional real‑world asset investment. Through partnerships, global listings, and the SNACK App, we unlock tokenized experiences and sustainable growth.

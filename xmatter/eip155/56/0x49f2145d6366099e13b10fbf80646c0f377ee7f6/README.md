@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c1a095"
+icons:
+  - icon.png
 ---
 
 BEP-20 Utility token for FC Porto

@@ -23,6 +23,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e2d6c8"
+icons:
+  - icon.png
 ---
 
 FlokiZ is an airdrop platform and protocol where up-and-coming projects are promoted. It focusses on increasing holders as well as filtering out legit and safe projects for its community. Holders of the token will be eligible for Airdrops, NFT's and exclusivity to contribute in new projects.

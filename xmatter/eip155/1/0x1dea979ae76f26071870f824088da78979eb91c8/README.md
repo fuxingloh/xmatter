@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#958fc7"
+icons:
+  - icon.png
 ---
 
 Unique Investment/Asset Management Platform.

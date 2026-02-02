@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#aaa08a"
+icons:
+  - icon.png
 ---
 
 ALLAH

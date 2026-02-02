@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc2c2c"
+icons:
+  - icon.png
 ---
 
 Game7 is a permissionless, modular Web3 gaming ecosystem designed to solve the most critical challenges for players and developers: infrastructure, distribution, and sustained player engagement.

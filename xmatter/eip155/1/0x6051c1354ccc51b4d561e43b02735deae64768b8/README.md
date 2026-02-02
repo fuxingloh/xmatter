@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#141454"
+icons:
+  - icon.png
 ---
 
 yRise is an innovative solution for your Decentralized Finance needs, bringing staking, yield farming and fixed-rate savings into a single platform, and making it easier for users to manage their portfolio of DeFi assets. Our platform is one of the most user-friendly platforms in the market, where users find it easy and intuitive to navigate.

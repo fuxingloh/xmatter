@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#231f18"
+icons:
+  - icon.png
 ---
 
 A community-first protocol procuring a bridge to the blockchain - enabling individuals to purchase cryptocurrency.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d7b797"
+icons:
+  - icon.png
 ---
 
 We are a community driven coin with biblical attributes. This will be a journey to “Part the Seas” of the SEC and overreaching government and to create a safe haven from the future dollar collapse. $Mosescoin will be used as a platform to take back our God given rights, to pursue crypto ventures, and to create protection for those who have faith in taking the journey with Moses.

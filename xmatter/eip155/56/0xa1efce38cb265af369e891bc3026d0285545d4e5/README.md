@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8b0404"
+icons:
+  - icon.png
 ---
 
 Safetesla is frictionless yield & liquidity generation smart contract protocol

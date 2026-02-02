@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e7e5e9"
+icons:
+  - icon.png
 ---
 
 BabyDeFido is a memecoin based on Coinbase's Dog mascot DeFido, a french dogge. BabyDeFido is a low tax coin with reflections in native tokens, with staking and an Ethereum bridge along the road.

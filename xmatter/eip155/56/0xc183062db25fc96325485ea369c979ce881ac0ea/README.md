@@ -23,6 +23,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f59908"
+icons:
+  - icon.png
 ---
 
 Shibelon is the future of crypto, born to be best and unleash its wrath on the whole binance smart chain.

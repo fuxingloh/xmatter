@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ea4243"
+icons:
+  - icon.png
 ---
 
 MahaDAO introduces the world's first valuecoin ARTH, a new kind of currency that remains stable short term, but appreciates long-term

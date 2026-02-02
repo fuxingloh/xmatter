@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#de141b"
+icons:
+  - icon.png
 ---
 
 INT is an INT Chain cross-chain asset based on Ethereum network, and INT Chain is a blockchain application platform and interactive standard based on the economic driving mode.

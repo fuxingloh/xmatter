@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#343936"
+icons:
+  - icon.png
 ---
 
 A community token who reward you in BNB every hour.

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2b3c84"
+icons:
+  - icon.png
 ---
 
 ACT (Acet) is DeFansFi Token. It is initiated on the concept of Zero Initial Supply.

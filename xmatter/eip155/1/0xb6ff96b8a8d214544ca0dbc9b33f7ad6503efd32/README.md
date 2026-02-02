@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4da3be"
+icons:
+  - icon.png
 ---
 
 SYNC is the underlying reward token for the NFT CryptoBond DeFi protocol.

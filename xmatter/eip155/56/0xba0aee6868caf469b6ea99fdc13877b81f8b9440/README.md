@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ce8cbc"
+icons:
+  - icon.png
 ---
 
 Spider is more then just a community token.

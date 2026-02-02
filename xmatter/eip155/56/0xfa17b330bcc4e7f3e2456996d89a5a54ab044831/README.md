@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#62a5b7"
+icons:
+  - icon.png
 ---
 
 Cardence is a launchpad for new projects on Cardano platform creating a trustless fund raising ecosystem for carefully vetted Cardano projects.

@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c2fbd8"
+icons:
+  - icon.png
 ---
 
 UNCX is the governance token of the UniCrypt platform.

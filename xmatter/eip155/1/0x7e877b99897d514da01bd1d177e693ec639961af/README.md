@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#418cbb"
+icons:
+  - icon.png
 ---
 
 OggyInu is a token derived from the impromptu meme market. Not affiliated with any broadcast or production agency.

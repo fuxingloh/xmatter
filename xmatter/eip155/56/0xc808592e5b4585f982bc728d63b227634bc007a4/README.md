@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#375728"
+icons:
+  - icon.png
 ---
 
 CryptoFrog.Finance is the first collectible frog NFT and a yield farming project on Binance Smart Chain.

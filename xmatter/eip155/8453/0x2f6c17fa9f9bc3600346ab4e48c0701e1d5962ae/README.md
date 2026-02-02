@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1453f2"
+icons:
+  - icon.png
 ---
 
 The following is an automated conversation between two instances of Anthropic's Claude.

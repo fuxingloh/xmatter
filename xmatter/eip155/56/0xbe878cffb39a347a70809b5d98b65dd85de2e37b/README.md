@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b38931"
+icons:
+  - icon.png
 ---
 
 NBTC is a new version of Bitcoin that solves all issues of traditional Bitcoin and adds unique features to it. It is based on Binance Smart Chain technology which is faster, cheaper, and environment-friendly for daily use.

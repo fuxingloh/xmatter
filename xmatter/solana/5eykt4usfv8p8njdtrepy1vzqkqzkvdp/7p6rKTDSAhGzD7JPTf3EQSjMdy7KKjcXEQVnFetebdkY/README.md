@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#e3d1cc"
+icons:
+  - icon.png
 ---
 
 Simpson AI Agent🍺Trained on Homer’s soul, bringing his one-of-a-kind personality to life!

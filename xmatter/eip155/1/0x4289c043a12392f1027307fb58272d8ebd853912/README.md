@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#081f6f"
+icons:
+  - icon.png
 ---
 
 AiLink Token (ALI) is a cryptocurrency and operates on the Ethereum platform.

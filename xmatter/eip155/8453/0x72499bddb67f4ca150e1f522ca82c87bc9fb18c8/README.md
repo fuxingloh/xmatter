@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b0cbf6"
+icons:
+  - icon.png
 ---
 
 BONK on Base Inspired by Bonk on Solana, us $BONK enthusiasts knew there needed to be a safe $BONK with strong backers on the quickly evolving Base Chain (Coinbase's L2 Network)

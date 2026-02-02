@@ -10,6 +10,7 @@ name: Klee Kai
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 KLEE Kai, the last of its kind, the forgotten doge of ETH.

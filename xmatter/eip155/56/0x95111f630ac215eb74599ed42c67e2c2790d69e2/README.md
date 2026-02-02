@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c131b"
+icons:
+  - icon.png
 ---
 
 icarus.finace is a decentralized mining protocol that brings ETH and BTC mining to DeFi applications.

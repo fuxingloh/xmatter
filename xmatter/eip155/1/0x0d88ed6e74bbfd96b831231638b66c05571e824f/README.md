@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c0c14"
+icons:
+  - icon.png
 ---
 
 Aventus is a layer-2 blockchain protocol that brings scalability, lower costs, and speed to Ethereum transactions.

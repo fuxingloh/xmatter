@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#133364"
+icons:
+  - icon.png
 ---
 
 MSS holders have voting rights and the ability to create proposals to improve the protocol. MSS holders also have many rights such as MSC minted will be distributed to MSS holders who have staked their tokens inside the boardroom.

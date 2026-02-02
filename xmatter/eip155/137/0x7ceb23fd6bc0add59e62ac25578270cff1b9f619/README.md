@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2a2e2e"
+icons:
+  - icon.png
 ---
 
 WETH is Wrapped Ether

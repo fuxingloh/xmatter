@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#985f61"
+icons:
+  - icon.png
 ---
 
 LinkArt aims to establish a decentralized platform to track and manage the whole life cycle of artworks on blockchain. Through token economy, LinkArt empowers the artwork and improves artwork awareness and liquidity.

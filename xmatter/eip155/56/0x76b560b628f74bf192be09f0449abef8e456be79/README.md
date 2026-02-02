@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9e97c"
+icons:
+  - icon.png
 ---
 
 BabyDoge + Cate = BabyCate Welcome back CZ, We will make BSC great again Trending new trend BabyCate on BSC, We not just meme, we are family! $BABYCATE

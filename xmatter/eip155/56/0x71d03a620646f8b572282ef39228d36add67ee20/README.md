@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#38582a"
+icons:
+  - icon.png
 ---
 
 The New Earth Multiverse - Sekuya exists to be a virtual world full of excitement for everyone. Borderless. Decentralized.

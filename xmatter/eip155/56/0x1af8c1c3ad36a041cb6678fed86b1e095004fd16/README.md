@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#44c3cb"
+icons:
+  - icon.png
 ---
 
 C.R.E.A.M. bridges liquidity across underserved assets by providing algorithmic money markets to these underserved assets. Users can supply any supported assets and use these supplied assets as collateral to borrow any other supported assets. C.R.E.A.M. has launched on Ethereum and Binance Smart Chain.

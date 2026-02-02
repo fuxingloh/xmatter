@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0e120f"
+icons:
+  - icon.png
 ---
 
 Eminer aims to build a platform that integrates hash rate services, financial services, and information services.

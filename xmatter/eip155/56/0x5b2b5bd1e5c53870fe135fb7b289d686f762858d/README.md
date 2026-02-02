@@ -8,6 +8,7 @@ name: PIXL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 Leading the world in blockchain advertisement.

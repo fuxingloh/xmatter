@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1433cc"
+icons:
+  - icon.png
 ---
 
 Visa xStock (Vx) is a tracker certificate issued as Solana SPL and ERC-20 tokens. Vx tracks the price of Visa Inc. Class A (the underlying). Vx is designed to give eligible cryptocurrency market participants regulatory-compliant access to the stock price of Visa Inc. Class A, whilst maintaining the benefits of blockchain technology. Visa Inc. is a global digital payments technology company that facilitates transactions between consumers, merchants, and financial institutions in over 200 countries.

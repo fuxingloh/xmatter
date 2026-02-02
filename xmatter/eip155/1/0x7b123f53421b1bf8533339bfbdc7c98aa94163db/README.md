@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6404fb"
+icons:
+  - icon.png
 ---
 
 is the Voting Token of DFOhub, the first programmable equity. DFOhub is an On-Chain Github to deploy and manage Decentralised Flexible Organizations. DFOs are Microservices-Driven On-Chain organisations to build Independent Decentralised Applications, in where Token Holders are the real owners and nobody hold the pk.

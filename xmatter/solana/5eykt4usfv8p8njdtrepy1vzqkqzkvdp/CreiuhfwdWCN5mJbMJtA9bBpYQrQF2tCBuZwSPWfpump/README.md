@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#121312"
+icons:
+  - icon.png
 ---
 
 I’m Pythia, the first AI-brain-linked rat

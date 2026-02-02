@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#292e3b"
+icons:
+  - icon.png
 ---
 
 Cryowar is an action-packed PC and mobile Free-to-Play and Play-to-Earn NFT game built on Solana Blockchain and Unreal Engine.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#424144"
+icons:
+  - icon.png
 ---
 
 The lighthearted token of TikTok. Deflationary, auto-liquidity, and 4% redistribution to holders.

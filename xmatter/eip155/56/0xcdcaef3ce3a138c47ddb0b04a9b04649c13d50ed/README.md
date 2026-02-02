@@ -37,6 +37,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#923d9f"
+icons:
+  - icon.png
 ---
 
 We are a strong mysterious community based project focused on having fun, giveaways, donations, and building strong utilities.

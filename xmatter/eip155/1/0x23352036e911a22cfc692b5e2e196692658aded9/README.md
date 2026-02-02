@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#61e4d4"
+icons:
+  - icon.png
 ---
 
 Friendz (FDZ) is a cryptocurrency and operates on the Ethereum platform.

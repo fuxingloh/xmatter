@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#304855"
+icons:
+  - icon.png
 ---
 
 Snakes have rich connotations and symbolic meanings in Chinese culture.

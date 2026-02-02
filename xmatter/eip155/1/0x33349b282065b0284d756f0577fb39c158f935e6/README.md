@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fa7b07"
+icons:
+  - icon.png
 ---
 
 Maple is a DeFi lending protocol for corporate and institutional capital.

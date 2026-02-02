@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ebbe43"
+icons:
+  - icon.png
 ---
 
 1Doge is building a comprehensive platform with Static reflection and play to earn gaming mechanisms to enable gamers from all over the world experience Gaming and NFT on the blockchain.

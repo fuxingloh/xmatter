@@ -21,6 +21,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#120e0e"
+icons:
+  - icon.png
 ---
 
 APENFT was born with the mission to register world-class artworks as NFTs on blockchain. It aims to build a bridge between top-notch artists and blockchain, and to support the growth of native crypto NFT artists.

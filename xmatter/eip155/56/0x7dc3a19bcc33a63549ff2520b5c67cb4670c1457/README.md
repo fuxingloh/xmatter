@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c38156"
+icons:
+  - icon.png
 ---
 
 the best created CZ artificial intelligence by the community on the BNB chain

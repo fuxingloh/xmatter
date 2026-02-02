@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cfb124"
+icons:
+  - icon.png
 ---
 
 A service platform that enables high-performance computing resources to be handled by sharing idle resources between participants' personal computers and smartphones.

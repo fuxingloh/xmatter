@@ -13,6 +13,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4c4c4c"
+icons:
+  - icon.png
 ---
 
 DEGO claims to be a brand new idea towards a sustainable Decentralized Finance (DeFi) ecosystem.

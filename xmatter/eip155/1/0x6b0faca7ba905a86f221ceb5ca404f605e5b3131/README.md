@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c2e62"
+icons:
+  - icon.png
 ---
 
 De.Fi is Web3 Antivirus & SocialFi SuperApp De.Fi has been protecting users from bad-actors in web3 & preventing scams from happening for over 4 years, as well as shipping leading portfolio-tracking & security solutions.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d9d9d7"
+icons:
+  - icon.png
 ---
 
 Every time you stake and unstake LP tokens, the contract will automatically harvest CREED rewards for you

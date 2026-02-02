@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#05d3bb"
+icons:
+  - icon.png
 ---
 
 VLXPAD is a token for VelasPad launchpad

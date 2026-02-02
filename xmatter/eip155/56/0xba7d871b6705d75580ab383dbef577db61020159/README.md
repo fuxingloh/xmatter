@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#df19ee"
+icons:
+  - icon.png
 ---
 
 Game, Explore, and Win with $A48Z! $A48Z is made for gamers and adventurers! Join the fun-loving gamer and crypto-savvy Agent A48Z as her partner, exploring new worlds, completing missions, and creating your own adventure!

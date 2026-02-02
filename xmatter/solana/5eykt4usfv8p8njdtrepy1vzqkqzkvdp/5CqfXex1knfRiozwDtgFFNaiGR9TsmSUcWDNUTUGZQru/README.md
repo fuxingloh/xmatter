@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#833cba"
+icons:
+  - icon.png
 ---
 
 Theory of Gravity, the premier meme token reigning over the Solana network with unparalleled wit and charm.

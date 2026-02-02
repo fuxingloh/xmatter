@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#93650d"
+icons:
+  - icon.png
 ---
 
 EUR/T offers a comprehensive solution to the major problems faced by the traditional, fiat-driven monetary system. Building a crypto powered ecosystem comprising EUR/T Token.

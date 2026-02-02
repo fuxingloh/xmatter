@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04172c"
+icons:
+  - icon.png
 ---
 
 Sentio makes it effortless to create, deploy, and monetize on-chain AI agents, transforming complex blockchain tasks into easy, automated workflows.

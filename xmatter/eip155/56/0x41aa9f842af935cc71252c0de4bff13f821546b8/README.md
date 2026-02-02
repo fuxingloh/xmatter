@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b91360"
+icons:
+  - icon.png
 ---
 
 The first Social Farming Project on BSC

@@ -31,6 +31,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dfe2ba"
+icons:
+  - icon.png
 ---
 
 Web3 Inu is a Rent-To-Earn token concept based in real world data interacting in two different layers: On-Chain and Off-Chain.

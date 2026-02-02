@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#353d6b"
+icons:
+  - icon.png
 ---
 
 Oncology Network is a Decentralized Science (DeSci) initiative to advance Cancer Research

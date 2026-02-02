@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c86e71"
+icons:
+  - icon.png
 ---
 
 Building the largest peer-to-peer service cypto service platform

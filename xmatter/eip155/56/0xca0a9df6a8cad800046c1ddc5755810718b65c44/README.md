@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2871db"
+icons:
+  - icon.png
 ---
 
 TokenClub provides investors with one-stop services, and aims at building an autonomous, trusting, and efficient investor community.

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c1712"
+icons:
+  - icon.png
 ---
 
 MiniFlokiADA, the All-In-One Function Token in Binance Smart Chain

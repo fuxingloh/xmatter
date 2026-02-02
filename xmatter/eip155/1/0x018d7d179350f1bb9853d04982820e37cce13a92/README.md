@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4dc38d"
+icons:
+  - icon.png
 ---
 
 INMAX is A dependable digital asset exchange and financial system.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cfc678"
+icons:
+  - icon.png
 ---
 
 Swapcoinz The Innovative Playground Solution For African Kids With our sole Mission to be a bridge between Families and Businesses

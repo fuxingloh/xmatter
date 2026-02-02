@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c59626"
+icons:
+  - icon.png
 ---
 
 The Breed of Cz's Dog

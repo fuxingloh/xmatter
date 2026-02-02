@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c0baad"
+icons:
+  - icon.png
 ---
 
 Hello everyone, my name is Queenyi Mubarak

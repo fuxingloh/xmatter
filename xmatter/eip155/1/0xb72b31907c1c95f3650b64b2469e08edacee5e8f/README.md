@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5c8cfc"
+icons:
+  - icon.png
 ---
 
 vBZRX is a BZRX token wrapped into Vesting Contract

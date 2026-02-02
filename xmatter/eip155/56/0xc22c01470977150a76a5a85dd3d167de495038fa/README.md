@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d6757c"
+icons:
+  - icon.png
 ---
 
 Space Dragon is a deflationary token created for the community. The focus of the project is to create a universe of dApps to support the BSC ecosystem.

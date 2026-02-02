@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f09848"
+icons:
+  - icon.png
 ---
 
 Dextoken is a DeFi infrastructure and is managed by the Dextoken Governance (DEXG) holders. Dextoken proposed Speculative AMM, one of the simplest price conversion algorithm, to build decentralized exchanges.

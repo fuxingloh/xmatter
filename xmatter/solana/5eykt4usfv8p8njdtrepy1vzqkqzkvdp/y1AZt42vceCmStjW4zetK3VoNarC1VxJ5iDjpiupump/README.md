@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#2ba6ce"
+icons:
+  - icon.png
 ---
 
 From Comic Book Hero to Crypto Icon: Ride the Wind with Fartboy!

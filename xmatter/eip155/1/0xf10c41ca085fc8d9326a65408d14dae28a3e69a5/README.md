@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c0c0c"
+icons:
+  - icon.png
 ---
 
 Islamic coin is the native currency of HAQQ, an ethics first, scalable and interoperable blockchain built on Proof-of-Stake with fast finality.

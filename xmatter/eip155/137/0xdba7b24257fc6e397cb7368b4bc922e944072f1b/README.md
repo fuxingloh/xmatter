@@ -29,6 +29,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04abfa"
+icons:
+  - icon.png
 ---
 
 Virtual token that allows the Vote Escrowed (ve) EverRise weighted governance tokens from EverRise Staking NFTs to display in wallet balances.

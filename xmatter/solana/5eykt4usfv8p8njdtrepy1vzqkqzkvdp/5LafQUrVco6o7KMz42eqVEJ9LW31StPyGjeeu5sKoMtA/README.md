@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#ca651b"
+icons:
+  - icon.png
 ---
 
 Mumu is a muuvement to unite everyone in crypto. Backed by number go up technology, the bull we know and love is here to lead the charge.

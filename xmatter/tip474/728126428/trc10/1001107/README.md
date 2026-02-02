@@ -10,6 +10,8 @@ standards:
   - trc10
 icon: icon.png
 color: "#38342d"
+icons:
+  - icon.png
 ---
 
 KAOSCANDY is an official Partner Token and integral game coin used within the game Eggies World. KAOSCANDY token will seek partnerships with other Blockchain games to expand the tokens use.

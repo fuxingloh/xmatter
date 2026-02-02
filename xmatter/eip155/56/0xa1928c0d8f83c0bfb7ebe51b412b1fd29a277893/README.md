@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#44acfc"
+icons:
+  - icon.png
 ---
 
 SAT is the native token of SatisFinance, 4th generation yield farming project on BSC.

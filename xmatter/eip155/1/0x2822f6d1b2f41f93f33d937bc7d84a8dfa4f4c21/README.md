@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#93ccbc"
+icons:
+  - icon.png
 ---
 
 We provide decentralized CDN service, the decentralized version of GCP, AWS Cloud Service.

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Trade Solana, Bitcoin, Ethereum, USDT, and the top altcoins on the legendary crypto asset exchange.

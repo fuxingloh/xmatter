@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#232b3c"
+icons:
+  - icon.png
 ---
 
 BITX works as the payment method for users to buy advanced data services and the incentive method for the value contributors of the BitScreener ecosystem.

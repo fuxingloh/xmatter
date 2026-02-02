@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 The first multi-chain DEX for MEME tokens with an entire ecosystem around meme tokens.

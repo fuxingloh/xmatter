@@ -10,6 +10,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#f2f2f2"
+icons:
+  - icon.png
 ---
 
 BETC is the community token of Bestswap. BETC issued based on TRC-20 and is mainly used for community ecological incentives, DEX ecology, voting, KOL, project listing, etc..

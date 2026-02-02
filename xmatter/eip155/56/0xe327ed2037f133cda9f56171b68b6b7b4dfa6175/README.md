@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#42567a"
+icons:
+  - icon.png
 ---
 
 Petoverse is the first METAVERSE PROJECT that provides a decentralized financial asset which rewards users with a sustainable fixed compound interest model through use of its unique PAP PROTOCOL (PETO Auto-staking protocol).

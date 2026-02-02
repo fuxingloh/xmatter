@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#efd566"
+icons:
+  - icon.png
 ---
 
 In the legendary meme realms of Solana, where the echoes of Achi still reverberate, the ascent of the wif hat heralds a new era for $LADYS

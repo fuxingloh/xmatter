@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#7c0cfb"
+icons:
+  - icon.png
 ---
 
 The $SNAP token is at the core of this entire operation. Used to power both the the SolSnap operations and our community.

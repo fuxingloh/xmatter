@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fa9e32"
+icons:
+  - icon.png
 ---
 
 Bitcoin BEP2 (BTCB) is a token on Binance Chain issued by Binance, where the price is pegged to BTC at a rate of 1 BTCB = 1 BTC.

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eb2857"
+icons:
+  - icon.png
 ---
 
 XCAD Network is a tokenisation & NFT platform for content creators.

@@ -16,6 +16,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#5494fc"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Decentralized Financial Instrument Protocol.

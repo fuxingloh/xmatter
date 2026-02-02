@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bfdaf7"
+icons:
+  - icon.png
 ---
 
 Operation of a decentralized network for the maintenance of Smart Cities and Industry 4.0

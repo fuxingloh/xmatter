@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d5acfa"
+icons:
+  - icon.png
 ---
 
 inSure DeFi is a Decentralized Insurance Ecosystem, trusted by thousands of community members to protect their crypto portfolios from scams, exchange closures, and drastic devaluations.

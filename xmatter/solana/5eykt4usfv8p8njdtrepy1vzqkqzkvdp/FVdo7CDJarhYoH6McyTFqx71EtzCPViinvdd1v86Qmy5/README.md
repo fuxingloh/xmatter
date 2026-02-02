@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#8391b1"
+icons:
+  - icon.png
 ---
 
 Aimonica is the first AI-powered meme investment platform challenging traditional Web3 VCs

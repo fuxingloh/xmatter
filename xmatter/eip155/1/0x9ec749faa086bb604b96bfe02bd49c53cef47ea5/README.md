@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#185878"
+icons:
+  - icon.png
 ---
 
 ERC20 version of the e-Money NOK stablecoin

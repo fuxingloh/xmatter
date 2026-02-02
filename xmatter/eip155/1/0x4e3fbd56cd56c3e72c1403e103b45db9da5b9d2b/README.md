@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3b3c3c"
+icons:
+  - icon.png
 ---
 
 A platform built to boost rewards for CRV stakers and liquidity providers alike, all in a simple and easy to use interface. Convex aims to simplify staking on Curve, as well as the CRV-locking system with the help of its native fee-earning token: CVX.

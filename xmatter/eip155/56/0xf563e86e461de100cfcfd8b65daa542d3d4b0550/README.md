@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ddd53a"
+icons:
+  - icon.png
 ---
 
 CoCo Coin is a comprehensive SocialFi blockchain project based on the BSC chain. By leveraging unique social media interaction mechanisms and diverse investment opportunities, it has created a vibrant and creative social ecosystem.

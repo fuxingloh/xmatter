@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2f3a60"
+icons:
+  - icon.png
 ---
 
 KodexPay is backed by the easiest and most efficient cryptocurrency gateway to use.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#23bc78"
+icons:
+  - icon.png
 ---
 
 PlayChip’s vision is to become the Universal Gaming Token. PlayChip is an ERC20 token at the centre of an existing online gaming ecosystem.

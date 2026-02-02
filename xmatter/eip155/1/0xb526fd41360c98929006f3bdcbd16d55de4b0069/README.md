@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3c30c"
+icons:
+  - icon.png
 ---
 
 THIRM PROTOCOL is a Cross-chain & Cross-platform Lending Protocol built on Ethereum. Thirm Protocol automatically lends pooled user cryptocurrencies to the highest paying protocol and generates the highest possible APY.

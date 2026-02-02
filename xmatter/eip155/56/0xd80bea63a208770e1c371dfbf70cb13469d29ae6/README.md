@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#201b11"
+icons:
+  - icon.png
 ---
 
 The cryptocurrency for Agribusiness

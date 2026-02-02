@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#64a782"
+icons:
+  - icon.png
 ---
 
 DevvE is a next-gen cryptocurrency that is 1/3bn energy use of Bitcoin, 1/10M cost of Ethereum, 8M tps with patents around fraud, theft, loss, privacy and regulatory compliance.

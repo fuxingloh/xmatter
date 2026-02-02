@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1fdbb5"
+icons:
+  - icon.png
 ---
 
 APYS token is issued by APYSwap to link cross-chain DeFi markets.

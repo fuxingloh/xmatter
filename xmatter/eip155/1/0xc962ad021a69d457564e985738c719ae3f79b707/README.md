@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ebb435"
+icons:
+  - icon.png
 ---
 
 IFX24 is an erc20 token that combines decentralized governance, and a self-funding treasury.

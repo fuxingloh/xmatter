@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eeb410"
+icons:
+  - icon.png
 ---
 
 Welcome to FORKY – a community-driven project on Binance Smart Chain, rescued from abandonment to prove he's not trash but a true treasure! Launched on Four.meme

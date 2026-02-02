@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f65fd2"
+icons:
+  - icon.png
 ---
 
 MetaBusdCoin is a deflationary reward token, rewarding holders in a stable coin pegged to the Binance Smart Chain.

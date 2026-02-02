@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#799a9a"
+icons:
+  - icon.png
 ---
 
 Welcome to the world of Baby XRP ($BABYXRP) – where fun meets excitement! Inspired by the unstoppable energy of XRP, Baby XRP is here to add a playful twist to your day.

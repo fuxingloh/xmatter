@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbc304"
+icons:
+  - icon.png
 ---
 
 Rielcoin is a future token for financial freedom that provide a functional token for using cryptocurrency exchanges and payments worldwide

@@ -18,6 +18,7 @@ name: Gather
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 Gather is a platform that allows publishers to monetize without ads and provides businesses & developers access to cheap and reliable processing power.

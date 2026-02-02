@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3d444"
+icons:
+  - icon.png
 ---
 
 O MAIOR PROJETO DeFi 100% BRASILEIRO.

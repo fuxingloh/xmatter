@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Clout is a token that backs the Clout Network, a smart-contract IPFS powered content decentralization and democratization protocol.

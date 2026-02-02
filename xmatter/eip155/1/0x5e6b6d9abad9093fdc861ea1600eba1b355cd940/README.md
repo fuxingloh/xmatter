@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04182b"
+icons:
+  - icon.png
 ---
 
 A secure IoT light operating system driven by blockchain technology.

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#db2c2c"
+icons:
+  - icon.png
 ---
 
 All-in-one Live Streaming on a blockchain-based platform.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#349bf4"
+icons:
+  - icon.png
 ---
 
 ExzoCoin 2.0 (EXZO) is a utility token that will be utilized on our decentralized exchange mobile application

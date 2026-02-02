@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f2d571"
+icons:
+  - icon.png
 ---
 
 Benscoin Crypto are made by Mr. Bens the businessman from Aceh, Indonesia, this Cryptoken are made for Investment for Economics in Aceh.

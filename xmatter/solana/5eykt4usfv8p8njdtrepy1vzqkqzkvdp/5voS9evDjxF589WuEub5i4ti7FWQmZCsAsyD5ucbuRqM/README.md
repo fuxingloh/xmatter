@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#11151f"
+icons:
+  - icon.png
 ---
 
 Eliza is a real girl.

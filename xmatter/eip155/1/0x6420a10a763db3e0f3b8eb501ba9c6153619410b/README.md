@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04ab04"
+icons:
+  - icon.png
 ---
 
 RAS is a stable crypto asset (“stablecoin”) with a fixed price of 1.00 BRL and it is backed in BRL (Reais) in a 1:1 ratio.

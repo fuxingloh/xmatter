@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#54ccf4"
+icons:
+  - icon.png
 ---
 
 DeFi lending solution from Swiss bankers. Low collateral ratio for Borrowers. Private Fixed Income Funds for Lenders.

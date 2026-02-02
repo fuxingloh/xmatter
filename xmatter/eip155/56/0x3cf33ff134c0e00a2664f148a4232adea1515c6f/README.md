@@ -22,6 +22,7 @@ name: Birb
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 As a high deflationary DeFi token built on the Binance Smart Chain, Birb aims at becoming a highly usable token with multiple use cases such as diverse security options, e-commerce plugins, and social $BIRB sending.

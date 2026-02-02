@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#009ee1"
+icons:
+  - icon.png
 ---
 
 ChartEx is a leading provider of full Candlestick charting for decentralised markets such as Uniswap, the largest DEX running on the Ethereum Network.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#392d2d"
+icons:
+  - icon.png
 ---
 
 More Than A MEME An Ecosystem

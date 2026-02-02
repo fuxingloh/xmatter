@@ -19,6 +19,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7ee4f5"
+icons:
+  - icon.png
 ---
 
 BABY FLOKI has been designed to be a deflationary token which rewards you $DOGE simply for holding! Named after Elon 'Dogefather' Musk's new Shiba Inu pup, this token is a sure way for you to reach your x1000!

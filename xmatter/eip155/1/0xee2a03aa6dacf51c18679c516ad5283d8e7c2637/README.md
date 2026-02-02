@@ -17,6 +17,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b1993f"
+icons:
+  - icon.png
 ---
 
 $NEIRO is a new cryptocurrency with a total supply of 1 billion tokens, offering zero buy/sell tax and no team tokens, which suggests a community-driven approach. It promotes itself as the next big opportunity in the crypto space, drawing comparisons to Dogecoin's rise.

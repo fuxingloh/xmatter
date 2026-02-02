@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#696662"
+icons:
+  - icon.png
 ---
 
 Bazinga is aiming to be a Pump.fun killer by launching it's own platform on game.com

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#da4752"
+icons:
+  - icon.png
 ---
 
 Standard, frictionless, yield generating contract

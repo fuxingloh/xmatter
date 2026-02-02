@@ -14,6 +14,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#f7e74d"
+icons:
+  - icon.png
 ---
 
 A legendary character inspired by Matt Furie's Boy's Club comic.

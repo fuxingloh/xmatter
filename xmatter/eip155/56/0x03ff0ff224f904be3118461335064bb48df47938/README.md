@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#37d1d5"
+icons:
+  - icon.png
 ---
 
 Harmony aims to offer a fast and open blockchain for decentralized applications.

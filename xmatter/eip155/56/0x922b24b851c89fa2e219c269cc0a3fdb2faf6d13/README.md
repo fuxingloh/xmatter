@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c7c3d3"
+icons:
+  - icon.png
 ---
 
 The first test agent on BNB Chain, powered by Holoworld AI

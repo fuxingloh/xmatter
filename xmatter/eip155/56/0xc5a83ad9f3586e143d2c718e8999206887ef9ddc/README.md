@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c213d"
+icons:
+  - icon.png
 ---
 
 Money Markets. A Decentralized Marketplace for Lenders and Borrowers

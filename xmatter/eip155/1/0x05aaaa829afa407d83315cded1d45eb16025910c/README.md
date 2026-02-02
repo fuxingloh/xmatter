@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ced8e1"
+icons:
+  - icon.png
 ---
 
 Sp8de - implemented within a protocol created and maintained by the scientists - pioneers in the realm of blockchain innovation and cryptography development, has its aim to revolutionize the ever-growing gaming industry as we know it today using the Cardano blockchain.

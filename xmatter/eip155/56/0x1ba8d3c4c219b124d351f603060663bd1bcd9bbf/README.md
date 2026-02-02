@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Tornado Cash is a fully decentralized protocol for private transactions on Ethereum.

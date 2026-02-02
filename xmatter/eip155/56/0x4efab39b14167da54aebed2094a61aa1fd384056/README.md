@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f8e2c4"
+icons:
+  - icon.png
 ---
 
 The Power of Leopard driven by Community

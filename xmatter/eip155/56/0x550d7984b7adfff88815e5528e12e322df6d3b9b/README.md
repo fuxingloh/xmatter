@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#242424"
+icons:
+  - icon.png
 ---
 
 PANDAI is a cute AI meme token on BSC, making AI accessible for everyone.

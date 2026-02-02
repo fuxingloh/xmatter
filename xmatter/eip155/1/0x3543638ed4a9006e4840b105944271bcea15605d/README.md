@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3c5cd2"
+icons:
+  - icon.png
 ---
 
 U Network describes itself as a decentralized content asset storage, notarization, distribution, publishing, and valuation network.

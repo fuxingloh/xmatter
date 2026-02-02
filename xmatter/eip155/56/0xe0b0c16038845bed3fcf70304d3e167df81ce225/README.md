@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fad64f"
+icons:
+  - icon.png
 ---
 
 Cswap is the native token for Crossswap Dex

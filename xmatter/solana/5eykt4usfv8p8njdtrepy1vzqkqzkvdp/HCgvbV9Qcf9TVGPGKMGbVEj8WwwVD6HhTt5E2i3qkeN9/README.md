@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#c4d2e4"
+icons:
+  - icon.png
 ---
 
 METAVERSE is a pioneering AI-driven coin offering (aICO) launched by an AI agent within a Trusted Execution Environment (TEE)

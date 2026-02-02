@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c9c8c"
+icons:
+  - icon.png
 ---
 
 The Revenue Sharing Token of the FCF Ecosystem. Earn BNB rewards from holding, generated from trading volume and also from 33.33% of transaction fees from our payment gateway FCF Pay. Another 33.33% are used for buyback and burns.

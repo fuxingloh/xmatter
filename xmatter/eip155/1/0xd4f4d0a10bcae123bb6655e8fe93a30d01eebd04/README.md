@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d6a3f5"
+icons:
+  - icon.png
 ---
 
 LinqAI is at the forefront of blending innovative technology with practical business solutions.

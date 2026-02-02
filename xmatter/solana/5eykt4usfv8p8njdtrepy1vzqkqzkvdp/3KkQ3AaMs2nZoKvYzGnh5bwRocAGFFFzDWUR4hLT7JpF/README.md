@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f19b72"
+icons:
+  - icon.png
 ---
 
 NUT is a memecoin deployed on Ethereum with a fixed capped supply. The cryptocurrency was created for entertainment purposes and for building a strong community around NUTS memes creation.

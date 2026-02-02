@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f6d44c"
+icons:
+  - icon.png
 ---
 
 Golden Ben (GBEN) is the farming and governance token of BenSwap AMM. It is part of the Ben Token ecosystem

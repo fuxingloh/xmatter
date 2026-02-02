@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1d3846"
+icons:
+  - icon.png
 ---
 
 Raven Protocol is building a network of compute nodes for the purposes of AI training where speed is the key.

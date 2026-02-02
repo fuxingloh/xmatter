@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#131313"
+icons:
+  - icon.png
 ---
 
 Free to play top-down extraction shooter. Players attempt to survive in a brutal narrative driven world as they customize their hideout and craft increasingly powerful armor and weapons. Single player, Co-Op & PVPVE gameplay modes with social features, NFTs & $FURY token at the heart of the game.

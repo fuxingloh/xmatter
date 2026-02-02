@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fae1df"
+icons:
+  - icon.png
 ---
 
 The right provider can make a big difference when it comes to building your trading strategy

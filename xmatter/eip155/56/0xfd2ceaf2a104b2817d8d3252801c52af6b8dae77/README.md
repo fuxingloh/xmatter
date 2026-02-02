@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 FTV is the user owned and democtratically controlled entertainment DAO and multi-media NFT hub in V/AR.

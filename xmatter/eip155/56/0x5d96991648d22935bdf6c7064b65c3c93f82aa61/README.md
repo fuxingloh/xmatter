@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d56559"
+icons:
+  - icon.png
 ---
 
 HERO pays CAKE and BUSD his long-term holders! Every Hours Hero holders can claim BUSD & CAKE from the Hero Vault!

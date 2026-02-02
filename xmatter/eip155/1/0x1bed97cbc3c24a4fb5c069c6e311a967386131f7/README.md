@@ -14,6 +14,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#5c14fc"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 THE DEFI WAY TO EARN ON CRYPTO

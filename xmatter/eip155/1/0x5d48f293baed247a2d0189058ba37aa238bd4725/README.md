@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7cbcf3"
+icons:
+  - icon.png
 ---
 
 NeuroChain will deliver a protocol to create simple and scalable business applications.

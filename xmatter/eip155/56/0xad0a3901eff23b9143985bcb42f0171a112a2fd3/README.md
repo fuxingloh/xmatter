@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eecc7d"
+icons:
+  - icon.png
 ---
 
 MinerBlox Token will be needed to mint GPUs and start mining or to improve your machine's HashPower to extract even more tokens

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cfa745"
+icons:
+  - icon.png
 ---
 
 FEG Wrapped DOGE

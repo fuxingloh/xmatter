@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3b84ac"
+icons:
+  - icon.png
 ---
 
 CoverCompared is the First Decentralized aggregator for Traditional and Crypto insurance products.

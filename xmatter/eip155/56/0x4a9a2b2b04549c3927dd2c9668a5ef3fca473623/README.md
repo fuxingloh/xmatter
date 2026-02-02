@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f6f6ee"
+icons:
+  - icon.png
 ---
 
 dForce advocates for building an integrated and interoperable and scalable open finance protocol network, cultivating intra-protocol liquidity and network effects, while remain in full openness to interact and integrated with other protocols.

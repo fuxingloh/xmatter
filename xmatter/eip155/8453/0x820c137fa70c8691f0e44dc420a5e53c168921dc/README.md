@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fca050"
+icons:
+  - icon.png
 ---
 
 USDS token is an ERC-20 compliant token with added support for permit functionality and EIP-1271 smart contract signature validation.

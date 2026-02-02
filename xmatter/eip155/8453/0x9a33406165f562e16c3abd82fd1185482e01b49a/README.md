@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#846cec"
+icons:
+  - icon.png
 ---
 
 Bringing verified reputation onchain to help great builders stand out.

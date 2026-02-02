@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3d7afa"
+icons:
+  - icon.png
 ---
 
 The Blockchain Primary Market Integrated Service Platform.

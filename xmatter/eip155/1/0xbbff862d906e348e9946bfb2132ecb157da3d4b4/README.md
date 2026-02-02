@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1d1c1d"
+icons:
+  - icon.png
 ---
 
 Sharder is a multi-chain storage & validation network.

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4b8b2e"
+icons:
+  - icon.png
 ---
 
 PepeAI is an innovative cryptocurrency token that has captured the attention of the crypto community, building on the recent hype around the famous Pepe the Frog meme.

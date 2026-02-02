@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#540c0c"
+icons:
+  - icon.png
 ---
 
 ENG is the main key to the Endless Board Game gaming platform for different P2E games.

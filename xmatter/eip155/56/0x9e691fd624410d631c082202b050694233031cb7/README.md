@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#246cc4"
+icons:
+  - icon.png
 ---
 
 The CryptoBRL (cBRL) is a stablecoin pegged one for one to the Brazilian Real. It's supported and adopted by a consortium with several companies from Brazilian cryptocurrency market.

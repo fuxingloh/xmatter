@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dec679"
+icons:
+  - icon.png
 ---
 
 Zedxion aims to offer a comprehensive solution to the major problems faced by the traditional, fiat-driven monetary system. Building a crypto-powered ecosystem comprising Zedxion Token.

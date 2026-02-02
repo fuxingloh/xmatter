@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Starting with a cryptocurrency wallet, Pillar will evolve into an open-source ecosystem where you control what, when, and with who you share your personal information.

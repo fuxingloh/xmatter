@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#20181e"
+icons:
+  - icon.png
 ---
 
 Unlock the Future of Crypto At $dna16z, we fuse the groundbreaking power of DNA and AI to transform the crypto landscape. Innovation is in our DNA, and we’re here to push boundaries, exploring the limitless potential of technology and creativity

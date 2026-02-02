@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#131414"
+icons:
+  - icon.png
 ---
 
 Bitrock is an Ethereum sidechain IBFT 2.0 Proof of Authority (PoA) blockchain with near-zero native gas fees.

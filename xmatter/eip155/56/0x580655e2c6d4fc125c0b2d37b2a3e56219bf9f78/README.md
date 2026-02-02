@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#976922"
+icons:
+  - icon.png
 ---
 
 Gallant is a utility token developed for Blockchain Gaming.

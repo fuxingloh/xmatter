@@ -21,6 +21,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2183aa"
+icons:
+  - icon.png
 ---
 
 Inflation Hedge Fund: Your Gateway to Curated Crypto Investments

@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b5cad9"
+icons:
+  - icon.png
 ---
 
 JETMAX – A utility token powering an ecosystem for logistics and decentralized finance on BNB Chain.

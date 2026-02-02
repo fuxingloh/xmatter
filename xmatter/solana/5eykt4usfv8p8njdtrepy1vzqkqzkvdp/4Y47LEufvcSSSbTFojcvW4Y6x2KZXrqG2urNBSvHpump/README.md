@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#291235"
+icons:
+  - icon.png
 ---
 
 Literally Me is a utility token inspired by the popular online literally me meme

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#241310"
+icons:
+  - icon.png
 ---
 
 Token issued by Ronin Gamez studio as a transactional token for the future game launchpad

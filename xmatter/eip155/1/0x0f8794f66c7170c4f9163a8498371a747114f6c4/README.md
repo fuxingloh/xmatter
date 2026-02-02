@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c33535"
+icons:
+  - icon.png
 ---
 
 Flama is one of the first deflationary tokens in the market with enhanced futures like staking.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbcc08"
+icons:
+  - icon.png
 ---
 
 Mesh Chain (MESH) предоставляется компанией Genesis Crypto Technology.

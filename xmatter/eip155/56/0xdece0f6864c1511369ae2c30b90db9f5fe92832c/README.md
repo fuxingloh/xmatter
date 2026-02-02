@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8ae0bf"
+icons:
+  - icon.png
 ---
 
 The first blockchain to create verified personal profiles based on academic and professional achievements.

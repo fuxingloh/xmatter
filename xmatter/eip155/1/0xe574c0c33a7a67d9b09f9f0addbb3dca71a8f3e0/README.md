@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0ad0be"
+icons:
+  - icon.png
 ---
 
 Safemoon protocol aims to create a self-regenerating automatic liquidity providing protocol that would pay out static rewards to holders and penalize sellers.

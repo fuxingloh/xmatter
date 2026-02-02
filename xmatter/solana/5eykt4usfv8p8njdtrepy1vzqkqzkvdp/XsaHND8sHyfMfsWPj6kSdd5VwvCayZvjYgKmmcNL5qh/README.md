@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#ec1b2c"
+icons:
+  - icon.png
 ---
 
 Exxon Mobil xStock (XOMx) is a tracker certificate issued as Solana SPL and ERC-20 tokens. XOMx tracks the price of Exxon Mobil Corporation (the underlying). XOMx is designed to give eligible cryptocurrency market participants regulatory-compliant access to the stock price of Exxon Mobil Corporation, whilst maintaining the benefits of blockchain technology. ExxonMobil is a multinational oil and gas corporation that operates in over 100 countries.

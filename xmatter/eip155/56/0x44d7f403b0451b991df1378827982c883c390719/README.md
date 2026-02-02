@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040504"
+icons:
+  - icon.png
 ---
 
 TITAN stands out by offering a seamless, user-focused experience: A Unified Ecosystem: Bringing gaming, esports, and finance together into one powerful platform

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b3db44"
+icons:
+  - icon.png
 ---
 
 LGO provides a wide range of financial services on digital assets to an international and professional client base.

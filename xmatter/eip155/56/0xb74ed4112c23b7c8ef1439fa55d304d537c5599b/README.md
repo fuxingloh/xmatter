@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cfc3b5"
+icons:
+  - icon.png
 ---
 
 CTRFI is a fork of Safe Moon. Programmed to reward holders while increasing liquidity and value

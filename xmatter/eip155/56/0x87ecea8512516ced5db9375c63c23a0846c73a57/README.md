@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cc9f5c"
+icons:
+  - icon.png
 ---
 
 The World's First Decentralized Protocol for AI Data Construction, Storage and Sharing.

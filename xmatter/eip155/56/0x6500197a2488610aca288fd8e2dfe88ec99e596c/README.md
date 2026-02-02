@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#43a5ee"
+icons:
+  - icon.png
 ---
 
 Aquari is a community driven token which goal is to save our oceans and marine life. 3% of each trade is going towards charity wallet which is then donated to environmental organizations of your choice.

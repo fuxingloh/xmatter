@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#13307d"
+icons:
+  - icon.png
 ---
 
 $MOUTAI is no ordinary meme coin.

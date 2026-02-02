@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e32f4e"
+icons:
+  - icon.png
 ---
 
 Meme Alliance is a GameFI platform. The goal of Meme Alliance is to connect Meme communities trough gaming into one ecosystem.

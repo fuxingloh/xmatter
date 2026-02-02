@@ -42,6 +42,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ac7617"
+icons:
+  - icon.png
 ---
 
 MGC token is Rewarding token of RANKING platform, and financial support for MGC Ecosystem, playing games and register your results and earn MGC, play games anytime and anywhere and earn MGC.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f7c919"
+icons:
+  - icon.png
 ---
 
 Beer Token is a new currency on a mission to make cryptocurrency normalized in the beer buying world.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#18a8dc"
+icons:
+  - icon.png
 ---
 
 U AI Agent DEX trading platform token

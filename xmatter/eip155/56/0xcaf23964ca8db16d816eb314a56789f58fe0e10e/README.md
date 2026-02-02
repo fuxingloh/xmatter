@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#261c32"
+icons:
+  - icon.png
 ---
 
 Galaxy Goggle DAO is a decentralized reserve currency protocol based on the GG token. Each GG token is backed by a basket of assets (e.g. MIM, AVAX) in the collateral pool, giving it an intrinsic value that it cannot fall below. GGDAO also introduces economic and game-theoretic dynamics into the market through staking and minting.

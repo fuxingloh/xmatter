@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ea5d28"
+icons:
+  - icon.png
 ---
 
 Bitwaves is merging alternative financial markets with digital assets.Bitwaves vision is to make easier the mass usage of assets globally by enabling people to tokenize the economy on Ethereum’s blockchain.

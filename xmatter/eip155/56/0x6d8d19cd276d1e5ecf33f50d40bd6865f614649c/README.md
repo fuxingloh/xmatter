@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ebd5ab"
+icons:
+  - icon.png
 ---
 
 Shinchan BSC is a unique meme token with utility.

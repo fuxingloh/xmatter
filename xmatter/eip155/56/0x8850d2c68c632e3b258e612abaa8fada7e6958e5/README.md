@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eacac6"
+icons:
+  - icon.png
 ---
 
 high-yield frictionless farming token.

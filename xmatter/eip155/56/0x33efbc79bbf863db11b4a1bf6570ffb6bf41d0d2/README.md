@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f7c312"
+icons:
+  - icon.png
 ---
 
 ETHEKing Introduces A Whole New Gaming Term: Social Platform Battle. ETHEKing, a metaverse game that uses the BSC network and incorporates NFT technology, has already launched the first phase, which is backed by $ETHE, the game's native currency.

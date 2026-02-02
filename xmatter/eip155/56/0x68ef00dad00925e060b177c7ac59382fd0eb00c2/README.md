@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fedd00"
+icons:
+  - icon.png
 ---
 
 AZ BANC SERVICES is redefining the landscape where cryptocurrency and forex converge. We're not just bridging two worlds; we're creating a new one - a realm where the agility of digital currencies and the robustness of forex markets empower your financial journey.

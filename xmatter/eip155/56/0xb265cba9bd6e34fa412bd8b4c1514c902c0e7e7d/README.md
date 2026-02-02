@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f1ba2f"
+icons:
+  - icon.png
 ---
 
 A BSC meme inspired by CZ's latest venture, Giggle Academy. Make basic education, accessible, addictive and adaptive, to the kids who don't have access to them today, all around the world, for free

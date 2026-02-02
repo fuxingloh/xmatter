@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c9e44"
+icons:
+  - icon.png
 ---
 
 Baby YooShi is a token on Binance Smart Chain boasting various features. BabyYooShi name and image are inspired by a dinosaur in Super Mario, whose name is Yoshi.

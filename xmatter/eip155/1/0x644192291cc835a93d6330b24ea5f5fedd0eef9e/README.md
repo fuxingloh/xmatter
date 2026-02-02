@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a5b4fc"
+icons:
+  - icon.png
 ---
 
 Seamless gateways between TradFi and DeFi

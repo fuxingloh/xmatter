@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b451c4"
+icons:
+  - icon.png
 ---
 
 Osmosis (OSMO) is a decentralized exchange (DEX) for Cosmos, an ecosystem of sovereign, interoperable blockchains all connected trustlessly over IBC, the Inter-Blockchain Communication Protocol. Osmosis also offers non-IBC assets bridged from the Ethereum and Polkadot ecosystems.

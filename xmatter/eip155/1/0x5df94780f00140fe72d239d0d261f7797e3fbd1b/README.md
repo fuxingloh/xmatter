@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#53a4cc"
+icons:
+  - icon.png
 ---
 
 QChi Chain (QHC) is a cross industry application platform that brings blockchain technology to a wide range of industries.

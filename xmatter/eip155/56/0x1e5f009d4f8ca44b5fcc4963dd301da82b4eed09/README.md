@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#893f45"
+icons:
+  - icon.png
 ---
 
 Zabaku Inu is one of the first fully-decentralized and deflationary token that unites every MEME lovers

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e4ff02"
+icons:
+  - icon.png
 ---
 
 KAKA is a token issued by KAKA NFT World.

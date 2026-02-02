@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#191768"
+icons:
+  - icon.png
 ---
 
 eBTC, ether.fi's Bitcoin-backed liquid restaking token. Created to service the growing demands for alternative collateral within restaking, eBTC simplifies yield optimization and expands utility, bringing a dual-yielding (staking and restaking) Bitcoin product to the market.

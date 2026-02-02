@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#067cfb"
+icons:
+  - icon.png
 ---
 
 Keep3rV1 is a decentralized job-matching platform for connecting external DevOps with projects that need help for completing various tasks.

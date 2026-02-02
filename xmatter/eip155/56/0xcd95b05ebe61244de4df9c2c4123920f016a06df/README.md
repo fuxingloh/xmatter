@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ac2525"
+icons:
+  - icon.png
 ---
 
 Rose Finance is a payment protocol for social network designed to be accessible and lightweight, with a focus on reducing transaction fees based on Binance Smart Chain

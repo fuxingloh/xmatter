@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3d3c3a"
+icons:
+  - icon.png
 ---
 
 The Charizard Token is a deflationary cryptocurrency, a 5% tax is applied to each transaction made using CHZ006.

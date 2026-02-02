@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c5470c"
+icons:
+  - icon.png
 ---
 
 $YFI2 is a community-centered DeFi-project, modeled to take the successful features of $YFI and $ZZZ. Value comes from simplization.

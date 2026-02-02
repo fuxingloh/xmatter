@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d0c3c2"
+icons:
+  - icon.png
 ---
 
 MonkeyMoon - is an automatic liquidity generation protocol.

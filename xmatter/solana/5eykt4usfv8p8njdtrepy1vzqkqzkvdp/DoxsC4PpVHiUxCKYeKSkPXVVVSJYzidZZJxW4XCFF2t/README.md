@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#c9e3f1"
+icons:
+  - icon.png
 ---
 
 Bonk of America is building the Bonk Teller bot, a new way for token communities to boost holder retention and incentivize engagement by rewarding holders in their native tokens for a wide range of activity across multiple platforms.

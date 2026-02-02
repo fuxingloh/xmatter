@@ -10,6 +10,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#31f2b0"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 The $BOSON token is the core economic unit of the Boson ecosystem.

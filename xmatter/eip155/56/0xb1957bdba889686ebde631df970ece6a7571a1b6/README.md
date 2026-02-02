@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#201918"
+icons:
+  - icon.png
 ---
 
 A Decentralized Meme Asset Driven By A Community Of Defi Enthusiasts With A Unique Love For Felines.

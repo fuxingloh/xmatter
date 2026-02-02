@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4178ba"
+icons:
+  - icon.png
 ---
 
 GridX is a decentralized finance (DeFi) project that has recently gained attention in the cryptocurrency world. This project aims to address some of the issues that have plagued the DeFi space, such as high transaction fees, low transaction speeds, and limited scalability.

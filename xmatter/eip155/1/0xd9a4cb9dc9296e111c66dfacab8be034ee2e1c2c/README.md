@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fb4666"
+icons:
+  - icon.png
 ---
 
 The AdEx Network aims to build a decentralized solution for digital advertising that reduces fraud, improves budgets, and protects user privacy. ADX-LOYALTY is it's governance token.

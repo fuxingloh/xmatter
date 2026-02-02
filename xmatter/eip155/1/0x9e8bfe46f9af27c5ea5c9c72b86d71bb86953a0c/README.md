@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#050505"
+icons:
+  - icon.png
 ---
 
 EZDex development team united with community development forces to deeply cultivate the underlying technology, and through the value transfer protocol, proposed and implemented a series of technological upgrades and innovative solutions. Build a sustainable public blockchain blockchain.

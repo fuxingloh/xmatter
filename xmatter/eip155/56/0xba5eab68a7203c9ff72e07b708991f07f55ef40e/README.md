@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8137c1"
+icons:
+  - icon.png
 ---
 
 Kodi is a Binance Smart Chain based token that provides its users with multiple avenues of passive income. The ecosystem encompasses the CookieSale IDO platform and its Pitch advertising agency to give developers a one-stop shop to build their brands and launch their projects.

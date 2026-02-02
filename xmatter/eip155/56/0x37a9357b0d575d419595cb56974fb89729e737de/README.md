@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cd61d7"
+icons:
+  - icon.png
 ---
 
 We bring simplicity to frictionless rewards. Our revolutionary concept aims to be more deflationary while enabling PUMPANOMICS for you.

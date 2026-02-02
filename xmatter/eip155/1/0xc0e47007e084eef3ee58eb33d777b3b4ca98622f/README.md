@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#14142c"
+icons:
+  - icon.png
 ---
 
 Decentralized protocol with DeFi swap interface including a fair fee distribution system and advanced matching engine.

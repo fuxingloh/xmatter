@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1e9cde"
+icons:
+  - icon.png
 ---
 
 EMC (EdgeMatrix Computing) is a decentralized computing network in the AI era.

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#efd6d6"
+icons:
+  - icon.png
 ---
 
 Pengycoin is a meme community on Solana, and their website represents the culture they take great pride in, it simulates an operating system.

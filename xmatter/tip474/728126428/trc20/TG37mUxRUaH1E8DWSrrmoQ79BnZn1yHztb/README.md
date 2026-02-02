@@ -10,6 +10,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#f5b006"
+icons:
+  - icon.png
 ---
 
 PLAT serves as the base for all BitGuild token operations, and is fully compatible with all its products, including GuildChat, GuildWallet and blockchain games.

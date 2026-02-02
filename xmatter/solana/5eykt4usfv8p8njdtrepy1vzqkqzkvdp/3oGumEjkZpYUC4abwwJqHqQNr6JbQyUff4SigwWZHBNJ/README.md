@@ -8,6 +8,7 @@ links:
     url: "https://solscan.io/token/3oGumEjkZpYUC4abwwJqHqQNr6JbQyUff4SigwWZHBNJ"
 symbol: HONEYPOT TIA
 decimals: 8
+icons: []
 ---
 
 This token is malicious do not interact

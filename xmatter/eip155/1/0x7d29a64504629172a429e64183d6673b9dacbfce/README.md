@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6da1ac"
+icons:
+  - icon.png
 ---
 
 Our platform powers research groups, data vendors, funds and institutions by generating on-demand NLP/NLU correlation matrix datasets

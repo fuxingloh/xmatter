@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#74467b"
+icons:
+  - icon.png
 ---
 
 Asset Backed By Wine And Vineyard Investment Funds

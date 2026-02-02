@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d8d8d8"
+icons:
+  - icon.png
 ---
 
 Alchemy is the pioneer of Hybrid Crypto-Fiat Gateway that is bridging the gap between the fiat and crypto economies - driving crypto adoption by making payments, blockchain solutions and DeFI services readily available to everyone.

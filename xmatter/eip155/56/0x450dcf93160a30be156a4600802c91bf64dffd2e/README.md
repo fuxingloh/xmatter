@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#374351"
+icons:
+  - icon.png
 ---
 
 CorgiCoin is the 100% community-owned dogecoin of Binance Smart Chain. It is 100x cheaper to exchange and send than competitors, and uses a fraction of the electricity.The Corgi ecosystem supports blockchain literacy and an NFT marketplace.

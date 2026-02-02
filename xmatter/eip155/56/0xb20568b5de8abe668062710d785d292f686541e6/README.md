@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#15110c"
+icons:
+  - icon.png
 ---
 
 Streamline the token and AI agent deployment process on BSC, making it accessible to anyone interested in building or growing their blockchain project.

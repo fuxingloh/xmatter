@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c63d3"
+icons:
+  - icon.png
 ---
 
 Flux is the cryptocurrency powering the Flux Ecosystem, including a massive decentralized computational network. Flux gives users both institutional and private control over their cloud infrastructure in a decentralized manner.

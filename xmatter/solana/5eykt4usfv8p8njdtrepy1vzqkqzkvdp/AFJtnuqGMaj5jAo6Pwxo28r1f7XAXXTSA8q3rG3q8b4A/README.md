@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#e5e2e2"
+icons:
+  - icon.png
 ---
 
 CARV is building the largest modular Identity and Data Layer (IDL) for gaming

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dca111"
+icons:
+  - icon.png
 ---
 
 BirdDog is going to usher a new wave of memetoken to last till the end of times

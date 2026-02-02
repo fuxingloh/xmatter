@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3b43c4"
+icons:
+  - icon.png
 ---
 
 Marlin is an open protocol that provides a high-performance programmable network infrastructure for Web 3.0

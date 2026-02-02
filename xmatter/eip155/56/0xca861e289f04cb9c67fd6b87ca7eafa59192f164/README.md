@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040425"
+icons:
+  - icon.png
 ---
 
 UnityMeta Token is a company that aims to bring innovation and novelty to the Metaverse, utilities, nft, sports, gaming, and crypto trading sector through Blockchain technology

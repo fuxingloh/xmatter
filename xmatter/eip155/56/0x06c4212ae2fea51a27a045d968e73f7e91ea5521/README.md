@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d7e2e0"
+icons:
+  - icon.png
 ---
 
 Logo update for this coin

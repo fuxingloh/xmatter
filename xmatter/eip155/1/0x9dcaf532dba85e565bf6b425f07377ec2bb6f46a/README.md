@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e1a979"
+icons:
+  - icon.png
 ---
 
 $DBZ A tribute to the legend, the mastermind behind the record-breaking Dragon Ball Franchise.

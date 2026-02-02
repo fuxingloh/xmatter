@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4892cc"
+icons:
+  - icon.png
 ---
 
 $BSOP is an AI Meme Agent on Base with true degen vibes.

@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#141518"
+icons:
+  - icon.png
 ---
 
 DooDooCoin is a playful, valueless cryptocurrency, often called a 'shitcoin' for its lack of practical use and speculative nature in the crypto market

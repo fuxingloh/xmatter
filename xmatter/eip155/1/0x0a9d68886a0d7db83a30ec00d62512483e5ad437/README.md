@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#14244b"
+icons:
+  - icon.png
 ---
 
 Treecle is a Platform DApp that provides used car sales and various vehicle services using blockchain technology to provide transparent and reliable information.

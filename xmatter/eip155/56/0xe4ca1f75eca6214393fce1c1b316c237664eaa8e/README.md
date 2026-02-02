@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#61afd1"
+icons:
+  - icon.png
 ---
 
 Built on the most advanced liquidity aggregator ever developed, Orion Protocol solves some of the largest issues in DeFi by aggregating the liquidity of the entire crypto market into one decentralized platform. This underpins each solution built on the protocol, including revolutionary trading solution Orion Terminal - aggregating the liquidity of the entire crypto market on one decentralized platform. The roadmap also includes a price oracle and a high-margin DEX.

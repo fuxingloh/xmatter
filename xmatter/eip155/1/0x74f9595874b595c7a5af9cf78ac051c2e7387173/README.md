@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#077ebf"
+icons:
+  - icon.png
 ---
 
 Long-term venture and business investments with unique marketing system.

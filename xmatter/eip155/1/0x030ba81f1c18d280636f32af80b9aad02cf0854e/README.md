@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7187b1"
+icons:
+  - icon.png
 ---
 
 Aave WETH is an interest bearing token pegged 1:1 to the underlying WETH deposited in Aave. aWETH accrue interest in real time in your wallet.

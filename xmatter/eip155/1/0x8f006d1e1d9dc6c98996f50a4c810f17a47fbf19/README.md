@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7704be"
+icons:
+  - icon.png
 ---
 
 Pleasure Coin (NSFW) is an ERC-20 token on Ethereum and the Polygon chain that will be utilized within the Pleasure Network, an adult industry ecosystem that empowers individuals and businesses.

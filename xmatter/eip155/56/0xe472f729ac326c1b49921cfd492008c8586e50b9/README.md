@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6b4f9f"
+icons:
+  - icon.png
 ---
 
 Whoever said pigs can't fly? Let this pig take you to the moon.

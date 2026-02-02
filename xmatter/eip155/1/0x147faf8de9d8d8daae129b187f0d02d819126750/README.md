@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cbebec"
+icons:
+  - icon.png
 ---
 
 The GEO token is the representation of data value itself, in the form of a tradable virtual asset.

@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#efd7e6"
+icons:
+  - icon.png
 ---
 
 Mento Swiss Franc (CHFm) is a decentralized stablecoin pegged to the Swiss Franc on the Celo blockchain.

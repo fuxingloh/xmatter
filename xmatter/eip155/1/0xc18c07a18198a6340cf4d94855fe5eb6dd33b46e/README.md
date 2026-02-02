@@ -21,6 +21,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#52a84a"
+icons:
+  - icon.png
 ---
 
 The future of investing. Qlindo bridges the gap between blockchain and green real estate investment opportunities, paving the way to a sustainable future.

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#acabaa"
+icons:
+  - icon.png
 ---
 
 Aether Framework is a modular, decentralized AI framework designed to empower autonomous agents with advanced capabilities such as reinforcement learning, swarm intelligence, multi-modal processing, blockchain interaction, and democratic decision-making.

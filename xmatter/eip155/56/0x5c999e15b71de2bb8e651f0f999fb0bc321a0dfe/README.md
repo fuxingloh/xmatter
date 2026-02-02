@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#38a4e6"
+icons:
+  - icon.png
 ---
 
 ZedDex is The First NeoBanking Decentralized Hub Trade, earn, and excel with crypto on the galaxy’s top decentralized platform token.

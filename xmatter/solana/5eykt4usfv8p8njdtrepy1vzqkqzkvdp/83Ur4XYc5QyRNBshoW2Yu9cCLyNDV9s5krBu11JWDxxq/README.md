@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#cad1c9"
+icons:
+  - icon.png
 ---
 
 A Fork in the Road (AFITR) is a meme coin inspired by the conceptual art piece commissioned by Elon Musk.

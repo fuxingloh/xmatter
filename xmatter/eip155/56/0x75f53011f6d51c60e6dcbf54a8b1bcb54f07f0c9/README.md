@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d44594"
+icons:
+  - icon.png
 ---
 
 GLMS is the native token of the Glimpse social media application.

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2f3846"
+icons:
+  - icon.png
 ---
 
 Grok is a token issued on the Binance Smart Chain (BSC). We have a strong user base and a dedicated technical team, working hard to establish Grok as a popular brand.

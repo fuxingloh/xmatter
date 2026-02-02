@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ecb42c"
+icons:
+  - icon.png
 ---
 
 Useless is the first token with an auto-stabilizing liquidity pool fueled by external revenue. Our vision is to bring mainstream accessibility to the crypto-space with easy-to-use mobile apps and dApps.

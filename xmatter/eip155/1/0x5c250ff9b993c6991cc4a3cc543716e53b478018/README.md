@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3cb4c3"
+icons:
+  - icon.png
 ---
 
 STPAY is creating a global platform to support Education and E-Commerce.

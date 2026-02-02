@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc7d05"
+icons:
+  - icon.png
 ---
 
 TouchCon describes itself as an advertising reward platform that scans Smart QR Codes (SQC) for advertisements and connects users with advertisers.

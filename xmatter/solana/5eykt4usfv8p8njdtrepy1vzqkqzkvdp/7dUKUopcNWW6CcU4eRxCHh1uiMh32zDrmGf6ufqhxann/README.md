@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#fae974"
+icons:
+  - icon.png
 ---
 
 BabyDoge is the leading community meme coin on the BNB chain. Baby Doge was created initially as a joke with a mission to help spread awareness of animal adoption.

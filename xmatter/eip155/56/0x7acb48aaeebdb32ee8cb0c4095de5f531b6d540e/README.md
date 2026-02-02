@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c9cac4"
+icons:
+  - icon.png
 ---
 
 CyberArk Digital AI and the Future City of Artificial Intelligence

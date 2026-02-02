@@ -37,6 +37,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e35453"
+icons:
+  - icon.png
 ---
 
 rETH2 is a token that represents reward ether in StakeWise.

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f1f8f8"
+icons:
+  - icon.png
 ---
 
 Galaxy Finance is First Ecosystem that Scaling Decentralized Applications.

@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7b3cfc"
+icons:
+  - icon.png
 ---
 
 APX is the native token of the ApolloX ecosystem, and ApolloX is a world class leading decentralized derivatives exchange.

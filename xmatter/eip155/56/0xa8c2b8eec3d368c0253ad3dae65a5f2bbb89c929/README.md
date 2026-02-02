@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e4ac4c"
+icons:
+  - icon.png
 ---
 
 A Cross-chain Protocol with Security Scoring and Decentralized Reimbursements for Building Secure dApps and Blockchains.

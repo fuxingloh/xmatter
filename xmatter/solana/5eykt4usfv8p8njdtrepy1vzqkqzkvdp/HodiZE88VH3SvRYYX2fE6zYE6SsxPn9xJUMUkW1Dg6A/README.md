@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f5cf1d"
+icons:
+  - icon.png
 ---
 
 Join the Cat Cartel and show those “genius” scammers what real crypto cats can do. Because, clearly, they thought we’d just sit back and let them win.

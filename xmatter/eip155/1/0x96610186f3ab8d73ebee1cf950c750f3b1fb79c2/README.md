@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b63eae"
+icons:
+  - icon.png
 ---
 
 The Next-Generation Launchpad for Blockchain Games and the Metaverse

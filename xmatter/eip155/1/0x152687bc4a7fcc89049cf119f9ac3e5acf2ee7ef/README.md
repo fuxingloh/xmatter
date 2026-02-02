@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#004068"
+icons:
+  - icon.png
 ---
 
 First Community Governed Economic Model (C-GEM) for Crypto Community.

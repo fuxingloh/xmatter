@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b8cee3"
+icons:
+  - icon.png
 ---
 
 Mini Kishu was created in September 2021 by crypto influencers with the goal of being a decentralized meme project with true purpose.

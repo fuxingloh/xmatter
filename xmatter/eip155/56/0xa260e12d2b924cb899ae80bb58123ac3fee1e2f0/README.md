@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5ad08e"
+icons:
+  - icon.png
 ---
 
 The on-ramp layer for massive Web3 adoption to form the ecosystem of future community-owned economies.

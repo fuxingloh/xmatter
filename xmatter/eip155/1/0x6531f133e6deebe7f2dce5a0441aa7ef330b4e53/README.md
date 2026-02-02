@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0f0c29"
+icons:
+  - icon.png
 ---
 
 TIME is an utility token of Chronobank ecosystem

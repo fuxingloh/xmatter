@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#eec175"
+icons:
+  - icon.png
 ---
 
 Hachiko is one of the most famous & legendary dog in the world from Japan

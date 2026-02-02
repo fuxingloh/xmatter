@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#328f15"
+icons:
+  - icon.png
 ---
 
 CBD + NFT = A brand new way to categorize CBD on the blockchain via Strains.Finance

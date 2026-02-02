@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dfdfdd"
+icons:
+  - icon.png
 ---
 
 Lemur is an automated yield farming token and 100% decentralized led by the community.

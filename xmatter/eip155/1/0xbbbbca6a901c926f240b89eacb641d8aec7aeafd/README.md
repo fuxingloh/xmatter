@@ -27,6 +27,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2a63f3"
+icons:
+  - icon.png
 ---
 
 The Loopring protocol smart contracts and zero-knowledge proof circuits allow the building of high-performance DEXes using a zkRollup construction.

@@ -19,6 +19,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fcc343"
+icons:
+  - icon.png
 ---
 
 Hare is a new decentralized and community-centered cryptocurrency. Launched in June 2021 and its goal is to become one of the fastest-growing cryptocurrencies in the world

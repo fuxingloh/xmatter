@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#831455"
+icons:
+  - icon.png
 ---
 
 The Greed Ecosystem combines the First Crypto Music Label, NFTs, the Metaverse, Swaps, Farms & Staking on multiple blockchains.

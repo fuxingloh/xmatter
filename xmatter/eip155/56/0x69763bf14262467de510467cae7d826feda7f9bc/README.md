@@ -13,6 +13,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#918576"
+icons:
+  - icon.png
 ---
 
 A community claimed ownership for this token on Feb 12 2025

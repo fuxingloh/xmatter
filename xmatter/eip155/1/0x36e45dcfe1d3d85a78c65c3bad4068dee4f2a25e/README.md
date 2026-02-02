@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#041423"
+icons:
+  - icon.png
 ---
 
 Trrue is a pioneering blockchain ecosystem designed to empower impact-driven investments through cutting-edge technology and compliance-focused innovation.

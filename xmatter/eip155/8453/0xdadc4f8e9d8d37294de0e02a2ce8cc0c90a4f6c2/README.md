@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b1a5fa"
+icons:
+  - icon.png
 ---
 
 Backing tomorrow’s success stories today. Join the onchain capital revolution, where entrepreneurs connect with visionary backers to create a new future.

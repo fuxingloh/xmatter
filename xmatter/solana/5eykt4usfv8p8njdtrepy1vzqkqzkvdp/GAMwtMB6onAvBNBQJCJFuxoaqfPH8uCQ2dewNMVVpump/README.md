@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Deploy persistent desktop agents that see and control computers just like humans do - with real-time voice interaction and unlimited computer access

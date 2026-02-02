@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#25e81d"
+icons:
+  - icon.png
 ---
 
 Baby Troll is a meme token whereby 1% percentage of every transaction contributes to the liquidity pool, ensuring stability and liquidity for Baby Troll Tokens.

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#deddde"
+icons:
+  - icon.png
 ---
 
 $bro, ok bro?

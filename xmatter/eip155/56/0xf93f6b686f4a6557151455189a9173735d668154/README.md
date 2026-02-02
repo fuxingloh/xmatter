@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#29312f"
+icons:
+  - icon.png
 ---
 
 GAMΞRSΞ is the new home for NFT gaming and the metaverse social economy. Our cross-chain, cross-platform, and cross-verse solutions are unifying the fragmented NFT gaming ecosystem.

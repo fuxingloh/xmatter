@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#750ee1"
+icons:
+  - icon.png
 ---
 
 Connecting creators and investors in a virtual space!

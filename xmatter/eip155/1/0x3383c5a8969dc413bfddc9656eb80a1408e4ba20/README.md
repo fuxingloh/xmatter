@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ae8778"
+icons:
+  - icon.png
 ---
 
 Reward token for the Anatha ecosystem.

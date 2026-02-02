@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3475e4"
+icons:
+  - icon.png
 ---
 
 BHT is the token issued by the BHEX trading platform ecosystem.

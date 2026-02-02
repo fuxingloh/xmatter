@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fb741c"
+icons:
+  - icon.png
 ---
 
 PaynShop is a ecommerce built on blockchain technology that will offer fantastic value for shoppers and casual purchasers.

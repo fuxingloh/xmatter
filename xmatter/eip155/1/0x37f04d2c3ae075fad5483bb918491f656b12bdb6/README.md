@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#00c868"
+icons:
+  - icon.png
 ---
 
 VestChain (VEST) is a cryptocurrency and operates on the Ethereum platform.

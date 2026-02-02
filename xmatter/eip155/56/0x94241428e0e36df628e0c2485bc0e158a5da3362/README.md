@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9e1d1"
+icons:
+  - icon.png
 ---
 
 CrazyTime is an automatic LP generating lottery token. The lottery function randomly chooses a holder and sends them 5% of the transaction value in CrazyTime.

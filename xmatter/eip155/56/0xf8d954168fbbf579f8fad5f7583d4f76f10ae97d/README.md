@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d53a89"
+icons:
+  - icon.png
 ---
 
 Native token of NFT Alley Protocol(Multi-chain NFT Marketplace)

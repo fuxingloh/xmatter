@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dde2e5"
+icons:
+  - icon.png
 ---
 
 Utility token to reward Radio listeners and is 1 of 2 in the DLPRO Dual Token Economy.

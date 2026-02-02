@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f0d926"
+icons:
+  - icon.png
 ---
 
 Wanaka Farm aims to offer anNFT game where people can own their virtual lands, NFT items to plant, grow, harvest to relax and earn their crypto.

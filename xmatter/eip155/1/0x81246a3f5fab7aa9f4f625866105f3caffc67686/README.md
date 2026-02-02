@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 An open source project that provides both a decentralized instant messaging protocol and the system architecture that makes it work.

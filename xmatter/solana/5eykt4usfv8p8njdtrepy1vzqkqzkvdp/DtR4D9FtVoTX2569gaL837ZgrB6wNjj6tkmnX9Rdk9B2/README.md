@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#a7a6a3"
+icons:
+  - icon.png
 ---
 
 get your aura up not your funny up

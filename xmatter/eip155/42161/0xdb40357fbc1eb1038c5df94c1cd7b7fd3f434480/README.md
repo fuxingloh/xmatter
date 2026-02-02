@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#221441"
+icons:
+  - icon.png
 ---
 
 SpunkySDX is a contemporary cryptocurrency project anchored on blockchain technology and Artificial Intelligence to provide a secure, transparent, and efficient commercial ecosystem.

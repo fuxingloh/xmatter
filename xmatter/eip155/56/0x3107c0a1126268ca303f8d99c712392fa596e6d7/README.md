@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6772e2"
+icons:
+  - icon.png
 ---
 
 GXT, the pioneer of NFT and Diamond Distribution evolves with no limit.

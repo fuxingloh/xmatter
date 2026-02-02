@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2aa6f4"
+icons:
+  - icon.png
 ---
 
 Our vision is creating a future where people don't have to work and machines pay humans.

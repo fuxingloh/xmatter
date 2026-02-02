@@ -27,6 +27,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#302425"
+icons:
+  - icon.png
 ---
 
 BNBTiger is the king of beasts. They are the symbol of victory and strength. Powerful and tough.and our $BNBTIGER community is the same.

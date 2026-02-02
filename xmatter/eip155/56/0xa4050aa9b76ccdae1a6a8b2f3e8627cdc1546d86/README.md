@@ -34,6 +34,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d6a6a6"
+icons:
+  - icon.png
 ---
 
 LEPA is the utility token of LEPASA- A decentralised metaverse project with a vision to establish a complete ecosystem for the developers and users.

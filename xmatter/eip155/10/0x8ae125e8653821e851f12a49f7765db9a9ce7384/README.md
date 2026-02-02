@@ -14,6 +14,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#f4b654"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Dola is a debt and asset backed, capital-efficient, decentralized stablecoin from Inverse Finance

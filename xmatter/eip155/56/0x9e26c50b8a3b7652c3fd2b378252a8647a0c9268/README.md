@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbd304"
+icons:
+  - icon.png
 ---
 
 The First Meme DEX and Launchpad on BSC

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#5c3f35"
+icons:
+  - icon.png
 ---
 
 Popcat is an Internet meme originating in October 2020, in a series of videos which showcase two images of a domestic short-haired cat named 'Oatmeal'

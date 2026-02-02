@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3c73b4"
+icons:
+  - icon.png
 ---
 
 FAF token will be the first one to be implemented as a reward token on B2C platforms.

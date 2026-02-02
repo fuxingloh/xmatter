@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04cae9"
+icons:
+  - icon.png
 ---
 
 IQeon is a European startup company developing the cutting-edge technological products in the sphere of Gaming and Blockchain.

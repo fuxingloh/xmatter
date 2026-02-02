@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1e1d12"
+icons:
+  - icon.png
 ---
 
 BEP-20 utility token for Santos FC football club

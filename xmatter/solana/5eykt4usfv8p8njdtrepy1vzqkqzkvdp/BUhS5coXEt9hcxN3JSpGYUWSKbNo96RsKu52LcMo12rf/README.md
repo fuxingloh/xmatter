@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#2b3338"
+icons:
+  - icon.png
 ---
 
 $MEOW is a blockchain-driven cryptocurrency project designed to revolutionize animal welfare initiatives. By leveraging community support, innovative DeFi solutions, and transparent governance, $MEOW enables meaningful contributions to animal shelters and rescues while creating value for its holders.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#141413"
+icons:
+  - icon.png
 ---
 
 What you despise and loathe reveals your deepest fears. Learn MEME, understand MEME, become a MEME. Now I'm busy posting comments everywhere telling everyone 'DDDD'

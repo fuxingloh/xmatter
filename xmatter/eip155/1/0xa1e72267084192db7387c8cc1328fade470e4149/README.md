@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1e52ec"
+icons:
+  - icon.png
 ---
 
 TrueFi is an on-chain uncollateralized lending protocol. tfTUSD represents a users TUSD deposit into the protocol's lending pool

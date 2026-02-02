@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2a293b"
+icons:
+  - icon.png
 ---
 
 opxveVELO is an algorithmic synthetic currency pegged to the price of VELO that tokenizes the value of our veVELO position. It is the receipt-token issued for perpetually bonded VELO.

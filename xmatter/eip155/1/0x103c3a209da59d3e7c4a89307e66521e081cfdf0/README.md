@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c242b"
+icons:
+  - icon.png
 ---
 
 Genesis Vision (GVT) is the platform for the private trust management market, built on Blockchain technology and Smart Contracts.

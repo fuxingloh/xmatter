@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#58b746"
+icons:
+  - icon.png
 ---
 
 Terawatt is a patent-pending, renewable energy blockchain startup, with a strong focus on monetization and driving global L.E.D. adoption

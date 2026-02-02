@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#41403f"
+icons:
+  - icon.png
 ---
 
 miMatic is an algorithmic stablecoin that is collateralized with Matic tokens

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7cc9cb"
+icons:
+  - icon.png
 ---
 
 He slept through his chance to join the Boys' Club, a regret he's carried ever since. Now, Yawn is launching $YAWN, the first meme token letting holders benefit from Yawn-branded ventures

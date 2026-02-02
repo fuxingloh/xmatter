@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eccc2b"
+icons:
+  - icon.png
 ---
 
 The Mello Token is a cryptocurrency designed for integration into the Mello Virtual Reality Casino Concept.

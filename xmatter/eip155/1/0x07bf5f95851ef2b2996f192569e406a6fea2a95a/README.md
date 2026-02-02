@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e2ad54"
+icons:
+  - icon.png
 ---
 
 Financial public chain designed specifically for blockchain asset transactions, aims to create a payment layer using blockchain technology and reshape the global financial payment system.

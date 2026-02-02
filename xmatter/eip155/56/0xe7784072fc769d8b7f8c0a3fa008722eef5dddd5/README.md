@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f46565"
+icons:
+  - icon.png
 ---
 
 A custom tailored reflection token offering dynamic rewards based on market conditions and community input

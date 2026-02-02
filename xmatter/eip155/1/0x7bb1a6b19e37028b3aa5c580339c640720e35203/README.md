@@ -32,6 +32,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#959595"
+icons:
+  - icon.png
 ---
 
 dynETH gives users exposure to Ethereum using long only strategies optimised by the Dynamic Asset Manager with less fees & expenses. Powered by SingularityDAO.ai.

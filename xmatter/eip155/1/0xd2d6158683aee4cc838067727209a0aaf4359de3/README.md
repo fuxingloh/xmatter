@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fb9028"
+icons:
+  - icon.png
 ---
 
 Bounty0x (BNTY) is a cryptocurrency and operates on the Ethereum platform.

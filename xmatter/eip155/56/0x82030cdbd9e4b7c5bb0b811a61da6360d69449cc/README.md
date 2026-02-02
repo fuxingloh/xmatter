@@ -23,6 +23,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4f07a2"
+icons:
+  - icon.png
 ---
 
 FEVR is the fuel of the RealFevr ecosystem of video collectibles

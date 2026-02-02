@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#144ce4"
+icons:
+  - icon.png
 ---
 
 Fully collateralised Singapore-dollar backed stablecoin.

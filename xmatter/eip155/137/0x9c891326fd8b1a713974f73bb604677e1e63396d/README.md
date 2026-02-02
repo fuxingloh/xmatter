@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#896740"
+icons:
+  - icon.png
 ---
 
 ISLAMICOIN A Cryptocurrency For The Global Muslim Community

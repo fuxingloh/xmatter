@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#252e6c"
+icons:
+  - icon.png
 ---
 
 A new level in obtaining value . Auto-lock your lp and get access to passive value. Gain more rewards from your investments. Join us and let’s take this rocket to the moon.

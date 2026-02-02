@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c0908"
+icons:
+  - icon.png
 ---
 
 ChitCAT is a decentralized messaging dApp that utilizes blockchain technology and the IBC protocol to offer secure communication solutions.

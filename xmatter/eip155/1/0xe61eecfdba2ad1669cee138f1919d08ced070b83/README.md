@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b09644"
+icons:
+  - icon.png
 ---
 
 VGTGToken Gold is a part of VGT Project. It is bringing the power of blockchain to the gaming industry.

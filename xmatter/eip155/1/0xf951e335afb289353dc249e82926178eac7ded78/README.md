@@ -17,6 +17,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ecf3f8"
+icons:
+  - icon.png
 ---
 
 swETH is a decentralized and non-custodial liquid staking token that provides users with the opportunity to earn staking rewards while retaining liquidity over their Ethereum holdings.

@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b3fbbb"
+icons:
+  - icon.png
 ---
 
 Fuse is a no-code smart contract platform for entrepreneurs that allows entrepreneurs to integrate everyday payments into their business.

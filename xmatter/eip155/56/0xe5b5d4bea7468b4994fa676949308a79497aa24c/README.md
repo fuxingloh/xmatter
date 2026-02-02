@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f5b70f"
+icons:
+  - icon.png
 ---
 
 Purely meme token on BSC, driven by our oriental dream to become a group of Sheikh’s we focus on our community to thicken all of our sacks together.

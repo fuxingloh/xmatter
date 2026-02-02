@@ -13,6 +13,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9b373"
+icons:
+  - icon.png
 ---
 
 a peer-to-peer electronic mfer system

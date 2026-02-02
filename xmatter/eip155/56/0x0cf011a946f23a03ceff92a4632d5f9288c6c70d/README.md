@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e27d94"
+icons:
+  - icon.png
 ---
 
 NCAT Token is a meme community driven project built on Binance Smart Chain, which was fair launched. We continue to build based on community feedback and soon to be released full Governance.

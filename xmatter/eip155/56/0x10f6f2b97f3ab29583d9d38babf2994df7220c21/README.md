@@ -32,6 +32,7 @@ name: Teddy Doge
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 TEDDY is the DEFI ecological token of Teddy Doge with Swap & Cross bridge& Wallet.

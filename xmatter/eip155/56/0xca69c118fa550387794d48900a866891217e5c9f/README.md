@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dc18a5"
+icons:
+  - icon.png
 ---
 
 MOCKTAIL is the world's first ERC 1155 standard Semi-Fungible Token (SFT) on Binance Smart Chain.

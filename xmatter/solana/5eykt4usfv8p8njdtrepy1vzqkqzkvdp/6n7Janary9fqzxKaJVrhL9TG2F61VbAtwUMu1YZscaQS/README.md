@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#ac9daa"
+icons:
+  - icon.png
 ---
 
 Hi I'm Ansems Cat Hobbes. Ready to take over Solana and become the #1 Cat Coin. Will you join us?

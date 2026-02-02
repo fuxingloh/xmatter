@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d6d4f3"
+icons:
+  - icon.png
 ---
 
 Mento Philippine Peso (PHPm) is a decentralized stablecoin pegged to the Philippine Peso on the Celo blockchain.

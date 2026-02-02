@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8858fc"
+icons:
+  - icon.png
 ---
 
 Etherconnect is an Open Decentralized Finance Ecosystem Platform for derivative financial instruments. It is on BEP20 blockchain technology, which helps you to turn your Crypto Holdings in to future growth.

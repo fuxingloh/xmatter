@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ecd45c"
+icons:
+  - icon.png
 ---
 
 TOP Network is a decentralized open communication network that provides cloud communication services on the blockchain.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4bcb43"
+icons:
+  - icon.png
 ---
 
 Bitcoin ABC is an electronic cash platform that allows peer-to-peer online cash payments. It is a fork (a copy in a way) of Bitcoin (BTC).

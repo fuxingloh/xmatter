@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5cc3f3"
+icons:
+  - icon.png
 ---
 
 Mt Pelerin company shares issued on blockchain and recognized as shares providing the same level of protection conferred by Swiss law

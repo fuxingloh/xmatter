@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5cbcab"
+icons:
+  - icon.png
 ---
 
 Datarius cryptobank is a decentralized partially closed system.

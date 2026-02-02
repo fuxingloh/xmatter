@@ -13,6 +13,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#249b6c"
+icons:
+  - icon.png
 ---
 
 The stablecoin created by Fei Protocol

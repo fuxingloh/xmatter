@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c1b2c"
+icons:
+  - icon.png
 ---
 
 FOX is ShapeShift’s official loyalty token. Holders of FOX enjoy zero-commission trading and win ongoing USDC crypto payments from Rainfall (payments increase in proportion to your FOX holdings).

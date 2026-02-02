@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#1d3334"
+icons:
+  - icon.png
 ---
 
 $SANTA is the ultimate Christmas-themed token on the Solana network, offering low-supply tokenomics designed to maximize value for its holders

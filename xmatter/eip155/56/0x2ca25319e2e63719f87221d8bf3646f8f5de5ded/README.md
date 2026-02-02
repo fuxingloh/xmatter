@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c3447"
+icons:
+  - icon.png
 ---
 
 Elon GOAT Token is building a biblical sized monument on the back of a semi-trailer dedicated to the Godfather of Crypto, Elon Musk.

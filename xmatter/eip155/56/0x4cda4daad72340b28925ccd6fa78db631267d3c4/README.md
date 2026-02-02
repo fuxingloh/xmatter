@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#404025"
+icons:
+  - icon.png
 ---
 
 Auto yield and liquidity generation protocol

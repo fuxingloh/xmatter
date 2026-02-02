@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d4a54a"
+icons:
+  - icon.png
 ---
 
 The one and the only low-poly multiplayer blockchain-powered skill-based racing game you can play to earn! With our smart contract-backed CoinracerSmartPool back-end, you can race and earn $CRACE tokens completely decentralized.

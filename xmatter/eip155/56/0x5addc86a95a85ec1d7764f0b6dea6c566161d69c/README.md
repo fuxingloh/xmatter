@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#efb461"
+icons:
+  - icon.png
 ---
 
 Decentralized Cat To All Human Being

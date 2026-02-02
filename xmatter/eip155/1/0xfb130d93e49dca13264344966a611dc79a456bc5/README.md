@@ -20,6 +20,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#e4dfe6"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Warm-hearted community fuelled by the magic of reciprocity.

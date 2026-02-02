@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dd173b"
+icons:
+  - icon.png
 ---
 
 Verasity

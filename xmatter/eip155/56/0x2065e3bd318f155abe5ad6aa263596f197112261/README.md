@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1e1928"
+icons:
+  - icon.png
 ---
 
 ULTGG - The game-changing esports token.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#64bfec"
+icons:
+  - icon.png
 ---
 
 A CeFi and DeFi RegTech ecosystem delivering top compliance, regulatory, transaction monitoring and identity management.

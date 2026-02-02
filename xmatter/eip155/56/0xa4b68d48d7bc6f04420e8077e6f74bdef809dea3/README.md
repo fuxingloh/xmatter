@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#070604"
+icons:
+  - icon.png
 ---
 
 BugsCoin is a Web3-based investment education and simulated trading platform designed to help users learn trading skills risk-free while earning rewards.

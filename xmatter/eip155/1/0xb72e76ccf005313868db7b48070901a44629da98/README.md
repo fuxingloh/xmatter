@@ -17,6 +17,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#292320"
+icons:
+  - icon.png
 ---
 
 SquidGrow, established on June 18, 2022, under the leadership of Shibtoshi, a notable Shiba Inu whale, is a multifaceted project that seamlessly integrates utility with meme culture. Its native token, SquidGrow, serves as the primary asset, benefiting from a variety of revenue streams.

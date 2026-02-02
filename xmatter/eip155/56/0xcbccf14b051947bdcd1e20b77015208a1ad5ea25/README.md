@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5b8cd5"
+icons:
+  - icon.png
 ---
 
 Promise is the world's first BEP20 token based on trust. Our token guarantees a continuously increasing price because everyone who holds the Promise token makes a promise to hold it for at least 15 days.

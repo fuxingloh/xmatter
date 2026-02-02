@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 POPCHAIN (PCH) is a cryptocurrency and operates on the Ethereum platform.

@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbc904"
+icons:
+  - icon.png
 ---
 
 WAM is a play & earn crypto-gaming platform where everybody can play & compete with friends in simple hyper-casual tournaments to earn crypto rewards.

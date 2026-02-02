@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#050606"
+icons:
+  - icon.png
 ---
 
 Clover is the native token of CLV M-Chain, and is used for staking to take part in network consensus, transaction fees, platform rewards, and network governance.

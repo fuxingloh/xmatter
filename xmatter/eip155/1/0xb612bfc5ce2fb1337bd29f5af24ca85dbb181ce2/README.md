@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f38505"
+icons:
+  - icon.png
 ---
 
 $KLAUS - little fish, big dream -riding the wave into the next generation of meme tokens.

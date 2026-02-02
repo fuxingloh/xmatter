@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#2b1c15"
+icons:
+  - icon.png
 ---
 
 Ready to get your hands dirty? This ain't for the faint-hearted. It's dirtier, bolder, and uncut. Get ready to stir up some s\*\*\*!

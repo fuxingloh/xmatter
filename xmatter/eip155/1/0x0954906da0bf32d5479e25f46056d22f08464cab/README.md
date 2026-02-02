@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#795e4a"
+icons:
+  - icon.png
 ---
 
 A token governing the global community creating and maintaining the best crypto index products

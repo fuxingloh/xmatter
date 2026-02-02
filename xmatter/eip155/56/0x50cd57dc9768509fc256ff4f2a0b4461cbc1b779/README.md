@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#372c43"
+icons:
+  - icon.png
 ---
 
 AICC

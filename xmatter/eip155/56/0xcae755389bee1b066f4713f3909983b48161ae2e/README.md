@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#efbe16"
+icons:
+  - icon.png
 ---
 
 NanoDOGE is a community based token with automatic buy-backs and reflections to all holders

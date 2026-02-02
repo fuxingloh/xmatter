@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3cfb94"
+icons:
+  - icon.png
 ---
 
 Unifi Protocol DAO is a group of non-custodial, interoperable, decentralized, multi-chain smart contracts providing the building blocks for DeFi development.

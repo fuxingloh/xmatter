@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e364d3"
+icons:
+  - icon.png
 ---
 
 MTB21 is a wine-backed vintage coin from Costaflores

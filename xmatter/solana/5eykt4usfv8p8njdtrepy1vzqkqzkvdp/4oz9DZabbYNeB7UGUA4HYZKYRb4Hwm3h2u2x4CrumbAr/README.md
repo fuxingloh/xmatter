@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#ccbcac"
+icons:
+  - icon.png
 ---
 
 Next-generation meta-agent powered by advanced reasoning models

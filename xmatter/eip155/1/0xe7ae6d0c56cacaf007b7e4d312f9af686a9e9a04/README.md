@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c22bbe"
+icons:
+  - icon.png
 ---
 
 Vabble is an interactive, social based streaming platform. Vabble ecosystem supports the film industry both from a view of independent film creators or larger production studios.

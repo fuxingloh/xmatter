@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bb7bfa"
+icons:
+  - icon.png
 ---
 
 Inspired by Dogecoin. 10% of Kittycoins go to support user voted upon no kill animal shelters and rescues.

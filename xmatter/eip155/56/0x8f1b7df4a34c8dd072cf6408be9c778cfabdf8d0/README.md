@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ebd4dc"
+icons:
+  - icon.png
 ---
 
 IQ is a multi-chain (NeoScrypt and BEP-20) masternode cryptocurrency for Investors, Traders and Miners. Fork of DASH. Users can earn rewards with masternodes, benefiting the entire network and ecosysytem.

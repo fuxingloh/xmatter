@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1ca4a5"
+icons:
+  - icon.png
 ---
 
 Folder Protocol provides a blockchain-based second layer technologies and marketplace that aims to revolutionize the global storage economy for highly scalable, faster retrieval, and wider distribution.

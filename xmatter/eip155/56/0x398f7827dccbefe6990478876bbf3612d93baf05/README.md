@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ac76de"
+icons:
+  - icon.png
 ---
 
 MIX is a platform token, representing the platform's growth of value. The total amount of MIX is constant at 10 billion and will never be over-issued. A substantial amount of MIX is generated through community PoA (Proof of Action). The actions that are counted as ecosystem-friendly, such as marketing, contributing applications, creating content, providing services, are rewarded with MIX.

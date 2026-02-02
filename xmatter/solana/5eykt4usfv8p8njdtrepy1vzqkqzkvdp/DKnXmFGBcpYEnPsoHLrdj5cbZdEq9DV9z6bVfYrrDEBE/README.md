@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#171519"
+icons:
+  - icon.png
 ---
 
 The cutest cat on Solana! Fair Moonshot launch, LP burnt, REAL community. Get ready for the next BIG Solana meme

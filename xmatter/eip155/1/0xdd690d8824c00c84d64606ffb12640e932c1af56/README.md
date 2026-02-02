@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04509a"
+icons:
+  - icon.png
 ---
 
 Tavitt builds a platform that allows travelers as Travel Providers to earn income while traveling.

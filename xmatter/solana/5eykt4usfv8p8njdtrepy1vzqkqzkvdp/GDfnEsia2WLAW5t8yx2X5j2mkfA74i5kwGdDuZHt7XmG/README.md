@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#3a827a"
+icons:
+  - icon.png
 ---
 
 CROWN brings a novel application of blockchain technology to the world of digital horse racing and gaming.

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#93530b"
+icons:
+  - icon.png
 ---
 
 MCN - Multi-Community Network! MCN is an innovative GameFi platform that revolutionizes the way players interact with gaming entertainment and earn.

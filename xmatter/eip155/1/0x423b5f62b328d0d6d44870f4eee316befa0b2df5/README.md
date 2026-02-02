@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4bacf5"
+icons:
+  - icon.png
 ---
 
 GoNetwork (GOT) is a cryptocurrency and operates on the Ethereum platform.

@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#09b7a9"
+icons:
+  - icon.png
 ---
 
 BNB pegged IoTeX Network (IOTX BEP20) is a token issued by Binance on Smart Chain; its price is pegged to IoTeX Network (IOTX ERC20) at a ratio of 1:1.

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#db330c"
+icons:
+  - icon.png
 ---
 
 Katana is a DeFi Yield Farming platform that helps users to have profit as much as possible from their crypto assets.

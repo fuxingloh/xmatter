@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c416fc"
+icons:
+  - icon.png
 ---
 
 BOT is a token issued by Botplanet Ltd

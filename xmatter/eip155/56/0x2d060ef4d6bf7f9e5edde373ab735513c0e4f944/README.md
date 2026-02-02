@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cacacb"
+icons:
+  - icon.png
 ---
 
 Powering the future of AI with our HPC data center, IaaS platform, AI Marketplace, AITECH Pad Launchpad. Powered by $AITECH token

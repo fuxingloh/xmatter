@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f6c01c"
+icons:
+  - icon.png
 ---
 
 BART, the memecoin deployed on the Binance Smart Chain (BSC) that pays homage to everyone’s favorite mischievous cartoon character.

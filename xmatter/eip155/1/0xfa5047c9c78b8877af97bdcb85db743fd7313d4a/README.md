@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Rook enables users, protocols, and smart contracts to earn from the MEV their orders create.

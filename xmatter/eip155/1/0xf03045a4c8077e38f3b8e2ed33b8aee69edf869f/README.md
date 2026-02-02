@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1d3d4d"
+icons:
+  - icon.png
 ---
 
 The BlockMesh platform is a platform supporting mesh based devices focusing on communication and the loT.

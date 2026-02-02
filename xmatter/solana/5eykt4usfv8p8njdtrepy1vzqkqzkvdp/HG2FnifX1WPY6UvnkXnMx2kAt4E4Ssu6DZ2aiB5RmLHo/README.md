@@ -20,6 +20,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#896740"
+icons:
+  - icon.png
 ---
 
 ISLAMICOIN is a cryptocurrency for the Global Muslim community

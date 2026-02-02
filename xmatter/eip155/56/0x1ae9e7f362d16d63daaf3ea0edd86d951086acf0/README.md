@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a1644c"
+icons:
+  - icon.png
 ---
 
 I have my own principles, and I don't want to be stepped on all my life

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dbf8e5"
+icons:
+  - icon.png
 ---
 
 Virtual is an AI protocol that creates co-owned, human-curated, plug-and-play gaming AIs.

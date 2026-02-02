@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cec9bf"
+icons:
+  - icon.png
 ---
 
 The World’s First Unstoppable DeFi Communication Network.

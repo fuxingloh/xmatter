@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#decfac"
+icons:
+  - icon.png
 ---
 
 In 2025, Trump may start a new process of governing.

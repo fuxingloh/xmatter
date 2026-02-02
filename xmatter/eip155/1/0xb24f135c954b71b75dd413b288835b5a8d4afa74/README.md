@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#060712"
+icons:
+  - icon.png
 ---
 
 $ZEN is the ERC-20 token will be used for rewards and products in Yearn2.Finance Eco-system.

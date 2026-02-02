@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ea8e75"
+icons:
+  - icon.png
 ---
 
 Vikings Doge Coin for Global Communities. 4% redistribution, curated aggregation platform & Vikings Treasure Hunt Game.

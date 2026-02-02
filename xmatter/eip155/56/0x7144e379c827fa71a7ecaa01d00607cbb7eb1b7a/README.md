@@ -21,6 +21,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f19106"
+icons:
+  - icon.png
 ---
 
 Love Doge is released on the Binance Smart Chainthe next evolution of the contract that generates revenueand deflation: you get rewards in tokens instead of BNB

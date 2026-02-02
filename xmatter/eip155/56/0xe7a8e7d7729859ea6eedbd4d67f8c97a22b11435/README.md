@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dbbe9d"
+icons:
+  - icon.png
 ---
 
 A next evolution DeFi exchange on BinanceSmartChain.

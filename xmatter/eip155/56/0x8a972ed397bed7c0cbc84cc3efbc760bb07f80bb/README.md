@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#37437b"
+icons:
+  - icon.png
 ---
 
 This token is malicious do not interact

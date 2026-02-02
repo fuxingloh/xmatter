@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#080808"
+icons:
+  - icon.png
 ---
 
 Organizations like Airbus, AmSpec, and IBM use VIDT to certify and secure digital documents like certificates, invoices, diplomas, and sensor-data. VIDT Datalink connects every cloud to every blockchain in a simple but strong formula, that adds and protects value at minimum expense and effort.

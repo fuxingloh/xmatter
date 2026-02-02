@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f29e16"
+icons:
+  - icon.png
 ---
 
 Lil Doge Floki ($LDF), a community-driven meme token inspired by Elon Musk! Lil Doge Floki's mission is to build a DAO to drive the most popular and original P2E game on BSC that combines Metaverse, NFTs, and the ability to earn why you play!

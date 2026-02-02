@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e6eaf2"
+icons:
+  - icon.png
 ---
 
 GameStation is a decentralized multi-chain gaming launchpad and marketplace.

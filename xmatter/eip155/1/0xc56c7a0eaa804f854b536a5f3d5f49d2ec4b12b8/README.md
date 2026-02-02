@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#937660"
+icons:
+  - icon.png
 ---
 
 The $GME on Ethereum For The People

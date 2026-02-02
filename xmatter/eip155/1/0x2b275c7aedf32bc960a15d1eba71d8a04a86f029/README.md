@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5584c4"
+icons:
+  - icon.png
 ---
 
 A NEXT GENERATION CRYPTOCURRENCY EXCHANGE FOR ALL GENERATIONS OF TRADERS

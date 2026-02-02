@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e19c40"
+icons:
+  - icon.png
 ---
 
 PolkaMonster is the fighting game on the Binance Smart Chain. PolkaMonster are sophisticated digital collections created using Blockchain technology

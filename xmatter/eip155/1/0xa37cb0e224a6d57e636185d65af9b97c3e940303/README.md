@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f39546"
+icons:
+  - icon.png
 ---
 
 Wrapped version of Wrapped Bitcoin (WBTC)

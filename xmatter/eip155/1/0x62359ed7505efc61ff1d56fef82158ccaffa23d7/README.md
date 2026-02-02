@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#808080"
+icons:
+  - icon.png
 ---
 
 CORE is the first ever deflationary farming token.

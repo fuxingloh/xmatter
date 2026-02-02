@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#435486"
+icons:
+  - icon.png
 ---
 
 Polymath is creating a global platform for issuing and investing in securities tokens.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c83c0e"
+icons:
+  - icon.png
 ---
 
 D4RKBAY : P2P e-commerce solution focused on users privacy.

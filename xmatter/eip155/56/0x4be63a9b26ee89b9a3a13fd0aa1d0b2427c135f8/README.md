@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e76b29"
+icons:
+  - icon.png
 ---
 
 The Metaverse Assets Liquidation Aggregator for Everyone

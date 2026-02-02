@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#30aec3"
+icons:
+  - icon.png
 ---
 
 Bitrise Token - a Hyper Deflationary & BNB reward token

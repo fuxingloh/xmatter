@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8444e4"
+icons:
+  - icon.png
 ---
 
 Wrapped MATIC

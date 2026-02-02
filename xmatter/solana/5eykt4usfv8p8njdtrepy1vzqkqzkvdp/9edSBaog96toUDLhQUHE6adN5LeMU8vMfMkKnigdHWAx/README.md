@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#452a16"
+icons:
+  - icon.png
 ---
 
 BTC MOON ($BTCMOON) is a meme coin born from the crypto community's obsession with Bitcoin’s moonshot potential.

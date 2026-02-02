@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#708fce"
+icons:
+  - icon.png
 ---
 
 Marinade.finance is a liquid staking protocol built on Solana.

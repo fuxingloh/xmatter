@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#407c32"
+icons:
+  - icon.png
 ---
 
 Based $PEPE (0x52) joins his pal Based $BRETT, live on BASE. Feelsgoodman!

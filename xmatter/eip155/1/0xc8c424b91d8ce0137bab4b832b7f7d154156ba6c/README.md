@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 apM Coin is a blockchain-based customer reward management and payment platform which aims to improve efficiency and credibility of business transactions between wholesalers and buyers.

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#630d0b"
+icons:
+  - icon.png
 ---
 
 BAGEL is the native governance token of Bagels Finance. Token holders can deposit their BAGEL into Boardroom smart contract and join Bagels DAO governance. In the Boardroom, when making key decisions regarding the future roadmap, product and op-erations of Bagels, like interest rate, crypto value ratio, liquidation penalty rates, etc, BAGEL holders can vote for their preferable proposals.

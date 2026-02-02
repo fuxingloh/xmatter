@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e0b555"
+icons:
+  - icon.png
 ---
 
 BEZOGE is developed to follow the footsteps of some of the best performing experimental coins and amalgamate their features into one coin.

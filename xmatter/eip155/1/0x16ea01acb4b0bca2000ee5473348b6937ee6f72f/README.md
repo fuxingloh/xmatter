@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#00a7d2"
+icons:
+  - icon.png
 ---
 
 Blockchain Mobile Network for decentralized application.

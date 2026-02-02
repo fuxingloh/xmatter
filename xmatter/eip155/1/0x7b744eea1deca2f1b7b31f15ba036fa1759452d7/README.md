@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04131c"
+icons:
+  - icon.png
 ---
 
 El Hippo is a transparent meme coin project that focuses first and foremost on building a happy, long-term community. $HIPP is BIG, Watch out - here comes El Hippo!

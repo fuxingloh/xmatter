@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#24231f"
+icons:
+  - icon.png
 ---
 
 Meme created by Binance in an interaction with the Binance intern. they asked the community to name their mascot and confirmed the name as bob. his instructions were to make bsc great again.

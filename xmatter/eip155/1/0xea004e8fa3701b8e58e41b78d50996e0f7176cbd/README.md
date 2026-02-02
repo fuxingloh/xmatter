@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#095674"
+icons:
+  - icon.png
 ---
 
 YFFC is active now with the currently products what are launching like STAKE, FARM, GOVERNANCE, and other products are coming. With GOVERNANCE, YFFC will be a community-governed Automated Market Maker, focused on safety and value capture for the robust community of YFFC hodlers. The YFFC platform is packed with unique features aimed at addressing the pain points faced by DEFI of our time

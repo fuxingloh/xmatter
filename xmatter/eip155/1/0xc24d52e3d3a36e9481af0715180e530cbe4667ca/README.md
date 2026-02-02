@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c71517"
+icons:
+  - icon.png
 ---
 
 Hu Lezhi, a programmer and entrepreneur, has become the inspiration for $HULEZHI, a cryptocurrency memecoin that pays tribute to his unique and compelling story.

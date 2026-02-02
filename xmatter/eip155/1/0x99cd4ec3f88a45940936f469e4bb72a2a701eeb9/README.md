@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f283b9"
+icons:
+  - icon.png
 ---
 
 The stUSDS tokens serve as a digital record of your USDS interaction with the stUSDS module and any change to the value of your position.

@@ -29,6 +29,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04c7fc"
+icons:
+  - icon.png
 ---
 
 $STARSHIP is a decentralized token on the Binance Smart Chain that empowers its members, contributors and business partners to co-create a platform where every person matters. With an NFT game, Centralized Exchange (CEXy.Finance) and much more, Deploy StarShip provides a launch pad into the worlds of business and technology—all while igniting the imagination

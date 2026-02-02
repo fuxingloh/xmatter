@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d53a20"
+icons:
+  - icon.png
 ---
 
 Bone is a governance token of Shibaswap ecosystem which will allow the #ShibArmy to vote on upcoming proposals. The more BONE the user holds, the more weight of their vote carries in these future endeavors.

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fb2c76"
+icons:
+  - icon.png
 ---
 
 YFiONE explores the systematic production of new Defi products and will help develop, market and launch these Defi products to help it develop its biology and provide ideal benefits for community projects and users.

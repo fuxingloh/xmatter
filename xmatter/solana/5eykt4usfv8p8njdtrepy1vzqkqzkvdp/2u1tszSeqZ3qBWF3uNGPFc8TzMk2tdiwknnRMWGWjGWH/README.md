@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c0c0c"
+icons:
+  - icon.png
 ---
 
 Global Dollar (USDG) is a single-currency stablecoin pegged to the US dollar, issued by Paxos Digital Singapore Pte. Ltd. and is compliant with the Monetary Authority of Singapore's (MAS) forthcoming stablecoin framework. USDG is redeemable from Paxos on a one-to-one basis for US dollars.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ea5557"
+icons:
+  - icon.png
 ---
 
 Lympo is a sports and health ecosystem powered by priceless user-generated and user-controlled data which can help generate exponential returns for industry stakeholders and users alike.

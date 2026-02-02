@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#be2509"
+icons:
+  - icon.png
 ---
 
 Fully Dex protocol, staking and more on Binance Smart Chain. #Defi #BSC

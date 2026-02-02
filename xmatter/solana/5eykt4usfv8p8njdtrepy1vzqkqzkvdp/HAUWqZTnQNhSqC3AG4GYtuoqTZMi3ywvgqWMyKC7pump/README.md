@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#0b0f42"
+icons:
+  - icon.png
 ---
 
 Discover the next evolution of AI-driven blockchain solutions for trading, privacy, and market insights in the Solana ecosystem

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#050404"
+icons:
+  - icon.png
 ---
 
 Capital Rock Coin is a dynamic cryptocurrency introduced by the renowned forex trading firm, Capital Rock. With a global presence, boasting physical offices in ten countries, and an impressive portfolio of simultaneous dealings with 400 companies.

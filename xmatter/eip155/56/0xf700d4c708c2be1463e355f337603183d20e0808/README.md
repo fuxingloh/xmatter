@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#39cabc"
+icons:
+  - icon.png
 ---
 
 Galactic Quadrant is a utility token for the Outer Ring video game that allows making in-game and off-games purchases.

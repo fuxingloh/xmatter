@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d4a6f1"
+icons:
+  - icon.png
 ---
 
 CrowFinance an Evolution Yield Farming and Yield Optimizer on Binance Smart Chain with daytime and nighttime burn mechanism system.

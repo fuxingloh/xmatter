@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0a0a0a"
+icons:
+  - icon.png
 ---
 
 The governance token and in-game currency of Rune, an epic dark fantasy universe

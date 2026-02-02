@@ -17,6 +17,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#da2724"
+icons:
+  - icon.png
 ---
 
 LiveView is to provide an all-in-one platform for viewers to be able to watch and choose whichever videos they want around the world.

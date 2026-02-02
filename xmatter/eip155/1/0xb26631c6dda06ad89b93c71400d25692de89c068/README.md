@@ -10,6 +10,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#5b595b"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Minds Tokens are the fuel of the Minds network.

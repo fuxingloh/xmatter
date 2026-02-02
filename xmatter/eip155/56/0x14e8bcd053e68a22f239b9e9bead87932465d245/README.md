@@ -27,6 +27,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d7a731"
+icons:
+  - icon.png
 ---
 
 Value finance helps to empower new and existing project with infrastructures required for active blockchain participation

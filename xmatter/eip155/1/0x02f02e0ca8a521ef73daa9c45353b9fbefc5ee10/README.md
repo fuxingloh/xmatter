@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#047cfc"
+icons:
+  - icon.png
 ---
 
 RenrenBit is a safe, transparent lending platform. Borrow or lend money with crypto as collateral.

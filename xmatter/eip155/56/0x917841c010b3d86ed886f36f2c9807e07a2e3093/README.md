@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f4e9d9"
+icons:
+  - icon.png
 ---
 
 RisingSun powers the greatest play to earn NFT card game ecosystem on the Binance Smart Chain. Over 4 billion collectable samurai battle cards make for one of the most unique gaming experiences on blockchain. The novel NFT card game is coming soon — SamuraiRising.

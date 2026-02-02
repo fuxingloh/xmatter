@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7c0584"
+icons:
+  - icon.png
 ---
 
 Powering a new NFT/DeFi platform for all types of content.

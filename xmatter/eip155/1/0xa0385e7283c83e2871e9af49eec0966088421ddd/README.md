@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0443f9"
+icons:
+  - icon.png
 ---
 
 Pur Ape Meme.

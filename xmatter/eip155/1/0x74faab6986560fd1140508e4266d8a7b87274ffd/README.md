@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3f88c8"
+icons:
+  - icon.png
 ---
 
 Decentralised Financial Services Ecosystem.

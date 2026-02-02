@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fcb831"
+icons:
+  - icon.png
 ---
 
 Multi-Collateral Dai, brings a lot of new and exciting features, such as support for new CDP collateral types and Dai Savings Rate.

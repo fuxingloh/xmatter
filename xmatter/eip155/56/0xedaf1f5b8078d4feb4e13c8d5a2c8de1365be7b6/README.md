@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2f85ef"
+icons:
+  - icon.png
 ---
 
 Altrucoin is a decentralized finance token built for yield generation, charitable donations, decentralized governance, and defi lending.

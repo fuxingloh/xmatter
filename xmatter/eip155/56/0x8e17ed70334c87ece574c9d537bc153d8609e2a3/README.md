@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3464f4"
+icons:
+  - icon.png
 ---
 
 The WRX token is used for trading fee discounts, WRX Trade Mining (unlock and earn WRX tokens by performing trades), paying for margin fees, and more.

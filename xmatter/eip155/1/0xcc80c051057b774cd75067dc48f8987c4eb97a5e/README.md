@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c1c34"
+icons:
+  - icon.png
 ---
 
 Nectar serves as the native utility and governance token of decentralised exchange DeversiFi.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0404fb"
+icons:
+  - icon.png
 ---
 
 Bald (BALD) is a cryptocurrency and operates on the Base platform.

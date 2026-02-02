@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#070704"
+icons:
+  - icon.png
 ---
 
 DAMN Connecting the World through Blockchain Innovations.

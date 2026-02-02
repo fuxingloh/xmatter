@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a1a1a1"
+icons:
+  - icon.png
 ---
 
 WHY is a bipolar Elephant, RAMPAGE after FOMO (In the dream). Dancing and Happi all the daytime.(In real life) $BNB

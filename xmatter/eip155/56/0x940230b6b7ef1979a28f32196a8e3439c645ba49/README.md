@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6b6f4c"
+icons:
+  - icon.png
 ---
 
 SHIBARMY is a trendy project that pays you a huge chunk of SHIBA INU as dividend for holding. SHIBARMY is here to follow SHIBA INU’s footsteps.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#231c23"
+icons:
+  - icon.png
 ---
 
 Loom Network is a Platform as a Service intended to allow Ethereum-based Solidity applications to be run on side chains.

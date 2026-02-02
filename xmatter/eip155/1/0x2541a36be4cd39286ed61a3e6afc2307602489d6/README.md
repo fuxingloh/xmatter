@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e3af53"
+icons:
+  - icon.png
 ---
 
 Utilising smart contracts powered by Ethereum, DOGE20 is much more than a meme coin and brings passive earning potential to the community.

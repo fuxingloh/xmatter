@@ -8,4 +8,6 @@ standards:
   - trc10
 icon: icon.png
 color: "#eb5c2c"
+icons:
+  - icon.png
 ---

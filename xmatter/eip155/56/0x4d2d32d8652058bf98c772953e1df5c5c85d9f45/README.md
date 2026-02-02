@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c2c44"
+icons:
+  - icon.png
 ---
 
 DAO Maker is the leading incubation, fundraising and acceleration platform with a vast network of successful projects launched.

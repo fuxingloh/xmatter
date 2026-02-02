@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#84ccfc"
+icons:
+  - icon.png
 ---
 
 NMX is the first decentralized exchange token with automatic market making (AMM) functionality.

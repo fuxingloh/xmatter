@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#141414"
+icons:
+  - icon.png
 ---
 
 In NFTBlackMarket you can create, collect, and trade NFT Tokens.

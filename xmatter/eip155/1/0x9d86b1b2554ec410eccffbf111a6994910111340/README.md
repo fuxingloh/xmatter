@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4890e0"
+icons:
+  - icon.png
 ---
 
 Build using the most advanced ecosystem of developer tools for decentralized technologies.

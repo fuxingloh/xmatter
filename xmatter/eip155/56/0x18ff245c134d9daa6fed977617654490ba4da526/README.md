@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dc8c26"
+icons:
+  - icon.png
 ---
 
 MaskDoge is a deflationary, liquidity auto-growing and community-driven DeFi token. It is featured with anti-rugpull and anti-whale mechanisms. It also has a charity wallet which will be used to support charities around the globe.

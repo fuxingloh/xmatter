@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#043256"
+icons:
+  - icon.png
 ---
 
 MAST is a BEP-20 incentive token based on the Binance Smart Chain network launched by Magic cube DAO. The value and significance of MAST issuance is to promote the management and governance among the Magic cube DAO communities

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0a2eb8"
+icons:
+  - icon.png
 ---
 
 Plastiks is an NFT marketplace deployed that brings People, Organizations and Companies together to fight against plastic pollution.

@@ -14,6 +14,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#f48040"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Rocket Pool is the first truly decentralised Ethereum staking pool.

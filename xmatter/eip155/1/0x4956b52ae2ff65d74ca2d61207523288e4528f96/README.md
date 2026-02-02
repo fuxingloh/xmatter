@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3ebd4"
+icons:
+  - icon.png
 ---
 
 THE TRUE DELTA-NEUTRAL STABLECOIN THAT WORKS

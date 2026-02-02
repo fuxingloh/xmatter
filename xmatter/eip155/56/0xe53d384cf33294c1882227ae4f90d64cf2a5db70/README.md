@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#060505"
+icons:
+  - icon.png
 ---
 
 Ocicat is a community-driven crypto project with DAO governance and DeFi utility.

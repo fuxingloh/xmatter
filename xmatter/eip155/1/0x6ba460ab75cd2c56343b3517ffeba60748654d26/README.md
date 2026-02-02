@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c88af"
+icons:
+  - icon.png
 ---
 
 UpToken is designed to rapidly build a crypto ATM network where we all rise together.

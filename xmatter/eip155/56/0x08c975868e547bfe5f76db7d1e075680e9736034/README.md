@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9e1de"
+icons:
+  - icon.png
 ---
 
 Doge Back is a revolutionary token which combines buy back and also dividends, which results in real Doge Coin in your wallet.

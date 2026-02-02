@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cba145"
+icons:
+  - icon.png
 ---
 
 SafeLaunchpad is High Deflationary Project Incubator Utility Token.

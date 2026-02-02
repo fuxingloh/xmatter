@@ -29,6 +29,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#00a3ff"
+icons:
+  - icon.png
 ---
 
 TiFi Token is the the first crypto token that support allverse, which united metaverse and universe, by stimulating trading in decentralized ecosystem.

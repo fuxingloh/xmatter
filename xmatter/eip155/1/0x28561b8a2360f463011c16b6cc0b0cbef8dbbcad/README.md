@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b89a8b"
+icons:
+  - icon.png
 ---
 
 oodeng is a community-driven meme coin on Ethereum, inspired by a famous hippo from a Thai zoo.

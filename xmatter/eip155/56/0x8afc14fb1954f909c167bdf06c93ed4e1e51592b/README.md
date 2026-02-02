@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c8b9ed"
+icons:
+  - icon.png
 ---
 
 ZeroByte is a decentralized financial payment network that rebuilds the traditional payment stack on the blockchain. It utilizes a basket of fiat-pegged stablecoins, algorithmically stabilized by its reserve currency ZB, to facilitate programmable payments and open financial infrastructure development. As of December 2020, the network has transacted an estimated $299 billion for over 2 million users.

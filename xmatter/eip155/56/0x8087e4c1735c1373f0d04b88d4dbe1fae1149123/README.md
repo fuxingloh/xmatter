@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#59cbd6"
+icons:
+  - icon.png
 ---
 
 MoonJuice, The Block-Chain Powered Energy Drink; Bridging the gap between retail and crypto

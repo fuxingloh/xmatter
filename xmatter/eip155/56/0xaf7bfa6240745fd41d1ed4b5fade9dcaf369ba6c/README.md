@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eabfcd"
+icons:
+  - icon.png
 ---
 
 MATICVERSE is your gateway to the Baby Vengers multiverse!

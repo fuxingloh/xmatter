@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2384c1"
+icons:
+  - icon.png
 ---
 
 CRATOS is an ERC-20 utility token designed to facilitate citizen participation in the CRATOS app, a real-time live vote platform.

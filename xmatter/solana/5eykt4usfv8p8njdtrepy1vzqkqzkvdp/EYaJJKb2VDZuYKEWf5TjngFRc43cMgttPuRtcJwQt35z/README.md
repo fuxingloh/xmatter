@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#cfc4b6"
+icons:
+  - icon.png
 ---
 
 Taking down a monopoly live on the Blockchain.

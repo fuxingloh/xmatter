@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c042c"
+icons:
+  - icon.png
 ---
 
 The Avalanche Bridge Wrapped Synthetix Network Token. The Synthetix Network Token is the native token of Synthetix, a synthetic asset (Synth) issuance protocol built on Ethereum. The SNX token is used as collateral to issue Synths.

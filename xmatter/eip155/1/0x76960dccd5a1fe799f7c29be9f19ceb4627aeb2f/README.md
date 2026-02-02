@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dd0505"
+icons:
+  - icon.png
 ---
 
 The Red community is building the world's first fullstack and blockchain language.

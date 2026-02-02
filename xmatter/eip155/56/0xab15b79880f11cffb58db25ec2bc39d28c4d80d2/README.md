@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e7a00e"
+icons:
+  - icon.png
 ---
 
 Starmon Metaverse builds a virtual world: Andres Land. There are many creatures with superpowers called Starmon.

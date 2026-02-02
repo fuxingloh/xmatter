@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c8bfa"
+icons:
+  - icon.png
 ---
 
 DefiSports is a registered Tech Company developing an ecosystem that incentivizes stakeholders through the hybrid platform with gaming and NFT and has signed professional athletes on board as ambassadors.

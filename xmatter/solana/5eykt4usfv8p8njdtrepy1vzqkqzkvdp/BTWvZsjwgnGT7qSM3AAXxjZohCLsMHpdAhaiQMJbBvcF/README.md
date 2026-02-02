@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#8c5ccc"
+icons:
+  - icon.png
 ---
 
 Introducing the Book of Meow ($BOMEOW), a Solana-based meme token that is the purr-fect variation of different mews across the entire meow-niverse.

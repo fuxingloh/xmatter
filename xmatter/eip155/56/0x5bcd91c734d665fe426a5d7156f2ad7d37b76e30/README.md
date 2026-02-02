@@ -29,6 +29,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d2d7e0"
+icons:
+  - icon.png
 ---
 
 VicMove is a web3 fitness and lifestyle mobile app where you can earn rewards just by movement like Walking, Running and Cycling.

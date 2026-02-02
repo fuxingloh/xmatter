@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9a9a9a"
+icons:
+  - icon.png
 ---
 
 A community driven decentralized exchange platform

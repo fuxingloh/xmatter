@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9ccce3"
+icons:
+  - icon.png
 ---
 
 xDitto is a secondary, non-rebasing asset that backs the Ditto elastic supply token.

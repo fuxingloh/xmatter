@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#493f42"
+icons:
+  - icon.png
 ---
 
 grab a mask and prepare for the biggest heist on Base

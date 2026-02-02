@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#080705"
+icons:
+  - icon.png
 ---
 
 HELMET is the governance token issued by helmet.insure with total supply of 100 million.

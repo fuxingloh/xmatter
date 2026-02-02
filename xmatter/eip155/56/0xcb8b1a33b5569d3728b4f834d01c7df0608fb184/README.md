@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f1bb11"
+icons:
+  - icon.png
 ---
 
 BSC Layer: A protocol on BNB Chain enabling restaking of BNB and alpha tokens for pooled security and enhanced ecosystem scalability.

@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7648ea"
+icons:
+  - icon.png
 ---
 
 My Liquidity Partner is a rewards token based on the ethereum blockchain built to help onboard people into a stable growth liquidity pool program.

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b1b1b"
+icons:
+  - icon.png
 ---
 
 Grok 3 is a cutting-edge digital token built to drive the next generation of decentralized applications (dApps). By combining blockchain technology with advanced smart contracts, Grok 3 offers enhanced security, scalability, and seamless user experiences.

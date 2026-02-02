@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cf472f"
+icons:
+  - icon.png
 ---
 
 Vulcan Forged is an established non-fungible token (NFT) game studio, marketplace, and dApp incubator with 10+ games, a 20000+ community, and top 5 NFT marketplace volume.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bcdcf4"
+icons:
+  - icon.png
 ---
 
 GEM PROTOCOL is a dApps platform that offers free applications for the Binance Smart Chain community.

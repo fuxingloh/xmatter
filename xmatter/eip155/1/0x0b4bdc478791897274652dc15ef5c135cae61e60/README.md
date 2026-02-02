@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7b56f2"
+icons:
+  - icon.png
 ---
 
 DAEX (DAX) is a cryptocurrency and operates on the Ethereum platform

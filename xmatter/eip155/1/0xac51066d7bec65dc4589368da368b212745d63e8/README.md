@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#76c3d9"
+icons:
+  - icon.png
 ---
 
 A social simulation Blockchain game owned by players.

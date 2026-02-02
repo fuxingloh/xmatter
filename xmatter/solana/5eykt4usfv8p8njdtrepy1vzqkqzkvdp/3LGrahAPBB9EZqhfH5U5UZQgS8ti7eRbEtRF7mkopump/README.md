@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#242e24"
+icons:
+  - icon.png
 ---
 
 Matrix is an AI-Agent related token that provides a platform for developers to create intelligent agents and AI applications

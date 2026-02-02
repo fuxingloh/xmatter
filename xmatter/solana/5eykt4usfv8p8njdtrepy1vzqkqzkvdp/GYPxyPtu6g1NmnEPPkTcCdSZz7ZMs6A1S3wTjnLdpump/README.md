@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#242424"
+icons:
+  - icon.png
 ---
 
 $Anarchy on Sol

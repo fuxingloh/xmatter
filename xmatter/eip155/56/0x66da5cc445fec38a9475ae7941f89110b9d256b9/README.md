@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0808fb"
+icons:
+  - icon.png
 ---
 
 Vodka Token — collectible play-to-earn NFT game based on DeFi.

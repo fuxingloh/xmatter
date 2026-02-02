@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#295c61"
+icons:
+  - icon.png
 ---
 
 Join the APES GANG – shill the coin, play the game, have fun, and stake your tokens!

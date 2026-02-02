@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2f3428"
+icons:
+  - icon.png
 ---
 
 Meme/Ai/Gaming 🐸 live now on UniSwap!

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fab712"
+icons:
+  - icon.png
 ---
 
 MEMES token is the utility currency of the first decentralized MEME nft marketplace and social network .

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 The WOM Protocol is a next-gen MarTech solution that enables brands to leverage word-of-mouth recommendations and reward creators without compromising authenticity.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d04b2a"
+icons:
+  - icon.png
 ---
 
 HOLE is a hyperdeflationary cryptocurrency with massive 20% burn. Join us on the journey to the unknown parts of the universe.

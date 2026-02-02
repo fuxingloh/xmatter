@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#08ca07"
+icons:
+  - icon.png
 ---
 
 Beyond high-level memes crafted by tech, a place where technology turns communities into memes. Welcome to $IQ

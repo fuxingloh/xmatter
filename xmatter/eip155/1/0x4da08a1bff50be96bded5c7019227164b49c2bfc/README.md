@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c6c5c5"
+icons:
+  - icon.png
 ---
 
 Mononoke Inu - the anime token with the biggest potential out there! Freshly released on Ethereum!

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#082482"
+icons:
+  - icon.png
 ---
 
 The first ever existed -Item Token-. An experimental token acting both as ERC 20 and both as ERC 1155, also governance token of the buidlers Sandbox.

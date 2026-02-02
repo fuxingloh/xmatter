@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3ddc5"
+icons:
+  - icon.png
 ---
 
 Great Ape is a unique community token on Binance Smart Chain

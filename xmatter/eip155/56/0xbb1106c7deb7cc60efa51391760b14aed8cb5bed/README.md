@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#872159"
+icons:
+  - icon.png
 ---
 
 Car Coin is a groundbreaking project combining blockchain technology and cryptocurrency to transform the automotive trade and related sectors. Our platform aims to provide comprehensive solutions for current and future needs in the automotive industry.

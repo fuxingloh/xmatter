@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#edbd30"
+icons:
+  - icon.png
 ---
 
 SHIBG is Community Project

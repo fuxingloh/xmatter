@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#422969"
+icons:
+  - icon.png
 ---
 
 Pi-Cryptocurrency for everyday people fueling theworld's most inclusive peer-to-peer economy. Downloadour app to start mining Pi today.

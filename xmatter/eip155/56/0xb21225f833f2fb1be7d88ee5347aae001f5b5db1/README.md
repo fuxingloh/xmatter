@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c343b"
+icons:
+  - icon.png
 ---
 
 Crypto in your everyday life. SPAY aims to provide a decentralized, private and instant payment method based on cryptocurrency.

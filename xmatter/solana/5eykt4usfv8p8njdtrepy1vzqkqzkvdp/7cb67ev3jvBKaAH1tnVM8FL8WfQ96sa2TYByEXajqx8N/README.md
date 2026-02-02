@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#2a6b27"
+icons:
+  - icon.png
 ---
 
 Richard Dawkins is the father of MEMES and BOME dev asked for a coin in honor to him.

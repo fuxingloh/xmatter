@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4d77e7"
+icons:
+  - icon.png
 ---
 
 The first Trade to Farm DeFi coin on the Ethereum Blockchain

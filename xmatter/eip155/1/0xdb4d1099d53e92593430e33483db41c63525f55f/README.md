@@ -23,6 +23,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04234b"
+icons:
+  - icon.png
 ---
 
 Joystick empowers players to make money playing the games they love.

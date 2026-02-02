@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bababa"
+icons:
+  - icon.png
 ---
 
 Algorithmic Stable-coin forked from Empty Set Dollar

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fad124"
+icons:
+  - icon.png
 ---
 
 $ANDY, PEPE's best friend and the yellow mascot of the yellow chain, BSC.

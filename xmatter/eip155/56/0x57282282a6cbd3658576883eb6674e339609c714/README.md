@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cfdacb"
+icons:
+  - icon.png
 ---
 
 The World’s first Auto-Boost, Super Hyper Deflationary Coin is here! MiniDog is on a mission to help lost and horny animals find their way to the nearest animal shelter

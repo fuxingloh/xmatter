@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0f255a"
+icons:
+  - icon.png
 ---
 
 Peacockcoin is a deflationary yield token on Binance Smart Chain and ETHEREUM Network, with multi-dimensional NFTs.

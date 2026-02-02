@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c63697"
+icons:
+  - icon.png
 ---
 
 PPAY: DeFi liquidity aggregator and Plasma.Finance portfolio dashboard.

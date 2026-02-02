@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dddbb0"
+icons:
+  - icon.png
 ---
 
 PolyPlay is the Gaming Gold Standard Coin. Gamers can participate in Epsorts tournaments just by holding Play token and win rewards in crypto

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f35474"
+icons:
+  - icon.png
 ---
 
 Let's get Elon Sperm to Mars!

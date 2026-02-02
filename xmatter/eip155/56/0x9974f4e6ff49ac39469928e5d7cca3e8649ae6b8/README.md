@@ -14,6 +14,7 @@ name: PathFund
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 The first pre-auditing self-sustained launchpad https://github.com/trustwallet/assets/pull/8804

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 The INITIA Project will solve onboarding into the Metaverse/Crypto space by providing unique and novel event concepts.

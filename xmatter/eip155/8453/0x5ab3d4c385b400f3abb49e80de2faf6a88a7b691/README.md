@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cccccc"
+icons:
+  - icon.png
 ---
 
 FLock.io is the first decentralised AI training platform, combining Federated Learning and blockchain technology to revolutionise AI model development

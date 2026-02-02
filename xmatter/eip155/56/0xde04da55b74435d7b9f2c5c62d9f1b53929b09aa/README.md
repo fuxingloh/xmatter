@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fa74fa"
+icons:
+  - icon.png
 ---
 
 AICell integrates AI agent and web3 the one and only AI MEME on #BNBChain

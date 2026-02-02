@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f5b11f"
+icons:
+  - icon.png
 ---
 
 First token deployed on Springboard!‍ $CAKEDOG gonna lead the bsc season

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#92caea"
+icons:
+  - icon.png
 ---
 
 The future of decentralization has arrived. In the chaotic PVP world of meme coins, where every key decision is made by a single leader, FLOCKERZ empowers its community—known as 'The Flock'—to guide the project to the promised land

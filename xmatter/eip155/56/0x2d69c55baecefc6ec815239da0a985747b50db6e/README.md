@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e5c825"
+icons:
+  - icon.png
 ---
 
 The first low-inflation community distributed yield-farming project on Binance Smart Chain.

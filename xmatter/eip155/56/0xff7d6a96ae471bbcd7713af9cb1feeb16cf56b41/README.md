@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#131314"
+icons:
+  - icon.png
 ---
 
 Introducing the Bedrock DAO, made for you, governed by you, and rewards go to you. Made up of the $BR & $veBR tokens, you can join the DAO now and earn

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#23dccb"
+icons:
+  - icon.png
 ---
 
 We connect fans, players and clubs around the globe to provide a seamless virtual integration of all their top leagues, cups and championships.

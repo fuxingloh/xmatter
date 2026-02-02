@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ec3164"
+icons:
+  - icon.png
 ---
 
 Roseon Finance is a mobile yield aggregator that manages your crypto + NFT portfolio and optimizes yield across DeFi and CeFi networks.

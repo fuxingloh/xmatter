@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#126db4"
+icons:
+  - icon.png
 ---
 
 Hawk soars in the sky, free and unfettered! Hawk token symbolizes freedom, which echoes the freedom of speech advocated by Elon Musk!

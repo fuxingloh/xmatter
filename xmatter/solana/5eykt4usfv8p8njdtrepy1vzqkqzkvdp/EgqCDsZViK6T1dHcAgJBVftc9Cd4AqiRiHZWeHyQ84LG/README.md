@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#171323"
+icons:
+  - icon.png
 ---
 
 Welcome to $Liberta, the Libertarian Dog Coin on the Solana blockchain!

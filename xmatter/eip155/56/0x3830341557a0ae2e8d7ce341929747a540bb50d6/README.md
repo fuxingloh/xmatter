@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bb8179"
+icons:
+  - icon.png
 ---
 
 SharkBoy

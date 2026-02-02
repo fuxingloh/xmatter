@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d61f24"
+icons:
+  - icon.png
 ---
 
 CATEX strives to become the most beloved and successful project by adhering to all market standards and surpassing all indicators. The CATEX community is robust and supportive, encouraging each other to succeed.

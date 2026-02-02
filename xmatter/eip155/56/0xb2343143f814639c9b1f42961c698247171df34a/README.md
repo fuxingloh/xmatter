@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ff7152"
+icons:
+  - icon.png
 ---
 
 CORE is a multi chain PoS network focused on interoperability, scalability and usability. It utilizes AI-enabled Proof of Stake algorithm, multi layered consensus model and voting based governance.

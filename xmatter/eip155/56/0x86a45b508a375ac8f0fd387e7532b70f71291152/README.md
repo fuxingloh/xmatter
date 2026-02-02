@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#22ade5"
+icons:
+  - icon.png
 ---
 
 EMP Token DeFi is a decentralized token. It aims in the medium term to acquire mining rigs using 100% clean energy.

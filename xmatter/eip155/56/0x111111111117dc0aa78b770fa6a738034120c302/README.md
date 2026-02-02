@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#101a26"
+icons:
+  - icon.png
 ---
 
 The 1INCH token on Binance Smart Chain will be used for a bridge between the Binance and Ethereum networks.

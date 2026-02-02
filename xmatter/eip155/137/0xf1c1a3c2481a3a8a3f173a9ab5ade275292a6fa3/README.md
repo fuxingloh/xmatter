@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9f8c7d"
+icons:
+  - icon.png
 ---
 
 Create and Public Digital virtual goods on the blockchain

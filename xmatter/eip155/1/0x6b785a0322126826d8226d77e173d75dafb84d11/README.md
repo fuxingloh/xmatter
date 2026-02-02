@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#843b7c"
+icons:
+  - icon.png
 ---
 
 Bankroll is a decentralized finance network on TRON and Ethereum. It implements a voluntary, sustainable, and permissionless global economic engine. Through a network of financial contracts, the platform provides rewards in TRX, ETH, BTT, VLT, and BNKR.

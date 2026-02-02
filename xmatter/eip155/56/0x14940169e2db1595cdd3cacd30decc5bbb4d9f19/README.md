@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ca765f"
+icons:
+  - icon.png
 ---
 
 Santa Floki ($HoHoHo) v2.0 is a relaunch in order to better serve our future utility ecosystem (gaming, staking and metaverse).

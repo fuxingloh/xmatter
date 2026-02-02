@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#463c59"
+icons:
+  - icon.png
 ---
 
 US government officials are to receive a private briefing on a breakthrough in artificial intelligence (AI) “super agents” as Silicon Valley executives flock to Washington to attend Donald Trump’s inauguration.

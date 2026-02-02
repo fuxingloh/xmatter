@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2d2c2b"
+icons:
+  - icon.png
 ---
 
 SephirothInu is a Charity Token that aims to help less fortunate animals.

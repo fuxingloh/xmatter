@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Elan Future is a clean-tech Research & Development company located in Canada, leading the way toward affordable and reliable electricity through decentralized energy systems.

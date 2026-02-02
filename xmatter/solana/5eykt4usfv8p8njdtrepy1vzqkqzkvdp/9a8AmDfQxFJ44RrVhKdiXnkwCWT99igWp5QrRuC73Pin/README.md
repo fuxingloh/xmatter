@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#ebbca7"
+icons:
+  - icon.png
 ---
 
 KittenWifHat is simply a Kitten wif a hat, Let's add hats to the cat. KittenWifHat is DogWifHat's biggest competitor!

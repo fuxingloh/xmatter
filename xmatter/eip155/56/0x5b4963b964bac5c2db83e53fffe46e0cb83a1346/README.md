@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9d92f8"
+icons:
+  - icon.png
 ---
 
 Kitty Token is a Decentralized Meme Token. Make the Fun with Kitty. Mine BNB with #KITTY upto 1000 BNB.

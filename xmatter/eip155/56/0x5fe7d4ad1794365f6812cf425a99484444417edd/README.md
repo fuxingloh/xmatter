@@ -17,6 +17,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9b86f8"
+icons:
+  - icon.png
 ---
 
 IMPERIUM COIN is a cutting-edge digital currency poised to redefine the landscape of finance.

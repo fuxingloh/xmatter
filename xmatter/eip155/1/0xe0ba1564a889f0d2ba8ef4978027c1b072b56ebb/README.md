@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04fb74"
+icons:
+  - icon.png
 ---
 
 NFTs for watches, fashion & jewelry

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#57768d"
+icons:
+  - icon.png
 ---
 
 Baby Moon Floki is a hyper-deflationary token that has a smart exchange system built into the ecosystem

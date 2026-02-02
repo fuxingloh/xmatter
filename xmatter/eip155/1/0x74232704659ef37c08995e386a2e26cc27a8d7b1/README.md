@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#247ce4"
+icons:
+  - icon.png
 ---
 
 Strike Finance Governance Token

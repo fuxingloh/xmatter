@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1a1b6d"
+icons:
+  - icon.png
 ---
 
 MorCrypto Coin 2 (MOR) is a cryptocurrency and operates on the Ethereum platform.

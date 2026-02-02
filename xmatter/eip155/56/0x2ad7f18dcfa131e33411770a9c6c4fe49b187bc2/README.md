@@ -27,6 +27,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b2d17"
+icons:
+  - icon.png
 ---
 
 MetaUFO is a decentralized gaming platform with play-to-earn elements, NFTs, its own NFT collection combined with an auto battler. MetaUFO is built on BSC.

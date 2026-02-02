@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#725d51"
+icons:
+  - icon.png
 ---
 
 Too many bag holders are stuck in the rat race

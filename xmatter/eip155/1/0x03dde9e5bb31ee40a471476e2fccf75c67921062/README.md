@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#52a9db"
+icons:
+  - icon.png
 ---
 
 The EML Protocol is an end-to-end payment platform that integrates the permissioned private blockchain form of Hyperledger Fabric which allows only approved users to participate.

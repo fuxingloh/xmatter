@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f1a91f"
+icons:
+  - icon.png
 ---
 
 CHEESE was born on 4chan’s /biz/ board, destined to be the ultimate BSC coin

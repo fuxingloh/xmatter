@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2a8cc3"
+icons:
+  - icon.png
 ---
 
 DigitalBits is a protocol layer blockchain designed to support consumer digital assets, specifically brand currencies.

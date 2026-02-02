@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0e44b1"
+icons:
+  - icon.png
 ---
 
 Chimpion created the first ever online banking for the crypto community.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbbf42"
+icons:
+  - icon.png
 ---
 
 GPYX is the native token of gpyx.money DeFi platform.

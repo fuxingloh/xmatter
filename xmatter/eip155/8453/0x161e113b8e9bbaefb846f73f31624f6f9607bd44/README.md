@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#292a2a"
+icons:
+  - icon.png
 ---
 
 Simulacrum is a platform that enables users to execute on-chain actions directly from social media platforms like X (formerly Twitter), utilizing their social media accounts as secure wallets. By leveraging Existential Attestations of External Media, Simulacrum creates a Synthetic Blockchain that allows users to broadcast transactions through social media posts.

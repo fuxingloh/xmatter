@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#785820"
+icons:
+  - icon.png
 ---
 
 Mist Token is the native in-game currency of Mist developed to incorporate NFTs with in-game functions for MMO audience.

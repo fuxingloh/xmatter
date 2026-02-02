@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#1b2437"
+icons:
+  - icon.png
 ---
 
 Bonfida is the full product suite that bridges the gap between Serum, Solana and the user

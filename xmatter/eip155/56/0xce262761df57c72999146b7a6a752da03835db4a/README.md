@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#055225"
+icons:
+  - icon.png
 ---
 
 A sustainable economic model with Vaults, Hold and Earn, and Black Hole design.

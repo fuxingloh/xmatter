@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04848b"
+icons:
+  - icon.png
 ---
 
 Bitagon (TSC) is built based on the PoS consensus protocol, which is decentralized and energy efficient, helping you easily build your own decentralized applications.

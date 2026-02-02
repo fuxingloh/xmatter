@@ -40,6 +40,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 pSTAKE is a liquid staking protocol that unlocks liquidity for your staked assets. With pSTAKE, you can securely stake your Proof-of-Stake (PoS) assets, participate in protocol improvements and security to earn staking rewards, and receive staked underlying representative tokens (stkASSETs) which can be used to explore additional yield opportunities across DeFi. At present, pSTAKE supports Binance (BNB), Cosmos (ATOM), Persistence (XPRT), and Ethereum (ETH) networks’ native tokens, with a view to support more chains and assets in the future (SOL, and AVAX).

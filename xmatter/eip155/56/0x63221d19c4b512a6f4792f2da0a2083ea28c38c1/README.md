@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#efefef"
+icons:
+  - icon.png
 ---
 
 Call to Combat is the world's first multiplayer online role-playing game universe that exists inside the MetaVerse world where real players connect and earn.

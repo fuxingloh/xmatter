@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f5e2e1"
+icons:
+  - icon.png
 ---
 
 Destra Network offers a one-step solution for all your DePIN and AI computing needs.

@@ -34,6 +34,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e2c282"
+icons:
+  - icon.png
 ---
 
 Bobcoin is a social asset-backed crypto—a cryptographically secured representation of the rights of a Bobcoin holder to receive a benefit from their tokens. As every Bobcoin is linked to an electric vehicle managed by Bob Eco, the tokens are always backed by the value of the asset they represent.

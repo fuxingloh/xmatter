@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#636363"
+icons:
+  - icon.png
 ---
 
 MoonGhost was created with the sole purpose of investor's being able to collect BNB by holding MOONGHOST.

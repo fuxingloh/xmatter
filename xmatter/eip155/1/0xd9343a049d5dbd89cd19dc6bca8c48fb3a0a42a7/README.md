@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04041b"
+icons:
+  - icon.png
 ---
 
 Lumia is the first next-generation blockchain that provides a comprehensive solution across the entire life cycle of RWAs, from asset tokenization to liquidity aggregation and connectivity to millions of traders in DeFi.

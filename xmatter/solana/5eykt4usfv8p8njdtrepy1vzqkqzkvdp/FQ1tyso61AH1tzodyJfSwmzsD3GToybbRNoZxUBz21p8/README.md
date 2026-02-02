@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#d38745"
+icons:
+  - icon.png
 ---
 
 $VVAIFU is the token of the first AI Agent launched on our platform, Dasha.

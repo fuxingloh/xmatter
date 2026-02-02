@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d5be83"
+icons:
+  - icon.png
 ---
 
 INPA Coin (International Non-Fungible permanent asset) is an Autonomous yield and Liquidity generation protocol

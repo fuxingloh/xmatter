@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#042454"
+icons:
+  - icon.png
 ---
 
 RSD is an algorithmic token with dynamic supply based on reinforcement learning aimed at the DeFi market.

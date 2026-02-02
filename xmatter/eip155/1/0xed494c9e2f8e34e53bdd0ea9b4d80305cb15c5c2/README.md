@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9dd5cd"
+icons:
+  - icon.png
 ---
 
 CWV Chain (CWV) is a cryptocurrency and operates on the Ethereum platform.

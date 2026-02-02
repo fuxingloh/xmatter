@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d1c3b3"
+icons:
+  - icon.png
 ---
 
 BUILDING token follows CZ's mantra: "Keep Building." Built on BNB Chain, empowering Web3 builders through all market cycles. LFG!

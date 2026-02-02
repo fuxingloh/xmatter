@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#656485"
+icons:
+  - icon.png
 ---
 
 This token sports a Play-2-Earn Cryptocurrency game namely called KleeRun. This game is an addictive, fast paced running game and fun for all ages! Available on Google Play, PC & Apple IOS devices.

@@ -10,6 +10,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#04f3fb"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Cartesi is an app-specific rollup protocol with a virtual machine that runs Linux distributions, creating a richer and broader design space for DApp developers.

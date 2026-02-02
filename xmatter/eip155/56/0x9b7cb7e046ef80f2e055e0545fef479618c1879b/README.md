@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ab9f86"
+icons:
+  - icon.png
 ---
 
 A crypto meme developed on the @BNBchain network, using #BNB

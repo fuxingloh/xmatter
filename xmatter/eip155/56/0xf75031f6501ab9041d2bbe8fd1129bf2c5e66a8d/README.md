@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#232a32"
+icons:
+  - icon.png
 ---
 
 From the creator of Captain BNB comes the next evolution of meme coins. A viral community, a new chapter, and a true community takeover.

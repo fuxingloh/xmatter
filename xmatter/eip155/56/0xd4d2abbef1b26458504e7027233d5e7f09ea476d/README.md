@@ -20,6 +20,7 @@ name: MoonWilly
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 MoonWilly is Certificate Of Deposit on Binance Smart Chain. Holders Earn Passive Rewards in DAI (USD Stablecoin) every Hour, Forever.

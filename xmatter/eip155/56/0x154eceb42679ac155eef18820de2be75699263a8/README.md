@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#60130d"
+icons:
+  - icon.png
 ---
 
 The amount of Mamy Shiba grow every day in your wallet as all holders automatically receive a 2% fee from every buy transaction and 7% fee from every sell transaction that happens on the Mamy Shiba network..

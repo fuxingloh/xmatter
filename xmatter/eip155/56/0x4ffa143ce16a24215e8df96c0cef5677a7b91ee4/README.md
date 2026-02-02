@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#432614"
+icons:
+  - icon.png
 ---
 
 Regent Coin is designed for the convenience, cost effective solution and efficient time usage among the peer to peer community. Regent Coin is A UTILITY TOKEN, enables People to make their utility bill payments using the pay app

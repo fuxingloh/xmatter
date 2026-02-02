@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#18399a"
+icons:
+  - icon.png
 ---
 
 DEX is issued by CoinBit's Mining Exchange.

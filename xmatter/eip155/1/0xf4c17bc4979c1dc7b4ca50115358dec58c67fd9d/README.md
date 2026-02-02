@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f7b804"
+icons:
+  - icon.png
 ---
 
 OPM is Omega Protocol utility ERC20 Token

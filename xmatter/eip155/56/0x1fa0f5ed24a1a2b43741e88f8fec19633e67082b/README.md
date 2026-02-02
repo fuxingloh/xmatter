@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d7d8d9"
+icons:
+  - icon.png
 ---
 
 The Diamante is an innovative blockchain designed to meet the growing demand for secure and scalable digital solutions in the face of quantum computing advancements. As quantum computers become more capable, traditional cryptographic techniques are increasingly at risk of being compromised.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dcccda"
+icons:
+  - icon.png
 ---
 
 Anime Token - AnimeSwap AMM on BSC Blockchain.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b07fb7"
+icons:
+  - icon.png
 ---
 
 Aave USDC is an interest bearing token pegged 1:1 to the underlying USDC deposited in Aave. aUSDC accrue interest in real time in your wallet.

@@ -12,6 +12,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#f80505"
+icons:
+  - icon.png
 ---
 
 Tron Cat

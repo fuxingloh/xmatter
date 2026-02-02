@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#cb2434"
+icons:
+  - icon.png
 ---
 
 Join the world’s largest Web3 blockchain-based precise positioning network. Contribute RTK data to power robotics and earn GEOD tokens

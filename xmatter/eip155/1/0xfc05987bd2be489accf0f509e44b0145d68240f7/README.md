@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1aa8c8"
+icons:
+  - icon.png
 ---
 
 Essentia is a masternoded multi-chained set of protocols connecting centralized and decentralized resources to create new powerful interactions and experiences.

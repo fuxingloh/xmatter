@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#32333a"
+icons:
+  - icon.png
 ---
 
 Rewarding networks - reinvented. DAFI rewards users based on network adoption, for smarter Staking & Social rewards. Same chains. New possibilities.

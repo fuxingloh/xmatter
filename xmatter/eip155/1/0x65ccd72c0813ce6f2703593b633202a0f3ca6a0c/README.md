@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9af5fa"
+icons:
+  - icon.png
 ---
 
 Nestree Community Messenger.

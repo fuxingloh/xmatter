@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2470b9"
+icons:
+  - icon.png
 ---
 
 GAMESAFE is a protocol specially built to reward its holders while increasing both the liquidity and value. A Digital Games will be out soon using Binance Smart Chain.

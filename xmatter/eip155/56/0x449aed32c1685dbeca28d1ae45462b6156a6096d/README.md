@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#985204"
+icons:
+  - icon.png
 ---
 
 At BitLiveNow we work with our community of users to take the best of traditional banking and combine it with DeFi technology. Together, we’re on a mission to create a new banking model. One that is fairer for you and better for the world.

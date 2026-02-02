@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f5451e"
+icons:
+  - icon.png
 ---
 
 Deflationary, frictionless yield and liquidity generation protocol that powers the play dead live gaming portal.

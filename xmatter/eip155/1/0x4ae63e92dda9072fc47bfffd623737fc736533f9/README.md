@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#193f46"
+icons:
+  - icon.png
 ---
 
 A Dececentralized Smart Contract that focuses the power of Savings. Dividend earnings for every Savings and stakes.

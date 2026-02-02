@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c8cc5"
+icons:
+  - icon.png
 ---
 
 CarLive Chain is a vertical application of blockchain technology in the field of automotive social network.

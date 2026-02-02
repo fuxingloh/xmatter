@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#284bec"
+icons:
+  - icon.png
 ---
 
 Obee Network is an incentive-based social platform and the Obee Network social platform has a content publishing system,comment forwarding, account system, commodities, account system, news blog, activities, and other modules.

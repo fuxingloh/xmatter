@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cfcecf"
+icons:
+  - icon.png
 ---
 
 FWB is a Private Discord channel filled with our favorite thinkers, creatives, rebels, and doers.

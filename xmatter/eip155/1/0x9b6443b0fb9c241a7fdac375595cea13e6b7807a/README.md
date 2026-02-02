@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#00ffff"
+icons:
+  - icon.png
 ---
 
 Reality Clash is an Augmented Reality FPS combat game set in an underground world of cryptocurrency and hackers.

@@ -29,6 +29,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbf4c5"
+icons:
+  - icon.png
 ---
 
 MOON is a native token of HoneyFarm Layer 3 - HoneyMoon

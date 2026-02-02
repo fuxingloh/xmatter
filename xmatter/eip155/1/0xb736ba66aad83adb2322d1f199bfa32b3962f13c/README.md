@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6d57a6"
+icons:
+  - icon.png
 ---
 
 Bridge Protocol ERC-20 utility token (BRDG) on the Ethereum network

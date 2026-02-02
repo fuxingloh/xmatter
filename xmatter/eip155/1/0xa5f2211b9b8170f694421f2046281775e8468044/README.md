@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#23d5f4"
+icons:
+  - icon.png
 ---
 
 THORSwap is a multi-chain DEX aggregator built on THORChain's cross-chain liquidity protocol and the #1 interface for all THORChain services like THORName and synthetic assets.

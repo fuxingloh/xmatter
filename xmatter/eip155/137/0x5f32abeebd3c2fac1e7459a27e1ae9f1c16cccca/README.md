@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#000000"
+icons:
+  - icon.png
 ---
 
 The FAR token is the utility token for the Farcana ecosystem. Farcana is a multiplayer arena hero shooter powered by a Web3 economy

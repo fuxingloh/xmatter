@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8c4cf9"
+icons:
+  - icon.png
 ---
 
 A deflationary burn mechanism and static reward protocol, are the core functions of upShib.

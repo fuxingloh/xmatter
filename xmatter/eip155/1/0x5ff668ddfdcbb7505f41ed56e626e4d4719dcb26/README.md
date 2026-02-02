@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#000000"
+icons:
+  - icon.png
 ---
 
 Loki is a private cryptocurrency with an incentivised service node network. The decentralised service node network is leveraged to create a whole suite of privacy tools including an anonymous private messenger (Session) and an anonymous onion router (Lokinet).

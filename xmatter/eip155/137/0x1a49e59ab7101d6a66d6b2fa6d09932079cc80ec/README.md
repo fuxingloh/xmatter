@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f5c048"
+icons:
+  - icon.png
 ---
 
 $WINS is a gaming rewards token designed to be sustainable and deflationary in order to address problems from the last generation of "play-to-earn" web3 games.

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f4e9f8"
+icons:
+  - icon.png
 ---
 
 Whales Market offers a decentralized OTC trading platform for users to directly exchange assets across multiple blockchains, with complete trustlessness and security guaranteed.

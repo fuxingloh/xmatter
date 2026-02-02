@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d8b5da"
+icons:
+  - icon.png
 ---
 
 Our vision is to revolutionize companionship with AI Virtual Companions—highly customizable, interactive, and immersive virtual partners designed to meet your unique desires.

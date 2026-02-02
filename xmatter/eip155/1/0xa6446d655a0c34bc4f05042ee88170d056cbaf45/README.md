@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04c8b9"
+icons:
+  - icon.png
 ---
 
 Caspian is the company to provide institutional and experienced investors with a full-stack crypto trading and risk management platform.

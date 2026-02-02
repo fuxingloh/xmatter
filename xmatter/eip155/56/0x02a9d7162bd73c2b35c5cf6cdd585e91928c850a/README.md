@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3b3c3f"
+icons:
+  - icon.png
 ---
 
 Baby Floki Inu is a deflationary token on BSC, holders are redistributed 3% of all tokens traded, Floki is a community backed meme powered project.

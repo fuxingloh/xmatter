@@ -23,6 +23,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ba934b"
+icons:
+  - icon.png
 ---
 
 Shelling is building a payment platform that allows companies and individuals to accept cryptocurrency for their services and goods.

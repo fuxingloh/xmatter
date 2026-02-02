@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4d6599"
+icons:
+  - icon.png
 ---
 
 CoinUs is a personal multi-wallet offering convenience and security for storing various cryptocurrencies.

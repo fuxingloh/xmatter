@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#13042c"
+icons:
+  - icon.png
 ---
 
 MagicBox is committed to the ecological exploration of the metaverse and building an independent frictionless production liquidity survival agreement.

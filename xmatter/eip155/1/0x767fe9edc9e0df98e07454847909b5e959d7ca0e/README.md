@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2d1d5e"
+icons:
+  - icon.png
 ---
 
 Illuvium is a decentralized gaming studio that merges online gaming with cryptocurrency.

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#14d0b8"
+icons:
+  - icon.png
 ---
 
 In a time where gaming meets blockchain, our project aims to make GameFi sustainable and rewarding.

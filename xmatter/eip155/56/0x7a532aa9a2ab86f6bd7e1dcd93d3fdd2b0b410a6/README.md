@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c3935c"
+icons:
+  - icon.png
 ---
 
 Toman offers a comprehensive solution to the major problems faced by the traditional, fiat-driven monetary system. Building a crypto powered ecosystem comprising Toman Token.

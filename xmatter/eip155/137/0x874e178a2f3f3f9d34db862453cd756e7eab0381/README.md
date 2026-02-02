@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ffa600"
+icons:
+  - icon.png
 ---
 
 Gravity Finance is a suite of DeFi products on the Polygon Network.

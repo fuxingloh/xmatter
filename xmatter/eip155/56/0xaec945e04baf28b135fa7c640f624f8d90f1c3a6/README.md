@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d9b44e"
+icons:
+  - icon.png
 ---
 
 Coin98 enables value transfer as easily as using the Internet by the innovation of Multi-chain Engine, Fully Automatic Liquidity and Space Gate, all in one Super Liquidity Aggregator.

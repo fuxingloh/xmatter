@@ -19,6 +19,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#284350"
+icons:
+  - icon.png
 ---
 
 Our rETH vault both monitors for the latest opportunities, monitors funding rates to ensure optimal allocations and negotiates with DeFi protocols for preferred terms for vault depositors.

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c7aa6e"
+icons:
+  - icon.png
 ---
 
 Constitution DAO was an experiment that has now been dissolved. In November 2021, a group web3-enthusiasts gathered as a decentralized autonomous organization with the shared objective of buying a copy of the U.S.

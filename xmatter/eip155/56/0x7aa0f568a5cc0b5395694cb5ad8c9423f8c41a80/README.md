@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#047dfc"
+icons:
+  - icon.png
 ---
 
 SafeMusk autonomous yield and liquidity generation protocol on BSC

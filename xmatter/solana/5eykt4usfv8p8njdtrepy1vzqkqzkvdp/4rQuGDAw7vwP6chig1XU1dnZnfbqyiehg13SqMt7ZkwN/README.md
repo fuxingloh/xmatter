@@ -8,6 +8,7 @@ links:
     url: "https://app.bleufi.com/"
 symbol: FAKE USDT
 decimals: 6
+icons: []
 ---
 
 FAKE USDT

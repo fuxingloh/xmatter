@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3920b4"
+icons:
+  - icon.png
 ---
 
 The Force Token (FOR) is a utility token, it is the governance token of ForTube system.

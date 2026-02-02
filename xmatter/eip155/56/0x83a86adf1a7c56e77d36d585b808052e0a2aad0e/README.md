@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fca3a0"
+icons:
+  - icon.png
 ---
 
 The $SYA DeFi experiment is a new type of deflationary currency applying autonomous yield and liquidity generation.

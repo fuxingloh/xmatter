@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6775bf"
+icons:
+  - icon.png
 ---
 
 CyBloc Battery Token is CyBall's primary Play-to-Earn reward and utility token with no fixed supply.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c5b351"
+icons:
+  - icon.png
 ---
 
 MOONBEE.FINANCE Protocol is a community driven, fair launched DeFi Token. Four simple functions occur during each trade: Reflection, LP Acquisition, Food Charity and Burn.

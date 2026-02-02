@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04bce9"
+icons:
+  - icon.png
 ---
 
 $Fairlife is a Binance Smartchain (BSC) token that will use its transaction fees to donate to people in need.

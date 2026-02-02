@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#e66a51"
+icons:
+  - icon.png
 ---
 
 'Woke culture' exposes deep societal divisions, intensifying debates on identity politics and social justice.

@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8dd7eb"
+icons:
+  - icon.png
 ---
 
 This is not your regular Binance Smart Chain Token. Here we build for the longterm and always based on utility development. GHC is your gateway to a decentralized galaxy where holders can take leadership of their finances and earn sparkly rewards.

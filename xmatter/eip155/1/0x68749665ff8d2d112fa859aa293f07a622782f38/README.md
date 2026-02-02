@@ -14,6 +14,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#e5ca89"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Each XAU₮ token represents ownership of one troy fine ounce of physical gold on a specific gold bar. Furthermore, Tether Gold (XAU₮) is the only product among the competition that offers zero custody fees and has direct control over the physical gold storage.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#89bbd2"
+icons:
+  - icon.png
 ---
 
 Buy has a perfect ecological Buy mechanism such as large-scale sniper robot +Swap+ chain tour.

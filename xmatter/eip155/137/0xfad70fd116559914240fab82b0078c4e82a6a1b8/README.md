@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8cdbc3"
+icons:
+  - icon.png
 ---
 
 Lead chain adoption by creating the lowest fee, highest rewarding AMM on the Polygon (MATIC) network.

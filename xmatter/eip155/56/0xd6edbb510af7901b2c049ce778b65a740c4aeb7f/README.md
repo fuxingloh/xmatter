@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3b85c"
+icons:
+  - icon.png
 ---
 
 The "Hollywood 3.0 Warrior Warrant" issued by Hollywood Capital Group, abbreviated as WOR. Number of token holders: 89,816

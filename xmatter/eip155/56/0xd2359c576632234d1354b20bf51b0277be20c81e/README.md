@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#145be4"
+icons:
+  - icon.png
 ---
 
 GameGuru aims to be the first crypto marketplace for eGift cards and digital gaming products.

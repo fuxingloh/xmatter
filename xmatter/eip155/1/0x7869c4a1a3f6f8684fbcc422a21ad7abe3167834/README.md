@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#056cfc"
+icons:
+  - icon.png
 ---
 
 Pivot is the world's largest investment and communication platform for blockchains, dedicated to providing users with real-time comprehensive cryptocurrency market, information, trading one-stop service.

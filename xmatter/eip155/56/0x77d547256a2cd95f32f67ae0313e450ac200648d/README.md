@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bfd1d4"
+icons:
+  - icon.png
 ---
 
 BEP-20 utility token for S.S. Lazio

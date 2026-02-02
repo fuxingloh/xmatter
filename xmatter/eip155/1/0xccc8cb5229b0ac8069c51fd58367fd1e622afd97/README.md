@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#484f65"
+icons:
+  - icon.png
 ---
 
 THE TRADING CARD GAME THAT PAYS TO PLAY

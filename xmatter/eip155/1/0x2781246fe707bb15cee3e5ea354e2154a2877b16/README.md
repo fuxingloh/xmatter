@@ -10,6 +10,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#347cb4"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Elysia connects real estate buyers and sellers around the world. At Elysia, anyone can buy and sell fractions of real estate properties and receive equal ownership interest. $EL is used for various transactions inside the platform and EL is used to pay fees will be burned on a quarterly basis.

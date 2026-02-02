@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#042c64"
+icons:
+  - icon.png
 ---
 
 Ondo US Dollar Yield (USDY) is a decentralized lending protocol designed to honor transfer restrictions from permissioned tokens, thereby expanding the universe of assets it can support. This unique approach allows it to cater to a broader range of financial instruments, making it a versatile player in the blockchain ecosystem.

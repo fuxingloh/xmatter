@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eeb733"
+icons:
+  - icon.png
 ---
 
 PMGT allows blockchain users to conveniently trade and hold gold stored at The Perth Mint.

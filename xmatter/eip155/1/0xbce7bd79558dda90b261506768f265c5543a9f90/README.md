@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f5f4f7"
+icons:
+  - icon.png
 ---
 
 TKN Betting Platform

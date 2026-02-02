@@ -32,6 +32,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#099b99"
+icons:
+  - icon.png
 ---
 
 SAFUYIELD is the native ecosystem token of the www.SAFU.net platform and utility for all its projects.

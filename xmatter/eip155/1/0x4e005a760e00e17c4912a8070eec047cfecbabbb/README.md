@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2d363b"
+icons:
+  - icon.png
 ---
 
 A hybrid exchange registered as an N. V. (Public company) in the Netherlands and provides fiat pairs to all altcoins on its platform.

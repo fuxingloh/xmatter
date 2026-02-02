@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#198b73"
+icons:
+  - icon.png
 ---
 
 SHOPX is an NFT-as-a-Service (NaaS) that allows businesses to create branded e-commerce NFTs, driving sales and customer engagement in Web3.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e6ae32"
+icons:
+  - icon.png
 ---
 
 LOM is a collaborative and decentralised solution for the globalsourcing and problems.I

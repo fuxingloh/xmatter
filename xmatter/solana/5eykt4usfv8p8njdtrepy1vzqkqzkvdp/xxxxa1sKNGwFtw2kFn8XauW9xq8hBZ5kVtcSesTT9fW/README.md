@@ -10,6 +10,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f7f7f7"
+icons:
+  - icon.png
 ---
 
 Decentralized fundraising and trading platform on the Solana blockchain.

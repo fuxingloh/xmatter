@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2ca4dc"
+icons:
+  - icon.png
 ---
 
 Xion Global provides a global decentralized ecommerce platform, combining the world of blockchain, the power of DeFi and the ease and UX of ecommerce.

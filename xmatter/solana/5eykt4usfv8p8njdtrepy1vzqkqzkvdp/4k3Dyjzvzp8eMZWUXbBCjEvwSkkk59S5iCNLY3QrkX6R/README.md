@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#0b1434"
+icons:
+  - icon.png
 ---
 
 Raydium is an on-chain order book automated market maker (AMM) that enables lightning-fast trades, shared liquidity and new features for earning yield.

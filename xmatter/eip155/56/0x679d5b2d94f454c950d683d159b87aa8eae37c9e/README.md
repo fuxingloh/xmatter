@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#de9630"
+icons:
+  - icon.png
 ---
 
 Hamster is MemeToken

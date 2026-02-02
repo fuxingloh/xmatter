@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dfc869"
+icons:
+  - icon.png
 ---
 
 LFD is a community experiment conducted by a charity organization.

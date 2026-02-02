@@ -12,6 +12,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#574b45"
+icons:
+  - icon.png
 ---
 
 PUSS

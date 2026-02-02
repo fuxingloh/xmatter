@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 CEZO is a decentralized OS infrastructure to enable full ecosystem required by complex computations of DApps.

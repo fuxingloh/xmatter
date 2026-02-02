@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Store, manage, and protect your data with military-grade encryption and decentralized infrastructure.

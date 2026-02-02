@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9ea88c"
+icons:
+  - icon.png
 ---
 
 Charity DeFi NFT token

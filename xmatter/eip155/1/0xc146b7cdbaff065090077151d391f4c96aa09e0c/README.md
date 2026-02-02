@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#131a1b"
+icons:
+  - icon.png
 ---
 
 You buy $MCC on Ethereum and Binance Smart Chain, we farm on multiple chains and return the profits to holders.

@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e6d096"
+icons:
+  - icon.png
 ---
 
 Burnace is the World's Highest Hyper deflationary Token created to evolve with burn methods.

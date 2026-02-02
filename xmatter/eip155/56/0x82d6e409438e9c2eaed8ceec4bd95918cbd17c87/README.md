@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#184643"
+icons:
+  - icon.png
 ---
 
 Fomo Baby is a deflationary rebasing token on BSC with an automated liquidity feature, Staking options, NFT’s & Lottery Draws.

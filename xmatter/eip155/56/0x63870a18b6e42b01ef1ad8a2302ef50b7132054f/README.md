@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c1c34"
+icons:
+  - icon.png
 ---
 
 BLink is a partnership between WINk and Binance community.

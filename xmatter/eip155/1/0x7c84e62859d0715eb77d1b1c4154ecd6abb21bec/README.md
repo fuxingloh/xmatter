@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e62a51"
+icons:
+  - icon.png
 ---
 
 Shping is the ultimate shopping companion, allowing you to compare pricing on products with a simple barcode scan of a product and earn money for interacting with the products you love.

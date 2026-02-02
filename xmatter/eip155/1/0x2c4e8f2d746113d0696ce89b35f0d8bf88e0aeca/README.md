@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#abe4d3"
+icons:
+  - icon.png
 ---
 
 OST KIT gives you all the tools you need to run your blockchain-powered economy on open scalable sidechains.

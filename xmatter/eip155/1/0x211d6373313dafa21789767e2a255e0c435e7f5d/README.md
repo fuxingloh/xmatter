@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f1c855"
+icons:
+  - icon.png
 ---
 
 USDI payment gateway.

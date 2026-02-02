@@ -36,6 +36,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c1c3c"
+icons:
+  - icon.png
 ---
 
 Pixl Coin fuses the world of advertising with the metaverse. Today, the crypto space is manipulated and flooded with a vast variety of different projects of which a large number are dishonest. Through Pixl's community and dedication to the values of transparency, honesty and integrity, this is a space for investors to interact with vetted and trusted projects, and for those projects to demonstrate and advertise their true value.

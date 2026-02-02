@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fb9e42"
+icons:
+  - icon.png
 ---
 
 VerbAI: Redefining communication, one verb at a time.

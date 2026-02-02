@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#231240"
+icons:
+  - icon.png
 ---
 
 $MERL is a deflationary coin by Merlin Lab used for its DeFi Ecosystem.

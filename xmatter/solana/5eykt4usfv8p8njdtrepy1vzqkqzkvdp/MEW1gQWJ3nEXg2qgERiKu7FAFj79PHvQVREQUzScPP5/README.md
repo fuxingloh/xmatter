@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#eadae7"
+icons:
+  - icon.png
 ---
 
 Mew is a cat in a dogs world out to save the world from other dog coins.

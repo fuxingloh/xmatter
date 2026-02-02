@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0a0705"
+icons:
+  - icon.png
 ---
 
 FEG Wrapped USDT

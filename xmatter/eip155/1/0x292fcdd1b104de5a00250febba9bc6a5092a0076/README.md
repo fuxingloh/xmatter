@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b969f4"
+icons:
+  - icon.png
 ---
 
 Where Artificial Intelligence Meets Mining Excellence With vast Crypto and Web3 experience, the Hash AI team has established the infrastructure, partnerships, and distribution network for a successful Crypto mining company. This involves mining rig supplies, rig hosting and GPU sales, and a mining facility with over 500 top GPUs.

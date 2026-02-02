@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#191c1d"
+icons:
+  - icon.png
 ---
 
 BitMart is a globally integrated trading platform founded by a group of cryptocurrency enthusiasts. BMX is an ERC20 based token issued by BitMart Exchange.

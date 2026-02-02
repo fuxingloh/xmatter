@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#041cd4"
+icons:
+  - icon.png
 ---
 
 BNB pegged ThunderCore on BNB Chain. The ThunderCore Bridge allows users to transfer assets between BNB Chain and ThunderCore Blockchain. This is a customized version of POA network Bridge

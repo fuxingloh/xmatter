@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#0e1324"
+icons:
+  - icon.png
 ---
 
 The Rift Platform is the “Shopify App Store for AI Agents” - developers can create and sell AI modules that can be assigned to an agent to give that agent new functionality in a few clicks.

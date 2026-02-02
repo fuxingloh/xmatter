@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f1f1f1"
+icons:
+  - icon.png
 ---
 
 Project Plutus is invite only

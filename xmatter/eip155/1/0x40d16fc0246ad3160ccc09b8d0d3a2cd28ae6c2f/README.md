@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c9b3f7"
+icons:
+  - icon.png
 ---
 
 GHO is a native decentralized, overcollateralized digital asset pegged to USD.

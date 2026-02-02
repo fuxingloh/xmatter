@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5767ad"
+icons:
+  - icon.png
 ---
 
 Groyper is a toad who is friend with Pepe, he originated on 4chans/r9k/board. Generally depicted as smug, more so than Pepe. $GROYPER

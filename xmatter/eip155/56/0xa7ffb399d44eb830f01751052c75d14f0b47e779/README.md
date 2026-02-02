@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#27292d"
+icons:
+  - icon.png
 ---
 
 Grok x is not just a meme coin; it's a playful revolution in the cryptocurrency world. Grok X brings joy and positivity to the blockchain.

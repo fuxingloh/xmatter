@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040505"
+icons:
+  - icon.png
 ---
 
 DEEPMAZE is a crowding pool backed auto liquidity Defi token built on Binance Smart Chain. It solves the liquidity, value, and discretion trilemma that is a problem in the current ecosystem.

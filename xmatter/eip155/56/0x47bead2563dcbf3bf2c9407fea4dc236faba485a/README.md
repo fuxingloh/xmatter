@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc6431"
+icons:
+  - icon.png
 ---
 
 Swipe Token is a utility token designed to be the gas and fuel of the Swipe Wallet and Swipe Card.

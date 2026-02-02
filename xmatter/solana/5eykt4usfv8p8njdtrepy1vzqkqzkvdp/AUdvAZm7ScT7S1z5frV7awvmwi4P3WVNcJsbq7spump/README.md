@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#6edfef"
+icons:
+  - icon.png
 ---
 
 Meet the new memecoin on Solana with our charming mascot, brought to life by the talented Matt Furie, like $PEPE, $BRETT and $ANDY.

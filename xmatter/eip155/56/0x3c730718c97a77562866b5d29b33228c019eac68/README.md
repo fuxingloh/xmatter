@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bdbdc2"
+icons:
+  - icon.png
 ---
 
 Built for the community. Simply hold BNBD to join the journey and experience all of the benefit from BNB Diamond.

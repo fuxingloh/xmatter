@@ -24,6 +24,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#dddddd"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 FORTH is the governance token for the Ampleforth protocol. AMPL is the first rebasing currency and a key DeFi building block for denominating stable contracts. The AMPL protocol adjusts total supply daily based on market conditions, transferring volatility from price to supply. Unlike stablecoin models, AMPL does not rely on traditional banks or lenders of last resort.

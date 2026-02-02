@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f4141c"
+icons:
+  - icon.png
 ---
 
 First generation deflationary auto-yield token with evolutive fee, making it more rewarding as time passes

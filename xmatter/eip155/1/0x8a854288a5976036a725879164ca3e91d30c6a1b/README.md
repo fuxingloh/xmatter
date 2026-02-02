@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04c494"
+icons:
+  - icon.png
 ---
 
 The GET Protocol offers a blockchain-based smart ticketing solution that can be used by everybody who needs to issue tickets(NFTs) in an honest and transparent way.

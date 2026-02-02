@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#deac4f"
+icons:
+  - icon.png
 ---
 
 The ISIKC blockchain-based loyalty platform is reportedly built by a team that understands technology and the construction materials market.

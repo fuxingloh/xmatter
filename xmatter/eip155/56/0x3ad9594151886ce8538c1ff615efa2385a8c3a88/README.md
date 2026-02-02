@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e76a6a"
+icons:
+  - icon.png
 ---
 
 Autonomous yield and liquidity generation protocol on BSC

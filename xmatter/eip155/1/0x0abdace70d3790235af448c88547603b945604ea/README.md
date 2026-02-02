@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c3c8b"
+icons:
+  - icon.png
 ---
 
 Billed as a network of decentralized markets and communities

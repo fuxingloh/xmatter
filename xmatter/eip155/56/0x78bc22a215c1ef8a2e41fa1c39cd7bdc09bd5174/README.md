@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2b57ba"
+icons:
+  - icon.png
 ---
 
 An Autonomous Yield and deflationary token.

@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#000000"
+icons:
+  - icon.png
 ---
 
 GEMG is a GemGuardian NFT Game Token

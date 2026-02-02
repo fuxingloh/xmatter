@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#148cda"
+icons:
+  - icon.png
 ---
 
 Token Real Estate Asset Ledger.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#39a956"
+icons:
+  - icon.png
 ---
 
 $PALM is a multi-platform PaLM AI chatbot with Google AI tech for conversation, coding, image gen; focuses on accessible AI and revenue sharing.

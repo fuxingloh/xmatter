@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#1c1c3c"
+icons:
+  - icon.png
 ---
 
 Octo Gaming is a community-driven hub of casual Play & Earn games, gathered on the Octo app, available on IOS and Android.

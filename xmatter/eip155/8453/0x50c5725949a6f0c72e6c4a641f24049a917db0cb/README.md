@@ -25,6 +25,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#f4ac34"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Dai is a stable cryptocurrency supported by Maker (MKR). To ensure price stability, Dai minimizes the price volatility against the US dollar, through an incentive structure for its participants.

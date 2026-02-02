@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#efe1d3"
+icons:
+  - icon.png
 ---
 
 HACHI (Hachiko) is without a doubt the most famous dog of the Akita Inu breed. Loyalty Above All.

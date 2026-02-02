@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fcbc08"
+icons:
+  - icon.png
 ---
 
 Launched in June 2021, Binstarter is a trailblazer in decentralized finance, renowned as the first multi-chain IDO platform with an Extended Insurance Protocol (EIP). Our platform is committed to transparency, fairness, and innovation, offering secure and efficient fundraising solutions for startups. At Binstarter, we aim to revolutionize the DeFi landscape by reducing risks, enhancing user experiences, and empowering startups for successful launches.

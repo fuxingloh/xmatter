@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b5bfc"
+icons:
+  - icon.png
 ---
 
 A regulated, exchange-independent stablecoin backed 1-for-1 with US Dollars.

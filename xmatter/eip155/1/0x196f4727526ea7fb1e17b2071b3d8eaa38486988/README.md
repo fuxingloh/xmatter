@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e0e0e1"
+icons:
+  - icon.png
 ---
 
 The stable cryptocurrency that is economically and legally robust at any scale.

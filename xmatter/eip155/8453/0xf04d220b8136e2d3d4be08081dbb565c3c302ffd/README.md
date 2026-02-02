@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c4bfb9"
+icons:
+  - icon.png
 ---
 
 Virtuals Protocol is building the co-ownership layer for AI agents in gaming and entertainment.

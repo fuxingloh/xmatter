@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#232424"
+icons:
+  - icon.png
 ---
 
 A fork that's 100% community owned and governed.

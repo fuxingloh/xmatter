@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f78309"
+icons:
+  - icon.png
 ---
 
 Mento Colombian Peso (COPm) is a decentralized stablecoin pegged to the Colombian Peso on the Celo blockchain.

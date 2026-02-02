@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3f2c17"
+icons:
+  - icon.png
 ---
 
 NEWINU - The Dog Singer. NEWINU is a deflationary token that allows for passive income generation for investors

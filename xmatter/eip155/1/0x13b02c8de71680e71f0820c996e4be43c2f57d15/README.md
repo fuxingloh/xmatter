@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#041c7c"
+icons:
+  - icon.png
 ---
 
 Wrapped Mirror QQQ Token.

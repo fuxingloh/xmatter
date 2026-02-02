@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#06060b"
+icons:
+  - icon.png
 ---
 
 Media Network is a privacy-first and community-governed CDN.

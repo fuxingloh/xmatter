@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#120e0b"
+icons:
+  - icon.png
 ---
 
 Personalized AI crypto companion.

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e6e6e6"
+icons:
+  - icon.png
 ---
 
 Wiki Cat is a tutorial token with unique deflationary mechanism created by Sir Mapy for SMC DAO.

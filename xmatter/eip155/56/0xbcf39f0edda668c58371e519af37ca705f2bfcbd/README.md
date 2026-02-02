@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d9b370"
+icons:
+  - icon.png
 ---
 
 PolyCrowns are the official token of the Seascape Network on Binance Smart Chain. They are designed to reward all key stakeholders within the network. The Seascape Network is an incentivized ecosystem consisting of gamers, developers, and influencers with the purpose of bringing DeFi gaming to a broader userbase.

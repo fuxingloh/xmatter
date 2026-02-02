@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9363cb"
+icons:
+  - icon.png
 ---
 
 Grap is a fork of the YAM project. But it came with correct 'rebase' and it fixed some obvious bugs. So it will be less trouble and more fun.

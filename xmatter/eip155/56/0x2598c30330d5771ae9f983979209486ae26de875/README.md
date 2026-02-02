@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#423992"
+icons:
+  - icon.png
 ---
 
 $AI is a omnichain dog coin powered by Axelar's Interchain Token Service.

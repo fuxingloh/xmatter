@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#50a04f"
+icons:
+  - icon.png
 ---
 
 In the ashes a community emerged, a new flog, a more based flog, a FWOG. FWOG has no dev. It is the community

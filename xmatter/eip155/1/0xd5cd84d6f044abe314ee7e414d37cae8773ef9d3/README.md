@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#36d6d3"
+icons:
+  - icon.png
 ---
 
 Harmony Bridged Token on Ethereum

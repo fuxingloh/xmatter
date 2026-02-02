@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Rotharium Platform will connect Blockchain with stadard database solutions (Cloud and On-Premise) with B2C Apps.

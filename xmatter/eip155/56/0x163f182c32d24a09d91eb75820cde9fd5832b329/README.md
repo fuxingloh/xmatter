@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#111c1c"
+icons:
+  - icon.png
 ---
 
 ElonDoge is a project that takes the mission to prepare society for the Mars colony seriously.

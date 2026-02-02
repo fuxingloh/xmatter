@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6d2397"
+icons:
+  - icon.png
 ---
 
 Crafting Solutions for Your Blockchain Needs

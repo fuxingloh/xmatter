@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#3e3850"
+icons:
+  - icon.png
 ---
 
 $RODAI is the AI memetility token of the Aerosol platform

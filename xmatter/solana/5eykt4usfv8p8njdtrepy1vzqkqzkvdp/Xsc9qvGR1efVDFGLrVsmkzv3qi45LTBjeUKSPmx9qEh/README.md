@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#4ccc44"
+icons:
+  - icon.png
 ---
 
 NVIDIA tokenized stock (xStock) (NVDAX) is a cryptocurrency and operates on the Solana platform. NVIDIA tokenized stock (xStock) has a current supply of 48,653.72471846 with 7,655.63423039 in circulation. The last known price of NVIDIA tokenized stock (xStock) is 177.44432253 USD and is up 1.21 over the last 24 hours. It is currently trading on 44 active market(s) with $7,676,418.12 traded over the last 24 hours. More information can be found at https://assets.backed.fi/products/nvidia-xstock.

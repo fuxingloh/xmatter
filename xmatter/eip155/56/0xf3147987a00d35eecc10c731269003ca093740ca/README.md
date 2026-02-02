@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f8e564"
+icons:
+  - icon.png
 ---
 
 The token for MyMasterWar, the NFT game with free play to earn model

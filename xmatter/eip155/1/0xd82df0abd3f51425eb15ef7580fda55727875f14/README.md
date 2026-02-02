@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ff6a42"
+icons:
+  - icon.png
 ---
 
 Enabling a Decentralized, Peer-to-Peer, Global Transportation Network

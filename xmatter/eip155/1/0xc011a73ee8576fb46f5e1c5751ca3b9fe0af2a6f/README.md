@@ -24,6 +24,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#130458"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Synthetix is a derivatives liquidity protocol on Ethereum that enables the issuance and trading of synthetic assets.

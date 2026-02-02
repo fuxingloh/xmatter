@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#cdc6b8"
+icons:
+  - icon.png
 ---
 
 Wherever you may be, I am the lord of the jizz; join me. The memecoin splashing out across your screen!

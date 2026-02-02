@@ -44,6 +44,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0a3411"
+icons:
+  - icon.png
 ---
 
 ZionTopia will act as a tokenized decentralised VR Crypto Underground world. The ZionTopia Metaverse will work as a real estate and present shops that can be purchased, sold or governed by the ZION token holders.

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f76009"
+icons:
+  - icon.png
 ---
 
 The Bonk Dog

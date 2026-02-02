@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#7e786a"
+icons:
+  - icon.png
 ---
 
 Walter (WALTER) is a community-driven memecoin that emphasizes decentralization and collective governance.

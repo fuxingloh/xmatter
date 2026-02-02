@@ -19,6 +19,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0735a0"
+icons:
+  - icon.png
 ---
 
 TIME is a token that can be earned or used in a developed game for entertainment.

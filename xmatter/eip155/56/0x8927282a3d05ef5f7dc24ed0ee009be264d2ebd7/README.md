@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#113b72"
+icons:
+  - icon.png
 ---
 
 As the little brother of $FLOKI, Baby Floki Up is here to bring the cutest most inspiring coin of the whole Doge family thanks to the #DogeFather Elon Musk

@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#04abdb"
+icons:
+  - icon.png
 ---
 
 Novo Nordisk xStock (NVOx) is a tracker certificate issued as Solana SPL and ERC-20 tokens. NVOx tracks the price of Novo Nordisk A/S, (the underlying). NVOx is designed to give eligible cryptocurrency market participants regulatory-compliant access to the stock price of Novo Nordisk A/S, whilst maintaining the benefits of blockchain technology. Novo Nordisk is a leading global healthcare company, founded in 1923 and headquartered in Denmark.

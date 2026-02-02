@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bfc4c1"
+icons:
+  - icon.png
 ---
 
 A bankrupt crypto guy working part-time as a food delivery rider, here with a real-name livestream to launch the PoB.

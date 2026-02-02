@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7ab51b"
+icons:
+  - icon.png
 ---
 
 Berry Data is a transparent community-veriﬁed price oracle on BSC(Binance Smart Chain).

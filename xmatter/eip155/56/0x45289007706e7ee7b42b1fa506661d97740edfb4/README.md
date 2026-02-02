@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2d95d3"
+icons:
+  - icon.png
 ---
 
 FLOKICEO a Meme token in the BSC ecosystem, $FlokiCeo is comunity-driven cannot control by anyone. Instant Usage Rewards for every active user transaction a 7% $FLOKICEO reward is granted to holders (decentralized wallets only)

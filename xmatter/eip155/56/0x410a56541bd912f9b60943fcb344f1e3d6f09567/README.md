@@ -29,6 +29,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#68d8c0"
+icons:
+  - icon.png
 ---
 
 BTCMT tokens are backed by a real mining equipment hashrate in a 100 BTCMT = 1 TH/s ratio. Minto allows users to get daily Bitcoin income by staking BTCMT tokens.

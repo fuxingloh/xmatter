@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#130c24"
+icons:
+  - icon.png
 ---
 
 The Pyth Network is the largest and fastest-growing first-party oracle network. Pyth delivers real-time market data to financial dApps across 40+ blockchains and provides 380+ low-latency price feeds across cryptocurrencies, equities, ETFs, FX pairs, and commodities.

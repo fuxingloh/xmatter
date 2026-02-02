@@ -14,6 +14,8 @@ standards:
   - trc10
 icon: icon.png
 color: "#986b07"
+icons:
+  - icon.png
 ---
 
 Simple buying and selling of goods online.

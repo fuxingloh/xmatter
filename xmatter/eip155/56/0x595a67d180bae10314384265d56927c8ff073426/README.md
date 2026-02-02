@@ -23,6 +23,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e8c152"
+icons:
+  - icon.png
 ---
 
 DARIK token, which is designed based on BEP20 and has strong support, is active in commercial sectors, and with this token, users can perform all kinds of transactions in a secure platform

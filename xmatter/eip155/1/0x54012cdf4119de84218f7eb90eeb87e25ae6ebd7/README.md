@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c5882b"
+icons:
+  - icon.png
 ---
 
 Luffy is a versatile altcoin featuring a layer-2 blockchain for fast and cheap transactions.

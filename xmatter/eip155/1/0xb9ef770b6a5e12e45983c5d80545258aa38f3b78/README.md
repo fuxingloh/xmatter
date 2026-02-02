@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e0e0e0"
+icons:
+  - icon.png
 ---
 
 0Chain is pronounced as zero chain, and it is a decentralized storage platform that aims to makes data breaches impossible and as such can reduce legal discovery and compliance costs.

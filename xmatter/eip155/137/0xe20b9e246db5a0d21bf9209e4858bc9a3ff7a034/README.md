@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#323235"
+icons:
+  - icon.png
 ---
 
 Wrapped Banano is a token pegged to Banano, enabling to wrap/unwrap your Banano on the Polygon network.

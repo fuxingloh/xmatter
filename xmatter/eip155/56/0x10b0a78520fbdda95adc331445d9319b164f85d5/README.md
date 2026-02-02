@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a1ccf7"
+icons:
+  - icon.png
 ---
 
 AnpanSwap is a DeFi protocol, with AMM & Yield Farm, launched products: Swap, Liquidity, Analytics, Farms, & Stake. Prediction in Nov, Lottery in Dec, NFT in Jan, & Vote in Feb, and Derivative in Mar 2022.

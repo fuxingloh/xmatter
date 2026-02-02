@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f7b89c"
+icons:
+  - icon.png
 ---
 
 It emerged on the market to become the biggest Memecoin than other dogs. Everyone else will lick their own asses with jealousy.

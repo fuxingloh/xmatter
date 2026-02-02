@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Infinity Ground is the leading Blockchain Infrastructure for Vibe Coders, creating an agent-driven development environment free from centralized limitations.

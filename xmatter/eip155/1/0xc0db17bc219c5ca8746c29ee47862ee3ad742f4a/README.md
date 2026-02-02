@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3c71a"
+icons:
+  - icon.png
 ---
 
 Scotty AI is an innovative crypto project centered around AI. It combines advanced artificial intelligence with a deep understanding of blockchain technology to serve as a guardian and protector of the secrets within the crypto universe.

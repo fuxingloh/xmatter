@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#131313"
+icons:
+  - icon.png
 ---
 
 Panda Chain Finance smart contract generates of the stake amount daily and guarantees a final profit.

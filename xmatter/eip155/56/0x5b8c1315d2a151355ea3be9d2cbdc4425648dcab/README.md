@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0456fc"
+icons:
+  - icon.png
 ---
 
 Yield farm SWW on Binance Smart Chain.

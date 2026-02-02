@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04d3f9"
+icons:
+  - icon.png
 ---
 
 Aragon (ANT) is a decentralized platform built on the Ethereum network that offers a modularized way to create and manage dApps, cryptoprotocols, and decentralized autonomous organizations (DAO).

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c74ac"
+icons:
+  - icon.png
 ---
 
 PNIX token is a next-generation reflective deflationary protocol built on Binance Smart Chain.

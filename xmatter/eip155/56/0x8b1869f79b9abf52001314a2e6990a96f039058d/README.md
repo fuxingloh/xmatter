@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f7bd14"
+icons:
+  - icon.png
 ---
 
 Hi, I'm Andy, a cute yellow dog and arguably the most important character from Matt Furie's 'Boy's Club' comics.

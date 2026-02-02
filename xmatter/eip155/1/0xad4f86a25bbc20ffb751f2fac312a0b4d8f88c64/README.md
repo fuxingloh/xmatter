@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#052fcc"
+icons:
+  - icon.png
 ---
 
 OptionRoom is a user governed oracle and forecast protocol built on Polkadot

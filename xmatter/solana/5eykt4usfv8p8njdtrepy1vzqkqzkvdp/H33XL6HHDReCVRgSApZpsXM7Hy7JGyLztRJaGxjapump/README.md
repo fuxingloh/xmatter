@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#985c5c"
+icons:
+  - icon.png
 ---
 
 Apple Dog, the lovable and cheerful pup inspired by the viral TikTok meme, is here to spread smiles across the blockchain!

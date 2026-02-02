@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc4c4c"
+icons:
+  - icon.png
 ---
 
 UMA is a decentralized financial contracts platform built to enable Universal Market Access.

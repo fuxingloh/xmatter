@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#46301b"
+icons:
+  - icon.png
 ---
 
 In the symphony of collective thought, the mantra echoes: 'Repeg' Through the harmonious chorus of our shared vision, we sculpt the future.

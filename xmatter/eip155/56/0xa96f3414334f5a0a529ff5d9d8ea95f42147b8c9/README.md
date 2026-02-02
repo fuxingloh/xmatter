@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#731f28"
+icons:
+  - icon.png
 ---
 
 RiskMoon is an evolving platform to leverage risk with dynamic yield generating strategies from NFTs. NFT staking, marketplace, and DEEPSPACE game in progress.

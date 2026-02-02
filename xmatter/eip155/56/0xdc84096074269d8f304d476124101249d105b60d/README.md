@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#050a09"
+icons:
+  - icon.png
 ---
 
 FSP

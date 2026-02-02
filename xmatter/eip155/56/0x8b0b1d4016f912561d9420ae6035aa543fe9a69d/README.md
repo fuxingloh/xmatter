@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#09090d"
+icons:
+  - icon.png
 ---
 
 Mayelon

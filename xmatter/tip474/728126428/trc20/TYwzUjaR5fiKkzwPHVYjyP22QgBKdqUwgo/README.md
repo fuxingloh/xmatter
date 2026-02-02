@@ -12,6 +12,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#fae3db"
+icons:
+  - icon.png
 ---
 
 Meow Meow Coin is the first original cat on Tron network born from a Justin Sun tweet that said "Whoever issues Meow Meow Coin will immediately get it listed on Poloniex."

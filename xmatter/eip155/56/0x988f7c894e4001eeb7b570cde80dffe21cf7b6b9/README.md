@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#426da7"
+icons:
+  - icon.png
 ---
 
 Lucro is an ecosystem token that powers a suite of leading utilities, including LunaSky - an NFT Marketplace, The Abstract - a 3d gaming/Metaverse platform and other utilities/partnerships under development.

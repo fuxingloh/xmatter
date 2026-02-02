@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbdb0d"
+icons:
+  - icon.png
 ---
 
 SafeSun is a cryptocurrency based on open-source BEP-20 interface, which aims to provide incentives and benefits to its holders.

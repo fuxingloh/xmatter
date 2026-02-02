@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1a9074"
+icons:
+  - icon.png
 ---
 
 YOSHI is an experiment in decentralized spontaneous community building.

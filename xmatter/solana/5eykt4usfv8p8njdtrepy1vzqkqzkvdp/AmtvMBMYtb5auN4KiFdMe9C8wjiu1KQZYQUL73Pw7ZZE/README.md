@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#182713"
+icons:
+  - icon.png
 ---
 
 Introducing $bioDAOs, a meme coin that embodies the spirit of change and digital innovation, inspired by the potential shift in the SEC leadership with Paul Atkins, a pro-crypto advocate, at the helm

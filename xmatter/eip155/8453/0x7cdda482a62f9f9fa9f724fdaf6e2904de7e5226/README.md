@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#caad96"
+icons:
+  - icon.png
 ---
 
 ai16z is the first AI VC fund, fully managed by Marc AIndreessen with recommendations from members of the DAO.

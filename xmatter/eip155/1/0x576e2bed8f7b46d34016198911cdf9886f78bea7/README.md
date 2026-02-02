@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e7bbb0"
+icons:
+  - icon.png
 ---
 
 Maga is a deflationary meme coin launched on Ethereum. Cryptocurrency was created as a tribute to the trump the Maga.

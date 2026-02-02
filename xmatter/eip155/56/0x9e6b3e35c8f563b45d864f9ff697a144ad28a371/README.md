@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ec5725"
+icons:
+  - icon.png
 ---
 
 Combine the Playing Experience with your Favourite Dogemons!Start catching Dogemons today & If you’re a great trainer, you can find Crypto Currency as prey among other Dogemons.

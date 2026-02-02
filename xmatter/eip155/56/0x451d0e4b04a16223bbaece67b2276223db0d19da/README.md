@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e59b4d"
+icons:
+  - icon.png
 ---
 
 GCR is a stable digital asset, that is both backed by and tethered to the price of gold

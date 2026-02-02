@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d9161c"
+icons:
+  - icon.png
 ---
 
 REDFOXLABS is a tech-forward digital venture builder delivering companies & platforms that are secure, scalable, and innovative, bringing the world into a new era of technology and prosperity.

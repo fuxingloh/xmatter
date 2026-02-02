@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a4b4f4"
+icons:
+  - icon.png
 ---
 
 ETHPad is a launchpad token

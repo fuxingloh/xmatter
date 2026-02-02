@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cf72fb"
+icons:
+  - icon.png
 ---
 
 The Crowdfunding Platform for up and coming Defi tokens

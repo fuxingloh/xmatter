@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f97406"
+icons:
+  - icon.png
 ---
 
 MONKI is a brand new Meme token,The only currency of coming up cyberpunk era.

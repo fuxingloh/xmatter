@@ -16,6 +16,7 @@ name: Moonshot
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 Moonshot is a deflationary, frictionless yield and liquidity generation protocol.

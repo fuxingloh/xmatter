@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f4abc3"
+icons:
+  - icon.png
 ---
 
 BabyBitcoin aims to provide continuous benefits for all project investors and token holders.

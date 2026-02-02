@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c30f0f"
+icons:
+  - icon.png
 ---
 
 Distributed GPU rendering on the blockchain.

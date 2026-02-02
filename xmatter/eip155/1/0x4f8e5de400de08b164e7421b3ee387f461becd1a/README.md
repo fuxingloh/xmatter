@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#246c5c"
+icons:
+  - icon.png
 ---
 
 Decentralized USD (USDD) is a fully decentralized stablecoin pegged to the US dollar through crypto reserves.

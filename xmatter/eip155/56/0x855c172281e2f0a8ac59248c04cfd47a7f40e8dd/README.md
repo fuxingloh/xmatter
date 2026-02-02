@@ -17,6 +17,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b2c94"
+icons:
+  - icon.png
 ---
 
 SakaVault - decentralized perpetual exchange produced through the collaboration of three leading companies from the United Kingdom, Singapore, and India.

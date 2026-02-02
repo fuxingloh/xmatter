@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6d29f6"
+icons:
+  - icon.png
 ---
 
 Have FUN playing Mafagafo, COLLECT Genesis NFTs and PROFIT from MafaCoins.

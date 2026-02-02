@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d2863f"
+icons:
+  - icon.png
 ---
 
 BakerySwap, an AMM Dex on Binance Smart Chain.

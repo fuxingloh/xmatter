@@ -10,6 +10,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#dedddc"
+icons:
+  - icon.png
 ---
 
 APENFT Fund was born with the mission to register world-class artworks as NFTs on-chain.

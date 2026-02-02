@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#05050c"
+icons:
+  - icon.png
 ---
 
 Numeraire: A Cryptographic Token for Coordinating Machine Intelligence and Preventing Overfitting.

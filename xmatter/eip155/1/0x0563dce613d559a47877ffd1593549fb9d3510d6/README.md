@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4d9acc"
+icons:
+  - icon.png
 ---
 
 SuperBid is an innovative social-auction app that connects influencers with their fans.

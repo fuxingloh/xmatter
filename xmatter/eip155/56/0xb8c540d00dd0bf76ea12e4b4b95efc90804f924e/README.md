@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04a1f8"
+icons:
+  - icon.png
 ---
 
 QUSD is the first kind of stablecoin of QIAN protocol. In the future, QIAN will launch QHKD, QEUR and other stable assets).

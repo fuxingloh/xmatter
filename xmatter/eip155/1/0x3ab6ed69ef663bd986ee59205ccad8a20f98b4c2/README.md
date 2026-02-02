@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8ea9c0"
+icons:
+  - icon.png
 ---
 
 DREP is committed to building connectors and toolboxes based on blockchain technology, and aims to provide solutions that combine ease of use, flexibility, and frictionless integration.

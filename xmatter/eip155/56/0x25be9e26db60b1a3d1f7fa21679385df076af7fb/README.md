@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#377b85"
+icons:
+  - icon.png
 ---
 
 GaiaDAO aims to develop an environmentally-friendly ecosystem of prominent DeFi products on the BSC

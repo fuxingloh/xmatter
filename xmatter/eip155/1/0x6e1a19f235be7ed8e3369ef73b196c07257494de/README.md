@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#048bfb"
+icons:
+  - icon.png
 ---
 
 Wrapped Filecoin is a 1:1 equivalent of Filecoin on the Ethereum network

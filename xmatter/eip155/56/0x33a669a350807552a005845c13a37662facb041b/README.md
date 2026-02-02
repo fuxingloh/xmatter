@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e1ac5a"
+icons:
+  - icon.png
 ---
 
 Experience the next generation of cryptocurrency token that automatically rewards you for holding.

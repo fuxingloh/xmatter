@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#147dee"
+icons:
+  - icon.png
 ---
 
 The First DEX on BSC network with a three-type referral system

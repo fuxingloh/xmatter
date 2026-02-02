@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a9a9a9"
+icons:
+  - icon.png
 ---
 
 The $BIGTIME Token is the main cryptocurrency that drives Big Time’s in-game economy. $BIGTIME randomly drops in-game by playing with at least one charged Hourglass equipped.

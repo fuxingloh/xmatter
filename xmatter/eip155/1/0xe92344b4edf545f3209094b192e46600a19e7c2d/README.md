@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#042b33"
+icons:
+  - icon.png
 ---
 
 ZKML offer zKOS operating systems and Mobile-zKOS for secure communication on mobile devices.

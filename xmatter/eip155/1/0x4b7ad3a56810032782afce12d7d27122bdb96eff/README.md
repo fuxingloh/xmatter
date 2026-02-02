@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#141c2c"
+icons:
+  - icon.png
 ---
 
 Sparkle is a time-based rewards system designed to allow equal participation amongst all users within Sparkle's ecosystem.

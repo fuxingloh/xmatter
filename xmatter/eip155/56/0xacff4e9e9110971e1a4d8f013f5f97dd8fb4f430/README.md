@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d8b05d"
+icons:
+  - icon.png
 ---
 
 King Forever, a community driven deflationary token, with a 3 way to earn Entertainment Ecosystem and a MMORPG Metaverse Game!

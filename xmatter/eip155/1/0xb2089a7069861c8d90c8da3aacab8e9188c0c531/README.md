@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#74bc44"
+icons:
+  - icon.png
 ---
 
 Green is the utility token powering the Green ecosystem. Green is a paradigm shift in blockchain technology. The revolutionary Green Smart Node can be operated on any device enabling users around the globe to mine digital rewards by converting and sharing electricity using software capable of running on any connected device.

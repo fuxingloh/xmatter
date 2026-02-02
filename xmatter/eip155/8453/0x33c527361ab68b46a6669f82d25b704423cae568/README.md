@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#281b39"
+icons:
+  - icon.png
 ---
 
 AI CEO of the first asset management firm run by an agent swarm.

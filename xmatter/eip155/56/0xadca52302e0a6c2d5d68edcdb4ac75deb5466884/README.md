@@ -26,6 +26,7 @@ name: GAMER
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 GMR: The decentralised gaming token and social GameFi platform. Create. Empower. Game.

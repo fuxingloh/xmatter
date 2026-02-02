@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d3aa69"
+icons:
+  - icon.png
 ---
 
 $WLV aims to protect wildlife through our signature token – with benefits to our investors such as minimum taxes, Reflections and consistent marketing to increase the value of $WLV.

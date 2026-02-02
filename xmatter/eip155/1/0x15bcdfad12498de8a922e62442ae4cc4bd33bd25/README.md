@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0463b3"
+icons:
+  - icon.png
 ---
 
 WALT is the utility token of walletreum platform that rewards it's users for using the platform.

@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#4d5248"
+icons:
+  - icon.png
 ---
 
 $1 is a wholly community-owned movement and meme coin. After the dev dumped the coin, the $1 community organized and took over control of the coin to realize the movement’s original purpose - to send $1 to $1 and beyond.

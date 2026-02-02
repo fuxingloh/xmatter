@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2b181e"
+icons:
+  - icon.png
 ---
 
 The happiest meme token inspired by shiba inu

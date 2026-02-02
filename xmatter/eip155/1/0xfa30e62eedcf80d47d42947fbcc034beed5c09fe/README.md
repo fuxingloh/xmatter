@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cbf39b"
+icons:
+  - icon.png
 ---
 
 LOVE EARTH Coin, is a charity token, aiming to build a new charity model in the age of Web 3.0

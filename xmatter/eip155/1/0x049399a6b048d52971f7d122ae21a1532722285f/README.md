@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#de914a"
+icons:
+  - icon.png
 ---
 
 Fire Lotto is a modern blockchain lottery as simple and understandable as traditional lotteries are.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#149c94"
+icons:
+  - icon.png
 ---
 
 A DeFi Investment platform which will combine the investment tools of crypto and traditional stocks. Zin will be a 100% deflationary token. Zin tokens will have a burn mechanism.

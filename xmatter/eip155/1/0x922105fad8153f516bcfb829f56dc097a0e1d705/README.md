@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc941c"
+icons:
+  - icon.png
 ---
 
 Next Generation Blockchain For a Trustful 5G World

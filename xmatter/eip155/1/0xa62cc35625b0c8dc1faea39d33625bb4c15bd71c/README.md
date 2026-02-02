@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc2c54"
+icons:
+  - icon.png
 ---
 
 Earn crypto when you shop online.

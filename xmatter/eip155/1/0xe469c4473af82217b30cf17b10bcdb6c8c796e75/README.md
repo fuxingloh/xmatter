@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e3e3e3"
+icons:
+  - icon.png
 ---
 
 Connecting the blockchains using crosschain gateway built with smart contracts.

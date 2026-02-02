@@ -17,6 +17,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3667a0"
+icons:
+  - icon.png
 ---
 
 Infiblue world is a GameFi, SocialFi DApp. It is a metaverse that offers players infinite way to make wealth and build social life.

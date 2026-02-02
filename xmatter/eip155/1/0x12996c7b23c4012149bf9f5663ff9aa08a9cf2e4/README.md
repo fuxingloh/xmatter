@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f5ecee"
+icons:
+  - icon.png
 ---
 
 White Yorkshire (WSH) is a meme-themed cryptocurrency project that aims to combine the charm of memes with the innovation of blockchain technology.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#19dbbc"
+icons:
+  - icon.png
 ---
 
 Recycle using Blockchain.

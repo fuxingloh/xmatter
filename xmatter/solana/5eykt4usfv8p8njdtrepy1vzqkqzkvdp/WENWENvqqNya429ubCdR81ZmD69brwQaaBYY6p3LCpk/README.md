@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#201f1f"
+icons:
+  - icon.png
 ---
 
 A community coin to give back and immortalize WEN culture.

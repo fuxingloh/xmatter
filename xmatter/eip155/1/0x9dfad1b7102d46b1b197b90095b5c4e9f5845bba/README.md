@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Botto is a decentralized autonomous artist that creates works of art based on collective feedback from the community. Our participation is what completes Botto as an artist.

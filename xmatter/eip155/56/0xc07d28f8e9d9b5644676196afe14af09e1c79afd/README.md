@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3bb0d"
+icons:
+  - icon.png
 ---
 
 The most valuable lesson CZ ever learned: 'HODL = Hold On 4 Dear Life.' Lately, the crypto space has been plagued by short-term thinking—jeets dumping for quick gains and news-driven hype cycles. The art of building a strong, unique, and faithful meme community is being replaced by constant chasing of new pnd tokens.

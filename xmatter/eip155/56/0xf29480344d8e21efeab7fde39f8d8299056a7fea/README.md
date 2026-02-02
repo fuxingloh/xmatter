@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#18a6e1"
+icons:
+  - icon.png
 ---
 
 TBCC token is a utility token that was issued by TBCC development team.

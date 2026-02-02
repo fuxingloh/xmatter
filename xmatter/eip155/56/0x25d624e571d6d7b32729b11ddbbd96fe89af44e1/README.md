@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#080b0a"
+icons:
+  - icon.png
 ---
 
 Wibegram offers advanced encryption to protect your conversations from unauthorized access. Our end-to-end encryption ensures that only you and the intended recipient can read your messages.

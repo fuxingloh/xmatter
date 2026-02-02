@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6b6662"
+icons:
+  - icon.png
 ---
 
 CZ the G.O.A.T is meme token in Honor of CZ. The next opportunity was yesterday, the next best one is today, keep building said by the goat.

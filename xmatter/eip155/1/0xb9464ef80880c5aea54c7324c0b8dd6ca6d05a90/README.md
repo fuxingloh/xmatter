@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#080605"
+icons:
+  - icon.png
 ---
 
 Sherlock is a decentralized security service offering dapp launchpad, liquidity and team token escrow, and dapp incubator.

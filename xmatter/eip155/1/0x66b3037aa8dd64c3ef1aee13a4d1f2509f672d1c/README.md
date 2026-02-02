@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9c92f"
+icons:
+  - icon.png
 ---
 
 NAP is the fuel token used for DeFI products governed by ZZZ.finance

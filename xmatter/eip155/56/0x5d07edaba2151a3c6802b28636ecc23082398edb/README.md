@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2b1c5a"
+icons:
+  - icon.png
 ---
 
 Zuna is a community driven DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition and Burning.

@@ -28,6 +28,7 @@ name: CRYPTO SNACK
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 Crypto Snack is the world’s fastest growing iGaming token

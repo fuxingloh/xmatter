@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#61adcd"
+icons:
+  - icon.png
 ---
 
 Join us for a safe way to the moon!

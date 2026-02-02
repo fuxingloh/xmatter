@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6ec4e6"
+icons:
+  - icon.png
 ---
 
 AI agent phase 1/4.

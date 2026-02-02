@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#550ec3"
+icons:
+  - icon.png
 ---
 
 Mento Brazilian Real (BRLm) is a decentralized stablecoin pegged to the Brazilian Real on the Celo blockchain.

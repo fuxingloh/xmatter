@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ee9025"
+icons:
+  - icon.png
 ---
 
 CCDOGE is an auto-farming, auto-deflation, auto-market-maker token based on BSC network.

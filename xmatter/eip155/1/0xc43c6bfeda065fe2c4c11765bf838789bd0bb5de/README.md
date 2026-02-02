@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ad0d26"
+icons:
+  - icon.png
 ---
 
 Available on 70+ chains, trusted by 130+ clients, supporting 1,250+ assets

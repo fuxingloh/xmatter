@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fcac1d"
+icons:
+  - icon.png
 ---
 
 AWARE is a decentralized token investment-management community (TIC) aiming to make innovative assets more liquid and to serve blockchain entrepreneurs and investors across the globe.

@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3860ab"
+icons:
+  - icon.png
 ---
 
 Coinerr make your payments easierr, make your world betterr, make your shopping saferr.

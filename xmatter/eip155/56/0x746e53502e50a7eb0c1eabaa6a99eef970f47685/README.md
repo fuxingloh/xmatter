@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0d0c09"
+icons:
+  - icon.png
 ---
 
 Xiaoji.cash is the Crypto currency on the Binance Smart Chain.

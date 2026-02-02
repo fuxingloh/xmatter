@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c1799c"
+icons:
+  - icon.png
 ---
 
 100% OF MERCH DONATIONS TO yield COLLABORATIVE.

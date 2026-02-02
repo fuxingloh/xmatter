@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8b9b85"
+icons:
+  - icon.png
 ---
 
 CZ just subtly acknowledged that he’s Mubarak – a typical cryptic move from the Binance boss! Those who’ve followed CZ long enough know that when he shills like this, the chances of a Binance listing are sky-high.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dc1c1c"
+icons:
+  - icon.png
 ---
 
 Decentralized financial service system. It is expected to provide the most powerful platform for decentralized trading and borrowing

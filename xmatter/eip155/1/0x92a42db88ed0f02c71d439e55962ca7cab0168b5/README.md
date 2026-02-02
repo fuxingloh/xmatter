@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4c647c"
+icons:
+  - icon.png
 ---
 
 Tardigrades Finance offers frictionless rewards 5% Tax with 2.5% Burn / and 2.5% back to Holders for each transaction.

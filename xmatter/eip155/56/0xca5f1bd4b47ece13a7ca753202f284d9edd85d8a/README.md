@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9d51c"
+icons:
+  - icon.png
 ---
 
 Big Oily Orange Boob ($BOOB) is a community token that can be used as a tipping currency for models.$BOOB will also raise funds for breast cancer charities.

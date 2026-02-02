@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#60c840"
+icons:
+  - icon.png
 ---
 
 Vain is a token made to make the world a better and greener place by planting trees.

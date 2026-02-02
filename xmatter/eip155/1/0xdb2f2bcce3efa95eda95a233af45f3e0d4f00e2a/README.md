@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b74bb"
+icons:
+  - icon.png
 ---
 
 Aegis As a DeFi 2.0 protocol, Aegis features more diversified lending services besides over-collateralized lending, such as micro-lending and Unsecured Borrowing. Aegis uses a proprietary AI-powered credit scoring algorithm to assess users’ creditworthiness based on the data provided, and assign an “Aegis Score” to each user, which is similar to traditional risk profile assessments.

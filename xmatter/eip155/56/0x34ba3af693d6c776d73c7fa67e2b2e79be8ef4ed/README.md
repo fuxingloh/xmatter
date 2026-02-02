@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#062433"
+icons:
+  - icon.png
 ---
 
 BALA is the platform token of Shambala metaverse

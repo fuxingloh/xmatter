@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#201f32"
+icons:
+  - icon.png
 ---
 
 DOGE BARKING Community Project

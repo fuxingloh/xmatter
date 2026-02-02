@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#edb454"
+icons:
+  - icon.png
 ---
 
 a community-driven, innovative DeFi project committed to transparency, long-term sustainability, and inclusivity. By prioritizing security, ethical practices, and empowering users through accessible financial tools and opportunities, FEG aims to revolutionize decentralized finance and foster a thriving, trustworthy ecosystem.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#195096"
+icons:
+  - icon.png
 ---
 
 Credefi connects crypto lenders with SME borrowers from the fiat economy. Their platform enables decentralized and secured lending to portfolios of businesses, protecting lenders while providing them fixed APY that is uncorrelated with crypto markets’ volatility.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#130b33"
+icons:
+  - icon.png
 ---
 
 An ecosystem to drive innovation in the early-stage web 3.0 space.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#323232"
+icons:
+  - icon.png
 ---
 
 A BAAS platform serves for global blockchain financial market.

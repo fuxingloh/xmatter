@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ebc67f"
+icons:
+  - icon.png
 ---
 
 PancakeTools first binance chain pair & pool explorer based on data from PancakeSwap. Control you trading on PancakeSwap

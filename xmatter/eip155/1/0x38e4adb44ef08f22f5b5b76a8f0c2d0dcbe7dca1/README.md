@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b2be3"
+icons:
+  - icon.png
 ---
 
 PowerPool is a solution for accumulating governance power in Ethereum-based protocols by pooling tokens (COMP, BAL, LEND, YFI, BZRX, AKRO, etc.). The CVP token name refers to Concentrated Voting Power: CVP holders decide how pooled GTs will vote when the vote occurs in their root protocol. Also, CVP holders govern the entire protocol (key ecosystem variables, collateral types, adding new pools).

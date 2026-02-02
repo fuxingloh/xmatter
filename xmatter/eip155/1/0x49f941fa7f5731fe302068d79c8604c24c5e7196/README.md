@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f8faf1"
+icons:
+  - icon.png
 ---
 
 ha ha money printer go brr

@@ -10,6 +10,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#1e1d22"
+icons:
+  - icon.png
 ---
 
 ai penis technologica

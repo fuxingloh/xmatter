@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#2caae2"
+icons:
+  - icon.png
 ---
 
 Alethea AI is building a decentralized iNFT Protocol to create an Intelligent Metaverse inhabited by Interactive and Intelligent NFTs. Anyone can use the Alethea AI protocol to Create, Train and Earn from their iNFTs in the world’s first Intelligent Metaverse known as Noah’s Ark.

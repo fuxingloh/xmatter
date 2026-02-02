@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c43fb"
+icons:
+  - icon.png
 ---
 
 yfBETA restructures the DeFi narrative to reward tokenholders. yfBETA uses yields generated from farming other protocols.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8cd22d"
+icons:
+  - icon.png
 ---
 
 We have combined two of the most hyped coins in the crypto market - FLOKI and PEPE.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#444940"
+icons:
+  - icon.png
 ---
 
 Zombie is an decentralized experiment to see how people will react having power over one another.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e7e7e8"
+icons:
+  - icon.png
 ---
 
 Vesta Is The Next Generation Liquidity Generator.

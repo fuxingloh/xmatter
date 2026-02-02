@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e2f7f7"
+icons:
+  - icon.png
 ---
 
 Bella is a suite of open finance products including automated yield farming tools, lending protocol, one-click savings account, customized robo-advisor, and more.

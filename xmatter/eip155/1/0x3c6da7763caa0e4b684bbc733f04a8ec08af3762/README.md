@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f70a0a"
+icons:
+  - icon.png
 ---
 
 MODEL-X-coin (MODX) is a cryptocurrency and operates on the Ethereum platform.

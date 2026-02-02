@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f39a23"
+icons:
+  - icon.png
 ---
 
 FEG Wrapped BTC

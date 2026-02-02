@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04acec"
+icons:
+  - icon.png
 ---
 
 The Sandbox is a virtual world where players can build, own, and monetize their gaming experiences in the Ethereum blockchain using SAND, the platform’s utility token.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bc2c3c"
+icons:
+  - icon.png
 ---
 
 Lovecoin is a decentralized peer to peer cryptocurrency based upon Bitcoin and Tron blockchain technology, designed with the purpose of spreading; Love, Peace, Happiness and Economic Freedom worldwide.

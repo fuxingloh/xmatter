@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bcc1c2"
+icons:
+  - icon.png
 ---
 
 Introducing Trump Era: a meme coin inspired by the turbulent yet pivotal times shaped by one of America’s most divisive leaders

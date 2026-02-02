@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f8d071"
+icons:
+  - icon.png
 ---
 
 CORGISWAP is a decentralized finance (DeFi) application that lets users exchange tokens while also providing liquidity through farming and earning fees

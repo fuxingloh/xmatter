@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#da9550"
+icons:
+  - icon.png
 ---
 
 LittleMouse Token is an ongoing game, NFT and outreach project. LittleMouse is a SWAP built on the BSC blockchain.

@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c7cfc"
+icons:
+  - icon.png
 ---
 
 Multi-chain Derivatives Trading Protocol.

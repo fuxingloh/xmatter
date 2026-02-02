@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#873586"
+icons:
+  - icon.png
 ---
 
 Cybitex is based on Ethereum Erc20 Network as a network that promotes the digital assets in settled markets.

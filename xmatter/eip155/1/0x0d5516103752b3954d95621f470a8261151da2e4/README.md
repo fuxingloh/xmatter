@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d1c27a"
+icons:
+  - icon.png
 ---
 
 Bloomzed is a global financial network that connects people and business.

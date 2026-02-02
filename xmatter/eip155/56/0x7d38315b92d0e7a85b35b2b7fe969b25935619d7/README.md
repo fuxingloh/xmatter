@@ -40,6 +40,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4d228c"
+icons:
+  - icon.png
 ---
 
 Ecoin Finance is a decentralized & deflationary BEP20 token powered by 'BNB Chain' network that will be an online payment platform replacing the fiat currency through our integrated debit card. People around the world will be able to make easy, fast, and secure payments using your ECOIN balance.

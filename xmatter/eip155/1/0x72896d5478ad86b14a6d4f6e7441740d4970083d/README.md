@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0f554d"
+icons:
+  - icon.png
 ---
 
 Wrapped ZCore is a coin backed by 1 ZCR, on the ethereum network, which is an scalable, easy to use peer-to-peer network.

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1d58aa"
+icons:
+  - icon.png
 ---
 
 Facebook Metaverse is a project that's inspired by Mark Zuckerberg

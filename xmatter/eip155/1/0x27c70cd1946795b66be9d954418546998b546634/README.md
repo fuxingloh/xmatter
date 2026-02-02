@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c53524"
+icons:
+  - icon.png
 ---
 
 The second token incentivized on ShibaSwap offers special rewards for those who provide liquidity.

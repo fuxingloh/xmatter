@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f59b04"
+icons:
+  - icon.png
 ---
 
 VYNC is the governance token of VYNKSAFE: A Decentralized Crypto Bank. VYNK CHAIN is the Defi and Utility token. VYNK CHAIN and VYNKSAFE both are from VynkPay, which is a crypto payments application in the sectors of e-commerce, affiliate marketing, travel & bill payments.

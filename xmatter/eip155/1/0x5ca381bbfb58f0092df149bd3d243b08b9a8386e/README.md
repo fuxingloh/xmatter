@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04ebd3"
+icons:
+  - icon.png
 ---
 
 MXC Supernodes provide LPWAN network services to devices around the world.

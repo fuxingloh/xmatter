@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04decc"
+icons:
+  - icon.png
 ---
 
 Nexum is the utility token that aims to power the multi-billion Shipping & Oil industry. NEXM is designed to unbank the shipping industry

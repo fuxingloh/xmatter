@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f5ece8"
+icons:
+  - icon.png
 ---
 
 An Innovative Yield Farm on Binance Smart Chain.

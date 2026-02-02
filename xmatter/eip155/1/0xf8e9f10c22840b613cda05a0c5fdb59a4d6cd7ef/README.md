@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f5d4ac"
+icons:
+  - icon.png
 ---
 
 $DOE is a community-focused, DeFi cryptocurrency token, and the companion to the Dogs Of Elon NFTs.

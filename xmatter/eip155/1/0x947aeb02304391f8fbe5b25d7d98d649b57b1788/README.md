@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0fd297"
+icons:
+  - icon.png
 ---
 
 Mandala Exchange users can unlock platform enhancements and receive trading fee rebates by locking MDX on the platform.

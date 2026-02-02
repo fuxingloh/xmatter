@@ -29,6 +29,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#233640"
+icons:
+  - icon.png
 ---
 
 CashCow is a fairly launched, low supply and highly deflationary DeFi Token that includes NFT and Play2Earn features

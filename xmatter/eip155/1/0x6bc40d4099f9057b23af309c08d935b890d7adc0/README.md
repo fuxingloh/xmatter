@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#240f6e"
+icons:
+  - icon.png
 ---
 
 SnailBrook (SNAIL) is a decentralized utopian cryptocurrency project that aims to unite various meme coin communities under a single, inclusive platform. By fostering equal opportunity and collaborative growth, SNAIL seeks to create a utopia for all meme coin enthusiasts and investors.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbf8e4"
+icons:
+  - icon.png
 ---
 
 FIST is the governance token of FstSwap, a decentralized exchange protocol based on BSC Binance Smart Chain, with a total of 200 million tokens in full circulation

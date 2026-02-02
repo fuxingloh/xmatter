@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a20d5c"
+icons:
+  - icon.png
 ---
 
 TemDAO, a community collectively funding and supporting world heritage protection to develop, governed by $TEM hodlers.

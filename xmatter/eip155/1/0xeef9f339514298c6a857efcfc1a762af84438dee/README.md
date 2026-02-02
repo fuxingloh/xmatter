@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc4b0c"
+icons:
+  - icon.png
 ---
 
 Hermez is a decentralized zk-rollup focused on scaling payments and token transfers on top of Ethereum.

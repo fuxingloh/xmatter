@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f1d283"
+icons:
+  - icon.png
 ---
 
 Free-To-Play & Play-To-Earn NFT MOBA GameFi in Binance Smart Chain

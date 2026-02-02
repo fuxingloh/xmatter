@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ebc81a"
+icons:
+  - icon.png
 ---
 
 The real CZ-independent meme on @BNBCHAIN . Rejecting PVP to foster genuine meme culture. "This time, Meme won't be your puppet no more, fam!" The call echoes across the Blockverse: Follow KOMO, ye weary degens! Abandon the Solana slaughterhouse! March to @BNBCHAIN, where the Meme Spirit rises again—unshackled, unbreakable, and gloriously unhinged. :TＨΕ kＯmＯ αяmy ìs cóΜīＮＧ

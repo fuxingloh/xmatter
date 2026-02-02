@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#060604"
+icons:
+  - icon.png
 ---
 
 HERE IS THE NEW MEME TOKEN I'VE CREATED - $CAPO TOKEN; DEDICATED TO BIGGEST COUNTER TRADING x ACCOUNT - IL CAPO OF CRYPTO! WE ALL KNOW WHO IS CRYPTO CAPO, AKA "biggest bull trap i ever seen" "Still short and strong" AND MORE JOKES LIKE THAT!

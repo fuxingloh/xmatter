@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f4bc2c"
+icons:
+  - icon.png
 ---
 
 AI Auto Trading Application

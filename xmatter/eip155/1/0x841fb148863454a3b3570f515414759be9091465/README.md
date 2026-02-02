@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9dec8"
+icons:
+  - icon.png
 ---
 
 SHIH TZU project is a meme based token that has determined to pursue NFT artwork

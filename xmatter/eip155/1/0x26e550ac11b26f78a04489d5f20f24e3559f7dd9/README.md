@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2d312a"
+icons:
+  - icon.png
 ---
 
 Kekius Maximus (KEKIUS) is a meme-inspired cryptocurrency token that operates on the Ethereum blockchain.

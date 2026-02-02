@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dda334"
+icons:
+  - icon.png
 ---
 
 Valobit Technology is described to be an advanced cybersecurity solution that will proactively identify hackers and distribute their profile information to the protected community over blockchain.

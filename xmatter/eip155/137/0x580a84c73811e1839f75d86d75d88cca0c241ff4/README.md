@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#16151c"
+icons:
+  - icon.png
 ---
 
 Qi (pronounced CHEE) is the governance token of the QiDao Protocol. It allows those who hold it to vote on changes to the QiDao Protocol.

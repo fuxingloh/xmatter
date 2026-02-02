@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04c486"
+icons:
+  - icon.png
 ---
 
 SToken (STS) is a cryptocurrency and operates on the Ethereum platform.

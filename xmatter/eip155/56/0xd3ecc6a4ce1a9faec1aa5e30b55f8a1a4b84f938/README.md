@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#94be37"
+icons:
+  - icon.png
 ---
 
 Elonomics is a Rebase and BUSD Rewards token in the BSC network.

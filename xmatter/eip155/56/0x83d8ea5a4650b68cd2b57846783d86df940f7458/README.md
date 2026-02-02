@@ -37,6 +37,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f4a204"
+icons:
+  - icon.png
 ---
 
 HUDI is the first web3 data exchange protocol empowering people and organizations to enrich, trade and monetize their data.

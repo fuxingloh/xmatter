@@ -32,6 +32,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#043361"
+icons:
+  - icon.png
 ---
 
 TripCandy is an accommodations booking platform that brings you great discounts via cashback rewards in the form of blockchain tokens, turning your bookings into lucrative investments.

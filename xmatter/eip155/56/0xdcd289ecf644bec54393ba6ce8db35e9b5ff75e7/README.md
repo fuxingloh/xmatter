@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c2444"
+icons:
+  - icon.png
 ---
 
 FairLunar is a community-drievn token with it’s own usecase

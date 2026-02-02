@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#18b0e0"
+icons:
+  - icon.png
 ---
 
 VEROS Fundraising Platform is a optimized platform aimed at fundraising for direct charity, eco-high-tech projects and revolutionary innovation.

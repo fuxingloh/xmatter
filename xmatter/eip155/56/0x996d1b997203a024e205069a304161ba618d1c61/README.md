@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#050506"
+icons:
+  - icon.png
 ---
 
 The world's 1st AI agent for short video & film production, built on @bnbchain exclusively.

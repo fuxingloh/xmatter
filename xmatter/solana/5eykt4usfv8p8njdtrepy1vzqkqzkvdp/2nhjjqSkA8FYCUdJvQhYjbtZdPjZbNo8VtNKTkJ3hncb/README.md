@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#080505"
+icons:
+  - icon.png
 ---
 
 $bunk is a meme coin with no intrinsic value or expectation of financial return.

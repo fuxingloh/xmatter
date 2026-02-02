@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fae9eb"
+icons:
+  - icon.png
 ---
 
 SAFEMOON RED is Binance Smart Chain Memes Token

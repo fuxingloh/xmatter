@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6d60c5"
+icons:
+  - icon.png
 ---
 
 JustLiquidity DeFi offers to trade and earn and enables to execute a liquidity token sale with a token.

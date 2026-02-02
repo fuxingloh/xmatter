@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#33343b"
+icons:
+  - icon.png
 ---
 
 A p2p defi lending app where lenders earn fixed, guaranteed interest and borrowers earn YLD for every repaid loan

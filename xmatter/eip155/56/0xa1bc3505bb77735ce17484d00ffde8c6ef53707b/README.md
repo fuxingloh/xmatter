@@ -8,6 +8,7 @@ name: Story
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 $STORY is the deflationary token fueling our crowdfunding platform called Story. Story provides anyone, anywhere with the platform to help others. Simply share their Story in 60 seconds or less and our community listens.

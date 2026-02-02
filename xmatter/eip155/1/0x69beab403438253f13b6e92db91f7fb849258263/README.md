@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1ebef0"
+icons:
+  - icon.png
 ---
 
 Through our expertise in deep learning and with our development platform, we drive breakthrough AI products from concept to market.

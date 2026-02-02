@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c88942"
+icons:
+  - icon.png
 ---
 
 PitJupiter is a community-driven and run token with charity goals & governance with a strong tokeneconomics base, with ownership renounced

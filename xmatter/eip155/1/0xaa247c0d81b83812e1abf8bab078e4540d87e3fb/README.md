@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Meson network aims to offer pioneering AI + DePIN (Decentralized Physical Infrastructure Network) empowered by people.

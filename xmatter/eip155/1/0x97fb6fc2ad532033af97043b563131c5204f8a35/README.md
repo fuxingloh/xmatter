@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e85040"
+icons:
+  - icon.png
 ---
 
 PlusCoin has been developed to connect cryptocurrency and the real economy. PlusCoin also serves as exchange token of Korean exchange UpXide.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e6e0be"
+icons:
+  - icon.png
 ---
 
 NaPoleonX (NPX) is a cryptocurrency and operates on the Ethereum platform.

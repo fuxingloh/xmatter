@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9bcbcc"
+icons:
+  - icon.png
 ---
 
 AutCoin is a charity token designed to support people with Autism

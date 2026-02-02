@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04041c"
+icons:
+  - icon.png
 ---
 
 HELEX (HLX) is a cryptocurrency and operates on the Ethereum platform.

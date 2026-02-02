@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ed0a16"
+icons:
+  - icon.png
 ---
 
 An innovative platform that allows fans to book live meetings with STARS.

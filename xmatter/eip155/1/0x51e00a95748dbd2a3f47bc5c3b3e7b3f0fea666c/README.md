@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#242424"
+icons:
+  - icon.png
 ---
 
 DAOventures.co DeFi robo-advisor and automated money manager.

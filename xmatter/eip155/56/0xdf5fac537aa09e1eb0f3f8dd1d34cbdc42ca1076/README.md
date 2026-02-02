@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbc333"
+icons:
+  - icon.png
 ---
 
 DKYC.

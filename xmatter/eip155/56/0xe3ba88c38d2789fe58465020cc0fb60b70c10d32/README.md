@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#242323"
+icons:
+  - icon.png
 ---
 
 The true Decentralized Finance, with no third party control. Everyone can vote their own project! The more votes the more KIND burned, the less supply!

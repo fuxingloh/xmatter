@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#fbeae1"
+icons:
+  - icon.png
 ---
 
 Matt Furie's first documented drawing.

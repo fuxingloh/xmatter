@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#05df1f"
+icons:
+  - icon.png
 ---
 
 Radicle Token

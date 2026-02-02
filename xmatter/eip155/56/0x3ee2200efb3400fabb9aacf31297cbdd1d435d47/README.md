@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#000000"
+icons:
+  - icon.png
 ---
 
 BNB pegged Cardano Token (ADA BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Cardano (ADA) at a ratio of 1:1.

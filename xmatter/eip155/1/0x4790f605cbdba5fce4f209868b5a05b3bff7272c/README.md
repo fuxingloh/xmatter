@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f4e6bf"
+icons:
+  - icon.png
 ---
 
 SwapHub aims to build a new DeFi ecosystem. The first stage is to support users to stake LP. Then we will extend the functions.

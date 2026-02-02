@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#253461"
+icons:
+  - icon.png
 ---
 
 Just a coin for people who love art and anime. An onchain art and anime movement.

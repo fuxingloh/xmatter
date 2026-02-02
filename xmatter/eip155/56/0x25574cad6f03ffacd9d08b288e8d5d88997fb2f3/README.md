@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e20604"
+icons:
+  - icon.png
 ---
 
 REDFEG is BEP-20 token that is determined to feed every community member.

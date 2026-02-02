@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#29bbdb"
+icons:
+  - icon.png
 ---
 
 Aave SNX V1 is an interest bearing token pegged 1:1 to the underlying SNX deposited in Aave V1. aSNX V1 accrue interest in real time in your wallet.

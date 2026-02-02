@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c8a8ed"
+icons:
+  - icon.png
 ---
 
 Vertex Protocol is a orderbook DEX offering spot, perpetuals, and money markets with universal cross-margin accounts, industry-leading low fees, and lightning-fast order execution.

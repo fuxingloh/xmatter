@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c31879"
+icons:
+  - icon.png
 ---
 
 A decentralized finance (DeFi) global payment solution built on lightning fast open source code providing safe, secure, and seamless transactions with bulletproof BSC technology.

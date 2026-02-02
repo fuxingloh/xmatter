@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e7b036"
+icons:
+  - icon.png
 ---
 
 Social project to promote cryptocurrency usage and increase global wealth.

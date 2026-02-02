@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#252343"
+icons:
+  - icon.png
 ---
 
 Mad Bull is a giveaway, meme based, community centered crypto token launched on the Binance Smart Chain directly giving back to our holders.

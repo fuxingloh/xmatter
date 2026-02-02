@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#00a870"
+icons:
+  - icon.png
 ---
 
 AZBIT TOKEN (AZ) is a decentralized cryptocurrency asset founded by the Seychelles-based Azbit platform. The Azbit (AZ) token project was announced in 2018 at the Consensus conference held in New York.

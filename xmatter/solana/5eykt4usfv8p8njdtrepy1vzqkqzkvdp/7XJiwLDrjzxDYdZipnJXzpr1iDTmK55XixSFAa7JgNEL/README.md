@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#a80720"
+icons:
+  - icon.png
 ---
 
 A community claimed ownership for this token on Dec 21 2024

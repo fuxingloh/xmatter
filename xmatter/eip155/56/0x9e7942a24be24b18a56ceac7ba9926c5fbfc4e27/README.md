@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#44bd64"
+icons:
+  - icon.png
 ---
 
 AMM and yield farming platform on Binance Smart Chain

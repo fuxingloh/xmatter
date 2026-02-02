@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#251c1a"
+icons:
+  - icon.png
 ---
 
 Les Collectionneurs is a community of French-speaking enthusiasts who share their knowledge of NFTs. The purpose of this community is to inform, exchange knowledge about NFTs, promote certain projects or artists, and explain the interest and importance of NFTs in the world of crypto-currencies to new members.

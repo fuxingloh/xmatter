@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ebecf0"
+icons:
+  - icon.png
 ---
 
 Combine different blockchain tokens into a single token. Tradable DeFi Pools. Make any token a privacy token. Make Tradable Portfolios.

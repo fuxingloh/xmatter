@@ -14,6 +14,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#a0ddfc"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Lido is a liquid staking solution for Ethereum. Lido lets users stake their ETH - with no minimum deposits or maintaining of infrastructure - whilst participating in on-chain activities, e.g. lending, to compound returns. LDO is an ERC20 token granting governance rights in the Lido DAO.

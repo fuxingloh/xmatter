@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#34eeb2"
+icons:
+  - icon.png
 ---
 
 Gems is a blockchain launchpad enabling project fundraising via private token sales.

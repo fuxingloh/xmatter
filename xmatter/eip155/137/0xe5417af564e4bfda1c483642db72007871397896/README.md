@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3ad4b4"
+icons:
+  - icon.png
 ---
 
 Gains Network is developing the next-gen decentralized leveraged trading platform - gTrade.

@@ -23,6 +23,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Fitburn is the world's first AI-powered burn-to-earn fitness app, which is revolutionizing lifestyle & health. This innovative fitness app combines cutting-edge AI mechanics with NFT rewards to motivate users to reach their fitness goals. Earn rewards for exercising and join a community of like-minded fitness enthusiasts.

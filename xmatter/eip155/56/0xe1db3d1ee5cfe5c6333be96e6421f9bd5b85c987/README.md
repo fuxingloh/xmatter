@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c5ccd1"
+icons:
+  - icon.png
 ---
 
 Autonomous yield and liquidity generation protocol. Simply hold SAFESPACE in your wallet and you will get more. On each transaction the protocol automatically distributes rewards to holders as well as auto-locks liquidity forever.

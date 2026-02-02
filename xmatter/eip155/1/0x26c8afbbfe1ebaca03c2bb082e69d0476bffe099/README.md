@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d41b5a"
+icons:
+  - icon.png
 ---
 
 CELL is a token of the Cellframe Network.

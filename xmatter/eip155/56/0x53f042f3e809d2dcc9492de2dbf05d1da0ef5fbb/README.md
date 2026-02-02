@@ -40,6 +40,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc047c"
+icons:
+  - icon.png
 ---
 
 Educative token-review platform aiming to make the crypto-world more comprehendible & less shitty. - NFTs, dApp games, Rewards

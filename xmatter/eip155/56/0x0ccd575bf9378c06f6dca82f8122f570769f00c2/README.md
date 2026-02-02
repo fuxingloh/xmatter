@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3a3427"
+icons:
+  - icon.png
 ---
 
 Cryptoblades Kingdoms is a play to earn game built on the Binance Smart Chain blockchain platform. Players will be able to put their character to a battle arena to earn KING tokens.

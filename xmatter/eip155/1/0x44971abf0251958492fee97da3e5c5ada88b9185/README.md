@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b1c1c"
+icons:
+  - icon.png
 ---
 
 https://arxiv.org/pdf/2403.01008.pdf

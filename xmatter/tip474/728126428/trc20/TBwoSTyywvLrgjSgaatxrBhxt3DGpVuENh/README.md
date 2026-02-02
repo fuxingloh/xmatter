@@ -10,6 +10,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#1c1c1b"
+icons:
+  - icon.png
 ---
 
 Sesameseed is a blockchain community that aims to provide fair and transparent representation in delegated governance.

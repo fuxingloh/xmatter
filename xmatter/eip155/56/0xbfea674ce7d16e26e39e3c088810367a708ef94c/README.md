@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f05820"
+icons:
+  - icon.png
 ---
 
 April is a high speed, cross chain oracle serving the Internet of Blockchains

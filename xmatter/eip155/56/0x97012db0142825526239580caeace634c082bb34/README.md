@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5355b2"
+icons:
+  - icon.png
 ---
 
 Petmoon is Play-to-Earn NFT game on the BSC network which integrates (BEP721) tokens into the dAPP.

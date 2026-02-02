@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c77bb4"
+icons:
+  - icon.png
 ---
 
 MANY is a community born and operated project combining YF and NFT.

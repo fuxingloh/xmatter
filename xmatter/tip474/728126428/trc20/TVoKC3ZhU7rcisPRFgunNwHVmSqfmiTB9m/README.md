@@ -14,6 +14,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#8ccaf9"
+icons:
+  - icon.png
 ---
 
 Measurable Data Token (MDT) aims to provide a blockchain-based data economy, where data providers and data buyers can exchange data securely and anonymously.

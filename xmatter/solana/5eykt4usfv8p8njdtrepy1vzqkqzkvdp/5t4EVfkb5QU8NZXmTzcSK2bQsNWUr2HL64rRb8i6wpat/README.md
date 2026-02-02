@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#d6955d"
+icons:
+  - icon.png
 ---
 
 Betrayed, he was confined in a sarcophagus for thousands of years. But now Sphynx has awakened

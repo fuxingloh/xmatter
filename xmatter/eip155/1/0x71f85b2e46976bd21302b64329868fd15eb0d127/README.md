@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#aae4fc"
+icons:
+  - icon.png
 ---
 
 Using a high-interest time-locked savings account, Axion is a global currency, built to serve the people.

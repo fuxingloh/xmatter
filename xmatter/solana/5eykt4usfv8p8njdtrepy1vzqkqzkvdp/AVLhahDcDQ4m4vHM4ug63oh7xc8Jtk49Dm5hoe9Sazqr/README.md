@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#34c3ba"
+icons:
+  - icon.png
 ---
 
 SOLAMA, the rising star in the meme coin universe on the SOLANA blockchain

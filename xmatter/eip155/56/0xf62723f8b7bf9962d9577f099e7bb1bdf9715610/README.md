@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#182ae7"
+icons:
+  - icon.png
 ---
 
 Yield farm wLink on Binance Smart Chain.

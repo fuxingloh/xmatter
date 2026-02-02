@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e8c3d0"
+icons:
+  - icon.png
 ---
 
 ELAMACHAIN is an enterprise blockchain supplier. ELAMACHAIN provides a blockchain computing environment for businesses and provides blockchain services, chatbot services, and crypto-currency payment systems for retail and e-commerce.

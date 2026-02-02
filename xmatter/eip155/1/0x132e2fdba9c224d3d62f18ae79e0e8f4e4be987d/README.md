@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3b246b"
+icons:
+  - icon.png
 ---
 
 DefiFarm empowers blockchain networks to have state of the art privacy protection over smart contracts, DeFi, transactions, data.

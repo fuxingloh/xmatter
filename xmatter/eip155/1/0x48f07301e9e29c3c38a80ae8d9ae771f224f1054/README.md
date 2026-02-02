@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#050505"
+icons:
+  - icon.png
 ---
 
 xZAR is a South African stablecoin pegged 1 to 1 with the South African Rand (ZAR).

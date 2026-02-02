@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dbdbda"
+icons:
+  - icon.png
 ---
 
 Rise of Defenders is a very interesting Metaverse NFT game, you can use your creativity and tactical thinking to become an excellent player and receive extremely attractive rewards.

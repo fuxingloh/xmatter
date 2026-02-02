@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#23708f"
+icons:
+  - icon.png
 ---
 
 FETCH is a BEP 20 cryptocurrency of the MoonRetriever project which is the first-ever DEFI project on Binance Smart Chain providing a crypto risk assessment platform

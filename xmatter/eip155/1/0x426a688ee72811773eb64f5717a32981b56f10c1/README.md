@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d6dbe1"
+icons:
+  - icon.png
 ---
 
 America's Meme Coin (AMC) is a meme coin - representing USA and ETH.

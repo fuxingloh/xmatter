@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#16b2cb"
+icons:
+  - icon.png
 ---
 
 Serum is a decentralized exchange (DEX) and ecosystem that brings unprecedented speed and low transaction costs to decentralized finance. It is built on Solana and is completely permissionless.

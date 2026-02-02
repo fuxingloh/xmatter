@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#131a3c"
+icons:
+  - icon.png
 ---
 
 Catboy is an NFT project with a fusion of meme & anime, while 'catified.' With reward utilities & innovative and Interactive NFTs with AI integration.

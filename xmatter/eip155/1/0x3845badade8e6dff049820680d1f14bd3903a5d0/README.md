@@ -13,6 +13,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04acec"
+icons:
+  - icon.png
 ---
 
 The SAND token is an ERC-20 utility token that is used for value transfers as well as staking and governance.

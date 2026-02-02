@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f1ac5f"
+icons:
+  - icon.png
 ---
 
 SafeBabyShiba ($SBSH) is a community-focused, decentralized cryptocurrency with instant rewards thanks to active users! Join the moon mission. WAGMI!

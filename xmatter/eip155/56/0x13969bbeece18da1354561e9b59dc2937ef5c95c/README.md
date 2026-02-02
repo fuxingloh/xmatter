@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7edde5"
+icons:
+  - icon.png
 ---
 
 SafeSex is a token designed for safely interacting with adult performers

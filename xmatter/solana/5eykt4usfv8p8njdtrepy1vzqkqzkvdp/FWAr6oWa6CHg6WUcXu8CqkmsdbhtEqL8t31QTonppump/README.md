@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#984968"
+icons:
+  - icon.png
 ---
 
 PVS is the utility token of the Paraverse ecosystem, primarily used for paying for rendering services, receiving airdrop rewards, accessing 3D application experiences, and trading or exchanging on exchanges.

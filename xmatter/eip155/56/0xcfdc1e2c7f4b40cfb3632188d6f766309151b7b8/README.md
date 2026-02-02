@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#18191f"
+icons:
+  - icon.png
 ---
 
 SAFE & SECURE WALLET

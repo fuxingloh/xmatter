@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1ae7c9"
+icons:
+  - icon.png
 ---
 
 THORChain describes itself as a decentralized liquidity network that allows users to swap assets instantly at manipulation-resistant market prices.

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2474cc"
+icons:
+  - icon.png
 ---
 
 Eurocoin (EUC) is an open-sourced, decentralized digital cryptocurrency that functions on a community-based standard.

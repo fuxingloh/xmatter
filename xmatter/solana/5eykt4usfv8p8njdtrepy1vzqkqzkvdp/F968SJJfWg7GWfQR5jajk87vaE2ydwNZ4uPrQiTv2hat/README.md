@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#050505"
+icons:
+  - icon.png
 ---
 
 Welcome to the quantum nexus of $CAART - where digital art meets blockchain conspiracy.

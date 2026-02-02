@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2574a4"
+icons:
+  - icon.png
 ---
 
 EXOLOVER (EXO) is a utility token for services within EXOLOVER platform.

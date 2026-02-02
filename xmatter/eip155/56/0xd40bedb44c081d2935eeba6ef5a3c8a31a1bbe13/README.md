@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#65c2b7"
+icons:
+  - icon.png
 ---
 
 Next-Gen Deflationary Real Utility Token Coupled with Ultra-HD Metascanning Technology

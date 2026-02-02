@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a32b2c"
+icons:
+  - icon.png
 ---
 
 Dtravel is a DAO: a community-owned and governed ecosystem that operates for the benefit of its community members.

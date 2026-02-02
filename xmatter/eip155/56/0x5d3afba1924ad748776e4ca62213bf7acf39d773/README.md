@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8145f2"
+icons:
+  - icon.png
 ---
 
 KGO is the Token of Kiwigo.

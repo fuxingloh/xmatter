@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#105b4b"
+icons:
+  - icon.png
 ---
 
 3FA utilizes a hybrid pin-code generating algorithm when computer and human logics are intertwined together in such a way that the resulting verification password is mathematically impossible to decrypt.

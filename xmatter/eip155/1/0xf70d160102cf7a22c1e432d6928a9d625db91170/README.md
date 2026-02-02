@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0d1d24"
+icons:
+  - icon.png
 ---
 
 Kuverit P2P Guarantee Trading exists. A Guarantor makes sure both sides will receive their funds, and all claims are validated by candid voters and auditors.

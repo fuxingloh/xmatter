@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3390dd"
+icons:
+  - icon.png
 ---
 
 OOOBTC is a gateway and exchange for crypto-currency and crypto-ecosystem.

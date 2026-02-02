@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9378e1"
+icons:
+  - icon.png
 ---
 
 ZBG Token is an exchange based token and native currency of the ZBG crypto exchange.

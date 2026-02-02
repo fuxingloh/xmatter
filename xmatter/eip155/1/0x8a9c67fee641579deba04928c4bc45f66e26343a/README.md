@@ -10,6 +10,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#4cfb73"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Jarvis Network is a set of protocols on Ethereum allowing anyone to become a broker by funding and maintaining liquidity pools.

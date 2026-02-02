@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ca5454"
+icons:
+  - icon.png
 ---
 
 GateChain is a public blockchain dedicated to blockchain asset safety even after private keys are compromised.

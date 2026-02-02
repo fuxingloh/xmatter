@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Kamino Finance was originally created to offer users the easiest possible way of providing liquidity and earning yield on-chain.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5c6c74"
+icons:
+  - icon.png
 ---
 
 Self generating liquidity token with 15% reflection back to holders. Valhalla awaits.

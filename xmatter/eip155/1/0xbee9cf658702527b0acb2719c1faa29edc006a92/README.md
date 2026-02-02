@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e1eafb"
+icons:
+  - icon.png
 ---
 
 Strike Finance collateral cryptocurrency

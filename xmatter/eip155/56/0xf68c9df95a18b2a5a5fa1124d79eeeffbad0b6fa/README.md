@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5a79e9"
+icons:
+  - icon.png
 ---
 
 Anyswap aims to create a multi-platform cross-chain DEX using Fusion’s DCRM technology.

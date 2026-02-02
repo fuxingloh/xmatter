@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7ca5c8"
+icons:
+  - icon.png
 ---
 
 The integration of AI and cryptocurrency is set to reshape the financial landscape, bringing significant benefits alongside new challenges. While AI tokens enhance security, scalability, and decision-making in the crypto market, fintech startups can utilize AI to gain an edge.

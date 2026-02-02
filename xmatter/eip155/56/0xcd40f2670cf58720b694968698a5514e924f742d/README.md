@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c7cfc"
+icons:
+  - icon.png
 ---
 
 Oddz is the World’s first multi-chain options and derivatives trading protocol to be deployed on the Binance Smart Chain, Polkadot, and Ethereum.

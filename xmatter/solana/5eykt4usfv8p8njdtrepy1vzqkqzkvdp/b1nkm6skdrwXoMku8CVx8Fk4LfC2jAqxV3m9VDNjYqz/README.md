@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#0b0b0b"
+icons:
+  - icon.png
 ---
 
 infiniteBLINK is the first test token that's forever tradable using only blinks.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e9f2ea"
+icons:
+  - icon.png
 ---
 
 LaikaCoin is a community owned DeFi token with a focus on charity and animal welfare.

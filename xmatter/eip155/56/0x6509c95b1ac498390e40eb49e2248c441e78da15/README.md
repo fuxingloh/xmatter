@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#333333"
+icons:
+  - icon.png
 ---
 
 An experimental liquidity-based DeFi token.

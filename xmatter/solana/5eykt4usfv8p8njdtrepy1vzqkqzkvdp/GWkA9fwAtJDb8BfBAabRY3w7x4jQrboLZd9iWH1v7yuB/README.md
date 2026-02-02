@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#131313"
+icons:
+  - icon.png
 ---
 
 Fuck Eth is a community movement poking fun at the ethereum blockchain

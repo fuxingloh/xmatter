@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#287fe3"
+icons:
+  - icon.png
 ---
 
 The first community-owned, Metaverse casino

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#8c6b31"
+icons:
+  - icon.png
 ---
 
 GAMBLE on Solana

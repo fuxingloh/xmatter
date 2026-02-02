@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1f293c"
+icons:
+  - icon.png
 ---
 
 IOTA is a distributed ledger with its proprietary technology known as Tangle, a system of nodes that confirm transactions. It aims to offer greater speeds than conventional blockchains and an ideal footprint for the ever-expanding Internet of Things ecosystem.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 iExec claims to have developed the first decentralized marketplace for cloud computing resources.

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc0c74"
+icons:
+  - icon.png
 ---
 
 Welcome to Sweat Economy. An ecosystem designed to bring value to your movement, and inspire a healthier, wealthier planet.

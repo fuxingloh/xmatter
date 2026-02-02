@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f6d795"
+icons:
+  - icon.png
 ---
 
 Bakerking is fork from bakeryswap to make more secured, low fees, faster, easily earn from farming.

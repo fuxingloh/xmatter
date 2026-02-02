@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e2bf7c"
+icons:
+  - icon.png
 ---
 
 Frictionless Defi adoption through tools & education.

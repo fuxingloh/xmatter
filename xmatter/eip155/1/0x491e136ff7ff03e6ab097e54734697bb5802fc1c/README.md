@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#222222"
+icons:
+  - icon.png
 ---
 
 Trade crypto on DEXs and CEXs with a full suite of trading tools previously only available in CeFi

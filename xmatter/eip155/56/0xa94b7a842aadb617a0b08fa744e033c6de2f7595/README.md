@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eecf2c"
+icons:
+  - icon.png
 ---
 
 FlashX Ultra is the second DApp and governance token of FlashX Coin Project. It has a total supply of 200M tokens. $FSXU as Bep20 token running on Binance Smart Chain (BSC).

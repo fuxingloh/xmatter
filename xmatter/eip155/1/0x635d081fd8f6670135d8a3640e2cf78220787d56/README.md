@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f1f2f2"
+icons:
+  - icon.png
 ---
 
 ADD.xyz is a full-stack DeFi aggregator, plugging in multiple products and DeFi applications into one single platform, focusing on User Experience, Design, Privacy and Anonymity.

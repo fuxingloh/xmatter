@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#343434"
+icons:
+  - icon.png
 ---
 
 ApeSwap is an Automated Market Maker, Yield Farming, and Staking platform on Binance Smart Chain. ApeSwap was built by DeFi Apes, for DeFi Apes. We have a dedicated team of experienced monkeys, who have been in the crypto space for years.

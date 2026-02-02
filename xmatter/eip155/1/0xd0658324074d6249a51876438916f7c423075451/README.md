@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0460c1"
+icons:
+  - icon.png
 ---
 
 Yearn Land upgraded the old Yearn making some important adjustments in first layer protocols.

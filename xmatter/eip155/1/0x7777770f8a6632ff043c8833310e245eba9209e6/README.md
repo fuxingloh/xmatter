@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2e2e2e"
+icons:
+  - icon.png
 ---
 
 Tokens of Babel, Price is God. A new trading game that tests the limits of DeFi

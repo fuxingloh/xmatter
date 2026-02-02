@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#221845"
+icons:
+  - icon.png
 ---
 
 Synternet is a blockchain that powers modular, interoperable data infrastructure across all major chains.

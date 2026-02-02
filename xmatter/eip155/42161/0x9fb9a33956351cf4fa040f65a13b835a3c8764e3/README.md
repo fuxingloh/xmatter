@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c63d3"
+icons:
+  - icon.png
 ---
 
 Multichain is a cross-chain router protocol (CRP), to be the ultimate router for Web3.

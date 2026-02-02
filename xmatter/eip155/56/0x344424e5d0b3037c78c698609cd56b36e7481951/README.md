@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2a323f"
+icons:
+  - icon.png
 ---
 
 Baby Feg Token is an interface token and provides back-end support to new DeFi projects and tokens.

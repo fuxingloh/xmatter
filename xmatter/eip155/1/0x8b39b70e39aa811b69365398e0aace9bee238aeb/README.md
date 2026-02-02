@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0bdcfc"
+icons:
+  - icon.png
 ---
 
 PolkaFoundry is a platform for creating borderless and frictionless DeFi apps. It is designed to unleash developers to explore new horizons of the DeFi landscape.

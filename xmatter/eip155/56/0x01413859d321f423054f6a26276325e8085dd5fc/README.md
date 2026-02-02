@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e3c681"
+icons:
+  - icon.png
 ---
 
 Yield farming mechanism provides sustainable and profitable yields combined with transparent security features.

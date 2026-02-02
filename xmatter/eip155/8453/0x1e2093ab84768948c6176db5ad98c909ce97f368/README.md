@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3e3c37"
+icons:
+  - icon.png
 ---
 
 DORA AI is an advanced AI-powered travel assistant built on the BASE network using the Virtuals Protocol.

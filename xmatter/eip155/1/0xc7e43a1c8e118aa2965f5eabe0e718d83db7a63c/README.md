@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5cb36b"
+icons:
+  - icon.png
 ---
 
 The proposal of the ZCore Token (ZCRT) is to take advantage of the technological and usability advantages offered by the platform ZCore Network.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0b4b60"
+icons:
+  - icon.png
 ---
 
 Eurite Euro Token (EURI) is issued by Banking Circle S.A (Banking Circle) and subject to regulatory requirements of Markets in Crypto-Assets Regulation (MiCA).

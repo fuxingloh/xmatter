@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f5c45b"
+icons:
+  - icon.png
 ---
 
 Posscoin (POSS) is a cryptocurrency and operates on the Ethereum platform.

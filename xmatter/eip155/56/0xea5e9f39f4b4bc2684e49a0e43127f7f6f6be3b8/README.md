@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3f3d7d"
+icons:
+  - icon.png
 ---
 
 Muu Inu is a unique utility token on the BSC chain. It has a total supply of 1 Trillion and is listed on pancakeswap. The utility we aim to bring to this project and holders includes: Play2Earn game, Staking, NFTs

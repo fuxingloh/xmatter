@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d40c24"
+icons:
+  - icon.png
 ---
 
 Chiliz, powering Socios.com, aims to give sports and esports fans the ability to crowd-manage their favorite teams, games, leagues, and events.

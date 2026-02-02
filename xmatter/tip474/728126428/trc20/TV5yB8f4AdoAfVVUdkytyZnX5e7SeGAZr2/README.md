@@ -12,6 +12,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#bc6334"
+icons:
+  - icon.png
 ---
 
 A dragon fusing the east and west in the fight against the matrix

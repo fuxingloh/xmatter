@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#97858b"
+icons:
+  - icon.png
 ---
 
 it's literally a monkey getting a haircut.

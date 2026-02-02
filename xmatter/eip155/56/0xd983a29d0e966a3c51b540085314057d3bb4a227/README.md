@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d4e3ed"
+icons:
+  - icon.png
 ---
 
 Future Gaming Community Token.We will provide exclusive reward, NFTs and partnership along gamer community across the world.

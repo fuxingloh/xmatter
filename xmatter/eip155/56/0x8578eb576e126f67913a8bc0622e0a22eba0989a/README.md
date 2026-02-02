@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#080808"
+icons:
+  - icon.png
 ---
 
 HashPanda is a social meme token with a mission to make cryptocurrencies mainstream.

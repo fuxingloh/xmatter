@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e8c409"
+icons:
+  - icon.png
 ---
 
 HappyCoin is a BEP20 charity-oriented token that is helping to fight mental illness across the world.

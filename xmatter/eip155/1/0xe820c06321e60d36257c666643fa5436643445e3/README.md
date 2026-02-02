@@ -23,6 +23,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d4a344"
+icons:
+  - icon.png
 ---
 
 USDKG is the world's first gold-collateralized stablecoin pegged 1:1 to the US Dollar, fully supported by the Ministry of Finance of the Kyrgyz Republic, and backed by physical gold reserves to ensure stability and transparency in digital transactions.

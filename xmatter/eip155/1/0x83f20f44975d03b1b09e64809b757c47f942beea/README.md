@@ -14,6 +14,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#8cc44c"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Savings Dai (sDAI) is an ERC-4626 representation/wrapper of DAI in the Dai Savings Rate (DSR) module.

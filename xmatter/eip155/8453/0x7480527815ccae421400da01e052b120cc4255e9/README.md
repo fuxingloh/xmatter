@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#db8b71"
+icons:
+  - icon.png
 ---
 
 Meet Workie, the official mascot of the workers on Base.

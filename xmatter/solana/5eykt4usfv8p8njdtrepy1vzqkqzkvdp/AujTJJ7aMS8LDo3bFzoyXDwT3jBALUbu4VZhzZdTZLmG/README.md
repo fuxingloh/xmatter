@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#2f4f58"
+icons:
+  - icon.png
 ---
 
 $BEER isn't just another coin – it's literally liquid gold. It works as the universal currency of enjoyment, bringing people together regardless of their skin color or social status. Grab some $BEER, invite your friends, and enjoy a great time!

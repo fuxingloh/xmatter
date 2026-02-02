@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ef8e2b"
+icons:
+  - icon.png
 ---
 
 Kaiken Shiba is not only hyper-deflationary with a built-in smart betting system to reward holders, but also helps save dogs that are in need.

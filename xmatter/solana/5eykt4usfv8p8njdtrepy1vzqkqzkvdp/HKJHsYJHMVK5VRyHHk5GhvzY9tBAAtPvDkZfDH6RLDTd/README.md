@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#b9074b"
+icons:
+  - icon.png
 ---
 
 The first-ever meme cat coin, inspired by the developer's own charismatic cat, now the proud mascot of its own token.

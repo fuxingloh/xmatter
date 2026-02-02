@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c2d5c"
+icons:
+  - icon.png
 ---
 
 Capsule DEFI - Unites decentralized protocols whose synergy enables the most lucrative, fastest and protected operations in the DeFi space.

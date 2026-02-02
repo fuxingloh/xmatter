@@ -17,6 +17,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#147cc4"
+icons:
+  - icon.png
 ---
 
 Bank of America xStock (BACx) is a tracker certificate issued as Solana SPL and ERC-20 tokens. BACx tracks the price of Bank of America Corporation (the underlying). BACx is designed to give eligible cryptocurrency market participants regulatory-compliant access to the stock price of Bank of America Corporation, whilst maintaining the benefits of blockchain technology. Bank of America is a leading global financial institution that offers a wide range of banking, investing, asset management, and financial risk management products and services.

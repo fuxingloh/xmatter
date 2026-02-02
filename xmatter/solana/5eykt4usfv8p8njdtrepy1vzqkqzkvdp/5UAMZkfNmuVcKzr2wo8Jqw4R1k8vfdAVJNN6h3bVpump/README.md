@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#c26862"
+icons:
+  - icon.png
 ---
 
 LIMBO tokens can be traded on decentralized exchanges and centralized crypto exchanges

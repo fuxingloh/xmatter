@@ -18,6 +18,7 @@ name: Catcoin Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 Catcoin is the community driven project to connect cat lovers worldwide

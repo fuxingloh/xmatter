@@ -34,6 +34,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f14c43"
+icons:
+  - icon.png
 ---
 
 Crypto Snack leverages blockchain technology to bring exclusive business and investment opportunities. Introducing SNACK 2.0, the most sophisticated utility token, Crypto Snack now provides revolutionary benefits in the igaming, real estate and ticketing industries.

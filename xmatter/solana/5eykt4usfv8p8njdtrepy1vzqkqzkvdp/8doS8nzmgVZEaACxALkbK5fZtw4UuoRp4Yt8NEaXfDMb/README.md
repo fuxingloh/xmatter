@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#7c6f65"
+icons:
+  - icon.png
 ---
 
 Waffles is too busy trading her kribble for $Waffles

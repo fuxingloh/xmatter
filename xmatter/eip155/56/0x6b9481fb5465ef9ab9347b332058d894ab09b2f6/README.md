@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3263e4"
+icons:
+  - icon.png
 ---
 
 DNL is a transferable representation of attributed utility functions specified in the protocol/code of Dinoland, and which is designed to be used solely as an interoperable utility token thereon.

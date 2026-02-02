@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#070604"
+icons:
+  - icon.png
 ---
 
 Movement Network is an ecosystem of Modular Move-Based Blockchains that enables developers to build secure, performant, and interoperable blockchain applications, bridging the gap between Move and EVM ecosystems.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9c044a"
+icons:
+  - icon.png
 ---
 
 Foundry: A DAO for Economic Freedom. Foundry will attract FRY holders who believe in unstoppable economic freedom. Following SmokeSignal and DAIHard, FRY holders will likely drive Foundry to build or invest in similar pursuits: profitable tools that increase economic freedom which cannot be shut down.

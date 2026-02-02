@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#242c2c"
+icons:
+  - icon.png
 ---
 
 TomoChain cross-chain token

@@ -32,6 +32,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#397f99"
+icons:
+  - icon.png
 ---
 
 GLOWV2 represents the illumination of the darkness in the crypto DeFi space through security, clarity, passive income, education, and charity.

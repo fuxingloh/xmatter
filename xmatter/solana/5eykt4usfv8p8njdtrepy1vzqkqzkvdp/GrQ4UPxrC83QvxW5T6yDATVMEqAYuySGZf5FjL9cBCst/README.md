@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#05051f"
+icons:
+  - icon.png
 ---
 
 DNA 2.0 is rewriting the genetic code of the meme coin universe! Powered by community vibes and evolutionary humor, $DNA2 combines blockchain tech with meme-worthy innovation.

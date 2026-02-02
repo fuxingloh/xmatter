@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#060604"
+icons:
+  - icon.png
 ---
 
 DODO is a liquidity protocol powered by the Proactive Market Maker (PMM) algorithm and built for capital efficiency.

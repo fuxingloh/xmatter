@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#36d9fb"
+icons:
+  - icon.png
 ---
 
 ShiCo is a MEME token inspired by Shiba & DOGE. Best pals ever!

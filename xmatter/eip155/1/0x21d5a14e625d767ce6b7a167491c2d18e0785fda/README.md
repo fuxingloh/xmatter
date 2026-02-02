@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cfae69"
+icons:
+  - icon.png
 ---
 
 Jinbi Token merges gold with blockchain technology. A new horizon of wealth and security.

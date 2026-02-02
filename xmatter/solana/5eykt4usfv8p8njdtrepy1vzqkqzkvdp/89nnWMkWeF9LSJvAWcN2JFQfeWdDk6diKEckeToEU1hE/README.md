@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#332b68"
+icons:
+  - icon.png
 ---
 
 That's our motto and it's something we truly believe in whenever we develop a product.

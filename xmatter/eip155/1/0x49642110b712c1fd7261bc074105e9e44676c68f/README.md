@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9fd056"
+icons:
+  - icon.png
 ---
 
 $DINO - Building Bridges Between Crypto, Games, and Financial Adventure!

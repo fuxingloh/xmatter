@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#438bfb"
+icons:
+  - icon.png
 ---
 
 Wonder is ERC20 token that is going to become a payment method in websites and games.

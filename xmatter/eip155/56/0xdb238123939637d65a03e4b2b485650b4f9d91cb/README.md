@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#23060b"
+icons:
+  - icon.png
 ---
 
 TasteNFT is a static liquidity protocol empowering creators of exclusive NFT artwork with sensual Taste

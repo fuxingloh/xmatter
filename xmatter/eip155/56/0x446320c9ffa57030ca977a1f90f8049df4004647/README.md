@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c67935"
+icons:
+  - icon.png
 ---
 
 Bulldogswap is a foundational layer in decentralized finance, enabling safe, and customizable transactions for the global crypto.

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#171717"
+icons:
+  - icon.png
 ---
 
 tsotchke

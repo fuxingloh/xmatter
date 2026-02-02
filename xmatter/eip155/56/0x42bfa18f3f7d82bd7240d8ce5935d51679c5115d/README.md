@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Sports 2K75 is a Web-3 based Sport-Fi Metaverse, combined with NFTs, De-Fi and gaming platform, users stake sports matches like NBA, Soccer, Esports with our S2E gaming platform.

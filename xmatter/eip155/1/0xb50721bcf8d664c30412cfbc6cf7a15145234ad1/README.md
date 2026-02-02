@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c354c"
+icons:
+  - icon.png
 ---
 
 $ARB tokens can be used to vote on Arbitrum DAO governance proposals, allowing $ARB holders to collectively shape the future of Arbitrum protocols and chains. Token holders can also delegate their voting power to delegates.

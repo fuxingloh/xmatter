@@ -36,6 +36,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#11779f"
+icons:
+  - icon.png
 ---
 
 BUMooN is a Eco-Living Token that aims to be dividend tools between its green project closed-loop revenue and user.

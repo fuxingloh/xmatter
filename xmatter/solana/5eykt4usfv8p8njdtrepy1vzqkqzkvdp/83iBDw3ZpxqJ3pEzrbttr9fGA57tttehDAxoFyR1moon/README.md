@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#e6ecec"
+icons:
+  - icon.png
 ---
 
 A Revolutionary Ecosystem for the Future of Decentralized Finance

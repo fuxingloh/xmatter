@@ -18,6 +18,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#1870b8"
+icons:
+  - icon.png
 ---
 
 Paynetcoin (PAYN) is a cryptocurrency (TRC20) that provides online travel payment platforms, e-commerce, airline tickets, tours ...

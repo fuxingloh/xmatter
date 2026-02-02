@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#db802a"
+icons:
+  - icon.png
 ---
 
 Fox Finance is a progressive auto-staking token that pays out rewards just for holding it within your wallet. It also rewards community environmental action via Fox in Action token drops.

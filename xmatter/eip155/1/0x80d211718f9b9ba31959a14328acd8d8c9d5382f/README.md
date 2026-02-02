@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#126694"
+icons:
+  - icon.png
 ---
 
 Palmes: An innovative concept to generate new assets with security and blockchain technology.

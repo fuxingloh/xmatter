@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e9c33a"
+icons:
+  - icon.png
 ---
 
 Celebrating CZ reaching 10M followers

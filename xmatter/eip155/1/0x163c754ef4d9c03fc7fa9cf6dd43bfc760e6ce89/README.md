@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7b4323"
+icons:
+  - icon.png
 ---
 
 Earn MaggotTokens by buying and selling RottenTokens. 2.5% of every RottenToken transfer is burned and turned into MaggotTokens.

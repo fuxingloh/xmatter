@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3f3f3"
+icons:
+  - icon.png
 ---
 
 Markaccy is a decentralized project aiming to unite a strong business community in pursuit of mutual interests through effective, easy, and professional P2P mechanisms with no intermediaries.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c5bd9"
+icons:
+  - icon.png
 ---
 
 YF Link is a community DeFi project built around the decentralized exchange Linkswap as a hub and bridge for community DeFi projects.

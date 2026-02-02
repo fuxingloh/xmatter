@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a51ca8"
+icons:
+  - icon.png
 ---
 
 EIFI, Eifi finance, eifi yield farming, eifi amm dex, dex platform, eifi staking, yield farming.

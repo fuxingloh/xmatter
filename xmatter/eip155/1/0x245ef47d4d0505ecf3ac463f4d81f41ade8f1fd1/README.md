@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#856596"
+icons:
+  - icon.png
 ---
 
 Nuggets is a decentralized, self-sovereign ID and payments platform

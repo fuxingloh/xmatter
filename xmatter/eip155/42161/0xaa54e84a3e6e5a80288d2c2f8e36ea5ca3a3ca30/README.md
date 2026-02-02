@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b7787c"
+icons:
+  - icon.png
 ---
 
 Sharbi is a community-owned, Arbitrum and Ethereum token. Sharbi is known for being the mistress of Shiba.

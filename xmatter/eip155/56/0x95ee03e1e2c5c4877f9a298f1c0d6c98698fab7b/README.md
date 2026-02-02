@@ -23,6 +23,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0b132b"
+icons:
+  - icon.png
 ---
 
 DUET Protocol is a multi-chain synthetic assets ecosystem, enabling pegged assets from various markets – from individual stocks, to indexes, ETFs, and commodities.

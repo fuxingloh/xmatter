@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#af040c"
+icons:
+  - icon.png
 ---
 
 Wrapped Mirror NFLX Token.

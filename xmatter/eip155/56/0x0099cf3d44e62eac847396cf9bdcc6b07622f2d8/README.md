@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dcdbda"
+icons:
+  - icon.png
 ---
 
 sandwiches

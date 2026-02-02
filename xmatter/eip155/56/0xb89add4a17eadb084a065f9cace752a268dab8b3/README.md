@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3d516b"
+icons:
+  - icon.png
 ---
 
 $ZETBNB is Multi Purpose Project | Auto-generate Advertisment , liquidity , DeFi , and NFT aircraft Market | project built on Binance Smart Chain #BSC

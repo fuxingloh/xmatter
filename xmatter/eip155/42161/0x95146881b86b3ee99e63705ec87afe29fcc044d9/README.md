@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c8a8ed"
+icons:
+  - icon.png
 ---
 
 Vertex is a cross-margined decentralized exchange (DEX) protocol offering spot, perpetuals, and an integrated money market bundled into one vertically integrated application on Arbitrum.

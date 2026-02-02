@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b4631c"
+icons:
+  - icon.png
 ---
 
 OxSwap is new and fastest swap exchange and Staking Farm on Binance Smart Chain. Much lower fees other than swap exchange almost free of fee.

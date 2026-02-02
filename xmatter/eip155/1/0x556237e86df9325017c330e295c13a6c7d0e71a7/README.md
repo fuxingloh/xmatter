@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#be9d21"
+icons:
+  - icon.png
 ---
 
 Real crowdfunding for you and non-profits

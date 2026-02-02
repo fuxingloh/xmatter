@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#585858"
+icons:
+  - icon.png
 ---
 
 Beast DAO is a decentralized incubator and platform for developers to deploy, and raise capital with cross-chain interoperability.

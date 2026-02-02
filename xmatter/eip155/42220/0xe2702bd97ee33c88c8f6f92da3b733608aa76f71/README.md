@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#540ec3"
+icons:
+  - icon.png
 ---
 
 Mento Nigerian Naira (NGNm) is a decentralized stablecoin pegged to the Nigerian Naira on the Celo blockchain.

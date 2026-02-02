@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c8c9d7"
+icons:
+  - icon.png
 ---
 
 τBitcoin is a synthetic Bitcoin supported by some of the largest miners in the world. Implementing the τ protocol, τBitcoin shows superior capital efficiency and composability for DeFi uses.

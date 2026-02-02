@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c5cec"
+icons:
+  - icon.png
 ---
 
 AIOZ Network is re-imagining streaming from the ground up with a blockchain that integrates content distribution and tokenomics built for media.

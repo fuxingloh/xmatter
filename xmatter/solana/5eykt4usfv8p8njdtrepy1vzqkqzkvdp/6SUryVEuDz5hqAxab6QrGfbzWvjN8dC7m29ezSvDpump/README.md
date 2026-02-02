@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#48454c"
+icons:
+  - icon.png
 ---
 
 The Official Jason Derulo Memecoin

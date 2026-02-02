@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ede8d7"
+icons:
+  - icon.png
 ---
 
 Yield Farming with Liquidity & Decentralized Exchange with Automatic Market Making on Binance Smart Chain.

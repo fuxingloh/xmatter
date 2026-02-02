@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e1057a"
+icons:
+  - icon.png
 ---
 
 dotmoovs is the first crypto mobile worldwide competitive environment. At dotmoovs you can compete with others around the world!

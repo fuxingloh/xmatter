@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#18150d"
+icons:
+  - icon.png
 ---
 
 A hybrid coin created to transform crypto and car enthusiasts into the most interactive and influential community on the planet. A deflationary, static yield farming, automatic liquidity generating token on the Binance Smart Chain.

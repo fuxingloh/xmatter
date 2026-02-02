@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#397bbe"
+icons:
+  - icon.png
 ---
 
 Crypto Exchange. Caytrex offers one of the most liquid order book in the world, allowing users to easily exchange Bitcoin, Ethereum, and many other.

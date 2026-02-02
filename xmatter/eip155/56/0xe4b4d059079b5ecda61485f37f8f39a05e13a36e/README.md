@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dcc4b7"
+icons:
+  - icon.png
 ---
 
 Rabbits Moon is a blockchain innovation hub with a DAO-driven seed stage fund, decentralized incubator, and launchpad, for empowering next innovations of the blockchain ecosystem, through community-driven governance, feedback, involvement and funding mechanisms.

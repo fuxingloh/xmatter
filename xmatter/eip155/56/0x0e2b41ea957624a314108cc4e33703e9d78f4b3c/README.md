@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#24642c"
+icons:
+  - icon.png
 ---
 
 Greenheart CBD Token - A Cryptocurrency for Hemp Farmers.

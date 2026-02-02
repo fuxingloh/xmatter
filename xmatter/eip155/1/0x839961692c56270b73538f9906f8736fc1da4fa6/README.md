@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#880e52"
+icons:
+  - icon.png
 ---
 
 Challenge is a community driven DeFi-project by the people and for the people, the decisions and actions of CLG (governance token) are made by its community through voting to assure equity and fairness for all.

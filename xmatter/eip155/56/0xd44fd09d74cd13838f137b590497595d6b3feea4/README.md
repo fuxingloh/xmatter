@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8755e0"
+icons:
+  - icon.png
 ---
 
 CryptoMines is a SciFi play-to-earn NFT game designed to provide the users with a fun experience by collecting Workers and Spaceships to travel through the universe searching for $ETERNAL, this mineral allows them to live another day and make some profits along the way.

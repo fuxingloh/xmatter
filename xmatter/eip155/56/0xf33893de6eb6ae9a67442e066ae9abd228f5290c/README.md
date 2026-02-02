@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d9a42d"
+icons:
+  - icon.png
 ---
 
 Grove Coin is a decentralized and secure green coin built for the future of our planet. Our mission is to Create wealth, for all Grovers, by harnessing the opportunities of a secure, decentralized digital currency in an environmentally conscious way. By compensating nature for years of abuse, Grove will create a healthier, wealthier future for all.

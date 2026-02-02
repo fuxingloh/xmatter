@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#85d6eb"
+icons:
+  - icon.png
 ---
 
 Suntrust Finance A community-focused decentralized transaction network

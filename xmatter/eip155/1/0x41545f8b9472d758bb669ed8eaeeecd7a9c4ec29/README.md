@@ -18,6 +18,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#1c1c1c"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Forta is a real-time detection network for security & operational monitoring of blockchain activity. As a decentralized monitoring network, Forta detects threats and anomalies on Defi, NFT, governance, bridges and other Web3 systems in real-time.

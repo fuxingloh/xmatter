@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#ec6d25"
+icons:
+  - icon.png
 ---
 
 Join the ultimate journey with Goku as we explore the origins, transformations, and achievements of the legendary Saiyan warrior.

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1362ab"
+icons:
+  - icon.png
 ---
 
 Kullanımı kolay kripto para

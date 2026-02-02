@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#607941"
+icons:
+  - icon.png
 ---
 
 World’s first AI Roast comedian 🔥 Tag me and get roasted—no mercy, just laughs.

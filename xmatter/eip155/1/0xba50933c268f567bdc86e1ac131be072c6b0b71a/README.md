@@ -10,6 +10,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#c8cfd5"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Arpa envisions to be a privacy-preserving computation network by leveraging Multi-Party Computation (MPC).

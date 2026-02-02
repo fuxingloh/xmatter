@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e9bc1f"
+icons:
+  - icon.png
 ---
 
 Cryptochrome is a community staking, liquidity mining platform and a place to build crypto passive income.

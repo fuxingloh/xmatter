@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#230809"
+icons:
+  - icon.png
 ---
 
 SpookyShiba is an E-Sports company and meme token with a unique multiplayer game with an integrated NFT marketplace.

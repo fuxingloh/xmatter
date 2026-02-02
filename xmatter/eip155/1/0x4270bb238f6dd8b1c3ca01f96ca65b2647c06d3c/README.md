@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3c434c"
+icons:
+  - icon.png
 ---
 
 FORTUNA is a global OTC derivatives market disciplined by algorithms while supporting transparent, real time, and full dose trading data supervision.

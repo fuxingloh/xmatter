@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0f3a56"
+icons:
+  - icon.png
 ---
 
 Crypto20 is the world's first tokenized crypto index fund.

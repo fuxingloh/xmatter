@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cf67af"
+icons:
+  - icon.png
 ---
 
 Sushi is the home of DeFi. Our community is building a comprehensive, decentralized trading platform for the future of finance.

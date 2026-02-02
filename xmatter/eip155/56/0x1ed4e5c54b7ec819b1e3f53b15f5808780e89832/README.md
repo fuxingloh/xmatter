@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f0b4d3"
+icons:
+  - icon.png
 ---
 
 Elon New AI Company

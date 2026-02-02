@@ -10,6 +10,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#c474eb"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Vidya is a DeFi gaming token for multiplayer games, cross-game inventories and experimental financial models on the blockchain.

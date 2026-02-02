@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f27f92"
+icons:
+  - icon.png
 ---
 
 MRST - Next generation marketplace for porn nfts

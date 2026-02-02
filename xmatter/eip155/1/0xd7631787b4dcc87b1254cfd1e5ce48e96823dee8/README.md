@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4e93fa"
+icons:
+  - icon.png
 ---
 
 Sociall (SCL) is a cryptocurrency and operates on the Ethereum platform.

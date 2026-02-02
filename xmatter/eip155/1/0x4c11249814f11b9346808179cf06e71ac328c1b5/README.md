@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04acec"
+icons:
+  - icon.png
 ---
 
 Oraichain is a data oracle platform that aggregates and connects Artificial Intelligence APIs to smart contracts and regular applications. The world’s first AI-powered data oracle has arrived.

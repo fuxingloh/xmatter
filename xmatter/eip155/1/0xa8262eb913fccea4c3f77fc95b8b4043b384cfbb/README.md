@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#22e2a7"
+icons:
+  - icon.png
 ---
 
 Krypton is a community-driven, privacy first cryptocurrency project with a main focus on decentralization, scalability and fungibility.

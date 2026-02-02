@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040c73"
+icons:
+  - icon.png
 ---
 
 RWA Inc. delivers end-to-end real-world asset (RWA) tokenization via an advanced multi-asset platform, including tokenization as a service, a launchpad, and a marketplace.

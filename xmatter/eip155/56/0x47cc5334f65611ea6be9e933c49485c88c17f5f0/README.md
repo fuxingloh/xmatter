@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ecbb3a"
+icons:
+  - icon.png
 ---
 
 EpicHero is the Biggest 3D NFT War Game on BSC, the first ever P2E game with NFT holders reflection rewards in BNB

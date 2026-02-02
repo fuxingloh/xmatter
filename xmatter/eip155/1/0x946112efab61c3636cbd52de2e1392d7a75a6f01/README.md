@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3b3b3b"
+icons:
+  - icon.png
 ---
 
 Hydro is a decentralized ecosystem using cutting-edge cryptography to secure user accounts, identities, and transactions.

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0a0c06"
+icons:
+  - icon.png
 ---
 
 Ancient8 builds Ethereum L2 for Gaming on OP Stack with Celestia Underneath, offering a suite of Web3 gaming infrastructure tools that serve as the distribution and marketing channel for games globally.

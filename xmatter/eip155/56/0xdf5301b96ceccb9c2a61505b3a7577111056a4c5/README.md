@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#213345"
+icons:
+  - icon.png
 ---
 
 CAPT token is the main token and store of value for CaptainSwap

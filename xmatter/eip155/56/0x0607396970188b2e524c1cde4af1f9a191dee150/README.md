@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ca9850"
+icons:
+  - icon.png
 ---
 
 SierraToken is the token of a community created to prevent addictions.

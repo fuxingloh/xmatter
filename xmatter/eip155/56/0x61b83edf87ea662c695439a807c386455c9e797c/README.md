@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0aac0c"
+icons:
+  - icon.png
 ---
 
 A new kind of meme token that supports DeFi and Blockchain innovations

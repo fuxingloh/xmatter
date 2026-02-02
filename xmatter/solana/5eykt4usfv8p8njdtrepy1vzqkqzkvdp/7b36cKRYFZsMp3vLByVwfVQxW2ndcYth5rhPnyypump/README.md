@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#9ce872"
+icons:
+  - icon.png
 ---
 
 The Bad Boy of Solana

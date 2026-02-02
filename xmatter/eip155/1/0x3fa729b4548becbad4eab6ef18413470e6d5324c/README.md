@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c2ea33"
+icons:
+  - icon.png
 ---
 
 Mover -- financial service for a digital generation.

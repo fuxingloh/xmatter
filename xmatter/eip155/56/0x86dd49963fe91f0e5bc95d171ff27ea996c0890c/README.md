@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c4f81"
+icons:
+  - icon.png
 ---
 
 0xCharts brings Multi-charts and portfolio tracking to the binance smart chain.

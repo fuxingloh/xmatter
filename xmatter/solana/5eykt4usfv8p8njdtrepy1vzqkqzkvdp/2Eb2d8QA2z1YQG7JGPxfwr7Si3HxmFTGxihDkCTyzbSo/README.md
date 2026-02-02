@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#55a95a"
+icons:
+  - icon.png
 ---
 
 Milk it for all it's worth.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d6d5dd"
+icons:
+  - icon.png
 ---
 
 MNSTP is a deflationary meme token with a strong community ethos.

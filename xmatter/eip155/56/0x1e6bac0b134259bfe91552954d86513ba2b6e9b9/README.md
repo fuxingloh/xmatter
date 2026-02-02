@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#145cac"
+icons:
+  - icon.png
 ---
 
 Shark Stake Finance smart contract generates of the stake amount daily and guarantees a final profit.

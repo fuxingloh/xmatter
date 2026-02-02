@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ee951c"
+icons:
+  - icon.png
 ---
 
 The KingDoge is a community-driven DeFi. We love doges and we know what they can do. We will do much better.

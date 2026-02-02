@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4017da"
+icons:
+  - icon.png
 ---
 
 Brastoken’s main objective is to revolutionize the cryptocurrency market in Brazil by offering multiple banking services in one place.

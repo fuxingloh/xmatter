@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbcd0a"
+icons:
+  - icon.png
 ---
 
 ADToken is dedicated to the tokennation of advertising impressions and realizes the circulation of advertising value through DeFi.

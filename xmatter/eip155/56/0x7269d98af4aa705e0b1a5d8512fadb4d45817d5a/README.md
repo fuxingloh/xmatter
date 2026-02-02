@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#05e339"
+icons:
+  - icon.png
 ---
 
 Global marketplace of digital assets, for Players and Clubs to share their stories with fans and invite them to join in collecting digital sports memorabilia directly from their idols.

@@ -23,6 +23,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#304090"
+icons:
+  - icon.png
 ---
 
 We aim to increase the global user base of SUPERTRUST's real economy platform ecosystem and expand the real-world fixed purchase tax of SUT as a payment method.

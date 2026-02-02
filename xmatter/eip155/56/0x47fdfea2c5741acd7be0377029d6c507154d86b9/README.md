@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e6e6e6"
+icons:
+  - icon.png
 ---
 
 SafeETH is an autonomous yield and liquidly generation protocol.

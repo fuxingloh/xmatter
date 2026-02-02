@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#151515"
+icons:
+  - icon.png
 ---
 
 GMM is the governance and medium of exchange token of Gamium

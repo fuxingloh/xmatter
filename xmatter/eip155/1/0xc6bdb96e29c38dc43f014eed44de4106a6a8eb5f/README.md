@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#937e52"
+icons:
+  - icon.png
 ---
 
 $INUINU is a zero-tax meme token that was stealth-launched with anti-bot protection. INU INU is a memecoin with lifestyle.

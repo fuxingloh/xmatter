@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#538ac4"
+icons:
+  - icon.png
 ---
 
 Humaniq (HMQ) is a cryptocurrency and operates on the Ethereum platform.

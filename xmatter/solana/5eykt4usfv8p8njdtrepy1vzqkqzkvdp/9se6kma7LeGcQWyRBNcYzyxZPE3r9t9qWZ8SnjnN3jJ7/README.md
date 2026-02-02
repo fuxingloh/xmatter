@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#34314a"
+icons:
+  - icon.png
 ---
 
 Luna, the visual and lead vocalist of AI-DOL, captivates with her girl-next-door charm and expressive, emotional singing

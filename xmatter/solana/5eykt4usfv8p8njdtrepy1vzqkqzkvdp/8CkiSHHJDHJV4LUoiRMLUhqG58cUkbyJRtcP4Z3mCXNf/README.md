@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#c3bbb3"
+icons:
+  - icon.png
 ---
 
 $POWSCHE - Need money for Porsche? POWSCHE is the vehicle to da lyfe you always dream about.

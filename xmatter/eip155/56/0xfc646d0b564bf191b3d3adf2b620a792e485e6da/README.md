@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Decentralized Finance, Reward-based and Decentralized Autonomous Organization, BTC price predition, NFT market and so on.

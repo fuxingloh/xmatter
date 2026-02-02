@@ -27,6 +27,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0a0a0a"
+icons:
+  - icon.png
 ---
 
 Meme coin on the BNB chain, with 3% reflections and renounced contract. Audited and fast growing. With very own Chat2Earn Telegram bot.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8ac03c"
+icons:
+  - icon.png
 ---
 
 FROGE, THE WORLDS FIRST ECO-DEFI

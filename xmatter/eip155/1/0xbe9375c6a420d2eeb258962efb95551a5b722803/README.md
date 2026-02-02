@@ -14,6 +14,7 @@ name: StormX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 Earn crypto when you shop online.

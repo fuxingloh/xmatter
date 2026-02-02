@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#b5b7c1"
+icons:
+  - icon.png
 ---
 
 There are too many projects in the market—some doing great, but most are tras

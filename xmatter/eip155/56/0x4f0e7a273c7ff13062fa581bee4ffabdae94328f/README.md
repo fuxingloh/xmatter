@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e18c34"
+icons:
+  - icon.png
 ---
 
 Wild Ride is a Binance Smart Chain community-driven meme token with a utility purpose.

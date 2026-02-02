@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0564db"
+icons:
+  - icon.png
 ---
 
 Life Token is a charity-orientated, self-staking, deflationary token aiming to help aid suicide prevention.

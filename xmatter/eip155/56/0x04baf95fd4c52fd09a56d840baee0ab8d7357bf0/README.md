@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#43148c"
+icons:
+  - icon.png
 ---
 
 ONE is a token issued by the BigONE trading platform.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c8a670"
+icons:
+  - icon.png
 ---
 
 Jamal the legendary camel of Mubarak

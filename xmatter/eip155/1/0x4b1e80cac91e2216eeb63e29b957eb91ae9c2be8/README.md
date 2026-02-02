@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#009040"
+icons:
+  - icon.png
 ---
 
 Using Jupiter, we strive to make this technology accessible by everyone and that is why we created Gravity, a versatile framework that interfaces with our blockchain, Jupiter.

@@ -12,6 +12,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#2a39ad"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 This Coin mogs all other coins. Base bridge version of Mog Coin on Ethereum.

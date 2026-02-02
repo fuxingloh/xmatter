@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0d0806"
+icons:
+  - icon.png
 ---
 
 $SHEPE is aiming to start the communities battle between Shiba VS Pepe.

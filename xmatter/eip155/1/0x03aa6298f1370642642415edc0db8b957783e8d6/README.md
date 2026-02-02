@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#151515"
+icons:
+  - icon.png
 ---
 
 NetMind Power is a decentralized platform aimed at democratizing AI and machine learning computing power by leveraging idle GPUs globally for more accessible and affordable AI development.

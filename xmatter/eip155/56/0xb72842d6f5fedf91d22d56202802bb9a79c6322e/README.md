@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d44f73"
+icons:
+  - icon.png
 ---
 
 The multi-chain decentralized exchange ecosystem for non-fungible tokens

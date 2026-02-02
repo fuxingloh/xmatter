@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f8ae2b"
+icons:
+  - icon.png
 ---
 
 The First Decentralized Exchange (DEX) For The Malaysians Market on Binance Smart Chain.

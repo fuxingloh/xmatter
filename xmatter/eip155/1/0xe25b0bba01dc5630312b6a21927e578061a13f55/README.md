@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eb6a34"
+icons:
+  - icon.png
 ---
 
 ShipChain (SHIP) is a cryptocurrency and operates on the Ethereum platform.

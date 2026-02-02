@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#423e3c"
+icons:
+  - icon.png
 ---
 
 SAINT is a charitable token on BSC with static rewards, auto LP, and charitable donations.

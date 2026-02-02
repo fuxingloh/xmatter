@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#56bdde"
+icons:
+  - icon.png
 ---
 
 Space Soldier is the first deflationary token for veterans. Two functions occur during each trade: Reflection & LP Acquisition

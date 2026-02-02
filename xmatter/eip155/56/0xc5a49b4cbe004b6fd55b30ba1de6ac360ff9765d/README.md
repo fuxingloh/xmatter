@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cbed6b"
+icons:
+  - icon.png
 ---
 
 Swamp.finance is a yield farming optimizer for Binance Smart Chain.

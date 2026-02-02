@@ -1,0 +1,18 @@
+---
+name: Accenture xStock
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - trc20
+links:
+  - name: website
+    url: "https://assets.backed.fi/products"
+  - name: coinmarketcap
+    url: "https://coinmarketcap.com/currencies/accenture-tokenized-stock-xstock/"
+symbol: ACNx
+decimals: 18
+icons:
+  - icon.png
+color: "#a304fb"
+---
+
+Accenture xStock

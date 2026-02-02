@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3eca9f"
+icons:
+  - icon.png
 ---
 
 OriginTrail provides a helpful protocol solution to the problem of maintaining trust among all players involved in bringing a product to market by making the “chain” in “supply chain” more literal. Using blockchain technology, OriginTrail can append immutable data to products as they take each step along the supply route.

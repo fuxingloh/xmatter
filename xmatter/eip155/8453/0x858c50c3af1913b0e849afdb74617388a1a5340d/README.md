@@ -12,6 +12,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#4f85d6"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Pioneering fast, flexible, and scalable web3 infrastructure, SubQuery provide fast, reliable, and decentralised RPCs and Data indexing services to over 150 chains.

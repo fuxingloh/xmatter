@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#825342"
+icons:
+  - icon.png
 ---
 
 Trumpius Maximus is a meme token.

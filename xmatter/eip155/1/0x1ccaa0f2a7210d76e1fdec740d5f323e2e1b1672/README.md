@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c1424"
+icons:
+  - icon.png
 ---
 
 Faceter (FACE) is a cryptocurrency and operates on the Ethereum platform.

@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0474eb"
+icons:
+  - icon.png
 ---
 
 Own your pets in the metaverse

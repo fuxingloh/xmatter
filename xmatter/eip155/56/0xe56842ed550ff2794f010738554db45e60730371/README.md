@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#363749"
+icons:
+  - icon.png
 ---
 
 Binemon is a virtual pet NFT game combined with elements of an Idle RPG game.

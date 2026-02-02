@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f5d66c"
+icons:
+  - icon.png
 ---
 
 $CURE is the first deflationary crypto token built around doing good. By design, this community powered token has exponential price growth benefits for both holders and charities.

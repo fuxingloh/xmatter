@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#d6b694"
+icons:
+  - icon.png
 ---
 
 Tired of looking like a LOSER when you drink from your regular quenchers? Have a physical Stanley Quencher but can’t represent your ownership online?

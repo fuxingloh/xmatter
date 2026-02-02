@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ecbc1c"
+icons:
+  - icon.png
 ---
 
 FLAG - a decentralized blockchain network of the world-scale for NFT, Gamfi, Metaverse, Web3 applications.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#201812"
+icons:
+  - icon.png
 ---
 
 Welcome to the hamster army! The time has come when it is worth rewriting history.

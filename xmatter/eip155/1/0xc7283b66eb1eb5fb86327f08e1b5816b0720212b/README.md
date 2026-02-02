@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#148cd3"
+icons:
+  - icon.png
 ---
 
 The governance token for Fei Protocol

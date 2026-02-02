@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1768d7"
+icons:
+  - icon.png
 ---
 
 Phoenix Global is built for the enterprise, with the consumer in mind. Developed and deploy decentralized consumer apps built to scale, and fit within the existing customer experience.

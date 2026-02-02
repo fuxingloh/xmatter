@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ccd4da"
+icons:
+  - icon.png
 ---
 
 Gameology is a decentralized gaming ecosystem based on the binance smart chain.

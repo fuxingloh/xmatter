@@ -36,6 +36,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9ddce5"
+icons:
+  - icon.png
 ---
 
 Beam is a sovereign network focused on gaming brought to you by the Merit Circle DAO.

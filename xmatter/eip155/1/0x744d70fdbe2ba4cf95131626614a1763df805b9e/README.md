@@ -22,6 +22,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#4463dc"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Status (SNT) is an open source messaging platform and mobile interface built to interact with applications that run on the Ethereum network.

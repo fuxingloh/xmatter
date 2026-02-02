@@ -17,6 +17,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6d2397"
+icons:
+  - icon.png
 ---
 
 A Metaverse Complex, Tunneling Between People on Earth and Blockchain-Based Technologies

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bc4b6c"
+icons:
+  - icon.png
 ---
 
 Azbit Global Ltd Is a blockchain-based banking platform for crypto traders and crypto investors. Building a bridge between the world of traditional finance and cryptocurrencies.

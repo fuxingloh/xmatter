@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ec0505"
+icons:
+  - icon.png
 ---
 
 SafeBLAST(BLAST) is an Autonomous yield and Liquidity generation protocol.

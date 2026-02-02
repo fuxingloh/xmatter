@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#75d8af"
+icons:
+  - icon.png
 ---
 
 The live Jupiter Perps LP price today is $2.06 USD with a 24-hour trading volume of $31,355,509 USD.

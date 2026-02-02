@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d93030"
+icons:
+  - icon.png
 ---
 
 CAN is the token designed for advertising services basing on a constantly growing AD system being developed by MobiPromo.

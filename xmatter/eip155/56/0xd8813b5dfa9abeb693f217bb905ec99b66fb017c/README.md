@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0497d4"
+icons:
+  - icon.png
 ---
 
 A Complete Metaverse of Digital Monsters on Binance Smart Chain. With BNRG the users can buy boosters of ENERGY NFT. Energy allows to increase the power of the monsters in Binamon Metaverse.

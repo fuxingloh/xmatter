@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bd28c4"
+icons:
+  - icon.png
 ---
 
 Reef Finance is a multi-chain smart yield engine and liquidity aggregator where any DeFi protocol can integrate into.

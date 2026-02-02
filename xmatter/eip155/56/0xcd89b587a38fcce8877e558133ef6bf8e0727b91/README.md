@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4cb3f6"
+icons:
+  - icon.png
 ---
 
 Htaibot is a community limited, driven, fair launched DeFi Token. Half of supply set for airdrop to holders

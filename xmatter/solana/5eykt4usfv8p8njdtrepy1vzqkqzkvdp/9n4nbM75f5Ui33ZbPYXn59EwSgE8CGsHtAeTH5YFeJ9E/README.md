@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f4941c"
+icons:
+  - icon.png
 ---
 
 Bitcoin is an innovative payment network and a new kind of money.

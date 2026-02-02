@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6e77b8"
+icons:
+  - icon.png
 ---
 
 DLF is a dex protocol that bridges multiple blockchains allowing users to perform automated trading of decentralized tokens.

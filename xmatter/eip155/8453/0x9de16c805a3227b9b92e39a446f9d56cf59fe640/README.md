@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e6e8e1"
+icons:
+  - icon.png
 ---
 
 $BENTO - The dog coin of the Based people.

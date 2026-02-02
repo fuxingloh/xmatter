@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#420aac"
+icons:
+  - icon.png
 ---
 
 TOPGOAL is a football metaverse with officially licensed digital collectibles, GameFi & SocialFi, with vision of bridging sports to web3.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d9ac40"
+icons:
+  - icon.png
 ---
 
 Broccoli Token - where crunchy memes meet AI genius. Inspired by CZ's legendary pup and powered by Aimensa.

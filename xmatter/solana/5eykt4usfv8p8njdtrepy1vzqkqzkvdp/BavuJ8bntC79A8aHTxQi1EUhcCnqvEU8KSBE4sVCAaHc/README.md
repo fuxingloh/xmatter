@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#35548a"
+icons:
+  - icon.png
 ---
 
 Doug the duck, a meme coin on Solana, is making his mark by transitioning from a pond reject to a wrestling sensation.

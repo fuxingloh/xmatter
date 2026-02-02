@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0862d2"
+icons:
+  - icon.png
 ---
 
 The role of NFT-Starter is as a provider of technology to have a platform exclusively governed by NFT-Starter community. There are multiple benefits for NST holders such as earning BNB passively, IDO participation, voting power, farming (liquidity pool), earning rating star and many benefits coming in the future.

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f6f2ec"
+icons:
+  - icon.png
 ---
 
 Venus is a decentralized finance (DeFi) algorithmic money market protocol on BNB Chain.

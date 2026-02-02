@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2fca99"
+icons:
+  - icon.png
 ---
 
 sUSDS token represents a tokenized implementation of the Sky Savings Rate for USDS, fully compliant with the ERC-4626 standard.

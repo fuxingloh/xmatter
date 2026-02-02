@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#73bb47"
+icons:
+  - icon.png
 ---
 
 InsurAce is a decentralized insurance protocol, aiming to provide reliable, robust, and carefree DeFi insurance services to DeFi users, with a low premium and sustainable investment returns.

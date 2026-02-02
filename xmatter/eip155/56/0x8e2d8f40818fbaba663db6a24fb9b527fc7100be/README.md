@@ -31,6 +31,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#043444"
+icons:
+  - icon.png
 ---
 
 ORE Token is a component of The ORE System (c) Next-Gen Blockchain Ecosystem

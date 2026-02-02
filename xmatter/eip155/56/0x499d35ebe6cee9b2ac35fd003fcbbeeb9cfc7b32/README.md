@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3fb3c"
+icons:
+  - icon.png
 ---
 
 Arena Two is the world’s first Web3 live sports ecosystem, where real-world tournaments meet crypto. Fans don’t just watch - they vote on real match decisions, back athlete-led teams, and earn rewards through memberships, NFTs, and the $ATWO token.

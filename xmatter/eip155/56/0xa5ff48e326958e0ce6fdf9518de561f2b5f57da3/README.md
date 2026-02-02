@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e4087d"
+icons:
+  - icon.png
 ---
 
 Simplifying blockchain for individuals and businesses of all sizes - from new projects to enterprises - Polkalokr's solutions provide an on-ramp into crypto with no coding required.

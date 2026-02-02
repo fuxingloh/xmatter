@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f24c09"
+icons:
+  - icon.png
 ---
 
 Baby Bonk isn't just a regular coin; it's a special idea that brings together the power of DeFi with the strength of a community.

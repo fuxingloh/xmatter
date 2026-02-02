@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Moca ID is an on-chain DID (decentralized identity) that gives you the identity to travel among the meta layer of Animoca Brands' network of and beyond 400+ portfolio companies, alongside our ever-growing partner ecosystem.

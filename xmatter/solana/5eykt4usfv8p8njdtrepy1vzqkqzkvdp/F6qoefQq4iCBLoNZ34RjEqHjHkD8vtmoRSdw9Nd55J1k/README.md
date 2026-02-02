@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f2bfb3"
+icons:
+  - icon.png
 ---
 
 Are you ready to witness history repeat itself? Just like Shib took on Doge, but this time on Solana chain, we present to you Shibwifhat – the ultimate Dogwifhat killer!

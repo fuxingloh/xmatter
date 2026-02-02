@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#c6bdb9"
+icons:
+  - icon.png
 ---
 
 In loving memory of Barsik, Hasbulla’s beloved and adorable cat, whose spirit now lives on forever within the Solana blockchain.

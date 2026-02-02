@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f33899"
+icons:
+  - icon.png
 ---
 
 FROYO is the main currency in the Froyo metaverse.

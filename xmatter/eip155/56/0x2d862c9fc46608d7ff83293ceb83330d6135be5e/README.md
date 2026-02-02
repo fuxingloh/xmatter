@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d2cfd0"
+icons:
+  - icon.png
 ---
 
 FalconX is a Bep 20 Token within the FalconX NFT Ecosystem. FalconX community members will be able to access FalconX NFT’s which reward holders with daily passive income.

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8f667c"
+icons:
+  - icon.png
 ---
 
 FastMoon is extremely fast autonomous yield and liquidity generation protocol.

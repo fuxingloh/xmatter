@@ -13,6 +13,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#043686"
+icons:
+  - icon.png
 ---
 
 Axie Infinity Shards are Axie Infinity's governance token.

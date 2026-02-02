@@ -17,6 +17,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc6721"
+icons:
+  - icon.png
 ---
 
 Carbon is a fast web3 privacy browser.

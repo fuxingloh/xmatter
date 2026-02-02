@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#141222"
+icons:
+  - icon.png
 ---
 
 StrikeCoin is a ground-breaking frictionless liquidity protocol with limitless potential. With straight forward transparent Tokenomics StrikeCoin allows for a fair and high yield investment for all Holders. The real-world use and scalability of StrikeCoin is our main driver. Future integration to the equities, crypto and NFT trading markets will open further opportunities and allow StrikeCoin to grow in both use and value for years to come.

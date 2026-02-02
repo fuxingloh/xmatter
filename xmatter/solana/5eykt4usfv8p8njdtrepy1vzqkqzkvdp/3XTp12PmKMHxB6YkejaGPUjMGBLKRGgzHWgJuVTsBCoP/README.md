@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#65696d"
+icons:
+  - icon.png
 ---
 
 A community take-over based on Matt Furie's 5th Boy's Club characters - Bird Dog. A dog that flies.

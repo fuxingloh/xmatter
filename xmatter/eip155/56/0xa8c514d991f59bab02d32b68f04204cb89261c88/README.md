@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbdc34"
+icons:
+  - icon.png
 ---
 
 First Blockchain Socio-Political Media Platform

@@ -8,4 +8,6 @@ standards:
   - trc10
 icon: icon.png
 color: "#fbda3d"
+icons:
+  - icon.png
 ---

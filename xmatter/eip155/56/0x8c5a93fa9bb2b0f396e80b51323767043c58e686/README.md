@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#337b43"
+icons:
+  - icon.png
 ---
 
 What we do? Three words. We plant trees. Simple yet impactful.

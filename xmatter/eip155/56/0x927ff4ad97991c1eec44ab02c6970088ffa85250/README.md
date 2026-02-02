@@ -14,6 +14,7 @@ name: Xtremcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 Xtremcoin is a convenient online payment tool that combines functions of several cryptocurrency wallets and bank cards virtual and plastic ones.

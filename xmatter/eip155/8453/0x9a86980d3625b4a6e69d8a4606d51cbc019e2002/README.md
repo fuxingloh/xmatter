@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d28c0a"
+icons:
+  - icon.png
 ---
 
 FOMO BULL CLUB is a members-only, decentralized launchpad and liquidity hub. It initially supports memecoins on the Base blockchain and is set to expand its platform to include Solana, Ethereum, Polygon, and others.

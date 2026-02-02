@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dcdade"
+icons:
+  - icon.png
 ---
 
 Base God is the most Based meme on Base. Join the Disciples of B as we follow Big B to eternal salvation and take over the Base chain.

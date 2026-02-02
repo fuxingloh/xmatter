@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2667fc"
+icons:
+  - icon.png
 ---
 
 PulsePad is a launchpad

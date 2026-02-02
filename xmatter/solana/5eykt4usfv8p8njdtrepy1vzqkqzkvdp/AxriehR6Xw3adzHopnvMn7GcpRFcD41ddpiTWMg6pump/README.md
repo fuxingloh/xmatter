@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#73685b"
+icons:
+  - icon.png
 ---
 
 tool Prisondente (jailstool)

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04ed04"
+icons:
+  - icon.png
 ---
 
 Symbiosis aggregates decentralized exchange liquidity across any EVM and non-EVM networks. Swap any token and transfer liquidity. Yes, any.

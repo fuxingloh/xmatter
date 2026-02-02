@@ -12,6 +12,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#5986df"
+icons:
+  - icon.png
 ---
 
 NVIDIA is breaking ground as one of the first memecoins on the Tron blockchain, inspired by none other than Justin Sun’s legendary peacock!

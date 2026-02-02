@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d4d4d4"
+icons:
+  - icon.png
 ---
 
 Tools to help you analyze the crypto market and find data-driven investing opportunities.

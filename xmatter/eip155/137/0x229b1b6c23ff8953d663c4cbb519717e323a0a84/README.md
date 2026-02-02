@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#050405"
+icons:
+  - icon.png
 ---
 
 Bloktopia is a Skyscraper Metaverse built and Backed by Polygon.

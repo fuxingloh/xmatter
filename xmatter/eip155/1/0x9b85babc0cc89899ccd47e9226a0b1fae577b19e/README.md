@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7bfbfb"
+icons:
+  - icon.png
 ---
 
 A stablecoin to bank the unbanked

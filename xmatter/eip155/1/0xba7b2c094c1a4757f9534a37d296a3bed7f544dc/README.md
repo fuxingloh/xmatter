@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#46bec6"
+icons:
+  - icon.png
 ---
 
 World Best Crypto DeFi Yield Farming

@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#997a57"
+icons:
+  - icon.png
 ---
 
 Jesus Coin was created to encourage generosity, foster community, and transform charitable giving.

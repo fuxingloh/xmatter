@@ -29,6 +29,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3db91"
+icons:
+  - icon.png
 ---
 
 A Diamond In The Rough!

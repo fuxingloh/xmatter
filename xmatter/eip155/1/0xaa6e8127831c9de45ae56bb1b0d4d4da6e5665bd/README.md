@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#460581"
+icons:
+  - icon.png
 ---
 
 Flexible Leverage token on ETH targeting 2x

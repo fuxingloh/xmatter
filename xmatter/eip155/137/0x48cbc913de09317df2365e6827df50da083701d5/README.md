@@ -17,6 +17,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bcbcbc"
+icons:
+  - icon.png
 ---
 
 FOUR token is a technical and incentive component dedicated to; (1) RTA (i.e. right-to-access), and; (2) MTO (i.e. multiple-transfer option) models in the ecosystem of Web3 communication.

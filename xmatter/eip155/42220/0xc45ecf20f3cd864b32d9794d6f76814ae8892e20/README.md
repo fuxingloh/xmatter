@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#540dc4"
+icons:
+  - icon.png
 ---
 
 Mento Japanese Yen (JPYm) is a decentralized stablecoin pegged to the Japanese Yen on the Celo blockchain.

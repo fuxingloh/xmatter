@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e10d0d"
+icons:
+  - icon.png
 ---
 
 SHIBA KILLER is Memes Token

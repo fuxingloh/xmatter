@@ -10,6 +10,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#fad61a"
+icons:
+  - icon.png
 ---
 
 SUN is a social experiment, which focuses on the DeFi potential of TRON.

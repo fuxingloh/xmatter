@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#44c0cf"
+icons:
+  - icon.png
 ---
 
 ChainGuardians Blockchain Video Game Defi Platform.

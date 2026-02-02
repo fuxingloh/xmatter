@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#edc836"
+icons:
+  - icon.png
 ---
 
 FWC is a BEP-20 token designed for buying tickets to the World Cup, booking hotels, using various related services, placing bets, and participating in lotteries.

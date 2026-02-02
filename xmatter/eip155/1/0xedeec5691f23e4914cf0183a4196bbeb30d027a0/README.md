@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#03558b"
+icons:
+  - icon.png
 ---
 
 Wrapped Statera is a wrapper for Statera to enable its successful usage on Dex aggregators and multi-token pools

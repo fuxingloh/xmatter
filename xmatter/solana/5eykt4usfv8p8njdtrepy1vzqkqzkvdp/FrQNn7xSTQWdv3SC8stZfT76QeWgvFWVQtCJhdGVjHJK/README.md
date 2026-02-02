@@ -24,6 +24,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Neurashi (NEI) is an AI-driven trading ecosystem on Solana, empowering traders with smart analytics & real-time market insights.

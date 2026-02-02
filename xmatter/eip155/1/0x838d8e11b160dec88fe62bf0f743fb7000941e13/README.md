@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#141f84"
+icons:
+  - icon.png
 ---
 
 Krios is a platform that connects employers and freelancers in the next hire share economy. Many skilled individuals are turning to freelancing as a result of the freedom and flexibility that it brings. Krios enables employers looking to hire and freelancers searching for jobs to connect with one another. Sign up now to search for job opportunities and showcase your skills.

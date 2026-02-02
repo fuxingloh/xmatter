@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04d4a4"
+icons:
+  - icon.png
 ---
 
 USDX is a decentralized and crypto-backed stablecoin issued by the Kava DeFi platform.

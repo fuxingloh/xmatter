@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3c3c54"
+icons:
+  - icon.png
 ---
 
 Unfolding the Power of Soft Bitcoin Economy.

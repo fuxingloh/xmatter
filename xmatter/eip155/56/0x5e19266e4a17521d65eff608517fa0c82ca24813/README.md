@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0f75bc"
+icons:
+  - icon.png
 ---
 
 An innovative crypto investment project combining the growth potential of blockchain technology with oceanic conservatory operations.

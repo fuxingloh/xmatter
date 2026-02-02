@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#df493b"
+icons:
+  - icon.png
 ---
 
 SHRIMP is an entirely decentralized protocol, similar to YAM but without the shortcomings of YAM. Which practices elastic supply, and fair distribution

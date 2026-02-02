@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c7c7c7"
+icons:
+  - icon.png
 ---
 
 DAM is a token used to compensate Alaskainu community.

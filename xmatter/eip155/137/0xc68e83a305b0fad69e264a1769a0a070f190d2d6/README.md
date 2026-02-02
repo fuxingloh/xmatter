@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#363636"
+icons:
+  - icon.png
 ---
 
 Polyroll is a decentralized casino powered by Chainlink and Polygon. It claims to be provably fair, transparent and immutable games, anytime anywhere.

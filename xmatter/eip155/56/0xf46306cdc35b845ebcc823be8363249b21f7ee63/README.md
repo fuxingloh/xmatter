@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b302a"
+icons:
+  - icon.png
 ---
 
 AI Predictions for Optimal Trading -- Unleash the power of Artificial Intelligence for Trading Excellence!

@@ -14,6 +14,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#fad61a"
+icons:
+  - icon.png
 ---
 
 The SUN.io platform is TRON's first one-stop platform that supports stablecoin swap, token mining and self-governance.

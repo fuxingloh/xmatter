@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f7e4d0"
+icons:
+  - icon.png
 ---
 
 Making world a better place by bringing cuteness to those who need it the most.

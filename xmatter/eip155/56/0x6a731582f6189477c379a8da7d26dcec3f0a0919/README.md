@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3073e6"
+icons:
+  - icon.png
 ---
 
 King of Legends is a metaverse platform built specifically for the GameFi project.

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9ca4bb"
+icons:
+  - icon.png
 ---
 
 4JNET, the pinnacle of fairness

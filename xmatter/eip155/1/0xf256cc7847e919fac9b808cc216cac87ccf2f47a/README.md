@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1f4f64"
+icons:
+  - icon.png
 ---
 
 Aave XSUSHI is an interest bearing token pegged 1:1 to the underlying XSUSHI deposited in Aave. aXSUSHI accrue interest in real time in your wallet.

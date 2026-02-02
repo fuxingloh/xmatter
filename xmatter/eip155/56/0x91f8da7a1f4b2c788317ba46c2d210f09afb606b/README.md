@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e64d4c"
+icons:
+  - icon.png
 ---
 
 The Crypto Token that honours our National Hero A-May Daw Aung San Suu Kyi.

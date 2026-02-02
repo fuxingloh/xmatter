@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8d5dfb"
+icons:
+  - icon.png
 ---
 
 Birdchain is a decentralized instant messaging application. It will give its users opportunity to earn extra income by selling their unused SMS messages, watching promotional videos, and selling their data.

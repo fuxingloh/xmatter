@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d8dcdc"
+icons:
+  - icon.png
 ---
 
 Commercial Bitcoin Mining.

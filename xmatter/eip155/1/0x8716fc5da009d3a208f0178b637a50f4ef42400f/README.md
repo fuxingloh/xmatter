@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#393f53"
+icons:
+  - icon.png
 ---
 
 UltrainGas (UGAS) is a cryptocurrency and operates on the Ethereum platform.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f4f2cb"
+icons:
+  - icon.png
 ---
 
 420x coin is the first crypto project that has the potential of becoming a mainstream brand, payment solution and cultural movement.

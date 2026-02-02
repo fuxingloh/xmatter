@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f4d020"
+icons:
+  - icon.png
 ---
 
 Libertas is a decentralized audio and podcast streaming service built on the Ethereum Blockchain.

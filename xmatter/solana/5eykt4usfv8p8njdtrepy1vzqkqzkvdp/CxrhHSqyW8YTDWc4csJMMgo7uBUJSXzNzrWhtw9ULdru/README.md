@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#100806"
+icons:
+  - icon.png
 ---
 
 $never,the crypto meme token that turns traditional marketing strategies on their head.

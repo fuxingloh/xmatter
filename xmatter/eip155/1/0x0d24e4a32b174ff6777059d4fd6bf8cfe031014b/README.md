@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#008000"
+icons:
+  - icon.png
 ---
 
 Bitphantom Pro is the utility token of Bitphantom Exchange, Token holder enjoy certain benefits for holding.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d7d9da"
+icons:
+  - icon.png
 ---
 
 High yielding BSC token with 15% transaction fee redistributed to existing wallet holders.

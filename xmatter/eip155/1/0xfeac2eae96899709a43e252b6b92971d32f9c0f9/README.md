@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#05a8bf"
+icons:
+  - icon.png
 ---
 
 The Anyone Protocol enables any app to instantly and easily run on a decentralized privacy network. Universal privacy, powered by DePIN.

@@ -8,6 +8,7 @@ name: FAKE Classic USDC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 This token/project is abandoned.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dbf8e4"
+icons:
+  - icon.png
 ---
 
 The ecosystem for the creation and co-ownership of autonomous AI Agents. Building the first autonomous agentic network state.

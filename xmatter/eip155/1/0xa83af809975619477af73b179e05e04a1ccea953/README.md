@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eba434"
+icons:
+  - icon.png
 ---
 
 LC4 is an established digital currency that allows individuals to make fast and secure transactions through a decentralized peer-to-peer network.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f60970"
+icons:
+  - icon.png
 ---
 
 FEG Wrapped UNI

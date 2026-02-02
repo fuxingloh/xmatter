@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f4931b"
+icons:
+  - icon.png
 ---
 
 eBitcoin is a tokenized version of Bitcoin on the Ethereum blockchain.

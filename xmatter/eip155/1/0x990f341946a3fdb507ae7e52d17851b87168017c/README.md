@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1668b0"
+icons:
+  - icon.png
 ---
 
 Strong (STRONG) is a cryptocurrency and operates on the Ethereum platform.

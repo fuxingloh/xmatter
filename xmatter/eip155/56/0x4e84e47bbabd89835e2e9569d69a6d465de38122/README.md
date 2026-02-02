@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fb7315"
+icons:
+  - icon.png
 ---
 
 Coin created to support babies with Sma

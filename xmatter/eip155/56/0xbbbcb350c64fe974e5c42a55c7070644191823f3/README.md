@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9b006"
+icons:
+  - icon.png
 ---
 
 A scalable GameFi Metaverse Aggregator where anyone can monetize their gaming experiences and social networks

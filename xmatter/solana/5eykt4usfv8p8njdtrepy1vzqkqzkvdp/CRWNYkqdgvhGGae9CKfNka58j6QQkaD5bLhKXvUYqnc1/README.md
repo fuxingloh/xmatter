@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#231233"
+icons:
+  - icon.png
 ---
 
 Crowny has created a new platform to help solve some of the current dilemmas within the world of advertising.

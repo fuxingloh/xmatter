@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e08c27"
+icons:
+  - icon.png
 ---
 
 KFC token has a swap business.

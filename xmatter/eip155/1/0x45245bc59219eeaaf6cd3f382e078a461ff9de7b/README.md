@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#12adfc"
+icons:
+  - icon.png
 ---
 
 The BANKEX Proof-of-Asset (PoA) Protocol is a new standard used to create smart assets and smart contracts for decentralized capital markets.

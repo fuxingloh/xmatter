@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d7c8c2"
+icons:
+  - icon.png
 ---
 
 KittyShiba, a decentralized & unique way to earn. Running on BSC, Token REFLECTION earning with very intelligent coding, makes KittyShiba much powerful.

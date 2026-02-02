@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#7a46b6"
+icons:
+  - icon.png
 ---
 
 MEMES WITH GUNS

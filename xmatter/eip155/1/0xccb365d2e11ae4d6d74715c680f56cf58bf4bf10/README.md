@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c2b57e"
+icons:
+  - icon.png
 ---
 
 Wall Street Pepe ($WEPE) is a meme coin on the Ethereum blockchain that merges meme culture with real trading utilities

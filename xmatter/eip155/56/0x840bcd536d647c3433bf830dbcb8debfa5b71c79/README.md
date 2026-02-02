@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f4a929"
+icons:
+  - icon.png
 ---
 
 BNB Cash is the native token of the BNB Fintech ecosystem

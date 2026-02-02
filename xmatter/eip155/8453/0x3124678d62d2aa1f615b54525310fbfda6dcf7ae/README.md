@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbf3e3"
+icons:
+  - icon.png
 ---
 
 Sensay is dedicated to creating a seamless integration between the digital and physical worlds, utilizing cutting-edge technology to develop personalized digital replicas. These replicas are not just digital twins; they are sophisticated, dynamic entities that interact and learn, offering unprecedented opportunities in various fields such as healthcare, education, and entertainment.

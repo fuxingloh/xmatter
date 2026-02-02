@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d3d3d3"
+icons:
+  - icon.png
 ---
 
 Refund is an exciting new crypto project that has recently made its debut on the Ethereum blockchain, poised to ignite another explosion in the ever-evolving world of cryptocurrencies.

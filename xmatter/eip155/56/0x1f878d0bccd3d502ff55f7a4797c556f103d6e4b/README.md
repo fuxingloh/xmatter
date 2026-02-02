@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d2295f"
+icons:
+  - icon.png
 ---
 
 Bringing Squid Game to life through gaming, NFTs and community prizes!

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#041c2c"
+icons:
+  - icon.png
 ---
 
 Solfarm is the first decentralized yield aggregator on the Solana blockchain with auto-compounding vault strategies

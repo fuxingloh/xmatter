@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#231b14"
+icons:
+  - icon.png
 ---
 
 Elastic BNB (XBN) is a new Defi protocol that enables Adaptive Supply Model. 1 XBN will anchor to 0.001 BNB with 100 days lag factor.

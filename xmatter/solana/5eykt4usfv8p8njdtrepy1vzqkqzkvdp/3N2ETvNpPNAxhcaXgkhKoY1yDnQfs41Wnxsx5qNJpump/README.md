@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Neur is an open-source, full-stack application that brings together the power of LLM models and blockchain technology

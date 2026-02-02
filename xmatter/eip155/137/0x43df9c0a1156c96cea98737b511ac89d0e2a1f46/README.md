@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2667af"
+icons:
+  - icon.png
 ---
 
 CVI is created by computing a decentralized volatility index from cryptocurrency option prices together with analyzing the market’s expectation of future volatility.

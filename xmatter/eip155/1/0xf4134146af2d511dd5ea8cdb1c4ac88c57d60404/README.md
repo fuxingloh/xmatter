@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#050505"
+icons:
+  - icon.png
 ---
 
 SunContract is an energy trading platform that utilizes blockchain technology to create a new business model for buying and selling electricity.

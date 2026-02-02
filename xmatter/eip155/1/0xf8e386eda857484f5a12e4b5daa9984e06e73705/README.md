@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a091fc"
+icons:
+  - icon.png
 ---
 
 Utility token for conducting decentralized code reviews and coding assessments.

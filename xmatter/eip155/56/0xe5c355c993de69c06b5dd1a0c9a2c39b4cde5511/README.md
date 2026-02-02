@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#68941e"
+icons:
+  - icon.png
 ---
 
 Frog Inu is a meme token that only rewards investors for holding, the number of rewards received will increase over time if investors hold them longer. We are the safest place for long- and short-term investors in the meme category.

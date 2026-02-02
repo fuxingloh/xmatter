@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0000f8"
+icons:
+  - icon.png
 ---
 
 The Micro Bitcoin mBTC is frictionless mining generation mBTC hard-coded on its smart contract to use as future store of value currency.

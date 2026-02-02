@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040505"
+icons:
+  - icon.png
 ---
 
 $RFD was created by Blurr, a mysterious 2017 OG whale. The purpose of the project remains open to speculation. The community has taken it upon themselves to run the project while Blurr largely remains in the background, sending cryptic messages on the blockchain. Making it a true DeFi project.

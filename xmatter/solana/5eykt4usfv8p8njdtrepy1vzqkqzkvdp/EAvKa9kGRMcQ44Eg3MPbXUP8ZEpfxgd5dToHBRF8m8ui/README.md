@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#cd2613"
+icons:
+  - icon.png
 ---
 
 its pepe wif a hat

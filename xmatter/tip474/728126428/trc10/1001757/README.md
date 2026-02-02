@@ -10,6 +10,8 @@ standards:
   - trc10
 icon: icon.png
 color: "#fc041b"
+icons:
+  - icon.png
 ---
 
 Token to power the DApp Evolution Ecosystem, including TronChat, TronRadar, TronCollectibles and more.

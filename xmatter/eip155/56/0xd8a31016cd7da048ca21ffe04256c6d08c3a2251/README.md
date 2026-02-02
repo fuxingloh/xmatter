@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b1a7a9"
+icons:
+  - icon.png
 ---
 
 WENLAMBO finance is a deflationary token rewarding holders on each transaction and donating part of fees to charity

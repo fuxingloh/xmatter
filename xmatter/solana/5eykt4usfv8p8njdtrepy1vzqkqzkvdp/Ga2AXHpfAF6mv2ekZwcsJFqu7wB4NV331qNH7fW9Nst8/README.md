@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#242c2c"
+icons:
+  - icon.png
 ---
 
 XRP is a digital asset built for payments

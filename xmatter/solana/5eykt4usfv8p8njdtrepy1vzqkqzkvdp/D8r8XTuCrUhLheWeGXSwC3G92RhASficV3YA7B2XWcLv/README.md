@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#a39c79"
+icons:
+  - icon.png
 ---
 
 The Dogwifhat owner’s cat.

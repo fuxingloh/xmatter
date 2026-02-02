@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4dcd98"
+icons:
+  - icon.png
 ---
 
 Safe Energy, or $ENERGYX is a community-driven deflationary token (cryptocurrency), with future projects to reduce our carbon footprint by making renewable energy sources more accessible.

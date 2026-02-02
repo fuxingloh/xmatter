@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d36cc7"
+icons:
+  - icon.png
 ---
 
 Saturna is a frictionless yield community-driven project. With tokenomics designed to keep building the price floor and reflecting transaction taxes back to holders and liquidity.

@@ -32,6 +32,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#050505"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Yield Guild Games (YGG) is a decentralized autonomous organization (DAO) for investing in non fungible tokens (NFTs) used in virtual worlds and blockchain-based games. The organization’s mission is to create the biggest virtual world economy, optimizing its community-owned assets for maximum utility and sharing its profits with its token holders.

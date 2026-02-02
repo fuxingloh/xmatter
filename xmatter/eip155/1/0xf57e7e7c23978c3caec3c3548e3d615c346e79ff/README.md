@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c0c0c"
+icons:
+  - icon.png
 ---
 
 Immutable X is the first layer-2 scaling solution for NFTs on Ethereum, with instant trade confirmation, massive scalability (up to 9,000+ trades per second) and zero gas fees.

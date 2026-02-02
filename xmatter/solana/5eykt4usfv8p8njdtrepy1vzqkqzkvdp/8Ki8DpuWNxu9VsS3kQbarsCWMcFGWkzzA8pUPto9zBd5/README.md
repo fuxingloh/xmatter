@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#cecfcf"
+icons:
+  - icon.png
 ---
 
 LOCKIN is a Memecoin based around the viral phrase of Locked In.

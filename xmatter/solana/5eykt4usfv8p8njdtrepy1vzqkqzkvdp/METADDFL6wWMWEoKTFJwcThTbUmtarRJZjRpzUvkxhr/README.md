@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#fbfbfb"
+icons:
+  - icon.png
 ---
 
 MetaDAO was created in 2023 with its initial token distribution via airdrop to aligned parties in November, 2023 with 10,000 tokens distributed and a remaining 990,000 in the DAO treasury. In March of 2023 the DAO traded a proposal which burned all remaining treasury META tokens culminating with a total burn of 979,000 META tokens.

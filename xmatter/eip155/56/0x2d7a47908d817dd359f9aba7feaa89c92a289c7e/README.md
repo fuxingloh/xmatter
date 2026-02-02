@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4b2cc4"
+icons:
+  - icon.png
 ---
 
 Your secure financial crypto partner. Get your free wallet for Lenda, Bitcoin and more than 10 other cryptocurrencies.

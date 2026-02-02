@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b0c53"
+icons:
+  - icon.png
 ---
 
 Our Zero Carbon Market delivers lower energy prices and rewards consumers with Energis tokens as a catalyst for change, reducing carbon emissions faster than renewable energy.

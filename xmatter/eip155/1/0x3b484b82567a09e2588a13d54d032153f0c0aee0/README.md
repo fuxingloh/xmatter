@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7d9eda"
+icons:
+  - icon.png
 ---
 
 $SOS is grateful to all NFT creators, collectors and markets for nurturing the entire NFT ecosystem.

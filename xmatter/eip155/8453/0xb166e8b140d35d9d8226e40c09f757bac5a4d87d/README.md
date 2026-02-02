@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#90bbcb"
+icons:
+  - icon.png
 ---
 
 A hive mind of unique and special individuals. $NPC is a meme fungible token (MFT) tradable on both Uniswap and NFT exchanges.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ce9e49"
+icons:
+  - icon.png
 ---
 
 AraPlanet lands as one of the first eco-sustainable crypto currency.

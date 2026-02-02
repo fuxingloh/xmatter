@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#38bad7"
+icons:
+  - icon.png
 ---
 
 sakeswap DAO token

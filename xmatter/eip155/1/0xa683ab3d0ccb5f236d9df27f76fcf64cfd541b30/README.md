@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6b42d3"
+icons:
+  - icon.png
 ---
 
 USDN operates on a decentralized and transparent smart contract infrastructure, ensuring stability, security, and efficiency. The smart contracts are deployed on multiple blockchain networks, supporting key functionalities.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#20b0c5"
+icons:
+  - icon.png
 ---
 
 FXP is a gateway solution which will unify the Ecosystem and Forex industry based on the blockchain technology.

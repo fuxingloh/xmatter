@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#484049"
+icons:
+  - icon.png
 ---
 
 Bambi

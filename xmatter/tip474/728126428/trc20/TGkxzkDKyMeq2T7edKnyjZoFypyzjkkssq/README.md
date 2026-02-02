@@ -12,6 +12,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#2ea063"
+icons:
+  - icon.png
 ---
 
 Wrapped stUSDT is a non-rebasing version of stUSDT which allows for easier integrations with DeFi protocols.

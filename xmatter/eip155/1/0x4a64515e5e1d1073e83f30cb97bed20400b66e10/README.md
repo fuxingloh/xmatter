@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#060504"
+icons:
+  - icon.png
 ---
 
 Wrapped ZEC is a 1:1 equivalent of Zcash on the Ethereum network

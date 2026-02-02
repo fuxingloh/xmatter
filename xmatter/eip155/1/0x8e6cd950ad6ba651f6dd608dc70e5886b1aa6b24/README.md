@@ -37,6 +37,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d82c1c"
+icons:
+  - icon.png
 ---
 
 Starlink Metaverse is a 3D video game featuring NFT collectible virtual real-estate powered by blockchain technology.

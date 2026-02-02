@@ -19,6 +19,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#061a4f"
+icons:
+  - icon.png
 ---
 
 Shield Finance is a community project with the aim of providing financial solutions and stability for its community. Our Focus is to generate lasting solution to financial instability in THIS SPACE and to be the best ever solution provider financially.

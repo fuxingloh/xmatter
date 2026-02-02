@@ -14,6 +14,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#040404"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Seamless Protocol is a native decentralized lending and borrowing protocol on Base. Seamless is focusing on lower-collateral borrowing and a better user experience to inspire the masses. SEAM is the utility governance token of Seamless Protocol.

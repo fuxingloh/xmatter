@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fabb1c"
+icons:
+  - icon.png
 ---
 
 The Trillioner crypto project aims to bridge the gap between traditional finance and the crypto world by offering financial services for both crypto projects and private users.

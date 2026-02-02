@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#241564"
+icons:
+  - icon.png
 ---
 
 Leading Decentralized Ecosystem in DeFi and Stake Sharing. Generate passive daily income while staking your tokens

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e2b081"
+icons:
+  - icon.png
 ---
 
 Ken Inu ($KENU) is a decentralized, peer-to-peer, MEME digital currency, developing a community-driven ecosystem based on it’s native BSC token.

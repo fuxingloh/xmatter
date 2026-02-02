@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#24262d"
+icons:
+  - icon.png
 ---
 
 There will be two protocols of Palmswap. The intention behind both protocols is to meet the needs of average and institutional-grade traders. We offer 100% on-chain perpetuals on v1 with a VAMM model and soon a hybrid infrastructure with order book on v2 to ensure optimal slippage, liquidity, and high-speed settlement of trades for traders.

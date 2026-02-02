@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8373d8"
+icons:
+  - icon.png
 ---
 
 TokenStars is the talent management platform (tennis), that connects stars, fans and advertisers.

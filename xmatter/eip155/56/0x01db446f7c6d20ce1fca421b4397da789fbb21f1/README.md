@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ae570b"
+icons:
+  - icon.png
 ---
 
 Doge King is a MEME & Self Solvent Token on #BSC inspired by #DOGE Coin. Its completely based on decentralized smart contract which incentivized holders of DOGEK. NFT marketplace is one of its core product, which is preparing to boost NFT usability on Binance Smart Chain.

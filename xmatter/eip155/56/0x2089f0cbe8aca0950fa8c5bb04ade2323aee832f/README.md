@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#88eeeb"
+icons:
+  - icon.png
 ---
 
 Londex (LDC) is a revolutionary rewards token pioneering trust, transparency and integrity on the binance smart chain. We have introduced a vast utility platform called to accompany the londex token for all crypto investors.

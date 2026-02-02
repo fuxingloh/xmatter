@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d7b86c"
+icons:
+  - icon.png
 ---
 
 The first MEME token to incorporate Prediction Markets and Game Theory into NFTs, called mNFTs

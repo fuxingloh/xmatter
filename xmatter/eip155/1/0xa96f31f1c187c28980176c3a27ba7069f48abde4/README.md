@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#322707"
+icons:
+  - icon.png
 ---
 
 ETGP is the update of ETG project with new roadmap , our vision is to facilitate & decentralize payment of companies & communities.

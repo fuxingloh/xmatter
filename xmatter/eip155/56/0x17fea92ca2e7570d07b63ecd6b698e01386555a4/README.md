@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f8c940"
+icons:
+  - icon.png
 ---
 
 COXSWAP - Decentralized Exchange – DEX. Trade, farming, staking, earn more token .

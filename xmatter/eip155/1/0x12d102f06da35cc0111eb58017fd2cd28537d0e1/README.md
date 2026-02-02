@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0497b2"
+icons:
+  - icon.png
 ---
 
 Yield farming token with low supply and 2% burn rate.

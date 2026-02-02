@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eae6bd"
+icons:
+  - icon.png
 ---
 
 GATSBY

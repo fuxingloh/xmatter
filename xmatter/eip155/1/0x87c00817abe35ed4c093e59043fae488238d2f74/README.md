@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3c4cc"
+icons:
+  - icon.png
 ---
 
 YOINK is a simple yet elegant protocol encompassing deflationary characteristics with a sneaky little twist.

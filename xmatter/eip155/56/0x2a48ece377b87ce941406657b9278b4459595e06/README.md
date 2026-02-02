@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e6c654"
+icons:
+  - icon.png
 ---
 
 Lunatics Token is a hyper deflationary project, dedicated to rewarding lunatic token holders in luna classic, and burning the massive supply of Luna classic.

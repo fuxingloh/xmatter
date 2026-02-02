@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eb1c05"
+icons:
+  - icon.png
 ---
 
 Adult Entertainment Platform.

@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#042f30"
+icons:
+  - icon.png
 ---
 
 A Genopet is your NFT spirit animal encoded with your personality and fitness data.

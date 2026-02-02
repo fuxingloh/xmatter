@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f2bd72"
+icons:
+  - icon.png
 ---
 
 Baby Kshark Token is a MEME Token that originates from the community, serves the community, and is self-governed by the community. It is fair and has a variety of gameplay methods.

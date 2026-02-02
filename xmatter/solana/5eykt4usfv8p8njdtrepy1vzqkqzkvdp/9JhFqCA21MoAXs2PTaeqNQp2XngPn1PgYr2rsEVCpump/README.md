@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#7a8fb8"
+icons:
+  - icon.png
 ---
 
 We are Magnum Opus, an AI accelerator managing and growing the $OPUS ecosystem with guidance from @opus_genesis

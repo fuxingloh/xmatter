@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6383fc"
+icons:
+  - icon.png
 ---
 
 DPRating (RATING) is a cryptocurrency and operates on the Ethereum platform.

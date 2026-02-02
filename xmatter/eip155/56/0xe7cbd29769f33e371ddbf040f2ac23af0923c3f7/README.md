@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbbb0c"
+icons:
+  - icon.png
 ---
 
 Project Joule is decenteralized way of Energy sharing.

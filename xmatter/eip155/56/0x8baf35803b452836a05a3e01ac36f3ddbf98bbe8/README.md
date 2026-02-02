@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c71e1c"
+icons:
+  - icon.png
 ---
 
 MULTI BLOCKCHAIN - Decentralized Exchange Platform Network

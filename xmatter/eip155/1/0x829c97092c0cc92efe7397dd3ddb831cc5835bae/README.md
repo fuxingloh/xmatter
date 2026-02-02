@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f4fbfa"
+icons:
+  - icon.png
 ---
 
 MINE Network is an innovative cross-chain mining Metaverse solution that seamlessly connects the worlds of DeFi, GameFi and NFT's into one consolidated, easy-to-use open-source protocol.

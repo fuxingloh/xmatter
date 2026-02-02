@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9a2679"
+icons:
+  - icon.png
 ---
 
 ZhouKing, $zhouking is an ambitious project that aspires to merge historical context with technological advancement. At its core, the initiative is designed to serve as a platform that offers educational insights into both the Zhou dynasty—a significant period in Chinese history—and modern web3 and crypto concepts.

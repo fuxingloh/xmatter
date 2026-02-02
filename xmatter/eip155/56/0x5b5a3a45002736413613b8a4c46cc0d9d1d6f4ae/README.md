@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8e7513"
+icons:
+  - icon.png
 ---
 
 Baby Wolf is a community based and community focused token on the Binance Smartchain.

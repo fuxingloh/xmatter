@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c2c3c"
+icons:
+  - icon.png
 ---
 
 Dear Trust Wallet Team. According to the meeting, We have collaboration with the BSC team at the suggestion of the Sea Binance Team (telegram user @bibiapac @Jessbinance, @BrettBinance, @BinanceBrokerTeam). So We would like to submit our Logo to Trust Wallet for more business collaboration.

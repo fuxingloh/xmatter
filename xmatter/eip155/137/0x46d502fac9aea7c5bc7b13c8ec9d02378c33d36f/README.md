@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4cd134"
+icons:
+  - icon.png
 ---
 
 WSPP is a PRC-20 token, which was designed to develop NFT and GameFi programs of the project, as well as for AMA rewards, trading, staking and farming within the platform.

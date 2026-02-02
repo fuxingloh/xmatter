@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#34449c"
+icons:
+  - icon.png
 ---
 
 Tianyu Loop is a decentralized crypto-asset trading and management platform that integrates Loop, a group of like-minds and Swap, decentralized trading, enabling share of trust and benefits on the basis of transfer in/between individualized crypto-asset. Tianyu Loop features a rich array of financial derivatives including liquidity mining, banking and crypto-asset hedging.

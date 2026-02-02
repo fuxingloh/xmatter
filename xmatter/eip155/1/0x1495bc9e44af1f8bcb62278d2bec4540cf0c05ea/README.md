@@ -31,6 +31,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#97bdbe"
+icons:
+  - icon.png
 ---
 
 Zero1 is a DeAI ecosystem creating a new economic primitive.

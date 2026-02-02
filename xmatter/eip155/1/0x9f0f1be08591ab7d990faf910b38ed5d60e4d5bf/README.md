@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c5a360"
+icons:
+  - icon.png
 ---
 
 MainCoin is secure, open source software powered by Ethereum.

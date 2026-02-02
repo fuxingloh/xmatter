@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#121212"
+icons:
+  - icon.png
 ---
 
 It all started with a tweet. Then it became a rallying cry to fight FUD. Now it's a memecoin.

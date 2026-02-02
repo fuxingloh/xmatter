@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6bbc5c"
+icons:
+  - icon.png
 ---
 
 EVDC is a deflationary and decentralized token that will be used as a digital currency to pay for EV charging.

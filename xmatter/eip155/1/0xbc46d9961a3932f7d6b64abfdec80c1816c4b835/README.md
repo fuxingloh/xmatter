@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2ba4e2"
+icons:
+  - icon.png
 ---
 
 LITEX - building the largest commercialized layer2 ecology worldwide.

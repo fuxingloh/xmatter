@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fa9b39"
+icons:
+  - icon.png
 ---
 
 Monetas Global is a leading player in the rapidly growing world of gaming. With a focus on gaming, our platform combines the excitement of play-to-earn elements with the unique ownership and collectability of NFTs

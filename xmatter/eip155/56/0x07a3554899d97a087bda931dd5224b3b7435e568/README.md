@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#041b33"
+icons:
+  - icon.png
 ---
 
 Decentralized Currency from People to People.

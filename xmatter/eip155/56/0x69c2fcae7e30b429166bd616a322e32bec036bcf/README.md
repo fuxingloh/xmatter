@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ee62a1"
+icons:
+  - icon.png
 ---
 
 The MuraAI platform is built on top of blockchain technology, providing a decentralized and secure environment for artist and animators to create and distribute their work.

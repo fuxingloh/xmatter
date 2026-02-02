@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fb2414"
+icons:
+  - icon.png
 ---
 
 A protocol for incentivised liquidity and synthetic assets on Binance Smart Chain.

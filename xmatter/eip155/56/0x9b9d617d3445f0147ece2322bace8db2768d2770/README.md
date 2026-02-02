@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#846ae2"
+icons:
+  - icon.png
 ---
 
 CUE Protocol is a deflationary asset with actual use cases through dapps.

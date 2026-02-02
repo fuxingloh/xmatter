@@ -29,6 +29,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cd4231"
+icons:
+  - icon.png
 ---
 
 Virtual token that allows unclaimed rewards from EverRise Staking NFTs and its Vote Escrowed (ve) EverRise to display in wallet balances.

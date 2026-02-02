@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e3eb24"
+icons:
+  - icon.png
 ---
 
 Daily COP is a stablecoin pegged to the Colombian Peso to make financial services accesible to everyone and let Colombians easily enter the crypto-space with a familiar and stable currency that will open a new world of knowledge and opportunities.

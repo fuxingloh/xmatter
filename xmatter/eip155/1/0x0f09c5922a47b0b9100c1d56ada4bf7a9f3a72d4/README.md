@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1370df"
+icons:
+  - icon.png
 ---
 
 Research, Development, Testing, Manufacturing, Production, Marketing, & Distribution of Advanced, One-of-a-kind Technologies to Utopia Citizens.

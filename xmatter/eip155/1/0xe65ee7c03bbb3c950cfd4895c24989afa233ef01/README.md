@@ -10,4 +10,6 @@ standards:
   - erc20
 icon: icon.png
 color: "#fcb404"
+icons:
+  - icon.png
 ---

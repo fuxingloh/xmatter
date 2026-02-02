@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#ae8861"
+icons:
+  - icon.png
 ---
 
 Suchir Balaji didn’t kill himself

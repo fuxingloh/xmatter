@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#050e06"
+icons:
+  - icon.png
 ---
 
 LevelUP your one stop P2E Blockchain Gaming Platform built for both players and game developers.

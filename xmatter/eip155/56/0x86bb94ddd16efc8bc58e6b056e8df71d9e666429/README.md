@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbedc7"
+icons:
+  - icon.png
 ---
 
 $TST is a test token deployed by BNBchain on four.meme

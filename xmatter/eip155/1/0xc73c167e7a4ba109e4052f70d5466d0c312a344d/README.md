@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ed84ae"
+icons:
+  - icon.png
 ---
 
 Sanshu Inu is a community-focused decentralized transaction network

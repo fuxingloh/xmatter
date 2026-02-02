@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#113055"
+icons:
+  - icon.png
 ---
 
 First Literature Non-Fungible Token (NFT) in Crypto Assets. Long Asset Token functions for Staking, Farming, and can also be used for transactions at the LONG NFT Marketplace, Collectibles & NFTs.

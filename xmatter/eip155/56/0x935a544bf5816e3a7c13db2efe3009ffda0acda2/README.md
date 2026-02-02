@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1e0539"
+icons:
+  - icon.png
 ---
 
 Bluzelle is a decentralized storage network for the creator economy.

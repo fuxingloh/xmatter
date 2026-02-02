@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#de9199"
+icons:
+  - icon.png
 ---
 
 MoonWilly is Certificate Of Deposit on Binance Smart Chain. Holders Earn Passive Rewards in DAI (USD Stablecoin) every Hour, Forever.

@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4c4cf4"
+icons:
+  - icon.png
 ---
 
 Alkemi Network is bridging CeFi to DeFi, building an institution-grade liquidity network for financial institutions and individuals to access professional DeFi and earn yields on their Ethereum-based digital assets.

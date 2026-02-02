@@ -27,6 +27,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f6cf96"
+icons:
+  - icon.png
 ---
 
 Ulti Arena - NFT Marketplace for Game Assets with Proof of Gaming and Trading Card Game.

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2b73fc"
+icons:
+  - icon.png
 ---
 
 AirSwap powers peer-to-peer trading.

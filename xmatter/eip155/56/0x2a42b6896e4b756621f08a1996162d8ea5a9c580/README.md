@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1f1a1a"
+icons:
+  - icon.png
 ---
 
 Floki Shiba Inu is a yield-generating deflationary charitable cryptocurrency that runs on Binance Smart Chain. It rewards holders through reflections by taxing transactions. It charity is dedicated in dogs protection and creating dog shelter.

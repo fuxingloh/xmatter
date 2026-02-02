@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#269d2a"
+icons:
+  - icon.png
 ---
 
 YooShi is a community-driven, fair launched MEME Token, which brings both fun and profits!

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5f0dd2"
+icons:
+  - icon.png
 ---
 
 OK is a next-generation digital content platform that combines AI and blockchain, the core of Industry 4.0.

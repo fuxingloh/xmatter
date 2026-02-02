@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3674b8"
+icons:
+  - icon.png
 ---
 
 Super Shiba is the NEXT BIG meme project, it combines the staying power of memes with the revolutionary nature of NFTs to completely change the way we view memes and their ownership.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fa79be"
+icons:
+  - icon.png
 ---
 
 The dominant elastic supply token on Binance Smart Chain.

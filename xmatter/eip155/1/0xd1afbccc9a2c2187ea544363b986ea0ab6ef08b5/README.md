@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8040fc"
+icons:
+  - icon.png
 ---
 
 ETHY describes itself as Ethereum's powerful yield farming coin. ETHY's vault smart-contract executes strategies to maximize APY, reward holders, and punish weak-hands.

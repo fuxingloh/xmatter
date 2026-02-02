@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3b4353"
+icons:
+  - icon.png
 ---
 
 BTCA allows complete privacy transactions on the BSC chain.

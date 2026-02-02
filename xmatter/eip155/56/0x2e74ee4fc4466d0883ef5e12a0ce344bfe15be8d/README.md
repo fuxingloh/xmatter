@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#191927"
+icons:
+  - icon.png
 ---
 
 Rebase Token that offers some Utility (dApps) and also rewards 4% all the holders with BEP20 ETH

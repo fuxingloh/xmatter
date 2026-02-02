@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f1ba15"
+icons:
+  - icon.png
 ---
 
 Uka Doge is an adventure game being built on a BSC and Ethereum, Polygon network

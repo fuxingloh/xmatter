@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#230c44"
+icons:
+  - icon.png
 ---
 
 ARIX is both centralized and decentralized helping both new and experienced traders access a user friendly, scalable, safest and the cheapest way to trade assets anywhere in the world.

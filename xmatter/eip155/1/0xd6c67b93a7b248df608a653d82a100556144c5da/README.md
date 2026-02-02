@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#049199"
+icons:
+  - icon.png
 ---
 
 ExNetwork Community App

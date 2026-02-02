@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#af040c"
+icons:
+  - icon.png
 ---
 
 Mirror Protocol allows the creation of fungible assets, “synthetics”, that track the price of real-world assets.

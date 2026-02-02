@@ -32,6 +32,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04ccd4"
+icons:
+  - icon.png
 ---
 
 IguVerse GameFi app redefines the whole concept of NFT using AI / ML technologies. Unique user-generated NFTs will become the new standard NFT 2.0, dethroning faceless collections. In our GameFi app, we introduce an innovative game mechanic Socialize to Earn, along with two more Earn concepts - Move to Earn and Play to Earn, where users can complete simple tasks like sharing pet photos on social media or walking and feeding them to get rewards.

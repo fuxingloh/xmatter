@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0d8ac5"
+icons:
+  - icon.png
 ---
 
 SEOR is the next generation of decentralized Web3.0 application technology development infrastructure, which aims to provide users and developers of Web3.0 with an easy-to-use blockchain technology development platform.

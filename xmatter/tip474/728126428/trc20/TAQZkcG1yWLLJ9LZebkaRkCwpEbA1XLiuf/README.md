@@ -8,6 +8,7 @@ name: Fake USDT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
+icons: []
 ---
 
 Fake USDT

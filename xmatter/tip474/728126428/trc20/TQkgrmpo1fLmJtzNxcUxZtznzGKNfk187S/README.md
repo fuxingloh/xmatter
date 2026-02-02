@@ -12,6 +12,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#e5bd86"
+icons:
+  - icon.png
 ---
 
 To The Sun!

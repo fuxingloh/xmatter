@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#53aa9c"
+icons:
+  - icon.png
 ---
 
 Aave USDT V1 is an interest bearing token pegged 1:1 to the underlying USDT deposited in Aave V1. aUSDT V1 accrue interest in real time in your wallet.

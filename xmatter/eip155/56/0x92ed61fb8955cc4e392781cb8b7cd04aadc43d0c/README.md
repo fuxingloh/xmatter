@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f7c30d"
+icons:
+  - icon.png
 ---
 
 OGGY INU is a BSC Meme Token. $OGGY is a community-driven token that can't be controlled by anyone.together with NFT OGGY, MarketPlace OGGY will be launched in the future.

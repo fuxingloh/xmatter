@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2277ee"
+icons:
+  - icon.png
 ---
 
 Starfish OS is a starfish-style institution consensus collaboration system.

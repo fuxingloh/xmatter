@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#0c0414"
+icons:
+  - icon.png
 ---
 
 Holdstation is a smart wallet transforming the DeFi landscape by crafting a Product Fit for the Community,

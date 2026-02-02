@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ef7343"
+icons:
+  - icon.png
 ---
 
 The strategically superior yield farming community on BSC.

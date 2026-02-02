@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ec4c58"
+icons:
+  - icon.png
 ---
 
 Router Protocol is a crosschain-liquidity aggregator platform that was built to seamlessly provide bridging infrastructure between current and emerging Layer 1 and Layer 2 blockchain solutions.

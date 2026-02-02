@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#161f1f"
+icons:
+  - icon.png
 ---
 
 Flame Chain project has some great Features secure, useful, & easy-to-use Product based on Binance Smart Chain, it will include easy cryptocurrency payments integration, and even a digital arbitration system.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f49434"
+icons:
+  - icon.png
 ---
 
 MineBee is developing a turnkey solution that will address the mining industries multi-faceted problems through MineBee solution, MineBee contract, and MineBee open market.

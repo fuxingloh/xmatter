@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#a56846"
+icons:
+  - icon.png
 ---
 
 Gondola is the silent walker.

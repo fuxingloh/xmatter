@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#272b3b"
+icons:
+  - icon.png
 ---
 
 InfinitX is a rebase token that also rewards in XRP.

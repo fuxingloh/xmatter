@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dfa26a"
+icons:
+  - icon.png
 ---
 
 Duke Token is a decentralized meme token to incentivize the crypto space. Duke tokens is an experimental community driven project and the first with underlying utility & products.

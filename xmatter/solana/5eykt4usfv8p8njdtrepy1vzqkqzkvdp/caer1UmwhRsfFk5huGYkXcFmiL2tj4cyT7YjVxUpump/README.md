@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#241f19"
+icons:
+  - icon.png
 ---
 
 Official Baby Trump Coin

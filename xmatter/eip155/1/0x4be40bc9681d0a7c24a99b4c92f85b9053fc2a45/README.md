@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc0404"
+icons:
+  - icon.png
 ---
 
 The next generation of Yearn Finance FORK is here now- DiFy Finance . DeFi moves fast. DiFy Finance moves faster.

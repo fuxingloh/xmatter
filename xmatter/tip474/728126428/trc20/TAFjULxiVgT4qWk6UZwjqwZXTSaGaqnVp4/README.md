@@ -10,6 +10,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 BitTorrent Chain is a brand-new heterogeneous cross-chain interoperability protocol, which leverages sidechains for the scaling of smart contracts.

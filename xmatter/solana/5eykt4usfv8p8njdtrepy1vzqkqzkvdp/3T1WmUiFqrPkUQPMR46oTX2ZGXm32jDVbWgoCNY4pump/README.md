@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#fbe7cc"
+icons:
+  - icon.png
 ---
 
 Bichi Mao is a creative project centered around a beloved webcomic series that shares heartwarming and relatable stories about cats

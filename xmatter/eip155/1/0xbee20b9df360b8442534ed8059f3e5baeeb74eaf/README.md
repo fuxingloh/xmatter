@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0ed0c0"
+icons:
+  - icon.png
 ---
 
 Mossland is a blockchain-based metaverse project that connects the real and the virtual world.

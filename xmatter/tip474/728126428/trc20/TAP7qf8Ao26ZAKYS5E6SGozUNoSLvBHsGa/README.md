@@ -14,6 +14,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#ea9f09"
+icons:
+  - icon.png
 ---
 
 YFX is a trading platform provide up to 100x leverage to trade on BTC, ETH and other crypto assets support by ETH, Tron, BSC , Heco,OKEx Chain,Polkadot.

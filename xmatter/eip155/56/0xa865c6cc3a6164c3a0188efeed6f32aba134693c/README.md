@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4e6814"
+icons:
+  - icon.png
 ---
 
 Evergreen token is the world first defi project to combine crypto and the environment through planting of trees.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6c85a3"
+icons:
+  - icon.png
 ---
 
 ETET is the equity token of ETET.Finance, the first decentralized Ethereum computing platform.

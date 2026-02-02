@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f4640c"
+icons:
+  - icon.png
 ---
 
 Streamr is a decentralized real‑time data network for web3. Create, share and consume data streams on an open, scalable P2P protocol with powerful tools for monetization. As a layer zero protocol, it provides a publish/subscribe messaging framework for decentralized applications built on top.

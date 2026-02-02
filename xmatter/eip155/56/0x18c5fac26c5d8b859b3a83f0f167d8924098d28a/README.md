@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dc3c84"
+icons:
+  - icon.png
 ---
 
 NAFTY, as a socialized re-distribution DeFi protocol, helps content creators to earn much more, and content consumers to pay much less via disintermediation, as well as receive rewards from all transactions across the Nafty Network

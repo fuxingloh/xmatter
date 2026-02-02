@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 A community-driven currency that powers an open-sourced library of cool dapps built on Ethereum.

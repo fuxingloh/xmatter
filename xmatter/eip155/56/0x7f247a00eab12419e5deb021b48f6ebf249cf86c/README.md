@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dfb84d"
+icons:
+  - icon.png
 ---
 
 A new smart blockchain based marketplace for trading digital goods and assets according to users interests. Automatic matching of buyers and sellers via unique artificial intelligence approach.

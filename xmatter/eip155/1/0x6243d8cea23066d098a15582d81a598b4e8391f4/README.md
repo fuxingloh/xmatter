@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6adcdc"
+icons:
+  - icon.png
 ---
 
 FLX is the ungovernance token for the RAI stable asset and the Reflexer ecosystem. It is a backstop asset for the RAI protocol.

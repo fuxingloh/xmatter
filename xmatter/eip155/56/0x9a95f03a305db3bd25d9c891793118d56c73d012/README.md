@@ -35,6 +35,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f59d2e"
+icons:
+  - icon.png
 ---
 
 Shiba Monk's purpose is to create a platform devoted to teaching people mindfulness. By teaching people to take care of their minds, we can improve their mental health and create a better world for everyone.

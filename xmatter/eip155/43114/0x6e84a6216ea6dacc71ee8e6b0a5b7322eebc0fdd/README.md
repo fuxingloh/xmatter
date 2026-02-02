@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bd6a63"
+icons:
+  - icon.png
 ---
 
 One-stop Decentralized Trading on Avalanche.

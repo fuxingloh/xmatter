@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1bc4fc"
+icons:
+  - icon.png
 ---
 
 Mixin Network is a privacy layer for other blockchains.

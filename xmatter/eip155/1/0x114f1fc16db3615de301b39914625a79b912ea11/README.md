@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9da1a6"
+icons:
+  - icon.png
 ---
 
 UFO-HOTEL with space-age architecture and running autonomously anywhere in the world. Our smart-contracts provides protection of property rights, transparency of booking rooms, commissions to sellers.

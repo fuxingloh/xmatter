@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#281a13"
+icons:
+  - icon.png
 ---
 
 Baby Mind has been set up to raise awareness for mental health t hrough the power of memes and rewards.

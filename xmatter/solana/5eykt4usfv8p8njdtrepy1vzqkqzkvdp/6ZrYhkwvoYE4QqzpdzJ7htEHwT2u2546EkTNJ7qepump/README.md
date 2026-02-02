@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#aa876f"
+icons:
+  - icon.png
 ---
 
 nomnom is a hungry hamster on the Solana network. This hamster is SO hungry that any-ting is on the menu!

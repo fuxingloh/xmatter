@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3e0605"
+icons:
+  - icon.png
 ---
 
 The Spartans - The first defense game based on BSC

@@ -29,6 +29,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cba83b"
+icons:
+  - icon.png
 ---
 
 Using the power of crypto, RTT puts American values at the forefront of its decision making, and you can play your part by using the RTT ecosystem to help fix issues important to you.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5f5345"
+icons:
+  - icon.png
 ---
 
 Bishoku Inu ($BISHOKU) is a community-focused, decentralized cryptocurrency with instant rewards thanks to active users!

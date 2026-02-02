@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#86147e"
+icons:
+  - icon.png
 ---
 
 Xeta is a Serverless Layer-1 Blockchain Ecosystem for Metaverse, Gaming, and NFT Applications.

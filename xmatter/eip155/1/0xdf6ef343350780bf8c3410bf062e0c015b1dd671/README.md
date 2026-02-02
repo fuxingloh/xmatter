@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#141414"
+icons:
+  - icon.png
 ---
 
 Blackmoon Crypto is a platform for the creation and management of tokenized investment funds. The platform aims to bridge the gap between the crypto investment world and the real world economy, allowing the creation of tokens to be associated with investments and projects which up until now have not been available in the crypto world.

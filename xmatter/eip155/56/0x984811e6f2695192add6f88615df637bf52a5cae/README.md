@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8bba3d"
+icons:
+  - icon.png
 ---
 
 For a Greener Future, one Hop at a time!

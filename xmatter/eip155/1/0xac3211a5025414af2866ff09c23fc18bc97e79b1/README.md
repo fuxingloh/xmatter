@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2172f9"
+icons:
+  - icon.png
 ---
 
 A unified Token, Wallet and HUB for Carbon Offsetting

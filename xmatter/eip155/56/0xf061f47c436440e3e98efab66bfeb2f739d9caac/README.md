@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4ecff5"
+icons:
+  - icon.png
 ---
 
 our AI-powered assistant for development and beyond First-ever blockchain AI working with cross-chain CEX & DEX trading agent

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#005828"
+icons:
+  - icon.png
 ---
 
 Hakka Decentralized Finance Ecosystem Warped Spacetime with Crypto Native Primitives

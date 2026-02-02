@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#59c6ec"
+icons:
+  - icon.png
 ---
 
 HyperBoost was birthed by the community seeking a new opportunity to start with. You would also be happy to know that it’s an advance hyper-deflationary token with a cutting-edge hyper buyback burn protocol built in to earn passive rewards through static reflections and burns, so more HyperBoost are automatically added to your wallet for each transaction.

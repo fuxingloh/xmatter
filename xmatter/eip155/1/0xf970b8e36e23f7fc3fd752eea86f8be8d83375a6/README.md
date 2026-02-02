@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4455f4"
+icons:
+  - icon.png
 ---
 
 A peer-to-peer credit network protocol based on co-signed smart contracts.

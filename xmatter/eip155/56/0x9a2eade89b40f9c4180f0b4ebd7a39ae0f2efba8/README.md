@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bd9475"
+icons:
+  - icon.png
 ---
 
 Tahnoon Bin Zayed

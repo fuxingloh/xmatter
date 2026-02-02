@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04f3d3"
+icons:
+  - icon.png
 ---
 
 First Exchange-Traded Token Fund (ETTF) DEX, Farming, Lending, Staking, NFT, and ETTF.

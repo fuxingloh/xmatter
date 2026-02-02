@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#76b336"
+icons:
+  - icon.png
 ---
 
 UPDOG is a charity focused auto-yielding deflationary token on Binance Smart Chain.

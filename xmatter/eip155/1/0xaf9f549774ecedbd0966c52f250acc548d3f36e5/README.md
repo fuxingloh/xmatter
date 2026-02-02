@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4c84f3"
+icons:
+  - icon.png
 ---
 
 Our core technology is a next generation Blockchain infrastructure called Rio Chain.

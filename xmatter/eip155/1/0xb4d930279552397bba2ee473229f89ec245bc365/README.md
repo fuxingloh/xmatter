@@ -14,6 +14,7 @@ name: MahaDAO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 Mahadao introduces non-depreciating currency ARTH coin, a new kind of money that maintains it's buying power irrespective of which direction the market moves.

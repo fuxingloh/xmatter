@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#251d11"
+icons:
+  - icon.png
 ---
 
 BETCHIPS (BETC) is a utility token based on ERC 20 for iGaming platform. The token is in use on www.betclotto.com as a transaction protocol for the gaming world.

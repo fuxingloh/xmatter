@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fa965a"
+icons:
+  - icon.png
 ---
 
 CoinAlpha is community based coin listing and voting platform.

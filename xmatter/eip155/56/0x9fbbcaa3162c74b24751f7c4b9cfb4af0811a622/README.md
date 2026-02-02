@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#540765"
+icons:
+  - icon.png
 ---
 
 He Defi Profect With Tranparent Longterm Protocols of User Retention and Growth.

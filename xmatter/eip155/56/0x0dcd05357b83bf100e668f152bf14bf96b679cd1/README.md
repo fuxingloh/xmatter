@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a39d69"
+icons:
+  - icon.png
 ---
 
 PepeMusk is one of the members of the Elon Musk family, promoting the spirit of Musk PepeMusk main responsibility.

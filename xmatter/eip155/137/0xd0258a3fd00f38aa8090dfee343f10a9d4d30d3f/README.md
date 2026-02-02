@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#173b7a"
+icons:
+  - icon.png
 ---
 
 Voxies is a free-to-play, 3D turn-based tactical RPG. The gameplay of Voxies is similar to a traditional RPG and tactical game, but it is powered by blockchain technology and ownership is central to the core concepts of the game.

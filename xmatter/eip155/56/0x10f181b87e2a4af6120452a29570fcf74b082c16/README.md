@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#110f04"
+icons:
+  - icon.png
 ---
 
 SafeZone Token Platform. Built On Binance Smart Chain #BSC. Hold SafeZone Tokens in Your Wallet and Watch Your Balance increase.

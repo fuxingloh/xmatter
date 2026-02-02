@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 WAGMI is the brilliant product of combining a Play-To-Earn game concept with a cultural acronym.

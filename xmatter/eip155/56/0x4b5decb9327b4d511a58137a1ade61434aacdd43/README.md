@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04fafa"
+icons:
+  - icon.png
 ---
 
 Pokmi is a social platform to share uncensored creativity with advanced user protection thanks to the Poken wallet

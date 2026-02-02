@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1624cc"
+icons:
+  - icon.png
 ---
 
 Transforming cryptocurrency transactions through innovative cross-chain swap and privacy solutions, built upon ground-breaking ChainLink CCIP (Cross Chain Interoperability Protocol) & CCTP (Cross Chain Transfer Protocol) technology

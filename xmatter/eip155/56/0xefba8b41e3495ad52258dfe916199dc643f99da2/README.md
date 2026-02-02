@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#444c4b"
+icons:
+  - icon.png
 ---
 
 SWASS is a revolutionary tokenomics access token for DApp's, web services, and more.

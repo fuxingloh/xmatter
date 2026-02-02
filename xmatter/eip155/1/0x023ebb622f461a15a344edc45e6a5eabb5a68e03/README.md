@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbe2f3"
+icons:
+  - icon.png
 ---
 
 DYX is a hyper deflationary staking meme token that burns 10% on every transaction and rewards stakers for their long term holdings.

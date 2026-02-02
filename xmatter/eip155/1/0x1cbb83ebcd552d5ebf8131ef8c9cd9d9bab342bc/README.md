@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#34e42c"
+icons:
+  - icon.png
 ---
 
 Utilizing NFTs in DeFi. Creating a way to tokenize a stake. Stake and lock your LP tokens and receive a NFT that contains the details of the stake. The LP tokens may be locked but the value is not!

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0f1f2a"
+icons:
+  - icon.png
 ---
 
 Building a Blockchain 4.0 Charity Community

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#120f09"
+icons:
+  - icon.png
 ---
 
 PLANET is used as a currency for transactions in the crypto industry. PLANET tokens are used as prize money and participation tickets for e-sports related businesses in Japan.

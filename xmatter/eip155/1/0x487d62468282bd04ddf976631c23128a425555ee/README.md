@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#000000"
+icons:
+  - icon.png
 ---
 
 An open-source payment system based on a high-speed blockchain optimized for payments and financial services.

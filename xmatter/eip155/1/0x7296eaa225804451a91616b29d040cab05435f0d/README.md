@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c242c"
+icons:
+  - icon.png
 ---
 
 Waves is a multi-purpose blockchain platform which supports various use cases including decentralized applications (DApps) and smart contracts.

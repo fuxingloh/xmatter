@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#232424"
+icons:
+  - icon.png
 ---
 
 SIREN is a distributed protocol for creating, trading, and redeeming fully-collateralized options contracts for any ERC-20 token on Ethereum. Options are a financial primitive from which one can build many different more complex financial instruments.

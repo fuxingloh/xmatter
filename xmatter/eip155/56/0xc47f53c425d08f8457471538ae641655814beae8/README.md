@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3c444c"
+icons:
+  - icon.png
 ---
 
 SurfMoon is the first travel-based BNB redistribution token focusing on rewarding it's holders.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#005828"
+icons:
+  - icon.png
 ---
 
 Hakka Finance: Decentralized Derivatives & Original Financial Instruments Hakka Finance is a decentralized financial ecosystem with remarkable DeFi products administered by governance token: $HAKKA.

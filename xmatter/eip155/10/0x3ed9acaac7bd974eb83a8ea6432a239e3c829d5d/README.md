@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d8af72"
+icons:
+  - icon.png
 ---
 
 keng uv enchen spartir. derfindor of sinfetiks. 2192.

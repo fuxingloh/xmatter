@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#267cca"
+icons:
+  - icon.png
 ---
 
 Baby Floki Doge is a hyper-deflationary and auto-staking token on the Binance Smart Chain.

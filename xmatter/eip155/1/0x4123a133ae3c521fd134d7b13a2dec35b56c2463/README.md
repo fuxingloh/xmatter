@@ -32,6 +32,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Open Custody Protocol brings an omnichain primitive for modular custody.

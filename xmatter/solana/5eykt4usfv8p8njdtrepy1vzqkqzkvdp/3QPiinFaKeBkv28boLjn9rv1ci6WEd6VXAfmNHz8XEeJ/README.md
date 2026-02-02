@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#286c9d"
+icons:
+  - icon.png
 ---
 
 Molecule ($MOLECULE) is where memes meet molecular-level creativity! Inspired by the building blocks of life, this meme coin is engineered to connect innovation with humor.

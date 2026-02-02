@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fb0cab"
+icons:
+  - icon.png
 ---
 
 Impossible Finance is a builder-focused multichain ecosystem featuring decentralized incubator, launchpad, and swap. The IDIA token is the core governance and access token for allocation into our launchpad sales. Users can stake the IDIA token into a variety of sectors and categories to secure allocation into the top project teams launching on Impossible.

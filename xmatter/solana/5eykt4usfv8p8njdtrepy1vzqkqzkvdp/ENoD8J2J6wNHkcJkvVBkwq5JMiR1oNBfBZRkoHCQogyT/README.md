@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#060606"
+icons:
+  - icon.png
 ---
 
 I want to put a ding in the memeverse — Stev Jabs

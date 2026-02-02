@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fadb4c"
+icons:
+  - icon.png
 ---
 
 Venus Reward Token is a mechanism created to become an additional mining distribution to suppliers and borrowers of Venus Protocol.

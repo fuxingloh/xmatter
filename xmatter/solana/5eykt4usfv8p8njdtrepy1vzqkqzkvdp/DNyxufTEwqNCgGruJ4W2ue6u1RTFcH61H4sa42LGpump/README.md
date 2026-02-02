@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#cebdab"
+icons:
+  - icon.png
 ---
 
 Bullish Coin ($BULLISH) is a meme-inspired cryptocurrency designed to capture the enthusiasm and optimism of the crypto community. With a total supply of 1,000,000,000 tokens and 100% of the liquidity pool burned, $BULLISH ensures security and stability for its holders.

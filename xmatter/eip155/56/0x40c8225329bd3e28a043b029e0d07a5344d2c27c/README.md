@@ -19,6 +19,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3a3e3e"
+icons:
+  - icon.png
 ---
 
 AgeOfGods is an AFKArena inspired game that uses the fundamentals of the 6.6 million‼️ player game combining it with Token economy and Play-to-Earn.

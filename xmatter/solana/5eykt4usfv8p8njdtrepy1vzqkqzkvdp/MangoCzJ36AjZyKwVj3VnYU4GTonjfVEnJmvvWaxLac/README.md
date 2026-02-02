@@ -19,6 +19,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#141424"
+icons:
+  - icon.png
 ---
 
 Mango v3 is designed to make life easier for market participants

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04949c"
+icons:
+  - icon.png
 ---
 
 The MoneyToken platform allows you to receive liquid funds right now, based on the current value of your cryptocurrency asset holdings.

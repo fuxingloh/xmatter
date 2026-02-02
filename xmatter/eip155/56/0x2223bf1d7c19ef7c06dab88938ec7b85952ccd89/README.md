@@ -38,6 +38,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1f1113"
+icons:
+  - icon.png
 ---
 
 The most advanced 3D NFT Metaverse MMORPG On Blockchain | #BNBChain

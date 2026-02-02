@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#25254c"
+icons:
+  - icon.png
 ---
 
 ANT is the utility token of Autonomi, a decentralized network running on everyday devices. Self-encryption, quantum-safe security, and lifetime storage by pooling spare device capacity. It enables secure data storage, communication, and services without middlemen, ensuring privacy and accessibility.

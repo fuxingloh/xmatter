@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#eacdb2"
+icons:
+  - icon.png
 ---
 
 Batcat is a community-owned memecoin on the Solana blockchain. His mission is to protect investors in the ecosystem from the villains.

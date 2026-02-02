@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f0b439"
+icons:
+  - icon.png
 ---
 
 The One And Only Doge And Lucky Cat Hybrid In Crypto World!

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9d20c"
+icons:
+  - icon.png
 ---
 
 IDM Token is intended to invite crypto currency investors to finance our big project in building a digital ecosystem of cooperatives and MSMEs in Indonesia. IDM tokens are at an early stage on the Binance Smart Chain network.

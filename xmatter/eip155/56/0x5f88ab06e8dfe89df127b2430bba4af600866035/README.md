@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc534b"
+icons:
+  - icon.png
 ---
 
 Kava is a cross-chain DeFi Lending platform enabling stablecoin loans for users of major cryptocurrencies.

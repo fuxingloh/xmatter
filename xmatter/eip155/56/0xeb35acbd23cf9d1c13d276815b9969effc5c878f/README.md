@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eb2823"
+icons:
+  - icon.png
 ---
 
 MiniShiba is built by a strong team of crypto experts that aim to build a sustainable, long term token bringing innovative ideas into the crypto space. In addition, we focus on building a strong community of investors that are in it for the long run. Join MiniShiba now and become part of this revolution.

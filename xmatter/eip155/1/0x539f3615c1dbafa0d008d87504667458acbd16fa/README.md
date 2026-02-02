@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7270f4"
+icons:
+  - icon.png
 ---
 
 FERA provides trading strategies for crypto traders and investors, focusing on low-cap projects. The full service includes a trading plan that covers funds management and short-term predictions.

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#348beb"
+icons:
+  - icon.png
 ---
 
 Moola is a non-custodial liquidity protocol built on the Celo blockchain that is democratizing access to yield and credit.

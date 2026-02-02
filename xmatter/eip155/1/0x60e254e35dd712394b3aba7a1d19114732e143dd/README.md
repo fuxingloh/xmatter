@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Seamlessly integrate staking rewards while maintaining liquidity and flexibility for your digital assets.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#235cf2"
+icons:
+  - icon.png
 ---
 
 IMO Token is the platform token of IMO ecosystem, which enables the project to obtain investment in stages through continuous limited private sales.

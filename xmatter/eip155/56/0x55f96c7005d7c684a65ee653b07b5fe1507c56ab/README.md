@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#243242"
+icons:
+  - icon.png
 ---
 
 The $WOJ token is a charity token, based on the BEP20 standard. Using $WOJ tokens the holders can enjoy multiple benefits within our wojak finance ecosystem, as it may be used as the governance token in the future.

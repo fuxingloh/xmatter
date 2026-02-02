@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e41c34"
+icons:
+  - icon.png
 ---
 
 Wrapped Mirror TSLA Token.

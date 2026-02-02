@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4bdbb3"
+icons:
+  - icon.png
 ---
 
 Keep technology is what sets tBTC apart as the only decentralized solution for Bitcoin on Ethereum.

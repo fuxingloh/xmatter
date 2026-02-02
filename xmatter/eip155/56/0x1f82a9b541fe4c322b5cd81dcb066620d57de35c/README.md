@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#edc56e"
+icons:
+  - icon.png
 ---
 
 Donkey King finance is a passive income generating, deflationary, DeFi token.

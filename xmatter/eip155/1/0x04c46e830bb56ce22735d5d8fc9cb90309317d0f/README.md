@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#320e60"
+icons:
+  - icon.png
 ---
 
 The most capital efficient AMM ever, developed for Starknet.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eb3354"
+icons:
+  - icon.png
 ---
 
 BEST offers you a wide range of rewards, perks and benefits, applicable to the whole growing Bitpanda ecosystem.

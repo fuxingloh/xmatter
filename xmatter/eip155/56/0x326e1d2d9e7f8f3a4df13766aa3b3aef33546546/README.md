@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8eb6ec"
+icons:
+  - icon.png
 ---
 
 GrandpaDoge is coming out of retirement to show the doge family how it's done!

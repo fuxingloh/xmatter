@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2aa6dd"
+icons:
+  - icon.png
 ---
 
 Omax Token is a community driven, Defi Token. Three simple functions occur during each trade: Reflection, Liquidity Acquisition, and Supply Burn.

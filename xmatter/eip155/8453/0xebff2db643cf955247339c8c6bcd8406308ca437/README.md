@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eeb289"
+icons:
+  - icon.png
 ---
 
 Chomp is Base's fiercest little fuzzball! Orange is the new blue, so join the chompunity, and Lettuce Cook.

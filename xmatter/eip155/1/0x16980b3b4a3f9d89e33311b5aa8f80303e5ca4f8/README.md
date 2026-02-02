@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8a35d1"
+icons:
+  - icon.png
 ---
 
 KIRA is a Layer 1 network enabling market access to any digital asset in the cryptocurrency ecosystem.

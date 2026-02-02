@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f8b800"
+icons:
+  - icon.png
 ---
 
 Basis Cash is an open source, permissionless stablecoin pegged to USD. The protocol is designed to expand and contract supply similarly to the way central banks buy and sell fiscal debt to stabilze purchasing power, without any REBASES or risking colletrals. Basis Share is a medium of governing the Basis Cash and receiving the seigniorage rewards.

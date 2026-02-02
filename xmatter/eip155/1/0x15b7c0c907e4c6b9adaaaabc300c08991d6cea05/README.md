@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fb3c54"
+icons:
+  - icon.png
 ---
 
 Automated smart contract executions on Ethereum.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#edf5f5"
+icons:
+  - icon.png
 ---
 
 Our goal is to inform you about the current and future revolutionary projects of Elon Musk.

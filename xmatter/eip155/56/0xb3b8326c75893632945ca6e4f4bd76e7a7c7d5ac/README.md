@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f1e6d8"
+icons:
+  - icon.png
 ---
 
 Binance Smart Chain BOY CZ is a token of the same project as Binance Smart Chain Girl.

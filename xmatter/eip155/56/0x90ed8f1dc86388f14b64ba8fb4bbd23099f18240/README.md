@@ -32,6 +32,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#81b6da"
+icons:
+  - icon.png
 ---
 
 SingularityDAO is a decentralised Portfolio Management Protocol designed to enable anybody to safely and easily manage crypto assets, supported by superior risk management and analytics tools; smart money, on-chain. A non-custodial protocol built to foster a new ecosystem of Digital Asset Managers to offer automated trading strategies leveraging AI-enhanced data analytics services.

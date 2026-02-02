@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6067a9"
+icons:
+  - icon.png
 ---
 
 BSocial is a social network specialized for Cryptocurrency and MMO (making money online) communities.

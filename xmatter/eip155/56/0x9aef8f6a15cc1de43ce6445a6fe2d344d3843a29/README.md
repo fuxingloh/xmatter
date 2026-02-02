@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3d8532"
+icons:
+  - icon.png
 ---
 
 HalalCoin is a deflationary store of value to help charity while making its community more wealthy.

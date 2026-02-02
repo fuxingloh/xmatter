@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6bf3fb"
+icons:
+  - icon.png
 ---
 
 BlockMonsters is a play to earn game where players can earn MNSTRS tokens and collect and trade Blockmonster NFTs.

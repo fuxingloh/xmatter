@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#28b0d8"
+icons:
+  - icon.png
 ---
 
 Swirge is an ecosystem that embodies a decentralized social media, a decentralized financial system, and a marketplace built on the blockchain technology.

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f5d750"
+icons:
+  - icon.png
 ---
 
 BEM is a token issued by BEMIL MT INTERNATIONAL DOO

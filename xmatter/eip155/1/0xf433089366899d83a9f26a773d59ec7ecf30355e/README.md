@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f97b49"
+icons:
+  - icon.png
 ---
 
 Metal Pay makes it simple to keep track of where your money goes.

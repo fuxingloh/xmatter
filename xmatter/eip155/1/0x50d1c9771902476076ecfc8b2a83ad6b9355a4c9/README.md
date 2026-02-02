@@ -23,6 +23,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6ed2e1"
+icons:
+  - icon.png
 ---
 
 FTX’s leveraged tokens aim to provide a clean, automated way for users to get leverage. FTT is the FTX ecosystem utility token.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fcba35"
+icons:
+  - icon.png
 ---
 
 Aave UniDAI is an interest bearing token pegged 1:1 to the underlying DAI deposited in the Uniswap Market of Aave Protocol.

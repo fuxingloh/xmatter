@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#10e41d"
+icons:
+  - icon.png
 ---
 
 Infinite Money Glitch x2($imgx2) - The Ultimate Double Reward Token

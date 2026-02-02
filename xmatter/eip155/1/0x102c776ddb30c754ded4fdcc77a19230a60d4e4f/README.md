@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#37d4b7"
+icons:
+  - icon.png
 ---
 
 The $FLC token is the native currency that powers the Flooring Protocol ecosystem. It unlocks and fuels customized platform utilities for all users.

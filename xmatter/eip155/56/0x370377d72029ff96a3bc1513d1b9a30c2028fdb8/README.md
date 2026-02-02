@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#070605"
+icons:
+  - icon.png
 ---
 
 The King Of The Sideways Market

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cd4d28"
+icons:
+  - icon.png
 ---
 
 Tantan is all about making honest connections online and in real life.

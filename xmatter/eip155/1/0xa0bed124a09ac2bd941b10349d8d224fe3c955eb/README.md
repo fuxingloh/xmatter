@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f6f5f4"
+icons:
+  - icon.png
 ---
 
 DePay is a simple, decentralized payment protocol that simplifies crypto payments.

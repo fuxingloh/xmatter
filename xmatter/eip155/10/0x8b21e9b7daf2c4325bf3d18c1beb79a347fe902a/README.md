@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f2c34b"
+icons:
+  - icon.png
 ---
 
 Collab.Land is an automated community management tool that curates membership based on token ownership.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bcbcbc"
+icons:
+  - icon.png
 ---
 
 Accountless Crypto Exchanger.

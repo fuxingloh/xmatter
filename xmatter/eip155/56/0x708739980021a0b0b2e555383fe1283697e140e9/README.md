@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fcdc04"
+icons:
+  - icon.png
 ---
 
 BLS is a sport token issued by blocsport.one for a purpose of DeFi sport operations.

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0473ec"
+icons:
+  - icon.png
 ---
 
 NFT Marketplace token to buy and sell NFT digital assets.

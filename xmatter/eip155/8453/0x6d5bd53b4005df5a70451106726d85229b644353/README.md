@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#add57c"
+icons:
+  - icon.png
 ---
 
 Embrace the Memetic Revolution and Unleash Passive Earnings with BORED PEPE ($BPE)

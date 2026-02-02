@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dadcdd"
+icons:
+  - icon.png
 ---
 
 SafeRocket is a community driven, deflationary token

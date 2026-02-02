@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2991e4"
+icons:
+  - icon.png
 ---
 
 The decentralized NFT marketplace. By the people, for the people.

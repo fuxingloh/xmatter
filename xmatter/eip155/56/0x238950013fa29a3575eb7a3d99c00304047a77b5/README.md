@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eab118"
+icons:
+  - icon.png
 ---
 
 Beeper is a self-evolving Intent Agent designed to help users seamlessly interact with Web3 across any platform

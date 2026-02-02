@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#11a8f8"
+icons:
+  - icon.png
 ---
 
 DPX - vanilla governance and protocol fee accrual token

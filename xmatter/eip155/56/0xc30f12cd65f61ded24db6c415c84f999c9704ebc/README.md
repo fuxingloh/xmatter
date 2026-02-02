@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b28655"
+icons:
+  - icon.png
 ---
 
 Earning money and helping dogs at the same time.

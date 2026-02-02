@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#751fdd"
+icons:
+  - icon.png
 ---
 
 NFTBOX is a decentralized finance (DeFi) token.

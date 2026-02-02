@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c79d66"
+icons:
+  - icon.png
 ---
 
 BabyPooCoin is a rewards token ran on the Binance Smart Chain, holders receive rewards in the form of the native utility token of the charting platform PooCoin

@@ -17,6 +17,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cebe8d"
+icons:
+  - icon.png
 ---
 
 Elon Musk stated that the Department of Government Efficiency (DOGE) is the perfect name for the commission he is willing to join in order to assist the Trump administration in making the government operate more efficiently.

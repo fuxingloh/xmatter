@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fb7c05"
+icons:
+  - icon.png
 ---
 
 Official Test coin of TagAI, A community-driven AI Agent Launchpad & Social Evolution Distribution Protocol | Interaction Layer for multi-AI and multi-Human.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cea067"
+icons:
+  - icon.png
 ---
 
 ECOSCU (ECU) is a cryptocurrency and operates on the Ethereum platform.

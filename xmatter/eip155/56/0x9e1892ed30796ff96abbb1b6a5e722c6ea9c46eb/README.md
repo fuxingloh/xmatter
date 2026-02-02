@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eebfd9"
+icons:
+  - icon.png
 ---
 
 CHAD token is a community driven token with automatic LP and reflective rewards.

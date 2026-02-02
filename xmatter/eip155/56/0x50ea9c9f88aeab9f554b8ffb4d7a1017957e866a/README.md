@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9af61"
+icons:
+  - icon.png
 ---
 
 Fox Trading is an automated trading service managed by our success Forex bots that will try to get the most from your investment. Powered by FOXT token.

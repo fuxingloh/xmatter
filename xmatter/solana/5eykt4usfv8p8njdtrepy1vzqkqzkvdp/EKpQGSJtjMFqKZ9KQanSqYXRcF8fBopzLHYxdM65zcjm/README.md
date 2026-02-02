@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#a39382"
+icons:
+  - icon.png
 ---
 
 The live dogwifhat price today is $0.239284 USD with a 24-hour trading volume of $32,653,726 USD.

@@ -8,6 +8,7 @@ name: HONEYPOT Gooner
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 HONEYPOT Gooner

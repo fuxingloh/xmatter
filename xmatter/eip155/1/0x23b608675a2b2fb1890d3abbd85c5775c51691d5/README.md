@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e6b3dd"
+icons:
+  - icon.png
 ---
 
 Unisocks is an “experimental” non-fungible token (NFT) listed on the Uniswap exchange.

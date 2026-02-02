@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#202834"
+icons:
+  - icon.png
 ---
 
 $Asteroid is a crypto meme coin that's bringing the adorable spirit of Asteroid, the Shiba Inu floating with the Polaris Dawn crew, into the digital currency realm.

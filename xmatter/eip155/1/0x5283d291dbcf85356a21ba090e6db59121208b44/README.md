@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#da581e"
+icons:
+  - icon.png
 ---
 
 Blur is the NFT marketplace for pro traders. The goal is to make Blur a marketplace that the entire NFT community owns and profits from.

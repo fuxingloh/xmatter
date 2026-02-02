@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#070604"
+icons:
+  - icon.png
 ---
 
 TRDC is a decentralized platform project of cryptocurrencies trading where users get full control of their money.

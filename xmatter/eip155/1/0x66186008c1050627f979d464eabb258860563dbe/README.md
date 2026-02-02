@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#000000"
+icons:
+  - icon.png
 ---
 
 Mutual DAO System is a Ethereum based, decentralized, open-source mutual insurance marketplace.

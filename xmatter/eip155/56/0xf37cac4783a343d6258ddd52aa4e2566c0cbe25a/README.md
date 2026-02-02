@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#74659c"
+icons:
+  - icon.png
 ---
 
 Elgos is a urban mobility application, and ELGOS is our token.

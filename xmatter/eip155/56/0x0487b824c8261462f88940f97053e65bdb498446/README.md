@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#343434"
+icons:
+  - icon.png
 ---
 
 Jetswap is a decentralized Automated Market Maker (AMM) on Binance Smart Chain with low fees and instant trade execution. Trade from the comfort of your own wallet!

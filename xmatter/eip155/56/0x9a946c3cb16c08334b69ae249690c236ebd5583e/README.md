@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4e9edd"
+icons:
+  - icon.png
 ---
 
 Blizzard.Money is an innovative hub for economic invention on the Binance Smart Chain. Home to the first SnowBank, RFI token staking pool, and BSC gaming platform, there is something for Yetis of all shapes and sizes on Blizzard.Money

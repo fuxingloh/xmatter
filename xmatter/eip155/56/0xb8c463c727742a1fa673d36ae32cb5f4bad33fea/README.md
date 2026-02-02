@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#131313"
+icons:
+  - icon.png
 ---
 
 BNBB is Binance Smart Chain Token

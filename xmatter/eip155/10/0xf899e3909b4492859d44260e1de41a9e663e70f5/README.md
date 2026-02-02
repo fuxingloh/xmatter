@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#df232a"
+icons:
+  - icon.png
 ---
 
 RadioShack is a 100 year old brand embedded into the global consciousness, now on a mission to be the first protocol to bridge the gap to mainstream usage of blockchain and cryptocurrencies.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f4941c"
+icons:
+  - icon.png
 ---
 
 ZBITCOIN IS THE FIRST DECENTRALIZED IDO PLATFORM FOR THE BINANCE SMART CHAIN NETWORK.

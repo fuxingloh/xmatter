@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#47803c"
+icons:
+  - icon.png
 ---
 
 MOG PEPE: Alpha Meme with AI Prowess.

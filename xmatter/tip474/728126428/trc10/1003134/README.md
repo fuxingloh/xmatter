@@ -13,6 +13,8 @@ standards:
   - trc10
 icon: icon.png
 color: "#ebb136"
+icons:
+  - icon.png
 ---
 
 The FREE coin is the ideal start-to-crypto coin : large community, many exchangess and wallets, available on Ethereum and Tron.

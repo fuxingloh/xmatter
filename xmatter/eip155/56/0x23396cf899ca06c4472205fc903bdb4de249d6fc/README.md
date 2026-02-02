@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5592f1"
+icons:
+  - icon.png
 ---
 
 TerraUSD is the first decentralized stablecoin that is scalable, yield bearing and interchain.

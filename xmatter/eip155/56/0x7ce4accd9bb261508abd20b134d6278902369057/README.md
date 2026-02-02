@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#88411c"
+icons:
+  - icon.png
 ---
 
 AINORI is develops various platforms such as Mining, Staking, Yield Farming, Binary Options, etc. called MyCoinGet. TAMAGO, which can be obtained from MyCoinGet mining,

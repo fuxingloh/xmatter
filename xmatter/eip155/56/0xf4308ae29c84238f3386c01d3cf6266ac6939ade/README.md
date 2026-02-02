@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#18aead"
+icons:
+  - icon.png
 ---
 
 LAZY is the native token of LazyMint Finance, The new type of Yield Farm with Automatic Liquidity Acquisition integrated with Delegated Farming on Binance Smart Chain.

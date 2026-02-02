@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#07f8b1"
+icons:
+  - icon.png
 ---
 
 SMARDEX is an Automated Market Maker (AMM) that addresses the issue of Impermanent Loss (IL) and in some cases transforms it into Impermanent Gain (IG).

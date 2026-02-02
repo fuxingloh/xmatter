@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0b0d0c"
+icons:
+  - icon.png
 ---
 
 SON aims to build a sustainable, long term token bringing innovative ideas into the crypto space.

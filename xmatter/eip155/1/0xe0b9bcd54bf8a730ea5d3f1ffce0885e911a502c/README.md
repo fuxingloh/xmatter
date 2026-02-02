@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ac7ab4"
+icons:
+  - icon.png
 ---
 
 ZUM TOKEN aims to become a currency used in special tournaments for Telegram games.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#000000"
+icons:
+  - icon.png
 ---
 
 ChainSwap is a cross-chain asset bridge & application hub for smart chains.

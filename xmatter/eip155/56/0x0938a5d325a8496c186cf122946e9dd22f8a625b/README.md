@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#373838"
+icons:
+  - icon.png
 ---
 
 DIFI is a decentralized electronic document trading platform, where you can sell videos, codes, audio, pictures, games, databases, etc., using DIFI tokens for transactions.

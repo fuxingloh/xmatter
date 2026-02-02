@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#281a2b"
+icons:
+  - icon.png
 ---
 
 Zerebro's most genius creation

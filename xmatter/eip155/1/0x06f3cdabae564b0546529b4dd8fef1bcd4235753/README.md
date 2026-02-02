@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d43404"
+icons:
+  - icon.png
 ---
 
 TILWIKI is a global art and antique art blockchain platform that enables users to sell and buy art online including tokenized art through Artsharing (fractional ownership) to remove restrictive barriers preventing investor access.

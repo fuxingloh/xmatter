@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#cd8e5c"
+icons:
+  - icon.png
 ---
 
 $UPDOG is a Solana memecoin based on the coin only go up me combined with everyone's favorite crypto mascot - the Shiba Inu pup!

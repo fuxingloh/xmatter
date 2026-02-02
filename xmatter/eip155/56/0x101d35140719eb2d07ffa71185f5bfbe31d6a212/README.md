@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c28f2f"
+icons:
+  - icon.png
 ---
 
 BNB Cash

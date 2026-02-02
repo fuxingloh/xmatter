@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e0d2a0"
+icons:
+  - icon.png
 ---
 
 BLOO, ONCE A HOMELESS SOUL, WAS RESCUED FROM THE STREETS BY BRIAN AND JESSE, WHO EMBRACED HIM INTO THEIR LOVING CARE

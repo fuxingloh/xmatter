@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fcc30d"
+icons:
+  - icon.png
 ---
 
 VICTORIA VR is a Massive Multiplayer Online Open World With Realistic Textures in Virtual Reality built on the blockchain. Users can buy and trade land, get and create unique assets, explore the world full of user content, complete quests for rewards, and play games.

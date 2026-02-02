@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#043cfc"
+icons:
+  - icon.png
 ---
 
 Monbase is a digital asset exchange offering hundreds of cryptocurrencies for buying, selling, and trading. Users can register, complete KYC, deposit funds, and manage their investments using an exchange wallet. Live market data is also provided for market analysis.

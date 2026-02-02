@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#484848"
+icons:
+  - icon.png
 ---
 
 $GIGA is a Solana token deployed by Giga Chad himself

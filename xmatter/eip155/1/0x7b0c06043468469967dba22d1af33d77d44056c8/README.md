@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2e3d74"
+icons:
+  - icon.png
 ---
 
 Launched in 2017 by a global team based in Canada, Taiwan and India. Morpheus.Network aims to digitally Integrate and automated global supply chains.

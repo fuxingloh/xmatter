@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cecdeb"
+icons:
+  - icon.png
 ---
 
 WhaleFall is a experimentation of a decentralized community movement to break free from the oppression of the financial class.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f89c8a"
+icons:
+  - icon.png
 ---
 
 0xzx.com is a content-based incentive platform based on the decentralized economy that continually motivates new news content.

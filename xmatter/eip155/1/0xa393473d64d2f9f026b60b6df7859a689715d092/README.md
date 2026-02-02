@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3e636e"
+icons:
+  - icon.png
 ---
 
 Lattice is a decentralized finance (DeFi) application built with Ethereum and Constellation’s Hypergraph Transfer Protocol (HGTP).

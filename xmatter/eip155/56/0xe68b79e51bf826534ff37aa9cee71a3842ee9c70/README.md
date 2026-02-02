@@ -27,6 +27,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#046404"
+icons:
+  - icon.png
 ---
 
 CZUSD is a digital stablecoin in the CZODIAC ecosystem, enabling seamless exchange. It employs CzusdGate for swaps and ScorchPeg for a flexible rate, while the Gnosis Multikey Safe secures collateral.

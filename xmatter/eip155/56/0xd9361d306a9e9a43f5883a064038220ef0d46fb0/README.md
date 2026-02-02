@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d6b347"
+icons:
+  - icon.png
 ---
 
 The Future of Digital Finance with StyleoCoin. StyleoCoin specialize in harnessing blockchain technology to create secure and transparent solutions for diverse industries, empowering businesses with efficiency and trust.

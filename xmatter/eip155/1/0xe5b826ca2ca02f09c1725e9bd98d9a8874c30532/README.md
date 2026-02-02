@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#212121"
+icons:
+  - icon.png
 ---
 
 ZEON Network bills itself as a decentralized platform for financial services.

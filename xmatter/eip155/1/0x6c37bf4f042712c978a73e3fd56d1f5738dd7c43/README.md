@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#87774c"
+icons:
+  - icon.png
 ---
 
 Elementeum Games is behind the Ether Legends Trading Card Game, which aims to merge physical and blockchain trading cards with engaging gameplay.

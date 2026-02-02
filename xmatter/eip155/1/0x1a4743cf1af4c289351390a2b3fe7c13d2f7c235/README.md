@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f2ba2f"
+icons:
+  - icon.png
 ---
 
 Castweet is a live-streaming platform with blockchain incentives that rewards everyone. Both Viewers and Content creators can be rewarded for their participation on the platform.

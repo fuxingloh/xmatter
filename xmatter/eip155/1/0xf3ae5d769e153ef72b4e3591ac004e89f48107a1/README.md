@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#58b8e5"
+icons:
+  - icon.png
 ---
 
 The Decentralized Internet Infrastructure for Web3.0: A more secure, private and fairer internet for everyone

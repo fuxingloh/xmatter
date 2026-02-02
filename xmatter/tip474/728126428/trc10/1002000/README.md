@@ -10,6 +10,8 @@ standards:
   - trc10
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 BTTOLD will continue to be supported for a long time, and everyone can swap BTTOLD for BTT at any time. 1 BTTOLD = 1000 BTT.

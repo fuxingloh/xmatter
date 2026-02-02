@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#272623"
+icons:
+  - icon.png
 ---
 
 CryptoBlades is a Play to Earn NFT RPG developed by Riveted Games on the Binance Smart Chain.

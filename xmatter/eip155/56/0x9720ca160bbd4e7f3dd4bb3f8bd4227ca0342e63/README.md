@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ffb800"
+icons:
+  - icon.png
 ---
 
 GMPD is the native token of GamesPad: the ultimate gaming, NFT, and metaverse ecosystem.

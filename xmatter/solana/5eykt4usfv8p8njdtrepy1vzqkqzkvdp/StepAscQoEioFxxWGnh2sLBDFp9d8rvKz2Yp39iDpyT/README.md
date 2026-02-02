@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f1a44b"
+icons:
+  - icon.png
 ---
 
 Step Finance is the front page of Solana. Visualise, Analyse, Execute and Aggregate transactions across all Solana contracts in one place. Step is a portfolio management dashboard and transaction aggregator where users can monitor their tokens associated with their wallets, LP positions, Staked Yield farms, Margin positions and more.

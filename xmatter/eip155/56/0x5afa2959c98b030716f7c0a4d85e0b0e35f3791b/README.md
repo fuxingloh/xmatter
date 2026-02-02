@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e6dcce"
+icons:
+  - icon.png
 ---
 
 Aims to create a connection between Artificial Intelligence and Cryptocurrency to build a strong web3 system.

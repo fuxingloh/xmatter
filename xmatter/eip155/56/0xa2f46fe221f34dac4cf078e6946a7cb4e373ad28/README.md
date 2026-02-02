@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#343b33"
+icons:
+  - icon.png
 ---
 
 BAFI is a utility token for bafi decentralized exchange ans IDO platform.

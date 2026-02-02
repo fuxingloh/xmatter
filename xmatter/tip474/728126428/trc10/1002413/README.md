@@ -10,6 +10,8 @@ standards:
   - trc10
 icon: icon.png
 color: "#6404ce"
+icons:
+  - icon.png
 ---
 
 BTZC is to be used on the VibraVid.io platform.

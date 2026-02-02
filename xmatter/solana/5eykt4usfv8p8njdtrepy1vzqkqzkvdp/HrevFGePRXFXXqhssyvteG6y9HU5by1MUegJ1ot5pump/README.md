@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#e99a34"
+icons:
+  - icon.png
 ---
 
 Robin Rug: The meme coin with a mission! Guarding your gains with stealthy bots 🤖 and letting you bet against the rug pulls.

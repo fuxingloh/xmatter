@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#1e1e1e"
+icons:
+  - icon.png
 ---
 
 $SOY is a Solana-based memecoin taken over by the community after the original developer left, focusing purely on meme culture and entertainment

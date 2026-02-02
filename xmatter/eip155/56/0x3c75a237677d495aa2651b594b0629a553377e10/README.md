@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#171512"
+icons:
+  - icon.png
 ---
 
 BitcoinXv2 is a deflationary token, completely decentralized and thrives from the power of the community. It is a token for the people. One Governance, One BitcoinXv2.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#131414"
+icons:
+  - icon.png
 ---
 
 SpaceCorgi leverages memenomics with real-world token utility.

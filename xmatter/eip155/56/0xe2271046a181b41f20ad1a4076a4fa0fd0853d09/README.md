@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bf829a"
+icons:
+  - icon.png
 ---
 
 SAFUV2, A Frictionless Yield Generation, Community Driven Protocol.

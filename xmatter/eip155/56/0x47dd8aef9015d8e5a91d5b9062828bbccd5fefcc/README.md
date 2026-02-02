@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cd4e28"
+icons:
+  - icon.png
 ---
 
 TANTAN is Memes Token

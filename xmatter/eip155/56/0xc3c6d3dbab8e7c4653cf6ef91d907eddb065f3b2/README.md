@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0a090a"
+icons:
+  - icon.png
 ---
 
 Norwegian forest cats have been associated with Vikings throughout history and apper in Scandinavian mythology. Wegie joined the crypto ecosystem as one of these cats.

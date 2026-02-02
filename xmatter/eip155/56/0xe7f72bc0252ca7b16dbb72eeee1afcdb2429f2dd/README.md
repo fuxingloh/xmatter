@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04fa96"
+icons:
+  - icon.png
 ---
 
 NFTLaunch is a launchpad for NFT projects

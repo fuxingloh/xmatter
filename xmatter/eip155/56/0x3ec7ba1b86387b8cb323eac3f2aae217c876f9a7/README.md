@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#76b5c2"
+icons:
+  - icon.png
 ---
 
 MegaRise - A Proprietary, Hyper Deflationary Token. MegaRise holders are not only rewarded through static rewards but also through true automatic burns every trade from within the liquidity pool.

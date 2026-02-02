@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 DeFiPIE allows everyone to create lending pools for any assets on Ethereum and Binance Smart Chain networks. Users can supply their assets and borrow other assets.

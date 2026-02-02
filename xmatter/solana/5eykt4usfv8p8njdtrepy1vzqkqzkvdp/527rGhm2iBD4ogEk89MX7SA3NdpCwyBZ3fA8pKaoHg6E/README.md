@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#cddeba"
+icons:
+  - icon.png
 ---
 
 $TEA is the premier community-driven memecoin on Solana, uniting tea lovers and the crypto communi-TEA.

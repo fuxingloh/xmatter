@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dfe1e1"
+icons:
+  - icon.png
 ---
 
 Hippocrat is pursuing to aggregate global health data and build data economy upon decentralized governance and open cooperation. Hippocrat token is an incentive for data provider and utilized to build and maintain Hippocrat DAO and protocol in a way the project can be permanently sustainable.

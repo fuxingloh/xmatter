@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e3933c"
+icons:
+  - icon.png
 ---
 
 Most Trending & Potential Exchange Platform For Trading

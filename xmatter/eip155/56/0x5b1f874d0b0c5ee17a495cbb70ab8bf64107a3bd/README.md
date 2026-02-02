@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#242324"
+icons:
+  - icon.png
 ---
 
 BinaryX is a decentralized derivatives contract based on BSC. Users can trade binary options via BinaryX which adopts an improved AMM model.

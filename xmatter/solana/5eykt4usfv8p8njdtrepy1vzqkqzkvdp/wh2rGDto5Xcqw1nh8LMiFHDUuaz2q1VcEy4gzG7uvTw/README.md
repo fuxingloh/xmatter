@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#193ed5"
+icons:
+  - icon.png
 ---
 
 The ofishul home of YOUAYFA men’s nashinol futball - on Solana

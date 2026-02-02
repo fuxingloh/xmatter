@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b161b"
+icons:
+  - icon.png
 ---
 
 DogeFather is a community owned Meme token, which aims to build a completely decentralised ecosystem. It aims to develop dGames dChart dSwap dPad.

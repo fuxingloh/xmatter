@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ddd7d8"
+icons:
+  - icon.png
 ---
 
 AINU was mistreated his whole life and has finally found a loving place to stay he calls home. ANON INU's goal is to keep his holders happy by being a Defi token that has three functions: manual burns, adding towards liquidity and distributing his holders.

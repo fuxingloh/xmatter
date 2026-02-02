@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9b6736"
+icons:
+  - icon.png
 ---
 
 Jetcoin (JET) is a cryptocurrency and operates on the Ethereum platform.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#707071"
+icons:
+  - icon.png
 ---
 
 Wcomp is an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications.

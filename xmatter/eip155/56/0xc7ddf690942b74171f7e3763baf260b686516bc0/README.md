@@ -27,6 +27,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d3e4e8"
+icons:
+  - icon.png
 ---
 
 Utilizing an innovative elastic supply protocol, Atlantis makes it workable for token circulation to be paid straight forwardly corresponding to the age rebase rewards.

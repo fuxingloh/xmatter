@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e72edf"
+icons:
+  - icon.png
 ---
 
 REFI expanded opportunities by decentralizing lending and leading processes, leading to better security, accountability and transparency of the financial system..

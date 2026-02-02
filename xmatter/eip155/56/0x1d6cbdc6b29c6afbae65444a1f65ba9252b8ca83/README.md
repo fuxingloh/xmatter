@@ -29,6 +29,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b6a086"
+icons:
+  - icon.png
 ---
 
 TOR is a fully collateralized, backed by the Hector Finance Treasury, stablecoin built on the Fantom Opera Chain.

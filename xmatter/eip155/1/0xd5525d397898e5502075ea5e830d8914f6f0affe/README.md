@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f5b42a"
+icons:
+  - icon.png
 ---
 
 Meme mashes up the most exciting innovations in DeFi and NFTs. Put your $MEME to work and collect digital content that you can truly own.

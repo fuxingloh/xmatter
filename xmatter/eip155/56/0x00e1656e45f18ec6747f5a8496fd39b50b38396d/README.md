@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbca46"
+icons:
+  - icon.png
 ---
 
 BCOIN is the token used in the Bomb Crypto game

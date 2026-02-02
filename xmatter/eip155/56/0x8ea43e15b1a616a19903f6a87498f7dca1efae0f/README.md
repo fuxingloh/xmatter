@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c6c6c6"
+icons:
+  - icon.png
 ---
 
 xAI the science of making machines that can think like humans.

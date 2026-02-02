@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f2a521"
+icons:
+  - icon.png
 ---
 
 Changpeng Zhao, the founder of Binance, revealed his dog’s name in an X post, sparking a wave of memecoins named after the canine.

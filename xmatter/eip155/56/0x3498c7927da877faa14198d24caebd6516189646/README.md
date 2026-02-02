@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c8ab73"
+icons:
+  - icon.png
 ---
 
 ROTHS

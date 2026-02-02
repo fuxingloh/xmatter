@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#080e09"
+icons:
+  - icon.png
 ---
 
 Legion For Justice is a community-driven project built on Binance Smart Chain.

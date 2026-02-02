@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#43b182"
+icons:
+  - icon.png
 ---
 
 The utility token in the 0x_nodes ecosystem.

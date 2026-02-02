@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1f151f"
+icons:
+  - icon.png
 ---
 
 Jones DAO is a yield generation, asset management, and options liquidity protocol, with vaults that enable 1-click access to institutional-grade options strategies while unlocking liquidity and capital efficiency for DeFi options.

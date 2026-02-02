@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#00d0f8"
+icons:
+  - icon.png
 ---
 
 Props’ open-source infrastructure creates a decentralized network of apps operated by independent developers, who share an underlying token, benefiting from collective network effects.

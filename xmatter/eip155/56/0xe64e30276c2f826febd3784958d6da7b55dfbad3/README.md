@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f2e7d4"
+icons:
+  - icon.png
 ---
 
 SWFTC provides SWFT Blockchain with the sources of liquidity needed to offer faster cross-chain swaps at the best rates, and with low fees.

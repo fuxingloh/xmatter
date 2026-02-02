@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d27804"
+icons:
+  - icon.png
 ---
 
 Babylons is the first community-governed game aggregator and NFT marketplace operating on BSC. Create, participate, collect and earn. Only on Babylons..

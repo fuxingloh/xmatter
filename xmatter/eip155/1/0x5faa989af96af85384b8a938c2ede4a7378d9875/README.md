@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c5cfc"
+icons:
+  - icon.png
 ---
 
 Galxe is the leading Web3 credential data network in the world.

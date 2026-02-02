@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f4c43b"
+icons:
+  - icon.png
 ---
 
 BIKI is a token issued by the BiKi trading platform, and represents the rights and interests of the exchange.

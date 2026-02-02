@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cf5f9a"
+icons:
+  - icon.png
 ---
 
 HOES is the staked form of DRUGS. Hoes are used to stake for other tokens on the Traphouse.

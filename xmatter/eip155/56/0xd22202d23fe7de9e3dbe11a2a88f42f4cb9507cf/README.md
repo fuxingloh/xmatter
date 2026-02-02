@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#10a3dd"
+icons:
+  - icon.png
 ---
 
 Minereum BSC - First Self Mining Smart Contract on Binance Smart Chain

@@ -10,6 +10,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#6f6f6f"
+icons:
+  - icon.png
 ---
 
 CSTO is the utility token of CSPay Platform on the TRON network.

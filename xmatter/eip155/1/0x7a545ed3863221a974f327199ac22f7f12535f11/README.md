@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e9ac1c"
+icons:
+  - icon.png
 ---
 
 Baguette Token is a community-based meme project implemented as an ERC20 token. BGTT is distributed as a reward for contributions made to its ecosystem. Its goal is to bridge the culinary and cryptocurrency worlds and provide partnerships with bakeries all around the world.

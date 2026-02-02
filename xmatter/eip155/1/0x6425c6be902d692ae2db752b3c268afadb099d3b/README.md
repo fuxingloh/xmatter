@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#53545b"
+icons:
+  - icon.png
 ---
 
 Restart Energy MWAT (MWAT) is a cryptocurrency and operates on the Ethereum platform.

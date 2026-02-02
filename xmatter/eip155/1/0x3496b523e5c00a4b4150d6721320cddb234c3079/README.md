@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Numbers protocol is a decentralised photo network, for creating community, value and trust in digital media.

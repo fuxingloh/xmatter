@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f99f04"
+icons:
+  - icon.png
 ---
 
 1TRONIC Network is Payment Platform for Daily Necessities using Crypto and or Fiat Currencies

@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b9d2df"
+icons:
+  - icon.png
 ---
 
 SpacePort is a revolutionary retro style arcade game where players can PLAY TO EARN in SPC. Game is completely free to play for all users!

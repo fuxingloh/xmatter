@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Fat Cat Killer is a secure, medium for crypto payment processing. Integration with commonly used Point-of-Sale systems uniquely position it in hospitality venues. Low transaction rates offer unbeatable savings for both buyers and merchants with luxury brands.

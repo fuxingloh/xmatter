@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbd304"
+icons:
+  - icon.png
 ---
 
 Multiplier is a non-custodial lending protocol on Binance Smart Chain with flash loans.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e65153"
+icons:
+  - icon.png
 ---
 
 Where AI meets affections Sleepless AI emerges as a groundbreaking Web3+AI gaming platform, ingeniously blending artificial intelligence and blockchain technology.

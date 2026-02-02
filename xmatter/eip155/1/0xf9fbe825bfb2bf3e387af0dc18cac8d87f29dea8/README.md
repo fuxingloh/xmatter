@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#13171e"
+icons:
+  - icon.png
 ---
 
 Bot Ocean democratizes the algorithmic trading market by giving you the tools to navigate your way through the market and earn assets while our bots do their job.

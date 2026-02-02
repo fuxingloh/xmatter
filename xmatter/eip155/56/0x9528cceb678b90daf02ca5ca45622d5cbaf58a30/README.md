@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#045cfc"
+icons:
+  - icon.png
 ---
 
 Join the Future of Uncensored Crowdfunding. The #1 DAO operated, blockchain powered, crowdfunding platform

@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1baafc"
+icons:
+  - icon.png
 ---
 
 UNCL is the liquidity rewards token of the UniCrypt Farming platform.

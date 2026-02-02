@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#135bec"
+icons:
+  - icon.png
 ---
 
 Vault12 platform safeguards your crypto assets by harnessing your very own network of trusted people.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f8df18"
+icons:
+  - icon.png
 ---
 
 Loser coin is created by two young man in China, aiming to provide a shelter for all losers and inspire them to never give up.

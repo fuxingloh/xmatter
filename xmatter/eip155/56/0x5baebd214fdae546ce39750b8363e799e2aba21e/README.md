@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#14152b"
+icons:
+  - icon.png
 ---
 
 NO-LOSS MULTIPLIER DEFI - EARN PASSIVE INCOME - Moonery is a community-driven, no-loss prize game and no-loss pool launchpad built on Binance Smart Chain #BSC.

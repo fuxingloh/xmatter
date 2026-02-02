@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#de0486"
+icons:
+  - icon.png
 ---
 
 Hold, earn and help others in need. Hyper Deflationary Token with Smart Staking System.

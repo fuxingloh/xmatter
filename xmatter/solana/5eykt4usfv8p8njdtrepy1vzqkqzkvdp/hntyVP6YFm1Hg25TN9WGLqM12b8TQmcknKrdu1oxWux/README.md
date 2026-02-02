@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#4b4cfa"
+icons:
+  - icon.png
 ---
 
 Helium (HNT) is a decentralized blockchain-powered network for Internet of Things (IoT) devices.

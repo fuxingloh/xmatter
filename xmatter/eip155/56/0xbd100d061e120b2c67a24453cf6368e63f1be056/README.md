@@ -27,6 +27,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8fe3a0"
+icons:
+  - icon.png
 ---
 
 iDYP is part of the Dypius dual token economy and is used as a component of smart contract strategies related to staking, analytical tools, NFTs, and metaverse.

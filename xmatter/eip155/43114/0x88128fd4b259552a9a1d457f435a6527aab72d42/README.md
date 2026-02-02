@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5cbbab"
+icons:
+  - icon.png
 ---
 
 The Avalanche Bridge Wrapped Maker. Maker is a Decentralized Autonomous Organization that creates and insures the dai stablecoin on the Ethereum blockchain.

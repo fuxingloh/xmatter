@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#41b9ea"
+icons:
+  - icon.png
 ---
 
 PUSH is Ethereum Push Notification Service (EPNS) native token. EPNS is a Protocol for blockchain based notifications that are platform agnostic and incentivized!

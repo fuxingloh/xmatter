@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d8f1f0"
+icons:
+  - icon.png
 ---
 
 Harvest automatically farms the newest DeFi protocols, optimizing yields using the latest farming techniques.

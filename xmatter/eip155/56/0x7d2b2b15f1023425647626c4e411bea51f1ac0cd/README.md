@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c0e37"
+icons:
+  - icon.png
 ---
 
 Owgaming is a gaming tournament and competition geared token on the binance smart chain, a brand new amateur gamer launchpad

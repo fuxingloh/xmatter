@@ -11,6 +11,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c86a8"
+icons:
+  - icon.png
 ---
 
 Utility token used as the main prize in the daily Liquid Lottery draws. Read This Contract (RTC)

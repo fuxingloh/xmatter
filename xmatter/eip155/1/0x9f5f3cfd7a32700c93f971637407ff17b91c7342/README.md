@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a6ce4f"
+icons:
+  - icon.png
 ---
 
 SCRY.INFO is an open source blockchain data protocol layer, oracle of the blockchain world, cornerstone of data smart contract applications.

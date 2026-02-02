@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#26c336"
+icons:
+  - icon.png
 ---
 
 Centric is an innovative dual-token digital currency & decentralized blockchain protocol built on sound economics that yields a return hourly.

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c6bf4"
+icons:
+  - icon.png
 ---
 
 The portal to the new, open internet.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0ac266"
+icons:
+  - icon.png
 ---
 
 Stader is a non-custodial smart contract-based staking platform that helps you conveniently discover and access staking solutions. We are building key staking middleware infra for multiple PoS networks for retail crypto users, exchanges and custodians.

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#1e1817"
+icons:
+  - icon.png
 ---
 
 Unicorn Fart Dust ($UFD) is the ultimate meme coin created by a boomer who's a gold and silver maxi.

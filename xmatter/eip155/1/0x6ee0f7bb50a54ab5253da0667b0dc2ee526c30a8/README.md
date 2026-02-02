@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f4bc0c"
+icons:
+  - icon.png
 ---
 
 Aave BUSD V1 is an interest bearing token pegged 1:1 to the underlying BUSD deposited in Aave V1. aBUSD V1 accrue interest in real time in your wallet.

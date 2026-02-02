@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#16140e"
+icons:
+  - icon.png
 ---
 
 Earn 50% of your friends rewards

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#22de9a"
+icons:
+  - icon.png
 ---
 
 Giftedhands aims to offer solutions to constant issues in payment to freelancer developers in terms of speeding up the payment process.

@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#44d6b2"
+icons:
+  - icon.png
 ---
 
 MultiBit is the first-ever dual-sided bridge designed for easy cross-network transfers between BRC20 and ERC20 tokens.

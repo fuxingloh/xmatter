@@ -32,6 +32,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0a0a0a"
+icons:
+  - icon.png
 ---
 
 DynBTC gives users exposure to Bitcoin using long only strategies optimised by the Dynamic Asset Manager with less fees & expenses. Powered by SingularityDAO.ai.

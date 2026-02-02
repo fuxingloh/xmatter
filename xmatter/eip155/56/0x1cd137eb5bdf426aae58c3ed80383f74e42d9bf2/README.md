@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#110d09"
+icons:
+  - icon.png
 ---
 
 Smile token is a a protocol that unifies leading DeFi protocols and blockchain infrastructure by standardising communication between them to create and execute complex financial transactions, while championing Privacy, Anonymity and Sovereignty.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1d7fe7"
+icons:
+  - icon.png
 ---
 
 A super-DAO formed with the vision of being the heartbeat and voice of the largest community of Web3 native users on the Ethereum Network.

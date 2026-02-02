@@ -14,6 +14,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#d6dcd8"
+icons:
+  - icon.png
 ---
 
 CPC Coin is a native token used within the CompanionPetWorld ecosystem as a means of participating in pet auctions, paying for related goods and services, and rewarding participants.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 BNB pegged BitTorrent (BTT BEP20) is a token issued by Binance on Smart Chain; its price is pegged to BitTorrent (BTT) at a ratio of 1:1.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cb211a"
+icons:
+  - icon.png
 ---
 
 AicroStrategy ($AiSTR) revolutionizes investment through autonomous AI agents, delivering unparalleled trading strategies on Base.

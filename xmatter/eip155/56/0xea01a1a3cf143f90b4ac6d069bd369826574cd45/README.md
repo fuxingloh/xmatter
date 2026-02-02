@@ -21,6 +21,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e50913"
+icons:
+  - icon.png
 ---
 
 The XXT-Token is a cryptocurrency designed to be the means of payment and integrate the entire adult entertainment ecosystem. Our objective is to use the token as currency to pay and receive for services and products, integrating customers, stores, hotels, sex-shops, motels, suppliers, adult live stream, bars and nightclubs.

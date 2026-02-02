@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1dbcdb"
+icons:
+  - icon.png
 ---
 
 Multi-chain Wallet in WEB3.Multi-chain Wallet, Security First, Full Control by User.

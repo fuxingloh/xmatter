@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#221b2e"
+icons:
+  - icon.png
 ---
 
 The ultimate memecoin leader Boss US. Bold, fearless, and unstoppable - just like America! Make Crypto Great Again.

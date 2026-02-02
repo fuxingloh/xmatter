@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d5e1e5"
+icons:
+  - icon.png
 ---
 
 Seele created 'Neural Consensus Algorithm'. It transforms the consensus problem into an asynchronous request, processing and sorting data in a large-scale environment based on 'micro-real numbers'.

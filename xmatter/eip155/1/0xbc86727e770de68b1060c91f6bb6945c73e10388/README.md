@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#213f5f"
+icons:
+  - icon.png
 ---
 
 Decentralized reputation and payments for peer-to-peer marketplaces.

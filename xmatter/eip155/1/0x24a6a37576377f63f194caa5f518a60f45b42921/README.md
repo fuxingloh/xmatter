@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc7704"
+icons:
+  - icon.png
 ---
 
 Governance token for Float Protocol.

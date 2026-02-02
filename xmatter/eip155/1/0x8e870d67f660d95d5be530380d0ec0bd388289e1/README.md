@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#126039"
+icons:
+  - icon.png
 ---
 
 Paxos Standard (PAX) is a stablecoin that allows users to exchange US dollars for Paxos Standard Tokens to 'transact at the speed of the internet'.

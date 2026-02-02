@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0d65d5"
+icons:
+  - icon.png
 ---
 
 Pioneering the frontiers of data exchange and fraud detection.

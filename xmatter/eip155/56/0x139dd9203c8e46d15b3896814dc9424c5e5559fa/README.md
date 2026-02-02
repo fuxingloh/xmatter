@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#241c24"
+icons:
+  - icon.png
 ---
 
 OX is a charity coin that donates 2% of every transaction directly to the Binance charity wallet.

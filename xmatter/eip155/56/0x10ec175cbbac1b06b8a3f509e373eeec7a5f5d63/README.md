@@ -15,6 +15,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d7c4d0"
+icons:
+  - icon.png
 ---
 
 Karina Milei, sister of the president of Argentinia, Javier Milei Accepted bribes to pump Argentinian token

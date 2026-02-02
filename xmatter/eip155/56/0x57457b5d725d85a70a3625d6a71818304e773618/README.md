@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#184058"
+icons:
+  - icon.png
 ---
 
 A Decentralised Finance (DeFi) based Governance Token, with the benefit of Utility Token, Security Token & CryptoCurrency. It is Deflationary, also provides Staking Reward.

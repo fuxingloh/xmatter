@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c5e3e4"
+icons:
+  - icon.png
 ---
 
 Stella's LIMO is an ethereum based Asset.

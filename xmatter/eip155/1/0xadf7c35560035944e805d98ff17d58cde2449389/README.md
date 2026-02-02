@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#043c9b"
+icons:
+  - icon.png
 ---
 
 Spectral is simplifying the creation and deployment of decentralized applications through autonomous Onchain Agents

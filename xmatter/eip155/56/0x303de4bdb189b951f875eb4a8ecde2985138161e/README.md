@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbcb5a"
+icons:
+  - icon.png
 ---
 
 USDs is a Digital assets for a stable currency with Binance Smart Chain Network #BSC For Smart Project.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 UNKJD : Striker League is a fast, strategy-based sports game. Build your dream team of MonkeyAthletes, play matches, compete in tournaments and climb the Leagues! $MBS is the main in-game currency of MonkeyLeague and ecosystem.

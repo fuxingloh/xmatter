@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc7880"
+icons:
+  - icon.png
 ---
 
 CroxSwap is a fully decentralized cross-chain dex with AMM and yield farming protocol.

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d9d9d9"
+icons:
+  - icon.png
 ---
 
 Assemble AI is an artificial intelligence-based news agent and the first journalism innovation project. The goal of this project is to provide market trends quickly and in an easily understandable way, analyze these trends using artificial intelligence inference capabilities, and help market participants globally make data-driven decisions.

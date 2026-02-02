@@ -10,6 +10,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#151d1e"
+icons:
+  - icon.png
 ---
 
 Next Generation crypto exchange $CCAI with DeFi products on Solana and CEX with Smart trading.

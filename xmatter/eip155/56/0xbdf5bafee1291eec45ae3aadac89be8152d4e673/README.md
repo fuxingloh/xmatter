@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#202127"
+icons:
+  - icon.png
 ---
 
 $CATA is changing the rules of memecoins by using superior cat math to create the most advanced smart contract in the world

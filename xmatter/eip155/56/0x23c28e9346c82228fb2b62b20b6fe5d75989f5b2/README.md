@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#21bea4"
+icons:
+  - icon.png
 ---
 
 COVID TOKEN is a token which provides help to African people about Coronavirus.

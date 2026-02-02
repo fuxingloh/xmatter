@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d5d5d1"
+icons:
+  - icon.png
 ---
 
 The Best Meme-Based Geometric Deflationary Token

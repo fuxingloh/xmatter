@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#16bfdd"
+icons:
+  - icon.png
 ---
 
 RMPL is a decentralized cryptocurrency with an elastic supply model.

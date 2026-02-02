@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#43973b"
+icons:
+  - icon.png
 ---
 
 Jade Currency aims to change the world the world by allowing the public to pay for Jade with our token safely and easily.

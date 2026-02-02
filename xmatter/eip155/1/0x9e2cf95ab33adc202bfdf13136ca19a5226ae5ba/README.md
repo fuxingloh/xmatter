@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#434343"
+icons:
+  - icon.png
 ---
 
 Stocks on Ethereum

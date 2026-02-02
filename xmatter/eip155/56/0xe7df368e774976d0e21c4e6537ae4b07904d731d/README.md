@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eb5633"
+icons:
+  - icon.png
 ---
 
 Simurgh is an automatic liquidity acquisition yield farm running on Binance Smart Chain with lots of unique and creative features.

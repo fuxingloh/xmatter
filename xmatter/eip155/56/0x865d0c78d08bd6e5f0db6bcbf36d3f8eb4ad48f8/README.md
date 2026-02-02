@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#db9933"
+icons:
+  - icon.png
 ---
 
 BSC Fully deflationary lottery token with original lottery process.

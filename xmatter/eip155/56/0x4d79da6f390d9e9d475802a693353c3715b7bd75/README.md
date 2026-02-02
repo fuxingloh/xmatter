@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d1efde"
+icons:
+  - icon.png
 ---
 
 BabyKraken is the first buyback and burn token with anti-bot mechanisms.

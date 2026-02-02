@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#131deb"
+icons:
+  - icon.png
 ---
 
 The Open Campus Protocol is a decentralized solution for educators, content creators, parents, students, and co-publishers designed to address the major challenges in education today. Despite the critical role of educators in shaping the future generation, they are often undervalued and underpaid. Additionally, parents frequently lack control over their children's educational content.

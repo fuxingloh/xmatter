@@ -15,6 +15,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0443cb"
+icons:
+  - icon.png
 ---
 
 Tethering real world GPU mining to crypto assets.

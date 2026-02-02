@@ -23,6 +23,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#baa4cd"
+icons:
+  - icon.png
 ---
 
 Milo does what he can to help more vulnerable people in need

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5db5c2"
+icons:
+  - icon.png
 ---
 
 A community-driven decentralized rewarding network.

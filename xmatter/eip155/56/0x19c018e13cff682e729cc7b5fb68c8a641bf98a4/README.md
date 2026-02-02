@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#231712"
+icons:
+  - icon.png
 ---
 
 Burn: This is a fair burning movement, returning to the most fundamental decentralization of blockchain organizations.

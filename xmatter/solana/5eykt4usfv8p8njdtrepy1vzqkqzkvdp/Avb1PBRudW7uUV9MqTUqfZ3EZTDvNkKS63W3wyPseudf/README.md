@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#bc9c89"
+icons:
+  - icon.png
 ---
 
 CatWifHat is a community-driven token, the community will determine the development of CatWifHat throughout the development process.

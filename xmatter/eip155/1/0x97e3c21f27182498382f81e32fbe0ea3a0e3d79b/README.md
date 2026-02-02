@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#396a2c"
+icons:
+  - icon.png
 ---
 
 Flipped Pepe $EPEP. The most memeable memecoin in existence, FLIPPED.

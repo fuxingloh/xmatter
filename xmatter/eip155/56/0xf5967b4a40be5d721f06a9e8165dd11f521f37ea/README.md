@@ -8,6 +8,7 @@ name: HONEYPOT Zether USD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 HONEYPOT Zether USD

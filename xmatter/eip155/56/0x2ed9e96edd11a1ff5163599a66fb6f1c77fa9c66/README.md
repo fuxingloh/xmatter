@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4b237b"
+icons:
+  - icon.png
 ---
 
 Lead Wallet is a simple decentralized multi-crypto wallet application that allow users to spend, store, swap, stake and exchange cryptocurrencies.

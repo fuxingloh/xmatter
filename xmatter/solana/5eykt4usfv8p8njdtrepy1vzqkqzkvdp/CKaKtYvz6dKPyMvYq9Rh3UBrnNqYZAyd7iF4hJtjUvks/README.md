@@ -20,6 +20,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#2a1027"
+icons:
+  - icon.png
 ---
 
 CHINGARI IS THE LARGEST ON CHAIN SOCIAL GRAPH ON WEB3

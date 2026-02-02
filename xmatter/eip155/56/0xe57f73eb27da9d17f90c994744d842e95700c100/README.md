@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#63863e"
+icons:
+  - icon.png
 ---
 
 The most memeable memecoin in existence. The dogs have had their day, it’s time for Pepe AI to take reign.

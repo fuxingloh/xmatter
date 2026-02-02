@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#353d4b"
+icons:
+  - icon.png
 ---
 
 NYAN HEROES is a competitive movement shooter featuring cats piloting mechs. The team are the creators behind Halo, Destiny, Assassins Creed, Mass Effect and many more.

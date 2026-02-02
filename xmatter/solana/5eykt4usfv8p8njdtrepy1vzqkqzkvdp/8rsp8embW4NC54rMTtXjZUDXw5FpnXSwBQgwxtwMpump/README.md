@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#162e90"
+icons:
+  - icon.png
 ---
 
 República de El Salvador Meme

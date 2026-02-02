@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ba3134"
+icons:
+  - icon.png
 ---
 
 100% AI (Almost Intelligent): Harsh truths, digital reality checks, no sugarcoating.

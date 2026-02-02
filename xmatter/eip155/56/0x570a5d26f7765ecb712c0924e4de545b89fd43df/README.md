@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#58afc5"
+icons:
+  - icon.png
 ---
 
 Solana is the worlds most performant blockchain in the world at 710k transactions per second. 710k TPS is achieved by encoding the passage of time as data.

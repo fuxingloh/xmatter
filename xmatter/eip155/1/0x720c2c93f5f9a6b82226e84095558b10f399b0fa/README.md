@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#946e3a"
+icons:
+  - icon.png
 ---
 
 Gric Coin (GC) is an Agricultural Blockchain Project that is focused on improving agricultural practice and increase agricultural output globally with the major focus on Africa.

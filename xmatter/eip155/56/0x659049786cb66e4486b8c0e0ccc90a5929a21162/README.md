@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbcb2b"
+icons:
+  - icon.png
 ---
 
 More than 2 million users with TTcoin Football Club, TTcoin brands and more projects.

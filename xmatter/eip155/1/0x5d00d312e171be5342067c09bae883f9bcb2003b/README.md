@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#34c6d7"
+icons:
+  - icon.png
 ---
 
 Decentralized World of Ether Monsters

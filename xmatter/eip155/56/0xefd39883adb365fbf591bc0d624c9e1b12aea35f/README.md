@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#979797"
+icons:
+  - icon.png
 ---
 
 DinkDoink is a cryptocurrency bridging the gap between entertainment and crypto!

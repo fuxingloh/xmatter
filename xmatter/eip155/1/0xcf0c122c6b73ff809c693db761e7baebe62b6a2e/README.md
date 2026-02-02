@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#080706"
+icons:
+  - icon.png
 ---
 
 The people's cryptocurrency. By combining the power of memes with real utility and charitability, FLOKI gives power and opportunity to the people — to the underdogs — instead of venture capitalists and hedge funds. FLOKI aims to be the most known and most used cryptocurrency in the world.

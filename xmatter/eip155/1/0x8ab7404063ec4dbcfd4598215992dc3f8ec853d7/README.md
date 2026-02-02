@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b13ef8"
+icons:
+  - icon.png
 ---
 
 Akropolis describes itself as a domain-specific financial protocol dedicated to the needs of the informal economy.

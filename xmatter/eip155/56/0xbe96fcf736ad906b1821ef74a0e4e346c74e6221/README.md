@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a165df"
+icons:
+  - icon.png
 ---
 
 The NIX token was created decentrally to be a utility token that benefits multiple platforms around the world - Including being the utility token of its own brokerage, which will also be called NIX.

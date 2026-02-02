@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b4e4f9"
+icons:
+  - icon.png
 ---
 
 McPepe’s is the infinite Pepe image generator. Generated images are available as NFTs on Ethereum or can be inscribed as Ordinals on Bitcoin. $PEPES incentivizes the generation of the highest quality Pepes possible and manages the resource constraints of generating millions of Pepes per day.

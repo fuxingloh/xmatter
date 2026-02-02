@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f6aa12"
+icons:
+  - icon.png
 ---
 
 Verum Coin is one of the digital currencies that use the mechanism of increased transaction confidentiality.

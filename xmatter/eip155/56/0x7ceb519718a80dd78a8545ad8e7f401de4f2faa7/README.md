@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c59f5a"
+icons:
+  - icon.png
 ---
 
 DKT is governance token of Duelist King NFT Trading Card Game.

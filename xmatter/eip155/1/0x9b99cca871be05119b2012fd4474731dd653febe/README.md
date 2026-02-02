@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ebebeb"
+icons:
+  - icon.png
 ---
 
 AntiMatter is a lightweight on-chain DeFi perpetual derivative protocol based on a polarized token model.

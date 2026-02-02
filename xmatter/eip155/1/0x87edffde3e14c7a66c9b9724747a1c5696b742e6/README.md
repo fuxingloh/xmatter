@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#caf5f2"
+icons:
+  - icon.png
 ---
 
 Decentralizing the Global Adult Entertainment Industry

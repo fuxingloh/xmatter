@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#8a98d5"
+icons:
+  - icon.png
 ---
 
 As passionate supporters of AMC Entertainment, this is a unique way for fans to show their support where the hedges can’t stop us.

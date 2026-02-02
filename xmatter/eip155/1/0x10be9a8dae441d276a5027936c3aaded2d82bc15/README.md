@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#97e76a"
+icons:
+  - icon.png
 ---
 
 UniMex is a Uniswap based borrowing platform which facilitates the margin trading of native Uniswap assets

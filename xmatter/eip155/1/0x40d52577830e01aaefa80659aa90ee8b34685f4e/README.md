@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e44c2c"
+icons:
+  - icon.png
 ---
 
 Blockchain asset exchange, providing real time and safe trading.

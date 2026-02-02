@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f0a02d"
+icons:
+  - icon.png
 ---
 
 The Boss Token is a community driven DeFi cryptocurrency, with the aim to become the boss of Dogcoins! Two main functions happen during a trade, RFI static rewards distributed to holders and LP acquisition.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cdd0fc"
+icons:
+  - icon.png
 ---
 
 Interoperable Smart Contracts & dApps Network

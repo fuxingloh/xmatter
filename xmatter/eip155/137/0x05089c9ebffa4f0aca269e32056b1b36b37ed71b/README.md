@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6d2ee3"
+icons:
+  - icon.png
 ---
 
 PolyWhale is a popular yield farm on Polygon that allows users to earn KRILL through yield farming, then stakes it in Nests to earn more tokens.

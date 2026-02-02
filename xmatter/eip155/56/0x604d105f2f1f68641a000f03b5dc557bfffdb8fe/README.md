@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ec7f04"
+icons:
+  - icon.png
 ---
 
 SoupSwap Is Multi-Ecosystems Decentralized Finance Platform

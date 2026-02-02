@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c2c4c"
+icons:
+  - icon.png
 ---
 
 OpenPredict is the first DeFi protocol to turn live predictions into liquid assets.

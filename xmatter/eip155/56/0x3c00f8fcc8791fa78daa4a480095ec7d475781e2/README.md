@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0e254f"
+icons:
+  - icon.png
 ---
 
 Frictionless yield & liquidity generation protocol

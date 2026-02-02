@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbc504"
+icons:
+  - icon.png
 ---
 
 CACHE Gold tokens are fully regulated, public, transparent, redeemable tokens backed by gold stored in vaults around the world.

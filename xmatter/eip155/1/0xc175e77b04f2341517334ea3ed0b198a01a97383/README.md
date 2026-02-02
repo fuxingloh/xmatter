@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5ccadb"
+icons:
+  - icon.png
 ---
 
 3X Long TRX Token (TRXBULL) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of TRON.

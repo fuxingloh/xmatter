@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c1c1c"
+icons:
+  - icon.png
 ---
 
 Digital Dollars for the Internet Economy. Backed by institutional grade tokenized treasury funds and powered by Ethena Labs

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9be0f"
+icons:
+  - icon.png
 ---
 
 Safeicarus is programmed to reward holders while increasing in both liquidity and value. It does this by applying a 13% tax on transactions 5% goes to holders 8% is auto-locked to liquidity.

@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d6b571"
+icons:
+  - icon.png
 ---
 
 Zax is a simple utility token created with an existence on Binance Smart Chain! As the name suggests, this token encompasses the entire crypto universe in one circle.

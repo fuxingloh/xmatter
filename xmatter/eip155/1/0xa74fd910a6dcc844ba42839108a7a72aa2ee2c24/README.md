@@ -19,6 +19,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b1a19"
+icons:
+  - icon.png
 ---
 
 NeyroAI offers a unique opportunity to invest in cutting-edge blockchain technology. Our platform ensures transparency, security, and high profitability. By investing in NeyroAI, you are not only supporting innovations in digital technology but also gaining a chance for significant financial growth.

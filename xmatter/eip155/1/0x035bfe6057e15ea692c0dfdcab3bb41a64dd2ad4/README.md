@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#24b4e3"
+icons:
+  - icon.png
 ---
 
 Universal Liquidity Union (ULU) is the bridge to every coin. ULU aims to combine the best features of Uniswap and Balancer and route everything via the ULU token as medium of liquidity exchange.

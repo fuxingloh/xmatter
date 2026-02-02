@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#046be3"
+icons:
+  - icon.png
 ---
 
 Soft Yearn is a unique cryptocurrency that is soft-pegged to Yearn Finance with adaptive properties taken from Ampleforth.

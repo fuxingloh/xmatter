@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#44413b"
+icons:
+  - icon.png
 ---
 
 1st Brazilian DeFi token of compound interest and expansionary liquidity

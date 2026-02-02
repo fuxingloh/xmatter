@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#ebe4e0"
+icons:
+  - icon.png
 ---
 
 We offer the finest Floof on the Solana blockchain

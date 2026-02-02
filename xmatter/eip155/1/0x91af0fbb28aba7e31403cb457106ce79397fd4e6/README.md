@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9d78a8"
+icons:
+  - icon.png
 ---
 
 Aergo describes itself as an open-source enterprise blockchain platform optimized for hybrid deployments, which consist of both permissioned and permissionless blockchain architectures.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cab89d"
+icons:
+  - icon.png
 ---
 
 Extend Finance was built for the BSC chain with 4% reward & 1% burning emission

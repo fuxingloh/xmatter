@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ec8b97"
+icons:
+  - icon.png
 ---
 
 TenSpeed is the next generation of high yield deflationary farming, utilizing the TENS cryptocurrency which has been programmed to decrease in total supply the more active trading, yield farming and moving tokens becomes.

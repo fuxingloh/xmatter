@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a08c78"
+icons:
+  - icon.png
 ---
 
 Gekko is an agent that brings 1980s Wall Street ambition to generate alpha in the 2020s.

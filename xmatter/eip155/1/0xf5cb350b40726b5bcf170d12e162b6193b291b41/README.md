@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5ca3eb"
+icons:
+  - icon.png
 ---
 
 wBIS is a ERC-20 Ethereum Token with 1:1 native BIS counterpart.

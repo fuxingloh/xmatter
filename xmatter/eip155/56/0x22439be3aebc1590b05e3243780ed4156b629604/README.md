@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#32333a"
+icons:
+  - icon.png
 ---
 
 DAFI reinvents network rewards for every decentralized economy

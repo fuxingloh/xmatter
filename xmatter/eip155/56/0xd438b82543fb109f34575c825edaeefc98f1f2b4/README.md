@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cda8a7"
+icons:
+  - icon.png
 ---
 
 IceCream AI is a DeFAI protocol developed by KOL4U that introduces AI-governed Glaze Pools (GPs) as an on-chain instrument to incentivize and realize social capital. Users can claim on-chain assets from GPs based on IceCream AI's analysis of their activity on X.

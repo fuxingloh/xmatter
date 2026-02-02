@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#840404"
+icons:
+  - icon.png
 ---
 
 Decentralized Rewarding Autonomous Chain.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cf9e5b"
+icons:
+  - icon.png
 ---
 
 Decentralized Deflationary Token that Grows into Coco's Dog treats.

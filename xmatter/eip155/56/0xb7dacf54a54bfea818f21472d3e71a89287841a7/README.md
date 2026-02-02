@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d3c28b"
+icons:
+  - icon.png
 ---
 
 We allow access to different odds slips, sell likely winnable odds, P2P betting and the creation of your bet event with our WSC token.

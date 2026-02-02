@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#101010"
+icons:
+  - icon.png
 ---
 
 RAILGUN can generate a verifiable report of actions and balances (for an auditor or compliance officer, for example), with a privacy preserving Zero Knowledge method.

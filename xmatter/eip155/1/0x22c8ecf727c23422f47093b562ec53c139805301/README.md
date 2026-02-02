@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d6c5a1"
+icons:
+  - icon.png
 ---
 
 16200 Fullerton is a 15-unit apartment building that has undergone comprehensive renovations in 2019, and now is a stabilized, income-producing asset with vetted tenants.

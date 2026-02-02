@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e5b930"
+icons:
+  - icon.png
 ---
 
 A currency used as payment for removals and transport services

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b1eaf3"
+icons:
+  - icon.png
 ---
 
 The crypto party token bringing beers to its community.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3c345c"
+icons:
+  - icon.png
 ---
 
 BAT is a decentralized, community driven, fair launched Meme Token in BSC

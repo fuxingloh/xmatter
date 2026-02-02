@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#302418"
+icons:
+  - icon.png
 ---
 
 Sonny is the friendly face of Web3 on the fast, scalable Solana blockchain, designed for those who believe in a future where humans and technology can thrive together.

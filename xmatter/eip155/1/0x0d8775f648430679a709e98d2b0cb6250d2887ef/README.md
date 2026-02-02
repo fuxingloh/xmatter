@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc5404"
+icons:
+  - icon.png
 ---
 
 Basic Attention Token (BAT) project is an open-source, decentralized ad exchange platform built, on the Ethereum platform.

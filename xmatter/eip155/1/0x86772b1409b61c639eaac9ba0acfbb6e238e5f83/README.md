@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Indexed Finance is a project focused on the development of passive portfolio management strategies for the Ethereum network.

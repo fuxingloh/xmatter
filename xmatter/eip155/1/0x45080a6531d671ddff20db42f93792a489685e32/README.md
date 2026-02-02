@@ -31,6 +31,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b7ebf6"
+icons:
+  - icon.png
 ---
 
 FVT is a utility token that powers the finance.vote dApp Suite.

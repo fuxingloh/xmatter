@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1e94d5"
+icons:
+  - icon.png
 ---
 
 The CRD network is taking a multipronged approach to building out its network and enabling Cryptocurrency and Defi adoption.

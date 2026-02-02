@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ebbc20"
+icons:
+  - icon.png
 ---
 
 The participants of the platform can keep their anonymity while completing surveys and receive TFB tokens.

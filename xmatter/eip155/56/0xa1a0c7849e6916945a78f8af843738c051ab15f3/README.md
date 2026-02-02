@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#74f3dc"
+icons:
+  - icon.png
 ---
 
 The MetaMoon is a NFT market and DeFi Token. Reflection, Auto LP, and Burn.

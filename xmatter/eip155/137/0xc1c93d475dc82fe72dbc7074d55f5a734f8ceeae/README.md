@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#be1935"
+icons:
+  - icon.png
 ---
 
 Pegaxy Game Native Governance Token

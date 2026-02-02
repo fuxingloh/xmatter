@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#76378d"
+icons:
+  - icon.png
 ---
 
 Denarii (ARI) is an ERC20 token with staking and liquidity pool staking

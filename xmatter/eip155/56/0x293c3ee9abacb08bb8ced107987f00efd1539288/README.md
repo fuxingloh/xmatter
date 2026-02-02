@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#51c7e0"
+icons:
+  - icon.png
 ---
 
 First Empire ever seen into the Blockchain and DeFi space!

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04044c"
+icons:
+  - icon.png
 ---
 
 ZeroSwap.io is a Multi-Chain, Zero-fee, On-chain Trading protocol with Liquidity Mining, DeFi Token Offering, and DEX Aggregation. The protocol will reward users every time they make an on-chain trade and provide liquidity to existing DEXes. All transactions would be Gasless with Zero Trade Fee.

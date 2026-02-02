@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f08d6b"
+icons:
+  - icon.png
 ---
 
 KimJongMoon is a fun and unique deflationary DEFI cryptocurrency on the Binance Smart Chain network with a few development projects to be released in the near future (NFT marketplace, merch store, mini-games, and animated series).

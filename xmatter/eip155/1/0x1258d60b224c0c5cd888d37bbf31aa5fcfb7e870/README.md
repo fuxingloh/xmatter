@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#82f8a0"
+icons:
+  - icon.png
 ---
 
 Node AI is a decentralized platform that provides access to GPU and AI resources.

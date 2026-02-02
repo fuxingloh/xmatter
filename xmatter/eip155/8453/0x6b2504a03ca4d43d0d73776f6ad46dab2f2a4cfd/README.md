@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ddae85"
+icons:
+  - icon.png
 ---
 
 Rei Network is a collective of AI and Crypto natives dedicated to reimagining how we approach the AI x Blockchain space. The discovery of new methods, to implement neural architectures on the EVM, is our core mission.

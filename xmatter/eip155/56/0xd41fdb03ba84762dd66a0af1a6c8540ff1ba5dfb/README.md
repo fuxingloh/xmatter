@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c0505"
+icons:
+  - icon.png
 ---
 
 SafePal is a cryptocurrency wallet that aims to provide a secure and user-friendly crypto asset management platform.

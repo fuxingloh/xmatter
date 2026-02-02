@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#d8dac7"
+icons:
+  - icon.png
 ---
 
 Inspired by natural systems like ant colonies and neural networks, swarms operate through simple rules that yield complex, adaptive outcomes.

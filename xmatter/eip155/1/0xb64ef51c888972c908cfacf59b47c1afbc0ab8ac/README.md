@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#127ccb"
+icons:
+  - icon.png
 ---
 
 Storj (STORJ) hopes to provide decentralised cloud storage to its community.

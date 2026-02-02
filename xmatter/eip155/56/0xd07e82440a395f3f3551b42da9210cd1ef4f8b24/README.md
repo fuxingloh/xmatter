@@ -42,6 +42,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f8d310"
+icons:
+  - icon.png
 ---
 
 The Parallel takes some of the greatest ideas from the real world and puts them to work in a magical world, The Parallel Metaverse where everyone can have fun and find happiness.

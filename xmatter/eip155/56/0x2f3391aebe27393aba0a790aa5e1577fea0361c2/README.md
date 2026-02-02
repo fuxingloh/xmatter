@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbb54f"
+icons:
+  - icon.png
 ---
 
 TakoDefi is a community-driven innovative and ingenious Yield farming platform

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#20222a"
+icons:
+  - icon.png
 ---
 
 Hashflow is a decentralized exchange designed for interoperability, zero slippage, and MEV-protected trades.

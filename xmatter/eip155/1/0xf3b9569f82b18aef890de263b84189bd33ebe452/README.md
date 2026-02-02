@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f8c238"
+icons:
+  - icon.png
 ---
 
 A Decentralized Social Clearing House ...(AKA) CAW A protocol made up of many on-chain smart contracts for sending messages publically or p2p with a max character limit of 420.

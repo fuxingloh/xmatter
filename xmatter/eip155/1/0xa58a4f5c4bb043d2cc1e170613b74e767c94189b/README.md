@@ -16,6 +16,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#ead66d"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Utility token that powers the trust infrastructure of the internet.

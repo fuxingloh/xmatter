@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#045dcb"
+icons:
+  - icon.png
 ---
 
 A reputation based, tokenized social platform orientated towards the crypto communities needs, educating retail investors about blockchain based projects.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#046cb4"
+icons:
+  - icon.png
 ---
 
 Exchange skills while learning and teaching.

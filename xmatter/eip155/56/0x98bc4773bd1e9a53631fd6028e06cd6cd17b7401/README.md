@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2dd9f9"
+icons:
+  - icon.png
 ---
 
 MBY is made to make De-Fi great again

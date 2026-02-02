@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#36484d"
+icons:
+  - icon.png
 ---
 
 SCAM is the native token for the project Simple.

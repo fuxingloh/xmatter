@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fccb04"
+icons:
+  - icon.png
 ---
 
 Qubit Finance is a DeFi lending protocol that is optimized to deliver lending as a utility for the BSC.

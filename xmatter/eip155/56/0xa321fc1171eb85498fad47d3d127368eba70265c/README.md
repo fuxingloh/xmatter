@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#045fbb"
+icons:
+  - icon.png
 ---
 
 A new cryptocurrency based on BNB smart chain. 4% of each transaction is always distributed to all holders as a reward. Thus, personal wealth increases automatically with every purchase or sale.

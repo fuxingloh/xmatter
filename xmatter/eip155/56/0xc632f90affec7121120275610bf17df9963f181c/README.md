@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dedede"
+icons:
+  - icon.png
 ---
 
 The DEBT token is the central support and utility token for the D.E.B.T. ecosystem, which has a growing list of token projects.

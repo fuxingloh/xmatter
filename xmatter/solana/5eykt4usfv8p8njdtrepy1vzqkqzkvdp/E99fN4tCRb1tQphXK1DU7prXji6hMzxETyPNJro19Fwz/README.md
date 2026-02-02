@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#49403a"
+icons:
+  - icon.png
 ---
 
 Jump into the crypto fun with $SOLCAT!

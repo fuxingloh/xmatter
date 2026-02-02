@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4e71b3"
+icons:
+  - icon.png
 ---
 
 empowr is a democratic social economy. It is uniquely enabling the sharing of everything

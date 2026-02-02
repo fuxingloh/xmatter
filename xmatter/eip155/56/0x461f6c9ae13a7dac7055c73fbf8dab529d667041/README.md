@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbe288"
+icons:
+  - icon.png
 ---
 
 Pollo is a social contribution project launched by academics and experts in cryptocurrency development. PoFi is the only token that connects to all of Pollo DAO's governance, seigniorage (algorithmic staple coin), and Vaults (Auto Farming).Maximum Supply is 500,000.

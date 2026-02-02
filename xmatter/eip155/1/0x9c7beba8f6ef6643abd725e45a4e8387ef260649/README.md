@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bc7247"
+icons:
+  - icon.png
 ---
 
 A decentralized finance protocol offering various financial services.

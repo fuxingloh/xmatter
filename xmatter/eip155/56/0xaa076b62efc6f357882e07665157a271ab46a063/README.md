@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7704be"
+icons:
+  - icon.png
 ---
 
 Pleasure Coin is an ERC-20 token on the Ethereum, Polygon and BSC chain that is be utilized within the Pleasure Network, an adult industry ecosystem that empowers individuals and businesses.

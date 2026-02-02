@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#71bbeb"
+icons:
+  - icon.png
 ---
 
 FISH is governance of FishSwap - A Decentralzied Exchange Protocol with Optimized Yield Farming, Pools and Lottery features.

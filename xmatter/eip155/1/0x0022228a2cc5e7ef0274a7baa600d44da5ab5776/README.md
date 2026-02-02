@@ -23,6 +23,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#43cfae"
+icons:
+  - icon.png
 ---
 
 stUSD is a USD savings solution built on top of USDA by the Angle Protocol

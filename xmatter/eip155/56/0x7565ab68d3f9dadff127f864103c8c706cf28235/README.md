@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ffe000"
+icons:
+  - icon.png
 ---
 
 TFI is the native token of TrustFi Network, a decentralized BaaS solution for DeFi market based on multichain environment.

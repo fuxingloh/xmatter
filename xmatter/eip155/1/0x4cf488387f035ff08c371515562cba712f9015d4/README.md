@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#041cfa"
+icons:
+  - icon.png
 ---
 
 WePower is a blockchain-based green energy trading platform that connects energy buyers (households and investors) directly with the green energy producers.

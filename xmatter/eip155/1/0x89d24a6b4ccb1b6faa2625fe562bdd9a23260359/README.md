@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fccb23"
+icons:
+  - icon.png
 ---
 
 Dai is a USD-pegged stablecoin built on the Ethereum blockchain, and has no centralized authority.

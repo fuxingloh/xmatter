@@ -26,6 +26,7 @@ name: SpookyShiba
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 SpookyShiba is the first horror Genre Token on Binance Smartchain with utility for holders tied into the NFT Marketplace.

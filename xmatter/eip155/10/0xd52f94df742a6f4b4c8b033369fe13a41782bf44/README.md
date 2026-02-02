@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3cebf8"
+icons:
+  - icon.png
 ---
 
 Layer2DAO is expanding the Ethereum L2 ecosystem and investing in L2 ecosystem projects.

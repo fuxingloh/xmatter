@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbcb2b"
+icons:
+  - icon.png
 ---
 
 Rijent Coin is a revolutionary utility token and crypto education platform designed to connect worldwide cryptocurrency users.

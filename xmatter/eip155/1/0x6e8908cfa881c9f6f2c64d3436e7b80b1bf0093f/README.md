@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9a42f"
+icons:
+  - icon.png
 ---
 
 The community-powered food delivery platform.

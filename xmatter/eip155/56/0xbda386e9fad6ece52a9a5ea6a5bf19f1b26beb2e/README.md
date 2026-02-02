@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c7d9cb"
+icons:
+  - icon.png
 ---
 
 prehistoric protist

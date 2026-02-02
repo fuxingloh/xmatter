@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbd098"
+icons:
+  - icon.png
 ---
 
 Strong community, 0% taxes, and a vision set on the 2025 bullrun. Bonk your way to the top.

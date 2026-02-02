@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#14a4d4"
+icons:
+  - icon.png
 ---
 
 We empower you to develop, deploy, and integrate applications on blockchain technology to solve real-life problems.

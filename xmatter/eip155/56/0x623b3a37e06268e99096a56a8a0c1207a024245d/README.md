@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#373242"
+icons:
+  - icon.png
 ---
 
 Hyper Burn & Liquidity Generation Protocol

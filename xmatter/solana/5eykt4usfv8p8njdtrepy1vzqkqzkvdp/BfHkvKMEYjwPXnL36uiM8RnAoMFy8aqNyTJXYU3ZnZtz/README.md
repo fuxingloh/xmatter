@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#3b2922"
+icons:
+  - icon.png
 ---
 
 Hi, i'm Ansom! coldost negga bratin!

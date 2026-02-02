@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c2c2c"
+icons:
+  - icon.png
 ---
 
 AURK is the decentralized AI platform designed for everyone. Build, deploy, and monetize AI agents without writing a single line of code

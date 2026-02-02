@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbf3db"
+icons:
+  - icon.png
 ---
 
 BabySwap is the best AMM+NFT decentralized exchange for newborn projects on Binance Smart Chain.

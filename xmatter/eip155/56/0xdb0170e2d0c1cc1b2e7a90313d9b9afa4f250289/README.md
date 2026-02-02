@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0433ac"
+icons:
+  - icon.png
 ---
 
 ADAPad is launchpad

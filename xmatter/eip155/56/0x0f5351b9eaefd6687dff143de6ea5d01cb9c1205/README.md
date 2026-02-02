@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b5a5c7"
+icons:
+  - icon.png
 ---
 
 Flokimooni Decentralized meme coin with DeFi features

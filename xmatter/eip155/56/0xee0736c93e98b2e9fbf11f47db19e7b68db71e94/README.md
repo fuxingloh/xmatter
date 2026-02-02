@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d1f5e0"
+icons:
+  - icon.png
 ---
 
 CROP is the world's first multi-currency rewards token. This allows us to farm any cryptocurrency on the Binance smart chain. Buy & Hold CROP and let the teams crypto analysts build your portfolio with both top 200 cryptocurrencies & newly launched moonshots.

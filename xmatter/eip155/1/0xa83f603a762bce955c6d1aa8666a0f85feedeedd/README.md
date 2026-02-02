@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#137384"
+icons:
+  - icon.png
 ---
 
 FIC is the aggregation token of the IPFS network. The two major landing ecosystems of FIC include KT80s++ mining machine and KLUUK browser.

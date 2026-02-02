@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eaf8f9"
+icons:
+  - icon.png
 ---
 
 AppCoins is an open and distributed protocol for app stores based on the Ethereum blockchain and smart contracts.

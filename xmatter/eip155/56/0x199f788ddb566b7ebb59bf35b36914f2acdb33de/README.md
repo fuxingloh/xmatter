@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1e59ea"
+icons:
+  - icon.png
 ---
 
 Floki, Meet DeFido! This brand new token was born merely moments after a top 3 exchange tweeted their dog named “DeFido” at Elon Musk. & this French Bulldog is ready for lift off!

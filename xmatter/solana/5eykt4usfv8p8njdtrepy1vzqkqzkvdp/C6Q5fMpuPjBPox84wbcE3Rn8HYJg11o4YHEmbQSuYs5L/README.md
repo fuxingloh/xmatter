@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f7f2f0"
+icons:
+  - icon.png
 ---
 
 Just for funsies, nothing too serious, We wanna see what the power of memes can do.

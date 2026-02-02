@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f8cb19"
+icons:
+  - icon.png
 ---
 
 Stronger is a cryptocurrency and operates on the Ethereum platform.

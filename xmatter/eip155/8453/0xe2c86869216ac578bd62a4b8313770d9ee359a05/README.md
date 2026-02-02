@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2464ec"
+icons:
+  - icon.png
 ---
 
 The Email Token ($EMT) provides security and protection against unsolicited email and phishing while simultaneously rewards relevant content through a consensual marketing mechanism increasing adoption and engagement as both users and businesses benefit.

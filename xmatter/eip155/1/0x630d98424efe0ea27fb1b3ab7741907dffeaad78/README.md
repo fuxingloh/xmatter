@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#353230"
+icons:
+  - icon.png
 ---
 
 PEAKDEFI is a decentralized asset management fund, created to connect investors and asset managers for capital growth.

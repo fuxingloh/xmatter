@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1f963b"
+icons:
+  - icon.png
 ---
 
 Children's Aid Foundation is a public welfare MEME coin that uses transaction tax revenue to assist children or organizations needing assistance.

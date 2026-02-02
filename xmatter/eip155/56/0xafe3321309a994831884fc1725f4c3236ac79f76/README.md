@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#632c91"
+icons:
+  - icon.png
 ---
 
 MemFlate2.0 Market-Place is a platform that 'HOUSES' all types of buyers and sellers from graphic designers to video production and web development & connect them to projects in need of creatives In turn rewarding creators and holders of $MFLATE through this utility. Further expansion of the project has lead me in to 'real world' service for hire, locally&globally from catering to wedding planners customers will be able to find all services at Memeflate

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6cce73"
+icons:
+  - icon.png
 ---
 
 The WannaSwap team has been formed and planed to build a DEX with the goal of becoming a liquidity hub on Near's Aurora EVM.

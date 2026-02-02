@@ -23,6 +23,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2373cb"
+icons:
+  - icon.png
 ---
 
 BNB pegged USD Coin (USD BEP20) is a token issued by Binance on Smart Chain; its price is pegged to USD Coin (USD ERC20) at a ratio of 1:1.

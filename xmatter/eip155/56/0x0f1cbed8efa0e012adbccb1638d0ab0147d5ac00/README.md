@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 HELLO Labs is the future of crypto and entertainment creating TV shows, games, NFTs and much more. The ecosystem is built on the HELLO Token allowing exclusive access to watch our shows, play our games and own our NFTs.

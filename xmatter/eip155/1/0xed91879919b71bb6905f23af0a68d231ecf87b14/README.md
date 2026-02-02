@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#337ccc"
+icons:
+  - icon.png
 ---
 
 The DMM system is decentralized, transparent and designed to enable everyone to re-earn interest in their currency which is backed by real assets represented on the network.

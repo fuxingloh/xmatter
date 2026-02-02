@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dcc41b"
+icons:
+  - icon.png
 ---
 
 A digital token, backed by physical gold

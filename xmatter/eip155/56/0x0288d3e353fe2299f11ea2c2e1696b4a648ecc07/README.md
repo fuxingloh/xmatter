@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eecc66"
+icons:
+  - icon.png
 ---
 
 ZCore Finance is a decentralized exchange running on Binance Smart Chain and Pancake swap exchange, with features that let you earn and win tokens.

@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#12c310"
+icons:
+  - icon.png
 ---
 
 23 Turtles represents a quantum leap in MEME coin trading infrastructure.

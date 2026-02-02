@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#393a39"
+icons:
+  - icon.png
 ---
 
 Democratizing the creation of credit through permanently recorded debts and obligations.

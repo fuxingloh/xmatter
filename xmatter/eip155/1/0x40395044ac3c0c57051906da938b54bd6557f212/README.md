@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ff0000"
+icons:
+  - icon.png
 ---
 
 MobileGo (MGO), a cryptocurrency that offers in-game rewards. Its ultimate goal is to 'make games available to everyone

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#828080"
+icons:
+  - icon.png
 ---
 
 My hamster died. He was a good hamster, he wasn't bad but just a little fat. How'd he die? Manslaughter? Or was it the cat. Anyhow, I’m sad.

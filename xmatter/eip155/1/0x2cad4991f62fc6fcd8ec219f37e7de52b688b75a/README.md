@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#06aff8"
+icons:
+  - icon.png
 ---
 
 Schain Wallet is mobile defi wallet designed to help people staking and earn profit, storage, transfer coin & token with security and lower fees

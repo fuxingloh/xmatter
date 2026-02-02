@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#997af7"
+icons:
+  - icon.png
 ---
 
 TrueFi is an on-chain uncollateralized lending protocol. stkTRU represents a users TRU deposited into the protocol's staking contract

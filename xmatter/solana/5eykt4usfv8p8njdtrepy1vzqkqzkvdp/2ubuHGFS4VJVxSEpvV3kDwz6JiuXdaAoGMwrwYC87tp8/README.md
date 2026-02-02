@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#eae4a5"
+icons:
+  - icon.png
 ---
 
 MILKBAG is the core token used within the MILKBAG ecosystem. There was no private sale or presale; MILKBAG was built from scratch by OG Degens.

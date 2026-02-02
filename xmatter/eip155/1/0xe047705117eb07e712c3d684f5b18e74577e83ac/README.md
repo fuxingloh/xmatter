@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#53ba70"
+icons:
+  - icon.png
 ---
 
 Staking and Yield Farming, Decentralized Lending, DEX with FIAT Cash-in/Cash-out, Crypto Academy, Payment Solution, Remittance. The ALL-in-ONE DEFI PLATFORM

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#090806"
+icons:
+  - icon.png
 ---
 
 Neiro Solana (neirobropump.com) (NEIRO) is a cryptocurrency launched in 2024and operates on the Solana platform.

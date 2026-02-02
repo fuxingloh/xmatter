@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#550dc3"
+icons:
+  - icon.png
 ---
 
 Mento West African CFA Franc (XOFm) is a decentralized stablecoin pegged to the West African CFA Franc on the Celo blockchain.

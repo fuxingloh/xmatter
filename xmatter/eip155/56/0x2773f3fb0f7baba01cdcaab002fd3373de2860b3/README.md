@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d6844e"
+icons:
+  - icon.png
 ---
 
 Wolf is an community token in the same way as Doge, but better. We are the wolf pack

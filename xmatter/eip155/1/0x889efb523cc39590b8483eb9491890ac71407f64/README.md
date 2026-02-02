@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#914940"
+icons:
+  - icon.png
 ---
 
 Moon Juice is a experiment in farming, deflation, and programmable money.

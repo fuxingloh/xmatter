@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5aabfc"
+icons:
+  - icon.png
 ---
 
 Content Neutrality Network (CNN) Platform introduces several mechanisms/protocols related to content creation, distribution, circulation and revenue share. CNN Platform combines personalized recommendation with the community votes to distribute the most relevant content to each user.

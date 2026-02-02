@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c44e4"
+icons:
+  - icon.png
 ---
 
 Founder token vesting and liquidity token locking solution.

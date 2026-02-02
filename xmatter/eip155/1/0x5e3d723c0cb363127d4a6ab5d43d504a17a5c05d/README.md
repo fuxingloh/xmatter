@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d4ac45"
+icons:
+  - icon.png
 ---
 
 Euruka Tech AI is a cutting-edge cryptocurrency project that leverages the power of artificial intelligence to revolutionize the financial technology landscape. Our platform integrates advanced AI algorithms with blockchain technology to provide innovative solutions for secure, efficient

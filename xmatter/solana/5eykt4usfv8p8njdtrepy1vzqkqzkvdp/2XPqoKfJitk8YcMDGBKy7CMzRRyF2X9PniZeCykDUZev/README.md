@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#172228"
+icons:
+  - icon.png
 ---
 
 A utility-driven memecoin that integrates AI solutions, featuring a decentralized exchange (DEX), various tools, a launchpad, NFTs, game, and memes.

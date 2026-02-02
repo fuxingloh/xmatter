@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3c8abc"
+icons:
+  - icon.png
 ---
 
 Dione Protocol is spearheading a groundbreaking initiative to revolutionize the energy industry through an incentivized energy trading ecosystem on an EVM-compatible L1 blockchain.

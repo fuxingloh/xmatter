@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#442474"
+icons:
+  - icon.png
 ---
 
 Dart Chain Finance The Advanced DeFi Platform Of The Future!

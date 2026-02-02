@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#444444"
+icons:
+  - icon.png
 ---
 
 Xcell is a defi protocol powered by binance smart chain

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f6c766"
+icons:
+  - icon.png
 ---
 
 A decentralized meme token built as a charity-oriented meme token that is entirely for social good across the globe.

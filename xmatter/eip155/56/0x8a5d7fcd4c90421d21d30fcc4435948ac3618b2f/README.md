@@ -42,6 +42,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#afafc7"
+icons:
+  - icon.png
 ---
 
 Cake Monster is a Hyper-Deflationary and Dividend-Yielding asset on BNB Chain that introduces a new form of monetary policy.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0ca5e3"
+icons:
+  - icon.png
 ---
 
 PL^Gnet is a Multi Chain Synthetic Assets Network. PL^Gnet enables asset custodians to leverage any asset from any network in its synthetic form in DeFi.

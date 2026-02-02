@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ca3d6a"
+icons:
+  - icon.png
 ---
 
 Raze Network is a Substrate-based Cross-chain Privacy Protocol for the Polkadot Ecosystem.

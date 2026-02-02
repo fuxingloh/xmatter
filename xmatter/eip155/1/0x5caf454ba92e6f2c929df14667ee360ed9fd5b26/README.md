@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e321b0"
+icons:
+  - icon.png
 ---
 
 Dev Protocol lets GitHub users tokenize their OSS projects in a few clicks. Creating an OSS token allows projects to access sustainable funding, create underlying economic models for their project, and distribute incentives at scale.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1a0f0d"
+icons:
+  - icon.png
 ---
 
 Inspired by $MEME. Fish with fat chonkers and get rewarded with NFT cards. DEFI + NFT + FAT CATS.

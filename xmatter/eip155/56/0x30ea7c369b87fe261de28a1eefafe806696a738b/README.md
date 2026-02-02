@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 DOXXED is a Binance Smart Chain Startup with a unique ecosystem of multiple utilities & use case, reflection to holders, revenue share and buybacks.

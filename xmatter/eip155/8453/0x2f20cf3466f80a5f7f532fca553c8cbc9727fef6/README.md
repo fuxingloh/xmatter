@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d4898a"
+icons:
+  - icon.png
 ---
 
 Forged in the frenzied fires of market volatility, AKUMA INU has emerged as the embodiment of the degen spirit – wild, unyielding, and relentless in the pursuit of crypto supremacy.

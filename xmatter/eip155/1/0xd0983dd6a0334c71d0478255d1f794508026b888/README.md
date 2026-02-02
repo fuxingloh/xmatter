@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dadbfc"
+icons:
+  - icon.png
 ---
 
 EGG Protocol is a suite of smart contracts focused on creating a simple way to generate rewards on various assets via best-in-class liquidity pools, soft staking, proof of stake (PoS) and airdrops.

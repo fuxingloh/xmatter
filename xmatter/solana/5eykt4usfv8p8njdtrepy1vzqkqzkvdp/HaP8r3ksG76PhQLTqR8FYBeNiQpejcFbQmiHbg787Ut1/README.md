@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#e7c5ae"
+icons:
+  - icon.png
 ---
 
 MAGA Movement on the Blockchain.

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#398eb3"
+icons:
+  - icon.png
 ---
 
 ArbDogeAI is created by AI. 100% of the tokens belong to the community. Never consider AIDOGE as a MEME.

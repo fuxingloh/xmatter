@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#d6e5da"
+icons:
+  - icon.png
 ---
 
 Your AI copilot for crypto - powered

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3cb2b4"
+icons:
+  - icon.png
 ---
 
 MEXC describes itself as a utility token for the Emergency Medical Services (EMS) industry.

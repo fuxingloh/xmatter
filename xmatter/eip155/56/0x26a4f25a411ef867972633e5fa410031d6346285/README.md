@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#141414"
+icons:
+  - icon.png
 ---
 
 Koduro is an autonomous liquidity generation protocol with static farming that reinvests back into clean energy projects.

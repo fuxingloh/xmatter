@@ -10,6 +10,8 @@ standards:
   - trc10
 icon: icon.png
 color: "#8cc43c"
+icons:
+  - icon.png
 ---
 
 Health Port is a patient-centric healthcare information system bringing patients a portable, interoperable, decentralized, integrated system for managing their personal electronic health records.

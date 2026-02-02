@@ -14,6 +14,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#fbf3eb"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Unlock lets you easily lock and manage access to your content, apps, community and even real life events and spaces.

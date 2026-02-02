@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c69c58"
+icons:
+  - icon.png
 ---
 
 BOOBAM is a deflationaty token with RFI system and anti-whale protection.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8313c3"
+icons:
+  - icon.png
 ---
 
 Orfano is a charity focused token on the Binance Smart Chain.

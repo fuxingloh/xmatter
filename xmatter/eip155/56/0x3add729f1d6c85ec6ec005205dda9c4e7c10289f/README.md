@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ada890"
+icons:
+  - icon.png
 ---
 
 Pomskey is a auto-liquidity, static farming, and deflationary token on the Binance Smart Chain

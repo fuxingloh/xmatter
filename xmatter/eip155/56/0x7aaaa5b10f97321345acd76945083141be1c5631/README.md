@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#deb949"
+icons:
+  - icon.png
 ---
 
 A decentralized VPN! COW.CM VPN combines blockchain and COW token rewards to offer privacy protection, network acceleration, and earning benefits! The earning mechanism stimulates user activity, aiming to build a million-user ecosystem.

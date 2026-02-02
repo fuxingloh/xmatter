@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c4b37a"
+icons:
+  - icon.png
 ---
 
 FantasyGold was built to become a multi-purpose platform offering Ethereum Virtual Machine based smart contracts and lightning fast transactions.

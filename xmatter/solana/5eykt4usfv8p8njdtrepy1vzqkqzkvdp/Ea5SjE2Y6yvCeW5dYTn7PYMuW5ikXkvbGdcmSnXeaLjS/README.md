@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#2bd3a2"
+icons:
+  - icon.png
 ---
 
 The Parrot Protocol is a DeFi network built on Solana that will include the stablecoin PAI, a non-custodial lending market, and a margin trading vAMM.

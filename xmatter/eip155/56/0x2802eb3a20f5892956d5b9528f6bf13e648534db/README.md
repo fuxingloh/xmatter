@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#000000"
+icons:
+  - icon.png
 ---
 
 Decentralized system designed to build a data oracle network based on an open protocol for interaction between participants and a sustainable economy.

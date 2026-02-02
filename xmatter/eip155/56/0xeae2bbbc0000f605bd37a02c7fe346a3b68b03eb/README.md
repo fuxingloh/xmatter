@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0e58e4"
+icons:
+  - icon.png
 ---
 
 A Fast & Secure Cryptocurrency and Multi chain DEX.

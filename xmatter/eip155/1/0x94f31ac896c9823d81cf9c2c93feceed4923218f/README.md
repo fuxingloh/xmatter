@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1ca47c"
+icons:
+  - icon.png
 ---
 
 YFTether aims to expand the utilization of blockchain from elementary value transfer to further complex financial use cases.

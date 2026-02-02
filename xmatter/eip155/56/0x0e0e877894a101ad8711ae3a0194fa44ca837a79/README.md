@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d7d9cd"
+icons:
+  - icon.png
 ---
 
 Use token in MoonMoon ecosystem, and generate passive yield with transfer fee going to holders and pancakeswap liquidity.

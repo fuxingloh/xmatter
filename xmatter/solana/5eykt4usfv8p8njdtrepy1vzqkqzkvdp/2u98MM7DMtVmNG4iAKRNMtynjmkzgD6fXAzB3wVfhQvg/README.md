@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#4289cc"
+icons:
+  - icon.png
 ---
 
 Introducing Lets Fuckin Go: launched on April 8th, 2024, on the Solana network in Pumpfun, experienced a community takeover the very next day on April 9th, 2024.

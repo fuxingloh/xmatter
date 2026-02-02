@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04cf7d"
+icons:
+  - icon.png
 ---
 
 Zinc simplifies, accelerates and reduces the cost of the hiring journey for workers and recruiters within the technology sector.

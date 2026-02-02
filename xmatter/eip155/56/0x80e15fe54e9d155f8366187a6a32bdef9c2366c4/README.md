@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e7872d"
+icons:
+  - icon.png
 ---
 
 A Complete Metaverse of Digital Monsters on Binance Smart Chain. With BMON-Z1 the users can buy boosters of NFT. The boosters have 3 monsters.Through a smart contract called Booster, the NFTs will be minted (BEP721) ,using the $BMON token (BEP-20). Community Governance. Buy NFT in itsphysical variant. Entry fee and rewards in tournaments.

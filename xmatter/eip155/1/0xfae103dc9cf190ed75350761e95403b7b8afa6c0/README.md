@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#211474"
+icons:
+  - icon.png
 ---
 
 Restaked Swell ETH (rswETH) is a LRT that unlocks liquidity for restaked LSTs

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fd0000"
+icons:
+  - icon.png
 ---
 
 EZBitex is the currency exchange and banking infrastructure with a decentralized, distributed and immutable ledger.

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#07060d"
+icons:
+  - icon.png
 ---
 
 Launched in 2017, Choise.ai is an enterprise crypto ecosystem providing solutions for over 1M+ users and over 50+ banks, fintechs, and startups worldwide, bridging the gap between DeFi and TradFi

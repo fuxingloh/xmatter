@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eab16b"
+icons:
+  - icon.png
 ---
 
 A CYBORG SHIBA INU DOG FROM PLANET SHIBAMOON X1000. A DECENTRALIZED MEME TOKEN

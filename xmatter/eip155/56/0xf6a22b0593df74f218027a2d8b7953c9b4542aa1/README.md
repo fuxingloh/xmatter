@@ -32,6 +32,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e56983"
+icons:
+  - icon.png
 ---
 
 LinkSync aims to provide a safe trading environment to early crypto investors by designing an online platform that restricts access to scam projects while giving increased visibility and in- sights on promising projects. Our teams of experts will evaluate KYC, PoC, white papers, smart contracts and many more.

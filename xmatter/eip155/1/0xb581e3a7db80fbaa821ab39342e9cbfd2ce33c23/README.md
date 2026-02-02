@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cf61dc"
+icons:
+  - icon.png
 ---
 
 Arcade Token (ARCD) is the official cryptocurrency of Arcade City, the decentralized gig marketplace for rides, deliveries and more.

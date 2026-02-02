@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dde9ec"
+icons:
+  - icon.png
 ---
 
 A community of people who loves cryptocurrencies and blockchain, with a high level of expertise they can share with others

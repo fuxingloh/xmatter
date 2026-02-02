@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3c3cd4"
+icons:
+  - icon.png
 ---
 
 Robust Token (RBT) is an original concept token on the Binance Smart Chain with a limited supply of 100 000 RBT and a 1% burn per transaction that gets converted into Robust Reward (RBW).

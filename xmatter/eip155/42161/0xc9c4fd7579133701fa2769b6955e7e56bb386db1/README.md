@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#efb236"
+icons:
+  - icon.png
 ---
 
 Bridge Oracle System is a technology through which external data can be injected.

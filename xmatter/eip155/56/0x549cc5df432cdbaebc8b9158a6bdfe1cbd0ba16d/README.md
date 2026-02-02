@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1e1e34"
+icons:
+  - icon.png
 ---
 
 HOWL is the token of the HowlCity project, a 3D metaverse game

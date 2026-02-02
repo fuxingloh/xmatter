@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#550fc4"
+icons:
+  - icon.png
 ---
 
 Mento Euro (EURm) is a decentralized stablecoin pegged to the Euro on the Celo blockchain.

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04c9fc"
+icons:
+  - icon.png
 ---
 
 Revolotto is a Deflationary token; four-dimensional, 80% to buyer, 9% to LP, 5% burns & 6% distribution.

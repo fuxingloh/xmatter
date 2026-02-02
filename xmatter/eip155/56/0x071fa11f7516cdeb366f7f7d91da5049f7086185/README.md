@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dd5e5e"
+icons:
+  - icon.png
 ---
 
 The Rocketboys launchpad is positioned to disrupt all that has become toxic in the current presale ecosystem. The launchpad will operate a much higher barrier to entry for prospective projects – KYB (Know Your Business) and pre-doxxing to an internal Rocketboys committee before launch will provide a uniquely safer investing environment for all participants.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#232323"
+icons:
+  - icon.png
 ---
 
 Benchmark Protocol mitigates liquidation events and hedges risk with the MARK token; a supply elastic, stablecoin-alternative that connects traditional capital markets to DeFi.

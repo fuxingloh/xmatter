@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04bcfc"
+icons:
+  - icon.png
 ---
 
 VNX is developing the world's first decentralized marketplace and trading platform, where investors can buy and sell tokenized investment portfolios of venture capital funds and accelerators.

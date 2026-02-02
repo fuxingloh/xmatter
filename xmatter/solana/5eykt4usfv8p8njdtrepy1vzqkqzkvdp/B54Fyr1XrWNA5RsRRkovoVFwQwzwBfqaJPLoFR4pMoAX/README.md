@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#342628"
+icons:
+  - icon.png
 ---
 
 New meme parody of elon musk. I am willing to serve. D.O.G.E = Department of Government Efficiency

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#050504"
+icons:
+  - icon.png
 ---
 
 MDG aims to become bsc’s ultimate rewards token. Community members Earn MDG just by holding them in their wallets. MDG holds weekly lottos with huge jackpots.

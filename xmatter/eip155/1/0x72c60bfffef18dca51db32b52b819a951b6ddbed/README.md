@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040405"
+icons:
+  - icon.png
 ---
 
 Shido is an infinitely scalable Layer 1 in the interoperable Cosmos, powered by Tendermint Consensus, EVM and WebAssembly.

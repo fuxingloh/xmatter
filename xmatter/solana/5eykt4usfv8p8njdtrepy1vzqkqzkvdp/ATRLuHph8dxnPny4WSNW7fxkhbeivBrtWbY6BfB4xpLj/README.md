@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Artrade emerges as a groundbreaking online platform aimed at revolutionizing the traditional paradigms of art transactions.

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dc2424"
+icons:
+  - icon.png
 ---
 
 MAGIC is the utility token that connects gaming communities in the Treasure Metaverse: a decentralized NFT ecosystem which sits on Arbitrum, one of Ethereum’s Layer 2 scaling solutions.

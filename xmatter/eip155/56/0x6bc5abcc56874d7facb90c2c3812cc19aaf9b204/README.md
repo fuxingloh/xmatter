@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d2b979"
+icons:
+  - icon.png
 ---
 
 RZCoin is more than just a cryptocurrency, it is a gateway to transform businesses, companies and brands. Supported by the advanced RZ blockchain technology, RZCoin specializes in asset tokenization in various industries and enables secure, transparent and efficient transactions. With RZCoin all businesses will find new opportunities for growth and innovation. The future is marked!

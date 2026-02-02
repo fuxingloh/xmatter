@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0ab6ba"
+icons:
+  - icon.png
 ---
 
 Alchemy is a decentralized data model training platform based on blockchain security encryption operation and a random forest training model.

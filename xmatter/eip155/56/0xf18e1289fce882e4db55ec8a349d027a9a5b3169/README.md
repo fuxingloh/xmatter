@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#978552"
+icons:
+  - icon.png
 ---
 
 MetaBotChain is an app to manage assets or trade on Crypto exchange 1% Fee transaction send to MBCH LP holder

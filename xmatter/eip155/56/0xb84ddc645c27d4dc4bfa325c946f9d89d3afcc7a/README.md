@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d98444"
+icons:
+  - icon.png
 ---
 
 Bonus Cake is the first dividend and lucky draw CAKE reflection token.

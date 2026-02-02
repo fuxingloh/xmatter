@@ -34,6 +34,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#042c54"
+icons:
+  - icon.png
 ---
 
 hi is leveraging blockchain technology to build services that are community powered. Members of hi are the key stakeholders of this ecosystem and the business is committed to maximize membership value - not profits. Our first product is a digital wallet that provides members with the most seamless payment experience via social messengers. The HI is a membership token that powers the hi ecosystem.

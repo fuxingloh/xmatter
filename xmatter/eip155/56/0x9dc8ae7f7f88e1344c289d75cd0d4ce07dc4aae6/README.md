@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ebb26d"
+icons:
+  - icon.png
 ---
 
 BabyFlokiZilla is a Community-driven, Meme token on Binance Smart Chain.

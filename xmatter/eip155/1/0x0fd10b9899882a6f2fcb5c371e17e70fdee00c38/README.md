@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c1c1c"
+icons:
+  - icon.png
 ---
 
 Pundi X (NPXS) aims to make the use of cryptocurrency as a form of payment into a reality for retailers and consumers alike.

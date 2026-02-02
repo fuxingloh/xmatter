@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1994e5"
+icons:
+  - icon.png
 ---
 
 ssv. the network is a decentralized staking infrastructure that enables the distributed operation of an Ethereum validator. An open-source protocol for simple and scalable access to decentralized ETH staking for all.

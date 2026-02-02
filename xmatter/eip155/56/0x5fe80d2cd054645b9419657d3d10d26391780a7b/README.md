@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dc8444"
+icons:
+  - icon.png
 ---
 
 MCDEX is the first fully-permissionless DEX for trading perpetual contracts, powered by MCDEX's revolutionary AMM technology

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Se7en is a first of its kind Token. Sales restrictions with BNB dividends delivered directly to your wallet.

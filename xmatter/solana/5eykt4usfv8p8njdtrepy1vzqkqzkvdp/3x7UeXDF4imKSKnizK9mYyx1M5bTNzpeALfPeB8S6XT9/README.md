@@ -10,6 +10,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#ef5071"
+icons:
+  - icon.png
 ---
 
 SKEM is a Solana meme token with scam busting abilities.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1e3dc9"
+icons:
+  - icon.png
 ---
 
 The Ambrosus network is a blockchain-based ecosystem for supply chains, ensuring the origin, quality, compliance, and proper handling of items tracked by the network.

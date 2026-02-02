@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fcad08"
+icons:
+  - icon.png
 ---
 
 Dynamix, The first token created with an evolving algorithm based on events. Dynamic rewards increased from 2% to 8% according to the number of holders, sell fees decreases from 17% to 5% according to hold time, and also buyback and burn system.

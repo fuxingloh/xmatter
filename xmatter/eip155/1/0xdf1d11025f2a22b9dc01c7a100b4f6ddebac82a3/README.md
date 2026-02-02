@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c6368c"
+icons:
+  - icon.png
 ---
 
 AirDance's mission is to develop and promote dance globally, providing online access to the knowledge and experience of legendary dancers of our time.

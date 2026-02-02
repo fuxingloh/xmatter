@@ -31,6 +31,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#13a2cd"
+icons:
+  - icon.png
 ---
 
 DogeFood is a charity dog protection project. We are committed to making a dog charity organization to help every stray dog build their home.This project will gather: NFTs,gamefi, mining, swap concepts.We are building a strong community in the beginning of the DogeFood, finding more consensus in order to stabilize the team funding for further development of Dog charity.

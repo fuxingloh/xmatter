@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cc454e"
+icons:
+  - icon.png
 ---
 
 Wag is the native currency of Wagyuswap DEX

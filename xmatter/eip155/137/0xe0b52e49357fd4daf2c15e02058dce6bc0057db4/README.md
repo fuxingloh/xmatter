@@ -23,6 +23,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8cb0fb"
+icons:
+  - icon.png
 ---
 
 EURA is an over-collateralized and decentralized Euro stablecoin by the Angle Protocol.

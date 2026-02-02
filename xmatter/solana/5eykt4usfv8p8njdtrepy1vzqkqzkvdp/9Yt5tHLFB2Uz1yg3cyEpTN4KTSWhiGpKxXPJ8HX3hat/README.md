@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#070f0d"
+icons:
+  - icon.png
 ---
 
 ultimate technical analysis agent

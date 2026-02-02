@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a074d7"
+icons:
+  - icon.png
 ---
 
 BCDC is the investment platform that connects Ce-Fi and De-Fi.

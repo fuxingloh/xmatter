@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a43af6"
+icons:
+  - icon.png
 ---
 
 The UAA META ecosystem governance token, UAA Coin, allows holders to participate in community governance and voting.

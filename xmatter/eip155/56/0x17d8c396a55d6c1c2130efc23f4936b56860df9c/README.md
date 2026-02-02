@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d9bca7"
+icons:
+  - icon.png
 ---
 
 We Moose HODL! We Moose Unite! We Moose Stay Strong Together!

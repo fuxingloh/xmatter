@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#880ea9"
+icons:
+  - icon.png
 ---
 
 EverGrow is a deflationary token designed to become more scarce over time through regular burn. All holders of $EGC will earn an 8% reward from every Buy/Transfer/Sell Transaction in $BUSD

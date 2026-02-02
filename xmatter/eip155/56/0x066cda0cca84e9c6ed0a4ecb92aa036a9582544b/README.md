@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c9c085"
+icons:
+  - icon.png
 ---
 
 Sonic Inu is a relatively new meme crypto token that has gained popularity among crypto enthusiasts and fans of the iconic video game character, Sonic the Hedgehog.

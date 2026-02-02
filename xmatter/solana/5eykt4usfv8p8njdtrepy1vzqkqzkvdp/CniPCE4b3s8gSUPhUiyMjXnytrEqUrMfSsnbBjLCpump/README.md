@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#363742"
+icons:
+  - icon.png
 ---
 
 YOU SHOULDA SAID PWEASE

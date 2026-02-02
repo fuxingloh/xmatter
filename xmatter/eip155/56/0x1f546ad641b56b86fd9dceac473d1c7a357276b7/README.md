@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c0531"
+icons:
+  - icon.png
 ---
 
 PantherSwap is the First Automatic Liquidity Acquisition Yield Farm & AMM on Binance Smart Chain.

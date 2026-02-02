@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7c2aed"
+icons:
+  - icon.png
 ---
 
 Sapien is an Ethereum-based social network that puts Humans First.

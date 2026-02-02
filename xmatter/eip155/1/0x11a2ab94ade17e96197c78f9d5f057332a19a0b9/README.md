@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5652f7"
+icons:
+  - icon.png
 ---
 
 Orbicular is a cryptocurrency with a supply that cyclically increases and decreases through rebases.

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#246cfc"
+icons:
+  - icon.png
 ---
 
 Humanscape aims to cure incurable diseases, by curating personal health data.

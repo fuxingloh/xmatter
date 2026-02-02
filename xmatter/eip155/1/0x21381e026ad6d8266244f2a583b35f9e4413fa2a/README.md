@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Formation Fi revolutionizes portfolio construction by introducing risk-adjusted portfolio of decentralized open financial crypto assets in the form of algorithmically rebasing indexes, with a high degree of composability, across the major blockchain networks.

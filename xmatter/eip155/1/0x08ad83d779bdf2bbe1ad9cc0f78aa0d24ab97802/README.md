@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#05a6ee"
+icons:
+  - icon.png
 ---
 
 Robonomics parachain lifetime subscription token.

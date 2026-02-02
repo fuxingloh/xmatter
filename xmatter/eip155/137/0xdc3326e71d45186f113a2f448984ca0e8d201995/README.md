@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#144ce4"
+icons:
+  - icon.png
 ---
 
 XSGD is the fully collateralized Singapore Dollar stablecoin, powered by open-source blockchain protocols.

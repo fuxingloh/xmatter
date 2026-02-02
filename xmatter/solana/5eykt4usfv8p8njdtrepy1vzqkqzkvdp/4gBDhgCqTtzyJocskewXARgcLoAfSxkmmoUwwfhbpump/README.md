@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#c93d2f"
+icons:
+  - icon.png
 ---
 
 Chuanpu - The Chinese Trump Bringing together the best of both worlds to make crypto great again!

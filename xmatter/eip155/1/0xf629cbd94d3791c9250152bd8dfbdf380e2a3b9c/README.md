@@ -29,6 +29,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#38eef8"
+icons:
+  - icon.png
 ---
 
 The Enjin ecosystem (comprising the Enjin Platform, Explorer, Wallet, Beam) aims to empower gamers with ownership of digital assets and enables game industry businesses to increase revenue.

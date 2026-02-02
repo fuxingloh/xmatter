@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6dcbd9"
+icons:
+  - icon.png
 ---
 
 Frosted Cake is a deflationary passive income token, strategically developed for long term Investments, pushing Smart Contract Capabilities to its fullest potential. Frosted Cake is a real Incentive & Community token.

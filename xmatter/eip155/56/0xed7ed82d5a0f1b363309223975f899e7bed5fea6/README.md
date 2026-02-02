@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5d1675"
+icons:
+  - icon.png
 ---
 
 Baby Boxer is a community-driven, deflationary token on the Binance Smart Chain with a mission to help malnourished babies around the world.

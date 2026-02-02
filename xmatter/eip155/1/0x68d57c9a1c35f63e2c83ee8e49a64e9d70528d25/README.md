@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c2b2c"
+icons:
+  - icon.png
 ---
 
 Blockchain Smartphone.

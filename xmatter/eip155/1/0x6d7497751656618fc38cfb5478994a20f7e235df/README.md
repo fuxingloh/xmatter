@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9104d1"
+icons:
+  - icon.png
 ---
 
 Spyro is the most memeable meme dragon in existence, deployed on the ERC20 network in the year of the Dragon.

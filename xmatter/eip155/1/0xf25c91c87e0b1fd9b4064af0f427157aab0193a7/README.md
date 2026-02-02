@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0d1c85"
+icons:
+  - icon.png
 ---
 
 Basic is a crypto finance platform where businesses and consumers can access finance services for crypto assets like bitcoin and ethereum.

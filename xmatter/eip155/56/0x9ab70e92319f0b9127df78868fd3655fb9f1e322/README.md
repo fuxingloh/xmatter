@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#151515"
+icons:
+  - icon.png
 ---
 
 Best Solutions for the best web 3.0 social relations.

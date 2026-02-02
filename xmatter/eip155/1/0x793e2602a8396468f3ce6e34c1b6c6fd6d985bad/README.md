@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#de83c7"
+icons:
+  - icon.png
 ---
 
 The $ICK Mask is a face mask by Saint Fame, the world's first internet-owned fashion house. It is the first piece collectively designed by the disciples of Saint Fame.

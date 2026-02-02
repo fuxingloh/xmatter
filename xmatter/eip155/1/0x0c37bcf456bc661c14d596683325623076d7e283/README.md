@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4280a5"
+icons:
+  - icon.png
 ---
 
 Aeron – blockchain solutions for aviation safety.

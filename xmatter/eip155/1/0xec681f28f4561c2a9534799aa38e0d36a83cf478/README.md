@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ea453d"
+icons:
+  - icon.png
 ---
 
 The first and only yield-farming, vaults and staking deflationary token with no admin control.

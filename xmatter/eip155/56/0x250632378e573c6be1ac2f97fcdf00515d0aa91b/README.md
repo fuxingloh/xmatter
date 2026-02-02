@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e4eef1"
+icons:
+  - icon.png
 ---
 
 BETH is a tokenized asset representing staked ETH at Binance Staking on a 1:1 basis.

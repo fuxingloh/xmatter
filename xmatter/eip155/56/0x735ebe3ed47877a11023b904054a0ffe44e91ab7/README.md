@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e9d3e4"
+icons:
+  - icon.png
 ---
 
 Alaska Inu is a 100% decentralized community experiment.

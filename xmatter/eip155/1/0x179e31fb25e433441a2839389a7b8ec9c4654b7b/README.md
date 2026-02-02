@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cfaa2e"
+icons:
+  - icon.png
 ---
 
 Hybrid Digital Assets Trading Platform

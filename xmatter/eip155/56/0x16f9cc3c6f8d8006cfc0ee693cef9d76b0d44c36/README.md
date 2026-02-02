@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2d2e2f"
+icons:
+  - icon.png
 ---
 
 We are the first token to combine these 5 super elements at once.

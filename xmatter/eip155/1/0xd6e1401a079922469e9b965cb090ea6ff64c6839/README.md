@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c2c2c"
+icons:
+  - icon.png
 ---
 
 HOLD is a revolutionary card that provides instant cash against cryptocurrency collateral. Leverage the power of your portfolio without having to sell it.

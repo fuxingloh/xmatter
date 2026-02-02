@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e4c354"
+icons:
+  - icon.png
 ---
 
 Welcome to Hamster Champ The Hamster Kingdom of Memes!

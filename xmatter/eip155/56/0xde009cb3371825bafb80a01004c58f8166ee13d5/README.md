@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ccc9c6"
+icons:
+  - icon.png
 ---
 
 LittleUglyDuck is a coin issued on Binance Smart Chain.

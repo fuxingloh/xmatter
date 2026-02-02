@@ -21,6 +21,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7bf3cb"
+icons:
+  - icon.png
 ---
 
 Connecting the Metaverse to the Real World

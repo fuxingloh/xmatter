@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1430ac"
+icons:
+  - icon.png
 ---
 
 Cashaa is a global banking solution for the crypto industry. It’s the world’s first banking platform that enables the seamless transaction of both fiat and crypto from the one account dashboard.

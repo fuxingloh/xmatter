@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2975c4"
+icons:
+  - icon.png
 ---
 
 TWERK FINANCE IS A LIQUIDITY GENERATING DEFI

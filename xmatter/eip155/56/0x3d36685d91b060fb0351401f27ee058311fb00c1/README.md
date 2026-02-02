@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c4c6c3"
+icons:
+  - icon.png
 ---
 
 The strongest financial asset in the world. $1.50 forever and always. This is the journey there

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ea1c3c"
+icons:
+  - icon.png
 ---
 
 PULSE AI uses artificial intelligence to analyze data, while blockchain provides a secure way to track transactions.

@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#2e1e17"
+icons:
+  - icon.png
 ---
 
 On May 1, 2019, the Woman Yelling at Cat meme was born when Twitter user @MISSINGEGIRL paired together two images. The image on the left was taken from the ;Malibu Beach Party from Hell' episode of The Real Housewives of Beverly Hills, featuring Taylor Armstrong yelling and being held back by Kyle Richards.

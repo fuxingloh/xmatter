@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#311b94"
+icons:
+  - icon.png
 ---
 
 Andromeda M31, we value honesty and transparency. We work hard for our investments and YOUR investments. We also strive to make a lasting impact in decentralized finance.

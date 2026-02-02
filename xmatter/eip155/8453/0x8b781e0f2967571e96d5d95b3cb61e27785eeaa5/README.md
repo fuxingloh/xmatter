@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0754f6"
+icons:
+  - icon.png
 ---
 
 Hi, I'm Borkie the yorkie on base - Where the only thing I fetch, is the moon! I'm a fun loving pup you can add to your wallet. Join our pack today and let's wag our tails to the moon together.

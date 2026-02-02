@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b2822c"
+icons:
+  - icon.png
 ---
 
 2nd generation yield farming on binance smart chain

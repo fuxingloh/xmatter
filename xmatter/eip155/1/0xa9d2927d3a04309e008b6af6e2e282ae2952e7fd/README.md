@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dedede"
+icons:
+  - icon.png
 ---
 
 Zipper is a decentralized value transfer network that enables point to point Message communication, Transaction Transfer and Transaction Settlement across multiple blockchain networks among different financial institutions. Zipper enables and empowers rich and comprehensive blockchain-based services for global financial institutions.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#13141c"
+icons:
+  - icon.png
 ---
 
 OmegaX Health puts an always-available AI doctor on your phone—offering personalized health advice, instant symptom checks, and proactive wellness coaching

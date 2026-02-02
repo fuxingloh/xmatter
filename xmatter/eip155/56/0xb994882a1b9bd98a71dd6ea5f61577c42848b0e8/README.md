@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7173fc"
+icons:
+  - icon.png
 ---
 
 World of Dypians is a revolutionary MMORPG available on Epic Games, set in a connected virtual world, featuring advanced AI, stunning graphics, and immersive gameplay. It is a dynamic gaming ecosystem that merges DeFi, NFTs, Gaming, and AI into a single immersive experience.

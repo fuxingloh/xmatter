@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#06accb"
+icons:
+  - icon.png
 ---
 
 BDAO Network is a decentralized and autonomous reward platform that runs on the Ethereum blockchain through smart contracts.

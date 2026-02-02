@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9900ff"
+icons:
+  - icon.png
 ---
 
 YOP is the token for YOP finance application.

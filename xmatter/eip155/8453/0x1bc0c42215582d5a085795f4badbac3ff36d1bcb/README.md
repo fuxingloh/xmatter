@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#191322"
+icons:
+  - icon.png
 ---
 
 tokenbot

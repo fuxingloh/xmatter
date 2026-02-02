@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d08b10"
+icons:
+  - icon.png
 ---
 
 A platform with AI-Reinforcement Learning system for web3 token economy management, automated engagement and AI Agent Player. G-Agents brings AI, Gaming and Engagement together.

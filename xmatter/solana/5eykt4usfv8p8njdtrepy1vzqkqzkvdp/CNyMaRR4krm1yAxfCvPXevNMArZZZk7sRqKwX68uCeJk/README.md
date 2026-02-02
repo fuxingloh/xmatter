@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#c17b36"
+icons:
+  - icon.png
 ---
 
 The Major Frog Incident: A Glimpse Into the Truth They Don’t Want You to See

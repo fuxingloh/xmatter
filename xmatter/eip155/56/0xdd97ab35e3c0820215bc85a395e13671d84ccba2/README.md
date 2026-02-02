@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5cb5c6"
+icons:
+  - icon.png
 ---
 
 AutoShark is a yield optimizer for Automatic Liquidity Acquisition Farms & AMMs on the Binance Smart Chain.

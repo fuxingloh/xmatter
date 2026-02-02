@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d4dbf3"
+icons:
+  - icon.png
 ---
 
 A meme token.

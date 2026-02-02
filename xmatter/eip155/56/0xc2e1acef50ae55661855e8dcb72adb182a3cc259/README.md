@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eabc29"
+icons:
+  - icon.png
 ---
 
 Bolt Dollar - previously Bat True Dollar - is a community owned and driven algorithmic stable coin project established on BSC

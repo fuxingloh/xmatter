@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5c44bc"
+icons:
+  - icon.png
 ---
 
 Orchid (OXT) is the native token of Orchid, a cryptocurrency-powered virtual private network (VPN).

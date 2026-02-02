@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2f2233"
+icons:
+  - icon.png
 ---
 
 Super Trump is an audacious venture into the realm of meme cryptocurrencies, designed to embody the polarizing yet captivating political figure of Donald Trump

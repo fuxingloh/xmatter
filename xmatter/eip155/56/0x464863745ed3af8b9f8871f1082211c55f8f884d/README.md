@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3e5ce"
+icons:
+  - icon.png
 ---
 
 CryptoTycoon is a gaming platform based on BSC..

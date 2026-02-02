@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3d014"
+icons:
+  - icon.png
 ---
 
 ApeX is a decentralized, non-custodial, permissionless, censorship-resistant perpetual derivative protocol that enables the introduction of perpetual swap markets for any token pairs.

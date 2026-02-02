@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d1e9f6"
+icons:
+  - icon.png
 ---
 
 Doggy Swap is the all-in-one DeFi platform that provides both AMM and NFT Marketplace solutions in one place!

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#1c0e0c"
+icons:
+  - icon.png
 ---
 
 Sigma is a crypto asset, that's built and backed by people of thesame goal and interest. From the name sigma we've decided to build a community on chain as alot of people on the internet relates with the term.

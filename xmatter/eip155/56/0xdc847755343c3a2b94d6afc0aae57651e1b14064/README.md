@@ -32,6 +32,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#24353b"
+icons:
+  - icon.png
 ---
 
 BODAV2 rewards holders with up to 19% in BUSD dividend rewards. 6% BUSD from buy orders and 13% BUSD from sell orders.

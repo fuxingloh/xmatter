@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f2bb33"
+icons:
+  - icon.png
 ---
 
 Tokenising farts with the help of BNB. No cabal, Fart freely! It will all make sense soon.

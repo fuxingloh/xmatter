@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c25df1"
+icons:
+  - icon.png
 ---
 
 Alchemist's one and only purpose is to find the philosopher's stone and use it to explore the galaxy.

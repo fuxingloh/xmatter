@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#042129"
+icons:
+  - icon.png
 ---
 
 BENQI is a decentralized non-custodial liquidity market as well as a liquid staking protocol built on the high-speed Avalanche smart contract network.

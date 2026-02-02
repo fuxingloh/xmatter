@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Nero is decentralized finance, with the concept of auto staking and auto-create orphan liquidity and support for payments without fees

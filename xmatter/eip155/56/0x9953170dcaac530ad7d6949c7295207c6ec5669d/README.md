@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f4f3ec"
+icons:
+  - icon.png
 ---
 
 MetaDoge is a community-driven project. It is a Memecoin and utility token in the crypto sphere.

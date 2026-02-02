@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f5b669"
+icons:
+  - icon.png
 ---
 
 SAFEDOGE is a Frictionless Yield Generation DEFI protocol on Binance Smart Chain.

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#775397"
+icons:
+  - icon.png
 ---
 
 GAMEX is a project with goal of creating a gaming ecosystem revolving around the benefits of the players.

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e7bb74"
+icons:
+  - icon.png
 ---
 
 COVER Protocol features shield-mining and SAFE2 token will be converted to COVER token.

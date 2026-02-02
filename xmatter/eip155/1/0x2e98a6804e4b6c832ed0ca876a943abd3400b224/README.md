@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#73c6f3"
+icons:
+  - icon.png
 ---
 
 Bela (BELA) is a cryptocurrency and operates on the Ethereum platform.

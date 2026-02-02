@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04c4ac"
+icons:
+  - icon.png
 ---
 
 Decentralizing taco payments worldwide.

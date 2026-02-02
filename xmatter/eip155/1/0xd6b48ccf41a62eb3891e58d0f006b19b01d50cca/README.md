@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Revolutionizing Global Connectivity by Leveraging DePIN, OpenRoaming and User Incentives.

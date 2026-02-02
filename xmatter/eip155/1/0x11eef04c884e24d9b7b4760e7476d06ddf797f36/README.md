@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#42c5a5"
+icons:
+  - icon.png
 ---
 
 MX is the native token of the MXC trading platform. MX holders reportedly benefit from asset appreciation, rebates on platform revenue, supervision, and voting.

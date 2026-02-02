@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f8f2fa"
+icons:
+  - icon.png
 ---
 
 TPolka Ventures is a decentralized alternative investment fund that invests in DeFi, crypto, and blockchain projects that create value and solve issues. They provide seed and early-stage funding.

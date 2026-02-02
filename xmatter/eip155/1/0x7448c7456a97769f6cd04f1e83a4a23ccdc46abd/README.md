@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6304fb"
+icons:
+  - icon.png
 ---
 
 Maverick Protocol offers a new infrastructure for decentralized finance, built to facilitate the most liquid markets for traders, liquidity providers, DAO treasuries, and developers, powered by a revolutionary Dynamic Distribution Automated Market Maker (AMM).

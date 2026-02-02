@@ -18,6 +18,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#d42c7c"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Amp is a digital collateral token designed to facilitate fast and efficient value transfer, especially for use cases that prioritize security and irreversibility.

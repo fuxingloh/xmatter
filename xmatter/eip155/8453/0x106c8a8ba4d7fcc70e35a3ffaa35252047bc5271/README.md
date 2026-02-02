@@ -14,6 +14,7 @@ name: GOAT BASED
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 With the rise of $GOAT and the growing allure of Truth Terminal’s darkly humorous, unpredictable personality, this site was born as a byproduct of its influence.

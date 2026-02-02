@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b0437"
+icons:
+  - icon.png
 ---
 
 PathFund's initiative is to build and make available to investors a secure and friendly ecosystem with an intuitive interface.

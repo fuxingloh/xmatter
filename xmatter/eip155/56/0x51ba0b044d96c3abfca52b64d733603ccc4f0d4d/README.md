@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7414fc"
+icons:
+  - icon.png
 ---
 
 SuperFarm is a cross-chain DeFi protocol that allows users to deploy crypto and NFT farms with no code required!

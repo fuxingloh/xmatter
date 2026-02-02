@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#415efb"
+icons:
+  - icon.png
 ---
 
 Shon token is the latest crypto-currency architecture that can be transacted through the Binance Smart Chain

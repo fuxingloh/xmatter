@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#7f7a6f"
+icons:
+  - icon.png
 ---
 
 $LONER is just a space for people who get it.

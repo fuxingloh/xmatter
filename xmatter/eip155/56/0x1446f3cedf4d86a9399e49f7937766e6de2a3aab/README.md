@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#141c2b"
+icons:
+  - icon.png
 ---
 
 Krown is a multi-chain yield aggregator.

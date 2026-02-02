@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#c68ad1"
+icons:
+  - icon.png
 ---
 
 Sent from the year 2167 through the Solana blockchain commissioned to save the world.

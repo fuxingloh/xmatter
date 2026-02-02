@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d6c082"
+icons:
+  - icon.png
 ---
 
 Elon Tweets, we all eat

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#4c74e3"
+icons:
+  - icon.png
 ---
 
 Launched in November 2022, Hivemapper (HONEY) is a decentralized global mapping network that rewards its contributors for collecting high-volume 4K street-level imagery with dashcams through a Drive-to-Earn model.

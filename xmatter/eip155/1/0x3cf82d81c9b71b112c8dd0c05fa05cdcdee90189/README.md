@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f04a53"
+icons:
+  - icon.png
 ---
 
 Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.

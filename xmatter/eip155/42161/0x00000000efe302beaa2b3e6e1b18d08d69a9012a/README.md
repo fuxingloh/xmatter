@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9c9454"
+icons:
+  - icon.png
 ---
 
 AUSD is a safe, secure asset that enables billions of dollars of transfers and is used globally.

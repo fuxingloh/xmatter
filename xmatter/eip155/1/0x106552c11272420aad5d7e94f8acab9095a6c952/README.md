@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#738594"
+icons:
+  - icon.png
 ---
 
 The Most Badass Dog in the Inu-verse!

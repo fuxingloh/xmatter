@@ -17,6 +17,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#38b67e"
+icons:
+  - icon.png
 ---
 
 REVOX.AI is building the shared AI interface for Web3 through its permissionless machine learning infrastructure, empowering the construction and innovation of decentralized AI applications through modular agents. REX is the primary governance token of REVOX.

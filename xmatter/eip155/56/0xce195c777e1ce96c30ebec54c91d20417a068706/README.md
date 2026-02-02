@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a25741"
+icons:
+  - icon.png
 ---
 
 Hugo is a DeFi Token on the Binance Smart Chain which will be used on a Decentralized Platform where holders votes matter to shape the future of the platform.

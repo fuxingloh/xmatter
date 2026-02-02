@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3445f7"
+icons:
+  - icon.png
 ---
 
 STEM is an exchange where each sports team has its own token. The price of the token is determined by the team's performance indicators.

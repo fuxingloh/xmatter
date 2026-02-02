@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7468d7"
+icons:
+  - icon.png
 ---
 
 ProBit Exchange is built to be the most professional, global and secure marketplace for digital assets.

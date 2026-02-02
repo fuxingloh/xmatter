@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0b74d3"
+icons:
+  - icon.png
 ---
 
 BTA is an asset that deserves to be valued the higher in the future and is worthy of long-term storage like bitcoin

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1bb1d6"
+icons:
+  - icon.png
 ---
 
 RFI + Base = RBASE.

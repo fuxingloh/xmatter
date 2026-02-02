@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#add904"
+icons:
+  - icon.png
 ---
 
 Color Platform is devoted to bringing the opportunities of a decentralized platform for daily life.

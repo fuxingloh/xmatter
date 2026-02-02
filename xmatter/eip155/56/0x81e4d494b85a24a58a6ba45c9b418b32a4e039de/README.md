@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#121444"
+icons:
+  - icon.png
 ---
 
 We keep it simple, We Moon. Rugproof. Audited. Community Owned #MoonToken.

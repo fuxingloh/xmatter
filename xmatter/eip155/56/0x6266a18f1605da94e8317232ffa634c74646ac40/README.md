@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a004c8"
+icons:
+  - icon.png
 ---
 
 The MetFx Marketplace is where you will find all the accessories you may require to do so, and also find a wide range of NFT’s that can be used in our metaverse.

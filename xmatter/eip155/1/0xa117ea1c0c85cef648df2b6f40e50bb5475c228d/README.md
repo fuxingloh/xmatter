@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#002caa"
+icons:
+  - icon.png
 ---
 
 The DUCATO Protocols aims at developing an optimized blockchain technology, providing user-centric services, expanding of network participants and developing credible algorithm and decentralized governance for network users’ profit.

@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#5f2da4"
+icons:
+  - icon.png
 ---
 
 The Aurory team is composed of 30+ talents from the gaming and the cryptocurrency industry.

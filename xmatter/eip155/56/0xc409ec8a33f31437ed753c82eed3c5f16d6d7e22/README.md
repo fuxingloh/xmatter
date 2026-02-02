@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fa6464"
+icons:
+  - icon.png
 ---
 
 In short, the distance between you and your favorite idol is only one NFT, on TOKAU!

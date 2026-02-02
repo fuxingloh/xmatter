@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c0906"
+icons:
+  - icon.png
 ---
 
 PirateCoin aims to produce a game integrating NFT by finding Treasure and earning PirateCoin. The character will earn and get experience the more time spent in the game. There will be enemies to fight, weapon upgrades, and much more. PirateCoin will be the main currency of the game.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#838c8c"
+icons:
+  - icon.png
 ---
 
 Cybertronchain is an oracle of connecting payment system with the blockchain network for kiosk and payment terminals. It bridging kiosks and payment terminals with cryptocurrencies such Ethereum, bitcoin, ripple, litecoin, and many more others

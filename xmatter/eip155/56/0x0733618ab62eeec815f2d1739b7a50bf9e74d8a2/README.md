@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Pomerium is Web3 game studio. Pomerium develops independent games with original content and provides the services, such as Web3 utility service tools interacting with the games and publishing. Above all, our goal is to build the sustainable token economy of Pomerium.

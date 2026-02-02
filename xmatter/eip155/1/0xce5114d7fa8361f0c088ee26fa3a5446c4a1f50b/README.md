@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c5c7c"
+icons:
+  - icon.png
 ---
 
 Our Blueprint for Decentralized Sharing Economy and Smart City Engine!

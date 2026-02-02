@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c76c2f"
+icons:
+  - icon.png
 ---
 
 Ofin is non-custodial investment protocol that enables novices to invest directly into the funds managed by seasoned crypto traders

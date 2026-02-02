@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#322a1e"
+icons:
+  - icon.png
 ---
 
 Andy is Pepe's lifelong best friend.

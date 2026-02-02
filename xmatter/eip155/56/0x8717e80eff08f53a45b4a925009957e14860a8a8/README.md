@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f6edf5"
+icons:
+  - icon.png
 ---
 
 Bring blockchain to life.

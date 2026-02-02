@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e6c326"
+icons:
+  - icon.png
 ---
 
 Pegazus is a charity - oriented token, a new cryptocurrency (BEP-20 Token) and smart contract ecosystem..

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d6a221"
+icons:
+  - icon.png
 ---
 
 In the vast and ever-expanding realm of cryptocurrencies, where innovation dances with imagination, emerges a unique digital asset - MonkaS Coin.

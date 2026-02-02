@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0b79b1"
+icons:
+  - icon.png
 ---
 
 OLXA is a cryptocurrency and operates on the Ethereum platform.

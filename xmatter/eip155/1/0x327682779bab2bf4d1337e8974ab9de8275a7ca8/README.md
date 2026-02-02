@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0483e6"
+icons:
+  - icon.png
 ---
 
 Social crypto exchange based on a hybrid-decentralized architecture.

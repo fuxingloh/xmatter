@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#056adb"
+icons:
+  - icon.png
 ---
 
 Value DeFi: Bringing True Value to DeFi.

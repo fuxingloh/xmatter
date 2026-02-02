@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#738de5"
+icons:
+  - icon.png
 ---
 
 Orbs is a blockchain infrastructure-as-a-service built for large scale consumer applications to meet their business and technological requirements.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fb9c4a"
+icons:
+  - icon.png
 ---
 
 Fugu Finance is a decentralized ecosystem to efficient farming and staking

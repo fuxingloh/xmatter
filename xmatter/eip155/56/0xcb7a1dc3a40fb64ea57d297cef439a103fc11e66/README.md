@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e79d44"
+icons:
+  - icon.png
 ---
 
 MILF (Mothers I'd Like to Fund) is a decentralized community coin aimed at funding mothers. Visit our community at https://t.me/milffinance_official

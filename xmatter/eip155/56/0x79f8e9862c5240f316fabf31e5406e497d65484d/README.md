@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eab504"
+icons:
+  - icon.png
 ---
 
 BITCOIN INTERNATIONAL is a non-inflationary Stake , Farm ,DeFi and NFT ecosystem aiming to provide yield generating investments strategies to long-term BTCI holders.

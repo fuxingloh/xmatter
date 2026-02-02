@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7454ec"
+icons:
+  - icon.png
 ---
 
 A multi-chain web3 wallet that aims to reduce the complexities involved with interacting with the blockchain.

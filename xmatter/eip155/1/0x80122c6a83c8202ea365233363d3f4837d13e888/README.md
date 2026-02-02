@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#050505"
+icons:
+  - icon.png
 ---
 
 A fully decentralized Blackhole for a private transaction on Ethereum.

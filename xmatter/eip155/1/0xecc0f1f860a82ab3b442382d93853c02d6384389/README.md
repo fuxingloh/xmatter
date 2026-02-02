@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#042424"
+icons:
+  - icon.png
 ---
 
 The World’s First Lightspeed DeFi Dedicated Interoperable Superchain

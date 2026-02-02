@@ -10,6 +10,7 @@ name: Flashstake
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 FLASH - The time travel of money

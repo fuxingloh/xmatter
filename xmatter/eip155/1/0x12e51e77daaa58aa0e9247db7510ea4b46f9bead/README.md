@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a97db6"
+icons:
+  - icon.png
 ---
 
 Aave YFI V1 is an interest bearing token pegged 1:1 to the underlying YFI deposited in Aave V1. aYFI V1 accrue interest in real time in your wallet.

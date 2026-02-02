@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#d4d4d4"
+icons:
+  - icon.png
 ---
 
 Jito Network is a major contributor to the Solana ecosystem through its JitoSOL liquid staking pool, and its collection of MEV products.

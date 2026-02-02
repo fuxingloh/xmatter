@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f2bc7c"
+icons:
+  - icon.png
 ---
 
 The modern technology and contemporary ambient that the internet created can not be imagined to function as a whole without crypto-currency.

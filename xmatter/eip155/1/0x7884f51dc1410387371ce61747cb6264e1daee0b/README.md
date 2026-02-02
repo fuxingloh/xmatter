@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d17fab"
+icons:
+  - icon.png
 ---
 
 BDOT tokens are ERC20 tokens on the Ethereum network created via the Binance Token Canal program, where the price is pegged to DOT at a rate of 1 BDOT = 1 DOT.

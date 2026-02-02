@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c21e3d"
+icons:
+  - icon.png
 ---
 
 Insula builds long only diversified crypto investment funds custodied securely on the blockchain and owned by investors through private key.

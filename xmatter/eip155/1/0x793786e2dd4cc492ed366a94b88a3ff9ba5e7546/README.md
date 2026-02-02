@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f43b5f"
+icons:
+  - icon.png
 ---
 
 Axia Protocol is a Decentralized platform for Cryptocurrency Index Fund management.

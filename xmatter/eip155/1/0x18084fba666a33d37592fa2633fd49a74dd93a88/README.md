@@ -17,6 +17,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#040404"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 tBTC is a decentralized Bitcoin onchain that allows Bitcoin holders to use their BTC across multiple blockchains, decentralized finance, and other financial markets.

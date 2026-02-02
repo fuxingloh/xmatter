@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#434342"
+icons:
+  - icon.png
 ---
 
 An unofficial fan page / memecoin of Moo Deng on Solana

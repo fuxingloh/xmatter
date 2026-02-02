@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#342c13"
+icons:
+  - icon.png
 ---
 
 GoldenRatio Token (GRT) project is an experiment which has no funding, to prove the importance of a quality community in a crypto related project.

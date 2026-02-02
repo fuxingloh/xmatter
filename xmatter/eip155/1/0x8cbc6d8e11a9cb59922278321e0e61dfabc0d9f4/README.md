@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3c1b0b"
+icons:
+  - icon.png
 ---
 
 KOPI BLOCKCHAIN is the digitalization of commodity coffee using blockchain technology. It will allow tracing of transactions on Waves Explorer. KOPI uses ERC20 & Waves Platform - decentralize exchange (DEX) to facilitate transaction and transfer.

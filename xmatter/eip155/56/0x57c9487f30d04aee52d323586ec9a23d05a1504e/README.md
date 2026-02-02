@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ddeff6"
+icons:
+  - icon.png
 ---
 
 A charity-oriented token that is focused on decreasing the rate of homelessness around the world.

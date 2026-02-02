@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbfb54"
+icons:
+  - icon.png
 ---
 
 Celo is a carbon-negative, permissionless, blockchain with a rich ecosystem of global partners building innovative Web3 dapps to support a more inclusive financial system.

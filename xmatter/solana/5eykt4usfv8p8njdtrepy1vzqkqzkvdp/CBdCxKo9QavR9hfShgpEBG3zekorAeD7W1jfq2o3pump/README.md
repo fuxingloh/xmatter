@@ -13,6 +13,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#3d475a"
+icons:
+  - icon.png
 ---
 
 The Vatican unveils “Luce” (Italian for “Light”), the mascot for the Holy Year 2025. Dressed as a pilgrim with a yellow raincoat, worn boots, a missionary cross, and a pilgrim's staff, Luce’s eyes are filled with scallop shells—a symbol of hope.

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#eacd3c"
+icons:
+  - icon.png
 ---
 
 Retardio pulsates as the vibrant heartbeat of an untamed, liberated enclave thriving within the memes of Solana.

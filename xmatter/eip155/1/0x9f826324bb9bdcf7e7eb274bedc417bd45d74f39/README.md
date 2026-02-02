@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3b3d33"
+icons:
+  - icon.png
 ---
 
 Visual creation platform that utilizes artificial intelligence powered by blockchain technology. This platform generates images and videos through the use of advanced AI algorithms. By utilizing milkAI, users are able to transform their creative concepts into visual outputs.

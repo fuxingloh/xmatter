@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f91eac"
+icons:
+  - icon.png
 ---
 
 DeFiChain (DFI) is a blockchain platform built with the mission of maximizing the full potential of DeFi within the Bitcoin (BTC) ecosystem.

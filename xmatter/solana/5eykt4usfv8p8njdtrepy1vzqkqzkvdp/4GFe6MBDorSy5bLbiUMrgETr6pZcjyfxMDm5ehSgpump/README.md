@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#e7ba27"
+icons:
+  - icon.png
 ---
 
 HawkTuah is a meme coin that went viral following a humorous street interview video, offering zero taxes, burnt liquidity, and a renounced contract for secure and community-driven growth.

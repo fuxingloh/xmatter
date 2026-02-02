@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fcbb14"
+icons:
+  - icon.png
 ---
 
 HeroVerse is the first Match-3 Puzzle and RPG Strategy Game on Binance Smart Chain.

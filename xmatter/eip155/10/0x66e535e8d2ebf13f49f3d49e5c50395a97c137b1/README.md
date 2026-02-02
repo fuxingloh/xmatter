@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ea4a46"
+icons:
+  - icon.png
 ---
 
 Molten is the native gas token for the Molten Layer 2 scaling solution.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f90779"
+icons:
+  - icon.png
 ---
 
 Floki Shiba has learned a few tricks and lessons from his meme father, Doge Coin.

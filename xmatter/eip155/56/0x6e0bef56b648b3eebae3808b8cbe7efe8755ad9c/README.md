@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c3c9c8"
+icons:
+  - icon.png
 ---
 
 RIP Gabe, forever in our hearts.

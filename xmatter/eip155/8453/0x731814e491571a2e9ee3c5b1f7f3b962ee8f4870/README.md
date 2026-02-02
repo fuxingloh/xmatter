@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c2d16"
+icons:
+  - icon.png
 ---
 
 VaderAI is the incisive voice cutting through the noise of the crypto universe

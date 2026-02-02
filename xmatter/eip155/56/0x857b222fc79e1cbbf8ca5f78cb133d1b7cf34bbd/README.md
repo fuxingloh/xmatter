@@ -35,6 +35,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#939cfc"
+icons:
+  - icon.png
 ---
 
 LTO Network is a layer-1 platform for decentralized identities, verifiable credentials and decentralized workflow applications, while maintaining data privacy and GDPR compliance.

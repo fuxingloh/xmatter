@@ -31,6 +31,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#141513"
+icons:
+  - icon.png
 ---
 
 Meta Ruffy is an open world in the Metaverse, besides the already playable Metaverse it also offers tons of other Utilities like Mystery Staking, NFTs and many more.!

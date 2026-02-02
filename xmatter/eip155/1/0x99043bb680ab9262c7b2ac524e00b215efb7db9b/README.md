@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3a4545"
+icons:
+  - icon.png
 ---
 
 Bishu is a community driven ERC20 token that gives back to charities

@@ -32,6 +32,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#131312"
+icons:
+  - icon.png
 ---
 
 Thanks to this innovative DynaSet, the DAM can use dYdX derivative solutions to hedge, short and apply leverage to the market. Powered by SingularityDAO.ai.

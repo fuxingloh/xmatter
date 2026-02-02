@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#181818"
+icons:
+  - icon.png
 ---
 
 iYieldFarm (IYF) is a community-driven yieldfarming project with decentralized arbitrage tools provided.

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#224959"
+icons:
+  - icon.png
 ---
 
 Toskaverse

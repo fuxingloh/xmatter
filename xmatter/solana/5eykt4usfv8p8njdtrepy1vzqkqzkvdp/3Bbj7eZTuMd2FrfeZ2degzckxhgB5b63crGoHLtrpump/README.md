@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#4f9d4e"
+icons:
+  - icon.png
 ---
 
 Just a baby fwog in a big pond

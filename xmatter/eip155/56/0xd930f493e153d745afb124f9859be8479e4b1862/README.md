@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dfb86e"
+icons:
+  - icon.png
 ---
 
 Spaceman is a fairly propelled DeFi Token.

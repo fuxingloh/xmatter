@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#242737"
+icons:
+  - icon.png
 ---
 
 i'm the official real King Charles and the only one!

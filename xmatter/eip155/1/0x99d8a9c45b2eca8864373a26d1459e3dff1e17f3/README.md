@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbdb51"
+icons:
+  - icon.png
 ---
 
 MIM is a stablecoin backed by interest bearing collateral

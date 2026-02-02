@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f85840"
+icons:
+  - icon.png
 ---
 
 WABI enables fair value transfer between consumers and brands

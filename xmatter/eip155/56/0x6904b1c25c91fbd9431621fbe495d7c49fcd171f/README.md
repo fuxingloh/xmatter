@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c79f84"
+icons:
+  - icon.png
 ---
 
 Cryptonite from planet Crypton on a mission to earth to save the BSC community from all the Ruggers! Play to Earn Game / NFT trading platform

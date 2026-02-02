@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbc314"
+icons:
+  - icon.png
 ---
 
 Elderglade is a next-generation Web3 fantasy game ecosystem that combines two of gaming's most successful genres: casual mobile games and MMORPGs, powered by ELDE token.

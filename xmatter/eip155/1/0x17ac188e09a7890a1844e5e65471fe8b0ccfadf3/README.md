@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 CC10 is a passively managed, capitalization-weighted index that tracks the top 10 tokens by market cap from the Cryptocurrency market sector defined by NDX governance..

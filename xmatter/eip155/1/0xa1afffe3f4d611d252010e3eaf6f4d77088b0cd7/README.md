@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#141414"
+icons:
+  - icon.png
 ---
 
 Frictionless Yield Generation. Hold and Earn.

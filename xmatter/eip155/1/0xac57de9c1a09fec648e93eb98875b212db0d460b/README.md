@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ef9d28"
+icons:
+  - icon.png
 ---
 
 Baby Doge Coin has learned a few tricks and lessons from his meme father, Doge. A new crypto birthed by fans of the Doge Meme online community. He is Hyper-deflationary with static reflection that rewards holders, so more baby doge coins are being automatically added to your wallet each transaction. Simply Love, pet, and hold as 5% from each transaction is automatically redistributed to baby doge holders via smart contract.

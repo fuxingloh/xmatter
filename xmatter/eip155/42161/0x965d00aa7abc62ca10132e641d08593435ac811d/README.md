@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e0f804"
+icons:
+  - icon.png
 ---
 
 KAP Games is a web3 gaming distributor, publisher & studio, specializing in browser and mobile-native experiences. Utilizing emerging technologies to unlock the next generation of gaming, KAP curates a web3 ecosystem where diverse games, innovative projects, and vibrant communities collide.

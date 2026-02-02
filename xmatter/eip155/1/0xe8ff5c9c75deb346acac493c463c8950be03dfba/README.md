@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#171817"
+icons:
+  - icon.png
 ---
 
 Creating next generation NFTs and developing new standards for gaming on the blockchain. Built for users & developers on the layer 2 solution VIBENet. Powered by the VIBE token.

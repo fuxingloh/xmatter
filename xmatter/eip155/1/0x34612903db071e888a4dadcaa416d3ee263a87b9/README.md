@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1e8eed"
+icons:
+  - icon.png
 ---
 
 The voting token of the on-chain organization ETHITEM

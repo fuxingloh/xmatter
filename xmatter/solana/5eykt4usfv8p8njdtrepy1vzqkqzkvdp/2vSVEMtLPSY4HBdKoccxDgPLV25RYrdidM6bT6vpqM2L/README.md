@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#786872"
+icons:
+  - icon.png
 ---
 
 Grok AI Agent is a groundbreaking artificial intelligence technology developed by a company led by Elon Musk, designed to equip AI systems with deep learning and cognitive reasoning capabilities that go beyond traditional models

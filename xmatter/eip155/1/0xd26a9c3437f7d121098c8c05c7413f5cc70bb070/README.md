@@ -17,6 +17,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cea33d"
+icons:
+  - icon.png
 ---
 
 Azuma Games is a crypto game development company striving to integrate AAA graphics, exciting game-play, and crypto rewards. Azuma Coin is our native token.

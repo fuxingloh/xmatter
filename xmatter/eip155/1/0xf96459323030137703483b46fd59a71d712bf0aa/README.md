@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d9d8d4"
+icons:
+  - icon.png
 ---
 
 xtake.finance aims to offer universal blockchain income powered by easy decentralized finance, passive income, yield farming, and liquidity mining.

@@ -36,6 +36,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c1c1c"
+icons:
+  - icon.png
 ---
 
 ZADA is the first of its kind, a Hyper Reflection token that rewards its holders in a multitude of ways by simplifying the investing process and building a strong and varied portfolio.

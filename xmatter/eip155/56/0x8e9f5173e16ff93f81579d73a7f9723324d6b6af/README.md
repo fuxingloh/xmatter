@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#090909"
+icons:
+  - icon.png
 ---
 
 First yield farm on Binance Smart Chain.

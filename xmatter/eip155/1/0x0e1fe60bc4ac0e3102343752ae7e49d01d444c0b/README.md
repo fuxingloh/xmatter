@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 HXN is a Ethereum-based token that introduces a new concept proof of fun (POF). Have fun and your efforts will be rewarded with HXN.

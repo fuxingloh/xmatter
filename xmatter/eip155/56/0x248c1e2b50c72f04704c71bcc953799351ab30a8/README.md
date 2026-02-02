@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc10fc"
+icons:
+  - icon.png
 ---
 
 Pornstar is a decentralized ecosystem to efficient farming and staking. Pornstar supports four fields. Presale will be whitelist only. This will eliminate bot's and pre-launch dumps. redistribution : 4%, lp : 4%, burn 2%

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d6c5a1"
+icons:
+  - icon.png
 ---
 
 Token for classic 1930s home in the Morningside neighborhood of Detroit is the epitome of a promising single-family property investment.

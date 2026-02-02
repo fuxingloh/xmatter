@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ed88b6"
+icons:
+  - icon.png
 ---
 
 Bubblegum is a sweet, auto-yield token + dapp for asset tracking.

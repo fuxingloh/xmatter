@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#303c78"
+icons:
+  - icon.png
 ---
 
 NasaDoge is loyal to his family, like all dogs should be! All holders of $NasaDoge will earn more tokens on each transaction that is automatically sent to your wallet.

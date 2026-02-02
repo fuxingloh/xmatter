@@ -37,6 +37,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6bab63"
+icons:
+  - icon.png
 ---
 
 sETH2 is a token that represents staked ether in StakeWise.

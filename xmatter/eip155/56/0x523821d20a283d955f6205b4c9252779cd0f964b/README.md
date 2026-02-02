@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040811"
+icons:
+  - icon.png
 ---
 
 OK is the leading multi chain PoS, web3 + NFTs open source electronic cash, its design is public, nobody owns or controls Okcash and everyone can take part.

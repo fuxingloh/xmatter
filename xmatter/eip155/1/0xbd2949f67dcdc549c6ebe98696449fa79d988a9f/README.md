@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c2c5c"
+icons:
+  - icon.png
 ---
 
 eMTRG is the ERC-20 equivalent of MTRG, the governance coin of the Meter network.

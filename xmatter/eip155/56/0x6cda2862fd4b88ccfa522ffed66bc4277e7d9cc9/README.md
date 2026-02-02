@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Neurashi is a contemporary and steadfast AI blockchain framework that integrates the robustness of blockchain infrastructure with the nexus of artificial intelligence (AI).

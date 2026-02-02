@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0484fc"
+icons:
+  - icon.png
 ---
 
 VERSE is Bitcoin.com's ecosystem token, providing rewards and utility to users of Bitcoin.com's products and services.

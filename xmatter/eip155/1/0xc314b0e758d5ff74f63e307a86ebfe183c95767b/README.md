@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4169e3"
+icons:
+  - icon.png
 ---
 
 Adappter creates ‘the Pleasant World’ connected by a Blockchain where users, partners, and everyone together improve value based on the spirit of fairness, sharing, and trust.

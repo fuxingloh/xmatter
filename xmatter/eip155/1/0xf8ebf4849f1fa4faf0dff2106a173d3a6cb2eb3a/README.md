@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#161616"
+icons:
+  - icon.png
 ---
 
 Your fave childhood meme reborn, 100% safe & pure fun. Get ready 2 troll on! Renounced contract, LP burned

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1d243c"
+icons:
+  - icon.png
 ---
 
 Niobium Coin (NBC) is a cryptocurrency and operates on the Ethereum platform.

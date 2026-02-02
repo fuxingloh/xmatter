@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c0c0c"
+icons:
+  - icon.png
 ---
 
 Spacelens is a decentralized eCommerce platform that allows anyone to buy and sell physical products, digital goods, and services around the world.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c3257"
+icons:
+  - icon.png
 ---
 
 $LisDog is first use LisUSD @lista*dao Liquidity meme on @Four_meme* A Love Inclusion and support the Dog

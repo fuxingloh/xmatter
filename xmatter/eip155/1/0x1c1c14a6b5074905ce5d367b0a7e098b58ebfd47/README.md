@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d28e31"
+icons:
+  - icon.png
 ---
 
 FIDEX Decentralized Exchange.

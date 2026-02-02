@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f85da3"
+icons:
+  - icon.png
 ---
 
 WhenLambo is a fully decentralized reflection & automated liquidity token with CAKE rewards for token holders and a unique chance to win big in our special draw system!

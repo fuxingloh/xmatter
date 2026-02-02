@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#273442"
+icons:
+  - icon.png
 ---
 
 $LYNK is the bridge to the future of crypto—secure, transparent, and built by the community. Designed for real utility and seamless transactions, $LYNK isn’t just a token; it’s a movement toward trust, stability, and long-term growth.

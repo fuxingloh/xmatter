@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#8a8482"
+icons:
+  - icon.png
 ---
 
 Dev jeeted so you know what time it is.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f2f4f8"
+icons:
+  - icon.png
 ---
 
 FIBO is the utility token of and FibSwap DEx, the worlds first cross blockchain DEx allowing traders to swap any coin between BSC (BEP20) and ETH (ERC20) blockchains and many more bridges.

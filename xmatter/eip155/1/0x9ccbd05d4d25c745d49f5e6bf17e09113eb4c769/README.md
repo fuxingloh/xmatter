@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#100529"
+icons:
+  - icon.png
 ---
 
 DCTO Project Cryptocurrency Latest News

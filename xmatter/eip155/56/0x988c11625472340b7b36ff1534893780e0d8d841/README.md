@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#797a7d"
+icons:
+  - icon.png
 ---
 
 Conceal Network is a secure peer-to-peer privacy framework empowering individuals and organizations to anonymously communicate and interact financially in a decentralized and censorship resistant environment.

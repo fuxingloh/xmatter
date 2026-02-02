@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2b6ceb"
+icons:
+  - icon.png
 ---
 
 UniLend is a permission-less decentralized protocol that combines spot trading services and money markets with lending and borrowing services through smart contracts. Existing DeFi platforms act as a gatekeeper, thereby barring the majority of assets from participation. Multi-asset pools also expose lenders to risk associated with all of the included assets.

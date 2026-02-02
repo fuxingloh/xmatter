@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f2f9f8"
+icons:
+  - icon.png
 ---
 
 BLOCKCDN is an intelligent CDN node deployment software based on open source Squid and combined with SDK and P2P technology.

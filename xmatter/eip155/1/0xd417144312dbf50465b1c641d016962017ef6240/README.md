@@ -15,6 +15,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040424"
+icons:
+  - icon.png
 ---
 
 Covalent provides a unified API bringing visibility to billions of blockchain data points.

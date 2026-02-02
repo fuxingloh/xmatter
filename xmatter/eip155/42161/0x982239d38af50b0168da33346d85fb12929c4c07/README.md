@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Nitro Cartel will aggressively strive to solve the problem by mobilizing crypto’s citizens into the collective cartelization of financial and human capital.

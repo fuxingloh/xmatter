@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#e1b1a7"
+icons:
+  - icon.png
 ---
 
 Rizzmas is a Christmas token, financial venture with a focus on creating hype and community engagement. The reference to Santa, market caps, and seasonal celebration suggests it’s blending the festive holiday spirit with crypto trading or investments.

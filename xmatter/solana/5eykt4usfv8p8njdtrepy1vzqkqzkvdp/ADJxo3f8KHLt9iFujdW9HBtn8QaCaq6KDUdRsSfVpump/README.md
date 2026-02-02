@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f4e3d7"
+icons:
+  - icon.png
 ---
 
 M7F tokens can be traded on decentralized exchanges.

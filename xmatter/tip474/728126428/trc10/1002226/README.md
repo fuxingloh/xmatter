@@ -10,6 +10,8 @@ standards:
   - trc10
 icon: icon.png
 color: "#d4191f"
+icons:
+  - icon.png
 ---
 
 Social media token. Web 2.0 on Tron Blockchain.

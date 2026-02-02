@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f39c19"
+icons:
+  - icon.png
 ---
 
 Baby Shiba Inu offers an innovative mix of a multi-stage rewards system for staking and NFT presence. Anyone holding the token contributes to a charitable cause as the team is committed to making donations to Shiba Rescue America Organization

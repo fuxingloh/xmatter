@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040505"
+icons:
+  - icon.png
 ---
 
 FourAi is powered by the Deepseek R1 model, offering a next-level AI conversational experience.

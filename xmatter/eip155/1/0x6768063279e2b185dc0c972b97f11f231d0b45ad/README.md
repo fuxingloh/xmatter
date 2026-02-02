@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#06373f"
+icons:
+  - icon.png
 ---
 
 A trustable farming DeFi project

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eebd31"
+icons:
+  - icon.png
 ---
 
 SHIBA INU GOLD is Memes Token

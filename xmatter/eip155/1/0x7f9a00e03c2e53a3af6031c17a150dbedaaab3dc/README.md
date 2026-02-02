@@ -11,6 +11,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#da534b"
+icons:
+  - icon.png
 ---
 
 Utility token promoting the Read This Contract (RTC) initiative and ecosystem.

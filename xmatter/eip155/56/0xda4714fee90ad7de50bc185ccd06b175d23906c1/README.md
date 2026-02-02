@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#caac5b"
+icons:
+  - icon.png
 ---
 
 Godzilla from the underwater world will break the old blockchain order and lead to a new community.Godzilla=Game + DEFI + DAO + NFT.

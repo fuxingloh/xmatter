@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#81596d"
+icons:
+  - icon.png
 ---
 
 Polker is the first blockchain online poker game that uses Unreal Engine 4 for immersive and powerful gameplay while utilizing a provably fair system for truly transparent gameplay.

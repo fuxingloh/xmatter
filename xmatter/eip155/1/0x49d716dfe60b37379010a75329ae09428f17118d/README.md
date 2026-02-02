@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5a0ecf"
+icons:
+  - icon.png
 ---
 
 PoolTogether is a no-loss, audited savings game powered by blockchain technology.

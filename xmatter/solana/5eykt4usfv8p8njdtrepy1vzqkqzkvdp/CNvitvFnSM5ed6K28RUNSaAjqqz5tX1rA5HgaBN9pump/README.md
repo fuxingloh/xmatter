@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#716b5f"
+icons:
+  - icon.png
 ---
 
 Fred is a Raccon = raccoon convinct. political meme token. Part of the movement for justice for animals

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b35aec"
+icons:
+  - icon.png
 ---
 
 Official token of Moonscape ecosystem issued by Seascape

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#14041c"
+icons:
+  - icon.png
 ---
 
 Portal aims to unite games and gamers from various blockchain networks on its cross-chain token platform, establishing a united Web3 gaming ecosystem.

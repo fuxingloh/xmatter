@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#747474"
+icons:
+  - icon.png
 ---
 
 Creating a world-wide marketplace on Ethereum Blockchain to sell and buy Mobile Data with DENT Tokens.

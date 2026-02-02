@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8f7f63"
+icons:
+  - icon.png
 ---
 
 Europa is a leading DeFi yield aggregator on BSC that has 3 products as part of the Europa ecosystem, namely Vaults (yield optimizer), Europa (DEX Aggregator), and farmfolio

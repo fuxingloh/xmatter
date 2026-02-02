@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#e9b3ba"
+icons:
+  - icon.png
 ---
 
 Cross Chain Portal Bridged Token

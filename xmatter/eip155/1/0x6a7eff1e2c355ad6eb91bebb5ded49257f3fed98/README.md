@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d7c5c4"
+icons:
+  - icon.png
 ---
 
 OpSec, Cloud security with decentralized servers, private networks, RDPs, GPUs, One-Click Setup Nodes, DePIN hardware – shaping security-oriented future.

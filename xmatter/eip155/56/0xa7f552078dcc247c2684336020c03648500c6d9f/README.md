@@ -18,6 +18,7 @@ name: Ellipsis
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 Ellipsis Finance aims to offer secure low-slippage stable swapping.

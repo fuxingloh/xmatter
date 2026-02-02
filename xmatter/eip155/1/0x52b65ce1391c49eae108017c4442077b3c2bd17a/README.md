@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ed9f50"
+icons:
+  - icon.png
 ---
 
 FEG Wrapped USDC

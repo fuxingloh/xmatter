@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4c4444"
+icons:
+  - icon.png
 ---
 
 moonswap is first experiment with cross-chain migration of swapDEX .

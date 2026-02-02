@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#10bbf0"
+icons:
+  - icon.png
 ---
 
 Star Pacific Coin is an ERC20 Token design to make crypto mining and crypto trading easier for everyone, using our genetic algorithm trained machine learning technology computer with even low configure are capable of mining crypto too.

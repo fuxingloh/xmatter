@@ -16,6 +16,7 @@ name: Floki Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 Floki Inu is a meme token that provides deflationary rewards to holders.

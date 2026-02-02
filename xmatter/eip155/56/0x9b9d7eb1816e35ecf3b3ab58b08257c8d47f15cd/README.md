@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d3b36a"
+icons:
+  - icon.png
 ---
 
 NatronZ aims to empower our investors by pushing the boundaries of investment profitability through advanced technological enhancements, taking it to a superior level.

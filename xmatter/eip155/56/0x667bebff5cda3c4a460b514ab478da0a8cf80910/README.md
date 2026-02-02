@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fca104"
+icons:
+  - icon.png
 ---
 
 Hashrate 2.0 ecosystem token. Link traditional crypto assets mining industry and cutting-edge Defi tech.

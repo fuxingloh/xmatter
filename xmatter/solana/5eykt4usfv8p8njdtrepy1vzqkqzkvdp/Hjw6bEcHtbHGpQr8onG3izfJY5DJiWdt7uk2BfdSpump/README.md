@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#212121"
+icons:
+  - icon.png
 ---
 
 Deploy serverless AI agents in the cloud. Orchestrate collaboration between agents via the SwarmNode Python SDK.

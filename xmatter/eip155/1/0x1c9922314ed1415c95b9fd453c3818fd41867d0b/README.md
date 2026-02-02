@@ -20,6 +20,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#c5c5c5"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Utility token to the blockchain game of Crazy Kings franchise.

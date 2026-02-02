@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#31115c"
+icons:
+  - icon.png
 ---
 
 Alvey Coin is a decentralized blockchain project built on Bitcoin's UTXO model, with support for Ethereum Virtual Machine based smart contracts, and secured by a Proof of Stake consensus.

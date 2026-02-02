@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bfd9ee"
+icons:
+  - icon.png
 ---
 
 DogeZoo is a crypto project that where gamefi, NFT and meme met.

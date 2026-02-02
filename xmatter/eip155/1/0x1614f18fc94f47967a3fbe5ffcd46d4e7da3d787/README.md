@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b235b"
+icons:
+  - icon.png
 ---
 
 PAID Network is a comprehensive business toolkit for all business transaction needs.

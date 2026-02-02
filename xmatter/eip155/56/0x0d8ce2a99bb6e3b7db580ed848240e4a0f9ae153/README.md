@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0494fb"
+icons:
+  - icon.png
 ---
 
 Filecoin provides a blockchain-based marketplace that aims to revolutionize the global storage economy.

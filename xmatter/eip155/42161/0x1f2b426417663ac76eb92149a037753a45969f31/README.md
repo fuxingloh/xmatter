@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bbf907"
+icons:
+  - icon.png
 ---
 
 RWA Finance is an extraordinary platform that is changing the field of issuing and trading Real World Assets (RWA).

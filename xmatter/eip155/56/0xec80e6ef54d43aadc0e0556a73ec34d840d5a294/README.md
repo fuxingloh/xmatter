@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1a1249"
+icons:
+  - icon.png
 ---
 
 Blockchain is recognized as an advanced security technology that provides a high level of integrity and protection against unauthorized changes to information.

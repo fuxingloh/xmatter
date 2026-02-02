@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3cc8b3"
+icons:
+  - icon.png
 ---
 
 WhenHub Interface aims to facilitate the transfer of knowledge between consumers and experts. Knowledge-sharing is done via video calls, with the financial details handled by smart contracts that use the WHEN Token.

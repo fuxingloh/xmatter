@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#fab22a"
+icons:
+  - icon.png
 ---
 
 Minidoge carries on the spirit of Doge

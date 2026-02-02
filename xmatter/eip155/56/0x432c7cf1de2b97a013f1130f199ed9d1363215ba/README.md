@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2b112b"
+icons:
+  - icon.png
 ---
 
 CryptoGuards is 3rd project of CryptoCity Metaverse

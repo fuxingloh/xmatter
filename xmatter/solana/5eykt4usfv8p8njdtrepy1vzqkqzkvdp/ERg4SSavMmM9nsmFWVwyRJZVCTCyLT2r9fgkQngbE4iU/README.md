@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#e393b0"
+icons:
+  - icon.png
 ---
 
 #Gondola🦦, the cultural icon in high-waisted pants.

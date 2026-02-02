@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#37363a"
+icons:
+  - icon.png
 ---
 
 Kleros is a decentralized arbitration service for the disputes of the new economy.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fb6689"
+icons:
+  - icon.png
 ---
 
 Flame Token is the native currency of Sharesome, the first social discovery network for adult content creators and brands.

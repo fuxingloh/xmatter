@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e2d861"
+icons:
+  - icon.png
 ---
 
 THE ONLY COIN THAT REWARDS HOLDERS AND PLACES TRASH BARRIERS IN THE MOST POLLUTING RIVERS OF THE WORLD

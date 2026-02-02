@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#efce26"
+icons:
+  - icon.png
 ---
 
 I apply to join your life.

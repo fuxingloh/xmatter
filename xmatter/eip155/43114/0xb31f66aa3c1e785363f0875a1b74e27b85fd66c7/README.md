@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ec4444"
+icons:
+  - icon.png
 ---
 
 Avalanche is the fastest smart contracts platform in the blockchain industry, as measured by time-to-finality, and has the most validators securing its activity of any proof-of-stake protocol.

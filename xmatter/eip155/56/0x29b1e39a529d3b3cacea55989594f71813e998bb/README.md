@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c2b3c"
+icons:
+  - icon.png
 ---
 
 Dexioprotocol provides the world with a new way of engagement to the world of blockchain and cryptocurrency.

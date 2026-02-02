@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#19223d"
+icons:
+  - icon.png
 ---
 
 OwlDAO - Build the Best Casino Solution on Ethereum Networks.

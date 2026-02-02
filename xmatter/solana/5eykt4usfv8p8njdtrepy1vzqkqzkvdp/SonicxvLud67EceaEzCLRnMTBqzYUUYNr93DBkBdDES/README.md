@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f5c98e"
+icons:
+  - icon.png
 ---
 
 Sonic SVM is the first chain extension on Solana - for games, applications, and industry’s first TikTok App Layer

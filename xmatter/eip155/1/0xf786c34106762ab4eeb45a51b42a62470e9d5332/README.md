@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#131111"
+icons:
+  - icon.png
 ---
 
 FEG Wrapped ETH

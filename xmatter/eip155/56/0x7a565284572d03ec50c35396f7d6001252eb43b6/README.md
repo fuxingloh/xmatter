@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e1bd6c"
+icons:
+  - icon.png
 ---
 
 DogeZilla is a community-driven project. We are a Memecoin + Utility in the crypto sphere. And we declared to disrupt the space with our DogeZilla Vault – Security to make crypto space safer for millions.

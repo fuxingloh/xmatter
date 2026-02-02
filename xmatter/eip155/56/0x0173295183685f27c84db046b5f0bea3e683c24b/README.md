@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e2c89e"
+icons:
+  - icon.png
 ---
 
 Cat carries the important task of future digital currency connection, and DAO is our purpose.Our goal is to have a strong Dao Community and the future of blockchain.This cat is sweeping the whole meme coin.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2f6fc5"
+icons:
+  - icon.png
 ---
 
 PIXIU is a community driven meme coin that aims to bring the meme coins community together.

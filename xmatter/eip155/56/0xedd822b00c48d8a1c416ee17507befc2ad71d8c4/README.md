@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fba00b"
+icons:
+  - icon.png
 ---
 
 Yield farm Shiba on Binance Smart Chain.

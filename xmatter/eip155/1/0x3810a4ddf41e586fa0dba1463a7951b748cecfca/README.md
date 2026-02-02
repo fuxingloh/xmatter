@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e70b48"
+icons:
+  - icon.png
 ---
 
 MenaPay aims to replace cash and traditional banking tools used for online and offline transactions in daily life.

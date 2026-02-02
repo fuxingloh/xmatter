@@ -36,6 +36,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0494fc"
+icons:
+  - icon.png
 ---
 
 HODLX Token launched on the Binance Smart Chain (BSC) on April 1, 2022, as an innovative tax-free token packed full of utility. As the native token of HODLX.Exchange, $HODLX offers an array of ways to earn, including yield-farming – available for $HODL, $HODLX and BNB pairings, and staking – available for $HODL, $HODLX, and HODL Hands NFTs.

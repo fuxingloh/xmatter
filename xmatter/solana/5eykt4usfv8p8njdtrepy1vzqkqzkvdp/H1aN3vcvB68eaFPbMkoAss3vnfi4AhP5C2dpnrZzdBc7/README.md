@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#271e2c"
+icons:
+  - icon.png
 ---
 
 Myra is an exciting project on the Solana blockchain. She's the first female dog on Solana and is known as the Queen of Solana. But Myra isn't just a Queen; she has her own unique character and perspective.

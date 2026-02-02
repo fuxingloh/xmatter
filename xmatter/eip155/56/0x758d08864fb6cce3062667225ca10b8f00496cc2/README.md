@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4131c5"
+icons:
+  - icon.png
 ---
 
 A DeFi lending protocol allowing lenders and SME borrowers to facilitate permissionless and borderless loaning/borrowing transactions

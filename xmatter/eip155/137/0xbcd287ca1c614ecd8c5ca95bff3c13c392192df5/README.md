@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5774f8"
+icons:
+  - icon.png
 ---
 
 AirNFTs is NFT marketplace built for multi-chain NFTs on BSC and Polygon and many more, where you can Mint, Trade, Earn with your NFTs.

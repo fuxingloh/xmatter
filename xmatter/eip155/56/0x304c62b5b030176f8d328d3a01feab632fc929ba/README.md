@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8404fc"
+icons:
+  - icon.png
 ---
 
 The first DIGITAL ASSETS INDEXES on Binance Smart Chain

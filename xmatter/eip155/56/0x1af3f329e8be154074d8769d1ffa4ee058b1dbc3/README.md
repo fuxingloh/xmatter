@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fcb831"
+icons:
+  - icon.png
 ---
 
 BNB pegged Dai Token (DAI BEP20) is a token issued by Binance on Smart Chain; its price is pegged to DAI (DAI ERC20) at a ratio of 1:1.

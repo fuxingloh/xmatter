@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#6493fa"
+icons:
+  - icon.png
 ---
 
 Access Protocol offers a new way for digital media publications and content creators to monetize their work. Instead of traditional subscription payments, users stake the ACS token to receive access to premium digital content.

@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c59745"
+icons:
+  - icon.png
 ---
 
 EverestCoin is a Play to Earn Game token and will be the biggest token on BSC.

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#c4883f"
+icons:
+  - icon.png
 ---
 
 The $DEVIN Community shares the appreciation of progress between the AI and WEB3 ecosystem.

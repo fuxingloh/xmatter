@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#191b2b"
+icons:
+  - icon.png
 ---
 
 A Community-Driven Protocol Built on Integrity

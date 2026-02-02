@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dbb160"
+icons:
+  - icon.png
 ---
 
 The elites are ditching all cryptocurrencies in favour of the dog-meme coins. WE ARE REBELLION. CATGE is the community’s revenge against crypto manipulation. The CATGE army will kill Doge and all his corrupted friends.

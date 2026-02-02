@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c1c44"
+icons:
+  - icon.png
 ---
 
 ZENFI AI provisions an Intelligent Metaverse

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#048b2a"
+icons:
+  - icon.png
 ---
 
 YFIH2 is the first token of H2.Finance which mission is to help energy companies by lending money for their green energy investments.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dfdfe8"
+icons:
+  - icon.png
 ---
 
 CanonChain will be triggered from the protocol layer and the chipset layer of data communications to provide a robust foundation for the entire blockchain industry.

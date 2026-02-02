@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#957870"
+icons:
+  - icon.png
 ---
 
 The Official coin of Donald J Trump

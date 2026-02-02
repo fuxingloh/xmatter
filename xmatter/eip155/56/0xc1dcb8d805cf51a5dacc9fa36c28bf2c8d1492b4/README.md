@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#73ccec"
+icons:
+  - icon.png
 ---
 
 Hush Coin ($HUSH) was specifically created with the ambitious goal to “change the way you engage”.

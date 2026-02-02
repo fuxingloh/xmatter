@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bbddeb"
+icons:
+  - icon.png
 ---
 
 BSCGIRL is This project aims to implement a cross-chain bridge with other chains, a DeFi platform, and an NFT platform.

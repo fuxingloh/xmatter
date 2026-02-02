@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2cdba4"
+icons:
+  - icon.png
 ---
 
 Premium staking platform on Binance Smart Chain

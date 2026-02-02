@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1e3641"
+icons:
+  - icon.png
 ---
 
 The First Crypto President Trump (FCP) is a meme coin inspired by Donald Trump's election as the 47th President of the United States and his public endorsement of cryptocurrencies.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2dbce4"
+icons:
+  - icon.png
 ---
 
 carVertical is building a decentralized vehicle registry.

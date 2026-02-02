@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0b1619"
+icons:
+  - icon.png
 ---
 
 The Dinero Protocol offers full-stack infrastructure for L1 and L2 protocols.

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2676e7"
+icons:
+  - icon.png
 ---
 
 GMX is a decentralized spot and perpetual exchange that supports low swap fees and zero price impact trades.

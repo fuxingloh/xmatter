@@ -10,6 +10,8 @@ standards:
   - trc10
 icon: icon.png
 color: "#949404"
+icons:
+  - icon.png
 ---
 
 Token of the game BUILDER.

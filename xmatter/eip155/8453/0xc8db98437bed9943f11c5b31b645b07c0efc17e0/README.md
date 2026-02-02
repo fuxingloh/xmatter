@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dadada"
+icons:
+  - icon.png
 ---
 
 Leoono is an AI-driven investment agent built to simplify and enhance stock analysis for everyone.

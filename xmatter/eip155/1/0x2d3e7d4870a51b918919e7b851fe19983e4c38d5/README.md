@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#252526"
+icons:
+  - icon.png
 ---
 
 The Ubcoin is a crypto-goods p2p exchange where anyone can safely and instantly sell any good’s and become a cryptocurrency holder.

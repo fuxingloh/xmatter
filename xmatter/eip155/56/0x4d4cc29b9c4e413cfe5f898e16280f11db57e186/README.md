@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a3864e"
+icons:
+  - icon.png
 ---
 
 Hamtaro is a deflactionary Token for the BSC. Token also used to create its NFT Marketplace

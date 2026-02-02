@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f99204"
+icons:
+  - icon.png
 ---
 
 This is a community based token that puts you first and opens up a new world in the world of cryptocurrencies and tokens.

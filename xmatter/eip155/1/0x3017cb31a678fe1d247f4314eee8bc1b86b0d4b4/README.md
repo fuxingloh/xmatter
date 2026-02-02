@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c5c5c5"
+icons:
+  - icon.png
 ---
 
 The token issued by the members of the Shell Matrix community.

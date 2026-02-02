@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c2d6e3"
+icons:
+  - icon.png
 ---
 
 Finale has been the plan the whole time and will continue to be the plan. Finale is something that if you were paying attention to, you would’ve been on top of.

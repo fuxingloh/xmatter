@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#403e73"
+icons:
+  - icon.png
 ---
 
 A novel AI trading companion designed to capture the emergence of trends.

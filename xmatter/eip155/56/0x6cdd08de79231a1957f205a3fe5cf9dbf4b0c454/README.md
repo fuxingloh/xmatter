@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e19a5d"
+icons:
+  - icon.png
 ---
 
 In the vast, ever-changing kingdom of memes, one legend must pass to make way for another. After the passing of Doge, the most beloved meme in internet history, a new king was destined to rise.

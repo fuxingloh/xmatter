@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c49d54"
+icons:
+  - icon.png
 ---
 
 Catcoin is a cat theme token that focuses on community decentralization and adoption. $CAT is designed to make memeCoins great again.

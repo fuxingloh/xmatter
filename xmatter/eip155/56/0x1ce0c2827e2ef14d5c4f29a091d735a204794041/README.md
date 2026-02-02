@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ec4343"
+icons:
+  - icon.png
 ---
 
 Avalanche is an open-source platform for launching Decentralized Finance (DeFi) applications and enterprise blockchain deployments in an interoperable, highly scalable ecosystem.

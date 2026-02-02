@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2ad7f8"
+icons:
+  - icon.png
 ---
 
 Waivlength aims to establish an accountable social media platform using KYC protocols

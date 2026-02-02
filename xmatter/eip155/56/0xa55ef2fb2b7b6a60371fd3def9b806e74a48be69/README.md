@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d7b448"
+icons:
+  - icon.png
 ---
 
 Adamant is a hyperdeflationary token and is the Governance Token of the charity NFT Game Adamant Mine

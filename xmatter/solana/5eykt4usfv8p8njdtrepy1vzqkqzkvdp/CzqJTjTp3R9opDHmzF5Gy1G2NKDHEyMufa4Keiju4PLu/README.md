@@ -24,6 +24,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#797a7d"
+icons:
+  - icon.png
 ---
 
 Wrapped Conceal ($wCCX) is just a representation of ₡CCX on any of the available bridged ecosystems — a tokenized ₡CCX. Exactly one $wCCX will always represent (or equal) one ₡CCX.

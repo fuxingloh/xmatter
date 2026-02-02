@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#095891"
+icons:
+  - icon.png
 ---
 
 MYX Network is a DeFi Deflationary and Staking ERC20 token which is the primary digital asset of MYX Protocol which includes a Digital Advertisement Network, Investor DAO and Social Media Network.

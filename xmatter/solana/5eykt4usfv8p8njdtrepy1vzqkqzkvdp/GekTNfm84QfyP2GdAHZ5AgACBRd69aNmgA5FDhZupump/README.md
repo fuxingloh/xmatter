@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#d1bef5"
+icons:
+  - icon.png
 ---
 
 Your AI Companion for Effortless DeFi

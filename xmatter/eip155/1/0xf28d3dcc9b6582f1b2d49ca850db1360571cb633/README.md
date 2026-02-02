@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1e0b0c"
+icons:
+  - icon.png
 ---
 
 SPIDER FINANCE IS A FULLY DECENTRALIZED PROTOCOL FOR GAME ON ETHEREUM.

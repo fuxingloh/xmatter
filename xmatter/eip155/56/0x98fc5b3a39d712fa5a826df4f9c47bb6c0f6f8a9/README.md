@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c759fa"
+icons:
+  - icon.png
 ---
 
 BitGay is the first LGBTQ+ community token on the Binance Smart Chain.

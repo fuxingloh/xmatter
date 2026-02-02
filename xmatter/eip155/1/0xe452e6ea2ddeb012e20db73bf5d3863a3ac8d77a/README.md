@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#facb53"
+icons:
+  - icon.png
 ---
 
 Wrapped Celo is a 1:1 equivalent of Celo on the Ethereum network

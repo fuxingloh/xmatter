@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#86040c"
+icons:
+  - icon.png
 ---
 
 HeyAnon is an AI DeFi protocol designed to simplify DeFi interactions and aggregate essential project-related information.

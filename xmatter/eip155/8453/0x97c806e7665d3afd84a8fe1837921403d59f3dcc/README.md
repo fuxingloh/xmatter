@@ -15,6 +15,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2caae2"
+icons:
+  - icon.png
 ---
 
 The ALI Token is the native utility token of the AI Protocol.

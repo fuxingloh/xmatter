@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5085f9"
+icons:
+  - icon.png
 ---
 
 ParaSwap aggregates decentralized exchanges and other DeFi services in one comprehensive interface to streamline and facilitate users' interactions with decentralized finance on Ethereum and EVM-compatible chains Polygon, Avalanche, BSC & more to come.

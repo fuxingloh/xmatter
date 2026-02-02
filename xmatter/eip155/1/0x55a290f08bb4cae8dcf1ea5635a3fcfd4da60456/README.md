@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#22aadf"
+icons:
+  - icon.png
 ---
 
 First Exchange with Proof of Stake Blockchain Technology that offers an advanced access to its users to gain profit.

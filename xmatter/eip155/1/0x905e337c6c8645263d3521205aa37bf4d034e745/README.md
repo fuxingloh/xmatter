@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e6c89e"
+icons:
+  - icon.png
 ---
 
 Doc.com began with the mission to provide accessible basic healthcare to the world, and to create a new paradigm in primary care globally.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#180807"
+icons:
+  - icon.png
 ---
 
 Tezilla, this is the action game you have been waiting for!

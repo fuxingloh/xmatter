@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bfdaf7"
+icons:
+  - icon.png
 ---
 
 Robonomics Token bridged by Anyswap

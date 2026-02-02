@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f07736"
+icons:
+  - icon.png
 ---
 
 SparkPoint Ecosystem is a decentralized payment gateway with integrated crypto exchanges, blockchain based e-learning, gaming, and online store.

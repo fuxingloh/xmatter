@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#131c2c"
+icons:
+  - icon.png
 ---
 
 Yield farm Cardano on Binance Smart Chain

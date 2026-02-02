@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9074e3"
+icons:
+  - icon.png
 ---
 
 NanoByte token is bridging cryptocurrency to real world financial application, by integrating crypto to FIAT products such as e-money, credit cards, insurance, and other investments. NanoByte token is making decentralized finance mainstream and legitimate.

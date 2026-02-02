@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#b18457"
+icons:
+  - icon.png
 ---
 
 The community is taking over because they have created a telegram chat and a x

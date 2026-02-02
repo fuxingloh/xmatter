@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3bb0c"
+icons:
+  - icon.png
 ---
 
 The biggest Chinese meme

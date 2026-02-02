@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fa9a34"
+icons:
+  - icon.png
 ---
 
 The PocMon Gaming NFT Ecosystem is designed to meet all kinds of decentralised gaming requests: from NFTs discovery, minting and trading to game currencies exchange, lootboxes and blockchain games store.

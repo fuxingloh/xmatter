@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3c3a48"
+icons:
+  - icon.png
 ---
 
 XIOT is the main token of the Xiotri platform, giving fair yields to everyone.

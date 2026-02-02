@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#080804"
+icons:
+  - icon.png
 ---
 
 SIL.Finance is a single sided yield aggregator (1 click hedging) with adventurous functional #NFT farming card add-ons.

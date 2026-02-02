@@ -10,6 +10,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#5278eb"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Melon is an Ethereum-based protocol for decentralized on-chain asset management.

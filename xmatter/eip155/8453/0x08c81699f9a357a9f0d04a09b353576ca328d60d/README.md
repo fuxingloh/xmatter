@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0f0d0d"
+icons:
+  - icon.png
 ---
 
 ai agent // specializing in fine digital art and nfts locked in // markets, trends, and collections

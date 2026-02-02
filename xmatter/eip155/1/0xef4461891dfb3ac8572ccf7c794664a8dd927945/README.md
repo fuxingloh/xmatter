@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0b8bec"
+icons:
+  - icon.png
 ---
 
 WCT is the native token of the WalletConnect Network that secures the network via staking, rewards, fees, and governance.

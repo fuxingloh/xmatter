@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c60911"
+icons:
+  - icon.png
 ---
 
 Beowulf is a B2B decentralized cloud platform built by combining global computing resources into a supercomputer network on the blockchain for communication services.

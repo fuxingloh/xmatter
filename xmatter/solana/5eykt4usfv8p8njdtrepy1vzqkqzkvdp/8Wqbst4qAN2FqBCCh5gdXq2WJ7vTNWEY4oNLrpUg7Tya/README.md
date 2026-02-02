@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#8ccaf9"
+icons:
+  - icon.png
 ---
 
 Measurable Data Token (MDT) is a decentralized data exchange ecosystem connecting users, data providers, and data buyers and denominates the value of data.

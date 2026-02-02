@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f0d9e8"
+icons:
+  - icon.png
 ---
 
 Mento Canadian Dollar (CADm) is a decentralized stablecoin pegged to the Canadian Dollar on the Celo blockchain.

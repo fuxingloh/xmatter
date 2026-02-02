@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fad577"
+icons:
+  - icon.png
 ---
 
 We are the #1 meme coin on AVAX. Founded by well respected members of the community.

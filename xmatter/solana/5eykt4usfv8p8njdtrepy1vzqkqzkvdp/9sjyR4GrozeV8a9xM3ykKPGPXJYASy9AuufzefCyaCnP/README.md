@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#17213a"
+icons:
+  - icon.png
 ---
 
 Meet Golazo. Bridging the gap between football & crypto. One meme at a time

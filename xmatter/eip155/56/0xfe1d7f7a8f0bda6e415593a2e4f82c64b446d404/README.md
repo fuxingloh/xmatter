@@ -21,6 +21,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1e8a82"
+icons:
+  - icon.png
 ---
 
 The BLP token powers The BullPerks ecosystem allowing holders to participate in deals on the platform.

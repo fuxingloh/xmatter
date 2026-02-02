@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c32df5"
+icons:
+  - icon.png
 ---
 
 Synapse is a cross-chain layer ∞ protocol powering interoperability between blockchains.

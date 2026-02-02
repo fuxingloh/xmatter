@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc5404"
+icons:
+  - icon.png
 ---
 
 The Avalanche Bridge Wrapped BAT. The Basic Attention Token is the new token for the digital advertising industry.

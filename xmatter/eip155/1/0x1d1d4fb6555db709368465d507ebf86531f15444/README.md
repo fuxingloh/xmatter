@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#59a7b8"
+icons:
+  - icon.png
 ---
 
 The Best Token (a decentralized oracle) aims to address the Oracle problem on Ethereum.

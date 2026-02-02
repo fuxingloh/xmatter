@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f8f2e7"
+icons:
+  - icon.png
 ---
 
 Discover more about us and become part of the transformative movement in influencer marketing

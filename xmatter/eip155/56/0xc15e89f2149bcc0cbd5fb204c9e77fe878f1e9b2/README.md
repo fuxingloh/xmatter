@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0434fb"
+icons:
+  - icon.png
 ---
 
 HUH Token is the first ever UTIMEME cryptocurrency combining the power of meme tokens with the usability of utility tokens. Refer friends now and earn 10% in BNB.

@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#151424"
+icons:
+  - icon.png
 ---
 
 Stable MPH is the stablecoin created for the 88MPH community. Backed by both a treasury of MPH and collateral of USDC this ERC20 token can be redeemed for USDC at anytime and also provides a vote for governance of the MPH treasury.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f1e7f2"
+icons:
+  - icon.png
 ---
 
 PolkaCity is a unique fully contract-based metaverse project which combines NFT, DeFi and gaming worlds!

@@ -14,6 +14,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#faeaef"
+icons:
+  - icon.png
 ---
 
 Camell Token is a digital asset with a total issuance of 1 billion tokens. It supports projects including blockchain-based cloud drives, aimed at enhancing data security and management efficiency.

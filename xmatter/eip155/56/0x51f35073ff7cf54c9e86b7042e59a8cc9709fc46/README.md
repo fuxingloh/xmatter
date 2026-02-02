@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8be819"
+icons:
+  - icon.png
 ---
 
 ETNA Network (ETNA) is a hybrid DeFI-type project that is set to bridge the gap between decentralized applications and the masses that are being left out due to the complexities in DeFi.

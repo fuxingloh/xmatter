@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5cbbab"
+icons:
+  - icon.png
 ---
 
 Maker is a utility token, governance token and recapitalization resource of the Maker system.

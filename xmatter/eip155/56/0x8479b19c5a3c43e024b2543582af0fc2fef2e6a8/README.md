@@ -27,6 +27,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c2843"
+icons:
+  - icon.png
 ---
 
 MAGA Movement on the Blockchain. Powered by AI Technology.

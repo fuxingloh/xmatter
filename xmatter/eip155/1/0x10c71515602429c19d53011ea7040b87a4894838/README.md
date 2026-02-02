@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c8977d"
+icons:
+  - icon.png
 ---
 
 Diamond Network aims to create a transparent and traceable diamond market.

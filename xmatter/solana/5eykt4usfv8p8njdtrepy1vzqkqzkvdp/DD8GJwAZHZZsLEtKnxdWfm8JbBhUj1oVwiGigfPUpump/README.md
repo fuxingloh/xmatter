@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#1c8cd3"
+icons:
+  - icon.png
 ---
 
 CGAI (Confidential Generative AI) is a cutting-edge network for AI privacy, enabling agent creation, group collaboration, predictive insights, and secure operations

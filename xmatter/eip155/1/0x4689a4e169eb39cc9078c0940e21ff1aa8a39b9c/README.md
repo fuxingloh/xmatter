@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3b3a3a"
+icons:
+  - icon.png
 ---
 
 Proton is a public chain that is dedicated to data fusion and collaboration.

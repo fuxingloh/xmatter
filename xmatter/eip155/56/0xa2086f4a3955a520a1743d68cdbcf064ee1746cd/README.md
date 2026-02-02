@@ -27,6 +27,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f8b544"
+icons:
+  - icon.png
 ---
 
 X Doge is the next evolutionary Decentralized Finance cryptocurrency that strives to provide wide ranging DeFi services from premier charting solutions.

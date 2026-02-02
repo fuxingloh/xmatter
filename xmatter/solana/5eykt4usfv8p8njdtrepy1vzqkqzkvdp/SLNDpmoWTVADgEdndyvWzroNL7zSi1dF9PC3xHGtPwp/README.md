@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f4753e"
+icons:
+  - icon.png
 ---
 
 Solend is the autonomous interest rate machine for lending on Solana.

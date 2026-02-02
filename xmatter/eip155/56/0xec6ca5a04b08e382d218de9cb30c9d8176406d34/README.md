@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#051b30"
+icons:
+  - icon.png
 ---
 
 The only decentralized random gamification on chain BSC

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2b2b2b"
+icons:
+  - icon.png
 ---
 
 Ethereum Message Search Application (EMSA) - a service based on the Ethereum blockchain that allows transmitting any information, from texts and images to encrypted files and HTML pages.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9cee8"
+icons:
+  - icon.png
 ---
 
 ERC20 tokens, each backed 1:1 by an ERC721 CryptoKitty.

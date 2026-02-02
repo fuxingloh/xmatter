@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d33c3c"
+icons:
+  - icon.png
 ---
 
 The world's first 24-hour crypto currency news and analysis network.

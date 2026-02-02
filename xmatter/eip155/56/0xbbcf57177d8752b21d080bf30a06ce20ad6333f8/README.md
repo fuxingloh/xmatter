@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#21becc"
+icons:
+  - icon.png
 ---
 
 Zam.io is aiming to build a hybrid on-chain CeFi&DeFi Ecosystem that bridges real-world capital to blockchain and accelerates the transition to the new DEconomy.

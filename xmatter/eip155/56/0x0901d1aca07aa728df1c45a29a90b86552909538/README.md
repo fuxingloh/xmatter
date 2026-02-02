@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#93363d"
+icons:
+  - icon.png
 ---
 
 EthereumSV Protocol on Binance Smart Chain

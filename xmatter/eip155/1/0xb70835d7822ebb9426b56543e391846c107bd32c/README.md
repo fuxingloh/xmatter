@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc9b42"
+icons:
+  - icon.png
 ---
 
 Game.com (GTC) is a cryptocurrency and operates on the Ethereum platform.

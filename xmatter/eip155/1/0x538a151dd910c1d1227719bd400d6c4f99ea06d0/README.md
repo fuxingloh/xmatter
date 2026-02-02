@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e9bc1f"
+icons:
+  - icon.png
 ---
 
 Liquidity Mining & Staking of ERC-20 tokens.

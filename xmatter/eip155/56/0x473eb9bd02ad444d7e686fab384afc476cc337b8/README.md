@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04a4c4"
+icons:
+  - icon.png
 ---
 
 It is a community driven project built on Binance Smart Chain.

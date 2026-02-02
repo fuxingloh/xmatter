@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1a1c19"
+icons:
+  - icon.png
 ---
 
 HXA coin is the native utility token of the Herencia Artifex project - a revolutionary NFT project that aims to bridge the gap between real-world items and blockchain technology.

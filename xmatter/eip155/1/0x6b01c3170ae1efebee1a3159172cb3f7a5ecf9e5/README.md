@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#05b3f3"
+icons:
+  - icon.png
 ---
 
 Platform and payment services for the adult industry.
