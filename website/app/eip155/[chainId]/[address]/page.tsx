@@ -81,13 +81,13 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
 function IconSpace(props: { chainId: string; address: string; icon: string }) {
   return (
     <div className="grid grid-cols-2 overflow-hidden rounded-md">
-      <div className="bg-mono-100 text-mono-950 flex items-end justify-center gap-4 p-4">
+      <div className="bg-mono-100 text-mono-950 flex items-end justify-center gap-4 p-6">
         <IconImage {...props} size={16} />
         <IconImage {...props} size={32} />
         <IconImage {...props} size={48} />
         <IconImage {...props} size={64} />
       </div>
-      <div className="bg-mono-950 text-mono-100 flex items-end justify-center gap-4 p-4">
+      <div className="bg-mono-950 text-mono-100 flex items-end justify-center gap-4 p-6">
         <IconImage {...props} size={16} />
         <IconImage {...props} size={32} />
         <IconImage {...props} size={48} />
