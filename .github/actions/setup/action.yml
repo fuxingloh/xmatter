@@ -7,6 +7,7 @@ runs:
     - uses: oven-sh/setup-bun@v2
 
     - run: |
+        echo "NO_TRACK=1" >> $GITHUB_ENV
         echo "NEXT_TELEMETRY_DISABLED=1" >> $GITHUB_ENV
         echo "TURBO_TELEMETRY_DISABLED=1" >> $GITHUB_ENV
         bun install --frozen-lockfile

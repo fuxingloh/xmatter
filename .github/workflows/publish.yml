@@ -24,6 +24,11 @@ jobs:
       - run: jq --arg v "${GITHUB_REF_NAME#v}" '.version = $v' package.json > package.json.tmp && mv package.json.tmp package.json
         working-directory: packages/xmatter
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          registry-url: "https://registry.npmjs.org"
+
       - run: bunx turbo run build --filter xmatter
 
       - run: npm publish --provenance --access public
