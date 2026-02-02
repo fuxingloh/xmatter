@@ -1,4 +1,5 @@
 import { publicFetch } from "@/app/public";
+import type { Frontmatter } from "xmatter/schema";
 import gray, { GrayMatterFile } from "gray-matter";
 import removeMd from "remove-markdown";
 
@@ -10,14 +11,19 @@ export async function GET(_: Request, context: RouteContext<"/eip155/[chainId]/[
     return new Response(null, { status: readme.status });
   }
 
-  const { data, content } = gray(await readme.text());
-  const description = getDescription(data, content);
-  const frontmatter = { ...data, description };
-  return Response.json(frontmatter, {
+  return Response.json(toFrontmatterJson(await readme.text()), {
     headers: {
       "Cache-Control": "public, max-age=86400",
     },
   });
+}
+
+function toFrontmatterJson(readme: string): Frontmatter {
+  const { data, content } = gray(readme);
+  if (!data.description) {
+    data.description = getDescription(data, content);
+  }
+  return data as unknown as Frontmatter;
 }
 
 export function getDescription(data: GrayMatterFile<string>["data"], content?: string) {
@@ -26,5 +32,6 @@ export function getDescription(data: GrayMatterFile<string>["data"], content?: s
   }
   if (!content) return undefined;
   const stripped = removeMd(content).trim();
+
   return stripped.length > 200 ? stripped.slice(0, 200) + "…" : stripped;
 }

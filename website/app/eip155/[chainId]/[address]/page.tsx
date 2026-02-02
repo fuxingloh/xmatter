@@ -1,12 +1,9 @@
 import type { Metadata } from "next";
 import Image from "next/image";
-import Link from "next/link";
 import Markdown from "react-markdown";
-import gray from "gray-matter";
 
-import { publicFetch, publicFetchXmatterFile } from "@/app/public";
 import { getDescription } from "@/app/eip155/[chainId]/[address]/frontmatter.json/route";
-import { XmatterFile } from "xmatter/schema";
+import { getXmatterFile } from "@/app/public";
 
 export async function generateStaticParams() {
   return [
@@ -19,7 +16,7 @@ export async function generateStaticParams() {
 
 export async function generateMetadata(props: PageProps<"/eip155/[chainId]/[address]">): Promise<Metadata> {
   const { chainId, address } = await props.params;
-  const { data, content } = await publicFetchXmatterFile(`/eip155/${chainId}/${address}/README.md`);
+  const { data, content } = await getXmatterFile(`/eip155/${chainId}/${address}/README.md`);
   const description = getDescription(data, content);
 
   return {
@@ -30,15 +27,15 @@ export async function generateMetadata(props: PageProps<"/eip155/[chainId]/[addr
 
 export default async function Page(props: PageProps<"/eip155/[chainId]/[address]">) {
   const { chainId, address } = await props.params;
-  const { data, content } = await publicFetchXmatterFile(`/eip155/${chainId}/${address}/README.md`);
-  const description = getDescription(data, content);
+  const { data, content } = await getXmatterFile(`/eip155/${chainId}/${address}/README.md`);
+  const sentence = getFirstSentence(data.description);
 
   return (
     <div className="grid grid-cols-10 gap-10">
       <main className="col-span-7">
         <div className="mb-8">
           <h1 className="text-2xl font-semibold">{data.name}</h1>
-          <p className="line-clamp-1">{description}</p>
+          {sentence && <p className="line-clamp-1">{sentence}</p>}
         </div>
 
         <div className="flex flex-col gap-5">
@@ -76,6 +73,15 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
       </aside>
     </div>
   );
+}
+
+function getFirstSentence(description?: string): string | undefined {
+  if (!description) return;
+
+  const match = description.match(/^.*?[.!?](?:\s|$)/);
+  if (match && match[0].trim().length >= 40) {
+    return match[0].trim();
+  }
 }
 
 function IconSpace(props: { chainId: string; address: string; icon: string }) {
