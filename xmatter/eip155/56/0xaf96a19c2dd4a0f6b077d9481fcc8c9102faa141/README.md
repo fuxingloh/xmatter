@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#141318"
+icons:
+  - icon.png
 ---
 
 Moonarch provides powerful and original tools to BSC traders

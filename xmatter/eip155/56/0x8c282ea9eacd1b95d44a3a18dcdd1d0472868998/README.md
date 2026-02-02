@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#422624"
+icons:
+  - icon.png
 ---
 
 Ancient Kingdom is the 1st ancient martial arts game on the blockchain platform, pioneering the realization of real-time games on the blockchain platform.

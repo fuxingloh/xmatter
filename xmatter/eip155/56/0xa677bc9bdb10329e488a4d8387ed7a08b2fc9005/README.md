@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5052a2"
+icons:
+  - icon.png
 ---
 
 MGP (Magic Power) is the governance token of the Magic Power community which will help the Magic Cube Ecosystem grow into a system of decentralized finance(DeFi). It’s created to connect the whole token system at Magic Cube’s phase 1 ecosystem.

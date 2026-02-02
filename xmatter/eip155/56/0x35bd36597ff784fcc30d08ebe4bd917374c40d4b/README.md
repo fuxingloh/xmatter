@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3c17c"
+icons:
+  - icon.png
 ---
 
 miniSHIB aims to bring cryptocurrency to a wider audience through engaging content, whilst raising funds for animal welfare charities.

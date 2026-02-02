@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#192975"
+icons:
+  - icon.png
 ---
 
 Jobchain is an ecosystem that enables anybody to find jobs or hire personnel anytime, anywhere while earning salary in cryptocurrency.

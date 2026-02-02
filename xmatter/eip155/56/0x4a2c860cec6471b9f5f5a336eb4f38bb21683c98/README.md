@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c1c1c1"
+icons:
+  - icon.png
 ---
 
 GST serves as the replacement to experience points and in-app currency. Users equipped with NFT Sneakers – walk, jog or run outdoors to earn GST, which can be used to level up and mint new Sneakers.

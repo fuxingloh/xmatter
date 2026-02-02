@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1858f8"
+icons:
+  - icon.png
 ---
 
 TrueFi is an on-chain uncollateralized lending protocol

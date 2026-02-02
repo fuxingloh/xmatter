@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0f0f0f"
+icons:
+  - icon.png
 ---
 
 Trilium (TLM) is the native utility token of the Alien Worlds metaverse

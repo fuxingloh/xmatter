@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#047c89"
+icons:
+  - icon.png
 ---
 
 Pylon Network. The Energy-Wise Blockchain Platform.

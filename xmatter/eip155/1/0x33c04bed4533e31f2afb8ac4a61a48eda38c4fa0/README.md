@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f5be35"
+icons:
+  - icon.png
 ---
 
 $GORILLA, a meme token poised to revolutionize the crypto landscape by combining viral appeal with substantial utility, creating an investment opportunity that transcends traditional meme tokens.

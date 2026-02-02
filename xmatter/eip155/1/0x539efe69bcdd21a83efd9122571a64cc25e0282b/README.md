@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0499fc"
+icons:
+  - icon.png
 ---
 
 Decentralized 2-Factor Authentication, Blacklisting, Whitelisting, Auto Smart Contract Scanning, & more.

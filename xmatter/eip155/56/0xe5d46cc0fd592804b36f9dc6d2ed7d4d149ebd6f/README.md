@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b2143"
+icons:
+  - icon.png
 ---
 
 Sportemon-Go the NFT Gaming Revolution.

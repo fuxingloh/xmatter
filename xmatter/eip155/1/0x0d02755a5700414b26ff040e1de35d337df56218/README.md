@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 BEND is the governance token of BendDAO which is a peer-to-pool based NFT liquidity protocol.

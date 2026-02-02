@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d6d4d2"
+icons:
+  - icon.png
 ---
 
 BNBTiger! Fierce Firm Victory BNBTiger is the king of beasts. They are the symbol of victory and strength.

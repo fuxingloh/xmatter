@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dce8ec"
+icons:
+  - icon.png
 ---
 
 Koda token is a futuristic currency created and developed by Summit BC development team and will be the native token on SummitSwap.

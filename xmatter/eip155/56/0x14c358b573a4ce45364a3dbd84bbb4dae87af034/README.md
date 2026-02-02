@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e8160d"
+icons:
+  - icon.png
 ---
 
 DungeonSwap is a decentralized table-top RPG style web game on the Binance Smart Chain with yield farming features and NFTs.

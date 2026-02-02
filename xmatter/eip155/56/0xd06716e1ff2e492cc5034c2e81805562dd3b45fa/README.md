@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#92c2fa"
+icons:
+  - icon.png
 ---
 
 Magpie XYZ is a platform built on BNB Chain to boost yields for liquidity providers and governance token holders of veTokenomics protocols. Essentially the platform incentivizes governance token holders and liquidity providers to pool their assets together so that the platform can acquire governance tokens, convert into veTokens, boost yield for liquidity providers, and in return share part of protocol revenues derived from liquidity providers’ boosted profits back to governance token holders.

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#151515"
+icons:
+  - icon.png
 ---
 
 Cartesi is the first Blockchain OS. It allows developers to build decentralized logic with Linux and standard programming environments preserving the decentralization and security of blockchains.

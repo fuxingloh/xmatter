@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#181419"
+icons:
+  - icon.png
 ---
 
 The Official $FAFO coin

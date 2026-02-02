@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#cbe5e6"
+icons:
+  - icon.png
 ---
 
 Jet is a decentralized borrowing and lending protocol built for speed, power, and scalability on Solana

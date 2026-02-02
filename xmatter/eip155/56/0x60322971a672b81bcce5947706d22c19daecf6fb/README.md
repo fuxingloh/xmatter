@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ff5b04"
+icons:
+  - icon.png
 ---
 
 MarsDAO is a multifunctional decentralized platform designed for the use of crypto tools, which operates based on a DAO principle, on its native MDAO token.

@@ -10,6 +10,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#dcdcdc"
+icons:
+  - icon.png
 ---
 
 JFI is described to be a yield farming profit maximiser protocol on Justswap.

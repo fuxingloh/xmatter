@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2705b6"
+icons:
+  - icon.png
 ---
 
 A massive lottery between everyone in the DeFi space where tokens are automatically removed from all wallets, pooled together, and given to one user at random!

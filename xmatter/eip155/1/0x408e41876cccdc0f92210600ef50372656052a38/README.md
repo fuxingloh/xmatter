@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0b0b0b"
+icons:
+  - icon.png
 ---
 
 Ren is an open protocol meant to enable the permissionless and private transfer of value between any blockchain.

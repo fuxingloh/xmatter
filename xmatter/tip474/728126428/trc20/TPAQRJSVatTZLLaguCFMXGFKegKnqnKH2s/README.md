@@ -16,6 +16,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#dbd6cf"
+icons:
+  - icon.png
 ---
 
 Utility token to paying musicians through online radio. Paying Independent Musicians as a Distributed Ledger Performance Rights Organization.

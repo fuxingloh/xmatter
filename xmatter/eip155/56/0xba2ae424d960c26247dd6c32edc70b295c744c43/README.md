@@ -13,6 +13,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bea248"
+icons:
+  - icon.png
 ---
 
 BNB pegged Dogecoin (DOGE BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Dogecoin (DOGE) at a ratio of 1:1.

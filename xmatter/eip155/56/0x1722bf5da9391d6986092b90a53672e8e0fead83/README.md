@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f4c706"
+icons:
+  - icon.png
 ---
 
 The idea of wrapped ELCASH is to advantage of the BSC infrastructure and gain exposure to smart contract functionalities. Introducing new use cases relating to smart contracts and dApp) ensures further growth of the ELCASH ecosystem. It is also an excellent chance for BSC users to join ELCASH ecosystem by swapping their tokens to wELCASH and join ELCASH ecosystem.

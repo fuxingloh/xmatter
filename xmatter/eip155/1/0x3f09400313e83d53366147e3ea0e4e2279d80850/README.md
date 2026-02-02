@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8ac163"
+icons:
+  - icon.png
 ---
 
 Kush Finance is a Decentralized Finance (DeFi) governance token abbreviated as kSeed(kush.SEED) that allow its holders stake their kSEED to attain Kush finances secondary token known as kKUSH(kush.KUSH).

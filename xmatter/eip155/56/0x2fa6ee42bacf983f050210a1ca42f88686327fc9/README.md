@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04040c"
+icons:
+  - icon.png
 ---
 
 W3C is used as a liquidity token and can be obtained by staking or through the secondary market.

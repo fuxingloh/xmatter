@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Embracing Financial Freedom through Elon Musk’s X-Factor In the world of cryptocurrencies, where innovation and imagination converge, the $X Project stands out as a promising opportunity for crypto investors seeking to achieve financial freedom.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 A fresh RFI-like cryptocurrency where the longer you hold, the more you are rewarded.

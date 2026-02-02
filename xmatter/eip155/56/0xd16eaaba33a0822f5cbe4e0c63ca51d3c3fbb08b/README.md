@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0e0e0e"
+icons:
+  - icon.png
 ---
 
 X AI intends to promptly establish a robust presence in the DeFi market by offering exceptional use cases.

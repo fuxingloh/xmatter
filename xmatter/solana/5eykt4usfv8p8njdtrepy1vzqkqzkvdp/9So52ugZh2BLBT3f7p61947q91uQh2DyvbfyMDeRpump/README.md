@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#171714"
+icons:
+  - icon.png
 ---
 
 The crypto revolution boils as American bureaucracy falls to revived exceptionalism

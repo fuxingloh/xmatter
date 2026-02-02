@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d58d35"
+icons:
+  - icon.png
 ---
 
 MiniSports is a sports based community token developed mainly to create a safehaven for sports lovers.

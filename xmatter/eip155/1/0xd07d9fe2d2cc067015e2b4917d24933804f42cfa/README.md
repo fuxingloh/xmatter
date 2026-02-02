@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#000000"
+icons:
+  - icon.png
 ---
 
 Tolar is an open source, community governed crypto-currency featuring scalable, fast, secure, and fair transactions.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7659a6"
+icons:
+  - icon.png
 ---
 
 A non-custodial, smart contract powered P2P gateway to blockchain and DeFi

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6ccc6c"
+icons:
+  - icon.png
 ---
 
 Autonomous Yield and Liquidity Generation Charity Protocol

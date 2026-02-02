@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#efa95d"
+icons:
+  - icon.png
 ---
 
 ITAM operates a platform (NFT.Farm) that values digital assets and freely trades such assets using ITAM NFT. ITAM NFT is a Middleware technology for cultural and artistic creations such as paintings, comics, fashion, and games.

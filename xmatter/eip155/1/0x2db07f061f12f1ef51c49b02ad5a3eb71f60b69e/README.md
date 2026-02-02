@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a91f17"
+icons:
+  - icon.png
 ---
 
 This is the token sgt_slaughtermelon uses for bonus NFTs, discord access, hypervibes seeding, and other things yet to be devised. For all things sgt_slaughtermelon related, this is the $MELON for fun!

@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Grok and GPT-4 belong to a class of AI models known as Large Language Models. GROK improves model alignment - the ability to follow user intentions while also making it more truthful and generating less offensive or dangerous output.

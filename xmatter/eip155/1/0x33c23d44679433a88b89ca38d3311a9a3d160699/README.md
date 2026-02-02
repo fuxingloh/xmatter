@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Magical Liquidity Rainbow ! Stake Uniswap v2 LP tokens and earn RAINBOW

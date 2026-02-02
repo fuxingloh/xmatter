@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3a2012"
+icons:
+  - icon.png
 ---
 
 Web4 AI strives to disrupt the Decentralized Finance cryptocurrency space using Artificial Intelligence. Web4 AI, through its diverse DeFi offerings.

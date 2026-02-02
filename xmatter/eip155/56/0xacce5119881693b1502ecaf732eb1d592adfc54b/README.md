@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#52b655"
+icons:
+  - icon.png
 ---
 
 SafeWojak is a retail friendly due diligence platform, aiming to alleviate traders from falling victim to unaudited and malicious token contracts.

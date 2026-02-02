@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#111c25"
+icons:
+  - icon.png
 ---
 
 Panther Coin is based on proof-of-stake consensus and built on Binance Smart Chain. Panther Coin Smart contract is based on BEP-20 algorithm.

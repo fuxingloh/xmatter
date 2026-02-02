@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e4ebe6"
+icons:
+  - icon.png
 ---
 
 CAT Token - created for people who love cats.

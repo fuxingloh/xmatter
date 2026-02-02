@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f87058"
+icons:
+  - icon.png
 ---
 
 BRICKS is a token issued by MyBricks aiming to make property investment accessible for everyone.

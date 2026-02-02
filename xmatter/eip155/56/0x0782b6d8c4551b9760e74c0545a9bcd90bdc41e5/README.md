@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c1c8c"
+icons:
+  - icon.png
 ---
 
 TWhat is Lista DAO (lisUSD)Lista DAO is a decentralized over-collateralized lending and liquid staking platform on the BNB chain.

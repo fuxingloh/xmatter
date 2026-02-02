@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040406"
+icons:
+  - icon.png
 ---
 
 Wrapped Tezos is a 1:1 equivalent of Tezos on the Ethereum network

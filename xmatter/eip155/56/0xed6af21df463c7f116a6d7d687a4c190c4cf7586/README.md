@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8c2224"
+icons:
+  - icon.png
 ---
 
 FU coin is a BNB Chain token designed to bring luck and fortune to the crypto world. Whether you’re riding the highs or weathering the lows, $Fu is your shield of fortune. Fu’s not just another coin in the sea, It’s the spark of joy in your crypto spree. Join the Fu journey, where luck’s yours to hold, And turn your wallet’s story into gold!

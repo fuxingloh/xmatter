@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e1e6e8"
+icons:
+  - icon.png
 ---
 
 Introducing the Convenience of Centralization into Decentralization

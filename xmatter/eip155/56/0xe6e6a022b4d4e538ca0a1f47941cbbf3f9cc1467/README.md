@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#da6880"
+icons:
+  - icon.png
 ---
 
 NUTS Gaming is a token developed through the Binance Smart Chain. It aims to apply crypto technology to optimize the economy of the poker & gaming industry.

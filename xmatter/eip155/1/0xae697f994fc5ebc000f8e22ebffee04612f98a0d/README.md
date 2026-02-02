@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#252525"
+icons:
+  - icon.png
 ---
 
 LGCY (Legacy) Network is a dApp based blockchain running on the Libertas Protocol to engage community participation.

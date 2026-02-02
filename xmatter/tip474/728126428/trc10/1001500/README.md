@@ -10,6 +10,8 @@ standards:
   - trc10
 icon: icon.png
 color: "#306681"
+icons:
+  - icon.png
 ---
 
 Halo Social Meetup is social media simplified.

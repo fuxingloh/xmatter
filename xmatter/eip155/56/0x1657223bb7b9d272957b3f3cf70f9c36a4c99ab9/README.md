@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#09090a"
+icons:
+  - icon.png
 ---
 
 X-Token is the first token that will empower crypto traders, investors, and minorities who have no access to computers. Building decentralized applications and donating the usage fees will help cryptomaniacs and minorities alike.

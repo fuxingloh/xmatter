@@ -21,6 +21,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f2ccd3"
+icons:
+  - icon.png
 ---
 
 miniBabydoge is a BEP20 project that is focused on the entire cryptocurrency community. We plan to build a strong community through honest, friendly and constant social media engagement on our channels, thereby facilitating mainstream adoption of decentralised blockchain technology.

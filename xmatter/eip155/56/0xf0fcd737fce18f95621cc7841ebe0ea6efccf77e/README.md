@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8fc04e"
+icons:
+  - icon.png
 ---
 
 TreeDefi is a Yield Farming project focused on deflationary tokenomics through a capped token named TREE and an uncapped deflationary token named SEED.

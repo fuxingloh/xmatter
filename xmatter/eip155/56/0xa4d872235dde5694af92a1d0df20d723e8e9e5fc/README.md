@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#141414"
+icons:
+  - icon.png
 ---
 
 Nimbus - Creating Value Based on Real Use cases for Digital Assets.

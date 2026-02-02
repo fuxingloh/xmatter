@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5b5b5b"
+icons:
+  - icon.png
 ---
 
 GoWithMi aims to map the world on the blockchain by building a global decentralized location-based services infrastructure for applications.

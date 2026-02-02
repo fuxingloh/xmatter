@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f4aa68"
+icons:
+  - icon.png
 ---
 
 Orange Cat Token is a Binance Smart Chain based community DeFi token.

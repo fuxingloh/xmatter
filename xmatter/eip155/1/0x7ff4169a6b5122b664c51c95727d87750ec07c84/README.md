@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#392c40"
+icons:
+  - icon.png
 ---
 
 The Bridge Between Crypto & Stock Market

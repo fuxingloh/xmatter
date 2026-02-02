@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eec23d"
+icons:
+  - icon.png
 ---
 
 The self-distributing store of value token.

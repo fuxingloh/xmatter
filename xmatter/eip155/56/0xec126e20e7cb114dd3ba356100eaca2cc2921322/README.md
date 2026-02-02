@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0b0a08"
+icons:
+  - icon.png
 ---
 
 Solar Energy ($SEG) is a deflationary BEP20 token from Binance Smart Chain

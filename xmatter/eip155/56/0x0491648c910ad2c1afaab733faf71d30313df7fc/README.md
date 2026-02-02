@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3a9494"
+icons:
+  - icon.png
 ---
 
 One stop SAFU service for yield farmers.

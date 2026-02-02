@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f95c06"
+icons:
+  - icon.png
 ---
 
 Streamline AI development with fast model training, fine-tuning, and scalable, cost-effective deployment for seamless production integration.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cb9e4a"
+icons:
+  - icon.png
 ---
 
 Combining Memes & Crypto to bring both LOLs and money to the masses of the internet.

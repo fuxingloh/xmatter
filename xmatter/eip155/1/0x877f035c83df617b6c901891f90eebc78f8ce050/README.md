@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 SentAI combines AI-driven automation and real-time trend detection to revolutionize how communities engage with blockchain. The platform enables anyone to create, trade, and manage tokens that capture emerging trends before they explode.

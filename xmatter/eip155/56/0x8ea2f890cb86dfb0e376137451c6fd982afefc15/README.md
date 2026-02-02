@@ -37,6 +37,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 AutoCrypto is an automated broker app managed by an Artificial Intelligence that combines mathematical extrapolation polynomials alongside a pre-trained time-series prediction neuronal network to predict very precisely the evolution of the top 200 cryptocurrencies and investing automatically for you.

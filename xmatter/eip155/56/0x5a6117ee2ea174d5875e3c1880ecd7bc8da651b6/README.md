@@ -19,6 +19,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040804"
+icons:
+  - icon.png
 ---
 
 KLIP AI is an AI-powered smart wallet layer for Web3. It transforms crypto transactions into clean, AI-generated receipts and enables users to send tokens using simple usernames instead of wallet addresses. Built for security, convenience, and smarter financial decisions.

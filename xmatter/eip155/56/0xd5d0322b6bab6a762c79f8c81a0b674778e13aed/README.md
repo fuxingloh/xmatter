@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9c1b2b"
+icons:
+  - icon.png
 ---
 
 Firo, a decentralized and open source currency that provides financial privacy enabled by the Lelantus protocol. Proven cryptography and auditability.

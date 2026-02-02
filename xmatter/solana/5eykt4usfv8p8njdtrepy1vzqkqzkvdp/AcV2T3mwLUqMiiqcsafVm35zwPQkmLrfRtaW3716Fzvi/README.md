@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#eac480"
+icons:
+  - icon.png
 ---
 
 REXHAT - A long-lost meme coin has risen on Solana. The supreme king will rule the world again. $REXHAT

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#aba3f3"
+icons:
+  - icon.png
 ---
 
 $RIF token represents longevity experiments performed with the compound Rifampicin. These experiments are live-streamed on Pump Science.

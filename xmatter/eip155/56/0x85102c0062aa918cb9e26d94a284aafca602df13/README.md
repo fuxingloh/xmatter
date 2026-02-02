@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b242c"
+icons:
+  - icon.png
 ---
 
 Avalon, frictionless yield and liquidity generation protocol on BSC.

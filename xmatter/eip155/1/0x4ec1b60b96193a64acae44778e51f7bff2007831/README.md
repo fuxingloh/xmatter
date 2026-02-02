@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c8f47"
+icons:
+  - icon.png
 ---
 
 Edge is the infrastructure of Web3. A peer-to-peer network, powered by blockchain technology and built using the spare capacity all around us.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ec4c44"
+icons:
+  - icon.png
 ---
 
 EBCoin (EBC) is a cryptocurrency and operates on the Ethereum platform.

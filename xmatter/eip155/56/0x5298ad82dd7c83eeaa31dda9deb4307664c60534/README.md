@@ -27,6 +27,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d3a343"
+icons:
+  - icon.png
 ---
 
 Moonshot is a deflationary, frictionless yield and liquidity generation protocol featuring MoonBoxes.io and MoonSea.io

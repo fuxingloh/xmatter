@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fa355d"
+icons:
+  - icon.png
 ---
 
 BFG is the internal token of BetFury platform launched on BSC.

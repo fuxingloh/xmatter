@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4d2176"
+icons:
+  - icon.png
 ---
 
 Harvest is the world’s first cross-chain money market that enables you to earn more with your digital assets.

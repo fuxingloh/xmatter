@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2d1f66"
+icons:
+  - icon.png
 ---
 
 The Bulls Army is a meme coin with no utility or inherent value, built on Polygon's Matic Network. Its purpose is to showcase the speed and affordability of the Matic blockchain to crypto users. Despite its lack of functionality, it serves as a playful representation of the bullish sentiment in the crypto market.

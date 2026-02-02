@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f19f51"
+icons:
+  - icon.png
 ---
 
 A new cryptocurrency called Pup Doge Coin was launched in July 2021, making it one of the fastest-growing cryptocurrencies on the market. Besides helping save dogs as well as bringing crypto to the average person, Pup Doge is decentralized. The Binance Smart Chain (BSC) technology made Pup Doge a faster Coin with 10x faster block speeds and a cheaper gas fee.

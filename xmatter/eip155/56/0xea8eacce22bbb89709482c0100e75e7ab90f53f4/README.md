@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eec4a7"
+icons:
+  - icon.png
 ---
 
 Chad is the greatest Binance Smart Chain meme token ever created. You already know this. That’s why you’re buying it.

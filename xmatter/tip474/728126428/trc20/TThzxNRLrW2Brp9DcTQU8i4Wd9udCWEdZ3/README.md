@@ -14,6 +14,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#0a211d"
+icons:
+  - icon.png
 ---
 
 stUSDT is the first RWA platform on the TRON Network. Shape, expand, and share the future of real-world assets tokenization on TRON.

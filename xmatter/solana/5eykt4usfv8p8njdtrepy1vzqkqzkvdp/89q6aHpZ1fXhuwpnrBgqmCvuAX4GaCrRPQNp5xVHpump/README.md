@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#c39b7b"
+icons:
+  - icon.png
 ---
 
 Sapo Conchito, Hispanic Pepe

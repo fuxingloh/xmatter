@@ -32,6 +32,8 @@ standards:
   - trc10
 icon: icon.png
 color: "#141812"
+icons:
+  - icon.png
 ---
 
 TheFlashCurrencyTFC The flash currency is a new token built according to the TRON standard TRC10 standard

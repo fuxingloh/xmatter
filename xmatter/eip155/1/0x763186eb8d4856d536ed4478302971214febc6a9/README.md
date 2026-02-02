@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#242c34"
+icons:
+  - icon.png
 ---
 
 The smart escrow token.

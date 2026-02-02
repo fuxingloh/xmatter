@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#94c325"
+icons:
+  - icon.png
 ---
 
 CryptoAds Marketplace, a Decentralized advertisement ecosystem built on blockchain (based on CFC.io app,7M+ users). CryptoAds is a focus to disrupt the advertising market, launched.

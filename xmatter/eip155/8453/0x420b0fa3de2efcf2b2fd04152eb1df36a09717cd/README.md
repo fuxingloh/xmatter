@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cdb57a"
+icons:
+  - icon.png
 ---
 
 Revolutionizing the memecoin landscape with innovative utilities and community-driven features.

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6cd44b"
+icons:
+  - icon.png
 ---
 
 AURORA token is a governance token to ensure proper upgrades to the protocol. Aurora is governed by AuroraDAO which includes representatives from different ecosystems and sectors of the blockchain industry.

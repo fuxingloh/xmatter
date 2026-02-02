@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc0404"
+icons:
+  - icon.png
 ---
 
 DareToken is a revolutionary funtech market project aimed at decentralizing online competitions and challenges

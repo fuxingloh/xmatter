@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e5d651"
+icons:
+  - icon.png
 ---
 
 Spong is a meme token and has its own web marketplace that provides hoodies that can be purchased using the Spong token

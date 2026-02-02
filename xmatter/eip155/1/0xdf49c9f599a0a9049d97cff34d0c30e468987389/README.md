@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Satt is a token used in an Ethereum Dapp to rule fairly advertising payment between advertisers and content creators via social media oracles

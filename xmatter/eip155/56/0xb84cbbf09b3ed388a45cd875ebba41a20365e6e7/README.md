@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f8a209"
+icons:
+  - icon.png
 ---
 
 The Shiba Inu Killer on Binance Smart Chain

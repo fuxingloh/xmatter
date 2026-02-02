@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#9e8164"
+icons:
+  - icon.png
 ---
 
 michi memes

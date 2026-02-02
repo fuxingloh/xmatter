@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#483b0e"
+icons:
+  - icon.png
 ---
 
 Ethereum Pro is a decentralized and deflationary token built on the secure Ethereum network.

@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#22356d"
+icons:
+  - icon.png
 ---
 
 LordToken’s ambition is to fill this gap, by granting access to anyone, regardless of his level of expertise, to a comprehensive set of tools while relying on premium customer service. The same goes for crypto: blockchain technology is quite complex, but if users are offered simple ways of interacting with it along with proper customer care, they will be able to take full advantage of it.

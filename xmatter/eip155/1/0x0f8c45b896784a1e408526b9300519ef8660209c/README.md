@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8c84fb"
+icons:
+  - icon.png
 ---
 
 XMAX Token (XMX) is a cryptocurrency and operates on the Ethereum platform.

@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fca824"
+icons:
+  - icon.png
 ---
 
 Honeypad Is The Hive To Bee! We Reward Holders Through Tax Rewards, Automatic Token Burning, and a Pioneering Buy-back System. All While Providing A Secure And Vibrant Eco-system.

@@ -18,6 +18,7 @@ name: DEUS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 DEUS finance the next generation asset tokenization transpose any verifiable digital or non-digital asset securely onto the blockchain.

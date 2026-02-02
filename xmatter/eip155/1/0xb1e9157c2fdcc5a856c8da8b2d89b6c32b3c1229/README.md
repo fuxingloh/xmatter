@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0464fc"
+icons:
+  - icon.png
 ---
 
 The ultimate solution for cryptocurrency trading with built-in connectivity to major exchanges, a next-gen toolset, analytics, portfolio management, news aggregation, set within an ecosystem extensible by developers.

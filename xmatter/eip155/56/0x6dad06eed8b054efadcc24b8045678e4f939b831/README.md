@@ -8,6 +8,7 @@ name: HONEYPOT The Mascot of Aster Dex
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 HONEYPOT DUST

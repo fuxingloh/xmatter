@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3c1c64"
+icons:
+  - icon.png
 ---
 
 Gourmetgalaxy is a fusion between a DeFi Yield Farming, a NFTs Gaming dApp, LaunchPad platform aim at solving the problems that overshadowed Yield Farming platforms.

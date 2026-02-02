@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#05071e"
+icons:
+  - icon.png
 ---
 
 The Launchpad where Leading Influencers and Projects meet.

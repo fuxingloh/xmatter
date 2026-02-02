@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1f273e"
+icons:
+  - icon.png
 ---
 
 Nuke Wars is an NFT-based Metaverse game on the Binance Smart Chain, powered by radioactive deflation. In Nuke’s universe tokens and NFTs burn alike, giving the nukers the power and wealth to fight the common enemy.

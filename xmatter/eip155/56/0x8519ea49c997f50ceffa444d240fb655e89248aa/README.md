@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c4bcbc"
+icons:
+  - icon.png
 ---
 
 Unlocking Liquid Capital From Staked Assets

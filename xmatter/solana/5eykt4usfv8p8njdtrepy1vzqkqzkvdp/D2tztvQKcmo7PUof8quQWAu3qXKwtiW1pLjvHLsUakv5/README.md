@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Strawberry AI is an advanced AI designed specifically for web3, enabling users to query web3, crypto, and blockchain topics with smart agent integration for a unique interaction experience

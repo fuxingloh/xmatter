@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0e0d4c"
+icons:
+  - icon.png
 ---
 
 StarkNet is a permissionless decentralized Validity-Rollup (also known as a “ZK-Rollup”). It operates as an L2 network over Ethereum, enabling any dApp to its computation – without compromising Ethereum’s composability and security, thanks to StarkNet’s cryptographic proof system – STARK.

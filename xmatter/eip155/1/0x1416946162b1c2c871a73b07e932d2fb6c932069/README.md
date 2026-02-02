@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#00e676"
+icons:
+  - icon.png
 ---
 
 Cryptocurrency for World Consciousness.

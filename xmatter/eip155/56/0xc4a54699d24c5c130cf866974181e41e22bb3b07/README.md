@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8e9f59"
+icons:
+  - icon.png
 ---
 
 World's Best Community Meme Token

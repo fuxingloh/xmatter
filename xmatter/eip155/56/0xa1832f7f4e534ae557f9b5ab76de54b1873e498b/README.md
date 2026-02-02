@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c0c1b"
+icons:
+  - icon.png
 ---
 
 CreatorBid is a thriving Agent Ecosystem that empowers everyone to launch, grow, and monetize AI Agents on-chain and across social platforms.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f8f4f2"
+icons:
+  - icon.png
 ---
 
 The Rubicon Protocol is a decentralized exchange protocol on the Ethereum blockchain.

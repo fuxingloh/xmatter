@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#140544"
+icons:
+  - icon.png
 ---
 
 PolyQuity is a decentralized borrowing protocol that allows users to draw interest-free loans against Matic used as collateral.

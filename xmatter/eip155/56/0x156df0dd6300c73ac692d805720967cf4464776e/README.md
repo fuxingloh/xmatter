@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#041529"
+icons:
+  - icon.png
 ---
 
 AstroSpaces.io is building the biggest web3 integrated social network!

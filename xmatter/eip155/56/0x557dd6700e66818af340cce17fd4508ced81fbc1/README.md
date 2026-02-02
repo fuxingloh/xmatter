@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d1242b"
+icons:
+  - icon.png
 ---
 
 Passive rewards, autoliquidity, community token, charity.

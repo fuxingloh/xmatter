@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dba473"
+icons:
+  - icon.png
 ---
 
 Draggy is an epic dragon character based on `The Night Riders` book, a famous comic book by artist and illustrator Matt Furie.

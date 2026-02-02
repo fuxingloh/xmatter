@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e1e2e3"
+icons:
+  - icon.png
 ---
 
 Ondo Finance is a decentralized investment banking protocol consisting of on-chain financial products that connect investors with capital demand broadening access, improving transparency, and reducing cost versus the status quo. The ONDO token will govern the Ondo Finance protocol.

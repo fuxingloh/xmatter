@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f99c07"
+icons:
+  - icon.png
 ---
 
 ABBC Swap is a platform that allows users to seamlessly swap their ABBC from the ABBC mainnet using Aladdin Wallet and Aladdin Pro wallet apps into Polygon ABBC pegged.

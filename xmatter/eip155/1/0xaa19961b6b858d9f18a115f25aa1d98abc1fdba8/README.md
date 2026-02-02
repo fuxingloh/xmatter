@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#304ec6"
+icons:
+  - icon.png
 ---
 
 LocalCoinSwap (LCS) is the underlying token of the LocalCoinSwap P2P trading platform. This token is regularly repurchased and burned using revenue from the exchange, and allows holders to participate in governance.

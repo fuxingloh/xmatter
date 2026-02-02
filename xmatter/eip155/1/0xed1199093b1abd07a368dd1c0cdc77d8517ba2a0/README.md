@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c2637d"
+icons:
+  - icon.png
 ---
 
 Hex2T is a fork of Hex designed to increase the rewards to stakers.

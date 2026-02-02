@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e5e3ce"
+icons:
+  - icon.png
 ---
 
 SafeMoonGold is a BSC based utility token that will allow holders to trade without the need for centralized power, thus maintaining stable copyright ownership and earning further SafeMoonGold.

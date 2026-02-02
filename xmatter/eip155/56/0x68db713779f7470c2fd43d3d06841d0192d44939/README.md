@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2f2f2f"
+icons:
+  - icon.png
 ---
 
 ETH.z, a cutting-edge stablecoin tightly linked to the US dollar, the founders of this stablecoin have 35 years of successful experience in economics and business, launched in 2024 within the ZEDX neobanking blockchain network.

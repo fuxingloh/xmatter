@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e81d32"
+icons:
+  - icon.png
 ---
 
 NFT Global is a revolutionary NFT marketplace for ambitious artists, collectors, and traders. Built on the Binance network, we are making NFTs more available and accessible.

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0f172f"
+icons:
+  - icon.png
 ---
 
 SushiSwap claims to be an evolution of #Uniswap with $SUSHI tokenomics.

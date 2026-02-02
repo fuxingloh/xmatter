@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3faf9"
+icons:
+  - icon.png
 ---
 
 HERO radically changes todays centralized way of online betting. The token and its smart contract allow decentralized peer-to-peer online betting in any field.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#15151c"
+icons:
+  - icon.png
 ---
 
 Anubi is community driven token.

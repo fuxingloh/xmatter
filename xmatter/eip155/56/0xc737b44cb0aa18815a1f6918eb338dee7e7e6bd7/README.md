@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dba720"
+icons:
+  - icon.png
 ---
 
 ComfyToken has created a distinctive DeFi ecosystem, designed to facilitate a comfy global transition to cryptocurrency.

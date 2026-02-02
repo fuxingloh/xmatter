@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a3bcf2"
+icons:
+  - icon.png
 ---
 
 Decentralized finance tentacles

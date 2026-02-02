@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a59ac3"
+icons:
+  - icon.png
 ---
 
 Crypto All-Stars is the ultimate meme coin project, uniting the top meme coins worldwide – PEPE, Dogecoin, Floki, Mog, Milady, Brett, Turbo, and more – under one umbrella

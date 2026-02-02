@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Multi-element decentralized autonomous application platform.1st Global platform that integrates fully decentralized non-custodial protocol, security solutions, GameFi and DAO! Anonverse, Security Audit, Play2Earn, Compete2Earn, DAO!

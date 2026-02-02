@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2d2976"
+icons:
+  - icon.png
 ---
 
 The GT Protocol's robust ecosystem merges an investment protocol for decentralized Web3 funds management with Blockchain AI Execution Technology, both accessible through the GT API SDK.

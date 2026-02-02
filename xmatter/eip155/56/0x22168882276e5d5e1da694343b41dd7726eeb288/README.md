@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1a1543"
+icons:
+  - icon.png
 ---
 
 WSBDApp gives users access to stocks, staking and crypto portfolios.

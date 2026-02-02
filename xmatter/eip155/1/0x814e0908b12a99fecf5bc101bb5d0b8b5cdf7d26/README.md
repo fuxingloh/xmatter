@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6196ee"
+icons:
+  - icon.png
 ---
 
 Measurable Data Token (MDT) aims to provide a decentralized data economy, where data providers and data buyers can exchange data securely and anonymously.

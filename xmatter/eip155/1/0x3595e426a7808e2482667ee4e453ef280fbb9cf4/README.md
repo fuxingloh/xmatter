@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2f2a46"
+icons:
+  - icon.png
 ---
 
 Nose Candy - The worlds first DeFi project that runs on Snortonomics.

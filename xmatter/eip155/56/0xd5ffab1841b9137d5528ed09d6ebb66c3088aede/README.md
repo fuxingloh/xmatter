@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b4b62"
+icons:
+  - icon.png
 ---
 
 Twoge is an innovative deflationary token aiming to revolutionize Defi, building its own Twoge Blockchain, introducing a multi-chain swap (TwogeSwap) across Binance, Ethereum...

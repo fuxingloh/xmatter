@@ -19,6 +19,7 @@ name: BIGH BULL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 BIGH BULL is a unique portal containing services & advanced tools for traders. It is the portal that has low transaction fees & a low-cost DMAT account opening than other portals. All types of market alerts are available through BIGHBULL. Our Copy & BOT Trading features enable you to take easy & quick actions. New traders or users can get to know easily about the trading

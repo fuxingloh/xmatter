@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 KWD COIN Token is a Decentralized Token (BEP-20 Token) in Binance smart chain.This token is the safe haven for everyone who got rekt from scam/rugged project.

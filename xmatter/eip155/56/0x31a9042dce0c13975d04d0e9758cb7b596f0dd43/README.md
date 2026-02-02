@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fad61f"
+icons:
+  - icon.png
 ---
 
 Burn1 Coin is the foundation of an ecosystem of cannabis centric crypto products while simultaneously supporting Cannabis reform & advocacy.

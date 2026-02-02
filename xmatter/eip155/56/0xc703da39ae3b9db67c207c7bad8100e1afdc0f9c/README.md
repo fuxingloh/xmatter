@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b37980"
+icons:
+  - icon.png
 ---
 
 FRGX is a token on BNB Chain with a fair launch in a decentralized environment and an audience of 1.6 M users prepared over 4 years

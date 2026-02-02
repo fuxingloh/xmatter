@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#530fc3"
+icons:
+  - icon.png
 ---
 
 Mento Dollar (USDm) is a decentralized stablecoin pegged to the US Dollar on the Celo blockchain.

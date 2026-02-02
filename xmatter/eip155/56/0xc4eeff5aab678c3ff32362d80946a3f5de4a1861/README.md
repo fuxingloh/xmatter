@@ -32,6 +32,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#287127"
+icons:
+  - icon.png
 ---
 
 RiceFarm is the next generation of Yield Farming with the highest burn rate on Binance Smart Chain.

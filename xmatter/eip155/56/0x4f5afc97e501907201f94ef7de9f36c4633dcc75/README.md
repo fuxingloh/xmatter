@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9870e0"
+icons:
+  - icon.png
 ---
 
 Safecom is a token made for the community on the BSC Scan.

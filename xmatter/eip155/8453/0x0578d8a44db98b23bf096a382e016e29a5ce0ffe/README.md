@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#048b0b"
+icons:
+  - icon.png
 ---
 
 100% fair launched

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6a9ff9"
+icons:
+  - icon.png
 ---
 
 A Blockchain Innovation Ecosystem, with a Seed Stage Fund, Decentralized Incubator, and Launchpad

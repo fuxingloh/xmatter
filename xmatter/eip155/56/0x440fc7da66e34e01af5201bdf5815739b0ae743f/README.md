@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#767cb6"
+icons:
+  - icon.png
 ---
 
 Squid Game Token game free ETH by playing this game! Squid Game Token is a token on the Binance Smart Chain that offers auto static rewards on every transaction.

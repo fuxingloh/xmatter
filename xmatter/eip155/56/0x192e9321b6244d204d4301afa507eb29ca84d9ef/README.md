@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fabc97"
+icons:
+  - icon.png
 ---
 
 A community-driven, dog-themed protocol with actual use cases and utility.

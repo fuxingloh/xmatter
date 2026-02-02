@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e8faf4"
+icons:
+  - icon.png
 ---
 
 Decentralized identity authentication and user activity data management Infrastructure.

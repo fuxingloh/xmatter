@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#141413"
+icons:
+  - icon.png
 ---
 
 Camelot is an ecosystem-focused and community-driven DEX built on Arbitrum.

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc842c"
+icons:
+  - icon.png
 ---
 
 Billion Happiness has a token called BHC. Users can earn BHC cashback through shopping on the online store, NFT Marketplace and via staking/farming.

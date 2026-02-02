@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7683af"
+icons:
+  - icon.png
 ---
 
 Aave UniSETHETH is an interest bearing token pegged 1:1 to the underlying SETH and ETH deposited in the Uniswap Market of Aave Protocol.

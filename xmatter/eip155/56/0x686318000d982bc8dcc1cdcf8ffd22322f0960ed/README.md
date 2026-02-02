@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0e1014"
+icons:
+  - icon.png
 ---
 
 Opulous Token believe in a future where musicians keep control of the music they create and forge even deeper connections with their fans.

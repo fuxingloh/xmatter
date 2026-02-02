@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d34c2b"
+icons:
+  - icon.png
 ---
 
 A charity coin based on the binance smart chain network with the goal of aiding measures against climate change and world hunger.

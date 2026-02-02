@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e2c9b2"
+icons:
+  - icon.png
 ---
 
 DARAM AI: The Goose That Took Flight.

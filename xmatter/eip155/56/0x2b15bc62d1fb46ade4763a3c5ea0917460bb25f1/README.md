@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dadada"
+icons:
+  - icon.png
 ---
 
 Fully Decentralized Protocol for Private Transactions on Binance Smart Chain

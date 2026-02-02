@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#23234f"
+icons:
+  - icon.png
 ---
 
 Wormhole is the leading interoperability platform that powers multichain applications and bridges at scale.

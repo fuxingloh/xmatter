@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ebebca"
+icons:
+  - icon.png
 ---
 
 Kauri token is main utility medium within British Asset Investment Ecosystem built, on the Ethereum platform.

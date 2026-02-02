@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f56e23"
+icons:
+  - icon.png
 ---
 
 Swapz is the native currency of Swapz DEX

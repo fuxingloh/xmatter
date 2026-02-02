@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#15be38"
+icons:
+  - icon.png
 ---
 
 Insurance token for insurance industry by offering a digital platform for insuring both physical and digital assets

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04d494"
+icons:
+  - icon.png
 ---
 
 Testa is a community token built for anyone who want to enjoy benefits and perks in the CeFi and DeFi spaces granted by key partners from DAO Consensus network.

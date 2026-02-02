@@ -39,6 +39,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8678a8"
+icons:
+  - icon.png
 ---
 
 SWISE is the StakeWise governance token.

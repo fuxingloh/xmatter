@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Sperax is a programmable agent layer for DeFi, enabling autonomous capital execution, dynamic yield optimization, and onchain risk defense. SperaxOS. Your edge, automated. Smart agents for fast, low-noise trading across chains.

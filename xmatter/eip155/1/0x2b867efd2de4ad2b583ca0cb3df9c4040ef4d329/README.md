@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e2bc60"
+icons:
+  - icon.png
 ---
 
 A games & competitions platform with play-to-earn rewards using blockchain protocols.

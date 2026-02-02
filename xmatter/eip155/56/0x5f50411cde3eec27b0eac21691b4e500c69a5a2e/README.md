@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c1c24"
+icons:
+  - icon.png
 ---
 
 Singularity is a metaverse gaming world of universe exploration and adventure.

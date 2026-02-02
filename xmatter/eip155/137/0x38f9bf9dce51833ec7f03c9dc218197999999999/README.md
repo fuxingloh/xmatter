@@ -21,6 +21,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbcd72"
+icons:
+  - icon.png
 ---
 
 Explore the cultural phenomenon of Nya - the playful cat sound that's become a symbol of joy and connection. Discover how this simple word unites fans worldwide.

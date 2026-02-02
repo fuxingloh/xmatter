@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d7d8d7"
+icons:
+  - icon.png
 ---
 
 Project Panda is working as a Socio-NFT platform where the users can exchange NFTs with an exchange protocol that is based on the Binance Smart Chain network..

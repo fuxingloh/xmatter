@@ -8,6 +8,7 @@ links:
     url: "https://solscan.io/token/884aCANKwx6dCuo1wuKoQ7X3LK8QprFmwj66zPF39b5F"
 symbol: HONEYPOT USⅮΤ
 decimals: 6
+icons: []
 ---
 
 This token is malicious do not interact

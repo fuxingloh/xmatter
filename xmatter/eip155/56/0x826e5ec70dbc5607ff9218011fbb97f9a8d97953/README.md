@@ -21,6 +21,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6496d9"
+icons:
+  - icon.png
 ---
 
 TRAVEL is the reward token of the Travel Care platform.

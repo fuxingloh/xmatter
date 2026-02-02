@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 A stablecoin by World Liberty Financial, redeemable 1:1 for the US dollar and backed by U.S. treasuries, dollar deposits, and other cash equivalents.

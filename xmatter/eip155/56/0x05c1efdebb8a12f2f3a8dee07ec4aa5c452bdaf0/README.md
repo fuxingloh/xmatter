@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e19d4c"
+icons:
+  - icon.png
 ---
 
 FEG Wrapped CAKE

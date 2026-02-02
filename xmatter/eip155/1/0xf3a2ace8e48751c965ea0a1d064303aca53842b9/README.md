@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5e84fc"
+icons:
+  - icon.png
 ---
 
 HXY Money is brought to you by HXY Business - Our ERC20 incentive token, HXY, acts as the economic core to the HXY.Business DApp eco-system

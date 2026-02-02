@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0483c1"
+icons:
+  - icon.png
 ---
 
 The Monerium EURe is the first fully authorized and regulated euro stablecoin. It's the only onchain fiat directly transferable between bank accounts and web3 wallets.

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#d4a743"
+icons:
+  - icon.png
 ---
 
 $SPERO: The Hopeful Meme Coin for the People

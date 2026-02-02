@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#44abfb"
+icons:
+  - icon.png
 ---
 
 HINA is a decentralized, peer-to-peer deflationary meme token that passively rewards its holders with a 2% tax redistribution for all transactions.

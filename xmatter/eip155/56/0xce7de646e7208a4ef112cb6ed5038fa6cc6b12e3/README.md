@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ec0c2c"
+icons:
+  - icon.png
 ---
 
 TRON is a dedicated to build the infrastructure for a truly decentralized Internet.

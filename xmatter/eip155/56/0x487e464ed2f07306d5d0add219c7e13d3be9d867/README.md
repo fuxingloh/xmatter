@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0b2c04"
+icons:
+  - icon.png
 ---
 
 The xHunter is a community driven platform that aims to bridge the gap between blockchain and the outdoors. Our goal is to be the gateway for all outdoor enthusiasts into the crypto world. This will be made possible through outdoor events, adventure store and our very own NFT game.

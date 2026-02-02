@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 $ALPHA embodies the essence of being a true alpha and a GIGA Chad

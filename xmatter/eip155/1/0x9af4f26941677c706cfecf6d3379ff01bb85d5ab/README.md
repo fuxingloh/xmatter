@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ea5668"
+icons:
+  - icon.png
 ---
 
 DomRaider network is an open-source blockchain dedicated to the decentralization of auctions in real time. It will be transparent, reliable, adaptable and interoperable, without compromising on speed.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e2ece4"
+icons:
+  - icon.png
 ---
 
 Addax is a crypto currency with a purpose to tackle real world problems such as climate change, famine, public healthcare, poverty, children in need, education, gender inequality, marine conservation and wildlife conservation through every transaction.

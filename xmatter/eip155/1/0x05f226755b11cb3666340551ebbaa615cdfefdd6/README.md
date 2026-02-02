@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#60aad8"
+icons:
+  - icon.png
 ---
 
 A meme coin blending Trump’s persona with viral humor, empowering a fun and engaged crypto community.

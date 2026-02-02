@@ -12,6 +12,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#fa050c"
+icons:
+  - icon.png
 ---
 
 Tron Bull :The Symbol for Encouragement

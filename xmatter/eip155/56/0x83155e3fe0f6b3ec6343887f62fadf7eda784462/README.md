@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#40200f"
+icons:
+  - icon.png
 ---
 
 Step into Zimomo’s quirky universe! Explore its story and discover the unexpected!

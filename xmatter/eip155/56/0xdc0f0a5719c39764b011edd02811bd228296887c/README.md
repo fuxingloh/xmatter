@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#615e59"
+icons:
+  - icon.png
 ---
 
 DOS Network describes itself as a decentralized oracle service supporting multiple heterogeneous blockchains.

@@ -32,6 +32,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d8266d"
+icons:
+  - icon.png
 ---
 
 The future of the arcade is here! ChainCade is developing its one-of-a-kind blockchain arcade ecosystem to benefit players, creators, and investors together. Join the arcade revolution.

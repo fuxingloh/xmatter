@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fac304"
+icons:
+  - icon.png
 ---
 
 slisBNB Non-Transferable Receipt

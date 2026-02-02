@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3068e0"
+icons:
+  - icon.png
 ---
 
 A digital asset denominated in hryvnia and backed by a basket of top stablecoins.

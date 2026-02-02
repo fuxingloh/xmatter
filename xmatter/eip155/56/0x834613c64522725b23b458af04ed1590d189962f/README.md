@@ -33,6 +33,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f5e4de"
+icons:
+  - icon.png
 ---
 
 DKKS is project to makes the lives of all those who believe in the project always lucky in life, enrich spiritually ,materially and help people in the world.

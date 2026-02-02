@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#080606"
+icons:
+  - icon.png
 ---
 
 SAFEPIT is an auto liquidity and reflective token on BSC. Join our telegram safepitofficial or visit website to learn more.

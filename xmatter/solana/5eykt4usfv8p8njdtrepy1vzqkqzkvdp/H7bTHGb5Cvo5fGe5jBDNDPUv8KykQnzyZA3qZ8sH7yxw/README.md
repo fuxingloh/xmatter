@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#df3323"
+icons:
+  - icon.png
 ---
 
 Say hello, to $Gummy, a 420 weed gummy bear, ready to take the solana ecosystem by storm.

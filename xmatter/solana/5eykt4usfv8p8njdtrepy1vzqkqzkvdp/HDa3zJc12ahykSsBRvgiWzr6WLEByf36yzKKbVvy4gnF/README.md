@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#050507"
+icons:
+  - icon.png
 ---
 
 SolanaSwap is a DEFI tool on the Solana chain and an autonomous community and non-profit organization.

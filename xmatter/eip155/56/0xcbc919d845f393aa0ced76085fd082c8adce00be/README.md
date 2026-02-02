@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#004f9e"
+icons:
+  - icon.png
 ---
 
 Contribute to making a better world with blockchain technology as a project enabler.

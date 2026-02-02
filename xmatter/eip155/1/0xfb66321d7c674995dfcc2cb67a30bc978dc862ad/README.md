@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ec9710"
+icons:
+  - icon.png
 ---
 
 Learning from past token mistakes, blacklisting some investors. Pepe 2.0 wants to make things right and redo his billion-dollar run.

@@ -39,6 +39,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6fa3c3"
+icons:
+  - icon.png
 ---
 
 Bit Hotel is a social-first pixel-art gaming metaverse, in which users can hang out, compete for leaderboard rewards and earn income. All in-game items, such as characters, rooms and furniture are on-chain NFTs and all have their own unique perks and advantages.

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#007aff"
+icons:
+  - icon.png
 ---
 
 VITE(Vite) is a lightning-fast blockchain where transactions incur zero fees.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#45246b"
+icons:
+  - icon.png
 ---
 
 Agrello is building a blockchain-based digital ID solution for individuals and businesses.

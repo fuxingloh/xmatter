@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#ed950b"
+icons:
+  - icon.png
 ---
 
 Bonk is the first Solana dog coin for the people, by the people with 50% of the total supply airdropped to the Solana community. The Bonk contributors were tired of toxic “Alameda” tokenomics and wanted to make a fun memecoin where everyone gets a fair shot.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fcb31b"
+icons:
+  - icon.png
 ---
 
 TNB is token represent to Miao'A International Timechain (M.I.T). That is dedicated to building a precision time-valuebased transmission network.

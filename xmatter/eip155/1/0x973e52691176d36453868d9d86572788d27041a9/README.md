@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f2a213"
+icons:
+  - icon.png
 ---
 
 DxChain is the world’s first decentralized big data and machine learning network powered by a computing-centric blockchain.

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#bdb3ae"
+icons:
+  - icon.png
 ---
 
 Balls of Fate: Cryptocurrency with character. And balls

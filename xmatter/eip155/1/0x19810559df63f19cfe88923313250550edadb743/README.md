@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbfbf2"
+icons:
+  - icon.png
 ---
 
 HOUSE is a fixed-supply token in the Toast.finance ecosystem.

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#154cb9"
+icons:
+  - icon.png
 ---
 
 Battle Infinity is a gaming platform with multiple P2E battle games which is integrated with the metaverse world.

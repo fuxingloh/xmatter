@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc043c"
+icons:
+  - icon.png
 ---
 
 Corite is a blockchain-based music platform jointly powered by fans and artists to finance and promote music in a unique Engage-to-Earn (E2E) model.

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#a58372"
+icons:
+  - icon.png
 ---
 
 $HAWK isn’t just a Meme Coin, it’s a part of the culture.

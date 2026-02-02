@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#05248a"
+icons:
+  - icon.png
 ---
 
 Crypterium is building a mobile app that lets users spend cryptocurrency in everyday life.

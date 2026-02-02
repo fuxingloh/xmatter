@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a2771b"
+icons:
+  - icon.png
 ---
 
 smART OF GIVING (AOG) is an idea-turned-reality that envisioned a unique model to generate funds for charities without asking for monetary donation.

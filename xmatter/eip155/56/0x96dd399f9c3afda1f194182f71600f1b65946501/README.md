@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2595f9"
+icons:
+  - icon.png
 ---
 
 COS is the native asset in the Contentos blockchain: it is used for voting, paying gas fee for smart-contract execution, and simple transaction fee.

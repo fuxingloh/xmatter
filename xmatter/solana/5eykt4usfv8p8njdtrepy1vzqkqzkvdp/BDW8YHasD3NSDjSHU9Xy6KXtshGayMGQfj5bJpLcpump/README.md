@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 The first multi-chain AI Agent launchpad by @HieroHQ. Deploy once. Run Anywhere.

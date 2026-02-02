@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#251e0b"
+icons:
+  - icon.png
 ---
 
 Acute Angle Cloud (AAC) is a cryptocurrency and operates on the Ethereum platform.

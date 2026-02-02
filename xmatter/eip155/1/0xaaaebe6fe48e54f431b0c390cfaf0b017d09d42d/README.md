@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4354a4"
+icons:
+  - icon.png
 ---
 
 The Celsius Network will be the next generation of lending and borrowing for the cryptocurrency community.

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#e2dbcc"
+icons:
+  - icon.png
 ---
 
 Bozo is a community memecoin created by https://x.com/Bozocollective.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fcd434"
+icons:
+  - icon.png
 ---
 
 At one million dollar coin you are more than just an investor. You’re an owner.

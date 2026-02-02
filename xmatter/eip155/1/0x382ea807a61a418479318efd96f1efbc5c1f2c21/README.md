@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a7a889"
+icons:
+  - icon.png
 ---
 
 Pepe in a Memes World 'Pepe in a Memes World' is a vibrant and humorous meme project that celebrates the iconic Pepe the Frog as he navigates through the whimsical and unpredictable universe of internet memes.

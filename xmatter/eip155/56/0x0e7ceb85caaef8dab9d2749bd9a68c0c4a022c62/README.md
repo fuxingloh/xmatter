@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#222229"
+icons:
+  - icon.png
 ---
 
 KORBIT COIN is a multi blockchain wallet

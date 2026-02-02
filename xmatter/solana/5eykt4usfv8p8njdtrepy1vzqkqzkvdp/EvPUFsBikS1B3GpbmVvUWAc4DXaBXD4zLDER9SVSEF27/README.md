@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#fac72e"
+icons:
+  - icon.png
 ---
 
 In the dynamic and ever-evolving world of cryptocurrencies, innovation and originality constantly find new avenues for expression. One of the latest and most intriguing embodiments of this trend is Chad Cat, a meme token inspired by the internet culture of memes and built on the powerful and scalable Solana blockchain platform.

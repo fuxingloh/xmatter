@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ee9b38"
+icons:
+  - icon.png
 ---
 
 The Memes Token

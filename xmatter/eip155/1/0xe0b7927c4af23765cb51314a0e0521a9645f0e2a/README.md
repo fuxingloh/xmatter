@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b99758"
+icons:
+  - icon.png
 ---
 
 DigixDAO (DGD) is building a decentralized autonomous organization (DAO) that specializes in the tokenization of physical assets.

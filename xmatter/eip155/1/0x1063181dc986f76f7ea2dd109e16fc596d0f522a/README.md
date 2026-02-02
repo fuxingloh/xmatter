@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Cybria is a Layer 2 blockchain platform built on top of the Ethereum network.

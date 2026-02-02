@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fca404"
+icons:
+  - icon.png
 ---
 
 A Community driven, fair launched DeFi Token. Renounced & burnt.

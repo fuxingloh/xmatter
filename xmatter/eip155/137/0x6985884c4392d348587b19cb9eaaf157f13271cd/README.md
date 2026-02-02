@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f1f1f1"
+icons:
+  - icon.png
 ---
 
 LayerZero is a technology that enables applications to move data across blockchains, uniquely supporting censorship-resistant messages and permissionless development through immutable smart contracts

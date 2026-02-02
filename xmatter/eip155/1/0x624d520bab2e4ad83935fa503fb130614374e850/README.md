@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#645cf4"
+icons:
+  - icon.png
 ---
 
 Smartshare (SSP) is a cryptocurrency and operates on the Ethereum platform.

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2cace4"
+icons:
+  - icon.png
 ---
 
 Wrapped Mirror TWTR Token.

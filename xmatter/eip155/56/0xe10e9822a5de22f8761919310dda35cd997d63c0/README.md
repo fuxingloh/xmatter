@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#646484"
+icons:
+  - icon.png
 ---
 
 THUGS is a Binance Smart Chain DeFi Token with a burn mechanism, forever locked initial liquidity & the centerpiece of the Thugs Fi ecosystem (StreetSwap Exchange, Traphouse Yield Farm & NFT Marketplace).

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f8c23a"
+icons:
+  - icon.png
 ---
 
 ARTC is the smartest way to be involved with crypto. ART COIN brings everything under one format for utility of your crypto.

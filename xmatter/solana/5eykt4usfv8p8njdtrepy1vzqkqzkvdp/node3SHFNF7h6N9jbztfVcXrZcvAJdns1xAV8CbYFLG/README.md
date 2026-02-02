@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f4dae4"
+icons:
+  - icon.png
 ---
 
 The fastest private nodes on Solana.

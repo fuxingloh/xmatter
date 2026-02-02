@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#232323"
+icons:
+  - icon.png
 ---
 
 Gaia is the algorithmic reserve asset in Dollar Protocol's f-series

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Delysium is building AI-powered virtual society with $AGI. Delysium has been constructing a virtual world where 1 billion individuals and 100 billion AI Virtual Beings coexist on blockchain.

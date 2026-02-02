@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#171922"
+icons:
+  - icon.png
 ---
 
 TenX is a payment platform that facilitates digital and physical modes of transaction for cryptocurrencies to any merchant, even if they don’t accept cryptocurrencies. Physical and digital modes of course, include bank accounts, wallets, debit cards, cash and much more.

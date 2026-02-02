@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b4d434"
+icons:
+  - icon.png
 ---
 
 COCOPAD IS THE BEST DECENTRALIZED IDO PLATFORM FOR THE # BSC - BINANCE SMART CHAIN NETWORK.

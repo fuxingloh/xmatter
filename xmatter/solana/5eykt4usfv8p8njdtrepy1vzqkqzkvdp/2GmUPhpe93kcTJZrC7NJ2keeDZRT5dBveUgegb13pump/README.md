@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#1d1918"
+icons:
+  - icon.png
 ---
 
 TruthChain is building decentralized Community Notes for LLMs.

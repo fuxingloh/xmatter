@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#34c47d"
+icons:
+  - icon.png
 ---
 
 Carry (CRE) is a cryptocurrency and operates on the Ethereum platform.

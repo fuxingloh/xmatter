@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3a432"
+icons:
+  - icon.png
 ---
 
 InfinitUP is a rebase token that also rewards in WBNB.

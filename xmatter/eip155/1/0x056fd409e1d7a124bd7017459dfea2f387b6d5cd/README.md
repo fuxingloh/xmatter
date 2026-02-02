@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#00d8f8"
+icons:
+  - icon.png
 ---
 
 The 1:1 USD-backed stablecoin built by a secure, trusted, and regulated cryptocurrency exchange.

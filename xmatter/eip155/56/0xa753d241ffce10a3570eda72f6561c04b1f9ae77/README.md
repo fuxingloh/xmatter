@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ee4872"
+icons:
+  - icon.png
 ---
 
 TitsV2coin dedicated to crypto lovers around the world who encourage breast cancer awareness and the enhancement or correction done by breast augmentation.

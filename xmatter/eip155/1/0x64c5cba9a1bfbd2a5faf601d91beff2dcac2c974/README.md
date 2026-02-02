@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8e970a"
+icons:
+  - icon.png
 ---
 
 Mystery the frog in ‘The Nightriders’ by Matt Furie, the artist behind Pepe. Mystery the most memeable memecoin in existence. You wanted a second chance at PEPE, join the community to find out what the mystery cult is about.

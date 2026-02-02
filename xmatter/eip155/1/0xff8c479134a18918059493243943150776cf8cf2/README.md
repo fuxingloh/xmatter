@@ -34,6 +34,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b64ea4"
+icons:
+  - icon.png
 ---
 
 Renq aims to connect all isolated blockchains and establish a cross-chain asset exchange network, providing all necessary underlying support for the DeFi ecosystem. Let every digital asset holder experience a truly safe, free and transparent DeFi service.

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#4b402f"
+icons:
+  - icon.png
 ---
 
 Skibidi is a unique Solana memecoin inspired by the viral Skibidi Toilet phenomenon, combining humor with blockchain technology. The project aims to engage a community of enthusiasts through a fun and meme-centric ecosystem.

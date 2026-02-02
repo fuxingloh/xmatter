@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7065fc"
+icons:
+  - icon.png
 ---
 
 UNION's cornerstone of full stack protection reduces the risks and costs of DeFi

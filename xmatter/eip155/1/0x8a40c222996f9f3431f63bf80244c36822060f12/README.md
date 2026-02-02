@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc7e40"
+icons:
+  - icon.png
 ---
 
 Finxflo is the world's first hybrid liquidity aggregator designed to offer the best rates and prices from the world’s leading CeFi and DeFi protocols through one connection, one account and one KYC process.

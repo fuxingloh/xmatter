@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eadee4"
+icons:
+  - icon.png
 ---
 
 AstroPup ($ASTRO) is a lighthearted deflationary meme token, with a 10% tax applied to every transaction.

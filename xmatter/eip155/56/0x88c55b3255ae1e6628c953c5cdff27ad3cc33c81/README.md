@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b0b4b1"
+icons:
+  - icon.png
 ---
 
 My Defi Legends is a complete metaverse of Digital Heroes that live on the Binance Smart Chain (BSC), which allows millions of people to join the NFT & blockchain-based gaming world in an easy, creative and fun way.

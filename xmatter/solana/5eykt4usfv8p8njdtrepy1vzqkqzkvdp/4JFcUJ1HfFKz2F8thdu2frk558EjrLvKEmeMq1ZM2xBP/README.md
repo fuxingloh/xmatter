@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#d65991"
+icons:
+  - icon.png
 ---
 
 VentureMind AI is a decentralized application platform built on the Solana blockchain, designed to provide AI tools, robotics, and Web3 integrations in a single ecosystem

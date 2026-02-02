@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eebcbc"
+icons:
+  - icon.png
 ---
 
 There's still oceans to explore in this crypto space. Build forward.

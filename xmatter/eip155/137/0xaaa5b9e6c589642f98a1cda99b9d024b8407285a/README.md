@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#141423"
+icons:
+  - icon.png
 ---
 
 Multi-chain Partial-Collateralized Stablecoin

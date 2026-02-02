@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#173c87"
+icons:
+  - icon.png
 ---
 
 Bondly is an interoperable, transparent and portable swap protocol designed to revolutionize traditional escrow methods and make everyone into their own digital marketplace.

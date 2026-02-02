@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Byte Masons empower communities with Web3 & DeFi tools to provide financial opportunities for all.

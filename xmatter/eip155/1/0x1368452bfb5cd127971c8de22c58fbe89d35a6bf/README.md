@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fab937"
+icons:
+  - icon.png
 ---
 
 Jointer’s Decentralized Finance (DeFi) Auction

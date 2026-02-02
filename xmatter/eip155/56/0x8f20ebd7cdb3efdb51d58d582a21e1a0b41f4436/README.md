@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#12171a"
+icons:
+  - icon.png
 ---
 
 Unagi is a RFI tokenomics token - Reflection paid back to holders.

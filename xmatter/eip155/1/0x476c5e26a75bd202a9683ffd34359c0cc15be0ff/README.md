@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#64d9e7"
+icons:
+  - icon.png
 ---
 
 Project Serum describes itself as a functional decentralized exchange with trustless cross-chain trading, at the speed and price that customers want.

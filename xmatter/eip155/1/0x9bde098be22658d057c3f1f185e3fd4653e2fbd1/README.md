@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e72b77"
+icons:
+  - icon.png
 ---
 
 An Advanced & Incentive Enabled Decentralize Financial System

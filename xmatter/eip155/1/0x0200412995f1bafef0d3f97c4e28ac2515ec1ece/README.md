@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5ea3fa"
+icons:
+  - icon.png
 ---
 
 Follow Coin is the platform to excel in trading in the Cryptocurrency world! You can follow and copy influencers with the highest reputation and much more!

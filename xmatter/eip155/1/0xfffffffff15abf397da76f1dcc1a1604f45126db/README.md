@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2b6cec"
+icons:
+  - icon.png
 ---
 
 The Powerhouse for DeFi

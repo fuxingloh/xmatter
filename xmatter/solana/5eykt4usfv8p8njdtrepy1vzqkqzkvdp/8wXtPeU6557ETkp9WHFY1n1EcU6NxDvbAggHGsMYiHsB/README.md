@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#191617"
+icons:
+  - icon.png
 ---
 
 GME coin on sol is a meme paying tribute to the 2021 short squeeze of GameStop

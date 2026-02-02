@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#e7dfdb"
+icons:
+  - icon.png
 ---
 
 Solana native cat coin $MANEKI, is a symbol of good luck, success, prosperity, wisdom and leadership.

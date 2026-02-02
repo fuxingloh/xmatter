@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b95e0a"
+icons:
+  - icon.png
 ---
 
 The CoinShares Gold and Cryptoassets Index Lite (CGI) employs risk control tools and a monthly rebalancing mechanism to lower volatility, while generating superior risk-adjusted returns.

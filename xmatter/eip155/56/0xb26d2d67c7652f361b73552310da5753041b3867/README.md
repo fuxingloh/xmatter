@@ -12,6 +12,7 @@ name: Binapet
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 Binapet deprecated token.

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c35c94"
+icons:
+  - icon.png
 ---
 
 Moca Network is building the chain-agnostic digital identity infrastructure for the open internet - one universal account for your assets, identity, and reputation across multiple ecosystems. Moca Network leverages Animoca Brands portfolio ecosystem of 540+ companies to tap into 700M+ addressable users.

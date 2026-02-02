@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c5c4b8"
+icons:
+  - icon.png
 ---
 
 Pepe Unchained The future of meme coins. A Layer 2 blockchain built for Speed, Security, Low Fees–and of course–Memes.

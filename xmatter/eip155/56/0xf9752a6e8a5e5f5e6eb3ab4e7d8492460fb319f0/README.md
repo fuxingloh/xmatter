@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#32adf0"
+icons:
+  - icon.png
 ---
 
 A chain-verified decentralized cross-chain oracle service protocol to provide secure and reliable data services for the interconnection of the chain and the digital economy.

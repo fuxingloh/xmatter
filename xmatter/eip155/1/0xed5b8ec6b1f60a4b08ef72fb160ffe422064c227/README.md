@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c0c0c"
+icons:
+  - icon.png
 ---
 
 Trendering uses realtime Ethereum blockchain analysis to predict market movements of ERC20 tokens & more!

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2121ad"
+icons:
+  - icon.png
 ---
 
 Linear Finance is a cross-chain compatible, decentralized delta-one asset protocol to cost-effectively and instantly create, manage, and trade synthetic assets with unlimited liquidity

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#371da9"
+icons:
+  - icon.png
 ---
 
 Trade crypto and forex assets with up to 100x leverage on the world’s most advanced decentralized trading platform.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#232f1b"
+icons:
+  - icon.png
 ---
 
 Dare you watch him plummet?

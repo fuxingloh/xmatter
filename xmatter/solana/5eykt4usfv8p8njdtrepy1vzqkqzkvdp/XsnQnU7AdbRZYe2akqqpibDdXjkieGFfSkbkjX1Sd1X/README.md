@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#04928b"
+icons:
+  - icon.png
 ---
 
 Merck xStock (MRKx) is a tracker certificate issued as Solana SPL and ERC-20 tokens. MRKx tracks the price of Merck & Co., Inc. (the underlying). MRKx is designed to give eligible cryptocurrency market participants regulatory-compliant access to the stock price of Merck & Co., Inc., whilst maintaining the benefits of blockchain technology. Merck, is a global biopharmaceutical company focused on developing and delivering innovative health solutions.

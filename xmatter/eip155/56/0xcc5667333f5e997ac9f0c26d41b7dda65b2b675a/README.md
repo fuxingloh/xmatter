@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7d4d1e"
+icons:
+  - icon.png
 ---
 
 Building a secure DeFi ecosystem to help bring creative ideas to life and protect early investors' funds.

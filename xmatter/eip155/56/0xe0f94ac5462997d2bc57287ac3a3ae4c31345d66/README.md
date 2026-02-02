@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c29013"
+icons:
+  - icon.png
 ---
 
 CEEK VR

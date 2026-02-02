@@ -39,6 +39,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a1a2b0"
+icons:
+  - icon.png
 ---
 
 Panther Protocol Token on Polygon

@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#080706"
+icons:
+  - icon.png
 ---
 
 Orca is the easiest place to exchange cryptocurrency on Solana.

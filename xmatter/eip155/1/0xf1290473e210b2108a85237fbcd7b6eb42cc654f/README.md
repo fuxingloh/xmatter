@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3dc795"
+icons:
+  - icon.png
 ---
 
 HedgeTrade aims to become a platform where the world’s best traders share their knowledge.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e1ae5c"
+icons:
+  - icon.png
 ---
 
 Oscar is a famous meme featuring a Shiba on a trampoline that went viral on the internet.

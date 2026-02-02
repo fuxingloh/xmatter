@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4b4bf4"
+icons:
+  - icon.png
 ---
 
 Noku develops blockchain platforms. Noku has released Nokuchain: a blockchain designed to raise up the NFTs performance for gaming applications.

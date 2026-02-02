@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04f3fb"
+icons:
+  - icon.png
 ---
 
 ORA's core technology is opML (Optimistic Machine Learning), which enables AI inference, fine-tuning and training onchain in a trustless and verifiable way.

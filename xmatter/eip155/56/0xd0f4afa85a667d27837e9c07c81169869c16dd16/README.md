@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9ba1a"
+icons:
+  - icon.png
 ---
 
 Chain signatures, secret chain transactions and hashed wallet addresses are used to hide sender-recipient addresses and transaction amounts. Chain signatures are defined as digital contracts that can be signed by all users belonging to a group, who have the key.

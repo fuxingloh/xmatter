@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#b7b7b7"
+icons:
+  - icon.png
 ---
 
 DIGGER AI is a Telegram-based ecosystem of bots designed to enhance “degen trading” by providing traders with real-time data, insights, and advanced tools for better decision-making

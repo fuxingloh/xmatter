@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 SUBX FINANCE LAB is a blockchain-as-a-service provider for businesses to integrate web3 technologies into their products and services.

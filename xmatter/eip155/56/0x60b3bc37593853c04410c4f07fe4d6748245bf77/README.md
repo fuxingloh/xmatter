@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fb0404"
+icons:
+  - icon.png
 ---
 
 SHIELD is a Second Layer Security Platform based on the Binance Smart Chain

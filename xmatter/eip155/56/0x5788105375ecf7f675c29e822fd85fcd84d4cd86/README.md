@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eef2f9"
+icons:
+  - icon.png
 ---
 
 HODL is a community driven DeFi project built on Binance Smart Chain. HODL brings the most revolutionary mechanism to BSC ecosystem.

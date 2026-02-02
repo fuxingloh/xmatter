@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bd966a"
+icons:
+  - icon.png
 ---
 
 Ethervista is a value-compounding deflationary token, the native currency for the EthervistaDEX

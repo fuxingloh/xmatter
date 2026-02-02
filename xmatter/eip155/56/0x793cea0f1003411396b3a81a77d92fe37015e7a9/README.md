@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#24b374"
+icons:
+  - icon.png
 ---
 
 $CBC (Carbon Coin) is released on the basis of BINANCE SMART CHAIN platform and fully complies with BEP20\* standard.

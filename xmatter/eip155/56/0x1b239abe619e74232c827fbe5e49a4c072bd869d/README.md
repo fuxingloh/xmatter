@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#922c8a"
+icons:
+  - icon.png
 ---
 
 A decentralized reserve currency protocol with the aim of mitigating volatility of traditional cryptocurrencies while not being pegged to any fiat currencies.

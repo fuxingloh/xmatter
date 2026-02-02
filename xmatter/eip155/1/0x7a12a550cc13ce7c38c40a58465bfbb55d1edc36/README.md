@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e8a818"
+icons:
+  - icon.png
 ---
 
 CubeBit is an innovative and extensive platform that tenders effortless, transparent, and secure way to grow your digital assets.

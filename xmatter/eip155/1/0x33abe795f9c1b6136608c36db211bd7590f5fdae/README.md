@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f6d34b"
+icons:
+  - icon.png
 ---
 
 #Landwolf is Pepe’s best friend.

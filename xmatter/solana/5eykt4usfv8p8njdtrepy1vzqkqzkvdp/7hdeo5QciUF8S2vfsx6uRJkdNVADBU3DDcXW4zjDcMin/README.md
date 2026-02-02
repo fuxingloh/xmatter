@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#050406"
+icons:
+  - icon.png
 ---
 
 +70 partnershis since the 2021 launch including BNB Chain, Unstoppable Domains, NodeReal, Moralis, DAO Maker, GameFi.org, U Cluj Footbal Club, Gate.io, Multivers X, Untold Festival and more.

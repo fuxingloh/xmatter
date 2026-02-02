@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#16bf81"
+icons:
+  - icon.png
 ---
 
 Hawksight is a DeFi super-app for Everyone.

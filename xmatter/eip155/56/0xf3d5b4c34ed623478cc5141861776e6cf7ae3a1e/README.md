@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c343b"
+icons:
+  - icon.png
 ---
 
 KGEN is the native token of the KGeN Protocol, the world’s largest Verified Distribution Layer, built on real human users and designed to accelerate business growth across AI, DeFi, consumer applications, and digital economies.

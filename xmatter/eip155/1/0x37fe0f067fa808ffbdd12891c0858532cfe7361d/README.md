@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#476d88"
+icons:
+  - icon.png
 ---
 
 The World's First 100% Decentralized Investment Fund (DIF)

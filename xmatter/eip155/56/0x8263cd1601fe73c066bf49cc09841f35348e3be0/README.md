@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5b8cfb"
+icons:
+  - icon.png
 ---
 
 Altura is the next generation gaming NFT platform.

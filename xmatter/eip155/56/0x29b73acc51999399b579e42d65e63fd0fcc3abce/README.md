@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#182e55"
+icons:
+  - icon.png
 ---
 
 Create your experience ideas, make money, With SpaceNFT digital marketplace

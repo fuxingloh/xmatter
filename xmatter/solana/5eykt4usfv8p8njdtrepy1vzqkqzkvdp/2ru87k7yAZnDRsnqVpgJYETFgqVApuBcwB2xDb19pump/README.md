@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#e1e0e1"
+icons:
+  - icon.png
 ---
 
 BIAO combines the humor of Asian meme culture with the universal appeal of pandas to create a lighthearted cryptocurrency that spreads good vibes. With its focus on community, creativity, and fun, BIAO is more than a token—it's a movement to inspire connection and shared joy.

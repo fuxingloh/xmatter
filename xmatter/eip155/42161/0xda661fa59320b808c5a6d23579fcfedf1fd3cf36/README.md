@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3780f6"
+icons:
+  - icon.png
 ---
 
 An Optimized Yield-Farming platform combining the best of DeFi and Gaming NFTs. Creating a truly Free To Play Play To Earn Ecosystem on the Binance Smart Chain

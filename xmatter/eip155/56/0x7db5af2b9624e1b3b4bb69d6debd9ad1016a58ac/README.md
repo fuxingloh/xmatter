@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3c3c3c"
+icons:
+  - icon.png
 ---
 
 Volt Inu is a hyper-deflationary token whose aim is to invest in multiple asset classes such as NFTs, nodes, altcoins, staking & farming of stablecoins. This investment diversity allows to mitigate the risk while taking advantage of the possible non-correlated growth of the trending assets.

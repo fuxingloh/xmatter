@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#187cd8"
+icons:
+  - icon.png
 ---
 
 Brixel War - A Play-to-Earn game based on Smart Chain.

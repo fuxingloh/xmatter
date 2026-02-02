@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fb4c81"
+icons:
+  - icon.png
 ---
 
 Polychain Monsters are beautifully animated digital collectibles with varying scarcities. Each Polychain Monster is backed by a truly unique NFT and can be unpacked with $PMON tokens.

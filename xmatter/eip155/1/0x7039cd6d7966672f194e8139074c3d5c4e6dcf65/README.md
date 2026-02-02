@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e6984b"
+icons:
+  - icon.png
 ---
 
 Super Trump Coin is a pioneering cryptocurrency leveraging blockchain technology to pay homage to the political legacy of Donald Trump

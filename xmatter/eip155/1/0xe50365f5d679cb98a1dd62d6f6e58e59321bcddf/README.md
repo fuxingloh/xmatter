@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#141c3c"
+icons:
+  - icon.png
 ---
 
 LATOKEN aims to transform access to capital, and enables cryptocurrencies to be widely used in the real economy by making real assets tradable in crypto.

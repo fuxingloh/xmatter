@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8648ea"
+icons:
+  - icon.png
 ---
 
 Nettensor aims to provide and enables AI Infrastructure on blockchain.

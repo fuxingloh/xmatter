@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#d49669"
+icons:
+  - icon.png
 ---
 
 BOOK OF BULLRUN THE MASTERPLAN ABOUT THE BIGGEST BULLRUN

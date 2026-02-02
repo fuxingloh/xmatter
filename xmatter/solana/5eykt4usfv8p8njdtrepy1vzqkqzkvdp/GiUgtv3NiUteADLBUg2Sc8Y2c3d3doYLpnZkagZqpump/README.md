@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#7c8fa8"
+icons:
+  - icon.png
 ---
 
 Bloodline Chanting My Name: This part of the phrase metaphorically represents the idea that your ancestors, or your familial lineage (bloodline), are spiritually or symbolically chanting your name. In many cultures, chanting is used for spiritual practices, meditation, or to honor deities or ancestors

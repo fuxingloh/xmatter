@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#181b20"
+icons:
+  - icon.png
 ---
 
 Pangu's strongest team, called all the original team, made every effort to build a small FIST Fist, and made the coin chain great again

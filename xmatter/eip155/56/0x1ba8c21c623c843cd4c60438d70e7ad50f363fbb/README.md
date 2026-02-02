@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#18ba54"
+icons:
+  - icon.png
 ---
 
 srnArtGallery is a union of NFT artists and offer users a chance to own its NFT.

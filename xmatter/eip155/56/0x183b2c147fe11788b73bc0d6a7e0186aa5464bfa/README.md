@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6c4be3"
+icons:
+  - icon.png
 ---
 
 Futura aims to build a decentralized escrow system built on the Binance Smart Chain that focuses on Web 3.0 functionalities for the next generation of payments processing.

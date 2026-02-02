@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1f5776"
+icons:
+  - icon.png
 ---
 
 The Genaro Network is the first Turing-complete public blockchain combining peer-to-peer storage with a sustainable consensus mechanism. Genaro's mixed consensus uses SPoR and PoS, ensuring stronger performance and security.

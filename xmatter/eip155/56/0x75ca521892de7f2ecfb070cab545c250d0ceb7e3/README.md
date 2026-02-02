@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#045c84"
+icons:
+  - icon.png
 ---
 
 PVC Meta is your premier source for everything cryptocurrency related. PVC Meta is definitely the most trusted and leading cryptocurrency on all digital platforms which is based on Binance smart chain

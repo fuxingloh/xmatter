@@ -19,6 +19,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3a32c"
+icons:
+  - icon.png
 ---
 
 DAO dedicated to building products and infrastructure to bring Bitcoin to DeFi.

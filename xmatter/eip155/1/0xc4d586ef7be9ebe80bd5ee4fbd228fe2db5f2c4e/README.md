@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#daba81"
+icons:
+  - icon.png
 ---
 
 Add PHIBA- Papa Shiba logo and info

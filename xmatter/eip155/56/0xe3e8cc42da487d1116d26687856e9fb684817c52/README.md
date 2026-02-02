@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#193a1b"
+icons:
+  - icon.png
 ---
 
 A Community Oriented Project, with Rastafarian Ideology, deployed on the Binance Smart Chain.

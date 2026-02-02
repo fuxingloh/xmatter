@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f7d15b"
+icons:
+  - icon.png
 ---
 
 Afen Blockchain is Revolutionizing Opportunities Through Blockchain

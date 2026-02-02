@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bdbdbd"
+icons:
+  - icon.png
 ---
 
 Navcoin is a cutting edge privacy coin governed by a community driven DAO fund with the ability to wrap coins for use in the DEFI universe. All backed by the eco-friendly proof-of-stake mining model.

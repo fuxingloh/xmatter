@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cdb8c6"
+icons:
+  - icon.png
 ---
 
 Jerry Inu is on the way to creating a trend and a new game in the field of Memecoins and Jerry Inu will be the leader in this competitive meme game.

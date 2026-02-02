@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c5cf08"
+icons:
+  - icon.png
 ---
 
 Token to fight for Worldwide Hemp Legalization.

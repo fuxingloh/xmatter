@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#060607"
+icons:
+  - icon.png
 ---
 
 As the foundational asset of the decentralized Bitget Wallet ecosystem, BWB empowers holders with exclusive benefits, including governance rights within our communities and eligibility for future rewards.

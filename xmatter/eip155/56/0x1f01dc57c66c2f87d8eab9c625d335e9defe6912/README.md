@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3bb0c"
+icons:
+  - icon.png
 ---
 
 Wrapped ZCore is a tokenized version of ZCore (ZCR) that runs on the Binance Smart Chain (BSC) blockchain.

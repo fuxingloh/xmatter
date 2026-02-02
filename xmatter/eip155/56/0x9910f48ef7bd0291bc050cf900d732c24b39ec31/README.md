@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ebd4b4"
+icons:
+  - icon.png
 ---
 
 MARS INU is a decentralized cryptocurrency token built on Binance Smart Chain network. It was created with the community and investor in mind.

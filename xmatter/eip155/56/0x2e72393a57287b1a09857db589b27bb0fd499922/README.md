@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#daeae0"
+icons:
+  - icon.png
 ---
 
 Happy Cat refers to a viral video of a cat jumping behind a glass door. First appearing in 2015, versions of the clip have appeared on TikTok and YouTube, where it has been paired with the Happy Happy Happy sound effect and used in various edits and exploitables, often paired with other cats

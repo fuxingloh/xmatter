@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7bb5ef"
+icons:
+  - icon.png
 ---
 
 MoveZ is project of MoveToEarn. Users can walk, swim, surf, lift-Move and earn token.

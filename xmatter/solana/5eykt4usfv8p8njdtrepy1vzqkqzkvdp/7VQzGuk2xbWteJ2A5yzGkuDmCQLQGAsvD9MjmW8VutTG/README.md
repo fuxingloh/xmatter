@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#cbc3c1"
+icons:
+  - icon.png
 ---
 
 Secrot Servoce is a dynamic meme coin operating within the Solana blockchain, embodying the essence of the PolitiFi narrative

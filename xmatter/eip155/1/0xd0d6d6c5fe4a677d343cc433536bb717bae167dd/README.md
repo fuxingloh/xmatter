@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f1f1f2"
+icons:
+  - icon.png
 ---
 
 adChain is a browser agnostic Ethereum based solution for digital advertising that seamlessly integrates with pre-existing RTB and programmatic industry standards.

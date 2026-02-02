@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3dbc2"
+icons:
+  - icon.png
 ---
 
 BNB Card

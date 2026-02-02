@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#151212"
+icons:
+  - icon.png
 ---
 
 just a lil shork

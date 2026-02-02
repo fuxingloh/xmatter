@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#efeff4"
+icons:
+  - icon.png
 ---
 
 BMX by Morphex is a spot and margin DEX on Base, focusing on capital efficiency for liquidity providers.

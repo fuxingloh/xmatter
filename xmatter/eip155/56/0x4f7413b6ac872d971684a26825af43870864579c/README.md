@@ -19,6 +19,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04a4ec"
+icons:
+  - icon.png
 ---
 
 A Huge Ecosystem on Blockchain

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f7c254"
+icons:
+  - icon.png
 ---
 
 Chedda Sol is the relaunch of the original Chedda Token, that started the 'cheese meta' on the Ethereum Network.

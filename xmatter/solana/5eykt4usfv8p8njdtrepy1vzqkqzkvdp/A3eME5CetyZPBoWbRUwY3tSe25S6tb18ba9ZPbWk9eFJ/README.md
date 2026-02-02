@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#cbfafa"
+icons:
+  - icon.png
 ---
 
 Welcome to $PENG, the icy addition to the Solana blockchain! Our small yet mighty penguin, with a hint of Pepe the Frog, brings a fresh breeze of creativity to the degen world of Solana.

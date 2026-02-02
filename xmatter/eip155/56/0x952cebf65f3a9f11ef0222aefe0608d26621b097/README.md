@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#aed3eb"
+icons:
+  - icon.png
 ---
 
 EDXA Dex and Yield Farm

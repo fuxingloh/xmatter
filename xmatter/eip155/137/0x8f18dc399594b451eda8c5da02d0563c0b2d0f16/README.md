@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c144d"
+icons:
+  - icon.png
 ---
 
 Moonwolf is a deflationary token on Matic / Polygon

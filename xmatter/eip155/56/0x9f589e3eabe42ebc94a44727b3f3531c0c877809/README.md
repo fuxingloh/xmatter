@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#057ca3"
+icons:
+  - icon.png
 ---
 
 The first local Indonesian Crypto Asset Project to offer a unique hybrid token model.

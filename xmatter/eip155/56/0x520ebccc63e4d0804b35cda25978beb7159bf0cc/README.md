@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#772abc"
+icons:
+  - icon.png
 ---
 
 LEGOCOIN is a social meme token and reward, with goals to contribute in social and creativity movement all around the world through your favorite toys: LEGO .

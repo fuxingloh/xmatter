@@ -29,6 +29,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Decentralization is great for democratizing finance, but along with it comes massive fragmentation of the user experience. Lunar believes it is time to re-centralize DeFi around the most important part of the network: The user. This begins with their DeFi application, Lunar, that aims to streamline the entire process of crypto and NFT trading into one intuitive interface". Lunar replaces the 10+ seperate tools needed to trade and research crypto with a single platform that gives users near-instant access to the functionality they need.

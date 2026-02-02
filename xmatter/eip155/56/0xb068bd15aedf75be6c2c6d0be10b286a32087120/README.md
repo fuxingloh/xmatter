@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#12f4b2"
+icons:
+  - icon.png
 ---
 
 TokeNoid is developing games using the blockchain technology for their transactions. More game, More utility for NOID.

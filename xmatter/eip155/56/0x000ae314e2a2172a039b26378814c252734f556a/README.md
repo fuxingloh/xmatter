@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f7d2a7"
+icons:
+  - icon.png
 ---
 
 Aster is a next-generation decentralized exchange offering both Perpetual and Spot trading, designed as a one-stop onchain venue for global crypto traders. It features MEV-free, one-click execution in Simple Mode. Pro Mode adds 24/7 stock perpetuals, Hidden Orders, and grid trading, available across BNB Chain, Ethereum, Solana, and Arbitrum.

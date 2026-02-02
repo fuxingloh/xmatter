@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0ccbf4"
+icons:
+  - icon.png
 ---
 
 WINGS combines several concepts, ranging from attention rewards, forecasting markets, smart contracts, governance models and federated funds security.

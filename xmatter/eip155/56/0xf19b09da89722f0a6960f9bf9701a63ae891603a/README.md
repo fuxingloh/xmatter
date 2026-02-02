@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#181c2d"
+icons:
+  - icon.png
 ---
 
 TetraHedra is an arabic leading Token that has many unique features it is a must to read about us so you can have a better understanding about the nature of our defi process.

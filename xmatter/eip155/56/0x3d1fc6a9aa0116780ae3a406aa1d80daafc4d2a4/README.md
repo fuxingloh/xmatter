@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#201820"
+icons:
+  - icon.png
 ---
 
 Project: Z is a fully decentralized, community-driven project to create a game of all games connected with cryptocurrency.

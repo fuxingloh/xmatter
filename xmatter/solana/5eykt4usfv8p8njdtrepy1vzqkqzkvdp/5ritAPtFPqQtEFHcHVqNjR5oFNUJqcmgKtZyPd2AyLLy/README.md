@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#1369f1"
+icons:
+  - icon.png
 ---
 
 The first ever reverse meta coin on Solana Chain

@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b06e7c"
+icons:
+  - icon.png
 ---
 
 Leonicorn Swap is an Advance AMM with features Like NFT Marketplace, Lottery, IDO and many other advanced features.

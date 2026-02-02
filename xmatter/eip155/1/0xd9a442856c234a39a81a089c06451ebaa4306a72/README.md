@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#47b9b6"
+icons:
+  - icon.png
 ---
 
 Puffer is a decentralized native liquid restaking protocol (nLRP) built on Eigenlayer. It makes native restaking on Eigenlayer more accessible, allowing anyone to run an Ethereum Proof of Stake (PoS) validator earning extra revenue through EigenLayer AVSs.

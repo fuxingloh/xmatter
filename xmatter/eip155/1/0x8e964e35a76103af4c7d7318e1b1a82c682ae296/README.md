@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#06f09d"
+icons:
+  - icon.png
 ---
 
 Fellaz introduces an immersive multi-chain Web3 entertainment ecosystem that integrates the metaverse, Web3 technologies, and a robust tokenomics framework.

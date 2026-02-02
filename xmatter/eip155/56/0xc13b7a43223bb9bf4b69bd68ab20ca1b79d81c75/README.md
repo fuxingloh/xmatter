@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cec9bf"
+icons:
+  - icon.png
 ---
 
 Juggernaut is a complete custom DeFi synthetics suite, governance, and NFT ecosystem + marketplace.

@@ -18,6 +18,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#1f1810"
+icons:
+  - icon.png
 ---
 
 NetcoinCapital is blockchain based project it's made for financial service, technology & future

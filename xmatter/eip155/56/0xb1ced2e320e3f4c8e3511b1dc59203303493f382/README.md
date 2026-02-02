@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#041434"
+icons:
+  - icon.png
 ---
 
 Hold Moonlight Token to get premium access to Bubblemaps

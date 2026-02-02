@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f7b927"
+icons:
+  - icon.png
 ---
 
 Small - but most aggressive brother of Doge Coin!

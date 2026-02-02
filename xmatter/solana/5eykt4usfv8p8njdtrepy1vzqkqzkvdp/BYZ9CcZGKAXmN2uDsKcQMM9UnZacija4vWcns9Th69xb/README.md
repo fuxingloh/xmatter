@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#040604"
+icons:
+  - icon.png
 ---
 
 Botify.cloud is the Shopify of Crypto, featuring a Marketplace and an AI Agent & Bot Creation Hub.

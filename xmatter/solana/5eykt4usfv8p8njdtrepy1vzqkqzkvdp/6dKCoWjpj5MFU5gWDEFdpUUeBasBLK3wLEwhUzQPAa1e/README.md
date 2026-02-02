@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#a3b38c"
+icons:
+  - icon.png
 ---
 
 The CHEX token is the utility token of the Chintai Network. Its primary use is for resource handling on the network and for helping to increase liquidity on the platform through a variety of incentive methods.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2099d9"
+icons:
+  - icon.png
 ---
 
 Zeedex is a decentralized exchange where users can trade, stake, lend and borrow cryptocurrencies.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2d2d2d"
+icons:
+  - icon.png
 ---
 
 GOLDX app lets you buy investment grade gold and turn it into an Ethereum compatible asset from your phone, from as low as 1 USDC.

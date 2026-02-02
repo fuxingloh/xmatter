@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8059dc"
+icons:
+  - icon.png
 ---
 
 The OpenEden OpenDollar (“USDO') is a rebasing yield-bearing stablecoin issued by OpenEden Digital ('OED'), a Bermuda Monetary Authority ('BMA') licensed digital asset issuer.

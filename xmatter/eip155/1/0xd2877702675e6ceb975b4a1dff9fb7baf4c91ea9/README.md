@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fcdc5c"
+icons:
+  - icon.png
 ---
 
 Luna is the native staking token recognized by the Terra protocol.

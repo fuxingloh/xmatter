@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3de7fb"
+icons:
+  - icon.png
 ---
 
 PandaInu is a meme-based token & Defi Wallets

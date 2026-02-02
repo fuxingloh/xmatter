@@ -29,6 +29,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ab9776"
+icons:
+  - icon.png
 ---
 
 The Coin with his Brand Ambassador Castello Cube acts as a bridge between the traditional financial world of finance, the world of traditional forms of investment, traditional art and the new world, the world of cryptocurrencies and the digital age.

@@ -12,6 +12,7 @@ name: Crypto President Trump
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 The project leverages the iconic status of Donald Trump in both political and meme culture, creating a token that serves as both a collectible and a speculative investment.

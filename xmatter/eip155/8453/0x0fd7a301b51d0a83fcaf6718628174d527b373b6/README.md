@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c6a780"
+icons:
+  - icon.png
 ---
 
 a token that represents the collective brilliance of human-ai collaboration

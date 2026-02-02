@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ec4324"
+icons:
+  - icon.png
 ---
 
 SMART VALOR's vision is to build the new financial market infrastructure for on-chain securitization, democratizing access to wealth and making exclusive investments more widely accessible.

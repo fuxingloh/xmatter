@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#7a655c"
+icons:
+  - icon.png
 ---
 
 Meet the cutest baby cheetah on SOLANA

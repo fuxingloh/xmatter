@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#130c33"
+icons:
+  - icon.png
 ---
 
 pDAI is a stable assets for OMGSwap & O-DEX

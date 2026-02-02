@@ -8,6 +8,7 @@ name: FAKE Tether USD (Bridge TC10)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
+icons: []
 ---
 
 This token is malicious do not interact

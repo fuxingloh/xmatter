@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 INFibit is a decentralized blockchain-powered platform that uses $IBIT as a governance layer blockchain for other platforms as a DAO

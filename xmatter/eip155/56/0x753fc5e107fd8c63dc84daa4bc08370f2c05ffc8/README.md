@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2b2721"
+icons:
+  - icon.png
 ---
 
 IF CZ LOVES IT, YOU KNOW IT’S BULLISH

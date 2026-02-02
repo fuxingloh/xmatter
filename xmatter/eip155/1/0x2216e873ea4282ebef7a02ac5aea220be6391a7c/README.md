@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#93f991"
+icons:
+  - icon.png
 ---
 
 beeg tings, smol package

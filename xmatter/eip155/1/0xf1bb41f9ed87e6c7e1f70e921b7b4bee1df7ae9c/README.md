@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c39649"
+icons:
+  - icon.png
 ---
 
 Dogcoin is not just another token; it’s a revolutionary, pure, and honest project in the crypto space

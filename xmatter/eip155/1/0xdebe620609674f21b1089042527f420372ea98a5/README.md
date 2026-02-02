@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#050505"
+icons:
+  - icon.png
 ---
 
 We bring culture defining brands into the metaverse through our virtual platforms and access to others

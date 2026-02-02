@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c1c24"
+icons:
+  - icon.png
 ---
 
 Hitchain is a decentralized smart defi project run by the community.

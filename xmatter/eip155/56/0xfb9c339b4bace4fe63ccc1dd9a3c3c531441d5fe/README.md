@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d9f5eb"
+icons:
+  - icon.png
 ---
 
 Game Studio focused on building mobile blockchain gaming ecosystem that utilizes Multi Blockchain and integrates Governance, GameFi, and NFT.

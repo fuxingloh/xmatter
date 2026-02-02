@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ed5ff5"
+icons:
+  - icon.png
 ---
 
 KORE is the first deflationary farming token with autonomous profit generation strategies

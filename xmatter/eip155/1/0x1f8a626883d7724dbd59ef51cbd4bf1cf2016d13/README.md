@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5c54d4"
+icons:
+  - icon.png
 ---
 
 STAK is the governance token of Jigstack DAO as well as the main utility asset across it's ecosystem.

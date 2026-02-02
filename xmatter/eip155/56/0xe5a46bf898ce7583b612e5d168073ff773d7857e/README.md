@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1f7694"
+icons:
+  - icon.png
 ---
 
 CVIP is a decentralized protocol on binance smart chain where users can farm ,stake participate in IDOs. Users and Partners can perform farm optimisers and earn crypto by participating in various options.

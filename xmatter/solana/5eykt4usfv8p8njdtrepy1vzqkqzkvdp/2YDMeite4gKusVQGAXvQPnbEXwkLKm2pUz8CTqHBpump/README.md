@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 MOM tokens can be traded on decentralized exchanges and centralized crypto exchanges

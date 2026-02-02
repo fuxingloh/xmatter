@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0d0a09"
+icons:
+  - icon.png
 ---
 
 My first coin... Professor Moriarty

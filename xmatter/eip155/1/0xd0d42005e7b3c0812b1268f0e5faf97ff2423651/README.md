@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e0cb9e"
+icons:
+  - icon.png
 ---
 
 KOROMARU is a hybrid dog/anime/gaming meme token benefitting investors and expanding our reach into budding gaming ecosystems.

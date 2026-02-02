@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b3a384"
+icons:
+  - icon.png
 ---
 
 Hector Finance is developing a financial center on the Fantom Opera Chain and beyond.

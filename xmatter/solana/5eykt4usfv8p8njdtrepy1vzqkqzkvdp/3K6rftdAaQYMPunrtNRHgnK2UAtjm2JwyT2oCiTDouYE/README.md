@@ -10,6 +10,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#c0c0c0"
+icons:
+  - icon.png
 ---
 
 Acquire COPE in a fun and low risk way, by unlocking your cope report and reaching the top of the COPE Index

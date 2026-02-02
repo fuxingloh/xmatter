@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#826d64"
+icons:
+  - icon.png
 ---
 
 Mewing is the the practice of using proper tongue posture to improve facial beauty and fix malocclusion of the teeth.

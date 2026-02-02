@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e5bd76"
+icons:
+  - icon.png
 ---
 
 From the streets of Brazil to the greatest stadiums in the world, Ronaldinho changed football forever.

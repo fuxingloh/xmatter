@@ -8,4 +8,6 @@ standards:
   - trc20
 icon: icon.png
 color: "#131415"
+icons:
+  - icon.png
 ---

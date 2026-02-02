@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fcc92a"
+icons:
+  - icon.png
 ---
 
 CheeseSwap is A Decentralized Finance & Entertainment Project.

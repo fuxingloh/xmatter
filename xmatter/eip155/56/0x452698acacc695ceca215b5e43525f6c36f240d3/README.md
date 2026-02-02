@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f76f5f"
+icons:
+  - icon.png
 ---
 
 Inspired by Mark Zuckerberg - CEO of Facebook and huge support from CryptoKitties' fans, we gather friends who are passionate about blockchain to found MaxGoat. Maxgoat is a form of an NFT marketplace that meets the standards of most people in the world when joining the cryptocurrency market.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#249fdb"
+icons:
+  - icon.png
 ---
 
 VIAGRA is a charity token to raise money for men's health issues.

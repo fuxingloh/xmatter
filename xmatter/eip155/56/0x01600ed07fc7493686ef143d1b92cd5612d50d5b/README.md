@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eb8bbb"
+icons:
+  - icon.png
 ---
 
 We created a new NFT platform on BinanceSmartChain. We want to take part in Binance's NFT move.

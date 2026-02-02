@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eaad20"
+icons:
+  - icon.png
 ---
 
 Da Pinchi is a cryptocurrency project developed on the Ethereum blockchain. It distinguishes itself through a dual focus on digital currency utility and social impact, primarily aimed at supporting local fishermen via the Da Pinchi Foundation.

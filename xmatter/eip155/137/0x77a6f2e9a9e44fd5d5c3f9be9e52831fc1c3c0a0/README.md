@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e8e8e9"
+icons:
+  - icon.png
 ---
 
 Official crypto currency of The World State

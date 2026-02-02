@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6daded"
+icons:
+  - icon.png
 ---
 
 NEXO (NEXO) is a compliant token that is backed by the underlying assets of Nexo’s loan portfolio.

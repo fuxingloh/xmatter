@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fb043c"
+icons:
+  - icon.png
 ---
 
 Swinate is the auto-generating liquidity protocol with static farming by holding on Binance Smart Chain.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Architex leverages decentralized ASIC & GPU hardware to enhance blockchain and AI networks, including Bitcoin, Bittensor, and Morpheus.

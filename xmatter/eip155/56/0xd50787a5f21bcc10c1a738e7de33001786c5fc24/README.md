@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 A token with its own digital ecosystem, that reinvests in both the platform and the community with each transaction.

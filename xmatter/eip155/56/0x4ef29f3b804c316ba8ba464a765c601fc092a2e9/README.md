@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c65e6"
+icons:
+  - icon.png
 ---
 
 Quantum Assets uses quantum phenomena (quantum tunneling of electrons) to produce a new class of quantum cryptographic keys - creating quantum assets. Holders of Quantum Assets Token (QA) at relevant blocks are guaranteed airdrops of new quantum assets as they are released to market.

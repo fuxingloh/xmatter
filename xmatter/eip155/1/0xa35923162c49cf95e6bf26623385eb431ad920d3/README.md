@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3f2f1"
+icons:
+  - icon.png
 ---
 
 Turbo Token is a revolutionary meme coin featuring our futuristic toad mascot.

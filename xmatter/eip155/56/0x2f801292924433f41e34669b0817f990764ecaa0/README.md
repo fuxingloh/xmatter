@@ -8,6 +8,7 @@ name: DOGEMOON
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 DOGEMOON is a deflationary token with purpose of charity

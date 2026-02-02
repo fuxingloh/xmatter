@@ -29,6 +29,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#070706"
+icons:
+  - icon.png
 ---
 
 DIS launched by Miningtw Technology Co., Ltd., It is a meme token of cryptocurrency, and mining. Tokens for interaction, rewards, gifts purposes, the token economic model 50% of 5 years of pledge mining, and users rewards per second according to the total amount of pledges , for fun and joy.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d7d6d8"
+icons:
+  - icon.png
 ---
 
 Ferrum Network aims to empower individuals with decentralized financial technology.

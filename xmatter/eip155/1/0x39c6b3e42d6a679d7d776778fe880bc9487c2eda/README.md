@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#35c8a2"
+icons:
+  - icon.png
 ---
 
 Aave KNC is an interest bearing token pegged 1:1 to the underlying KNC deposited in Aave. aKNC accrue interest in real time in your wallet.

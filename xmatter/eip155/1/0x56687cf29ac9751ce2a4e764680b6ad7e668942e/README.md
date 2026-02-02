@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#353236"
+icons:
+  - icon.png
 ---
 
 A social token for crypto-natives who are experimenting with tokenized community tools to pave the way for new creator economies.

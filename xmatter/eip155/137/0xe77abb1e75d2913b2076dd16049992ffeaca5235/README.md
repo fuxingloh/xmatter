@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d24b81"
+icons:
+  - icon.png
 ---
 
 Decentrawood is a metaverse token, designed and built on the Polygon network for enhanced scalability and efficiency in virtual worlds.

@@ -8,6 +8,7 @@ name: FAKE EuroUnion
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 This token is malicious do not interact

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#807aae"
+icons:
+  - icon.png
 ---
 
 The Avalanche Bridge Wrapped Aave Token. Aave is an Open Source and Non-Custodial protocol to earn interest on deposits & borrow assets. It also features access to highly innovative flash loans, which let developers borrow instantly and easily; no collateral needed.

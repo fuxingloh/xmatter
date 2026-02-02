@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#242424"
+icons:
+  - icon.png
 ---
 
 Avalon Labs is the world's largest issuer of Bitcoin-backed stablecoins

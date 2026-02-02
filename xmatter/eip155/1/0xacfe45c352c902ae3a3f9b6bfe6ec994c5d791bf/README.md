@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#988af2"
+icons:
+  - icon.png
 ---
 
 megaBONK is a community defi project focused on creating & minting NFTs with a one-click NFT minter.

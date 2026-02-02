@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c800b"
+icons:
+  - icon.png
 ---
 
 Tech Earnbd is a platform currency representing value and wealth in the decentralized economy used for the exchange of values between BDT!

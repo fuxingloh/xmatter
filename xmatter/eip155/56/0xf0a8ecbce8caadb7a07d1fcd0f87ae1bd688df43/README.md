@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#262523"
+icons:
+  - icon.png
 ---
 
 CRYPTOGODZA VIRTUAL UNIVERSE OF FANTASY HEROES FOR P2P NFT GAMING

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#0cf1be"
+icons:
+  - icon.png
 ---
 
 Sallar is a decentralized mobile distributed computing network that transforms smartphones into nodes within a global computational ecosystem.

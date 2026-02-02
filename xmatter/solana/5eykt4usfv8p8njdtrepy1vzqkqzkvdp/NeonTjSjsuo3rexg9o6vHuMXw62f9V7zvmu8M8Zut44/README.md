@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#e23c93"
+icons:
+  - icon.png
 ---
 
 Neon EVM is a smart contract on Solana. Solana is a fast-growing blockchain, which uses a proof-of-history consensus mechanism.

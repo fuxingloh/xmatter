@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dabd43"
+icons:
+  - icon.png
 ---
 
 MYSTCLs are collection of 7,000 NFT's, and are the first ERC404 PFP collection on Base.

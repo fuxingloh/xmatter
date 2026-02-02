@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6e88b3"
+icons:
+  - icon.png
 ---
 
 Aave DAI V1 is an interest bearing token pegged 1:1 to the underlying DAI deposited in Aave V1. aDAI V1 accrue interest in real time in your wallet.

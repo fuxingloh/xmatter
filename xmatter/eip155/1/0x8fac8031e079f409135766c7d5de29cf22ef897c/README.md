@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#060407"
+icons:
+  - icon.png
 ---
 
 Humans.ai brings together an ecosystem of stakeholders around the use of AI to create at scale. It combines a library of AI tools into a creative studio suite where users will be able to pick and choose as they bring their ideas to life.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbf0af"
+icons:
+  - icon.png
 ---
 
 FF is a digital asset produced in the CryptoTree crypto collectible game.

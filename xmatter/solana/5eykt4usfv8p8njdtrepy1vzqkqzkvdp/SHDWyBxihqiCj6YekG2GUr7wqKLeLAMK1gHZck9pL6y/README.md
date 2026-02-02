@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#7e92a5"
+icons:
+  - icon.png
 ---
 
 $SHDW is the utility token that powers the Shadow dePIN ecosystem providing decentralized storage, compute, and network orchestration to its users.

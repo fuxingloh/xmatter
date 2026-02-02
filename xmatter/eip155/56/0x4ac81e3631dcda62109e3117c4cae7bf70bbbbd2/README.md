@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4e914f"
+icons:
+  - icon.png
 ---
 
 A Worldwide Carbon Sequestration Cryptocurrency Project dedicated to developing sustainable programs aiming to combat Global Warming and Climate Change.

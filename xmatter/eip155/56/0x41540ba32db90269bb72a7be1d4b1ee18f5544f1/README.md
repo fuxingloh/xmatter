@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#40ade8"
+icons:
+  - icon.png
 ---
 
 A peer to peer Internet currency of Flat Earth.

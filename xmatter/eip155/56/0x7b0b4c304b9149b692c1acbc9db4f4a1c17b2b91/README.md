@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040505"
+icons:
+  - icon.png
 ---
 
 A token launched for the NFT community, with the spirit of predecessor Pig Token.

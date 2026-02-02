@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c3444"
+icons:
+  - icon.png
 ---
 
 Creating a Connected Tokenized World Rate3 bridges enterprises to the blockchain through cross-chain asset tokenization and identity management.

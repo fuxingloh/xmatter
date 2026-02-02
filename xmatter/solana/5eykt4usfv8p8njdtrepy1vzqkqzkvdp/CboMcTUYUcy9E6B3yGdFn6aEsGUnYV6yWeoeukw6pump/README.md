@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#141414"
+icons:
+  - icon.png
 ---
 
 A fart cannot exist without a butthole

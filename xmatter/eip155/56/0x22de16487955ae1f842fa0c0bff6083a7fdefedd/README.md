@@ -26,6 +26,7 @@ name: Galaxy Heroes
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 Galaxy Heroes Coin is more than just a token. It will have a never seen before NFT platform and gaming app. Be a hero, a Galaxy Hero!

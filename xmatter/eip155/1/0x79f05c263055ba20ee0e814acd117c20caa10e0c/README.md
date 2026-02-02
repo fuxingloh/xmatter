@@ -21,6 +21,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c44c4"
+icons:
+  - icon.png
 ---
 
 Ice represents the next generation of digital currency, mineable on any mobile device. At its core, Ice Network fosters a trusted community, proliferating the belief that digital currencies can maintain value across diverse use cases. Membership is initiated through invitations, enabling new users to earn and build micro-communities immediately.

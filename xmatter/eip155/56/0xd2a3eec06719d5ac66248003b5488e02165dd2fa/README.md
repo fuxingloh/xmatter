@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dfdef2"
+icons:
+  - icon.png
 ---
 
 PAXE Protocol is a cutting-edge native yield platform that provides access to cost-effective and secure high-quality yield opportunities across the industry.

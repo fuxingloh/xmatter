@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7fc4ed"
+icons:
+  - icon.png
 ---
 
 Shibosu is the Japanese Gifting Shiba that will take over the Shiba world by storm. Shibosu is a mix between Shiba and Kabosu.

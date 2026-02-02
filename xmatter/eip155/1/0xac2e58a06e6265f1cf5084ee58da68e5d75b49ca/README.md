@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#233464"
+icons:
+  - icon.png
 ---
 
 ORS GROUP is connecting A.I. and Blockchain through Hypersmart Contracts, to provide access to more than 1,000 proprietary algorithms and hundreds of software solutions entrepreneurs worldwide.

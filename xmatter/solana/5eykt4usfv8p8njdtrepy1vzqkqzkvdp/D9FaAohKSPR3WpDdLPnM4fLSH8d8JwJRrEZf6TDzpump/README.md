@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#343c9b"
+icons:
+  - icon.png
 ---
 
 $HQ - Official HQ Trivia Token

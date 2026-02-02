@@ -36,6 +36,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3c6bdc"
+icons:
+  - icon.png
 ---
 
 FxBox.io - Play 2 Earn Financial Games. Investing, Mining NFTs, Trading, Lottery, Market Predictions.

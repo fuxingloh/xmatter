@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b68eef"
+icons:
+  - icon.png
 ---
 
 AIXBT tracks CT discussions and leverages its proprietary engine to identify high momentum plays. AIXBT token holders gain access to its analytics platform.

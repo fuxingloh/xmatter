@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#05a3c4"
+icons:
+  - icon.png
 ---
 
 SeaChain is a decentralised, community-driven ecosystem funding trash barriers in the most polluted rivers.

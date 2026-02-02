@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#2f2f2f"
+icons:
+  - icon.png
 ---
 
 BRAINLET is a Solana-based memecoin that combines the humor and culture of internet memes with decentralized finance principles.

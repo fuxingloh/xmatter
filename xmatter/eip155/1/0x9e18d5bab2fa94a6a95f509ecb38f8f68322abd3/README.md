@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f69d09"
+icons:
+  - icon.png
 ---
 
 A decentralized token evolving into a vibrant ecosystem, revolutionizing DeFi, Web3, AI, Machine Learning, and the Metaverse.

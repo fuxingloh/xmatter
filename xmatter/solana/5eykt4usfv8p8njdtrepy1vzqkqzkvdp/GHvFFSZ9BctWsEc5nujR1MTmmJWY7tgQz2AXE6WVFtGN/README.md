@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#0c0c0c"
+icons:
+  - icon.png
 ---
 
 SOLAPE is a deflationary token and Decentralized exchange built on the Solana Network. Built by Apes, For Apes.

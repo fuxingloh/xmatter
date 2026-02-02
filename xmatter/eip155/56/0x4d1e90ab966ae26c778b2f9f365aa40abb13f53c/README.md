@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e1b954"
+icons:
+  - icon.png
 ---
 
 Solartechno has developed system by using Advanced Technology and Token. System is much Simpler, more Profitable and Secured

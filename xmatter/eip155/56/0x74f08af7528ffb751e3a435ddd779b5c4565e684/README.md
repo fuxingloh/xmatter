@@ -35,6 +35,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fcce77"
+icons:
+  - icon.png
 ---
 
 KING is the parent company developing three of the most innovative services in decentralised finance: King Floki, King Land, & King Pad.

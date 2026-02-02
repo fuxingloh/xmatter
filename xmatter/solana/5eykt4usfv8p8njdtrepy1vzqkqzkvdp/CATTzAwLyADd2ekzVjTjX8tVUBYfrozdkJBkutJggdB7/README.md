@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#75c3fa"
+icons:
+  - icon.png
 ---
 
 Life of a cat and a dog with a unique twist: they are literally connected.

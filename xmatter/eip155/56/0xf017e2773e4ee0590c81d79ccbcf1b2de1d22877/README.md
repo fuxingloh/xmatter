@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#060808"
+icons:
+  - icon.png
 ---
 
 Safemoon Cash is – in short – a rug proof, ownership renounced community driven project that will bring rivalry to Safemoon with positive vibes only.

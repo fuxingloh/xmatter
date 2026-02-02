@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d815bd"
+icons:
+  - icon.png
 ---
 
 CHEEL is the governance token, which will be issued in a total quantity of 1,000,000,000. With this token, the community can vote on important issues of the platform development, according to the DAO principle. CHEEL also allows to level up NFT glasses.

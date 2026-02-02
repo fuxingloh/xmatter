@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f0f8f7"
+icons:
+  - icon.png
 ---
 
 Etherisc claims to be building a platform for decentralized insurance applications.

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#050505"
+icons:
+  - icon.png
 ---
 
 BPVC is a Coin named $BPVC and a collection of 10,000 Bored Pepe NFTs unique digital collectibles living on the Ethereum blockchain.

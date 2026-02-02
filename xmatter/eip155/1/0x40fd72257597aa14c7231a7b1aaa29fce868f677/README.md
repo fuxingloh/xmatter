@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e02028"
+icons:
+  - icon.png
 ---
 
 Sora is a decentralized autonomous economic system, where users vote on how to mint new units of the XOR token through a democratic referendum process. The goal is to create a decentralized, yet rational world economic system.

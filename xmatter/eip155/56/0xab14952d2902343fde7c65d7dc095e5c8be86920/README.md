@@ -18,6 +18,7 @@ name: GOMA Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 GOMA is a Hyper-Deflationary Community DeFi token foused on staking, reflection and NFTs.

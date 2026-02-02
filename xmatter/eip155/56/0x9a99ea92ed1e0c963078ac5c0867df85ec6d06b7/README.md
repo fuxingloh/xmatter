@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9e6a3"
+icons:
+  - icon.png
 ---
 
 QTM - Yield farm QTUM on Binance Smart Chain.

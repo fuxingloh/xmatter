@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c0d0e4"
+icons:
+  - icon.png
 ---
 
 We Build Popular Mobile Crypto Games With Utility Cryptocurrency.

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#03093d"
+icons:
+  - icon.png
 ---
 
 Goverance token of Mirror Protocol.

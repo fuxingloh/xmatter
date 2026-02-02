@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#ec7c14"
+icons:
+  - icon.png
 ---
 
 Home Depot xStock (HDx) is a tracker certificate issued as Solana SPL and ERC-20 tokens. HDx tracks the price of The Home Depot, Inc. (the underlying). HDx is designed to give eligible cryptocurrency market participants regulatory-compliant access to the stock price of The Home Depot, Inc., whilst maintaining the benefits of blockchain technology. The Home Depot is a publicly traded home improvement retailer that operates over 2,300 stores across the United States, Canada, and Mexico.

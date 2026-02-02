@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c347c"
+icons:
+  - icon.png
 ---
 
 YLD is a utility token that allows YIELD.app users to boost their APY

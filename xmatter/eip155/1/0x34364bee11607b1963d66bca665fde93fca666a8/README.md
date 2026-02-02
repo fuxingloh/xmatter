@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5805d3"
+icons:
+  - icon.png
 ---
 
 YOUChain is focused on carrying out large-scale commercial applications through its YPoS consensus mechanism and investment model.

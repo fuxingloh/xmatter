@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fad408"
+icons:
+  - icon.png
 ---
 
 A community-focused blockchain project. The project is directed towards Families that have suffered from police brutality and minority groups and causes.

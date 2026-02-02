@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6ad992"
+icons:
+  - icon.png
 ---
 
 vEmpire DDAO is the world’s largest Decentralized Metaverse Investment Organization. The official vEmpire protocol incorporates different strategies to incentivize Metaverse token staking to fund the battle against centralisation.

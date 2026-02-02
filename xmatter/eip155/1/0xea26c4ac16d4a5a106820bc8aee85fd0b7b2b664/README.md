@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#297cba"
+icons:
+  - icon.png
 ---
 
 QuarkChain is a flexible, scalable, and user-oriented blockchain infrastructure by applying blockchain sharding technology.

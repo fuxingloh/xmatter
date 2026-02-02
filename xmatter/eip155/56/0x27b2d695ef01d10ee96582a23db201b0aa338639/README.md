@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#05156c"
+icons:
+  - icon.png
 ---
 
 We are a group of Forex and Commodity Trading Enthusiasts with a collective experience of more than 50 years in Forex Trading Industry. Our mission is to create a transparent trading platform that is fair, low-cost with no conflict of interest. All this is made possible by our game-changing Peer to Peer blockchain-based trading platform that democratizes access to anyone to become a market maker and play on “the other side of the table.

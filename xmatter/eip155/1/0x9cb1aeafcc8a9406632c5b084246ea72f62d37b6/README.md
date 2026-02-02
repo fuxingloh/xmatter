@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fcf5ba"
+icons:
+  - icon.png
 ---
 
 LBank releases its own exchange token 'LBK'. LBK will benefit from the blockchain technology and digital financial operation capabilities of LBank, and combined with the community-self-governance concept.

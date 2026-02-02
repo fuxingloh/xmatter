@@ -23,6 +23,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Empowering Retail Investors through Crypto Advocacy, Education, Transparency and Representation.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040505"
+icons:
+  - icon.png
 ---
 
 Creating new ways for content creators to connect with their audience.

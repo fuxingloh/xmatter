@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#34c2bb"
+icons:
+  - icon.png
 ---
 
 A project that aims to provide decentralized financial services for all with its original BDLS consensus protocol and a dual stablecoin system.

@@ -8,6 +8,7 @@ name: FAKE Unstable Euro Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
+icons: []
 ---
 
 This token is malicious do not interact

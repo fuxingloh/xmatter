@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#af9583"
+icons:
+  - icon.png
 ---
 
 Introducing XRPNUT — the meme coin that’s here to steal the show! Inspired by the rebellious spirit of a dog donning a robber’s mask, $mask is all about embracing the playful, mischievous side of crypto

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#63cafa"
+icons:
+  - icon.png
 ---
 
 GiggleFund — The UNSTOPPABLE force of kindness 💛 Supporting children's education through community donations to GiggleAcademy 🎓 Built by the people, for the people - A true community takeover 🤝

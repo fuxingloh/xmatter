@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0495fb"
+icons:
+  - icon.png
 ---
 
 ZAP is a cryptocurrency and operates on the Ethereum platform.

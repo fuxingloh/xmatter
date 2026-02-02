@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#9d69d6"
+icons:
+  - icon.png
 ---
 
 At $PANDA, we are dedicated to revolutionizing decentralized finance (DeFi) by offering fast, secure, and accessible solutions. Join us as we shape the future of DeFi on Solana.

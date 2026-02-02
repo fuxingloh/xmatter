@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040936"
+icons:
+  - icon.png
 ---
 
 GuildFi aspires to create an interconnected ecosystem of games, NFTs, and communities, to maximize players' benefits and enable interoperability across the metaverse.

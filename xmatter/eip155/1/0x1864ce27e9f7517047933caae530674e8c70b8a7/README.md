@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5ca6c5"
+icons:
+  - icon.png
 ---
 
 Pibble is a Blockchain based image Cryptocurrency! It is a monetized Image Ecosystem that brings image creators and consumers together, so as to compensate them for the work they create, use and enjoy.

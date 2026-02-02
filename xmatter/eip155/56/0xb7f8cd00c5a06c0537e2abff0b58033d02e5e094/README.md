@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#126039"
+icons:
+  - icon.png
 ---
 
 BNB pegged Paxos Standard (PAX BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Paxos Standard (PAX ERC20) at a ratio of 1:1.

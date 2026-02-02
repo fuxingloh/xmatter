@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2cacb3"
+icons:
+  - icon.png
 ---
 
 At Cryptobuyer we offer multiple financial services in the same place, with the security, privacy and speed you deserve.

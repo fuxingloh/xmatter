@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#6a7bc9"
+icons:
+  - icon.png
 ---
 
 Myro the dog: Named after Solana Founder Raj Gokal’s dog Myro.

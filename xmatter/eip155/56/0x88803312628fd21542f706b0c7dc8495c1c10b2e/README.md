@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#85a5c9"
+icons:
+  - icon.png
 ---
 
 DeFi Degen Land is a Metaverse / gamified DeFi where the player join an online 'world' that has the capability of interacting with the blockchain. DeFiDegenLand holders earns Bitcoin as an incentive to keep holding the token, also it's the native token on the metaverse.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#131313"
+icons:
+  - icon.png
 ---
 
 $USUALx is the staked version of $USUAL. It empowers holders with governance rights and grants daily $USUAL rewards.

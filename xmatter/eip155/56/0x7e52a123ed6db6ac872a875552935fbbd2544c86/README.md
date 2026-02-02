@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#54c4cc"
+icons:
+  - icon.png
 ---
 
 SYL Token by XSL Labs: Decentralized Identity & Data Privacy

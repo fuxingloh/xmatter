@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#10a190"
+icons:
+  - icon.png
 ---
 
 Dexigas has been created to be the utility token within the Dexioprotocol gaming ecosystem.

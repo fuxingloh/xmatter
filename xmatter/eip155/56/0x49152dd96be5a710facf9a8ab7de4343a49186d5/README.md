@@ -29,6 +29,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f18b24"
+icons:
+  - icon.png
 ---
 
 Dart Inu is a Metaverse token which supports the vision of NASA's Double Asteroid Redirection Test to defend Mother Earth

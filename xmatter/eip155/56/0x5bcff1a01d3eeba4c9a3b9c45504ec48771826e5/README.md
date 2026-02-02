@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e1c8d8"
+icons:
+  - icon.png
 ---
 
 cute shell

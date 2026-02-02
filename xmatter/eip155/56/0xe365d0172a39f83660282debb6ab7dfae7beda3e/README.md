@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#060c11"
+icons:
+  - icon.png
 ---
 
 Next Generation of Hybrid Payment Chain

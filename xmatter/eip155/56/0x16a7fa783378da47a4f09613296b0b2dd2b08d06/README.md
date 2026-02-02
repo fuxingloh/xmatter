@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ebd9bf"
+icons:
+  - icon.png
 ---
 
 Monster Slayer allows users to become owners and monetize Blockchain based video games.

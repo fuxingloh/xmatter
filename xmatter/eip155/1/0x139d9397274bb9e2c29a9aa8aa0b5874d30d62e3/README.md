@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d4b443"
+icons:
+  - icon.png
 ---
 
 Professional Karate Sports Organization.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9ce53c"
+icons:
+  - icon.png
 ---
 
 Peapods finance offers farming volatility through the first fully decentralized on-chain yield-bearing index funds, or pods.

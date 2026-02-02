@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3c3333"
+icons:
+  - icon.png
 ---
 
 The Helysia token represents the value of a community seeking the inner balance through experiences in harmony with nature

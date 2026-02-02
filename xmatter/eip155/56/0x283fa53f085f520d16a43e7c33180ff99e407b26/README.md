@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6dbc44"
+icons:
+  - icon.png
 ---
 
 Monetize your time in the game!

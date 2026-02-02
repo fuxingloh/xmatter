@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f45252"
+icons:
+  - icon.png
 ---
 
 Akash Network is a Distributed Peer-to-Peer Marketplace for Cloud Compute

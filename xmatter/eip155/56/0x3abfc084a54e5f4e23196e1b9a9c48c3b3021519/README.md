@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9b3ef3"
+icons:
+  - icon.png
 ---
 
 A protocol built on Binance Smart Chain to boost rewards on liquidity mining on lower gas costs and utilizing incentivisation strategies, Supercharged NFT collectibles and community governance models.

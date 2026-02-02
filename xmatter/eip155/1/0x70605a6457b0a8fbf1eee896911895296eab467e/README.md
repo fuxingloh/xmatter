@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04a748"
+icons:
+  - icon.png
 ---
 
 xICHI is the staking coin of the ICHI community.

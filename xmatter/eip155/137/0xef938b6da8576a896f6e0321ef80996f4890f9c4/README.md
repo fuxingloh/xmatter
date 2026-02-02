@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#046cfc"
+icons:
+  - icon.png
 ---
 
 Decentral Games is a metaverse-native gaming DAO building play-to-earn poker. DG Hodlers vote on treasury management, economic policy, and development to grow and strengthen the Decentral Games ecosystem.

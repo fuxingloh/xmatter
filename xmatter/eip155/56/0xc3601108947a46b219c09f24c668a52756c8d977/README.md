@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#83bf90"
+icons:
+  - icon.png
 ---
 
 First Fully Influencer-Backed Multi-Chain Launchpad

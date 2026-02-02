@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fb5c45"
+icons:
+  - icon.png
 ---
 
 Finswap is a DEX trading and aggregation suite which provides advanced trading features augmented with defi integrations under one roof.

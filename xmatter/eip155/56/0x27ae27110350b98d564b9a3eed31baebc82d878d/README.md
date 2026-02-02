@@ -21,6 +21,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f506c1"
+icons:
+  - icon.png
 ---
 
 One of the most viral coins in history!

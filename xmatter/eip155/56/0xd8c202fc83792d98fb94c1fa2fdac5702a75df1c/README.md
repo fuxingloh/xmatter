@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6b1c24"
+icons:
+  - icon.png
 ---
 
 FULLSEND is a token to be used on the dapp platform for feature purposes

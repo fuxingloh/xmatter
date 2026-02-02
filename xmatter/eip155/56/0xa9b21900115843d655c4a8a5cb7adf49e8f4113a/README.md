@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#044f99"
+icons:
+  - icon.png
 ---
 
 Rotomoon is a token from Binance Smart Chain

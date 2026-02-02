@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d3f2f9"
+icons:
+  - icon.png
 ---
 
 ODEM, short for 'On-Demand Education Marketplace', is a blockchain-based distributed network that allows university students to interact with their professors and academic partners without intermediaries.

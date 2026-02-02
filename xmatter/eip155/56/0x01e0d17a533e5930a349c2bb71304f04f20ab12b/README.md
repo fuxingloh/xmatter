@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9540bb"
+icons:
+  - icon.png
 ---
 
 Revolve Games is redefining blockchain gaming, with a robust gaming ecosystem that is plugged into the heart of DeFi

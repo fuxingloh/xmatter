@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#16e410"
+icons:
+  - icon.png
 ---
 
 Nosana will democratize GPU cloud computing. They privode companies with more accessible and affordable compute power for running AI.

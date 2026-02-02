@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ececef"
+icons:
+  - icon.png
 ---
 
 Alchemy is a leading cryptocurrency payment solution and technology provider that powers online and offline merchants with fast, secure and convenient hybrid crypto-fiat payment systems and solutions.

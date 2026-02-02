@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1fb1d3"
+icons:
+  - icon.png
 ---
 
 InsureX is a marketplace for insurers, reinsurers and brokers to trade insurance products directly.

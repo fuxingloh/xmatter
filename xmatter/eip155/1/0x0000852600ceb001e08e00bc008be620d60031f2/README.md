@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d11a09"
+icons:
+  - icon.png
 ---
 
 Tokenized version of the HKD

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#facbe2"
+icons:
+  - icon.png
 ---
 
 Elixir Games is the largest gaming platform in the Web3 ecosystem, providing end-to-end distribution & fintech enterprise-grade solutions.

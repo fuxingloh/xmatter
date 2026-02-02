@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Enrich your everyday life with. Fintech on Blockchain.

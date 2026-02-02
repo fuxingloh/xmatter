@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04c3d3"
+icons:
+  - icon.png
 ---
 
 NFTs for anything digital, verified by VIDT Datalink

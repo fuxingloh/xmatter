@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a3eb8c"
+icons:
+  - icon.png
 ---
 
 TeaCrypto.Finance is a blockchain innovation hub with a DAO-driven seed stage fund, decentralized incubator, and launchpad, for empowering next innovations of the blockchain ecosystem, through community-driven governance, feedback, involvement and funding mechanisms.

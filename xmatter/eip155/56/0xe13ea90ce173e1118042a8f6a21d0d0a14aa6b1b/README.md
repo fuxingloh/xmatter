@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#33acab"
+icons:
+  - icon.png
 ---
 
 BSC token with a great community!We aim to become a hub for staying safe while investing.Token vetting, education + forum coming! https://linktr.ee/KazooCoin

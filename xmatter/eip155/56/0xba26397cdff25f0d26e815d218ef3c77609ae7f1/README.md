@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#34b293"
+icons:
+  - icon.png
 ---
 
 High yields BSC farm brought by the Koalas. Earn LYPTUS through yield, then stake it in Pools to earn more tokens! Security first on Koala DeFi.

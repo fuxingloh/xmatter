@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#06183f"
+icons:
+  - icon.png
 ---
 
 A planetary-scale network for building and connecting decentralized AI applications.

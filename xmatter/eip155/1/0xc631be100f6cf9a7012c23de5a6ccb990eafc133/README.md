@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e9af88"
+icons:
+  - icon.png
 ---
 
 BTFA is a collection of 10,000 Task Force Apes with over 150 unique traits. What makes BTFA special is that NFT holders have a shared stake in our company and revenue generated from Blip Studios!

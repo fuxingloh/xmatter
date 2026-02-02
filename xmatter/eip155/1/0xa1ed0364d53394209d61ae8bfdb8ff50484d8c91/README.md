@@ -12,6 +12,7 @@ name: TeraBlock Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 Machine Learning driven, personalised cryptocurrency trade automation to help you easily manage your assets.

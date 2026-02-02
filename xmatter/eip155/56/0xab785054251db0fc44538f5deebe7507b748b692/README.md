@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8c7342"
+icons:
+  - icon.png
 ---
 
 FIRST GLOBAL WEB 3.0 WELLNESS COMMUNITY WITH AI AND BLOCKCHAIN. Empowering wellness Worldwide with Blockchain.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c3a44c"
+icons:
+  - icon.png
 ---
 
 The project is based on a BEP20 token called XLD. Its main feature involves an auto-claim BNB rewarding process, in which the contract periodically sends out BNB to addresses that hold XLD tokens.

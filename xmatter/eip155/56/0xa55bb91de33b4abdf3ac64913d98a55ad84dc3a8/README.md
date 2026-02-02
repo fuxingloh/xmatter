@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbbd04"
+icons:
+  - icon.png
 ---
 
 A gamifying token with fun DApps like NFT games and a deflationary lottery.

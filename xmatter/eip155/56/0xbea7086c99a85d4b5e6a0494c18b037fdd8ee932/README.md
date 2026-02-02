@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2a8466"
+icons:
+  - icon.png
 ---
 
 Freedom Reserve is a Project to build a Store of Value and unit of exchange suitable for the people of the British Isles

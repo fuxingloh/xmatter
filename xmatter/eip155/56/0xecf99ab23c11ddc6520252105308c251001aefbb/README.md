@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1ccc1c"
+icons:
+  - icon.png
 ---
 
 UNS Token, a Multi-Sector Utility BEP20 Token that enables in connecting real-life utilities with the digital world.

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7bae18"
+icons:
+  - icon.png
 ---
 
 The future is now in renewable green energy and eco-friendly electric cars and solar panels

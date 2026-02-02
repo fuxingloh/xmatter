@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#251e22"
+icons:
+  - icon.png
 ---
 
 $MORUD is a memecoin that humorously pays tribute to Murad Mahmudov, a prominent figure on X recognized for his unwavering belief in specific meme coins.

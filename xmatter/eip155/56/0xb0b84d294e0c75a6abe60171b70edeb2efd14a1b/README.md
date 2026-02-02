@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fcd404"
+icons:
+  - icon.png
 ---
 
 Lista DAO is a permissionless Collateralized Debt Position and Liquid Staking Protocol on the BNB Smart Chain.

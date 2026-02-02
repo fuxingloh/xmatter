@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#162022"
+icons:
+  - icon.png
 ---
 
 Next Gen Mining Chip Smaller, faster

@@ -15,6 +15,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc9d12"
+icons:
+  - icon.png
 ---
 
 Coinhub is a trading platform with CHB token which is a utility token. It is located in The U.A.E

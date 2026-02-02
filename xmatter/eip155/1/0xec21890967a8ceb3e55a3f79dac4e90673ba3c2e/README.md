@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0ba552"
+icons:
+  - icon.png
 ---
 
 the most memeable memecoin in existence. The dogs have had their day, it’s time for BEBE to take reign.

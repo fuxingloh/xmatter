@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#b5943f"
+icons:
+  - icon.png
 ---
 
 $TRUST the process is the number 1 normie driven solana meme which can be traded on Jupiter & Raydium as well as centralized exchanges.

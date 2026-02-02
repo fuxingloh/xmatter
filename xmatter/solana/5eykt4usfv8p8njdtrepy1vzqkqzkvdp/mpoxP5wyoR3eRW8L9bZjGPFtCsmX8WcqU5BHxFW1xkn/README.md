@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#64e91d"
+icons:
+  - icon.png
 ---
 
 POX is an SPL-404 token on Solana, blending memecoin and NFT cultures into one

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cdd0ca"
+icons:
+  - icon.png
 ---
 
 The most catchy memecoin out there that anyone can win. Platform of meme coins. Shop with your meme coins. Stake or earn meme coins.

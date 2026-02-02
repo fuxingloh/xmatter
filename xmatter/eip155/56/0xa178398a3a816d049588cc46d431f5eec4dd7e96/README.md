@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b2746"
+icons:
+  - icon.png
 ---
 
 The ClearMoon Network is a community-driven, viral networking project dedicated to Crypto Education in DeFi.

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#201f27"
+icons:
+  - icon.png
 ---
 
 AlphaArc translates blockchainese into a language LLMs & AI agents understand

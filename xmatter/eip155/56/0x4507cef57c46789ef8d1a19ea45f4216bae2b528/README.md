@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 TokenFi is the ultimate platform for crypto and asset tokenization. Our aim is to make tokenization seamless and easy for the masses!.

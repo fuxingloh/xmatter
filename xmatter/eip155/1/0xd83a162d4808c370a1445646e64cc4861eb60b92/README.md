@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2868f8"
+icons:
+  - icon.png
 ---
 
 OxyCoin (OXY) is an ERC20 Token that supplied 244,140,625,000,000,000,000 coins

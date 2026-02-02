@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ec462b"
+icons:
+  - icon.png
 ---
 
 The Gene Source Code Foundation is building the world's largest distributed genomic and healthcare data storage system based on blockchain technology.

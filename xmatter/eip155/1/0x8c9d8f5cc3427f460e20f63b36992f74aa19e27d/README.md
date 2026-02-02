@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ab9bfc"
+icons:
+  - icon.png
 ---
 
 DeFiat Points is the secondary, inflationary asset of the DeFiat ecosystem, granted for network participation.

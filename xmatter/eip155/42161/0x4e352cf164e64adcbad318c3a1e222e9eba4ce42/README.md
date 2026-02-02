@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dc8444"
+icons:
+  - icon.png
 ---
 
 MUX Protocol is the first decentralized perpetual aggregator; it offers deep aggregated liquidity, optimized trading cost, up to 100x leverage, diverse market options and unique aggregator features like smart position routing, aggregated position, leverage boosting and liquidation price optimization.

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#16cbeb"
+icons:
+  - icon.png
 ---
 
 UFO is an dual purpose token that powers the metaverse and helps govern it.

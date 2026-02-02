@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04241b"
+icons:
+  - icon.png
 ---
 
 The Request Network itself is an Ethereum-based decentralized payment system where anyone can request a payment and receive money through secure means.

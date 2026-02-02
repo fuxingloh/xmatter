@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#60f072"
+icons:
+  - icon.png
 ---
 
 Inspect, the first Layer 2 for X (x), merges SocialFi and DeFi in Web3. It revolutionizes crypto navigation in social media, offering tools for swaps, trend tracking, smart money engagement, and alpha interaction. Empowering users with insights, it reshapes decentralized-era social engagement.

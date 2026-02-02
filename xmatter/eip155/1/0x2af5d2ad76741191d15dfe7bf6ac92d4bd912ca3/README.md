@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#14051c"
+icons:
+  - icon.png
 ---
 
 LEO Token is a Bitfinex exchange token, which mainly use is for discounts on the exchange.

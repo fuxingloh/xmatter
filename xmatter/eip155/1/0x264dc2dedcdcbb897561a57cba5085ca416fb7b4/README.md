@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3c3c3b"
+icons:
+  - icon.png
 ---
 
 QunQun (QUN) is a cryptocurrency and operates on the Ethereum platform.

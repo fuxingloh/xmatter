@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Ampleforth describes itself as smart commodity money. It is chain-agnostic and reportedly less-correlated to Bitcoin and other digital assets.

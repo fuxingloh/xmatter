@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f0fbfb"
+icons:
+  - icon.png
 ---
 
 Worldcore (WRC) is a cryptocurrency and operates on the Ethereum platform.

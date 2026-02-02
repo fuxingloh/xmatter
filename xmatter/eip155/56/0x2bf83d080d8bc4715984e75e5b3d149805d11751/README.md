@@ -38,6 +38,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#070707"
+icons:
+  - icon.png
 ---
 
 VinuChain (VC) is a groundbreaking layer-1 blockchain project that encompasses the best of both worlds - innovation and scalability. As a DAG-based EVM chain, VinuChain boasts one-second finality and near-infinite scalability at a fraction of the cost of traditional blockchains, or zero cost to users who stake.

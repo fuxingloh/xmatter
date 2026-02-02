@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04042b"
+icons:
+  - icon.png
 ---
 
 DRIVENx - Made by humans for humans

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0e253e"
+icons:
+  - icon.png
 ---
 
 USDB is a stabletoken backed by BNT (Bancor Network Token), and utilized in relays on the Bancor network.

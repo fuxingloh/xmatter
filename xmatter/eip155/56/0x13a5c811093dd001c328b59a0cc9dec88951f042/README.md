@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c2c2c"
+icons:
+  - icon.png
 ---
 
 Experience the power of community ownership, global governance, and explore infinite use cases within the Panther AI ecosystem.

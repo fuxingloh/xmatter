@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9f3f3"
+icons:
+  - icon.png
 ---
 
 Astronaut is a protocol built for decentralizing the way which new projects and ideas coming to the BNB ecosystem raise capital.

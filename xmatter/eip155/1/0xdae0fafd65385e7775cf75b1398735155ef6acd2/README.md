@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dbfa45"
+icons:
+  - icon.png
 ---
 
 Truth Network introduces the TRUTH token as the backbone of its revolutionary prediction market ecosystem, operating as an appchain on Aventus Network and secured by Polkadot’s infrastructure, with its token functionality rooted in Ethereum’s blockchain.

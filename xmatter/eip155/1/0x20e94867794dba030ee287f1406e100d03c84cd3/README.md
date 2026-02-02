@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f8c800"
+icons:
+  - icon.png
 ---
 
 DEW is a Decentralized Exchange and also a gateway to the global blockchain securities market, through an almighty account, you can trade Blockchain Assets, Stocks, Futures, Forex, ETF, Bet Contract etc.

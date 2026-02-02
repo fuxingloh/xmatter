@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#38b6d4"
+icons:
+  - icon.png
 ---
 
 MTW is a stablecoin issued by Metawhaleworld in partnership with Binance.MetaWhale is a virtual platform powered by the Binance Blockchain

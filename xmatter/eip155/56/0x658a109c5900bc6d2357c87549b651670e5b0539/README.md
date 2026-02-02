@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04dccc"
+icons:
+  - icon.png
 ---
 
 FOR is the ecological token of ForTube. ForTube transfers the power of community autonomy to FOR holders as much as possible through FOR to promote the realization of decentralized governance.

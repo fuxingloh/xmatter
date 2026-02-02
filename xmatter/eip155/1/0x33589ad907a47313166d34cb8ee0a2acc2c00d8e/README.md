@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc4b4c"
+icons:
+  - icon.png
 ---
 
 Defi And Banks Merge Together​

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c0ddec"
+icons:
+  - icon.png
 ---
 
 Vero Farm- Let's Explorer Magical Farm. Vero Farm is a farm game built to keep players of all ages entertained and rewarded with VERO tokens.

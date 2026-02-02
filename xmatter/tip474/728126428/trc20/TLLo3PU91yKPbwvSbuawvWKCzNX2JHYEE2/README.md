@@ -8,6 +8,7 @@ name: Paynet Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
+icons: []
 ---
 
 Paynetcoin (PAYN) is a cryptocurrency (TRC20) that provides online travel payment platforms, e-commerce, airline tickets, tours ...

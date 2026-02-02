@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4c994c"
+icons:
+  - icon.png
 ---
 
 Frodo the Virtual Samurai aka FROG on BNB

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#240708"
+icons:
+  - icon.png
 ---
 
 Dragon Slayer is a NFT gaming ecosystem aiming to build a vast Dragon Universe living on the Binance Smart Chain where millions of players all around the world participate in the blockchain-based NFT game in a simple, fast and fun way. Dragon Slayer creates a complete blockchain gaming ecosystem that connects game players, developers, communities and distributors.

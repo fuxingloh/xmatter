@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dc9e4e"
+icons:
+  - icon.png
 ---
 
 Gochujangcoin: Spicing Up the Crypto World with Phenomenal Growth and Flavorful Innovation Explosive Growth and Enthusiastic Investor Support. Gochujangcoin is unique concept centered around Kfood and a devoted community, it is paving the way for a new category to emerge. Gochu Guy is a foodie who loves to share different spicy dishes through interactions with his spicy friends nearby.

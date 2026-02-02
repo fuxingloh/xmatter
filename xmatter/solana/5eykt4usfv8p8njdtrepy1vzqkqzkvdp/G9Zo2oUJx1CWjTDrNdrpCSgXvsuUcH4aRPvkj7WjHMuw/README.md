@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#2a164e"
+icons:
+  - icon.png
 ---
 
 $SHARES is designed to benefit everyone.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e02d51"
+icons:
+  - icon.png
 ---
 
 Envisioning the decentralization of the concept behind casinos, FunFair harnesses peer-to-peer technology in combination with cryptography.

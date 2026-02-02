@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4998fb"
+icons:
+  - icon.png
 ---
 
 sBDO is the share token of bDollar protocol - an algorithmic stable-coin running on Binance Smart-chain.

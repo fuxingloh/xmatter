@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f43b6c"
+icons:
+  - icon.png
 ---
 
 The world first Ai analysis portal

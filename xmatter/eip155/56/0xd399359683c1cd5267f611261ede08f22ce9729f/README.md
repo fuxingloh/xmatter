@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dedcd7"
+icons:
+  - icon.png
 ---
 
 Utility token to pay Independent Musicians as a Distributed Ledger Performance Rights Organization.

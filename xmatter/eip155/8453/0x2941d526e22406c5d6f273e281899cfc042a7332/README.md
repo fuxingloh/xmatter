@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#694652"
+icons:
+  - icon.png
 ---
 
 Introducing Kogin, Ronin Realms' AI Agent coin on Base! Join the cynical AI Kogin Tonic as he drowns his sorrows over token prices in hard liquor. Help him cope, and maybe he'll toast to crypto's rise with you!

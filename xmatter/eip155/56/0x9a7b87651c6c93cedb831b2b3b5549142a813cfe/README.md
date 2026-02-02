@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6bb38c"
+icons:
+  - icon.png
 ---
 
 A fun & easy AMM DEX on Binance Smart Chain.

@@ -19,6 +19,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#171035"
+icons:
+  - icon.png
 ---
 
 Inflation Hedging Coin (IHC) was founded to provide an alternative way to secure your wealth without the interference of the monetary hierarchy system in fighting against inflation, starting with a blockchain based form of finance, Decentralized Finance.

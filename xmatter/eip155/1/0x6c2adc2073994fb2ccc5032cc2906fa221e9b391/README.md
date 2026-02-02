@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#385cb5"
+icons:
+  - icon.png
 ---
 
 Delphy is a distributed, social mobile prediction market platform built on Ethereum..

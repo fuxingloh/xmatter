@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2f2639"
+icons:
+  - icon.png
 ---
 
 Alongside our limited edition NFT’s, Floki Rocket is a low tax reward token which has been designed to generously reward you in $BNB simply for holding!

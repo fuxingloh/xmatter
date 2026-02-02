@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#892d22"
+icons:
+  - icon.png
 ---
 
 The biggest BNB reflection token and the only one with auto-claim feature. Simply hold $TIKI tokens in your wallet and you'll earn BNB.

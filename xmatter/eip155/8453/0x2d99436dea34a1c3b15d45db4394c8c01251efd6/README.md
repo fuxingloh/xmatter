@@ -14,6 +14,7 @@ name: Dog on Base
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 Discover a gateway to parallel universe.

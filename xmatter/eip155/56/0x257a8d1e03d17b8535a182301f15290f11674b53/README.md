@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9cfa2"
+icons:
+  - icon.png
 ---
 
 Kawaii Islands is a NFT simulation play-to-earn game that creates a fantasy universe on the cloud for multiplayers to experience a whole set of simulation gaming with farming, crafting, home designing, styling and social-networking.

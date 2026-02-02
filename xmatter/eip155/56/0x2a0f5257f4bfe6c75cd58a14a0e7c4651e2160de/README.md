@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d4a1ed"
+icons:
+  - icon.png
 ---
 
 A Deflationary Cryptocurrency on Binance Smart Chain.

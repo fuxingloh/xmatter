@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ef9b42"
+icons:
+  - icon.png
 ---
 
 Merit Circle is a game guild DAO focusing on maximizing yield across play to earn (p2e) games and the metaverse. The DAO will manage capital which will be allocated among managers and players in order to earn yield by playing games.

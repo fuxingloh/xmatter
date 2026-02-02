@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ba9132"
+icons:
+  - icon.png
 ---
 
 Charity token is created for donation purposes only. Charity token is a simple ERC-20 token designed for contributions to your favorite charities and disaster relief services.

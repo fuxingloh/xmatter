@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e6dcd1"
+icons:
+  - icon.png
 ---
 
 Kokoswap is a unique decentralised platform that is transforming the world of crypto, NFTs & Game-Fi.

@@ -32,6 +32,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f2a22e"
+icons:
+  - icon.png
 ---
 
 GMR: The nexus of gaming and blockchain. Trade, play, interact, and thrive in a digital world powered by the $GMR token.

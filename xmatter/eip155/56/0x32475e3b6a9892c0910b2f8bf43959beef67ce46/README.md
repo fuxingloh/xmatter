@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#acd036"
+icons:
+  - icon.png
 ---
 
 Block World is an AI-powered GameFi metaverse where players interact with smart NPCs, earn rewards, and trade NFTs in a decentralized ecosystem. AI-driven NPCs create dynamic quests and adaptive gameplay, making every experience unique.

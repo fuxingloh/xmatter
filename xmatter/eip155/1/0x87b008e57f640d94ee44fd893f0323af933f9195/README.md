@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc1464"
+icons:
+  - icon.png
 ---
 
 COIN is a social token created by Coin Artist, a collaborative governance token for the Coin Artist ecosystem.

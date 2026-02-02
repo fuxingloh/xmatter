@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#040705"
+icons:
+  - icon.png
 ---
 
 $Yafa is a Solana-based memecoin that aims to create economic independence for Palestinians and immortalize Palestinian culture on the blockchain.

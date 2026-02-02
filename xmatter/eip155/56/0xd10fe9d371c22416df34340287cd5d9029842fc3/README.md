@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#82d3e8"
+icons:
+  - icon.png
 ---
 
 Galaxy Heroes Coin is more than just a token. It will have a never seen before NFT platform and gaming app. Be a hero, a Galaxy Hero!

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e3bb23"
+icons:
+  - icon.png
 ---
 
 BATH is the token that drives the Battle Hero economy, with it you can buy chests, use the marketplace, upgrade rarities and many other things.

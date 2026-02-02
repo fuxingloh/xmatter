@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f7ca7e"
+icons:
+  - icon.png
 ---
 
 CHUCK is a community-centric project with a focus on spotlighting the BASE ecosystem supporting dog charities. This initiative marks CHUCK as the first meme coin with a direct focus on benefiting our furry friends, aligning with the wider meme culture prevalent in the crypto industry.

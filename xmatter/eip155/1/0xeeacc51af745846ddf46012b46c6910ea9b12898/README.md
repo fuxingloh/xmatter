@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#191814"
+icons:
+  - icon.png
 ---
 
 Join DogeChaser, Lead The World!

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#393c3c"
+icons:
+  - icon.png
 ---
 
 Orbler is a dynamic Web3 marketing platform bridging Web2 audiences, offering missions, staking, and community-driven growth strategies.

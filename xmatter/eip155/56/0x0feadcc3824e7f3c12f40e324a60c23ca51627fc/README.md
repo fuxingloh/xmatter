@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#141434"
+icons:
+  - icon.png
 ---
 
 WardenSwap is the digital asset exchange platform that uses an algorithm to find the best rate for Binance Smart Chain automatically.

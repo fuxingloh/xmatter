@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#a77c5d"
+icons:
+  - icon.png
 ---
 
 meke merica bleck agin

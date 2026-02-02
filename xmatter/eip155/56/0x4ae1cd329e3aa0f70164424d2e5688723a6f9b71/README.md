@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#041d33"
+icons:
+  - icon.png
 ---
 
 The CrossFi App is a groundbreaking innovation in digital banking, revolutionizing the way traditional finance integrates with the cryptocurrency world.

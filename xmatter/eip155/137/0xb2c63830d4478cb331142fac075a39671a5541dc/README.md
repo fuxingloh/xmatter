@@ -19,6 +19,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fcd144"
+icons:
+  - icon.png
 ---
 
 BOMB, the native utility token of Bomb Crypto 2 is used to play, exchange, and trade on the ecosystem.

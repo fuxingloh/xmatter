@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7367de"
+icons:
+  - icon.png
 ---
 
 The Yfed Platform will feature two types of Staking. Regular Staking & Fixed Deposit Staking

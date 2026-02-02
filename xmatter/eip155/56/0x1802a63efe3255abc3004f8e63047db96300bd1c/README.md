@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e58d2e"
+icons:
+  - icon.png
 ---
 
 DYNASTY is a Play to Earn NFT Role-Playing Game , Launchpad platform , wallet Dynasty

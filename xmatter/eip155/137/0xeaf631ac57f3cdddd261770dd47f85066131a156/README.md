@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5739fb"
+icons:
+  - icon.png
 ---
 
 Equalizer is the first dedicated flash loan marketplace that can handle the rising demand for DeFi lending and borrowing. It sets itself apart by offering the lowest fees and transaction costs, a virtually unlimited choice of token vaults, high liquidity through yield farming, scalable, multi-chain infrastructure, and integration friendly.

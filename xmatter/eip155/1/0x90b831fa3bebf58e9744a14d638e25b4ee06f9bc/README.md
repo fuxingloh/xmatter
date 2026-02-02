@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#944be8"
+icons:
+  - icon.png
 ---
 
 MIMO token is the Governance Token of PAR Token

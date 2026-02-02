@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#171c5c"
+icons:
+  - icon.png
 ---
 
 AMLT Oracle, DeFi's first smart contract-based solution for AML compliance.

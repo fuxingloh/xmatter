@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d1e7df"
+icons:
+  - icon.png
 ---
 
 SURF.Finance is a financial experiment that aims to discover what happens when a transparent team fairly launches a governance token that is designed to reward long-term holders

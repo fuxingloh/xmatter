@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#141414"
+icons:
+  - icon.png
 ---
 
 The Bankless DeFi Innovation Index is a simple composite index which will be built on Set Protocol. The index screens for promising early stage DeFi projects which are not yet considered blue chip. GMI attempts to produce an optimal weighting via the use of a combination of square-root market cap, relative secondary market liquidity, and relative token dilution/emission scoring.

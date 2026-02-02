@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#252221"
+icons:
+  - icon.png
 ---
 
 Bird Dog from Matt Furie’s #BOYSCLUB, the ultimate mascot for 2025 $BNB - loyal, chaotic, and down for whatever, just like Degens.

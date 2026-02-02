@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc5c34"
+icons:
+  - icon.png
 ---
 
 Building the tools for the new data economy.

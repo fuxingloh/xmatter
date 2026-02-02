@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#edd63c"
+icons:
+  - icon.png
 ---
 
 Coinye West is the oldest meme and most memorable memecoin in existence that pays homage to the world's oldest and most beloved meme.

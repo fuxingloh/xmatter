@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#fad315"
+icons:
+  - icon.png
 ---
 
 the duk fuks on Solana dev tried to rug us, twice, but we took over and made this the only duk that fuks

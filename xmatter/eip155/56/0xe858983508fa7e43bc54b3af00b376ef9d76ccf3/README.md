@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f7cb27"
+icons:
+  - icon.png
 ---
 
 A random meme to verify the formula τ = 2π. First TAU on fourmeme.

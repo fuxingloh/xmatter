@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#242524"
+icons:
+  - icon.png
 ---
 
 Stable PERL is the stablecoin created for the PERL.eco community. Backed by both a treasury of PERL and collateral of USDC this ERC20 token can be redeemed for USDC at anytime and also provides a vote for governance of the PERL treasury.

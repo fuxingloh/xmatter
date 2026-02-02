@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b170c3"
+icons:
+  - icon.png
 ---
 
 CR7 Token is a token built for the next generation of fan engagement and the digital assets that power it!

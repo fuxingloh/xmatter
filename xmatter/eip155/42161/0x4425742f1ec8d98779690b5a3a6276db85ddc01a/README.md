@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d4be89"
+icons:
+  - icon.png
 ---
 
 The most iconic meme in internet history, the original Doge, fractionalized and available for anyone to own. Fractionalizing this NFT means that now anyone can own a piece of one of the most recognized and loved images of our generation.

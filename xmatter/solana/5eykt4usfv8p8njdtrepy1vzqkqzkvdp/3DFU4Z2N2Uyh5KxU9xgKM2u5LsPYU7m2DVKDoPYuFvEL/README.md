@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#2d321d"
+icons:
+  - icon.png
 ---
 
 Iggy Azalea's Dog meme token

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#1d1c1f"
+icons:
+  - icon.png
 ---
 
 Zerebro is an autonomous AI system crafted to create, distribute, and analyze content across decentralized and social platforms

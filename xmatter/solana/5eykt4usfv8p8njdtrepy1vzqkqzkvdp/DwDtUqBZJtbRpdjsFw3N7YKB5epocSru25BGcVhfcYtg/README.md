@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#e9c3ba"
+icons:
+  - icon.png
 ---
 
 Deep Worm 𝕏 has moved to @deepwormxyz

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#55da5b"
+icons:
+  - icon.png
 ---
 
 SafeBull plans to develop a non-fungible token (NFT) exchange, as well as charity projects and crypto educational apps.

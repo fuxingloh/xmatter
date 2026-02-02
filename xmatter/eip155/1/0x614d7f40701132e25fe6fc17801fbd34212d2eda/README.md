@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ec0505"
+icons:
+  - icon.png
 ---
 
 SafeBLAST token is an autonomous yield and Liquidity generation protocol. Every transaction reduces the total circulating supply of BLAST. Every wallet HODLers automatically gets rewarded with a 5% distribution on each transaction. Each transaction also creates a 5% liquidity, which is automatically LOCKED.

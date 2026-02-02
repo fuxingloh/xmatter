@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e6b1a3"
+icons:
+  - icon.png
 ---
 
 Kiba Inu is creating an all in one dex trading platform for meme coins and will include built-in honeypot checker, reflections gains tracker in USD value with charts on the swap platform.

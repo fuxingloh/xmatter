@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dc3c54"
+icons:
+  - icon.png
 ---
 
 Dollar Protocol is a suite of algorithmic synthetics governed by Share

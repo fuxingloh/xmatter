@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3c4b7a"
+icons:
+  - icon.png
 ---
 
 AMO Coin (AMO) is a cryptocurrency and operates on the Ethereum platform.

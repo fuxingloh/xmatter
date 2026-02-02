@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3d55a4"
+icons:
+  - icon.png
 ---
 
 Revival is a BEP-20 Token that gives 11% reflections paid in BNB so you do not have to tap into your RVL holdings to use your reflections!

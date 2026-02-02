@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1d161f"
+icons:
+  - icon.png
 ---
 
 Value-oriented, economically sustainable hybrid yield aggregator on Polygon.

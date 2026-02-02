@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e02018"
+icons:
+  - icon.png
 ---
 
 ZB Token (ZB) is an exchange token and the native currency of the ZB.COM crypto exchange.

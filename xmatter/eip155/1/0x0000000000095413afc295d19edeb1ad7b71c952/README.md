@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#272744"
+icons:
+  - icon.png
 ---
 
 LON backs the Tokenlon decentralized exchange and payment settlement protocol based on Ethereum blockchain technology. It currently powers Tokenlon DEX, a decentralized exchange and payment settlement protocol which aims to provide a secure, reliable and seamless trading experience to the masses.

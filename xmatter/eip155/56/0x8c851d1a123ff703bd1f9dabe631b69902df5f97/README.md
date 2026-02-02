@@ -14,6 +14,7 @@ name: BinaryX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 BinaryX is a decentralized derivatives contract based on BSC. Users can trade binary options via BinaryX which adopts an improved AMM model.

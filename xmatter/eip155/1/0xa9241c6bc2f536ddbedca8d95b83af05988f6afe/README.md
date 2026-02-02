@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#133c5d"
+icons:
+  - icon.png
 ---
 
 We are a partner of QQQ, as our name suggests : PWQ = Partner With QQQ

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbdc0b"
+icons:
+  - icon.png
 ---
 
 Arbitrage Token

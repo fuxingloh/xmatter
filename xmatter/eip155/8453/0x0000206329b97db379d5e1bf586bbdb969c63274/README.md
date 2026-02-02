@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e6f2f1"
+icons:
+  - icon.png
 ---
 
 Supercharge your DeFi journey with USDA, the most complete & reliable yield-bearing U.S. Dollar stablecoin

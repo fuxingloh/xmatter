@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0463d3"
+icons:
+  - icon.png
 ---
 
 iYearn Finance is an independent FORK from Yearn Finance technology that is built to be reliable, independent and profitable.

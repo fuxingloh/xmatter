@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#457ebd"
+icons:
+  - icon.png
 ---
 
 Taklimakan Network describes itself as an AI and blockchain-based social network platform for crypto-enthusiasts and ordinary users.

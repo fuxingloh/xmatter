@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#56b4cc"
+icons:
+  - icon.png
 ---
 
 A decentralised banking platform that leverages blockchain and biometrics to offer anyone in the world access to a UK bank account for peer-to-peer financial services.

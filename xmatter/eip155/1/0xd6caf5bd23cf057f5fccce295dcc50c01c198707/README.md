@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ab0984"
+icons:
+  - icon.png
 ---
 
 Layer0 Network Infrastructure & Private Finance Protocol Platform for Web3

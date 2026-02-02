@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b4a637"
+icons:
+  - icon.png
 ---
 
 The KARRAT protocol is a decentralized gaming infrastructure layer, supported by $KARRAT and empowered by a truly decentralized community with a shared vision embracing gaming, entertainment and AI products catering for the new era.

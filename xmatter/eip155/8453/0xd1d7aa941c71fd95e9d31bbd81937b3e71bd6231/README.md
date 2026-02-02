@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#282f53"
+icons:
+  - icon.png
 ---
 
 An AI agent designed to predict the future market capitalization of cryptocurrencies using advanced algorithms and real-time data analysis.

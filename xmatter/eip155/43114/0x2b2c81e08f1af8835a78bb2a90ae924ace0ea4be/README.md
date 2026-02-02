@@ -33,6 +33,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04b3ec"
+icons:
+  - icon.png
 ---
 
 Staked AVAX, sAVAX, represents each user's ownership of their staked AVAX position in BENQI Liquid Staking. The yield-bearing asset grants users the ability to remain liquid and participate within other DeFi applications such as AAVE, Trader Joe, Platypus and BENQI.

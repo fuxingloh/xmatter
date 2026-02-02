@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f6b735"
+icons:
+  - icon.png
 ---
 
 Walk more to enter various Battle-games with your CATthletes within Walken® Platform.

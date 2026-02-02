@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f70a04"
+icons:
+  - icon.png
 ---
 
 SFMONEY stands firmly in support of financial freedom and the liberty that SFMONEY provides globally for anyone to voluntarily participate in a permissionless and decentralized network.

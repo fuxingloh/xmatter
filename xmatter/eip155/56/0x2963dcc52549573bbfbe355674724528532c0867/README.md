@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#242c4c"
+icons:
+  - icon.png
 ---
 
 Metaverse platform made for artists and content creators

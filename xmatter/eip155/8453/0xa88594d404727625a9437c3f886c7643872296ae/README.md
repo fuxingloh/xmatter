@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2474dc"
+icons:
+  - icon.png
 ---
 
 Moonwell is an open lending and borrowing app built on Base, Moonbeam, and Moonriver.

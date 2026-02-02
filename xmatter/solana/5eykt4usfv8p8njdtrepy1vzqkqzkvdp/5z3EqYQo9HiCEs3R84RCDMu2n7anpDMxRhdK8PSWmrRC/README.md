@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f7b20b"
+icons:
+  - icon.png
 ---
 
 PONKE is a degenerate gambler with anger issues on the Solana network.

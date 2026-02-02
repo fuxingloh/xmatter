@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1e0d19"
+icons:
+  - icon.png
 ---
 
 Wolf is one of the Boy’s Club, best friends with Andy and Pepe

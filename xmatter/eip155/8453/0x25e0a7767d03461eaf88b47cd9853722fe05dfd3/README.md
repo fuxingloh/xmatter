@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c1cec"
+icons:
+  - icon.png
 ---
 
 PoSciDonDAO is a decentralized autonomous organization that leverages the Base blockchain network to redefine personalized medicine research funding. Healthcare spending is growing every year, and treatment plans for life-altering diseases such as cancer are still a shot in the dark. Patients are treated with different therapies and both patients and doctors hope that one of these treatments will be effective.

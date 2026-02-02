@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f9fbfb"
+icons:
+  - icon.png
 ---
 
 Infinity is a multi-LST liquidity pool (LP). Most LPs only have two assets (e.g. USDC-SOL). Some LPs, like a Curve stableswap pool, support three or four assets

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c68f7a"
+icons:
+  - icon.png
 ---
 
 Bingus Token is the latest DEFI project with claws to release on the Binance Smart Chain. NFT & Shelter donations ongoing.

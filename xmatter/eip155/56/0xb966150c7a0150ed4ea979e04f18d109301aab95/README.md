@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#553c15"
+icons:
+  - icon.png
 ---
 
 $STONKS is a community driven fair launched DeFi token. Reflection, Lp acquisition and Burn happens in every trade. It aims to launch a gaming exchange platform to build utility around the token.

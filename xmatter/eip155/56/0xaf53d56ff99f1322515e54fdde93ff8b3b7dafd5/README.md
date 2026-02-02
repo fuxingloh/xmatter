@@ -32,6 +32,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ea8082"
+icons:
+  - icon.png
 ---
 
 Prom is a gaming NFT marketplace & rental. Completely decentralized, confidential, and safe, it meets the needs of players, metaverse-enthusiasts, NFT owners, guilds, and games.

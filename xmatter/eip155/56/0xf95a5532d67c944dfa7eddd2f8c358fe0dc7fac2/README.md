@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#27f054"
+icons:
+  - icon.png
 ---
 
 MARBLEX, under the slogan “Fun Comes First,” uses blockchain technology to build a next-generation gaming and content ecosystem that prioritizes fun and immersion.

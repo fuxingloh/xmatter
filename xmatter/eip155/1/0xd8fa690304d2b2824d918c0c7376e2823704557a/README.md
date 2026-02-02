@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eee628"
+icons:
+  - icon.png
 ---
 
 SquidGrow was conceptualized by anonymous crypto billionaire “Shibtoshi” and is pushing boundaries and setting precedents for a growing meme-utility token.

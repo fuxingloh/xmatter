@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#05ba8c"
+icons:
+  - icon.png
 ---
 
 Cobinhood (COB) is a cryptocurrency and operates on the Ethereum platform.

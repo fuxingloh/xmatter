@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e25d0e"
+icons:
+  - icon.png
 ---
 
 Welcome to the new era of financial simplicity! Streamline your cryptocurrency journey with our AI Agents.

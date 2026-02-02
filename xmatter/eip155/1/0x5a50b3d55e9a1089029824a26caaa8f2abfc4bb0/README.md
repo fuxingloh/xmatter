@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c8d8eb"
+icons:
+  - icon.png
 ---
 
 A Yield Farming Project.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#625252"
+icons:
+  - icon.png
 ---
 
 Ruletka (RTK) is an incentive-based deflationary game currency. its 1 in 6 chance burn mechanism simulates the Russian Roulette and is used in games by reward-seeking players.

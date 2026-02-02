@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9eecf"
+icons:
+  - icon.png
 ---
 
 RABBIT token is a governance token of the Rabbit Finance. It will also capture the economic benefits of the protocol.

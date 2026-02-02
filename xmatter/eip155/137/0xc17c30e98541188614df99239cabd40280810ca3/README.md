@@ -33,6 +33,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c43a2e"
+icons:
+  - icon.png
 ---
 
 The Original Buyback Token Powering The EverRise Ecosystem. EverRise token (RISE) is a multi-chain collateralized cryptocurrency that protects both the ecosystem and investors with its innovative buyback and staking protocol.

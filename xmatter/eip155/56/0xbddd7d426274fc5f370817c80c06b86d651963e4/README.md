@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f2e5fb"
+icons:
+  - icon.png
 ---
 
 Moola a token for an upcoming defi statistics platform and deflationary yield farming dapp

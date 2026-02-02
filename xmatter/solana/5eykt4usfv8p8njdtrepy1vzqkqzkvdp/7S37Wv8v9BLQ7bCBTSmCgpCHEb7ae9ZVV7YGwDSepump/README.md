@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#74150d"
+icons:
+  - icon.png
 ---
 
 OSRS Santa Hat

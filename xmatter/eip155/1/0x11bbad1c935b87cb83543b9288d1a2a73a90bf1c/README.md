@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#13a46c"
+icons:
+  - icon.png
 ---
 
 Hexultra - the ultimate deflationary token

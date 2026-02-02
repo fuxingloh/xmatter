@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f2f683"
+icons:
+  - icon.png
 ---
 
 BabyflokiBillionaire is a meme token based on Floki hype

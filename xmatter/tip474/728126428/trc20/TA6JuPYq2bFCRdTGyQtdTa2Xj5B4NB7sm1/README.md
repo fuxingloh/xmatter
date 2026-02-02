@@ -10,6 +10,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#451e5b"
+icons:
+  - icon.png
 ---
 
 Power Cash is a low-fee consensus platform designed for real estate asset management.

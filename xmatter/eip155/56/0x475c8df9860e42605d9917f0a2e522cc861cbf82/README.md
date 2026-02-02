@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#430845"
+icons:
+  - icon.png
 ---
 
 Scorpion Finance is one of the newest and forward-looking innovation projects in cryptocurrency platforms. Scorpion-finance aims to interconnect Blockchain services like Defi, NFT, Gaming, Payment and Marketplace under one seamless, responsive, and easy-to-use ecosystem.

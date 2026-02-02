@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dcdddd"
+icons:
+  - icon.png
 ---
 
 0x0.ai focuses on privacy, advanced AI-based safety tools, and a unique revenue-sharing model. With its cutting-edge technology, secure transactions, and opportunities for passive income, 0x0 revolutionizes the DeFi landscape.

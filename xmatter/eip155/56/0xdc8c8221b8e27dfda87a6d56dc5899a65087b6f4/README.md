@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f6a9c0"
+icons:
+  - icon.png
 ---
 
 Flokita is a community-driven decentralized meme token with a dedicated team.

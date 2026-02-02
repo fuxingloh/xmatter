@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ecd6c1"
+icons:
+  - icon.png
 ---
 
 ShibS token is a community driven token with automatic LP and reflective rewards.

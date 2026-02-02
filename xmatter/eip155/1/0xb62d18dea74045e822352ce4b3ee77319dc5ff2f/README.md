@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1e2263"
+icons:
+  - icon.png
 ---
 
 EventChain (EVC) is a cryptocurrency and operates on the Ethereum platform.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bda462"
+icons:
+  - icon.png
 ---
 
 BITCOIN PLUS offers a comprehensive solution to the major problems faced by the traditional, fiat-driven monetary system. Building a crypto powered ecosystem comprising BITCOIN PLUS Token.

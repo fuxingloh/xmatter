@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eb731f"
+icons:
+  - icon.png
 ---
 
 The revolutionary new auto-yield token with an added chance to win a jackpot of BNB. Every single day!

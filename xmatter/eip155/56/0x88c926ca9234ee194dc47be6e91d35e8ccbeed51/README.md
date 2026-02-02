@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dad0cc"
+icons:
+  - icon.png
 ---
 
 Wen moo? A deflationary DeFi token/cow that wants to take you to the moon.

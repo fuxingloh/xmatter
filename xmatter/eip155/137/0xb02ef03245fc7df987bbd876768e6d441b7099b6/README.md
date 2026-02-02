@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c1c2c"
+icons:
+  - icon.png
 ---
 
 A FLY2EARN platform with Social-Fi and Game-Fi elements. Earn token rewards when traveling by air and generate earnings by renting your own planes.

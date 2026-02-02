@@ -32,6 +32,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c0b1c"
+icons:
+  - icon.png
 ---
 
 Vulkania offers customizable Blockchain Dashboards, one stop solutions for gathering data of crypto projects while saving time.

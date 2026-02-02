@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#050808"
+icons:
+  - icon.png
 ---
 
 The mission of Operation Phoenix is simple. To become what SafeMoon should have been.

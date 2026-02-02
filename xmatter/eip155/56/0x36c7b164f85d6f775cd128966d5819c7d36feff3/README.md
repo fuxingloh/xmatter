@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#41aed7"
+icons:
+  - icon.png
 ---
 
 OPENLIVE NFT is a decentralized marketplace where users can generate, store, buy & sell NFTs.

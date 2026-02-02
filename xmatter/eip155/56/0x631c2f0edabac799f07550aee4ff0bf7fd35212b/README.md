@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e4a513"
+icons:
+  - icon.png
 ---
 
 Smart contract on the blockchain network for non-centralized management of a global social lottery pool

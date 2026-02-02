@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e3047b"
+icons:
+  - icon.png
 ---
 
 Polkadot is a blockchain project that aims to connect blockchains, to enable the transfer of value and logic across chains.

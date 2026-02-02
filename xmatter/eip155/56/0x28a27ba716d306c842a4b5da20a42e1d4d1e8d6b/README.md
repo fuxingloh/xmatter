@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#090804"
+icons:
+  - icon.png
 ---
 
 BitUp is the first automatic rebasing token on Binance Smart Chain that is programed to keep the chart constantly in a uptrend and also provides Bitcoin rewards to holders!

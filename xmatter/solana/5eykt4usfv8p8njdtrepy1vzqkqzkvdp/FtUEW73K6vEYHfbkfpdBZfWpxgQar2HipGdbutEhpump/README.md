@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#fa931c"
+icons:
+  - icon.png
 ---
 
 $titcoin the breast technology.

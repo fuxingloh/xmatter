@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6cc484"
+icons:
+  - icon.png
 ---
 
 Building an entire decentralized ecosystem specifically for GCC countries and driving the momentum to establish a censor-ship resistant cryptocurrency across the Gulf. Focusing upon changing the way Emiratis do transactions and manage their wealth.

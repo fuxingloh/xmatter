@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#aef7c3"
+icons:
+  - icon.png
 ---
 
 All Sports (SOC) is a cryptocurrency and operates on the Ethereum platform.

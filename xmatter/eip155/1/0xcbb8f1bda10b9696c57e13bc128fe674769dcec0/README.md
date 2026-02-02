@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1ca76c"
+icons:
+  - icon.png
 ---
 
 The first peer-to-peer network for general purpose AI, powered by MOR

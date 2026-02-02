@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fb043b"
+icons:
+  - icon.png
 ---
 
 The $ART Token is a platform-independent Token for the art community. $ART is a Governance Token and backed by digital artworks.

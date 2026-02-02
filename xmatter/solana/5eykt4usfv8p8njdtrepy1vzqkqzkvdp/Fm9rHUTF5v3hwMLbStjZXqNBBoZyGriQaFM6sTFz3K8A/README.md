@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 UNKJD is the next-gen esports metaverse that enables players to Create, Play, Compete, and Earn.

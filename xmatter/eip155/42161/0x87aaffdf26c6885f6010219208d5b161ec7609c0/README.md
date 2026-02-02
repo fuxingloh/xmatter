@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#151613"
+icons:
+  - icon.png
 ---
 
 Equation is a decentralized perpetual protocol built on Arbitrum.

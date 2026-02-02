@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b98a5d"
+icons:
+  - icon.png
 ---
 
 FlokiBonk is a meme token on BSC, created to support and unite meme creators. FlokiBonk token has built-in automatic yield generation properties. 10% tax on each transaction split evenly to provide reflections to holders and increase the price floor through LP Acquisition

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f4c224"
+icons:
+  - icon.png
 ---
 
 A new deflationary token with 5% fees are distributed and 5% fees are added to liquidity pool.

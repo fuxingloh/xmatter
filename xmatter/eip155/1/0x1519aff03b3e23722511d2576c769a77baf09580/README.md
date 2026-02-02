@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#05144b"
+icons:
+  - icon.png
 ---
 
 The B91 platform aims to create a blockchain ecosystem that integrates digital wealth management application and distribution.

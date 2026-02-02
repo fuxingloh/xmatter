@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c1717"
+icons:
+  - icon.png
 ---
 
 With our generous passive income opportunities, innovative product development, and amazing community, ChubbyShiba checks all the boxes.

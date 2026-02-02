@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#b0aaa6"
+icons:
+  - icon.png
 ---
 
 Pesto is a community-driven cryptocurrency inspired by the adorable baby king penguin recently born in Melbourne.

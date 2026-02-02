@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9bebfb"
+icons:
+  - icon.png
 ---
 
 TAO Bot delivers AI-driven tools for automating trading strategies and market analysis.

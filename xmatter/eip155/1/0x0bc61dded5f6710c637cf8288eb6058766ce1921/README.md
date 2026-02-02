@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#043c64"
+icons:
+  - icon.png
 ---
 
 Coinsuper Ecosystem Network (CEN) is a cryptocurrency and operates on the Ethereum platform.

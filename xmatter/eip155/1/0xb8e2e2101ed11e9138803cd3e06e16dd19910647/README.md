@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#604b2a"
+icons:
+  - icon.png
 ---
 
 ArdCoin (ARDX) - is an innovative blockchain-based loyalty token that has been integrated into a mobile super wallet which is backed by an existing financial infrastructure which includes banking services, insurance provider, stock brokerage, investment banking and a pension fund.

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#27d0fa"
+icons:
+  - icon.png
 ---
 
 The Velas Metaverse. Velhalla is a metaverse unlike any other out there in the market.

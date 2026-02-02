@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#29013e"
+icons:
+  - icon.png
 ---
 
 BrandPad is a multi-chain liquidity manager for token pools and auctions powered by decentralized, infrastructure. We facilitate buying and transferring tokens between blockchains.

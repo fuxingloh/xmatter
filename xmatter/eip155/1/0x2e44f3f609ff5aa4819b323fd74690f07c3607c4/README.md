@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#111313"
+icons:
+  - icon.png
 ---
 
 PinLink is the first RWA-Tokenized DePIN platform, empowering users with fractionalized ownership of DePIN assets.

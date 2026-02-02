@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#742ff9"
+icons:
+  - icon.png
 ---
 
 A Unified Suite of DeFi Products on Solana

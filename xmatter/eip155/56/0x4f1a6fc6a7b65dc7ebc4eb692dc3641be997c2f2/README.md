@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ecb546"
+icons:
+  - icon.png
 ---
 
 HYPER DEFLATIONARY TOKEN WITH REFLECTIONS IN BUSD. Santa Came early bearing gifts…the gift that keeps on giving!

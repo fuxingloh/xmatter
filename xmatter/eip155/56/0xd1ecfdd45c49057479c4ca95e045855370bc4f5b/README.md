@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f21b62"
+icons:
+  - icon.png
 ---
 
 A Game Platform integrated with a next-generation NFT marketplace.

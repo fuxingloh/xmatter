@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f7b342"
+icons:
+  - icon.png
 ---
 
 Decentralized marketplace for sports consultants and sports bettors. SBX token used for betting, 10% cashback on losses. Staking Dapp live at Uniswap launch.

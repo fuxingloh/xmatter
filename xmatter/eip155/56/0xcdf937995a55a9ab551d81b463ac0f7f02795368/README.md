@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f6f3f9"
+icons:
+  - icon.png
 ---
 
 VSC is a blockchain built to solve the issue of health data collection, validation, distribution, and ownership. VSC serve the IoT, Wearable technology, and Heath Data industry.

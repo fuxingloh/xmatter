@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04b704"
+icons:
+  - icon.png
 ---
 
 Yearn Finance Bit is a decentralized token under ERC-20 protocol, allows users to stake YFBT, borrow assets, and vote for improvements within the community.

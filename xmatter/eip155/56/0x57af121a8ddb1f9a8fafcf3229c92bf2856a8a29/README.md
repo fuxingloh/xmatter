@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8cede6"
+icons:
+  - icon.png
 ---
 
 A soccer community with NFTs, Farms, DeFi, and sports betting platfrom.

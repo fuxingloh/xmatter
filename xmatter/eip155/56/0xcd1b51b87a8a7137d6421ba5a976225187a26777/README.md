@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f47424"
+icons:
+  - icon.png
 ---
 
 L7 is a Web3 digital asset management and traffic aggregation platform.

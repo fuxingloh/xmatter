@@ -32,6 +32,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5bbbba"
+icons:
+  - icon.png
 ---
 
 The Rabi project is a DeFi application built on the Binance Smart Chain blockchain. It generates Rabi tokens that are soft-pegged to Bitcoin, gold, oil, the US dollar, and shares of technology companies.

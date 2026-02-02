@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ecd333"
+icons:
+  - icon.png
 ---
 
 Hercules is a decentralized blockchain protocol platform that enables anyone to operate a fully functioning supply chain.

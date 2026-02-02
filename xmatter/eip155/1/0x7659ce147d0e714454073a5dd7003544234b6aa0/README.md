@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b52493"
+icons:
+  - icon.png
 ---
 
 XCAD network is a tokenisation platform for content creators & their fans. Think CHZ fan tokens but for content creators

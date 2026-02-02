@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#242c4c"
+icons:
+  - icon.png
 ---
 
 Atomic Wallet is a decentralized cryptocurrency wallet that supports more than 500 coins and tokens, providing simplicity, safety, and convenience for its users.

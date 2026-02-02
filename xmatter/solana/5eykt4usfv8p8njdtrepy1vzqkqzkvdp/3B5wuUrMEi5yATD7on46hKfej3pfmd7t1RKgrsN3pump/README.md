@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#a69d7f"
+icons:
+  - icon.png
 ---
 
 $BILLY is the cutest dog on Solana, on a mission to be worth billyons and billyons!

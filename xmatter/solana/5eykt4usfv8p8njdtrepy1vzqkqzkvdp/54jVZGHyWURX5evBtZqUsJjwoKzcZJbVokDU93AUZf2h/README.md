@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#579bc8"
+icons:
+  - icon.png
 ---
 
 SolStream is a decentralized protocol-sdk on the Solana blockchain, designed for Web3 creators and developers.

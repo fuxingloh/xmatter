@@ -38,6 +38,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#000000"
+icons:
+  - icon.png
 ---
 
 Axelar delivers secure cross-chain communication for Web3. Our infrastructure enables dApp users to interact with any asset or application, on any chain, with one click.

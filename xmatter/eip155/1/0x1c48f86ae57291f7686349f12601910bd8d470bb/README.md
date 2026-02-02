@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c74f4"
+icons:
+  - icon.png
 ---
 
 USDK (USDK) is a cryptocurrency and operates on the Ethereum platform.

@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#230b1c"
+icons:
+  - icon.png
 ---
 
 Next generation AMM and yield farm with deflationary token model on Binance Smart Chain.

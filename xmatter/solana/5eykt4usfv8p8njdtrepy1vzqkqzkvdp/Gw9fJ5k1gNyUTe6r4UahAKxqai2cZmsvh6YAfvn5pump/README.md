@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#cecbc8"
+icons:
+  - icon.png
 ---
 
 Real Donald Trump

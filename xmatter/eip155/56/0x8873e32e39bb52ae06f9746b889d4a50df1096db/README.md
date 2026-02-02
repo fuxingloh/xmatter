@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ebebeb"
+icons:
+  - icon.png
 ---
 
 https://linktr.ee/YZYCoin

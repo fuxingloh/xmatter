@@ -9,6 +9,7 @@ name: Fake XLM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
+icons: []
 ---
 
 Fake XLM

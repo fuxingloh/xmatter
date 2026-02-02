@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e56023"
+icons:
+  - icon.png
 ---
 
 NFTD is a smart NFT supermarket system for digitals products. In this smart shopping system, the sellers and each product they sell are identified as a unique tokenID. Once the transaction is completed, the buyer's ownership will be confirmed immediately.

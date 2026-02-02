@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#13bcac"
+icons:
+  - icon.png
 ---
 
 UNIFI is a Defi coin used to interact in the UNifi decentralized financial eco-sysytem

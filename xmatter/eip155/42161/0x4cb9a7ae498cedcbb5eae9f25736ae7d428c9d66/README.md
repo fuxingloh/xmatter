@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ef041a"
+icons:
+  - icon.png
 ---
 
 The Xai token has a dual role on the Xai blockchain. It serves as the gas token for transactions and rewards validator nodes. Moreover, it is the main currency in the gaming ecosystem, accepted for game purchases and in-game items.

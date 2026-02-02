@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#21795d"
+icons:
+  - icon.png
 ---
 
 The ultimate memecoin of the wassie revolution.

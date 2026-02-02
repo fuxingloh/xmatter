@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a3fb34"
+icons:
+  - icon.png
 ---
 
 Niftyx is building a decentralised protocol for NFT trading and minting.

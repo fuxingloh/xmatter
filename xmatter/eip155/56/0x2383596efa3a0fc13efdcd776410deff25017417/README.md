@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#830ae3"
+icons:
+  - icon.png
 ---
 
 Soul Quantum Void is an innovative WEB3 MEME project based on new blockchain technology, linking tokens and NFTs.

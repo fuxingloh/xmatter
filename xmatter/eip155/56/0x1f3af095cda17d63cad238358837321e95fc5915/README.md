@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#63fba3"
+icons:
+  - icon.png
 ---
 
 Mint Club is a smart token building platform that has no need to code and provides instant liquidity. Anyone can launch a smart token with just a few simple clicks.

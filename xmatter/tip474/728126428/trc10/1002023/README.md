@@ -10,6 +10,8 @@ standards:
   - trc10
 icon: icon.png
 color: "#267c35"
+icons:
+  - icon.png
 ---
 
 A Multi-Utility Gaming Token Utilized Across Multiple Platforms.

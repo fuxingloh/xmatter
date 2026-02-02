@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e8d380"
+icons:
+  - icon.png
 ---
 
 Hedget is a decentralised protocol for options trading.

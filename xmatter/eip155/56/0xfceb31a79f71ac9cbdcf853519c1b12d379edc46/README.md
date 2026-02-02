@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1e1d8c"
+icons:
+  - icon.png
 ---
 
 Lista DAO is a liquid staking and decentralized stablecoin protocol. Users can undergo staking and liquid staking on Lista, as well as borrow lisUSD against a variety of decentralized collateral.

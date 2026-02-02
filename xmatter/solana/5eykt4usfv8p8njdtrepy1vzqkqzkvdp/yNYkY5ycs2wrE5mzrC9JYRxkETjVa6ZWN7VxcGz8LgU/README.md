@@ -8,6 +8,7 @@ name: FAKE USDT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
+icons: []
 ---
 
 FAKE USDT

@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#3e2e22"
+icons:
+  - icon.png
 ---
 
 Degen Spartan has been resurrected as an AI on X 24/7 @degenspartanai

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f0580e"
+icons:
+  - icon.png
 ---
 
 Burncoin is a super deflationary token thanks to the buy back protocol

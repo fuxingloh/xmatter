@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#ce985d"
+icons:
+  - icon.png
 ---
 
 The Would meme, emerging in September 2022, represents a significant moment in internet culture through its simple yet effective format

@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#cd8a9b"
+icons:
+  - icon.png
 ---
 
 Drift is a fully on-chain perpetual and spot DEX built on Solana.

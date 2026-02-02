@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#606dea"
+icons:
+  - icon.png
 ---
 
 LemoChain is a cross-application ecosystem for business data circulation, based on secure multi-party computation.

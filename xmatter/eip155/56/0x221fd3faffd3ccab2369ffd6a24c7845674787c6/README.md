@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d8a95e"
+icons:
+  - icon.png
 ---
 
 Galaxium Phoenix is a community driven DeFi Token. Price is determined on Reflection and Liquidity Pool acquisition.

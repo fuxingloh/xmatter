@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#1b1d1e"
+icons:
+  - icon.png
 ---
 
 WOOF tested the idea of the effect of burning tokens by creating a massive total supply of 1 Trillion tokens.

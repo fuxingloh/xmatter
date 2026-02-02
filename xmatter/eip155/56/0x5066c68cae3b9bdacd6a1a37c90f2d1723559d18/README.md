@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3282a7"
+icons:
+  - icon.png
 ---
 
 WIZARD is a first-of-a-kind fantasy token and NFT marketplace which brings a magical experience to all who behold it, combining crypto with games for multiplied rewards.

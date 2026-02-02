@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#ded3bd"
+icons:
+  - icon.png
 ---
 
 Memecoin in honor to the trending black SHIBA INU from tiktok with over 20M followers worldwide.

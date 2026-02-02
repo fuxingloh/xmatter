@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04f9f9"
+icons:
+  - icon.png
 ---
 
 The Collective is an all-in-one platform built to incubate, manage and develop communities, and help assure liquidity for the best Crypto Projects.

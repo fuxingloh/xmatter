@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#64c034"
+icons:
+  - icon.png
 ---
 
 WAX Economic Token

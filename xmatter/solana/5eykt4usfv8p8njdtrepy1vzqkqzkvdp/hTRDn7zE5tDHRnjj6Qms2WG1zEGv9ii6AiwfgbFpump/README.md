@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#383839"
+icons:
+  - icon.png
 ---
 
 Discover a world of creativity anew with hundreds of AI models on one platform

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7c5542"
+icons:
+  - icon.png
 ---
 
 SafeYield is a reflect token on the Binance Smart Chain A reflect fee is applied to all $SafeYield transactions and redistributes tokens directly to wallets of holders.

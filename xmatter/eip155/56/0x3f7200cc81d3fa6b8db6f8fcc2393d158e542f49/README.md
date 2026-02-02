@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#af9cb7"
+icons:
+  - icon.png
 ---
 
 Love Inu. Projects built on the foundation of community involvement are the untamed wilderness of our future.

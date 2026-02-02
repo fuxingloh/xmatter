@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#282629"
+icons:
+  - icon.png
 ---
 
 DATx (DATX) is a cryptocurrency and operates on the Ethereum platform.

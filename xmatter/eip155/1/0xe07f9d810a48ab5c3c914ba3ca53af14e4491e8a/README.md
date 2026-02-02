@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#242b32"
+icons:
+  - icon.png
 ---
 
 Revolution in resilience: put stablecoin risk control on autopilot.

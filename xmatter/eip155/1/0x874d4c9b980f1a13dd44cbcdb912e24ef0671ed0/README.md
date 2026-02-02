@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#909190"
+icons:
+  - icon.png
 ---
 
 The Guider platform aims to facilitate and expedite the search for a suitable guide for travelers.

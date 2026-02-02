@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eb9d42"
+icons:
+  - icon.png
 ---
 
 DOODify the world!

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c1d1f"
+icons:
+  - icon.png
 ---
 
 Welcome to Kekius Maximus, the ultimate meme coin of the BSC arena!

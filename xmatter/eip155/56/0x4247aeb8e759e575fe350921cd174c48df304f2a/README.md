@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3a4450"
+icons:
+  - icon.png
 ---
 
 AEDART is a community-driven project which has a deflationary mechanism.

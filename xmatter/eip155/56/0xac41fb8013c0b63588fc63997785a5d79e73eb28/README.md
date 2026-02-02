@@ -23,6 +23,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e7d195"
+icons:
+  - icon.png
 ---
 
 the main purpose of the FRZS token is to strengthen the solar energy industry

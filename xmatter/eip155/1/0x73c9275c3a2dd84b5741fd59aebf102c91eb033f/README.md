@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c1d27"
+icons:
+  - icon.png
 ---
 
 Bitball Ecosystem: All in one crypto Solution. Peer to Peer digital currencies with Multiple utilities.

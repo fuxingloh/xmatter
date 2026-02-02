@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#124870"
+icons:
+  - icon.png
 ---
 
 ICH It is a digital currency to support inventors and preserve their rights with smart and innovative solutions.

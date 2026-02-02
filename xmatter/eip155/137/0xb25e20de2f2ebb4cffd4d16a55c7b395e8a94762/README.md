@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04241c"
+icons:
+  - icon.png
 ---
 
 Request Network is the protocol for payment requests. They are immutably recorded processed without an intermediary. Companies, DAOs & individuals pay & get paid in cryptos of payment networks incl. Ethereum, BSC, & Fantom.

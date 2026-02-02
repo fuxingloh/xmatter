@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6cf1ab"
+icons:
+  - icon.png
 ---
 
 Trustless, distributed storage for decentralized applications

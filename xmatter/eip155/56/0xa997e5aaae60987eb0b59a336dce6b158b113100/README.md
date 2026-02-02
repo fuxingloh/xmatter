@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d0b534"
+icons:
+  - icon.png
 ---
 
 SeChain project is building the future of decentralized services, where the service provider & the customers can get the work done in decentralized environment.

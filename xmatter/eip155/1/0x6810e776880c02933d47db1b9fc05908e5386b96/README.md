@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#051b3b"
+icons:
+  - icon.png
 ---
 
 Gnosis is a decentralized prediction market built on the Ethereum protocol.

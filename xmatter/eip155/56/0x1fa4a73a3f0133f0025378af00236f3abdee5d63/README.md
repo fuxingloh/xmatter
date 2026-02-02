@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#24242c"
+icons:
+  - icon.png
 ---
 
 BNB pegged NEAR Protocol (NEAR BEP20) is a token issued by Binance on Smart Chain; its price is pegged to NEAR Protocol (NEAR) at a ratio of 1:1.

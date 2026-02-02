@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e9b013"
+icons:
+  - icon.png
 ---
 
 MetaMate is a unique social and dating metaverse combining a digital dating platform and an NFT game.

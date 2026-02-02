@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#050404"
+icons:
+  - icon.png
 ---
 
 yieldwatch.net is a smart yield farming dashboard that lets you monitor your liquidity pools, yield farming and token staking.

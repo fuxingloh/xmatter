@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#252c4c"
+icons:
+  - icon.png
 ---
 
 Eclipse is a multi-utility token to be used on Eclipse platforms.

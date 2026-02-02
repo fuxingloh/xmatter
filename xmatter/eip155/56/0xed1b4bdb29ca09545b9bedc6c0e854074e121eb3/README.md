@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fa13a3"
+icons:
+  - icon.png
 ---
 
 xxxNifty is a NSFW Adult Content NFT Marketplace.

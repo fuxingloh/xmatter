@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#243035"
+icons:
+  - icon.png
 ---
 
 Odyssey (OCN) is a cryptocurrency and operates on the Ethereum platform.

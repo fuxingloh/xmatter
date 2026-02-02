@@ -27,6 +27,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c5aa61"
+icons:
+  - icon.png
 ---
 
 Btc Game is a blockchain-based community driven social games experience that pays dividends to the players. The platform is filled with reward systems to give players many ways to win and earn over time.

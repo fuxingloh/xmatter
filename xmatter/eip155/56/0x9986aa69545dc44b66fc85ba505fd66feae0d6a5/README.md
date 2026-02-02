@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#401f27"
+icons:
+  - icon.png
 ---
 
 First Blockchain Based E-commerce System And Farming Bsc Token.

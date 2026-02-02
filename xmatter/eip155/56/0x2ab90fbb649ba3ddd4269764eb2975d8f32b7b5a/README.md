@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#000000"
+icons:
+  - icon.png
 ---
 
 SafeBank is the world's first Decentralized Bank which allows you to control your own finance. SafeBank is owned and operated by DafriBank Digital.

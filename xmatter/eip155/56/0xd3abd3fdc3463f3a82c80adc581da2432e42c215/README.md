@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#be6e29"
+icons:
+  - icon.png
 ---
 
 Golden Shiba Inu. Projects built on the foundation of community involvement are the untamed wilderness of our future.

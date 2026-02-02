@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#236b99"
+icons:
+  - icon.png
 ---
 
 A cryptocurrency supporting people with cerebral palsy (CP). Symbolizing strength, resilience, and inclusivity, it funds rehabilitation, education, and CP-related projects. Every transaction builds a society where everyone feels valued, regardless of physical abilities.

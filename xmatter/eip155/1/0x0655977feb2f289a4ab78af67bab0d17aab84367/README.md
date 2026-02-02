@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f2bc04"
+icons:
+  - icon.png
 ---
 
 Savings crvUSD (scrvUSD) is an interest-bearing stablecoin that accrues yield passively just by holding the token.

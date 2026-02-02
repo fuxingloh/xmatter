@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#15130d"
+icons:
+  - icon.png
 ---
 
 AlphaDOGE, the undisputed master of memecoins, embodies strength, confidence, and success.

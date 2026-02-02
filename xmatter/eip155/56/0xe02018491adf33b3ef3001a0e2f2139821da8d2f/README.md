@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fa4404"
+icons:
+  - icon.png
 ---
 
 Yield farm SPR on Binance Smart Chain.

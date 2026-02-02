@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#c5c58d"
+icons:
+  - icon.png
 ---
 
 TREEINCAT is a meme token inspired by the whimsical tale of a tree that finds itself stuck in a cat, told from the cat’s philosophical and confused perspective.

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#07ec8d"
+icons:
+  - icon.png
 ---
 
 FDUSD (First Digital USD) is a 1:1 USD-backed Stablecoin. FDUSD revolutionizes global finance with a cutting-edge digital stablecoin, providing businesses and builders with security, speed, and innovation worldwide.

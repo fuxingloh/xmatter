@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#726354"
+icons:
+  - icon.png
 ---
 
 Neural Janet ($JANET) is an Ethereum-based meme token that channels the charm of an AI NPC sharing random, witty thoughts online.

@@ -13,6 +13,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3bc2f9"
+icons:
+  - icon.png
 ---
 
 BlackPearl Token

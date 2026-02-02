@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0b338c"
+icons:
+  - icon.png
 ---
 
 12ships will make your journey to the blockchain investment.

@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04dbd3"
+icons:
+  - icon.png
 ---
 
 The ERTHA token is the primary utility token used to facilitate sustainable DAO design for the game's metaverse ecosystem as a whole.

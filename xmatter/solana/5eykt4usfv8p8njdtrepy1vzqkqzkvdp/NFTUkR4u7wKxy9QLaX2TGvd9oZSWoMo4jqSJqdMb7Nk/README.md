@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#444444"
+icons:
+  - icon.png
 ---
 
 Blockasset is a leading Web3 sports network with an officially parnership with the UFG, that connects its community with unique experiences through athlete partnerships and innovative products.

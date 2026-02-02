@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#009085"
+icons:
+  - icon.png
 ---
 
 The World’s First Business-Backed Blockchain Smart Economy.

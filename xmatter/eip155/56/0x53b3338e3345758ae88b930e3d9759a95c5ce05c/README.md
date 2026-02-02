@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d8d6d4"
+icons:
+  - icon.png
 ---
 
 First two-dimensional meta-universe Decentralized Meme Coin Creates the BEST Metaverse on BSC genshinfloki FUN METAVERSE = NFT + GameFi + SmartToy + GenshinFlokiInu

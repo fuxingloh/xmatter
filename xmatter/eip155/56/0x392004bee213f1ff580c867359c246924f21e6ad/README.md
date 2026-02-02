@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#246c5c"
+icons:
+  - icon.png
 ---
 
 USDD is a fully decentralized algorithmic stablecoin

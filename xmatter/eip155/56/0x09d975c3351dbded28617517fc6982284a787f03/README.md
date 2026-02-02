@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#152433"
+icons:
+  - icon.png
 ---
 
 CISLA is a community driven token set to buy and decentralize a private island which will be co-owned by its holders and supported by a community app.

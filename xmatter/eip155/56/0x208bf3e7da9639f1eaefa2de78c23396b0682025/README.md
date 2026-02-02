@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3b3b3b"
+icons:
+  - icon.png
 ---
 
 Tagger proposes a framework whereby data can be gathered, labeled, verified, and exchanged without relying on a centralized authority

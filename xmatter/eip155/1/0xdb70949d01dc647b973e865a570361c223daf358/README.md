@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#442cdb"
+icons:
+  - icon.png
 ---
 
 BigBingo is a leading AI platform and service provider dedicated to empowering business and people with AI.

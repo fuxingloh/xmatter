@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2bc0df"
+icons:
+  - icon.png
 ---
 
 Charix is a charity token on the Binance Smart Chain Network

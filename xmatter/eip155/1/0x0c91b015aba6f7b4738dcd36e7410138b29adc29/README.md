@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eb232d"
+icons:
+  - icon.png
 ---
 
 Token on blockchain for Oil & energy field.

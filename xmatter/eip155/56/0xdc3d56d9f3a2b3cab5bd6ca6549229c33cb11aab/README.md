@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8fa732"
+icons:
+  - icon.png
 ---
 
 BABYODA was inspired by the idea of joining the forces of cuteness overload and the legacy of Master Yoda in one, ultimate meme token.​

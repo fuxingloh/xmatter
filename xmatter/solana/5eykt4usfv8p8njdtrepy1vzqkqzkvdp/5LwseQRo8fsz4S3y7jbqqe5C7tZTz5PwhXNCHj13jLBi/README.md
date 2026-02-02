@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f9bb62"
+icons:
+  - icon.png
 ---
 
 This is the story of a love. a conflicted love. ❤️ But it is also the story of a son, the child of this love. 📖 His name is PESHI. 🐕

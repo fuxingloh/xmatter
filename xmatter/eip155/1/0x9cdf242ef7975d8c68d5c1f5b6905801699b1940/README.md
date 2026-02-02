@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0e0e0e"
+icons:
+  - icon.png
 ---
 
 Experience true financial freedom by trading shares of companies, properties, or bonds anytime, anywhere. Our platform breaks down the barriers of traditional markets, empowering you to trade beyond market hours - no longer is this only limited to the big players.

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbdb51"
+icons:
+  - icon.png
 ---
 
 abracadabra.money is a lending protocol that allows users to borrow a USD-pegged Stablecoin (MIM) using interest-bearing tokens as collateral.

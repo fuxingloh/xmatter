@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3b618"
+icons:
+  - icon.png
 ---
 
 FEG Wrapped BUSD

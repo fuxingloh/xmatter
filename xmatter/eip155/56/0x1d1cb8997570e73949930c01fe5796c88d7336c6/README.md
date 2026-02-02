@@ -23,6 +23,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e2067c"
+icons:
+  - icon.png
 ---
 
 Decentralized all-in-one financial applications

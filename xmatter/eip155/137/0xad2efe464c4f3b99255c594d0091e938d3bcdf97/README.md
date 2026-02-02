@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#94c9b7"
+icons:
+  - icon.png
 ---
 
 Web3 sports leagues allow users to participate in sports leagues by establishing teams, drafting and trading player NFTs. It is operated in real-time with My Health data collected through users’ own walking and will be linked to various sports data in the future to expand the ecosystem.

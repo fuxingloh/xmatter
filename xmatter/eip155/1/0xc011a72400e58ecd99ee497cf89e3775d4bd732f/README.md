@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c1b31"
+icons:
+  - icon.png
 ---
 
 The Synthetix platform enables the creation of on-chain synthetic assets (Synths) that track the value of assets in the real world.

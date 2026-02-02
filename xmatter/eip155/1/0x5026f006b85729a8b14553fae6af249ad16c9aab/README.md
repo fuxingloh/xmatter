@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#158f11"
+icons:
+  - icon.png
 ---
 
 A digital asset inspired by the Wojak meme.

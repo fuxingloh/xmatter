@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3565a5"
+icons:
+  - icon.png
 ---
 
 Bispex is a prediction market platform that focuses on cryptocurrency price changes. Predict and win cryptocurrency for making accurate forecasts today.

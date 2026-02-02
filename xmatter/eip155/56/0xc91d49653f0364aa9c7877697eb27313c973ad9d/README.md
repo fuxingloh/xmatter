@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#232021"
+icons:
+  - icon.png
 ---
 
 The fair launch token built for sustainable gains. Featuring the worlds first yielding NFTs, auto-liquidity injections & more.

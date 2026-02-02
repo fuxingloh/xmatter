@@ -35,6 +35,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e48554"
+icons:
+  - icon.png
 ---
 
 Boom Shiba - BUSD Rewards with the Power of Shiba.

@@ -16,6 +16,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#e06c1d"
+icons:
+  - icon.png
 ---
 
 SUNPUMP: The Meme Token Shooting Beyond the Moon

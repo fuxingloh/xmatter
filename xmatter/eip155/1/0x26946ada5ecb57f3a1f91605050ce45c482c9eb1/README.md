@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 BSOV Token is not a Bitcoin fork, but shares Bitcoin’s supply distribution with a deflationary design. This cryptocurrency is the first mineable and deflationary-by-design crypto commodity built on the Ethereum blockchain (ERC20).

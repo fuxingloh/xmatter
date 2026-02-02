@@ -27,6 +27,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#703895"
+icons:
+  - icon.png
 ---
 
 Kunci Coin is building the next generation blockchain for mass adoption, born to support NFT Marketplace, Metaverse, Decentralize Finance, and retail penetration.

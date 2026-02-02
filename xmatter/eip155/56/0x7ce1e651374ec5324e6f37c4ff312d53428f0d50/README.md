@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f1891d"
+icons:
+  - icon.png
 ---
 
 CaramelSwap.finance - 3° generation Yield Farm on Binance Smart Chain

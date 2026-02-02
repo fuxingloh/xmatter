@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#d98288"
+icons:
+  - icon.png
 ---
 
 BABY is the final MEME, the mother and father of all BABY tokens join the original join the movement

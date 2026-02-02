@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#245335"
+icons:
+  - icon.png
 ---
 
 Adding BZR Token Logo to Trust Wallet Assets Repo

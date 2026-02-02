@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d4d4d3"
+icons:
+  - icon.png
 ---
 
 Simple auto interest rate switching tokens for Compound, Fulcrum, Aave, and dYdX.

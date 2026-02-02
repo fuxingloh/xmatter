@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#080000"
+icons:
+  - icon.png
 ---
 
 tBTC is a trustlessly Bitcoin-backed ERC-20 token.

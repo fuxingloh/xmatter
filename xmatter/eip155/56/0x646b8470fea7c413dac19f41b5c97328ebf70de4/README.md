@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f49323"
+icons:
+  - icon.png
 ---
 
 Bitcoin Networks is a new form token, which is digitally mineable using Binance Smart Chain blocks and fair mining reward system for everyone.

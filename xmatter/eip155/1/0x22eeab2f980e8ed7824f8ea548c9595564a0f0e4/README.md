@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbeca4"
+icons:
+  - icon.png
 ---
 
 The Standard Crypto Fund QQQF is a tokenised exchange-tradable fund (ETF) with DAO implementation.

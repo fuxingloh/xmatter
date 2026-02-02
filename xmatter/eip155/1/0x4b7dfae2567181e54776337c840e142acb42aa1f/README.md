@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#262308"
+icons:
+  - icon.png
 ---
 
 yield farming token with a halving function

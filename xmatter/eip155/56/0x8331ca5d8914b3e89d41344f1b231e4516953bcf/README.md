@@ -8,6 +8,7 @@ name: No one's node HONEYPOT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 No one's node HONEYPOT

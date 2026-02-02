@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#550ec2"
+icons:
+  - icon.png
 ---
 
 Mento Ghanaian Cedi (GHSm) is a decentralized stablecoin pegged to the Ghanaian Cedi on the Celo blockchain.

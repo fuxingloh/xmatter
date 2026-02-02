@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#041b33"
+icons:
+  - icon.png
 ---
 
 Zeebu is a telecom carrier business.

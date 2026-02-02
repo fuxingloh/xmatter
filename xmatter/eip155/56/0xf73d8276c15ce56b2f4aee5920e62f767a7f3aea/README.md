@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5261fc"
+icons:
+  - icon.png
 ---
 
 TCG Coin 2.0 is the foundation for two online economies bringing gaming and collectible trading and selling to the Binance chain.

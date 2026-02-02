@@ -10,6 +10,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 ITS THAT GET THE FUCK AWAY FROM ME SIGN

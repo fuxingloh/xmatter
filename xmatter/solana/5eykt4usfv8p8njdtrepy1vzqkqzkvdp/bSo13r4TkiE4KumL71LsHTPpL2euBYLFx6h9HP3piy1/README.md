@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#07ead6"
+icons:
+  - icon.png
 ---
 
 BlazeStake is a fully non-custodial Solana stake pool protocol that is supported by the Solana Foundation.

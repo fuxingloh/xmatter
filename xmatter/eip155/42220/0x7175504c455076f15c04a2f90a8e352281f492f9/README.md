@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b0c7f9"
+icons:
+  - icon.png
 ---
 
 Mento Australian Dollar (AUDm) is a decentralized stablecoin pegged to the Australian Dollar on the Celo blockchain.

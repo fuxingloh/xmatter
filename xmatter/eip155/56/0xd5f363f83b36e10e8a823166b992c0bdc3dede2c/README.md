@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e3c7b8"
+icons:
+  - icon.png
 ---
 
 ElonBank is a financial protocol that includes mechanisms for auto-staking, auto-compounding, and auto-liquidity.

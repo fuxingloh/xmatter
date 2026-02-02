@@ -19,6 +19,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dddddd"
+icons:
+  - icon.png
 ---
 
 Gala Games is dedicated to decentralizing the multi-billion dollar gaming industry by giving players access to their in-game items.

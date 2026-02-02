@@ -29,6 +29,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0490f4"
+icons:
+  - icon.png
 ---
 
 EverRise Staking NFTs are containers of Vote Escrowed (ve)EverRise weighted governance tokens. veRISE generates rewards from the auto-buyback with a market driven yield curve, based on the transaction volume of EverRise trades and veEverRise sales.

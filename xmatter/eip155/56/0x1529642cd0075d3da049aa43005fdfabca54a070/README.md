@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9c80a"
+icons:
+  - icon.png
 ---
 
 Baby CateCoin is a meme token that will have utility (e.g. Baby Cate Coin Swap, NFT Marketplace, Merch Shop, Wallet and P2E). It has a very strong community and a very hard working team that has a sole goal to make this successful.

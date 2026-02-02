@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e8e5ea"
+icons:
+  - icon.png
 ---
 
 FUTURAX is project of cryptocurrencies exchanger platform, we foucused to build modern Crypto Market with many feature and benefit to Trader.

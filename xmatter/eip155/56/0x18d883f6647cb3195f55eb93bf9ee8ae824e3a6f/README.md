@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04ecd8"
+icons:
+  - icon.png
 ---
 
 Secure Auto Staking & Liquidity Farming! Swapping rug-pulled tokens for tokens with value (based on DAO protocol).

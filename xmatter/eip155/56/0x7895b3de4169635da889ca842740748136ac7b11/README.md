@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d18659"
+icons:
+  - icon.png
 ---
 
 SUPER DOGE is DOGE Memes Token

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#dcd2c6"
+icons:
+  - icon.png
 ---
 
 Popular luxury memecoin on Sol, crafted for Sheikhs and Elite investors.

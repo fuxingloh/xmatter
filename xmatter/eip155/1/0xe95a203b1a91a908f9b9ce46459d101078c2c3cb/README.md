@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbeb1b"
+icons:
+  - icon.png
 ---
 
 aETHc is a reward-bearing certificate that enables instant liquidity for staked ETH tokens in Ethereum 2.0 network.

@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#141414"
+icons:
+  - icon.png
 ---
 
 A DeFi protocol which facilitates creation of fully collateralized stable coins leveraging Native Cardano Assets

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e53054"
+icons:
+  - icon.png
 ---
 
 KanadeCoin (KNDC) is a cryptocurrency and operates on the Ethereum platform.

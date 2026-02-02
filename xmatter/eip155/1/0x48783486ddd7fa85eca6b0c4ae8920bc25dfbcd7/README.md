@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ffae00"
+icons:
+  - icon.png
 ---
 
 GOM2 restructures the DeFi narrative to reward token holders. In addition, GOM2 tokens can be used to swap with other ERC-20 tokens.

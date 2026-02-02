@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3c30b"
+icons:
+  - icon.png
 ---
 
 Fortress is an algorithmic money market, and synthetic stable coin protocol designed to bring secure and trustless credit and lending to users on Binance Smart Chain.

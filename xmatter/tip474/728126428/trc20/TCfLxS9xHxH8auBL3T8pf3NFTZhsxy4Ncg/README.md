@@ -10,6 +10,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#050d2d"
+icons:
+  - icon.png
 ---
 
 Pallapay is the only payments solution in UAE which allows businesses to accept, process and disburse payments with its product suite.

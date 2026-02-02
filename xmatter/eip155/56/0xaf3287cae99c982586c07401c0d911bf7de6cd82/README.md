@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 A comprehensive platform featuring a task-based learning system, up-to-date news aggregation, and a community welfare system that includes token airdrops and whitelisting opportunities.

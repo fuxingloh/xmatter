@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#1b1814"
+icons:
+  - icon.png
 ---
 
 Mindbath is a digital creator and platform focused on fostering self-discovery and thought-provoking engagement, blending cryptic messages with an interactive community.

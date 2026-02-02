@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#64dbe3"
+icons:
+  - icon.png
 ---
 
 Mommy Doge is fully decentralized, environmental friendly and on a mission to support the Women's rights movement and gender equality initiatives

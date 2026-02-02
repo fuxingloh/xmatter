@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#74e5f1"
+icons:
+  - icon.png
 ---
 
 CoinDeal presents one of the easiest options to earn money on the exchange.

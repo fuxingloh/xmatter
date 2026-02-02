@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#520780"
+icons:
+  - icon.png
 ---
 
 Paal is an advanced chatbot built on AI and ML technologies, designed to streamline tasks that typically require human intellect, such as natural language understanding, image recognition, decision-making, and problem-solving.

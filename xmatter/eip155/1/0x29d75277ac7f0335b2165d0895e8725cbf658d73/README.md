@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#249ed4"
+icons:
+  - icon.png
 ---
 
 Bitdice Casino.

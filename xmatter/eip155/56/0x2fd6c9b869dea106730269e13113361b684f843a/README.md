@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#24bb1c"
+icons:
+  - icon.png
 ---
 
 Chihuahua aims to spread animal adoption awareness. Part of the taxes applied to every transaction is donated to animal shelters worldwide.

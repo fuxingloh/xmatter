@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1d0e6b"
+icons:
+  - icon.png
 ---
 
 EigenLayer is a protocol built on Ethereum that introduces restaking, a new primitive in cryptoeconomic security. This primitive enables the reuse of ETH on the consensus layer.

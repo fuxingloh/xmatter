@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ad99f9"
+icons:
+  - icon.png
 ---
 
 NFT Fantasy League

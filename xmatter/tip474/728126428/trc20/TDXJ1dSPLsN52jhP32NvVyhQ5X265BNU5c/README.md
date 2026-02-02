@@ -18,6 +18,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#05072e"
+icons:
+  - icon.png
 ---
 
 Richlab exchange is a cryptocurrency exchange, opening a new era. With the integration of the following services: 1. Shopping 2. Commercial auctions 3. Equity investment 4. Game blockchain 5. Service payment system. All of the above services are integrated

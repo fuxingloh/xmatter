@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#13dc24"
+icons:
+  - icon.png
 ---
 
 Decentralized Defi Finance in MATRIX.

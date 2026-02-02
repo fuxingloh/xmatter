@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#69603f"
+icons:
+  - icon.png
 ---
 
 we are a lab that designs and conducts social and entertaining experiments that simulate community experiences like no other. our experiments are designed to be immersive and fun for all who participate.

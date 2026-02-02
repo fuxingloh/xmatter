@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 DEUS GOES COINBASE. From our next system update, you will be able to buy Coinbase Futures on DEUS Swap!

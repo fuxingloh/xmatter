@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04346b"
+icons:
+  - icon.png
 ---
 
 We’ve been endeavoring to maintain the fairness of the project by avoiding external funding and keeping self-funding, in order to ensure its long-term significance. We sincerely hold that Diviner will be the cradle of cross-NFT, game, and cross-meta-universe.

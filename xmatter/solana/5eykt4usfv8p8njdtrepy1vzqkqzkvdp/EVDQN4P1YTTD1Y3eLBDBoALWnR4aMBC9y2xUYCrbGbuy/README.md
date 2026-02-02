@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#fad5d5"
+icons:
+  - icon.png
 ---
 
 The community rallied together after the developer abandoned MOCHICAT, leaving it languishing with a market cap of just 5K.

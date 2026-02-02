@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e71b23"
+icons:
+  - icon.png
 ---
 
 The only launchpad fully backed by the Tron Network! TRONPAD will empower crypto currency projects with the ability to distribute tokens and raise liquidity.

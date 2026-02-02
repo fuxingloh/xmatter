@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d6ad4b"
+icons:
+  - icon.png
 ---
 
 The Midas Touch Gold (TMTG) is a cryptocurrency and operates on the Ethereum platform.

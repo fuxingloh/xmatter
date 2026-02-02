@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#faf9e6"
+icons:
+  - icon.png
 ---
 
 Egretia (EGT) is a cryptocurrency and operates on the Ethereum platform.

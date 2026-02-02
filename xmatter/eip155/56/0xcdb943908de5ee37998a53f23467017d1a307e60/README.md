@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1f5ba3"
+icons:
+  - icon.png
 ---
 
 SON aims to build a sustainable, long term token that will drive an NFT market place.

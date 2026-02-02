@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5bf2fb"
+icons:
+  - icon.png
 ---
 
 Buy NFT Fractional properties online with technology web3.

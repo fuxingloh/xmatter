@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3d79bf"
+icons:
+  - icon.png
 ---
 
 Binary options trading platform

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cc9f5d"
+icons:
+  - icon.png
 ---
 
 EpiK Protocol is a decentralized trusted knowledge graph collaboration platform of the People, by the People, for the People.

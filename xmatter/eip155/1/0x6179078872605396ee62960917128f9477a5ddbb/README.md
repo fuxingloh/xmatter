@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#363030"
+icons:
+  - icon.png
 ---
 
 Aave UniETH is an interest bearing token pegged 1:1 to the underlying ETH deposited in the Uniswap Market of Aave Protocol.

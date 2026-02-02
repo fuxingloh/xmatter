@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f0aa04"
+icons:
+  - icon.png
 ---
 
 We make it possible for any business to raise capital for their projects globally at a small cost, with low barriers and support investors around the world who can invest in potential projects more easily, manage their assets and provide them with great trading tools

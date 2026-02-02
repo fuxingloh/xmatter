@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1d1d21"
+icons:
+  - icon.png
 ---
 
 Exclusive blockchain solutions and premium investment opportunities for the discerning investor.

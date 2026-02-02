@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f0f1f2"
+icons:
+  - icon.png
 ---
 
 Travala.com claims to be the leading blockchain-based travel booking platform.

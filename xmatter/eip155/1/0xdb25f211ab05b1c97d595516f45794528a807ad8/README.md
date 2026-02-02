@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#239cf5"
+icons:
+  - icon.png
 ---
 
 Produced by STASIS, EURS was developed to tokenize the traditional fiat asset known around the world as the Euro.

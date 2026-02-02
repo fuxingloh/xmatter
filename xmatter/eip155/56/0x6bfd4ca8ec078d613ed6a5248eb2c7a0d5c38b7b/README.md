@@ -17,6 +17,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4c4c4c"
+icons:
+  - icon.png
 ---
 
 Ecochain Token is a decentralized deflationary token which aims to bring multiple aspects together to create stability in the ecosystem and economy

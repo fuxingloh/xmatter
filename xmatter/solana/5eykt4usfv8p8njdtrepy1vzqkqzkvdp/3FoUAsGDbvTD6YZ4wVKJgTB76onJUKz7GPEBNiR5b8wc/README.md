@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#a6958d"
+icons:
+  - icon.png
 ---
 
 Cheems is the Doge's unloved brother and a communty-drive cryptocurrency on the Solana network.

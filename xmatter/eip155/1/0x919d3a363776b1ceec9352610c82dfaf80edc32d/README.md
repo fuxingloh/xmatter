@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ddd28e"
+icons:
+  - icon.png
 ---
 
 is a cryptocurrency and operates on the Ethereum platform.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e8272e"
+icons:
+  - icon.png
 ---
 
 The VOYR token powers the VOYR Platform

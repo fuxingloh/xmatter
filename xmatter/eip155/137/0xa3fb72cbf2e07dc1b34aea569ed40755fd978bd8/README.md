@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc9b04"
+icons:
+  - icon.png
 ---
 
 Opex OPX is a stablecoin, a digital asset pegged to the Kyrgyz som (KGS), and is designed to facilitate payment transactions, as well as to protect against the volatility common to many other cryptocurrencies.

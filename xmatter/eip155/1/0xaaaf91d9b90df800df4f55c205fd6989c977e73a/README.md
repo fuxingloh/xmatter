@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cfcfcf"
+icons:
+  - icon.png
 ---
 
 Monolith is an Ethereum-powered solution allowing users to spend ETH and ERC-20 in real-life, the way users are used to: with a debit card accepted anywhere.

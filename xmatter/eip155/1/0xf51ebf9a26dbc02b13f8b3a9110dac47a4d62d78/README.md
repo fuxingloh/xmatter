@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e45454"
+icons:
+  - icon.png
 ---
 
 APIS platform provides service to help effective node management and to deliver better access to Blockchain incentive system.

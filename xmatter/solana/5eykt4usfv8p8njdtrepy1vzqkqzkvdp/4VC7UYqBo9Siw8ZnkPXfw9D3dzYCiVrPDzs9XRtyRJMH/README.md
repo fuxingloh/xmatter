@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#8b97a6"
+icons:
+  - icon.png
 ---
 
 Insane Labz is a token designed for the Insane Labz company which is a top 50 supplement company worldwide.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#815699"
+icons:
+  - icon.png
 ---
 
 Aave BAT is an interest bearing token pegged 1:1 to the underlying BAT deposited in Aave. aBAT accrue interest in real time in your wallet.

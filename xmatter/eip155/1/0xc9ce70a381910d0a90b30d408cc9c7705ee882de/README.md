@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6082b4"
+icons:
+  - icon.png
 ---
 
 Nyan is a decentralized hedge fund using on-chain governance

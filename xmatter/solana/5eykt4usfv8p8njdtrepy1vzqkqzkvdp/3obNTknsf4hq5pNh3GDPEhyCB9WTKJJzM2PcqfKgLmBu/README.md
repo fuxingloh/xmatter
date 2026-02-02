@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#2f323b"
+icons:
+  - icon.png
 ---
 
 Explore the world where stylish cats with swag meets the wild world of Meme on solana blockchain!

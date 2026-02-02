@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b6c2c0"
+icons:
+  - icon.png
 ---
 
 Cotrace is COVID contact tracing, decentralized

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#24ccd6"
+icons:
+  - icon.png
 ---
 
 CRV is a governance token on the Curve platform with time-weighted voting and value accrual mechanisms.

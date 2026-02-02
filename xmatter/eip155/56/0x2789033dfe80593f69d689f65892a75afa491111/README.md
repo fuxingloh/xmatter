@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eeece6"
+icons:
+  - icon.png
 ---
 
 Now White Monkey lives on-chain, turning madness into movement, spreading smiles and WTF energy through web3.

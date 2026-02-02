@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#388956"
+icons:
+  - icon.png
 ---
 
 Darwinia Network is a decentralized heterogeneous cross-chain bridge protocol built on Substrate, focusing on decentralized cross-chain token swap, exchange and market. Darwinia also serves as critical infrastructure for single-chain application upgrade to cross-chain version, including Defi, Game, DEX, NFT market, etc. Our vision is to build future Internet of Tokens.

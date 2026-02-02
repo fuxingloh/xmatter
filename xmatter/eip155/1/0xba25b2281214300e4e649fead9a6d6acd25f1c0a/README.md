@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3edf76"
+icons:
+  - icon.png
 ---
 
 TREE is the token that powers everything around Tree News, the Crypto News aggregator

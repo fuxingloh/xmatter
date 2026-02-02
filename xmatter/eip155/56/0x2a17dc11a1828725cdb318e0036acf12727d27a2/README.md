@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c39b5c"
+icons:
+  - icon.png
 ---
 
 Arena Token is a game token issued by ArenaSwap on Binance Smart Chain

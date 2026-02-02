@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04bc6c"
+icons:
+  - icon.png
 ---
 
 BUX is a platform that makes crypto trading simple and accessible.

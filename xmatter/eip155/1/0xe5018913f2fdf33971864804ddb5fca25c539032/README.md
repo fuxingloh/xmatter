@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#06dce4"
+icons:
+  - icon.png
 ---
 
 Ethereum's Trustless AI.

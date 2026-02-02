@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d9be72"
+icons:
+  - icon.png
 ---
 
 Kingdom Game 4.0 is a blockchain-based gaming platform that aims to provide a sustainable sharing economy model.

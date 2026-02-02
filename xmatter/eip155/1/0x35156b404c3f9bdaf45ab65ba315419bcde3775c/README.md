@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#335f94"
+icons:
+  - icon.png
 ---
 
 CHIRO is Chihiroverse an Integrated Ecosystem of Interactive Gaming.

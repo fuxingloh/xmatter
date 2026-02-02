@@ -36,6 +36,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cfcfd0"
+icons:
+  - icon.png
 ---
 
 TruBadger is a Reflection, Deflationary and Utility DeFi token that cares about its holders, implementing true community governance. The TruBadger ecosystem is making crypto accessible to everyone.

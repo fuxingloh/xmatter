@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#053464"
+icons:
+  - icon.png
 ---
 
 WeSendit token is at the heart of WeSendit's growth strategy. It aims to create a powerful, user-friendly system for sending, storing and managing data for businesses.

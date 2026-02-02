@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f69052"
+icons:
+  - icon.png
 ---
 
 $PORN is a token with the goal of protecting people and ending human trafficking.

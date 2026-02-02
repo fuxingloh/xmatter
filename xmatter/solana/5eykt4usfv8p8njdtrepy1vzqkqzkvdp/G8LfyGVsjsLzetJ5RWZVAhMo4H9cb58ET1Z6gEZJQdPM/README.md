@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#000000"
+icons:
+  - icon.png
 ---
 
 Travala.com claims to be the leading blockchain-based travel booking platform.

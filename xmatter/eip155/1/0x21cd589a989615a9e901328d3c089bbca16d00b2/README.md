@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#222222"
+icons:
+  - icon.png
 ---
 
 $xmoney is a community-driven meme token inspired by X’s vision of global financial transformation. While not affiliated with X, it merges decentralized finance with meme culture, offering degen traders and crypto enthusiasts a fun way to embrace the evolving world of financial tools.

@@ -23,6 +23,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c2a64c"
+icons:
+  - icon.png
 ---
 
 Buff Doge Coin is extremely hyper deflationary where each burn will double in its quantity to the previous burn.

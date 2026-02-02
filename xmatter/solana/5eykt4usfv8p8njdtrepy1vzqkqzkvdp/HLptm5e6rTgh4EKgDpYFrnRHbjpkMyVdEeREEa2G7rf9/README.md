@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#b28add"
+icons:
+  - icon.png
 ---
 
 $DUKO is Elon's cutest pet on Solana

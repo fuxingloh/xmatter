@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ecb714"
+icons:
+  - icon.png
 ---
 
 Good Will Alliance

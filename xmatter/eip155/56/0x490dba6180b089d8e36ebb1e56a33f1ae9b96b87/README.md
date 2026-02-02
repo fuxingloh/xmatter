@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#131313"
+icons:
+  - icon.png
 ---
 
 Auction in a SAFU all-in-one place to cut any NFT deal in a few clicks. Mobile, decentralized, community-owned.

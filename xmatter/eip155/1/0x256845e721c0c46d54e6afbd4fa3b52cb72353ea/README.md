@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#facb6e"
+icons:
+  - icon.png
 ---
 
 UniDollar is the first hybrid Proof of Liquidity and Proof of Stake ERC20 Token.

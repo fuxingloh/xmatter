@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3b3e3f"
+icons:
+  - icon.png
 ---
 
 The Duck Liquidity Pool is a DuckDAO DeFi Market Maker protocol that will provide an opportunity for yield farmers to take advantage of the new opportunities with real skin in the game.

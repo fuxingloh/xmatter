@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04b25c"
+icons:
+  - icon.png
 ---
 
 Green Chart provides a secure platform for yield farming for it's holders via staking rewards with a fixed APY compounding.

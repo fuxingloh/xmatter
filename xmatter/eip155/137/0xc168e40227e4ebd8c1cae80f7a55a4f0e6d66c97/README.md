@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9b779f"
+icons:
+  - icon.png
 ---
 
 The DFYN token, will perform a crucial role in the functioning of the Dfyn ecosystem. The DFYN token is expected to have multiple utilities.

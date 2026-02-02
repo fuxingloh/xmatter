@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e4332c"
+icons:
+  - icon.png
 ---
 
 Bitgear aims to create a bridge and aggregate decentralized and centralized exchanges all in one platform.

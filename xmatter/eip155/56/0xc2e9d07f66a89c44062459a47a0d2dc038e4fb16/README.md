@@ -40,6 +40,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f2bb0d"
+icons:
+  - icon.png
 ---
 
 stkBNB is one of the stkASSETs from pSTAKE. pSTAKE is a liquid staking protocol that unlocks liquidity for your staked assets. With pSTAKE, you can securely stake your Proof-of-Stake (PoS) assets, participate in protocol improvements and security to earn staking rewards, and receive staked underlying representative tokens (stkASSETs) which can be used to explore additional yield opportunities across DeFi.

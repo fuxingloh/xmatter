@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#110404"
+icons:
+  - icon.png
 ---
 
 The Data Economy Index is an ecosystem of data-based products and services.

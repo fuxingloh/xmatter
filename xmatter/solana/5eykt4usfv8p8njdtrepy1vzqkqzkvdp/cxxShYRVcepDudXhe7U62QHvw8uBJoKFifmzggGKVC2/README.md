@@ -19,6 +19,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#c99b84"
+icons:
+  - icon.png
 ---
 
 We built our game around adorable SolChick NFT collectibles, where players use their SolChicks as their characters in a unique gaming metaverse.

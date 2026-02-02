@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c59f8b"
+icons:
+  - icon.png
 ---
 
 Pepemon PPBLZ is the origin token in the Pepemon economy. It's used to farm PPDEX.

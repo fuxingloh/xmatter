@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dfb45d"
+icons:
+  - icon.png
 ---
 
 Game Coin aims to allow any athlete in the world the ability to create their own sports token.

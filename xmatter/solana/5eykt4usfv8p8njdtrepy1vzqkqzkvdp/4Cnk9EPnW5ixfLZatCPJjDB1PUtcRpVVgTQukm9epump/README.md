@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#1c1412"
+icons:
+  - icon.png
 ---
 
 CALL HIM DADDY

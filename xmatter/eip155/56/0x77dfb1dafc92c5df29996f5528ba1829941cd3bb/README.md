@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#05059f"
+icons:
+  - icon.png
 ---
 
 FYETH.FINANCE is a regulated financial institution licensed by the Estonian Financial Authority, wholly owned by the global fintech group Investment Evolution.

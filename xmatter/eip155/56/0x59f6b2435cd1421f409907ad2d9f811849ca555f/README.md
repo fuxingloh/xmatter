@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f4b316"
+icons:
+  - icon.png
 ---
 
 Tank Battle is a game that shows creativity in assembling TANK to fight.

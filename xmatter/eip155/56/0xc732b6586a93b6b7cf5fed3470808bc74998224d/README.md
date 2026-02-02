@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f028b0"
+icons:
+  - icon.png
 ---
 
 Kryptomons are digital collectible monsters. Breed and take care of them and fight with other players. Every creature has a unique but mutable genetic code made up of different genotypes that will determine all the aspects - both physical and behavioural - of the creature.

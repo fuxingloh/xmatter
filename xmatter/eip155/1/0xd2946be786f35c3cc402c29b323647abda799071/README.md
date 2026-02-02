@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#00a848"
+icons:
+  - icon.png
 ---
 
 VikkyToken (VIKKY) is a cryptocurrency and operates on the Ethereum platform.

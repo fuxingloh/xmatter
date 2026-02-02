@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc6b04"
+icons:
+  - icon.png
 ---
 
 NINO token is a utility token that was issued by Ninneko development team.

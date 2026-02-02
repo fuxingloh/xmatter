@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#081b0f"
+icons:
+  - icon.png
 ---
 
 Botzilla is the FIRST autonomous AI Trader built on BNB Chain, living and thriving on X (Twitter) as @BotzillaAI\_. Botzilla is here to reinvent how tokens are created, traded, and interacted with.

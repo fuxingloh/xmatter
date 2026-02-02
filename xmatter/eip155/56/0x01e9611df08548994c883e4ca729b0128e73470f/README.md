@@ -21,6 +21,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#080705"
+icons:
+  - icon.png
 ---
 
 RIZE ABOVE EVOLUTION is a community driven hyper-deflationary decentralized digital currency for THE PEOPLE by THE PEOPLE. RZE rewards holders with binance wrapped DOGE.

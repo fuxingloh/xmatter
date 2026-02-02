@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#775c5e"
+icons:
+  - icon.png
 ---
 
 $LADZ is the social token of the Layer1 channel and network.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e0e0e0"
+icons:
+  - icon.png
 ---
 
 Direwolf is a deflationary community token with a large focus on community transparency.

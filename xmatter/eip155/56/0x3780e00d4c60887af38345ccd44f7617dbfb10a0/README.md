@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#252426"
+icons:
+  - icon.png
 ---
 
 Dogecoin 2.0 is a DEFI token on the BSC network. Born out of the original Dogecoin community.

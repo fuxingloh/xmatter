@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#989ca8"
+icons:
+  - icon.png
 ---
 
 RING is the native token of Darwinia Network. It's used to pay for the GAS fee of the on-chain transactions and cross-chain services. RING can be staked for staking rewards and obtaining voting power to participate in the governance.

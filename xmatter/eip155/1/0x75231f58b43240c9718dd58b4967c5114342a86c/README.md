@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2965ec"
+icons:
+  - icon.png
 ---
 
 OKB is a global utility token issued by OK Blockchain foundation.

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b3b3b3"
+icons:
+  - icon.png
 ---
 
 FutureToken (FTR) invites you to embark on a journey into the future of finance, where innovation meets opportunity

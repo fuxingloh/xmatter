@@ -15,6 +15,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#efc084"
+icons:
+  - icon.png
 ---
 
 SafeSex Finance is token deployed on binance smart chain network. It is deflationary token with feature of rewarding holders in every transaction done by other buyers and sellers. SafeSex finance is working with aim of charity to sex victims, human trafficking victims, kids with poo economic condition for schools, autism community. It has aim to create awareness about safe sex education to the community with the help of defi.

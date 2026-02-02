@@ -14,6 +14,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#c95051"
+icons:
+  - icon.png
 ---
 
 TBULL is the first memecoin inspired by the official mascot of Tron DAO, Tron Bull

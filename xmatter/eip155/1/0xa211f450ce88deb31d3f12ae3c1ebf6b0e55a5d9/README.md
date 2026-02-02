@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8ca4bc"
+icons:
+  - icon.png
 ---
 
 Incentivization of Liquidity Providers by PARSIQ.

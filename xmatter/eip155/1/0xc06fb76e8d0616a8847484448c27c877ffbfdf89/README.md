@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#33447b"
+icons:
+  - icon.png
 ---
 
 FrankfurtSchoolCoin is a EUR-pegged stablecoin.

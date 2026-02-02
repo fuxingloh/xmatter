@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#680afa"
+icons:
+  - icon.png
 ---
 
 WALLET is the governance token of Ambire Wallet. It is also used as a user acquisition tool for marketing activities (referral program, rewards, etc.).

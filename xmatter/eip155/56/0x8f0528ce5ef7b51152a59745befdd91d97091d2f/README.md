@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3cbb7c"
+icons:
+  - icon.png
 ---
 
 ALPACA is the token that powers Alpaca Finance, the 1st leveraged yield farming protocol on Binance Smart Chain.

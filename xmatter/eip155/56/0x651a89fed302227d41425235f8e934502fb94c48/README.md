@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#142f53"
+icons:
+  - icon.png
 ---
 
 A revolutionary new token that earns you 10% ADA reflections just for holding

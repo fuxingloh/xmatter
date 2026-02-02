@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cc2021"
+icons:
+  - icon.png
 ---
 
 $CLIFF is a highly deflationary token on the Ethereum Blockchain that never stops growing through TRUE deflationary techniques, Cliff's long Term vision is to dominate the metaverse ecosystem (Cliffverse).

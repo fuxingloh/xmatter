@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f34b25"
+icons:
+  - icon.png
 ---
 
 Kava Lend is a decentralized money market built on the Kava Platform that enables the lending and borrowing of cross-chain assets

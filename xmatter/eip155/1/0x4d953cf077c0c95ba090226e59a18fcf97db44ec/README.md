@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ab25ac"
+icons:
+  - icon.png
 ---
 
 MiniSwap enable to have a connected network of DeFi ecosystems. MiniSwap provides a decentralised platform for exercising financial products.

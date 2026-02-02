@@ -21,6 +21,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e29026"
+icons:
+  - icon.png
 ---
 
 Uncle Doge is a community focused token with unique tokenomics. At the center of the tokenomics is the “Kraken” the buy back mechanism that ensures price stability. In addition token olders recieve 1% in reflections and benefit from the burned tokens through the Kraken. The community is global, with over 12,000 holders on launch day and over 16M volume.

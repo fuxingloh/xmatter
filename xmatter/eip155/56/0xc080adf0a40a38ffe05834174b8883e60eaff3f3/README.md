@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc543f"
+icons:
+  - icon.png
 ---
 
 AlfaPocket is a cryptocurrency wallet and automatic portfolio builder with an integrated AI Assistant

@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#147bf4"
+icons:
+  - icon.png
 ---
 
 GYSR is an open platform for on-chain incentives.

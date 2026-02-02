@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1067af"
+icons:
+  - icon.png
 ---
 
 The most profitable and secure platform to entrust your digital assets. Absolutely safe with multi-layer encrypted protection.

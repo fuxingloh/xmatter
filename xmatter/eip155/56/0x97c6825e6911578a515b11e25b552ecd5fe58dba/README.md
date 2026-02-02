@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e15f12"
+icons:
+  - icon.png
 ---
 
 BurningMoon is a hyper-deflationary reward token with multiple use cases. It features unique tokenomics to create and sustain an entire ecosystem, which makes it very different from the tokens that are usually entering the cryptosphere.

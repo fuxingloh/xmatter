@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dfaa43"
+icons:
+  - icon.png
 ---
 
 CACT helping cancer research and treatment around the world, in addition to providing a BNB reward pool and reflection to holders through every transaction.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fcb234"
+icons:
+  - icon.png
 ---
 
 The goal of Breezecoin is to combine blockchain-based cryptocurrency technology with real estate investments.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#80047b"
+icons:
+  - icon.png
 ---
 
 Shaka (HAK) is an ERC20 Token issued by FriendsFingers that will give holders rights to be active part of the platform like in a Decentralized Autonomous Organization (DAO).

@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d6e61e"
+icons:
+  - icon.png
 ---
 
 Metya - The largest and most influential dating platform #SocialFi

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#050404"
+icons:
+  - icon.png
 ---
 
 MILC - Media Industry Licensing Content. Global decentralized marketplace for professional content trading, licensing and production.

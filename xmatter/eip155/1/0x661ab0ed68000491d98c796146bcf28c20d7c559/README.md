@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040000"
+icons:
+  - icon.png
 ---
 
 Shadows is a hub for issuing, trading, lending and borrowing synthetic assets.

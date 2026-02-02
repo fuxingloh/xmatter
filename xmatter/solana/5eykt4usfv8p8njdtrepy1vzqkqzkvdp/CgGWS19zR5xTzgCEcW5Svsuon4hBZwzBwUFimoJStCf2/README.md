@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#d5d2d0"
+icons:
+  - icon.png
 ---
 
 Outfoxing the future with AI and robotics

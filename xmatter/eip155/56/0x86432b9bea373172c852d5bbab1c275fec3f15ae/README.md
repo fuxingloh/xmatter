@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ba6226"
+icons:
+  - icon.png
 ---
 
 Sleepy Sloth, frictionless yield and NFT Auction place.

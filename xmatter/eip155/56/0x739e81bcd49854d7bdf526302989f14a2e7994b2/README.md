@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#977dfc"
+icons:
+  - icon.png
 ---
 
 Centcex is designed to build blockchain apps

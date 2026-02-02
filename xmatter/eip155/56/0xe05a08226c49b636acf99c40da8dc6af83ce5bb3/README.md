@@ -34,6 +34,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbeb1b"
+icons:
+  - icon.png
 ---
 
 ankrETH represents your staked ETH and provides liquidity for your staked position. All staking rewards are built into the token price, and ankrETH grows daily in value, but never in number.

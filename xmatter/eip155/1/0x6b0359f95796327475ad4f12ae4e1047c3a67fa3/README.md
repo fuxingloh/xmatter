@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#07051e"
+icons:
+  - icon.png
 ---
 
 FinFine Tokens is the intermediary cryptocurrency for the CONIN Exchange. We build exchange activitives for cryptocurrencies and index investment funds in the crypto market.

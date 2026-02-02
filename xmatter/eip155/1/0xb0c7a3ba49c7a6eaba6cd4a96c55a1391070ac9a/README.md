@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f34444"
+icons:
+  - icon.png
 ---
 
 Treasure is the decentralized gaming ecosystem bringing games and players together through MAGIC.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e6d0ae"
+icons:
+  - icon.png
 ---
 
 Ghibli CZ CTO

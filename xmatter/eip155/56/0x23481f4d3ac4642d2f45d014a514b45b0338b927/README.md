@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#de911f"
+icons:
+  - icon.png
 ---
 
 Ulink Finance smart contracts continuously route your funds to a portfolio of the latest-and-greatest yield farming strategies.

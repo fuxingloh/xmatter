@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f6dbc2"
+icons:
+  - icon.png
 ---
 
 Men of Culture, we meet again! Ah, the joy of gathering among those who truly understand the art of jiggly

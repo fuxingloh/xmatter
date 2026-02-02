@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#253880"
+icons:
+  - icon.png
 ---
 
 A decentralized platform to build Ecommerce websites on the blockchain

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#091819"
+icons:
+  - icon.png
 ---
 
 $KAITO is the native token and the fundamental building block of the AI-powered InfoFi network

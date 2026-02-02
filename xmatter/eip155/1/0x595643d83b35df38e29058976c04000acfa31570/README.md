@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#332f30"
+icons:
+  - icon.png
 ---
 
 The official token of Order of the Black Rose

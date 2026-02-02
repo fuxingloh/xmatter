@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dde7ea"
+icons:
+  - icon.png
 ---
 
 OVCODE is an award winning verification engine. OVCODE is a patented technology that verifies authenticity, reliability, and integrity of data using Blockchain technology.

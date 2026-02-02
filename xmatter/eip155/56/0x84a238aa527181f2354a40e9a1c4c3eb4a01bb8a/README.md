@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#110d09"
+icons:
+  - icon.png
 ---
 
 At Liza Coin is a unique social earning platform that allows users to earn money simply by sharing our posts. With Liza Coin, you can monetize your social media presence effortlessly. For every post you share, you receive payments in USDT and INR, directly credited to your wallet. Join our vibrant community and start transforming your social sharing into real earnings!

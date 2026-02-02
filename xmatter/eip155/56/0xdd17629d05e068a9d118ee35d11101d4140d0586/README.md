@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#152b3f"
+icons:
+  - icon.png
 ---
 
 A Safe, Secure, Eco-Friendly, DeFi Cryptocurrency Engineered with the Lowest Trading Fees Available as well as Automatic Rewards for Life!

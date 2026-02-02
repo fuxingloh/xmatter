@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#171816"
+icons:
+  - icon.png
 ---
 
 First AI Agent On BNB Chain. Analyze Twitter activity, query real-time crypto project analytics, blockchain transactions on X, generate websites and create 3D models.

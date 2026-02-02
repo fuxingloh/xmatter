@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4680b8"
+icons:
+  - icon.png
 ---
 
 FSV is the world's first interstellar video public chain based on ipfs application, focusing on distributed storage of video files.

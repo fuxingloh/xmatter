@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbbbb2"
+icons:
+  - icon.png
 ---
 
 The BASED Protocol is a DeFi game of chicken designed to shake out weak hands and yield the highest gains for those who understand the rules.

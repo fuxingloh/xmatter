@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7831de"
+icons:
+  - icon.png
 ---
 
 Lucid Lands is the first decentralized NFT play-to-earn game on BSC network that integrates both 3D-animated gaming NFT and 2D unique computer-generated collective NFT marketplace.

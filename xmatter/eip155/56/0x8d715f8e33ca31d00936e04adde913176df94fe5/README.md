@@ -8,6 +8,7 @@ name: FAKE MYX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 FAKE MYX FOR BLACKLISTING

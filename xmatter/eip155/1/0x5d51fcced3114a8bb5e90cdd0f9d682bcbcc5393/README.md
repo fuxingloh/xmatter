@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bfd2ce"
+icons:
+  - icon.png
 ---
 
 The first official provider of cryptocurrency liquidity.

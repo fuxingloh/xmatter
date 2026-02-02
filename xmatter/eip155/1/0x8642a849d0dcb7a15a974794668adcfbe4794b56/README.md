@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a4c18e"
+icons:
+  - icon.png
 ---
 
 Prosper is a decentralized protocol built for a community dedicated to Bitcoin. It bridges institutional-level Bitcoin mining power to the blockchain and aims to unlock new possibilities through liquidity farming.

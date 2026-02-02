@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2bccfc"
+icons:
+  - icon.png
 ---
 
 A Full-Service Digital Asset Ecosystem.

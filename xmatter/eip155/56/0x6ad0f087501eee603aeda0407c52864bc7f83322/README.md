@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#264e55"
+icons:
+  - icon.png
 ---
 
 Decentralized blockchain platform providing Face Nft for Metaverse

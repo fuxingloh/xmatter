@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#504242"
+icons:
+  - icon.png
 ---
 
 meme coin

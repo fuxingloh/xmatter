@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#292929"
+icons:
+  - icon.png
 ---
 
 Sports, esports and crypto betting platform, secured by smart contracts and powered by the BETU token. BetU Fantasy is a separate play to earn game. Players make fantasy bets on real sport and esport events to earn crypto rewards every week.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9c071"
+icons:
+  - icon.png
 ---
 
 Self generating liquidity token - Reflection paid back to holders.

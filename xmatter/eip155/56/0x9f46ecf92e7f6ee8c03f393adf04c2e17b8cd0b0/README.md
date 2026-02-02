@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#262425"
+icons:
+  - icon.png
 ---
 
 TRUSTxGAMING is an online gaming platform with games like ludo, colour prediction and many skilled games like rummy and poker. TrustxGaming has its own native token named TXG which can be used to participate and play games. TXG serves as utility token in its Gaming ecosystem.

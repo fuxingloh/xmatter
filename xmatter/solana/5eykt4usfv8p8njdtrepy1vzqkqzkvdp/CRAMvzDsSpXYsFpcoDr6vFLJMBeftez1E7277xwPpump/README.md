@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#07f21e"
+icons:
+  - icon.png
 ---
 
 $PEPECAT is the memecoin that meows in unison for cat lovers and fans of the famous Pepe!

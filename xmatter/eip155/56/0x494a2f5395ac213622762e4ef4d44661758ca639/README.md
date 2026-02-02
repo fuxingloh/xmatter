@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3f3f3"
+icons:
+  - icon.png
 ---
 
 CashDog is a Charity Focused DeFi Token with Automatic Liquidity Generation and Token Redistribution on each trade.

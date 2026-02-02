@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#ccc4a4"
+icons:
+  - icon.png
 ---
 
 VNX Euro (VEUR) is a token referencing Euro from a token generator licensed under the Blockchain act in Liechtenstein.

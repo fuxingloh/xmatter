@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a774b1"
+icons:
+  - icon.png
 ---
 
 Aave LEND V1 is an interest bearing token pegged 1:1 to the underlying LEND deposited in Aave V1. aLEND V1 accrue interest in real time in your wallet.

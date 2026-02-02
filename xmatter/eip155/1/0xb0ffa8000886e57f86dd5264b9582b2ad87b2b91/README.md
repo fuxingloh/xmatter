@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Wormhole is the leading interoperability platform that powers multichain applications and bridges at scale. Wormhole provides developers access to liquidity and users on over 30 of the leading blockchain networks, enabling use cases that span DeFi, NFTs, governance, and more.

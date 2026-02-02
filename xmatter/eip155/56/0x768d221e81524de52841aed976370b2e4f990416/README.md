@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c1d1d"
+icons:
+  - icon.png
 ---
 
 Moon Maker Protocol is a DeFi launchpad project, which assist a novel DeFi token launching their to community.

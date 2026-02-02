@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#186dc7"
+icons:
+  - icon.png
 ---
 
 The Decentralized Trading Asset Platform is a DAPP opensource toolkit built for transactions using third parties with decentralized P2P networks.

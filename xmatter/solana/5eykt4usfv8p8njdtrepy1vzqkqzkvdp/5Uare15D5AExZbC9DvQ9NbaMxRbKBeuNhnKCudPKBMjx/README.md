@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#232f1b"
+icons:
+  - icon.png
 ---
 
 The Ticker is $DOODLED

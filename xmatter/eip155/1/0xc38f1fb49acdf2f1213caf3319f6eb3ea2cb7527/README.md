@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5ba7da"
+icons:
+  - icon.png
 ---
 
 Bitcoinus (BITS) is a cryptocurrency and operates on the Ethereum platform.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#42457f"
+icons:
+  - icon.png
 ---
 
 imbrex (REX) is a cryptocurrency and operates on the Ethereum platform.

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbe104"
+icons:
+  - icon.png
 ---
 
 The internet’s hedgehog mascot. A community-driven project with fun, memes, and good vibes.

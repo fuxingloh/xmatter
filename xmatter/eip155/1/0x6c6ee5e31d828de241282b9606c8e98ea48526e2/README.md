@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04848b"
+icons:
+  - icon.png
 ---
 
 Holochain (HOT) is a decentralized application platform that uses peer-to-peer networking for processing agent-centric agreement and consensus mechanisms between users.

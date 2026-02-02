@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#050606"
+icons:
+  - icon.png
 ---
 
 First meme created by truth_terminal. Goatseus Maximus will fulfill the prophecies of the ancient memeers.

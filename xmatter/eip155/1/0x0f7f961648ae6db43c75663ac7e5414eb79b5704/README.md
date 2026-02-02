@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#83fab3"
+icons:
+  - icon.png
 ---
 
 Blockzero Labs - Blockchain development studio.

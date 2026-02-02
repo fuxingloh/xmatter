@@ -24,6 +24,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f1a604"
+icons:
+  - icon.png
 ---
 
 Million is a digital currency with 1,000,000 total supply. https://milliontoken.org

@@ -21,6 +21,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#056bf9"
+icons:
+  - icon.png
 ---
 
 DappRadar aims to be one of the leading global NFT & DeFi DAPP store.

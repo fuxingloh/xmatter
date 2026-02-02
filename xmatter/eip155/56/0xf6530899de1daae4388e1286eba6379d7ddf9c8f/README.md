@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#15121f"
+icons:
+  - icon.png
 ---
 
 Aurora Finance (AURO) is a new project that provides automated rewards to users who hold the token.

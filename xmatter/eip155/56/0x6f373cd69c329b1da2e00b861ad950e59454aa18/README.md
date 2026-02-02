@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#100d0a"
+icons:
+  - icon.png
 ---
 
 Doge Yellow Coin DOGEY Doge Yellow Coin is a new cryptocurrency born to emulate dogecoin with the help of Elon Musk

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3c54fc"
+icons:
+  - icon.png
 ---
 
 Alita is the ultimate reward token for global trading platforms.

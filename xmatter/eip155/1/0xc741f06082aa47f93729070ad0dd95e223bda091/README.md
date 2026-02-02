@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#202828"
+icons:
+  - icon.png
 ---
 
 Education Ecosystem describes itself as a project-based learning platform where developers can discover new technologies and try them out hands-on using free practical project examples.

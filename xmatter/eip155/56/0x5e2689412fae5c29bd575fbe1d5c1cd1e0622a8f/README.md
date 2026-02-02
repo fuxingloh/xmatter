@@ -40,6 +40,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c944cb"
+icons:
+  - icon.png
 ---
 
 Heroes TD is a Free to Play or Play to Earn 3D GameFi built with Heroes Metaverse. You can play with each other and trade items on the NFT market! Join Heroes TD today and get your life-time investment!

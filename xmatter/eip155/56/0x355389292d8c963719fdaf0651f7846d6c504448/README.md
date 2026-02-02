@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d72c6d"
+icons:
+  - icon.png
 ---
 
 BEP-20 Token combining financial freedom with charity

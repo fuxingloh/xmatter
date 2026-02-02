@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c8b174"
+icons:
+  - icon.png
 ---
 
 Lunch Money is an ERC20 token built on the Ethereum Blockchain.

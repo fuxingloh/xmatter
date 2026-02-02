@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#694e9c"
+icons:
+  - icon.png
 ---
 
 Liquidity Generating, Frictionless Yield, and Self Sustaining Smart Contract

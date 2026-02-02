@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5dafcf"
+icons:
+  - icon.png
 ---
 
 Compound is an open-source protocol for algorithmic, efficient Money Markets on the Ethereum blockchain.

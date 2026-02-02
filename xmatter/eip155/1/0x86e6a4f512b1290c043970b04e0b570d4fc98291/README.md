@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3296b1"
+icons:
+  - icon.png
 ---
 
 IntelliShare describes itself as a distributed network based on mesh technology. It reportedly customizes private networks for communities and provides network support for commercial uses.

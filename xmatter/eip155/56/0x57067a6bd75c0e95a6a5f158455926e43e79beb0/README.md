@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4c9bdd"
+icons:
+  - icon.png
 ---
 
 A fair launch yield farming and staking platform on Binance Smart Chain.

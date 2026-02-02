@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e97ca7"
+icons:
+  - icon.png
 ---
 
 A new LAYER of possibilities to trade on Uniswap.

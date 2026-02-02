@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c97531"
+icons:
+  - icon.png
 ---
 
 Kai Inu is a deflationary token running on the BSC network joining the ranks of the master pups.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ffb71b"
+icons:
+  - icon.png
 ---
 
 ComPro.Finaace, decentralized protocol for the synthetic assets.

@@ -12,6 +12,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#28282d"
+icons:
+  - icon.png
 ---
 
 Every New Chain Mooner Started Off with the Founder's Dog, and Let's Meet JUSTIN SUN DOG $TIEDAN #铁蛋

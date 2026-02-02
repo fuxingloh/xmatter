@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0e2e54"
+icons:
+  - icon.png
 ---
 
 BSTS is a hyper-deflationary token running on Binance Smart Chain, which will be used in the in-game store to buy Beasties and other items

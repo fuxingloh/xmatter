@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3e3eb"
+icons:
+  - icon.png
 ---
 
 YAM is described by the team as 'An Experiment in Fair Farming, Governance, and Elasticity'.

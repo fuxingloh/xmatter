@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e95f9a"
+icons:
+  - icon.png
 ---
 
 Karen Coin is a meme based token built on value driven tokenomics

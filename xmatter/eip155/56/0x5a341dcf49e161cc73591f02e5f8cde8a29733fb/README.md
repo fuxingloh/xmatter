@@ -36,6 +36,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3cc79a"
+icons:
+  - icon.png
 ---
 
 Multi-reward token with utilities that generate profits for holders.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0070a0"
+icons:
+  - icon.png
 ---
 
 Decentralized Machine. Learning Unleash untapped private data, idle processing power and crowdsourced algorithms.

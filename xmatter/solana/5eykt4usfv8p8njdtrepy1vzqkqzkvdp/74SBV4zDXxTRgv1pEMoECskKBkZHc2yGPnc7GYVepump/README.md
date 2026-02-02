@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#050505"
+icons:
+  - icon.png
 ---
 
 Empowering the Agent Economy with $swarms

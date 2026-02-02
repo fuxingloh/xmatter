@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#64a4db"
+icons:
+  - icon.png
 ---
 
 Standard Tokenization Protocol describes itself as an open-source standard defining how tokenized assets are issued and transferred while complying with the necessary regulations.

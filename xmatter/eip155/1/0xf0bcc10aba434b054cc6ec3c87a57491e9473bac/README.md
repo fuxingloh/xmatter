@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d62032"
+icons:
+  - icon.png
 ---
 
 Ethereum-based alternative asset for trading,developing innovative and alternative cryptocurrency solutions.

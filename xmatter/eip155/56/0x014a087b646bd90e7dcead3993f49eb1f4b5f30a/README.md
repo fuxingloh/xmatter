@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#45c8e3"
+icons:
+  - icon.png
 ---
 
 Gulf, A gem rising to the surface of the fourth industrial revolution. Today, we are living through an industrial and a technological revolution going at a pace that will fundamentally alter the way we live.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#171717"
+icons:
+  - icon.png
 ---
 
 End-to-end platform for compliant issuance, p2p trading and life-cycle management of digital assets.

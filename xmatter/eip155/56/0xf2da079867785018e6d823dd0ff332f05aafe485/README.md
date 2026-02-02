@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#175cee"
+icons:
+  - icon.png
 ---
 
 We are an international team consisting of investors, programmers, engineers, founders, project managers, and crypto enthusiasts. We are not only invested but have also realized and successfully established many projects ourselves. Due to our network, we are personally very well connected with many partners and decision makers in the whole field.

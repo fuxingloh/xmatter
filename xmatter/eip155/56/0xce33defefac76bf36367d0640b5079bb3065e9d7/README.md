@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8aa283"
+icons:
+  - icon.png
 ---
 
 Fred

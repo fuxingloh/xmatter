@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#502c84"
+icons:
+  - icon.png
 ---
 
 MEL — a memecoin where Melania embodies the symbol of success, shining with elegance and confidence at the peak of the crypto Olympus! She leads us into a future where cryptocurrency rules the world, opening new horizons of wealth and freedom.

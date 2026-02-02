@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04d092"
+icons:
+  - icon.png
 ---
 
 The Avalanche Bridge Wrapped Compound.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbeca8"
+icons:
+  - icon.png
 ---
 
 DeHero is a decentralized GameFi application based on BSC.

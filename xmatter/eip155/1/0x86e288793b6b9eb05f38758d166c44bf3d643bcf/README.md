@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f8e04a"
+icons:
+  - icon.png
 ---
 
 Collection of digital currency services Pay, exchange, collect, send, earn and receive money. Superfast and easy

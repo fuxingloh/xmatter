@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbcb5c"
+icons:
+  - icon.png
 ---
 
 GUH (Goes Up Higher) is an elastic supply token that is mathematically guaranteed to increase in price until it exceeds the price of bitcoin

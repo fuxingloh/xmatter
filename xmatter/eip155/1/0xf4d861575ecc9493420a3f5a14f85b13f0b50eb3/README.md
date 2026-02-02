@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc631a"
+icons:
+  - icon.png
 ---
 
 Fractal enables a free and open Web that respects user privacy, rewards content creators, and protects advertisers from fraud.

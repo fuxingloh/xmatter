@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#45d43f"
+icons:
+  - icon.png
 ---
 
 $KLKO Token is a Klickl Ecosystem Option Token

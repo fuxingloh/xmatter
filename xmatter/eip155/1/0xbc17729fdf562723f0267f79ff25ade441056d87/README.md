@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e6007a"
+icons:
+  - icon.png
 ---
 
 KSM Starter is the primary launchpad on Kusama that supports upcoming projects that wish to build on the Kusama network and the greater Substrate ecosystem.

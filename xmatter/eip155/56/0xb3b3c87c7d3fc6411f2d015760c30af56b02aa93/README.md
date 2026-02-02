@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ef4b53"
+icons:
+  - icon.png
 ---
 
 SKYRocket is a community driven token focusing on the mobile games industry.

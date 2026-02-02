@@ -19,6 +19,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b8ddf2"
+icons:
+  - icon.png
 ---
 
 Baitcoin is a full-on-chain liquidity protocol with Decentralised financing that can be implemented on any smart contract-enabled blockchain.

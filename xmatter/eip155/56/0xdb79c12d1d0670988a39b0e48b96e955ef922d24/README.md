@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c5c1bd"
+icons:
+  - icon.png
 ---
 
 A one-stop full-featured decentralized exchange.

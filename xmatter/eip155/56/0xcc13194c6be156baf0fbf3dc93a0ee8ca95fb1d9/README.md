@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c0d14"
+icons:
+  - icon.png
 ---
 
 Happy St. Patrick's Day!

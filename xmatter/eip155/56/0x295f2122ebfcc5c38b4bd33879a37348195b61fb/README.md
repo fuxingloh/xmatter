@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7d1dfa"
+icons:
+  - icon.png
 ---
 
 THANOS Token is the world’s first crypto-powered clothing marketplace, combining your NFT artworks into authentic, verified brands owned by you.

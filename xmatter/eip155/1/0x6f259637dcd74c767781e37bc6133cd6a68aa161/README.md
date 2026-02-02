@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2aaee3"
+icons:
+  - icon.png
 ---
 
 Huobi Token (HT) is an exchange based token and native currency of the Huobi crypto exchange.

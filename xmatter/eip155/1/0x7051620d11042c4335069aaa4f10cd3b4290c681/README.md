@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#323334"
+icons:
+  - icon.png
 ---
 
 TCASH is EtherFlyer’s platform token. EtherFlyer describes itself as a decentralized crypto Exchange.

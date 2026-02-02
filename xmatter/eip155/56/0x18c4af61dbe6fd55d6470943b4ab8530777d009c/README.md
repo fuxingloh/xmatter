@@ -45,6 +45,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7ce3ad"
+icons:
+  - icon.png
 ---
 
 Agata Token transcends the typical role of a cryptocurrency, embodying the foundation of the Agatech ecosystem. Ingeniously designed for diverse utility, it stands as the key currency for governance, staking, and accessing a variety of services within the Agatech network.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e5f0f3"
+icons:
+  - icon.png
 ---
 
 Locus Chain believes that it has established the basis for anyone to freely participate in the network through nodes by implementing the technology called Verifiable Pruning, which allows for the validation of previous data with the least amount of hash values, and also dynamic sharding, which decreases the network load by dividing the network into shard units.

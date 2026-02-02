@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8d2ba4"
+icons:
+  - icon.png
 ---
 
 EverETH is a native utility token that is used for recieving dividends in Ethereum.

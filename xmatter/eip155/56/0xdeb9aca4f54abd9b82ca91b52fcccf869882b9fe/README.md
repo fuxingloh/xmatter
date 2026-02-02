@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cbbaa8"
+icons:
+  - icon.png
 ---
 
 Every transaction is taxed 5%: 2% is distributed to holders and 3% is locked in liquidity forever

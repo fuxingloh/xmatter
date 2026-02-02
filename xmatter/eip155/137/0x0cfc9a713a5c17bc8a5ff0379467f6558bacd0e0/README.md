@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4c9cfc"
+icons:
+  - icon.png
 ---
 
 The automation of decentralized DeFi data monitorization and external executions over multi-chain applications.

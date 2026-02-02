@@ -16,6 +16,7 @@ name: DogeCola
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 The first reflection token and soft drink at the same time. Every buy gives members more with the auto-boost and hyper deflation system in place.

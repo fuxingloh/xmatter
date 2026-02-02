@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#060404"
+icons:
+  - icon.png
 ---
 
 Mars has become a high-frequency word on Twitter for human immigrants Mars Musk and one of the easiest tokens for FOMO

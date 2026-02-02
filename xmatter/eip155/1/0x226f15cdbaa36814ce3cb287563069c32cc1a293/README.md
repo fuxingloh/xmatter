@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2d2d2d"
+icons:
+  - icon.png
 ---
 
 CRYPTOFOREX is a US dollar pegged stablecoin that aims to bring the benefits of cryptocurrency into forex trading.`

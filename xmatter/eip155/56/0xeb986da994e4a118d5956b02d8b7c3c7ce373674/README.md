@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3c53e3"
+icons:
+  - icon.png
 ---
 
 Gather is a platform that allows publishers to monetize without ads and provides businesses & developers access to cheap and reliable processing power.

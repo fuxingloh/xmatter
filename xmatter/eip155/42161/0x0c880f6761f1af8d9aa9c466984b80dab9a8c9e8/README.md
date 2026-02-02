@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#132b52"
+icons:
+  - icon.png
 ---
 
 Pendle is a protocol for people to trade and hedge yield. Users can tokenize yield and trade them on Pendle's AMM

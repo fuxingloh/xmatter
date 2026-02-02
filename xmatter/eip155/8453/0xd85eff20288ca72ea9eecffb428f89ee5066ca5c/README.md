@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e099d1"
+icons:
+  - icon.png
 ---
 
 ISKRA is a blockchain gaming hub that brings together gamers and game studios. Our platform allows gamers to explore and enjoy quality blockchain games and create their own community. Interested users will have the opportunity to explore new game projects for the first time through our Launchpad. Users can also freely trade in-game tokens and other in-game assets minted as non-fungible tokens (NFTs) outside the game.

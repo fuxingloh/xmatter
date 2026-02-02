@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 The mascot of the BNB Chain was launched on February 10th when the BNBChain X account posted our image

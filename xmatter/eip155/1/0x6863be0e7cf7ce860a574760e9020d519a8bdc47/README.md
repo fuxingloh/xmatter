@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c5c332"
+icons:
+  - icon.png
 ---
 
 On.Live (ONL) is a cryptocurrency and operates on the Ethereum platform.

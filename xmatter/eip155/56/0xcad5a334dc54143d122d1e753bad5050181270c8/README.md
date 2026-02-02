@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f0bd9e"
+icons:
+  - icon.png
 ---
 
 Meet Miss Kaka ($KAKA), the super cute teddy dog of Binance founder YiHe, now immortalized as the latest meme coin sensation! Inspired by the charm and playfulness of Miss Kaka herself, $KAKA is more than just a token—it’s a community-driven movement bringing together dog lovers, meme enthusiasts, and crypto fans alike.

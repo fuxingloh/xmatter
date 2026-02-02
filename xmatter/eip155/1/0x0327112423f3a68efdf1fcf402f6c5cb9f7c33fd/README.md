@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d42db0"
+icons:
+  - icon.png
 ---
 
 Diversified Bitcoin exposure on Ethereum

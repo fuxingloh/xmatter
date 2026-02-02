@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#27b366"
+icons:
+  - icon.png
 ---
 
 Immutable Repositories for Sports Bettors.

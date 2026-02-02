@@ -20,6 +20,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#2c8c9c"
+icons:
+  - icon.png
 ---
 
 Remitt USD stable coin

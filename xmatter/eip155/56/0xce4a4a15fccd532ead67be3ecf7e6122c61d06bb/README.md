@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e29645"
+icons:
+  - icon.png
 ---
 
 The world 1st double reward reflection token using the power of 80% CAKE / 20% THOREUM.

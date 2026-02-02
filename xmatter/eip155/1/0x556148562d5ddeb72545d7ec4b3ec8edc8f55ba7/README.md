@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3f7438"
+icons:
+  - icon.png
 ---
 
 Predix Network is a prediction-based reward system on the Ethereum blockchain powered by PRDX, a price-reactive deflationary stakable ERC20 token. PRDX supports a tiered staking mechanism where users are placed in different staking tiers based on the staking size.

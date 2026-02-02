@@ -10,6 +10,8 @@ standards:
   - trc10
 icon: icon.png
 color: "#c4a01b"
+icons:
+  - icon.png
 ---
 
 GrafenoCoin, GFNC, created to encourage research on Graphene

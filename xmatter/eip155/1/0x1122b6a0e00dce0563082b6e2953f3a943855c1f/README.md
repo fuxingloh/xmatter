@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c80ff"
+icons:
+  - icon.png
 ---
 
 Centrality is a Kiwi company formed by like-minded individuals that are interested in cutting edge technology and creating something purposeful.

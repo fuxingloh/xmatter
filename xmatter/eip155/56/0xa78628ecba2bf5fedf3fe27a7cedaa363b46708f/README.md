@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0b818f"
+icons:
+  - icon.png
 ---
 
 Little Bunny Rocket is a collateralized cryptocurrency that grants investor holding LBR instant rewards on all transaction and protect them with its unique burn protocol. Little Bunny Rocket’s innovative ecosystem and LBR dApps will bring a true revolution to the cryptocurrency space and set new standard for security in DeFi.

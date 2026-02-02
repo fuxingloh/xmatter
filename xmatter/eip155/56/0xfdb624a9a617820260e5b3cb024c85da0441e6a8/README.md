@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e6dcdb"
+icons:
+  - icon.png
 ---
 
 Queen YI

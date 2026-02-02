@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 The next-generation blockchain platform for large-scale stacking value. Cybercoin is a platform solution for true digital value storage - Blockchain for everyone - Digital security and boundless possibilities.

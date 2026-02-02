@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e18a99"
+icons:
+  - icon.png
 ---
 
 Metarverse + Raca = MetaRaca, a collection of puppies in the form of NFTs. We're a dedicated team that want to build something for the crypto community in general and the $RACA lovers in particular.

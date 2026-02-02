@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b64304"
+icons:
+  - icon.png
 ---
 
 Yield farm hyperion on Binance Smart Chain.

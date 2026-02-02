@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f7b927"
+icons:
+  - icon.png
 ---
 
 BUSD is a stablecoin issued by Paxos in partnership with Binance.

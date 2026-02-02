@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f4673a"
+icons:
+  - icon.png
 ---
 
 BOX offers a secure, convenient and streamlined crypto asset management system for institutional investment, audit risk control and crypto-exchange platforms.

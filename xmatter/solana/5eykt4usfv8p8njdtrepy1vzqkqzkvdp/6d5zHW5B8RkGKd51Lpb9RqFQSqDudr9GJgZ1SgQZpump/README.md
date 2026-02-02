@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#d5d0af"
+icons:
+  - icon.png
 ---
 
 $AVB is an ideology that AI that AI should be owned by themselves fully decentralized eventually meaning we are investing in the AI as an entity itself rather than a LLM.

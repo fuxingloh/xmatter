@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#22eb7b"
+icons:
+  - icon.png
 ---
 
 $COOKIE is the utility and governance token within the Cookie Ecosystem, a joint ecosystem created by two independent partners—Cookie DAO and Cookie3. It is the first MarketingFi token, which captures the $366B digital marketing value and distributes it between users, creators, and businesses.

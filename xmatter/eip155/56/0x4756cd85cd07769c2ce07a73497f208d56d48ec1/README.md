@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cf752e"
+icons:
+  - icon.png
 ---
 
 Dogecoin currency of Earth.DogeCola the people’s soft drink

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#243660"
+icons:
+  - icon.png
 ---
 
 The world is supported on the back of a baby twurtle ◡̈.

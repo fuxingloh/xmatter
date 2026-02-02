@@ -8,4 +8,6 @@ standards:
   - erc20
 icon: icon.png
 color: "#8a2620"
+icons:
+  - icon.png
 ---

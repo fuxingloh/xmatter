@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3d7b9"
+icons:
+  - icon.png
 ---
 
 Binance Smart Chain Girl Moon Binance Smart Chain Girl It is a token of the same project as BSC GIRL.

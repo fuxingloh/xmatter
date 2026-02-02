@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#68764d"
+icons:
+  - icon.png
 ---
 
 APEcoin embraces the humor and viral nature of memes by developing an ecosystem of platforms that celebrate and explore crypto trends. GO APE!

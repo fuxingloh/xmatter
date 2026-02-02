@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eac362"
+icons:
+  - icon.png
 ---
 
 Bucky Coin will be an open-source network for currencies and payments

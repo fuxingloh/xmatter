@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc9004"
+icons:
+  - icon.png
 ---
 
 Cryptocurrency for Creator Communities

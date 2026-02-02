@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dc3c84"
+icons:
+  - icon.png
 ---
 
 Nafty is the token for the adult industry, aimed to empower content creators and reward content consumers across the Nafty Network

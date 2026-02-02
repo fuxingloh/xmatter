@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3fbfa"
+icons:
+  - icon.png
 ---
 
 HYBN is a blockchain wallet made to simplify sending and receiving digital payments with the world.

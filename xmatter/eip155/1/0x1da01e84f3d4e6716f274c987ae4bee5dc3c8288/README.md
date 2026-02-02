@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cb0506"
+icons:
+  - icon.png
 ---
 
 DefiBids is a one of a kind decentralized auction site. Defi Bids allows users to bid on packages of existing ERC20 tokens.

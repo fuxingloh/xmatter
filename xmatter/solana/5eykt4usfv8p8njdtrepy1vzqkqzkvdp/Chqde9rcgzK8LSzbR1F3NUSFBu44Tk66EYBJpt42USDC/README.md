@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#eaa0a4"
+icons:
+  - icon.png
 ---
 
 SPL-2022 with 5% fee, distributing USDC to the community based on trading volumes.

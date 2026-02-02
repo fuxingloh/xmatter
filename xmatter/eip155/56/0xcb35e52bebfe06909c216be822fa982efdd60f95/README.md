@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cea746"
+icons:
+  - icon.png
 ---
 
 Ride the baby wave. You’ve seen baby doge, baby sanshu, and baby kishu, but not baby ape! This is a coin made by apes for apes, and we have big plans in store.

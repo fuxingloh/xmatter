@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f7c107"
+icons:
+  - icon.png
 ---
 
 The main token of Cryptomindex exchange

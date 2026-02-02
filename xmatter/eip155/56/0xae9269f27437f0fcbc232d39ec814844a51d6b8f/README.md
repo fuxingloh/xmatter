@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f7b504"
+icons:
+  - icon.png
 ---
 
 A democratized AMM on Binance Smart Chain.

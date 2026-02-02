@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f4fafa"
+icons:
+  - icon.png
 ---
 
 PayPie (PPP) is a cryptocurrency and operates on the Ethereum platform.

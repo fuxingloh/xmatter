@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d7994c"
+icons:
+  - icon.png
 ---
 
 Camel

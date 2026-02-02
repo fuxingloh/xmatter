@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f1db82"
+icons:
+  - icon.png
 ---
 
 A modular network of interoperable DeFi agents

@@ -31,6 +31,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#481511"
+icons:
+  - icon.png
 ---
 
 Golden Doge (GDOGE) is a community token that has a special Golden Vault which gets filled by 5% of every GDOGE transaction on Pancakeswap and rewards the GDOGE community in BNB.

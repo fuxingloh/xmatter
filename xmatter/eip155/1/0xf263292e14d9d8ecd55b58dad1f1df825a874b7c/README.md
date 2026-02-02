@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3b77ef"
+icons:
+  - icon.png
 ---
 
 Educoin is a decentralized online skill learning platform for learners to improve their professional skills in future technologies. Educoin is building the future for online education and professional development with blockchain technology.

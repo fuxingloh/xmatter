@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f0db71"
+icons:
+  - icon.png
 ---
 
 With Auricoin money in the economic field, new and forgotten theories are applied, which academics continue to teach in universities for 80 years, and are present in the study curriculum in economics careers, but which are impossible apply, with these types of currency cones that are used and have been used in world economic history

@@ -19,6 +19,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0e6d6c"
+icons:
+  - icon.png
 ---
 
 Utility token to play and inGame economy of Moon Nation Game.

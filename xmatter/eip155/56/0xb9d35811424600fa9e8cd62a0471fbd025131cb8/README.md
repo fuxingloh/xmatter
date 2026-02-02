@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3cd9d4"
+icons:
+  - icon.png
 ---
 
 An Asset-based token with aim to reduce carbon emissions using several utilities for the token.

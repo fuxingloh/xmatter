@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f1f1f1"
+icons:
+  - icon.png
 ---
 
 K21 is a closed-end art vault that provides liquid exposure to a curated collection of 21 unique and original NFT artworks by a diverse roster of influential and pioneering contemporary, digital, and cryptonative artists. Engineered for composability, durability, and equity, K21 establishes a new protocol for art.

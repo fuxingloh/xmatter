@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d4fc04"
+icons:
+  - icon.png
 ---
 
 There was a time when cats ruled the Interweb. In recent times, dog coins have taken over, leaving us a near extinct species

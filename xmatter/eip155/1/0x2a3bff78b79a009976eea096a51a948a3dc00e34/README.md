@@ -29,6 +29,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9aaaf1"
+icons:
+  - icon.png
 ---
 
 Wilder World is an immersive 5D metaverse powered entirely by NFTs.

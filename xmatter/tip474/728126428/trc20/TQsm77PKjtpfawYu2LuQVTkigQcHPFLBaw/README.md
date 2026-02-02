@@ -10,6 +10,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#ecc661"
+icons:
+  - icon.png
 ---
 
 In compliance with SEC regulations, INTC is the currency of the people, by the people, for the people. Because every human being on the planet has the right to own cryptocurrency and the freedom to use it anywhere on a secure, fast, sustainable and decentralized network, without paying absurd transaction fees.

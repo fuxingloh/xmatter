@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#243462"
+icons:
+  - icon.png
 ---
 
 Blockchain digital asset management.

@@ -23,6 +23,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d6c157"
+icons:
+  - icon.png
 ---
 
 Binance dog is a deflationary token which is centered by the community and driven by the internal force.

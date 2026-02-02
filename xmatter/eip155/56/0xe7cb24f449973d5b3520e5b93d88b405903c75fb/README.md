@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#857f7a"
+icons:
+  - icon.png
 ---
 
 BNbitcoin is the native, pure Proof-of-Work mined token on the Binance Smart Chain

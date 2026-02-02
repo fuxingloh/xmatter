@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e94f67"
+icons:
+  - icon.png
 ---
 
 Aave MANA is an interest bearing token pegged 1:1 to the underlying MANA deposited in Aave. aMANA accrue interest in real time in your wallet.

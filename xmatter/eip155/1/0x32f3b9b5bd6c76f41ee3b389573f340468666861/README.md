@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e0e0db"
+icons:
+  - icon.png
 ---
 
 YFII SILVER is the world's first and only YFI pludges elastic token supply defi-protocol.

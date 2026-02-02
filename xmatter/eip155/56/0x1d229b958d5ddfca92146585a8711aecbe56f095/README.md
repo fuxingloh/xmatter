@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5aa0f7"
+icons:
+  - icon.png
 ---
 
 ZOO token is a utility token that was issued by ZOO - Crypto World.

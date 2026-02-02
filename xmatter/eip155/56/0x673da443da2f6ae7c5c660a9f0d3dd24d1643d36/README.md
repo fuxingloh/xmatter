@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#05b485"
+icons:
+  - icon.png
 ---
 
 7 colors. 7 features. 7% tax.

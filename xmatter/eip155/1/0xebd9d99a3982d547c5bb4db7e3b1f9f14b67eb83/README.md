@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4fc4b7"
+icons:
+  - icon.png
 ---
 
 Everest ID Token

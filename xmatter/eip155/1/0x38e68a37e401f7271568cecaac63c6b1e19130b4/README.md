@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#facc46"
+icons:
+  - icon.png
 ---
 
 Banana Gun is a Telegram DEX Trading Bot, featuring: Auto Sniper, MEV-resistant swaps, Anti Rug & Re-org Protection.

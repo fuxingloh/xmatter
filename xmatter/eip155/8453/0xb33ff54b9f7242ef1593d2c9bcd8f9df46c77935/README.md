@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2f6a43"
+icons:
+  - icon.png
 ---
 
 Freysa is an evolving AI stack and agent, starting as the world's first adversarial agent game.

@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1453f2"
+icons:
+  - icon.png
 ---
 
 Wake Up. Chad Harder. Repeat.

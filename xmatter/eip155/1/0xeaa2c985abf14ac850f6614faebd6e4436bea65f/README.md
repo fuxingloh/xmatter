@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ea5334"
+icons:
+  - icon.png
 ---
 
 SHUMO THE WORLDS MOST POWERFUL SHIB!

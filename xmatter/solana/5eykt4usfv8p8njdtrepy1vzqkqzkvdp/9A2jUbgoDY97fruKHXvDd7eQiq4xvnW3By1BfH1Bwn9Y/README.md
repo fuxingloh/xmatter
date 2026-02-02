@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#546df8"
+icons:
+  - icon.png
 ---
 
 Automated Market Insights 🌊 Continuous Smart Evolution 🧠

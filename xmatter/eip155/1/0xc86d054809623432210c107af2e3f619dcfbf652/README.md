@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#18a0c0"
+icons:
+  - icon.png
 ---
 
 Sentinel Protocol, operated and developed by Uppsala Security, is the world's first crowdsourced Threat Intelligence Platform powered by blockchain technology to protect the cyberspace.

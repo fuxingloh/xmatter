@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#26a4f9"
+icons:
+  - icon.png
 ---
 
 WOW is the World‘s first charity-based NFT marketplace!

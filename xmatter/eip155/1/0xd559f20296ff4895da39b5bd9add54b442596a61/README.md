@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#21a79b"
+icons:
+  - icon.png
 ---
 
 The Global P2P Lending Ecosystem Powered By Ethereum And No-Code Development.

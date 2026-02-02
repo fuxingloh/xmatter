@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a672ae"
+icons:
+  - icon.png
 ---
 
 Aave TUSD V1 is an interest bearing token pegged 1:1 to the underlying TUSD deposited in Aave V1. aTUSD V1 accrue interest in real time in your wallet.

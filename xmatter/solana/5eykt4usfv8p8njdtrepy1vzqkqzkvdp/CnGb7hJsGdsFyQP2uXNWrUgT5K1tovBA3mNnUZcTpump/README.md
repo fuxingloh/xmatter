@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f9f9f9"
+icons:
+  - icon.png
 ---
 
 Flork is an SOLANA meme token inspired by a popular online webcomic known for its quirky sock puppet characters drawn in MS Paint.

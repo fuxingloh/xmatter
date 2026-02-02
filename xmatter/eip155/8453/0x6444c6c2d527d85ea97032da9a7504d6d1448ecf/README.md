@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c44f4"
+icons:
+  - icon.png
 ---
 
 Ratio1 (R1) is the utility token of a decentralized AI compute network, enabling secure, private, and scalable AI execution with fair rewards for Node Providers.

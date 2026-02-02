@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2549da"
+icons:
+  - icon.png
 ---
 
 WindSwap is a Deflationary Bridging Token & DEX Platform.

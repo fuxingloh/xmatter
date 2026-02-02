@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f6a12c"
+icons:
+  - icon.png
 ---
 
 Bsc starter finance aims to offer secure community-owned and governed token presale platform for Binance Smart Chain.

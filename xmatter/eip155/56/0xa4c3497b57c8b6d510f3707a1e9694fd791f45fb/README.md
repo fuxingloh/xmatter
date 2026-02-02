@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9a0404"
+icons:
+  - icon.png
 ---
 
 VON is the ecosystem utility token at the heart of the dark fantasy universe of dEmpire of Vampire, a mobile game by the Vameon project. dEmpire of Vampire is an AI Play-to-Earn Metaverse on the BNB Chain that is redefining gaming by granting players true ownership of their in-game assets—including characters, achievements, and rewards—all secured as NFTs and tradable on-chain.

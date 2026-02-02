@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cbccde"
+icons:
+  - icon.png
 ---
 
 NanoDogeCoin (INDC) is the revolutionary token that allows investors to earn USD Tether while helping to save dogs worldwide.

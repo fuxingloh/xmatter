@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ebba57"
+icons:
+  - icon.png
 ---
 
 PolyDoge is a digital currency with one of the most vibrant communities on the powerful Polygon Network.

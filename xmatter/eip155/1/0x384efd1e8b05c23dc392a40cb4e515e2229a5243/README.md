@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#050607"
+icons:
+  - icon.png
 ---
 
 Healix AI ($HxAI) is a DeSci-powered healthcare platform combining AI and blockchain to deliver personalized diagnostics, treatment plans, and wellness solutions. With a focus on privacy, innovation, and accessibility, Healix AI empowers users to take control of their health journey.

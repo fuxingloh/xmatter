@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5464fb"
+icons:
+  - icon.png
 ---
 
 Lite is a decentralized stable coin casting protocol that allows users to use Lite as collateral to cast Lusd.

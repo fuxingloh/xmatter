@@ -12,6 +12,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#e2242d"
+icons:
+  - icon.png
 ---
 
 From the East to the West, we stand as one, a multi-culture coin has just begun. Join the SunWukong community now on TRON.

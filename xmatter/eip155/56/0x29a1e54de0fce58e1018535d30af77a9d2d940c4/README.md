@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6977fc"
+icons:
+  - icon.png
 ---
 
 Hero Cat game is a Metaverse about cat heros. It bringing new gamefi playand earn experience for its players. Players can use Hero Cat crypto to fight, develop, upgrade, and join battles. Players will earn crypto by playing or contributing to the community.

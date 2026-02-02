@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d3747a"
+icons:
+  - icon.png
 ---
 
 NDT METAVERSE is a far-reaching technology that has brought breakthrough ideas into life. This token is a revolutionary product, as it is one of the latest developments in the crypto space that utilities state-of-the-art technologies.

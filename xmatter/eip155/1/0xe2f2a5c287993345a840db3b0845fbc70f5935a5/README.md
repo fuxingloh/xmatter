@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3f3f3"
+icons:
+  - icon.png
 ---
 
 mStable unites stablecoins, lending and swapping into one standard.

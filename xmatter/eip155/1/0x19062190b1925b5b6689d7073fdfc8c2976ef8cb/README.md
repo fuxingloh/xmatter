@@ -35,6 +35,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#db7305"
+icons:
+  - icon.png
 ---
 
 Swarm is a decentralised permisionless data storage and distribution technology.

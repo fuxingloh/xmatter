@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1652a5"
+icons:
+  - icon.png
 ---
 
 Fatcoin (FAT) is an ERC20 token issued by the FatBTC exchange for use within its ecosystem.

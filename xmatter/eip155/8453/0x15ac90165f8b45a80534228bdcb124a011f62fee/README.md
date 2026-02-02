@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#356edf"
+icons:
+  - icon.png
 ---
 
 Just for funsies, nothing too serious, We wanna see what the power of memes can do.

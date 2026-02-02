@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbd9bf"
+icons:
+  - icon.png
 ---
 
 Paçoca is a DeFi hub where users can invest in yield-optimizing vaults and track their assets on Binance Smart Chain.

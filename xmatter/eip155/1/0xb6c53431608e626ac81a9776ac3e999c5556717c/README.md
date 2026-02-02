@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#faf3d0"
+icons:
+  - icon.png
 ---
 
 pNetwork enables cross-chain movement of assets and data.

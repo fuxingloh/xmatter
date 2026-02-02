@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b1b1b"
+icons:
+  - icon.png
 ---
 
 Secret is the native coin of the Secret Network, a decentralized network for private / secure computation. WSCRT is the wrapped ERC20 version of SCRT which can be exchanged 1:1 on the Secret Network Bridge.

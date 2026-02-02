@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#46b74d"
+icons:
+  - icon.png
 ---
 
 The New Year token is a currency focused on NFT and New Year symbols, with real use.

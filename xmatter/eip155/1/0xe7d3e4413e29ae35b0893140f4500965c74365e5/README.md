@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ed9d19"
+icons:
+  - icon.png
 ---
 
 Unlock corporate demand for a token based business-to-business (B2B) marketing, sales, and trade platform.

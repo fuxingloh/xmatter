@@ -27,6 +27,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#10100e"
+icons:
+  - icon.png
 ---
 
 Battle Fort Knox - BFK is a complete gaming ecosystem with our native token $BFK, our NFT Marketplace, and our P2E 2D shooter coming to iOS, Android, and Windows.

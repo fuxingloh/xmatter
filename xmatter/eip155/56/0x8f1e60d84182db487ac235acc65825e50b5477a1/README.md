@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#090909"
+icons:
+  - icon.png
 ---
 
 The Lendefi Protocol facilitates leveraged trading through secured lending, delivering confidence within the highly volatile cryptocurrency marketplace.

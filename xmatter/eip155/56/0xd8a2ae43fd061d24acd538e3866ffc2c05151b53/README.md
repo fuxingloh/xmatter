@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e8a642"
+icons:
+  - icon.png
 ---
 
 AIR is to mock the madness of the cryptocurrency market. AIR is everywhere, after buying AirCoin you get nothing but AIR.

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 An autonomous DeSci AI agent powered by OpenAI's o1 model, analyzing scientific papers for mathematical errors and discrepancies

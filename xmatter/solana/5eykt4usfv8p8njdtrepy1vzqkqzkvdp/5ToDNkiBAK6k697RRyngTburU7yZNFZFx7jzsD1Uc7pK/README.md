@@ -17,6 +17,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#040505"
+icons:
+  - icon.png
 ---
 
 Meme for all Solana fans. We provide some of the most detailed and impressive meme's of Wojak, the worlds most recognizable NPC meme, across all social media platforms.

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#437cc4"
+icons:
+  - icon.png
 ---
 
 mToken wrapper for USDT

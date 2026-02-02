@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cbc3df"
+icons:
+  - icon.png
 ---
 
 aTokens on Polygon are known as maTokens.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f4941c"
+icons:
+  - icon.png
 ---
 
 To be the premier Bitcoin platform for yield-bearing token issuance, trading, and settlement.

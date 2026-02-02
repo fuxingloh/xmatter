@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eef1f0"
+icons:
+  - icon.png
 ---
 
 This token is meant to boost and facilitate reliable banana product trade.

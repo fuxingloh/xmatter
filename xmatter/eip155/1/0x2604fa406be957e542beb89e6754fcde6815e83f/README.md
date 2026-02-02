@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#23221d"
+icons:
+  - icon.png
 ---
 
 Playkey - Decentralized Cloud Gaming Platform

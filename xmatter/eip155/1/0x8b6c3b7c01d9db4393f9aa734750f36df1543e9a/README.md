@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6ee2f7"
+icons:
+  - icon.png
 ---
 
 VI is the native token used in the Vid app. Vid is a social media platform that pays you for the value you provide to the platform.

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#0e2041"
+icons:
+  - icon.png
 ---
 
 $MAGA Movement on Solana

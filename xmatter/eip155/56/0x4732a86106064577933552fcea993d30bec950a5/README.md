@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0748ad"
+icons:
+  - icon.png
 ---
 
 DIGICHAIN Coin The future of the crypto word, Digichain Coin has a project that adapts to all the needs of people's activities in the crypto world.

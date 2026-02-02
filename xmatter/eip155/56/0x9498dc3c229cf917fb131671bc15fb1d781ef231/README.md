@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c2748"
+icons:
+  - icon.png
 ---
 
 Pitmoons is programmed to reward holders while increasing in both liquidity and value. It does this by applying a 4% tax on every transaction.

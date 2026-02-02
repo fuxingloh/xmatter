@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#050505"
+icons:
+  - icon.png
 ---
 
 IX Swap is the “Uniswap” for security tokens (STO) and tokenized stocks (TSO). IX Swap will be the FIRST platform to provide liquidity pools and automated market making functions for the security token (STO) & tokenized stock industry (TSO).

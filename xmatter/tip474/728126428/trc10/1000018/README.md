@@ -10,6 +10,8 @@ standards:
   - trc10
 icon: icon.png
 color: "#242536"
+icons:
+  - icon.png
 ---
 
 TronWallet Exchange / Marketplace Token

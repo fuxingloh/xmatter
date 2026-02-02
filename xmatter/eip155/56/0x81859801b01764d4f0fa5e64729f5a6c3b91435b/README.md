@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b1b1c"
+icons:
+  - icon.png
 ---
 
 Bearn Fi is a cross-chain product in DeFi that at its core provides yield generation, casino/gaming aggregation, bridge, treasury and governance on multi-chain: Binance Smart Chain blockchain (BSC) and Ethereum blockchain.

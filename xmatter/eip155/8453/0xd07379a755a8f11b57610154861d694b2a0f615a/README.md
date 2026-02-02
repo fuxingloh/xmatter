@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3bcee5"
+icons:
+  - icon.png
 ---
 
 Native Base chain DEX. Offering swaps, single staking, bridging, perpetuals and concentrated liquidity all in one place!

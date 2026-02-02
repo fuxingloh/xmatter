@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8b1866"
+icons:
+  - icon.png
 ---
 
 Decubate is a community-powered investment platform that is bringing the $3 trillion global startup economy on-chain, unlocking liquidity for investors, and accelerating the mass adoption of blockchain technology.

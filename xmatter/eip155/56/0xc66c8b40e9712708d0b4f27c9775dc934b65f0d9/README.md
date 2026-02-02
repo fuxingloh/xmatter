@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#090904"
+icons:
+  - icon.png
 ---
 
 ElonTech is Binance Smart Chain Token developed for building the first decentralized Tech Valley.

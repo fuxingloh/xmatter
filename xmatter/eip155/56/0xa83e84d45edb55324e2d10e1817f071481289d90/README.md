@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ae93f8"
+icons:
+  - icon.png
 ---
 
 Cranch is online gaming, staking, farming & NFT marketplace a decentralized cryptocurrency based on the blockchain technology.

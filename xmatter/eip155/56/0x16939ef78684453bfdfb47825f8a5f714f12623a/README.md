@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c7cf4"
+icons:
+  - icon.png
 ---
 
 BNB pegged Tezos Token (XTZ BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Tezos (XTZ) at a ratio of 1:1.

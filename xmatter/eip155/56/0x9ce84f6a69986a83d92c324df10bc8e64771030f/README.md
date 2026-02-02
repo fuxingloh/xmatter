@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a3b38c"
+icons:
+  - icon.png
 ---
 
 Leading Business into the Regulated Digital Assets Frontier

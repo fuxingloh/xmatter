@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 ICO Crypto is a platform for the future of funding that powering defi for the new equity blockchain

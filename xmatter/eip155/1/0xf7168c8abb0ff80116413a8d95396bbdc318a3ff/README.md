@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#273b27"
+icons:
+  - icon.png
 ---
 
 KEK is a crypto meme project inspired by the ancient Egyptian god Kek, using memetic magic to influence the crypto world.

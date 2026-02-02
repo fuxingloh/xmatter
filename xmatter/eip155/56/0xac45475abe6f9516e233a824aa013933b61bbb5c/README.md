@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#faaa2b"
+icons:
+  - icon.png
 ---
 
 Bridge AI is an advanced blockchain-powered ecosystem that integrates artificial intelligence to enhance data accessibility, automation, and transparency. The project leverages AI-driven solutions to facilitate smart contract execution, decentralized data processing, and seamless interactions within Web3 applications.

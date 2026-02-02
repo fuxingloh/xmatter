@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8e26c7"
+icons:
+  - icon.png
 ---
 
 DUST is the official currency of the Mutant Universe. It can be earned by contributions to the Mutant cause and used for mining new mutants, as a payment method in NFT marketplaces or games.

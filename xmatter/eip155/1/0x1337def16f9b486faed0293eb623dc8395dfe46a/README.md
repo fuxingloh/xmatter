@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b93fc"
+icons:
+  - icon.png
 ---
 
 Armor is a DeFi coverage aggregator to secure and scale adoption.

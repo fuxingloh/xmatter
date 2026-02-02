@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2e3b47"
+icons:
+  - icon.png
 ---
 
 The MGP token will decentralize the eSports sector

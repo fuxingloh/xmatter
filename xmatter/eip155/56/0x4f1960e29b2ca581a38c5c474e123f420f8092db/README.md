@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1eafd9"
+icons:
+  - icon.png
 ---
 
 The Combination of NFT Technology and the Real Estate Sector on Blockchain

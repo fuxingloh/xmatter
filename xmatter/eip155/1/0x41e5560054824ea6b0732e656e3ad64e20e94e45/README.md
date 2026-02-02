@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eef3ee"
+icons:
+  - icon.png
 ---
 
 Civic is an identity management service that allows one to protect and authorize the use of their identity in real-time.

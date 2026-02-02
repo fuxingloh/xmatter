@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0f0c09"
+icons:
+  - icon.png
 ---
 
 A Token on mission to become a Crypto Index on the market.ApexToken is the World’s 1st Multi Crypto Trading Platform That Offers Guarnteed ROI. A cryptocurrency investment firm that manages portfolios for its clients, providing them with exposure to a diversified range of cryptocurrencies.

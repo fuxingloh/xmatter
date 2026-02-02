@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Ara directly connects creators and fans, enabling distribution and payment without platform fees and limits.

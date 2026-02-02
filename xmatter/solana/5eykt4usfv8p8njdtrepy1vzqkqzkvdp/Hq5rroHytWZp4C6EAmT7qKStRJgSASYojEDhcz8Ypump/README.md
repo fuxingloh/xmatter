@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#e1dfdd"
+icons:
+  - icon.png
 ---
 
 Joe $BYEden is going into retirement, we want to thank 46th president of the USA for all the wonderful things he didn't do.

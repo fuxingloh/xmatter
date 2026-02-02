@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#debc29"
+icons:
+  - icon.png
 ---
 
 Put your idle crypto-asset to work towards enhancing

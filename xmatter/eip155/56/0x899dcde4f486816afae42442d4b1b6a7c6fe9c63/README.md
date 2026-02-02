@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#da0424"
+icons:
+  - icon.png
 ---
 
 Margin call – token for community and community is owner

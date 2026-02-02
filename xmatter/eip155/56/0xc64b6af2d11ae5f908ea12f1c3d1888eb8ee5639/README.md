@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b2a192"
+icons:
+  - icon.png
 ---
 
 #Mashallah - a crypto meme launched on the @Four*meme* platform, now taken over and developed by the community!

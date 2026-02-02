@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#43a4ec"
+icons:
+  - icon.png
 ---
 
 Topchain is the world’s leading brand in the gaming blockchain, reshaping the game industry structure with decentralized concept to create a global de-centralized gaming ecosystem.

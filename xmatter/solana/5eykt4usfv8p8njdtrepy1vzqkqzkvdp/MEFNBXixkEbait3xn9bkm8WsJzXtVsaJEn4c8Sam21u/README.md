@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#ef0574"
+icons:
+  - icon.png
 ---
 
 $ME is powering the onchain economy and represents the most powerful suite of cross chain trading, minting, and wallet protocols.

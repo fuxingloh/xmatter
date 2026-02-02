@@ -27,6 +27,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7bc4cd"
+icons:
+  - icon.png
 ---
 
 The CAKEBANK protocol is a community inspired DeFi experiment built on Binance. every buy/sell is taken and redistributed to all holders. Hold CAKEBANK tokens, earn CAKE.

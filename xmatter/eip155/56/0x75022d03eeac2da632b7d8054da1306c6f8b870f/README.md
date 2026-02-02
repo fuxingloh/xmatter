@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e3e3eb"
+icons:
+  - icon.png
 ---
 
 Red Dragon (中): Represents success, power, and good fortune.

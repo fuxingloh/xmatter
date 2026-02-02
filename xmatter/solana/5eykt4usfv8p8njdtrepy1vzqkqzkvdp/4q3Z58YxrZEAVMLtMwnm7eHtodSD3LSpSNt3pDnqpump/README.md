@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#79b4f4"
+icons:
+  - icon.png
 ---
 
 The first AI-powered influencer ecosystem built to dominate the attention economy. Led by Kolin, a visionary AI.

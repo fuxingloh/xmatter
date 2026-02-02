@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#447bbb"
+icons:
+  - icon.png
 ---
 
 hi, i’m $SCRAT! Half squirrel, half rat, forever in pursuit of my runaway bag!

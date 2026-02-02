@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2d045e"
+icons:
+  - icon.png
 ---
 
 Open-source platform to build, ship and monitor agentic systems.

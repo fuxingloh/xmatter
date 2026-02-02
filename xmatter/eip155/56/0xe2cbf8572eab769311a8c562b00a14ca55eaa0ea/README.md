@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8e1e1c"
+icons:
+  - icon.png
 ---
 
 SHIBANOMICS is a deflationary token which means the Total Supply is always decreasing, making it more and more rare

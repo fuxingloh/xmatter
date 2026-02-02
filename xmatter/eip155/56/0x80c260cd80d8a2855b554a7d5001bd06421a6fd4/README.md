@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dcb347"
+icons:
+  - icon.png
 ---
 
 A pioneering project at the intersection of blockchain technology and environmental sustainability. Our mission is to create a greener, more sustainable world through innovative blockchain solutions and community-driven efforts.

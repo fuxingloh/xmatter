@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eeebfc"
+icons:
+  - icon.png
 ---
 
 Arbius is a decentralized network for machine learning and a token with a fixed supply like Bitcoin.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fcc42c"
+icons:
+  - icon.png
 ---
 
 Tapcoin (TTT) is a revolutionary token that decentralizes the gaming industry by providing gamers and developers with in-game virtual currencies.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2dcbfb"
+icons:
+  - icon.png
 ---
 
 USD++ is a weighed allocation between the different representations of USD on Ethereum. USD, for DeFi, diversified.

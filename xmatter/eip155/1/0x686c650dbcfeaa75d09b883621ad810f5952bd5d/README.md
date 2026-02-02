@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Digital asset exchange. AAX Token (AAB) is an integral part of AAX, providing special benefits to users, and a means to be part of the growth of the exchange.

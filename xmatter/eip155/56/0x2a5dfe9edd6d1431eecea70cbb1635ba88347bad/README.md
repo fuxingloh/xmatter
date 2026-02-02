@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e8cd77"
+icons:
+  - icon.png
 ---
 
 FRZW is native token of FRZSwap which is a decentralized exchange (DEX) and belongs to FRZSS ecosystem

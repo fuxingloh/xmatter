@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0e16a4"
+icons:
+  - icon.png
 ---
 
 Booster is a Binance Smart Chain token with Auto LP and Static Rewards paid in 11 different tokens.

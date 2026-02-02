@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b1e50"
+icons:
+  - icon.png
 ---
 
 Launched in 2020, XO is a Web3 social discovery and matchmaking protocol that integrates AI-driven companionship with blockchain-based identity verification to create a secure and engaging social networking experience. Built on Cyber, XO utilizes Soul-Bound Tokens (SBTs) and Proof of Personhood (PoP) to establish verifiable social credentials, prevent fraudulent activities, and enable tokenized social interactions.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2b2b2b"
+icons:
+  - icon.png
 ---
 
 The Lava Token is a community-driven, fairly launched DeFi Token where users earn rewards via static reflection.

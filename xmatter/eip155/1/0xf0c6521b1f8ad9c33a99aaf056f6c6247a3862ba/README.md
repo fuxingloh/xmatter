@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f4863f"
+icons:
+  - icon.png
 ---
 
 ELD is an encryption currency and smart contract that will be created with full compatibility with the ERC20 standard. This complete ETH.Limited is implemented as a dAPP, a smart contract within the Ethereum network.

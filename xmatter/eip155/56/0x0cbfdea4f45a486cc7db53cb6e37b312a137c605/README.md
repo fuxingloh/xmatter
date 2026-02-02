@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbac2c"
+icons:
+  - icon.png
 ---
 
 A unique zero proof of reserve decentralised orderbook based exchange offering traders in Binance Smart Chain platform

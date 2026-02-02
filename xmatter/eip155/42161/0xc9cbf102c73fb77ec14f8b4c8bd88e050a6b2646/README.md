@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c3674a"
+icons:
+  - icon.png
 ---
 
 Alpha Finance Lab is an ecosystem of cross-chain DeFi products that will interoperate to bring optimal alpha returns to users. Alpha products focus on capturing unaddressed demand in DeFi in an innovative and user friendly way.

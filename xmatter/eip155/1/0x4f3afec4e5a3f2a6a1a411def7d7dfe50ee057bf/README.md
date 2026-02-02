@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#131933"
+icons:
+  - icon.png
 ---
 
 The project provides the infrastructure to create tokens backed by physical assets on the blockchain.

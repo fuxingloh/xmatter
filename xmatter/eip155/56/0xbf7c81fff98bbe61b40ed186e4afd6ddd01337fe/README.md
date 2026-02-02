@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3bb2b"
+icons:
+  - icon.png
 ---
 
 BNB pegged Elrond (EGLD BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Elrond (EGLD) at a ratio of 1:1.

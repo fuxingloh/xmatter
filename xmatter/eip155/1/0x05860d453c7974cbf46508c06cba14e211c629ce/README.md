@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2e609c"
+icons:
+  - icon.png
 ---
 
 At EdenChain, we merge multiple IT technologies to provide the best digital asset platform service for leaders of the new digital economy.

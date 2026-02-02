@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#d9aa79"
+icons:
+  - icon.png
 ---
 
 The world of finance is experiencing two parallel revolutions. AI frameworks like LangChain, Eliza, and G.A.M.E have transformed software development, creating autonomous agents that reason and execute complex tasks

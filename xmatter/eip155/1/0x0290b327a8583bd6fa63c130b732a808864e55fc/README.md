@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#000000"
+icons:
+  - icon.png
 ---
 
 Every time you stake and unstake tokens, the contract will automatically harvest MDS rewards for you

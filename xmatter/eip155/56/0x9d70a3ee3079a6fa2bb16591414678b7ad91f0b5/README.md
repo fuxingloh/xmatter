@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0a7de0"
+icons:
+  - icon.png
 ---
 
 MemePad is an IDO launchpad that focuses primarily on Meme Coins and Micro-Cap projects.

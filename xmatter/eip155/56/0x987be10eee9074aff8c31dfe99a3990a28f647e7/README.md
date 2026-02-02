@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f39b0c"
+icons:
+  - icon.png
 ---
 
 A crypto-powered rebellion against the toxic work culture enslaving anime and manga creators.

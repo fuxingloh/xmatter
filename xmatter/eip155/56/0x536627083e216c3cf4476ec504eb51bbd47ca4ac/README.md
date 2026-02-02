@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e0a012"
+icons:
+  - icon.png
 ---
 
 GamingDoge is the ultimate companion and only wants to make Doge community and Gamers proud.

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ecb812"
+icons:
+  - icon.png
 ---
 
 EverEarn Coin (EARN), is a BSC blockchain platform designed to DISTRIBUTE WEALTH to the people, by providing the HIGHEST BUSD REWARDS ratio on the planet.

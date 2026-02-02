@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7bcdd7"
+icons:
+  - icon.png
 ---
 
 The First L1 Blockchain Built to Decentralize Social Me​dia

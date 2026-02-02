@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#114281"
+icons:
+  - icon.png
 ---
 
 A smart-contract open ecosystem providing small businesses access to global trade by using a crypto token for payment or borrowing.

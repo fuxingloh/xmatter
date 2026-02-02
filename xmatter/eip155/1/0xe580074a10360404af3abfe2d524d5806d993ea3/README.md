@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Pay expenses, earn $PAY rewards with your crypto tokens in near-instant time. Start spending your tokens at cafe, restaurant and everywhere.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c2816"
+icons:
+  - icon.png
 ---
 
 PepeBomb is an innovative digital currency project issued on the Ethereum blockchain as an ERC-20 standard token.

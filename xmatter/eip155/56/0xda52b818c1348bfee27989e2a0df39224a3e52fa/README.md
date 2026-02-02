@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2d5dd1"
+icons:
+  - icon.png
 ---
 
 Blend is building a trailblazing gaming platform where you’ll be able to provide liquidity, earn profits, and enjoy a fair, transparent experience powered by smart contracts. Be part of the journey as we bring decentralized gaming to life.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bbf0e4"
+icons:
+  - icon.png
 ---
 
 MoonLift is a community driven passive income generation protocol running on Binancesmartchain

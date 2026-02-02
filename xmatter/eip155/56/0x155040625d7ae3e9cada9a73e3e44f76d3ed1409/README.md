@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1854c3"
+icons:
+  - icon.png
 ---
 
 Revomon is an exciting online RPG that combines an immersive virtual reality experience with groundbreaking NFT blockchain technology.

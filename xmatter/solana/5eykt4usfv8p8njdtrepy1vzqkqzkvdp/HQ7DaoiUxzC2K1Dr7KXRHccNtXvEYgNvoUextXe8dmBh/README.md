@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#aba284"
+icons:
+  - icon.png
 ---
 
 Slothana - Slovenly on Sol

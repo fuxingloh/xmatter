@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#958368"
+icons:
+  - icon.png
 ---
 
 $BOOP is a coin for the people, forever. Fueled by pure dog joy, let the power of $BOOP show you the way.

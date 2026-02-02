@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f6f6f6"
+icons:
+  - icon.png
 ---
 
 A moeda do futuro. Venha transformar sua relação com o dinheiro, na maior plataforma de Ricoins do mundo.

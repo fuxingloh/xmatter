@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04c662"
+icons:
+  - icon.png
 ---
 
 Worlds first and only blockchain-based freelancer platform on the Binance Chain network, working with fully decentralized and smart contracts.

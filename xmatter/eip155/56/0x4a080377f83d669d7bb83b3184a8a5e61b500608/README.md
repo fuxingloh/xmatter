@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a06871"
+icons:
+  - icon.png
 ---
 
 A Global DeFi Platform for Credit Unions and Cooperatives

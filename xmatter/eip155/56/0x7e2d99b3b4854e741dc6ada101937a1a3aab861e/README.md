@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3873a"
+icons:
+  - icon.png
 ---
 
 FEG Wrapped DOT

@@ -31,6 +31,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1d252a"
+icons:
+  - icon.png
 ---
 
 Connect companies to influencers.

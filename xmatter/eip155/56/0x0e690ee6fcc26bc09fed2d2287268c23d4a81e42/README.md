@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9d6c33"
+icons:
+  - icon.png
 ---
 
 Shield Network, a token audit platform where every token is thoroughly audited to ensure safety and avoid scams.

@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#b4dbfa"
+icons:
+  - icon.png
 ---
 
 $NUB is a meme coin with no intrinsic value or expectation of financial return.

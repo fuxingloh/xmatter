@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c6bdbe"
+icons:
+  - icon.png
 ---
 
 Built by the fan community, Manchester United Fan Token (MUFC) is a cryptocurrency representing voting rights in distribution mechanism as well as various benefits and rewards for holders, which they can leverage to engage and express the love to the Manchester United F.C. football club

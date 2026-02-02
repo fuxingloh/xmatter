@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e4c591"
+icons:
+  - icon.png
 ---
 
 Diamond Cash (DCASH) is a decentralized finance currency on the Binance Smart Chain

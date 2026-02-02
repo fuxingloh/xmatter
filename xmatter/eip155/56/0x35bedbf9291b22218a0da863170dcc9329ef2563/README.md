@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#edc1ce"
+icons:
+  - icon.png
 ---
 
 Tap Fantasy is an MMORPG blockchain game, building the biggest Play2Earn NFT game on Solana and BSC. It’s the metaverse version of the famous MMORPG TapTap Fantasy with over 20 million users. Now it has designed more than 200 ACG characters and NFT skins.

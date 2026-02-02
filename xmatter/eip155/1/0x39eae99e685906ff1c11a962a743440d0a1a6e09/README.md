@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b3cf4"
+icons:
+  - icon.png
 ---
 
 Holyheld, financial service for a digital generation.

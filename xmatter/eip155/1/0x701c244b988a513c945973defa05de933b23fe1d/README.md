@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#23437b"
+icons:
+  - icon.png
 ---
 
 Developing and promoting a sustainable digital asset ecosystem for the future.

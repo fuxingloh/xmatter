@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0f91d8"
+icons:
+  - icon.png
 ---
 
 ECC Coin is a crypto-currency that can be used within ECA Loyalty Rewards Network and ECA Marketplace.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#183a4e"
+icons:
+  - icon.png
 ---
 
 PrepayWay InBit Token

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#249860"
+icons:
+  - icon.png
 ---
 
 Neural AI aims to create 3D Assets with AI on Bittensor.

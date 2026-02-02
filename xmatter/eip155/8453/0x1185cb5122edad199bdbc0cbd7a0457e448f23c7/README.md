@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#90aec0"
+icons:
+  - icon.png
 ---
 
 Meet SEKOIA - The Growth-Minded AI Investment Partner

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fcbc24"
+icons:
+  - icon.png
 ---
 
 DNAxCAT creates a digital cat pet world where players can raise and breed varies of cute cats and fight shoulder to shoulder in the adventure world with your cats

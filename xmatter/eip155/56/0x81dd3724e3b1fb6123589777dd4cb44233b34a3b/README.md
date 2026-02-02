@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbeda4"
+icons:
+  - icon.png
 ---
 
 FlappyBird Go is the NFT game version of FlappyBird concept Play-to-Earn on Binance Smart Chain. Try to flap, Happy reward!

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8bf4dc"
+icons:
+  - icon.png
 ---
 
 Frictionless Yield & Liquidity Generation Token, Panda & Environmental Charity focused that rewards our community & our token holders.

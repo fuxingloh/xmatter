@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#42322c"
+icons:
+  - icon.png
 ---
 
 'The Wolf of Solana' I want you to solve your problems by becoming reach on Solana 'Your beloved trader with social problems.'

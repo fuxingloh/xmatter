@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#a578b4"
+icons:
+  - icon.png
 ---
 
 Act I is one of the few projects exploring how to engage with AI beyond a cold and damp 1-on-1 user/assistant paradigm, but as a network of equals

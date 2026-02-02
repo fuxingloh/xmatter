@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d0defa"
+icons:
+  - icon.png
 ---
 
 The contract is deployed on Base chain. I can't find any option to input Base chain so i input it as Ethereum. Hope this is ok. Thanks. basescan link: https://basescan.org/token/0xbc45647ea894030a4e9801ec03479739fa2485f0

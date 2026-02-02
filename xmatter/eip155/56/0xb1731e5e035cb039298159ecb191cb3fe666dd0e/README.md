@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#363634"
+icons:
+  - icon.png
 ---
 
 Feed Token is a charity-oriented token for a world matter cause.

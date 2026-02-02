@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eda61e"
+icons:
+  - icon.png
 ---
 
 Zooshi is a hyper deflationary token on the Binance Smart Chain, with rewards backed by $SUSHI, paid out hourly. We have an arcade with play-to-earn mechanics!

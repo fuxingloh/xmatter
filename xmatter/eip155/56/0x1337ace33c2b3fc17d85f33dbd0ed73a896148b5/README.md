@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#295651"
+icons:
+  - icon.png
 ---
 
 Gravitoken is the first elastic supply token on BSC with Auto LP, token buyback and marketing provision

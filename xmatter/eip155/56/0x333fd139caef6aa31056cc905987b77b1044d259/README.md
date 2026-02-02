@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04436b"
+icons:
+  - icon.png
 ---
 
 The Web3 Project provides a high, stable and fixed yield to their users whilst bridging the gap between web2 and web3 for the masses.

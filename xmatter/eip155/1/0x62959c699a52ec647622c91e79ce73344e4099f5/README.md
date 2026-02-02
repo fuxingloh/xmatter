@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ca64c9"
+icons:
+  - icon.png
 ---
 
 DeFine is the NFT social platform for all creators including artists, musicians, influencers, gamers, and athletes. The platform facilitates all social interaction, engagement and communication for creators and their fanbase with digital assets like NFTs and social/fan tokens.

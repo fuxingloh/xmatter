@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5b1ead"
+icons:
+  - icon.png
 ---
 
 Aluna Social - Multi-exchange Social Trading Terminal for Crypto Traders and Investors

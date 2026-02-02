@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#4d3f39"
+icons:
+  - icon.png
 ---
 
 $MEOW - the cat your girl saw on tiktok

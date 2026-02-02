@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#32dcce"
+icons:
+  - icon.png
 ---
 
 Enabling DeFi through community governance.

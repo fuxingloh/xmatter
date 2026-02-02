@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b1312"
+icons:
+  - icon.png
 ---
 
 Uniting the six native Japanese dog breeds. Kendu is the keeper of peace, the preserver of life, and the protector of unity. Join the pack!

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#738caa"
+icons:
+  - icon.png
 ---
 
 Aave WBTC is an interest bearing token pegged 1:1 to the underlying WBTC deposited in Aave. aWBTC accrue interest in real time in your wallet.

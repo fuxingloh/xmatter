@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f2cfa1"
+icons:
+  - icon.png
 ---
 
 Leveraging community to build an inclusive financial ecosystem. We are Meme Utility

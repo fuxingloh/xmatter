@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e6d7ca"
+icons:
+  - icon.png
 ---
 
 Jesus Christ forgives your sins, redeems your bad trades, and blesses you with heavenly riches. The world is full of rug pulls and honey pots but Jesus is here to set you free.

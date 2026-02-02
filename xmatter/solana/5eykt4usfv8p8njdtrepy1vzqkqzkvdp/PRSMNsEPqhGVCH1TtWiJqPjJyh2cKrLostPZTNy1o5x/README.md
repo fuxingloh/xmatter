@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#050b18"
+icons:
+  - icon.png
 ---
 
 PRISM is a dex aggregator on Solana with super-smooth interface that auto-routes your transactions across multiple liquidity sources to guarantee best prices. The platform has simple & advanced features, simple being a user-friendly swap interface, while Advanced - A full-fledged DEX based on order books.

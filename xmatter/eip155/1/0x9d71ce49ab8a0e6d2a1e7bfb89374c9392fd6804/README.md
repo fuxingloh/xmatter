@@ -34,6 +34,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0454f3"
+icons:
+  - icon.png
 ---
 
 NvirWorld is a new concept blockchain which aims to create a new digital world where everything users enjoy becomes profitable.

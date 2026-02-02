@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#000000"
+icons:
+  - icon.png
 ---
 
 Join CurioInvest today and invest in classic cars and limited edition hypercars starting with little. Discover the collections of others and get rewarded for sharing yours.

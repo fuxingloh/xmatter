@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0a77ed"
+icons:
+  - icon.png
 ---
 
 EarnBet is a fully decentralized profit-sharing casino

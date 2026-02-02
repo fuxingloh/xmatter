@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#141c43"
+icons:
+  - icon.png
 ---
 
 Nework is an incentive platform based on block-chain technology to connect human work skills.

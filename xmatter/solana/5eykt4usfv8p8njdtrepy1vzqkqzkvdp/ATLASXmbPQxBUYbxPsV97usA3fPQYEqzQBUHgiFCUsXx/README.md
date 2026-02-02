@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#141b1c"
+icons:
+  - icon.png
 ---
 
 Star Atlas is a virtual gaming metaverse based in the year 2620

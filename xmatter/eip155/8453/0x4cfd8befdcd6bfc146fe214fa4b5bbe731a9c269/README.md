@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d79db5"
+icons:
+  - icon.png
 ---
 
 Marbitz is the most transparent project coming to the base chain

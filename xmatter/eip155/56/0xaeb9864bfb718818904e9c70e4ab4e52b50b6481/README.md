@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4b9033"
+icons:
+  - icon.png
 ---
 
 PEA Farm is virtual blockchain game that uses blockchain technology and NFT to create a variety of digital assets and give the ownership to the players.

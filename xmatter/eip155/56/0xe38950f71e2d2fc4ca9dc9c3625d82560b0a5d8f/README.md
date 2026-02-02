@@ -21,6 +21,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d326fb"
+icons:
+  - icon.png
 ---
 
 NELO is a protocol and infrastructure that is leveraging the Proof-of-Stake consensus algorithm to help developers deploy their games and Metaverse projects.

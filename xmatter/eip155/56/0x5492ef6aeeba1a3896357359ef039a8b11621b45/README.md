@@ -19,6 +19,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f0bf41"
+icons:
+  - icon.png
 ---
 
 Chumbi Valley is an enchanting RPG Play-to-Earn game. Chumbi Valley features NFT creatures and original art inspired by Pokemon and Studio Ghibli.

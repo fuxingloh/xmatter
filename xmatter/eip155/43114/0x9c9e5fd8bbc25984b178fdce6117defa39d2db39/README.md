@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3bc0c"
+icons:
+  - icon.png
 ---
 
 BNB pegged BUSD is a token issued by Binance on Smart Chain; its price is pegged to BUSD (BUSD ERC20) at a ratio of 1:1.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3bdbfb"
+icons:
+  - icon.png
 ---
 
 Popsicle finance is a next-gen cross-chain liquidity provider (LP) yield optimization platform

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d0a842"
+icons:
+  - icon.png
 ---
 
 Dingocoin is an Scrypt AuxPow fork of Dogecoin, with a vibrant and active community that seeks to build fun projects around the coin.

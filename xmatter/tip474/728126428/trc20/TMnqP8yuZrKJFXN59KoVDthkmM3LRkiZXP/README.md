@@ -20,6 +20,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#f7dc0e"
+icons:
+  - icon.png
 ---
 
 Pollux coin is Blockchain based decentralized crypto currency which runs on Tron Blockchain designed for the file sharing and storage of data.

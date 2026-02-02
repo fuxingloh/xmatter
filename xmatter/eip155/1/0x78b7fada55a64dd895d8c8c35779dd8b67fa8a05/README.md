@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#398ac8"
+icons:
+  - icon.png
 ---
 
 ATLANT is addressing two of the most pertinent problems in real estate with its decentralized blockchain platform: Tokenized Ownership and global P2P Rentals.

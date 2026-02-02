@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#146878"
+icons:
+  - icon.png
 ---
 
 BitBlocks Finance is a decentralized yield farming protocol running on Binance Smart Chain and Pancake swap exchange, with lots of other features that let you earn and win tokens.

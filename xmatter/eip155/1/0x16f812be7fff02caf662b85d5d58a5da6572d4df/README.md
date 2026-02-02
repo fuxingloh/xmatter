@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ec4343"
+icons:
+  - icon.png
 ---
 
 United Traders, found online at UnitedTraders.com. offers an investment marketplace, Access to multiple exchanges, and online financial education materials.

@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0dda8e"
+icons:
+  - icon.png
 ---
 
 Revolutionizing Privacy Throughout The Blockchain

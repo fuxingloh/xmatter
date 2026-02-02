@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc8888"
+icons:
+  - icon.png
 ---
 
 Paparazzi is a photo-centric blockchain-based platform to provide a seamless process of capturing, sharing, and trading a graphic memory.

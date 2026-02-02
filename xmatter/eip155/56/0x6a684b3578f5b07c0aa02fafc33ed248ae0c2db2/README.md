@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040f33"
+icons:
+  - icon.png
 ---
 
 TechTrees Coin is a web 3.0 public welfare organization in response to Elon Musk‘s vision for low carbon emissions and sustainable development, with incorporated offices, experience of numerous field research and public service activities from Asia to Europe to Latin America. Our mission is to work towards global carbon neutrality and create a respect, brighter world. As Elon Musk says ’Don't build moats, build tech trees.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e6cc56"
+icons:
+  - icon.png
 ---
 
 BscGold is a gaming platform that allows cretors to play, craft, distribute and trade.

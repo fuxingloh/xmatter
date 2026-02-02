@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#674b3e"
+icons:
+  - icon.png
 ---
 
 Introducing $HAMI the latest sensation in the world of meme coins on the SOLANA blockchain!

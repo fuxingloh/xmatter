@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#043b1c"
+icons:
+  - icon.png
 ---
 
 The All-In-One Platform for VoiceAI Agents and Everything Audio

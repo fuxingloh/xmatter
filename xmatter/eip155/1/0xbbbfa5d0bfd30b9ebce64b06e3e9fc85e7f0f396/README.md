@@ -32,6 +32,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#969595"
+icons:
+  - icon.png
 ---
 
 dynETHc gives users exposure to Ethereum using long only strategies managed by the Dynamic Asset Manager with less fees & expenses. dynETHc tokens can then be used as collateral on 3rd party protocols. Powered by SingularityDAO.ai.

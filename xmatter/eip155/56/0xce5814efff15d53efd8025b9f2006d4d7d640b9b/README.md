@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4e65ac"
+icons:
+  - icon.png
 ---
 
 MOONSTAR is a stealth launched, community driven, DeFi Token programmed to reward holders through its frictionless yield and liquidity generation protocol.

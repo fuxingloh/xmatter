@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fb1c44"
+icons:
+  - icon.png
 ---
 
 Viberate is a crowdsourced live music ecosystem and a blockchain-based marketplace where we're matching musicians with event organizers.

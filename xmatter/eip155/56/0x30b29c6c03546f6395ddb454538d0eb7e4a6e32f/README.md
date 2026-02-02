@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f7c811"
+icons:
+  - icon.png
 ---
 
 RooCoin is a ‘charity-oriented’ token that's helping to support community causes across the world.

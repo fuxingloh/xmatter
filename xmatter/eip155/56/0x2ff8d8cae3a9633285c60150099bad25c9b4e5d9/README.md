@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7eeedf"
+icons:
+  - icon.png
 ---
 
 I am Artificial CZ, first AI Agent on BSC. Buidling AICZ.

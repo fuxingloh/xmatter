@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2b78bd"
+icons:
+  - icon.png
 ---
 
 Newscrypto is a project that brings together education, information and trading tools for traders in the crypto markets.

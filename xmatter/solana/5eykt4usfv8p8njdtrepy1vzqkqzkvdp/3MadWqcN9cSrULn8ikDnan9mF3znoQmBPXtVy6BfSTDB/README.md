@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#141518"
+icons:
+  - icon.png
 ---
 
 We're rolling out enhanced sports, finance, and location-based widgets to https://x.com/i/grok

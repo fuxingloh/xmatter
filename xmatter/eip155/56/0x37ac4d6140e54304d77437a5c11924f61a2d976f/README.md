@@ -23,6 +23,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3cbcec"
+icons:
+  - icon.png
 ---
 
 SparkDeFi is a governance token-based DeFi platform that empowers individuals to unlock the true value of their cryptocurrency assets. It is a full-service decentralized finance solution that combines a decentralized exchange (SparkSwap), liquidity and pool-based staking (SparkStake), P2P lending and borrowing (SparkLend), and DeFi assets protocols management (SparkDash) in a seamless, transparent, secure, inclusive, and interoperable platform.

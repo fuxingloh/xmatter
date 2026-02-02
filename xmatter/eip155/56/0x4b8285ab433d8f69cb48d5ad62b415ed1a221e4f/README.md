@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cb9dd6"
+icons:
+  - icon.png
 ---
 
 Magic Craft – war and conquer MMO Play-To-Earn RPG, launched on Binance Smart Chain, with advanced guild, taxes and economy systems.

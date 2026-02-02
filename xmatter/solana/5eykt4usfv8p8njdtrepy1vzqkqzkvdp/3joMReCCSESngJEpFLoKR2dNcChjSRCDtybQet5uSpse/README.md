@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#100a0a"
+icons:
+  - icon.png
 ---
 
 Simon's Cat is a meme token aims for every trade that feeds the hungry cats around the world.

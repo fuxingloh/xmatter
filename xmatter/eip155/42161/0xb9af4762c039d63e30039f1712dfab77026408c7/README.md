@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#20162a"
+icons:
+  - icon.png
 ---
 
 BullBear AI is developed using AI to predict the BULL and BEAR markets through User Behaviors and Price Action, generating profit for users.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d2d8da"
+icons:
+  - icon.png
 ---
 
 Homeros is a blockchain-based platform made exclusively for the gaming community.

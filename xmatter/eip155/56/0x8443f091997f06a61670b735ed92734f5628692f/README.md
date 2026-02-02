@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f6fbfa"
+icons:
+  - icon.png
 ---
 
 Bella Protocol is described to be a set of DeFi products for one-click crypto banking.

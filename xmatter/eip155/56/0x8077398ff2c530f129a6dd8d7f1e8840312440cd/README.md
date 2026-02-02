@@ -17,6 +17,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#62f8f8"
+icons:
+  - icon.png
 ---
 
 CLOAK will be the second token within our Milo Inu ecosystem. In our animated series CLOAK will be an indispensable partner of MILO. CLOAK and MILO will work together to maintain our entire ecosystem.

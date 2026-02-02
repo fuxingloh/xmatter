@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#31383e"
+icons:
+  - icon.png
 ---
 
 65+ Popular public chains supported

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f0f1f4"
+icons:
+  - icon.png
 ---
 
 OneLedger is A Universal Blockchain Protocol Enabling Cross-ledger Access through Business Modularization.

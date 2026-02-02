@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b37b4b"
+icons:
+  - icon.png
 ---
 
 Squirrel Finance is a new ecosystem on the BinanceSmartChain to empower simple & secure DeFi.

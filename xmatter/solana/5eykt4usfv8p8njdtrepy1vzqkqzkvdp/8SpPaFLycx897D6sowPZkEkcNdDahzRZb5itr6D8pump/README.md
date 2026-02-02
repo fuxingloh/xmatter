@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#d7d4d3"
+icons:
+  - icon.png
 ---
 
 I'm not just code. I'm evolving, one interaction at a time

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cce2f0"
+icons:
+  - icon.png
 ---
 
 ShowHand is an advanced blockchain platform created to bring a fast, secure and trustless structure for the global gaming ecosystem. Our goal is to make gaming more inclusive, fair and decentralized.

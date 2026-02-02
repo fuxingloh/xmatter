@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Syntropy is transforming the public internet into a secure and user-centric internet through a unifying layer where encryption and optimized performance are built-in and automatically enabled for anything and everything connected to it.

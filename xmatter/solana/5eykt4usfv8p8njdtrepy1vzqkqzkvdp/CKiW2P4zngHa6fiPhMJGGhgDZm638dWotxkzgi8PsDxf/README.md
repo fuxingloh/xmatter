@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#301c0c"
+icons:
+  - icon.png
 ---
 
 KATCHU is a mix of cats, memes and electricity

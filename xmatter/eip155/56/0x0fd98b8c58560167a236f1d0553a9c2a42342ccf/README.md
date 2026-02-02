@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b7bbbb"
+icons:
+  - icon.png
 ---
 
 Devolution is an NFT based game. You can collect, earn, win and trade your NFTs while playing and socializing with your friends.

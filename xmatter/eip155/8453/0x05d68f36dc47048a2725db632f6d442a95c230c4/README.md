@@ -11,6 +11,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#201409"
+icons:
+  - icon.png
 ---
 
 HONEYPOT TRUMP GROK

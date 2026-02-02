@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5876ec"
+icons:
+  - icon.png
 ---
 
 Anyswap is a mpc decentralized cross-chain swap protocol.

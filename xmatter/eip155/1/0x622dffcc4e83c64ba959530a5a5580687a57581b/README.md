@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3b334"
+icons:
+  - icon.png
 ---
 
 Autonomous Car Future Mobility Platform

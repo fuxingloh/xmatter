@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#edebe6"
+icons:
+  - icon.png
 ---
 
 Clown coin is a binary smart chain network based on the BEP-20 token.

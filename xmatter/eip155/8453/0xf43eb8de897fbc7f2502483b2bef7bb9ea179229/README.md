@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbcb14"
+icons:
+  - icon.png
 ---
 
 A Base appchain built for privacy

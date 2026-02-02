@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e3ad51"
+icons:
+  - icon.png
 ---
 
 Jax.Network provides the technological infrastructure for a decentralized energy-standard monetary system. Our blockchain is anchored to the Bitcoin network and issues two digital currencies JAX and JXN. JAX is a stablecoin pegged to the energy spent on mining, while JXN is an asset coin representing the value of the whole network.

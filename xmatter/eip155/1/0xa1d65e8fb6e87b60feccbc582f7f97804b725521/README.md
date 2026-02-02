@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3958fb"
+icons:
+  - icon.png
 ---
 
 The DXdao is a decentralized organization initialized in May of 2019 and has over 400 unique stakeholder addresses. It develops, governs, and grows DeFi protocols and products. Owned and operated by the community, the DXdao has the potential to significantly scale its membership.

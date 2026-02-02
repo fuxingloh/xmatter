@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#098cd1"
+icons:
+  - icon.png
 ---
 
 AetherV2 is the first crypto token building a bridge between science and cryptocurrency.

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#346cec"
+icons:
+  - icon.png
 ---
 
 B3 is a layer 3 gaming ecosystem. We believe the future of gaming is open, connected, and shaped by the players themselves

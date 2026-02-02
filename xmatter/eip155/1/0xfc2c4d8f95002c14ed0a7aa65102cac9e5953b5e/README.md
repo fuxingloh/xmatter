@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3d3d3d"
+icons:
+  - icon.png
 ---
 
 Rublix is a software development company that is building blockchain powered tools to fuel the next generation of fintech projects.

@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 io.net the world’s largest decentralized AI computing network that allows machine learning engineers to access scalable distributed clusters at a small fraction of the cost of comparable centralized services.

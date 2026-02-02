@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8137c1"
+icons:
+  - icon.png
 ---
 
 Kodi provides its users with the first ever crypto based Entertainment Network. Parallel to this, Kodi is operating a one stop shop Advertisement/Marketing Agency known as ‘PITCH’, which will function as a subsidiary company. Both entities will encompass a use case that will directly benefit $KODI holders. This whitepaper provides a detailed description of the use case, tokenomics, team, the future plans of PITCH and its utility token ($KODI).

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ed6019"
+icons:
+  - icon.png
 ---
 
 Primas is a platform for high-quality content centred in Distributed Trusted Content Protocol or DTCP.

@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#8e3123"
+icons:
+  - icon.png
 ---
 
 The Crypto Cavemen Club is an exclusive NFT community comprised of the world's most prehistoric generation of humans.

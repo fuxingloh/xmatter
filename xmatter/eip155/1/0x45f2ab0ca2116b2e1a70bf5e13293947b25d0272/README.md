@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#141c2b"
+icons:
+  - icon.png
 ---
 
 GLOB aims to solve the problems of the modern economy using the decentralized emission and distribution algorithm, Proof of Transaction.

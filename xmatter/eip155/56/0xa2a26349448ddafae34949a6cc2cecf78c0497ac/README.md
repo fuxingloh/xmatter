@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc5404"
+icons:
+  - icon.png
 ---
 
 TrusterCoin is a utility token for business tokenization platform at a time when entrepreneurs through blockchain technology.

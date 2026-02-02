@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#38d0c4"
+icons:
+  - icon.png
 ---
 
 BCDT is the fuel of the EvidenZ ecosystem, an unique framework designed to certify informations using the blockchain technology. BCdiploma is its first use case, dedicated to the certification of academic documents.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#db544c"
+icons:
+  - icon.png
 ---
 
 Deflationary token with decreasing supply and a fair launch. Read This Contract (RTC).

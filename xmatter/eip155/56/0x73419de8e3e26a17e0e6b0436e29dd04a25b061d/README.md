@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4e8ecd"
+icons:
+  - icon.png
 ---
 
 Miku is token built on binance smart chain with unique product and tokenomics, a unique original character created as a brand, a girl from heaven with blue hair and the power of wings, the goddess of trust and loyalty.

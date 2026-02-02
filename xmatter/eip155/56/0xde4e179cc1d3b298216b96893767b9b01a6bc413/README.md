@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ff9d00"
+icons:
+  - icon.png
 ---
 
 A decentralized exchange with 100% profit distribution, trading mining and and automated market maker combination.

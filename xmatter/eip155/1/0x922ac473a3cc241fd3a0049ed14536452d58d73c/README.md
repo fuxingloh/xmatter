@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c77186"
+icons:
+  - icon.png
 ---
 
 Authenticate online using your self-sovereign eID and start monetizing your anonymized personal data.

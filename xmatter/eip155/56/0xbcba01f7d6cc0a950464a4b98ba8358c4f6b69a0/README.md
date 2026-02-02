@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040c44"
+icons:
+  - icon.png
 ---
 
 BitcoMine Token rewards its holders 11% from each successful transaction in BTC on daily basis depending on the trading volume.

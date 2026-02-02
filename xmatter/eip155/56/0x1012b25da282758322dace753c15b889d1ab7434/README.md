@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f50681"
+icons:
+  - icon.png
 ---
 
 Zyber: Synergy is a Virtual Reality (VR) Three-dimensional Crypto-Gaming Platform that lets the user/gamer gain maximum profit by just playing the platform games.

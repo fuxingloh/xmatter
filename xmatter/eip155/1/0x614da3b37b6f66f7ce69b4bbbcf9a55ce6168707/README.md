@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#130c23"
+icons:
+  - icon.png
 ---
 
 The New Home Of Crypto. Best-in-class trading and investment platform to grow your wealth in the digital asset space.

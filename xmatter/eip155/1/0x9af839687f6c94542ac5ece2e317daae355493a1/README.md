@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Hydro empowers DeFi developers to create dynamic marketplaces for decentralized assets.

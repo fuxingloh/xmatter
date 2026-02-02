@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#05388f"
+icons:
+  - icon.png
 ---
 
 Auctus will be the utility token at the heart of the DeFi products developed by Auctus.

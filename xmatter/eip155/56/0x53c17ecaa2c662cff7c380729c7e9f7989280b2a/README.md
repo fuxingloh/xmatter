@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040405"
+icons:
+  - icon.png
 ---
 
 Winpro (WPT) is a digital asset designed to revolutionize the sports and entertainment industries through blockchain technology. By leveraging the inherent advantages of blockchain, such as transparency, security, and decentralization.

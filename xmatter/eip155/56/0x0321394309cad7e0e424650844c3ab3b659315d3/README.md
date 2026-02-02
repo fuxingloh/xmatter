@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#231b14"
+icons:
+  - icon.png
 ---
 
 XBN Community is a community-driven, fair-launched DeFi project built on Binance Smart Chain #BSC. Three functions occur during each trade: Reflection, LP Acquisition, and Burn.

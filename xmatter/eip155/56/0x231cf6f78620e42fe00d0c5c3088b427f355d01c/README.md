@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 AI-driven platform to lower the entry barrier on BSC, fueled by the MOVE token. Visit marketmove.ai to learn more.

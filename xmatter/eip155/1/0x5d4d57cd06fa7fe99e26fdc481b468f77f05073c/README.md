@@ -13,6 +13,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9434fb"
+icons:
+  - icon.png
 ---
 
 Netkoin is a crypto rewards platform.

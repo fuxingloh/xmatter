@@ -10,6 +10,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#1f49a3"
+icons:
+  - icon.png
 ---
 
 CIEX is the official platform token issued by CIEX Digital Assets Exchange Platform on the TRON network.

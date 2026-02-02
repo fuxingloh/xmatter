@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c80028"
+icons:
+  - icon.png
 ---
 
 An experimental ERC-20 token designed to reach as many wallets as possible. Spread Scatter Token to earn STT with every token transaction. The more ETH addresses you infect with STT the more you can earn. A novel method of minting and token distribution.

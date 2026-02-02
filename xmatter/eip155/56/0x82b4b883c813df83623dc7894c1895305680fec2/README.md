@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1e8fbf"
+icons:
+  - icon.png
 ---
 
 ICEBRK token is the governance and utility token for the IceBreak-R Network, a social media driven NFT-marketplace and DeFi ecosystem

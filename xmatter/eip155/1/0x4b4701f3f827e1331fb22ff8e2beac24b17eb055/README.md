@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fa3440"
+icons:
+  - icon.png
 ---
 
 DISTX is an automated private sale platform, allowing token creators and token users to come together in a safe, decentralized and automated sale.

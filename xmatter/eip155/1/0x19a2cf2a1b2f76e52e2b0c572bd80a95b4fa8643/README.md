@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c1c2c"
+icons:
+  - icon.png
 ---
 
 FYZNFT is the token that grants access to NFTs directly from the world’s biggest artists and celebrities

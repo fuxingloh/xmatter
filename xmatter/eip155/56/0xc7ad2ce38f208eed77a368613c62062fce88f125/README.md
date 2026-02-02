@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b6991"
+icons:
+  - icon.png
 ---
 
 $AER token offers holders redistribution %, $AER airdrops & free access to the first Defi launchpad for new tokens offering exclusive airdrops.

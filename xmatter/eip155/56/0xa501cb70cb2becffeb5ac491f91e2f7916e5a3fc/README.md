@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#697546"
+icons:
+  - icon.png
 ---
 
 Rip Hurricane, the most decorated dog in US history

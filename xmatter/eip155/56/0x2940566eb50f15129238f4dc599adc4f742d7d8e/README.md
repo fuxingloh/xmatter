@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c9ea64"
+icons:
+  - icon.png
 ---
 
 $BCCoin BlackCardCoin is the essential cryptocurrency you need to get your hands on a BlackCard, offering a unique approach to spending and earning in the digital age.

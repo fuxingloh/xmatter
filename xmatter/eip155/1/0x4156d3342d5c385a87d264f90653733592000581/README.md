@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e6a97f"
+icons:
+  - icon.png
 ---
 
 The SALT platform is meant to facilitate getting a loan, where the company holds your cryptocoins as collateral while you don't pay back the loan.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#08a5e2"
+icons:
+  - icon.png
 ---
 
 Mainframe is the platform for decentralized applications. Resistant to censorship, surveillance, and disruption, the Mainframe network enables any application to send data, store files, manage payments, run tasks, and more.

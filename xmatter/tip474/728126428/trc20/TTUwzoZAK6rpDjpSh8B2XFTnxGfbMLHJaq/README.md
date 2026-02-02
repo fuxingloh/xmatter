@@ -10,6 +10,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#194671"
+icons:
+  - icon.png
 ---
 
 New Gateway for staking, lending and borrowing.

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#e6a81c"
+icons:
+  - icon.png
 ---
 
 The DEA Project is a blockchain-based multimedia digital entertainment platform featuring digital arts, games, and various other forms of entertainment.

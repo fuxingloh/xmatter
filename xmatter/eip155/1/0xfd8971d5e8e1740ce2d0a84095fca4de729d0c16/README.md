@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7962e8"
+icons:
+  - icon.png
 ---
 
 Zilla (ZLA) is a cryptocurrency and operates on the Ethereum platform.

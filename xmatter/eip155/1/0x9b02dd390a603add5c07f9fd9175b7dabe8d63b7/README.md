@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e2f4f3"
+icons:
+  - icon.png
 ---
 
 Order from major hubs of commerce such as Amazon, Walmart, and eBay using your favorite cryptocurrency.

@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f3f3fb"
+icons:
+  - icon.png
 ---
 
 TQQQ xStock (TQQQx) is a tracker certificate issued as Solana SPL and ERC-20 tokens. TQQQx tracks the price of ProShares UltraPro QQQ (the underlying). TQQQx is designed to give eligible cryptocurrency market participants regulatory-compliant access to the ETF price of ProShares UltraPro QQQ, whilst maintaining the benefits of blockchain technology. ProShares UltraPro QQQ (TQQQ) is a leveraged exchange-traded fund designed to deliver three times the daily performance of the Nasdaq-100 Index.

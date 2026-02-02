@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c2ead4"
+icons:
+  - icon.png
 ---
 
 CCAR is the main token of CryptoCars Project

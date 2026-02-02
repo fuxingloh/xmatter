@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fb7304"
+icons:
+  - icon.png
 ---
 
 Yield farm Ddai on Binance Smart Chain.

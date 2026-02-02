@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#373438"
+icons:
+  - icon.png
 ---
 
 Eliza made on Eliza. Powered by @vvaifudotfun and @ai16zdao

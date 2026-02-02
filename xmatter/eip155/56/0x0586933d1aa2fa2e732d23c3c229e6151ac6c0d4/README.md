@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e25a32"
+icons:
+  - icon.png
 ---
 
 SafeDancer is programmed to reward holders and built on transparency and trust. We are being audited and will be open with our community with frequent AMA's, questions and more.

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#2b1d20"
+icons:
+  - icon.png
 ---
 
 Book of Billionaires - $BOBE Only future billionaires will scroll down. Are you one of them? Missed out on $BOME? Buckle up, because $BOBE is the VIP pass to the world where only the rich—or those destined to be—dare to meme.

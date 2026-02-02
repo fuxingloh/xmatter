@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#733cfc"
+icons:
+  - icon.png
 ---
 
 LNR is the community currency and utility token that powers the Lunar Ecosystem.

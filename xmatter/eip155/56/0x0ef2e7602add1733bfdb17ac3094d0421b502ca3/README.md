@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0873c2"
+icons:
+  - icon.png
 ---
 
 eCash is the natural continuation of the Bitcoin Cash project. eCash follows through on key promises such as the innovative Avalanche consensus layer while also introducing concepts such as staking, fork-free network upgrades, and subchains.

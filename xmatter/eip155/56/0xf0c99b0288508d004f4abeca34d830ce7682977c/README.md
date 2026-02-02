@@ -12,6 +12,7 @@ name: GameStop Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 Power to the GameStop, Stop Wall St.

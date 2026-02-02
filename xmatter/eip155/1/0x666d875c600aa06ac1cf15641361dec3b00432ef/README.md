@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#116cc8"
+icons:
+  - icon.png
 ---
 
 BTSE utility token carefully designed to augment the user experience on the exchange and within the BTSE ecosystem.

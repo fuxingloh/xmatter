@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#576496"
+icons:
+  - icon.png
 ---
 
 Orbs is a blockchain infrastructure-as-a-service built for large scale consumer applications to meet their business and technological requirements.

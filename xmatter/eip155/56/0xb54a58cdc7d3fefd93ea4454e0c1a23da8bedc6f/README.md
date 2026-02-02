@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4c3123"
+icons:
+  - icon.png
 ---
 
 HoodRat is a BEP-20 utility token building an AI anti rug-pull scanner.

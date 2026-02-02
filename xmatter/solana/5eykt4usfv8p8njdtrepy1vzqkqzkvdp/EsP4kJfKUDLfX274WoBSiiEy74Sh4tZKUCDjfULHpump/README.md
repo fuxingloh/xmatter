@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#060805"
+icons:
+  - icon.png
 ---
 
 Fric the frog

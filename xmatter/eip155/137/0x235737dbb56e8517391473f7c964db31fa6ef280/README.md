@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#631cfa"
+icons:
+  - icon.png
 ---
 
 $Kasta is redefining the current understanding of digital payments.

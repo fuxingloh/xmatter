@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#403126"
+icons:
+  - icon.png
 ---
 
 Welcome to The Bozo Benk where your satisfaction is guaranteed, how may I help you ser?

@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#38d8b0"
+icons:
+  - icon.png
 ---
 
 Change is a rapidly growing FinTech providing everyone in Europe access to exciting investments. Tens of thousands of people from 31 EU countries trust Change to build their financial future and have traded over 170 million euros with us.

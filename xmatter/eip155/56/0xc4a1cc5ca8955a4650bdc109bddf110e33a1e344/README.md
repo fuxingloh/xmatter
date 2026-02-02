@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#54ac94"
+icons:
+  - icon.png
 ---
 
 RZUSD is a decentralized, crypto-backed stablecoin powering the RZChain ecosystem with secure, fast, and low-cost transactions.

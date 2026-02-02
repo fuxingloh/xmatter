@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f2913b"
+icons:
+  - icon.png
 ---
 
 AI-Based Decentralized Bioinformatic Network.

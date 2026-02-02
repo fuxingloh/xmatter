@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#443f3f"
+icons:
+  - icon.png
 ---
 
 Been OG Running from the Ds

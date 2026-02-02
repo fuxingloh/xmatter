@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#10141c"
+icons:
+  - icon.png
 ---
 
 Dragon Musk is a community driven, fair launched DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition, and Burn.

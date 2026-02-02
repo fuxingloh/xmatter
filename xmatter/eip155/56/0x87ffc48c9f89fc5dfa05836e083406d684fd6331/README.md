@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e2a673"
+icons:
+  - icon.png
 ---
 
 Hachiko is a deflationary token on the Binance Smart Chain. Fair launched and 100% community owned. Ownership renounced.

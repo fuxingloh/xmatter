@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#00a0e8"
+icons:
+  - icon.png
 ---
 
 BaaSid (BAAS) is a cryptocurrency and operates on the Ethereum platform.

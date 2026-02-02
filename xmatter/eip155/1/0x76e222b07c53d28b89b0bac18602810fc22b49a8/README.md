@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#977a2a"
+icons:
+  - icon.png
 ---
 
 Joe Coin is a meme coin.

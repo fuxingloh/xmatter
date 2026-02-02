@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3876bb"
+icons:
+  - icon.png
 ---
 
 DeFi Payment Protocol that enables POS terminals on blockchains and brings consumer protection to crypto payments

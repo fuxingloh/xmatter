@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0d1443"
+icons:
+  - icon.png
 ---
 
 Binantex is a USD-pegged stablecoin, that provides its users with regular attestations of escrowed balances, full collateral and legal protection against the misappropriation of the underlying USD.

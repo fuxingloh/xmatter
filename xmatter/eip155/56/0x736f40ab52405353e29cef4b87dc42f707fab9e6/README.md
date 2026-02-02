@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3e3a2f"
+icons:
+  - icon.png
 ---
 
 The Guardian of the Encrypted Forest: The Fantastical Contract between My Neighbor Totoro and Blockchain

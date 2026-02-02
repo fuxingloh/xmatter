@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#232325"
+icons:
+  - icon.png
 ---
 
 GAPT is a deflationary DeFi token with a passive yield mechanism. The smart contract takes a fee from every transaction of 0.5% which is dedicated to charity decided by the community

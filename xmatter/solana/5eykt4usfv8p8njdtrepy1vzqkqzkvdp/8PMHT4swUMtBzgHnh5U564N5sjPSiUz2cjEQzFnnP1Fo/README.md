@@ -10,6 +10,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#37c6ba"
+icons:
+  - icon.png
 ---
 
 $ROPE is a full-scale decentralized ecosystem that brings the well-known market volatility index to the crypto market.

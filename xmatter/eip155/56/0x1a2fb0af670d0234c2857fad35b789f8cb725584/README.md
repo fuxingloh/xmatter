@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc8d05"
+icons:
+  - icon.png
 ---
 
 KUN is the governance token of the QIAN stablecoin protocol. It is used to vote on QIAN governance and to maintain QUSD price stability.

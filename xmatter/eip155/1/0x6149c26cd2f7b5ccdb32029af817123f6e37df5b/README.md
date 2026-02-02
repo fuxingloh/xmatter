@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fcc51c"
+icons:
+  - icon.png
 ---
 
 LPOOL is the platform token of Launchpool, the fair token launchpad. LPOOL can be staked to earn an allocation from projects launching on Launchpool.

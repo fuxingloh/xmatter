@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5a4f25"
+icons:
+  - icon.png
 ---
 
 The Richest Baby Dog In The Universe Has His Own Themed Token Now That Rewards All Investors, Whilst Giving Dogs And Other Animals A New Home!

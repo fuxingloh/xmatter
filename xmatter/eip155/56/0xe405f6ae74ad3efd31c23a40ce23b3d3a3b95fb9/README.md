@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbb9d6"
+icons:
+  - icon.png
 ---
 
 Tokyo Inu is a family member of Shiba BUILT with peer-to-peer cryptocurrency + Automated Rewards Farming (ARF) technology.

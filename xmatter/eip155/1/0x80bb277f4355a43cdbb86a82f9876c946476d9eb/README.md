@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#142444"
+icons:
+  - icon.png
 ---
 
 DogDefi offers liquidity mining and earn DogDeFiCoin as reward.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d2742f"
+icons:
+  - icon.png
 ---
 
 Binapet ecosystem is the perfect combination of NFT gaming and DeFi that enables users to have fun and earn profit simultaneously.

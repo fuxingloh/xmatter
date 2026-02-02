@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f39a44"
+icons:
+  - icon.png
 ---
 
 EXMO Coin is a utility token for the EXMO exchange's internal ecosystem.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5dd09f"
+icons:
+  - icon.png
 ---
 
 $FOUR is the first test token created by http://four.meme. $FOUR means $4 billion; $FOUR means fair launch; $FOUR is for everyone; $FOUR Make BNB Great Again!

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04a4e3"
+icons:
+  - icon.png
 ---
 
 Trade, learn, and build crypto wealth with Dacxi.

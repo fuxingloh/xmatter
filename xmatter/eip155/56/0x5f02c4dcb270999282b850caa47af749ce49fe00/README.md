@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c1c2c"
+icons:
+  - icon.png
 ---
 
 XTRA is a revolution of Loyalty Rewards & Cashback with blockchain technology.

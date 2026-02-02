@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1a0f2b"
+icons:
+  - icon.png
 ---
 
 EtherSportz is being developed as an online based eSports tournament platform for popular games.

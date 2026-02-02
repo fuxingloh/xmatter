@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c393f"
+icons:
+  - icon.png
 ---
 
 BuffedShiba is a community driven token inspired by the commonly known Buff Doge meme.

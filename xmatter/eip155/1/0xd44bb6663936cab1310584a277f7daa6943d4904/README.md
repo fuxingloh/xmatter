@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#db8b04"
+icons:
+  - icon.png
 ---
 
 Winco (WCO) is a cryptocurrency and operates on the Ethereum platform.

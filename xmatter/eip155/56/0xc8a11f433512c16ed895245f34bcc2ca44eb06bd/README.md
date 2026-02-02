@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6bcce5"
+icons:
+  - icon.png
 ---
 
 KSN offerings (ICOs) are a way to raise capital or participate in investment opportunities. Our prime focus is to make our clients stay, for that, we have built our business in a manner that would help you to trade profitability, and would help us to buy your side.

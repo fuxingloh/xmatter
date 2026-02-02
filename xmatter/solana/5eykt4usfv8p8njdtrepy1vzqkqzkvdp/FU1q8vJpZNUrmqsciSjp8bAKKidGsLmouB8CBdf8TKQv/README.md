@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#074ba9"
+icons:
+  - icon.png
 ---
 
 doland tremp is bellionaire pres of soluna. his jeb is te mäk bellions n bellions, te mäk sulono gret agen, n te destroy joe boiden.

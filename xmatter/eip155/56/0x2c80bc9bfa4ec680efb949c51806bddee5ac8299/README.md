@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 BSC Army is the first DAO (decentralized autonomous organization) for social media industries on BSC, and a community-centered initiative that strives to promote the adoption of BSC and blockchain in general.

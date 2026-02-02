@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#113670"
+icons:
+  - icon.png
 ---
 
 The next-gen luxury asset staking

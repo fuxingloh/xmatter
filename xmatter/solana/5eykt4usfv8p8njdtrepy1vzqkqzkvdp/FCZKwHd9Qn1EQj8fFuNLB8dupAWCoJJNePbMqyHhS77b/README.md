@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 XYO is a DePIN ecosystem of consumer software, developer tools, a decentralized network, and digital assets. XYO facilitates and incentivizes the aggregation, validation, and use of decentralized data.

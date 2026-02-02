@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e3bb50"
+icons:
+  - icon.png
 ---
 
 Gforce is an innovative token in the Jetfuel.Finance Ecosystem that is revolutionizing the passive yield and staking token landscape.

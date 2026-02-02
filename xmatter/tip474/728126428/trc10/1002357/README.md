@@ -16,6 +16,8 @@ standards:
   - trc10
 icon: icon.png
 color: "#f69d2d"
+icons:
+  - icon.png
 ---
 
 GMCoin is the first company token to establish a vast and practical model based on #DeBu #Decentralized #Businesses developed on the whole #cryptocurrency network

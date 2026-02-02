@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1f1e1c"
+icons:
+  - icon.png
 ---
 
 A launchpad that allows any token amount held by investors to participate in IDO's. It also includes an insurance system and P2E game.

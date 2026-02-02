@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f7a41a"
+icons:
+  - icon.png
 ---
 
 FEG Wrapped SHIB

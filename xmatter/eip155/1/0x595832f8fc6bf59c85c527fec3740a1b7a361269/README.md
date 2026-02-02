@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#21b5a5"
+icons:
+  - icon.png
 ---
 
 Power Ledger (POWR), based in Australia, encourages us to imagine a world in which electricity is dependable, affordable and clean for everyone.

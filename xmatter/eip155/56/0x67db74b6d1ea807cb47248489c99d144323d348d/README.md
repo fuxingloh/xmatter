@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c6a73f"
+icons:
+  - icon.png
 ---
 
 Crypto for Staking platform and marketplace platform we create an online store use MMSC shopping product

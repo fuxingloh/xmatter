@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#045cfb"
+icons:
+  - icon.png
 ---
 
 A user-friendly app to help you start investing in DeFi & Web3 in seconds.

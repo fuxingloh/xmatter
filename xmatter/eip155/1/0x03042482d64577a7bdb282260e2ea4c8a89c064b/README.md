@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#33cc33"
+icons:
+  - icon.png
 ---
 
 The bridge between decentralized and traditional finance.

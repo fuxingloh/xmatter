@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3d448e"
+icons:
+  - icon.png
 ---
 
 For A Decentralized Drone Flight Time, Security Protocol And Hardware Use Data Tabulation

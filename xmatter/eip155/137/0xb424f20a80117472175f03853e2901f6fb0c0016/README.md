@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#da76b1"
+icons:
+  - icon.png
 ---
 
 A community-focused Polygon token inspired by a legendary pink dragon dropping into the crypto scene. No taxes, just gains.

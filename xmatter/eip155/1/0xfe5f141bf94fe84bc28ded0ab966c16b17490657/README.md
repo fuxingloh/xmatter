@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#064ed4"
+icons:
+  - icon.png
 ---
 
 Libra Credit is a decentralized lending ecosystem that facilitates open access to credit anywhere and anytime based on the Ethereum blockchain. Libra Credit is a global initiative with a mission to provide financial inclusion and lower the cost of financial services.

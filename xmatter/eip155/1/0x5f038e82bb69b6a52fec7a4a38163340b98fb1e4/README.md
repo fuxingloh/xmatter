@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8f8f8f"
+icons:
+  - icon.png
 ---
 
 ERC-20 token for Bitpaid ecosystem.

@@ -10,6 +10,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#bd9033"
+icons:
+  - icon.png
 ---
 
 Happiness

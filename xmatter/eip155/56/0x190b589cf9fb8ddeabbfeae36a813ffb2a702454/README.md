@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbd01b"
+icons:
+  - icon.png
 ---
 
 bDollar (BDO) is an algorithmic stable-coin running on Binance Smart-chain. Completely decentralised on-chain governance.

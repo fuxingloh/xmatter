@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#532c80"
+icons:
+  - icon.png
 ---
 
 Token to support the Crowny marketing platform that allows users to interact and engage with their favorite brands

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eba2c8"
+icons:
+  - icon.png
 ---
 
 Chromia is a relational blockchain designed to make it much easier to make complex and scalable dapps.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ebebeb"
+icons:
+  - icon.png
 ---
 
 Falcon Finance is a overcollaterized synthetic dollar protocol.

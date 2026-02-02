@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04bbe3"
+icons:
+  - icon.png
 ---
 
 The Key to the African Economic Revolution

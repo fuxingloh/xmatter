@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2f9c8b"
+icons:
+  - icon.png
 ---
 
 Provide programmable interest payments to everyone.

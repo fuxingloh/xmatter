@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1e150a"
+icons:
+  - icon.png
 ---
 
 DFS is a global payment option that is fully decentralized built on the Ethereum Blockchain.

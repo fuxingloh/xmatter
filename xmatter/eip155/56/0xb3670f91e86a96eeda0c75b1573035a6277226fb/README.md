@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040405"
+icons:
+  - icon.png
 ---
 
 Buyback is a utility token for defi aplications and also have Reflection, Auto Funding, and Burn mechanism.

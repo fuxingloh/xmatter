@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e8fafa"
+icons:
+  - icon.png
 ---
 
 AMM / DEX for yield-bearing LP Token swaps.

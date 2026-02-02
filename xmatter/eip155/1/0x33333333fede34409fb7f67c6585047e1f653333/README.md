@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04e9e9"
+icons:
+  - icon.png
 ---
 
 ORA provides chain-agnostic infrastructure that seamlessly connects AI and blockchain.

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0f0e0e"
+icons:
+  - icon.png
 ---
 
 The Bankless BED Index is an equal weighted index of Bitcoin, Ethereum and DPI.

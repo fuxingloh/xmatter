@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3ba9d2"
+icons:
+  - icon.png
 ---
 
 FRZSSCOIN is the native asset of the FRZ ecosystem and will be used for listing and staking on exchanges, airdrops, token burning and advertisement.

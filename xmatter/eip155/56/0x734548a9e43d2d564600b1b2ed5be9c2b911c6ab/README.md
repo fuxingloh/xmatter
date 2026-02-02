@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cda83e"
+icons:
+  - icon.png
 ---
 
 PEEL is the governance token of Meta Apes, a mobile strategy game.

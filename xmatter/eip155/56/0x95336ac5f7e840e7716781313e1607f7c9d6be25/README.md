@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b1152"
+icons:
+  - icon.png
 ---
 
 RobustSwap by Robust Protocol is an anti-bot and flash loan attack proof decentralized exchange (DEX), automated market maker (AMM) with yield farming designed to optimize profitability through scarcity and liquidity generation.

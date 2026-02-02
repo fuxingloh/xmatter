@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f7d079"
+icons:
+  - icon.png
 ---
 
 Token FNK. Ready-made solutions for maximum profit

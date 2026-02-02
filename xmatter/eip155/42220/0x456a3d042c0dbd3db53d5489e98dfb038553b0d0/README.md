@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#550ec3"
+icons:
+  - icon.png
 ---
 
 Mento Kenyan Shilling (KESm) is a decentralized stablecoin pegged to the Kenyan Shilling on the Celo blockchain.

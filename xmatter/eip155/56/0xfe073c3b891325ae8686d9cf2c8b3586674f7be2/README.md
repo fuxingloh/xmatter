@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bb9a0d"
+icons:
+  - icon.png
 ---
 
 Innovation in financial transactions within online and live poker.

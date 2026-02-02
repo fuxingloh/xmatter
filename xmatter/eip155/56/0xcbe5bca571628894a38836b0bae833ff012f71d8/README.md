@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4858a0"
+icons:
+  - icon.png
 ---
 
 Infinity Rocket is a multi-purpose platform that allows you to simplify the launch and promotion of any projects on the blockchain.

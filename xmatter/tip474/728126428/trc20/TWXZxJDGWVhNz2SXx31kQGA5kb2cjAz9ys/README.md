@@ -10,6 +10,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#04acec"
+icons:
+  - icon.png
 ---
 
 AZX is a platform for the future of funding that powering dat for the new equity blockchain

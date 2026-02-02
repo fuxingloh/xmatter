@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#492e15"
+icons:
+  - icon.png
 ---
 
 The World's First Proof-of-Burn (PoB) Decentralized Ecosystem

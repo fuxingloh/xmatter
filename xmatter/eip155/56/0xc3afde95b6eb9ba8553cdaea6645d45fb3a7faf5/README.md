@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1a2b2f"
+icons:
+  - icon.png
 ---
 
 Kiba Inu is restoring integrity to meme coins by building the safest Dex and Launchpad in the space. KibaSwap already includes our swap, KibaFomo, Honeypot Checker, KibaTools, and KibaReports. We are a meme coin to capitalize on the fun and organic growth that are common in this space. We are a utility that solves the problems newcomers and OG’s face frequently. We are a community that is regarded as the best and others try to emulate. Best of all, we are just getting started.

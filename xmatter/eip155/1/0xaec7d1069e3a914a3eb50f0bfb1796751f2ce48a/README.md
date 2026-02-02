@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e4b323"
+icons:
+  - icon.png
 ---
 
 S4FE (S4F) is a cryptocurrency and operates on the Ethereum platform.

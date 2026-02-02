@@ -42,6 +42,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#afc56b"
+icons:
+  - icon.png
 ---
 
 Save Planet Earth has various carbon sequestration initiatives worldwide, including approval of the planting of over a billion trees, initiatives in solar, hydro, wind, beach & ocean clean-up, recycling, waste management, and improving rural technologies. For all these initiatives, Save Planet Earth receives certified carbon credits which can then be sold to individuals and companies who wish to offset their carbon footprint. SPEPad, launchpad for SPE holders in progress.

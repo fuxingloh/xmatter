@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#53ab93"
+icons:
+  - icon.png
 ---
 
 USDTV is a cryptocurrency anchored in blockchain, integrating concepts of decentralized finance (DeFi) with television engagement. Its issuance and value are initially determined by a dynamic Television Engagement Index, reflecting the popularity, consumption, and interaction with television content. Over time, the value of USDTV is stabilized in relation to the US dollar, through adjustment algorithms and governance policies, ensuring a stable foundation for transactions and investments.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eaae0b"
+icons:
+  - icon.png
 ---
 
 The $tream token contributes to the streamers community, e-sports and game itens

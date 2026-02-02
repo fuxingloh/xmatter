@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#09df79"
+icons:
+  - icon.png
 ---
 
 GoPlus Security is building Web3's first decentralized security layer, providing comprehensive protection across all blockchain networks to protect every transaction for users.

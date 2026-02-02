@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e2e4e3"
+icons:
+  - icon.png
 ---
 
 If you missed out on Mubarak, this is your next big opportunity

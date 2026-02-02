@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#56a995"
+icons:
+  - icon.png
 ---
 
 Cross Chain Portal Bridged Token

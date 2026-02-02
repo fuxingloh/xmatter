@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#080828"
+icons:
+  - icon.png
 ---
 
 Eroscoin (ERO) is a cryptocurrency and operates on the Ethereum platform.

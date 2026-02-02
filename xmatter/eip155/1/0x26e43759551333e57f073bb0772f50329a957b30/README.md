@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#25e2cc"
+icons:
+  - icon.png
 ---
 
 Building a degen community incentivised by DGVC tokens to provide liquidity for Uniswap or other AMM project launches.

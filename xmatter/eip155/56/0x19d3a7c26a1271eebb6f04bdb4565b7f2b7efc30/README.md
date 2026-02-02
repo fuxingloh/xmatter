@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3c5ed8"
+icons:
+  - icon.png
 ---
 
 MetaAxis is a revolutionary token with an innovative Buy Back and Play to Earn scheme built on Binance Smart Chain

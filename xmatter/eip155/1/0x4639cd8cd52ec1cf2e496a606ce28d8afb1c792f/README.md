@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#047bd9"
+icons:
+  - icon.png
 ---
 
 CBDAO serves as a sandbox to research and proof test various decentralized consensus protocols on DAOs.

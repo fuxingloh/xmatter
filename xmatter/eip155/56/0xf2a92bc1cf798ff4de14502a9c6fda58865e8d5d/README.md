@@ -24,6 +24,7 @@ name: Thoreum V2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 THOREUM v2 is a Multi-chain Venture Capital Platform that rewards its HOLDers by leveraging multi-chain investment opportunities. Thoreum phase 1 - Mining completed, phase 2 - Hyper deflationary & maximizing profits.

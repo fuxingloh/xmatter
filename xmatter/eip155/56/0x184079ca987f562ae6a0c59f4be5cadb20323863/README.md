@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#da4516"
+icons:
+  - icon.png
 ---
 
 MarsRise ($MARSRISE) is a token launched on Binance Smart Chain with automatic liquidity pool growth and holder rewards through transaction taxation.

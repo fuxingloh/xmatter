@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f7da5d"
+icons:
+  - icon.png
 ---
 
 VOLT is a platform that allows centralized platforms such as Uber, to be developed in a decentralized manner and enables direct delivery through P2P.

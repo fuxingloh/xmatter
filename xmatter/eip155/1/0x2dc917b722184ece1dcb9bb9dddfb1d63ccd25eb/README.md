@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e5d2a8"
+icons:
+  - icon.png
 ---
 
 The White Rhinoceros symbolizes strength, resilience, and communal bonds – qualities that reflect our project's core values. Much like the majestic creature it is named after, WHRH seeks to establish a lasting presence in the crypto space.

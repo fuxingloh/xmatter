@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1478f4"
+icons:
+  - icon.png
 ---
 
 DisCas Vision is the world’s first and only decentralized platform, built on blockchain technology and smart contracts. We unite governments, organizations and communities into a decentralized, open and fair network. The smart contract technology that underlies the platform will provide an automated and transparent system for investment and profit distribution. For more information please visit our site and our offering and solutions is here https://discas.vision/white-paper/

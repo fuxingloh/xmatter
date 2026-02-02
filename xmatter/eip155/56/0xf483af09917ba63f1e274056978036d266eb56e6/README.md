@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cea17a"
+icons:
+  - icon.png
 ---
 
 BullSwap is a completely decentralized transaction protocol

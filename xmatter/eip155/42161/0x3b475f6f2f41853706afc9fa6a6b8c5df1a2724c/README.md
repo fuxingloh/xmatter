@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#131414"
+icons:
+  - icon.png
 ---
 
 Community-driven and governed DEX on Arbitrum with lots of utility on its native token ZYBER.

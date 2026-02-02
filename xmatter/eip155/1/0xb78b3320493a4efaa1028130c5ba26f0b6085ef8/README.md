@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1a1b23"
+icons:
+  - icon.png
 ---
 
 One tool to farm everything in Defi.

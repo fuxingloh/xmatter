@@ -20,6 +20,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#7444f4"
+icons:
+  - icon.png
 ---
 
 Kin gives everyone skin in the game – making it easy for apps and brands to reward users and create exciting experiences with cryptocurrency.

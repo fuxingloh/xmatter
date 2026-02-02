@@ -33,6 +33,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b69883"
+icons:
+  - icon.png
 ---
 
 NFTBooks envisions to transform the world of book-readings, making it become more affordable and more accessible to many people.

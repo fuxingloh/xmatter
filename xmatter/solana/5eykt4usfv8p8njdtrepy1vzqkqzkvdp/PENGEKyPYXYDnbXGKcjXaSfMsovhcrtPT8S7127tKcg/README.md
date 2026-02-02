@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#ebc891"
+icons:
+  - icon.png
 ---
 
 Solana-Based Memecoin With Upcoming Play To Earn Utility. Welcome to Penguiana: We at Penguiana believe in a slow and steady race to the top, just like how penguins waddle in search of fish, let's eat the dip, the penguin style.

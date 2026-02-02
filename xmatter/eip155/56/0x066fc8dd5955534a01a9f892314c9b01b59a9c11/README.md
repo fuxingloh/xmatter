@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f7c511"
+icons:
+  - icon.png
 ---
 
 PAWS’ Primary goal is to help streamline the donations towards animal shelters, conservation, and charities through a centralized platform that guarantees the authenticity of the organizations.

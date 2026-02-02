@@ -36,6 +36,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9a408"
+icons:
+  - icon.png
 ---
 
 Bali Token is a utility token for tourism business in Bali, Indonesia

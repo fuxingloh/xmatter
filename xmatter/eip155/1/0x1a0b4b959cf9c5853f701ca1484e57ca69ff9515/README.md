@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#439bfc"
+icons:
+  - icon.png
 ---
 
 EasyPocket is the most advanced Ethereum wallet with the built-in mixer.

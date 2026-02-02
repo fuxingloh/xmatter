@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6048f8"
+icons:
+  - icon.png
 ---
 
 GIFT is a utility token for use with the GIFT platform. The token's utility is centered around crypto e-gifting.

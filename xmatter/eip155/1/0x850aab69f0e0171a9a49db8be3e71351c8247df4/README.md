@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#efeaf2"
+icons:
+  - icon.png
 ---
 
 Konomi is a decentralized liquidity and money market protocol for cross-chain crypto assets. Using Substrate as the development framework, the network aims to provide money markets for assets in the Polkadot ecosystem.

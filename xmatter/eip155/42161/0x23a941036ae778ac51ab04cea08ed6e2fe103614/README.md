@@ -20,6 +20,7 @@ name: The Graph
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 The Graph is an indexing protocol and global API for organizing blockchain data and making it easily accessible with GraphQL. Developers can use Graph Explorer to search, find, and publish all the public data they need to build decentralized applications. The Graph Network makes it possible to build serverless dApps that run entirely on public infrastructure.

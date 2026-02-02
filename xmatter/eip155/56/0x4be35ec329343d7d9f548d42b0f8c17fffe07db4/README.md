@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#53ab99"
+icons:
+  - icon.png
 ---
 
 ZedScan Block Explorer ZedScan is an independent block explorer unrelated to other service providers (unless stated explicitly otherwise) and is therefore unable to provide a precise response for inquiries that are specific to other service providers.

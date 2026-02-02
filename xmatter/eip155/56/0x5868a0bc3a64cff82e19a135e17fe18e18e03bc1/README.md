@@ -19,6 +19,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f1ba0b"
+icons:
+  - icon.png
 ---
 
 A platform that issues a Korean Won stablecoin based on fiat-backed assets in Korea, providing a transparent BEP-20-based stablecoin that operates on an open smart contract and decentralized structure, enabling seamless use in Web3.

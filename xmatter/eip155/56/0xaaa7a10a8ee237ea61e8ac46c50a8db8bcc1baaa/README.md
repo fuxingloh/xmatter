@@ -30,6 +30,7 @@ name: QANX Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 QANX is the utility token of QAN Platform.

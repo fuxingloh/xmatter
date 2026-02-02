@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5ade9f"
+icons:
+  - icon.png
 ---
 
 A High-Performance Public Blockchain Powered by the MeerDAG Consensus

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#ab8f4c"
+icons:
+  - icon.png
 ---
 
 Launching on the Solana blockchain, the mighty Smog reigns supreme over the crypto battlefield, incinerating all foes.

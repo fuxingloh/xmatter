@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ec810b"
+icons:
+  - icon.png
 ---
 
 Bonfire is a frictionless, yield-generating contract that allows you to seek shelter amidst the chaos of the market.

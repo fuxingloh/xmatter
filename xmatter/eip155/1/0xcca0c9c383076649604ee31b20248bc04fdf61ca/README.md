@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b99fb"
+icons:
+  - icon.png
 ---
 
 BitMax Token (BTMX) is a cryptocurrency and operates on the Ethereum platform.

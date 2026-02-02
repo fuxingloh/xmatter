@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#db62a5"
+icons:
+  - icon.png
 ---
 
 Dracoo Master is a deck-building game based on blockchain technologies.

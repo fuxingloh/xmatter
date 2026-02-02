@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a783e0"
+icons:
+  - icon.png
 ---
 
 MixMarvel is a global game publishing platform based on blockchain technology.

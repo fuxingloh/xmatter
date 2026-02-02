@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1868f0"
+icons:
+  - icon.png
 ---
 
 PumaPay was built on top of the Ethereum blockchain.

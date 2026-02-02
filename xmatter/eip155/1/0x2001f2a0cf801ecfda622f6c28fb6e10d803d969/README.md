@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c84ec"
+icons:
+  - icon.png
 ---
 
 The CoinLoan Token (CLT) is a part of the CoinLoan crypto lending platform.

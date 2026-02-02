@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#091e54"
+icons:
+  - icon.png
 ---
 
 Torpedo is the first BSC underwater GEM.

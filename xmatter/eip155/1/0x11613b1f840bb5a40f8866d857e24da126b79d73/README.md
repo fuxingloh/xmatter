@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e23189"
+icons:
+  - icon.png
 ---
 
 Cappasity is an easy, scalable platform for creating, embedding, and analyzing 3D and AR/VR content.

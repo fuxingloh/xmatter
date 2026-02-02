@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#241c0d"
+icons:
+  - icon.png
 ---
 
 EcoFinances Token is a internal token payment in ecosystem.

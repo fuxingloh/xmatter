@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e11481"
+icons:
+  - icon.png
 ---
 
 Yearn Finance Dot platform is powerful enough from a scalability, interoperability, developability and governance perspective to help make the vision of Web3 a reality that aims to get more value for an investment.

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eba162"
+icons:
+  - icon.png
 ---
 
 Shiba Watch is a multifunctional coin listing platform that checks for how safe tokens are, includes NFT marketplace, staking and lending and Play to Earn games. By becoming a Shiba Watch holder, investors will also be passively rewarded with BUSD.

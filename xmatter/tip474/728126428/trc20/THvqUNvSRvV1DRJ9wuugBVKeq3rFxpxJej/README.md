@@ -12,6 +12,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#6d655c"
+icons:
+  - icon.png
 ---
 
 Darkness

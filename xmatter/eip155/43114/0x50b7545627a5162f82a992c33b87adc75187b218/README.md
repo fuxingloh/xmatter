@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c0c0c"
+icons:
+  - icon.png
 ---
 
 Wrapped Bitcoin is an ERC20 token backed 1:1 with Bitcoin. Completely transparent. 100% verifiable. Community led.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eb3588"
+icons:
+  - icon.png
 ---
 
 $FiveSs is the official meme coin created specifically for MEET48's first-ever virtual idol group, FiveSs! More than just a cryptocurrency, it's your gateway to participate in shaping the futures of Suki, Kimmy, Athena, Rachel, and Rinako. From designing their virtual personas to unlocking exclusive group activities and immersive fan interactions, you are the sculptor of their cyber identities!

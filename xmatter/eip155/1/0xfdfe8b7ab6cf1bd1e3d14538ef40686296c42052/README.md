@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a9c5ea"
+icons:
+  - icon.png
 ---
 
 A new platform where you can easily invest your spare change from everyday purchases into Bitcoin and other cryptocurrencies.

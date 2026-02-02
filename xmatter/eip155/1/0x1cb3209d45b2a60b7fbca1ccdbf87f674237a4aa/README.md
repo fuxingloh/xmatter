@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6d1d39"
+icons:
+  - icon.png
 ---
 
 THR represents a basket of top-traded high-demand coins Simply put, it’s a Basket of Multiple cryptocurrencies in which you can invest by buying tokens.

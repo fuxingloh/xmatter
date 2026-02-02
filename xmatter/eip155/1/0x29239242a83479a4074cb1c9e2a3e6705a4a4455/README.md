@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cacac9"
+icons:
+  - icon.png
 ---
 
 Tozex Tokenizaton platform

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#acacac"
+icons:
+  - icon.png
 ---
 
 Wrapped Mirror AAPL Token.

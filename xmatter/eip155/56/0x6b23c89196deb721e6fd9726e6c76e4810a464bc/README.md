@@ -36,6 +36,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0b0404"
+icons:
+  - icon.png
 ---
 
 X World Games is the next-generation decentralized blockchain game ecosystem. "X World" represents an unknown universe to be explored, and "Games" represents more games that will be added to this ecosystem. The vision of X World Games is to build a diversified gaming ecosystem that connects traditional game players and the blockchain world and help more game developers who want to enter the crypto space to create the underlying blockchain framework.

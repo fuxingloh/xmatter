@@ -22,6 +22,7 @@ name: MagnetGold
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 MagnetGold will represent the heart of the ecosystem for Crypto investors/companies to grow their capital, investment, venture capital, families, traders and more. MTG supports funding startups, green energy, organic/agro, E-commerce, crypto awareness, real-estate and others.

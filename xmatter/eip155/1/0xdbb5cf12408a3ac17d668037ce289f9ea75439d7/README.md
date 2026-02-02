@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f4f2fa"
+icons:
+  - icon.png
 ---
 
 World Mobile Token (WMTX) is the utility token that powers the World Mobile network, a decentralized mobile network at the forefront of the DePIN space. World Mobile aims to connect the world by leveraging blockchain technology and a sharing economy.

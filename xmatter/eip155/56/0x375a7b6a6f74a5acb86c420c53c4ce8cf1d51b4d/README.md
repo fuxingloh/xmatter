@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#17350e"
+icons:
+  - icon.png
 ---
 
 HUP.LIFE ($HUP) is building an all-in-one NFT Marketplace enabling socially conscious visual artists and collectors to authenticate their artwork, find copycats across the web, and buy, sell, and license their artwork through its copyright - while complying with international copyright and securities law.

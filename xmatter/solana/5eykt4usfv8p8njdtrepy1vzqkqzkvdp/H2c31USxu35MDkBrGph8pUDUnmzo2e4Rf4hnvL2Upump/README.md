@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#97ad89"
+icons:
+  - icon.png
 ---
 
 The Shoggoth, a character from a science fiction story, captures the essential weirdness of the A.I. moment.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5060f8"
+icons:
+  - icon.png
 ---
 
 The Bodhi project, decentralized prediction market.

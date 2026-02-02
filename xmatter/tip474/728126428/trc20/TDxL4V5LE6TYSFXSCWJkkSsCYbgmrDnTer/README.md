@@ -12,6 +12,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#f1d7c3"
+icons:
+  - icon.png
 ---
 
 szn

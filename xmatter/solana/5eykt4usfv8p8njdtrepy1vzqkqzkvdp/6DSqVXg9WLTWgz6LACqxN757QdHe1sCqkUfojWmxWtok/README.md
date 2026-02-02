@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#040506"
+icons:
+  - icon.png
 ---
 
 Solanacorn is the first Certified Organic, Non-GMO, Preservative-Free unicorn on chain.

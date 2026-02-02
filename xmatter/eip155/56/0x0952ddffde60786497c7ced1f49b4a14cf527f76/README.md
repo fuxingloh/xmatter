@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#303031"
+icons:
+  - icon.png
 ---
 
 Ghostface - Hold $GHOSTFACE and earn $BNB while you sleep!

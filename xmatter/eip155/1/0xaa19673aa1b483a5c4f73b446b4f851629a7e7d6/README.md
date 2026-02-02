@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d75030"
+icons:
+  - icon.png
 ---
 
 A Rebase-Inflationary, Burn Deflationary Currency.

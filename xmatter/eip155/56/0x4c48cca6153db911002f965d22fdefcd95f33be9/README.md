@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c2c2b"
+icons:
+  - icon.png
 ---
 
 The essential Coin is a utility ecosystem that provides rewards to long term investors.The Essential Coins is a focus-based project with many products that will be released in multiple phases. ESC will be a blockchain meta-verse, which will have the ESC token as its native currency.

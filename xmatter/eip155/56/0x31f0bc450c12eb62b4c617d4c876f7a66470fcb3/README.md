@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0fe9fa"
+icons:
+  - icon.png
 ---
 
 Deflationary token with automatic profit distribution and blocked liquidity pool

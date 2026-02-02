@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dda177"
+icons:
+  - icon.png
 ---
 
 Baby Doge Inu is a deflationary token with high holder rewards on Binance Smart Chain (BSC).

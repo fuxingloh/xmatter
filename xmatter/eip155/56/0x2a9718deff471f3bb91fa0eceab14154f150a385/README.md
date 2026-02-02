@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1eadfc"
+icons:
+  - icon.png
 ---
 
 $ElonGate is a deflationary cryptocurrency on the Binance Smart Chain, using the power of memes to make huge impacts for charity.

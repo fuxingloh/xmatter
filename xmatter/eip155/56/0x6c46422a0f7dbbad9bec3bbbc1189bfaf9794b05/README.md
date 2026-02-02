@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04bbd3"
+icons:
+  - icon.png
 ---
 
 LTRBT Token is capable of gasless instant yield generation. This means that holder can generate yield just holding the token in their wallet, without any further action required.

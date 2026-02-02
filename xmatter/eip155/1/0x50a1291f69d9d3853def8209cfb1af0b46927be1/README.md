@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04acdc"
+icons:
+  - icon.png
 ---
 
 AppLovin xStock (APPx) is a tracker certificate issued as Solana SPL and ERC-20 tokens. APPx tracks the price of AppLovin Corporation (the underlying). APPx is designed to give eligible cryptocurrency market participants regulatory-compliant access to the stock price of AppLovin Corporation, whilst maintaining the benefits of blockchain technology. AppLovin is a global mobile technology company that provides businesses with solutions to connect with their target audience, market, monetize, and grow their apps and content.

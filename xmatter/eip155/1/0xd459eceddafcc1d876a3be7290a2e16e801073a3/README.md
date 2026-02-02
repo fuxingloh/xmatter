@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3eceb"
+icons:
+  - icon.png
 ---
 
 BounceBit pioneers CeDeFi infrastructure, offering institutional-grade yield products, restaking use cases, Real World Asset (RWA) integration, and CeDeFi as a service, making high-yield opportunities accessible to all.

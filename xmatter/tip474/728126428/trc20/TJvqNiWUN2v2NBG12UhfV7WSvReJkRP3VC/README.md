@@ -16,6 +16,7 @@ name: Bridge Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
+icons: []
 ---
 
 First Ever Public Oracle System on TRON Network

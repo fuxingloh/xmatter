@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ebb835"
+icons:
+  - icon.png
 ---
 
 Goatcoin - The governance and reward token of Goatcha.io | an NFT marketplace platform on BSC.

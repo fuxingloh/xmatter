@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Cartesi, The Blockchain OS, is a layer-2 platform for the development and deployment of scalable decentralized applications. The Blockchain OS offers a Linux operating system coupled with a blockchain infrastructure.

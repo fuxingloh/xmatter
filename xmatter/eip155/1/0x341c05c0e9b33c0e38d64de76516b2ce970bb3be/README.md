@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#404b4a"
+icons:
+  - icon.png
 ---
 
 The Diversified Staked Ethereum Index is an index token of the leading Ethereum liquid staking tokens weighted according to their degree of decentralization.

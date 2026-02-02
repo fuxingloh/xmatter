@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#14243c"
+icons:
+  - icon.png
 ---
 
 BankSocial is your gateway to a full range of banking services using blockchain technology available globally.

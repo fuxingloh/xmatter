@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c2414"
+icons:
+  - icon.png
 ---
 
 BIO Protocol enables global communities of scientists, patients, and investors to collectively fund, develop, and co-own new drugs and therapeutics through its network of Biotech Decentralized Autonomous Organizations (BioDAOs).

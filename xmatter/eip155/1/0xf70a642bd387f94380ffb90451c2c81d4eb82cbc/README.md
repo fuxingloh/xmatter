@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#05486a"
+icons:
+  - icon.png
 ---
 
 Starbase’s mission is to make it easy for everyone to start or support projects which aim to create new services and products.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a37363"
+icons:
+  - icon.png
 ---
 
 NEZHA is a new Meme coin based on the BSC chain, taking the traditional Chinese mythological figure Nezha as the cultural core, and is committed to promoting the integration of blockchain and Guocao IP.

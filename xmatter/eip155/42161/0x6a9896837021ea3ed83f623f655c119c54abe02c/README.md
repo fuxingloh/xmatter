@@ -15,6 +15,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e28c2f"
+icons:
+  - icon.png
 ---
 
 ChainBounty is a Web3 platform where cybercrime victims post bounties to crowdsource investigations.It uses 'Bounty' tokens for transactions, incentivizing private investigators to resolve cases. This decentralized approach offers a faster, transparent solution for online crimes

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6cb941"
+icons:
+  - icon.png
 ---
 
 DNA is the currency of EncrypGen's genomic marketplace, which allows individuals to share, control, and monetize their DNA data while contributing to scientific research and advancing public health.

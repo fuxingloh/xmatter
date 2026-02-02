@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#344364"
+icons:
+  - icon.png
 ---
 
 BKK is the Proof-of-Equity token of the BKEX trading platform with a 'transaction is mining' mechanism.

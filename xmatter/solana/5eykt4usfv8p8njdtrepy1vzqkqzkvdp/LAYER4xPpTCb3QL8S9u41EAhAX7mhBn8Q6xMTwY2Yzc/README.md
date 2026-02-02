@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#0b4c3c"
+icons:
+  - icon.png
 ---
 
 The first hardware-accelerated network, infinitely scaled.

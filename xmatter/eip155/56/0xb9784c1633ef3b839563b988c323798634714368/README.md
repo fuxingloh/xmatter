@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6bcbca"
+icons:
+  - icon.png
 ---
 
 Phoswap, a decentralized exchange on Binance Smart Chain provides users swap pools, liquidity pools, farming pools, and staking pools using an Automated Market Maker (AMM) model.

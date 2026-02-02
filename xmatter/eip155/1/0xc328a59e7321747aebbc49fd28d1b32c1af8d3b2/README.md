@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0463fb"
+icons:
+  - icon.png
 ---
 
 PHIL Token ($PHIL) is a community focused meme coin with a vision to unite meme coins for real world good.

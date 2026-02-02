@@ -23,6 +23,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b5bfc"
+icons:
+  - icon.png
 ---
 
 BNB pegged TrueUSD (TUSDP BEP20) is a token issued by Binance on Smart Chain; its price is pegged to TrueUSD (TUSD ERC20) at a ratio of 1:1.

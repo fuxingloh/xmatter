@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a1281f"
+icons:
+  - icon.png
 ---
 
 Elemon is a NFTs game based on blockchain technology with the purposes and missions to deliver sustainable values to all users and investors in the Cryptocurrency field. More specifically, Elemon is constructed with a comprehensive ecosystem and hosted on the BSC platform with ERC-721 standard.

@@ -29,6 +29,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f8a42f"
+icons:
+  - icon.png
 ---
 
 Crypto Inu is an immersive multiplayer board game with 3D and VR modes that incorporates metaverse real estate investment.

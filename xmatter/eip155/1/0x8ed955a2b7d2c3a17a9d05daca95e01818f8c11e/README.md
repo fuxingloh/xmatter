@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c2c2b"
+icons:
+  - icon.png
 ---
 
 The APF DIGITAL AGRIFUND CR in cooperation with MIA INVESTMENTS GROUP aims to combine the benefits of digital assets with the benefits of real investments in agricultural land. Given the stable development of farmland prices in the country and market conditions, we offer clients a more conservative form of investment in crypto-assets.

@@ -32,6 +32,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c93583"
+icons:
+  - icon.png
 ---
 
 Torum is a SocialFi ecosystem (Social + NFT + DeFi + Metaverse) that is specially designed to connect cryptocurrency users

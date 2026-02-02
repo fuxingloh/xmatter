@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#811f7f"
+icons:
+  - icon.png
 ---
 
 $MAD - The Wild Degen who hustles hard and parties harder 😈 Join the #MemesAfterDark Degen Movement!

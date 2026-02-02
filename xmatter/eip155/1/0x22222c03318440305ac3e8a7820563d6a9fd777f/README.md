@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0a4006"
+icons:
+  - icon.png
 ---
 
 A crypto community and group unlike any other. Unrivaled in their authenticity and uniqueness, they are certainly not for the easily offended.

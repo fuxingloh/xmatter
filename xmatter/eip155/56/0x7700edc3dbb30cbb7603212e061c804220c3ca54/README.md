@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#195481"
+icons:
+  - icon.png
 ---
 
 Quantic is the next innovative DeFi release for the Binance Smart Chain that is designed to provide holders of $QUANTIC high passive returns just by holding the token, in which the smart contract does all the work for them.

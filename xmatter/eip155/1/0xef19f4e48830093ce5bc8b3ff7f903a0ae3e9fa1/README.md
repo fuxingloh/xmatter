@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9c40e"
+icons:
+  - icon.png
 ---
 
 The first copytrade platform with blockchain technology

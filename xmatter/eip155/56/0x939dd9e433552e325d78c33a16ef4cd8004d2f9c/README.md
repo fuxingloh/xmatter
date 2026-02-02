@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#faae42"
+icons:
+  - icon.png
 ---
 
 SpaceN is an NFT one-stop investment management tool.SpaceN will automatically count the investment income information of users buying and selling NFTs, so that users can timely understand the changes of their NFT assets

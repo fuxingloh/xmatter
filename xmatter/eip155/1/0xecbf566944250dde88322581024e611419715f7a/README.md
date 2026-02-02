@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#149cdc"
+icons:
+  - icon.png
 ---
 
 xBTC gives users one token access to every single digital asset on earth, pegged against Bitcoin dominance.

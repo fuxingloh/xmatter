@@ -27,6 +27,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c0c2b"
+icons:
+  - icon.png
 ---
 
 Bancor is an on-chain liquidity protocol that enables automated, decentralized exchange on Ethereum and across blockchains.

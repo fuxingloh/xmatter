@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0f172f"
+icons:
+  - icon.png
 ---
 
 Be a DeFi Chef with Sushi - Swap, earn, stack yields, lend, borrow, leverage all on one decentralized, community driven platform.

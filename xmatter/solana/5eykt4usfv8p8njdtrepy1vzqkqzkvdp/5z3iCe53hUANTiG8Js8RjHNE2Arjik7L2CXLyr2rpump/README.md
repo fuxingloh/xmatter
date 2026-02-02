@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#265e9c"
+icons:
+  - icon.png
 ---
 
 $LESTER is not just a meme, this is a confrontation between new memes and old tech.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#342c34"
+icons:
+  - icon.png
 ---
 
 Innovative USD Stablecoin

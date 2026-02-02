@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c1528"
+icons:
+  - icon.png
 ---
 
 Foresight provides DAO-Governed Cryptocurrency Insurance.

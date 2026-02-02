@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3f2f3"
+icons:
+  - icon.png
 ---
 
 The global standard for loyalty on the blockchain. With qiibee, businesses around the world can run their loyalty programs on the blockchain.

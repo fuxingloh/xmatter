@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ebae2c"
+icons:
+  - icon.png
 ---
 
 BABYBNB is an ecosystem supported by holders who, while they hold partake in the benefits and profits from several use cases, mentioned below. BABYBNB aims to revolutionize mass adoption in the space providing secure and smart projects for the masses that have partnered with the BABYBNB platform

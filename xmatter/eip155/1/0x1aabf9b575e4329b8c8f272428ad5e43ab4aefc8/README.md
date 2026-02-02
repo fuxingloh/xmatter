@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2d2d2d"
+icons:
+  - icon.png
 ---
 
 Building Decentralised Finance (DeFi). $BUGG Swap. We Have An Active And Engaged Community Dedicated To The $BUGG Success.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1cd36c"
+icons:
+  - icon.png
 ---
 
 UXLINK is a web3 social platform and infrastructure for users and developers to discover, distribute, and trade crypto assets in a unique social and group-based manner.

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#0c0411"
+icons:
+  - icon.png
 ---
 
 SolGun Sniper: The Fastest Trading Bot that provides to users, presale sniping, copy-trading.

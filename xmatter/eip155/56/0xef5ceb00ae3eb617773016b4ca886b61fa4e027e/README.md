@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9c82f"
+icons:
+  - icon.png
 ---
 
 Burning Token New Innovation Binance Smart Chain.

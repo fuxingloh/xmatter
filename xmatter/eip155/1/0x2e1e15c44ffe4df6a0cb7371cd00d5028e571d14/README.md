@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3f34a7"
+icons:
+  - icon.png
 ---
 
 Mettalex is a capital-efficient commodity derivatives DEX featuring unique market pairs, autonomous market making, banded trading, one-sided liquidity provision, and MTLX-based governance.

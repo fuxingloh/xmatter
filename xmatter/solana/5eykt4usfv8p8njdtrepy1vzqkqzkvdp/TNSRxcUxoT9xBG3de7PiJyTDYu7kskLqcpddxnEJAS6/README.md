@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#bfbfbf"
+icons:
+  - icon.png
 ---
 
 Tensor is the largest NFT marketplace on Solana: 60-70% of Solana NFT volume flows through Tensor's marketplace protocols every single day.

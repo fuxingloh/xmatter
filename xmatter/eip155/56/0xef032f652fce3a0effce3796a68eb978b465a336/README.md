@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fae1d1"
+icons:
+  - icon.png
 ---
 
 Moochii is one of the fastest growing cryptocurrency communities, with over 1000+ initial investors within the first week.

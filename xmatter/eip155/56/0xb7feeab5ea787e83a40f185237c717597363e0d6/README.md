@@ -17,6 +17,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d4ccf7"
+icons:
+  - icon.png
 ---
 
 Introducing Xenon Play (XPLAY) Xenon Play functions as the official Xenon Reward that can be generated from the Xenon Machine after activating the reward mechanism by inserting Xenon Liquidity Tokens or Xenon Pay Tokens. You can also use Xenon Play in the upcoming Xenon Pay Gaming Series such as Xenon Kart: Crypto Edition or Xenon Play: Minigames. Both games will have a Play To Earn game mode. The total currency supply of Xenon Play exists out of 500,000,000 XPLAY.

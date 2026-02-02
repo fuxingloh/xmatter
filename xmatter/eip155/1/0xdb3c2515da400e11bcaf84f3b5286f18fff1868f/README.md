@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1f1f1f"
+icons:
+  - icon.png
 ---
 
 Wrapped FreeTON native Crystal token

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#29a8f4"
+icons:
+  - icon.png
 ---
 
 BORA describes itself as a decentralized entertainment platform that distributes digital content and provides incentives to participants. The project is a layer-2 platform with an ERC20-based dual token system.

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#141414"
+icons:
+  - icon.png
 ---
 
 Dust Protocol (DUST) is a decentralized protocol and multi-chain utility & governance token that aims to facilitate community-led governance over holder proposals & the Dust DAO treasury.

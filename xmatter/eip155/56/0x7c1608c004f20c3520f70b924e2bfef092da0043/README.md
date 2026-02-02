@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#73abc0"
+icons:
+  - icon.png
 ---
 
 Defi ecosystem by CZodiac with farms, pools, NFTs, stablecoin borrowing, and the best APR on BSC.

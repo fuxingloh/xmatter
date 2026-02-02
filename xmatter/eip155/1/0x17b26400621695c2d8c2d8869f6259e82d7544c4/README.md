@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#07a4fa"
+icons:
+  - icon.png
 ---
 
 CCN is a company that provides smart contract development and auditing services to blockchain industries and individuals.

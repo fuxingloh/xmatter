@@ -32,6 +32,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e9c356"
+icons:
+  - icon.png
 ---
 
 dynL1BNB gives users exposure to the top 9 Layer 1 assets on the BNB Smart Chain using long only strategies optimised by the Dynamic Asset Manager with less fees & expenses. Powered by SingularityDAO.ai.

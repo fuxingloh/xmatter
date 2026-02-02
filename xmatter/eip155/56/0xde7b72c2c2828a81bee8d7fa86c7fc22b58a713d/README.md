@@ -21,6 +21,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#223d6c"
+icons:
+  - icon.png
 ---
 
 Ether Proof-of-Stake

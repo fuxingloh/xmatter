@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#248cfc"
+icons:
+  - icon.png
 ---
 
 Woonkly Metasocial Network is a Decentralized Social Network where all posts are converted into NFTs directly, where users have full control of their data and where the content is not uploaded to a server but to users' computers through IPFS

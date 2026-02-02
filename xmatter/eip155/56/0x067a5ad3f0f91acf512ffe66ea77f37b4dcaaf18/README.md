@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d0f1f4"
+icons:
+  - icon.png
 ---
 
 Just like Wynaut, this token has the ability to reflect any token it receives back to the suppliers of its token.

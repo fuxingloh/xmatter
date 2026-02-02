@@ -8,6 +8,7 @@ name: qiibeeToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 The global standard for loyalty on the blockchain. With qiibee, businesses around the world can run their loyalty programs on the blockchain.

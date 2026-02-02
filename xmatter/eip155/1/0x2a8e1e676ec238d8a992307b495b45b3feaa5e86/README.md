@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2d424a"
+icons:
+  - icon.png
 ---
 
 The first stablecoin that earns a yield while it’s still in your wallet

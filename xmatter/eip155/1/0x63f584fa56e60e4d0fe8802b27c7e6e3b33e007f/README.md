@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fcae65"
+icons:
+  - icon.png
 ---
 
 Blockchain Infrastructure For The Digital Content Industry. Empowering a decentralized digital content ecosystem.

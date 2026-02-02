@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#141414"
+icons:
+  - icon.png
 ---
 
 Astherus is a multi-asset liquidity hub designed to unlock the full earning potential of crypto assets.

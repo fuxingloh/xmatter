@@ -21,6 +21,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Bull BTC CLUB is a Hashrate service platform integrating bitcoin Hashrate distribution and multiple financial derivatives of Bitcoin.

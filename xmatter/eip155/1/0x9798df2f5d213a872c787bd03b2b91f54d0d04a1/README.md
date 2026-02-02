@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c0e58"
+icons:
+  - icon.png
 ---
 
 Machine Learning driven, personalised cryptocurrency trade automation to help you easily manage your assets.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#aafa04"
+icons:
+  - icon.png
 ---
 
 The PowerTrade Fuel Token (PTF) is a DAO token which governs the treasury that covers PowerTrade traders in the event of a black swan.

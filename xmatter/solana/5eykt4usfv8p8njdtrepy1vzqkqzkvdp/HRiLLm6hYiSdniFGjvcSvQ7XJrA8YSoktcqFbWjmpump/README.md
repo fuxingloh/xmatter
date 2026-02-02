@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#37322e"
+icons:
+  - icon.png
 ---
 
 DAKU tokens can be traded on decentralized exchanges and centralized crypto exchanges.

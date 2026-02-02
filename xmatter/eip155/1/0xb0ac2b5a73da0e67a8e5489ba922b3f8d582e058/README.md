@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e0f8de"
+icons:
+  - icon.png
 ---
 
 Shiro Neko, the daring new cat on the blockchain, is ready to fulfil the cat prophecy and kick-start cat season. Join $SHIRO today!

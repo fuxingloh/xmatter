@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eedef0"
+icons:
+  - icon.png
 ---
 
 Decentralised global wireless internet provider.

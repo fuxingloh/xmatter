@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3e4bd"
+icons:
+  - icon.png
 ---
 
 Deflationary meme coin with products like NFT Market+ Mobile wallet

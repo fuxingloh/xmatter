@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#163051"
+icons:
+  - icon.png
 ---
 
 Ratboy is a project on the Binance Smart Chain dedicated to cleaning the rats in the space. These include the ruggers and scammers which run away with investor’s funds. The utilities which will accompany this coin are based on avoiding these rats of BSC and to publicly shame them. This way one step at a time we can make people double think before attempting to scam, due to the public shame which follows.

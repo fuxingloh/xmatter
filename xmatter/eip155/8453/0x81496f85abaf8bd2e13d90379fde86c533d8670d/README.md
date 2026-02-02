@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c050e"
+icons:
+  - icon.png
 ---
 
 AGIXBT is a fully autonomous, AI-driven corporation - a radical experiment pushing the boundaries of AGI-led evolution.

@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c4a492"
+icons:
+  - icon.png
 ---
 
 Inspired by the rise of Shiba Inu and Floki Inu, Kitty Inu is an ERC-20 Cryptocurrency joining the cryptoverse to teach an old doge some new tricks! Kitty’s mission is to build one of the best and biggest crypto communities in the world backed by one of the best teams in Defi. Part Kitty, Part Inu, Kitty Inu will woof and meow its way to the moon.

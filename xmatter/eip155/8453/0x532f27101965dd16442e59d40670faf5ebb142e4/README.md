@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4ad1f4"
+icons:
+  - icon.png
 ---
 
 Center character in Matt Furies “Boys’ Club” following the adventures of Brett the Toad, PEPE the frog, Landwolf the wolf, and Andy the dog.

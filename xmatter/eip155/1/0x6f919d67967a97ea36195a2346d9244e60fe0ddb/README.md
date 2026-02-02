@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fad114"
+icons:
+  - icon.png
 ---
 
 Blockcloud (BLOC) is a cryptocurrency and operates on the Ethereum platform.

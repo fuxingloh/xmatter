@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eefbfa"
+icons:
+  - icon.png
 ---
 
 Zebec is enabling composable transfer of value starting with Zebec Payroll. Zebec Safe is fully customizable multi-sig on Solana.

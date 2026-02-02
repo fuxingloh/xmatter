@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f0ca6c"
+icons:
+  - icon.png
 ---
 
 In 2017, Anatoly Yakovenko faced a big decision about starting Solana, a new blockchain project, while doubters surrounded him.

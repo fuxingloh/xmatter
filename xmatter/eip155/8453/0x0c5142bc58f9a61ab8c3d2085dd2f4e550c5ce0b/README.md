@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0454fb"
+icons:
+  - icon.png
 ---
 
 Russell the Goodest Boy on Base. CEO of Coinbase Brian Armstrong's Dog and Best Man at his Wedding.

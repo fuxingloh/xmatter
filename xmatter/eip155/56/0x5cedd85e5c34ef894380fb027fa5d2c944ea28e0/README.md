@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f6bc7a"
+icons:
+  - icon.png
 ---
 
 A Proprietary, Hyper Deflationary Token! MFLOKI token holders are not only rewarded through static rewards but also through true automatic burns every trade from within the liquidity pool!

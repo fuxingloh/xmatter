@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Designed to reward longterm PIXBY holders.

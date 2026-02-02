@@ -21,6 +21,7 @@ name: Gala
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 GALA is the utility token powering the Gala Games ecosystem.

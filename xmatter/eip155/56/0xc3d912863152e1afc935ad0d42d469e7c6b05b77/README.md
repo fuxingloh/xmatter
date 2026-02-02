@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#faae27"
+icons:
+  - icon.png
 ---
 
 LUCKY is a token for play a game in Lucky Lion Platform.

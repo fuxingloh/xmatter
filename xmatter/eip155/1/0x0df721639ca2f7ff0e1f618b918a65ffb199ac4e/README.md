@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#faaa7d"
+icons:
+  - icon.png
 ---
 
 Howdoo is a revolutionary new messaging and social media platform that offers greater choice and control to users.

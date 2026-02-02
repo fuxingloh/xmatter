@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0d142c"
+icons:
+  - icon.png
 ---
 
 Gems (GEM) is a cryptocurrency and operates on the Ethereum platform.

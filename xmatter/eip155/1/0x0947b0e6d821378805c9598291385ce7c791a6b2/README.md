@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Lendingblock is a platform that facilitates peer-to-peer borrowing and lending of cryptocurrencies and digital assets.

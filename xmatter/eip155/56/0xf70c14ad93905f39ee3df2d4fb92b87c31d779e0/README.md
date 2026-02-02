@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#071522"
+icons:
+  - icon.png
 ---
 
 The first and biggest Cardano ADA reflection token with auto-claim feature.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#131918"
+icons:
+  - icon.png
 ---
 
 Chainflip is a cross-chain protocol which uses TSS, an independent blockchain, and a purpose-built AMM to facilitate native cross-chain swaps. Chainflip aims to grant users access to native assets not usually found on the same dex, like ETH, DOT, and BTC, at price parity to centralised exchanges.

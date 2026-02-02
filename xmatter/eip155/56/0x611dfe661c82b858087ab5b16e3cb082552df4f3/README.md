@@ -8,6 +8,7 @@ name: Chia
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 Yield farm Chia on Binance Smart Chain.

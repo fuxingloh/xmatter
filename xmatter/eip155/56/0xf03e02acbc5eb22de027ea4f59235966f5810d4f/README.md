@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f7b04a"
+icons:
+  - icon.png
 ---
 
 Pi network concept INU Token

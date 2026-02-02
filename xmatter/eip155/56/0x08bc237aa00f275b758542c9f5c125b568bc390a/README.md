@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#48288a"
+icons:
+  - icon.png
 ---
 
 Quidax is an Africa-focused and globally accessible crypto exchange and the global home of BEP20 tokens.

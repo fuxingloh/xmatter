@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b59572"
+icons:
+  - icon.png
 ---
 
 DogeBonk is a fluffy token on BSC with deflationary properties and automatic yield generation. 10% tax on each transaction. No presale. Anti-snipe protection.

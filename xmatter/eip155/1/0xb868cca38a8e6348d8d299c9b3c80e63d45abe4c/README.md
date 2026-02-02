@@ -12,6 +12,7 @@ name: Fusion AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 Fusion is a cutting-edge no-code platform that turns your inputs into fully functional applications.

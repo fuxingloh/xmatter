@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1a6fb5"
+icons:
+  - icon.png
 ---
 
 ShareRing is the first global sharing ecosystem that makes services and goods more accessible for everyone.

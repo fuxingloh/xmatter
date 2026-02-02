@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#267736"
+icons:
+  - icon.png
 ---
 
 Bringing Real Estate to the Blockchain

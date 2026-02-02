@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2746dc"
+icons:
+  - icon.png
 ---
 
 UAX is a stablecoin with a 1:1 exchange rate to Ukrainian Hryvnia.

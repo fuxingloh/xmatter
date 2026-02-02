@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bf9582"
+icons:
+  - icon.png
 ---
 
 Mini Donald is a meme coin that's bringing a fresh twist to the crypto world. With a charming and instantly recognizable logo, Mini Donald is set to capture the hearts of meme enthusiasts and crypto traders alike.

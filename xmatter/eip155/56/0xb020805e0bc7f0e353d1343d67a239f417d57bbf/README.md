@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#45d46d"
+icons:
+  - icon.png
 ---
 
 Krypton DAO is the world's first decentralized community alliance platform that adopts DAO governance

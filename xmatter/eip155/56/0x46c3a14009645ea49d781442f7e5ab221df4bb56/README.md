@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fcf5c1"
+icons:
+  - icon.png
 ---
 
 First Tokenomics Platform and Staking Reward Portfolio

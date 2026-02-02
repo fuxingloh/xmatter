@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3a3e5c"
+icons:
+  - icon.png
 ---
 
 MetaZilla, is a community token that draws its name from the city-destroying monster GodZilla and Meta, the realm beyond reality.

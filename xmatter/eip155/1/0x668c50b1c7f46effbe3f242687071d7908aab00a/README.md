@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#45e3f9"
+icons:
+  - icon.png
 ---
 
 CoShi Inu is a MEME coin inspired by Shiba Inu and Doge

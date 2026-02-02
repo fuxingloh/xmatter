@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fa5082"
+icons:
+  - icon.png
 ---
 
 Buy and Hold BabyShiba and you will automatically get more in your wallet. No need to farm, stake or claim.

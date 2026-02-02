@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#505f8e"
+icons:
+  - icon.png
 ---
 
 The Orbs Network is a public blockchain infrastructure designed for businesses looking at trust as a competitive strategy

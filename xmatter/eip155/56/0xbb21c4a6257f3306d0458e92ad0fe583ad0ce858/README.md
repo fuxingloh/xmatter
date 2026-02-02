@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b1b1a"
+icons:
+  - icon.png
 ---
 
 It is an innovative initiative that seeks to revolutionize the financial landscape in Latin America through the implementation of a robust and sustainable blockchain. Our main goal is to promote access to decentralized financial services and foster economic inclusion in the region.

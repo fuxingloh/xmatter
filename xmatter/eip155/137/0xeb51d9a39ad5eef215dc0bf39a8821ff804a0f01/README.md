@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#272626"
+icons:
+  - icon.png
 ---
 
 ORIGIN is a DeFi 3.0 protocol based on the algorithmic non-stablecoin LGNS, aiming to establish the world's first privacy-anonymous stablecoin payment ecosystem, set global financial benchmarks, and guide future financial development.

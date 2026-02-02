@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f2f9f9"
+icons:
+  - icon.png
 ---
 
 Ankr is building an infrastructure platform and marketplace for Web3-stack deployment.

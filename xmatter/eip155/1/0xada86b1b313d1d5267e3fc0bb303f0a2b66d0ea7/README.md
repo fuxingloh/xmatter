@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#000000"
+icons:
+  - icon.png
 ---
 
 COV is a utility token designed to be used by members within the Covesting ecosystem.

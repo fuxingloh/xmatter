@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#00e8b8"
+icons:
+  - icon.png
 ---
 
 Public Mint offers a fiat-native blockchain platform open for anyone to build fiat-native applications and accept credit cards, ACH, stablecoins, wire transfers and more.

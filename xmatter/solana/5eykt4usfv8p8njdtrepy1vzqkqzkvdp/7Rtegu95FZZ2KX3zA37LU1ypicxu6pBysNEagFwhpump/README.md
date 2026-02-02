@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#223947"
+icons:
+  - icon.png
 ---
 
 Plankton got hurt because dev jeeted

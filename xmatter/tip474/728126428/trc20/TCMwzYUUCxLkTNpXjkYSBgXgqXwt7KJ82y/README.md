@@ -25,6 +25,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#b2b1b1"
+icons:
+  - icon.png
 ---
 
 TTcoin is designed for use in TTcoin brands and organizations.

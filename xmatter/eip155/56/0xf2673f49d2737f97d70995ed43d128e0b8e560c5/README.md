@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c4762"
+icons:
+  - icon.png
 ---
 
 Buff Shiba Inu, a community-driven token that empowers small and non-private investors to build stronger portfolios.

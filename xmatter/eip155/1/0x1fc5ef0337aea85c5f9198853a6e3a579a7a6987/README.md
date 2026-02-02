@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0b2444"
+icons:
+  - icon.png
 ---
 
 REAP CHAIN aims to solve Trilemma problem of existing blockchains based on PoDC consensus structure and implements a scalable platform to create a fair and transparent sharing economy ecosystem.

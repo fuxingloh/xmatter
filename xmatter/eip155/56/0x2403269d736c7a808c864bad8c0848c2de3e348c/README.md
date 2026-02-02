@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c1a4e"
+icons:
+  - icon.png
 ---
 
 AirBnb is a frictionless, community driven contract that allows you to hold tokens of increasing value due to deflationary structure.

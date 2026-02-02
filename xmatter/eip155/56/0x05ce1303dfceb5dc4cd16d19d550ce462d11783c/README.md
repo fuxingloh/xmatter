@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbebc3"
+icons:
+  - icon.png
 ---
 
 Safedoge was created to simplify investing in cryptocurrency and earn rewards. Helping the world through Cryptocurrency Charity. Help us, Help you so you can help others. Join us and make a Difference.MEME Base Token, Inspired by Safemoon and Dogecoin

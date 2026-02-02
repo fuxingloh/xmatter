@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3dd88"
+icons:
+  - icon.png
 ---
 
 NEWB Token is a native token by NewB.Farm, a global community driven yield farming aggregator on Binance Smart Chain.

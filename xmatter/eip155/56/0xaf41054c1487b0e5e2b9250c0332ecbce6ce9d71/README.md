@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7778de"
+icons:
+  - icon.png
 ---
 
 Ellipsis Finance aims to offer secure low-slippage stable swapping.

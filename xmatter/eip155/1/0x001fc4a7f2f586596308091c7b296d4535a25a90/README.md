@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f2f6f4"
+icons:
+  - icon.png
 ---
 
 Hubscop is a peer to peer networking system for delivering and marketing contents in a fair and ethical manner.

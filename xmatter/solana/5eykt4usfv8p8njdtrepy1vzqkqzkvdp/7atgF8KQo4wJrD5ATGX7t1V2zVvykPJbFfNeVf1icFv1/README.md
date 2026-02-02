@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#3a2921"
+icons:
+  - icon.png
 ---
 
 Alongside its friend Dogwifhat, Catwifhat adds cats wearing hats to the Solana blockchain.

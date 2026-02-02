@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#343434"
+icons:
+  - icon.png
 ---
 
 RunesBridge is at the forefront of blockchain interoperability, pioneering the creation of bridges that connect different networks (EVM) to the Bitcoin network through the innovative Runes Protocol.

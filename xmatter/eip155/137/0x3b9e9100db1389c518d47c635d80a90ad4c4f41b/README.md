@@ -23,6 +23,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Film.io is a decentralized filmmaking ecosystem, placing Hollywood decision-making into the hands of creators and fans. Film.io leverages blockchain technology and fan collaboration to provide filmmakers with an end-to-end solution for creating, funding and distributing their projects.

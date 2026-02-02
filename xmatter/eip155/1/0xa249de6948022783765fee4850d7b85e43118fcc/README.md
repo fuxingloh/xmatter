@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#14242d"
+icons:
+  - icon.png
 ---
 
 Jarvis+ (JAR) is a cryptocurrency and operates on the Ethereum platform.

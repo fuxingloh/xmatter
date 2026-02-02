@@ -15,6 +15,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#347b44"
+icons:
+  - icon.png
 ---
 
 Eco Value Coin is a Blockchain based Carbon Credit token. It will allow individuals, businesses and governments to trade and offset carbon emissions..

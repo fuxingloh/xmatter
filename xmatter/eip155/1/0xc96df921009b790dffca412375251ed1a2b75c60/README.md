@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e4bc32"
+icons:
+  - icon.png
 ---
 
 Ormeus Coin is a new digital money system backed by an industrial crypto mining operation.

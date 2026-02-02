@@ -18,6 +18,7 @@ name: JoeBar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 One-stop Decentralized Trading on Avalanche.

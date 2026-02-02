@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3c2d24"
+icons:
+  - icon.png
 ---
 
 CZ wanted a name for his dog that started with B and had some green in it, so he named him Broccoli. It also had a blocky sound, as in blockiichain

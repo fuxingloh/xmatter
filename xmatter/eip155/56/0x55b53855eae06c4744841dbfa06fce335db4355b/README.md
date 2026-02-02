@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e6b046"
+icons:
+  - icon.png
 ---
 
 An Accelerated Hyper-Deflationary Token powered by advanced tokenomics and the SSB Business Model.

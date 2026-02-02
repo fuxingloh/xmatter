@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ecd44c"
+icons:
+  - icon.png
 ---
 
 DOCA is the BEST MEMECOIN. Unique features to shill to the MARS: Memecoin - DeFi - GameFi - Metaverse

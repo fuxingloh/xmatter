@@ -23,6 +23,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8db0fa"
+icons:
+  - icon.png
 ---
 
 stEUR is a Euro savings solution built on top of EURA by the Angle Protocol.

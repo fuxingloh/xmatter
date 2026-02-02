@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bdd5e1"
+icons:
+  - icon.png
 ---
 
 COTI a fixed-supply DAG-based cryptocurrency.

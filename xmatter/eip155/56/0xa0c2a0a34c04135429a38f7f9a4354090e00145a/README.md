@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#141c2b"
+icons:
+  - icon.png
 ---
 
 PRX is a token issued by Primex under Binance Smart-Chain.

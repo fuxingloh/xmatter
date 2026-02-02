@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1db8ce"
+icons:
+  - icon.png
 ---
 
 OCEN is a fully decentralized token create a stable token.

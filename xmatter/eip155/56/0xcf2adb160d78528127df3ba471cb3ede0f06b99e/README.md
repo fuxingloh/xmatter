@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c5657c"
+icons:
+  - icon.png
 ---
 
 We bring you ‘The Boyz Club’ inspired by Matt Furie’s — B Money, Krazy N.D, Ice Land & Young Peezy.

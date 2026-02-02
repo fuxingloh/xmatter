@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ee9c28"
+icons:
+  - icon.png
 ---
 
 Baby Bitcoin is a BEP-20 Token with a focus on charity and meme culture.

@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#9e8b75"
+icons:
+  - icon.png
 ---
 
 $NOHAT is a movement against Hats on Solana. This summer we are going to overtake major hat memes and setup the new meta. NO MORE HATS!

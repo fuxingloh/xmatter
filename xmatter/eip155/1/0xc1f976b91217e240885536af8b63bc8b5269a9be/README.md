@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cc4444"
+icons:
+  - icon.png
 ---
 
 PIN📌is a proof-of-work cryptocurrency designed to index web3 metadata. PIN also exists as a wrapped token on Ethereum, Binance Smart Chain, and Polygon.

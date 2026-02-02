@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d3ac62"
+icons:
+  - icon.png
 ---
 
 THOREUM v4 is upgraded from Thoreum V3 with even more deflationary and value building features: AI Powered Collective Burning, Deepening liquidity and Liquidity Arbitrage Mechanism

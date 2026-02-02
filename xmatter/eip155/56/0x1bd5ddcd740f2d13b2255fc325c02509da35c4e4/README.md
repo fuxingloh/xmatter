@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#716e81"
+icons:
+  - icon.png
 ---
 
 Introducing Baby CatCoin, featuring an ever increasing price floor and simple yet effective rewarding system giving ALL holders a massive 3% BUSD rewards. Utility, Nfts, Dapp.

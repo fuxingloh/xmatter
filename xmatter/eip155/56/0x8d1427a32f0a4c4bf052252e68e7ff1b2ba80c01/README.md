@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b17719"
+icons:
+  - icon.png
 ---
 
 Tokenization for Food Chain and Lifestyle as Bridge of Metaworld Ecosystem

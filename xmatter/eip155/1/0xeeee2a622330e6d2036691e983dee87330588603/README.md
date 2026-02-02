@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2bb0e5"
+icons:
+  - icon.png
 ---
 
 A community based project that drives the adoption of crypto which will attract new comers to the industry.

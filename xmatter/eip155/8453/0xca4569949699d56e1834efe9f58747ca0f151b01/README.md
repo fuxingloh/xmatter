@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9d313"
+icons:
+  - icon.png
 ---
 
 Token Metrics AI (TMAI) is a groundbreaking token that empowers the crypto community with unmatched AI tools and insights. Holders gain access to AI-powered trading bots compatible with centralized and decentralized exchanges, automating trading strategies using proprietary signals and analytics.

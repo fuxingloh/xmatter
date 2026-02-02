@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#db5a47"
+icons:
+  - icon.png
 ---
 
 $PATRIOT’s community is casting a 17FT bronze statue for Donald J Trump, commemorating his patriotic service to America.

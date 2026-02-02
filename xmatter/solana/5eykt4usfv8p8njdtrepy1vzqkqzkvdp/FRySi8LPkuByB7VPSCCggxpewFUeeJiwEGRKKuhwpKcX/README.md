@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#11151b"
+icons:
+  - icon.png
 ---
 
 NATIX Network is building an open geospatial Intelligence network using their proprietary AI and Internet of Cameras

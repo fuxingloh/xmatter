@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8d6f60"
+icons:
+  - icon.png
 ---
 
 TRUMP 2024 is meme on base

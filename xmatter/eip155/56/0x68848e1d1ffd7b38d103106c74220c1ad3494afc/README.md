@@ -36,6 +36,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d1bbdc"
+icons:
+  - icon.png
 ---
 
 Rewards Bunny ($RBunny) is a cashback platform where we reward users for their online shopping in Crypto or USD. Start saving now with deals and discounts from top participating brands like AliExpress, Agoda, ASOS, Booking.com, Bose, Klook, Viator, and etc.

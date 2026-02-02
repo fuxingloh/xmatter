@@ -20,6 +20,7 @@ name: Meter Stable mapped by Meter.io
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 eMTR is the ERC-20 equivalent of MTR, the low-volatility coin of the Meter network.

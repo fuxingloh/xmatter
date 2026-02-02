@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#742cfb"
+icons:
+  - icon.png
 ---
 
 SHFL token is the native utility token Shuffle.com, a comprehensive crypto casino platform. Designed to enhance user engagement and platform growth, SHFL serves multiple functions within the Shuffle ecosystem including as a wager asset as well as an airdrop reward.

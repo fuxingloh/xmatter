@@ -23,6 +23,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4bd1b2"
+icons:
+  - icon.png
 ---
 
 USDA is an over-collateralized and decentralized USD stablecoin by the Angle Protocol.

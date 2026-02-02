@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c6c6c7"
+icons:
+  - icon.png
 ---
 
 EOS is a cryptocurrency token and blockchain that operates as a smart contract platform for the deployment of decentralized applications and decentralized autonomous corporations.

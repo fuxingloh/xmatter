@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1e325e"
+icons:
+  - icon.png
 ---
 
 Crypto Unicorns is a new blockchain-based game centered around awesomely unique Unicorn NFTs which players can use in a fun farming simulation and in a variety of exciting battle loops. Rainbow Tokens are the primary value and governance token of the Unicorn multiverse.

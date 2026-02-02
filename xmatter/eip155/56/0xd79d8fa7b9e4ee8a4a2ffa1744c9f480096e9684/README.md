@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040507"
+icons:
+  - icon.png
 ---
 
 ZedDex is a decentralized payments-focused platform powered underneath by the fast and low-cost Zedx blockchain.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4c92f8"
+icons:
+  - icon.png
 ---
 
 FLETA is a blockchain platform that aims to offer infrastructure that can be applied to real-world business models. FLETA has its own core blockchain technologies like Level Tree Validation, Parallel Sharding, Independent multi-chain Structure, Block Redesign, and PoF(Proof-of-Formulation) which is its own consensus algorithm.

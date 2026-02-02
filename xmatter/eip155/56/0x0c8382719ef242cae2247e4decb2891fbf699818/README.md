@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d20c0c"
+icons:
+  - icon.png
 ---
 
 BitDCA allows users to save % of their existing fiat card payments (Mastercard, Visa) directly into BTC, powered by Open Banking APIs and DCA strategy through microtransaction-based investments. Users can automatically set aside a percentage of their everyday purchases into Bitcoin.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e7b014"
+icons:
+  - icon.png
 ---
 
 Ethereum on the Binance Smart Chain wrapped via the JustLiquidity Token Bridge

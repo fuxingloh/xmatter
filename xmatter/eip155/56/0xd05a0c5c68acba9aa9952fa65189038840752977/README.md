@@ -29,6 +29,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c1311"
+icons:
+  - icon.png
 ---
 
 A rebase token, born to be unleashed and destined to reign in the ZillaMatrix.

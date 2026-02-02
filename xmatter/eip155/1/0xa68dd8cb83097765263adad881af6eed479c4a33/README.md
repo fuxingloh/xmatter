@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#34adda"
+icons:
+  - icon.png
 ---
 
 WTF token is fees.wtf's token. It is airdropped to all users who have spent gas in the Ethereum ecosystem.

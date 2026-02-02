@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c99d5"
+icons:
+  - icon.png
 ---
 
 $DOGEBULL is part of DOGECOLA project. Same family, same community, same devs. Hold $DOGEBULL and you'll receive DOGECOLA automatically in your wallet.

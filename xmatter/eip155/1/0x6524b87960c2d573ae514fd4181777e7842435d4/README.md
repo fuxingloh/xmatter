@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5953e5"
+icons:
+  - icon.png
 ---
 
 War Riders is the MMO game of earning cryptocurrency and blowing up cars. Use your vehicles to mine and attack enemies for Benzene.

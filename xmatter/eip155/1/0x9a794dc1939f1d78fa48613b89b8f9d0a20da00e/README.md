@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#133162"
+icons:
+  - icon.png
 ---
 
 A blockchain powered trading platform that integrates crypto assets from multiple exchanges.

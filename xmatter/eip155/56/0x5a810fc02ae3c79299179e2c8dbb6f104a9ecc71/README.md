@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#065ff6"
+icons:
+  - icon.png
 ---
 
 DARK SHIBA INU is Memes Token

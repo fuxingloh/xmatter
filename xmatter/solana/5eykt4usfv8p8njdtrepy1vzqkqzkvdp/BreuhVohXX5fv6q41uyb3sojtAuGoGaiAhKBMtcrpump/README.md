@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#424233"
+icons:
+  - icon.png
 ---
 
 hehe is a community token inspired by famous `hehe cat` meme

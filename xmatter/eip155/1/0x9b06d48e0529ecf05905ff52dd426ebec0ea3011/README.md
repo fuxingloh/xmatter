@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#45fbf3"
+icons:
+  - icon.png
 ---
 
 This is Fair Version, 100% distributed to the community, with No team shares, No Pre-mine.

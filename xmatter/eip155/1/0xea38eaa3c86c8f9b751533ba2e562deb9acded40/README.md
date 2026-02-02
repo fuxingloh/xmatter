@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#348bcb"
+icons:
+  - icon.png
 ---
 
 Etherparty™ is a contract wizard that removes the complexity of creating, managing and executing smart contracts on any compatible blockchain.

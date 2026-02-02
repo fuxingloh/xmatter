@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#30326c"
+icons:
+  - icon.png
 ---
 
 The future of decentralized exchange & farming platform on BSC

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#807e80"
+icons:
+  - icon.png
 ---
 
 https://research.binance.com/en/projects/cocos-bcx

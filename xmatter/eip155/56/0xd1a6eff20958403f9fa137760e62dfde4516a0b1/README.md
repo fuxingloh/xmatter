@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#08c5ac"
+icons:
+  - icon.png
 ---
 
 MetaMatrix is a cryptocurrency built on Binance Smart Chain (BEP20). MetaMatrix is also a community NFT Marketplace connected with an NFT Launchpad platform.

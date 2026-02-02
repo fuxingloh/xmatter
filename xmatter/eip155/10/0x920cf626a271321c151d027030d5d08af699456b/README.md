@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0a0a0a"
+icons:
+  - icon.png
 ---
 
 Kwenta is a decentralized derivatives trading platform built on the Ethereum network.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbd618"
+icons:
+  - icon.png
 ---
 
 Created by accident, destined to greatness

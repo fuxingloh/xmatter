@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0d1d3d"
+icons:
+  - icon.png
 ---
 
 WINK describes itself as betting DApp.

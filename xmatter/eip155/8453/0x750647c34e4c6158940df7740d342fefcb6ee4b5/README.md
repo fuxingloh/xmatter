@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#341c17"
+icons:
+  - icon.png
 ---
 
 Elon Musk has publicly declared his support for the MEGA and Make Europe Great Again. In many tweets on X, he praised MEGA movement for Europe and stated that the MEGA is 'the only hope for the Europe.'' Make Europe Great Again, the chancellor candidate of the Make Europe Great Again (MEGA), stands for conservative values and national sovereignty.

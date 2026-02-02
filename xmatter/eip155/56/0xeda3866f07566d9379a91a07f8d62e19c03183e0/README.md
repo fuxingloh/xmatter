@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2b1f17"
+icons:
+  - icon.png
 ---
 
 HashBit (HBIT) is a highly scalable peer-to-peer digital currency that enables industry-leading transaction speeds with negligible fees. HashBit-Peg HBIT Token main goal is to make it possible to send and receive payments through the most popular messaging apps.

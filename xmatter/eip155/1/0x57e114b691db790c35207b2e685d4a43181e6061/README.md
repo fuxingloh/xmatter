@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c1c1c"
+icons:
+  - icon.png
 ---
 
 Ethena is a synthetic dollar protocol built on Ethereum that will provide a crypto-native solution for money not reliant on traditional banking system infrastructure, alongside a globally accessible dollar-denominated savings instrument - the 'Internet Bond'.

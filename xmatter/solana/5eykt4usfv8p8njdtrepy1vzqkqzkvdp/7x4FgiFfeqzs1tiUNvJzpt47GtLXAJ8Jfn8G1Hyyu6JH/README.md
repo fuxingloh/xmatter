@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#fbbf0d"
+icons:
+  - icon.png
 ---
 
 SMILEK is revolutionizing the crypto space, challenging traditional finance with a grin! Born to defy the norms, SMILEK is not just a token, but a movement.

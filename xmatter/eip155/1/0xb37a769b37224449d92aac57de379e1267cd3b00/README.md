@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#54bda2"
+icons:
+  - icon.png
 ---
 
 COVA Unity is a blockchain protocol that allows the monetization of enterprise data without compromising user data privacy.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d4465d"
+icons:
+  - icon.png
 ---
 
 SHIBA SUPER is SHIBA Memes Token

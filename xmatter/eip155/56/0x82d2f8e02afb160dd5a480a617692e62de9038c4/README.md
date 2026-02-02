@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0453fc"
+icons:
+  - icon.png
 ---
 
 Aleph.im is a cross-blockchain layer-2 networkspecifically focused on decentralized applications and their related infrastructure (storage, computing servers, security).

@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4cc50b"
+icons:
+  - icon.png
 ---
 
 IMPT connects users with hundreds of impactful environmental projects around the world with the purpose to reduce carbon emissions and help our planet. IMPT also engages thousands of the largest retail brands that allocate a specific percentage of sale margin for environmental projects. It is accumulated in users’ accounts in the form of IMPT tokens. The users accumulate these tokens till they reach the necessary amount of the carbon credit of their choice. As a result, users can continue with their normal shopping while helping the planet.

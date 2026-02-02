@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bc1b23"
+icons:
+  - icon.png
 ---
 
 RAPIDZ - reimagines the digital finance & payment experience and propels the crypto ecosystem to a broader audience.

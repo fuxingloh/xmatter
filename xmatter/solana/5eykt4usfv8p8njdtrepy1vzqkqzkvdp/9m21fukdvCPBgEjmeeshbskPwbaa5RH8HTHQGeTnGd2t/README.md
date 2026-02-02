@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#b392d6"
+icons:
+  - icon.png
 ---
 
 $PANDA - More Than Just a Token, a Transformative Force in Solana's Trading Landscape!

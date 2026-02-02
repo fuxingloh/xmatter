@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#287f9c"
+icons:
+  - icon.png
 ---
 
 LIBERA FINANCIAL is a Triple passive income & Hyper Deflationary token that is listed on CEXes.

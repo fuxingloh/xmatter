@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0d0d0c"
+icons:
+  - icon.png
 ---
 
 SOCIAL P2P CRYPTO EXCHANGE AND HEDGE TRADING PLATFORM. BQT Hedge Trade is a flexible method for Traders to acquire Crypto Assets for a short-term period leveraging their existing Crypto holdings.

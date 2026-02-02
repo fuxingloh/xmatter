@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eb9610"
+icons:
+  - icon.png
 ---
 
 Learning from past other tokens mistakes, Pepe2.0 wants to make things right and redo his billion-dollar run.

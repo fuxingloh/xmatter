@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#050505"
+icons:
+  - icon.png
 ---
 
 The fastest way to post clips from a video chat

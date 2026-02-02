@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5d300e"
+icons:
+  - icon.png
 ---
 
 PancakePoll is a voting platform that utilizes the security and immutability of the Binance Smart Chain.

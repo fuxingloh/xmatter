@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1f273d"
+icons:
+  - icon.png
 ---
 
 GoCerberus is automatic liquidity acquisition yield farm running on Binance Smart Chain. GoCerberus tokenomics is a hybrid between yield farming and Safemoon.

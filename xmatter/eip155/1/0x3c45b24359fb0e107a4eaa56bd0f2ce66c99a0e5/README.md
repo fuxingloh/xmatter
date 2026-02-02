@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e1be77"
+icons:
+  - icon.png
 ---
 
 Apple Network is an investment / asset management platform where central authority is removed and more people can enjoy the investment or manage their assets equally.

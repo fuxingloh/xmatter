@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#342408"
+icons:
+  - icon.png
 ---
 
 Canada's first Centralized and Decentralied Exchange

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#70dac2"
+icons:
+  - icon.png
 ---
 
 This is a meme coin project where an AI model, trained to be a wild and risk-taking crypto trader, powers a set of four AI agents

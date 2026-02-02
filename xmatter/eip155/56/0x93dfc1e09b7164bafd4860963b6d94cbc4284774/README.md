@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ec9290"
+icons:
+  - icon.png
 ---
 
 A deflationary, community-oriented coin that provides rewards for holders through redistribution of coins

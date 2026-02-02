@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1bfb4b"
+icons:
+  - icon.png
 ---
 
 Cap is a protocol to trade the markets with stablecoins.

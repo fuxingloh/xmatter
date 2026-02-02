@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#81827c"
+icons:
+  - icon.png
 ---
 
 Memecoin on the Cronos chain launched by the Cro Crow community.

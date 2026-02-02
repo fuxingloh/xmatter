@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#451834"
+icons:
+  - icon.png
 ---
 
 Memecoin (MEME) is the native ecosystem token of Memeland. Memeland is the web3 venture studio by 9GAG, the globally popular meme platform.

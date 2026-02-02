@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2d1a05"
+icons:
+  - icon.png
 ---
 
 GOLD FINCH CRYPTO CURRENCY (GFCC) is a cutting edge block chain Project, with the aim to develop a revolutionary decentralized platform for trading gold and other precious metals and for receiving gold and precious metals markets information.

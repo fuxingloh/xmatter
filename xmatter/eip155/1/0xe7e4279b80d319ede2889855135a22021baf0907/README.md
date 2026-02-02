@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7304bc"
+icons:
+  - icon.png
 ---
 
 Cryptocurrency that allows people to raise crypto for events to challenging circumstances like accidents and illnesses or real world emergencies. 'The GoFundMe of Crypto'

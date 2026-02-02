@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#10090a"
+icons:
+  - icon.png
 ---
 
 DYNMT is a community-based experimental project, which was prepared for the purpose of deflation and was produced on the Ethereum network. The DYNAMITE token smart contract is designed to burn 2% per transfer.

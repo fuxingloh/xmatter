@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#261f31"
+icons:
+  - icon.png
 ---
 
 Powering the Next Generation of Onchain AI Revolution With: C.A.I (Convergent Artificial Intelligence) - A Proprietary Technology of AI21X

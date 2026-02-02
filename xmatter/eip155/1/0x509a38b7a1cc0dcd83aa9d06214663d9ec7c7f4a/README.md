@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3f3fb"
+icons:
+  - icon.png
 ---
 
 Increase value and liquidity of real estate properties in your portfolio.

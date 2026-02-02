@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a61b9d"
+icons:
+  - icon.png
 ---
 
 OctaSpace is a distributed computing project, offering a cutting-edge platform with a range of services, as well as ready-to-launch bespoke solutions such as lightning-fast rendering, decentralized VPN, AI training tools, and decentralized computing services.

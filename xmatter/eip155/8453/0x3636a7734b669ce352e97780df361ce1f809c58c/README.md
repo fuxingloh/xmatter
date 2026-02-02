@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f4b057"
+icons:
+  - icon.png
 ---
 
 $ROCKY - The fluffy son of MetaWin founder Skel.eth.

@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#8837c6"
+icons:
+  - icon.png
 ---
 
 Only1 is the first NFT-powered social media built on Solana - the most scalable blockchain to date.

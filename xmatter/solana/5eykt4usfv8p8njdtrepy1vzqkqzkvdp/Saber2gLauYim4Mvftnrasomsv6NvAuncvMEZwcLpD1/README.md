@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#6463fa"
+icons:
+  - icon.png
 ---
 
 Saber is an automated market maker and liquidity pool on Solana designed for extremely efficient trading between similarly priced (pegged) assets, without an opportunity cost.

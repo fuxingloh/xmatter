@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#049cdc"
+icons:
+  - icon.png
 ---
 
 Salesforce xStock (CRMx) is a tracker certificate issued as Solana SPL and ERC-20 tokens. CRMx tracks the price of Salesforce, Inc. (the underlying). CRMx is designed to give eligible cryptocurrency market participants regulatory-compliant access to the stock price of Salesforce, Inc., whilst maintaining the benefits of blockchain technology. Key Benefits Salesforce is a technology company that pioneered cloud-based customer relationship management (CRM) and now offers a broad suite of AI-powered platforms for various business functions, including sales, service, marketing, and commerce.

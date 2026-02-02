@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f4fbfb"
+icons:
+  - icon.png
 ---
 
 The first Music NFT Marketplace

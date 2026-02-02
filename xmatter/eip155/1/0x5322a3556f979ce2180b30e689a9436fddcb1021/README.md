@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e31c3c"
+icons:
+  - icon.png
 ---
 
 $yTSLA is an experimental parody token. This project is not affiliated with Tesla Inc, Elon Musk or $MEME. yTSLA is a novelty and was given away through a free airdrop and farm yield. The distribution of yTSLA was conducted in a decentralized manner. yTSLA’s inherit value is $0.00. If the value is higher than $0.00 on the open market then please note that the price can quickly go back down to $0.00.

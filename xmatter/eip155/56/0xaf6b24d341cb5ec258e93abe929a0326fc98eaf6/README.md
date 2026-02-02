@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fccc04"
+icons:
+  - icon.png
 ---
 
 The profit (dividends) are accrued to your account on a daily basis and in real-time. You can withdraw the dividends at any time.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eedcea"
+icons:
+  - icon.png
 ---
 
 The Ludos Protocol is a decentralized solution game ecosystem. The protocol is mainly composed of three parts:Main chain + multi-sidechain infrastructure, Toolbox for game developers, DApps, and incentivized game ecosystem.

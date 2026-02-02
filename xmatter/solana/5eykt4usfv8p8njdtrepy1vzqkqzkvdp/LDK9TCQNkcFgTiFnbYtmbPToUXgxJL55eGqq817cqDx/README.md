@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#b24324"
+icons:
+  - icon.png
 ---
 
 If you haven't heard about Arnold yet, where have you been hiding? Arnold isn't just a public figure, he's a vibrant force of sweetness and fun, now making waves as a meme coin on the Solana blockchain!

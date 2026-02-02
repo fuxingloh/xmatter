@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#043c84"
+icons:
+  - icon.png
 ---
 
 Decentralized Oracle Solutions. Building the foundation for real world adoption of Oracles and DeFi

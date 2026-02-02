@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#35296d"
+icons:
+  - icon.png
 ---
 
 Dawn is an open-source protocol for gaming and competitions.

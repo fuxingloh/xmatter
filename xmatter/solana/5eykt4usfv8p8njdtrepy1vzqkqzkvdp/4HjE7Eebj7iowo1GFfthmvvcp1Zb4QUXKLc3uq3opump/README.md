@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#2a7196"
+icons:
+  - icon.png
 ---
 
 Chillax ($CHILLAX) is a meme-based cryptocurrency designed to combine fun community vibes with practical crypto utility. Launched in [insert launch date], it operates on the [insert blockchain] and focuses on secure transactions, community empowerment, and positive engagement.

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e65168"
+icons:
+  - icon.png
 ---
 
 SIXP is a Bitcoin-style token designed to power the fitness economy within the Sixpack Miner ecosystem, where your burned calories fuel its creation.

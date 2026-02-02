@@ -23,6 +23,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f0b828"
+icons:
+  - icon.png
 ---
 
 iBNB is the first Dynamic DeFi token that adjusts it’s tax rates to sustain and rejuvenate supply pools, building upon existing transaction tax systems used by a large number of existing DeFi tokens by introducing a revolutionary new mechanic: Dynamic Tax Protocol.

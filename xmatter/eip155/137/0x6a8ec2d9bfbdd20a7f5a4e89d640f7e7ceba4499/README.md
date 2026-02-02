@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#384098"
+icons:
+  - icon.png
 ---
 
 MSQUARE develops and operates a real economy platform directly, lowering global entry barriers with a blockchain payment system, and strives to increase the value of MSQUARE.

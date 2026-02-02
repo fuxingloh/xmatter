@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2d0c09"
+icons:
+  - icon.png
 ---
 
 PEIPEI Token combines the iconic Pepe meme with the enchanting essence of Asian culture, offering a refreshing and captivating digital experience.

@@ -10,6 +10,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#233f21"
+icons:
+  - icon.png
 ---
 
 DICE is the first Dapp game certificate of the WINk platform.

@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#545e94"
+icons:
+  - icon.png
 ---
 
 Orbs is a public blockchain built for the needs of apps with millions of users, from SLAs to adjustable fee models to on-demand capacity.

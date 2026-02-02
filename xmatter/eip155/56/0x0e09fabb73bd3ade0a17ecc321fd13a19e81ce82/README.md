@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#37d3df"
+icons:
+  - icon.png
 ---
 
 PancakeSwap is a yield farming project whereby users can get FLIP (LP token) for staking and get CAKE token as reward.

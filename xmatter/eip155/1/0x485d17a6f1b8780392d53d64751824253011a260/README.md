@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6784ff"
+icons:
+  - icon.png
 ---
 
 TIME is an utility and governance token of ChronoTech ecosystem

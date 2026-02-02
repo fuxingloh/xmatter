@@ -8,6 +8,7 @@ name: HONEYPOT HOPR
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
+icons: []
 ---
 
 HONEYPOT HOPR

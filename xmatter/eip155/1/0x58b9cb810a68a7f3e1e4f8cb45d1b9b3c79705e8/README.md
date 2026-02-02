@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ebebf3"
+icons:
+  - icon.png
 ---
 
 Everclear coordinates the global settlement of liquidity between chains, solving fragmentation for modular blockchains.

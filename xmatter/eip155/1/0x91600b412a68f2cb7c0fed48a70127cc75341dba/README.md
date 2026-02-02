@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c3c84"
+icons:
+  - icon.png
 ---
 
 Wrapped version of Ormeus Cash (OMC)

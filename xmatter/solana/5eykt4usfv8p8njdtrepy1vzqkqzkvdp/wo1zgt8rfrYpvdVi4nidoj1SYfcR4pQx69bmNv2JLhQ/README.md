@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f0a563"
+icons:
+  - icon.png
 ---
 
 Welcome to JustAnEgg, the only cryptocurrency project that’s egg-ceptionally good!

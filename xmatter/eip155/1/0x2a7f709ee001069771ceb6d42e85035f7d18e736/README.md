@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2d2d2d"
+icons:
+  - icon.png
 ---
 
 StealthSwap is a protocol that implements shielded payments on Ethereum.

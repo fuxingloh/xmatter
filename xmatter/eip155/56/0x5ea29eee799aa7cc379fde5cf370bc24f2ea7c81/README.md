@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ecb40b"
+icons:
+  - icon.png
 ---
 
 Keep3r BSC Network is First Decentralized Keeper Network Project on Binance Smart Chain. KP3RB token is fully democratic governance dapp.

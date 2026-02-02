@@ -8,6 +8,7 @@ name: Burn1
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 Reflectionary Social Justice Token

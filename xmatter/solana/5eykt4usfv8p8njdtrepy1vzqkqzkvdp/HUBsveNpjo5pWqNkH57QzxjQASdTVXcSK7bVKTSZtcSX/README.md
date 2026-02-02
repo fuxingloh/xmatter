@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#9616ef"
+icons:
+  - icon.png
 ---
 
 At SolanaHub you can effortlessly view and manage all your assets, take part in staking, explore Open DeFi Positions, handle your NFTs, oversee your DAOs, enjoy an enhanced environment, and stay updated with Solana's latest and greatest opportunities.

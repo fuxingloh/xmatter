@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#dbdbdb"
+icons:
+  - icon.png
 ---
 
 The emergence of Comedian as a cryptocurrency taps into a unique blend of irony and commentary.

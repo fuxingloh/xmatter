@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d1d1d1"
+icons:
+  - icon.png
 ---
 
 Parabolic Token has been carefully designed to achieve a single purpose – GOING PARABOLIC! Our super addictive game and tokenomics will benefit the coin and consistently take it to new heights. Our game will be released in November!

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c1c4c"
+icons:
+  - icon.png
 ---
 
 Quadrant Protocol is the engine that powers Quadrant's data mapping capabilities.

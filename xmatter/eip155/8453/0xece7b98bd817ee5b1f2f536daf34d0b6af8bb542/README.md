@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eaeaea"
+icons:
+  - icon.png
 ---
 
 Just a Black Rock on Base.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0a0909"
+icons:
+  - icon.png
 ---
 
 Ethverse is an open, interactive, and decentralized virtual universe built using the Minecraft gaming engine and Ethereum blockchain.

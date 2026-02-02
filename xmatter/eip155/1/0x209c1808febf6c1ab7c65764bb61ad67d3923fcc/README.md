@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#68764d"
+icons:
+  - icon.png
 ---
 
 APEcoin is a new token that is known as a Meme Coin. APEcoin is meant to be fun and not taken seriously while navigating the possibilities of blockchain technology.

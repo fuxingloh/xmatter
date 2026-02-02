@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e8b755"
+icons:
+  - icon.png
 ---
 
 Mech Master is a first-ever 3D Mecha NFT game, with strategic RPG elements, where you can earn tokens through skillful gameplay and smart trading on the Marketplace. Players can assemble a lineup full of giant Mechas with gorgeous 3D models to battle against others, recruit pilots, collect weapons, buy land and build your own top-secret base on the Moon!

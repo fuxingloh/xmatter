@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3e4151"
+icons:
+  - icon.png
 ---
 
 HI is the membership token of exchange and mobile banking platform hi. Stakeholders of HI are the key stakeholders of the hi ecosystem, allowing for true community governance of one of the largest blockchain ecosystems in the world.

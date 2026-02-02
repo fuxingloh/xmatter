@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#35393b"
+icons:
+  - icon.png
 ---
 
 Cetacean Pool (CTC) will continue to be used to increase liquidity and borrow needs for BMJ-DAO as the First Distributed Storage Project BMJ's DeFi Governance Certificate. Participate in the ecological management of BMJ by pledgeing the proceeds of the DeFi project under the Cetacean Pool agreement.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a51ca8"
+icons:
+  - icon.png
 ---
 
 EYFI, Eyfi finance, eyfi yield farming, eyfi amm dex, dex platform, eyfi staking, yield farming.

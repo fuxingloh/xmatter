@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3840b"
+icons:
+  - icon.png
 ---
 
 A full featured, decentralized futures exchange without compromise.

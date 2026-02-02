@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#645094"
+icons:
+  - icon.png
 ---
 
 Our EUR36 tokens are used to connect banking network with ethereum,to send (and receive) EUR and CHF directly with your Smart Contracts. End-users do not need a wallet, because wire-transfers trigger mint/burn at the moment the transfer happens.

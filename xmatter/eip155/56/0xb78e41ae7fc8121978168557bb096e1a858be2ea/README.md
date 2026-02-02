@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3b3d59"
+icons:
+  - icon.png
 ---
 
 MicroSHIBA is a brand new token from a very experienced team that has implemented a manual buy back system to help protect investors maintain a steady market price in the event of a whale dump or continuous market sells.

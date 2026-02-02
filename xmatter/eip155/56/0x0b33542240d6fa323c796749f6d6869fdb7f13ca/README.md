@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 If Ethereum is like http then Ethereum Meta is https — a secure transport layer

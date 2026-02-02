@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6633ff"
+icons:
+  - icon.png
 ---
 
 Wearable technologies are rapidly taking their place in our lives all over the world. Xtremcoin brings you a brand new technology in the world of crypto money.

@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 The largest web3 entertainment platform in the world. Backed by Binance Labs and VISA Accelerator 2023

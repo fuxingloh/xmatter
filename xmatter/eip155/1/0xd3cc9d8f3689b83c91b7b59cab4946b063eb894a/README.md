@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#369af0"
+icons:
+  - icon.png
 ---
 
 Venus is a community-driven multichain decentralized protocol delivering best-in-class functionality for crypto money markets.

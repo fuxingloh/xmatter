@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#615e59"
+icons:
+  - icon.png
 ---
 
 DOS Network Token (DOS) is a cryptocurrency and operates on the Ethereum platform.

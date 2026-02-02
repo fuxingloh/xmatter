@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#23af91"
+icons:
+  - icon.png
 ---
 
 KCS performs as the key to the entire KuCoin ecosystem, and it will also be the native asset on KuCoin’s decentralized financial services as well as the governance token of KuCoin Community.

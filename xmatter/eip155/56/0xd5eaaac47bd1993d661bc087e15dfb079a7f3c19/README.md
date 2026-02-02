@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bf2e25"
+icons:
+  - icon.png
 ---
 
 Koma, son of Shib and protector of BNB, is a dog themed token built around community driven decentralization and charity.

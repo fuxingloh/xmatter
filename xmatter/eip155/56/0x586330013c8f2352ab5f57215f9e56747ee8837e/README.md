@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3ab33"
+icons:
+  - icon.png
 ---
 
 Somax autonomous yield and liquidity generation protocol on BSC

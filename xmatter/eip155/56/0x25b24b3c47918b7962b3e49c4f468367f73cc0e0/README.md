@@ -29,6 +29,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#242424"
+icons:
+  - icon.png
 ---
 
 AXL INU is being developed as Decentralized Eco-System with a LaunchPad, Farming, Staking, NFT MarketPlace and a Metaverse.

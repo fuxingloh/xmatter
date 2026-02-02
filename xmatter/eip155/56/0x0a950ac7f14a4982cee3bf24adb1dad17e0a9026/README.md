@@ -8,6 +8,7 @@ name: DRIVENX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 Disrupting the B2B industry by creating smart solutions for entrepreneurs around the world.

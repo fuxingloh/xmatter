@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#141414"
+icons:
+  - icon.png
 ---
 
 TFS is an ERC-20/BEP-20 internal token of the Fairspin platform. It is a full-fledged tool that will suit both players and crypto investors willing to increase their profits.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cf936e"
+icons:
+  - icon.png
 ---
 
 ELON MARS is Community Meme Token

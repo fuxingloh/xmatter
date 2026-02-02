@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e7e6e8"
+icons:
+  - icon.png
 ---
 
 A community owned protocol that rewards holders.

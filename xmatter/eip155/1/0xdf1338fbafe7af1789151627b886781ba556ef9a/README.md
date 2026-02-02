@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ed4145"
+icons:
+  - icon.png
 ---
 
 Kuende describes itself as a blockchain-fueled social media platform that encourages its users to engage in real-life interactions through Gamified Challenges. Kuende's Gamified Challenges actively encourage people to engage in activities that lead to real-life interactions.

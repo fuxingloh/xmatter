@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4a0d35"
+icons:
+  - icon.png
 ---
 
 Space Cowboy aims to be the NFT platform for digital art and assets related to the theme of Sci-Fi, Bulls and Space Meme

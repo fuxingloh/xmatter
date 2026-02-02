@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fb7d6b"
+icons:
+  - icon.png
 ---
 
 BRD bills itself as 'the simple and secure onramp to bitcoin, ethereum, and other digital currencies'.

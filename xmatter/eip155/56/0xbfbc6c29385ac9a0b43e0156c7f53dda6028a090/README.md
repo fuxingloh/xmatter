@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#877344"
+icons:
+  - icon.png
 ---
 
 Doge-1 Rocket is a community-driven cryptocurrency protocol to provide giveaways and rewards to long-term holders.

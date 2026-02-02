@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d8649a"
+icons:
+  - icon.png
 ---
 
 Donut is an ERC-20 token that represents the community points of /r/ethtrader subreddit.

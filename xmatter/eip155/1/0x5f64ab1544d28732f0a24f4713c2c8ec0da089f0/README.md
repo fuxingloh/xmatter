@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3a8724"
+icons:
+  - icon.png
 ---
 
 The DEXTF token is an ERC20 token built on the Ethereum blockchain designed to be used as a governance and incentive mechanism for usage, upgrades and potential changes to the protocol.

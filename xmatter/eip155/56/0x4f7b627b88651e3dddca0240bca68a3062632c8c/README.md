@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Black Eye Galaxy is a cross-chain space NFT metaverse with a unique economy. Buy planets and solar systems, explore the galaxy, mine resources, start your civilization!

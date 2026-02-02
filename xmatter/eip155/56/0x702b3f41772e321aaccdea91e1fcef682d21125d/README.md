@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fcecf3"
+icons:
+  - icon.png
 ---
 
 Sale, swap, earn, lock all on one decentralized, community driven platform. Earn PinkS by staking LP & tokens. Welcome to PinkArmy Family!

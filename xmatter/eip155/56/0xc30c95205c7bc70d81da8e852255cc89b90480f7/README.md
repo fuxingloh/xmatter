@@ -19,6 +19,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#344675"
+icons:
+  - icon.png
 ---
 
 Add finance is emerging tech platform which scale the defi with AI (Artificial Intelligence ) to make more scalable and reliable trading bots and DApps.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e3bb6b"
+icons:
+  - icon.png
 ---
 
 Where the coolest llamas go yield farming, on Binance Smart Chain

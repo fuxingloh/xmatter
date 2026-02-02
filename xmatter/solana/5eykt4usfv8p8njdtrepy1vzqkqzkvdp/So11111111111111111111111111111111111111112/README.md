@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#57aec3"
+icons:
+  - icon.png
 ---
 
 Solana is a decentralized blockchain built to enable scalable, user-friendly apps for the world.

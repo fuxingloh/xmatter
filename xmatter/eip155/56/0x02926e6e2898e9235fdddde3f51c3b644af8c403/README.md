@@ -32,6 +32,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8cccfc"
+icons:
+  - icon.png
 ---
 
 nB2U Coin is the oficial token of Bitcointoyou company, the largest cryptocurrency exchange in Brazil with 400 thousand customers. B2U Coin was launched in 2020 on ETH network and 2021 in BSC. You can use B2U Coin to pay fees on Bitcointoyou exchange, to buy products on stores using B2U Pay (https://b2upay.com) and recharge your credit card using B2U Bank (https://b2ubank.com).

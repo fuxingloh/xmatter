@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0f0e33"
+icons:
+  - icon.png
 ---
 
 Aave SUSD is an interest bearing token pegged 1:1 to the underlying SUSD deposited in Aave. aSUSD accrue interest in real time in your wallet.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#241d1c"
+icons:
+  - icon.png
 ---
 
 Davinci Coin (DAC) is a cryptocurrency and operates on the Ethereum platform.

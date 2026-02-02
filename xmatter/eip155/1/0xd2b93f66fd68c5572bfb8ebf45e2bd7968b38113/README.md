@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ccf0f6"
+icons:
+  - icon.png
 ---
 
 Catnip($NIP) is a reward token for staking $NYAN and the main source of investment funds.

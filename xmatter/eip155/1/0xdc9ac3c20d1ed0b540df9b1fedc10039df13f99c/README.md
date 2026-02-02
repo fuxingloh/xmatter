@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7c4cfc"
+icons:
+  - icon.png
 ---
 
 The Utrust platform allows merchants to accept digital currencies as a means of payment.

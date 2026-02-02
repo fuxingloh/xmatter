@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c7c7c7"
+icons:
+  - icon.png
 ---
 
 Jewelry Token introduces a game marketplace ,allowing users to buy, sell, and trade jewelry just like in a real market—but with the thrill of a game!

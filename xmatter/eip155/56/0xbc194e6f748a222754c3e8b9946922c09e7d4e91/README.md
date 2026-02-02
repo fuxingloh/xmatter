@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b363c4"
+icons:
+  - icon.png
 ---
 
 Lever is the world's first AMM-based decentralized margin trading protocol. Lever allows users to lend, borrow and carry out leveraged trading without needing to transfer assets to other third-party platforms. Lever aims to significantly increase capital efficiency in DeFi.

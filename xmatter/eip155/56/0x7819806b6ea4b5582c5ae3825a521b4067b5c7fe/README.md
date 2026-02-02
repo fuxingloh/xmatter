@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bb3053"
+icons:
+  - icon.png
 ---
 
 MAMADOGE is the creator and birth mother of the #1 meme coin out there: DOGE Coin.

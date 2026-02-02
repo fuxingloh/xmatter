@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#bfb5b7"
+icons:
+  - icon.png
 ---
 
 $SBOY Is a community driven token that’s focused on highlighting the infamous Soulja Boy.

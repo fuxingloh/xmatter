@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc9332"
+icons:
+  - icon.png
 ---
 
 Powering real economy in the gaming world. Purchase virtual items and pool prize competition with cryptocurrencies.

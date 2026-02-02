@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#14222d"
+icons:
+  - icon.png
 ---
 
 Charizard, one of the most iconic and beloved Pokemon, is known for its devastating firepower and imposing appearance.

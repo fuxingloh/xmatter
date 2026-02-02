@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#156fd4"
+icons:
+  - icon.png
 ---
 
 DOGE + BASE = BOGE. THE NARRATIVE IS BOGE . IT'S SIMPLE

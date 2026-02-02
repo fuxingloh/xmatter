@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#edeeee"
+icons:
+  - icon.png
 ---
 
 Decentralized Fog Computing Platform.

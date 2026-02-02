@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9d3d1"
+icons:
+  - icon.png
 ---
 
 Hukku Protects your house and wallet. Unruggable. Hukku is so Cute.

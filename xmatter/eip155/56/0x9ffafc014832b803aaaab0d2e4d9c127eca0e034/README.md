@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#009898"
+icons:
+  - icon.png
 ---
 
 COCO is a deflationary crypto currency with doxxed devs.

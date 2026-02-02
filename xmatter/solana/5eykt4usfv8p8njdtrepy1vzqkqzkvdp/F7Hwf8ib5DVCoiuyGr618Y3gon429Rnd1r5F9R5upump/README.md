@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#8353fb"
+icons:
+  - icon.png
 ---
 
 https://gib.work is a Web3 platform connecting businesses with freelance talent.

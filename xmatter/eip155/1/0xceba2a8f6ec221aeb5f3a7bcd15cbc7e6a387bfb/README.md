@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d5b89d"
+icons:
+  - icon.png
 ---
 
 Look no further than Peter Pan, the crypto meme coin that's taking the world by storm!

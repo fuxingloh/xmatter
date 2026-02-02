@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 What is Powerloom (POWER)? Powerloom is a composable data network that does all the heavy lifting — from extraction and composition to validation and decentralized storage — to make onchain data access hassle-free, affordable, and fully verifiable. POWER token fuels this distributed data economy, incentivizing stakeholders, rewarding contributors, and supporting protocols built on Powerloom’s infra.

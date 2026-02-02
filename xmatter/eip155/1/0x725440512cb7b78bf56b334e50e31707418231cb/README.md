@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 A Social Messenger Platform that allows users to send Money & Cryptocurrency to each other.

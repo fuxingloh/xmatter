@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f7c747"
+icons:
+  - icon.png
 ---
 
 A meme with a dream, Hege is a Hedgehog on a mission to win Hegena's heart

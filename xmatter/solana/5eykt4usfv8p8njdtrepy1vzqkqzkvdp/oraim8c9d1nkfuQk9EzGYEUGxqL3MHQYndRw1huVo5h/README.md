@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#0b0c14"
+icons:
+  - icon.png
 ---
 
 The First AI Agent Launch Platform

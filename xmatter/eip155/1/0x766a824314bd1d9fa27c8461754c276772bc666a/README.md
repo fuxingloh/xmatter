@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#11181d"
+icons:
+  - icon.png
 ---
 
 SCAM is a revolutionary much needed movement in the blockchain industry. We aim to expose fraudulent behavior and raise awareness of scamming activities.

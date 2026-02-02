@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Void Reserve Currency will provide staking rewards via an inverse funnel system. All transactions to the staking pool are taxed, and dividends paid to existing stakeholders.

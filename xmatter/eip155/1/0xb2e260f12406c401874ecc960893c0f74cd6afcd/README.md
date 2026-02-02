@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#082038"
+icons:
+  - icon.png
 ---
 
 BitUP Ltd, a professional digital asset management and investment platform.

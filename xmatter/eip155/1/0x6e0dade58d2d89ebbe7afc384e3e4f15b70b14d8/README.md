@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 QuiverX is a utility token for the QuiverX crowdfunding platform which is based on blockchain technology, and governed by smart contracts on the Ethereum ecosystem.

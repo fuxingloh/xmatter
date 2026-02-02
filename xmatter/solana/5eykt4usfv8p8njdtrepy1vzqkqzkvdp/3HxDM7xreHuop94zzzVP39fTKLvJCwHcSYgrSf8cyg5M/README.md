@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#2a3232"
+icons:
+  - icon.png
 ---
 
 Kek is a deflationary meme token built on the Solana blockchain, inspired by the ancient Egyptian deity Kek, representing transformation and chaos

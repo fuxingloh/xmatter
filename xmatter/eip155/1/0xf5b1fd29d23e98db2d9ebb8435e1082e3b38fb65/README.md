@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#141110"
+icons:
+  - icon.png
 ---
 
 Kishimoto Inu is the Latest Anime & Inu Based Token released on the ERC20 Network.

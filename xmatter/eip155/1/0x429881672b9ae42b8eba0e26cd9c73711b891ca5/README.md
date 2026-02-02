@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#14a30c"
+icons:
+  - icon.png
 ---
 
 An experiment in bringing stablecoins closer to their pegs using farming incentives, jars, and governance

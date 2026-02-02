@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 As an emerging force in the Web3 space, LF Labs is dedicated to driving innovation and market growth.

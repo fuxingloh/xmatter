@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#212121"
+icons:
+  - icon.png
 ---
 
 GLASS is a fully decentralized frictionless yield producing AI. OurGlass is an auto-staking smart contract designed to pay you yield endlessly on the Binance Smart Chain

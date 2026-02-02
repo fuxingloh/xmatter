@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f2ad79"
+icons:
+  - icon.png
 ---
 
 SHIBSC is a decentralized, community driven, fair launched Meme Token in BSC

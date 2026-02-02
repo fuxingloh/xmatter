@@ -49,6 +49,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7f16d3"
+icons:
+  - icon.png
 ---
 
 Welcome to the DEEPSPACE Metaverse! DEEPSPACE is a Play-to-Earn space multiverse exploration strategy game! Earn passive income from holding $DPS, trading NFTs, and taking risks as you explore DEEPSPACE with your fleet of ships! Prepare to explore, harvest, and fight your way through the DEEPSPACE universe!

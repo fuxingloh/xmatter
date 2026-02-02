@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ebe6ce"
+icons:
+  - icon.png
 ---
 
 Anchor is the world’s first cryptocurrency (stablecoin) pegged to global economic growth.

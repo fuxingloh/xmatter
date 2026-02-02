@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f43405"
+icons:
+  - icon.png
 ---
 
 CryptoZoon is a complete platform of Digital Creatures Universe live on the Binance Smart Chain (BSC).

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#070b0c"
+icons:
+  - icon.png
 ---
 
 Shiryo-Inu is a P2E card game built on the Ethereum network

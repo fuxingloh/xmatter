@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f9e7b9"
+icons:
+  - icon.png
 ---
 
 Gatsby Inu is a community-driven meme token on the Ethereum blockchain. inspired by Elon Musk’s biggest dog, Gatsby is a powerful American Akita Inu leading the Inu pack.

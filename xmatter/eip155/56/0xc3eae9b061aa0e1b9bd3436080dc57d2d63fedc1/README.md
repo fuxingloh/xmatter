@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d4986a"
+icons:
+  - icon.png
 ---
 
 A Native Token of HoneyFarm Finance Layer 2, HoneyBear

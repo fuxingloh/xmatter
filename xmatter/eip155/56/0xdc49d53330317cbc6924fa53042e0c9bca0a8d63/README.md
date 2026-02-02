@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e7bc87"
+icons:
+  - icon.png
 ---
 
 DOGEDI ($DOGEDI or DOGEDI) is a collateralized cryptocurrency that grants investors holding DOGEDI instant BNB rewards on all transactions with AUTOCLAIM

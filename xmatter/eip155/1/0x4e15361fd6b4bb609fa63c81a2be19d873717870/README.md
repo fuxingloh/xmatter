@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c6cfc"
+icons:
+  - icon.png
 ---
 
 Fantom is a high-performance, scalable, customizable, and secure smart-contract platform. It is designed to overcome the limitations of previous generation blockchain platforms. Fantom is permissionless, decentralized, and open-source.

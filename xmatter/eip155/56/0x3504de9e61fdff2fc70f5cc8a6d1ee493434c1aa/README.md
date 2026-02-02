@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c2454"
+icons:
+  - icon.png
 ---
 
 TeslaSafe is a frictionless, high-yield, auto deflationary crypto that rewards holders.

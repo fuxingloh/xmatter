@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#58c623"
+icons:
+  - icon.png
 ---
 
 In a world of sluggish markets and boring memes

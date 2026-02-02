@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#225169"
+icons:
+  - icon.png
 ---
 
 r.Pepe Token is a deflationary cypto-currency with a 2.5% burn implemented for each transaction.

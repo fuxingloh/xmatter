@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#047c72"
+icons:
+  - icon.png
 ---
 
 MELONx - We can beat breast cancer. Together!

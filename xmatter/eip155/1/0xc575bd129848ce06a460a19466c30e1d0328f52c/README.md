@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4cfbbc"
+icons:
+  - icon.png
 ---
 
 Reploy empowers anyone to create, deploy, and scale powerful web3 projects with AI assistance. Build secure smart contracts and scale your blockchain applications across 700+ compatible chains.

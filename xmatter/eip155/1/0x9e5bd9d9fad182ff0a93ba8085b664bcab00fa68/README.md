@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8f583c"
+icons:
+  - icon.png
 ---
 
 Schrodinger token is a community-driven project that hopes to provide the kind of purr-fectly amazing, enthusiastic joy that DOGE, SHIB and others have for crypto investors.

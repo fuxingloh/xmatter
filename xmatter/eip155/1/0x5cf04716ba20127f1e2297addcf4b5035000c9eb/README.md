@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#304384"
+icons:
+  - icon.png
 ---
 
 NKN, or New Kind of Network, is an open-source protocol for public blockchain-based peer-to-peer Networks to share network bandwidth and Internet connectivity.

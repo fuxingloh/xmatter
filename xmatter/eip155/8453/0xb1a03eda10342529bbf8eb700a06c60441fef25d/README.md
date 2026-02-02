@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#29201b"
+icons:
+  - icon.png
 ---
 
 The cat Coinbase mascot.

@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#809286"
+icons:
+  - icon.png
 ---
 
 Ghiblify everyone

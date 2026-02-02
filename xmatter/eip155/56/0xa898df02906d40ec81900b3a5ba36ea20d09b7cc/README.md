@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d52c5a"
+icons:
+  - icon.png
 ---
 
 TurboTrix Finance is a decentralised dual blockchain utility defi project securely running on Binance Smart Chain and empowering the Twin TurboTrx ecosystem on Tron with faster transactions and low gas fees. Hodl, signup and earn more token both in Tron and TurboTrix. - Nobody Gets Left Behind.

@@ -10,6 +10,8 @@ standards:
   - trc10
 icon: icon.png
 color: "#a8a9ac"
+icons:
+  - icon.png
 ---
 
 Dark Matter is the token utilized by Moon Marketing to spread block-chain technology across the broad gaming community.

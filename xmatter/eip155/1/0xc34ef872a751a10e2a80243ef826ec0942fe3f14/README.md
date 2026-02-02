@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc047b"
+icons:
+  - icon.png
 ---
 
 Bitcoin Uniswap is based on the design of Bitcoin. It comes with a rarer amount, faster transfer speed, and lower fees.

@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ffbc00"
+icons:
+  - icon.png
 ---
 
 BSR is is a BinStarter Launchpad Token

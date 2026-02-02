@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8267e5"
+icons:
+  - icon.png
 ---
 
 Wrapped Zynecoin is a Wrapped version of Zynecoin its purpose is to provide interoperability between the Wethio blockchain and Ethereum blockchain.

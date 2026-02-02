@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d4d0e6"
+icons:
+  - icon.png
 ---
 
 Travel Care is the protocol that unites the world of traveling and cryptocurrencies

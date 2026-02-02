@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Taraxa is supercharging DeFi & Social AI with the world's only EVM-compatible blockDAG Layer-1

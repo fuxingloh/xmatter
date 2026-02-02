@@ -12,6 +12,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#b21414"
+icons:
+  - icon.png
 ---
 
 JUST aims to build a fair, decentralized financial system that provides stablecoin lending and governance mechanisms for users around the world.

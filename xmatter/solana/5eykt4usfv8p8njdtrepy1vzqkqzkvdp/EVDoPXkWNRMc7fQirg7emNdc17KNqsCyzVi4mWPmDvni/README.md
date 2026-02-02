@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#8c8169"
+icons:
+  - icon.png
 ---
 
 In the heart of a sprawling desert, where the golden sands whisper secrets of the ancients to those who dare listen, a tale of resilience, discovery, and kingdom-building unfurls.

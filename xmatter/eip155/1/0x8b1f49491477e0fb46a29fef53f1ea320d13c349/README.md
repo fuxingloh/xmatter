@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fb6b05"
+icons:
+  - icon.png
 ---
 
 Micromoney is an Open Source Credit & Big Data Bureau.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1580bf"
+icons:
+  - icon.png
 ---
 
 Bitdepositary, BDT Token presents the first ICO crowdfunding platform to provide secure and light-weight digital wallet to the platform users allowing them to trade cryptocurrencies or exchange for Fiat currencies.

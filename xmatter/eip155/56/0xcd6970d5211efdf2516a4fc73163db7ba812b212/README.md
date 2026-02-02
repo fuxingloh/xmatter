@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#09b705"
+icons:
+  - icon.png
 ---
 
 The DEO Governing Stable Currency preserves the value of INRx and guarantees that it will be circulated in the future.

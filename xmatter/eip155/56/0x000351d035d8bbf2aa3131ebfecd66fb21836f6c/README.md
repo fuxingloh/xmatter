@@ -36,6 +36,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e0a382"
+icons:
+  - icon.png
 ---
 
 Scotty Beam is the world's first cross-chain NFT platform – here to help cryptonians move NFTs across blockchain galaxies; exchange tokens and NFTs via P2P deals; participate in cool INOs; connecting Metaverses, games and marketplaces; maximize value and fun throughout the voyage.

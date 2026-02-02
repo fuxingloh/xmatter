@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#1a2e60"
+icons:
+  - icon.png
 ---
 
 $FU embodies these principles by transferring full control and governance to its community.

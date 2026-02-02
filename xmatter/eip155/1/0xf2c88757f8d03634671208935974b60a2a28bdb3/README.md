@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e6cff9"
+icons:
+  - icon.png
 ---
 
 MyShell is an AI consumer layer for everyone to build, share, and own AI agents. The team bridges AI and Blockchain through Agentic Frameworks, open-source models, and AI creator community. MyShell also provides users with AI-powered entertainment and utility while offering them shared ownership.

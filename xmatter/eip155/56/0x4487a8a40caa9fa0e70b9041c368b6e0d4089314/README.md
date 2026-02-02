@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ecdabd"
+icons:
+  - icon.png
 ---
 
 Poodledog Swap is an Automated Market Maker.

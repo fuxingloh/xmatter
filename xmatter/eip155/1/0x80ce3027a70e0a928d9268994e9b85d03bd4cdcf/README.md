@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e4077d"
+icons:
+  - icon.png
 ---
 
 Polkalokr is restoring trust & simplicity to complex token ecosystems.

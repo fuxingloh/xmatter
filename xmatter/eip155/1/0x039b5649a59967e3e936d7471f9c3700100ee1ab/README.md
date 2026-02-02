@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#648293"
+icons:
+  - icon.png
 ---
 
 Kucoin Shares (KCS) is an exchange based token and native currency of the Kucoin crypto exchange.

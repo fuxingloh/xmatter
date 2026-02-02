@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4de5cb"
+icons:
+  - icon.png
 ---
 
 MOWA token is a utility token that was issued by Moniwar development team.

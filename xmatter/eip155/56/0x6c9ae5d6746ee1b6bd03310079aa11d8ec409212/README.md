@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbbf08"
+icons:
+  - icon.png
 ---
 
 Fino DAO Token is a new BEP20 token with an elastic supply and automatic LP adds.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#14252e"
+icons:
+  - icon.png
 ---
 
 NSRT token works in real sectors of the economy at the global level with the support of state and supranational BRICS structures.

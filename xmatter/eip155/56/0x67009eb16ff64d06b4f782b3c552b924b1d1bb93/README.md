@@ -21,6 +21,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#352711"
+icons:
+  - icon.png
 ---
 
 The World’s Leading Decentralized Finance Platform

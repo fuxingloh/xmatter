@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d54cb7"
+icons:
+  - icon.png
 ---
 
 BIMP is BNB In My Pocket. Bimp.Finance is the future of NFT merchandise selling for female online streamers. Our vision is to provide a platform where female streamers can sell a different NFT merchandise and gain commissions and royalties from every NFT sold through their channels. We envision that our platform NFT collection will provide a long-term revenue model for the both of our female streamers and Bimp investors.

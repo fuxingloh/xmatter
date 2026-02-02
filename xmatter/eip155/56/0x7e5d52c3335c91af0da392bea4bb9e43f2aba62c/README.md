@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d0d2d2"
+icons:
+  - icon.png
 ---
 
 Sheesh is a Crypto Token created to Bridge the world of Social Media/Gaming with the world of crypto.

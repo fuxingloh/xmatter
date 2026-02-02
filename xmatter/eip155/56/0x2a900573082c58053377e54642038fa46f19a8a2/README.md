@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#272220"
+icons:
+  - icon.png
 ---
 
 So, one day, fun met courage, and that's how Riko, meme fearless pet, was born.

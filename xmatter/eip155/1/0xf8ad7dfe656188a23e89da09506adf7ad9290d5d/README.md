@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#00b2ab"
+icons:
+  - icon.png
 ---
 
 Utility token used as a medium of motivation to participate and enhance economic activities within the Blocery Food Supply Chain Ecosystem.

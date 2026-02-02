@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ec4c44"
+icons:
+  - icon.png
 ---
 
 TEN is a yield aggregator / optimizer that simplifies staking and yield farming with the most liquid Binance Smart Chain Liquidity Pools.

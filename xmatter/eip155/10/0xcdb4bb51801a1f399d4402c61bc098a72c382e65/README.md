@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#db453c"
+icons:
+  - icon.png
 ---
 
 OPX (Decentralized Spot & Perpetual Exchange) - the next DEX generation in optimizing investment efficiency & Leverage Trading.

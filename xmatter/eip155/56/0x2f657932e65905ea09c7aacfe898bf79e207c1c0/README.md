@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c2a29"
+icons:
+  - icon.png
 ---
 
 Robo Doge is a smart, hyper deflationary, community-driven protocol that rewards its' holders through smart tokenomics. We are a newer, more sophisticated, stronger version of the Doge family.

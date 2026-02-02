@@ -12,6 +12,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#dedddd"
+icons:
+  - icon.png
 ---
 
 ZPAE is the gateway to unlock the power of crypto all across the Middle East.

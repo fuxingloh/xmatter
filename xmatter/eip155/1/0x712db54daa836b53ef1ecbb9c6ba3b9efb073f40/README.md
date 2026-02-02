@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7489df"
+icons:
+  - icon.png
 ---
 
 Aave ENJ V1 is an interest bearing token pegged 1:1 to the underlying xxxx deposited in Aave V1. aENJ V1 accrue interest in real time in your wallet.

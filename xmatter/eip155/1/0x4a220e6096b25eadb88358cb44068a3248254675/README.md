@@ -27,6 +27,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2ab6b6"
+icons:
+  - icon.png
 ---
 
 The Quant Network team developed Quant as a cryptocurrency token based on the Ethereum blockchain. The solutions offered by Quant include Overledger OS and GoVerify.

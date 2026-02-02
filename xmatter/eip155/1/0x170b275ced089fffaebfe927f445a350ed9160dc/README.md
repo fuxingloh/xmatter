@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9a304"
+icons:
+  - icon.png
 ---
 
 Monetize your owndata with Blockchain.

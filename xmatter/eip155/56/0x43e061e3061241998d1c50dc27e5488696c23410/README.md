@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bdb4d0"
+icons:
+  - icon.png
 ---
 
 Kaiken Coin is a yield-generating, decentralised community token, built to directly benefit our furry friends and our loyal holders.

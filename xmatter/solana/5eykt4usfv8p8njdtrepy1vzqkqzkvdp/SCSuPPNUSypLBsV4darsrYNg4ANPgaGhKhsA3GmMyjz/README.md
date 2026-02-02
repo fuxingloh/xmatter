@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#232c3b"
+icons:
+  - icon.png
 ---
 
 Solcasino.io - Top One Crypto Casino on Solana network.

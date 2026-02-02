@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3578fc"
+icons:
+  - icon.png
 ---
 
 We think that the best way to align platform development with customers' interests is to empower the ones who actively interact with protocol: creators and collectors.

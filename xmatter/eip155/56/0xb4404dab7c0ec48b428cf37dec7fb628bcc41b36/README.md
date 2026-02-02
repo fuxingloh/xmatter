@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5eb4ee"
+icons:
+  - icon.png
 ---
 
 MetaGear is a game that shows creativity in assembling robots to fight.

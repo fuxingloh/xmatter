@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cab463"
+icons:
+  - icon.png
 ---
 
 BabyXrp is a deflationary token on BSc chain. BabyXrp rewards the long term holders with XRP every week.

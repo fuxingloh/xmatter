@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#829da3"
+icons:
+  - icon.png
 ---
 
 In a world where misinformation is rampant, Vivek Truth stands as a beacon of clarity.

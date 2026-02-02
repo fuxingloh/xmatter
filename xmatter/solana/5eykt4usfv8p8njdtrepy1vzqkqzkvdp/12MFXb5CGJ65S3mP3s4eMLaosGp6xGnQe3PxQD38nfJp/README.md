@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#85745b"
+icons:
+  - icon.png
 ---
 
 The frontline memecoin brainrot of the internet. $SKIBIDI Dop Dop!

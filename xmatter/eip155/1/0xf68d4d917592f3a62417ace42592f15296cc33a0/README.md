@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f0eded"
+icons:
+  - icon.png
 ---
 
 Utility token

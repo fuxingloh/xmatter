@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ecbb0c"
+icons:
+  - icon.png
 ---
 
 Binance GBP (BGBP) is a token issued by Binance with a price pegged at a 1:1 rate to British Pound (GBP).

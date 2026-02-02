@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#281614"
+icons:
+  - icon.png
 ---
 
 Mohammed bin Salman? Nah, it's the ultimate crypto sheikh on BSC - MAHABIBI BIN SMARTMAN!!

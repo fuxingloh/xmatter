@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#d5974f"
+icons:
+  - icon.png
 ---
 
 Welcome to $FAM, where every member is family and every post brings us closer to our 1 billion market cap dream.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#34ec74"
+icons:
+  - icon.png
 ---
 
 Cardstack (CARD) is a cryptocurrency and operates on the Ethereum platform.

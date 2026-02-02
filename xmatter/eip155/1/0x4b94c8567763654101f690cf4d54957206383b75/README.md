@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4a5364"
+icons:
+  - icon.png
 ---
 
 NeoWorld is a multiplayer sandbox game running on the blockchain and a 3D virtual world created by users all over the globe.

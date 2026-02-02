@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d36395"
+icons:
+  - icon.png
 ---
 
 Hokkaidu Inu memecoin revival. Emerging from the abyss, forged by the community.

@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2f56c1"
+icons:
+  - icon.png
 ---
 
 RDT is the native token for the Ridotto cross-chain gambling & lottery protocol.

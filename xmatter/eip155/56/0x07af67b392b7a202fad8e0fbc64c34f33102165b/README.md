@@ -14,6 +14,7 @@ name: Aquagoat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 AquaGoat Finance is a decentralized community-led eco-DeFi project, with AquaGoat acting as its DeFi alternative to conventional high-interest savings accounts.

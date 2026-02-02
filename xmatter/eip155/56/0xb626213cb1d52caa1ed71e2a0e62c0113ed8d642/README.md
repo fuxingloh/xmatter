@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d2ad67"
+icons:
+  - icon.png
 ---
 
 HUG HUG COIN PROJECT is launched to address the long-standing problem of the Japanese idol industry. HUG HUG COIN PROJECT operates to realize the idea of content protection by utilizing new technologies such as blockchain and NFT.

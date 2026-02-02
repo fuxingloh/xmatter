@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dee4fb"
+icons:
+  - icon.png
 ---
 
 Mento British Pound (GBPm) is a decentralized stablecoin pegged to the British Pound on the Celo blockchain.

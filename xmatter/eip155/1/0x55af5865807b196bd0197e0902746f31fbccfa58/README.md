@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3c2148"
+icons:
+  - icon.png
 ---
 
 SpookySwap is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network.

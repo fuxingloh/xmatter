@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2394f4"
+icons:
+  - icon.png
 ---
 
 DSLA Protocol's flagship use case is to offset the financial losses of Proof-of-Stake delegators.

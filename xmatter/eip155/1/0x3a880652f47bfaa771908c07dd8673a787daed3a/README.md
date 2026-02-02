@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2d1684"
+icons:
+  - icon.png
 ---
 
 Discover the future of trading with DerivaDEX, a community-governed derivatives exchange that unites performance and autonomy.

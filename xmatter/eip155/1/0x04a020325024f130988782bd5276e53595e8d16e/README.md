@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#63b204"
+icons:
+  - icon.png
 ---
 
 Herbalist Token Project is going to solve expensive rare herbs problem by building a blockchain integrated marketplace that will bring the farmers and the buyers together. In our platform, any farmer is going to be able list their products and find buyers around the globe easily and quickly.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2d2a3c"
+icons:
+  - icon.png
 ---
 
 The MAGA 2025 now shines on Base blockchain with her own token, attracting crypto investors looking for the next mooncoin sensation.

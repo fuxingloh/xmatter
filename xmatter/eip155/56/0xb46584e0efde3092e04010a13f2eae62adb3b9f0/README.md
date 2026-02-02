@@ -17,6 +17,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4b9243"
+icons:
+  - icon.png
 ---
 
 Pepe is the most memeable memecoin around the world, it‘s time to make memecoins great again and add some frog beside all dog memecoins.

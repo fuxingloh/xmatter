@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eea522"
+icons:
+  - icon.png
 ---
 
 Wall Street Games is a next generation hybrid blockchain-based online gaming platform, where players battle each other in fun & addicting simple games for rewards in cryptocurrencies!

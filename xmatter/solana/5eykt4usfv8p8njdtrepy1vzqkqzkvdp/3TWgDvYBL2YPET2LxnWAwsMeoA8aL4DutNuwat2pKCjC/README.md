@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#38312f"
+icons:
+  - icon.png
 ---
 
 Kittens are here to prevail. Blending AI memes and story telling.

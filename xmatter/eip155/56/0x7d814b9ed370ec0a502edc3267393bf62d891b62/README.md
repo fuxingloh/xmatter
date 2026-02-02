@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c0414"
+icons:
+  - icon.png
 ---
 
 Bubblemaps transforms on-chain data into a visual experience, making analysis engaging and efficient — allowing users to tackle modern crypto challenges.

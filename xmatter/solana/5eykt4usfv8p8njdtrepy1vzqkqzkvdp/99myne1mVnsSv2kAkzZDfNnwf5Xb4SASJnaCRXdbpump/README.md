@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#68b0af"
+icons:
+  - icon.png
 ---
 
 Curious about UFOs? Love memecoins? Well, we have something for you! Introducing $UFO, the memecoin that combines our love for UFO culture with the legendary PEPE the frog!

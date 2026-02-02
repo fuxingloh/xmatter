@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f36c15"
+icons:
+  - icon.png
 ---
 
 Builds the central bank and reserve currency for DeFi.

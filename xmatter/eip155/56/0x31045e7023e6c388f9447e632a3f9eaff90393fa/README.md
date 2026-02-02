@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7ccb9c"
+icons:
+  - icon.png
 ---
 
 SafeToken is a next-gen cryptocurrency that combines auto-liquidity, frictionless yield, and token burn.

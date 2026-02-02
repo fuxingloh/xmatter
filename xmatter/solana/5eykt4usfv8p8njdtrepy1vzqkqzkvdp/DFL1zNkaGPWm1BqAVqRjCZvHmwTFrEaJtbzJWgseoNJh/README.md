@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#34b4ec"
+icons:
+  - icon.png
 ---
 
 DeFi Land is a multi-chain agriculture-simulation web-game created to gamify decentralized finance.

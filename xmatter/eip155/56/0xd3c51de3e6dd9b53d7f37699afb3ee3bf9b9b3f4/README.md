@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cba028"
+icons:
+  - icon.png
 ---
 
 MContent is a token built on the Binance Smart Chain, that aims to build a collaborative content ecosystem with the core purpose of seed funding, incubating and curating film makers and content producers around the World.

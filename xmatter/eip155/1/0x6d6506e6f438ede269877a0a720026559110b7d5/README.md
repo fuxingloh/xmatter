@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c04ac"
+icons:
+  - icon.png
 ---
 
 Proof of art combined with decentralized staking

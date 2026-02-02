@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c3336"
+icons:
+  - icon.png
 ---
 
 Rewards token received for staking liquidity within the SwapShip protocol. Read This Contract (RTC).

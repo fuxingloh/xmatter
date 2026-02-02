@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dde9c5"
+icons:
+  - icon.png
 ---
 
 We are the original Shiba Cash token on Binance Smart Chain, the same tokenomics as the original Shiba Inu with no gimmicks!

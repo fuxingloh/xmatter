@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#9c9b9c"
+icons:
+  - icon.png
 ---
 
 Thorecoin (THR) is a cryptocurrency token based on the Solana blockchain, representing the latest development in the Thorecoin series, Thorecoin 2.0.

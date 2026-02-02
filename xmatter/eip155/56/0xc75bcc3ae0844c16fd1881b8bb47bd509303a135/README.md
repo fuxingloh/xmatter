@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#090a16"
+icons:
+  - icon.png
 ---
 
 Decentralized Inu Meme Coin of the Metaverse. MetaverseInu is the first official Inu-based meme coin of the Metaverse universe which aims to create a decentralized, fast and unique chain with the enhanced MetaverseInu genesis structure.

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#ab7148"
+icons:
+  - icon.png
 ---
 
 Billi the Hobo used to roam the streets, now turning fellow hobos into billionaires. Literally anyone can be a $BILLI'onaire!

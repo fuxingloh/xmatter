@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c6fbc"
+icons:
+  - icon.png
 ---
 
 BlossomCoin ($BLOSM) is a charity-based token that rewards holders, but more importantly, plants trees and supports reforestation efforts worldwide.

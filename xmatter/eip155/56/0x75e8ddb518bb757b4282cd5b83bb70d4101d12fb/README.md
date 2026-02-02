@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7068fb"
+icons:
+  - icon.png
 ---
 
 NFPrompt is an AI-driven UGC platform designed for the new generation of Web3 creators. It's an all-in-one platform with the power of AI-creation, social community, and commercialization.

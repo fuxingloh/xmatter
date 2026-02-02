@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040606"
+icons:
+  - icon.png
 ---
 
 The first BEP20 Token that will make it possible for you to buy land on the moon.

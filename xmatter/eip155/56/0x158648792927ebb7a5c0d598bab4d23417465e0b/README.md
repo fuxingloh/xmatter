@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f50707"
+icons:
+  - icon.png
 ---
 
 DO NOT BUY! CHECK RTT WEBSITE TO SEE HOW TO SWAP TO V2

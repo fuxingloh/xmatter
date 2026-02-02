@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c6cfc"
+icons:
+  - icon.png
 ---
 
 Fantom is a directed acyclic graph (DAG) smart contract platform providing decentralized finance (DeFi) services to developers using its own bespoke consensus algorithm.

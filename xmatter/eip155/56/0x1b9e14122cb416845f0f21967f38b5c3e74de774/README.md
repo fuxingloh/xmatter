@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#45417b"
+icons:
+  - icon.png
 ---
 
 Nebula Chain Finance smart contract generates of the stake amount daily and guarantees a final profit.

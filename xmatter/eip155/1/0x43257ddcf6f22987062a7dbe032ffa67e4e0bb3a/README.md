@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ddca83"
+icons:
+  - icon.png
 ---
 
 HBTT Payment System

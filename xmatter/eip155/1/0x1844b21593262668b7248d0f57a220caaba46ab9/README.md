@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#214c89"
+icons:
+  - icon.png
 ---
 
 Finance tech and Hazard Games.

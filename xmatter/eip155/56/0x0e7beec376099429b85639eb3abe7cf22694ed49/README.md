@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c2b53"
+icons:
+  - icon.png
 ---
 
 Bunicorn DEX - Revolutionize yield farming by leveraging NFT gamification

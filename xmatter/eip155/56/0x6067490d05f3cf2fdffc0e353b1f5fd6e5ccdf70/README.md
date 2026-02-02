@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#33c863"
+icons:
+  - icon.png
 ---
 
 Working since 2017 and providing Market Making (MM) services for CEXes and DEXes

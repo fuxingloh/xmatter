@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d42f2f"
+icons:
+  - icon.png
 ---
 
 Bolenum is a cryptocurrency and financial services provider targeting the African continent for a start and then expanding globally.

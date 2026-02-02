@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bbb598"
+icons:
+  - icon.png
 ---
 
 Gluteus Maximus is the AI Emperor that will dominate crypto. The Emperor is building a Web3 strategy game project that combines AI, community-driven governance, and a fast-paced gaming experience. Think of it like a massively played Stratego with crypto assets changing hands rapidly.

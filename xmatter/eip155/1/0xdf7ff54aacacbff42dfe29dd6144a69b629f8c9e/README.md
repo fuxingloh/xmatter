@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7689b3"
+icons:
+  - icon.png
 ---
 
 Aave ZRX is an interest bearing token pegged 1:1 to the underlying ZRX deposited in Aave. aZRX accrue interest in real time in your wallet.

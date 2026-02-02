@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#93f6f7"
+icons:
+  - icon.png
 ---
 
 Hegic is an on-chain, non-custodial peer-to-pool options trading protocol built on Ethereum. Currently Hegic supports options trading in for Bitcoin (wBTC) and Ether (ETH).

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0464d3"
+icons:
+  - icon.png
 ---
 
 Seigniorage Share (SHARE) is the speculation and governance token into the Dollar Protocol. Holders get seigniorage paid in Dollar (USD) token pro-rata.

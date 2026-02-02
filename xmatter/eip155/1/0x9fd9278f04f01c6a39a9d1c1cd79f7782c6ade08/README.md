@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e2040c"
+icons:
+  - icon.png
 ---
 
 Biaoqing ($BIAO) is a memecoin on the Ethereum blockchain, inspired by the famous Chinese meme representing facial expressions.

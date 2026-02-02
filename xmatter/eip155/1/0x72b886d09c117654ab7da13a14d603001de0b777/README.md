@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1d3bc2"
+icons:
+  - icon.png
 ---
 
 XDEFI Wallet is a multi-chain web browser extension currently available on Chrome & Brave (soon on Firefox) built for DeFi users and NFT lovers. It is a wallet with native integrations on THORChain, Ethereum + several EVM networks and Terra.

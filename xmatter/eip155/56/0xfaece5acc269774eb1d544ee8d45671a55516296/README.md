@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eead46"
+icons:
+  - icon.png
 ---
 
 Digo token is a crypto asset on the Binance Smart Chain used as a medium of exchange for goods and services, P2P transactions, cryptocurrency exchange and also can serve as a store of value.

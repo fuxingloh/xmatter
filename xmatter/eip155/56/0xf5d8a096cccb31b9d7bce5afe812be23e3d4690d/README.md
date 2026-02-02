@@ -27,6 +27,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e84070"
+icons:
+  - icon.png
 ---
 
 Happy Fans is a subscription-based social network based on blockchain technology

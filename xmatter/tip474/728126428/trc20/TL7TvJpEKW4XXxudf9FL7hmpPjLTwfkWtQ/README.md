@@ -1,0 +1,18 @@
+---
+name: DFDV xStock
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - trc20
+links:
+  - name: website
+    url: "https://assets.backed.fi/products"
+  - name: coinmarketcap
+    url: "https://coinmarketcap.com/currencies/dfdv-tokenized-stock-xstock/"
+symbol: DFDVx
+decimals: 18
+icons:
+  - icon.png
+color: "#1a2240"
+---
+
+DFDV xStock

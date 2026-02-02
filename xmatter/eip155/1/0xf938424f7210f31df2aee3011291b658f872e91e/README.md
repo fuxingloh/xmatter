@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0d0c1b"
+icons:
+  - icon.png
 ---
 
 Interact with DeFi protocols through an NFT, enhancing the discovery, reputation, safety and programmability of on-chain liquidity

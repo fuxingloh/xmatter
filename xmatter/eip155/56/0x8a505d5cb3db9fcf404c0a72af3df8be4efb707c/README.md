@@ -17,6 +17,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#651872"
+icons:
+  - icon.png
 ---
 
 The Energy Web Decentralized Operating System Open-Source Technology. ENG Multi-Blockchain can make it possible to track low-carbon energy and certificates from their origin through every stage and transaction.

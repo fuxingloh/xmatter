@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3c4f7a"
+icons:
+  - icon.png
 ---
 
 SpaceGrime is the intergalactic crypto of the future

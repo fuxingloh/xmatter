@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#50c4fc"
+icons:
+  - icon.png
 ---
 
 With single click cross-chain swaps, CrossWallet is theultimate crypto wallet and DEX aggregator.

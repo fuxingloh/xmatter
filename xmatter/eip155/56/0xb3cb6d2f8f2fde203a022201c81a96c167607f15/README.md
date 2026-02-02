@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#06200d"
+icons:
+  - icon.png
 ---
 
 GAMMA is the utility token that powers Planet Finance. It incentivizes lenders, borrowers & liquidity providers and it can be used to unlock discount levels on Green Planet.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#34a7db"
+icons:
+  - icon.png
 ---
 
 Huobi Pool Token (HPT) is an ecological sub-token based on Huobi Token (HT).

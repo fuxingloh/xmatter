@@ -8,6 +8,7 @@ name: SPAM KLIP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
+icons: []
 ---
 
 SPAM KLIP

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3b7fab"
+icons:
+  - icon.png
 ---
 
 Belifex is a Self Funded Blockchain Project with decentralizing solutions (DEX, Payment Gateway, Wallet and many others) all based on ERC-20 BEFX token.

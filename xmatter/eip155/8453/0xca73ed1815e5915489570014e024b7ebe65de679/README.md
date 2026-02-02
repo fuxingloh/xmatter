@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3520a"
+icons:
+  - icon.png
 ---
 
 Odos leads DeFi with the most sophisticated order optimization algorithm to deliver the best rates, and the most value to users across DeFi. Supporting 14 chains, 900+ liquidity sources, and 55,000+ tokens, Odos unlocks hidden value for every user. Build with Odos as well via our API to bring the most efficient trades in DeFi to your users as well.

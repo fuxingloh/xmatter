@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#070c08"
+icons:
+  - icon.png
 ---
 
 Auto liquidity for an ever-increasing price floor, Deflationary tokenomics, 100% safe and unruggable (liquidity will be locked forever).

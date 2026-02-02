@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#343344"
+icons:
+  - icon.png
 ---
 
 True Flip is the international anonymous blockchain lottery with instant payouts, open source code, and transparent prize fund.

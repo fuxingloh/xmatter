@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#173452"
+icons:
+  - icon.png
 ---
 
 REALM is the native token of the Realm metaverse.

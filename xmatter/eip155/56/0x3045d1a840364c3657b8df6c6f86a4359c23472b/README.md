@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Orica is an NFT marketplace in Binance Smart Chain for all kind of digital arts, the token which uses in this NFT marketplace is ORI

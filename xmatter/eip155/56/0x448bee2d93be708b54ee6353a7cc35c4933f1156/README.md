@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#101028"
+icons:
+  - icon.png
 ---
 
 Smart Advertising Transaction Token

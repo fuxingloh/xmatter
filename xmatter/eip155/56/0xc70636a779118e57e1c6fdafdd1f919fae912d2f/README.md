@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#171312"
+icons:
+  - icon.png
 ---
 
 Munch a charity crypto coin

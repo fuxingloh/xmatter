@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#15cbfc"
+icons:
+  - icon.png
 ---
 
 A cryptocurrency distributed by your mobile operator and accepted everywhere.

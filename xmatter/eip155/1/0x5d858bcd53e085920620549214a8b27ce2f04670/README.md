@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9494fc"
+icons:
+  - icon.png
 ---
 
 POP Network is an ecosystem of blockchain and artificial intelligence applications built to power the streaming economy. Components include: Masternode Torrent Network, Superdelegated Proof-of-Stake Blockchain, and Artificial Intelligence.

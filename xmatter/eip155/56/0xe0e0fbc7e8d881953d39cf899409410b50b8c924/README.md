@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3bb44c"
+icons:
+  - icon.png
 ---
 
 The major aim of the project is not only to promote sports and a healthy lifestyle but also to develop a sustainable ecosystem based on innovative solutions.

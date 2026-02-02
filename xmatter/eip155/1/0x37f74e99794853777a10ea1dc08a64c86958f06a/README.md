@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f7651c"
+icons:
+  - icon.png
 ---
 
 D Community describes itself as a blockchain-based youth community, which is upgraded from the ACG brand 'Dilidili'.

@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cc3e31"
+icons:
+  - icon.png
 ---
 
 A Decentralized Gaming Play to Earn Token Based On Binance Smart Chain

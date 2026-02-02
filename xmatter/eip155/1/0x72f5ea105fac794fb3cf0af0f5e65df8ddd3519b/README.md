@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1a73c2"
+icons:
+  - icon.png
 ---
 
 REC Wallet is the ethereum wallet and cryptocurrency wallet to store your favourite ERC20 tokens!

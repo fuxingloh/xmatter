@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e23d19"
+icons:
+  - icon.png
 ---
 
 Money

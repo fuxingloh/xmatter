@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#080707"
+icons:
+  - icon.png
 ---
 
 $AKIDS - Africa Kids Token

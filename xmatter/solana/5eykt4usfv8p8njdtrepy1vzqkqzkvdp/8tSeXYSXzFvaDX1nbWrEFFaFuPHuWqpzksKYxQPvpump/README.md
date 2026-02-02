@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#a48a7f"
+icons:
+  - icon.png
 ---
 
 The world-famous vibing cat. CA starts with SEXY and ends with PUMP. Billions Will

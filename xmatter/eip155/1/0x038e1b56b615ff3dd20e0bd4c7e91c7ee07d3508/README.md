@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04ccbc"
+icons:
+  - icon.png
 ---
 
 pTokens, which give exposure to a desired short or leveraged position.

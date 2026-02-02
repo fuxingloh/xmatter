@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#777afa"
+icons:
+  - icon.png
 ---
 
 FomoDOTA was founded in 2021 in the purpose of building FOMO MOBA Ecosystem for all e-sports gamers to achieve more influence of gaming on blockchain.

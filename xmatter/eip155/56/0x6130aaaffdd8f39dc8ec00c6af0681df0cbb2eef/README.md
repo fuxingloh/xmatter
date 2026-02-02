@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 PRYZ is a new community driven protocol, offering holders rewards with a difference.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eca424"
+icons:
+  - icon.png
 ---
 
 DuckDAO, the world’s largest crowdsourced Incubator for crypto projects.

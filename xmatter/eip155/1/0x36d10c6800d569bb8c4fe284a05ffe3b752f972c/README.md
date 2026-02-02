@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ea7d59"
+icons:
+  - icon.png
 ---
 
 WeShow Token (WET) is a cryptocurrency and operates on the Ethereum platform.

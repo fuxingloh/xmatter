@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#dbcaba"
+icons:
+  - icon.png
 ---
 
 PEANUT FOREVER. #JusticeForPeanut. Peanut the Squirrel is a meme coin on Solana.

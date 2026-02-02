@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ed9528"
+icons:
+  - icon.png
 ---
 
 Simargl Token is going to be a cross-chain DeFi with auto trading capabilities.

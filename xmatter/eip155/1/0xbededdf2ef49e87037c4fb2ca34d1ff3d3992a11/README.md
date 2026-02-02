@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e8e9ea"
+icons:
+  - icon.png
 ---
 
 Building an ecosystem and passive income around a governance token. Trade your crypto assets using our non-custodial peer-to-peer trading protocol and earn a passive income with our asset-backed governance token.

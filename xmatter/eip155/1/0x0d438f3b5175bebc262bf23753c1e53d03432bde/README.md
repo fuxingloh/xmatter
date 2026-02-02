@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c2c2c"
+icons:
+  - icon.png
 ---
 
 WNXM represents wrapped NXM tokens that are freely transferable and only KYC-ed members of the Nexus Mutual are able to wrap and unwrap NXM.

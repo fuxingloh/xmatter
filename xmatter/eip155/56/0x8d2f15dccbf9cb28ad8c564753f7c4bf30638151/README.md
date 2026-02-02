@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e2886a"
+icons:
+  - icon.png
 ---
 
 CVD19 is a community driven, fair launched DeFi Token Built under BSC (Binance smart chain, To help adaption of cashless system of payment based on blockchain system in order to reduce COVID19 spread which can be caused by cash, Also the community make profit by just holding their CVD19 token due to deflation process during Token transfer and holding reward which occur automatically from CVD19 contract (auto staking)

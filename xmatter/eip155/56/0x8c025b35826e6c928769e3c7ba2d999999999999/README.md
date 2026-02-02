@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#242221"
+icons:
+  - icon.png
 ---
 
 With the continuous development of blockchain technology, ATM (Automated Teller Machine) cryptocurrency, as a new type of financial transaction tool, is gradually changing our understanding of the traditional monetary system

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#044f8c"
+icons:
+  - icon.png
 ---
 
 Linde xStock (LINx) is a tracker certificate issued as Solana SPL and ERC-20 tokens. LINx tracks the price of Linde plc (the underlying). LINx is designed to give eligible cryptocurrency market participants regulatory-compliant access to the stock price of Linde plc, whilst maintaining the benefits of blockchain technology. Key Benefits Linde is a global leader in industrial gases and engineering, offering a wide range of solutions, technologies, and services to various industries.

@@ -19,6 +19,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ea1c24"
+icons:
+  - icon.png
 ---
 
 MOVO Smart Chain is a high-performance blockchain enabling 50,000+ TPS with fees under $0.0001. Designed for DeFi, NFTs, and enterprise use, it ensures scalability, decentralization, and seamless BEP20 integration for developers and investors.

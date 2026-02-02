@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0c74e4"
+icons:
+  - icon.png
 ---
 
 Do more something with your Ripple

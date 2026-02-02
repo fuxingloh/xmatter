@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2a293b"
+icons:
+  - icon.png
 ---
 
 xOpenX is the Governance Token of the OpenX Project. Users who purchase an OpenxReserve NFT will be given the option of locking xOpenX to create a vexOpenX value for governance.

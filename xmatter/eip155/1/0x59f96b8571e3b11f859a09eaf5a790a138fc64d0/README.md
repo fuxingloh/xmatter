@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#28669d"
+icons:
+  - icon.png
 ---
 
 This Uniswap Liquidity Provider (LP) token represents the STA and ETH pairing.

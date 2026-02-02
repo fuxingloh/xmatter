@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#128be0"
+icons:
+  - icon.png
 ---
 
 The Liquidity Dividends Protocol uses new technology that provides solutions for depositing liquidity into Uniswap while also offering a social rewards based staking system.

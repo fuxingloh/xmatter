@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#da3334"
+icons:
+  - icon.png
 ---
 
 MAI (miMatic) is a stablecoin backed by collateral, and can only be minted with this collateral backing it. MAI is soft pegged to the USD, meaning that 1 MAI is around 1 USD.

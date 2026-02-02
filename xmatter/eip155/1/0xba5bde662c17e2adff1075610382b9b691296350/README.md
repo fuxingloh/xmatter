@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c4c4c4"
+icons:
+  - icon.png
 ---
 
 A network owned & governed by artists, collectors and curators

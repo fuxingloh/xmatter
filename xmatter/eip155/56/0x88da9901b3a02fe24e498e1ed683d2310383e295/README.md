@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ddddde"
+icons:
+  - icon.png
 ---
 
 Welcome to Baby Grok The Future of DeFi! 🚀

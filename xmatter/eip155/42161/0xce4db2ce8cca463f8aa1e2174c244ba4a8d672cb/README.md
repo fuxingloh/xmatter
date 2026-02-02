@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ec5ea3"
+icons:
+  - icon.png
 ---
 
 Everipedia IQ’s mission is to bring the world’s knowledge on-chain.

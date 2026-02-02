@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3374bb"
+icons:
+  - icon.png
 ---
 
 OLXA Coin aims to connect the crypto market to the real world through services such as Letter of Crypto Credit, i-Advertising Platform, and Crowd-Projects.

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#faf2db"
+icons:
+  - icon.png
 ---
 
 First coin launched on x402, the internet-native payment protocol. No utility, no financial advice, just some early adopter $ping vibes 🏝️

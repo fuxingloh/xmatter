@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6964f9"
+icons:
+  - icon.png
 ---
 
 XLD is the native token of XcelPay ecosystem. It's a key part of an ecosystem designed to integrate blockchain technology into everyday transactions and experiences. From secure asset management in XcelPay Wallet to real-world applications in XcelTrip, XcelPay (XLD) is paving the way for a more inclusive, accessible, and practical use of cryptocurrencies in daily life.

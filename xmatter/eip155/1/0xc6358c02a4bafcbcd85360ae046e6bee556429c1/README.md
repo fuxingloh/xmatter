@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ffe500"
+icons:
+  - icon.png
 ---
 
 Allwin DeFi is a decentralized finance farming P2P gaming platform built on Ethereum Blockchain.

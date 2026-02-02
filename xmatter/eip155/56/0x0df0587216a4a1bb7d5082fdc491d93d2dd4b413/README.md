@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#24211e"
+icons:
+  - icon.png
 ---
 
 “Cheems” is the lord of memes, a small, pitiful, helpless Shiba Inu.

@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7b14f3"
+icons:
+  - icon.png
 ---
 
 The MongMob was born out of the incoherent ramblings of a US congressman.

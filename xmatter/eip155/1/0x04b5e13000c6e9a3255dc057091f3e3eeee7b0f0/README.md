@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#140414"
+icons:
+  - icon.png
 ---
 
 Managed Trading Funds on Uniswap

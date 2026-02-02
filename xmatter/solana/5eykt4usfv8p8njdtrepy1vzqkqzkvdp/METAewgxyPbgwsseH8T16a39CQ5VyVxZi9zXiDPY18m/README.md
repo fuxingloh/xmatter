@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#c1c0c1"
+icons:
+  - icon.png
 ---
 
 The Metaplex Protocol is a decentralized platform built on the Solana blockchain, designed to facilitate the creation, sale, and management of digital assets.

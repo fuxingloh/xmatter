@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Fracton token (FT) is the governance token of Fracton Protocol, an infrastructure of the NFT ecosystem building a liquid NFT market.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#161d28"
+icons:
+  - icon.png
 ---
 
 Meet Stoic — Cindicator's newest crypto trading product.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#88d7ea"
+icons:
+  - icon.png
 ---
 
 OCTANS aka $OCTA is a auto yield and liquidity smart contract.

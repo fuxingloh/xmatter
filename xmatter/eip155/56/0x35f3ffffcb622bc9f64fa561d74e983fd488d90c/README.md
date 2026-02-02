@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 PirateCash as Software-defined networking (SDN). This technology will provide good quality of service and it will be High Availability (HA), flexible and DDoS resistant network.

@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e6e7e8"
+icons:
+  - icon.png
 ---
 
 dexIRA provides fully automated BNB redistribution, multi-currency dividend rewards, advanced buyback protocols, and tokenomics that promote longterm holding

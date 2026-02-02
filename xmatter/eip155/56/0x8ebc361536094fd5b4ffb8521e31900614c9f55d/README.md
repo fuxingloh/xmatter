@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#042b63"
+icons:
+  - icon.png
 ---
 
 DARC is the main token for Konstellation network, a blockchain ecosystem for the global financial services industry.

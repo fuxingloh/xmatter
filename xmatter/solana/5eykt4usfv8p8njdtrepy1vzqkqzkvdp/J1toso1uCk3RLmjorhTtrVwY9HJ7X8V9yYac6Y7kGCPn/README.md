@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#d3e1dd"
+icons:
+  - icon.png
 ---
 
 The live Jito Staked SOL price today is $114.17 USD with a 24-hour trading volume of $69,422,180 USD. We update our JITOSOL to USD price in real-time. Jito Staked SOL is up 2.20% in the last 24 hours.

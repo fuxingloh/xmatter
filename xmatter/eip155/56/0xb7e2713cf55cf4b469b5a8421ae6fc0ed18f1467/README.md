@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c757af"
+icons:
+  - icon.png
 ---
 
 OpenLeverage is a permissionless money market protocol enabling decentralized lending, borrowing, and margin trading across a diverse range of cryptocurrency pairs, fostering an accessible and efficient DeFi ecosystem.

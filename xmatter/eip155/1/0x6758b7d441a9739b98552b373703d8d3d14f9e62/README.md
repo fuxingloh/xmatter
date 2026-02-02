@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5c2ca4"
+icons:
+  - icon.png
 ---
 
 POA Network is an Ethereum-based platform that offers an open-source framework for smart contracts.

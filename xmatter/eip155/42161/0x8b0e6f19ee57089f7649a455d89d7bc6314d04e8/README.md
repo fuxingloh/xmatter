@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#364c40"
+icons:
+  - icon.png
 ---
 
 Arbitrum L3 Appchain Staking Powered Gaming Console Play To Win Play To Burn 1,000,000 Tokens Hard Cap ©. Sanko Dream Machine, Only Powered By $DMT.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#363030"
+icons:
+  - icon.png
 ---
 
 Aave ETH V1 is an interest bearing token pegged 1:1 to the underlying ETH deposited in Aave V1. aETH V1 accrue interest in real time in your wallet.

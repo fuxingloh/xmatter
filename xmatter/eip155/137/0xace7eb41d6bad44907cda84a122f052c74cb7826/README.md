@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e7ad28"
+icons:
+  - icon.png
 ---
 
 IPMB is transforming gold ownership through tokenization, bringing the lowest-cost access to gold globally

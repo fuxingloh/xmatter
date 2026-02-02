@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d12b42"
+icons:
+  - icon.png
 ---
 
 xSUSHI is a trading fee accruing token. 0.05% of the exchange trade fees on SushiSwap are awarded to holders of the xSUSHI token

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#050535"
+icons:
+  - icon.png
 ---
 
 OmniCat is the first omnichain memecoin. Powered by LayerZero, $OMNI is currently live and tradeable on 7 different ecosystems including Ethereum, Arbitrum and Solana.

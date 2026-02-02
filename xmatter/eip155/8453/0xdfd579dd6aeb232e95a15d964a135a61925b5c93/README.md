@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#090a0b"
+icons:
+  - icon.png
 ---
 
 Marso is a project from the Meme coin niche.

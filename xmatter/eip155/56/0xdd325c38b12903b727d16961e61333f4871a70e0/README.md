@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1bbc73"
+icons:
+  - icon.png
 ---
 
 Elephant Money Stable is partially collateralized by BUSD at 75% guaranteed. TRUNK passively hardens its collateralization ratio of the remaining 25% on the dollar as the Elephant Money ecosystem grows.

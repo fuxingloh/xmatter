@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fae2d1"
+icons:
+  - icon.png
 ---
 
 First Blockchain network passive asset management open-source, community-owned, permissionless, and censorship-resistant protocol for connecting effective management and profits to long term holders.

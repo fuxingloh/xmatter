@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Sharpe is an AI powered crypto superapp with a frontend for crypto intelligence, investing, tracking and automating digital assets.

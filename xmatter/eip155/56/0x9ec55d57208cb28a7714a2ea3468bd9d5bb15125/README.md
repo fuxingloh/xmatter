@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a1042d"
+icons:
+  - icon.png
 ---
 
 GOMA is a Multi-chain Hyper-Deflationary Incentive, DeFi & Staking Ecosystem

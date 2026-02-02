@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#000000"
+icons:
+  - icon.png
 ---
 
 Eleven Finance is a platform empowering high APY vaults in the Binance Smart Chain ecosystem.

@@ -15,6 +15,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0483ba"
+icons:
+  - icon.png
 ---
 
 ZYTH is used to lower commission fees on the exchange, currency pairing, casino games, marketplace and even to pay members ads on our social platform.

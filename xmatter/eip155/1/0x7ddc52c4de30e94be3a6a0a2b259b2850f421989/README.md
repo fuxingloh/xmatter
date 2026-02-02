@@ -34,6 +34,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7444ec"
+icons:
+  - icon.png
 ---
 
 Gomining is an exchange token backed by a Top 10 global bitcoin mining project.

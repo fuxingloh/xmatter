@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#202b42"
+icons:
+  - icon.png
 ---
 
 4MGAME is a gaming platform project based on the Four.meme platform. The first mini-game we developed is now available on the official website and you can win more coins by participating in our games. More games will be added to the official website. Follow us on Twitter for more news.

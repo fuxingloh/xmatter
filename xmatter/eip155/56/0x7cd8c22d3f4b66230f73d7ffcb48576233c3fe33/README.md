@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#33807e"
+icons:
+  - icon.png
 ---
 
 The spacemap focuses on the development of the technology, operations infrastructure, new partnerships, and marketing initiatives.

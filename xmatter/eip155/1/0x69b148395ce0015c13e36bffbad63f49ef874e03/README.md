@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2f3452"
+icons:
+  - icon.png
 ---
 
 DATA (Decentralized AI-powered Trust Alliance) is a blockchain based digital data authentication protocol powered by AI & P2P mobile storage infrastructure.

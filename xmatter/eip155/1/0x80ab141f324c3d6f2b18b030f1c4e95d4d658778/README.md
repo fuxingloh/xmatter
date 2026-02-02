@@ -13,6 +13,7 @@ name: DEA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 DEA is the female part of DEUS. She will become the voice of the unheard & the balance of the rough forces.

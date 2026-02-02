@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bba14f"
+icons:
+  - icon.png
 ---
 
 Yield farm Dogecoin on Binance Smart Chain

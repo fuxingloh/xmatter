@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#157848"
+icons:
+  - icon.png
 ---
 
 Axienomics is the first rebase token which rewards you with AxieInfinity (AXS)

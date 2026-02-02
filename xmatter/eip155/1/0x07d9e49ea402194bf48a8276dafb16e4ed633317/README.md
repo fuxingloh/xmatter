@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#90927c"
+icons:
+  - icon.png
 ---
 
 DaleCoin is an ERC20 token based on the Ethereum blockchain which shall serve as a payment token for goods and services.

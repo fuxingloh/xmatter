@@ -10,6 +10,8 @@ standards:
   - trc10
 icon: icon.png
 color: "#1c1c1b"
+icons:
+  - icon.png
 ---
 
 Sesameseed is a blochain community that aims to provide fair and transparent representation in delegated governance.

@@ -23,6 +23,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d0cfd0"
+icons:
+  - icon.png
 ---
 
 Cosanta is B2B solutions. Our goal to using the Cosanta Masternodes as Software-defined networking (SDN). This technology will provide good quality of service and it will be Hight Availability (HA), flexible and DDoS resistant network.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e5b318"
+icons:
+  - icon.png
 ---
 
 Building A Full-Stack DEFI with NFT Auction On Binance Smart Chain

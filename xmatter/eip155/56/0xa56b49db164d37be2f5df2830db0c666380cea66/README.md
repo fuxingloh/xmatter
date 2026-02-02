@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b27d3f"
+icons:
+  - icon.png
 ---
 
 PUGDOG A community-driven decentralized rewarding network Fully decentralized and Community own, Zero Dev token.

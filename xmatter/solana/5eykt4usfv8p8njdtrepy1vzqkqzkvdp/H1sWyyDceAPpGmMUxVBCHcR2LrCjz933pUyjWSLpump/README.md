@@ -10,6 +10,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f4d56a"
+icons:
+  - icon.png
 ---
 
 For garlic bread enthusiasts (inspired by a Reddit meme)

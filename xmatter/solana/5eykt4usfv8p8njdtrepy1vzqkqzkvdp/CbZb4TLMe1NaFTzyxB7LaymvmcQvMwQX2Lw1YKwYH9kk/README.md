@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#3b1e49"
+icons:
+  - icon.png
 ---
 
 $BALIN is the first meme coin launched on the Solana Network with its own decentralised banking system created by Alvey Chain Team.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04a4cc"
+icons:
+  - icon.png
 ---
 
 Ultimate Hub and Defi App For Uniswap and DEX trading.

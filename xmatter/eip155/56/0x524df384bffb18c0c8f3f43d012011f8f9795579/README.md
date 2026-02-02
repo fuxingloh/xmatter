@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4ad93b"
+icons:
+  - icon.png
 ---
 
 YAY Games is an innovative GameFi project, game publisher and developer of a wide range of games focused on Play-2-earn, NFTs, and DeFi.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#74c444"
+icons:
+  - icon.png
 ---
 
 The Mogu Token(MOGX) is the blockchain-based medium in the Mogu ecosystem, that is fully optimised for distribution, finance, shopping, security by using blockchain technology.

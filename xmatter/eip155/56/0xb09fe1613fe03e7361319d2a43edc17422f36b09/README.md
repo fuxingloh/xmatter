@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fcfbfb"
+icons:
+  - icon.png
 ---
 
 The BOG Token powers Bogged Finance and the BogTools suite of DeFi Tools.

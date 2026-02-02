@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#a8940c"
+icons:
+  - icon.png
 ---
 
 TEH EPIK DUCK IS COMING

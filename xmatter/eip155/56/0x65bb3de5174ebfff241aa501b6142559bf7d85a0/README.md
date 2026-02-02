@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#393839"
+icons:
+  - icon.png
 ---
 
 GymRocket is a fitness token that truly fuels your fitness $GAINZ

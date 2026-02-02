@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c44434"
+icons:
+  - icon.png
 ---
 
 Asset collateralization and risk customization protocol

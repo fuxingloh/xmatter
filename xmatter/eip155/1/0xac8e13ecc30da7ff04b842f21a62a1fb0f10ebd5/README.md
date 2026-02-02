@@ -27,6 +27,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f5a023"
+icons:
+  - icon.png
 ---
 
 BabyDoge is fully decentralized and on a mission to bring popular cryptocurrency concepts to the mainstream in one, easy to understand project.

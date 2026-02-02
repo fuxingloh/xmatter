@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4d4c4b"
+icons:
+  - icon.png
 ---
 
 NXT Gold (NXTG) is an ERC20 token backed 1:1 with NXT.

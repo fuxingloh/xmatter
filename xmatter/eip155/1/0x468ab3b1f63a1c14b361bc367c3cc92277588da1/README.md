@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b43fb"
+icons:
+  - icon.png
 ---
 
 Yeld is the next generation in DeFi yield farming products.

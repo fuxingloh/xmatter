@@ -23,6 +23,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#57e2e6"
+icons:
+  - icon.png
 ---
 
 The MetaPortal Gaming Index ($GAME) is designed to provide exposure to the emergent crypto gaming space. Investing across games, virtual worlds and gaming platforms, $GAME is a simple and effective way to express the view that crypto games will capture a greater share of the burgeoning gaming market.

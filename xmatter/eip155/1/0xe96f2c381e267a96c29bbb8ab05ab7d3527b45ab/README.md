@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c74d3"
+icons:
+  - icon.png
 ---
 
 SATX is the official token of the SatoExchange platform. A Crypto currency exchange trading alt coins in BTC, ETH, SATX, LTC and DOGE pairs.

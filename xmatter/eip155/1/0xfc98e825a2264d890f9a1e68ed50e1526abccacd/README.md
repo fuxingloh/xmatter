@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#12100b"
+icons:
+  - icon.png
 ---
 
 The first truly global Carbon Credit Token, that provides ease, transparency, global scale and security for your carbon footprint compensation.

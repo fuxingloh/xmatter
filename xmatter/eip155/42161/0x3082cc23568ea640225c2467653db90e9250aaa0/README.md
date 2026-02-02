@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#18c2bd"
+icons:
+  - icon.png
 ---
 
 $RDNT, an OFT-20, is Radiant's native utility token. Radiant Capital is an omnichain money market built atop Layer Zero. Deposit and borrow assets cross-chain, seamlessly. Through decentralized discussions, voting, and governance, the Radiant DAO determines the decisions, and, ultimately, the vision of the Radiant ecosystem.

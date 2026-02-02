@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#1f296a"
+icons:
+  - icon.png
 ---
 
 Elizabath Whoren is building a Crypot Army to take ova de benks. She will tackle all de new printd maney and bring dem to Solami, for a welthy and free WebTree.

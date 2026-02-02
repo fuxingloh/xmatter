@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cc0404"
+icons:
+  - icon.png
 ---
 
 BOOM project is a social experiment, which aims to explore the market influence of an extremely deflationary cryptocurrency, and it will validate the effect of BOOM token as a hedge against the rapid inflation in token ecosystem.

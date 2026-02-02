@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f31d55"
+icons:
+  - icon.png
 ---
 
 YMEN token is deflationary, and it's used to farm Mutant token that is the governance token that can be sold into YMEN/MUTANT pool.

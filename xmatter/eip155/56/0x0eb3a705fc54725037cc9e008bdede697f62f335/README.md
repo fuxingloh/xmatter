@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#293048"
+icons:
+  - icon.png
 ---
 
 BNB pegged Cosmos Token (ATOM BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Cosmos (ATOM) at a ratio of 1:1.

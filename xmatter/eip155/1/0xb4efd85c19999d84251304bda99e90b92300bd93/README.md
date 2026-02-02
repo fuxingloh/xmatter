@@ -10,6 +10,7 @@ name: Rocket Pool
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 Rocket Pool (RPL) is a cryptocurrency and operates on the Ethereum platform. Decentralised Proof of Stake Pool

@@ -27,6 +27,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fb334e"
+icons:
+  - icon.png
 ---
 
 Decentraland (MANA) defines itself as a virtual reality platform powered by the Ethereum blockchain that allows users to create, experience, and monetize content and applications.

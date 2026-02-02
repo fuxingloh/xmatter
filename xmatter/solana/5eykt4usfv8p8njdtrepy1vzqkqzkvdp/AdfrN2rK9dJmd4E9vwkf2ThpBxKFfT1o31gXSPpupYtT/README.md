@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#c3309b"
+icons:
+  - icon.png
 ---
 
 Using our platform, you can exchange tokens to meet new people, form friendships, and borrow their time.

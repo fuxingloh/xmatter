@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#060604"
+icons:
+  - icon.png
 ---
 
 Nestle Finance is an autonomous yield and liquidity protocol

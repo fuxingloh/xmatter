@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#54b5f5"
+icons:
+  - icon.png
 ---
 
 Nsure is an open insurance platform for Open Finance. The project borrows the idea of Lloyd’s London, a market place to trade insurance risks, where premiums are determined by a Dynamic Pricing Model. Capital mining will be implemented to secure capital required to back the risks at any point of time. A 3-phase crowd voting mechanism is used to ensure every claim is handled professionally.

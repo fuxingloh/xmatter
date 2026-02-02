@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2aabae"
+icons:
+  - icon.png
 ---
 
 MedicalVeda seeks to address the modern-day challenges faced by the health care industry. It leverages innovative technologies such as Blockchain, Defi, Artificial Intelligence and Smart Contracts

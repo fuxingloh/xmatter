@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c4cf4"
+icons:
+  - icon.png
 ---
 
 Building a next-gen scalable crypto payment platform.

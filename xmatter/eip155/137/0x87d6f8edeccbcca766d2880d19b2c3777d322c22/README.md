@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#625080"
+icons:
+  - icon.png
 ---
 
 Miracleplay is a revolutionary platform offering profitable tournament gaming, committed to creating a democratic, transparent, and secure environment for players.

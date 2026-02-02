@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#080f48"
+icons:
+  - icon.png
 ---
 
 aggle.io is a decentralized sports betting platform where you can accept the best odds or interact as a bookmaker yourself.

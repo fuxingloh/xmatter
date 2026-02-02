@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#644484"
+icons:
+  - icon.png
 ---
 
 BTU Protocol is a peer-to-peer booking protocol.

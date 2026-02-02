@@ -27,6 +27,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0e0971"
+icons:
+  - icon.png
 ---
 
 Crypto AI, an AI-powered using AI Machine Learning to Create Digital Asset.

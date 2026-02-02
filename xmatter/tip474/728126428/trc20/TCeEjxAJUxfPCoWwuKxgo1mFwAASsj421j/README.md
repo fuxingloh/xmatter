@@ -14,6 +14,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#f53159"
+icons:
+  - icon.png
 ---
 
 Ruby Currency is a blockchain platform for changemakers, innovators, and visionaries, with the tools and technologies required to create possibilities for the many.

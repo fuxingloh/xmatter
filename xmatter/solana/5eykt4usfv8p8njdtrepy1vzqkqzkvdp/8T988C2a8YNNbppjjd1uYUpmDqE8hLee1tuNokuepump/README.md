@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#141b39"
+icons:
+  - icon.png
 ---
 
 WEB3 ALPHA COMMUNITY & INVESTMENT FUND

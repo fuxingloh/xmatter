@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04e5bf"
+icons:
+  - icon.png
 ---
 
 A state of the art platform to tokenize Real-World Assets (RWA), bringing yields into the web3, all while striving for sustainable growth #RWA #ReFi

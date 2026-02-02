@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fb9bcc"
+icons:
+  - icon.png
 ---
 
 Unit protocol is a decentralized borrowing protocol that allows using a variety of tokens as collateral.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f11d88"
+icons:
+  - icon.png
 ---
 
 Aave UNI is an interest bearing token pegged 1:1 to the underlying UNI deposited in Aave. aUNI accrue interest in real time in your wallet.

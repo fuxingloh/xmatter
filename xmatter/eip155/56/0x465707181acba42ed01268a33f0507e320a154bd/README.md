@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1a1c12"
+icons:
+  - icon.png
 ---
 
 Track fitness activity, earn crypto, and be the best version of you. Same effort, more results.

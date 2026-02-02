@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#47792e"
+icons:
+  - icon.png
 ---
 
 Moon Stake token of staking Protocol(Multi-chain staking Marketplace)

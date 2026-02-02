@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b9cd5e"
+icons:
+  - icon.png
 ---
 
 Earn RottenTokens by staking Uniswap liquidity. In addition, 2.5% of every RottenToken transfer is burned and turned into MaggotTokens.

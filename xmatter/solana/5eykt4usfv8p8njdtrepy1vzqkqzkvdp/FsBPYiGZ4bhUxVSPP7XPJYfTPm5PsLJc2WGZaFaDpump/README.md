@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f9e0ad"
+icons:
+  - icon.png
 ---
 
 $MONGY mainstream banana eating cat monkey meme

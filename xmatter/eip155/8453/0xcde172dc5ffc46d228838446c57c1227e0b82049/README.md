@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cfa69e"
+icons:
+  - icon.png
 ---
 
 $BOOMER Coin is swooping in to drag boomers into the digital currency world

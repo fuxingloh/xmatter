@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#11c45f"
+icons:
+  - icon.png
 ---
 
 ZooToken will be the hub for these Animal Coins key-values.

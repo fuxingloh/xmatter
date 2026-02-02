@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#aeb96e"
+icons:
+  - icon.png
 ---
 
 $RWA is a meme token.

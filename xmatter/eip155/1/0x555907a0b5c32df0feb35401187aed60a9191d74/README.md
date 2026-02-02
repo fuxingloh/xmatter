@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#393635"
+icons:
+  - icon.png
 ---
 
 Trumpwifhat isn’t just another meme project. It’s a symbol of progress and innovation in the ever-evolving landscape of finance and technology

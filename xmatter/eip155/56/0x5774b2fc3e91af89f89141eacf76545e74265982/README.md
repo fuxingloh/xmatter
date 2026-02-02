@@ -17,6 +17,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ddd1e6"
+icons:
+  - icon.png
 ---
 
 NFTY is a multi-chain NFT and Web3 authentication network.

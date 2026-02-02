@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#141414"
+icons:
+  - icon.png
 ---
 
 Mushroom is a community-driven digital currency supporting financial freedom.

@@ -10,6 +10,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#c03cf8"
+icons:
+  - icon.png
 ---
 
 LIQ is a decentralized liquidation engine built for Serum DEX margin markets on the Solana network

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c5c5c5"
+icons:
+  - icon.png
 ---
 
 What is H1DR4_Agent? H1DR4 is an advanced AI agent developed under the G.A.M.E. Protocol framework, aimed at transforming how we interact with and analyze digital information

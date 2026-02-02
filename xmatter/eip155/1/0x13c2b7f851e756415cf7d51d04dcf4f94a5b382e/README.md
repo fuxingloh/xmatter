@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3888f8"
+icons:
+  - icon.png
 ---
 
 POW digital asset trading platform.

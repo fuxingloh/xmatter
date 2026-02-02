@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#07c275"
+icons:
+  - icon.png
 ---
 
 Three Token pegged 1:1 with AUD for the donation distribution to Australian bushfire NGO partners.

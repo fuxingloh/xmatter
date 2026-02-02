@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#443628"
+icons:
+  - icon.png
 ---
 
 CHAOS tokens can be traded on decentralized exchanges.

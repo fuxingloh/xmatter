@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#150b3f"
+icons:
+  - icon.png
 ---
 
 Empowering creators and players with cutting-edge on-chain infrastructure and publishing solutions

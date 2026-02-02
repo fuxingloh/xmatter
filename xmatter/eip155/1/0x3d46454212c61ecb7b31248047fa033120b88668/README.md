@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#93cb73"
+icons:
+  - icon.png
 ---
 
 Decentralized organization for borderless collaboration. Headquartered in the Decentraland VR world.

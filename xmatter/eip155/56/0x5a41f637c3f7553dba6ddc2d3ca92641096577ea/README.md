@@ -8,6 +8,7 @@ name: JulSwap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 JulSwap DEX Commnuity Token

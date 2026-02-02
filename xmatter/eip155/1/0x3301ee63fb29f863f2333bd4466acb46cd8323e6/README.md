@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e3deee"
+icons:
+  - icon.png
 ---
 
 Akita DAO is a decentralized autonomous organization of the AKITA community which helps guide the future of the ecosystem. The Akita DAO exists to produce products and useful applications that benefit holders of the AKITA tokens. AKITA token holders were the original group to come together and make AKITA a true community owned token pushing it to be more than just a meme.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ea9ccf"
+icons:
+  - icon.png
 ---
 
 The World's first Auto-Boost, Hyper Deflationary Coin is here! Every sell gives members more with the auto-boost and hyper deflation system in place.

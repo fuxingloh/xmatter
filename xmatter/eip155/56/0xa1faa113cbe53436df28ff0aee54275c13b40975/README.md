@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2cb4fc"
+icons:
+  - icon.png
 ---
 
 Alpha Finance Lab is a cross-chain DeFi platform, focusing on building an ecosystem of products that will interoperate and bring alpha to users across different blockchains starting with Binance Smart Chain (BSC) and Ethereum.

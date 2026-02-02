@@ -13,6 +13,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#222429"
+icons:
+  - icon.png
 ---
 
 MetaLiquid Network is a decentralized financial payment network that rebuilds the traditional payment stack on the blockchain. It utilizes a basket of fiat-pegged stablecoins, algorithmically stabilized by its reserve currency METAL, to facilitate programmable payments and open financial infrastructure development.

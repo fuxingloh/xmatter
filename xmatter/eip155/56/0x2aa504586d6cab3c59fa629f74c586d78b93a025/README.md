@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9bd28"
+icons:
+  - icon.png
 ---
 
 ArenaPlay is committed to building on-chain infrastructure covering; gaming, quizzes, E-Sports, NFT, and the wider Meta-Universe.

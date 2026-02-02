@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b1975e"
+icons:
+  - icon.png
 ---
 
 SafeVault is the first 25.65% auto-reimbursing, BUSD rewarding token. It's Hyper-Deflationary & Self-Sustaining. The Vault team is proud to bring an unprecedented vision to the DeFi space.

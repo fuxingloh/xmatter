@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#18a0e8"
+icons:
+  - icon.png
 ---
 
 A modern VPN backed by blockchain anonymity and security.

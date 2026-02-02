@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#041bd4"
+icons:
+  - icon.png
 ---
 
 The financial system of the Sidus Heroes game includes two tokens: the SIDUS token and the SENATE token. The SIDUS token is used by players of SIDUS HEROES as in-game currency.

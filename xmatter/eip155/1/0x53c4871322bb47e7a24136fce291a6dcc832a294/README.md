@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#050505"
+icons:
+  - icon.png
 ---
 
 Wrapped Litecoin is a 1:1 equivalent of Litecoin on the Ethereum network

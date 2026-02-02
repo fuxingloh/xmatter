@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e4d6f9"
+icons:
+  - icon.png
 ---
 
 High yield farms & pools on the Polygon Chain. Secure, experienced team and innovative farm features

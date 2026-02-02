@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9abea"
+icons:
+  - icon.png
 ---
 
 SWFL is described to be a utility token for Swapfolio app, a Uniswap portfolio & trading terminal. Swapfolio offers more trading features and staking rewards to all token stakers.

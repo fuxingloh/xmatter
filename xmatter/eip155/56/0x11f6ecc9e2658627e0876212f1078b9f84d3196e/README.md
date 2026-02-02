@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ec6b1b"
+icons:
+  - icon.png
 ---
 
 2LC BEP20 based token created by 2local for Sustainability and Prosperity for all.

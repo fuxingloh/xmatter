@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#053353"
+icons:
+  - icon.png
 ---
 
 SAPPCHAIN is a decentralized end-to-end encrypted anonymous messaging App with peer-to-peer transfer of money and cryptocurrency solution.

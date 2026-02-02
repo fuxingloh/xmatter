@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#246cac"
+icons:
+  - icon.png
 ---
 
 An open fund by Invictus Capital, holding the top ten cryptocurrencies by market cap, with data-backed risk hedging in cash.

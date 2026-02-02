@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2b75be"
+icons:
+  - icon.png
 ---
 
 Smartkey is a bridge, the lacking puzzle that connects the decentralized finance (DeFI) world with the physical objects world

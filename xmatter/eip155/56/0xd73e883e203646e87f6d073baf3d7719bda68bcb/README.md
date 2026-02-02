@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#232424"
+icons:
+  - icon.png
 ---
 
 $RHYTHM is the token powering the Rhythm music streaming platform, which boasts a library of over 100 million songs, offering holders in-app rewards, perks, NFTs, and powering the Artist Partner Program.

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f991c0"
+icons:
+  - icon.png
 ---
 
 Experience DeFi in Retro Japan

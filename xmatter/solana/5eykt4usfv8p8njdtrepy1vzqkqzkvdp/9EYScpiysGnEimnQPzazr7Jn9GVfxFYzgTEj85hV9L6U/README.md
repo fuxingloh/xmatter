@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#3e3642"
+icons:
+  - icon.png
 ---
 
 The ticker is $tooker - ur 1 stahp shahp fir newz

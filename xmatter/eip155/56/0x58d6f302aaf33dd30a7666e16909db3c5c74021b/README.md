@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#282c31"
+icons:
+  - icon.png
 ---
 
 BST is a token utility used to change transaction fees and listing fees on bitsten exchange.

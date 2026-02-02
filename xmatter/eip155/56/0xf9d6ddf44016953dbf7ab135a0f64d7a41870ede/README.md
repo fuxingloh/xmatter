@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f49922"
+icons:
+  - icon.png
 ---
 
 Doge Floki Coin DOFI is a new cryptocurrency born to emulate dogecoin with the help of Elon Musk

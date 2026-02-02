@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c232b"
+icons:
+  - icon.png
 ---
 
 GSWIFT is an omnitoken that can seamlessly be transferred between blockchains. Experience the true power of move $GSWIFT across multiple blockchains. With its game-changing range of utilities, $GSWIFT is setting new standards for Web3 gaming tokens.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e9cfb4"
+icons:
+  - icon.png
 ---
 
 THE BEST DOG COIN

@@ -17,6 +17,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e7a911"
+icons:
+  - icon.png
 ---
 
 With Light DeFi, the currency will not depend so much on buying strength and selling strength. There will be external liquidity that will provide an automatic valuation of the asset.

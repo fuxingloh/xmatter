@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ebfb04"
+icons:
+  - icon.png
 ---
 
 MadNetwork is a custom blockchain designed to authenticate and manage the identity of organizations, people, or assets in the digital world.

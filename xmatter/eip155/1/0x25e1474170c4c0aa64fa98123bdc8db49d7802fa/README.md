@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1cc4f3"
+icons:
+  - icon.png
 ---
 
 Bidao® is building a chain agnostic trustless stablecoin and decentralized finance ecosystem. Moreover the Bidao® Token can be staked to earn extra rewards.

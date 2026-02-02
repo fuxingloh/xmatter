@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fae15e"
+icons:
+  - icon.png
 ---
 
 EKT is an online education community that creating a model that equitably rewards both the content providers, referrals and the end consumer. It will serve to increase transparency, trust and collaboration.

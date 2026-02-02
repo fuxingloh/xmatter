@@ -16,6 +16,7 @@ name: NETCOINCAPITAL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
+icons: []
 ---
 
 NetcoinCapital is blockchain based project it's made for financial service, technology & future

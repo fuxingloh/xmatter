@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7363fc"
+icons:
+  - icon.png
 ---
 
 StrikeX is the native currency of the blockchain powered eco-system developed & deployed by the UK Registered Company StrikeX Technologies Ltd. Their flag ship product, TradeStrike, will utilise the power of tokenisation to offer trading in Stocks, Cryptocurrencies, NFT’s & even Real Estate. Fully compliant, fully collateralised trading, 24/7 – 365 days a year.

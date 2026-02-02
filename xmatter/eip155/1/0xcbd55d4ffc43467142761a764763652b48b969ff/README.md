@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7f12df"
+icons:
+  - icon.png
 ---
 
 AstroTools is a DeFi dashboard that bridges the information gap between centralized and decentralized exchanges.

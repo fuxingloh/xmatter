@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbf3df"
+icons:
+  - icon.png
 ---
 
 PeachSwap - An evolution of #Uniswap with $Peach tokenomics on Binance Smart Chain.

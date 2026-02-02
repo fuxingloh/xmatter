@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Next generation of user-friendly perpetual DEX on BNB Chain/opBNB/Base/Manta. Fully integration with LSTfi.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#848b8c"
+icons:
+  - icon.png
 ---
 
 renBCH is a one-for-one representation of BCH on Ethereum via RenVM.

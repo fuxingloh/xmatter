@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b9a15e"
+icons:
+  - icon.png
 ---
 
 ArgenPeso is the Argentine digital cryptocurrency that seeks to give a new value to the Argentine peso.

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbdf2b"
+icons:
+  - icon.png
 ---
 
 My DeFi Pet brings traditional game experience and DeFi features to NFT collectibles where players can collect, breed and trade monsters or items, battle and participate in events.

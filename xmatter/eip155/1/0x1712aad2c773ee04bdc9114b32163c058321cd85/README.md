@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2eff65"
+icons:
+  - icon.png
 ---
 
 LimitSwap is a Dex trading bot written in Python that allows users to trade using Limit Orders

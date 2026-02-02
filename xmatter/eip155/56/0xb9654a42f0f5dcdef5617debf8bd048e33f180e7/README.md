@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#efc641"
+icons:
+  - icon.png
 ---
 
 The next evolution of a reflection token on the BSC with double reward reflection token using the power of 80/20 to maximize your earnings for both now & future

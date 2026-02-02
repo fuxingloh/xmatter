@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#548bbc"
+icons:
+  - icon.png
 ---
 
 The Catex Token (CATT) is the native asset of the Catex exchange. Catt token holders reportedly receive dividends from the exchange and enjoy zero fee withdrawals.

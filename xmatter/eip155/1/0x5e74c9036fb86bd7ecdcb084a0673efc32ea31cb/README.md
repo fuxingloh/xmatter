@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#439b2b"
+icons:
+  - icon.png
 ---
 
 A synthetic asset issued by the Synthetix protocol which tracks the price of Ether (ETH). ETH is the native digital currency of the Ethereum blockchain, a smart contract platform that enables developers to build decentralized applications.

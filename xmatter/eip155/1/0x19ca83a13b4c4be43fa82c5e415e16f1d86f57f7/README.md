@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbe435"
+icons:
+  - icon.png
 ---
 
 BitCEO helps CEOs find partners and acquire skills.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3fa49b"
+icons:
+  - icon.png
 ---
 
 Vizsla Inu is the best dogs meme and Charity Token in Hungary

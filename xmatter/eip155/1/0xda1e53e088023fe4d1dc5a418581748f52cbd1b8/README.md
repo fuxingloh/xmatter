@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#379ec7"
+icons:
+  - icon.png
 ---
 
 AIDI is an ERC20 token, 100% decentralized, and the first token of the Aidiverse ecosystem. We are bringing together complete Decentralised Finance solutions and integrating them with Blockchain gaming and NFTs.

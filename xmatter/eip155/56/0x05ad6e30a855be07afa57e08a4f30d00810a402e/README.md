@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fce3d8"
+icons:
+  - icon.png
 ---
 
 Tiny World is a fully trading game universe based on historical legends from across the globe. It combines P2E and DAO governance with quality gameplay.

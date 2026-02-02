@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#045444"
+icons:
+  - icon.png
 ---
 
 ZetaChain is a public, decentralized blockchain and smart contract platform that enables message passing and value transfer between any blockchain.

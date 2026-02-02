@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#0d111a"
+icons:
+  - icon.png
 ---
 
 In a digital realm where meme coins often float without purpose, $DINO emerges as the architect of change.

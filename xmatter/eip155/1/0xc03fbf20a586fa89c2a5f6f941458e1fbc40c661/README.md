@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 COMBO is a leading provider of scaling solutions for Web3 game development. By leveraging the world's top game engine, COMBO is building an open-source, decentralized, game-oriented Layer2 that is accessible to everyone.

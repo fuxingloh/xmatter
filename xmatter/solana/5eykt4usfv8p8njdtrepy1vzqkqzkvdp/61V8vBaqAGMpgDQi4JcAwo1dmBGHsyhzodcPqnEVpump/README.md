@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#0c0c0c"
+icons:
+  - icon.png
 ---
 
 we take the red pill then the blue pill

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#43f4a2"
+icons:
+  - icon.png
 ---
 
 SafeBTC is a token with frictionless fee redistribution and liquidity-adds on transfers.

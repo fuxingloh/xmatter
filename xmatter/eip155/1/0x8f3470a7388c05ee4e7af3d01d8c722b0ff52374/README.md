@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc9b33"
+icons:
+  - icon.png
 ---
 
 Veritaseum is a smart contracts-based, peer-to-peer wallet interface (in beta) that currently interacts with Bitcoin blockchain (to be ported to Ethereum).

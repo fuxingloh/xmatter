@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c2c2c"
+icons:
+  - icon.png
 ---
 
 YEARN FINANCE PASSIVE INCOME (YFPI) is a Governance token. Users who stake YFPI tokens can vote for potential product upgrades, releases, and parameter fixes.

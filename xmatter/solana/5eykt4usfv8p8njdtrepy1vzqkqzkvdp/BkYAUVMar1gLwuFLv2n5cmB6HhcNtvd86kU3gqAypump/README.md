@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#bc9e8a"
+icons:
+  - icon.png
 ---
 
 Uniting the visionary spirit of Elon Musk with German political innovation

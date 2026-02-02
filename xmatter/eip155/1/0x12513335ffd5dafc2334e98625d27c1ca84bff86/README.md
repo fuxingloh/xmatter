@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e6faf9"
+icons:
+  - icon.png
 ---
 
 AMEPAY is a cryptocurrency-based payment alternative that is fast, convenient, and secure. AMEPAY eliminates the complexity, high-costs, and delays that are familiar to the present system and replaces it with a simple, affordable, and quick network.

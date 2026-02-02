@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#061423"
+icons:
+  - icon.png
 ---
 
 The number isn't real if not SAFU

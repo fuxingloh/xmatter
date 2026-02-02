@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#379ec7"
+icons:
+  - icon.png
 ---
 
 AIDI BSC is a deflationary BEP20 token, 100% decentralized, and is the main token in the Aidiverse ecosystem. We are bringing together complete decentralised finance solutions and integrating them with Blockchain gaming and NFTs.

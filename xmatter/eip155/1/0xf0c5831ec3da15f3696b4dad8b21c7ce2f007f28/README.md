@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d5dce6"
+icons:
+  - icon.png
 ---
 
 AxisToken will be the world's first Transportation blockchain platform

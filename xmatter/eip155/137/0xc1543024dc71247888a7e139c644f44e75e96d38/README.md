@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1fb32e"
+icons:
+  - icon.png
 ---
 
 Battle World is a Gamefi Metaverse project built on Polygon network. A globally appealing mid-core game for the masses.

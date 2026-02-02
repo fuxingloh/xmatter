@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#85c145"
+icons:
+  - icon.png
 ---
 
 SwissBorg is a wealthtech offering Swiss-made crypto investment solutions to the world.

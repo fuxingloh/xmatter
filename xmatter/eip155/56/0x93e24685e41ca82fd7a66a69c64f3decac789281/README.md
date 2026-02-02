@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f2bf46"
+icons:
+  - icon.png
 ---
 
 CHEECOIN is the 1st Hollywood NFT marketplace that also donates and supports animal healthcare and rescue.

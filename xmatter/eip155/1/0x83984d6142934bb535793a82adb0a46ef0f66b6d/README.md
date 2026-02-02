@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7424e4"
+icons:
+  - icon.png
 ---
 
 Distributed Public Key Infrastructure protocol and PKI-enabled apps for the modern web.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d42293"
+icons:
+  - icon.png
 ---
 
 TAPSwap is a revolutionary Decentralize Exchange(DEX) Protocol powered by Binance Smartchain & Uniswap AMM implementation.Use TapSwap for Swapping , Market Creation, Provide Liquidity & Staking.

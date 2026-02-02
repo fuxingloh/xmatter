@@ -14,6 +14,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#765aef"
+icons:
+  - icon.png
 ---
 
 This is the token for gaming with offline shops.

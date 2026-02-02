@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#924a0e"
+icons:
+  - icon.png
 ---
 
 SHAK ($Shak) is a fun, community-focused cryptocurrency with a game in development and unique tokenomics to fuel it’s growth.

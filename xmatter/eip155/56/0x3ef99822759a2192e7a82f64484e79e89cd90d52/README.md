@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#99bee1"
+icons:
+  - icon.png
 ---
 
 TKB is a platform that integrates NFT games and decentralized yield farm applications.

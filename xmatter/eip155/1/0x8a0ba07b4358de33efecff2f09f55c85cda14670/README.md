@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bcc4d4"
+icons:
+  - icon.png
 ---
 
 Chromia (CHR) is a cryptocurrency and operates on the Ethereum platform.

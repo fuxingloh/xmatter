@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ef5a26"
+icons:
+  - icon.png
 ---
 
 Parachute aims to make it easy for people and businesses to use cryptocurrencies in their daily lives.

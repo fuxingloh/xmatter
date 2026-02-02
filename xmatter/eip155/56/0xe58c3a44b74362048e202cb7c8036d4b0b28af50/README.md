@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 The SolarX project is an innovative and eco-friendly approach to cryptocurrency mining that aims to use renewable energy sources to power the mining process.

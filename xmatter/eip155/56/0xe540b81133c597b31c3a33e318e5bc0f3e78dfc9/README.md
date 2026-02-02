@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#df7d2b"
+icons:
+  - icon.png
 ---
 
 Earn passive income and help the world like a boss

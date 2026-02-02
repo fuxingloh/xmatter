@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b648a5"
+icons:
+  - icon.png
 ---
 
 OVR is the decentralized infrastructure for the metaverse, merging physical and virtual world through Augmented Reality

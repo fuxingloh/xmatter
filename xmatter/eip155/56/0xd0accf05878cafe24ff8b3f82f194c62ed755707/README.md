@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9d89a4"
+icons:
+  - icon.png
 ---
 
 $SIMP is a frictionless farming token operating on the Binance Smart Chain, designed to power trust and transactions for Adult Entertainment Stars and their communities, starting by powering the existing PocketStars & RocketStars platforms.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0b0b0c"
+icons:
+  - icon.png
 ---
 
 BSX is developing the fastest, simplest, and most secure perpetuals DEX on the market.

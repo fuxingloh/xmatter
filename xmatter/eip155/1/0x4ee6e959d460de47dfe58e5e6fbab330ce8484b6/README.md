@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d94786"
+icons:
+  - icon.png
 ---
 
 Cryptocurrency – Work on Modern Ideas.

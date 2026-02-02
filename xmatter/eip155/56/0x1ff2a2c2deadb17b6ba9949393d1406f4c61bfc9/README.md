@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1e0f0b"
+icons:
+  - icon.png
 ---
 
 VANCAT Egg Token is a subtoken of VANCAT Token and VANCAT universe. Users must have VCEGG to mint Special NFTs

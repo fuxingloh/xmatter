@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#060406"
+icons:
+  - icon.png
 ---
 
 Nyx has an 8% tax taken from every purchase and sale, 4% is split to help MS and Veterans through charitble donations.2 is sent back to the holders,1 each is burned and project marketing wallet for future growth.

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#de887f"
+icons:
+  - icon.png
 ---
 
 RatsCoin is now completely owned and run by its amazing community.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#211e2a"
+icons:
+  - icon.png
 ---
 
 Doraemoon is a super cross chain (BSC, Polygon, Solana). Doraemoon ($DORA) is a next–gen cryptocurrency that combines auto-liquidity, frictionless yield, token burn, especially $DORA is a community driven DeFi token.

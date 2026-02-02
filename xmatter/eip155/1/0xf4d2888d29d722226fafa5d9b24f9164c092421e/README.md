@@ -19,6 +19,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040504"
+icons:
+  - icon.png
 ---
 
 LooksRare is the community-first NFT marketplace with rewards for participating.

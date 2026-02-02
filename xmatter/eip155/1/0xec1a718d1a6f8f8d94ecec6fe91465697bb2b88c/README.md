@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#565655"
+icons:
+  - icon.png
 ---
 
 An online advertising platform and a wireless advertising network, known as ENTONE where users are rewarded by watching ads, entertainment, Instagram followers and subscribing to YouTube pages.

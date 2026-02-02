@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#228bfc"
+icons:
+  - icon.png
 ---
 
 Poopcoin is a meme coin on Base that was airdropped to holders of the Doodles NFT ecosystem. It has no promise, could very well be worth less than zero, like a fresh, steaming pile of dung

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#365f86"
+icons:
+  - icon.png
 ---
 
 Banyan Network is a fusion of big data network based on blockchain technology called Data Fusion Value Chain Network (DVN).

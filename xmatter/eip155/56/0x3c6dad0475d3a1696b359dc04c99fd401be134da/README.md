@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f41c3c"
+icons:
+  - icon.png
 ---
 
 Saito is a massively scaling layer one blockchain for application developers.

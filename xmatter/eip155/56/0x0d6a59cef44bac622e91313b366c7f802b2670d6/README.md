@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#21255e"
+icons:
+  - icon.png
 ---
 
 Glorious Genius IN INcredible holDER

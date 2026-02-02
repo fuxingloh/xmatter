@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#ded9f4"
+icons:
+  - icon.png
 ---
 
 Zebu is the first bear themed memecoin on Solana built by solana degens. It is born by the need of the culture to welcome bears into the memecoin era. Built in the bull season of 2024 , Zebu aims to add value and fun to the solana ecosystem.

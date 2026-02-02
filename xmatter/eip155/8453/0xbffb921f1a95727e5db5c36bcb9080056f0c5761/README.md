@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c4d9d4"
+icons:
+  - icon.png
 ---
 
 Shiba Inu on Base (SHIB) is a new meme cryptocurrency project that aims to bring the playful and community-driven spirit of the Shiba Inu meme into the Base blockchain ecosystem.

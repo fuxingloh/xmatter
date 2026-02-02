@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1a1312"
+icons:
+  - icon.png
 ---
 
 An experiment in decentralized community building around a simple erc-20 token.

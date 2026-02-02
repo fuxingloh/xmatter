@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a3f2fa"
+icons:
+  - icon.png
 ---
 
 AXO is a meme-innovative Token Driven by community attention .

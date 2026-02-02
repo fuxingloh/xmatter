@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#292822"
+icons:
+  - icon.png
 ---
 
 Byte ($BYTE) is a novel ERC meme token that creatively intertwines the worlds of cryptocurrency and popular culture. Inspired by Elon Musk's announcement of naming his dog 'Byte' in reference to his Grok AI project.

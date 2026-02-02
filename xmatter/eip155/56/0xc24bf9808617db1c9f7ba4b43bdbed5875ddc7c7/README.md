@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f87939"
+icons:
+  - icon.png
 ---
 
 SpacePath token is backed by the SpacePath marketplace. The first NFT marketplace with no platform fees.

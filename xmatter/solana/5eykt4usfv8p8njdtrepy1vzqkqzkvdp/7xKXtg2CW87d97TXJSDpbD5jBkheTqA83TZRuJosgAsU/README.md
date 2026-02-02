@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#dedce1"
+icons:
+  - icon.png
 ---
 
 The premier community, dog money, & ambassador of the Solana ecosystem.

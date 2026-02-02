@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e28133"
+icons:
+  - icon.png
 ---
 
 PAPU Token is a meme coin inspired by the Papu video game character, created for entertainment purposes and community focus. It presents itself as the 'PAPU' of meme coins. It is a meme coin with no financial return expectations. It is not connected with any game, individual, or company.

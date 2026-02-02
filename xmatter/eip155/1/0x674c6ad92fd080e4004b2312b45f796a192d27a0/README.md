@@ -27,6 +27,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04fbb4"
+icons:
+  - icon.png
 ---
 
 Neutrino USDN is a stablecoin issued on Waves Protocol. Collaterization is based on NSBT. More details in WP.

@@ -16,6 +16,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#141c3b"
+icons:
+  - icon.png
 ---
 
 WINK (formerly TRONBet) describes itself as a betting DApp based on the TRC20 WIN token.

@@ -10,6 +10,8 @@ standards:
   - trc20
 icon: icon.png
 color: "#332391"
+icons:
+  - icon.png
 ---
 
 TRON UP is a decentralized game platform, the main members of the team are blockchain technology enthusiasts from all over the world.

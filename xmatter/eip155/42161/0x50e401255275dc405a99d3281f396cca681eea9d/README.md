@@ -19,6 +19,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04143d"
+icons:
+  - icon.png
 ---
 
 Kortana Legacy is a 3rd-person shooter game that allows players to earn financial rewards through betting. With fast-paced action and competitive gameplay, players can stake their cryptocurrency to win big while battling it out in immersive, high-stakes battles.

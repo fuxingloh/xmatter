@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e0ba12"
+icons:
+  - icon.png
 ---
 
 Meta-World is an island nation-building game for the NFT platform.

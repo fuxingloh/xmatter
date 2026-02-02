@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#caa179"
+icons:
+  - icon.png
 ---
 
 https://pump.fun/coin/FqvtZ2UFR9we82Ni4LeacC1zyTiQ77usDo31DUokpump

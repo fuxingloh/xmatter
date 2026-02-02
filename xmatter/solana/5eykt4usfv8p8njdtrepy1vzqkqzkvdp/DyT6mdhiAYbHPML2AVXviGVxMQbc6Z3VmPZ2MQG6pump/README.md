@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#de2bec"
+icons:
+  - icon.png
 ---
 
 Large Language Model (LLM)

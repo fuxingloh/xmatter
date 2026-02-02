@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f8f93b"
+icons:
+  - icon.png
 ---
 
 deBridge is DeFi's internet of liquidity, enabling real-time movement of assets and information across the DeFi landscape.

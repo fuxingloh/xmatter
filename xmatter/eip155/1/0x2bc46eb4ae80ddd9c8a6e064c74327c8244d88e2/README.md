@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e1933d"
+icons:
+  - icon.png
 ---
 
 Layer 2 solution designed to unlock the full potential of DeFi on the world’s most secure blockchain network.

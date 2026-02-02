@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0665d5"
+icons:
+  - icon.png
 ---
 
 Life Token v2 is a charity orientated token on the Binance Smart Chain aiming to aid suicide prevention charities all over the world, to help save lives.

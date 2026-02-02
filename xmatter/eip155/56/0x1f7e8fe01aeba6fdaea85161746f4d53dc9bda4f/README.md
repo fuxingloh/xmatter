@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#30c8f8"
+icons:
+  - icon.png
 ---
 
 GG Token - Created in 2022 in cooperation with GG International Ltd, GG World Lottery, and White Lotto - The most efficient software and technology provider for the entertainment and crypto industry, since 2009. GGTKN is a Native token for multiple Gaming, E-Commerce, and Networking platform projects.

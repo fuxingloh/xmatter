@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#16120d"
+icons:
+  - icon.png
 ---
 
 TeRminUs The FirSt CIty On MaRS

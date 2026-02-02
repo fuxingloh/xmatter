@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#270939"
+icons:
+  - icon.png
 ---
 
 PiggyBankToken is a fair launched, hyper-deflationary DeFi token on the Binance Smart Chain Network.

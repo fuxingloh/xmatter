@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d7be67"
+icons:
+  - icon.png
 ---
 
 UnderMineGold project will become a platform, which includes NFT, De-Fi and game.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#141c3c"
+icons:
+  - icon.png
 ---
 
 Wise is an innovative and highly secure DeFi ecosystem that offers a full suite of financial tools. 100% of ecosystem profits go to token holders.

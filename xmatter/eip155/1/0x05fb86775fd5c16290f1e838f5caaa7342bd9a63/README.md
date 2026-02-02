@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#67eac1"
+icons:
+  - icon.png
 ---
 
 The Hacken Foundation gives a boost to innovative cybersecurity solutions by empowering the Hacken Ecosystem through HAI Tokenomics.

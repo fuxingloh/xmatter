@@ -21,6 +21,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2d2a27"
+icons:
+  - icon.png
 ---
 
 Mini Hollywood Doge is BEP20 Token based on a fun meme, but at its heart is a serious mission to contribute to charitable organisations as voted by its community of holders, and to enable a launchpad for future meme token projects.

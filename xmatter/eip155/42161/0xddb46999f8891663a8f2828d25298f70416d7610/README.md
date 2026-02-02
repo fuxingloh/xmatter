@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2fca99"
+icons:
+  - icon.png
 ---
 
 Cryptocurrency, also referred to as “crypto,” is a type of digital currency that uses cryptography to help improve the security and overall user control of associated transactions

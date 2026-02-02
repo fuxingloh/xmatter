@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f2c36c"
+icons:
+  - icon.png
 ---
 
 CryptoPlanes is an expansion of the CryptoCity metaverse. The place where the famous NFT racing game was founded.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#100c09"
+icons:
+  - icon.png
 ---
 
 SHIBBY is the worlds first DAO combined with Safemoon Tokenomics on BSC

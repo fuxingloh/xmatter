@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8134d4"
+icons:
+  - icon.png
 ---
 
 Maintain 100% liquidity of your capital, trade and use DeFi while simultaneously earning block and fee rewards by staking ANY digital asset

@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#946e54"
+icons:
+  - icon.png
 ---
 
 Tongue Cat $LUIS is nothing but a cute kitten in a skin care session with his tongue out in Solana Blockchain.

@@ -8,6 +8,7 @@ name: Offshift
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 Offshift is a cryptographically private offshore storage & DeFi protocol on Ethereum.

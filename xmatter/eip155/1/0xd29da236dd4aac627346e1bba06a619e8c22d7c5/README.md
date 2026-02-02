@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b91d22"
+icons:
+  - icon.png
 ---
 
 MAGA - TRUMP'S HAT. SUPPORT TRUMP SUPPORT MAGA

@@ -23,6 +23,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e8c664"
+icons:
+  - icon.png
 ---
 
 MinionsINU is designed to create a complex ecosystem in which DeFi and Metaverse are integrated together.

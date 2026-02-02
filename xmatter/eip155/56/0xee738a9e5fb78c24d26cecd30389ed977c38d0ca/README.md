@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#142026"
+icons:
+  - icon.png
 ---
 
 A deflationary, auto-staking, community owned token.

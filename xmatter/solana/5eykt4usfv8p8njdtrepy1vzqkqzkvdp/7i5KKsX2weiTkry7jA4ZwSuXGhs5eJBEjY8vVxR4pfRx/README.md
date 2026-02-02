@@ -22,6 +22,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#e2c475"
+icons:
+  - icon.png
 ---
 
 GMT is the governance token of STEPN, which is a Web3 lifestyle app with fun social elements and gamification design.

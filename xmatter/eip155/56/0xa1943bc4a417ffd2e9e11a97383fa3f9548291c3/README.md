@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2fa9dc"
+icons:
+  - icon.png
 ---
 
 API Inu provide a traditional API service to smart contracts in a decentralized way.

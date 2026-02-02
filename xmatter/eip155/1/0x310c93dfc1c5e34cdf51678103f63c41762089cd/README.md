@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#060404"
+icons:
+  - icon.png
 ---
 
 1irstcoin describes itself as 'google for traders', The project claims that its bots are able to execute market orders with high performance and low fees.

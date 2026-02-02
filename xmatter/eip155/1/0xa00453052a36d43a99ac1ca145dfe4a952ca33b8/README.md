@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d0b274"
+icons:
+  - icon.png
 ---
 
 Claims to be part of the Dogeverse, born from @ownthedoge tweet. Based on Ethereum.

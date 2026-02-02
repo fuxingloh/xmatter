@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e0c8af"
+icons:
+  - icon.png
 ---
 
 IT`S NOT AN ORDINARY MEME TOKEN - BY RECEIVING BTC REFLECTIONS ( YES, IT'S TRUE, YOU WILL RECEIVE ONE&ONLY $BTC IF YOU TRADE AND HOLD $EGGY),

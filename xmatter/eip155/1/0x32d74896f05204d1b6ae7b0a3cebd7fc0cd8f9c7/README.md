@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#050505"
+icons:
+  - icon.png
 ---
 
 Kcash (KCASH) is a cryptocurrency and operates on the Ethereum platform.

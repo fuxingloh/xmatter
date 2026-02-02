@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ce1f6f"
+icons:
+  - icon.png
 ---
 
 MUSK is a token in Binance Smart Chain

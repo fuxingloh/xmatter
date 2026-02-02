@@ -32,6 +32,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3cb14"
+icons:
+  - icon.png
 ---
 
 CoW Protocol lets you swap assets MEV protected at the best exchange rate by leveraging its batch settlement layer built on top of AMMs and DEX Aggregators.

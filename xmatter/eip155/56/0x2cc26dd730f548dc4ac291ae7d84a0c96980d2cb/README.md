@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbd282"
+icons:
+  - icon.png
 ---
 
 PIZZA is the Best Modern Yield Farm on Binance Smart Chain.

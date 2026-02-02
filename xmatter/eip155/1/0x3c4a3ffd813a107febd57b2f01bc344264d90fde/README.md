@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#35ace0"
+icons:
+  - icon.png
 ---
 
 EnergiToken rewards energy saving behaviour. Our blockchain solution will create a platform to reward energy efficient behaviour through EnergiToken.

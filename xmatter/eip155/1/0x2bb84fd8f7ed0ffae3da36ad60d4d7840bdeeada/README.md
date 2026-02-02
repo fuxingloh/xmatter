@@ -12,6 +12,7 @@ name: SORA GROK
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 A cutting-edge platform that revolutionizes text-to-video generation, transforming written prompts into dynamic, creative videos.

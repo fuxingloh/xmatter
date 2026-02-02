@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#352732"
+icons:
+  - icon.png
 ---
 
 The ultimate warrior in the Crypto World!

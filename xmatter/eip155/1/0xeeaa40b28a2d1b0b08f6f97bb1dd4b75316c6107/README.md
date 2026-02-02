@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2452a5"
+icons:
+  - icon.png
 ---
 
 GOVI token is a governance token for the protocol and platform.

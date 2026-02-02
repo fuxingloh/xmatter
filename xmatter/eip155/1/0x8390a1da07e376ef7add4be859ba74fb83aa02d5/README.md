@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#050505"
+icons:
+  - icon.png
 ---
 
 Xai's first product is Grok, a system with a byte of humour.

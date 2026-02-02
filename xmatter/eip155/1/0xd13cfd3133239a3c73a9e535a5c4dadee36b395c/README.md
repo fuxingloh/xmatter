@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#14143c"
+icons:
+  - icon.png
 ---
 
 VAIOT offers a portfolio of blockchain-based AI assistants for businesses and consumers to provide automated services and transactions.

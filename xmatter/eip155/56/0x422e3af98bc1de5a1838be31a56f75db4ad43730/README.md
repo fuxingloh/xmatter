@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3c86ef"
+icons:
+  - icon.png
 ---
 
 COW is the platform token of CoinWind. CoinWind is a DeFi ecological smart mining financial platform.

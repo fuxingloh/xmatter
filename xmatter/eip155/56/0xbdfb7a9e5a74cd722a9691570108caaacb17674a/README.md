@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b8cad2"
+icons:
+  - icon.png
 ---
 
 $SPACESHARKS is a deflationary and frictionless yield token built to connect digital artists and those of interest!

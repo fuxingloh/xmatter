@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0b0b0b"
+icons:
+  - icon.png
 ---
 
 SafeBank Digital is a yield and liquidity generation protocol by DafriBank Digital. SafeBank employs 3 simple functions: Reflection + LP acquisition + Burn In each trade, the transaction is taxed a 10% fee, which is split 2 ways.

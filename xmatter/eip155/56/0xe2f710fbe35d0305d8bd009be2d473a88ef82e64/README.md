@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#705b4a"
+icons:
+  - icon.png
 ---
 
 IBEX is a true deflationary, community driven token.

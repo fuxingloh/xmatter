@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c6950d"
+icons:
+  - icon.png
 ---
 
 GMC are economic tokens and investments made using the Ethereum blockchain (ERC20).

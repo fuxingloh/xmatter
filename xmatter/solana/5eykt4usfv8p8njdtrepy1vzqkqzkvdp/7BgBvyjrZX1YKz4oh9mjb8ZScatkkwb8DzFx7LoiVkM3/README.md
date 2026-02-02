@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#e48510"
+icons:
+  - icon.png
 ---
 
 SLERF RAID GENERATOR

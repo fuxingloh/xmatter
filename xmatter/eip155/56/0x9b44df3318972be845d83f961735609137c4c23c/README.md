@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2081d4"
+icons:
+  - icon.png
 ---
 
 PayRue is a financial platform that operates exchanges, wallets, and transfers with cryptocurrencies.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f4b72e"
+icons:
+  - icon.png
 ---
 
 FEG Wrapped BNB

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#203880"
+icons:
+  - icon.png
 ---
 
 Ormeus Cash is a True Transactional Coin for a New Era of Commerce.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eb3e22"
+icons:
+  - icon.png
 ---
 
 T-Mac DAO is the first self-organized fan support autonomous community based on basketball stars. In the T-Mac DAO community

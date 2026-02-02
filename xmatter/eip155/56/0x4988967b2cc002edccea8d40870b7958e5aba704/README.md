@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dcdee1"
+icons:
+  - icon.png
 ---
 
 A Cz engraved on the chain.

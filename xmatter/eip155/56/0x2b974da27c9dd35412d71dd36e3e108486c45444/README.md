@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f0ce79"
+icons:
+  - icon.png
 ---
 
 CZXP unlock higher level NFT minting from the Cryptoz store, and are generated through the sacrifice of Cryptoz NFT tokens

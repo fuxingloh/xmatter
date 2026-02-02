@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0d0d46"
+icons:
+  - icon.png
 ---
 
 5ire is an EVM-compatible sustainability-oriented smart contract platform that focuses on developing a sustainable and for-benefit ecosystem based on the UN SDGs. To enable this, our goal is to build a computing platform that promotes and advocates these activities to achieve the goals.

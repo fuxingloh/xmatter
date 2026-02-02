@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bba653"
+icons:
+  - icon.png
 ---
 
 CentasaveX aims to guide people in saving cryptocurrency from a little amount to a bigger amount that can be used in the future. CentasaveX is the power of Saving Crypto.

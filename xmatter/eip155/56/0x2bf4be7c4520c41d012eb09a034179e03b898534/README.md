@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eeb128"
+icons:
+  - icon.png
 ---
 
 ASIX+ Token is a token which is made by PT. META NUSANTARA VICTORI, which has purpose and the projects of P2E games, NFT Marketplace, and Metaverse.ASIX+ Token is the main utility in our 3 projects. P2E Games, NFT Market, and Nusantaraverse. ASIX+ Token can be used in all three projects.In addition, it does not rule out the possibility of developing or adding projects in the future.

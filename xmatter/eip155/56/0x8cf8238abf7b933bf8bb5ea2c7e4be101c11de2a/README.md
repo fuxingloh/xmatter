@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#242434"
+icons:
+  - icon.png
 ---
 
 XP.network is the first blockchain-agnostic NFT ecosystem

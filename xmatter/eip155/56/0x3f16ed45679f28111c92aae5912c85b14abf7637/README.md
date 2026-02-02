@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4d4b4b"
+icons:
+  - icon.png
 ---
 
 Bermuda shorts are like bitcoin

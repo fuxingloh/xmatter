@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#142c6c"
+icons:
+  - icon.png
 ---
 
 Colawork is a workplace benefits provider that rewards employees with cryptocurrency (COLA) for their participation at the digital workplace/collaboration tool.

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#b1967b"
+icons:
+  - icon.png
 ---
 
 $ROCKY is the cutest most loyal rock I have ever had. He is always by my side and will never die.

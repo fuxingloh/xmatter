@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#232b2b"
+icons:
+  - icon.png
 ---
 
 Rocket Bunny combines the most sought after tokenomics across DeFi: automatic liquidity adds, compounding yield, deflationary supply, liquidity rewards, and price shock protection.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c8c8d7"
+icons:
+  - icon.png
 ---
 
 τDogecoin is a synthetic Dogecoin supported by some of the largest miners in the world. Implementing the τ protocol, τDogecoin shows superior capital efficiency and composability for DeFi uses.

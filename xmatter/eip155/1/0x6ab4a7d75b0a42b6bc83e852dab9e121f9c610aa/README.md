@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#59d26c"
+icons:
+  - icon.png
 ---
 
 Elitium provides a luxury lifestyle platform for its clientele using a sustainable cryptocurrency solution.

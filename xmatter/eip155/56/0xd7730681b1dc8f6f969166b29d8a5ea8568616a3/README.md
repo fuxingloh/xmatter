@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#da4dc1"
+icons:
+  - icon.png
 ---
 
 Nafter is an online marketplace for creators and fans to buy, sell, mint & collect content NFTs - all in one app.

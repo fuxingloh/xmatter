@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1362af"
+icons:
+  - icon.png
 ---
 
 Biconomy is a Canadian digital currency exchange.

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#785c4e"
+icons:
+  - icon.png
 ---
 
 Ross Ulbricht, the creator of Silk Road, has been imprisoned since 2013 for non-violent offenses as a first-time offender.

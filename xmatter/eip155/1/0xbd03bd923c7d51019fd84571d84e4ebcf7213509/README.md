@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3042b"
+icons:
+  - icon.png
 ---
 
 Rocket is a state of the art DeFi financial system that implements advanced token economics including token burn and staking into its fee structure.

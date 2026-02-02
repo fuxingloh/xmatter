@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#16a2f1"
+icons:
+  - icon.png
 ---
 
 Shintama, a DeFi project launched after the success of Shinja and Saitama in the DeFi space has grand plans to build a bridge between everyday internet users and the Defi world in a safe and simple way.

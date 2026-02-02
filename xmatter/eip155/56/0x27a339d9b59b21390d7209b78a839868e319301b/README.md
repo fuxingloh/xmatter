@@ -21,6 +21,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e75085"
+icons:
+  - icon.png
 ---
 
 OpenWorld works with blockchain technology to build a distinct metaverse world with a sound circular economy based on real monetary flow.

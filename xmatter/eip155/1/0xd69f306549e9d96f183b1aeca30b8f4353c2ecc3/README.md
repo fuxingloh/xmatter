@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7f78ee"
+icons:
+  - icon.png
 ---
 
 MCH coins are primarily used to vote on MCH governance.

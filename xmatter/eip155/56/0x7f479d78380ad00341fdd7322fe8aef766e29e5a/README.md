@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#07f4bb"
+icons:
+  - icon.png
 ---
 
 Whirl Finance is a multi-coin cryptocurrency wallet that securely stores your crypto assets in the most simple and easy way. Truly mobile-friendly, supporting major cryptocurrencies like Bitcoin, BNB, Ethereum, Ripple, and more. WHIRL is a utility token powered by Binance Smart Chain. It works by applying 2% fee to each transaction is automatically sent to burn address that continuously reduces the total supply.

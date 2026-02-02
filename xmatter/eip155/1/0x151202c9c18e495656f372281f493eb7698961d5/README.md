@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9222b5"
+icons:
+  - icon.png
 ---
 
 Debitum is a lending ecosystem that connects small businesses, investors and service providers - currently risk assessors

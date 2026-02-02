@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1f1c19"
+icons:
+  - icon.png
 ---
 
 New Submission for logo

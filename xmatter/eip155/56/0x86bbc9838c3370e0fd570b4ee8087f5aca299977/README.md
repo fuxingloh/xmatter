@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6b4089"
+icons:
+  - icon.png
 ---
 
 BlackBerry token is an innovative Binance Smart Chain token that is designed for maximizing profits in the DeFI yield generation.

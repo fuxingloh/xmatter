@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#31174e"
+icons:
+  - icon.png
 ---
 
 SAFEUNIVERSE v 2.1, A Frictionless Yield Generation, Community Driven Protocol.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3cb26"
+icons:
+  - icon.png
 ---
 
 Believe In CZ Be a Believer

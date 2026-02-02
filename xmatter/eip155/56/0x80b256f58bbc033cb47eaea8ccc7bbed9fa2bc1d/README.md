@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040424"
+icons:
+  - icon.png
 ---
 
 $UP token is a super MEME AI application token based on the BSC chain

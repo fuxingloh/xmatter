@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#07a0ee"
+icons:
+  - icon.png
 ---
 
 StarSharks is a community-driven shark metaverse where players, developers and investors could define the value evolution of underlying NFTs in a sustainable ecosystem. This project aims to cultivate and share value of content with the community, and to disrupt the current GameFi world where assets are isolated in one game. StarSharks is powered with dual-token system: SSS, governance token; and SEA, game token.

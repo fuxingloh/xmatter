@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#252423"
+icons:
+  - icon.png
 ---
 
 Biao on Solana is community-driven project powered with the most well known Meme of Asia. Now on Solana

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#dec38d"
+icons:
+  - icon.png
 ---
 
 The NEW face of Solana $POCHITA

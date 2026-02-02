@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#147cec"
+icons:
+  - icon.png
 ---
 
 Atlantis is a decentralized money market that enables users to borrow and supply digital assets to the protocol within a non-custodial environment

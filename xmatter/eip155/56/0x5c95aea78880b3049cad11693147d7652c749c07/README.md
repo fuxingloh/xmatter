@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f1d1ed"
+icons:
+  - icon.png
 ---
 
 $WAT2 is an abbreviation for "WEB3 Annual Top2," representing a virtual idol group formed by the digital humans behind MEET48's popular idols rinako & Yancy.

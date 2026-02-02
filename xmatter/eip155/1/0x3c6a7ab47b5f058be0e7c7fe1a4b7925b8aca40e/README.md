@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cc202b"
+icons:
+  - icon.png
 ---
 
 Solar powered high speed internet for West Africa.

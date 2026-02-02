@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#372a24"
+icons:
+  - icon.png
 ---
 
 BNB Robots proved to be a fan favorite this year. This one in particular struck a chord as our most popular piece of artwork in 2023-2025!

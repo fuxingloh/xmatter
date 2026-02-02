@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e1e2c0"
+icons:
+  - icon.png
 ---
 
 Seamless omni-chain enabled swapping with industry leading rates and access to millions of digital assets, from the moment of their inception.

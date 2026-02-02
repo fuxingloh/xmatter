@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#74bce4"
+icons:
+  - icon.png
 ---
 
 QURAS is a genuine secret contract platform that fulfills various privacy protection needs.

@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Follow the story of seven frens: Trump, Elon, Vivek, RFK, Tulsi, Dana, and Joe, here to make America great again!

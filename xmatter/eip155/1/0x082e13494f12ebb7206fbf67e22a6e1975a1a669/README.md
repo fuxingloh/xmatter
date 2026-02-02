@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbb94b"
+icons:
+  - icon.png
 ---
 
 Artis Turba is an intuitive cryptocurrency exchange built for individuals, traders and investors. The platform allows its community to buy and sell popular digital currencies with the local South African fiat currency, the South African Rand (ZAR).

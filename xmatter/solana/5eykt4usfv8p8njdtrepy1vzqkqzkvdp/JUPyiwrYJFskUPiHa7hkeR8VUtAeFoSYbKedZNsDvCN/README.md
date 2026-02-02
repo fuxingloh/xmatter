@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#75d8af"
+icons:
+  - icon.png
 ---
 
 As one of the industry's most advanced swap aggregation engines, Jupiter excels in delivering essential liquidity infrastructure for the Solana ecosystem.

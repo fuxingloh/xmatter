@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a6a2a4"
+icons:
+  - icon.png
 ---
 
 SAV3 is a DAO for uncensorable on-chain information. It charges a 4% tax on transfers which is paid to liquidity providers.

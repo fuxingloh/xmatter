@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#541e2d"
+icons:
+  - icon.png
 ---
 
 Mammon (MMON) based on bsc blockchain to pay to trade on coffee industry import and export from Central America El Salvador, Honduras, Guatemala, Costa Rica and Panamá.

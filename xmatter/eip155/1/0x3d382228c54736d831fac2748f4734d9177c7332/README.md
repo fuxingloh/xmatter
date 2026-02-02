@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0f4023"
+icons:
+  - icon.png
 ---
 
 ANIVERSE project is an 'Online Theme Park' platform that combines actual businesses based on animation IP with blockchain technology. ANIVERSE allows anyone to access animation IP sources through our platform to create and sell IP products, contents.

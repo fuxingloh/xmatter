@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e8c24c"
+icons:
+  - icon.png
 ---
 
 The Butter token is the second token released as part of the Milk and Butter token ecosystem. The Butter token has auto-liquidity, deflationary, and staking reward mechanics. The Butter Token is the governance token of the Milk and Butter token ecosystem. Butter token automatically collect fees on every transaction that are used to donate to charities based on the votes cast by Butter Token holders.

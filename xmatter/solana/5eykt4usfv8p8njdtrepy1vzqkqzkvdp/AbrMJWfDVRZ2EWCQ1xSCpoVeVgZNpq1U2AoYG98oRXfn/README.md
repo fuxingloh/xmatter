@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f4bf58"
+icons:
+  - icon.png
 ---
 
 It's just a slice of cheese.

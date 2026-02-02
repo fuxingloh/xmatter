@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#2f2959"
+icons:
+  - icon.png
 ---
 
 $USA is the greatest empire in the history of humanity brought on-chain by a strong community of god-fearing patriots. We will not stop until all other memes have been liberated

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#8850f8"
+icons:
+  - icon.png
 ---
 
 Keep4r Network is an improved fork of the keep3r network!

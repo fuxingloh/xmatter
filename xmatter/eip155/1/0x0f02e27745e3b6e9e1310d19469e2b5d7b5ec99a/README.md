@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2404bc"
+icons:
+  - icon.png
 ---
 
 PECULIUM revolutionises savings management by deploying immutable Smart-Contracts over the Ethereum blockchain. These smart contracts provide a trust-less way of achieving transparent, decentralised, and infallible contractual agreements.

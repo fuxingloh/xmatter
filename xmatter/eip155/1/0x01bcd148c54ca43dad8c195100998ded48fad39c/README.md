@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#050504"
+icons:
+  - icon.png
 ---
 
 aceCoin is designed to be a precious possession in the growing cryptocurrency market. We give RaceCoin owners control over their money without compromising on convenience.

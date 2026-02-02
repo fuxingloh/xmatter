@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b2030"
+icons:
+  - icon.png
 ---
 
 TheDogeWorld is a community based token with upcoming NFT marketplace.

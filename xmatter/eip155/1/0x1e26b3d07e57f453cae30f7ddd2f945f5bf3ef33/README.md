@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#647efb"
+icons:
+  - icon.png
 ---
 
 ClearCoin makes buying and selling of media on the blockchain simple and seamless. Its platform powers a system allowing for complete data transparency everyone can trust.

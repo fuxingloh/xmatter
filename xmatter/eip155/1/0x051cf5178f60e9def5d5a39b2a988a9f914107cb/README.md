@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d9cfd1"
+icons:
+  - icon.png
 ---
 
 Epstein didn't kill himself...he's hiding on the moon, and we’re going to find him and raise awareness on the way.

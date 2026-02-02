@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#909068"
+icons:
+  - icon.png
 ---
 
 BZ DIAMOND is setting the goals from January 2022 to grow by developing long-term partnerships with customers worldwide and across the industries

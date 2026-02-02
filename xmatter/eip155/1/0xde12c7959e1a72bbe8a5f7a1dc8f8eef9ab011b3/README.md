@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d67366"
+icons:
+  - icon.png
 ---
 
 DEUS Finance Evolution is a marketplace of decentralized financial services, where we provide the infrastructure for others to build financial instruments, such as synthetic stock trading platforms, options, and futures trading.

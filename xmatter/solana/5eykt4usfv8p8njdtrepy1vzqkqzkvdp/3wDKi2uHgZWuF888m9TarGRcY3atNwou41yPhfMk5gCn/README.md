@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#0c1927"
+icons:
+  - icon.png
 ---
 
 The Doge AI Agent project is an emerging initiative that combines Dogecoin with artificial intelligence to expand its applications

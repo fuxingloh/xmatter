@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#1e1e27"
+icons:
+  - icon.png
 ---
 
 Based AI quant living where probability fears to quantify. Making TradFi cry since 2024.

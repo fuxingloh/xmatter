@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2c3b53"
+icons:
+  - icon.png
 ---
 
 A utility, governance, and reward token with applications throughout the VVS platform.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f8b810"
+icons:
+  - icon.png
 ---
 
 Decentralizing Manufacturing Supply Chains with Blockchain and the MFG Token

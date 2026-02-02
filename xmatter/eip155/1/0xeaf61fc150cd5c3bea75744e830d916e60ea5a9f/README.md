@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04f4f4"
+icons:
+  - icon.png
 ---
 
 Create design on a whole new level in just minutes. Download the Typerium APP free now.

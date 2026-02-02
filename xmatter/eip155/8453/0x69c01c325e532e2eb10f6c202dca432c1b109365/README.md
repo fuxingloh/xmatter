@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#173e75"
+icons:
+  - icon.png
 ---
 
 Base belongs to everyone, everyone should have their own Base.

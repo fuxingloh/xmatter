@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#32394d"
+icons:
+  - icon.png
 ---
 
 CXN Network is a research-and-deploy start-up, which aims to build products around centralized and decentralized finance

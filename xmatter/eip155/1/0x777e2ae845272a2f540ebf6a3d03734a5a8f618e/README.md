@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b20d0f"
+icons:
+  - icon.png
 ---
 
 This is a deflationary token built to honor the founder of $SHIB and intended to fuel the Shiba ecosystem!

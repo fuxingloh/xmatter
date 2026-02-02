@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#38f491"
+icons:
+  - icon.png
 ---
 
 Altcoinist - Trade, Network, Earn Together. If the Supercycle is Gen-Z’s Gold Rush, Trenches are the shovels for life-changing gains... Altcoinist is a social trading infra built to help you achieve success in the crypto market. Join the top-performing Telegram/Discord Trenches.

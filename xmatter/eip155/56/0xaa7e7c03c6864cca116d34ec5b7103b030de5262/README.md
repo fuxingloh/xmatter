@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c19a8a"
+icons:
+  - icon.png
 ---
 
 ElonXCoin is Memes Token

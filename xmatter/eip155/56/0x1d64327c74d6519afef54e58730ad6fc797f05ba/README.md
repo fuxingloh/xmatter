@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#b28f57"
+icons:
+  - icon.png
 ---
 
 OMNI Estate Group and Passive Income are pioneers in the region's real estate market and blockchain technology. With a stronghold of 22.000 properties in our database and counting, we are at the forefront of the market as the most trusted real estate agent, tech partner and feature among the top-agencies for the world's most innovative agencies.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3434bc"
+icons:
+  - icon.png
 ---
 
 Autofarm is a suite of products in Decentralized Finance (DeFi) that provides DEX aggregation and, yield farming aggregation on the various blockchains.

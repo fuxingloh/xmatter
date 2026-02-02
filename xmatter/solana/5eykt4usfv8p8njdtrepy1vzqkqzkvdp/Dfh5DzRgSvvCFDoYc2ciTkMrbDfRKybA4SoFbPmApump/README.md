@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#edfafb"
+icons:
+  - icon.png
 ---
 
 A place where gentle wonders shape unseen connections, and kind words bloom like flowers.

@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#222f1f"
+icons:
+  - icon.png
 ---
 
 Mugs can create a custom Mimany, just for you, to your specifications.

@@ -35,6 +35,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e9aa55"
+icons:
+  - icon.png
 ---
 
 BankerDoge is a Defi as a Service platform designed to add features such as staking, time-locking, and Defi lending to any BSC token.

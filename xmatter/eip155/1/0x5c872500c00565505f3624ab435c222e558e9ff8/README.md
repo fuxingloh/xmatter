@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#070707"
+icons:
+  - icon.png
 ---
 
 CoTrader (COT) is a cryptocurrency and operates on the Ethereum platform.

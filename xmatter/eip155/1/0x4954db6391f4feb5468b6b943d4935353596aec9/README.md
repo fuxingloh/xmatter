@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 USDQ is a decentralized stable coin, which is backed by bitcoin and pegged to the dollar, so 1 USDQ = $1 USD.

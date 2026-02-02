@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#252b40"
+icons:
+  - icon.png
 ---
 
 We are Anonymous (ANON)

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#070e0e"
+icons:
+  - icon.png
 ---
 
 Native token of defi site Potluck Protocol

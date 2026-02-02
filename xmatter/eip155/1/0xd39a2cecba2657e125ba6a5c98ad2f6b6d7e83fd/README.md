@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#343333"
+icons:
+  - icon.png
 ---
 
 The project's mission is to deliver sustainability, reputation, and authenticity into the luxury market. Tracing goods on the blockchain, from raw material up to the distribution chain.

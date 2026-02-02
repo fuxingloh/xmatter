@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#736eb3"
+icons:
+  - icon.png
 ---
 
 The win-win lottery on Binance SmartChain where every ticket earns you interest.

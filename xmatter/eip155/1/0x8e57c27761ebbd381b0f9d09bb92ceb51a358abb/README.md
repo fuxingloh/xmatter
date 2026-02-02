@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e5ca6c"
+icons:
+  - icon.png
 ---
 
 Adaptive Social Media System.

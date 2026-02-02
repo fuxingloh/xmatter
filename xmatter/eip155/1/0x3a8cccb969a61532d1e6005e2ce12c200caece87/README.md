@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f1f8f9"
+icons:
+  - icon.png
 ---
 
 TITAN is a blockchain based decentralized financial center that provides optimal liquidity solutions for different digital asset category by adaptive bonding curve.

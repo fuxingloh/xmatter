@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e7a731"
+icons:
+  - icon.png
 ---
 
 Gensokishi Online -META WORLD- Token with utility to configure metaverse.

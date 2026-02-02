@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#040414"
+icons:
+  - icon.png
 ---
 
 Agridex is a Solana Backed RWA Marketplace Reshaping the Global Agricultural Industry

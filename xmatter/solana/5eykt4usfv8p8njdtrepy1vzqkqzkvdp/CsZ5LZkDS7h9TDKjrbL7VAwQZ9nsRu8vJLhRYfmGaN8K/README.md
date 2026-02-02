@@ -18,6 +18,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#e1edfb"
+icons:
+  - icon.png
 ---
 
 Fetch.ai aims to be at the forefront of accelerating research and the deployment of emerging technologies such as blockchain and AI.

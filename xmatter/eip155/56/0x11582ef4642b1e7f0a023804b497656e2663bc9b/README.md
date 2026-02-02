@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040c1c"
+icons:
+  - icon.png
 ---
 
 KCCPad is the first major launch pad on KCC. KCCPad brings stabilty, safety and amazing opportunities on the new and highly anticipated KuCoin Community Chain!

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0454fc"
+icons:
+  - icon.png
 ---
 
 The main token for Waves Protocol.

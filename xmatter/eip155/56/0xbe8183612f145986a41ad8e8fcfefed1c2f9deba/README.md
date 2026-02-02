@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ccb98e"
+icons:
+  - icon.png
 ---
 
 Moon Bud is a deflationary meme token that supports charities worldwide

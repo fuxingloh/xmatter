@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9f1eb"
+icons:
+  - icon.png
 ---
 
 The SpaceSwap project aims to become the first and only one-stop-station for major DeFi protocols. It will provide users with a fair and profitable earnings sharing system, topped by MilkyWay (MILK2) coin rewards and MilkShake (SHAKE), to boost your earnings.

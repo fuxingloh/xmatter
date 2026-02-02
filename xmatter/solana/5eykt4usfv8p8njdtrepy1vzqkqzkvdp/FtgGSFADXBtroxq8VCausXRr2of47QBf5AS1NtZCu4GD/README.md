@@ -10,6 +10,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#acdbc5"
+icons:
+  - icon.png
 ---
 
 BRZ is a fully backed Brazilian Real stablecoin, a multi-chain digital asset that provides international liquidity and ease-of-access to both Latin Americans and international players who wish to access the Brazilian market

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f54040"
+icons:
+  - icon.png
 ---
 
 Bloody is a deflationary farming token that also periodically rebases like Ampleforth.

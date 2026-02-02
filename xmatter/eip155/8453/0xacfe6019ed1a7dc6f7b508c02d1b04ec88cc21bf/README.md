@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#11344d"
+icons:
+  - icon.png
 ---
 
 The Venice token (VVV) is an access key for AI agents and developers to consume private, uncensored inference through the Venice API, without paying per request.

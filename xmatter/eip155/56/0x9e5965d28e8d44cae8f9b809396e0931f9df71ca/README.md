@@ -28,6 +28,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4544e6"
+icons:
+  - icon.png
 ---
 
 Space SIP is the first NFT space battleship game with worldclass design of gaming experience in a real-value collectible ecosystem.

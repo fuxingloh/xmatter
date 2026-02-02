@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0b4e6d"
+icons:
+  - icon.png
 ---
 
 The IDEX token is the primary token of IDEX, enabling users to directly contribute to and benefit from the project.

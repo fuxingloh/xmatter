@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 Wrapped Mirror AMZN Token.

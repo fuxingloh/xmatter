@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f5a223"
+icons:
+  - icon.png
 ---
 
 MUXE The Innovative Platform For all your needs. MUXE is the innovative platform that uses Blockchain technology to allow users to LIST, SEARCH, SECURE and SETTLE all your needs.

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ba7d18"
+icons:
+  - icon.png
 ---
 
 The official token of all things in The Bad Crypto Podcast universe, including the show itself, Blockchain Heroes digital trading cards, The Nifty Show, The Nifty Box and more!

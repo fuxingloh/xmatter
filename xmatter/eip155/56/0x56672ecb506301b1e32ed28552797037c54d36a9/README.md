@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5ca3eb"
+icons:
+  - icon.png
 ---
 
 wBIS is a BEP-20 BSC Token with 1:1 native BIS counterpart.

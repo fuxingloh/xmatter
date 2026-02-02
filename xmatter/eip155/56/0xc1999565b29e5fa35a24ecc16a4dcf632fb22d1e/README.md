@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#050406"
+icons:
+  - icon.png
 ---
 
 CryptoCandy aims to be the sweetest Community Token on Binance Smart Chain by building gaming ecosystems around it.

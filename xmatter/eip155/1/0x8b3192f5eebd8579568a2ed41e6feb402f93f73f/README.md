@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d6d3cc"
+icons:
+  - icon.png
 ---
 
 Community Owned Decentralised Token

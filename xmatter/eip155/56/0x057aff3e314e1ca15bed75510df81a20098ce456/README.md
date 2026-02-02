@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f27c0d"
+icons:
+  - icon.png
 ---
 
 Potent coin is an ecosystem on the Binance Smart Chain blockchain that offers fast and efficient solutions for using cryptocurrencies.

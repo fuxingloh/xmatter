@@ -16,6 +16,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#fa9e08"
+icons:
+  - icon.png
 ---
 
 Shiba Inu on Solana is a decentralized meme token that grew into a vibrant ecosystem. We are a community-driven project that is dedicated to creating a fun environment for our community and building a decentralized ecosystem that will be used for years to come.

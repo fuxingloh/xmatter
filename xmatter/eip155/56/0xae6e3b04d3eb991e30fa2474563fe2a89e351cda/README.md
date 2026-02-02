@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ee9b4f"
+icons:
+  - icon.png
 ---
 
 PancakeFork Finance is one of the most popular AMM on BSC Network with Yield Farming, Staking & Automated Market Making services at very low swap trading fees.

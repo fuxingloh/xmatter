@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#090606"
+icons:
+  - icon.png
 ---
 
 KetchupFinance is an automatic liquidity acquisition yield farm and AMM decentralized exchange running on Binance Smart Chain with lots of unique and creative features that let you earn and win.

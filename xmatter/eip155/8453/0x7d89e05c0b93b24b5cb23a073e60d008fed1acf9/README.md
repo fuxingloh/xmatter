@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#648494"
+icons:
+  - icon.png
 ---
 
 member go up

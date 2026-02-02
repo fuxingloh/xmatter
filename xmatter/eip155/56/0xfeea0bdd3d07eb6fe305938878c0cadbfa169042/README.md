@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#63c3d1"
+icons:
+  - icon.png
 ---
 
 DEFI platform for automatic trustless crypto payments.

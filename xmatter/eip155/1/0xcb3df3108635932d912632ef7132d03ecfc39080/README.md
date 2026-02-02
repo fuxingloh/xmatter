@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f79714"
+icons:
+  - icon.png
 ---
 
 Hyper deflationary token with unique rewards and burning protocol.

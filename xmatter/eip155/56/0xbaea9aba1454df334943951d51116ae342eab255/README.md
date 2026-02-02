@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#201a48"
+icons:
+  - icon.png
 ---
 
 Poolz is a decentralized swapping protocol for cross-chain token pools and auctions, enabling projects to raise capital.

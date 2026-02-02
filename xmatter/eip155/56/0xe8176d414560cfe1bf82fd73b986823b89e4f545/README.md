@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c8c4ba"
+icons:
+  - icon.png
 ---
 
 The lucrative NFT fantasy-themed RPG Game on BSC and Polygon

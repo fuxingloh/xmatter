@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1d1c13"
+icons:
+  - icon.png
 ---
 
 BNB Shinobi is the all encompassing BSC reward coin, blockchain arcade, & blockchain metaverse.

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bcfcc2"
+icons:
+  - icon.png
 ---
 
 Gamezone is a launchpad for gaming projects

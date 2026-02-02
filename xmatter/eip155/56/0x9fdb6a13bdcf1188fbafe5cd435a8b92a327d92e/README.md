@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbb63d"
+icons:
+  - icon.png
 ---
 
 GoldMoney is a a protocol that unifies leading BSC protocols and blockchain infrastructure by standardising communication between them to create and execute complex financial transactions, while championing Privacy, Anonymity and Sovereignty.

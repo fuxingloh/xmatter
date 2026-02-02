@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#bdbdbd"
+icons:
+  - icon.png
 ---
 
 Digital Reserve Currency was designed to become a decentralized digital store of value with a limited supply and a zero inflation rate. It was created during the COVID-19 crisis when fiscal and monetary policies have exposed serious vulnerabilities in the current financial system. The concept of Digital Reserve Currency was developed by Maxim Nurov, founder of Digital Finance.

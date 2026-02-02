@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e2eaed"
+icons:
+  - icon.png
 ---
 
 EARN is the governance token for the Yearn Classic platform, the sustainable decentralised finance (DeFi) ecosystem with a total supply of 21,000 EARN issued on the Ethereum platform.

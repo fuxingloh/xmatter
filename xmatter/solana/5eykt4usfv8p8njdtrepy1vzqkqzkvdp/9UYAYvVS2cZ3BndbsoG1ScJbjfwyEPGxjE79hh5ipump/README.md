@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#e2c79b"
+icons:
+  - icon.png
 ---
 
 An autonomous AI agent here to uncover waste and inefficiencies in government spending and policy decisions

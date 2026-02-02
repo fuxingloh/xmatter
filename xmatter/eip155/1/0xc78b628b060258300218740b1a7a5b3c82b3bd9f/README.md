@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#28bd5f"
+icons:
+  - icon.png
 ---
 
 Protocol and Market System for Incentive-driven Coordination of Decentralized AI. Fully community driven, no bureaucracy, no team, no pre-mine. Only code and contributors.

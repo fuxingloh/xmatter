@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#342318"
+icons:
+  - icon.png
 ---
 
 Crypto Jesus Trump is a meme and a cultural phenomenon that has emerged in the cryptocurrency community.

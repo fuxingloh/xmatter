@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f9ecec"
+icons:
+  - icon.png
 ---
 
 LETSTOP is a blockchain-based platform focused on enhancing road safety through a unique model called Drive Safe to Earn.

@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ba437d"
+icons:
+  - icon.png
 ---
 
 Augury Finance is a financial ecosystem on the Polygon (MATIC) blockchain which focuses on trust, community ownership, and sustainable returns.

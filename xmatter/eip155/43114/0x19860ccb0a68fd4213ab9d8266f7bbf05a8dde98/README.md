@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3bc0c"
+icons:
+  - icon.png
 ---
 
 The Avalanche Bridge Wrapped Binance USD. BUSD is a dollar-backed stablecoin issued and custodied by Paxos Trust Company, and regulated by the New York State Department of Financial Services. BUSD is available directly for sale 1:1 with USD on Paxos.com and will be listed for trading on Binance.

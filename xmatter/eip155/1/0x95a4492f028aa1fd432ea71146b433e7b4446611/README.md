@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#18123b"
+icons:
+  - icon.png
 ---
 
 Yield Farming Robo-Advisor

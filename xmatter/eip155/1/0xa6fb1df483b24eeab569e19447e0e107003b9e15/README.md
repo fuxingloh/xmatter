@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1030f0"
+icons:
+  - icon.png
 ---
 
 Earnbase is an all-in-one, user-friendly DeFi protocol to earn, save and swap tokens.

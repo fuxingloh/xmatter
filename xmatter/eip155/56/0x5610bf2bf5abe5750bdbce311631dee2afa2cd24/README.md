@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9ba06"
+icons:
+  - icon.png
 ---
 
 MoonPump ($PUMP) is the community-built utility token for the upcoming PumpLaunch platform.

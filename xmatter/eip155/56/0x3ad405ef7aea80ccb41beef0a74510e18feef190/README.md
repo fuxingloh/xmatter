@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9731c"
+icons:
+  - icon.png
 ---
 
 SadBaby TOKEN is a crypto money project created to breathe for all sma patients. It aims to help all babies with sma.

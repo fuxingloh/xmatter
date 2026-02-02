@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040605"
+icons:
+  - icon.png
 ---
 
 SPACE ID is a universal name service network that seamlessly connects people, information, assets, and applications in the digital world. SPACE ID is also the provider of .bnb domain name service.

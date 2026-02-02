@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c63855"
+icons:
+  - icon.png
 ---
 
 CoinPoker is a poker room built on blockchain technology that aims to offer fantastic value for both poker players and cryptocurrency community members alike.

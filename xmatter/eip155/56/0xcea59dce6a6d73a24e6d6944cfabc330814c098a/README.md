@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f9a518"
+icons:
+  - icon.png
 ---
 
 A sustainable, completely decentralized, and utility-focused cryptocurrency, aimed at global human development.

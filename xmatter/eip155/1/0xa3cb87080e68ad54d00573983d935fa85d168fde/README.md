@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 IBIT functions as the currency for InfinityBit, an on-chain CEX. It also provides access to an automated AI-powered trading system and the greater InfinityBit ecosystem.

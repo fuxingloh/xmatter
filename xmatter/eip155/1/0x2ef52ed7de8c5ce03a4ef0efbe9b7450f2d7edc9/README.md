@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#191e45"
+icons:
+  - icon.png
 ---
 
 Revain is a blockchain-based review platform for the crypto community. Revain's ultimate goal is to provide high-quality reviews on all global products and services using emerging technologies like blockchain and AI.

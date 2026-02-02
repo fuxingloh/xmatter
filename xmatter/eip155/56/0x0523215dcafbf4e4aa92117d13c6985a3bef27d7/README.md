@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f0a212"
+icons:
+  - icon.png
 ---
 
 We aim to bring the gaming community, content creators and game developers together with GMR.

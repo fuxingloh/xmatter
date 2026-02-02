@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eca573"
+icons:
+  - icon.png
 ---
 
 CCF tokens will be operating on Binance Smart Chain's main page, adopting the BEP-20 protocol.

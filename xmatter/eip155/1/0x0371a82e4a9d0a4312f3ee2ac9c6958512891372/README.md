@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#163253"
+icons:
+  - icon.png
 ---
 
 BitJob is an ambitious and social project, based on Blockchain technology. Aimed at revolutionizing the way students make a living and gain occupational experience while still studying.

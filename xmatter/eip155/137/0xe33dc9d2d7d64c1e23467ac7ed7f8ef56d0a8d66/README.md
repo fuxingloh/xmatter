@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4fedce"
+icons:
+  - icon.png
 ---
 
 Fleta Connect is a new DeFi(Decentralized Finance) service created by Team Fleta with years of experience in the field. It is willing to offer significant benefits to our users with its own buyback mechanism and aims to give more rewards to DeFi users.

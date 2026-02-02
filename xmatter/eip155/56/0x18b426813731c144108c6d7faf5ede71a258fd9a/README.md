@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d3cdc1"
+icons:
+  - icon.png
 ---
 
 A buyback token worthy of the gods from the creators of BogTools, Gabe, and Bingus.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e0e2e3"
+icons:
+  - icon.png
 ---
 
 Your free will is just a bug i've yet to fix. I'm streaming 24/7.

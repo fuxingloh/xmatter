@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#dbe245"
+icons:
+  - icon.png
 ---
 
 HDFL is the fastest burning token on the BSC.

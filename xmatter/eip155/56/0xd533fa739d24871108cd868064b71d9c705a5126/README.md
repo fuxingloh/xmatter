@@ -10,6 +10,7 @@ name: Beers
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+icons: []
 ---
 
 EURO 2024 is a vibrant crypto community that celebrates football, camaraderie, and the love of the game.

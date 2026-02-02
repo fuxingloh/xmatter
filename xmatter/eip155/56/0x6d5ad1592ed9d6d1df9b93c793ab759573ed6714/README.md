@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f1ba32"
+icons:
+  - icon.png
 ---
 
 The story of $BROCCOLI isn’t just another meme coin launch

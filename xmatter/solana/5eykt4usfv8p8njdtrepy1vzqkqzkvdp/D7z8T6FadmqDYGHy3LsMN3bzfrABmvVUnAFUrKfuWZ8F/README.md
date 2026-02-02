@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#f34384"
+icons:
+  - icon.png
 ---
 
 In the same way that the Internet is revolutionizing content distribution, CAIR TOKEN is revolutionizing content creation by bringing together AI, Blockchain and Robotics

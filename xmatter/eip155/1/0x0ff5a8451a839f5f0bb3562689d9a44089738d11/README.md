@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#042cfb"
+icons:
+  - icon.png
 ---
 
 rDPX - Dopex Rebate Token - Dopex offers a rebate system for losses incurred for option writers based on exercised options for every epoch. The rebate is paid in the form of rDPX.

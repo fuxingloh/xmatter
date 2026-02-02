@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#37365c"
+icons:
+  - icon.png
 ---
 
 We broke the Matrix anon with this cook

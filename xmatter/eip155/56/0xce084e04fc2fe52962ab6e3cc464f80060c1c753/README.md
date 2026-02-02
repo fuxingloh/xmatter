@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fad50f"
+icons:
+  - icon.png
 ---
 
 Doge Shiba ($DOGES) is a community driven, fair launched, DeFi token which rewards its users with the ability to earn passive income, without having to lift a paw.

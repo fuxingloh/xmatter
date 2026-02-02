@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#595656"
+icons:
+  - icon.png
 ---
 
 Origin Sport (ORS) is a cryptocurrency and operates on the Ethereum platform.

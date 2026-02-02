@@ -14,6 +14,8 @@ standards:
   - trc10
 icon: icon.png
 color: "#121ff2"
+icons:
+  - icon.png
 ---
 
 VEVO is an open source platform in which everyone can use the code and token to their needs.

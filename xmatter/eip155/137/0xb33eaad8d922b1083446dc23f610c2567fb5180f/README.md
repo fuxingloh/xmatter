@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fcc2df"
+icons:
+  - icon.png
 ---
 
 The Uniswap protocol empowers developers, liquidity providers and traders to participate in a financial marketplace that is open and accessible to all.

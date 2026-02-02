@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ba6afa"
+icons:
+  - icon.png
 ---
 
 SOURCE is the utility token that powers the ReSource protocol—a DeFi protocol enabling the world’s first on-chain mutual credit economic system.

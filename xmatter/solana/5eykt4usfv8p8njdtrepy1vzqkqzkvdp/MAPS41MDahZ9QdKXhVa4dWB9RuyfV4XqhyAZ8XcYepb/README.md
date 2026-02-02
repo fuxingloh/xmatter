@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4dda54"
+icons:
+  - icon.png
 ---
 
 Maps.me 2.0 is the ultimate travel companion and your passport to the new financial system.

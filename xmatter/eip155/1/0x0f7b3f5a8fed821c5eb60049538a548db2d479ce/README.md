@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04b3c3"
+icons:
+  - icon.png
 ---
 
 ATOR empowers The Onion Router (Tor) through on-chain incentives, and facilitates wider adoption of secure network relay protocols through hardware products.

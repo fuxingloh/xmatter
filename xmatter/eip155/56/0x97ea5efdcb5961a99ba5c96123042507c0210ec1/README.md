@@ -29,6 +29,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e19e3b"
+icons:
+  - icon.png
 ---
 
 Flokinomics is the first ever token on the BSC smartchain to combine rebase tokenomics with Doge rewards. Hold $FLOKIN and receive $DOGE directly to your BEP-20 wallet as a reward for holding

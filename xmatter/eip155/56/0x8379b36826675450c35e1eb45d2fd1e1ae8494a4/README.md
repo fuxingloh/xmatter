@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d5d5d4"
+icons:
+  - icon.png
 ---
 
 Alpha Kombat is a global blockchain tournament game with NFTs rewards, a platform created to reward your leisure and provide passive income through several token utilities and platform utilities.

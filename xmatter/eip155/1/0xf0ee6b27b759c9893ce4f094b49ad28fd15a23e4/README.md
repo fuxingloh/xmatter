@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#210545"
+icons:
+  - icon.png
 ---
 
 Enigma builds and supports groundbreaking privacy-focused technologies and networks.

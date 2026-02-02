@@ -29,6 +29,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbf8fa"
+icons:
+  - icon.png
 ---
 
 Taiko is a permissionless based rollup on Ethereum

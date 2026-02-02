@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ce0f9b"
+icons:
+  - icon.png
 ---
 
 AST is a deflationary incentive token that will be used in the ecosystem of products offered by AST.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#161d24"
+icons:
+  - icon.png
 ---
 
 SaveAnimal is a charity token helping animals in need by donating 2% of every transaction

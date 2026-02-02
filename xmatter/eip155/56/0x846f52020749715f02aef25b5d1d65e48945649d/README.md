@@ -15,6 +15,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#056bb7"
+icons:
+  - icon.png
 ---
 
 Umbrella Network a Community owned, Decentralized Oracle built on Layer 2 for DeFi and Blockchain Applications powered by UMB cryptocurrency

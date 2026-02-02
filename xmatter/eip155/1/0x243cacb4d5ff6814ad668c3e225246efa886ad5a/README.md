@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#351c3b"
+icons:
+  - icon.png
 ---
 
 Shina Token is a decentralized meme token on the Ethereum blockchain. Its mission is to give back to the crypto community, give to charity, and win the heart of the greatest token of all time - Shina Inu.

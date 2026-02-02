@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#44bab2"
+icons:
+  - icon.png
 ---
 
 SafeMoon is a cryptocurrency token created in March 2021 on the Binance Smart Chain blockchain.

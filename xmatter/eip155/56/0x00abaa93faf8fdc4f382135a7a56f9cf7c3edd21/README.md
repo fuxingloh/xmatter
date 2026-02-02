@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#322c3b"
+icons:
+  - icon.png
 ---
 
 MUE is a multi-chain (SHA-256 and BEP-20) cryptocurrency that aims to break away from the mould that cryptocurrency is only for tech-savvy people. Users can earn rewards with staking or masternodes, benefiting the entire network.

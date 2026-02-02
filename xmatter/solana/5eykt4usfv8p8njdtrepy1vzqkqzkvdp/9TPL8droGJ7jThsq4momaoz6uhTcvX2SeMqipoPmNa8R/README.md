@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#ccc4a4"
+icons:
+  - icon.png
 ---
 
 VNX Gold (VNXAU) is a multichain token fully backed by physical gold that is certified by the London Bullion Market Association (LBMA). 1 VNXAU token equals 1 gram of physical gold.

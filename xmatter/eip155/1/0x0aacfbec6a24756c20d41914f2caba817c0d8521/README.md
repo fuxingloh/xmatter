@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a13144"
+icons:
+  - icon.png
 ---
 
 YAM is a decentralized cryptocurrency

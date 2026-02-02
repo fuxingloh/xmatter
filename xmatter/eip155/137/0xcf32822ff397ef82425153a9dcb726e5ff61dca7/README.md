@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4f69f7"
+icons:
+  - icon.png
 ---
 
 The GAMEE Token is an ERC-20 utility token that is designed to be the currency of purchase, utility and reward in supported play-to-earn games provided on the GAMEE entertainment platform.

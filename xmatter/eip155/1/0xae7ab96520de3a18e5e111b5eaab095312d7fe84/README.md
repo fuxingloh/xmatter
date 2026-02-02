@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#00a3ff"
+icons:
+  - icon.png
 ---
 
 stETH is a token that represents staked ether in Lido.

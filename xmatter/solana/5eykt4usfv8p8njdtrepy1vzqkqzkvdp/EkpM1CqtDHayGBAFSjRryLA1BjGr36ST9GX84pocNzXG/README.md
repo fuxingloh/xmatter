@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#642a33"
+icons:
+  - icon.png
 ---
 
 KHABY is The First Official Unofficial Memecoin!

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d8f8f5"
+icons:
+  - icon.png
 ---
 
 DMarket is a platform that aims to enable the secure buying, selling, and trading of in-game items to help developers attract more players, make more money, and increase the lifetime value of their game.

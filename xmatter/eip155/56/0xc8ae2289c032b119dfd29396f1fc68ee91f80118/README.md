@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cfae6e"
+icons:
+  - icon.png
 ---
 
 The IM Super League is an educative, entertained, and profitable way to play with your favorite football team of all times on the blockchain.

@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e1b956"
+icons:
+  - icon.png
 ---
 
 The Eye Network Ecosystem is a groundbreaking initiative poised to reshape the landscape of financial services. At its core, this innovative platform harnesses the power of blockchain technology to facilitate seamless transactions, enhance security, and promote financial empowerment for individuals worldwide.

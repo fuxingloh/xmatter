@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9ca5f7"
+icons:
+  - icon.png
 ---
 
 UIP (short for UnlimitedIP ) is a recreational copyright intelligent trading platform created by Link Entertainments Technology based on EOS.

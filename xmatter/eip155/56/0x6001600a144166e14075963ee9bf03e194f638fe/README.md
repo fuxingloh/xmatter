@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f49a9a"
+icons:
+  - icon.png
 ---
 
 KissMyMoon protocol is the world’s first deflationary Token with the anti-whale tier system.

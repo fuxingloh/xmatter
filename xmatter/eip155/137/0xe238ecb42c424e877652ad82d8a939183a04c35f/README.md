@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2a6bf4"
+icons:
+  - icon.png
 ---
 
 WiFi Map are wifi finder, as well as esim provider.

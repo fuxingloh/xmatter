@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#123644"
+icons:
+  - icon.png
 ---
 
 DBUSD is a USD fiat fully backed 1:1 stablecoin created and issued by Deep Blue with a focus on store of value, remittance, money transfers and trading settlement.

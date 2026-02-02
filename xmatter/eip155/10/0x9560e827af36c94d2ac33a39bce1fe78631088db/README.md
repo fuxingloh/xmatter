@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#f3f3f2"
+icons:
+  - icon.png
 ---
 
 Velodrome Finance, at its core, is a solution for protocols on Optimism to properly incentivize liquidity for their own use cases. Building on top of the groundwork laid out by Solidly, our team has addressed that first iteration's core issues to realize its full potential.

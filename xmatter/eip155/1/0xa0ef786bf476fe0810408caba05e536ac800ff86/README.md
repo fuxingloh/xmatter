@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 The MYRIA token is officially live, bringing Myria a step closer to building the ultimate Web3 gaming ecosystem.

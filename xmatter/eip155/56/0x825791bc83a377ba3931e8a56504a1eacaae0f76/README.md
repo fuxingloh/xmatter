@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e46c1c"
+icons:
+  - icon.png
 ---
 
 Meta House is part of the meta world.

@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c4567"
+icons:
+  - icon.png
 ---
 
 Idle Cyber is a P2E model idle game with a new kind of frontier defence and RPG heroes collection mixed with blockchain technology.

@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#9c1b17"
+icons:
+  - icon.png
 ---
 
 John McAfee's Hyper-deflationary Social Experiment Token

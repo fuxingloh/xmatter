@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#13132d"
+icons:
+  - icon.png
 ---
 
 Zignaly is a social investment platform where users can follow winning strategies and participate in their returns.

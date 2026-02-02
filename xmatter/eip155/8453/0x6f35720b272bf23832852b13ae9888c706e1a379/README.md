@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#608357"
+icons:
+  - icon.png
 ---
 
 Based Apu is the based, adorable, and more memeable version of Pepe the Frog

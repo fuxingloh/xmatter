@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#275d77"
+icons:
+  - icon.png
 ---
 
 Meet Sally, the FIRST Metabolic Health AI Agent.

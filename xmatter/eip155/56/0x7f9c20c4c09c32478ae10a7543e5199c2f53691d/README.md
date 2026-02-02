@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#da2323"
+icons:
+  - icon.png
 ---
 
 PLS2E.io = DAO+DEX+NFTs+GameFi LaunchPad. The best GameFi infrastructure platform on BSC and put forward the concept of Earn As A Service (EAAS)

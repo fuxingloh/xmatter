@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#241c47"
+icons:
+  - icon.png
 ---
 
 Abracadabra.money is a lending platform that allows users to borrow funds using Interest Bearing Tokens as collateral.

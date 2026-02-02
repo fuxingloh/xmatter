@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fbf5c2"
+icons:
+  - icon.png
 ---
 
 J9BC is a digital currency issued by J9 Inter-national (J9.io) based on BSC Binance Smart Chain, with features of decentralization, anonymous transaction and security.

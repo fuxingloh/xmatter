@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#60bb5f"
+icons:
+  - icon.png
 ---
 
 HTX describes itself as a side-chain, relay matching node network for asset settlement and trading matching based on Ethereum.

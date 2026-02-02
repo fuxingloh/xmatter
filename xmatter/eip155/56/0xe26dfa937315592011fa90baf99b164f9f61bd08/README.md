@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1e83c3"
+icons:
+  - icon.png
 ---
 
 Stake Kainu,Give Kainu, Earn Great Reward

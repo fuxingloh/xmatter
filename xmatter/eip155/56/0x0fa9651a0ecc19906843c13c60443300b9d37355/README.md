@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fac305"
+icons:
+  - icon.png
 ---
 
 XMINE is DeFi, miner with ASIC and rewards to holders.

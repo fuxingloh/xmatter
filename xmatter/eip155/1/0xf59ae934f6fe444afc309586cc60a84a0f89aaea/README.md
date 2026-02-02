@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e60079"
+icons:
+  - icon.png
 ---
 
 Utility token for Polkadex decentralized exchange

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#68cdaa"
+icons:
+  - icon.png
 ---
 
 JulSwap DEX Commnuity Token

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#edb335"
+icons:
+  - icon.png
 ---
 
 The FREE coin is the ideal start-to-crypto coin : large community, many exchangess and wallets, available on Ethereum, Binance and Tron.

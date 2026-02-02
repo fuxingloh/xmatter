@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fb04cb"
+icons:
+  - icon.png
 ---
 
 Hxro is a cryptocurrency exchange platform that offers perpetual, time-based digital derivatives markets. Hxro offers a way to interact with the market.

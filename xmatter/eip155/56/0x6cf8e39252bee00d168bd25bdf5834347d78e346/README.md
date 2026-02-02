@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#07060d"
+icons:
+  - icon.png
 ---
 
 Choise.com – the next step in Crypterium evolution.

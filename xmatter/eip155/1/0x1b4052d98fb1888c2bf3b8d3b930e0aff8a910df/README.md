@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#131624"
+icons:
+  - icon.png
 ---
 
 Community Token (COM) is an ERC-20 token that empowers the crypto community with collective due diligence on emerging investment opportunities.

@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#23348c"
+icons:
+  - icon.png
 ---
 
 CR Coin es un token digital con la principal función de ser un medio de pago digital, rápido, seguro y sin intermediarios lo cual puede conocerse también como un “Token de Utilidad” ya que nuestro principal enfoque es darle la mayor cantidad de usos posibles a CR Coin y así nuestros usuarios lo puedan utilizar para comprar comida, ropa, servicios y demás.

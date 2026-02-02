@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c8c7c6"
+icons:
+  - icon.png
 ---
 
 Entherfound is a startup that has the permits and concessions for the cultivation of Psychoactive and Non-Psychoactive cannabis.

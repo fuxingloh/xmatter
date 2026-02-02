@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#222120"
+icons:
+  - icon.png
 ---
 
 SHIBNOBI is a community-driven token / platform that wants to develop a cross-chain token swap for the next generation of investors and make crypto simple and safe for everyone.

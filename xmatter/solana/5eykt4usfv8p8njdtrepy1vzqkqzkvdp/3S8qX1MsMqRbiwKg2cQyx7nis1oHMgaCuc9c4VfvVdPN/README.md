@@ -12,6 +12,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#925559"
+icons:
+  - icon.png
 ---
 
 Don’t disappoint your mother

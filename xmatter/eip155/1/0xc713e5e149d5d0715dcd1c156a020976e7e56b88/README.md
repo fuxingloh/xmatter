@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5ab7ae"
+icons:
+  - icon.png
 ---
 
 Aave MKR is an interest bearing token pegged 1:1 to the underlying MKR deposited in Aave. aMKR accrue interest in real time in your wallet.

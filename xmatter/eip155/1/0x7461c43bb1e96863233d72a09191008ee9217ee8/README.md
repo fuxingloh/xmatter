@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c1d15"
+icons:
+  - icon.png
 ---
 
 Degenerate Platform is developing a marketplace for Sports Betting. Our token is used as a form of payment on sportsbooks and casinos.

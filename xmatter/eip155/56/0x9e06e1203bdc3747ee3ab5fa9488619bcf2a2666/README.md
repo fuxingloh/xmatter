@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#eecc07"
+icons:
+  - icon.png
 ---
 
 Industrial Token (INDUSTRIAL) is a BEP20 token built to transform the industrial sector through blockchain technology, gamification

@@ -33,6 +33,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#7764b5"
+icons:
+  - icon.png
 ---
 
 ApeBond is a multichain DeFi Hub offering an accessible, transparent, and secure experience for everyone.

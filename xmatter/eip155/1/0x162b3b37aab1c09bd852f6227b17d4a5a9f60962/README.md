@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2fa364"
+icons:
+  - icon.png
 ---
 
 New Dex with No Boundries. Trading, Liquidity Pools, Leveraging, Lending. Dividend sharing for Token Holders

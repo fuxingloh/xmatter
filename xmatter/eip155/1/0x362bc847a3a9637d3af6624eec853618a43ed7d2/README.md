@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0058c0"
+icons:
+  - icon.png
 ---
 
 Connect blockchain activity to off-chain apps and devices. Monitor and secure DeFi applications. Build custom event triggers and power real-time automations.

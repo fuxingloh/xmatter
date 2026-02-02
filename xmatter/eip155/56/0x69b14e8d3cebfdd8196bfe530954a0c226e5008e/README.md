@@ -19,6 +19,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#623c8a"
+icons:
+  - icon.png
 ---
 
 SpacePi is preparing to develop Pi Metaverse, PiNFT, PiSwap and other ecosystems

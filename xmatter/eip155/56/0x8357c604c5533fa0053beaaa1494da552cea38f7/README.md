@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c5b360"
+icons:
+  - icon.png
 ---
 
 SPO token is designed for community governance and DeFi utilization with NFT-creator-centricity and DeFi-community-driven purpose. SPO is used to incentivize NFT creators, buyers, agents, liquidity providers across the ecosystem.

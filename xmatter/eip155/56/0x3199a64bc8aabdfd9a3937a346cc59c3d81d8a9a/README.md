@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#919a83"
+icons:
+  - icon.png
 ---
 
 Mubarakah - He Yi

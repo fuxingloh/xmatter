@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#050505"
+icons:
+  - icon.png
 ---
 
 SHRAPNEL is a first-person extraction shooter where you'll fight as a MEF (Mercenary Extraction Force) Operator.

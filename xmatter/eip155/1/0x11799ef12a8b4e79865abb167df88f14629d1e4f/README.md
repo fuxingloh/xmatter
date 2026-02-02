@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ebebeb"
+icons:
+  - icon.png
 ---
 
 Blockchain-powered platform and unique investment elements deliver the most engaging, fairest playing and poker platform on the market.

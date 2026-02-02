@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#040404"
+icons:
+  - icon.png
 ---
 
 We are a community run crypto currency that thrives on your involvement. We look forward to talking with you and having you join us on this adventure.

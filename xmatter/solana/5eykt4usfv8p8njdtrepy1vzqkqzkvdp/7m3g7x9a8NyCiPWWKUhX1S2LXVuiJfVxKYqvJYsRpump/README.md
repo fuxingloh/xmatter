@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#edd58d"
+icons:
+  - icon.png
 ---
 
 Nitro Token is an AI-generated meme coin

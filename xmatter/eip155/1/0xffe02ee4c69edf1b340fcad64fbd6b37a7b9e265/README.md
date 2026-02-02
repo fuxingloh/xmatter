@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#04070a"
+icons:
+  - icon.png
 ---
 
 NANJCOIN is a cryptocurrency created using blockchain technology with the goal of connecting people and sports in ways that previously didn’t exist.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#cb243c"
+icons:
+  - icon.png
 ---
 
 The Collective is one of the first decentralized freelancer marketplace on the BSC network.

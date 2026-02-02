@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#6eb149"
+icons:
+  - icon.png
 ---
 
 Team insurance is a form of insurance in which a group of people insures themselves at the same time, as a team.

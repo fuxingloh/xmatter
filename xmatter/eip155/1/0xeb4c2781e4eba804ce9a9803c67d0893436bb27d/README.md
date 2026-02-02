@@ -26,6 +26,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#848b8c"
+icons:
+  - icon.png
 ---
 
 RenBTC is a token built by RenVM team to expose bitcoin-backed assets to the benefits of Ethereum's various decentralized finance (DeFi) platforms.

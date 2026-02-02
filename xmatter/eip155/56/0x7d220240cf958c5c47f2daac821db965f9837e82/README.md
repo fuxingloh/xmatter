@@ -27,6 +27,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0d69f9"
+icons:
+  - icon.png
 ---
 
 WEB5 INU aim to develop BNB Chain Charting Solution with WEB5 Identity enables developers to leverage Decentralized Identifiers

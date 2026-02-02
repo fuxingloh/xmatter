@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#00aeff"
+icons:
+  - icon.png
 ---
 
 Absorber is a Hybrid Active and Passive Yield Farming Protocol, Designed for Long-Term Performance and Adoption of Mom-n-Pop Investors Worldwide, To break the Barrier Towards a Worldwide Passive Income Economic Incentive with a Deflationary Core and Ever Increasing Liquidity dictated by the Smart-contract code.

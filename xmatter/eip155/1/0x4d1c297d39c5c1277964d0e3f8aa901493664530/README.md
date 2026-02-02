@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#545ce4"
+icons:
+  - icon.png
 ---
 
 Reinventing Ethereum’s Future with LRT, Rollups, AVS & Institutional Solutions.

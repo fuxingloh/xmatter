@@ -14,6 +14,8 @@ standards:
   - spl-token
 icon: icon.png
 color: "#d9eaf5"
+icons:
+  - icon.png
 ---
 
 Kitty AI is a community-driven token built on the Solana blockchain, specifically designed for AI enthusiasts and developers.

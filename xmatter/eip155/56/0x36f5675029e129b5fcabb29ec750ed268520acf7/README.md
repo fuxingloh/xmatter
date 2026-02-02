@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#060606"
+icons:
+  - icon.png
 ---
 
 BAD Coin is reshaping the AI agent landscape with its proprietary ChainGraph technology, persistent multifaceted multimodal agents, and integrations across social platforms like Telegram and Twitter. Designed with degens, brands, and creators in mind, BAD introduces a new standard for AI ecosystems, offering unparalleled flexibility, adaptability, and functionality in the agent modelling design-space.

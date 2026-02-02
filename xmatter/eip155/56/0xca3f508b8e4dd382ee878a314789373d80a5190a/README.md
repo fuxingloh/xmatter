@@ -20,6 +20,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#050505"
+icons:
+  - icon.png
 ---
 
 The Multichain Yield Optimizer

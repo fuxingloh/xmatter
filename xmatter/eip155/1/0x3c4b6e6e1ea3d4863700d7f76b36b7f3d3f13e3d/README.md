@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#4b4ad6"
+icons:
+  - icon.png
 ---
 
 The Voyager Token (VGX) rewards users within the Voyager crypto broker ecosystem.

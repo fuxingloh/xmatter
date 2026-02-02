@@ -30,6 +30,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3474fc"
+icons:
+  - icon.png
 ---
 
 FortKnoxster's DieFi solution is an automated crypto testament and inheritance platform. DieFi users' crypto portfolio information and credentials are automatically passed on to the chosen beneficiaries in case of emergency, memory loss, or death.

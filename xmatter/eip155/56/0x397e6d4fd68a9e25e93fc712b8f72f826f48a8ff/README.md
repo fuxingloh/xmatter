@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#111406"
+icons:
+  - icon.png
 ---
 
 DINGO platform allows users to easily deposit BEP20 tokens into an NFT. Dingo Token is the governance token of the platform.

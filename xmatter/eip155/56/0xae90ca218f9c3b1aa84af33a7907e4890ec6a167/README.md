@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#c3791b"
+icons:
+  - icon.png
 ---
 
 Eclat World create an advance emerging platform for decentralized finance world. Eclat ecosystem help to manage crypto market on a hyper-efficient infrastructure.
