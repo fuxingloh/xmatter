@@ -22,7 +22,7 @@
     "zod": "^4.3.5"
   },
   "devDependencies": {
-    "@types/react": "^19.2.10"
+    "@types/react": "^19"
   },
   "peerDependencies": {
     "next": ">=14",
