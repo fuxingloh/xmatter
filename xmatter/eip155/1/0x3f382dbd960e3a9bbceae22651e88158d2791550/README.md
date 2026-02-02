@@ -20,6 +20,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#ea1efb"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Aavegotchis are crypto-collectibles living on the Ethereum blockchain, backed by the ERC721 standard used in popular blockchain games. $GHST is the official utility token of the Aavegotchi ecosystem and can be used to purchase portals, wearables, and consumables.

@@ -20,6 +20,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#050704"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Geojam combines the technological advancements of decentralized finance with real-world experiences while interweaving the ethos of autonomous cryptocurrency communities and mainstream social networking.

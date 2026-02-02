@@ -22,6 +22,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1b5bfc"
+icons:
+  - icon.png
 ---
 
 TrueUSD is the first independently-verified digital asset redeemable 1-for-1 for US Dollars.

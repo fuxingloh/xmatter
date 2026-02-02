@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#1c76bd"
+icons:
+  - icon.svg
 ---
 
 Cortensor is a decentralized AI inference network using distributed computation and open models to provide scalable, efficient AI tasks.

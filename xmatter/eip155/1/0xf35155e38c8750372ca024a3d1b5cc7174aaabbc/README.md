@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#544cdb"
+icons:
+  - icon.svg
 ---
 
 Travel Deals is a global travel portal utilizing blockchain technology to revolutionize the travel industry with discounts for stakers and affiliate income!

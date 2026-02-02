@@ -22,6 +22,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#0454fc"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 DeFi made simple.

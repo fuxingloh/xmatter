@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#ec0404"
+icons:
+  - icon.svg
 ---
 
 The native Ethereum ERC-20 token of the $DIMO protocol

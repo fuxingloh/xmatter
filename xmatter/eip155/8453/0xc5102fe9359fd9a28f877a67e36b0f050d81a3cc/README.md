@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#d167cc"
+icons:
+  - icon.svg
 ---
 
 A multi-chain token that powers the Hop ecosystem, bridged by Hop Protocol

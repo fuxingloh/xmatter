@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#ec9504"
+icons:
+  - icon.png
 ---
 
 Noggles (NOGS) is a nounish coin created to push the boundaries of the ⌐◨-◨ meme.

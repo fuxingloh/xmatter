@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#040404"
+icons:
+  - icon.svg
 ---
 
 DexKit builds DexAppBuilder: a no-low code web3 DApp builder

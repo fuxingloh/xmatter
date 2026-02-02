@@ -8,6 +8,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2d8f3a"
+icons:
+  - icon.png
 ---
 
 Token focused at growing with a sustainable level due to incetivized temporarely locking mechanism.

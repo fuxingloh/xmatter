@@ -20,6 +20,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#39b5e2"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Dual cryptocurrency platform with DeFi structure focusing on real-life use.

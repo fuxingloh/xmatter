@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#042dfc"
+icons:
+  - icon.svg
 ---
 
 AI Human Biomechanics & Web3

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#7d8fc4"
+icons:
+  - icon.svg
 ---
 
 GENOME is the utility and Governance token of the GenomesDAO tools and platforms. It acts as the native currency within Genomes.io

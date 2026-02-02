@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#2b2b2b"
+icons:
+  - icon.svg
 ---
 
 IoTeX is the blockchain platform for Real-World AI, delivering verified real-time data from the real world to AI systems and applications since 2017.

@@ -14,6 +14,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#0880b8"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Cryptocurrency ecosystem for trading and earning yield.

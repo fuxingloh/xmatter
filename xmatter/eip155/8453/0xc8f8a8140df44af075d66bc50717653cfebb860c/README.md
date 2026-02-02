@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#f4c433"
+icons:
+  - icon.svg
 ---
 
 FLIXX is an ERC20 token issued by Flixxo, a video distribution platform.

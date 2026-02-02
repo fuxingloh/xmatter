@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#bbbbfb"
+icons:
+  - icon.svg
 ---
 
 SUDO is the governance token for Sudoswap, an NFT marketplace designed for creators & collectors with support for any asset and on-chain royalties.

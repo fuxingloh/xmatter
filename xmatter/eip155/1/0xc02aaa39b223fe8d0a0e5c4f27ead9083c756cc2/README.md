@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2a2e2e"
+icons:
+  - icon.png
 ---
 
 WETH (Wrapped Ether) is Ethereum's native ETH locked in a smart contract and issued as an ERC-20 token 1:1,

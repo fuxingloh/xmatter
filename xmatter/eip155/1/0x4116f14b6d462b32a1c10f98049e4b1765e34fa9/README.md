@@ -30,6 +30,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#042dfc"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 dotmoovs is leading the way in AI Human Biomechanics, pioneering advancements in critical areas such sports, smart cities, and healthcare sectors. Our platform capitalizes on the importance of Human Movement. With a B2B API and a user friendly mobile app, our project is designed to attract all audiences, both users and companies.

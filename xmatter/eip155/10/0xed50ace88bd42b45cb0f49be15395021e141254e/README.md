@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#141417"
+icons:
+  - icon.svg
 ---
 
 Token for ownership and governance of Braintrust, the decentralized talent network.

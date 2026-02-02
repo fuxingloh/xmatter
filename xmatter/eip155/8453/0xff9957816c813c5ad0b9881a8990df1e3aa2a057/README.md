@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#050704"
+icons:
+  - icon.svg
 ---
 
 The JAM token powers the Geojam ecosystem through curating experiences, integrating with brands, and rewarding community engagement.

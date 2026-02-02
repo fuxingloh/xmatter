@@ -25,6 +25,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c1c1c"
+icons:
+  - icon.png
 ---
 
 0x (ZRX) is an open-source protocol that provides smart contract infrastructure and liquidity to enable the peer-to-peer exchange of tokens on the Ethereum blockchain.

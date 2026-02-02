@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#f0e8e8"
+icons:
+  - icon.svg
 ---
 
 $OMETA is the official token of the Open Metaverse — where interoperability is not just a feature, but a foundation.

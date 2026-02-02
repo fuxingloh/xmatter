@@ -19,6 +19,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#f39444"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Wrapped Bitcoin (WBTC) is the first ERC20 token backed 1:1 with Bitcoin.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#f88860"
+icons:
+  - icon.svg
 ---
 
 BrightDAO community token

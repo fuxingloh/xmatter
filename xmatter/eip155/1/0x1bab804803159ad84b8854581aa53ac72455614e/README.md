@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#cdcdcd"
+icons:
+  - icon.svg
 ---
 
 Syndicate is infrastructure for building and scaling appchains with programmable onchain sequencers.

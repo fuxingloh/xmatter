@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2474cc"
+icons:
+  - icon.png
 ---
 
 USDC is a fully collateralized US Dollar stablecoin developed by CENTRE, the open source project with Circle being the first of several forthcoming issuers.

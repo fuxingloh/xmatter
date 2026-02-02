@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#2c2c2c"
+icons:
+  - icon.svg
 ---
 
 Mugloo Token is designed with a simple yet robust tokenomics structure. Mugloo Token is future-ready and designed to be bridgable across chains

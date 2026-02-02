@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#399efc"
+icons:
+  - icon.svg
 ---
 
 Redeemable 1-for-1 for HOGE on ETH. No tax or reflections.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#c0b6c2"
+icons:
+  - icon.svg
 ---
 
 Fission Bio IP Token

@@ -10,6 +10,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#fc6c6c"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 HuntToken (HUNT) is a cryptocurrency and operates on the Ethereum platform.

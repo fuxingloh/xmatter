@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#044784"
+icons:
+  - icon.svg
 ---
 
 Salad is dedicated to creating earning opportunities on the blockchain by empowering their community through Play2Earn, Learn2Earn and and Decentralized Labor Exchange platforms. The project also aims to support the growth and market penetration of other web3 projects.

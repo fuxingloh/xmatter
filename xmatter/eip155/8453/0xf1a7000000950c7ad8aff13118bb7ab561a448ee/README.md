@@ -14,6 +14,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#e46c2c"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 In this white paper, we introduce the ƒlayer protocol: a novel solution for providing fungible liquidity to non-fungible token (NFT) collections

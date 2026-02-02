@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#3b57ea"
+icons:
+  - icon.svg
 ---
 
 ARC is the infrastructure layer for high-performance, privacy-first AI tools. The $ARC utility token enables access to governance, staking, and participation in ARC’s AI ecosystem. Powered by Efficiency AI, ARC delivers speed, privacy, and sustainability.

@@ -16,6 +16,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#182020"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 AltLayer is an open and decentralised protocol for rollups.

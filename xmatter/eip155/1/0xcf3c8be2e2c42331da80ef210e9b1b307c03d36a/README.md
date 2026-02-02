@@ -12,6 +12,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#dfdfef"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 A Code-as-a-Service protocol providing technology and support for blockchain-based applications

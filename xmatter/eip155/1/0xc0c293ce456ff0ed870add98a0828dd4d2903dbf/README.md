@@ -32,6 +32,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#7e3acf"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Boosting DeFi stakeholders' yield potential and governance power, starting with Balancer.

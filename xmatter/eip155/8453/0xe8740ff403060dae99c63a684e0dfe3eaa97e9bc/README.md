@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#4a4d56"
+icons:
+  - icon.svg
 ---
 
 Monke Eth

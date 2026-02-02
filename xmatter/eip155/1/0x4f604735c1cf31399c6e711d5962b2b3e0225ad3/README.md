@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#23e3db"
+icons:
+  - icon.svg
 ---
 
 Glo Dollar is the stablecoin that funds public goods.

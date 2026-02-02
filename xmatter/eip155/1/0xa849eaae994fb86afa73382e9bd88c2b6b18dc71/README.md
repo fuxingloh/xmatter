@@ -10,6 +10,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#f4bc3c"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Mobility ON Blockchain - MVL leverages blockchain technology to seamlessly connect the virtual and real worlds, driving new innovations in mobility.

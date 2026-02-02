@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#000000"
+icons:
+  - icon.svg
 ---
 
 MasterDEX is a next-generation DeFi platform that combines decentralized exchange (DEX) tools, AI-powered analysis, and real-time monitoring to enhance the trading experience. It is designed to help traders navigate the ever-expanding DeFi ecosystem with smarter tools, making it easier to identify opportunities and execute trades efficiently.

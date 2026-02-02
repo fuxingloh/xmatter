@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#7e3acf"
+icons:
+  - icon.svg
 ---
 
 AURA is a governance and utility token used on Aura Finance. This token is an OFT bridged with LayerZero.

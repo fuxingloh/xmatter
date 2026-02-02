@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#688fbd"
+icons:
+  - icon.svg
 ---
 
 A synthetic token for users to borrow their future yield.

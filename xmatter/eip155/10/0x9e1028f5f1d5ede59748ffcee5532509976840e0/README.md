@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1c5d44"
+icons:
+  - icon.png
 ---
 
 On-chain derivative DEX with liquidity provisioning and up to 10x leverage for makers and takers.

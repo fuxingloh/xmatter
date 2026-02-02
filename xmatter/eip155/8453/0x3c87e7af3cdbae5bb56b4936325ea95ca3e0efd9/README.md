@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#749cfc"
+icons:
+  - icon.svg
 ---
 
 With the AdEx ad platform, you target the untapped market of Web2 users entering the Web3 space - evolving with AI integration

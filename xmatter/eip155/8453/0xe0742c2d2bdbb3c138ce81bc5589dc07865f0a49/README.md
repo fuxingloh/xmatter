@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#2cabe3"
+icons:
+  - icon.svg
 ---
 
 A decentralized 'like button' for Web3.

@@ -22,6 +22,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#272e46"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 dForce Lending is a decentralized lending protocol.

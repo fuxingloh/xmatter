@@ -20,6 +20,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#6149d5"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 PettAI is an AI-driven game merging advanced gameplay with intricate economics.

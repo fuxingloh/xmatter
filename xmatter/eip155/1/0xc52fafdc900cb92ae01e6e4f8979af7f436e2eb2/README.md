@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#6bb282"
+icons:
+  - icon.svg
 ---
 
 SEXY is utilized for character progression and purchasing gear within EthXY, an onchain MMORPG on Base.

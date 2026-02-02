@@ -14,6 +14,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#050505"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Cartesi Rollups is a modular execution layer that elevates simple smart contracts to decentralized Linux runtime.

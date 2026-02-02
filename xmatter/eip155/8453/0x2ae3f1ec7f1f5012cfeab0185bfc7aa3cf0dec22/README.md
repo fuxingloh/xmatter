@@ -14,6 +14,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#cdddfc"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Coinbase Wrapped Staked ETH (“cbETH”) is a utility token that represents Ethereum 2 (ETH2), which is ETH staked through Coinbase.

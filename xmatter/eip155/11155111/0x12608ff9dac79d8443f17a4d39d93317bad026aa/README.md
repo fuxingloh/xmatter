@@ -8,4 +8,6 @@ symbol: OUTb
 decimals: 18
 icon: icon.svg
 color: "#999999"
+icons:
+  - icon.svg
 ---

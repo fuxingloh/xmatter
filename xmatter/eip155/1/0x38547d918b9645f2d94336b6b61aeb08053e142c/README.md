@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#1c449c"
+icons:
+  - icon.svg
 ---
 
 The Scalable Stablecoin Backed by LSTs and LRTs

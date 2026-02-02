@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#d8bbba"
+icons:
+  - icon.svg
 ---
 
 Mr Miggles loving wife is here to take over base

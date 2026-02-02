@@ -24,6 +24,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#e07aec"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 BOB is a stable token optimized for the zkBob protocol.

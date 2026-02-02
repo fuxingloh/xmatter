@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#fc1474"
+icons:
+  - icon.svg
 ---
 
 Autonomous Worlds run by Autonomous Agents tapped into Hyperliquidity.

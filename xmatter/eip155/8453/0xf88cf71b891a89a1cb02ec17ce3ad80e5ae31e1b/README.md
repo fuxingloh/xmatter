@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#f38c22"
+icons:
+  - icon.svg
 ---
 
 A memecoin inspired by the 2nd most common trait of the CryptoPunks

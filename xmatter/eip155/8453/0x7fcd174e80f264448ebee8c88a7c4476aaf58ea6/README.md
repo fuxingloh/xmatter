@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#2b79fb"
+icons:
+  - icon.svg
 ---
 
 Wrapped Super OETH

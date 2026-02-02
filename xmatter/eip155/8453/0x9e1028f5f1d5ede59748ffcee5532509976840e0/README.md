@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#04d091"
+icons:
+  - icon.svg
 ---
 
 Compound DAO Governance Token

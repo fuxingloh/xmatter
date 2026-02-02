@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#4f87fb"
+icons:
+  - icon.svg
 ---
 
 Multichain DEX Aggregator

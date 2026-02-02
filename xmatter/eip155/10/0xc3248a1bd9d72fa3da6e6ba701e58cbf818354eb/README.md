@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#2a9ec8"
+icons:
+  - icon.svg
 ---
 
 A token for the Decentralized copyright holder Identity Verification Smart Contract

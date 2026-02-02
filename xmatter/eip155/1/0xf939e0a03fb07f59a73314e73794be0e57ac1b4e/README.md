@@ -14,6 +14,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#e2ebe4"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 crvUSD is a collateralized-debt-position (CDP) stablecoin pegged to the US Dollar

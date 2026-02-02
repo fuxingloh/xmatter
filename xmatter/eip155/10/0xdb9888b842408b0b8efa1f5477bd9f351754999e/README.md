@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#a47c07"
+icons:
+  - icon.svg
 ---
 
 A community currency for the accounting industry.

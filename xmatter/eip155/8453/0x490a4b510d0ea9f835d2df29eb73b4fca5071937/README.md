@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#f9d933"
+icons:
+  - icon.svg
 ---
 
 VitaDAO Governance Token

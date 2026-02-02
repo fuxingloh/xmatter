@@ -24,6 +24,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d9d9d9"
+icons:
+  - icon.png
 ---
 
 Ocean Protocol describes itself as a decentralized data exchange protocol that lets people share and monetize data while providing control, auditability, transparency, and compliance to all actors involved.

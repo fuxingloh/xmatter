@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#2a2a2a"
+icons:
+  - icon.png
 ---
 
 SAIL is the governance token of AdmiralDAO, the DAO behind Clipper DEX.

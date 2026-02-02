@@ -12,6 +12,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#2473fc"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Morpho is an open, efficient, and resilient platform that allows anyone to earn yield and borrow assets. Lenders can earn on Morpho using Morpho Vaults, noncustodial simple to use lending vaults that optimize yields for depositors. Borrowers can borrow any assets directly from Morpho Markets.

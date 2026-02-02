@@ -12,6 +12,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#113f49"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 ZynCoin is a community-led memecoin project focused on the proliferaiton of ZYN.

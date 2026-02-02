@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#665fdc"
+icons:
+  - icon.png
 ---
 
 DYP is a utility token that provides the foundation for the Dypius ecosystem within a decentralized platform that focuses on scalability, security, and global adoption.

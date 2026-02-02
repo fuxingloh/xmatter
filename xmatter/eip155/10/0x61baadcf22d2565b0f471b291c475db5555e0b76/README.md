@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#131133"
+icons:
+  - icon.png
 ---
 
 Aelin is a fundraising protocol built on Ethereum and launched on Optimism

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#040404"
+icons:
+  - icon.svg
 ---
 
 STS are non-transferable tokens you receive when you stake USDC. They represent your ownership share of the vault and give you exposure to any properties it acquires.

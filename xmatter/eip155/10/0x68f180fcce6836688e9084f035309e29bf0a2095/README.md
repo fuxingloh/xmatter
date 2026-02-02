@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#f39444"
+icons:
+  - icon.svg
 ---
 
 Wrapped Bitcoin delivers the power of Bitcoin with the flexibility of an ERC20 token

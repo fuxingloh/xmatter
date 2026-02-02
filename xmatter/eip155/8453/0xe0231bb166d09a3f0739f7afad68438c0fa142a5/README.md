@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e15c5a"
+icons:
+  - icon.png
 ---
 
 Social surveys for the next generation of thinkers

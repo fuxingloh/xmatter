@@ -13,6 +13,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#060606"
+icons:
+  - icon.png
 ---
 
 The Rari Governance Token is the native token behind Rari Capital.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#b38756"
+icons:
+  - icon.svg
 ---
 
 A multi-chain token used for $KWENTA redemption on Optimism

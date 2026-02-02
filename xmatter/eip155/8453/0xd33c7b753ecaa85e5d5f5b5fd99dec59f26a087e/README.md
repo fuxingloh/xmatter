@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#5c5cec"
+icons:
+  - icon.png
 ---
 
 Defactor pioneers real world assets (RWA) tokenisation and Decentralised Finance (DeFi).

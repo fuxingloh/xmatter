@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#dfdfef"
+icons:
+  - icon.svg
 ---
 
 The $BEPRO token operates within the Bepro Task Marketplace, an open-source task-based work platform that encourages decentralized outsourcing of work.

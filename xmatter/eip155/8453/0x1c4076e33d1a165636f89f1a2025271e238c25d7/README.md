@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d42c2c"
+icons:
+  - icon.png
 ---
 
 Theranos Coin (LIZ) is an ERC-20 token celebrating a story of revolutionary innovation and fantastic hypergrowth, stunning duplicity and scandalous fraud — the story of Elizabeth Holmes and Theranos.

@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3d0607"
+icons:
+  - icon.png
 ---
 
 Reward token in the Plague ecosystem

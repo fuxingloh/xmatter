@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#1b8dd4"
+icons:
+  - icon.svg
 ---
 
 ISKRA governance token

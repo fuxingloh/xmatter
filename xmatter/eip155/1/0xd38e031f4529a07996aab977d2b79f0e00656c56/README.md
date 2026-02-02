@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#d1d1d1"
+icons:
+  - icon.svg
 ---
 
 TProtocol is trying to bring real yield into DeFi.

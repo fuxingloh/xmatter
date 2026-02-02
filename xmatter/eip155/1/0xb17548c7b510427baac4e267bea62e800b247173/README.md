@@ -12,6 +12,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#047bf3"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Swarm Markets is a licensed DeFi platform a unified exchange for securities and crypto. Swarm Markets makes it possible for institutional and retail investors to trade tokens based on all kinds of real-world assets, such as commodities and traditional market securities.

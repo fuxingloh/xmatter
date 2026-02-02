@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#d42c24"
+icons:
+  - icon.svg
 ---
 
 ZUSD is the new digital USD which is 100% Fiat-backed.

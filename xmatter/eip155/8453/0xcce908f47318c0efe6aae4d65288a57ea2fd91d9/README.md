@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a86f49"
+icons:
+  - icon.png
 ---
 
 TODL is the native token for the world of Cryptoodles.

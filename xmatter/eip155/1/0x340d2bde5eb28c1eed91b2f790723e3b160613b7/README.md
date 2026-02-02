@@ -10,6 +10,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#738b96"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 BLOCKv provides a platform enabling the creation of Vatoms, a digital asset class (NFT) that bridges the gap between physical & digital worlds, creating new levels of human engagement.

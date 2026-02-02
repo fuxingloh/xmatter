@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#000000"
+icons:
+  - icon.svg
 ---
 
 The CO token is the native token of Coordinape and CoDAO, powering reputation, governance, and value creation across the Social Oracle ecosystem.

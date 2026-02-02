@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#1d2d3d"
+icons:
+  - icon.svg
 ---
 
 CANA gives DeFi users direct exposure to California Carbon Allowances—a $78B regulated commodity—with a CPI+5% rising price floor. Fully tradable ERC-20. Offers inflation protection, uncorrelated returns, and full DeFi composability.

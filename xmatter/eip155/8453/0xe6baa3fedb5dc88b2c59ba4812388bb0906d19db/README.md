@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#6c3cec"
+icons:
+  - icon.svg
 ---
 
 PolySwarm (NCT) is a crowdsourced threat intelligence platform that rewards people for detecting malware and protecting enterprise users.

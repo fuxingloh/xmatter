@@ -14,6 +14,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#0453ab"
+icons:
+  - icon.png
 ---
 
 The fluctuating protocol token that plays a role in stabilizing RSV and confers the cryptographic right to purchase excess Reserve tokens as the network grows.

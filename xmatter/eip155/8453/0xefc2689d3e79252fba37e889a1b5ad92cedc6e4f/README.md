@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#738b96"
+icons:
+  - icon.svg
 ---
 
 BLOCKv is a Web3 OS for enterprises and developers to create scalable digital experiences.

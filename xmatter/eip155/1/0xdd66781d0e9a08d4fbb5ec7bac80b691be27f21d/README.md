@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#6b61a9"
+icons:
+  - icon.svg
 ---
 
 AxonDAO Builds, Supports, and Funds Decentralized Science Projects with Biometric AI.

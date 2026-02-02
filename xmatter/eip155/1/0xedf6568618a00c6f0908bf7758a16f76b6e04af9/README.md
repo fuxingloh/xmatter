@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#ac8c54"
+icons:
+  - icon.svg
 ---
 
 ARIA20 is the native token for Arianee Protocol.

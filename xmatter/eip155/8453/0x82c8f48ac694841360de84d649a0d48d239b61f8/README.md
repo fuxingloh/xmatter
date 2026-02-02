@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#113f49"
+icons:
+  - icon.svg
 ---
 
 ZynCoin is more than a memecoin, it's a lifestyle. Comfy gum pillows for all. With ownership renounced and liquidity locked, we are a community-led token spreading the gospel of $ZYN.

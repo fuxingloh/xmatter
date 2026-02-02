@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fc0424"
+icons:
+  - icon.png
 ---
 
 Optimism is a Layer 2 scaling solution for Ethereum.

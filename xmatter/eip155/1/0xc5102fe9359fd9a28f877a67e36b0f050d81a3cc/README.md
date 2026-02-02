@@ -24,6 +24,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#d167cc"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 A protocol for sending tokens across rollups and their shared layer-1 network in a quick and trustless manner

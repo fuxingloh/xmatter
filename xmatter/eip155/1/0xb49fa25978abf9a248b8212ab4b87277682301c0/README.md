@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#b464f4"
+icons:
+  - icon.svg
 ---
 
 Join the new era of SocialFi.

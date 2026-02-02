@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#9db9c0"
+icons:
+  - icon.svg
 ---
 
 Current Thing ERC-20 Token

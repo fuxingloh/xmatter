@@ -14,6 +14,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#fc1474"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Sovrun is reimagining gaming by empowering players to own their digital assets and become architects of their virtual worlds.

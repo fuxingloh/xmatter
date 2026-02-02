@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#141c1c"
+icons:
+  - icon.svg
 ---
 
 Silo Finance is a non-custodial protocol for risk-isolated lending markets.

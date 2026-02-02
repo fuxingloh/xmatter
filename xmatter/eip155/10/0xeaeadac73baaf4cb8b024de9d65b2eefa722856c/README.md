@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#1566d1"
+icons:
+  - icon.svg
 ---
 
 A multi-chain token

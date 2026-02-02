@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e8c144"
+icons:
+  - icon.png
 ---
 
 We are a cryptocurrency app with the goal of creating an environment where the worlds of traditional finance and cryptocurrencies converge within a single application.

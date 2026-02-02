@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e1c145"
+icons:
+  - icon.png
 ---
 
 The first community-driven utility token & ecosystem created by Shiba & Dogecoin whales coming together for the greater good of both communities

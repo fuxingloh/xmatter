@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#bbc3e3"
+icons:
+  - icon.svg
 ---
 
 mpETH is a modern liquid staking token for ethereum.

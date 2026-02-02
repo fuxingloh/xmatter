@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#151515"
+icons:
+  - icon.png
 ---
 
 Ocean Protocol Token

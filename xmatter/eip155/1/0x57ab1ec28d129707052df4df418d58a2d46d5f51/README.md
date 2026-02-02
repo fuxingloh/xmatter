@@ -23,6 +23,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#37daa5"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 sUSD is an ERC-20 token made by the Synthetix team which tracks the price of USD.

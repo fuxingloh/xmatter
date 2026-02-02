@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#e9e7e3"
+icons:
+  - icon.png
 ---
 
 The first and only cross-chain memecoin for Gen Z

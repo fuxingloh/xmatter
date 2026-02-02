@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#1e8cdf"
+icons:
+  - icon.svg
 ---
 
 OVER is a Web3 Spatial Computing platform that blends the physical and virtual worlds using geo-localized Augmented Reality (AR)

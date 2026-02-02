@@ -23,6 +23,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#ce1cd9"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 At Metacade our vision is to become the premier gaming platform that empowers developers and players, providing unparalleled opportunities for growth and collaboration. Through creativity and innovation we aim to create a fun first community that offers a rewarding and enjoyable experience, while delivering a revenue driven platform that gives value to $MCADE token holders.

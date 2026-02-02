@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#1db949"
+icons:
+  - icon.png
 ---
 
 Self minting token by user transfers plus chance to airdrop INFC tokens

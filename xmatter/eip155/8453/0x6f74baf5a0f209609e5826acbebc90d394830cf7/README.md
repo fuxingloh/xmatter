@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#f0a000"
+icons:
+  - icon.svg
 ---
 
 YFX Basechain token

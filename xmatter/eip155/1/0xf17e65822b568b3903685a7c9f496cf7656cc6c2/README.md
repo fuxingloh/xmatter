@@ -16,6 +16,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#ff4e17"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Biconomy is a multichain relayer protocol that aims to reduce the friction point when dealing with blockchain technology for its mass adoption.

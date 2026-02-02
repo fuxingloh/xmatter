@@ -16,6 +16,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#335cd3"
+icons:
+  - icon.png
 ---
 
 A blockchain-based middleware, acting as a bridge between cryptocurrency smart contracts, data feeds, APIs and traditional bank account payments.

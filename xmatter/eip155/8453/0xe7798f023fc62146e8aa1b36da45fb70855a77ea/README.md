@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#c8dddd"
+icons:
+  - icon.svg
 ---
 
 Interest Bearing FARM Token

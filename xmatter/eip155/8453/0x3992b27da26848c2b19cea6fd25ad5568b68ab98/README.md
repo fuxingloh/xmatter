@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#fba0c1"
+icons:
+  - icon.png
 ---
 
 MANTRA is a vertically-integrated and regulatory-compliant blockchain ecosystem.

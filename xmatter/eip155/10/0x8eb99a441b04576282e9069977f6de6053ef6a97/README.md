@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#047bf3"
+icons:
+  - icon.svg
 ---
 
 A payment token that facilitates simplified transactions and provides a discount and reward mechanism for the Swarm platform.

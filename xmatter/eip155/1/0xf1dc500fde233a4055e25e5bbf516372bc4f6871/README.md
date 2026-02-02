@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#d4c8f6"
+icons:
+  - icon.svg
 ---
 
 Governance token for Saddle Finance

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#090804"
+icons:
+  - icon.svg
 ---
 
 Scamfari Token

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#1c1c4d"
+icons:
+  - icon.svg
 ---
 
 Asset management protocol

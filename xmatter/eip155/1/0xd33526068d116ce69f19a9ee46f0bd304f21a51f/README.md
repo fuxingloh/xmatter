@@ -20,6 +20,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#f9a66e"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Rocket Pool Protocol (RPL) - Decentralised Proof of Stake Pool

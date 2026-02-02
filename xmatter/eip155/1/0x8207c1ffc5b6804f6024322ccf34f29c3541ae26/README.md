@@ -14,6 +14,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#1c84fc"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Enabling peer-to-peer commerce

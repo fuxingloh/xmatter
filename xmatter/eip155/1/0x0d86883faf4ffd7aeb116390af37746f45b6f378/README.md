@@ -13,6 +13,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#24ac2c"
+icons:
+  - icon.svg
 ---
 
 An RToken that earns the DeFi rate any time you're in stables.

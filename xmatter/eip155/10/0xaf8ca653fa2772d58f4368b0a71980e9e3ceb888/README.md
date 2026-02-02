@@ -18,6 +18,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#44f7aa"
+icons:
+  - icon.png
 ---
 
 Tellor (a decentralized oracle) aims to address the Oracle problem on Ethereum.

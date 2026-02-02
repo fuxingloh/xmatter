@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#e05faa"
+icons:
+  - icon.svg
 ---
 
 Buy and Sell Instantly on Sushi. Wherever. Whoever. Whenever.

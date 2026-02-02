@@ -12,6 +12,8 @@ symbol: USDC
 decimals: 6
 icon: icon.png
 color: "#2373cb"
+icons:
+  - icon.png
 ---
 
 USDC is a faster, safer, and more efficient way to send, spend, and exchange money around the globe. This is native USDC, minted by Circle's Cross-Chain Transfer Protocol.

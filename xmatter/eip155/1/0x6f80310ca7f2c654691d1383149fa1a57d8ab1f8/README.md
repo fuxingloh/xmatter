@@ -26,6 +26,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#141c1c"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Silo's lending protocol (Silo Finance) is owned and operated by the SiloDAO. The governance token ($SILO) endows holders with full control over the DAO and its lending protocol through voting and delegation rights.

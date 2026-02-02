@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#5b4389"
+icons:
+  - icon.svg
 ---
 
 Official token of POG Digital

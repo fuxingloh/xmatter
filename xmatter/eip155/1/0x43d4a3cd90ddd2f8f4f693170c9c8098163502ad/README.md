@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#14042c"
+icons:
+  - icon.svg
 ---
 
 A DAO collective focused on researching and building next-generation coordination tools for decentralized organizations.

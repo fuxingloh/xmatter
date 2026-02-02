@@ -14,6 +14,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#040404"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 $imgnAI is the creator token that powers the imgnAI platform - a suite of creative AI tools built for maximum fun, and maximum freedom.

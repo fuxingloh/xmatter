@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#694c4b"
+icons:
+  - icon.svg
 ---
 
 Official token of the FOAM protocol powering Proof of Location

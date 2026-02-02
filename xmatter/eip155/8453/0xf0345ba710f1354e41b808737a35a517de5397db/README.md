@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#191919"
+icons:
+  - icon.svg
 ---
 
 GGTK (GG Token) powers GG DApp, a Web3 gaming platform and DeFi ecosystem that rewards players, developers, and liquidity providers.

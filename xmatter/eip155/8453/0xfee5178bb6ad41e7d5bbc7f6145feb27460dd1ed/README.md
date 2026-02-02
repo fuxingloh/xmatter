@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#a21d1a"
+icons:
+  - icon.png
 ---
 
 The Secret Coin is a fun Meme coin on the Ethereum network.

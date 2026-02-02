@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#3b63f0"
+icons:
+  - icon.svg
 ---
 
 Azuro is a decentralized protocol for prediction markets, providing tooling & infrastructure for EVM chains to host powerful apps and betting interfaces.

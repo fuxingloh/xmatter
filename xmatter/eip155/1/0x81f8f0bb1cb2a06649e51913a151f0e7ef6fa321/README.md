@@ -32,6 +32,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#f9d933"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 The governance token for VitaDAO, a decentralized collective funding early stage longevity research.

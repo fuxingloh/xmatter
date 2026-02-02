@@ -10,6 +10,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#3f3f3f"
+icons:
+  - icon.png
 ---
 
 Creator coin for Mr Lightspeed on Zora's Base network, giving supporters a way to back new drops and collaborations across the Superchain.

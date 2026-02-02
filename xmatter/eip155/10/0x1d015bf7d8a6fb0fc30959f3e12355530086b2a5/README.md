@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#14242c"
+icons:
+  - icon.svg
 ---
 
 Changer is a crypto liquidity aggregator that has aggregated the majority of centralized exchanges, OTCs, and on-chain decentralized exchanges regardless of the type of chains.

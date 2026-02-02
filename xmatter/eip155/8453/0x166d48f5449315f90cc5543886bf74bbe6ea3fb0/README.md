@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#378755"
+icons:
+  - icon.svg
 ---
 
 KTON is a token that incentivizes users to deposit their RING token for a specific period of time.

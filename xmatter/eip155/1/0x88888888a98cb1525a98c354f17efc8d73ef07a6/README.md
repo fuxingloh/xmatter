@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.png
 color: "#d6b241"
+icons:
+  - icon.png
 ---
 
 MVP Chain is an Optimism-style Layer 2 blockchain that enables instant, low-cost stablecoin transactions. Bridge your existing stablecoins from Ethereum mainnet and experience the future of payments.

@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#040c0c"
+icons:
+  - icon.svg
 ---
 
 $DSTRX is the native token of the Districts ecosystem, a virtual world platform built on the Realio Network.

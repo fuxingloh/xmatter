@@ -14,6 +14,9 @@ standards:
   - erc20
 icon: icon.svg
 color: "#070705"
+icons:
+  - icon.svg
+  - icon.png
 ---
 
 Popcorn is a regenerative yield optimizing protocol with soul. Decentralized technology drives the future towards a more inclusive and transparent financial system.

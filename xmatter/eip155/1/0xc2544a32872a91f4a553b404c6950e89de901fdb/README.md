@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#040404"
+icons:
+  - icon.svg
 ---
 
 The Frax Price Index Share (FPIS) token is the governance token of the Frax Price Index (FPI) system, which is also entitled to seigniorage from the protocol. Excess yield will be directed from the treasury to FPIS holders, similar to Frax Finance's FXS structure.

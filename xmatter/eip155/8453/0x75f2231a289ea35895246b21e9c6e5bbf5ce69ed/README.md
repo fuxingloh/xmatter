@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#182020"
+icons:
+  - icon.svg
 ---
 
 Accelerate scaling for Web3

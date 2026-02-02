@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#e5d3ee"
+icons:
+  - icon.svg
 ---
 
 PsyDAO Governance Token

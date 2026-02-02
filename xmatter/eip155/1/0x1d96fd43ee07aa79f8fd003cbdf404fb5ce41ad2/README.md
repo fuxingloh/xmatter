@@ -12,6 +12,8 @@ standards:
   - erc20
 icon: icon.svg
 color: "#1f5d86"
+icons:
+  - icon.svg
 ---
 
 A blockchain technology company focused on developing secure and innovative token solutions for traditional financial services
