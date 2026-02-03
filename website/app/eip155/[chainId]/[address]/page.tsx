@@ -38,7 +38,7 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
   const sentence = getFirstSentence(data.description);
 
   return (
-    <div className="grid grid-cols-10 gap-12">
+    <div className="grid grid-cols-10 gap-12 pb-48">
       <main className="col-span-7">
         <div className="mb-4">
           <h1 className="mb-1 text-2xl font-semibold">{data.name}</h1>
@@ -52,7 +52,7 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
         </div>
 
         <div className="flex flex-col gap-12">
-          <div className="border-mono-200/75 flex flex-wrap items-center gap-12 border-y py-8">
+          <div className="border-mono-200/75 flex flex-wrap items-center gap-12 border-y py-6">
             {chains[chainId] && (
               <div>
                 <h4 className="text-mono-500 text-sm">CHAIN</h4>
