@@ -38,21 +38,21 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
   const sentence = getFirstSentence(data.description);
 
   return (
-    <div className="grid grid-cols-10 gap-10">
+    <div className="grid grid-cols-10 gap-12">
       <main className="col-span-7">
         <div className="mb-4">
           <h1 className="mb-1 text-2xl font-semibold">{data.name}</h1>
           {sentence && <p className="line-clamp-1">{sentence}</p>}
 
-          <div className="mt-12 flex flex-wrap items-center gap-x-6 gap-y-1">
+          <div className="mt-15 flex flex-wrap items-center gap-x-6 gap-y-1">
             {data.links?.map((link) => (
               <FrontmatterLink key={link.url} link={link} />
             ))}
           </div>
         </div>
 
-        <div className="flex flex-col gap-8">
-          <div className="border-mono-200/75 flex flex-wrap items-center gap-12 border-y py-7">
+        <div className="flex flex-col gap-12">
+          <div className="border-mono-200/75 flex flex-wrap items-center gap-12 border-y py-8">
             {chains[chainId] && (
               <div>
                 <h4 className="text-mono-500 text-sm">CHAIN</h4>
@@ -84,9 +84,8 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
             )}
           </div>
 
-          <IdentifierSelect chainId={chainId} address={address} />
-
           <IconsTab chainId={chainId} address={address} icons={data.icons} />
+          <IdentifierSelect chainId={chainId} address={address} />
 
           <div>
             <h4 className="text-mono-500 mb-2 text-sm">README</h4>
@@ -105,7 +104,7 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
         </div>
       </main>
 
-      <aside className="col-span-3 flex flex-col gap-5">
+      <aside className="col-span-3 flex flex-col gap-8">
         <div>
           <h4 className="text-mono-500 mb-2 text-sm">PROVENANCE</h4>
           <Provenance provenance={data.provenance} />
