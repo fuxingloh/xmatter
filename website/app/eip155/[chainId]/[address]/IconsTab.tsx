@@ -1,3 +1,4 @@
+"use client";
 import Image from "next/image";
 
 export function IconsTab(props: { chainId: string; address: string; icons: string[] }) {
@@ -7,16 +8,16 @@ export function IconsTab(props: { chainId: string; address: string; icons: strin
     <div>
       <div className="mb-2.5 flex items-center justify-between">
         <h4 className="text-mono-500 text-sm">ICONS</h4>
-        <div>
+        <div className="border-mono-300 bg-mono-100 flex items-center gap-2 rounded-md border">
           {props.icons.map((icon) => (
-            <div key={icon} className="flex items-center gap-2">
+            <div key={icon} className="flex items-center gap-2 px-3 py-1">
               {icon}
             </div>
           ))}
         </div>
       </div>
-      <div className="border-mono-200 grid grid-cols-2 overflow-hidden rounded-lg border">
-        <div className="bg-mono-50 text-mono-950 flex items-end justify-center gap-4 p-6">
+      <div className="grid grid-cols-2 overflow-hidden rounded-lg">
+        <div className="bg-mono-100 text-mono-950 flex items-end justify-center gap-4 p-6">
           <IconImage chainId={props.chainId} address={props.address} icon={icon} size={16} />
           <IconImage chainId={props.chainId} address={props.address} icon={icon} size={32} />
           <IconImage chainId={props.chainId} address={props.address} icon={icon} size={48} />

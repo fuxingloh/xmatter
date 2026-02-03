@@ -14,6 +14,10 @@ export async function generateStaticParams() {
   ];
 }
 
+const chains: Record<string, string> = {
+  "1": "Ethereum",
+};
+
 export async function generateMetadata(props: PageProps<"/eip155/[chainId]/[address]">): Promise<Metadata> {
   const { chainId, address } = await props.params;
   const { data, content } = await getXmatterFile(`/eip155/${chainId}/${address}/README.md`);
@@ -33,18 +37,58 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
   return (
     <div className="grid grid-cols-10 gap-10">
       <main className="col-span-7">
-        <div className="mb-8">
-          <h1 className="text-2xl font-semibold">{data.name}</h1>
+        <div className="mb-4">
+          <h1 className="mb-1 text-2xl font-semibold">{data.name}</h1>
           {sentence && <p className="line-clamp-1">{sentence}</p>}
+
+          <div className="mt-12 flex items-center gap-4">
+            {data.links?.map((link) => (
+              <a key={link.url} href={link.url} target="_blank" rel="noopener noreferrer" className="inline-block">
+                <span className="">{link.name}</span>
+              </a>
+            ))}
+          </div>
         </div>
 
-        <div className="flex flex-col gap-5">
-          <div>
-            <h4></h4>
+        <div className="flex flex-col gap-8">
+          <div className="border-mono-200/75 flex flex-wrap items-center gap-12 border-y py-7">
+            {chains[chainId] && (
+              <div>
+                <h4 className="text-mono-500 text-sm">CHAIN</h4>
+                <p className="">{chains[chainId]}</p>
+              </div>
+            )}
+            <div>
+              <h4 className="text-mono-500 text-sm">CHAINID (EIP155)</h4>
+              <p className="uppercase">{chainId}</p>
+            </div>
+            <div>
+              <h4 className="text-mono-500 text-sm">COLOR</h4>
+              <div className="flex items-center gap-1.5">
+                <p className="uppercase">{data.color}</p>
+                <div className="size-4 rounded-xs" style={{ backgroundColor: data.color }}></div>
+              </div>
+            </div>
+            {data.symbol && (
+              <div>
+                <h4 className="text-mono-500 text-sm">SYMBOL</h4>
+                <p className="uppercase">{data.symbol}</p>
+              </div>
+            )}
+            {data.decimals && (
+              <div>
+                <h4 className="text-mono-500 text-sm">DECIMALS</h4>
+                <p className="">{data.decimals}</p>
+              </div>
+            )}
           </div>
 
           <div>
-            <h4 className="text-mono-500 mb-2 text-sm">LINKS</h4>
+            <h4 className="text-mono-500 mb-2 text-sm">IDENTIFIER</h4>
+            <div>
+              CAIP10: <span className="font-mono">{`eip155:${chainId}/${address}`}</span>
+              CAIP19, Xmatter Path
+            </div>
           </div>
 
           <IconsTab chainId={chainId} address={address} icons={data.icons} />
