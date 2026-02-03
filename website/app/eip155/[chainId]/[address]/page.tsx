@@ -5,6 +5,7 @@ import { getDescription } from "@/app/eip155/[chainId]/[address]/frontmatter.jso
 import { getXmatterFile } from "@/app/public";
 import { IconsTab } from "@/app/eip155/[chainId]/[address]/IconsTab";
 import { FrontmatterLink } from "@/app/eip155/[chainId]/[address]/FrontmatterLink";
+import Link from "next/link";
 
 export async function generateStaticParams() {
   return [
@@ -112,23 +113,40 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
       <aside className="col-span-3 flex flex-col gap-5">
         <div>
           <h4 className="text-mono-500 mb-2 text-sm">PROVENANCE</h4>
-          <p>{data.provenance}</p>
+          <Provenance provenance={data.provenance} />
         </div>
 
-        <div>
-          <h4 className="text-mono-500 mb-2 text-sm">TAGS</h4>
-        </div>
+        {data.tags && (
+          <div>
+            <h4 className="text-mono-500 mb-2 text-sm">TAGS</h4>
+            <ul className="flex items-center gap-2">
+              {data.tags.map((tag) => (
+                <li
+                  className="bg-mono-200/50 text-mono-800 rounded-sm px-2 py-1 text-sm font-medium uppercase"
+                  key={tag}
+                >
+                  {tag}
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
 
-        <div>
-          <h4 className="text-mono-500 mb-2 text-sm">STANDARDS</h4>
-          <ul className="flex items-center gap-2">
-            {data.standards.map((standard) => (
-              <li className="bg-mono-100 rounded-sm px-2 py-0.75 text-sm uppercase" key={standard}>
-                {standard}
-              </li>
-            ))}
-          </ul>
-        </div>
+        {data.standards && (
+          <div>
+            <h4 className="text-mono-500 mb-2 text-sm">STANDARDS</h4>
+            <ul className="flex items-center gap-2">
+              {data.standards.map((standard) => (
+                <li
+                  className="bg-mono-200/50 text-mono-800 rounded-sm px-2 py-1 text-sm font-medium uppercase"
+                  key={standard}
+                >
+                  {standard}
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
       </aside>
     </div>
   );
@@ -141,4 +159,16 @@ function getFirstSentence(description?: string): string | undefined {
   if (match && match[0].trim().length >= 40) {
     return match[0].trim();
   }
+}
+
+function Provenance(props: { provenance: string }) {
+  if (props.provenance.startsWith("http")) {
+    const link = new URL(props.provenance);
+    return (
+      <Link href={link.href} className="hover:underline" target="_blank" rel="noopener noreferrer">
+        {link.host + (link.pathname === "/" ? "" : link.pathname)}
+      </Link>
+    );
+  }
+  return <p>{props.provenance}</p>;
 }
