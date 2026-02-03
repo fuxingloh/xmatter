@@ -48,6 +48,10 @@ function Header() {
           <div className="text-lg font-bold">Xmatter</div>
         </ActiveLink>
 
+        <div>
+          <div>Slash Search</div>
+        </div>
+
         <div className="flex items-center gap-4">
           <div>Docs</div>
           <div>Theme Switch</div>

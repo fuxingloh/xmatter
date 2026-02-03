@@ -4,6 +4,7 @@ import Markdown from "react-markdown";
 import { getDescription } from "@/app/eip155/[chainId]/[address]/frontmatter.json/route";
 import { getXmatterFile } from "@/app/public";
 import { IconsTab } from "@/app/eip155/[chainId]/[address]/IconsTab";
+import { FrontmatterLink } from "@/app/eip155/[chainId]/[address]/FrontmatterLink";
 
 export async function generateStaticParams() {
   return [
@@ -43,9 +44,7 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
 
           <div className="mt-12 flex items-center gap-4">
             {data.links?.map((link) => (
-              <a key={link.url} href={link.url} target="_blank" rel="noopener noreferrer" className="inline-block">
-                <span className="">{link.name}</span>
-              </a>
+              <FrontmatterLink key={link.url} link={link} />
             ))}
           </div>
         </div>
