@@ -8,7 +8,6 @@ name: yfBETA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1c43fb"
 icons:
   - icon.png

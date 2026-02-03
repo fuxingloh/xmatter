@@ -8,7 +8,6 @@ name: Raku Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e89080"
 icons:
   - icon.png

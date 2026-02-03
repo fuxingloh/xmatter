@@ -10,7 +10,6 @@ name: AlphaKEK.AI
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#235e6d"
 icons:
   - icon.svg

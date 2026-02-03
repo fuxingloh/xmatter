@@ -8,7 +8,6 @@ name: Coinlancer
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c74380"
 icons:
   - icon.png

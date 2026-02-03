@@ -24,7 +24,6 @@ name: Secured Ship
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dec5b8"
 icons:
   - icon.png

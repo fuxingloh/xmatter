@@ -8,7 +8,6 @@ name: OxSwapToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#b4631c"
 icons:
   - icon.png

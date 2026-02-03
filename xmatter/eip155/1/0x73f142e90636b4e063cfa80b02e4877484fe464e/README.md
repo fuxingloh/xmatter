@@ -6,7 +6,6 @@ name: Sava International
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#158ecf"
 icons:
   - icon.png

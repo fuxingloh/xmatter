@@ -20,7 +20,6 @@ name: KuCoin Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#23af91"
 icons:
   - icon.png

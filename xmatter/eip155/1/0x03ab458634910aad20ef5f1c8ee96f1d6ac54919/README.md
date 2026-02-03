@@ -8,7 +8,6 @@ name: Rai Reflex Index
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#1f2d2c"
 icons:
   - icon.svg

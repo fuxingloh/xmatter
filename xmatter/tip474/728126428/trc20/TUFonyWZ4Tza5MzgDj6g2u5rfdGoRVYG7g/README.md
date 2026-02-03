@@ -12,7 +12,6 @@ name: FOFAR
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-icon: icon.png
 color: "#f7e74d"
 icons:
   - icon.png

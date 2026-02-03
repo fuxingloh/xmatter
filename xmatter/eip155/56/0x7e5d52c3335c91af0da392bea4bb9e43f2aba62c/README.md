@@ -16,7 +16,6 @@ name: Sheesh it is bussin bussin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d0d2d2"
 icons:
   - icon.png

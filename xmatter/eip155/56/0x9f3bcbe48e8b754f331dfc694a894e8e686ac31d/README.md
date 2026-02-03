@@ -18,7 +18,6 @@ name: Acet
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2b3c84"
 icons:
   - icon.png

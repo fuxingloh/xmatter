@@ -8,7 +8,6 @@ name: Klever
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-icon: icon.png
 color: "#dd44cf"
 icons:
   - icon.png

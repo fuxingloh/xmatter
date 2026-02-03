@@ -14,7 +14,6 @@ name: Alephium (AlphBridge)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fc3434"
 icons:
   - icon.png

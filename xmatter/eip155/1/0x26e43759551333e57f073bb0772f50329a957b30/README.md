@@ -14,7 +14,6 @@ name: DegenVC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#25e2cc"
 icons:
   - icon.png

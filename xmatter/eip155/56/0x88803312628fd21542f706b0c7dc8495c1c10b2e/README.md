@@ -16,7 +16,6 @@ name: DeFi Degen Land
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#85a5c9"
 icons:
   - icon.png

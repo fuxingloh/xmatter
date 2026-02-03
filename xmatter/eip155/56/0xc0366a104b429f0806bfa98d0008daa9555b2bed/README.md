@@ -8,7 +8,6 @@ name: SafeMars
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fb6404"
 icons:
   - icon.png

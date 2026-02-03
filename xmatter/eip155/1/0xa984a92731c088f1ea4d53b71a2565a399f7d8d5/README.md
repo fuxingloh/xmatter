@@ -8,7 +8,6 @@ name: INCX Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#33357b"
 icons:
   - icon.png

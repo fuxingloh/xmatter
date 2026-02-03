@@ -8,7 +8,6 @@ name: Dory Swap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1cc7ea"
 icons:
   - icon.png

@@ -12,7 +12,6 @@ name: CryptonlyFanz
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e3d6e9"
 icons:
   - icon.png

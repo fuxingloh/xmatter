@@ -10,7 +10,6 @@ name: Lido Staked Ether (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#04a4fb"
 icons:
   - icon.png

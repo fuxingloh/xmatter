@@ -6,7 +6,6 @@ name: Fulcrum Perpetual Long ETH-DAI 3x v2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#04ccbc"
 icons:
   - icon.png

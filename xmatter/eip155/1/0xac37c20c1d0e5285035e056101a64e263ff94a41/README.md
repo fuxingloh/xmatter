@@ -14,7 +14,6 @@ name: Visa (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#243bc3"
 icons:
   - icon.png

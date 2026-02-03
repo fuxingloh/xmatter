@@ -10,7 +10,6 @@ name: Smooth Love Potion (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#e9b3ba"
 icons:
   - icon.png

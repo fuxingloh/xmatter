@@ -8,7 +8,6 @@ name: TILWIKI - Faces of Art
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d43404"
 icons:
   - icon.png

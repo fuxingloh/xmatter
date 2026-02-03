@@ -10,7 +10,6 @@ name: HARD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f34b25"
 icons:
   - icon.png

@@ -16,7 +16,6 @@ name: Mint.club
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#63fba3"
 icons:
   - icon.png

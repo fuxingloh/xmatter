@@ -14,7 +14,6 @@ name: Walmart (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cce4f4"
 icons:
   - icon.png

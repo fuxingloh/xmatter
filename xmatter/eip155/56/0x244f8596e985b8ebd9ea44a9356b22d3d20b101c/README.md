@@ -8,7 +8,6 @@ name: DOGE-1
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dbb438"
 icons:
   - icon.png

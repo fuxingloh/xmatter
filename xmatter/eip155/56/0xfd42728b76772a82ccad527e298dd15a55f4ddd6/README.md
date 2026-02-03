@@ -8,7 +8,6 @@ name: KarenCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e95f9a"
 icons:
   - icon.png

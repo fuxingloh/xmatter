@@ -6,7 +6,6 @@ name: BRAAI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#347b4b"
 icons:
   - icon.png

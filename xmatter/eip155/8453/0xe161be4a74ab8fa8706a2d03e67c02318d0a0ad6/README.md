@@ -10,7 +10,6 @@ name: Apetardio
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e6cdc5"
 icons:
   - icon.png

@@ -40,7 +40,6 @@ name: MetaGamescoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ac7617"
 icons:
   - icon.png

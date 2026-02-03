@@ -26,7 +26,6 @@ name: Jesus Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#997a57"
 icons:
   - icon.png

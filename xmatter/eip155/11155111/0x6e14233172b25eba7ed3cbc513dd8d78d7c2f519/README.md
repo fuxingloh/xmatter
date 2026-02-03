@@ -10,7 +10,6 @@ links:
     url: "https://x.com/ipor_io"
 symbol: IPOR
 decimals: 18
-icon: icon.svg
 color: "#040f32"
 icons:
   - icon.svg

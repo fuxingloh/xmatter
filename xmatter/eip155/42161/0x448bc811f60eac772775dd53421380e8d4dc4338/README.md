@@ -15,7 +15,6 @@ name: Wrapped Exxon Mobil Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#eb1b2c"
 icons:
   - icon.png

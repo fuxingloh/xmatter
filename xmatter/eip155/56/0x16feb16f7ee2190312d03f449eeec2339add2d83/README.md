@@ -10,7 +10,6 @@ name: SafeUniverse
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c0728a"
 icons:
   - icon.png

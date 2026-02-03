@@ -14,7 +14,6 @@ name: Nabox Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2ac98b"
 icons:
   - icon.png

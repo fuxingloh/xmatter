@@ -26,7 +26,6 @@ name: Baby Doge Money Maker
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f0b439"
 icons:
   - icon.png

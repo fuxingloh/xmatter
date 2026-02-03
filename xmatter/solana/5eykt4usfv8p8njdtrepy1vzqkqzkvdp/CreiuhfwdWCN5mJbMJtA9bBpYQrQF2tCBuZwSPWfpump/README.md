@@ -12,7 +12,6 @@ name: PYTHIA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#121312"
 icons:
   - icon.png

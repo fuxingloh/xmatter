@@ -12,7 +12,6 @@ name: Ice (Wormhole)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#f7f7f8"
 icons:
   - icon.png

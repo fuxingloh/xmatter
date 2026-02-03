@@ -12,7 +12,6 @@ name: Dogcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c39649"
 icons:
   - icon.png

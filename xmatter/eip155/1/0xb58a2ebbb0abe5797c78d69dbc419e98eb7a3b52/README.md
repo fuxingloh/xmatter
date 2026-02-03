@@ -6,7 +6,6 @@ name: Ecnar Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ccdde6"
 icons:
   - icon.png

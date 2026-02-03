@@ -12,7 +12,6 @@ name: Mai Stablecoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#41403f"
 icons:
   - icon.png

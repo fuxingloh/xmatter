@@ -14,7 +14,6 @@ name: LuckyFortuneDog
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dfc869"
 icons:
   - icon.png

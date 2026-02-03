@@ -12,7 +12,6 @@ name: ElonSperm
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f35474"
 icons:
   - icon.png

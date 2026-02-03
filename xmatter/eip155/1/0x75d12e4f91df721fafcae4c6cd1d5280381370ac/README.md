@@ -8,7 +8,6 @@ name: Myōbu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f87a9b"
 icons:
   - icon.png

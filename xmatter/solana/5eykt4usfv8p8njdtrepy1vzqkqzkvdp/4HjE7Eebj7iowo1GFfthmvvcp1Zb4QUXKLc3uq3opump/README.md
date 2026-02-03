@@ -16,7 +16,6 @@ name: Chillax
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#2a7196"
 icons:
   - icon.png

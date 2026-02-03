@@ -8,7 +8,6 @@ name: ChesterCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cfc3b5"
 icons:
   - icon.png

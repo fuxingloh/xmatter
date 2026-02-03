@@ -8,7 +8,6 @@ name: MobilinkToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c8cfe4"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: DeCash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#030304"
 icons:
   - icon.png

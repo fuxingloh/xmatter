@@ -6,7 +6,6 @@ name: Econ
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#55bcfc"
 icons:
   - icon.png

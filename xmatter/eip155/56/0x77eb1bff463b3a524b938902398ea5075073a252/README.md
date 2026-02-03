@@ -8,7 +8,6 @@ name: Little Deer Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d36429"
 icons:
   - icon.png

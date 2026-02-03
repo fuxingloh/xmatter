@@ -15,7 +15,6 @@ name: Wrapped Robinhood Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#04cb04"
 icons:
   - icon.png

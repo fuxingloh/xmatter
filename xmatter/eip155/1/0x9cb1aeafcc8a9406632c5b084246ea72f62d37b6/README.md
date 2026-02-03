@@ -8,7 +8,6 @@ name: LBK
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fcf5ba"
 icons:
   - icon.png

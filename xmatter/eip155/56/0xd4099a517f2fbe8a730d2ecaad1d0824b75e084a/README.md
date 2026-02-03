@@ -14,7 +14,6 @@ name: The Monopolist
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#aa1415"
 icons:
   - icon.png

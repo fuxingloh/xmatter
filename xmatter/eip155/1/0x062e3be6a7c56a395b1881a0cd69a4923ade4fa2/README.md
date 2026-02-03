@@ -8,7 +8,6 @@ name: Bowl A Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#9c3518"
 icons:
   - icon.png

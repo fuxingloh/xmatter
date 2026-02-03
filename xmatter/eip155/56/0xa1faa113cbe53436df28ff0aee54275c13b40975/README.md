@@ -8,7 +8,6 @@ name: Alpha Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2cb4fc"
 icons:
   - icon.png

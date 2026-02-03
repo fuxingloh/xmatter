@@ -8,7 +8,6 @@ name: blocsport.one
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fcdc04"
 icons:
   - icon.png

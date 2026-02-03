@@ -12,7 +12,6 @@ name: Urolithin A
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#aba3f3"
 icons:
   - icon.png

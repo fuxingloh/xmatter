@@ -8,7 +8,6 @@ name: Sappchain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#053353"
 icons:
   - icon.png

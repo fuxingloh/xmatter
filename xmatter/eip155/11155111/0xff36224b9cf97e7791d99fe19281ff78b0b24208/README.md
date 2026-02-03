@@ -10,7 +10,6 @@ links:
     url: "https://x.com/ecomi_"
 symbol: OMI
 decimals: 18
-icon: icon.svg
 color: "#dc3444"
 icons:
   - icon.svg

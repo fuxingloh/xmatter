@@ -14,7 +14,6 @@ name: Figma (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fc3535"
 icons:
   - icon.png

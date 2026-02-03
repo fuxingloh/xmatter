@@ -18,7 +18,6 @@ name: Zuna
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2b1c5a"
 icons:
   - icon.png

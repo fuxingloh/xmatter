@@ -10,7 +10,6 @@ links:
     url: "https://x.com/mvlchain"
 symbol: MVL
 decimals: 18
-icon: icon.svg
 color: "#f4bc3c"
 icons:
   - icon.svg

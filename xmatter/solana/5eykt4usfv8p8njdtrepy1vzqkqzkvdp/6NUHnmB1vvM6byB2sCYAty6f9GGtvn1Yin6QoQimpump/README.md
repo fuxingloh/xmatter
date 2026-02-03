@@ -10,7 +10,6 @@ name: Protest Pikachu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#443f3f"
 icons:
   - icon.png

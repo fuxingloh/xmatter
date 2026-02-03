@@ -6,7 +6,6 @@ name: IAM MDLT C 172-CN05
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#130707"
 icons:
   - icon.png

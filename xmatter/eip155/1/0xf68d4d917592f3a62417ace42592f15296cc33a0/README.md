@@ -16,7 +16,6 @@ name: Coin hub
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f0eded"
 icons:
   - icon.png

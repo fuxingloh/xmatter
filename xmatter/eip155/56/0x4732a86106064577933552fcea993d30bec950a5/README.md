@@ -24,7 +24,6 @@ name: Digichain Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0748ad"
 icons:
   - icon.png

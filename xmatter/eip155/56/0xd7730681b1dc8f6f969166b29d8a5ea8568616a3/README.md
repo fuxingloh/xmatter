@@ -8,7 +8,6 @@ name: Nafter
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#da4dc1"
 icons:
   - icon.png

@@ -10,7 +10,6 @@ name: Solstream
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#579bc8"
 icons:
   - icon.png

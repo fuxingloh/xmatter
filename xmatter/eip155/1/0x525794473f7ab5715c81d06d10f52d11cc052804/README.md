@@ -8,7 +8,6 @@ name: 12Ships
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0b338c"
 icons:
   - icon.png

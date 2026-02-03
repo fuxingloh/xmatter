@@ -28,7 +28,6 @@ name: Flag Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ecbc1c"
 icons:
   - icon.png

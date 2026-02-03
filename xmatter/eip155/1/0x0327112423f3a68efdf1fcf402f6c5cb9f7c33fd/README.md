@@ -10,7 +10,6 @@ name: PieDAO BTC++
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d42db0"
 icons:
   - icon.png

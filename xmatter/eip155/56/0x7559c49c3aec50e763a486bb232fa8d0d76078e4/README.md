@@ -18,7 +18,6 @@ name: Artrade Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d0d9ee"
 icons:
   - icon.png

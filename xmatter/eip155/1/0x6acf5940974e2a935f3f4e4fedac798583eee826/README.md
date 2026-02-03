@@ -6,7 +6,6 @@ name: CNAC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#042c41"
 icons:
   - icon.png

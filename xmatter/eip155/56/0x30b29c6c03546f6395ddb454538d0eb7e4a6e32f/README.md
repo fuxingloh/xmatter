@@ -8,7 +8,6 @@ name: RooCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f7c811"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: AMIS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cabdbe"
 icons:
   - icon.png

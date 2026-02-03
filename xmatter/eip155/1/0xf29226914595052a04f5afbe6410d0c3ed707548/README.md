@@ -8,7 +8,6 @@ name: NEXT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#940484"
 icons:
   - icon.png

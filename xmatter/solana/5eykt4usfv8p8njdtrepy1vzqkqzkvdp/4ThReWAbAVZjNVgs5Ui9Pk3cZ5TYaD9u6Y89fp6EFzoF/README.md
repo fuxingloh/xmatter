@@ -10,7 +10,6 @@ name: 1sol.io (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#2f1b32"
 icons:
   - icon.png

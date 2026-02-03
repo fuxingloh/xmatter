@@ -25,7 +25,6 @@ name: TRUMP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1c2843"
 icons:
   - icon.png

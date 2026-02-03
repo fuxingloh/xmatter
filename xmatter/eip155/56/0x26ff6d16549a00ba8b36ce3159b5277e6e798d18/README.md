@@ -8,7 +8,6 @@ name: Chihua Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f7b927"
 icons:
   - icon.png

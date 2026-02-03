@@ -8,7 +8,6 @@ name: UNION Protocol Governance Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#7065fc"
 icons:
   - icon.png

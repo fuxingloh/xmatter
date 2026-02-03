@@ -8,7 +8,6 @@ name: CoinShares Gold and Cryptoassets Index Lite
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#b95e0a"
 icons:
   - icon.png

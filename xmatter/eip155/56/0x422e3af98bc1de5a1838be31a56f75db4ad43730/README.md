@@ -12,7 +12,6 @@ name: COW
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#3c86ef"
 icons:
   - icon.png

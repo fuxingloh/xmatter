@@ -8,7 +8,6 @@ name: MaverickChain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#323232"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Frozencake
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dbbe9d"
 icons:
   - icon.png

@@ -32,7 +32,6 @@ name: Ankr Staked BNB
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fbeb1b"
 icons:
   - icon.png

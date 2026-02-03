@@ -8,7 +8,6 @@ name: Investdex
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ea5097"
 icons:
   - icon.png

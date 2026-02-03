@@ -10,7 +10,6 @@ name: dYdX (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#141425"
 icons:
   - icon.png

@@ -14,7 +14,6 @@ name: Boss Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f0a02d"
 icons:
   - icon.png

@@ -16,7 +16,6 @@ name: Platform of meme coins
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cdd0ca"
 icons:
   - icon.png

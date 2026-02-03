@@ -8,7 +8,6 @@ name: Decentralized Crypto Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#100529"
 icons:
   - icon.png

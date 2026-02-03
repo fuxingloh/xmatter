@@ -12,7 +12,6 @@ name: GAM3S.GG
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#041433"
 icons:
   - icon.png

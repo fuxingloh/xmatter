@@ -12,7 +12,6 @@ name: Pengycoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#efd6d6"
 icons:
   - icon.png

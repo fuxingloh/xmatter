@@ -26,7 +26,6 @@ name: Magpie Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#92c2fa"
 icons:
   - icon.png

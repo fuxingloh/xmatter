@@ -12,7 +12,6 @@ name: Cate
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d0b274"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: SPFToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#11df04"
 icons:
   - icon.png

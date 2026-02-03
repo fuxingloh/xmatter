@@ -21,7 +21,6 @@ name: Bertram The Pomeranian
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#2874d2"
 icons:
   - icon.png

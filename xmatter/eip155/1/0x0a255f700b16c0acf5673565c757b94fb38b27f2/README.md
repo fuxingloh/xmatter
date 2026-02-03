@@ -8,7 +8,6 @@ name: NEOWORLD CASH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#34536b"
 icons:
   - icon.png

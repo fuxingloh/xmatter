@@ -14,7 +14,6 @@ name: GameStation
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e6eaf2"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Black Kishu Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#3a4545"
 icons:
   - icon.png

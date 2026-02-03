@@ -14,7 +14,6 @@ name: ISKRA TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e099d1"
 icons:
   - icon.png

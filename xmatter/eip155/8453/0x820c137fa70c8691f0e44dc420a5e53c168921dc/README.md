@@ -12,7 +12,6 @@ name: USDS Stablecoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fca050"
 icons:
   - icon.png

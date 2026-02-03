@@ -14,7 +14,6 @@ name: Anatha
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ae8778"
 icons:
   - icon.png

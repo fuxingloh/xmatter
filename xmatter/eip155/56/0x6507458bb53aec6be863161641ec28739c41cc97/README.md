@@ -8,7 +8,6 @@ name: FootballStars
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#23dccb"
 icons:
   - icon.png

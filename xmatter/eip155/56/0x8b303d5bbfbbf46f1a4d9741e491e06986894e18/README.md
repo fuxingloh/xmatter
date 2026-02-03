@@ -24,7 +24,6 @@ name: Woonkly Power
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#248cfc"
 icons:
   - icon.png

@@ -18,7 +18,6 @@ name: PYQ
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#140544"
 icons:
   - icon.png

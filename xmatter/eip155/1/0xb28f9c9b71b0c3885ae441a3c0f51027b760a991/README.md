@@ -6,7 +6,6 @@ name: MADCAP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#802c77"
 icons:
   - icon.png

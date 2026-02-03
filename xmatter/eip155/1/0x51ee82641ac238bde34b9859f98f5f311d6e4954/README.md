@@ -6,7 +6,6 @@ name: IQT Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#3565af"
 icons:
   - icon.png

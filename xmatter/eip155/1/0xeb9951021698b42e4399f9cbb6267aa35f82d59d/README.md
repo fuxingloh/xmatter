@@ -8,7 +8,6 @@ name: Líf
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#81e789"
 icons:
   - icon.png

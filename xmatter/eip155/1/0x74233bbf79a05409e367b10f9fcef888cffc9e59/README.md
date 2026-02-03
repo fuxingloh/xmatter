@@ -6,7 +6,6 @@ name: GSDToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f2f2e8"
 icons:
   - icon.png

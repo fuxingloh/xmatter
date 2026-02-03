@@ -8,7 +8,6 @@ name: CryptalDash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1e94d5"
 icons:
   - icon.png

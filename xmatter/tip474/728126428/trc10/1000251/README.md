@@ -6,7 +6,6 @@ name: CyberTron
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-icon: icon.png
 color: "#040506"
 icons:
   - icon.png

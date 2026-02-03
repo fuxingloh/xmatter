@@ -12,7 +12,6 @@ name: Giko Cat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#0e0909"
 icons:
   - icon.png

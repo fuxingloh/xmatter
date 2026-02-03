@@ -16,7 +16,6 @@ name: Meme Alliance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e32f4e"
 icons:
   - icon.png

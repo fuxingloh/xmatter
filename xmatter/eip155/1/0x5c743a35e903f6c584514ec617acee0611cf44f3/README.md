@@ -9,7 +9,6 @@ name: Experty Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#334055"
 icons:
   - icon.png

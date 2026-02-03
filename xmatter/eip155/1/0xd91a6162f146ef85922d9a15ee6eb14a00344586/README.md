@@ -8,7 +8,6 @@ name: Sessia Kicks
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#a850d0"
 icons:
   - icon.png

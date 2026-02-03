@@ -8,7 +8,6 @@ name: Astroape
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c3c9b6"
 icons:
   - icon.png

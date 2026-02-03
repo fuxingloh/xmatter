@@ -14,7 +14,6 @@ name: Accenture tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#a404fc"
 icons:
   - icon.png

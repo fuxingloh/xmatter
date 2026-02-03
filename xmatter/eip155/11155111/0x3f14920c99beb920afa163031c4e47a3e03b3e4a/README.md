@@ -10,7 +10,6 @@ links:
     url: "https://x.com/send"
 symbol: send
 decimals: 0
-icon: icon.svg
 color: "#050505"
 icons:
   - icon.svg

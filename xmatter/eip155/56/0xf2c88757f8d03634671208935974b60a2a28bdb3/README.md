@@ -16,7 +16,6 @@ name: MyShell Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e6cff9"
 icons:
   - icon.png

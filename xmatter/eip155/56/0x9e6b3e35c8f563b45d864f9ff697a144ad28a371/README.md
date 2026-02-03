@@ -14,7 +14,6 @@ name: Dogemongo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ec5725"
 icons:
   - icon.png

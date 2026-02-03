@@ -10,7 +10,6 @@ name: Base God
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dcdade"
 icons:
   - icon.png

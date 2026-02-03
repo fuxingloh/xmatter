@@ -18,7 +18,6 @@ name: CoinAlpha
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fa965a"
 icons:
   - icon.png

@@ -29,7 +29,6 @@ name: Golden Doge
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#481511"
 icons:
   - icon.png

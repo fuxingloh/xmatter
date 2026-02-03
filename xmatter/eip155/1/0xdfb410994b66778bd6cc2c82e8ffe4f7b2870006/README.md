@@ -8,7 +8,6 @@ name: Kinguin Krowns
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d1cfce"
 icons:
   - icon.png

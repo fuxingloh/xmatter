@@ -12,7 +12,6 @@ name: IQ6900
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#08ca07"
 icons:
   - icon.png

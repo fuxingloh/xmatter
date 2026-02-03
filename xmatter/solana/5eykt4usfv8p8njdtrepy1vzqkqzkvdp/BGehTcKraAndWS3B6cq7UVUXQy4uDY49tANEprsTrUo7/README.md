@@ -10,7 +10,6 @@ name: BookOfBullrun
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#d49669"
 icons:
   - icon.png

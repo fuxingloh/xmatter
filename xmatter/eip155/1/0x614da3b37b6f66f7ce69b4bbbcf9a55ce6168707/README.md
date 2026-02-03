@@ -12,7 +12,6 @@ name: M2 Global Wealth Limited
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#130c23"
 icons:
   - icon.png

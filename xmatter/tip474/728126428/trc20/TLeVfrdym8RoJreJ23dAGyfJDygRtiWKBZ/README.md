@@ -18,7 +18,6 @@ name: A7A5
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-icon: icon.png
 color: "#f9df5b"
 icons:
   - icon.png

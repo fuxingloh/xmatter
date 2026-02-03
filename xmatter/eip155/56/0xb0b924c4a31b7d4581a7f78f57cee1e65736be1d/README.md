@@ -12,7 +12,6 @@ name: HappyCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e8c409"
 icons:
   - icon.png

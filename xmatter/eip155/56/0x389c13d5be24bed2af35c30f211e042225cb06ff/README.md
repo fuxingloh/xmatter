@@ -22,7 +22,6 @@ name: SHIBORG INU
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#eab16b"
 icons:
   - icon.png

@@ -14,7 +14,6 @@ name: Wrapped Merck Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#049c94"
 icons:
   - icon.png

@@ -16,7 +16,6 @@ name: MooCat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#cec1ba"
 icons:
   - icon.png

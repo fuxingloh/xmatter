@@ -6,7 +6,6 @@ name: SGPay Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#6c6d74"
 icons:
   - icon.png

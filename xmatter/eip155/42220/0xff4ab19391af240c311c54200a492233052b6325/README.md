@@ -20,7 +20,6 @@ name: Mento Canadian Dollar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f0d9e8"
 icons:
   - icon.png

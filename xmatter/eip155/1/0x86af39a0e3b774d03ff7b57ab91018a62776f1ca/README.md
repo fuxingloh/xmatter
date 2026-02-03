@@ -6,7 +6,6 @@ name: BBF15ChallengeCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cc9b49"
 icons:
   - icon.png

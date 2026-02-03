@@ -8,7 +8,6 @@ name: Tellor
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#45faab"
 icons:
   - icon.png

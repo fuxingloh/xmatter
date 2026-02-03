@@ -6,7 +6,6 @@ name: Rentledger
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1985f2"
 icons:
   - icon.png

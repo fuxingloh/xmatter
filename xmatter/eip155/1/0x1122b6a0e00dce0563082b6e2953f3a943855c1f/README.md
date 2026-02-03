@@ -8,7 +8,6 @@ name: Centrality
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0c80ff"
 icons:
   - icon.png

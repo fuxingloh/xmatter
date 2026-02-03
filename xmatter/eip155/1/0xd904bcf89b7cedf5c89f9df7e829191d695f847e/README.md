@@ -14,7 +14,6 @@ name: General Electric (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cde4f5"
 icons:
   - icon.png

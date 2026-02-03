@@ -10,7 +10,6 @@ name: A Hunters Dream
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f8c238"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Tixl
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cdd0fc"
 icons:
   - icon.png

@@ -12,7 +12,6 @@ name: Trust The Process
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#b5943f"
 icons:
   - icon.png

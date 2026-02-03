@@ -18,7 +18,6 @@ name: mBABA Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f38406"
 icons:
   - icon.png

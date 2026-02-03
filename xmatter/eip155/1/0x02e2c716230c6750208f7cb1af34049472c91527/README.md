@@ -8,7 +8,6 @@ name: YP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#00356b"
 icons:
   - icon.png

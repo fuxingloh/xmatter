@@ -8,7 +8,6 @@ name: NFTBOX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#751fdd"
 icons:
   - icon.png

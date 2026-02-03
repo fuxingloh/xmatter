@@ -8,7 +8,6 @@ name: BeforeCoinMarketCap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1ca4f4"
 icons:
   - icon.png

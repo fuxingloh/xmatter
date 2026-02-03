@@ -8,7 +8,6 @@ name: LocalCoinSwap (LCS)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#304ec6"
 icons:
   - icon.png

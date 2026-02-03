@@ -14,7 +14,6 @@ name: Moola Celo EUR
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#348beb"
 icons:
   - icon.png

@@ -20,7 +20,6 @@ name: Ethera
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#58b850"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Trias Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#31b6c2"
 icons:
   - icon.png

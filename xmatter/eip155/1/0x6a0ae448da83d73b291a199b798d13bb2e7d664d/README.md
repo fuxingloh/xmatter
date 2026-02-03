@@ -8,7 +8,6 @@ name: World Wide Web Coin (WWW)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#efda76"
 icons:
   - icon.png

@@ -16,7 +16,6 @@ name: Tokenlon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#272744"
 icons:
   - icon.png

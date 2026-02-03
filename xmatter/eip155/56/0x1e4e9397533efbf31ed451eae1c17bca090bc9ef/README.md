@@ -8,7 +8,6 @@ name: Weedcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d7e30f"
 icons:
   - icon.png

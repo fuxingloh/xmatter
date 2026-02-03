@@ -16,7 +16,6 @@ name: BNB48 Club Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f9c60c"
 icons:
   - icon.png

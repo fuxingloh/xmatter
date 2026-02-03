@@ -8,7 +8,6 @@ name: Cloudbric
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#101838"
 icons:
   - icon.png

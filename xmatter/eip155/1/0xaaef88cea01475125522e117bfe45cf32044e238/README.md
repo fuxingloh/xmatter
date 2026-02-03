@@ -14,7 +14,6 @@ name: GuildFi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#040936"
 icons:
   - icon.png

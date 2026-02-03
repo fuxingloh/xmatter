@@ -27,7 +27,6 @@ name: Wilder World
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#9aaaf1"
 icons:
   - icon.png

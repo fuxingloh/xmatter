@@ -10,7 +10,6 @@ name: KLK Option
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#45d43f"
 icons:
   - icon.png

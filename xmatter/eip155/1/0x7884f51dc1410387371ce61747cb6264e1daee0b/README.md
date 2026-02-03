@@ -8,7 +8,6 @@ name: Binance Wrapped DOT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d17fab"
 icons:
   - icon.png

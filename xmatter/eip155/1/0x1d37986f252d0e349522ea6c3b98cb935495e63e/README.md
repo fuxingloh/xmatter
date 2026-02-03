@@ -12,7 +12,6 @@ name: ChartEx
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#009ee1"
 icons:
   - icon.png

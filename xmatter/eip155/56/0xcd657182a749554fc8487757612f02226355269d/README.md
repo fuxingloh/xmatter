@@ -16,7 +16,6 @@ name: MUSK Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ce1f6f"
 icons:
   - icon.png

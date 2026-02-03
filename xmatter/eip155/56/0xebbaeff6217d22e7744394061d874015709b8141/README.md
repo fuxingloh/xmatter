@@ -22,7 +22,6 @@ name: WAM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fbc904"
 icons:
   - icon.png

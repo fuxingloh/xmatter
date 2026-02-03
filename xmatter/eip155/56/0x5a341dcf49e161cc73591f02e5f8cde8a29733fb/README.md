@@ -34,7 +34,6 @@ name: Reflecto
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#3cc79a"
 icons:
   - icon.png

@@ -12,7 +12,6 @@ name: Catboy
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#131a3c"
 icons:
   - icon.png

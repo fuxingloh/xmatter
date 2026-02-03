@@ -19,7 +19,6 @@ name: miniBABYDOGE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f2ccd3"
 icons:
   - icon.png

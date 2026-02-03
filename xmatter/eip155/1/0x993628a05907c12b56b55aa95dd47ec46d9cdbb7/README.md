@@ -6,7 +6,6 @@ name: 10xTraders
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#de8686"
 icons:
   - icon.png

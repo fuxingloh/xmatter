@@ -8,7 +8,6 @@ name: PancakeFork Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ee9b4f"
 icons:
   - icon.png

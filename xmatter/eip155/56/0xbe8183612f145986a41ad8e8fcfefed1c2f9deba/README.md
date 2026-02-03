@@ -8,7 +8,6 @@ name: Moon Bud
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ccb98e"
 icons:
   - icon.png

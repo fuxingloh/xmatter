@@ -10,7 +10,6 @@ name: Inu Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#937e52"
 icons:
   - icon.png

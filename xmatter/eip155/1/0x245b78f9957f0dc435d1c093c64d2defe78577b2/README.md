@@ -8,7 +8,6 @@ name: Halving Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f99105"
 icons:
   - icon.png

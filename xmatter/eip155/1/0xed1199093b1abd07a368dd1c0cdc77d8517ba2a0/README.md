@@ -8,7 +8,6 @@ name: HEX2T
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c2637d"
 icons:
   - icon.png

@@ -14,7 +14,6 @@ name: GREY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#606061"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Zupi Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-icon: icon.png
 color: "#a31933"
 icons:
   - icon.png

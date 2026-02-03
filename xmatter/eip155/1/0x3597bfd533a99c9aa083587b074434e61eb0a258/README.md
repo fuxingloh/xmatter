@@ -8,7 +8,6 @@ name: DENT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#747474"
 icons:
   - icon.png

@@ -30,7 +30,6 @@ name: Yield Guild Games (PoS)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#133683"
 icons:
   - icon.png

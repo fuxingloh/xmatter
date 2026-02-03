@@ -8,7 +8,6 @@ name: Aave MANA V1
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#549cba"
 icons:
   - icon.png

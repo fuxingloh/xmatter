@@ -14,7 +14,6 @@ name: Unibright
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#254345"
 icons:
   - icon.png

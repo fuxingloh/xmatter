@@ -8,7 +8,6 @@ name: Beaxy Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#40a5a4"
 icons:
   - icon.png

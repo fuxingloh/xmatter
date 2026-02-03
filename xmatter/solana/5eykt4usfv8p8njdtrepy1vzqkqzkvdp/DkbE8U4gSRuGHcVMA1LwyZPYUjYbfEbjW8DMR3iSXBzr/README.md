@@ -10,7 +10,6 @@ name: Reserve Rights (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#050406"
 icons:
   - icon.png

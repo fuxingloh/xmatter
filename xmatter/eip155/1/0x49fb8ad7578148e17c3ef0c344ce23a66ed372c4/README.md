@@ -10,7 +10,6 @@ name: tao.bot
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#9bebfb"
 icons:
   - icon.png

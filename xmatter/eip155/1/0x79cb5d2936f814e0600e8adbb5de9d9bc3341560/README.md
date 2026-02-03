@@ -6,7 +6,6 @@ name: EQR 700
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fbfafa"
 icons:
   - icon.png

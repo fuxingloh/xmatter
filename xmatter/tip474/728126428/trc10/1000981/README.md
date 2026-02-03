@@ -6,7 +6,6 @@ name: TRONBEAN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-icon: icon.png
 color: "#f2a731"
 icons:
   - icon.png

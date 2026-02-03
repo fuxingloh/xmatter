@@ -8,7 +8,6 @@ name: Time New Bank
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fcb31b"
 icons:
   - icon.png

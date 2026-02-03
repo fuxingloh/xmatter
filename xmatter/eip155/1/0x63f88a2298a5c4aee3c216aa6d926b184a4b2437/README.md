@@ -24,7 +24,6 @@ name: GAME Credits
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#35a845"
 icons:
   - icon.png

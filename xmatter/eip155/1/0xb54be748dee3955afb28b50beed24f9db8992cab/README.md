@@ -6,7 +6,6 @@ name: Serenity
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#b09243"
 icons:
   - icon.png

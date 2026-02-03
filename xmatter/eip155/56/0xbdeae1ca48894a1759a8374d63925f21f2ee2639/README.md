@@ -12,7 +12,6 @@ name: EDU Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#131deb"
 icons:
   - icon.png

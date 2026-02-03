@@ -18,7 +18,6 @@ name: My Neighbor Alice
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#76c3d9"
 icons:
   - icon.png

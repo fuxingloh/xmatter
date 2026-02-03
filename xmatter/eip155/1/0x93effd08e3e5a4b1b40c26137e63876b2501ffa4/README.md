@@ -10,7 +10,6 @@ name: JulSwap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#68cdaa"
 icons:
   - icon.png

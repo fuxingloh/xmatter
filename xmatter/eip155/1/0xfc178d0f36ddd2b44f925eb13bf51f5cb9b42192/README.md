@@ -8,7 +8,6 @@ name: Light Coin Exchange Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#5a80ba"
 icons:
   - icon.png

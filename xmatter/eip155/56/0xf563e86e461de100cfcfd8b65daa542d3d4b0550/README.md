@@ -12,7 +12,6 @@ name: COCO COIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ddd53a"
 icons:
   - icon.png

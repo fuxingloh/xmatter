@@ -18,7 +18,6 @@ name: Alpha Finance Lab
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c3674a"
 icons:
   - icon.png

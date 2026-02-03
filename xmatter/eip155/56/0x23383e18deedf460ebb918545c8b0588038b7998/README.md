@@ -17,7 +17,6 @@ name: Senspark
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d9340e"
 icons:
   - icon.png

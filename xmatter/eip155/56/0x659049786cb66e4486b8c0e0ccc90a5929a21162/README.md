@@ -28,7 +28,6 @@ name: TTcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fbcb2b"
 icons:
   - icon.png

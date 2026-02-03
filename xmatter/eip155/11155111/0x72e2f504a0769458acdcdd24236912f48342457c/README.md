@@ -10,7 +10,6 @@ links:
     url: "https://x.com/Covalent_HQ"
 symbol: CXT
 decimals: 18
-icon: icon.svg
 color: "#53fb6b"
 icons:
   - icon.svg

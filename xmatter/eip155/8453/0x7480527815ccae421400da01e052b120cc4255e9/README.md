@@ -12,7 +12,6 @@ name: Workie
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#db8b71"
 icons:
   - icon.png

@@ -20,7 +20,6 @@ name: ZILLION AAKAR XO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d6b571"
 icons:
   - icon.png

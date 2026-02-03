@@ -16,7 +16,6 @@ name: PYR Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cf472f"
 icons:
   - icon.png

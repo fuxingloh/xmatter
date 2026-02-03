@@ -18,7 +18,6 @@ name: Cream Cosmos Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1b1f2e"
 icons:
   - icon.png

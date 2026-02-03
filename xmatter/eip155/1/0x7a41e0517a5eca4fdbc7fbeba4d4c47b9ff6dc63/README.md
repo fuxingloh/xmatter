@@ -8,7 +8,6 @@ name: Zeus Shield Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1068b8"
 icons:
   - icon.png

@@ -14,7 +14,6 @@ name: Magic Internet Money
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fbdb51"
 icons:
   - icon.png

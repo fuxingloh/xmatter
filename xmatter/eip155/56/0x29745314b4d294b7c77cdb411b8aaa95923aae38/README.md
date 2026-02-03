@@ -24,7 +24,6 @@ name: PALM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#24262d"
 icons:
   - icon.png

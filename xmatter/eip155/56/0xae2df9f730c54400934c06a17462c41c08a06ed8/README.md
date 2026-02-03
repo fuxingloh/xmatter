@@ -20,7 +20,6 @@ name: DogeBonk
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#b59572"
 icons:
   - icon.png

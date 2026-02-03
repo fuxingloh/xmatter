@@ -14,7 +14,6 @@ name: BillionHappiness
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fc842c"
 icons:
   - icon.png

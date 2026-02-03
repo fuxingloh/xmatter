@@ -21,7 +21,6 @@ name: SUPER TRUST
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#304090"
 icons:
   - icon.png

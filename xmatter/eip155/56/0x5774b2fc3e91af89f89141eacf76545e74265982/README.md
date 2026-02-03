@@ -15,7 +15,6 @@ name: NFTY Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ddd1e6"
 icons:
   - icon.png

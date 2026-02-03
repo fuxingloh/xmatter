@@ -14,7 +14,6 @@ name: BotOcean
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#13171e"
 icons:
   - icon.png

@@ -21,7 +21,6 @@ name: Milo Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#baa4cd"
 icons:
   - icon.png

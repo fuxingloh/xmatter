@@ -12,7 +12,6 @@ name: Nosana
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#16e410"
 icons:
   - icon.png

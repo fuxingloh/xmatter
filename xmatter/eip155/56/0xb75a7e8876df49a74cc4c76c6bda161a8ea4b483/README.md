@@ -10,7 +10,6 @@ name: Palu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f1f0ed"
 icons:
   - icon.png

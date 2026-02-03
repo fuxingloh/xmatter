@@ -10,7 +10,6 @@ name: Trust Union
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ebda1f"
 icons:
   - icon.png

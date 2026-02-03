@@ -8,7 +8,6 @@ name: Tranche Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#5c5cdb"
 icons:
   - icon.png

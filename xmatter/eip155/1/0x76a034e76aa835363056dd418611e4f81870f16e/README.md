@@ -18,7 +18,6 @@ name: Value ETH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#4c54e6"
 icons:
   - icon.png

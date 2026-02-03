@@ -20,7 +20,6 @@ name: PancakeSwap Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#37d3df"
 icons:
   - icon.png

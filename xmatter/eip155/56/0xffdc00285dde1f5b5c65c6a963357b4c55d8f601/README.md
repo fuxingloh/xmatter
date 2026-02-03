@@ -14,7 +14,6 @@ name: BleuFi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#306296"
 icons:
   - icon.png

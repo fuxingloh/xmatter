@@ -8,7 +8,6 @@ name: VegaWallet
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d50c0c"
 icons:
   - icon.png

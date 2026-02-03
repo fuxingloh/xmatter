@@ -6,7 +6,6 @@ name: ness
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cc1414"
 icons:
   - icon.png

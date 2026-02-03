@@ -24,7 +24,6 @@ name: Templar DAO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#892f2b"
 icons:
   - icon.png

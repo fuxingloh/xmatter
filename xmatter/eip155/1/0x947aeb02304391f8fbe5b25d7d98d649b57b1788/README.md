@@ -8,7 +8,6 @@ name: Mandala Exchange Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0fd297"
 icons:
   - icon.png

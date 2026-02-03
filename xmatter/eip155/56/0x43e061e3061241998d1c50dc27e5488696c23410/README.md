@@ -8,7 +8,6 @@ name: KaikenCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#bdb4d0"
 icons:
   - icon.png

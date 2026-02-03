@@ -12,7 +12,6 @@ name: Coconut Chicken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-icon: icon.png
 color: "#d99a88"
 icons:
   - icon.png

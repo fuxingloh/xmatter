@@ -10,7 +10,6 @@ name: T-mac DAO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#eb3e22"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: JUST Stablecoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-icon: icon.png
 color: "#b40c0c"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: GRID
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#7c8c94"
 icons:
   - icon.png

@@ -20,7 +20,6 @@ name: Banana Task Force Ape
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e9af88"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: IMO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#235cf2"
 icons:
   - icon.png

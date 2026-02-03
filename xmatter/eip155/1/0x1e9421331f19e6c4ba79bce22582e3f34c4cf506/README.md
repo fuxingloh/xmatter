@@ -8,7 +8,6 @@ name: Amazing Unit
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2454c2"
 icons:
   - icon.png

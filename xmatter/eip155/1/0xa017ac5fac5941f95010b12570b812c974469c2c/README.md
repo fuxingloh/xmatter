@@ -8,7 +8,6 @@ name: Proxeus
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#002880"
 icons:
   - icon.png

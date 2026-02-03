@@ -12,7 +12,6 @@ name: Saros
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#742ff9"
 icons:
   - icon.png

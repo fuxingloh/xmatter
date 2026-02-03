@@ -8,7 +8,6 @@ name: EXN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#242834"
 icons:
   - icon.png

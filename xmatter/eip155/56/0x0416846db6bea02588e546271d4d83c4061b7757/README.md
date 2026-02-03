@@ -21,7 +21,6 @@ name: Football INU
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dd9c82"
 icons:
   - icon.png

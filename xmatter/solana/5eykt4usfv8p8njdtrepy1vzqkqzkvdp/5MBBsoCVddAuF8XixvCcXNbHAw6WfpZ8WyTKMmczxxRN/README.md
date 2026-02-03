@@ -14,7 +14,6 @@ name: SHIBA INU
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#fa9e08"
 icons:
   - icon.png

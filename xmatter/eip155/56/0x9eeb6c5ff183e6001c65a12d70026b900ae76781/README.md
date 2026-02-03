@@ -16,7 +16,6 @@ name: Irena Green Energy
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#7bae18"
 icons:
   - icon.png

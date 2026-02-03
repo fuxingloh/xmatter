@@ -8,7 +8,6 @@ name: Kishu Baby
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#504f4e"
 icons:
   - icon.png

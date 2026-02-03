@@ -8,7 +8,6 @@ name: Waifu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#db0404"
 icons:
   - icon.png

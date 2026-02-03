@@ -8,7 +8,6 @@ name: Unagi Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#12171a"
 icons:
   - icon.png

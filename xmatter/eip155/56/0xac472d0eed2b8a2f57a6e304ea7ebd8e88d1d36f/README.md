@@ -8,7 +8,6 @@ name: Anime Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dcccda"
 icons:
   - icon.png

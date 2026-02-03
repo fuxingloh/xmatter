@@ -14,7 +14,6 @@ name: Time Traveler
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#444048"
 icons:
   - icon.png

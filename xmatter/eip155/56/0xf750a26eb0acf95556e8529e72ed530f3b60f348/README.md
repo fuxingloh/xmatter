@@ -12,7 +12,6 @@ name: GreenTrust
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#27a47d"
 icons:
   - icon.png

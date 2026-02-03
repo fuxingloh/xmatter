@@ -12,7 +12,6 @@ name: Smart Block Chain City
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#3b16c9"
 icons:
   - icon.png

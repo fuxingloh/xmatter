@@ -16,7 +16,6 @@ name: Realfinance Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e72edf"
 icons:
   - icon.png

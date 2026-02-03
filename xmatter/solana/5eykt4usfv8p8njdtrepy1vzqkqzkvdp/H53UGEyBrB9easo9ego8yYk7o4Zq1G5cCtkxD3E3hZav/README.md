@@ -16,7 +16,6 @@ name: MXM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#bfd478"
 icons:
   - icon.png

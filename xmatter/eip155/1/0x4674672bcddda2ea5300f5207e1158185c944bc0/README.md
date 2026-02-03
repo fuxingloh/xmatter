@@ -18,7 +18,6 @@ name: Gem Exchange and Trading
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#6772e2"
 icons:
   - icon.png

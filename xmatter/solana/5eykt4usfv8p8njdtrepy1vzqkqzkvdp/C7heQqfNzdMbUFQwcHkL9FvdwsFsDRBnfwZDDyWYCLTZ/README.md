@@ -10,7 +10,6 @@ name: Collaterize
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#353535"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Ethverse Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0a0909"
 icons:
   - icon.png

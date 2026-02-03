@@ -8,7 +8,6 @@ name: Exenox Mobile
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#5df9e9"
 icons:
   - icon.png

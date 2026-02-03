@@ -12,7 +12,6 @@ name: SANTA HAT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#74150d"
 icons:
   - icon.png

@@ -16,7 +16,6 @@ name: ai16z
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#3f4a5a"
 icons:
   - icon.png

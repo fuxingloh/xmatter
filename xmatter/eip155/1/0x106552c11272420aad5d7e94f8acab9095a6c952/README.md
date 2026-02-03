@@ -8,7 +8,6 @@ name: Keanu Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#738594"
 icons:
   - icon.png

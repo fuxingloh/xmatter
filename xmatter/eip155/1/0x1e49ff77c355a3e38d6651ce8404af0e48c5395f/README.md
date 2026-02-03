@@ -8,7 +8,6 @@ name: ModulTrade Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#114281"
 icons:
   - icon.png

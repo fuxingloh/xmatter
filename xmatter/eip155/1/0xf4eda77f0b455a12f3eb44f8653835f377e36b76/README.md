@@ -8,7 +8,6 @@ name: TIKTOK COIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#20101e"
 icons:
   - icon.png

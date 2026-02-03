@@ -8,7 +8,6 @@ name: Redeemable DAI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2f9c8b"
 icons:
   - icon.png

@@ -12,7 +12,6 @@ name: Bacon Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#280543"
 icons:
   - icon.png

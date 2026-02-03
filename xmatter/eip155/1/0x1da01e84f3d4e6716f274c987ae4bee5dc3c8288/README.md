@@ -8,7 +8,6 @@ name: DefiBids
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cb0506"
 icons:
   - icon.png

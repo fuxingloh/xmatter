@@ -8,7 +8,6 @@ name: Compound Ether
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#61aecc"
 icons:
   - icon.png

@@ -16,7 +16,6 @@ name: Binance-Peg COTI Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#bdd5e1"
 icons:
   - icon.png

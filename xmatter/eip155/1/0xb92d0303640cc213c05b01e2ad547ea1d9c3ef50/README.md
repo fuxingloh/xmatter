@@ -6,7 +6,6 @@ name: SUREBANQA PEGGED EXCHANGE RATE TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ead385"
 icons:
   - icon.png

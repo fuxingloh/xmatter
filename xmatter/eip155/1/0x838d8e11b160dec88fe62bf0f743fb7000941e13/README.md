@@ -18,7 +18,6 @@ name: Krios/GIG
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#141f84"
 icons:
   - icon.png

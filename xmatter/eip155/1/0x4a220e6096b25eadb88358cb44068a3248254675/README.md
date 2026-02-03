@@ -25,7 +25,6 @@ name: Quant
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2ab6b6"
 icons:
   - icon.png

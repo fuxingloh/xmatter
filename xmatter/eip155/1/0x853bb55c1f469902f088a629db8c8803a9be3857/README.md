@@ -22,7 +22,6 @@ name: Stable 1inch
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c65a5e"
 icons:
   - icon.png

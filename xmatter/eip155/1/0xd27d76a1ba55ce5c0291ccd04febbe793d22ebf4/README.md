@@ -8,7 +8,6 @@ name: Benepit
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0482cd"
 icons:
   - icon.png

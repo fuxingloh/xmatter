@@ -10,7 +10,6 @@ name: Cavapoo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ca8a33"
 icons:
   - icon.png

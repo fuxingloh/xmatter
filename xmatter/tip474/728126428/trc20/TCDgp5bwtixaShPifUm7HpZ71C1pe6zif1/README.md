@@ -16,7 +16,6 @@ name: NETCOINCAPITAL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-icon: icon.png
 color: "#1f1810"
 icons:
   - icon.png

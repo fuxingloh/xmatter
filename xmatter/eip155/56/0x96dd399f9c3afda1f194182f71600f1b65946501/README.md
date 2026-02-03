@@ -8,7 +8,6 @@ name: Contentos
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2595f9"
 icons:
   - icon.png

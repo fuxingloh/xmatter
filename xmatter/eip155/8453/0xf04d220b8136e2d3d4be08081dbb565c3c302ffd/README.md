@@ -12,7 +12,6 @@ name: Freya by Virtuals
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c4bfb9"
 icons:
   - icon.png

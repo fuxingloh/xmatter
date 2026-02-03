@@ -10,7 +10,6 @@ name: Soul Quantum Void
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#830ae3"
 icons:
   - icon.png

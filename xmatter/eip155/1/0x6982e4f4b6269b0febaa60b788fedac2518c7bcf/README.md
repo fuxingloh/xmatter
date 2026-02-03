@@ -6,7 +6,6 @@ name: OldDriver Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ec6434"
 icons:
   - icon.png

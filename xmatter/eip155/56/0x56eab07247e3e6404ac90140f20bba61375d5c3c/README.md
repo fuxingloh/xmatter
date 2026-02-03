@@ -8,7 +8,6 @@ name: TapSwap.Money
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d42293"
 icons:
   - icon.png

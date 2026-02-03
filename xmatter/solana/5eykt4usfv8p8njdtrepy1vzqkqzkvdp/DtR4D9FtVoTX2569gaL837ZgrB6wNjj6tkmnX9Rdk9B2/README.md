@@ -14,7 +14,6 @@ name: aura
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#a7a6a3"
 icons:
   - icon.png

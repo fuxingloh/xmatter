@@ -24,7 +24,6 @@ name: BemChain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-icon: icon.png
 color: "#12df84"
 icons:
   - icon.png

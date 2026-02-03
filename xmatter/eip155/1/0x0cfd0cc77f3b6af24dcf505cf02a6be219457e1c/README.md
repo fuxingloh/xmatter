@@ -6,7 +6,6 @@ name: Airconnc
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#009fe8"
 icons:
   - icon.png

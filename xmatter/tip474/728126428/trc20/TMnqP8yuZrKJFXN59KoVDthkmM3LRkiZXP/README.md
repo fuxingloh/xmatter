@@ -18,7 +18,6 @@ name: Pollux Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-icon: icon.png
 color: "#f7dc0e"
 icons:
   - icon.png

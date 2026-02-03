@@ -8,7 +8,6 @@ name: QChi Chain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#53a4cc"
 icons:
   - icon.png

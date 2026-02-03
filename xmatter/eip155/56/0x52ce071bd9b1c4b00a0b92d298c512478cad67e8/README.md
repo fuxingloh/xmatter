@@ -11,7 +11,6 @@ name: BNB pegged Compound
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#04d393"
 icons:
   - icon.png

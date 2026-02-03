@@ -24,7 +24,6 @@ name: Polkalokr
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e4087d"
 icons:
   - icon.png

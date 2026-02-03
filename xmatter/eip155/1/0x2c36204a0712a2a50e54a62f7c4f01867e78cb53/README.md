@@ -8,7 +8,6 @@ name: Taklimakan
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#457ebd"
 icons:
   - icon.png

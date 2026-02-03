@@ -8,7 +8,6 @@ name: Adelphoi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#337b83"
 icons:
   - icon.png

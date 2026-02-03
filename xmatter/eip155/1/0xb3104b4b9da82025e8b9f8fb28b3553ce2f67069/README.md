@@ -8,7 +8,6 @@ name: BIX Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#293134"
 icons:
   - icon.png

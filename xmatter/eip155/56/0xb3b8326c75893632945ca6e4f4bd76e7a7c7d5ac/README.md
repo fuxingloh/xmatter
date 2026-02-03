@@ -20,7 +20,6 @@ name: Binance Smart Chain BOY CZ
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f1e6d8"
 icons:
   - icon.png

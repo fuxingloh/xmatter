@@ -16,7 +16,6 @@ name: Kiba Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e6b1a3"
 icons:
   - icon.png

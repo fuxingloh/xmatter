@@ -8,7 +8,6 @@ name: RealToken 10024-10028 Appoline Street Detroit MI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d6c5a1"
 icons:
   - icon.png

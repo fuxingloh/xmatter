@@ -8,7 +8,6 @@ name: Lunar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#77a2ee"
 icons:
   - icon.png

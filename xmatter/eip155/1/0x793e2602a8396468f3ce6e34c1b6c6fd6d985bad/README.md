@@ -8,7 +8,6 @@ name: "Saint Fame: $ICK Mask"
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#de83c7"
 icons:
   - icon.png

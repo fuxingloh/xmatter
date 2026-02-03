@@ -8,7 +8,6 @@ name: IZIChain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#4480bc"
 icons:
   - icon.png

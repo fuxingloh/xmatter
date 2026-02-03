@@ -6,7 +6,6 @@ name: MESG
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#4b208b"
 icons:
   - icon.png

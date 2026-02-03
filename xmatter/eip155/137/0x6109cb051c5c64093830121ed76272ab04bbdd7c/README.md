@@ -14,7 +14,6 @@ name: Prosper
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#5c09ee"
 icons:
   - icon.png

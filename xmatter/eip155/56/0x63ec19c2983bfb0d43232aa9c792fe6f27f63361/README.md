@@ -12,7 +12,6 @@ name: METARACA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e18a99"
 icons:
   - icon.png

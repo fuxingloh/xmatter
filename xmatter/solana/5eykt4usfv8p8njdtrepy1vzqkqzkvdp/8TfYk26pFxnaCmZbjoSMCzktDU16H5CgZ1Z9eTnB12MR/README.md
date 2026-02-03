@@ -12,7 +12,6 @@ name: Wolf Of Solana
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#42322c"
 icons:
   - icon.png

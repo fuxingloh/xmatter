@@ -8,7 +8,6 @@ name: Wrapped Mirror NFLX Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#af040c"
 icons:
   - icon.png

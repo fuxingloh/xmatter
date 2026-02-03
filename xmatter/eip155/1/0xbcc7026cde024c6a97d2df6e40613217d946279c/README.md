@@ -8,7 +8,6 @@ name: Ala
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cb4743"
 icons:
   - icon.png

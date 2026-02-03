@@ -8,7 +8,6 @@ name: GeekHoldings
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#540765"
 icons:
   - icon.png

@@ -10,7 +10,6 @@ name: CHARIZARD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#14222d"
 icons:
   - icon.png

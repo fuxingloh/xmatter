@@ -14,7 +14,6 @@ name: Dacxi Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#503291"
 icons:
   - icon.png

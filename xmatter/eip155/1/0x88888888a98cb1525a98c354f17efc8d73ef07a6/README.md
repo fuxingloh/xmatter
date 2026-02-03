@@ -10,7 +10,6 @@ name: MVP Token V2
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.png
 color: "#d6b241"
 icons:
   - icon.png

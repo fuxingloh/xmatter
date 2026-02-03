@@ -8,7 +8,6 @@ name: Project Quantum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f7efe9"
 icons:
   - icon.png

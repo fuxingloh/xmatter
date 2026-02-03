@@ -8,7 +8,6 @@ name: EncrypGen
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#6cb941"
 icons:
   - icon.png

@@ -10,7 +10,6 @@ name: Hurricane
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#697546"
 icons:
   - icon.png

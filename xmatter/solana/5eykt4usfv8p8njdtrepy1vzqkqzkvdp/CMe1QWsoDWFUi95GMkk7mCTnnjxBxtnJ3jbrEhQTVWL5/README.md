@@ -12,7 +12,6 @@ name: Sage Universe
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#cce7c6"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: WIFEDOGE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e1bc63"
 icons:
   - icon.png

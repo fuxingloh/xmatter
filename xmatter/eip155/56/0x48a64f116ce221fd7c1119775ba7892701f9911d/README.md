@@ -8,7 +8,6 @@ name: GemSpree
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cf9a3a"
 icons:
   - icon.png

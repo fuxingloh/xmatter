@@ -10,7 +10,6 @@ name: HarryPotterObamaSonic10Inu
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#d5a31e"
 icons:
   - icon.svg

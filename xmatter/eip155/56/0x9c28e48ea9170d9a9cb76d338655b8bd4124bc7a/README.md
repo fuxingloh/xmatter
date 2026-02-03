@@ -16,7 +16,6 @@ name: EarnX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#3b1f7c"
 icons:
   - icon.png

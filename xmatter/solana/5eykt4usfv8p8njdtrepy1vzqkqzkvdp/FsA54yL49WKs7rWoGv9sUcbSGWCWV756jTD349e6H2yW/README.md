@@ -10,7 +10,6 @@ name: KOALA AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#75c1d4"
 icons:
   - icon.png

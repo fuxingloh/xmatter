@@ -8,7 +8,6 @@ name: Shibby
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#100c09"
 icons:
   - icon.png

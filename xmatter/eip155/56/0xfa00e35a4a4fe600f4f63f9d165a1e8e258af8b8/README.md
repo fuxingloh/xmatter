@@ -10,7 +10,6 @@ name: Tabi Tab Cat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dccec9"
 icons:
   - icon.png

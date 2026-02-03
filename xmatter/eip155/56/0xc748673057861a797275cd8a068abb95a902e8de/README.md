@@ -22,7 +22,6 @@ name: Baby Doge Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ef9d28"
 icons:
   - icon.png

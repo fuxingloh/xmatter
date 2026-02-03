@@ -12,7 +12,6 @@ name: JINDO INU
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f9a05c"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Aave UniDAI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fcba35"
 icons:
   - icon.png

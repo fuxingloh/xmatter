@@ -8,7 +8,6 @@ name: Peach Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fbf3df"
 icons:
   - icon.png

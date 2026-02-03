@@ -6,7 +6,6 @@ name: GameChain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e6ad50"
 icons:
   - icon.png

@@ -16,7 +16,6 @@ name: Aventis AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#b67e20"
 icons:
   - icon.png

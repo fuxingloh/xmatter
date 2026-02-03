@@ -8,7 +8,6 @@ name: MOchi MArket
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d44f73"
 icons:
   - icon.png

@@ -16,7 +16,6 @@ name: UXD Stablecoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#dadada"
 icons:
   - icon.png

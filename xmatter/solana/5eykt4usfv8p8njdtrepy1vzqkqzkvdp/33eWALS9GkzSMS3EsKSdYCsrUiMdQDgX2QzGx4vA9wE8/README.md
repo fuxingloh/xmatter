@@ -12,7 +12,6 @@ name: deBridge DinoLFG
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#0d111a"
 icons:
   - icon.png

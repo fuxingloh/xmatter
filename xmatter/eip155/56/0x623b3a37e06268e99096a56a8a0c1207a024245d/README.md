@@ -8,7 +8,6 @@ name: SpaceToast
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#373242"
 icons:
   - icon.png

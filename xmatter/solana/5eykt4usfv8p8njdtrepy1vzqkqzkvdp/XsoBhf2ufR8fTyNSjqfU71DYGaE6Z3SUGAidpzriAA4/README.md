@@ -14,7 +14,6 @@ name: Palantir tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#5e5e5e"
 icons:
   - icon.png

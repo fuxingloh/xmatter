@@ -23,7 +23,6 @@ name: Vikings Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ea8e75"
 icons:
   - icon.png

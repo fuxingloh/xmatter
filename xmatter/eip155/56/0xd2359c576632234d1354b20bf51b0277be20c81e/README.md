@@ -20,7 +20,6 @@ name: GameGuru
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#145be4"
 icons:
   - icon.png

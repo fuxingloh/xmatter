@@ -10,7 +10,6 @@ name: Ark
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c9cac4"
 icons:
   - icon.png

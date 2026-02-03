@@ -20,7 +20,6 @@ name: SpacePort Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#b9d2df"
 icons:
   - icon.png

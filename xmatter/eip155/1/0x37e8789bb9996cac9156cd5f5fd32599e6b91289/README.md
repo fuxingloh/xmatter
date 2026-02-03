@@ -8,7 +8,6 @@ name: AidCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#23847b"
 icons:
   - icon.png

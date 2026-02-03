@@ -6,7 +6,6 @@ name: Edu Stars Coins
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#575148"
 icons:
   - icon.png

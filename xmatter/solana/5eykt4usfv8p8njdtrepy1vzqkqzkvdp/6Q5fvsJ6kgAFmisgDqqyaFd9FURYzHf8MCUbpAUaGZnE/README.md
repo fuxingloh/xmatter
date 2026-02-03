@@ -10,7 +10,6 @@ name: OpenDAO (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#80a0da"
 icons:
   - icon.png

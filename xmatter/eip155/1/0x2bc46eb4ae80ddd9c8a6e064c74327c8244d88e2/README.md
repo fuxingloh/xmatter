@@ -10,7 +10,6 @@ name: StratoVM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e1933d"
 icons:
   - icon.png

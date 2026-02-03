@@ -6,7 +6,6 @@ name: Nenad
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#453733"
 icons:
   - icon.png

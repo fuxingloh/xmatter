@@ -8,7 +8,6 @@ name: Binance Wrapped BTC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fa9e32"
 icons:
   - icon.png

@@ -10,7 +10,6 @@ name: Forky
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#eeb410"
 icons:
   - icon.png

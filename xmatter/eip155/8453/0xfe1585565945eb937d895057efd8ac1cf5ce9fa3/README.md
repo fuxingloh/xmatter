@@ -14,7 +14,6 @@ name: USA Unity Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e2d4e2"
 icons:
   - icon.png

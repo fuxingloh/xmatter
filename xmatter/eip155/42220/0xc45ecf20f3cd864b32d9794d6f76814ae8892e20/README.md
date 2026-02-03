@@ -20,7 +20,6 @@ name: Mento Japanese Yen
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#540dc4"
 icons:
   - icon.png

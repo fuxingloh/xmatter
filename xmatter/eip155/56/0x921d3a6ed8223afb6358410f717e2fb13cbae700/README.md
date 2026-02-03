@@ -16,7 +16,6 @@ name: QRKITA TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f0e0df"
 icons:
   - icon.png

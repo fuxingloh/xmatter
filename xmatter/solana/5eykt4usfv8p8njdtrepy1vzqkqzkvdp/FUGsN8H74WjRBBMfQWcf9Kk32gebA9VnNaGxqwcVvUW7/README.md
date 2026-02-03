@@ -10,7 +10,6 @@ name: Governance OHM (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#b6c1c3"
 icons:
   - icon.png

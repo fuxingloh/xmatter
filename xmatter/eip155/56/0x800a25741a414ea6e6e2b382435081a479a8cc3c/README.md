@@ -14,7 +14,6 @@ name: SEOR Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0d8ac5"
 icons:
   - icon.png

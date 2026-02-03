@@ -10,7 +10,6 @@ name: Bonk Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0c04ac"
 icons:
   - icon.png

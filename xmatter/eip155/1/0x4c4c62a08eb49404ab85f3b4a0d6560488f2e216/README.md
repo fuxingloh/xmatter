@@ -6,7 +6,6 @@ name: Sparkles Light
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cec0c5"
 icons:
   - icon.png

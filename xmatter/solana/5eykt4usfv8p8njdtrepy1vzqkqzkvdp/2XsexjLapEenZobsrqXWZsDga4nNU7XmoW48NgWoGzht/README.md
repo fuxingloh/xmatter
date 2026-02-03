@@ -12,7 +12,6 @@ name: Tonic
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#f76009"
 icons:
   - icon.png

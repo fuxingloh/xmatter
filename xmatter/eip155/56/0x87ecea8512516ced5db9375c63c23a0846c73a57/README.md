@@ -16,7 +16,6 @@ name: EpiK Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cc9f5c"
 icons:
   - icon.png

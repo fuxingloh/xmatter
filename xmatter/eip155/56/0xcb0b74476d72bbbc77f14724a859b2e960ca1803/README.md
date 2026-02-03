@@ -18,7 +18,6 @@ name: Mind Music
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#049404"
 icons:
   - icon.png

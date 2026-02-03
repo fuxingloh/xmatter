@@ -18,7 +18,6 @@ name: Token X
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dc0606"
 icons:
   - icon.png

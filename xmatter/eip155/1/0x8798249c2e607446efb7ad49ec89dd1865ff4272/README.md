@@ -16,7 +16,6 @@ name: SushiBar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d12b42"
 icons:
   - icon.png

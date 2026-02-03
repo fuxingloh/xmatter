@@ -10,7 +10,6 @@ name: Tokemak (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#040405"
 icons:
   - icon.png

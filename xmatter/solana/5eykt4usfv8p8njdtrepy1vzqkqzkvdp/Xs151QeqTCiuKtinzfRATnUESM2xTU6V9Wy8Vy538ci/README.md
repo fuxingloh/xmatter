@@ -14,7 +14,6 @@ name: Walmart tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#0453e3"
 icons:
   - icon.png

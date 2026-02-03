@@ -8,7 +8,6 @@ name: Compound USD Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#5dafce"
 icons:
   - icon.png

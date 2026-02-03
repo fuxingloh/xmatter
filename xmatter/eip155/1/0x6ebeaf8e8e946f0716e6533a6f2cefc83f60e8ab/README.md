@@ -6,7 +6,6 @@ name: Gods Unchained
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#084f79"
 icons:
   - icon.png

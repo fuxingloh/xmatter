@@ -12,7 +12,6 @@ name: Kekius Maximus-BSC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2c1d1f"
 icons:
   - icon.png

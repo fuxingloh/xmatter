@@ -8,7 +8,6 @@ name: Aave REP V1
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#543484"
 icons:
   - icon.png

@@ -22,7 +22,6 @@ name: SIDUS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#041bd4"
 icons:
   - icon.png

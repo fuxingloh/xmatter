@@ -18,7 +18,6 @@ name: Yftether.io
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1ca47c"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Wraped BST
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#282c31"
 icons:
   - icon.png

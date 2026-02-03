@@ -6,7 +6,6 @@ name: ECOSCU
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dfbd77"
 icons:
   - icon.png

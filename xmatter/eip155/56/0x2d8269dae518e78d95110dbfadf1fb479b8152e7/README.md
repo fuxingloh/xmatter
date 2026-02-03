@@ -20,7 +20,6 @@ name: GCCOIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dda831"
 icons:
   - icon.png

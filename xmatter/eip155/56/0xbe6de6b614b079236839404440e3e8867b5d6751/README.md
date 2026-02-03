@@ -23,7 +23,6 @@ name: Wolverine
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d3aa69"
 icons:
   - icon.png

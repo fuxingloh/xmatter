@@ -14,7 +14,6 @@ name: Aragon (old)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#04d3f9"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Saturna
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d36cc7"
 icons:
   - icon.png

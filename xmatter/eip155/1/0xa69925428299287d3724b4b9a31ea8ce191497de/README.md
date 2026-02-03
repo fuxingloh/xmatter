@@ -6,7 +6,6 @@ name: Merlin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#8ad11c"
 icons:
   - icon.png

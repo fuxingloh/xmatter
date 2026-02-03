@@ -16,7 +16,6 @@ name: ETHLAX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f47c34"
 icons:
   - icon.png

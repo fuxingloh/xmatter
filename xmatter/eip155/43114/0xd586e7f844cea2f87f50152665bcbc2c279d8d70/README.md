@@ -18,7 +18,6 @@ name: Dai Stablecoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fcb831"
 icons:
   - icon.png

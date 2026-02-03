@@ -8,7 +8,6 @@ name: CryptoDivaFund
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-icon: icon.png
 color: "#33263c"
 icons:
   - icon.png

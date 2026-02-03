@@ -8,7 +8,6 @@ name: Happiness
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-icon: icon.png
 color: "#bd9033"
 icons:
   - icon.png

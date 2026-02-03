@@ -15,7 +15,6 @@ name: Wrapped Palantir Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ababab"
 icons:
   - icon.png

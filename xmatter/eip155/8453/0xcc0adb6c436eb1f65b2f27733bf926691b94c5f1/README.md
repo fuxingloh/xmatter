@@ -16,7 +16,6 @@ name: Guanciale by Virtuals
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ae3814"
 icons:
   - icon.png

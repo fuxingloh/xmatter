@@ -10,7 +10,6 @@ name: Aave Token (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#7386b2"
 icons:
   - icon.png

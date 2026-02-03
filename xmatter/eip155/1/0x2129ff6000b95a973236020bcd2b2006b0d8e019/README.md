@@ -8,7 +8,6 @@ name: MYX Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#095891"
 icons:
   - icon.png

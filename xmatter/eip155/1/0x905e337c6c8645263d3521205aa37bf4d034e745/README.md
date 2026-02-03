@@ -8,7 +8,6 @@ name: Medical Token Currency
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e6c89e"
 icons:
   - icon.png

@@ -12,7 +12,6 @@ name: Soyjak
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#1e1e1e"
 icons:
   - icon.png

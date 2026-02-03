@@ -16,7 +16,6 @@ name: SushiToken (PoS)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cf67af"
 icons:
   - icon.png

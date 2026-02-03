@@ -8,7 +8,6 @@ name: Stellar Diamond
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c3a44c"
 icons:
   - icon.png

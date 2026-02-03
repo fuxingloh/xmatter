@@ -18,7 +18,6 @@ name: TRON
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ec0c2c"
 icons:
   - icon.png

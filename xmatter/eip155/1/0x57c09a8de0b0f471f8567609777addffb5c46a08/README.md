@@ -8,7 +8,6 @@ name: Bitex Global XBX Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fd0000"
 icons:
   - icon.png

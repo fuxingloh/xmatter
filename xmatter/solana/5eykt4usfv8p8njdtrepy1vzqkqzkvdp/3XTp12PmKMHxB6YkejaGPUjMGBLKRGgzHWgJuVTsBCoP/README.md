@@ -10,7 +10,6 @@ name: Bird Dog
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#65696d"
 icons:
   - icon.png

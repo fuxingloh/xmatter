@@ -8,7 +8,6 @@ name: UTOPIA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1370df"
 icons:
   - icon.png

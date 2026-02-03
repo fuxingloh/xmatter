@@ -8,7 +8,6 @@ name: CryptoBonusMiles
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#00b0e0"
 icons:
   - icon.png

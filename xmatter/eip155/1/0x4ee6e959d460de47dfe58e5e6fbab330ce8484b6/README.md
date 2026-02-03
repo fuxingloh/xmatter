@@ -8,7 +8,6 @@ name: QURA GLOBAL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d94786"
 icons:
   - icon.png

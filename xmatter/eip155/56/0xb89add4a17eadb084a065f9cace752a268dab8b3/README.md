@@ -8,7 +8,6 @@ name: ZETBNB
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#3d516b"
 icons:
   - icon.png

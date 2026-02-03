@@ -8,7 +8,6 @@ name: Gorilla Diamond
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c86e71"
 icons:
   - icon.png

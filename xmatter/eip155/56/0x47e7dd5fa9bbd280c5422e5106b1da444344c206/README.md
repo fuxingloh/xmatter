@@ -8,7 +8,6 @@ name: World of Waves
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#26a4f9"
 icons:
   - icon.png

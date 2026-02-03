@@ -10,7 +10,6 @@ name: CATVAX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#8c8169"
 icons:
   - icon.png

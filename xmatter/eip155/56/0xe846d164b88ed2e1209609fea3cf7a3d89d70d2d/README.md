@@ -12,7 +12,6 @@ name: Hawk
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#126db4"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: P2P Solutions Foundation
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e72a26"
 icons:
   - icon.png

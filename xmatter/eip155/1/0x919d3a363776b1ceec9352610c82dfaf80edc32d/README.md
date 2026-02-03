@@ -8,7 +8,6 @@ name: GoldFund
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ddd28e"
 icons:
   - icon.png

@@ -21,7 +21,6 @@ name: Buff Doge Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c2a64c"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: FunFive
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#5584c4"
 icons:
   - icon.png

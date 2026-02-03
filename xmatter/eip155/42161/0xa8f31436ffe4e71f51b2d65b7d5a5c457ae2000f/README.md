@@ -15,7 +15,6 @@ name: Wrapped International Business Machines Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0c63fb"
 icons:
   - icon.png

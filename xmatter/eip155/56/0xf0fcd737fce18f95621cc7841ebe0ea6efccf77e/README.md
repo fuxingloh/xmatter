@@ -12,7 +12,6 @@ name: TreeDefi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#8fc04e"
 icons:
   - icon.png

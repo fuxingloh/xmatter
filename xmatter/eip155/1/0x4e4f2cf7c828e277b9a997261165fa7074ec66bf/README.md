@@ -6,7 +6,6 @@ name: educca
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cca452"
 icons:
   - icon.png

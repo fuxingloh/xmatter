@@ -8,7 +8,6 @@ name: Bucky
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#eac362"
 icons:
   - icon.png

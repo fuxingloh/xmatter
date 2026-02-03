@@ -10,7 +10,6 @@ name: BLERF
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#7ae6e9"
 icons:
   - icon.png

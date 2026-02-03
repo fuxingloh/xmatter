@@ -10,7 +10,6 @@ name: Jason Derulo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#48454c"
 icons:
   - icon.png

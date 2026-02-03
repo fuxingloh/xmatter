@@ -10,7 +10,6 @@ name: Infinite Money Factory
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#16140e"
 icons:
   - icon.png

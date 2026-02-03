@@ -14,7 +14,6 @@ name: Pyth Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#130c24"
 icons:
   - icon.png

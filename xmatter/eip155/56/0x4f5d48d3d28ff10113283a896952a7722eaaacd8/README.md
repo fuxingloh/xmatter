@@ -18,7 +18,6 @@ name: Annex USDC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#182d47"
 icons:
   - icon.png

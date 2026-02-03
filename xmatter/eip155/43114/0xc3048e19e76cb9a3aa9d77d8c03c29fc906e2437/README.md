@@ -16,7 +16,6 @@ name: Compound
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#04d092"
 icons:
   - icon.png

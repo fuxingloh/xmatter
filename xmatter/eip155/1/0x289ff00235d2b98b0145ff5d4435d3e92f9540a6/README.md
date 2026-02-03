@@ -12,7 +12,6 @@ name: Book of Ethereum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dee5f6"
 icons:
   - icon.png

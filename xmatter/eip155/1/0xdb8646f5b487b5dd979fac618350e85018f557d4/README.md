@@ -6,7 +6,6 @@ name: BitcoinToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fbb504"
 icons:
   - icon.png

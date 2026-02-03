@@ -8,7 +8,6 @@ name: Covalent Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#54bda2"
 icons:
   - icon.png

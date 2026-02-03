@@ -21,7 +21,6 @@ name: Staked EURA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#8db0fa"
 icons:
   - icon.png

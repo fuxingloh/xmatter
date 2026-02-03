@@ -8,7 +8,6 @@ name: IFX24
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ebb435"
 icons:
   - icon.png

@@ -6,7 +6,6 @@ name: Colu Local Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#477c76"
 icons:
   - icon.png

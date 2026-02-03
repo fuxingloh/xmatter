@@ -6,7 +6,6 @@ name: Trust Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2d2014"
 icons:
   - icon.png

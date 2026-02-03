@@ -10,7 +10,6 @@ name: Gelato Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fb3c54"
 icons:
   - icon.png

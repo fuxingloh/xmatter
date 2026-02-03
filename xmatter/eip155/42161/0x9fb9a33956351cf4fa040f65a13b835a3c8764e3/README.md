@@ -18,7 +18,6 @@ name: Multichain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2c63d3"
 icons:
   - icon.png

@@ -6,7 +6,6 @@ name: Gorn
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#23bf7d"
 icons:
   - icon.png

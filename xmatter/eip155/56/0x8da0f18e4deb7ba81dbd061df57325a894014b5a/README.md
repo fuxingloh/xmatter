@@ -8,7 +8,6 @@ name: PinkElon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#252e6c"
 icons:
   - icon.png

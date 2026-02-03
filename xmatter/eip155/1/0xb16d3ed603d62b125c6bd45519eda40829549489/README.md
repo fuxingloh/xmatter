@@ -8,7 +8,6 @@ name: Insureum Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#5995c6"
 icons:
   - icon.png

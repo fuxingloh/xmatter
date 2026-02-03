@@ -18,7 +18,6 @@ name: SafePal Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#4c23ec"
 icons:
   - icon.png

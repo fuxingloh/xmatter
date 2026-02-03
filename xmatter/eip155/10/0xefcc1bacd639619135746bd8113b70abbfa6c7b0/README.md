@@ -10,7 +10,6 @@ name: Travel Deals
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#544cdb"
 icons:
   - icon.svg

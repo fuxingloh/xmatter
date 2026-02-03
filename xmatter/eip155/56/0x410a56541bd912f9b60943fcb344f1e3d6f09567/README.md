@@ -27,7 +27,6 @@ name: Minto
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#68d8c0"
 icons:
   - icon.png

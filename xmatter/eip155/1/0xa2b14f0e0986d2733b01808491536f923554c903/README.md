@@ -6,7 +6,6 @@ name: ALMEEGRAM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ca9a3e"
 icons:
   - icon.png

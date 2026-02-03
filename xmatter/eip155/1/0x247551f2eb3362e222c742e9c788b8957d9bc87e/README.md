@@ -8,7 +8,6 @@ name: GNY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#4e5e6d"
 icons:
   - icon.png

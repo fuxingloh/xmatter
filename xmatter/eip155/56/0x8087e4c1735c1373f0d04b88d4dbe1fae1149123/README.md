@@ -8,7 +8,6 @@ name: MoonJuice
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#59cbd6"
 icons:
   - icon.png

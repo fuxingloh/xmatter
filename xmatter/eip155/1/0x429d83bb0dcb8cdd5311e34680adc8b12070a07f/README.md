@@ -8,7 +8,6 @@ name: PlatonCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#52bee0"
 icons:
   - icon.png

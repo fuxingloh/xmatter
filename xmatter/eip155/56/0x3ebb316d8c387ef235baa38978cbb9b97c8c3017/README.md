@@ -14,7 +14,6 @@ name: PYXIS (pyxis.network)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2cdba4"
 icons:
   - icon.png

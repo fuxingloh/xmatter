@@ -10,7 +10,6 @@ name: Solama
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#34c3ba"
 icons:
   - icon.png

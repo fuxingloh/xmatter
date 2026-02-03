@@ -10,7 +10,6 @@ name: DigixDAO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#b99758"
 icons:
   - icon.png

@@ -22,7 +22,6 @@ name: Change
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#38d8b0"
 icons:
   - icon.png

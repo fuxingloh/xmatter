@@ -12,7 +12,6 @@ name: WalletConnect
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#0c8bf3"
 icons:
   - icon.svg

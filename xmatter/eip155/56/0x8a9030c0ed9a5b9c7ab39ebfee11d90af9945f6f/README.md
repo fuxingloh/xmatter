@@ -16,7 +16,6 @@ name: SafeLaunchpad
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cba145"
 icons:
   - icon.png

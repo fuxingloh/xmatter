@@ -8,7 +8,6 @@ name: FOMO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#040505"
 icons:
   - icon.png

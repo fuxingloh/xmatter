@@ -16,7 +16,6 @@ name: Myra
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#271e2c"
 icons:
   - icon.png

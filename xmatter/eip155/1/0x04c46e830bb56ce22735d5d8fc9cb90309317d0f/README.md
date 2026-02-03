@@ -12,7 +12,6 @@ name: Ekubo Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#320e60"
 icons:
   - icon.png

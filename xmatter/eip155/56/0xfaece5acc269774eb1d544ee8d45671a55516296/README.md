@@ -8,7 +8,6 @@ name: Digo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#eead46"
 icons:
   - icon.png

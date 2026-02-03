@@ -8,7 +8,6 @@ name: Everex
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#084da5"
 icons:
   - icon.png

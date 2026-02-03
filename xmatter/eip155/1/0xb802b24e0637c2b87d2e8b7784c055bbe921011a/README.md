@@ -6,7 +6,6 @@ name: EthereumMovieVenture
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#593024"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Decentral Games
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#287fe3"
 icons:
   - icon.png

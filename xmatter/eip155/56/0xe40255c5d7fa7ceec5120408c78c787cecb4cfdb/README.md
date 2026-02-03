@@ -10,7 +10,6 @@ name: SWGb
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#28b0d8"
 icons:
   - icon.png

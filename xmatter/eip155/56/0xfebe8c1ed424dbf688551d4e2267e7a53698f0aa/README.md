@@ -44,7 +44,6 @@ name: Vita Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c69bc6"
 icons:
   - icon.png

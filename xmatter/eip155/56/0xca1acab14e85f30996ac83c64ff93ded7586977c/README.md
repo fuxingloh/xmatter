@@ -20,7 +20,6 @@ name: Antex
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fcb804"
 icons:
   - icon.png

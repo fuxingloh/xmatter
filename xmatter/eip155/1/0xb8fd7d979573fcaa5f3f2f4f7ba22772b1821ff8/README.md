@@ -6,7 +6,6 @@ name: KingCoinMaster
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dbc353"
 icons:
   - icon.png

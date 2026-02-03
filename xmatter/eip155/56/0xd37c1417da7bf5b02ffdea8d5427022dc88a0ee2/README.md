@@ -8,7 +8,6 @@ name: LifeLine
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#139db0"
 icons:
   - icon.png

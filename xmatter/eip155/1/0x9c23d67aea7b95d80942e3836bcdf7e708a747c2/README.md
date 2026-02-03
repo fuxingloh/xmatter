@@ -8,7 +8,6 @@ name: LOCIcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#153771"
 icons:
   - icon.png

@@ -12,7 +12,6 @@ name: slop
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#caa179"
 icons:
   - icon.png

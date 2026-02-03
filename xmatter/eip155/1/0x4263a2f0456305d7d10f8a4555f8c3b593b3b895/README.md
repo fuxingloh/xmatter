@@ -8,7 +8,6 @@ name: Quantum Proof (3FA)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#105b4b"
 icons:
   - icon.png

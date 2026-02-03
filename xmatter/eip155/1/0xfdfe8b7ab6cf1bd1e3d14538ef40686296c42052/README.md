@@ -8,7 +8,6 @@ name: Skraps
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#a9c5ea"
 icons:
   - icon.png

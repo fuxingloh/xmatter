@@ -12,7 +12,6 @@ name: PowerTrade Fuel
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#aafa04"
 icons:
   - icon.png

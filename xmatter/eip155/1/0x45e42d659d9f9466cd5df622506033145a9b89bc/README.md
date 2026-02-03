@@ -6,7 +6,6 @@ name: Nexium
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c7a250"
 icons:
   - icon.png

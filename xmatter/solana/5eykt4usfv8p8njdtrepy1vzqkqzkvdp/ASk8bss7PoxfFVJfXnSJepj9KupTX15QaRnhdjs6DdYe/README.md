@@ -10,7 +10,6 @@ name: Rari Governance Token (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#bb8a9a"
 icons:
   - icon.png

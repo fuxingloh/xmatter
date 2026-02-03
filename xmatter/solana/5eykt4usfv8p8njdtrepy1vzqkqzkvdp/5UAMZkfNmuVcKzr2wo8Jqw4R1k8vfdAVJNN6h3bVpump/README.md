@@ -12,7 +12,6 @@ name: LIMBO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#c26862"
 icons:
   - icon.png

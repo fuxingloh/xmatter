@@ -8,7 +8,6 @@ name: ZetBit
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-icon: icon.png
 color: "#dfb540"
 icons:
   - icon.png

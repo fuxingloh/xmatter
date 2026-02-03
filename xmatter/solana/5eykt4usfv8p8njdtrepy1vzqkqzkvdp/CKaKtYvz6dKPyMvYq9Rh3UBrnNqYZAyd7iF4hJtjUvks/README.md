@@ -18,7 +18,6 @@ name: Gari
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#2a1027"
 icons:
   - icon.png

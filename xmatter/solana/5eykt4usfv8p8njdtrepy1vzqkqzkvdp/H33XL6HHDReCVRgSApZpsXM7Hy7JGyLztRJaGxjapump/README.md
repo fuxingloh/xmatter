@@ -12,7 +12,6 @@ name: dog with apple in mouth
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#985c5c"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: OMNI Real Estate Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#b28f57"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: MikeTangoBravo21
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e364d3"
 icons:
   - icon.png

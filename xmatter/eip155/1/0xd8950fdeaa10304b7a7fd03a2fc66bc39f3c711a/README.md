@@ -8,7 +8,6 @@ name: wys Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#9a95ee"
 icons:
   - icon.png

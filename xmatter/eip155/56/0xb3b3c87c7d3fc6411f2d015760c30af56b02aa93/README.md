@@ -8,7 +8,6 @@ name: SKYrocket
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ef4b53"
 icons:
   - icon.png

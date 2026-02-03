@@ -18,7 +18,6 @@ name: Rhythm
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#232424"
 icons:
   - icon.png

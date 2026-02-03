@@ -8,7 +8,6 @@ name: Polkadex ERC-20 Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e60079"
 icons:
   - icon.png

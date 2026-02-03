@@ -14,7 +14,6 @@ name: xunii.finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c8d8eb"
 icons:
   - icon.png

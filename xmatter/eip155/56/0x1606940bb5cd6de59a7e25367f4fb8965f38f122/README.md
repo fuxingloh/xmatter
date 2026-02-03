@@ -8,7 +8,6 @@ name: AquaGoat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dfbf4a"
 icons:
   - icon.png

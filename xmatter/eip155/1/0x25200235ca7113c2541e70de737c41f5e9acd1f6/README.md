@@ -8,7 +8,6 @@ name: PathHive Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#37255e"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: RYOSHI TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#070706"
 icons:
   - icon.png

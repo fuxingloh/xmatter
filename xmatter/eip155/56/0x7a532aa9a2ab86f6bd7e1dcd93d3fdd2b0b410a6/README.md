@@ -18,7 +18,6 @@ name: IRR
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c3935c"
 icons:
   - icon.png

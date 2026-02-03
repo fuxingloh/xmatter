@@ -22,7 +22,6 @@ name: Metakings
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0c1a2c"
 icons:
   - icon.png

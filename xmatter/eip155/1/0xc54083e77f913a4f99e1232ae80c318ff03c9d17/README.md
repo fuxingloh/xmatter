@@ -8,7 +8,6 @@ name: CariNet Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#302f2f"
 icons:
   - icon.png

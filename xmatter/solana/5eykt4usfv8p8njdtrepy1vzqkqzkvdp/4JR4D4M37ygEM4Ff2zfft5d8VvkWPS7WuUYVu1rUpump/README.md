@@ -10,7 +10,6 @@ name: abstract pepe
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#f1f2f1"
 icons:
   - icon.png

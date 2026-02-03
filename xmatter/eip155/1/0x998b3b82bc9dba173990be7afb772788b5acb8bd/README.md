@@ -8,7 +8,6 @@ name: BANCA Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#247eac"
 icons:
   - icon.png

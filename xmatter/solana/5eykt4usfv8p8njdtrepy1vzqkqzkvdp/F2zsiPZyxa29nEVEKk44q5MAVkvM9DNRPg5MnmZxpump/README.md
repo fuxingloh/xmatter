@@ -10,7 +10,6 @@ name: KING
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#242737"
 icons:
   - icon.png

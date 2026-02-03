@@ -16,7 +16,6 @@ name: RealGOAT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#deaa31"
 icons:
   - icon.png

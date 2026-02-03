@@ -6,7 +6,6 @@ name: BuckHathCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f8a031"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: EVO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-icon: icon.png
 color: "#fc041b"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: SUGAR
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#b91360"
 icons:
   - icon.png

@@ -22,7 +22,6 @@ name: SENATE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ee1021"
 icons:
   - icon.png

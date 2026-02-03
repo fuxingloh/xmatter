@@ -8,7 +8,6 @@ name: HONEYPOT PhilosoRaptor
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#7cd2a3"
 icons:
   - icon.png

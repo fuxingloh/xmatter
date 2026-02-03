@@ -6,7 +6,6 @@ name: MularPay
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#3b5365"
 icons:
   - icon.png

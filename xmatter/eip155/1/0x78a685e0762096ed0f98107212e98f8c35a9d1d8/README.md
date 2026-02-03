@@ -8,7 +8,6 @@ name: Bloc
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d77b62"
 icons:
   - icon.png

@@ -10,7 +10,6 @@ name: BNB Robots
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#372a24"
 icons:
   - icon.png

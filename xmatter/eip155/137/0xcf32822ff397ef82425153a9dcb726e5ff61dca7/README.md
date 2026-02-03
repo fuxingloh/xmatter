@@ -20,7 +20,6 @@ name: GAMEE Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#4f69f7"
 icons:
   - icon.png

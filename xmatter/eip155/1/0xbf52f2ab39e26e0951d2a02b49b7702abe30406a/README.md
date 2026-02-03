@@ -8,7 +8,6 @@ name: ODEM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d3f2f9"
 icons:
   - icon.png

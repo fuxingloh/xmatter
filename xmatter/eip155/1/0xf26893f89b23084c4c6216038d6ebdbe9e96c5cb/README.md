@@ -8,7 +8,6 @@ name: MLR Token - Mega Lottery Services Global
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e41414"
 icons:
   - icon.png

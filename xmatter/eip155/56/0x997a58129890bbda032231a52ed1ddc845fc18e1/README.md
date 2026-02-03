@@ -16,7 +16,6 @@ name: SIREN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d2b9a5"
 icons:
   - icon.png

@@ -18,7 +18,6 @@ name: HanChain
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#39b5e2"
 icons:
   - icon.svg

@@ -10,7 +10,6 @@ name: Good Will Alliance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ecb714"
 icons:
   - icon.png

@@ -6,7 +6,6 @@ name: KAV
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c6c7cc"
 icons:
   - icon.png

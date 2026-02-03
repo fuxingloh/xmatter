@@ -8,7 +8,6 @@ name: FaithCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1c578d"
 icons:
   - icon.png

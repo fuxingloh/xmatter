@@ -10,7 +10,6 @@ name: Dogelon Mars (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#f0c693"
 icons:
   - icon.png

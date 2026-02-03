@@ -6,7 +6,6 @@ name: Game Cell Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ec3c3c"
 icons:
   - icon.png

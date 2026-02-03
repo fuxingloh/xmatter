@@ -8,7 +8,6 @@ name: Wixlar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0e407b"
 icons:
   - icon.png

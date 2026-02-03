@@ -6,7 +6,6 @@ name: Reakoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0c74cd"
 icons:
   - icon.png

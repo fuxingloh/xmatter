@@ -14,7 +14,6 @@ name: FalconX Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d2cfd0"
 icons:
   - icon.png

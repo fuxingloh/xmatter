@@ -8,7 +8,6 @@ name: OLD Real Trump Token - DO NOT BUY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f50707"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Orbicular
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#5652f7"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: BULL COIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cea17a"
 icons:
   - icon.png

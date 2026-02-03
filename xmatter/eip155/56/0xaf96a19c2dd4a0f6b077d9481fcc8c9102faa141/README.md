@@ -8,7 +8,6 @@ name: Moonarch.app
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#141318"
 icons:
   - icon.png

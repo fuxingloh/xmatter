@@ -18,7 +18,6 @@ name: Steam Exchange
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#342408"
 icons:
   - icon.png

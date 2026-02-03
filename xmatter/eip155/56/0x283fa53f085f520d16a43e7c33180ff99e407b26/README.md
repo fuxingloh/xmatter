@@ -8,7 +8,6 @@ name: Maxima
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#6dbc44"
 icons:
   - icon.png

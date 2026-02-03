@@ -21,7 +21,6 @@ name: Metacade (MCADE)
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#ce1cd9"
 icons:
   - icon.svg

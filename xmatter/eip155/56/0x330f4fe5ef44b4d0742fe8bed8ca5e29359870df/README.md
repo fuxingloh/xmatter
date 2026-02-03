@@ -25,7 +25,6 @@ name: Jade Currency
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#987b45"
 icons:
   - icon.png

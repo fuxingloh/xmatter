@@ -8,7 +8,6 @@ name: JackPool.finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-icon: icon.png
 color: "#dcdcdc"
 icons:
   - icon.png

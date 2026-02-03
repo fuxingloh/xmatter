@@ -8,7 +8,6 @@ name: Baby Bitcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ee9c28"
 icons:
   - icon.png

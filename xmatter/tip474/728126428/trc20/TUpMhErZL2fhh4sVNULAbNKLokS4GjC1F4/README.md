@@ -18,7 +18,6 @@ name: TrueUSDToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-icon: icon.png
 color: "#1b5bfc"
 icons:
   - icon.png

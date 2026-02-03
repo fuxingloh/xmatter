@@ -8,7 +8,6 @@ name: I HOUSE TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#6c9d21"
 icons:
   - icon.png

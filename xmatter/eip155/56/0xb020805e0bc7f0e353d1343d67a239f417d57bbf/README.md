@@ -12,7 +12,6 @@ name: Krypton DAO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#45d46d"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Horse
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#a2661f"
 icons:
   - icon.png

@@ -22,7 +22,6 @@ name: Wraith Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0dda8e"
 icons:
   - icon.png

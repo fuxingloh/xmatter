@@ -8,7 +8,6 @@ name: APEcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#68764d"
 icons:
   - icon.png

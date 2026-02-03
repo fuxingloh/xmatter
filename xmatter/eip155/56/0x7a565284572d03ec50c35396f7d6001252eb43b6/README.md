@@ -12,7 +12,6 @@ name: DogeZilla
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e1bd6c"
 icons:
   - icon.png

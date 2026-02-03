@@ -12,7 +12,6 @@ name: ZigCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#13132d"
 icons:
   - icon.png

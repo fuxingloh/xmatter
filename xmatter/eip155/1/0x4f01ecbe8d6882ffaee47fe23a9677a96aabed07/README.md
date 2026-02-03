@@ -6,7 +6,6 @@ name: MythicUSD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#eae8e8"
 icons:
   - icon.png

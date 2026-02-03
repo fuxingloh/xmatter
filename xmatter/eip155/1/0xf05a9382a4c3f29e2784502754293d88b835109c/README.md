@@ -8,7 +8,6 @@ name: REX - Real Estate tokens
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#42457f"
 icons:
   - icon.png

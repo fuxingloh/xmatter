@@ -12,7 +12,6 @@ name: KITE AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#123d2c"
 icons:
   - icon.png

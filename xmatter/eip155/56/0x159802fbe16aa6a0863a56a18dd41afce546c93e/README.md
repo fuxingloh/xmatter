@@ -8,7 +8,6 @@ name: Savetheworld
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#198993"
 icons:
   - icon.png

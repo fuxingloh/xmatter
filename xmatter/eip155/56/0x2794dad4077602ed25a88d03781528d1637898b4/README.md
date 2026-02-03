@@ -14,7 +14,6 @@ name: VITE Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#007aff"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: CircuitsOfValue
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ebecf0"
 icons:
   - icon.png

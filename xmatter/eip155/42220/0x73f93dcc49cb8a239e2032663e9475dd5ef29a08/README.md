@@ -20,7 +20,6 @@ name: Mento West African CFA Franc
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#550dc3"
 icons:
   - icon.png

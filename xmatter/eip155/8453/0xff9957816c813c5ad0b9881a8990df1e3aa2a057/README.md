@@ -10,7 +10,6 @@ name: Geojam
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#050704"
 icons:
   - icon.svg

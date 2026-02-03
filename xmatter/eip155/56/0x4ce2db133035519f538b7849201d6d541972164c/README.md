@@ -18,7 +18,6 @@ name: Magicbox Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#13042c"
 icons:
   - icon.png

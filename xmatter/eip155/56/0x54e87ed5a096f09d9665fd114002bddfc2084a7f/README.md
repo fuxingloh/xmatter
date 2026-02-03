@@ -14,7 +14,6 @@ name: Baby Moon Floki
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#57768d"
 icons:
   - icon.png

@@ -22,7 +22,6 @@ name: BiCity AI Projects
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#434dd4"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: BidCommerce
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#401f27"
 icons:
   - icon.png

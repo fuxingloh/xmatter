@@ -8,7 +8,6 @@ name: UCASH
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#cc9c34"
 icons:
   - icon.svg

@@ -6,7 +6,6 @@ name: Chad USD
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#b5a4c9"
 icons:
   - icon.svg

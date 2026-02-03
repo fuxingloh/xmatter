@@ -6,7 +6,6 @@ name: Vbitcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f65304"
 icons:
   - icon.png

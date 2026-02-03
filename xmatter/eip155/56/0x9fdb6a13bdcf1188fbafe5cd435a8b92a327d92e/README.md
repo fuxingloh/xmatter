@@ -12,7 +12,6 @@ name: GOLDMONEY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fbb63d"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Global Currency Unit
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#797149"
 icons:
   - icon.png

@@ -30,7 +30,6 @@ name: Aura Finance (AURA)
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#7e3acf"
 icons:
   - icon.svg

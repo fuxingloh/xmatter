@@ -8,7 +8,6 @@ name: AIRBNB
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1c1a4e"
 icons:
   - icon.png

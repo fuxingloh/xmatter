@@ -18,7 +18,6 @@ name: FlashX Ultra
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#eecf2c"
 icons:
   - icon.png

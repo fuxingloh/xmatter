@@ -19,7 +19,6 @@ name: Uncle Doge
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e29026"
 icons:
   - icon.png

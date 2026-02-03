@@ -12,7 +12,6 @@ name: X Money
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#222222"
 icons:
   - icon.png

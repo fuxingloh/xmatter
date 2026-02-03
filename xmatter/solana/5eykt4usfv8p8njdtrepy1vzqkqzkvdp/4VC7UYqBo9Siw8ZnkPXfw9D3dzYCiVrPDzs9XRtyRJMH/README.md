@@ -12,7 +12,6 @@ name: Insane Labz
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#8b97a6"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: TurtleDex
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#24cbfb"
 icons:
   - icon.png

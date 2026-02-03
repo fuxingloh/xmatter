@@ -8,7 +8,6 @@ name: Roseon Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ec3164"
 icons:
   - icon.png

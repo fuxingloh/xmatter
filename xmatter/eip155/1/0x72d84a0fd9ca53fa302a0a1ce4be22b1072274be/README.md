@@ -6,7 +6,6 @@ name: EthereumPlus
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#722bac"
 icons:
   - icon.png

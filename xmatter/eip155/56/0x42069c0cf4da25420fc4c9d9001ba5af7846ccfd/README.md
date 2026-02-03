@@ -10,7 +10,6 @@ name: Goes Up Higher
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fbcb5c"
 icons:
   - icon.png

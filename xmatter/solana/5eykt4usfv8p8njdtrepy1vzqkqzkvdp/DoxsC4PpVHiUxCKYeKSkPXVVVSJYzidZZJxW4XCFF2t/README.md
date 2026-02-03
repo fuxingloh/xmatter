@@ -16,7 +16,6 @@ name: Bonk of America
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#c9e3f1"
 icons:
   - icon.png

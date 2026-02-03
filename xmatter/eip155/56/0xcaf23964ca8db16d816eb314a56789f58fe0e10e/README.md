@@ -18,7 +18,6 @@ name: Galaxy Goggle
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#261c32"
 icons:
   - icon.png

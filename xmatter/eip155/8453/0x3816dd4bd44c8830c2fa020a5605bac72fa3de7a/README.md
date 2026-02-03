@@ -10,7 +10,6 @@ name: Presearch
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#2c8cfc"
 icons:
   - icon.svg

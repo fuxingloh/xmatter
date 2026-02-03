@@ -8,7 +8,6 @@ name: Friendster
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-icon: icon.png
 color: "#d4191f"
 icons:
   - icon.png

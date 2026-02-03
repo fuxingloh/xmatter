@@ -8,7 +8,6 @@ name: Dragon Coins
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#846734"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: 2local
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ec6b1b"
 icons:
   - icon.png

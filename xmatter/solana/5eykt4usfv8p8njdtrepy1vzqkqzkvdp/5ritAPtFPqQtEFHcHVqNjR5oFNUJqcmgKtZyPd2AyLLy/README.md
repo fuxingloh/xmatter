@@ -12,7 +12,6 @@ name: KNOB
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#1369f1"
 icons:
   - icon.png

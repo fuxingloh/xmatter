@@ -28,7 +28,6 @@ name: GYSR
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.png
 color: "#147bf4"
 icons:
   - icon.png

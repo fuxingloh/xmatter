@@ -18,7 +18,6 @@ name: Digital Reserve Currency
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#bdbdbd"
 icons:
   - icon.png

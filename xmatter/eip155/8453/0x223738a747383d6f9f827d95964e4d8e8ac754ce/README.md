@@ -10,7 +10,6 @@ name: Aura BAL
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#8b44dc"
 icons:
   - icon.svg

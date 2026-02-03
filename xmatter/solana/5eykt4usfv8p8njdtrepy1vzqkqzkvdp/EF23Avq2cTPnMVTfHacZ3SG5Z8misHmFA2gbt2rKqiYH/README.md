@@ -12,7 +12,6 @@ name: elizabath whoren
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#1f296a"
 icons:
   - icon.png

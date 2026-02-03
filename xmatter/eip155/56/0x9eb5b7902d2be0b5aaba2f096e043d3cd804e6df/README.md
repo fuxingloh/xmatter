@@ -20,7 +20,6 @@ name: My Pet Social
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f0ad72"
 icons:
   - icon.png

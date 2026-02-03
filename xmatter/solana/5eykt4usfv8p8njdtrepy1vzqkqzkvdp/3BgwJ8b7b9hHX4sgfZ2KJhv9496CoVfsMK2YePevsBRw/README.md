@@ -10,7 +10,6 @@ name: TEH EPIK DUCK
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#a8940c"
 icons:
   - icon.png

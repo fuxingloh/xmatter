@@ -18,7 +18,6 @@ name: Remitt USD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-icon: icon.png
 color: "#2c8c9c"
 icons:
   - icon.png

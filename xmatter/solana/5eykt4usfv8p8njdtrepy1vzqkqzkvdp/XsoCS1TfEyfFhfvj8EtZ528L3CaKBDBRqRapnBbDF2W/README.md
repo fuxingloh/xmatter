@@ -14,7 +14,6 @@ name: SP500 tokenized ETF (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#d4042b"
 icons:
   - icon.png

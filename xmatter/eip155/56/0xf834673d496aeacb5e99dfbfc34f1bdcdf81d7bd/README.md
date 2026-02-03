@@ -26,7 +26,6 @@ name: Aegis Launchpad
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1f1e1c"
 icons:
   - icon.png

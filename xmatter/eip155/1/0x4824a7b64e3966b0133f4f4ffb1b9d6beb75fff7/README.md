@@ -8,7 +8,6 @@ name: TokenClub
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2871db"
 icons:
   - icon.png

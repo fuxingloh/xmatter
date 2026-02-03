@@ -14,7 +14,6 @@ name: dotmoovs
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e1057a"
 icons:
   - icon.png

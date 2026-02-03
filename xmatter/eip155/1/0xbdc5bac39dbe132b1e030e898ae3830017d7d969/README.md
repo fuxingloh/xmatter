@@ -8,7 +8,6 @@ name: Snovio
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#995bc2"
 icons:
   - icon.png

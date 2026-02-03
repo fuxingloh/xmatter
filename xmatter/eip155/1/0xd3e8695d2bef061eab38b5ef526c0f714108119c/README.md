@@ -10,7 +10,6 @@ name: YFIVE.FINANCE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fae907"
 icons:
   - icon.png

@@ -12,7 +12,6 @@ name: BOTIFY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#040604"
 icons:
   - icon.png

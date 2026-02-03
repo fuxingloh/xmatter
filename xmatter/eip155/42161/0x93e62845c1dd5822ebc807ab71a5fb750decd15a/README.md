@@ -15,7 +15,6 @@ name: Wrapped NVIDIA Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#4ccb44"
 icons:
   - icon.png

@@ -16,7 +16,6 @@ name: Gluwa Creditcoin Vesting Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d3d4d7"
 icons:
   - icon.png

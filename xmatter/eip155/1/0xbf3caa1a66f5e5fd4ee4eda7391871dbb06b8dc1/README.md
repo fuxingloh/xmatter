@@ -6,7 +6,6 @@ name: Btt Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#a78b4e"
 icons:
   - icon.png

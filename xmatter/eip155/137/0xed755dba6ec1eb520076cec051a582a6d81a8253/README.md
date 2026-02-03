@@ -21,7 +21,6 @@ name: Ultimate Champions Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e1bb85"
 icons:
   - icon.png

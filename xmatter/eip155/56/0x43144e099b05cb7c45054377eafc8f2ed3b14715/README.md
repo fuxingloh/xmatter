@@ -10,7 +10,6 @@ name: KOMO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ebc81a"
 icons:
   - icon.png

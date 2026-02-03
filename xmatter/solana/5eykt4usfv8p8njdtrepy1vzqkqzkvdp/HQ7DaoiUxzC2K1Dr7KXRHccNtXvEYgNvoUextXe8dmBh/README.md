@@ -10,7 +10,6 @@ name: Slothana
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#aba284"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: PinkPanther NFT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#eb8bbb"
 icons:
   - icon.png

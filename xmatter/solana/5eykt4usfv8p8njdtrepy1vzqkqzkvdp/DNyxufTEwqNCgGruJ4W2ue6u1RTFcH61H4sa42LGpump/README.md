@@ -16,7 +16,6 @@ name: bullish
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#cebdab"
 icons:
   - icon.png

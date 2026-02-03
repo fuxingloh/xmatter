@@ -29,7 +29,6 @@ name: finance.vote
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#b7ebf6"
 icons:
   - icon.png

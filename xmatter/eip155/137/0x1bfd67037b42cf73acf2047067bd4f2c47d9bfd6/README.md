@@ -16,7 +16,6 @@ name: (PoS) Wrapped BTC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#87868f"
 icons:
   - icon.png

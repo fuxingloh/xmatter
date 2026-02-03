@@ -12,7 +12,6 @@ name: Sugar Boy
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-icon: icon.png
 color: "#f2e7d5"
 icons:
   - icon.png

@@ -6,7 +6,6 @@ name: FLC_Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f7b000"
 icons:
   - icon.png

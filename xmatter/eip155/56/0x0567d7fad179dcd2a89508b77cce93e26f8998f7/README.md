@@ -8,7 +8,6 @@ name: VIDTC Luxury goods
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#04fb74"
 icons:
   - icon.png

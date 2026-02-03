@@ -16,7 +16,6 @@ name: Mystery
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#8e970a"
 icons:
   - icon.png

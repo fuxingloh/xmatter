@@ -22,7 +22,6 @@ name: MetaPlanet
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#09080d"
 icons:
   - icon.png

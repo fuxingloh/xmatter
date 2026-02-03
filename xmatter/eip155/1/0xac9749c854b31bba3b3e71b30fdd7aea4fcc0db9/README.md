@@ -8,7 +8,6 @@ name: FightBackCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f82f35"
 icons:
   - icon.png

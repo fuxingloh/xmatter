@@ -8,7 +8,6 @@ name: Abduction Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#14063e"
 icons:
   - icon.png

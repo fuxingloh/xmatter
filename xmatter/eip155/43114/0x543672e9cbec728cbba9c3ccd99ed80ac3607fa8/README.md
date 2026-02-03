@@ -10,7 +10,6 @@ name: USD Coin (PoS) (Portal from Polygon)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2873cc"
 icons:
   - icon.png

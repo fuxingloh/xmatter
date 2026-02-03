@@ -16,7 +16,6 @@ name: Degen
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#a36cfa"
 icons:
   - icon.png

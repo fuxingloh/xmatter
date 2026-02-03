@@ -8,7 +8,6 @@ name: Decentralized Asset Trading Platform
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#186dc7"
 icons:
   - icon.png

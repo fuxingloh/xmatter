@@ -10,7 +10,6 @@ name: CACHE Gold
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fbc504"
 icons:
   - icon.png

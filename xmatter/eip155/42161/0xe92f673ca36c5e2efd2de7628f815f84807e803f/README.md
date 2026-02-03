@@ -14,7 +14,6 @@ name: Alphabet tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#4384f4"
 icons:
   - icon.png

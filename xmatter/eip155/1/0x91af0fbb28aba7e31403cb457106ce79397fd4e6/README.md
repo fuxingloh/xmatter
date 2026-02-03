@@ -14,7 +14,6 @@ name: Aergo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#9d78a8"
 icons:
   - icon.png

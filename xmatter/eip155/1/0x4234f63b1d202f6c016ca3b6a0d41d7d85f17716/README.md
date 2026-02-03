@@ -8,7 +8,6 @@ name: QNTU Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e4aa37"
 icons:
   - icon.png

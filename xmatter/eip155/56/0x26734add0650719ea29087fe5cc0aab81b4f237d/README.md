@@ -16,7 +16,6 @@ name: STEMX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#3445f7"
 icons:
   - icon.png

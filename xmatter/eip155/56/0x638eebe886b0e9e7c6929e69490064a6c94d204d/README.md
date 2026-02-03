@@ -26,7 +26,6 @@ name: Hector Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#b3a384"
 icons:
   - icon.png

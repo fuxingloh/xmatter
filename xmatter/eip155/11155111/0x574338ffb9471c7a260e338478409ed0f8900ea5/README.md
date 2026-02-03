@@ -10,7 +10,6 @@ links:
     url: "https://x.com/https://x.com/MASQ_ai"
 symbol: MASQ
 decimals: 18
-icon: icon.png
 color: "#049ff7"
 icons:
   - icon.png

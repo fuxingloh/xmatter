@@ -14,7 +14,6 @@ name: Lockheed (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ccdbe3"
 icons:
   - icon.png

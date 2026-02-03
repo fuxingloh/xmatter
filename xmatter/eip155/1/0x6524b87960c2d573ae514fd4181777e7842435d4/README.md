@@ -8,7 +8,6 @@ name: Benzene 2.1
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#5953e5"
 icons:
   - icon.png

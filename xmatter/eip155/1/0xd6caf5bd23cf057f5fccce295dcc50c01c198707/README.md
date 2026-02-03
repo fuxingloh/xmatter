@@ -8,7 +8,6 @@ name: Evanesco Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ab0984"
 icons:
   - icon.png

@@ -6,7 +6,6 @@ name: MoonCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#519ff7"
 icons:
   - icon.png

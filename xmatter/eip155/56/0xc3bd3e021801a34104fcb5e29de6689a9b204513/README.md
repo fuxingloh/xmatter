@@ -16,7 +16,6 @@ name: LevelUp Gaming
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#050e06"
 icons:
   - icon.png

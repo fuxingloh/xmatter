@@ -8,7 +8,6 @@ name: AZEUSX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-icon: icon.png
 color: "#04acec"
 icons:
   - icon.png

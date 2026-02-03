@@ -12,7 +12,6 @@ name: Egypt Cat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#d6955d"
 icons:
   - icon.png

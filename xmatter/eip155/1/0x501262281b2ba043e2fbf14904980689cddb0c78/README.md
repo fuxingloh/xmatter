@@ -8,7 +8,6 @@ name: Mithril Ore
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#6c7473"
 icons:
   - icon.png

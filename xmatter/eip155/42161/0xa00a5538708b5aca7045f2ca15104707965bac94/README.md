@@ -15,7 +15,6 @@ name: Wrapped PepsiCo Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0695d4"
 icons:
   - icon.png

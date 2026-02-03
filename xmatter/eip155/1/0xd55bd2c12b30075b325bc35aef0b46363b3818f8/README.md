@@ -12,7 +12,6 @@ name: Zombie.Finance(ZOMBIE)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#444940"
 icons:
   - icon.png

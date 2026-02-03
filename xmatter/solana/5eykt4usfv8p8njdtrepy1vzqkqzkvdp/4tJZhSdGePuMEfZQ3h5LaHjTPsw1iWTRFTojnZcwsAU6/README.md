@@ -14,7 +14,6 @@ name: Elumia Crowns
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#b8c1c8"
 icons:
   - icon.png

@@ -16,7 +16,6 @@ name: Curve DAO Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#24ccd6"
 icons:
   - icon.png

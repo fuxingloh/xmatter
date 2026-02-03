@@ -6,7 +6,6 @@ name: ParaCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#b1b3b5"
 icons:
   - icon.png

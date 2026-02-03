@@ -20,7 +20,6 @@ name: MinerBlox Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#eecc7d"
 icons:
   - icon.png

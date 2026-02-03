@@ -24,7 +24,6 @@ name: Football World Community
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#edc836"
 icons:
   - icon.png

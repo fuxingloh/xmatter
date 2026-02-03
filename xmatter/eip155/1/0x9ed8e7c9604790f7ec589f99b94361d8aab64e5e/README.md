@@ -8,7 +8,6 @@ name: Unistake
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#22b8d4"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Swamp.finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cbed6b"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: SmartKey
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2b75be"
 icons:
   - icon.png

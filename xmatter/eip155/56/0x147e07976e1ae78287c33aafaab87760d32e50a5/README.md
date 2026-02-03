@@ -20,7 +20,6 @@ name: dexIRA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e6e7e8"
 icons:
   - icon.png

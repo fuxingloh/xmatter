@@ -12,7 +12,6 @@ name: Katchu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#301c0c"
 icons:
   - icon.png

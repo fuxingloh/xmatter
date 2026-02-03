@@ -12,7 +12,6 @@ name: Nailong
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#efce26"
 icons:
   - icon.png

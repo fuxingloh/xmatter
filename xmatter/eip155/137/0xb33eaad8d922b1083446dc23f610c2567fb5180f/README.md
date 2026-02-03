@@ -18,7 +18,6 @@ name: Uniswap (PoS)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fcc2df"
 icons:
   - icon.png

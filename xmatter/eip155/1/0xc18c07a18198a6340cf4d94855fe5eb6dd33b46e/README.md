@@ -19,7 +19,6 @@ name: The Real Estate & Energy Investment Capital
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#52a84a"
 icons:
   - icon.png

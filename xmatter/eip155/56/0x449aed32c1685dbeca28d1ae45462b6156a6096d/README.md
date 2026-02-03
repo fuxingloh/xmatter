@@ -14,7 +14,6 @@ name: BITLIVE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#985204"
 icons:
   - icon.png

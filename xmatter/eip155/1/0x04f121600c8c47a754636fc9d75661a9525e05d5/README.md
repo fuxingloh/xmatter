@@ -12,7 +12,6 @@ name: STARS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#a59ac3"
 icons:
   - icon.png

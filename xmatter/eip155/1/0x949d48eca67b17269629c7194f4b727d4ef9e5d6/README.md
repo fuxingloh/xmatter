@@ -26,7 +26,6 @@ name: Merit Circle
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ef9b42"
 icons:
   - icon.png

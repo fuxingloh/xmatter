@@ -8,7 +8,6 @@ name: BabyDogeCash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#404025"
 icons:
   - icon.png

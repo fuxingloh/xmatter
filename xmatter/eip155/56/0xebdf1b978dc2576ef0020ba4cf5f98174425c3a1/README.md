@@ -10,7 +10,6 @@ name: SafeRocket
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dadcdd"
 icons:
   - icon.png

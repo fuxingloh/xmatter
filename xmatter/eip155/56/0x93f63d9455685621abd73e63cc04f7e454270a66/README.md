@@ -8,7 +8,6 @@ name: Weentar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0c76db"
 icons:
   - icon.png

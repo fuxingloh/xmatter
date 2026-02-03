@@ -30,7 +30,6 @@ name: LinkSync
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e56983"
 icons:
   - icon.png

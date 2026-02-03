@@ -8,7 +8,6 @@ name: LoveHeartsToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-icon: icon.png
 color: "#d8181c"
 icons:
   - icon.png

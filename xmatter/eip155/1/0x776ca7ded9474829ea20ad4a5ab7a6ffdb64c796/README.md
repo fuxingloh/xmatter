@@ -16,7 +16,6 @@ name: TENS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ec8b97"
 icons:
   - icon.png

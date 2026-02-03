@@ -10,7 +10,6 @@ name: WCELO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#facb53"
 icons:
   - icon.png

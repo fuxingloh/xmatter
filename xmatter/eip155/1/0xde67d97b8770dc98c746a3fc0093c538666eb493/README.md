@@ -14,7 +14,6 @@ name: Bitrock
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#131414"
 icons:
   - icon.png

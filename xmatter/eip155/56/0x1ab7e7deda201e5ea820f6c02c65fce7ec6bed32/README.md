@@ -24,7 +24,6 @@ name: BOT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c416fc"
 icons:
   - icon.png

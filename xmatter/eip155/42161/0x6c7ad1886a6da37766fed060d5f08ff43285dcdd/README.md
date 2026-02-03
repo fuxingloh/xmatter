@@ -15,7 +15,6 @@ name: Wrapped Danaher Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#04387c"
 icons:
   - icon.png

@@ -16,7 +16,6 @@ name: Bonus Cake
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d98444"
 icons:
   - icon.png

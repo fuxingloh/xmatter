@@ -18,7 +18,6 @@ name: SpongeBob Square
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e5d651"
 icons:
   - icon.png

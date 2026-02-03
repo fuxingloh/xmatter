@@ -8,7 +8,6 @@ name: NoleWater
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-icon: icon.png
 color: "#0c241c"
 icons:
   - icon.png

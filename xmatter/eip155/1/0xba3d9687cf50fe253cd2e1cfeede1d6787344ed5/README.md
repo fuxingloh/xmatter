@@ -8,7 +8,6 @@ name: Aave AAVE V1
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#7088b3"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: ZCore Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#eecc66"
 icons:
   - icon.png

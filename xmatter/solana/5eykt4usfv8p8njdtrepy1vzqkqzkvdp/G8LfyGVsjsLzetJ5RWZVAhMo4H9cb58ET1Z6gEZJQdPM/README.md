@@ -16,7 +16,6 @@ name: Travala.com
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#000000"
 icons:
   - icon.png

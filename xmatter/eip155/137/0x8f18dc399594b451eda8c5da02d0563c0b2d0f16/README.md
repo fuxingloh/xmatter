@@ -16,7 +16,6 @@ name: moonwolf.io
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1c144d"
 icons:
   - icon.png

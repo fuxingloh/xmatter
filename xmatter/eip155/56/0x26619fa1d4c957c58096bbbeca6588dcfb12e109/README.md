@@ -17,7 +17,6 @@ name: TIME
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0735a0"
 icons:
   - icon.png

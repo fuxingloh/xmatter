@@ -8,7 +8,6 @@ name: Tourist Review
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#3c9ca5"
 icons:
   - icon.png

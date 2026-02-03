@@ -8,7 +8,6 @@ name: Lottery Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#77051f"
 icons:
   - icon.png

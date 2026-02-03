@@ -8,7 +8,6 @@ name: Chicken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e08c27"
 icons:
   - icon.png

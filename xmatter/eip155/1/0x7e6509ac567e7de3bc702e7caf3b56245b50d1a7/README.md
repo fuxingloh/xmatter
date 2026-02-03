@@ -8,7 +8,6 @@ name: Swace
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ac1db0"
 icons:
   - icon.png

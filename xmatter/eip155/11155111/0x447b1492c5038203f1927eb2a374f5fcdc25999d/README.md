@@ -10,7 +10,6 @@ links:
     url: "https://x.com/unlockprotocol"
 symbol: UDT
 decimals: 18
-icon: icon.svg
 color: "#fbf3eb"
 icons:
   - icon.svg

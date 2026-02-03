@@ -27,7 +27,6 @@ name: Black Diamond
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f3db91"
 icons:
   - icon.png

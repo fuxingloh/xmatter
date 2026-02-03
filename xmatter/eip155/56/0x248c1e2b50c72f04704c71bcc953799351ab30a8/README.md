@@ -8,7 +8,6 @@ name: Pornstar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fc10fc"
 icons:
   - icon.png

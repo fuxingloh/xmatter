@@ -10,7 +10,6 @@ name: Crypto.com Coin (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#1a2954"
 icons:
   - icon.png

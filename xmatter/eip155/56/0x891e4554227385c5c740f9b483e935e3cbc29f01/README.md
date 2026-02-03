@@ -20,7 +20,6 @@ name: Robust Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#3c3cd4"
 icons:
   - icon.png

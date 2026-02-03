@@ -8,7 +8,6 @@ name: COINSTO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#54b6fa"
 icons:
   - icon.png

@@ -12,7 +12,6 @@ name: YFX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-icon: icon.png
 color: "#ea9f09"
 icons:
   - icon.png

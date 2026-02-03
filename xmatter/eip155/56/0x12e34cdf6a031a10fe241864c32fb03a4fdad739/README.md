@@ -8,7 +8,6 @@ name: FREE coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#edb335"
 icons:
   - icon.png

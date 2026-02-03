@@ -6,7 +6,6 @@ name: DigiPeso
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#63bbb3"
 icons:
   - icon.png

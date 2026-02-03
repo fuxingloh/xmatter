@@ -12,7 +12,6 @@ name: CentFi Bank Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#193f46"
 icons:
   - icon.png

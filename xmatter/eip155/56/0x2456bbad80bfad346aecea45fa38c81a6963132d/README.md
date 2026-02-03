@@ -29,7 +29,6 @@ name: Meta Ruffy
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#141513"
 icons:
   - icon.png

@@ -10,7 +10,6 @@ name: Dragon Sun
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-icon: icon.png
 color: "#bc6334"
 icons:
   - icon.png

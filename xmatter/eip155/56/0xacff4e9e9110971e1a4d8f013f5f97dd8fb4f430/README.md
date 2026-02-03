@@ -16,7 +16,6 @@ name: KING FOREVER
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d8b05d"
 icons:
   - icon.png

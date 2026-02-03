@@ -12,7 +12,6 @@ name: Fellaz
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#06f09d"
 icons:
   - icon.png

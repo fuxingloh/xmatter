@@ -15,7 +15,6 @@ name: Cloak Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#62f8f8"
 icons:
   - icon.png

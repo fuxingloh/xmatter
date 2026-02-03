@@ -8,7 +8,6 @@ name: AdToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f1f1f2"
 icons:
   - icon.png

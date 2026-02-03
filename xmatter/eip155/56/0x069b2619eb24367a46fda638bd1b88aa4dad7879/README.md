@@ -12,7 +12,6 @@ name: MoonDAO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2e2954"
 icons:
   - icon.png

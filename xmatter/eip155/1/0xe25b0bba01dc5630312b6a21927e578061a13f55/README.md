@@ -8,7 +8,6 @@ name: ShipChain SHIP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#eb6a34"
 icons:
   - icon.png

@@ -18,7 +18,6 @@ name: Basis Cash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#8848f8"
 icons:
   - icon.png

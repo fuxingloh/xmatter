@@ -15,7 +15,6 @@ name: Wrapped Goldman Sachs Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#739bc3"
 icons:
   - icon.png

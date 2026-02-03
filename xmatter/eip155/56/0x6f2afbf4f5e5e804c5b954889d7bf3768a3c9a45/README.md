@@ -8,7 +8,6 @@ name: Hope
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0fa894"
 icons:
   - icon.png

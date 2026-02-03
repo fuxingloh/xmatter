@@ -25,7 +25,6 @@ name: MetaUFO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1b2d17"
 icons:
   - icon.png

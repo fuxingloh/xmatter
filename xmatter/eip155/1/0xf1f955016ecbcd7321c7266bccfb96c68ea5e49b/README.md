@@ -8,7 +8,6 @@ name: Rally
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fc9004"
 icons:
   - icon.png

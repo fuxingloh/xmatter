@@ -8,7 +8,6 @@ name: ShonToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#415efb"
 icons:
   - icon.png

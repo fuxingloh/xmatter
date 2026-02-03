@@ -14,7 +14,6 @@ name: DOGEMOON
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#170d08"
 icons:
   - icon.png

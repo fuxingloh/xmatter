@@ -18,7 +18,6 @@ name: Wetux
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#debc29"
 icons:
   - icon.png

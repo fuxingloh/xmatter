@@ -26,7 +26,6 @@ name: Pollen
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fc2c54"
 icons:
   - icon.png

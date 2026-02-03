@@ -6,7 +6,6 @@ name: CorelFX Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#4c92cb"
 icons:
   - icon.png

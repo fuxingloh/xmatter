@@ -6,7 +6,6 @@ name: Ethereum wizard
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0b2b80"
 icons:
   - icon.png

@@ -31,7 +31,6 @@ name: ApeBond
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#7764b5"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: PocketRocket
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#392359"
 icons:
   - icon.png

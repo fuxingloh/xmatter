@@ -8,7 +8,6 @@ name: VENJOCOIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#3f4098"
 icons:
   - icon.png

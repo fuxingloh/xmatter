@@ -17,7 +17,6 @@ name: Moon Nation Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0e6d6c"
 icons:
   - icon.png

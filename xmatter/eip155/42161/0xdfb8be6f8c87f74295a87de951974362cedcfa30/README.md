@@ -12,7 +12,6 @@ name: EdgeMatrix Computing network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1e9cde"
 icons:
   - icon.png

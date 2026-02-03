@@ -14,7 +14,6 @@ name: Biconomy Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1362af"
 icons:
   - icon.png

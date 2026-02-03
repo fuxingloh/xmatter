@@ -12,7 +12,6 @@ name: She Rises
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#c68ad1"
 icons:
   - icon.png

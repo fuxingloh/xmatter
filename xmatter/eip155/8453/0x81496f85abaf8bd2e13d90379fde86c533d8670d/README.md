@@ -12,7 +12,6 @@ name: AGIXBT by Virtuals
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0c050e"
 icons:
   - icon.png

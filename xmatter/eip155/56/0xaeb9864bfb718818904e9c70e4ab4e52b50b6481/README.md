@@ -8,7 +8,6 @@ name: PEA Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#4b9033"
 icons:
   - icon.png

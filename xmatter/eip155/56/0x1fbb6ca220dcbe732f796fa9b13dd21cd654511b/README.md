@@ -8,7 +8,6 @@ name: 0xzx Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f89c8a"
 icons:
   - icon.png

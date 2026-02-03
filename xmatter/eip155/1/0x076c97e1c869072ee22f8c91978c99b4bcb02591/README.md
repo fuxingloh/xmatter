@@ -8,7 +8,6 @@ name: CommerceBlock Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#243324"
 icons:
   - icon.png

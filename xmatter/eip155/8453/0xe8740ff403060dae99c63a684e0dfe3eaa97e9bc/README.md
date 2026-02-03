@@ -10,7 +10,6 @@ name: MONKE
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#4a4d56"
 icons:
   - icon.svg

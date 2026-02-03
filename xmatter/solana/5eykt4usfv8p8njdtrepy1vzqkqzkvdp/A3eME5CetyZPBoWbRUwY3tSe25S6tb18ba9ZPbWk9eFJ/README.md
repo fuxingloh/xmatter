@@ -12,7 +12,6 @@ name: Peng
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#cbfafa"
 icons:
   - icon.png

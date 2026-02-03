@@ -16,7 +16,6 @@ name: AZ BANC SERVICES
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fedd00"
 icons:
   - icon.png

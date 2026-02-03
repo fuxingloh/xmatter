@@ -6,7 +6,6 @@ name: EXtereum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#172611"
 icons:
   - icon.png

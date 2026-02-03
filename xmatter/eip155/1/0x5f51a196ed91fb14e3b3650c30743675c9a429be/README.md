@@ -6,7 +6,6 @@ name: Bitcoin Solar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fc7506"
 icons:
   - icon.png

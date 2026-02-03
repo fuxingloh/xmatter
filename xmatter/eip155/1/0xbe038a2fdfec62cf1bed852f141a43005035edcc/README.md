@@ -12,7 +12,6 @@ name: Intchain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#de141b"
 icons:
   - icon.png

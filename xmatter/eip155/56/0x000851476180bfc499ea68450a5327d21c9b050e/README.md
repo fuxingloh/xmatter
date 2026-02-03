@@ -21,7 +21,6 @@ name: SLAM Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#252e46"
 icons:
   - icon.png

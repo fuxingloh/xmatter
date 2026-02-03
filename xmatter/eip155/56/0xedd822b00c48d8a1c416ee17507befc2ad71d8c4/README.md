@@ -8,7 +8,6 @@ name: My Shiba Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fba00b"
 icons:
   - icon.png

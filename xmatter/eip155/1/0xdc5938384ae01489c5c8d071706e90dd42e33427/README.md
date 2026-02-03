@@ -6,7 +6,6 @@ name: Luna
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ca5365"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Casino Betting Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d0a742"
 icons:
   - icon.png

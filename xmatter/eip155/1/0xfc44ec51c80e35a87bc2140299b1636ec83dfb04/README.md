@@ -8,7 +8,6 @@ name: VOLT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f7da5d"
 icons:
   - icon.png

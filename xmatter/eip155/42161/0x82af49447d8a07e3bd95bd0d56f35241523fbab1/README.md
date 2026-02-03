@@ -12,7 +12,6 @@ name: Wrapped Ether
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#080707"
 icons:
   - icon.png

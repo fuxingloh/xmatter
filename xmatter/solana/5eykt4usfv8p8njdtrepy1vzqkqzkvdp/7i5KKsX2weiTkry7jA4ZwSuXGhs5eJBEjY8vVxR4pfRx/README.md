@@ -20,7 +20,6 @@ name: Green Metaverse Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#e2c475"
 icons:
   - icon.png

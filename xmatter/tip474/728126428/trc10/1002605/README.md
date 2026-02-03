@@ -6,7 +6,6 @@ name: Blockclass
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-icon: icon.png
 color: "#bbbbbb"
 icons:
   - icon.png

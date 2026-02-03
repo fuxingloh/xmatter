@@ -10,7 +10,6 @@ name: bunkee
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#080505"
 icons:
   - icon.png

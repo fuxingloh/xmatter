@@ -8,7 +8,6 @@ name: GoToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#4bacf5"
 icons:
   - icon.png

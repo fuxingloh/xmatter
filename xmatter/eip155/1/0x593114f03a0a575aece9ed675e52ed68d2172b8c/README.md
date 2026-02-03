@@ -8,7 +8,6 @@ name: BidiPass
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#b04ce1"
 icons:
   - icon.png

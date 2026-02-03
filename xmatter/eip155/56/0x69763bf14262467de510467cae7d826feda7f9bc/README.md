@@ -11,7 +11,6 @@ name: Petunia
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#918576"
 icons:
   - icon.png

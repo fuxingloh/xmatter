@@ -16,7 +16,6 @@ name: Wrapped IQ.Cash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ebd4dc"
 icons:
   - icon.png

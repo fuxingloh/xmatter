@@ -14,7 +14,6 @@ name: Microsoft (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dcdcdc"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: DMarket Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d8f8f5"
 icons:
   - icon.png

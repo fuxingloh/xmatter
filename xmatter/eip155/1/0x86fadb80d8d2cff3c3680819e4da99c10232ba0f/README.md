@@ -6,7 +6,6 @@ name: EURBASE Stablecoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0baaee"
 icons:
   - icon.png

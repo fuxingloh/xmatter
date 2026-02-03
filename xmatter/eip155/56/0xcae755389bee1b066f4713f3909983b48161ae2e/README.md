@@ -8,7 +8,6 @@ name: NanoDOGEToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#efbe16"
 icons:
   - icon.png

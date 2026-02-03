@@ -14,7 +14,6 @@ name: LUKSO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#8c59b2"
 icons:
   - icon.png

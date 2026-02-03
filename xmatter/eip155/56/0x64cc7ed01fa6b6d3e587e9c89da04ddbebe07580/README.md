@@ -8,7 +8,6 @@ name: SHIBA INU GOLD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#eebd31"
 icons:
   - icon.png

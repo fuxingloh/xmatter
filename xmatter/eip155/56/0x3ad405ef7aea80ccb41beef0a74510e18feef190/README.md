@@ -16,7 +16,6 @@ name: SADBABY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f9731c"
 icons:
   - icon.png

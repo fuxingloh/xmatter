@@ -6,7 +6,6 @@ name: MIQcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#a03529"
 icons:
   - icon.png

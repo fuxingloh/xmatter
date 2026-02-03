@@ -10,7 +10,6 @@ name: Nettensor
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#8648ea"
 icons:
   - icon.png

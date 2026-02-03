@@ -22,7 +22,6 @@ name: Leon Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#230b1c"
 icons:
   - icon.png

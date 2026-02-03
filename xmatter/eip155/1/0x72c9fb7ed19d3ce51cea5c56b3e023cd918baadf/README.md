@@ -8,7 +8,6 @@ name: Agrolot Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#28bd19"
 icons:
   - icon.png

@@ -6,7 +6,6 @@ name: Nicash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#392109"
 icons:
   - icon.png

@@ -27,7 +27,6 @@ name: Restore Truth Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cba83b"
 icons:
   - icon.png

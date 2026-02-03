@@ -8,7 +8,6 @@ name: Rocket Bsc
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fbd004"
 icons:
   - icon.png

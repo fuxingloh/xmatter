@@ -16,7 +16,6 @@ name: DFYN Token (PoS)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#9b779f"
 icons:
   - icon.png

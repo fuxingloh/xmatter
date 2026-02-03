@@ -10,7 +10,6 @@ name: O-megax
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#13141c"
 icons:
   - icon.png

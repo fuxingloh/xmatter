@@ -18,7 +18,6 @@ name: BNB pegget eCash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0873c2"
 icons:
   - icon.png

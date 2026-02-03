@@ -16,7 +16,6 @@ name: Yearn Finance Dot
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e11481"
 icons:
   - icon.png

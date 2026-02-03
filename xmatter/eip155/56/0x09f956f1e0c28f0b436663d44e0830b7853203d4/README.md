@@ -8,7 +8,6 @@ name: SHIBA KILLER
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e10d0d"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: BakerKingSwap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f6d795"
 icons:
   - icon.png

@@ -10,7 +10,6 @@ name: Binance Coin (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#f4bc2d"
 icons:
   - icon.png

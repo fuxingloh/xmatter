@@ -18,7 +18,6 @@ name: Annex BUSD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0c213d"
 icons:
   - icon.png

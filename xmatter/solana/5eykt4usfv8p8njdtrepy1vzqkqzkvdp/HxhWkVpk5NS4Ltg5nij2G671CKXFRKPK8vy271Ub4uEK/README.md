@@ -10,7 +10,6 @@ name: Hxro (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#e93a4e"
 icons:
   - icon.png

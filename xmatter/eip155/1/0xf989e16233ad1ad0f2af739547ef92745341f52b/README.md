@@ -8,7 +8,6 @@ name: Coin Fella Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fc0444"
 icons:
   - icon.png

@@ -12,7 +12,6 @@ name: A Fork in the Road
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#cad1c9"
 icons:
   - icon.png

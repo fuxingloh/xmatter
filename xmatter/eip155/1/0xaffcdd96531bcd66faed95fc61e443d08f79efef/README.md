@@ -8,7 +8,6 @@ name: Perth Mint Gold Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#eeb733"
 icons:
   - icon.png

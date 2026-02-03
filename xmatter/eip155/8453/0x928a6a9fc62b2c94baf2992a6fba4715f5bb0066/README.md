@@ -12,7 +12,6 @@ name: Rug World Assets
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#aeb96e"
 icons:
   - icon.png

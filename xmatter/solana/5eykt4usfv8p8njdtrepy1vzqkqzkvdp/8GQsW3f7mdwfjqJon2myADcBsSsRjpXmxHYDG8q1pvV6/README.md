@@ -8,7 +8,6 @@ name: Holdana
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#55afc1"
 icons:
   - icon.png

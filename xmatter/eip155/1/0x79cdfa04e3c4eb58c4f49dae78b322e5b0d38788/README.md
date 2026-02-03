@@ -8,7 +8,6 @@ name: TrueFeedBack
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ebbc20"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Bitwaves
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ea5d28"
 icons:
   - icon.png

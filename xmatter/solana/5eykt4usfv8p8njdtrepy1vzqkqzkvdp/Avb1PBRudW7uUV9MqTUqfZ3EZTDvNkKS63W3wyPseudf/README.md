@@ -10,7 +10,6 @@ name: CatWifHat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#bc9c89"
 icons:
   - icon.png

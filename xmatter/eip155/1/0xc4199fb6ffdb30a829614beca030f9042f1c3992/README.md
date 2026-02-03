@@ -8,7 +8,6 @@ name: snglsDAO Governance Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d40d26"
 icons:
   - icon.png

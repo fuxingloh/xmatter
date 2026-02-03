@@ -18,7 +18,6 @@ name: Big Doge Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e67535"
 icons:
   - icon.png

@@ -16,7 +16,6 @@ name: Polyroll Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#363636"
 icons:
   - icon.png

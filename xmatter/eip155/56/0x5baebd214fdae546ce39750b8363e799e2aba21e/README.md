@@ -8,7 +8,6 @@ name: Moonery
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#14152b"
 icons:
   - icon.png

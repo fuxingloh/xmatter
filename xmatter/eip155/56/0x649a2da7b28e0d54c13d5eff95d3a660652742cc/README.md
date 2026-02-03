@@ -25,7 +25,6 @@ name: IDRX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0c54e3"
 icons:
   - icon.png

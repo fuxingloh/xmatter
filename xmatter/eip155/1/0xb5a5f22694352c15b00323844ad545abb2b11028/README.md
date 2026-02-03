@@ -6,7 +6,6 @@ name: ICON
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#171b29"
 icons:
   - icon.png

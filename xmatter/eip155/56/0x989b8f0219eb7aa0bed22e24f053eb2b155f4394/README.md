@@ -22,7 +22,6 @@ name: MommyDoge Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#64dbe3"
 icons:
   - icon.png

@@ -14,7 +14,6 @@ name: Turbo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#f3f2f1"
 icons:
   - icon.png

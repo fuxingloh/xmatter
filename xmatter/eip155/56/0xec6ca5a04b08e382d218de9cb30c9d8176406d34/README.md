@@ -14,7 +14,6 @@ name: CryptoDrop
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#051b30"
 icons:
   - icon.png

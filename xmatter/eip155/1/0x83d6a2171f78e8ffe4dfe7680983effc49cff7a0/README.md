@@ -8,7 +8,6 @@ name: Bet Chips
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#251d11"
 icons:
   - icon.png

@@ -14,7 +14,6 @@ name: Netflix tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#e40c14"
 icons:
   - icon.png

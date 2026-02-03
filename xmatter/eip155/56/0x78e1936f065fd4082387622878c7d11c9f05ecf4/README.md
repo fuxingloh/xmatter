@@ -8,7 +8,6 @@ name: Jointer
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#faba37"
 icons:
   - icon.png

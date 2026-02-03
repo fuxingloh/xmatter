@@ -8,7 +8,6 @@ name: UpToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1c88af"
 icons:
   - icon.png

@@ -18,7 +18,6 @@ name: "867"
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c2af8f"
 icons:
   - icon.png

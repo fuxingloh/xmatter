@@ -8,7 +8,6 @@ name: Polkadog
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f2e1e1"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: NFT-Art.Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#7c0584"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: ZINC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#04cf7d"
 icons:
   - icon.png

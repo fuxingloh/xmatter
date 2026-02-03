@@ -10,7 +10,6 @@ name: morud
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#251e22"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: MContent
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cba028"
 icons:
   - icon.png

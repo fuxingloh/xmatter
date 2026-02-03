@@ -38,7 +38,6 @@ name: Ecoin Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#4d228c"
 icons:
   - icon.png

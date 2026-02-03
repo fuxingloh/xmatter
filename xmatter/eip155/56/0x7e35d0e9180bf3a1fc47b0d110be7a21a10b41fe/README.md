@@ -24,7 +24,6 @@ name: OVR
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#b648a5"
 icons:
   - icon.png

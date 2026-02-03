@@ -8,7 +8,6 @@ name: HitchainCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#7c7c7c"
 icons:
   - icon.png

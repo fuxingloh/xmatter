@@ -14,7 +14,6 @@ name: Zircuit
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#31241d"
 icons:
   - icon.png

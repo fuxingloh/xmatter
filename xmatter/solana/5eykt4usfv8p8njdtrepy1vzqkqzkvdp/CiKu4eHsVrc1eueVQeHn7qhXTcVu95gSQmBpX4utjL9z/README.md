@@ -10,7 +10,6 @@ name: Shiba Inu (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#fa9e07"
 icons:
   - icon.png

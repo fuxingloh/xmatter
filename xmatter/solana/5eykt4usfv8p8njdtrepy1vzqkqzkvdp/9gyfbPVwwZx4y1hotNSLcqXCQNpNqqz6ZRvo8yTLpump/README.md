@@ -8,7 +8,6 @@ name: Swasticoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#040404"
 icons:
   - icon.png

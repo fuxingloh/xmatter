@@ -30,7 +30,6 @@ name: B2U Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#8cccfc"
 icons:
   - icon.png

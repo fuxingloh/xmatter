@@ -12,7 +12,6 @@ name: Cheese
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#f4bf58"
 icons:
   - icon.png

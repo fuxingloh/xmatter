@@ -12,7 +12,6 @@ name: Banana For Scale
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ebecf3"
 icons:
   - icon.png

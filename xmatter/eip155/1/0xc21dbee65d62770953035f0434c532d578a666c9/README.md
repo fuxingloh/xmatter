@@ -8,7 +8,6 @@ name: CryptoEnergy
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1c1c24"
 icons:
   - icon.png

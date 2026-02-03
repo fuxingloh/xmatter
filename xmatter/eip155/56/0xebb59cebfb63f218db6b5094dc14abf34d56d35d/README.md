@@ -18,7 +18,6 @@ name: XPOOL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#252a2e"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: SuperBid
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#4d9acc"
 icons:
   - icon.png

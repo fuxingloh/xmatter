@@ -8,7 +8,6 @@ name: Bitcoin Uniswap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fc047b"
 icons:
   - icon.png

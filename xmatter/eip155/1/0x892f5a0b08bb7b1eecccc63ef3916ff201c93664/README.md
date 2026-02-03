@@ -8,7 +8,6 @@ name: Bloody
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f54040"
 icons:
   - icon.png

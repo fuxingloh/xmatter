@@ -6,7 +6,6 @@ name: Leisure Resorts Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ebf1f2"
 icons:
   - icon.png

@@ -14,7 +14,6 @@ name: KAKA Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e4ff02"
 icons:
   - icon.png

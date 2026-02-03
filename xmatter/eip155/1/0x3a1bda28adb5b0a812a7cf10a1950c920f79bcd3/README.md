@@ -8,7 +8,6 @@ name: FLIP Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e67416"
 icons:
   - icon.png

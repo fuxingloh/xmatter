@@ -10,7 +10,6 @@ name: Infinite Price Liquidity Rocket
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#37365c"
 icons:
   - icon.png

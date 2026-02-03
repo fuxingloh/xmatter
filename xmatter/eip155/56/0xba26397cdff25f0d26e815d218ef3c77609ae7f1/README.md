@@ -8,7 +8,6 @@ name: LYPTUS Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#34b293"
 icons:
   - icon.png

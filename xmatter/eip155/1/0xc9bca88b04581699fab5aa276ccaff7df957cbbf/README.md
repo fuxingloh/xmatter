@@ -10,7 +10,6 @@ name: Ethervista
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#bd966a"
 icons:
   - icon.png

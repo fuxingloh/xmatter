@@ -12,7 +12,6 @@ name: UnderDog
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#111947"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: BIKICOIN TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f4c43b"
 icons:
   - icon.png

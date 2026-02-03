@@ -8,7 +8,6 @@ name: KDG Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-icon: icon.png
 color: "#d0b46c"
 icons:
   - icon.png

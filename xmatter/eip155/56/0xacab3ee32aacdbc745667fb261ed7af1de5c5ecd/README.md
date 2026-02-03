@@ -8,7 +8,6 @@ name: Orange Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fca404"
 icons:
   - icon.png

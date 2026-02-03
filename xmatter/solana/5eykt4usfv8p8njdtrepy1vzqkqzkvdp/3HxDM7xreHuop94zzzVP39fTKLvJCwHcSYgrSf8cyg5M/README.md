@@ -12,7 +12,6 @@ name: Kek
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#2a3232"
 icons:
   - icon.png

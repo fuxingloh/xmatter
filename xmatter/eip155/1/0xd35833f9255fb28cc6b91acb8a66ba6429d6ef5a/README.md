@@ -8,7 +8,6 @@ name: Hypnoxys
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ce2330"
 icons:
   - icon.png

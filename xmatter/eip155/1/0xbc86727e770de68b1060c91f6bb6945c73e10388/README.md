@@ -8,7 +8,6 @@ name: Ink Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#213f5f"
 icons:
   - icon.png

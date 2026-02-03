@@ -28,7 +28,6 @@ name: ISLAMICOIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#896740"
 icons:
   - icon.png

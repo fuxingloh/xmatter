@@ -8,7 +8,6 @@ name: WXCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#873a37"
 icons:
   - icon.png

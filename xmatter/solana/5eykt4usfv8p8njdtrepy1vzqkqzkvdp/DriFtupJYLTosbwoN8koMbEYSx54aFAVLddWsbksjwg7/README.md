@@ -10,7 +10,6 @@ name: DRIFT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#cd8a9b"
 icons:
   - icon.png

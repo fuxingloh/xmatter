@@ -6,7 +6,6 @@ name: EQR TEST 6
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#a1a1a1"
 icons:
   - icon.png

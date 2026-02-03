@@ -6,7 +6,6 @@ name: B Network Cash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#150e06"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: MesChain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fbcc08"
 icons:
   - icon.png

@@ -6,7 +6,6 @@ name: LASVEGASCOIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2c9386"
 icons:
   - icon.png

@@ -6,7 +6,6 @@ name: Dayton Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#df7d0d"
 icons:
   - icon.png

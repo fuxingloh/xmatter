@@ -22,7 +22,6 @@ name: MetaBUSDCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f65fd2"
 icons:
   - icon.png

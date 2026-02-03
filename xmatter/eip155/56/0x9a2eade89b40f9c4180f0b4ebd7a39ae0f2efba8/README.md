@@ -10,7 +10,6 @@ name: Tahnoon Bin Zayed
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#bd9475"
 icons:
   - icon.png

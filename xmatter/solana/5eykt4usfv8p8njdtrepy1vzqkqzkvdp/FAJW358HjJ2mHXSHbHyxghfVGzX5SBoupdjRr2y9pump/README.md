@@ -10,7 +10,6 @@ name: staring robot
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#302418"
 icons:
   - icon.png

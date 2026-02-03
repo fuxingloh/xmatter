@@ -20,7 +20,6 @@ name: Mars Ecosystem Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f36c15"
 icons:
   - icon.png

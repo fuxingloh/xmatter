@@ -12,7 +12,6 @@ name: WAFFLES
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#7c6f65"
 icons:
   - icon.png

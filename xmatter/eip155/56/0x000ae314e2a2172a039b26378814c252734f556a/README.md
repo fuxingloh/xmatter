@@ -14,7 +14,6 @@ name: Aster
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f7d2a7"
 icons:
   - icon.png

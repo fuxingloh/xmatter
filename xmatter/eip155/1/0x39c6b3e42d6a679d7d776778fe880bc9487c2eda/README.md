@@ -8,7 +8,6 @@ name: Aave KNC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#35c8a2"
 icons:
   - icon.png

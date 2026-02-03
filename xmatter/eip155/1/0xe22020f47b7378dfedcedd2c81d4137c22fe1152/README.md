@@ -22,7 +22,6 @@ name: My Liquidity Partner (MLP)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#7648ea"
 icons:
   - icon.png

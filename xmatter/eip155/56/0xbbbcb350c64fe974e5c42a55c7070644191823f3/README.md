@@ -20,7 +20,6 @@ name: CheersLand Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f9b006"
 icons:
   - icon.png

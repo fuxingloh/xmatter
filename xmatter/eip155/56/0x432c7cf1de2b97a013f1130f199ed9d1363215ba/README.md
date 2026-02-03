@@ -22,7 +22,6 @@ name: CryptoGuards
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2b112b"
 icons:
   - icon.png

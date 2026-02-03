@@ -12,7 +12,6 @@ name: URANUS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#3c244b"
 icons:
   - icon.png

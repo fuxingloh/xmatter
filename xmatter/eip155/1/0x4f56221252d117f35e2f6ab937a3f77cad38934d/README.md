@@ -8,7 +8,6 @@ name: CryptoCricketClub
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f1ce61"
 icons:
   - icon.png

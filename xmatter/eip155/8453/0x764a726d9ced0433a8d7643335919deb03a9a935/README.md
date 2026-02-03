@@ -14,7 +14,6 @@ name: Pocket Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#eff5f7"
 icons:
   - icon.png

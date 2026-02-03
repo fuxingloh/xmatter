@@ -12,7 +12,6 @@ name: Sentio Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#04172c"
 icons:
   - icon.png

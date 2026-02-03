@@ -8,7 +8,6 @@ name: BLinkToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0c1c34"
 icons:
   - icon.png

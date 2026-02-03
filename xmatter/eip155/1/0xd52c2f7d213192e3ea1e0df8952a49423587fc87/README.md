@@ -6,7 +6,6 @@ name: Josh
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dbdbdb"
 icons:
   - icon.png

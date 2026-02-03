@@ -8,7 +8,6 @@ name: Rublix
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#3d3d3d"
 icons:
   - icon.png

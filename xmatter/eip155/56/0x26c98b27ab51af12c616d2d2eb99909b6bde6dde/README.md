@@ -14,7 +14,6 @@ name: YO EXCHANGE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d4f7f1"
 icons:
   - icon.png

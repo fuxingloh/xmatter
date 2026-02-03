@@ -20,7 +20,6 @@ name: Shib Army
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#6b6f4c"
 icons:
   - icon.png

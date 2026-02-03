@@ -8,7 +8,6 @@ name: Afen Blockchain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f7d15b"
 icons:
   - icon.png

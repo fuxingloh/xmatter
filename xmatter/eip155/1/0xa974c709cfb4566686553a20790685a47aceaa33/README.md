@@ -20,7 +20,6 @@ name: Mixin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1bc4fc"
 icons:
   - icon.png

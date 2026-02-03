@@ -10,7 +10,6 @@ name: OG Mubarak
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c3b5de"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: XCOPE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#c0c0c0"
 icons:
   - icon.png

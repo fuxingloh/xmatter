@@ -12,7 +12,6 @@ name: Gekko AI by Virtuals
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#a08c78"
 icons:
   - icon.png

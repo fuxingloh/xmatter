@@ -20,7 +20,6 @@ name: yearn.finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0469db"
 icons:
   - icon.png

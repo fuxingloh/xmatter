@@ -8,7 +8,6 @@ name: 0xCharts Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0c4f81"
 icons:
   - icon.png

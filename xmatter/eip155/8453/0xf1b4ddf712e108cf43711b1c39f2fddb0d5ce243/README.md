@@ -10,7 +10,6 @@ name: BrianArmstrongCoinbaseUSDC2012Normie
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#4a6e80"
 icons:
   - icon.png

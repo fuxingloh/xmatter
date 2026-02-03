@@ -6,7 +6,6 @@ name: StarWars
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-icon: icon.png
 color: "#090909"
 icons:
   - icon.png

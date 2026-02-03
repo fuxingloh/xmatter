@@ -11,7 +11,6 @@ name: XPR Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#4404e4"
 icons:
   - icon.png

@@ -16,7 +16,6 @@ name: Sleepy Sloth
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ba6226"
 icons:
   - icon.png

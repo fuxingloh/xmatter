@@ -8,7 +8,6 @@ name: Delphy Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#385cb5"
 icons:
   - icon.png

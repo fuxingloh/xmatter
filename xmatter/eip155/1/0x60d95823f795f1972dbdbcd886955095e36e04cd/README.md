@@ -12,7 +12,6 @@ name: Genie Ai
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2d045e"
 icons:
   - icon.png

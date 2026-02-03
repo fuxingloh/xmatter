@@ -6,7 +6,6 @@ name: Ethereum Lite Cash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cca514"
 icons:
   - icon.png

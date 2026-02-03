@@ -18,7 +18,6 @@ name: REGENT COIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#432614"
 icons:
   - icon.png

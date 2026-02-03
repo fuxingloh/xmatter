@@ -8,7 +8,6 @@ name: WINLAMBO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e4c9f6"
 icons:
   - icon.png

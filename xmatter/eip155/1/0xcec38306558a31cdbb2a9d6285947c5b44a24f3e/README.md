@@ -8,7 +8,6 @@ name: Fantasy Sports
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1e150a"
 icons:
   - icon.png

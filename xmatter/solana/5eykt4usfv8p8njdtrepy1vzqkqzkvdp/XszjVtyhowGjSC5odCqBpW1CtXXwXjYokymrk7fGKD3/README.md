@@ -14,7 +14,6 @@ name: Home Depot tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#ec7c14"
 icons:
   - icon.png

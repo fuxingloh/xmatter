@@ -6,7 +6,6 @@ name: ACT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#eac75a"
 icons:
   - icon.png

@@ -12,7 +12,6 @@ name: Deep Worm
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#e9c3ba"
 icons:
   - icon.png

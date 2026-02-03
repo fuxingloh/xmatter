@@ -6,7 +6,6 @@ name: Artchain Global Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f2cb1f"
 icons:
   - icon.png

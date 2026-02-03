@@ -6,7 +6,6 @@ name: EDAX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0c0b14"
 icons:
   - icon.png

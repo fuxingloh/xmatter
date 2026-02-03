@@ -21,7 +21,6 @@ name: FTX Token (FTT)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#6ed2e1"
 icons:
   - icon.png

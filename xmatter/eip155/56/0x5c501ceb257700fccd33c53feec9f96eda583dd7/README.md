@@ -8,7 +8,6 @@ name: Travel Care
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d4d0e6"
 icons:
   - icon.png

@@ -18,7 +18,6 @@ name: Flycoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#56a0d6"
 icons:
   - icon.png

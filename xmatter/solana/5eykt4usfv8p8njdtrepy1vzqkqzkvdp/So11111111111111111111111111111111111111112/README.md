@@ -12,7 +12,6 @@ name: Wrapped SOL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#57aec3"
 icons:
   - icon.png

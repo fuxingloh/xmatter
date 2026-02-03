@@ -16,7 +16,6 @@ name: The Web3 Project
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#04436b"
 icons:
   - icon.png

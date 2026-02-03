@@ -8,7 +8,6 @@ name: SafeGalaxy
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fa3bfa"
 icons:
   - icon.png

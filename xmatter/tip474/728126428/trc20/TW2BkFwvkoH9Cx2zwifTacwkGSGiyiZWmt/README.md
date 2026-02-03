@@ -6,7 +6,6 @@ name: '"""Poker Tron Token"""'
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-icon: icon.png
 color: "#e47247"
 icons:
   - icon.png

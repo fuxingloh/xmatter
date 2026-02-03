@@ -12,7 +12,6 @@ name: Just Kira
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#74412c"
 icons:
   - icon.png

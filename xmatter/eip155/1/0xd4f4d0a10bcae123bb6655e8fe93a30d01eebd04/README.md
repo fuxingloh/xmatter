@@ -14,7 +14,6 @@ name: LinqAI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d6a3f5"
 icons:
   - icon.png

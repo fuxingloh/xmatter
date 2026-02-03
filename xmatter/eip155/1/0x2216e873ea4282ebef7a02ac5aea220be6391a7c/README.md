@@ -18,7 +18,6 @@ name: smol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#93f991"
 icons:
   - icon.png

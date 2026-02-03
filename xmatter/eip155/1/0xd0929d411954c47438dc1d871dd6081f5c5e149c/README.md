@@ -8,7 +8,6 @@ name: Refereum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#9e4572"
 icons:
   - icon.png

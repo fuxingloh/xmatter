@@ -14,7 +14,6 @@ name: DFDV tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#1a2240"
 icons:
   - icon.png

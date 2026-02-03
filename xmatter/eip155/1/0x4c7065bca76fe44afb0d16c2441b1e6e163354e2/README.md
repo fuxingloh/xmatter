@@ -8,7 +8,6 @@ name: Helysia
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#3c3333"
 icons:
   - icon.png

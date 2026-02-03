@@ -24,7 +24,6 @@ name: CryptoMines
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#8755e0"
 icons:
   - icon.png

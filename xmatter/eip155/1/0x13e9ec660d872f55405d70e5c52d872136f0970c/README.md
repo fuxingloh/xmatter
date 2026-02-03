@@ -8,7 +8,6 @@ name: TKT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fb2c36"
 icons:
   - icon.png

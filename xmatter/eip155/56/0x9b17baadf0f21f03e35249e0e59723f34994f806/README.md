@@ -8,7 +8,6 @@ name: inSure
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d4a8fb"
 icons:
   - icon.png

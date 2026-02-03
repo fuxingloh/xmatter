@@ -8,7 +8,6 @@ name: SafeWojak
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#52b655"
 icons:
   - icon.png

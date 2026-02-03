@@ -10,7 +10,6 @@ name: VAI Stablecoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2dacf6"
 icons:
   - icon.png

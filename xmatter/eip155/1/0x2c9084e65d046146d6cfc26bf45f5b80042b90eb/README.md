@@ -10,7 +10,6 @@ name: Current Thing
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#9db9c0"
 icons:
   - icon.svg

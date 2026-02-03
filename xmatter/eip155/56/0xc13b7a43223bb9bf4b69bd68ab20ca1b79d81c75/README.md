@@ -8,7 +8,6 @@ name: Juggernaut DeFi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cec9bf"
 icons:
   - icon.png

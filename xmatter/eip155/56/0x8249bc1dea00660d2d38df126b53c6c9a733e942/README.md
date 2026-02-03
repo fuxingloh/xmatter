@@ -8,7 +8,6 @@ name: Bami defi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ef9e41"
 icons:
   - icon.png

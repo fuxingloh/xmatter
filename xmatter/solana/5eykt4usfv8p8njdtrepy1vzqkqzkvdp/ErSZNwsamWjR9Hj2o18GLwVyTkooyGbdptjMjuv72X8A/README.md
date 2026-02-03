@@ -12,7 +12,6 @@ name: Bitgert
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#a6dae2"
 icons:
   - icon.png

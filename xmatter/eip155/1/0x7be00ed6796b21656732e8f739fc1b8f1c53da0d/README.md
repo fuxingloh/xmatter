@@ -8,7 +8,6 @@ name: AC eXchange Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#30a96f"
 icons:
   - icon.png

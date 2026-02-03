@@ -22,7 +22,6 @@ name: Wall Street Memes
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#bcbcbc"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: BlimpsRock
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1bbbe6"
 icons:
   - icon.png

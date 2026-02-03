@@ -14,7 +14,6 @@ name: TemDAO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#a20d5c"
 icons:
   - icon.png

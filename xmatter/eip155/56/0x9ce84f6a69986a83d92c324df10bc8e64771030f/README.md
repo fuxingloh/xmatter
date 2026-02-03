@@ -12,7 +12,6 @@ name: Chintai
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#a3b38c"
 icons:
   - icon.png

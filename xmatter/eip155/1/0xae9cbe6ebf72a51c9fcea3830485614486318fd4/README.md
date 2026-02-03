@@ -8,7 +8,6 @@ name: Newtonium
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#9e4cae"
 icons:
   - icon.png

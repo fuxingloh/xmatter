@@ -8,7 +8,6 @@ name: VNTChain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ecf6f9"
 icons:
   - icon.png

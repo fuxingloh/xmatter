@@ -8,7 +8,6 @@ name: Agrello
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#45246b"
 icons:
   - icon.png

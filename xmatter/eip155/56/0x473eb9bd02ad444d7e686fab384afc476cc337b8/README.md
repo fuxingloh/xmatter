@@ -8,7 +8,6 @@ name: LITTLE FISH MOON
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#04a4c4"
 icons:
   - icon.png

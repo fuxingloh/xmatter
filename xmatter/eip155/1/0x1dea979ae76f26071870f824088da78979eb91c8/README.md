@@ -8,7 +8,6 @@ name: SPINDLE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#958fc7"
 icons:
   - icon.png

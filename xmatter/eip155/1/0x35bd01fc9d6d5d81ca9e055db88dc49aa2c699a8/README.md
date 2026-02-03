@@ -8,7 +8,6 @@ name: Friends with Benefits
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cfcecf"
 icons:
   - icon.png

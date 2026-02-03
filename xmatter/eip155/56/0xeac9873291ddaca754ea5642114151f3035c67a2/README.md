@@ -14,7 +14,6 @@ name: Decubate Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#8b1866"
 icons:
   - icon.png

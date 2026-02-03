@@ -6,7 +6,6 @@ name: Bitelectroneum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#05acef"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: SoPay
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e9e5df"
 icons:
   - icon.png

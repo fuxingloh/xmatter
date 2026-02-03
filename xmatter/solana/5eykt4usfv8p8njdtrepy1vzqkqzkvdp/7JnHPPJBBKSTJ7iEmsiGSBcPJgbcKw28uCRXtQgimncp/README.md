@@ -14,7 +14,6 @@ name: Orbs
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#738de5"
 icons:
   - icon.png

@@ -14,7 +14,6 @@ name: "0x0.ai: AI Smart Contract Auditor"
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dcdddd"
 icons:
   - icon.png

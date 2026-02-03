@@ -14,7 +14,6 @@ name: SafeMoon V2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#44bab2"
 icons:
   - icon.png

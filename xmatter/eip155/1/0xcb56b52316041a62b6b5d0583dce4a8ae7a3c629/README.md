@@ -10,7 +10,6 @@ name: Cigarette Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#f38c22"
 icons:
   - icon.svg

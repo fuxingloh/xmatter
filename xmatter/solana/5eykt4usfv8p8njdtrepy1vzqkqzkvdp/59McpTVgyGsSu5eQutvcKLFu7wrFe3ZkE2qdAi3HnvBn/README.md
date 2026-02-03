@@ -12,7 +12,6 @@ name: Choise.ai
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#07060d"
 icons:
   - icon.png

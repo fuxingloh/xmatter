@@ -26,7 +26,6 @@ name: Head Football
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#41446d"
 icons:
   - icon.png

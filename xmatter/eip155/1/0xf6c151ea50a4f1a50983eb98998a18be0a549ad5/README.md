@@ -8,7 +8,6 @@ name: Yearn2.Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c5470c"
 icons:
   - icon.png

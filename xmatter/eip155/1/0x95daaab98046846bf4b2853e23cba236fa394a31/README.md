@@ -8,7 +8,6 @@ name: EtheremonToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f9bd2e"
 icons:
   - icon.png

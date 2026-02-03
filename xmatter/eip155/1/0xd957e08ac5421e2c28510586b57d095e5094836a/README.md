@@ -8,7 +8,6 @@ name: VorteX Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#262d36"
 icons:
   - icon.png

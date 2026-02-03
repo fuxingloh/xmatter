@@ -20,7 +20,6 @@ name: Whackd
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#9c1b17"
 icons:
   - icon.png

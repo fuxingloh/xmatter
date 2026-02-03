@@ -12,7 +12,6 @@ name: READY!
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#b9074b"
 icons:
   - icon.png

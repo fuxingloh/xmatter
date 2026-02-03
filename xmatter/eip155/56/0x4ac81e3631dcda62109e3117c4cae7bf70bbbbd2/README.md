@@ -28,7 +28,6 @@ name: SavePlanetEarth V3
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#4e914f"
 icons:
   - icon.png

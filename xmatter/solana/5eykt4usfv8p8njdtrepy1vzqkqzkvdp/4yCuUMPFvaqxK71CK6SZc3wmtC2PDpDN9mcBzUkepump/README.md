@@ -12,7 +12,6 @@ name: Balls of Fate
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#bdb3ae"
 icons:
   - icon.png

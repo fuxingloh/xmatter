@@ -12,7 +12,6 @@ name: American Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#2f2959"
 icons:
   - icon.png

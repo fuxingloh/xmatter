@@ -18,7 +18,6 @@ name: WOO Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#0c1b24"
 icons:
   - icon.png

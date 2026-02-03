@@ -8,7 +8,6 @@ name: DISTX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fa3440"
 icons:
   - icon.png

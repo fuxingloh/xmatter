@@ -18,7 +18,6 @@ name: MiniFlokiADA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1c1712"
 icons:
   - icon.png

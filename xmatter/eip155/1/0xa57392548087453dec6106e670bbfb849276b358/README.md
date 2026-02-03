@@ -8,7 +8,6 @@ name: GemVault Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#df7664"
 icons:
   - icon.png

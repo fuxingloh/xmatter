@@ -8,7 +8,6 @@ name: Traxia Membership Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#6cd4fc"
 icons:
   - icon.png

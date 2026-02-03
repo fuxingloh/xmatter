@@ -12,7 +12,6 @@ name: PumpShibaX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e4ae23"
 icons:
   - icon.png

@@ -17,7 +17,6 @@ name: Blombard
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#881ff1"
 icons:
   - icon.png

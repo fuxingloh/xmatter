@@ -10,7 +10,6 @@ name: Lead Wallet
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#641e7c"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Cloudbit Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1a4f70"
 icons:
   - icon.png

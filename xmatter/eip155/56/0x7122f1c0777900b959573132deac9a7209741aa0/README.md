@@ -8,7 +8,6 @@ name: Tibetan Mastiff
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#322623"
 icons:
   - icon.png

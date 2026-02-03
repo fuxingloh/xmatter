@@ -12,7 +12,6 @@ name: Sol Beats
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#0d0d10"
 icons:
   - icon.png

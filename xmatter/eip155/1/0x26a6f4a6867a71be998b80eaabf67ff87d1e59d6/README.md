@@ -6,7 +6,6 @@ name: CasinoLaCrosse
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#381512"
 icons:
   - icon.png

@@ -15,7 +15,6 @@ name: BitBurn
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ec5b32"
 icons:
   - icon.png

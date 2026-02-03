@@ -6,7 +6,6 @@ name: EthereumeRush
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#faa03e"
 icons:
   - icon.png

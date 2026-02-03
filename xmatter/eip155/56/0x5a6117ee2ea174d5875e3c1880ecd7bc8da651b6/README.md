@@ -17,7 +17,6 @@ name: KLIP AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#040804"
 icons:
   - icon.png

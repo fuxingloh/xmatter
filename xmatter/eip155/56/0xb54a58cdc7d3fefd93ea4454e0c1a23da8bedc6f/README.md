@@ -8,7 +8,6 @@ name: hoodrat.finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#4c3123"
 icons:
   - icon.png

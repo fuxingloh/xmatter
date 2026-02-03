@@ -26,7 +26,6 @@ name: BRICKS Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f87058"
 icons:
   - icon.png

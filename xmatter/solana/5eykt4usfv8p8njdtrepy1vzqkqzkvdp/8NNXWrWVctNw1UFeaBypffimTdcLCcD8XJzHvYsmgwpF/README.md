@@ -12,7 +12,6 @@ name: Brainlet
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#2f2f2f"
 icons:
   - icon.png

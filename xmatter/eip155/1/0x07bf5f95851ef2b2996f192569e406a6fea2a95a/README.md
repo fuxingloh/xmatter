@@ -8,7 +8,6 @@ name: SEALToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e2ad54"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: MonkeyCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d0c3c2"
 icons:
   - icon.png

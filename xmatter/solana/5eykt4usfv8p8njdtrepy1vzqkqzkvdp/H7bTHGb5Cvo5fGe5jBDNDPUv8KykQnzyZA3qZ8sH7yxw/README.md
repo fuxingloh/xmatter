@@ -12,7 +12,6 @@ name: GUMMY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#df3323"
 icons:
   - icon.png

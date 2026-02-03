@@ -8,7 +8,6 @@ name: HeroNodeToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#3b9bdb"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: GDOGE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cbbaa8"
 icons:
   - icon.png

@@ -18,7 +18,6 @@ name: Gravity Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ffa600"
 icons:
   - icon.png

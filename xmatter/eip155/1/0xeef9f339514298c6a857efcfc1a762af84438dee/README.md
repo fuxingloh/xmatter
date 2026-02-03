@@ -14,7 +14,6 @@ name: Hermez Network Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fc4b0c"
 icons:
   - icon.png

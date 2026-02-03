@@ -8,7 +8,6 @@ name: Hashthereum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#140623"
 icons:
   - icon.png

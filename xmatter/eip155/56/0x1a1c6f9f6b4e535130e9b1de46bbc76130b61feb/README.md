@@ -8,7 +8,6 @@ name: Golden Duck
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#10a3c0"
 icons:
   - icon.png

@@ -14,7 +14,6 @@ name: Chevron (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cddded"
 icons:
   - icon.png

@@ -12,7 +12,6 @@ name: Nevada
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#efe488"
 icons:
   - icon.png

@@ -10,7 +10,6 @@ name: Arcade Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cf61dc"
 icons:
   - icon.png

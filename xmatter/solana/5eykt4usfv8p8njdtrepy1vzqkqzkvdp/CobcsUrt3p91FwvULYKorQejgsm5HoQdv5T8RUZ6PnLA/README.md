@@ -10,7 +10,6 @@ name: ConstitutionDAO (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#b69562"
 icons:
   - icon.png

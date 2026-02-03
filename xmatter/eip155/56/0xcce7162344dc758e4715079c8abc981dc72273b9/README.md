@@ -10,7 +10,6 @@ name: CRUDE OIL BRENT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fae1df"
 icons:
   - icon.png

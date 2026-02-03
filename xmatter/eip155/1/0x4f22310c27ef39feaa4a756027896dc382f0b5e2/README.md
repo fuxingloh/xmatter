@@ -8,7 +8,6 @@ name: SPIN Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#04dcbd"
 icons:
   - icon.png

@@ -6,7 +6,6 @@ name: BreezeCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fbfaf2"
 icons:
   - icon.png

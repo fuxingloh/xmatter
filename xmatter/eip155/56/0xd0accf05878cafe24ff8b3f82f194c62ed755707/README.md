@@ -12,7 +12,6 @@ name: SIMP Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#9d89a4"
 icons:
   - icon.png

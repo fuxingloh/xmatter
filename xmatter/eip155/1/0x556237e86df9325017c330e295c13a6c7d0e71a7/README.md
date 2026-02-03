@@ -12,7 +12,6 @@ name: Go9tro
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#be9d21"
 icons:
   - icon.png

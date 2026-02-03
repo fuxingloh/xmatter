@@ -12,7 +12,6 @@ name: Super Floki
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#eba23c"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Aave ZRX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#7689b3"
 icons:
   - icon.png

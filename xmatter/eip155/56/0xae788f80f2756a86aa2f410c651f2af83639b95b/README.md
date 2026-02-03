@@ -14,7 +14,6 @@ name: Metaverse
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e7a731"
 icons:
   - icon.png

@@ -6,7 +6,6 @@ name: FinCrypChain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fbf9bc"
 icons:
   - icon.png

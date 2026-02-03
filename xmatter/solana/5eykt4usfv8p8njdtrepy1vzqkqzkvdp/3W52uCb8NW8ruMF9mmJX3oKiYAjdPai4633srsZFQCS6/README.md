@@ -12,7 +12,6 @@ name: Biao Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#252423"
 icons:
   - icon.png

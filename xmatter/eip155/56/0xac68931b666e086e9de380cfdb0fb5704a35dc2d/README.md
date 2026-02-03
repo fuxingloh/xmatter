@@ -25,7 +25,6 @@ name: BNB Tiger Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#302425"
 icons:
   - icon.png

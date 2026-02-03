@@ -10,7 +10,6 @@ name: Deep AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#383839"
 icons:
   - icon.png

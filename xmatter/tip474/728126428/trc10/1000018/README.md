@@ -8,7 +8,6 @@ name: TWX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-icon: icon.png
 color: "#242536"
 icons:
   - icon.png

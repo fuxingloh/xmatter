@@ -8,7 +8,6 @@ name: Schain Wallet
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#06aff8"
 icons:
   - icon.png

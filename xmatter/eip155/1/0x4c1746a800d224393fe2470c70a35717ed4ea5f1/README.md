@@ -12,7 +12,6 @@ name: Plume
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fb3c04"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Strike USDT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e0e9fb"
 icons:
   - icon.png

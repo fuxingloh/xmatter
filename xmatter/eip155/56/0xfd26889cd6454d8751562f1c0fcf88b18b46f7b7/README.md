@@ -18,7 +18,6 @@ name: DRUGS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#5d5b86"
 icons:
   - icon.png

@@ -18,7 +18,6 @@ name: PolyPlay
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dddbb0"
 icons:
   - icon.png

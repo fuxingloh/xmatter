@@ -16,7 +16,6 @@ name: Baby DeFido
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e7e5e9"
 icons:
   - icon.png

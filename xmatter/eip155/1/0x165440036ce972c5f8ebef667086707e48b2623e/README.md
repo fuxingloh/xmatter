@@ -8,7 +8,6 @@ name: UniGraph
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#797bdc"
 icons:
   - icon.png

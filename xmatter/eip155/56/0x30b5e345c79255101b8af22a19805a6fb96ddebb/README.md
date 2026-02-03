@@ -14,7 +14,6 @@ name: REV3AL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#291a36"
 icons:
   - icon.png

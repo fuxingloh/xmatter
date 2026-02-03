@@ -6,7 +6,6 @@ name: Bitcoin Card
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#077a07"
 icons:
   - icon.png

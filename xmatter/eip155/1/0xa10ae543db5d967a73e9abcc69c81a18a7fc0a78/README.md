@@ -8,7 +8,6 @@ name: BLOCKCLOUT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#060b0f"
 icons:
   - icon.png

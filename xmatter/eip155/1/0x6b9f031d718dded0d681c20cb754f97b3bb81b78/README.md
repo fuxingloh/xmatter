@@ -14,7 +14,6 @@ name: Geeq
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fafafb"
 icons:
   - icon.png

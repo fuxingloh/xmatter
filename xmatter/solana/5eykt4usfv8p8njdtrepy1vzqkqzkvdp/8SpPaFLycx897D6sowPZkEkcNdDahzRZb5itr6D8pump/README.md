@@ -12,7 +12,6 @@ name: Lea AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#d7d4d3"
 icons:
   - icon.png

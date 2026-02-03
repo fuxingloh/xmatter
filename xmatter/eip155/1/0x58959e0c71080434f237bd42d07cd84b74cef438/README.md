@@ -8,7 +8,6 @@ name: Tesra AI Supernet
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2d95d0"
 icons:
   - icon.png

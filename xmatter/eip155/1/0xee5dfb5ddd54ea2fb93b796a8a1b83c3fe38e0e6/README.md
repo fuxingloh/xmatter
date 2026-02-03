@@ -8,7 +8,6 @@ name: Nerves
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2f7eb6"
 icons:
   - icon.png

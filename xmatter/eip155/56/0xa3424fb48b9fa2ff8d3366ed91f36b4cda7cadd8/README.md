@@ -8,7 +8,6 @@ name: Vacay
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d7a537"
 icons:
   - icon.png

@@ -6,7 +6,6 @@ name: MedicCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-icon: icon.png
 color: "#de1d06"
 icons:
   - icon.png

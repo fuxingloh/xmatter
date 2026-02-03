@@ -8,7 +8,6 @@ name: Amino Intelligent Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#686868"
 icons:
   - icon.png

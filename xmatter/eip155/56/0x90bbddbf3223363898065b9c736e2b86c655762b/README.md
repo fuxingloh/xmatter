@@ -14,7 +14,6 @@ name: Wrapped BELDEX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#eff7f1"
 icons:
   - icon.png

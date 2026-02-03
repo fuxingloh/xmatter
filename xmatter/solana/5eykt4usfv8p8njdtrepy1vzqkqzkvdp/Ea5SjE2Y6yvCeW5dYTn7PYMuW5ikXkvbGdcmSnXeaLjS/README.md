@@ -12,7 +12,6 @@ name: Parrot USD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#2bd3a2"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: TOP Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ecd45c"
 icons:
   - icon.png

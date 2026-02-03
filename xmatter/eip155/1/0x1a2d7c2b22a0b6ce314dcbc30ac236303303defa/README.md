@@ -6,7 +6,6 @@ name: IDRT Wrapper
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#b93f36"
 icons:
   - icon.png

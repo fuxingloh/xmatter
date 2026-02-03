@@ -12,7 +12,6 @@ name: Stool Prisondente
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#73685b"
 icons:
   - icon.png

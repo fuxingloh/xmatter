@@ -16,7 +16,6 @@ name: Mafagafo NFT Game
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#6d29f6"
 icons:
   - icon.png

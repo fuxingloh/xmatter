@@ -12,7 +12,6 @@ name: Vibe Cat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#a48a7f"
 icons:
   - icon.png

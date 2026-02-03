@@ -10,7 +10,6 @@ name: GuessIT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#2a9245"
 icons:
   - icon.png

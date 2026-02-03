@@ -6,7 +6,6 @@ name: Bitgene Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e7543f"
 icons:
   - icon.png

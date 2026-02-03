@@ -6,7 +6,6 @@ name: BCShareS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#070d10"
 icons:
   - icon.png

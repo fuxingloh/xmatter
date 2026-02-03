@@ -8,7 +8,6 @@ name: ETH Min Volatility Set
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#eca508"
 icons:
   - icon.png

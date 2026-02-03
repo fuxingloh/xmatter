@@ -8,7 +8,6 @@ name: Chihuahua Army
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#291c23"
 icons:
   - icon.png

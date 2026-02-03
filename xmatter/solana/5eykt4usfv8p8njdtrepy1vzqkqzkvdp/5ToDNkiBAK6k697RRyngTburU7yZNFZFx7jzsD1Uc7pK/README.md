@@ -15,7 +15,6 @@ name: NPC Solana
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#040505"
 icons:
   - icon.png

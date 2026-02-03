@@ -10,7 +10,6 @@ name: PUPS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#e2c2b0"
 icons:
   - icon.png

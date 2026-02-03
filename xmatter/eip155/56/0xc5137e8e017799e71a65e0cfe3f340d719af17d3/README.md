@@ -8,7 +8,6 @@ name: ETHb
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e7b014"
 icons:
   - icon.png

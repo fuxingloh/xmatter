@@ -16,7 +16,6 @@ name: Coin of Champions
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#daeb06"
 icons:
   - icon.png

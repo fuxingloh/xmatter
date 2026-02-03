@@ -12,7 +12,6 @@ name: SADANT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#71abdf"
 icons:
   - icon.png

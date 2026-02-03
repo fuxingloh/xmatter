@@ -14,7 +14,6 @@ name: Broadcom (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fbd4d5"
 icons:
   - icon.png

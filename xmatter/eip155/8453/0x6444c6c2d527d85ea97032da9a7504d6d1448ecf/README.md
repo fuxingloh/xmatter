@@ -16,7 +16,6 @@ name: Ratio1
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1c44f4"
 icons:
   - icon.png

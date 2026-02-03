@@ -12,7 +12,6 @@ name: Baby Floki Doge Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#267cca"
 icons:
   - icon.png

@@ -16,7 +16,6 @@ name: Bonk
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#ed950b"
 icons:
   - icon.png

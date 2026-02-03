@@ -10,7 +10,6 @@ name: BNB pegged Celer Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#090909"
 icons:
   - icon.png

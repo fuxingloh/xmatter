@@ -12,7 +12,6 @@ name: MOC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0ed0c0"
 icons:
   - icon.png

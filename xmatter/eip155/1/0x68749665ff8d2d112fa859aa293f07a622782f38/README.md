@@ -12,7 +12,6 @@ name: Tether Gold
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#e5ca89"
 icons:
   - icon.svg

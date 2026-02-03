@@ -14,7 +14,6 @@ name: ForeverFOMO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0c3837"
 icons:
   - icon.png

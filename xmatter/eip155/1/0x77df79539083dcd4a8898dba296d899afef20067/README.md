@@ -8,7 +8,6 @@ name: ArtemProtocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0c0404"
 icons:
   - icon.png

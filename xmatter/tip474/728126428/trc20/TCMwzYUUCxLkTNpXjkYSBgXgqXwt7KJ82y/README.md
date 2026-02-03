@@ -23,7 +23,6 @@ name: TTCOIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-icon: icon.png
 color: "#b2b1b1"
 icons:
   - icon.png

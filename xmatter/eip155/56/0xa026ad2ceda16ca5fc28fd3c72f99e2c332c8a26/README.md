@@ -16,7 +16,6 @@ name: XCAD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#eb2857"
 icons:
   - icon.png

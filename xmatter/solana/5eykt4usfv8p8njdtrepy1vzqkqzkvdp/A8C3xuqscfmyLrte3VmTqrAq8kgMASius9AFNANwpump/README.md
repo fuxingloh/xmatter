@@ -12,7 +12,6 @@ name: FWOG
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#50a04f"
 icons:
   - icon.png

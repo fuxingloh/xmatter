@@ -10,7 +10,6 @@ name: HARAMBE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#cbd0d2"
 icons:
   - icon.png

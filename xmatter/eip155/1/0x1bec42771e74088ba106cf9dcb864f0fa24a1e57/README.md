@@ -6,7 +6,6 @@ name: LHC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#abcc23"
 icons:
   - icon.png

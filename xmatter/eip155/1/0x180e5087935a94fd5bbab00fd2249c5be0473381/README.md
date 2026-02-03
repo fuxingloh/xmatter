@@ -6,7 +6,6 @@ name: ZCashGOLD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d2bc04"
 icons:
   - icon.png

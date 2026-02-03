@@ -8,7 +8,6 @@ name: Dog Owner
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d7ba61"
 icons:
   - icon.png

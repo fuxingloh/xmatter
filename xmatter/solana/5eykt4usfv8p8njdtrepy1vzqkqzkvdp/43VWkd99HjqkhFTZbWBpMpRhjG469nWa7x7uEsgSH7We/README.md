@@ -8,7 +8,6 @@ name: Stonks
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#2b2a2c"
 icons:
   - icon.png

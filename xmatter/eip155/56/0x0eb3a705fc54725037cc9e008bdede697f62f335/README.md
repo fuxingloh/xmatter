@@ -10,7 +10,6 @@ name: BNB pegged Cosmos Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#293048"
 icons:
   - icon.png

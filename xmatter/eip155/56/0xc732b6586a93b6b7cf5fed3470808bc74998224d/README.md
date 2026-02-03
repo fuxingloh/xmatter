@@ -28,7 +28,6 @@ name: KmonCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f028b0"
 icons:
   - icon.png

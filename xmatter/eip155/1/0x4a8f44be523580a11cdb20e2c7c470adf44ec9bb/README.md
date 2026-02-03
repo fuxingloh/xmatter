@@ -6,7 +6,6 @@ name: MinerCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#183799"
 icons:
   - icon.png

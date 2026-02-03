@@ -14,7 +14,6 @@ name: UKA DOGE COIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f1ba15"
 icons:
   - icon.png

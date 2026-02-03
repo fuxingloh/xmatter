@@ -8,7 +8,6 @@ name: Bethereum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#5b33b4"
 icons:
   - icon.png

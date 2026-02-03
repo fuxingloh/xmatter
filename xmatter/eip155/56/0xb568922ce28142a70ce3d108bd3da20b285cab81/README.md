@@ -10,7 +10,6 @@ name: Jamal the Camel
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c8a670"
 icons:
   - icon.png

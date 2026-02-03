@@ -10,7 +10,6 @@ name: TRUMP COIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#decfac"
 icons:
   - icon.png

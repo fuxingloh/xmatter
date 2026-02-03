@@ -14,7 +14,6 @@ name: Arena Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c39b5c"
 icons:
   - icon.png

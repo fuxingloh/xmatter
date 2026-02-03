@@ -16,7 +16,6 @@ name: Doogle
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#d9b22f"
 icons:
   - icon.png

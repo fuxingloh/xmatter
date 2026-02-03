@@ -14,7 +14,6 @@ name: miniShibaToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f3c17c"
 icons:
   - icon.png

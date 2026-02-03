@@ -8,7 +8,6 @@ name: HAMSTER
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#de9630"
 icons:
   - icon.png

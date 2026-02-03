@@ -8,7 +8,6 @@ name: Blockcloud
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fad114"
 icons:
   - icon.png

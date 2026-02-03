@@ -18,7 +18,6 @@ name: Square Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#4491c1"
 icons:
   - icon.png

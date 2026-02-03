@@ -18,7 +18,6 @@ name: BONE SHIBASWAP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d53a20"
 icons:
   - icon.png

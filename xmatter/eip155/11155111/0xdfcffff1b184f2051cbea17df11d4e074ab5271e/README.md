@@ -10,7 +10,6 @@ links:
     url: "https://x.com/https://x.com/blocklords"
 symbol: LRDS
 decimals: 18
-icon: icon.svg
 color: "#161414"
 icons:
   - icon.svg

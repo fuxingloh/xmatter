@@ -8,7 +8,6 @@ name: Qubitica
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#205078"
 icons:
   - icon.png

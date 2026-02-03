@@ -12,7 +12,6 @@ name: CROWN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#3a827a"
 icons:
   - icon.png

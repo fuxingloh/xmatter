@@ -16,7 +16,6 @@ name: Solnic
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#2069d6"
 icons:
   - icon.png

@@ -16,7 +16,6 @@ name: FOMO BABY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#184643"
 icons:
   - icon.png

@@ -10,7 +10,6 @@ name: UST (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#5690ee"
 icons:
   - icon.png

@@ -12,7 +12,6 @@ name: Oracle AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#403e73"
 icons:
   - icon.png

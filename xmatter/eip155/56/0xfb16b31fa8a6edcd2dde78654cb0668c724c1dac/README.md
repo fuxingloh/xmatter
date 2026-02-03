@@ -25,7 +25,6 @@ name: SafePokeman Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#b0b2b5"
 icons:
   - icon.png

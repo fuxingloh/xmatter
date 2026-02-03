@@ -16,7 +16,6 @@ name: Hero Floki
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d56559"
 icons:
   - icon.png

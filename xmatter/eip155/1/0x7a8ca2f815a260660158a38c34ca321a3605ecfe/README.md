@@ -8,7 +8,6 @@ name: BizzCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dbbc6a"
 icons:
   - icon.png

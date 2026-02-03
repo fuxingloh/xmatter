@@ -12,7 +12,6 @@ name: Fuck Eth
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#131313"
 icons:
   - icon.png

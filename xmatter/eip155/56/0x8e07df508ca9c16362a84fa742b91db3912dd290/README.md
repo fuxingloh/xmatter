@@ -8,7 +8,6 @@ name: NST Starter
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0862d2"
 icons:
   - icon.png

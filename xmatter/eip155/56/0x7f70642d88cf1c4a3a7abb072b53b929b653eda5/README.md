@@ -8,7 +8,6 @@ name: BNB pegged YFII.finance Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ed2c76"
 icons:
   - icon.png

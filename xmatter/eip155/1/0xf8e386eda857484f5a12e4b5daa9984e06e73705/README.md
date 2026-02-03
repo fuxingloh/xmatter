@@ -8,7 +8,6 @@ name: Indorse Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#a091fc"
 icons:
   - icon.png

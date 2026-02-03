@@ -12,7 +12,6 @@ name: Moon Maker Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1c1d1d"
 icons:
   - icon.png

@@ -20,7 +20,6 @@ name: Santa Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ecb546"
 icons:
   - icon.png

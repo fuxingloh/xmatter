@@ -6,7 +6,6 @@ name: HANbBEAsset
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f0a621"
 icons:
   - icon.png

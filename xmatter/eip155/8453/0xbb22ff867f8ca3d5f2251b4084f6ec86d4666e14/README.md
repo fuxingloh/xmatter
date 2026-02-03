@@ -12,7 +12,6 @@ name: Cryptex
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#1d1c3e"
 icons:
   - icon.svg

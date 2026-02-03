@@ -10,7 +10,6 @@ name: Kitten Haimer
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#38312f"
 icons:
   - icon.png

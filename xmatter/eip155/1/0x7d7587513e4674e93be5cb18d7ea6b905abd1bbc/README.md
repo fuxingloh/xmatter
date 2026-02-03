@@ -8,7 +8,6 @@ name: DARK Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c83c0e"
 icons:
   - icon.png

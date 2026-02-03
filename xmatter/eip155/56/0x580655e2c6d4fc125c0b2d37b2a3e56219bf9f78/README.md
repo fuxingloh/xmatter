@@ -16,7 +16,6 @@ name: Gallant
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#976922"
 icons:
   - icon.png

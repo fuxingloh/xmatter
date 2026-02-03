@@ -8,7 +8,6 @@ name: Juriseum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#262727"
 icons:
   - icon.png

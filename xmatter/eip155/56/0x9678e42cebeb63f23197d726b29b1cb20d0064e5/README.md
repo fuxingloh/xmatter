@@ -23,7 +23,6 @@ name: BNB pegged IoTeX Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#09b7a9"
 icons:
   - icon.png

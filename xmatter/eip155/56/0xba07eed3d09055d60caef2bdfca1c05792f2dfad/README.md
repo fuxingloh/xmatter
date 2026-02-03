@@ -8,7 +8,6 @@ name: MiniDOGE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ea9ccf"
 icons:
   - icon.png

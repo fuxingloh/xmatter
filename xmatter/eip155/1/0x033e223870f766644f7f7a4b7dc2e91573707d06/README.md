@@ -8,7 +8,6 @@ name: ZinFinance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#149c94"
 icons:
   - icon.png

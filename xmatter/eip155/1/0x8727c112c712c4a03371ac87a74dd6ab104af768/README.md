@@ -8,7 +8,6 @@ name: Jetcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#9b6736"
 icons:
   - icon.png

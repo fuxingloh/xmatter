@@ -8,7 +8,6 @@ name: Datum Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2c9bdb"
 icons:
   - icon.png

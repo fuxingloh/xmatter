@@ -10,7 +10,6 @@ name: DogDefiCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#142444"
 icons:
   - icon.png

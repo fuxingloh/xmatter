@@ -8,7 +8,6 @@ name: AiLink Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#081f6f"
 icons:
   - icon.png

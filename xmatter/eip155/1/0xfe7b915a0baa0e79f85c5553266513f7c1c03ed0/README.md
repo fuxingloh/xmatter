@@ -8,7 +8,6 @@ name: THUG LIFE Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#eeba4b"
 icons:
   - icon.png

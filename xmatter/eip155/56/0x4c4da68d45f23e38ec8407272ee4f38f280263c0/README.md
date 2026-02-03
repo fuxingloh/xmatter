@@ -16,7 +16,6 @@ name: Panda Girl
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#4f652c"
 icons:
   - icon.png

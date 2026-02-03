@@ -14,7 +14,6 @@ name: Loom Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#231c23"
 icons:
   - icon.png

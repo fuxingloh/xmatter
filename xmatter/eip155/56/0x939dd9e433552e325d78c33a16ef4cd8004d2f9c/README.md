@@ -12,7 +12,6 @@ name: SpaceN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#faae42"
 icons:
   - icon.png

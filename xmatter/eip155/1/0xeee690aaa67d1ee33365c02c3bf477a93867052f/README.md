@@ -8,7 +8,6 @@ name: HappyPay
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f5990b"
 icons:
   - icon.png

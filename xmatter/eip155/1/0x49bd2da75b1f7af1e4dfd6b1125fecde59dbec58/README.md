@@ -6,7 +6,6 @@ name: Linkey Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#5c1419"
 icons:
   - icon.png

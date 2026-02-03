@@ -6,7 +6,6 @@ name: VTrust
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#eff0ef"
 icons:
   - icon.png

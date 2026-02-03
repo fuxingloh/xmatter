@@ -8,7 +8,6 @@ name: GrafenoCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-icon: icon.png
 color: "#c4a01b"
 icons:
   - icon.png

@@ -16,7 +16,6 @@ name: Autoshark
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#5cb5c6"
 icons:
   - icon.png

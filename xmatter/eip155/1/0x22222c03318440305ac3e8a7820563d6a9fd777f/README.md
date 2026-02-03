@@ -10,7 +10,6 @@ name: Clover
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0a4006"
 icons:
   - icon.png

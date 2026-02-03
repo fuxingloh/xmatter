@@ -24,7 +24,6 @@ name: vEmpire DDAO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#6ad992"
 icons:
   - icon.png

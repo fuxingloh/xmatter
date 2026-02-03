@@ -8,7 +8,6 @@ name: CREDIT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#100f08"
 icons:
   - icon.png

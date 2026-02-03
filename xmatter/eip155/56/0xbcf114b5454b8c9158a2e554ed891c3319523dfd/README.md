@@ -10,7 +10,6 @@ name: BIRD DOG
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#252221"
 icons:
   - icon.png

@@ -20,7 +20,6 @@ name: ATOR Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#04b3c3"
 icons:
   - icon.png

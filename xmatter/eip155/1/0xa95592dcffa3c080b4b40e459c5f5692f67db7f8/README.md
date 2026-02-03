@@ -8,7 +8,6 @@ name: Elycoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#253880"
 icons:
   - icon.png

@@ -22,7 +22,6 @@ name: MSQUARE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#384098"
 icons:
   - icon.png

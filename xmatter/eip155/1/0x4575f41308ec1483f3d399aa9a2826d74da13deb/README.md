@@ -8,7 +8,6 @@ name: Orchid
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#5c44bc"
 icons:
   - icon.png

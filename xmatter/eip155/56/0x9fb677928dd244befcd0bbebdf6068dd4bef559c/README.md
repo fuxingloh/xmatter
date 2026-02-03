@@ -8,7 +8,6 @@ name: BelaAqua
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cbd0d9"
 icons:
   - icon.png

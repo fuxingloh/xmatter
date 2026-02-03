@@ -10,7 +10,6 @@ name: Allah yaghneek
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#aaa08a"
 icons:
   - icon.png

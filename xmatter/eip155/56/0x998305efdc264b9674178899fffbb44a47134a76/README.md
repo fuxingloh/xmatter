@@ -12,7 +12,6 @@ name: Gaimin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e4c278"
 icons:
   - icon.png

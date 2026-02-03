@@ -8,7 +8,6 @@ name: DYX Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fbe2f3"
 icons:
   - icon.png

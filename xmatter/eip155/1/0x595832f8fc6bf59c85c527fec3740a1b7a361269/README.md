@@ -8,7 +8,6 @@ name: Power Ledger
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#21b5a5"
 icons:
   - icon.png

@@ -22,7 +22,6 @@ name: Rimaunangis
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#b17719"
 icons:
   - icon.png

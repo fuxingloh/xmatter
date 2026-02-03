@@ -8,7 +8,6 @@ name: Coindy
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ef7e24"
 icons:
   - icon.png

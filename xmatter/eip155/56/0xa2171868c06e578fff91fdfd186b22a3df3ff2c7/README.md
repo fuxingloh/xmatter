@@ -14,7 +14,6 @@ name: ai21x
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#261f31"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: SafeLight
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fccc1c"
 icons:
   - icon.png

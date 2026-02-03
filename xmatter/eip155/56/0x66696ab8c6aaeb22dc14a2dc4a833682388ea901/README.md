@@ -8,7 +8,6 @@ name: BongWeedCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c5cf08"
 icons:
   - icon.png

@@ -6,7 +6,6 @@ name: SAL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d33138"
 icons:
   - icon.png

@@ -12,7 +12,6 @@ name: Binamon Energy
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0497d4"
 icons:
   - icon.png

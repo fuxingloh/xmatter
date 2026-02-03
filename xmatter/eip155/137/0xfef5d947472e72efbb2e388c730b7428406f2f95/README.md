@@ -12,7 +12,6 @@ name: Autonolas
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f2eafb"
 icons:
   - icon.png

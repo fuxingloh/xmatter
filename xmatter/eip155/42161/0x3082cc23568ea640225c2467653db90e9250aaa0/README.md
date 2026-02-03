@@ -18,7 +18,6 @@ name: Radiant
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#18c2bd"
 icons:
   - icon.png

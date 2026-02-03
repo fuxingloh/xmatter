@@ -15,7 +15,6 @@ name: The 4th Pillar Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#bcbcbc"
 icons:
   - icon.png

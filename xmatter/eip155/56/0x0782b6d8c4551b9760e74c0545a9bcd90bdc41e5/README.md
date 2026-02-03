@@ -14,7 +14,6 @@ name: Lista USD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1c1c8c"
 icons:
   - icon.png

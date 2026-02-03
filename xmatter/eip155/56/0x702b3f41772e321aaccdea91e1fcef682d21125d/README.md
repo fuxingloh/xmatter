@@ -8,7 +8,6 @@ name: PinkSwap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fcecf3"
 icons:
   - icon.png

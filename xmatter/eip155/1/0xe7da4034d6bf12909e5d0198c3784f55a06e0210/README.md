@@ -6,7 +6,6 @@ name: Cash on Delivery
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#faca04"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Diamoons
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#5173b9"
 icons:
   - icon.png

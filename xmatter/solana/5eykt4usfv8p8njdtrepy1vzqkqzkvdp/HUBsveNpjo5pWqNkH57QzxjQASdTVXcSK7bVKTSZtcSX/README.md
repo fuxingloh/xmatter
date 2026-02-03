@@ -12,7 +12,6 @@ name: SolanaHub staked SOL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#9616ef"
 icons:
   - icon.png

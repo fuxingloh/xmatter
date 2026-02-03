@@ -8,7 +8,6 @@ name: BoxerInu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fabc97"
 icons:
   - icon.png

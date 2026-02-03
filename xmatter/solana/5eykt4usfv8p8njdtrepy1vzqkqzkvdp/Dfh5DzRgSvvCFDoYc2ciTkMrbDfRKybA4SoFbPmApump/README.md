@@ -12,7 +12,6 @@ name: Pippin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#edfafb"
 icons:
   - icon.png

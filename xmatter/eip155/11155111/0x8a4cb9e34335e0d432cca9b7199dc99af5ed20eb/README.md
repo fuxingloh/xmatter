@@ -10,7 +10,6 @@ links:
     url: "https://x.com/ICN_Protocol"
 symbol: ICNT
 decimals: 18
-icon: icon.svg
 color: "#1c271d"
 icons:
   - icon.svg

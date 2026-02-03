@@ -10,7 +10,6 @@ name: AVAX (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e74245"
 icons:
   - icon.png

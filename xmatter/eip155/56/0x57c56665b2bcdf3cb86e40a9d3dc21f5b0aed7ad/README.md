@@ -8,7 +8,6 @@ name: EverMars
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d62506"
 icons:
   - icon.png

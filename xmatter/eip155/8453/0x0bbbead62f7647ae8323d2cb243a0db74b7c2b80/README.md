@@ -28,7 +28,6 @@ name: Ambire Wallet
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#791cf8"
 icons:
   - icon.svg

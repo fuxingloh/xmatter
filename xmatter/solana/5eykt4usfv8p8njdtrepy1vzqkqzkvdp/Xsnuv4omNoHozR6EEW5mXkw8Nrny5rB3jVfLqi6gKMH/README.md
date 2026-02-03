@@ -14,7 +14,6 @@ name: Eli Lilly tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#ec1b23"
 icons:
   - icon.png

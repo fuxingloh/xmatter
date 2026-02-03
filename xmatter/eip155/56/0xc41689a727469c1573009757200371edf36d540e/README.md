@@ -16,7 +16,6 @@ name: Dynamix
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fcad08"
 icons:
   - icon.png

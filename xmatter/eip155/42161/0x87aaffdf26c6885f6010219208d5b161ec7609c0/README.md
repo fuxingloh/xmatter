@@ -14,7 +14,6 @@ name: Equation
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#151613"
 icons:
   - icon.png

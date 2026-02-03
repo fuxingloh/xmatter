@@ -6,7 +6,6 @@ name: Hash Power Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#142c84"
 icons:
   - icon.png

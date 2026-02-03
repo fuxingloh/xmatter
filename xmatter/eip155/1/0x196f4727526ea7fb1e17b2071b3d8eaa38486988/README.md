@@ -10,7 +10,6 @@ name: Reserve
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e0e0e1"
 icons:
   - icon.png

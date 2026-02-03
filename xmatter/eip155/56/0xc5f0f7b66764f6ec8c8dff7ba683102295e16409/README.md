@@ -16,7 +16,6 @@ name: First Digital USD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#07ec8d"
 icons:
   - icon.png

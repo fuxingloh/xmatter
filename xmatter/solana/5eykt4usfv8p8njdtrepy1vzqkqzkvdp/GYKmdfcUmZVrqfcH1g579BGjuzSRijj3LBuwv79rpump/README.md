@@ -12,7 +12,6 @@ name: wrapped dog
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#b6ae9c"
 icons:
   - icon.png

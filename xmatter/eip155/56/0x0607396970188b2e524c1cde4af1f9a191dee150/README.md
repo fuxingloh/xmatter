@@ -8,7 +8,6 @@ name: Sierra
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ca9850"
 icons:
   - icon.png

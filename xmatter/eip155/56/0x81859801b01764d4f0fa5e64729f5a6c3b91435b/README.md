@@ -16,7 +16,6 @@ name: bearn.fi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1b1b1c"
 icons:
   - icon.png

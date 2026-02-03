@@ -23,7 +23,6 @@ name: Celsius
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#4354a4"
 icons:
   - icon.png

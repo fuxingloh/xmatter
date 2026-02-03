@@ -8,7 +8,6 @@ name: BEVO NFT Art Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#aeaeae"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: xDai
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#48a9a6"
 icons:
   - icon.png

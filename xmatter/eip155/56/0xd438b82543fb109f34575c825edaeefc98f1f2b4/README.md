@@ -10,7 +10,6 @@ name: IceCream AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cda8a7"
 icons:
   - icon.png

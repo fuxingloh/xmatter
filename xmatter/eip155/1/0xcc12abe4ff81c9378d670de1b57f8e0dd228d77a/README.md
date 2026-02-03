@@ -8,7 +8,6 @@ name: Aave REN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#b188b8"
 icons:
   - icon.png

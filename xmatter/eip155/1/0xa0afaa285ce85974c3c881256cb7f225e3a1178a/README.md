@@ -8,7 +8,6 @@ name: Wrapped CrescoFin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dbe2e7"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: AERO SWAP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f3b61e"
 icons:
   - icon.png

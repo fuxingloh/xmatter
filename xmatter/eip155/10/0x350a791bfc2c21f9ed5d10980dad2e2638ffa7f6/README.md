@@ -14,7 +14,6 @@ name: ChainLink
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.png
 color: "#335cd3"
 icons:
   - icon.png

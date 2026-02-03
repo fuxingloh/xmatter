@@ -8,7 +8,6 @@ name: AppCoins
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#eaf8f9"
 icons:
   - icon.png

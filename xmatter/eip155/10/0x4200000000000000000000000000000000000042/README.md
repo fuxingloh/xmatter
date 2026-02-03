@@ -16,7 +16,6 @@ name: Optimism
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.png
 color: "#fc0424"
 icons:
   - icon.png

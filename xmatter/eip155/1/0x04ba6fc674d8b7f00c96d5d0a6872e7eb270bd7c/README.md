@@ -8,7 +8,6 @@ name: CRO Decentralized Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1067af"
 icons:
   - icon.png

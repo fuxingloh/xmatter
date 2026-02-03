@@ -12,7 +12,6 @@ name: Dinero
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0b1619"
 icons:
   - icon.png

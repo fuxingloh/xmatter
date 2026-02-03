@@ -8,7 +8,6 @@ name: Diamond Cash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e4c591"
 icons:
   - icon.png

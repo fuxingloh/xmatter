@@ -6,7 +6,6 @@ name: Jahcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c8bf92"
 icons:
   - icon.png

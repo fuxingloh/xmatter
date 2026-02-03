@@ -6,7 +6,6 @@ name: Veritoken Security Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#04b3e3"
 icons:
   - icon.png

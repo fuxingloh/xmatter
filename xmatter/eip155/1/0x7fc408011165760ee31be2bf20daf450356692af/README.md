@@ -6,7 +6,6 @@ name: Mitrav
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#8c2521"
 icons:
   - icon.png

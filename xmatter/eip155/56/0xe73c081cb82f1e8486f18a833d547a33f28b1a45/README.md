@@ -16,7 +16,6 @@ name: JGB Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#196791"
 icons:
   - icon.png

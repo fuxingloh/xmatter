@@ -12,7 +12,6 @@ name: Hacken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#67eac1"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: FNX Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#5c3194"
 icons:
   - icon.png

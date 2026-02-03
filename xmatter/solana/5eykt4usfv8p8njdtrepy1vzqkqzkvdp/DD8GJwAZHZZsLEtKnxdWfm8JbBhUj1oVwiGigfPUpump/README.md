@@ -10,7 +10,6 @@ name: CGAI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#1c8cd3"
 icons:
   - icon.png

@@ -18,7 +18,6 @@ name: DOGEDI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e7bc87"
 icons:
   - icon.png

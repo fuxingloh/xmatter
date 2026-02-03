@@ -8,7 +8,6 @@ name: World of Whales
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#32a3dc"
 icons:
   - icon.png

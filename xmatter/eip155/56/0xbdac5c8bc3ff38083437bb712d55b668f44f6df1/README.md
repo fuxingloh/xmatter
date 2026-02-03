@@ -14,7 +14,6 @@ name: Simargl Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ed9528"
 icons:
   - icon.png

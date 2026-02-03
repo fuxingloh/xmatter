@@ -12,7 +12,6 @@ name: DJCAT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#8a8482"
 icons:
   - icon.png

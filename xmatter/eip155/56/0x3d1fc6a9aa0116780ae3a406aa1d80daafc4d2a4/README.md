@@ -8,7 +8,6 @@ name: Z Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#201820"
 icons:
   - icon.png

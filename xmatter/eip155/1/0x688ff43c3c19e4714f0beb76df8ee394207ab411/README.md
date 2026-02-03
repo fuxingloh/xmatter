@@ -8,7 +8,6 @@ name: RoboAi Coin R2R
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dc650f"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: smartshare token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#645cf4"
 icons:
   - icon.png

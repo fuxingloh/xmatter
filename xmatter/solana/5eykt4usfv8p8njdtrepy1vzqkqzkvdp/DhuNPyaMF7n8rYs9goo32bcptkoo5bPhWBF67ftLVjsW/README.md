@@ -12,7 +12,6 @@ name: TDM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#a529bc"
 icons:
   - icon.png

@@ -14,7 +14,6 @@ name: REAL IMPACT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0b0c0b"
 icons:
   - icon.png

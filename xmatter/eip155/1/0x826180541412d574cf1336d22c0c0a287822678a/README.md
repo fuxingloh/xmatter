@@ -12,7 +12,6 @@ name: Chainflip
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#131918"
 icons:
   - icon.png

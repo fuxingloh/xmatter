@@ -8,7 +8,6 @@ name: XRP CLASSIC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#faf6e9"
 icons:
   - icon.png

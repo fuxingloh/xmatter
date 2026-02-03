@@ -10,7 +10,6 @@ name: FAFO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#181419"
 icons:
   - icon.png

@@ -10,7 +10,6 @@ links:
     url: "https://x.com/bobanetwork"
 symbol: BOBA
 decimals: 18
-icon: icon.svg
 color: "#5f6f3f"
 icons:
   - icon.svg

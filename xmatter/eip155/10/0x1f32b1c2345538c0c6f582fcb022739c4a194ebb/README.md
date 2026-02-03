@@ -12,7 +12,6 @@ name: Wrapped liquid staked Ether 2.0
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#a0ddfc"
 icons:
   - icon.svg

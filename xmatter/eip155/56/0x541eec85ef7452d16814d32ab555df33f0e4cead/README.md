@@ -10,7 +10,6 @@ name: Biao
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f3bb0c"
 icons:
   - icon.png

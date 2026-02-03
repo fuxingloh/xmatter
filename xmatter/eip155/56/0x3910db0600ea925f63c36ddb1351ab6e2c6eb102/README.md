@@ -8,7 +8,6 @@ name: Spartan Protocol Token V2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fb2414"
 icons:
   - icon.png

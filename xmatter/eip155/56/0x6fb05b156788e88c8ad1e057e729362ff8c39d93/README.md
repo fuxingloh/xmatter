@@ -8,7 +8,6 @@ name: Aircoins
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1f1f1e"
 icons:
   - icon.png

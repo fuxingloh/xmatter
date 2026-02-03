@@ -8,7 +8,6 @@ name: POWERBANK
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f4e4c8"
 icons:
   - icon.png

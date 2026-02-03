@@ -8,7 +8,6 @@ name: RoBET - Truly Decentralized Sportsbetting
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c5ddea"
 icons:
   - icon.png

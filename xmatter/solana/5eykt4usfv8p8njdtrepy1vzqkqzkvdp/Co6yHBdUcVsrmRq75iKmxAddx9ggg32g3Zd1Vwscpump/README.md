@@ -8,7 +8,6 @@ name: AI Penis
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#1e1d22"
 icons:
   - icon.png

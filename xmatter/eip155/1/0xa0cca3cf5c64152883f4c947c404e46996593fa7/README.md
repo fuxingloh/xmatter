@@ -8,7 +8,6 @@ name: BRAPPER
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ed3047"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: OWGaming
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2c0e37"
 icons:
   - icon.png

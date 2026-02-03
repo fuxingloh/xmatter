@@ -18,7 +18,6 @@ name: CRIR MSH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0e58e4"
 icons:
   - icon.png

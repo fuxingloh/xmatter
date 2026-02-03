@@ -10,7 +10,6 @@ name: Towns
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#8434e4"
 icons:
   - icon.svg

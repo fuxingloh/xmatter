@@ -10,7 +10,6 @@ name: Justin Sun's Peacock
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-icon: icon.png
 color: "#5986df"
 icons:
   - icon.png

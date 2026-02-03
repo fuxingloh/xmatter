@@ -8,7 +8,6 @@ name: IOT on Chain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#04182b"
 icons:
   - icon.png

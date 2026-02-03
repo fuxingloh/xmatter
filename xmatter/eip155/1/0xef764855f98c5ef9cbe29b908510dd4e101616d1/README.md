@@ -6,7 +6,6 @@ name: FIRA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f3f3f2"
 icons:
   - icon.png

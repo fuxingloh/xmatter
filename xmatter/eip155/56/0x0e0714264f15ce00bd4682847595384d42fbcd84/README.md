@@ -8,7 +8,6 @@ name: MoonBull
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e47366"
 icons:
   - icon.png

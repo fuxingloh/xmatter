@@ -15,7 +15,6 @@ name: Wrapped Medtronic Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2463c3"
 icons:
   - icon.png

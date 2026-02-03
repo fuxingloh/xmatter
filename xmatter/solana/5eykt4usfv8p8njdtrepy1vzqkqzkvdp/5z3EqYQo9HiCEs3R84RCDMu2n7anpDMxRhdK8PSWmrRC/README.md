@@ -12,7 +12,6 @@ name: PONKE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#f7b20b"
 icons:
   - icon.png

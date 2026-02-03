@@ -14,7 +14,6 @@ name: UnitedHealth tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#1d4583"
 icons:
   - icon.png

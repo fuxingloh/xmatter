@@ -12,7 +12,6 @@ name: Amulet
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#6a9bdd"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: SIRIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2c2b2c"
 icons:
   - icon.png

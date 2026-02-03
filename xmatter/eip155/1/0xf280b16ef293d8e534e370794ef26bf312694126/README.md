@@ -12,7 +12,6 @@ name: Asteroid Shiba
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#202834"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Reference System for DeFi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#042454"
 icons:
   - icon.png

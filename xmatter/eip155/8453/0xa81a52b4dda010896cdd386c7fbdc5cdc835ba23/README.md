@@ -10,7 +10,6 @@ name: Trace Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.png
 color: "#6344db"
 icons:
   - icon.png

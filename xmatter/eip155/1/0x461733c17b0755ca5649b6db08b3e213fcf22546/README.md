@@ -8,7 +8,6 @@ name: ATN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#252323"
 icons:
   - icon.png

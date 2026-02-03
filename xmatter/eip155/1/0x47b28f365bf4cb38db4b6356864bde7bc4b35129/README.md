@@ -8,7 +8,6 @@ name: FNB Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#7fc2af"
 icons:
   - icon.png

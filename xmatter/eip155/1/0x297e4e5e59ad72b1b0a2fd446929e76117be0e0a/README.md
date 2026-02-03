@@ -8,7 +8,6 @@ name: ValorToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ec4324"
 icons:
   - icon.png

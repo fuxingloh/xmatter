@@ -14,7 +14,6 @@ name: Make Europe Great Again
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#341c17"
 icons:
   - icon.png

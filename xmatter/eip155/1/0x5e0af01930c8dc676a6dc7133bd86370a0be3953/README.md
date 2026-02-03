@@ -6,7 +6,6 @@ name: Touch. Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1ca9b4"
 icons:
   - icon.png

@@ -22,7 +22,6 @@ name: Mento Euro
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#550fc4"
 icons:
   - icon.png

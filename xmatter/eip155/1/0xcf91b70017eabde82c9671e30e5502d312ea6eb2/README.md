@@ -10,7 +10,6 @@ name: I love puppies
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e2dbc9"
 icons:
   - icon.png

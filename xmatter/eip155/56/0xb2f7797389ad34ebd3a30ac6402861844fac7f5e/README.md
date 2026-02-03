@@ -8,7 +8,6 @@ name: Сhord Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d3b393"
 icons:
   - icon.png

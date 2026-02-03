@@ -6,7 +6,6 @@ name: LovelyBonz
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d7dae3"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: DoggyInu Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e1a530"
 icons:
   - icon.png

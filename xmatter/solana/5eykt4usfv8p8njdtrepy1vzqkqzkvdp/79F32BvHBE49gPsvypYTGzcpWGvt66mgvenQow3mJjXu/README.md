@@ -10,7 +10,6 @@ name: CorgiAI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#faf5ea"
 icons:
   - icon.png

@@ -6,7 +6,6 @@ name: Groundcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#b59a5e"
 icons:
   - icon.png

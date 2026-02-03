@@ -8,7 +8,6 @@ name: Foundry Logistics Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#9c044a"
 icons:
   - icon.png

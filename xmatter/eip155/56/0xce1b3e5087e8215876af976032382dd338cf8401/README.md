@@ -24,7 +24,6 @@ name: Thoreum V4 (Thoreum.AI)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d3ac62"
 icons:
   - icon.png

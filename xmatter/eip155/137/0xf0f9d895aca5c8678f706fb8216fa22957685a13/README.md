@@ -20,7 +20,6 @@ name: Revolt 2 Earn
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f8f0f0"
 icons:
   - icon.png

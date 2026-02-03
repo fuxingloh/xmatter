@@ -8,7 +8,6 @@ name: Crypto Against Cancer Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dfaa43"
 icons:
   - icon.png

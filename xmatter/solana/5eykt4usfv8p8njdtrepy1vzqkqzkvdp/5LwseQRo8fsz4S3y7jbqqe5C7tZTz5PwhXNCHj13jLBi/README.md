@@ -10,7 +10,6 @@ name: PESHI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#f9bb62"
 icons:
   - icon.png

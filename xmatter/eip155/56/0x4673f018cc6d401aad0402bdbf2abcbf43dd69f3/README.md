@@ -26,7 +26,6 @@ name: French Connection Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2c9c8c"
 icons:
   - icon.png

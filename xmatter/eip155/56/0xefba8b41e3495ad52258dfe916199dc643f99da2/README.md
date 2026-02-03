@@ -8,7 +8,6 @@ name: SWASS.Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#444c4b"
 icons:
   - icon.png

@@ -14,7 +14,6 @@ name: Moon Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#4f502c"
 icons:
   - icon.png

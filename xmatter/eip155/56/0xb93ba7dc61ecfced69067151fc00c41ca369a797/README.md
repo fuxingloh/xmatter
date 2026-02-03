@@ -10,7 +10,6 @@ name: WenMoon Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d7d9da"
 icons:
   - icon.png

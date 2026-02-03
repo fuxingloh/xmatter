@@ -8,7 +8,6 @@ name: MOON BEE Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c5b351"
 icons:
   - icon.png

@@ -6,7 +6,6 @@ name: Justswap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#444bdc"
 icons:
   - icon.png

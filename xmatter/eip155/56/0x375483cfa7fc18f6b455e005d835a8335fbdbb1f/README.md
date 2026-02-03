@@ -12,7 +12,6 @@ name: Eclipse
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#252c4c"
 icons:
   - icon.png

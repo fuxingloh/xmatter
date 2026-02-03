@@ -12,7 +12,6 @@ name: Zebec
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#2b2c5b"
 icons:
   - icon.png

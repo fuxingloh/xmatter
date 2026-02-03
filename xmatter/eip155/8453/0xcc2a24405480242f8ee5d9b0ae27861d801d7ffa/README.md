@@ -10,7 +10,6 @@ name: OpenX Optimism
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#059abc"
 icons:
   - icon.svg

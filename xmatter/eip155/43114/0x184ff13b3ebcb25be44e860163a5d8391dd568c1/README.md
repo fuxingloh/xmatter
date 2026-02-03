@@ -12,7 +12,6 @@ name: KIMBO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e96e43"
 icons:
   - icon.png

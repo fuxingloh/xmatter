@@ -6,7 +6,6 @@ name: BX2019
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#495060"
 icons:
   - icon.png

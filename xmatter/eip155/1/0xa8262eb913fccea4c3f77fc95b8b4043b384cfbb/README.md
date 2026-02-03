@@ -8,7 +8,6 @@ name: Krypton
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#22e2a7"
 icons:
   - icon.png

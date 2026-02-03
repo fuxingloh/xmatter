@@ -14,7 +14,6 @@ name: OPEN tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#1c84eb"
 icons:
   - icon.png

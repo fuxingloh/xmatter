@@ -8,7 +8,6 @@ name: Fusible
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fc1c24"
 icons:
   - icon.png

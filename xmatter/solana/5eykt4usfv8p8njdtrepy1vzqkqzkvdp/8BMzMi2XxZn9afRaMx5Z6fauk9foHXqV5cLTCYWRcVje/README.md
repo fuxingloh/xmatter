@@ -12,7 +12,6 @@ name: Staika
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#fc6404"
 icons:
   - icon.png

@@ -16,7 +16,6 @@ name: OpenSwap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d7546e"
 icons:
   - icon.png

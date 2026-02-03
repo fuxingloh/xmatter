@@ -8,7 +8,6 @@ name: Minds
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#5b595b"
 icons:
   - icon.svg

@@ -8,7 +8,6 @@ name: Theta Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1b1d2d"
 icons:
   - icon.png

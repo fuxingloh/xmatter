@@ -14,7 +14,6 @@ name: Bitkub Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1cb664"
 icons:
   - icon.png

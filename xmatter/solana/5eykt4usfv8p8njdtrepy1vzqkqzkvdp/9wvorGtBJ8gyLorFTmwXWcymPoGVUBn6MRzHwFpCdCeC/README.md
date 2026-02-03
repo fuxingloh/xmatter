@@ -12,7 +12,6 @@ name: Artificial Liquid Intelligence
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#2caae2"
 icons:
   - icon.png

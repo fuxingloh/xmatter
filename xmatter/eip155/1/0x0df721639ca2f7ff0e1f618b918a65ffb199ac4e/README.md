@@ -8,7 +8,6 @@ name: uDOO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#faaa7d"
 icons:
   - icon.png

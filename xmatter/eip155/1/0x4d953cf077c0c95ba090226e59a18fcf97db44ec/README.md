@@ -8,7 +8,6 @@ name: MINI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ab25ac"
 icons:
   - icon.png

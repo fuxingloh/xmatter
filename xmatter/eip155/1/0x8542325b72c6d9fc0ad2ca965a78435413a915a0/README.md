@@ -6,7 +6,6 @@ name: Oyster Shell
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f4a715"
 icons:
   - icon.png

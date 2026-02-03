@@ -8,7 +8,6 @@ name: SparkPoint
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f07736"
 icons:
   - icon.png

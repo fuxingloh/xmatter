@@ -8,7 +8,6 @@ name: Ebakus
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1f0c5c"
 icons:
   - icon.png

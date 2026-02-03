@@ -16,7 +16,6 @@ name: Frutti Dino
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#faca1a"
 icons:
   - icon.png

@@ -14,7 +14,6 @@ name: Futu Holdings (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ccdcf5"
 icons:
   - icon.png

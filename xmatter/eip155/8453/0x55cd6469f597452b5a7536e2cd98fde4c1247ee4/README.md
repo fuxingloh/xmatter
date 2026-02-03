@@ -10,7 +10,6 @@ name: Luna by Virtuals
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e0e2e3"
 icons:
   - icon.png

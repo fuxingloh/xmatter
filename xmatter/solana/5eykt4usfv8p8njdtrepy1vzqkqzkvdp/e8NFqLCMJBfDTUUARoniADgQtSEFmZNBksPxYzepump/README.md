@@ -12,7 +12,6 @@ name: gooch coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#281a2b"
 icons:
   - icon.png

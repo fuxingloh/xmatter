@@ -14,7 +14,6 @@ name: Cranch
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ae93f8"
 icons:
   - icon.png

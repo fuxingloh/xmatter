@@ -14,7 +14,6 @@ name: Baby Bali
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2d2e2f"
 icons:
   - icon.png

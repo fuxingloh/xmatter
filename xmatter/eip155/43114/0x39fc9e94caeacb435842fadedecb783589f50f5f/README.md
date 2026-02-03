@@ -20,7 +20,6 @@ name: Kyber Network Crystal v2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#00b090"
 icons:
   - icon.png

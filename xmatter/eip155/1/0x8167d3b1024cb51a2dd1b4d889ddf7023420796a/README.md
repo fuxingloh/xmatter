@@ -24,7 +24,6 @@ name: NOKU v2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#4b4bf4"
 icons:
   - icon.png

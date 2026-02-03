@@ -16,7 +16,6 @@ name: Parsiq Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#121a36"
 icons:
   - icon.png

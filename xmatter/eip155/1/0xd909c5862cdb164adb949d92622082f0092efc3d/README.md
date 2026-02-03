@@ -10,7 +10,6 @@ name: Interest Protocol
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#d4d4b4"
 icons:
   - icon.svg

@@ -6,7 +6,6 @@ name: zRipple
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ded5d6"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Tokenbox
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e83848"
 icons:
   - icon.png

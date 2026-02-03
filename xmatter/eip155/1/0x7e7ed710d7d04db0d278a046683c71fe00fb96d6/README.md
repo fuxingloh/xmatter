@@ -6,7 +6,6 @@ name: LianPaiToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#05b2fc"
 icons:
   - icon.png

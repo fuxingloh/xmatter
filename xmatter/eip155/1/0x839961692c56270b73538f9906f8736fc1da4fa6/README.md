@@ -8,7 +8,6 @@ name: CHALLENGE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#880e52"
 icons:
   - icon.png

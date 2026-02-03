@@ -8,7 +8,6 @@ name: Content and Ad Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d93030"
 icons:
   - icon.png

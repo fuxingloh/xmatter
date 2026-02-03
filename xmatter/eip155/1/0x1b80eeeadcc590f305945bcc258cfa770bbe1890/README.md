@@ -8,7 +8,6 @@ name: BITSDAQ TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#044b73"
 icons:
   - icon.png

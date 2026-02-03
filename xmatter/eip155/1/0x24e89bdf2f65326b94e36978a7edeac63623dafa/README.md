@@ -12,7 +12,6 @@ name: Tiger King
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d29949"
 icons:
   - icon.png

@@ -12,7 +12,6 @@ name: BRAZA by Virtuals
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#14140c"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: XSwap Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#45fbf3"
 icons:
   - icon.png

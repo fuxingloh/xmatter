@@ -14,7 +14,6 @@ name: LilDogeFloki
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f29e16"
 icons:
   - icon.png

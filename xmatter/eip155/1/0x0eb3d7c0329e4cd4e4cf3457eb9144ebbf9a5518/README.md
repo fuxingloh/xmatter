@@ -6,7 +6,6 @@ name: EQR TEST mg9500
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f9f8f8"
 icons:
   - icon.png

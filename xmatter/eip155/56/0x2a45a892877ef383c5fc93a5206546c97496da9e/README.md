@@ -27,7 +27,6 @@ name: X AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#8c8c8c"
 icons:
   - icon.png

@@ -16,7 +16,6 @@ name: United Stables
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#101011"
 icons:
   - icon.png

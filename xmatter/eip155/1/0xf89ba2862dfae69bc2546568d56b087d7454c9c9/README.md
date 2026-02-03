@@ -6,7 +6,6 @@ name: BaoBoShiCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#efe79d"
 icons:
   - icon.png

@@ -22,7 +22,6 @@ name: RobustSwap Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1b1152"
 icons:
   - icon.png

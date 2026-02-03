@@ -26,7 +26,6 @@ name: bPRIVA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f9ba1a"
 icons:
   - icon.png

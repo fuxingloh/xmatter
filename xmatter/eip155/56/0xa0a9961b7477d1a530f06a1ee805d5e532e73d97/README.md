@@ -16,7 +16,6 @@ name: Ariadne
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#b6f8fa"
 icons:
   - icon.png

@@ -6,7 +6,6 @@ name: XBTC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f96033"
 icons:
   - icon.png

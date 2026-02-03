@@ -12,7 +12,6 @@ name: Pickle Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#14a30c"
 icons:
   - icon.png

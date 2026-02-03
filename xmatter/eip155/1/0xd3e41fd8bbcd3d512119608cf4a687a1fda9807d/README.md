@@ -6,7 +6,6 @@ name: Kapow
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d2d1b8"
 icons:
   - icon.png

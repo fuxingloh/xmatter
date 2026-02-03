@@ -8,7 +8,6 @@ name: PalletOneToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#6970ab"
 icons:
   - icon.png

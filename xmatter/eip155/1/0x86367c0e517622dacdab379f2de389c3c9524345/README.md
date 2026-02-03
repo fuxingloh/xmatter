@@ -18,7 +18,6 @@ name: Universal US Dollar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2645f3"
 icons:
   - icon.png

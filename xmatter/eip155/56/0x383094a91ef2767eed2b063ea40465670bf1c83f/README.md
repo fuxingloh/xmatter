@@ -19,7 +19,6 @@ name: LIMOCOIN SWAP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#5c4526"
 icons:
   - icon.png

@@ -20,7 +20,6 @@ name: Voyager Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#4b4ad6"
 icons:
   - icon.png

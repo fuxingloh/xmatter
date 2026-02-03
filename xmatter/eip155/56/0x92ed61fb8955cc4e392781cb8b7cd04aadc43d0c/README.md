@@ -18,7 +18,6 @@ name: Oggy Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f7c30d"
 icons:
   - icon.png

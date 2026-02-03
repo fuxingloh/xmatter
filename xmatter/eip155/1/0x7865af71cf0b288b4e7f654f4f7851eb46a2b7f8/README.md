@@ -8,7 +8,6 @@ name: Sentivate
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ff0043"
 icons:
   - icon.png

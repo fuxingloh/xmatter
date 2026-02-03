@@ -6,7 +6,6 @@ name: KAMI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#878491"
 icons:
   - icon.png

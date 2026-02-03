@@ -14,7 +14,6 @@ name: McDonald's tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d42c3c"
 icons:
   - icon.png

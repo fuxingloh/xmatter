@@ -8,7 +8,6 @@ name: FEG Wrapped UNI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f60970"
 icons:
   - icon.png

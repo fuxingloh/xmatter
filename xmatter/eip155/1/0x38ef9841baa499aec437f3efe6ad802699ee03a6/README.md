@@ -6,7 +6,6 @@ name: Blockchain Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c19e5f"
 icons:
   - icon.png

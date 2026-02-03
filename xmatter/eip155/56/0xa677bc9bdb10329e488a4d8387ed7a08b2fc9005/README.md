@@ -14,7 +14,6 @@ name: Magic Power Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#5052a2"
 icons:
   - icon.png

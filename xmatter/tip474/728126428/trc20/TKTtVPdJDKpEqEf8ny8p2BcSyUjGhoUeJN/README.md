@@ -12,7 +12,6 @@ name: Companion Pet Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-icon: icon.png
 color: "#d6dcd8"
 icons:
   - icon.png

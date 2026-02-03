@@ -40,7 +40,6 @@ name: Cake Monster
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#afafc7"
 icons:
   - icon.png

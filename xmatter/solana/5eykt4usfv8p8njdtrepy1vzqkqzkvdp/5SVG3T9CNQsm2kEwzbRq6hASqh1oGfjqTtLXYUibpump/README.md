@@ -12,7 +12,6 @@ name: SIGMA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#1c0e0c"
 icons:
   - icon.png

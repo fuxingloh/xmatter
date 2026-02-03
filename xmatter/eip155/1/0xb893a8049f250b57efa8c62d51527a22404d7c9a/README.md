@@ -28,7 +28,6 @@ name: American Shiba (USHIBA)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#debaa7"
 icons:
   - icon.png

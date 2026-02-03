@@ -14,7 +14,6 @@ name: CremePieSwap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#8cdbc3"
 icons:
   - icon.png

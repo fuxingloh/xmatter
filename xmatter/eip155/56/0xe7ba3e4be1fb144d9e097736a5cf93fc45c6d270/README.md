@@ -10,7 +10,6 @@ name: SheepCZ
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c9d3d8"
 icons:
   - icon.png

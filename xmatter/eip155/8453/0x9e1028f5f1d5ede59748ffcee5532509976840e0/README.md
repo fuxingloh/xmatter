@@ -10,7 +10,6 @@ name: Compound
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#04d091"
 icons:
   - icon.svg

@@ -8,7 +8,6 @@ name: Gamesafe.io
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2470b9"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: ChinaInvestmentExchangeToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-icon: icon.png
 color: "#1f49a3"
 icons:
   - icon.png

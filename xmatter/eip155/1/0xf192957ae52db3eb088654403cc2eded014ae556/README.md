@@ -14,7 +14,6 @@ name: Eli Lilly (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d42c1c"
 icons:
   - icon.png

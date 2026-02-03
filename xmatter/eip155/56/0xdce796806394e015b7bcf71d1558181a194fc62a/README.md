@@ -12,7 +12,6 @@ name: MOG PEPE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#47803c"
 icons:
   - icon.png

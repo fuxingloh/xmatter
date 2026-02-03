@@ -10,7 +10,6 @@ name: Graph Token (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#4545af"
 icons:
   - icon.png

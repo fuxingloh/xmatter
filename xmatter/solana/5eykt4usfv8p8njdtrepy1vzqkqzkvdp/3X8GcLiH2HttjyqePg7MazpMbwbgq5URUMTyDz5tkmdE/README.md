@@ -12,7 +12,6 @@ name: LADYF
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#efd566"
 icons:
   - icon.png

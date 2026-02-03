@@ -6,7 +6,6 @@ name: Fulcrum Perpetual Short ETH-DAI v2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fc5484"
 icons:
   - icon.png

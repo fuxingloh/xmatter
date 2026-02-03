@@ -16,7 +16,6 @@ name: GOLD 24 Carat/Oz
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dec679"
 icons:
   - icon.png

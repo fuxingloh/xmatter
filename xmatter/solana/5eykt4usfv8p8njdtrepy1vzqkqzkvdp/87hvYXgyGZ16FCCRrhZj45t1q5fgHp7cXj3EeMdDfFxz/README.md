@@ -12,7 +12,6 @@ name: xrpwifhat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#af9583"
 icons:
   - icon.png

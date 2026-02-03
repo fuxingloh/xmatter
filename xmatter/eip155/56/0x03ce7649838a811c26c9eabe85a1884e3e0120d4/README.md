@@ -8,7 +8,6 @@ name: FootballHooligans
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e8a755"
 icons:
   - icon.png

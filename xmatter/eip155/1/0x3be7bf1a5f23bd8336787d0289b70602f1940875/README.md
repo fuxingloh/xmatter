@@ -12,7 +12,6 @@ name: VIDT DAO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#080808"
 icons:
   - icon.png

@@ -11,7 +11,6 @@ name: FREE coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-icon: icon.png
 color: "#ebb136"
 icons:
   - icon.png

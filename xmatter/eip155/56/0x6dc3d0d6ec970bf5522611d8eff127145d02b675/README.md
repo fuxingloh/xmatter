@@ -16,7 +16,6 @@ name: Revolotto
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#04c9fc"
 icons:
   - icon.png

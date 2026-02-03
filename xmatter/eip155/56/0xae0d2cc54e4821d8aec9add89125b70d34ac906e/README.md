@@ -8,7 +8,6 @@ name: APE INU
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#bc8d47"
 icons:
   - icon.png

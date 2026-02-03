@@ -8,7 +8,6 @@ name: SMEGMARS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fb0405"
 icons:
   - icon.png

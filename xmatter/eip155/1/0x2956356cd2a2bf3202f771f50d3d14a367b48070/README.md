@@ -6,7 +6,6 @@ name: Ether Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#23191e"
 icons:
   - icon.png

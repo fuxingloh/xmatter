@@ -14,7 +14,6 @@ name: Boeing (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1c449c"
 icons:
   - icon.png

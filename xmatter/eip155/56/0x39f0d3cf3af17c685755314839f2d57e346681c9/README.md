@@ -12,7 +12,6 @@ name: Jessie Binance Dog
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#362f24"
 icons:
   - icon.png

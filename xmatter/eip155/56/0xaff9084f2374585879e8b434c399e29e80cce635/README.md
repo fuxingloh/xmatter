@@ -34,7 +34,6 @@ name: Flux
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2c64d4"
 icons:
   - icon.png

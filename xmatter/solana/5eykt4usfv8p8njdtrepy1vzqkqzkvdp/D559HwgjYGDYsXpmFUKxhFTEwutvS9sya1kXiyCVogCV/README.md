@@ -10,7 +10,6 @@ name: Amp (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#d22d7a"
 icons:
   - icon.png

@@ -10,7 +10,6 @@ name: XY Oracle
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#8c8cc4"
 icons:
   - icon.svg

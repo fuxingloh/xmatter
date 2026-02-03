@@ -10,7 +10,6 @@ name: Elon New AI Company
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f0b4d3"
 icons:
   - icon.png

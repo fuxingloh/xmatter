@@ -14,7 +14,6 @@ name: PPBToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#7bfbfb"
 icons:
   - icon.png

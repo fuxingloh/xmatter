@@ -8,7 +8,6 @@ name: TEST DO NOT BUY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fbd618"
 icons:
   - icon.png

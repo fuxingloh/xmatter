@@ -6,7 +6,6 @@ name: Blue Live Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#231e25"
 icons:
   - icon.png

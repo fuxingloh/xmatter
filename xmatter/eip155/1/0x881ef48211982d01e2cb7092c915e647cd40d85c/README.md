@@ -6,7 +6,6 @@ name: Open Trading Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#04e3c4"
 icons:
   - icon.png

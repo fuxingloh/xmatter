@@ -24,7 +24,6 @@ name: FLOKI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#080706"
 icons:
   - icon.png

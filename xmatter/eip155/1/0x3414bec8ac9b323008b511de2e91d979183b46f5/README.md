@@ -6,7 +6,6 @@ name: AfroTeq Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#3374db"
 icons:
   - icon.png

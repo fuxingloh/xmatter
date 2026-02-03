@@ -6,7 +6,6 @@ name: LED Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#5cb748"
 icons:
   - icon.png

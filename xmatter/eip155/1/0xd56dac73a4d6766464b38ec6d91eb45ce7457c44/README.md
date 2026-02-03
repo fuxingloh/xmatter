@@ -8,7 +8,6 @@ name: Panvala pan
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#248bc4"
 icons:
   - icon.png

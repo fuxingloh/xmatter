@@ -10,7 +10,6 @@ name: ISKRA TOKEN
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#1b8dd4"
 icons:
   - icon.svg

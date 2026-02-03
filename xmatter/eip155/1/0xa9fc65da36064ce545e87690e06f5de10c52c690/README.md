@@ -8,7 +8,6 @@ name: 3X Short Bitcoin Cash Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#5ccadb"
 icons:
   - icon.png

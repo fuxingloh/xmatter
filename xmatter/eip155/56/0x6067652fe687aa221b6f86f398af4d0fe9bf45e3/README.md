@@ -8,7 +8,6 @@ name: Vain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#60c840"
 icons:
   - icon.png

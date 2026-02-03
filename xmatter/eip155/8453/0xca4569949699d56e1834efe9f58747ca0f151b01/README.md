@@ -12,7 +12,6 @@ name: Token Metrics AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f9d313"
 icons:
   - icon.png

@@ -12,7 +12,6 @@ name: AlinX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ddc28b"
 icons:
   - icon.png

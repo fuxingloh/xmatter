@@ -8,7 +8,6 @@ name: CoinFi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#15a7e9"
 icons:
   - icon.png

@@ -20,7 +20,6 @@ name: BNB pegged Paxos Standard
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#126039"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Primas Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ed6019"
 icons:
   - icon.png

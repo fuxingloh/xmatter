@@ -13,7 +13,6 @@ name: EVC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#347b44"
 icons:
   - icon.png

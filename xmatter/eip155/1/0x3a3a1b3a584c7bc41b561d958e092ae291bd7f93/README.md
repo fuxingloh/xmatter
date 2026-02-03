@@ -6,7 +6,6 @@ name: MYTBX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#232a5e"
 icons:
   - icon.png

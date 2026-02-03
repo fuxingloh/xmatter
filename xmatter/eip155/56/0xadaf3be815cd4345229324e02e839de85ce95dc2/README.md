@@ -8,7 +8,6 @@ name: Doraemoon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#211e2a"
 icons:
   - icon.png

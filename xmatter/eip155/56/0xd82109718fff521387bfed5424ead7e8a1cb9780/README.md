@@ -10,7 +10,6 @@ name: Oncology Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#353d6b"
 icons:
   - icon.png

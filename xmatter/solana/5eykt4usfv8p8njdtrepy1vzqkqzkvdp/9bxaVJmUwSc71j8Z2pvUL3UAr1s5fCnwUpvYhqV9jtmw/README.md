@@ -12,7 +12,6 @@ name: Mewing Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#826d64"
 icons:
   - icon.png

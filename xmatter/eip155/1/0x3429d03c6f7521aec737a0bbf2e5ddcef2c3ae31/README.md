@@ -12,7 +12,6 @@ name: PIXEL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#edf99a"
 icons:
   - icon.png

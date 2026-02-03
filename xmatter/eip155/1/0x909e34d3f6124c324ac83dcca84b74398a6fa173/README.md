@@ -39,7 +39,6 @@ name: $ZKP Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#a1a2b0"
 icons:
   - icon.png

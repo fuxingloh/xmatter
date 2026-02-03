@@ -8,7 +8,6 @@ name: Galaxium
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c31879"
 icons:
   - icon.png

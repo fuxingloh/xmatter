@@ -6,7 +6,6 @@ name: Quantum Generation
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dcbb70"
 icons:
   - icon.png

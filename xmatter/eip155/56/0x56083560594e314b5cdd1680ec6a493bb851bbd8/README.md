@@ -14,7 +14,6 @@ name: Transhuman Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1fbd40"
 icons:
   - icon.png

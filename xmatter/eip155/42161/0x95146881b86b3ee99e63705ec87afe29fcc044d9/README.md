@@ -12,7 +12,6 @@ name: Vertex
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c8a8ed"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Billionaire Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ebcd55"
 icons:
   - icon.png

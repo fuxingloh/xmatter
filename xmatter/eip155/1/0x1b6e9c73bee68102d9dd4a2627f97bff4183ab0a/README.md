@@ -28,7 +28,6 @@ name: Openleverage Token V2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c757af"
 icons:
   - icon.png

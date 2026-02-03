@@ -12,7 +12,6 @@ name: Sun
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-icon: icon.png
 color: "#fad61a"
 icons:
   - icon.png

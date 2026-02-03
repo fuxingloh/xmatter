@@ -8,7 +8,6 @@ name: EJECT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cf72fb"
 icons:
   - icon.png

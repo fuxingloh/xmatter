@@ -8,7 +8,6 @@ name: SafeWin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#192129"
 icons:
   - icon.png

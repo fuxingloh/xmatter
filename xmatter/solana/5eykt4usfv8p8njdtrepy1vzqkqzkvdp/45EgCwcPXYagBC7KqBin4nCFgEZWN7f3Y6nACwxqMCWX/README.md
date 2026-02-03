@@ -12,7 +12,6 @@ name: Moutai
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#13307d"
 icons:
   - icon.png

@@ -12,7 +12,6 @@ name: Bloomsperg Terminal
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#70dac2"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Robonomics Web Services
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#05a6ee"
 icons:
   - icon.png

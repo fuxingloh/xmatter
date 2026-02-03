@@ -12,7 +12,6 @@ name: LandWolf
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#8775e0"
 icons:
   - icon.png

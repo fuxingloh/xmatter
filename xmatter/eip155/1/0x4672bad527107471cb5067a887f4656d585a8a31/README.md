@@ -8,7 +8,6 @@ name: Dropil
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#4abcee"
 icons:
   - icon.png

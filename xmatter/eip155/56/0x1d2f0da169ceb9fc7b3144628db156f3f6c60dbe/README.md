@@ -14,7 +14,6 @@ name: BNB pegged XRP Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#242c2c"
 icons:
   - icon.png

@@ -28,7 +28,6 @@ name: Chihiro Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#335f94"
 icons:
   - icon.png

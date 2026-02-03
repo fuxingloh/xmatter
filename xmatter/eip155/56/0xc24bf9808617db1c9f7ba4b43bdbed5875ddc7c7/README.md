@@ -8,7 +8,6 @@ name: SpacePath
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f87939"
 icons:
   - icon.png

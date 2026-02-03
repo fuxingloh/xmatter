@@ -8,7 +8,6 @@ name: Civic
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#eef3ee"
 icons:
   - icon.png

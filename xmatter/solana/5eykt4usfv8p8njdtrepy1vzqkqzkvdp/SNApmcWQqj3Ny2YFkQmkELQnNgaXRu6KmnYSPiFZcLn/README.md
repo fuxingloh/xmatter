@@ -12,7 +12,6 @@ name: SolSnap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#7c0cfb"
 icons:
   - icon.png

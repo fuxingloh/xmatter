@@ -10,7 +10,6 @@ name: JoeToken (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#c56c67"
 icons:
   - icon.png

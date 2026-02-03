@@ -8,7 +8,6 @@ name: CuraDAI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1e5f98"
 icons:
   - icon.png

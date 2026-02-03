@@ -6,7 +6,6 @@ name: Bamboo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#3404f4"
 icons:
   - icon.png

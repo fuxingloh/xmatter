@@ -12,7 +12,6 @@ name: RIFT AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#0e1324"
 icons:
   - icon.png

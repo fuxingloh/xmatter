@@ -14,7 +14,6 @@ name: iShares MSCI EAFE ETF (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#460f7d"
 icons:
   - icon.png

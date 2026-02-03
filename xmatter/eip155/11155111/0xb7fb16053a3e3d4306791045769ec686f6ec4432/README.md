@@ -10,7 +10,6 @@ links:
     url: "https://x.com/WalletConnect"
 symbol: WCT
 decimals: 18
-icon: icon.svg
 color: "#0c8bf3"
 icons:
   - icon.svg

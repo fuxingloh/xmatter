@@ -8,7 +8,6 @@ name: Crowny Token (CRWNY)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#532c80"
 icons:
   - icon.png

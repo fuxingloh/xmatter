@@ -6,7 +6,6 @@ name: RUOKToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-icon: icon.png
 color: "#060c10"
 icons:
   - icon.png

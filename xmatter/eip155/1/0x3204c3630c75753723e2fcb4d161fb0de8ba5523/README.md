@@ -6,7 +6,6 @@ name: "CREEnergy© Hydrocarbon Credit, UNDRIP. Economic Development, (replace CR
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#edc28f"
 icons:
   - icon.png

@@ -14,7 +14,6 @@ name: PulsePad.io
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2667fc"
 icons:
   - icon.png

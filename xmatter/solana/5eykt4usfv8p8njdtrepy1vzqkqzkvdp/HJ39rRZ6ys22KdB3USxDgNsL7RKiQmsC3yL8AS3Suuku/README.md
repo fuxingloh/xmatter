@@ -12,7 +12,6 @@ name: What’s Updog?
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#cd8e5c"
 icons:
   - icon.png

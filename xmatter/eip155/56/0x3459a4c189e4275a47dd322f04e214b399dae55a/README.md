@@ -10,7 +10,6 @@ name: U DEX Platform
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#18a8dc"
 icons:
   - icon.png

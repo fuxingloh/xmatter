@@ -8,7 +8,6 @@ name: IcoBay
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#5f92e8"
 icons:
   - icon.png

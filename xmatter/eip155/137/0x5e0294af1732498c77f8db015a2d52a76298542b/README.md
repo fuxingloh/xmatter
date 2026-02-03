@@ -10,7 +10,6 @@ name: Orion Money (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#04be74"
 icons:
   - icon.png

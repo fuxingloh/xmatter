@@ -6,7 +6,6 @@ name: Monkash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e4f0e5"
 icons:
   - icon.png

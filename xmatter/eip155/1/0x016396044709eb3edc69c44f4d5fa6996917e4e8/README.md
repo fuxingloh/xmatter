@@ -8,7 +8,6 @@ name: KingXChain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2769b7"
 icons:
   - icon.png

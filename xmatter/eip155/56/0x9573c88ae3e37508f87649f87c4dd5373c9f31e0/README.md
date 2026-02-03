@@ -22,7 +22,6 @@ name: Monsta Infinite Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0c846c"
 icons:
   - icon.png

@@ -22,7 +22,6 @@ name: Mytheria
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#914725"
 icons:
   - icon.png

@@ -12,7 +12,6 @@ name: Cryptonite
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c79f84"
 icons:
   - icon.png

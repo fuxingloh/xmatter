@@ -6,7 +6,6 @@ name: Digital Dollar Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#bfc197"
 icons:
   - icon.png

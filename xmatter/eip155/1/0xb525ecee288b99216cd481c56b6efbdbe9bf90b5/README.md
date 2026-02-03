@@ -8,7 +8,6 @@ name: Kuma Inu Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1d1716"
 icons:
   - icon.png

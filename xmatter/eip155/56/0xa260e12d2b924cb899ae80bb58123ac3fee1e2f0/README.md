@@ -18,7 +18,6 @@ name: Hooked Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#5ad08e"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Nitro
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#38638d"
 icons:
   - icon.png

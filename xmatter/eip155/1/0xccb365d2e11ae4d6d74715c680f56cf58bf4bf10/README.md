@@ -10,7 +10,6 @@ name: Wall Street Pepe
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c2b57e"
 icons:
   - icon.png

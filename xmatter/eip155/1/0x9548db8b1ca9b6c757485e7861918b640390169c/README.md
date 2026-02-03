@@ -8,7 +8,6 @@ name: Aave UniLINKETH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#6a82b7"
 icons:
   - icon.png

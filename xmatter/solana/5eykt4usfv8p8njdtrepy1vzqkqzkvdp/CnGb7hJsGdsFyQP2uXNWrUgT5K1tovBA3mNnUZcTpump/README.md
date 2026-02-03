@@ -12,7 +12,6 @@ name: FLORK
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#f9f9f9"
 icons:
   - icon.png

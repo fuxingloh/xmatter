@@ -16,7 +16,6 @@ name: Coinye West
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#edd63c"
 icons:
   - icon.png

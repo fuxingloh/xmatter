@@ -12,7 +12,6 @@ name: RadioShack
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#df232a"
 icons:
   - icon.png

@@ -18,7 +18,6 @@ name: Cream Tether USD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e7c49a"
 icons:
   - icon.png

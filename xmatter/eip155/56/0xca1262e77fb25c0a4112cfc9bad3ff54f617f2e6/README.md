@@ -16,7 +16,6 @@ name: Wrapped JAXNET
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e3ad51"
 icons:
   - icon.png

@@ -12,7 +12,6 @@ name: ZEDXION
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-icon: icon.png
 color: "#dbdfe0"
 icons:
   - icon.png

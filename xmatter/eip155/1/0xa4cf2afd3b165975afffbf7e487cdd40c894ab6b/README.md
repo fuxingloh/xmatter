@@ -8,7 +8,6 @@ name: ShibaKen.Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#231f18"
 icons:
   - icon.png

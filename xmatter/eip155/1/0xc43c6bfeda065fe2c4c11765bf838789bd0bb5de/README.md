@@ -10,7 +10,6 @@ name: Redstone
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ad0d26"
 icons:
   - icon.png

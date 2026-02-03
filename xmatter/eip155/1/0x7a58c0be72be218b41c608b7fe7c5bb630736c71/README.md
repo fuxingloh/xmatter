@@ -14,7 +14,6 @@ name: ConstitutionDAO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c7aa6e"
 icons:
   - icon.png

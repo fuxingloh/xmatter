@@ -12,7 +12,6 @@ name: BTCMOON
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#452a16"
 icons:
   - icon.png

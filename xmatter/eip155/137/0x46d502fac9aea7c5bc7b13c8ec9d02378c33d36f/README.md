@@ -14,7 +14,6 @@ name: WolfSafePoorPeople
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#4cd134"
 icons:
   - icon.png

@@ -10,7 +10,6 @@ name: OX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#151515"
 icons:
   - icon.png

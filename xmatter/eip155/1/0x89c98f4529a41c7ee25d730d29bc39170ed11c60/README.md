@@ -6,7 +6,6 @@ name: Astro
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#a34ca4"
 icons:
   - icon.png

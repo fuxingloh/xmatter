@@ -10,7 +10,6 @@ name: Rotomoon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#044f99"
 icons:
   - icon.png

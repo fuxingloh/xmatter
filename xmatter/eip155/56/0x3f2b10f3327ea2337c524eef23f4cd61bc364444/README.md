@@ -14,7 +14,6 @@ name: Funds are SAFU
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#061423"
 icons:
   - icon.png

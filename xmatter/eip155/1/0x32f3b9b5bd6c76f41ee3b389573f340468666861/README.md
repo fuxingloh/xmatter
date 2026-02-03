@@ -8,7 +8,6 @@ name: YFII SILVER
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e0e0db"
 icons:
   - icon.png

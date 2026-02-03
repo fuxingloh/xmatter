@@ -8,7 +8,6 @@ name: Guider
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#909190"
 icons:
   - icon.png

@@ -18,7 +18,6 @@ name: TrustFi Network Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ffe000"
 icons:
   - icon.png

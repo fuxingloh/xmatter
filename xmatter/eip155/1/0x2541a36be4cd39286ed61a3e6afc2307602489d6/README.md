@@ -12,7 +12,6 @@ name: DOGE20
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e3af53"
 icons:
   - icon.png

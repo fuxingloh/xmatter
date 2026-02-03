@@ -6,7 +6,6 @@ name: BiTBrothers
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#182f61"
 icons:
   - icon.png

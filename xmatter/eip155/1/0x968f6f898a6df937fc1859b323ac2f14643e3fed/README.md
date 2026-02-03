@@ -16,7 +16,6 @@ name: Newscrypto
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2b78bd"
 icons:
   - icon.png

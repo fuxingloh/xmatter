@@ -12,7 +12,6 @@ name: APES
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#295c61"
 icons:
   - icon.png

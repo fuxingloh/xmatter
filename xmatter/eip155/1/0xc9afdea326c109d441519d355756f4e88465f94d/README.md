@@ -6,7 +6,6 @@ name: Doblone
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e5bc44"
 icons:
   - icon.png

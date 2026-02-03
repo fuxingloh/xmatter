@@ -30,7 +30,6 @@ name: Prom
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ea8082"
 icons:
   - icon.png

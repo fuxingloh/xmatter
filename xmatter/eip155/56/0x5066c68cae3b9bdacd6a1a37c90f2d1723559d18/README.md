@@ -18,7 +18,6 @@ name: WIZARD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#3282a7"
 icons:
   - icon.png

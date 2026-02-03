@@ -8,7 +8,6 @@ name: VideoCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ef7557"
 icons:
   - icon.png

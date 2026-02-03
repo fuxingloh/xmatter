@@ -8,7 +8,6 @@ name: KIWIGO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#8145f2"
 icons:
   - icon.png

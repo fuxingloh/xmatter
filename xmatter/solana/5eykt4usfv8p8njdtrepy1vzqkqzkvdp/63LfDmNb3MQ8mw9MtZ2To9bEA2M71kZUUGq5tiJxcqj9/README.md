@@ -12,7 +12,6 @@ name: GIGACHAD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#484848"
 icons:
   - icon.png

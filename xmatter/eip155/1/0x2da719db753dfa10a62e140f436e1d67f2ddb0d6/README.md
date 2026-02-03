@@ -29,7 +29,6 @@ name: Cere Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#9225e2"
 icons:
   - icon.png

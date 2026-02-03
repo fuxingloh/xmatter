@@ -8,7 +8,6 @@ name: ShibaCash Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dde9c5"
 icons:
   - icon.png

@@ -6,7 +6,6 @@ name: MoneyTree
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c42424"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Tokyo Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fbb9d6"
 icons:
   - icon.png

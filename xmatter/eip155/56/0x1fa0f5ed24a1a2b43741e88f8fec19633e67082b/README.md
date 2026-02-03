@@ -16,7 +16,6 @@ name: DIAM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d7d8d9"
 icons:
   - icon.png

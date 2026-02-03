@@ -18,7 +18,6 @@ name: DOGITA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f7b89c"
 icons:
   - icon.png

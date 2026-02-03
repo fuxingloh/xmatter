@@ -6,7 +6,6 @@ name: Intuz
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dfc775"
 icons:
   - icon.png

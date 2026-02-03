@@ -8,7 +8,6 @@ name: Bitpayer Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ca771a"
 icons:
   - icon.png

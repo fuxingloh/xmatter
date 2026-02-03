@@ -16,7 +16,6 @@ name: EAGLE OF TRUTH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#161412"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Aave DAI V1
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#6e88b3"
 icons:
   - icon.png

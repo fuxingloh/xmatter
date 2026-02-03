@@ -10,7 +10,6 @@ name: Mooni
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c4b324"
 icons:
   - icon.png

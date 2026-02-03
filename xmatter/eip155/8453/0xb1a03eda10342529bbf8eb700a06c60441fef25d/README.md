@@ -12,7 +12,6 @@ name: Mister Miggles
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#29201b"
 icons:
   - icon.png

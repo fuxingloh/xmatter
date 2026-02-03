@@ -16,7 +16,6 @@ name: VELHALLA.io
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#27d0fa"
 icons:
   - icon.png

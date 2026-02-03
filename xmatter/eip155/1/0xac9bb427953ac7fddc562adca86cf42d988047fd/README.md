@@ -8,7 +8,6 @@ name: Scatter.cx
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c80028"
 icons:
   - icon.png

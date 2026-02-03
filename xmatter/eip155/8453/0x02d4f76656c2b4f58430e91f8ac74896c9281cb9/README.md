@@ -18,7 +18,6 @@ name: Pett AI
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#6149d5"
 icons:
   - icon.svg

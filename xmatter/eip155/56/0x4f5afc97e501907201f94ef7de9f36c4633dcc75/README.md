@@ -8,7 +8,6 @@ name: SAFE Community Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#9870e0"
 icons:
   - icon.png

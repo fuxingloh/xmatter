@@ -6,7 +6,6 @@ name: ASTOX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dfe9ec"
 icons:
   - icon.png

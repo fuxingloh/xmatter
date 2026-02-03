@@ -8,7 +8,6 @@ name: GermanCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ed9e0d"
 icons:
   - icon.png

@@ -6,7 +6,6 @@ name: Bodhi Ethereum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dfe1fc"
 icons:
   - icon.png

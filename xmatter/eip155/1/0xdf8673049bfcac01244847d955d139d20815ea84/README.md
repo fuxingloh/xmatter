@@ -6,7 +6,6 @@ name: PLUTUS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#861618"
 icons:
   - icon.png

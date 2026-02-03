@@ -6,7 +6,6 @@ name: EHalal
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#04632c"
 icons:
   - icon.png

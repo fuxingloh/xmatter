@@ -8,7 +8,6 @@ name: Babybnb
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ebae2c"
 icons:
   - icon.png

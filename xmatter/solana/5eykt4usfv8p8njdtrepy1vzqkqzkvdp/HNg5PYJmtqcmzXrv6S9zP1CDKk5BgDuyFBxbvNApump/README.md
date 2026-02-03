@@ -12,7 +12,6 @@ name: Alchemist AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#fb6c04"
 icons:
   - icon.png

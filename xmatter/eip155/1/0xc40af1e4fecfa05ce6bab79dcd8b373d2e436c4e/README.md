@@ -24,7 +24,6 @@ name: Hokkaidu Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d36395"
 icons:
   - icon.png

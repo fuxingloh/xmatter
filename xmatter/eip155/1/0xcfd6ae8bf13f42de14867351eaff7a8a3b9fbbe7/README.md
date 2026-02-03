@@ -8,7 +8,6 @@ name: SINERGIA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#7cbb3f"
 icons:
   - icon.png

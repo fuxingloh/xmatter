@@ -10,7 +10,6 @@ name: Autonomi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#25254c"
 icons:
   - icon.png

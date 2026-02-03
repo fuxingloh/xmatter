@@ -12,7 +12,6 @@ name: 8-Bit Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#14d0b8"
 icons:
   - icon.png

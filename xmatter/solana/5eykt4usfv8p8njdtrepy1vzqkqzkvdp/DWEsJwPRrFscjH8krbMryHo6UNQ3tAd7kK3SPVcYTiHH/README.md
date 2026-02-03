@@ -12,7 +12,6 @@ name: SPERO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#d4a743"
 icons:
   - icon.png

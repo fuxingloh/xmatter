@@ -8,7 +8,6 @@ name: Ormeus Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#a77b4f"
 icons:
   - icon.png

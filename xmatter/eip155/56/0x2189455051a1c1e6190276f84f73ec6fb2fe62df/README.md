@@ -16,7 +16,6 @@ name: BITCONEY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d7e7e5"
 icons:
   - icon.png

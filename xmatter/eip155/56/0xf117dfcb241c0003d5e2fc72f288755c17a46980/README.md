@@ -14,7 +14,6 @@ name: Sixpack Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e65168"
 icons:
   - icon.png

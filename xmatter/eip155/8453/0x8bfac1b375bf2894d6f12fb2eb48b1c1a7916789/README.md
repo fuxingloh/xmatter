@@ -14,7 +14,6 @@ name: GAME by Virtuals
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#041630"
 icons:
   - icon.png

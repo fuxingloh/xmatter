@@ -8,7 +8,6 @@ name: GingerCat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#efb461"
 icons:
   - icon.png

@@ -20,7 +20,6 @@ name: Doge Raca
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ecd44c"
 icons:
   - icon.png

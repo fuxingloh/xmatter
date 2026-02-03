@@ -8,7 +8,6 @@ name: PGF500 Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c7d7e8"
 icons:
   - icon.png

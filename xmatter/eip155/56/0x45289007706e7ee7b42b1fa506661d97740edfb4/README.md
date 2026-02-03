@@ -24,7 +24,6 @@ name: FLOKI CEO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2d95d3"
 icons:
   - icon.png

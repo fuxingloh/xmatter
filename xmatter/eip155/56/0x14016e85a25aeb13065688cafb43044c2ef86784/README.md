@@ -21,7 +21,6 @@ name: BNB pegged TrueUSD Old
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1b5bfc"
 icons:
   - icon.png

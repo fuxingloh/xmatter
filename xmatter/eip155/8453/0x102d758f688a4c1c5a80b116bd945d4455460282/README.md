@@ -10,7 +10,6 @@ name: Stargate USD₮0 (Bridged)
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.png
 color: "#9de3d2"
 icons:
   - icon.png

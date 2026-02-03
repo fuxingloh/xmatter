@@ -16,7 +16,6 @@ name: Cola Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#142c6c"
 icons:
   - icon.png

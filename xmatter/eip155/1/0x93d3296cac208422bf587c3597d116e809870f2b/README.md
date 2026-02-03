@@ -8,7 +8,6 @@ name: pUSD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0b74bc"
 icons:
   - icon.png

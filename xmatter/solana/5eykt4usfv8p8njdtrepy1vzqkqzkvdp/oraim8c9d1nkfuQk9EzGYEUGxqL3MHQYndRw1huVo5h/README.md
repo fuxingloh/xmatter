@@ -12,7 +12,6 @@ name: MAX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#0b0c14"
 icons:
   - icon.png

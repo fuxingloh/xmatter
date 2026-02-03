@@ -16,7 +16,6 @@ name: UndeadServiceToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#3d655d"
 icons:
   - icon.png

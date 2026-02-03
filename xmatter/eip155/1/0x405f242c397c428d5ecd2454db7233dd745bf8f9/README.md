@@ -6,7 +6,6 @@ name: ICO Review
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#3d4494"
 icons:
   - icon.png

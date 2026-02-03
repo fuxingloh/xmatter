@@ -8,7 +8,6 @@ name: LOLTOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#131012"
 icons:
   - icon.png

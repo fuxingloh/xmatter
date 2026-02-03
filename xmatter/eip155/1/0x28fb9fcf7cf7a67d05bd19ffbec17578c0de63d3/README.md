@@ -6,7 +6,6 @@ name: Cercle Stock Service
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c8a080"
 icons:
   - icon.png

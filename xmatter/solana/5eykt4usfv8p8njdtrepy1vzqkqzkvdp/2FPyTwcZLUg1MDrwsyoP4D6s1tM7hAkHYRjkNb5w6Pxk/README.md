@@ -16,7 +16,6 @@ name: Wrapped ETH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#2a2e2e"
 icons:
   - icon.png

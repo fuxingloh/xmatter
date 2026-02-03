@@ -12,7 +12,6 @@ name: AlphaDOGE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#15130d"
 icons:
   - icon.png

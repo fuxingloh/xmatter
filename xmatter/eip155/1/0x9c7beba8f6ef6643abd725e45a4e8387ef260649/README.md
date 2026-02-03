@@ -12,7 +12,6 @@ name: Gravity
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#bc7247"
 icons:
   - icon.png

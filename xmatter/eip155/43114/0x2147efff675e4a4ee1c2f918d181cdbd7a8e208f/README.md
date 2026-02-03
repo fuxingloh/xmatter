@@ -18,7 +18,6 @@ name: AlphaToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2bb3fb"
 icons:
   - icon.png

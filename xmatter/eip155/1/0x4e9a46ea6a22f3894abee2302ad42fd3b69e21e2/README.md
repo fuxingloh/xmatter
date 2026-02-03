@@ -8,7 +8,6 @@ name: Binance Smart Chain Girl
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#87e3f8"
 icons:
   - icon.png

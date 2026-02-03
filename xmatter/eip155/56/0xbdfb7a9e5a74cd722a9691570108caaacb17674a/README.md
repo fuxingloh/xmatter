@@ -8,7 +8,6 @@ name: $SpaceSharks
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#b8cad2"
 icons:
   - icon.png

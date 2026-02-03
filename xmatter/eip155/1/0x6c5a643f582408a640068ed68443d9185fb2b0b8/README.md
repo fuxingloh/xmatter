@@ -6,7 +6,6 @@ name: EGGS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#222120"
 icons:
   - icon.png

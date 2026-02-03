@@ -24,7 +24,6 @@ name: HeroCatKey
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fcbc34"
 icons:
   - icon.png

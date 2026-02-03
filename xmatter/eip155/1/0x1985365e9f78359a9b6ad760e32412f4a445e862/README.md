@@ -8,7 +8,6 @@ name: Augur
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#612953"
 icons:
   - icon.png

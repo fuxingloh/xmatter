@@ -12,7 +12,6 @@ name: Cryptify AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f8f2e7"
 icons:
   - icon.png

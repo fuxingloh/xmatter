@@ -10,7 +10,6 @@ name: ETHITEM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1e8eed"
 icons:
   - icon.png

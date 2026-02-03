@@ -18,7 +18,6 @@ name: Pendle
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#132b52"
 icons:
   - icon.png

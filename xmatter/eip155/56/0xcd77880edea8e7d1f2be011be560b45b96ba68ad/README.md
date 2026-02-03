@@ -8,7 +8,6 @@ name: PAPP Mobile
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cea833"
 icons:
   - icon.png

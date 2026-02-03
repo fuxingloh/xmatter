@@ -8,7 +8,6 @@ name: e-Money CHF stablecoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#185878"
 icons:
   - icon.png

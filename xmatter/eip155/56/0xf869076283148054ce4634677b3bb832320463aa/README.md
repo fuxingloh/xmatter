@@ -8,7 +8,6 @@ name: DADDY FEG
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d7bc96"
 icons:
   - icon.png

@@ -14,7 +14,6 @@ name: THE BULLS ARMY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2d1f66"
 icons:
   - icon.png

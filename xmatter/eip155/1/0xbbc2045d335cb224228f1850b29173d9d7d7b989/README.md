@@ -8,7 +8,6 @@ name: HELP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ccd8de"
 icons:
   - icon.png

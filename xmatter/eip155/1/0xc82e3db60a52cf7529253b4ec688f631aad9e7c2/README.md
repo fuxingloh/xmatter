@@ -12,7 +12,6 @@ name: ARC
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#3855e8"
 icons:
   - icon.svg

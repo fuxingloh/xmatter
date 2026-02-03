@@ -12,7 +12,6 @@ name: First Crypto President Trump
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1e3641"
 icons:
   - icon.png

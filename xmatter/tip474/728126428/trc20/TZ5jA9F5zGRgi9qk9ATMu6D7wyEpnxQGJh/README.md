@@ -16,7 +16,6 @@ name: CyberFM Radio
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-icon: icon.png
 color: "#dde2e5"
 icons:
   - icon.png

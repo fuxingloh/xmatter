@@ -8,7 +8,6 @@ name: TradeX Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#251e24"
 icons:
   - icon.png

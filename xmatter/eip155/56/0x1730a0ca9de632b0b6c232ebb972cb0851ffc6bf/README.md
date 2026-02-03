@@ -8,7 +8,6 @@ name: SafeCity
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#5e74ba"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Signals Network Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#7f52d5"
 icons:
   - icon.png

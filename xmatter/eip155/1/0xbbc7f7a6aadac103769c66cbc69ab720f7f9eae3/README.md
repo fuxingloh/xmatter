@@ -8,7 +8,6 @@ name: INX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#102050"
 icons:
   - icon.png

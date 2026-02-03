@@ -12,7 +12,6 @@ name: Smile Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#110d09"
 icons:
   - icon.png

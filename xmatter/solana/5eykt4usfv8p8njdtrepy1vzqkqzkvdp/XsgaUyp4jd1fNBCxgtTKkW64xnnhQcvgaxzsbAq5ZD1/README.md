@@ -14,7 +14,6 @@ name: Goldman Sachs tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#739bc4"
 icons:
   - icon.png

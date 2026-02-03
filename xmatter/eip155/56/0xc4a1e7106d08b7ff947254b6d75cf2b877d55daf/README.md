@@ -26,7 +26,6 @@ name: Laqira Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#6d2397"
 icons:
   - icon.png

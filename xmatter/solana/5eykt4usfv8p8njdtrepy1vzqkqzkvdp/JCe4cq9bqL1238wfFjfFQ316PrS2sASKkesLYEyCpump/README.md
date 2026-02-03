@@ -12,7 +12,6 @@ name: Minidoge
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#fab22a"
 icons:
   - icon.png

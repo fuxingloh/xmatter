@@ -12,7 +12,6 @@ name: Comedian
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#dbdbdb"
 icons:
   - icon.png

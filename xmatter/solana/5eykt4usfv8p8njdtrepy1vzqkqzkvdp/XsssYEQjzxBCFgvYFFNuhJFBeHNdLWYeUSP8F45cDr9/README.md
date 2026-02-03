@@ -14,7 +14,6 @@ name: Vanguard tokenized ETF (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#c42c43"
 icons:
   - icon.png

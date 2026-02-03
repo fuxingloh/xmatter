@@ -6,7 +6,6 @@ name: eBitcoinCash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f3d762"
 icons:
   - icon.png

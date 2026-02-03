@@ -8,7 +8,6 @@ name: Strike WBTC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1f72bf"
 icons:
   - icon.png

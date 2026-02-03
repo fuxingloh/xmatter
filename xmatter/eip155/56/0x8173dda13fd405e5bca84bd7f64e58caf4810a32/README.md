@@ -8,7 +8,6 @@ name: Golden Ben
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f6d44c"
 icons:
   - icon.png

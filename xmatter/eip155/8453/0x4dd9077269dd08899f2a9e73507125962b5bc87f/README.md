@@ -12,7 +12,6 @@ name: Crash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e0a267"
 icons:
   - icon.png

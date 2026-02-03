@@ -8,7 +8,6 @@ name: SudanGoldCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#b79f54"
 icons:
   - icon.png

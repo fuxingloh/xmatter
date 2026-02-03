@@ -23,7 +23,6 @@ name: Openfabric AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#06183f"
 icons:
   - icon.png

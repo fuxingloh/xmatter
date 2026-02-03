@@ -8,7 +8,6 @@ name: BCDN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f2f9f8"
 icons:
   - icon.png

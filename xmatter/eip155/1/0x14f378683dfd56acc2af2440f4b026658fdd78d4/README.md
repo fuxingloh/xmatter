@@ -6,7 +6,6 @@ name: BitDrive
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#8886b5"
 icons:
   - icon.png

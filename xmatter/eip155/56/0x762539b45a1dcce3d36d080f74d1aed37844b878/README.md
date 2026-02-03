@@ -18,7 +18,6 @@ name: LINA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2121ad"
 icons:
   - icon.png

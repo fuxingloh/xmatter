@@ -6,7 +6,6 @@ name: Hacienda
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ce849d"
 icons:
   - icon.png

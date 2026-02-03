@@ -20,7 +20,6 @@ name: Daily COP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e3eb24"
 icons:
   - icon.png

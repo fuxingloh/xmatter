@@ -12,7 +12,6 @@ name: Unicorn Fart Dust
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#1e1817"
 icons:
   - icon.png

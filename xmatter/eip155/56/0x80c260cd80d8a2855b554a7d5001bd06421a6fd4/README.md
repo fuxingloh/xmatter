@@ -16,7 +16,6 @@ name: The Green World
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dcb347"
 icons:
   - icon.png

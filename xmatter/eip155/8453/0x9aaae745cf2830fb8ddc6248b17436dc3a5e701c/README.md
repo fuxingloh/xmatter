@@ -16,7 +16,6 @@ name: Gochujangcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dc9e4e"
 icons:
   - icon.png

@@ -16,7 +16,6 @@ name: WOOFENOMICS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#1b1d1e"
 icons:
   - icon.png

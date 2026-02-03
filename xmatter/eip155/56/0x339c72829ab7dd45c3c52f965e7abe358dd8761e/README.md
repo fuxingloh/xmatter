@@ -16,7 +16,6 @@ name: WanakaFarm
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f0d926"
 icons:
   - icon.png

@@ -6,7 +6,6 @@ name: Talao
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#16416c"
 icons:
   - icon.png

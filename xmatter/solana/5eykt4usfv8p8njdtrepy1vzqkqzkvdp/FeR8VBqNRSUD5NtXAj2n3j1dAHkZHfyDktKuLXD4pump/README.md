@@ -10,7 +10,6 @@ name: jelly-my-jelly
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#050505"
 icons:
   - icon.png

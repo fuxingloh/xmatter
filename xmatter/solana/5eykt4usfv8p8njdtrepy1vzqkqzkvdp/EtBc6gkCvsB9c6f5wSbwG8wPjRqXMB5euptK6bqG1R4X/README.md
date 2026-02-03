@@ -16,7 +16,6 @@ name: batcat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#eacdb2"
 icons:
   - icon.png

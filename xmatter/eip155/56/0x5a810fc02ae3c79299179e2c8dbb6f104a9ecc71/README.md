@@ -8,7 +8,6 @@ name: DARK SHIBA INU
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#065ff6"
 icons:
   - icon.png

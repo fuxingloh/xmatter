@@ -17,7 +17,6 @@ name: BaitCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#b8ddf2"
 icons:
   - icon.png

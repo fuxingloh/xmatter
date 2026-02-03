@@ -8,7 +8,6 @@ name: Mogu Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#74c444"
 icons:
   - icon.png

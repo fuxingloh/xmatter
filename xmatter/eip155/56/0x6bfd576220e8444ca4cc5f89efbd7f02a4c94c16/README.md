@@ -16,7 +16,6 @@ name: Smaugs NFT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0473ec"
 icons:
   - icon.png

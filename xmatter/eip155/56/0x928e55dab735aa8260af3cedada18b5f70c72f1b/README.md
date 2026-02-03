@@ -8,7 +8,6 @@ name: Frontier Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#3f2a27"
 icons:
   - icon.png

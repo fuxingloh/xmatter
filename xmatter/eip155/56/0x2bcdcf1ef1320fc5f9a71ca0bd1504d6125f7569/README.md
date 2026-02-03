@@ -14,7 +14,6 @@ name: DisCas Vision
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1478f4"
 icons:
   - icon.png

@@ -10,7 +10,6 @@ name: Marscoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#060404"
 icons:
   - icon.png

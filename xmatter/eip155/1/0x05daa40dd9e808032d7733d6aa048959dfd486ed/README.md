@@ -6,7 +6,6 @@ name: Fluent Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#a99156"
 icons:
   - icon.png

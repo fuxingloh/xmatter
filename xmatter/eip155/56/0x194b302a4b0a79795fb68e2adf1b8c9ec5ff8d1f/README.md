@@ -10,7 +10,6 @@ name: WebKey DAO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#151112"
 icons:
   - icon.png

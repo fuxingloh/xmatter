@@ -12,7 +12,6 @@ name: Helium Mobile
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#f5f0f7"
 icons:
   - icon.png

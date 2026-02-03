@@ -8,7 +8,6 @@ name: Public Mint
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#00e8b8"
 icons:
   - icon.png

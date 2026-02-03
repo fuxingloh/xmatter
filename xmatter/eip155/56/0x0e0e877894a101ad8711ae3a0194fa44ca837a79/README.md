@@ -12,7 +12,6 @@ name: MoonMoon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d7d9cd"
 icons:
   - icon.png

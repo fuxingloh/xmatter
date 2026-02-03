@@ -8,7 +8,6 @@ name: BonusCloud Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#667d86"
 icons:
   - icon.png

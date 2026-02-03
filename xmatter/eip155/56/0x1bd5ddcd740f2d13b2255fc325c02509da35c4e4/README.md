@@ -22,7 +22,6 @@ name: Baby Catcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#716e81"
 icons:
   - icon.png

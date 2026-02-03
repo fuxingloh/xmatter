@@ -8,7 +8,6 @@ name: Papa Doge Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f2a34c"
 icons:
   - icon.png

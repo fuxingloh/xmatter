@@ -6,7 +6,6 @@ name: PUBLX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dc4c3c"
 icons:
   - icon.png

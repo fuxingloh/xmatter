@@ -14,7 +14,6 @@ name: DexCheck
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#062639"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Knekted
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d9a450"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: DomRaiderToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ea5668"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Uquid Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e04441"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Sport AND Leisure
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fabb1b"
 icons:
   - icon.png

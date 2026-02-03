@@ -8,7 +8,6 @@ name: Bingus Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c68f7a"
 icons:
   - icon.png

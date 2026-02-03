@@ -8,7 +8,6 @@ name: IvyKoin Public Network Tokens
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#64be5a"
 icons:
   - icon.png

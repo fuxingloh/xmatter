@@ -8,7 +8,6 @@ name: Cum Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#ef2485"
 icons:
   - icon.png

@@ -18,7 +18,6 @@ name: Giftedhands
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#22de9a"
 icons:
   - icon.png

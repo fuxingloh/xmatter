@@ -10,7 +10,6 @@ name: Based Peng
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#2494f7"
 icons:
   - icon.png

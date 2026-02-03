@@ -8,7 +8,6 @@ name: TheWorldsAMine
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#73427f"
 icons:
   - icon.png

@@ -6,7 +6,6 @@ name: OneDollarCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c49c53"
 icons:
   - icon.png

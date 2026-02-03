@@ -6,7 +6,6 @@ name: CacheAvatarToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#063c3e"
 icons:
   - icon.png

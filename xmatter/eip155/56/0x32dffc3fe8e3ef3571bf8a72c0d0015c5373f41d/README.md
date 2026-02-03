@@ -8,7 +8,6 @@ name: JULb
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#6d60c5"
 icons:
   - icon.png

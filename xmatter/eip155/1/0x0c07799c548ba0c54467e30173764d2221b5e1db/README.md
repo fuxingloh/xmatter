@@ -6,7 +6,6 @@ name: HQT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f8c000"
 icons:
   - icon.png

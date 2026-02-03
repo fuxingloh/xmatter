@@ -28,7 +28,6 @@ name: Ape Swap LP BNB-BUSD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#946455"
 icons:
   - icon.png

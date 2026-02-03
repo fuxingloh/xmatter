@@ -8,7 +8,6 @@ name: ATBank
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dba952"
 icons:
   - icon.png

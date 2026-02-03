@@ -8,7 +8,6 @@ name: Insula
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c21e3d"
 icons:
   - icon.png

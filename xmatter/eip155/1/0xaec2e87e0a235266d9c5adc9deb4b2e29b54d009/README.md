@@ -8,7 +8,6 @@ name: SingularDTV
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#aa0e1f"
 icons:
   - icon.png

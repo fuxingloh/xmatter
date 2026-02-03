@@ -14,7 +14,6 @@ name: Circle tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#7abef0"
 icons:
   - icon.png

@@ -10,7 +10,6 @@ name: Angle USD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#76d9c3"
 icons:
   - icon.png

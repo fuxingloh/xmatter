@@ -22,7 +22,6 @@ name: Crypto Snack
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#100b07"
 icons:
   - icon.png

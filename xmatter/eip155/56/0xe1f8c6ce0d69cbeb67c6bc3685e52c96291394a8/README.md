@@ -8,7 +8,6 @@ name: TeamTreesToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#749d3e"
 icons:
   - icon.png

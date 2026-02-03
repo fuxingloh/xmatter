@@ -15,7 +15,6 @@ name: Wrapped Berkshire Hathaway Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#29318b"
 icons:
   - icon.png

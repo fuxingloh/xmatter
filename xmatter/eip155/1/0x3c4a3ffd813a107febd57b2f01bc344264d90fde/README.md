@@ -8,7 +8,6 @@ name: EnergiToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#35ace0"
 icons:
   - icon.png

@@ -14,7 +14,6 @@ name: BB Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d33434"
 icons:
   - icon.png

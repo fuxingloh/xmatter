@@ -8,7 +8,6 @@ name: Props Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#00d0f8"
 icons:
   - icon.png

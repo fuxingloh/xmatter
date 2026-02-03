@@ -16,7 +16,6 @@ name: Milady
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#7d5a4d"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Healing Potion Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#b8254c"
 icons:
   - icon.png

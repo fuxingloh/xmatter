@@ -13,7 +13,6 @@ name: Karina Milei
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d7c4d0"
 icons:
   - icon.png

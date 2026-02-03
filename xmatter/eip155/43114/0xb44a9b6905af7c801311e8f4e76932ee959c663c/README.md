@@ -18,7 +18,6 @@ name: Anyswap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#5876ec"
 icons:
   - icon.png

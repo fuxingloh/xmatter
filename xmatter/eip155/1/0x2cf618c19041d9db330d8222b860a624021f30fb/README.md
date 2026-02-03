@@ -6,7 +6,6 @@ name: CRUISEBIT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#efa066"
 icons:
   - icon.png

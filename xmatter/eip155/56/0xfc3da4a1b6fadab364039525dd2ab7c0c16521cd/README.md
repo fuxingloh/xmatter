@@ -30,7 +30,6 @@ name: MRWEB
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#3d2d7c"
 icons:
   - icon.png

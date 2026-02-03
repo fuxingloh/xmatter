@@ -12,7 +12,6 @@ name: Toman
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-icon: icon.png
 color: "#986b07"
 icons:
   - icon.png

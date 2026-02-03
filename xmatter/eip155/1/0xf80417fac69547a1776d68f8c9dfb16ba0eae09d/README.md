@@ -6,7 +6,6 @@ name: Doecoins.com
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#c6c9c5"
 icons:
   - icon.png

@@ -14,7 +14,6 @@ name: KSM Starter Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e6007a"
 icons:
   - icon.png

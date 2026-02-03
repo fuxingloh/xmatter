@@ -30,7 +30,6 @@ name: IguVerse
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#04ccd4"
 icons:
   - icon.png

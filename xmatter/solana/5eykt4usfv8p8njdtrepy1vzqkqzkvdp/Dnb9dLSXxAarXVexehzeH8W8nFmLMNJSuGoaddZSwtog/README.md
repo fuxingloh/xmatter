@@ -12,7 +12,6 @@ name: cok the cat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#ad9e92"
 icons:
   - icon.png

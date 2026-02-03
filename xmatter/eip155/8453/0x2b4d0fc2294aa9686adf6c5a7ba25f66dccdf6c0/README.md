@@ -10,7 +10,6 @@ name: Azuro
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#3b63f0"
 icons:
   - icon.svg

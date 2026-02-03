@@ -15,7 +15,6 @@ name: Offshore Plan
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dcae57"
 icons:
   - icon.png

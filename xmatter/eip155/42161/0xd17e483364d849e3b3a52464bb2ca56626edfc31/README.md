@@ -15,7 +15,6 @@ name: Wrapped AppLovin Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#04acdb"
 icons:
   - icon.png

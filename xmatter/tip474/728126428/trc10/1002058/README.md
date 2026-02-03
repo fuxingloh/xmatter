@@ -6,7 +6,6 @@ name: REC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-icon: icon.png
 color: "#ee1623"
 icons:
   - icon.png

@@ -14,7 +14,6 @@ name: Morpheus.Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#3c5575"
 icons:
   - icon.png

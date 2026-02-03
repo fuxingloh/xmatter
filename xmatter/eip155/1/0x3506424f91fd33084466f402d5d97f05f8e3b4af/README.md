@@ -22,7 +22,6 @@ name: Chiliz
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d40c24"
 icons:
   - icon.png

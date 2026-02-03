@@ -10,7 +10,6 @@ name: Harmony
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#36d6d3"
 icons:
   - icon.png

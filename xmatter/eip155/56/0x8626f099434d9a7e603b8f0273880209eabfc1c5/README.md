@@ -8,7 +8,6 @@ name: Berryswap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#270835"
 icons:
   - icon.png

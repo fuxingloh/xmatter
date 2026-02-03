@@ -21,7 +21,6 @@ name: MetaPortal Gaming Index
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#57e2e6"
 icons:
   - icon.png

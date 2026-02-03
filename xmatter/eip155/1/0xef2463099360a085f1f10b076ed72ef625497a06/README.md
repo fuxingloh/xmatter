@@ -8,7 +8,6 @@ name: Sharpe Platform Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e83050"
 icons:
   - icon.png

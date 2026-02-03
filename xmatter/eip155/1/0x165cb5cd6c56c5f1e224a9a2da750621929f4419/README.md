@@ -6,7 +6,6 @@ name: Mars
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f48942"
 icons:
   - icon.png

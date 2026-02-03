@@ -15,7 +15,6 @@ name: Wrapped Philip Morris Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#4ba3db"
 icons:
   - icon.png

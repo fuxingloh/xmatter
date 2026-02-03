@@ -16,7 +16,6 @@ name: Coin Discovery Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#000000"
 icons:
   - icon.png

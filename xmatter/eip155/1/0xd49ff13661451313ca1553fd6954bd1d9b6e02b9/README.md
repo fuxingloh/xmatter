@@ -8,7 +8,6 @@ name: ElectrifyAsia
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fbce0e"
 icons:
   - icon.png

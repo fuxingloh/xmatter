@@ -6,7 +6,6 @@ name: Mnoer
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#15171d"
 icons:
   - icon.png

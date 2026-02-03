@@ -8,7 +8,6 @@ name: GMB
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#55a2d0"
 icons:
   - icon.png

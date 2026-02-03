@@ -25,7 +25,6 @@ name: Libero Financial Freedom (LIBERO)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1f8786"
 icons:
   - icon.png

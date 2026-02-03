@@ -8,7 +8,6 @@ name: Ultiledger
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#23a5bb"
 icons:
   - icon.png

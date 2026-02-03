@@ -8,7 +8,6 @@ name: Bitcoin&Company Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#151311"
 icons:
   - icon.png

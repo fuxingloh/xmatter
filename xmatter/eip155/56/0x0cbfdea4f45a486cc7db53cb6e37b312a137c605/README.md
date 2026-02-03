@@ -20,7 +20,6 @@ name: SEEDx
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fbac2c"
 icons:
   - icon.png

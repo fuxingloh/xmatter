@@ -12,7 +12,6 @@ name: Ava AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#112d49"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Harvest Reward Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d8f1f0"
 icons:
   - icon.png

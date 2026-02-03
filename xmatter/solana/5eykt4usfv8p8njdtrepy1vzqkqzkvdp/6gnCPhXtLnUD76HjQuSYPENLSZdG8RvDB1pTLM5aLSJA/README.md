@@ -22,7 +22,6 @@ name: Basket
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#3c4c6f"
 icons:
   - icon.png

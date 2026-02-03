@@ -12,7 +12,6 @@ name: Miracleplay
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#625080"
 icons:
   - icon.png

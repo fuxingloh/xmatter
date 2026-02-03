@@ -8,7 +8,6 @@ name: Paypolitan Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#a43c84"
 icons:
   - icon.png

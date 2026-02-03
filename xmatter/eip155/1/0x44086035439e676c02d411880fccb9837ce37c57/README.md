@@ -12,7 +12,6 @@ name: unified Stable Dollar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#cc6cb3"
 icons:
   - icon.png

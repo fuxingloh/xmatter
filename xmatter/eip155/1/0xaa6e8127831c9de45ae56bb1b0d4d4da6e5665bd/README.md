@@ -8,7 +8,6 @@ name: ETH 2x Flexible Leverage Index
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#460581"
 icons:
   - icon.png

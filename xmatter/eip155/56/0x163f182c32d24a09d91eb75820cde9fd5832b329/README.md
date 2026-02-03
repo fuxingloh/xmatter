@@ -8,7 +8,6 @@ name: ElonDoge
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#111c1c"
 icons:
   - icon.png

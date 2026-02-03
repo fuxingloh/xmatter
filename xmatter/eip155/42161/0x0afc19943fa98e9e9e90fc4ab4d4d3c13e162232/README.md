@@ -15,7 +15,6 @@ name: Wrapped Procter & Gamble Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1b6cbc"
 icons:
   - icon.png

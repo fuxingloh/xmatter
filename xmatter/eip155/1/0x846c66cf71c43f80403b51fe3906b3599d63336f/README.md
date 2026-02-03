@@ -8,7 +8,6 @@ name: PumaPay
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1868f0"
 icons:
   - icon.png

@@ -28,7 +28,6 @@ name: Ape Swap Finance Banana
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fcd03f"
 icons:
   - icon.png

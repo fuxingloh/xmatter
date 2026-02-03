@@ -8,7 +8,6 @@ name: Relex
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#f7e10d"
 icons:
   - icon.png

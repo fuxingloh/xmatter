@@ -12,7 +12,6 @@ name: Bloodline Chanting My Name
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#7c8fa8"
 icons:
   - icon.png

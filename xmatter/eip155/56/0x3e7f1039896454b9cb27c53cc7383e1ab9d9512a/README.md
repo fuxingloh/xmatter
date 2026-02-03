@@ -16,7 +16,6 @@ name: MetFi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#78f7d0"
 icons:
   - icon.png

@@ -6,7 +6,6 @@ name: EnterCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#27b79f"
 icons:
   - icon.png

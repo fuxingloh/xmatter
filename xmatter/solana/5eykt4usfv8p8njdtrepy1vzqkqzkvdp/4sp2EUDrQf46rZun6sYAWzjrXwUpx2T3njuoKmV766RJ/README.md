@@ -10,7 +10,6 @@ name: HAMI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#674b3e"
 icons:
   - icon.png

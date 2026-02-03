@@ -8,7 +8,6 @@ name: Wolf
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#d6844e"
 icons:
   - icon.png

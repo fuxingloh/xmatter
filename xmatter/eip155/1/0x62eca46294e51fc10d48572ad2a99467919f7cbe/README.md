@@ -6,7 +6,6 @@ name: BitcoinCash Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#272524"
 icons:
   - icon.png

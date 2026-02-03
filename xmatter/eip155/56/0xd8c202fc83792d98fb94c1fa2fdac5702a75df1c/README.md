@@ -8,7 +8,6 @@ name: FULLSEND
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#6b1c24"
 icons:
   - icon.png

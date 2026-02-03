@@ -10,7 +10,6 @@ name: Biochar
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.svg
 color: "#141921"
 icons:
   - icon.svg

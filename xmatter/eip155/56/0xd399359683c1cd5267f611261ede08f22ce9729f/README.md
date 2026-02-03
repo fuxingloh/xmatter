@@ -14,7 +14,6 @@ name: Mainstream For The Underground
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dedcd7"
 icons:
   - icon.png

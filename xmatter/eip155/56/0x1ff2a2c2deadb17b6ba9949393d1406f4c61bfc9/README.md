@@ -8,7 +8,6 @@ name: VanCat Egg Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1e0f0b"
 icons:
   - icon.png

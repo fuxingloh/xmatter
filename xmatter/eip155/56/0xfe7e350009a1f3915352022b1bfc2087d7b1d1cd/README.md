@@ -8,7 +8,6 @@ name: Titscoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#dd345d"
 icons:
   - icon.png

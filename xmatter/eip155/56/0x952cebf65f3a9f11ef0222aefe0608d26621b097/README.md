@@ -18,7 +18,6 @@ name: EDXA Labs
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#aed3eb"
 icons:
   - icon.png

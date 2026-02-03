@@ -8,7 +8,6 @@ name: Bitcoin2X
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fb9304"
 icons:
   - icon.png

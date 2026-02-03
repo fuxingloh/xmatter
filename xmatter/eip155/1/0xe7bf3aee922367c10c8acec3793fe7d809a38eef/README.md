@@ -6,7 +6,6 @@ name: BAGS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#caa191"
 icons:
   - icon.png

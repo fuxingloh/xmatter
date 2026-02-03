@@ -8,7 +8,6 @@ name: Travel Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#fb5b47"
 icons:
   - icon.png

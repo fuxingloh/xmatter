@@ -10,7 +10,6 @@ name: Sav3Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#a6a2a4"
 icons:
   - icon.png

@@ -12,7 +12,6 @@ name: Dragonball Z Tribu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e1a979"
 icons:
   - icon.png

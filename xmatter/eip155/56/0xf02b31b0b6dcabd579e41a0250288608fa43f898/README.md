@@ -18,7 +18,6 @@ name: Athos Meta
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#0453b4"
 icons:
   - icon.png

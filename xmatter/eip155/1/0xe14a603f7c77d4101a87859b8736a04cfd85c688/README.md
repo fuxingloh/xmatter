@@ -8,7 +8,6 @@ name: TENA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#1d2d3f"
 icons:
   - icon.png

@@ -8,7 +8,6 @@ name: Mainframe Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#08a5e2"
 icons:
   - icon.png

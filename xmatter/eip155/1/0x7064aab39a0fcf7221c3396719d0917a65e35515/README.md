@@ -6,7 +6,6 @@ name: Cpollo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#3cabf4"
 icons:
   - icon.png

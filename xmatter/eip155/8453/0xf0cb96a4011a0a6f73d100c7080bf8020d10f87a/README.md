@@ -8,7 +8,6 @@ name: Mr Lightspeed Creator Coin
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-icon: icon.png
 color: "#3f3f3f"
 icons:
   - icon.png

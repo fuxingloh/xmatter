@@ -8,7 +8,6 @@ name: IBStoken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#e0cd0a"
 icons:
   - icon.png

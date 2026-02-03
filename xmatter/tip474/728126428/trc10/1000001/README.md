@@ -8,7 +8,6 @@ name: SEED
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-icon: icon.png
 color: "#1c1c1b"
 icons:
   - icon.png

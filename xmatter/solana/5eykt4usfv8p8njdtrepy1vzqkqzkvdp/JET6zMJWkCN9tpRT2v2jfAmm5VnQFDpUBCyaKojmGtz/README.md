@@ -14,7 +14,6 @@ name: Jet Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#cbe5e6"
 icons:
   - icon.png

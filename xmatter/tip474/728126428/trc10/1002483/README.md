@@ -6,7 +6,6 @@ name: GOLDSECURE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-icon: icon.png
 color: "#debd68"
 icons:
   - icon.png

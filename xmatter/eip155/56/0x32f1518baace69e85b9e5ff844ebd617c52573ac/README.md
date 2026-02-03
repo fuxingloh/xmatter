@@ -12,7 +12,6 @@ name: Dexsport
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#7c43e0"
 icons:
   - icon.png

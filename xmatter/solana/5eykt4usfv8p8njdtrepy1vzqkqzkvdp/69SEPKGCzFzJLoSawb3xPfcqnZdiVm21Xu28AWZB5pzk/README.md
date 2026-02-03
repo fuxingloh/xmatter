@@ -10,7 +10,6 @@ name: JizzLord
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-icon: icon.png
 color: "#cdc6b8"
 icons:
   - icon.png

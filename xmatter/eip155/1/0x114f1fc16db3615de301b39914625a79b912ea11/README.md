@@ -8,7 +8,6 @@ name: UFOHotelCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#9da1a6"
 icons:
   - icon.png

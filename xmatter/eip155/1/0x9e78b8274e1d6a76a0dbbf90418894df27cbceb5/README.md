@@ -8,7 +8,6 @@ name: UniFi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icon: icon.png
 color: "#7c1ce4"
 icons:
   - icon.png
