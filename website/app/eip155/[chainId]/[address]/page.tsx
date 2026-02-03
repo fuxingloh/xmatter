@@ -42,7 +42,7 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
           <h1 className="mb-1 text-2xl font-semibold">{data.name}</h1>
           {sentence && <p className="line-clamp-1">{sentence}</p>}
 
-          <div className="mt-12 flex items-center gap-4">
+          <div className="mt-12 flex flex-wrap items-center gap-x-6 gap-y-1">
             {data.links?.map((link) => (
               <FrontmatterLink key={link.url} link={link} />
             ))}
