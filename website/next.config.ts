@@ -46,6 +46,11 @@ const nextConfig: NextConfig = {
       },
     ];
   },
+  async rewrites() {
+    return {
+      beforeFiles: [{ source: "/eip155/:chainId/:address\.md", destination: "/eip155/:chainId/:address/README.md" }],
+    };
+  },
 };
 
 export default nextConfig;
