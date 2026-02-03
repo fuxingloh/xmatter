@@ -5,6 +5,7 @@ import { getDescription } from "@/app/eip155/[chainId]/[address]/frontmatter.jso
 import { getXmatterFile } from "@/app/public";
 import { IconsTab } from "@/app/eip155/[chainId]/[address]/IconsTab";
 import { FrontmatterLink } from "@/app/eip155/[chainId]/[address]/FrontmatterLink";
+import { IdentifierSelect } from "@/app/eip155/[chainId]/[address]/IdentifierSelect";
 import Link from "next/link";
 
 export async function generateStaticParams() {
@@ -83,13 +84,7 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
             )}
           </div>
 
-          <div>
-            <h4 className="text-mono-500 mb-2 text-sm">IDENTIFIER</h4>
-            <div>
-              CAIP10: <span className="font-mono">{`eip155:${chainId}/${address}`}</span>
-              CAIP19, Xmatter Path
-            </div>
-          </div>
+          <IdentifierSelect chainId={chainId} address={address} />
 
           <IconsTab chainId={chainId} address={address} icons={data.icons} />
 
