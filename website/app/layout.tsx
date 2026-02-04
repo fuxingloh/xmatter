@@ -1,4 +1,5 @@
 import "./layout.css";
+import "nextra-theme-docs/style.css";
 
 import type { Metadata } from "next";
 import type { ReactElement, ReactNode } from "react";
