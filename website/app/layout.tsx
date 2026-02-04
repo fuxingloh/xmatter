@@ -53,8 +53,8 @@ function Header() {
           <div className="bg-mono-300 h-4 w-px" />
 
           <div className="border-mono-200 flex min-w-54 items-center gap-1.25 rounded-md border px-2 py-0.75">
-            <SquareSlash className="text-mono-400 size-4.5" />
-            <span className="text-mono-500 text-[15px]">Quick Search</span>
+            <SquareSlash className="text-mono-400 size-4.5 stroke-[1.3px]" />
+            <span className="text-mono-400 text-[15px]">Quick Search</span>
           </div>
         </div>
 
