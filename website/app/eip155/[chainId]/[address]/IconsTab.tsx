@@ -1,18 +1,29 @@
 "use client";
 import Image from "next/image";
+import { useState } from "react";
+import { cx } from "@/components/cx";
 
 export function IconsTab(props: { chainId: string; address: string; icons: string[] }) {
-  const icon = props.icons[0];
+  const [icon, setIcon] = useState(props.icons[0]);
 
   return (
     <div>
-      <div className="mb-2.5 flex items-center justify-between">
+      <div className="mb-3 flex items-end justify-between">
         <h4 className="text-mono-500 text-sm">ICONS</h4>
-        <div className="border-mono-300 bg-mono-100 flex items-center gap-2 rounded-md border">
-          {props.icons.map((icon) => (
-            <div key={icon} className="flex items-center gap-2 px-3 py-1">
-              {icon}
-            </div>
+        <div className="border-mono-200 bg-mono-50 flex items-center gap-0.5 rounded-md border p-0.5">
+          {props.icons.map((thisIcon) => (
+            <button
+              onClick={() => setIcon(thisIcon)}
+              key={thisIcon}
+              className={cx(
+                "hover:bg-mono-200/50 flex cursor-pointer items-center gap-2 rounded-md px-2 py-0.5 transition-colors",
+                {
+                  "bg-mono-200/60": thisIcon === icon,
+                },
+              )}
+            >
+              {thisIcon}
+            </button>
           ))}
         </div>
       </div>
