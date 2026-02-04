@@ -1,4 +1,5 @@
 import type { NextConfig } from "next";
+import nextra from "nextra";
 
 const ContentSecurityPolicy = `
     default-src 'self';
@@ -9,6 +10,11 @@ const ContentSecurityPolicy = `
     frame-ancestors 'none';
     upgrade-insecure-requests;
 `;
+
+const withNextra = nextra({
+  defaultShowCopyCode: true,
+  readingTime: true,
+});
 
 const nextConfig: NextConfig = {
   poweredByHeader: false,
@@ -53,4 +59,4 @@ const nextConfig: NextConfig = {
   },
 };
 
-export default nextConfig;
+export default withNextra(nextConfig);
