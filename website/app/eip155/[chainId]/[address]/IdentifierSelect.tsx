@@ -40,7 +40,7 @@ export function IdentifierSelect(props: { chainId: string; address: string }) {
             if (val) setSelected(val as IdentifierType);
           }}
         >
-          <Select.Trigger className="border-mono-200 bg-mono-50 hover:bg-mono-100 flex cursor-pointer items-center gap-0.75 rounded-md border py-0.75 pr-1 pl-1.75 text-sm transition-colors">
+          <Select.Trigger className="border-mono-200 bg-mono-50 hover:bg-mono-100 flex cursor-pointer items-center gap-0.75 rounded-md border py-1 pr-1.25 pl-2 text-sm transition-colors">
             <Select.Value />
             <Select.Icon>
               <ChevronDown className="size-4" />
@@ -67,7 +67,7 @@ export function IdentifierSelect(props: { chainId: string; address: string }) {
           onClick={handleCopy}
           className="text-mono-400 hover:text-mono-700 shrink-0 cursor-pointer transition-colors"
         >
-          {copied ? <CopyCheck className="size-4.5" /> : <Copy className="size-4.5" />}
+          {copied ? <CopyCheck className="size-4" /> : <Copy className="size-4" />}
         </button>
       </div>
     </div>
