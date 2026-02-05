@@ -39,7 +39,7 @@ function Header() {
   return (
     <header className="border-mono-200 border-b py-2">
       <nav className="mx-auto flex w-full max-w-7xl items-center justify-between px-5">
-        <div className="flex items-center gap-5">
+        <div className="flex items-center">
           <ActiveLink
             href="/"
             mode="exact"
@@ -47,12 +47,12 @@ function Header() {
             activeClassName="!cursor-default hover:!bg-transparent"
           >
             <Xmatter className="size-4.5" />
-            <div className="text-base font-semibold">Xmatter</div>
+            <div className="hidden text-base font-semibold sm:block">Xmatter</div>
           </ActiveLink>
 
-          <div className="bg-mono-300 h-4 w-px" />
+          <div className="bg-mono-300 ml-5 hidden h-4 w-px sm:block" />
 
-          <div className="border-mono-200 flex min-w-54 items-center gap-1.25 rounded-md border px-2 py-0.75">
+          <div className="border-mono-200 ml-5 flex items-center gap-1.25 rounded-md border px-2 py-0.75 sm:min-w-54">
             <SquareSlash className="text-mono-400 size-4.5 stroke-[1.3px]" />
             <span className="text-mono-400 text-[15px]">Quick Search</span>
           </div>
@@ -70,8 +70,10 @@ function Header() {
           >
             <GitHub className="size-4.5" />
           </Link>
-          <div className="bg-mono-300 h-4 w-px" />
-          <ThemeSelection />
+          <div className="hidden items-center gap-4 sm:flex">
+            <div className="bg-mono-300 h-4 w-px" />
+            <ThemeSelection />
+          </div>
         </div>
       </nav>
     </header>

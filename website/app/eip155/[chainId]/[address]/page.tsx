@@ -38,8 +38,8 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
   const sentence = getFirstSentence(data.description);
 
   return (
-    <div className="grid grid-cols-10 gap-12 pb-48">
-      <main className="col-span-10 lg:col-span-7">
+    <div className="grid gap-12 pb-48 lg:grid-cols-10">
+      <main className="lg:col-span-7">
         <div className="mb-4">
           <h1 className="mb-1 text-2xl font-semibold">{data.name}</h1>
           {sentence && <p className="line-clamp-1">{sentence}</p>}
@@ -52,7 +52,7 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
         </div>
 
         <div className="flex flex-col gap-12">
-          <div className="border-mono-200/75 flex flex-wrap items-center gap-12 border-y py-6">
+          <div className="border-mono-200/75 flex flex-wrap items-center gap-x-12 gap-y-6 border-y py-6">
             {chains[chainId] && (
               <div>
                 <h4 className="text-mono-500 text-sm">CHAIN</h4>
@@ -108,7 +108,7 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
         </div>
       </main>
 
-      <aside className="border-mono-200 col-span-10 flex flex-col gap-8 max-lg:border-t max-lg:pt-12 lg:col-span-3">
+      <aside className="border-mono-200 flex flex-col gap-8 max-lg:border-t max-lg:pt-12 lg:col-span-3">
         <div>
           <h4 className="text-mono-500 mb-2 text-sm">PROVENANCE</h4>
           <Provenance provenance={data.provenance} />

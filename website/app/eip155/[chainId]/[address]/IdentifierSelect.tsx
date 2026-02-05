@@ -62,8 +62,8 @@ export function IdentifierSelect(props: { chainId: string; address: string }) {
             </Select.Positioner>
           </Select.Portal>
         </Select.Root>
-        <div className="text-mono-800 border-mono-200 flex items-center gap-1.5 rounded-md border px-2 font-mono text-[15px]">
-          {value}
+        <div className="text-mono-800 border-mono-200 flex items-center gap-1.5 rounded-md border py-2 pr-2 pl-2.5">
+          <div className="font-mono text-sm leading-tight break-all">{value}</div>
           <button
             onClick={handleCopy}
             className="text-mono-400 hover:text-mono-700 shrink-0 cursor-pointer transition-colors"

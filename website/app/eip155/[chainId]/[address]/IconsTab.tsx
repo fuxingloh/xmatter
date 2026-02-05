@@ -26,7 +26,7 @@ export function IconsTab(props: { chainId: string; address: string; icons: strin
           ))}
         </div>
       </div>
-      <div className="grid grid-cols-2 overflow-hidden rounded-lg">
+      <div className="grid overflow-hidden rounded-lg sm:grid-cols-2">
         <div className="bg-mono-100 text-mono-950 flex items-end justify-center gap-4 p-6">
           <IconImage chainId={props.chainId} address={props.address} icon={icon} size={16} />
           <IconImage chainId={props.chainId} address={props.address} icon={icon} size={32} />
