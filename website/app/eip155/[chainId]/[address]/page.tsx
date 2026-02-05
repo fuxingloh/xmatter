@@ -29,6 +29,12 @@ export async function generateMetadata(props: PageProps<"/eip155/[chainId]/[addr
   return {
     title: data.name,
     description: description,
+    icons:
+      data.icons.length > 0
+        ? {
+            icon: `/eip155/${chainId}/${address}/icon`,
+          }
+        : {},
   };
 }
 
