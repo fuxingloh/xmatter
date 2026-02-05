@@ -39,7 +39,7 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
 
   return (
     <div className="grid grid-cols-10 gap-12 pb-48">
-      <main className="col-span-7">
+      <main className="col-span-10 lg:col-span-7">
         <div className="mb-4">
           <h1 className="mb-1 text-2xl font-semibold">{data.name}</h1>
           {sentence && <p className="line-clamp-1">{sentence}</p>}
@@ -60,11 +60,11 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
               </div>
             )}
             <div>
-              <h4 className="text-mono-500 text-sm">CHAINID (EIP155)</h4>
-              <p className="uppercase">{chainId}</p>
+              <h4 className="text-mono-500 text-sm">CHAIN ID</h4>
+              <p className="">eip155:{chainId}</p>
             </div>
             <div>
-              <h4 className="text-mono-500 text-sm">COLOR</h4>
+              <h4 className="text-mono-500 text-sm">ICON COLOR</h4>
               <div className="flex items-center gap-1.5">
                 <p className="uppercase">{data.color}</p>
                 <div className="size-4 rounded-xs" style={{ backgroundColor: data.color }}></div>
@@ -108,7 +108,7 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
         </div>
       </main>
 
-      <aside className="col-span-3 flex flex-col gap-8">
+      <aside className="border-mono-200 col-span-10 flex flex-col gap-8 max-lg:border-t max-lg:pt-12 lg:col-span-3">
         <div>
           <h4 className="text-mono-500 mb-2 text-sm">PROVENANCE</h4>
           <Provenance provenance={data.provenance} />

@@ -8,17 +8,16 @@ export function IconsTab(props: { chainId: string; address: string; icons: strin
 
   return (
     <div>
-      <div className="mb-3 flex items-end justify-between">
-        <h4 className="text-mono-500 text-sm">ICONS</h4>
+      <div className="mb-4 flex items-end gap-2">
         <div className="border-mono-200 bg-mono-50 flex items-center gap-0.5 rounded-md border p-0.5">
           {props.icons.map((thisIcon) => (
             <button
               onClick={() => setIcon(thisIcon)}
               key={thisIcon}
               className={cx(
-                "hover:bg-mono-200/50 flex cursor-pointer items-center gap-2 rounded-md px-2 py-0.5 transition-colors",
+                "hover:bg-mono-200/50 text-mono-500 hover:text-mono-950 flex cursor-pointer items-center gap-2 rounded-[5px] px-2 py-0.5 transition-colors",
                 {
-                  "bg-mono-200/60": thisIcon === icon,
+                  "bg-mono-200/66 text-mono-950": thisIcon === icon,
                 },
               )}
             >

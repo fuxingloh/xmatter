@@ -33,14 +33,14 @@ export function IdentifierSelect(props: { chainId: string; address: string }) {
   return (
     <div>
       <h4 className="text-mono-500 mb-2 text-sm">IDENTIFIER</h4>
-      <div className="flex items-center">
+      <div className="flex flex-wrap items-stretch gap-2">
         <Select.Root
           value={selected}
           onValueChange={(val) => {
             if (val) setSelected(val as IdentifierType);
           }}
         >
-          <Select.Trigger className="border-mono-200 bg-mono-50 hover:bg-mono-100 flex cursor-pointer items-center gap-0.75 rounded-md border py-1 pr-1.25 pl-2 text-sm transition-colors">
+          <Select.Trigger className="border-mono-200 bg-mono-50 hover:bg-mono-100 flex shrink-0 cursor-pointer items-center gap-0.75 rounded-md border py-1.25 pr-1.25 pl-2 text-sm transition-colors">
             <Select.Value />
             <Select.Icon>
               <ChevronDown className="size-4" />
@@ -62,13 +62,15 @@ export function IdentifierSelect(props: { chainId: string; address: string }) {
             </Select.Positioner>
           </Select.Portal>
         </Select.Root>
-        <div className="mr-2 ml-2.5 font-mono text-[15px]">{value}</div>
-        <button
-          onClick={handleCopy}
-          className="text-mono-400 hover:text-mono-700 shrink-0 cursor-pointer transition-colors"
-        >
-          {copied ? <CopyCheck className="size-4" /> : <Copy className="size-4" />}
-        </button>
+        <div className="text-mono-800 border-mono-200 flex items-center gap-1.5 rounded-md border px-2 font-mono text-[15px]">
+          {value}
+          <button
+            onClick={handleCopy}
+            className="text-mono-400 hover:text-mono-700 shrink-0 cursor-pointer transition-colors"
+          >
+            {copied ? <CopyCheck className="size-4" /> : <Copy className="size-4" />}
+          </button>
+        </div>
       </div>
     </div>
   );
