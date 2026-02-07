@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { cx } from "@/components/cx";
 
-type CodeBlock = { filename: string; html: string };
+export type CodeBlock = { filename: string; html: string };
 
 export function CodeExamplesClient(props: { examples: string[]; highlighted: Record<string, CodeBlock[]> }) {
   const [selected, setSelected] = useState(props.examples[0]!);

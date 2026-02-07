@@ -1,6 +1,6 @@
 // @ts-expect-error -- moduleResolution:node can't resolve package exports
 import { createHighlighter } from "shiki/bundle/web";
-import { CodeExamplesClient } from "./CodeExamplesClient";
+import { CodeExamplesClient, type CodeBlock } from "./CodeExamplesClient";
 
 function getExamples(chainId: string, address: string, name: string) {
   return {
@@ -91,7 +91,6 @@ function getExamples(chainId: string, address: string, name: string) {
   };
 }
 
-type CodeBlock = { filename: string; html: string };
 type HighlightedExamples = Record<string, CodeBlock[]>;
 
 export default async function CodeExamples(props: { chainId: string; address: string; name: string }) {
