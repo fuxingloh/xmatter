@@ -30,6 +30,16 @@
   }
 }
 
+@layer base {
+  .shiki {
+    color: light-dark(var(--shiki-light), var(--shiki-dark));
+    background-color: light-dark(var(--shiki-light-bg), var(--shiki-dark-bg));
+  }
+  .shiki span {
+    color: light-dark(var(--shiki-light), var(--shiki-dark));
+  }
+}
+
 @layer utilities {
   .prose code::before,
   .prose code::after {

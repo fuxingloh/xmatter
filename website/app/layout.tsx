@@ -50,7 +50,7 @@ function Header() {
             activeClassName="!cursor-default hover:!bg-transparent"
           >
             <Xmatter className="size-4.5" />
-            <div className="hidden text-base font-semibold sm:block">Xmatter</div>
+            <div className="hidden text-base font-medium sm:block">Xmatter</div>
           </ActiveLink>
 
           <div className="bg-mono-300 ml-5 hidden h-4 w-px sm:block" />

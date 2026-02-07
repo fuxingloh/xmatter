@@ -31,7 +31,10 @@ export function getDescription(data: GrayMatterFile<string>["data"], content?: s
     return data.description;
   }
   if (!content) return undefined;
-  const stripped = removeMd(content).trim();
+  const stripped = removeMd(content)
+    .split("\n")
+    .map((line) => line.trim())
+    .join(" ");
 
   return stripped.length > 200 ? stripped.slice(0, 200) + "…" : stripped;
 }

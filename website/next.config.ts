@@ -69,6 +69,7 @@ const withMDX = createMDX({
             light: "github-light",
             dark: "github-dark",
           },
+          defaultColor: false,
         },
       ],
     ],

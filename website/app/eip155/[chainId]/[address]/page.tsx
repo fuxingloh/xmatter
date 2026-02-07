@@ -149,9 +149,11 @@ function getFirstSentence(description?: string): string | undefined {
   if (!description) return;
 
   const match = description.match(/^.*?[.!?](?:\s|$)/);
-  if (match && match[0].trim().length >= 40) {
+  if (match) {
     return match[0].trim();
   }
+
+  return description;
 }
 
 function Provenance(props: { provenance: string }) {
