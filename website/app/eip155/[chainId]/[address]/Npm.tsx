@@ -1,7 +1,10 @@
+import { cx } from "@/components/cx";
+// import { createHighlighter } from "shiki";
+
 export default function Npm() {
   return (
     <div>
-      <div className="mb-2 flex">
+      <div className="mb-2 flex items-center justify-between gap-2">
         <h4 className="text-mono-950 bg-mono-200/50 flex items-center gap-1.5 rounded-sm px-2 py-1.25 font-mono text-sm select-all">
           <svg viewBox="0 0 24 24" width="16" height="16">
             <path
@@ -11,9 +14,53 @@ export default function Npm() {
           </svg>
           <span>npm add xmatter</span>
         </h4>
+
+        <div className="border-mono-200 bg-mono-50 flex items-center gap-0.5 rounded-md border p-0.5">
+          {["next/server", "next/client"].map((thisExample) => (
+            <button
+              // onClick={() => setSelected(thisExample)}
+              key={thisExample}
+              className={cx(
+                "hover:bg-mono-200/50 text-mono-500 hover:text-mono-950 flex cursor-pointer items-center gap-1.25 rounded-[5px] px-2 py-0.5 transition-colors",
+                {
+                  // "bg-mono-200/66 text-mono-950": thisExample === selected,
+                },
+              )}
+            >
+              {thisExample}
+            </button>
+          ))}
+        </div>
       </div>
 
-      <div></div>
+      <div>{/*<NextServer />*/}</div>
     </div>
   );
 }
+
+// function NextServer() {
+//   return (
+//     <CodeBlock>
+//       {[
+//         "console.log(\"Hello\")",
+//         "console.log(\"World\")",
+//       ].join("\n")}
+//     </CodeBlock>
+//   );
+// }
+//
+// async function CodeBlock(props: {
+//   children: string
+// }) {
+//   const highlighter = await createHighlighter({
+//     themes: ["github-dark", "github-light"],
+//     langs: ["typescript"],
+//   });
+//
+//   const out = highlighter.codeToHtml(props.children, {
+//     lang: "typescript",
+//     theme: "github-dark",
+//   });
+//
+//   return <div dangerouslySetInnerHTML={{ __html: out }} />;
+// }

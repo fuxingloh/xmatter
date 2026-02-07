@@ -15,7 +15,7 @@ export function IconsTab(props: { chainId: string; address: string; icons: strin
               onClick={() => setIcon(thisIcon)}
               key={thisIcon}
               className={cx(
-                "hover:bg-mono-200/50 text-mono-500 hover:text-mono-950 flex cursor-pointer items-center gap-1.25 rounded-[5px] px-2 py-0.25 transition-colors",
+                "hover:bg-mono-200/50 text-mono-500 hover:text-mono-950 flex cursor-pointer items-center gap-1.25 rounded-[5px] px-2 py-px transition-colors",
                 {
                   "bg-mono-200/66 text-mono-950": thisIcon === icon,
                 },
@@ -65,7 +65,7 @@ function IconImage(props: { chainId: string; address: string; icon: string; size
 function IconAcronym(props: { icon: string }) {
   if (props.icon.endsWith(".svg")) {
     return (
-      <svg height="16" viewBox="0 0 20 16" width="16">
+      <svg viewBox="0 0 20 16" height="16" width="16" className="opacity-80">
         <path
           fillRule="evenodd"
           clipRule="evenodd"
@@ -79,7 +79,7 @@ function IconAcronym(props: { icon: string }) {
 
   if (props.icon.endsWith(".png")) {
     return (
-      <svg height="16" viewBox="0 0 20 16" width="16">
+      <svg viewBox="0 0 20 16" height="16" width="16" className="opacity-80">
         <path
           fillRule="evenodd"
           clipRule="evenodd"
@@ -93,7 +93,7 @@ function IconAcronym(props: { icon: string }) {
 
   if (props.icon.endsWith(".jpg") || props.icon.endsWith(".jpeg")) {
     return (
-      <svg height="16" viewBox="0 0 20 16" width="16">
+      <svg viewBox="0 0 20 16" height="16" width="16" className="opacity-80">
         <path
           fillRule="evenodd"
           clipRule="evenodd"
