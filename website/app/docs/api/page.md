@@ -1,5 +1,93 @@
 # API Reference
 
-```ts
-import type { Frontmatter } from "xmatter/schema";
+All endpoints are served from `https://xmatter.org` and follow the [Xmatter Path](/docs/standards/path) convention.
+Responses include `Cache-Control` headers for caching. See [Rate Limits](/docs/rate-limits) for usage limits.
+
+## index.txt
+
+Prefix-indexed existence file for checking whether an address exists without fetching the full resource.
+Returns a newline-separated list of entries matching the given prefix.
+
+```
+GET /{namespace}/{chainId}/{prefix}/index.txt
+```
+
+If there are 256 or fewer matches, the response contains full addresses.
+If there are more than 256 matches, the response contains the next 2-byte sub-prefixes to narrow down the search.
+
+```
+GET /eip155/1/0xc0/index.txt
+
+200 OK
+Content-Type: text/plain
+
+0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2
+0xc00e94cb662c3520282e6f5717214004a7f26888
+```
+
+This is the mechanism that allows [`XmatterClient`](/docs/javascript) to short-circuit early and avoid unnecessary 404 requests.
+The client walks the prefix tree in 2-byte steps until it can determine existence.
+
+## frontmatter.json
+
+Returns the parsed YAML frontmatter from the address's `README.md` as JSON.
+
+```
+GET /{namespace}/{chainId}/{address}/frontmatter.json
+```
+
+```json
+{
+  "name": "WETH",
+  "symbol": "WETH",
+  "decimals": 18,
+  "provenance": "https://github.com/ethereum-optimism/ethereum-optimism.github.io",
+  "standards": ["erc20"],
+  "icons": ["icon.png"],
+  "color": "#ec4899",
+  "links": [{ "name": "website", "url": "https://weth.io/" }]
+}
+```
+
+See [README.md](/docs/standards/markdown) for the full schema.
+
+## icon
+
+Returns the icon as a **256x256 WebP** image, converting from the original format (SVG, PNG, or JPG).
+
+```
+GET /{namespace}/{chainId}/{address}/icon
+```
+
+The endpoint tries `icon.svg`, `icon.png`, and `icon.jpg` in order and returns the first one found.
+
+## icon.webp
+
+Returns the original icon if it is smaller than 25KB, otherwise converts it to a **256x256 WebP** image.
+
+```
+GET /{namespace}/{chainId}/{address}/icon.webp
+```
+
+Use this endpoint when you want to preserve the original format for small icons (e.g. SVGs) while still getting optimized images for larger ones.
+
+## README.md
+
+Returns the raw `README.md` file with YAML frontmatter.
+
+```
+GET /{namespace}/{chainId}/{address}/README.md
+```
+
+```md
+---
+name: WETH
+symbol: WETH
+decimals: 18
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
+---
+
+WETH (Wrapped Ether) is Ethereum's native ETH...
 ```
