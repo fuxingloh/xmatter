@@ -7,7 +7,7 @@ import { IconsTab } from "@/app/eip155/[chainId]/[address]/IconsTab";
 import { FrontmatterLink } from "@/app/eip155/[chainId]/[address]/FrontmatterLink";
 import { IdentifierSelect } from "@/app/eip155/[chainId]/[address]/IdentifierSelect";
 import Link from "next/link";
-import Npm from "@/app/eip155/[chainId]/[address]/Npm";
+import CodeExamples from "@/app/eip155/[chainId]/[address]/CodeExamples";
 
 export async function generateStaticParams() {
   return [
@@ -99,7 +99,9 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
             <Markdown>{content}</Markdown>
           </div>
 
-          <Npm />
+          <div className="border-mono-200 border-t pt-8">
+            <CodeExamples />
+          </div>
         </div>
       </main>
 
