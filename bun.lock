@@ -4,6 +4,9 @@
   "workspaces": {
     "": {
       "name": "@workspace/root",
+      "dependencies": {
+        "shiki": "^3.22.0",
+      },
       "devDependencies": {
         "@types/bun": "^1.3.8",
         "husky": "^9.1.7",
@@ -82,6 +85,7 @@
         "remark-gfm": "^4.0.1",
         "remove-markdown": "^0.6.3",
         "sharp": "^0.34.5",
+        "shiki": "^3.22.0",
         "tailwind-merge": "^3.4.0",
         "xmatter": "workspace:*",
       },

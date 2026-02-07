@@ -23,3 +23,9 @@ export async function XmatterIcon({
 
   return <IconWithFallback src={url.toString()} fallback={fallback} {...props} />;
 }
+
+export const RemotePattern = {
+  protocol: "https",
+  hostname: "xmatter.org",
+  pathname: "/*/*/*/icon",
+} as const;

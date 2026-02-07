@@ -13,6 +13,7 @@ const ContentSecurityPolicy = `
 `;
 
 const nextConfig: NextConfig = {
+  transpilePackages: ["shiki"],
   poweredByHeader: false,
   // TODO(@fuxingloh): https://github.com/vercel/next.js/issues/76612
   cacheComponents: false,
