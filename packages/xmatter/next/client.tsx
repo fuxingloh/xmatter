@@ -35,9 +35,3 @@ export function XmatterIcon({
 }: XmatterIconProps): ReactNode {
   return <IconWithFallback src={`${baseUrl}/${namespace}/${chainId}/${address}/icon`} fallback={fallback} {...props} />;
 }
-
-export const RemotePattern = {
-  protocol: "https",
-  hostname: "xmatter.org",
-  pathname: "/*/*/*/icon",
-} as const;

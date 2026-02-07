@@ -100,7 +100,7 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
           </div>
 
           <div className="border-mono-200 border-t pt-8">
-            <CodeExamples />
+            <CodeExamples chainId={chainId} address={address} name={data.name} />
           </div>
         </div>
       </main>

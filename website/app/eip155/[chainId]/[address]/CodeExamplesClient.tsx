@@ -3,7 +3,9 @@
 import { useState } from "react";
 import { cx } from "@/components/cx";
 
-export function CodeExamplesClient(props: { examples: string[]; highlighted: Record<string, string> }) {
+type CodeBlock = { filename: string; html: string };
+
+export function CodeExamplesClient(props: { examples: string[]; highlighted: Record<string, CodeBlock[]> }) {
   const [selected, setSelected] = useState(props.examples[0]!);
 
   return (
@@ -37,10 +39,19 @@ export function CodeExamplesClient(props: { examples: string[]; highlighted: Rec
         </div>
       </div>
 
-      <div
-        className="[&_pre]:bg-mono-100 overflow-x-auto rounded-lg text-sm [&_pre]:overflow-x-auto [&_pre]:p-4"
-        dangerouslySetInnerHTML={{ __html: props.highlighted[selected]! }}
-      />
+      <div className="flex flex-col gap-3">
+        {props.highlighted[selected]?.map((block) => (
+          <div key={block.filename} className="border-mono-200 overflow-hidden rounded-lg border">
+            <div className="border-mono-200 bg-mono-100/75 flex items-center border-b px-3 py-2.5">
+              <span className="text-mono-500 font-mono text-xs">{block.filename}</span>
+            </div>
+            <div
+              className="[&_pre]:bg-mono-50 overflow-x-auto text-sm [&_pre]:overflow-x-auto [&_pre]:p-4"
+              dangerouslySetInnerHTML={{ __html: block.html }}
+            />
+          </div>
+        ))}
+      </div>
     </div>
   );
 }
