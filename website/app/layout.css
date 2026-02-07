@@ -45,6 +45,9 @@
   .prose code::after {
     content: none;
   }
+  .prose pre {
+    line-height: 1.5;
+  }
   .prose p code,
   .prose table code {
     @apply bg-mono-200/50 text-mono-800 rounded-sm px-1.75 py-0.75 font-mono font-medium;
