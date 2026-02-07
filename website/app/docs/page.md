@@ -4,7 +4,19 @@ Structured metadata for address and smart contracts; building the frontpage for 
 
 ## Motivation
 
-Help you build the frontpage for an address.
+Every blockchain application eventually needs to display human-readable metadata for addresses:
+a name, an icon, a symbol, or some other information.
+Today this information is scattered across token lists, GitHub repos, and proprietary databases
+with no standard way to look it up.
+
+Xmatter is a structured metadata registry that gives every smart contract address a canonical "frontpage".
+Each entry is a `README.md` file with YAML frontmatter, stored in a flat filesystem
+organized by [Xmatter Path](/docs/standards/path) (a URL-safe CAIP-10 identifier).
+
+The registry is designed for efficient reads.
+A [prefix-indexed existence check](/docs/api#indextxt) lets clients short-circuit before fetching,
+so most lookups for non-existent addresses never hit the server.
+The [JavaScript client](/docs/javascript) and [Next.js components](/docs/nextjs) handle this automatically.
 
 ## Network Icons?
 
