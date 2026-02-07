@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@plugin "@tailwindcss/typography";
 
 @theme {
   --color-mono-50: light-dark(rgb(250 250 250), rgb(10 10 10));
@@ -26,5 +27,16 @@
 
   html[data-theme="dark"] {
     color-scheme: dark;
+  }
+}
+
+@layer utilities {
+  .prose code::before,
+  .prose code::after {
+    content: none;
+  }
+  .prose p code,
+  .prose table code {
+    @apply bg-mono-200/50 text-mono-800 rounded-sm px-1.75 py-0.75 font-mono font-medium;
   }
 }

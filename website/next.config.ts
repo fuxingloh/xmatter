@@ -1,4 +1,6 @@
 import type { NextConfig } from "next";
+import createMDX from "@next/mdx";
+import remarkGfm from "remark-gfm";
 
 const ContentSecurityPolicy = `
     default-src 'self';
@@ -12,8 +14,9 @@ const ContentSecurityPolicy = `
 
 const nextConfig: NextConfig = {
   poweredByHeader: false,
-  // TODO(@fuxing): https://github.com/vercel/next.js/issues/76612
+  // TODO(@fuxingloh): https://github.com/vercel/next.js/issues/76612
   cacheComponents: false,
+  pageExtensions: ["md", "mdx", "ts", "tsx"],
   outputFileTracingExcludes: {
     "/*": ["../xmatter/**/*", "./public/**/*"],
   },
@@ -53,4 +56,23 @@ const nextConfig: NextConfig = {
   },
 };
 
-export default nextConfig;
+const withMDX = createMDX({
+  extension: /\.(md|mdx)$/,
+  options: {
+    remarkPlugins: ["remark-gfm"],
+    rehypePlugins: [
+      "rehype-slug",
+      [
+        "@shikijs/rehype",
+        {
+          themes: {
+            light: "github-light",
+            dark: "github-dark",
+          },
+        },
+      ],
+    ],
+  },
+});
+
+export default withMDX(nextConfig);

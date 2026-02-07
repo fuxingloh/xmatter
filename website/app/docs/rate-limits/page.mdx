@@ -1,0 +1,31 @@
+import { EmailReveal } from "./EmailReveal";
+
+# Rate Limits
+
+To prevent abuse of our service,
+we apply a general fair use policy with a shared **rate limit of 300 requests per minute** for `xmatter.org`.
+We might adjust this limit regularly to ensure that our service remains accessible to all users.
+
+For most use cases, you generally don't need to worry about rate limits.
+We design the API around typical access patterns with specialized endpoints to reduce read amplification.
+Because most reads are 404s, a prefix-indexed existence file allows clients to short-circuit early,
+only performing a full read when the key actually exists.
+
+## Caching
+
+[`Cache-Control`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Cache-Control)
+headers are set on all responses to ensure that clients and CDNs can cache responses appropriately.
+Most clients, proxy and CDNs will be able to automatically handle this for you.
+We do not recommend caching responses indefinitely, as this may lead to stale data.
+
+## CORS Preflight Requests
+
+We will not enable CORS for the `xmatter.org` domain.
+You need to proxy requests through your own website/CDN.
+For Next.js projects,
+you can configure `images.remotePatterns` in `next.config.js` to allow image optimization and proxying.
+
+## Customized rate limits
+
+Need customized rate limits? You can help support our project by sponsoring us.
+Contact us at <EmailReveal />.

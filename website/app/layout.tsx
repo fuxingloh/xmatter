@@ -10,12 +10,15 @@ import { Xmatter } from "@/components/icons/Xmatter";
 import Link from "next/link";
 import { ThemeProvider, ThemeSelection } from "@/app/ThemeProvider";
 import { SquareSlash } from "lucide-react";
+import { JetBrains_Mono } from "next/font/google";
+
+const jetBrainsMono = JetBrains_Mono({ subsets: ["latin"], variable: "--font-mono" });
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://xmatter.org"),
   title: {
     template: `%s – Xmatter`,
-    default: `Xmatter - frontpage for address`,
+    default: `Xmatter: Frontpage for Address`,
   },
   description: "Structured metadata for smart contracts, the frontpage of an address.",
 };
@@ -24,7 +27,7 @@ export default function RootLayout(props: { children: ReactNode }): ReactElement
   return (
     <html lang="en" suppressHydrationWarning>
       <head />
-      <body className="bg-mono-50 text-mono-950">
+      <body className={`bg-mono-50 text-mono-950 ${jetBrainsMono.variable}`}>
         <ThemeProvider>
           <Header />
           {props.children}
@@ -37,7 +40,7 @@ export default function RootLayout(props: { children: ReactNode }): ReactElement
 
 function Header() {
   return (
-    <header className="border-mono-200 border-b py-2">
+    <header className="border-mono-200 bg-mono-50 sticky top-0 z-10 border-b py-2">
       <nav className="mx-auto flex w-full max-w-7xl items-center justify-between px-5">
         <div className="flex items-center">
           <ActiveLink
