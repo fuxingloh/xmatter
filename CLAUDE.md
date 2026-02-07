@@ -13,7 +13,12 @@ Xmatter is a structured metadata registry for smart contracts - the "frontpage" 
 - **`packages/agent-base`** - Base class (`FileSystemAgent`) for building data ingestion agents
 - **`packages/agent-ethereum-optimism`** - Agent that ingests from ethereum-optimism/ethereum-optimism.github.io
 - **`packages/agent-trust-wallet`** - Agent that ingests from trustwallet/assets
-- **`website/`** - Next.js 16 website (BUSL-1.1 licensed), uses `../xmatter` as public directory via symlink
+- **`website/`** - Next.js 16 website (BUSL-1.1 licensed), metadata viewer + docs site
+  - `app/` - Next.js App Router pages and layouts
+  - `app/docs/` - Documentation pages written in `.md` and `.mdx`
+  - `app/eip155/[chainId]/[address]/` - Dynamic metadata pages with API routes
+  - `components/` - Shared UI components (`ActiveLink`, `cx`, icons)
+  - `public/` - Symlink to `../xmatter` (metadata files served as static assets)
 
 ## Commands
 
@@ -61,9 +66,52 @@ The `FrontmatterSchema` defines:
 - Solana: `solana/{genesisHash}/{address}`
 - TVM: `tip474/{chainId}/{type}/{address}` (e.g., `tip474/728126428/trc20/...`)
 
+### Website (website/)
+
+**Routing & Pages:**
+
+- Uses Next.js 16 App Router with file-based routing
+- Documentation pages are plain `.md` or `.mdx` files (e.g., `app/docs/api/page.md`)
+- Dynamic metadata pages at `app/eip155/[chainId]/[address]/` with SSG via `generateStaticParams()`
+- API route handlers serve icon files, frontmatter JSON, and plain text at sub-paths (e.g., `icon/route.ts`, `frontmatter.json/route.ts`)
+
+**Data Fetching:**
+
+- `app/public.ts` provides `getXmatterFile(path)` — fetches from the public directory via internal URL, parses YAML frontmatter with `gray-matter`, returns `{ data, content }`
+- Icons are processed with `sharp` for format conversion and optimization (WebP, resizing)
+- Cache headers: `max-age=86400` (24 hours) on API routes
+
+**Styling:**
+
+- Tailwind CSS 4 with `@tailwindcss/postcss` (PostCSS plugin, configured in `postcss.config.mjs`)
+- Custom monochromatic theme using CSS `light-dark()` function in `app/layout.css` (`--color-mono-50` through `--color-mono-950`)
+- `@tailwindcss/typography` plugin for prose/markdown styling
+- `cx()` utility in `components/cx.ts` combines `clsx` + `tailwind-merge`
+
+**Key Libraries:**
+
+- `@base-ui/react` — headless UI primitives (Select component)
+- `lucide-react` — icons
+- `next-themes` — light/dark/system theme switching
+- `@shikijs/rehype` — syntax highlighting in markdown (github-light/dark themes)
+- `remark-gfm`, `rehype-slug` — markdown enhancements
+- `react-markdown` — renders markdown content in dynamic pages
+
+**Component Patterns:**
+
+- Server components by default; client components marked with `'use client'` only when needed (theme toggle, copy button, interactive selectors)
+- Page-specific client components live alongside their page (e.g., `app/eip155/[chainId]/[address]/CopyButton.tsx`)
+- Shared components in `components/` directory
+- MDX components configured in `mdx-components.tsx` at website root
+
+**Security:**
+
+- Strict CSP, HSTS, X-Frame-Options: DENY, nosniff headers configured in `next.config.ts`
+- Metadata base URL: `https://xmatter.org`
+
 ## Technical Stack
 
 - Bun
-- TypeScript 5.9, Vitest for testing
+- TypeScript 5.9
 - Turborepo for monorepo orchestration
 - Website: Next.js 16, React 19, Tailwind CSS 4
