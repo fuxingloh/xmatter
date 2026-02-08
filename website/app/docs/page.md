@@ -1,6 +1,7 @@
 # Xmatter
 
 Structured metadata for address and smart contracts; building the frontpage for an address.
+The npm registry for assets on-chain.
 
 ## Motivation
 
