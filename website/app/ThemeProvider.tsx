@@ -19,20 +19,6 @@ export function ThemeSelection() {
   useEffect(() => {
     // eslint-disable-next-line react-hooks/set-state-in-effect
     setIsClient(true);
-
-    // Dev mode, toggle between light and dark on the "k" key press
-    if (process.env.NODE_ENV !== "development") return;
-
-    const handleKeyDown = (event: KeyboardEvent) => {
-      if ((event.metaKey || event.ctrlKey) && event.key === "k") {
-        event.preventDefault();
-        // Toggle between light and dark only
-        setTheme(theme === "dark" ? "light" : "dark");
-      }
-    };
-
-    window.addEventListener("keydown", handleKeyDown);
-    return () => window.removeEventListener("keydown", handleKeyDown);
   }, [theme, setTheme]);
 
   if (!isClient) {
