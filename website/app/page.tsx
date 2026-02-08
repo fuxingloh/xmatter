@@ -12,7 +12,7 @@ import { CSSProperties } from "react";
 import { RollingText } from "@/app/RollingText";
 import UseXmatterNpm from "@/app/UseXmatterNpm";
 
-export default async function Page() {
+export default function Page() {
   const uris = readFileSync(path.join(process.cwd(), "app", "page-featured.txt"), "utf-8").split("\n");
 
   return (
@@ -25,6 +25,8 @@ export default async function Page() {
             <br />
             The <RollingText /> registry for assets on-chain.
           </p>
+
+          <ProjectStats />
         </div>
         <div>
           <UseXmatterNpm />
@@ -82,5 +84,65 @@ function EntryCard({ uri }: { uri: string }) {
         </div>
       </div>
     </Link>
+  );
+}
+
+function ProjectStats() {
+  const xmatterDir = path.join(process.cwd(), "public");
+  const namespaces = ["eip155", "solana", "tip474"];
+
+  let readmeCount = 0;
+  let iconCount = 0;
+  let totalBytes = 0;
+  const networks = new Set<string>();
+
+  for (const ns of namespaces) {
+    const nsDir = path.join(xmatterDir, ns);
+    if (!fs.existsSync(nsDir)) continue;
+
+    for (const chain of fs.readdirSync(nsDir)) {
+      const chainDir = path.join(nsDir, chain);
+      if (!fs.statSync(chainDir).isDirectory()) continue;
+      networks.add(`${ns}/${chain}`);
+
+      for (const address of fs.readdirSync(chainDir)) {
+        const addrDir = path.join(chainDir, address);
+        if (!fs.statSync(addrDir).isDirectory()) continue;
+
+        for (const file of fs.readdirSync(addrDir)) {
+          const filePath = path.join(addrDir, file);
+          const stat = fs.statSync(filePath);
+          totalBytes += stat.size;
+
+          if (file === "README.md") readmeCount++;
+          if (file.startsWith("icon.")) iconCount++;
+        }
+      }
+    }
+  }
+
+  const formatSize = (bytes: number) => {
+    if (bytes >= 1e9) return `${(bytes / 1e9).toFixed(1)} GB`;
+    if (bytes >= 1e6) return `${(bytes / 1e6).toFixed(0)} MB`;
+    if (bytes >= 1e3) return `${(bytes / 1e3).toFixed(0)} KB`;
+    return `${bytes} B`;
+  };
+
+  const stats = [
+    { label: "Addresses", value: readmeCount.toLocaleString() },
+    { label: "Icons", value: iconCount.toLocaleString() },
+    { label: "Networks", value: networks.size.toLocaleString() },
+    { label: "Total Size", value: formatSize(totalBytes) },
+  ];
+
+  return (
+    <div className="border-mono-200 bg-mono-200 mt-10 grid grid-cols-4 gap-px overflow-hidden rounded-md border">
+      {stats.map((stat) => (
+        <div key={stat.label} className="bg-mono-50 px-4 py-3">
+          <p className="text-lg font-semibold tabular-nums">{stat.value}</p>
+          <p className="text-mono-500 text-xs">{stat.label}</p>
+        </div>
+      ))}
+    </div>
   );
 }
