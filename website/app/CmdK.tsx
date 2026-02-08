@@ -1,22 +1,11 @@
 "use client";
 
+import { docsGroups, docsLinks } from "@/app/docs/links";
 import { DialogTitle } from "@radix-ui/react-dialog";
 import { Command } from "cmdk";
 import { FileText, Search } from "lucide-react";
 import { useRouter } from "next/navigation";
 import { ReactNode, useCallback, useEffect, useState } from "react";
-
-const docs = [
-  { href: "/docs", label: "Xmatter", group: "Documentation" },
-  { href: "/docs/standards/path", label: "Xmatter Path", group: "Standards" },
-  { href: "/docs/standards/markdown", label: "README.md", group: "Standards" },
-  { href: "/docs/api", label: "API Reference", group: "Developers" },
-  { href: "/docs/javascript", label: "JavaScript Client", group: "Developers" },
-  { href: "/docs/nextjs", label: "Next.js", group: "Developers" },
-  { href: "/docs/rate-limits", label: "Rate Limits", group: "Developers" },
-];
-
-const groups = Array.from(new Set(docs.map((d) => d.group)));
 
 export function CmdKMenu() {
   const [open, setOpen] = useState(false);
@@ -62,27 +51,31 @@ export function CmdKMenu() {
         </div>
         <Command.List className="max-h-72 overflow-y-auto p-2">
           <Command.Empty className="text-mono-500 py-6 text-center text-sm">No results found.</Command.Empty>
-          {groups.map((group) => (
-            <Command.Group key={group} heading={group}>
-              {docs
-                .filter((d) => d.group === group)
-                .map((doc) => (
-                  <Command.Item
-                    key={doc.href}
-                    value={`${doc.label} ${doc.group}`}
-                    onSelect={() => onSelect(doc.href)}
-                    className="text-mono-700 data-[selected=true]:bg-mono-200/50 data-[selected=true]:text-mono-950 flex cursor-pointer items-center gap-2.5 rounded-lg px-2.5 py-2 text-sm"
-                  >
-                    <FileText className="size-4 shrink-0" />
-                    {doc.label}
-                  </Command.Item>
-                ))}
-            </Command.Group>
-          ))}
+          <CmdKDocs onSelect={onSelect} />
         </Command.List>
       </div>
     </Command.Dialog>
   );
+}
+
+function CmdKDocs({ onSelect }: { onSelect: (href: string) => void }) {
+  return docsGroups.map((group) => (
+    <Command.Group key={group} heading={group}>
+      {docsLinks
+        .filter((d) => d.group === group)
+        .map((doc) => (
+          <Command.Item
+            key={doc.href}
+            value={`${doc.label} ${doc.group} ${doc.keywords?.join(" ") ?? ""}`}
+            onSelect={() => onSelect(doc.href)}
+            className="text-mono-700 data-[selected=true]:bg-mono-200/50 data-[selected=true]:text-mono-950 flex cursor-pointer items-center gap-2.5 rounded-lg px-2.5 py-2 text-sm"
+          >
+            <FileText className="size-4 shrink-0" />
+            {doc.label}
+          </Command.Item>
+        ))}
+    </Command.Group>
+  ));
 }
 
 export function CmdKTrigger(props: { children: ReactNode; className: string }) {

@@ -1,4 +1,4 @@
-# Xmatter Path
+# Xmatter Path (Resource URI)
 
 Xmatter Path is a resource identifier (URI) standard used within Xmatter
 to determine the canonical identifier for a Xmatter entry.

@@ -1,17 +1,7 @@
 import { cx } from "@/components/cx";
 import { ActiveLink } from "@/components/ActiveLink";
 
-const links = [
-  { href: "/docs", label: "Xmatter" },
-  { href: "Header-Standards", label: "Standards" },
-  { href: "/docs/standards/path", label: "Xmatter Path" },
-  { href: "/docs/standards/markdown", label: "README.md" },
-  { href: "Header-Developers", label: "Developers" },
-  { href: "/docs/api", label: "API Reference" },
-  { href: "/docs/javascript", label: "JavaScript Client" },
-  { href: "/docs/nextjs", label: "Next.js" },
-  { href: "/docs/rate-limits", label: "Rate Limits" },
-];
+import { docsGroups, docsLinks } from "@/app/docs/links";
 
 export default function Layout(props: LayoutProps<"/docs">) {
   return (
@@ -19,29 +9,28 @@ export default function Layout(props: LayoutProps<"/docs">) {
       <div className="flex gap-8">
         <aside className="max-w-56 grow max-md:hidden">
           <ul>
-            {links.map((link) => {
-              if (link.href.startsWith("Header-")) {
-                return (
-                  <li key={link.href}>
-                    <h4 className="text-mono-950 mt-6 border-l-2 border-transparent py-1.5 pl-2.5 text-sm font-medium uppercase">
-                      {link.label}
-                    </h4>
-                  </li>
-                );
-              }
-
-              return (
-                <li key={link.href}>
-                  <ActiveLink
-                    href={link.href}
-                    className="text-mono-500 hover:text-mono-950 hover:bg-mono-200/50 block border-l-2 border-transparent py-1.5 pl-2.5 text-[15px]"
-                    activeClassName="!text-mono-950 !border-mono-700"
-                  >
-                    {link.label}
-                  </ActiveLink>
-                </li>
-              );
-            })}
+            {docsGroups.map((group) => (
+              <li key={group} className="mt-6 first:mt-0">
+                <h4 className="text-mono-950 border-l-2 border-transparent py-1.5 pl-2.5 text-sm font-medium uppercase">
+                  {group}
+                </h4>
+                <ul>
+                  {docsLinks
+                    .filter((link) => link.group === group)
+                    .map((link) => (
+                      <li key={link.href}>
+                        <ActiveLink
+                          href={link.href}
+                          className="text-mono-500 hover:text-mono-950 hover:bg-mono-200/50 block border-l-2 border-transparent py-1.5 pl-2.5 text-[15px]"
+                          activeClassName="!text-mono-950 !border-mono-700"
+                        >
+                          {link.label}
+                        </ActiveLink>
+                      </li>
+                    ))}
+                </ul>
+              </li>
+            ))}
           </ul>
         </aside>
         <article
