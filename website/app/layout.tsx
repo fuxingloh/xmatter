@@ -18,9 +18,9 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://xmatter.org"),
   title: {
     template: `%s – Xmatter`,
-    default: `Xmatter: Frontpage for Address`,
+    default: `Xmatter: README.md for Address`,
   },
-  description: "Structured metadata for smart contracts, the frontpage of an address.",
+  description: "Structured metadata for address and smart contracts. The npm registry for assets on-chain.",
 };
 
 export default function RootLayout(props: { children: ReactNode }): ReactElement {

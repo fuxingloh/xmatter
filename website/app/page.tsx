@@ -15,7 +15,16 @@ export default function Page() {
 
   return (
     <main className="mx-auto w-full max-w-7xl px-5 pt-8 pb-48">
-      <div>
+      <div className="py-8">
+        <h1 className="text-3xl font-semibold">Xmatter</h1>
+        <p className="text-mono-700 mt-2 text-lg">
+          Structured metadata for address and smart contracts.
+          <br />
+          The npm registry for assets on-chain.
+        </p>
+      </div>
+
+      <div className="mt-32">
         <h2 className="mb-3 text-xl font-semibold">Popular examples</h2>
         <div className="border-mono-200 bg-mono-200 grid grid-cols-2 gap-px overflow-hidden rounded-md border sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
           {uris.map((uri) => (
