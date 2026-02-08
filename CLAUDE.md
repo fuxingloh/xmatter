@@ -109,6 +109,10 @@ The `FrontmatterSchema` defines:
 - Strict CSP, HSTS, X-Frame-Options: DENY, nosniff headers configured in `next.config.ts`
 - Metadata base URL: `https://xmatter.org`
 
+## Important: Documentation as Source of Truth
+
+The `website/app/docs/` directory contains the project's own documentation (API reference, standards, etc.). When making changes to APIs, schemas, or behavior, always check if the relevant docs in `website/app/docs/` need updating too. Keep code and docs in sync.
+
 ## Technical Stack
 
 - Bun
