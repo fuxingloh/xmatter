@@ -9,6 +9,7 @@ import { readFileSync } from "fs";
 import Image from "next/image";
 import { getDescription } from "@/app/eip155/[chainId]/[address]/frontmatter.json/route";
 import { CSSProperties } from "react";
+import { RollingText } from "@/app/RollingText";
 
 export default function Page() {
   const uris = readFileSync(path.join(process.cwd(), "app", "page-featured.txt"), "utf-8").split("\n");
@@ -20,7 +21,7 @@ export default function Page() {
         <p className="text-mono-700 mt-2 text-lg">
           Structured metadata for address and smart contracts.
           <br />
-          The npm registry for assets on-chain.
+          The <RollingText /> registry for assets on-chain.
         </p>
       </div>
 
