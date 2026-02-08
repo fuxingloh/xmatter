@@ -61,7 +61,7 @@
     "@types/mdx": "^2.0.13",
     "@types/node": "^24",
     "@types/react": "^19",
-    "eslint": "^9.39.2",
+    "eslint": "^10.0.0",
     "eslint-config-next": "16.1.6",
     "tailwindcss": "^4.1.18"
   }
