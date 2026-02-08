@@ -59,7 +59,7 @@ function EntryCard({ uri }: { uri: string }) {
   return (
     <Link
       href={uri}
-      className="bg-mono-50 group p-4.5 transition-colors hover:bg-(--card-color)/5"
+      className="bg-mono-50 group px-4.5 py-4 transition-colors hover:bg-(--card-color)/5"
       style={{ "--card-color": data.color } as CSSProperties}
     >
       <div className="flex gap-3.5">
@@ -69,7 +69,7 @@ function EntryCard({ uri }: { uri: string }) {
           <p className="text-mono-600 mt-1.25 line-clamp-2 text-[13px] leading-tight">{data.description}</p>
         </div>
       </div>
-      <div className="text-mono-800 mt-3.5 flex flex-wrap items-center gap-2 text-[13px] font-medium">
+      <div className="text-mono-800 mt-4 flex flex-wrap items-center gap-2.25 text-[13px] font-medium">
         <div className="bg-mono-200/25 group-hover:bg-mono-50 rounded-sm px-1.5 py-0.5 uppercase">
           {data.symbol} ({data.decimals})
         </div>
