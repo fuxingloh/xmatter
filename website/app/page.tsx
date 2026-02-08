@@ -33,7 +33,7 @@ export default async function Page() {
 
       <div className="mt-8">
         <h2 className="mb-3 text-xl font-semibold">Popular examples</h2>
-        <div className="border-mono-200 bg-mono-200 grid grid-cols-1 gap-px overflow-hidden rounded-md border sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+        <div className="border-mono-200 bg-mono-200 grid grid-cols-1 gap-px overflow-hidden rounded-md border md:grid-cols-2 lg:grid-cols-3">
           {uris.map((uri) => (
             <EntryCard key={uri} uri={uri} />
           ))}
@@ -59,17 +59,17 @@ function EntryCard({ uri }: { uri: string }) {
   return (
     <Link
       href={uri}
-      className="bg-mono-50 group px-4.5 py-4 transition-colors hover:bg-(--card-color)/5"
+      className="bg-mono-50 group p-5 transition-colors hover:bg-(--card-color)/5"
       style={{ "--card-color": data.color } as CSSProperties}
     >
-      <div className="flex gap-3.5">
+      <div className="flex gap-4">
         <Image src={`${uri}/${data.icons[0]}`} alt={`${data.name} Icon`} width={48} height={48} className="size-12" />
         <div className="grow">
           <h6 className="line-clamp-1 text-base leading-none font-medium">{data.name}</h6>
           <p className="text-mono-600 mt-1.25 line-clamp-2 text-[13px] leading-tight">{data.description}</p>
         </div>
       </div>
-      <div className="text-mono-800 mt-4 flex flex-wrap items-center gap-2.25 text-[13px] font-medium">
+      <div className="text-mono-800 mt-5.25 flex flex-wrap items-center gap-2.75 text-[13px] font-medium">
         <div className="bg-mono-200/25 group-hover:bg-mono-50 rounded-sm px-1.5 py-0.5 uppercase">
           {data.symbol} ({data.decimals})
         </div>
