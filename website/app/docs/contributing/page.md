@@ -1,0 +1,107 @@
+# Contributing
+
+Xmatter is an open registry — anyone can add metadata for a smart contract address by opening a pull request on GitHub.
+Each entry is a directory containing a `README.md` file with YAML frontmatter and an optional icon.
+
+## Step-by-step
+
+### 1. Fork the repository
+
+Fork [fuxingloh/xmatter](https://github.com/fuxingloh/xmatter) on GitHub and clone your fork locally.
+
+### 2. Choose the namespace
+
+Determine which namespace your address belongs to:
+
+| Runtime | Namespace | Directory path                               |
+| ------- | --------- | -------------------------------------------- |
+| EVM     | eip155    | `xmatter/eip155/{chainId}/{address}/`        |
+| SVM     | solana    | `xmatter/solana/{genesisHash}/{address}/`    |
+| TVM     | tip474    | `xmatter/tip474/{chainId}/{type}/{address}/` |
+
+For EVM chains, use the decimal chain ID. Common chain IDs:
+
+| Chain ID | Network           |
+| -------- | ----------------- |
+| 1        | Ethereum          |
+| 10       | Optimism          |
+| 56       | BNB Smart Chain   |
+| 137      | Polygon           |
+| 8453     | Base              |
+| 42161    | Arbitrum One      |
+| 42220    | Celo              |
+| 43114    | Avalanche C‑Chain |
+
+### 3. Create the directory
+
+Create a new directory for your address inside the correct namespace path.
+EVM addresses must be **lowercase** with no checksum.
+
+```
+xmatter/eip155/1/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2/
+```
+
+### 4. Write the README.md
+
+Create a `README.md` file with YAML frontmatter. Required fields are `name`, `provenance`, and `standards`.
+
+```md
+---
+name: My Token
+symbol: MTK
+decimals: 18
+provenance: "https://github.com/fuxingloh/xmatter"
+standards:
+  - erc20
+links:
+  - name: website
+    url: "https://example.com"
+---
+
+A short description of the token or contract.
+```
+
+#### Field reference
+
+| Field         | Required | Description                                              |
+| ------------- | -------- | -------------------------------------------------------- |
+| `name`        | yes      | Human-readable name                                      |
+| `provenance`  | yes      | URL of the data source or contributor                    |
+| `standards`   | yes      | List of standards the contract implements (e.g. `erc20`) |
+| `symbol`      | no       | Token ticker symbol                                      |
+| `decimals`    | no       | Token decimal places                                     |
+| `description` | no       | Short description (also accepted as markdown body)       |
+| `links`       | no       | Array of `{ name, url }` objects                         |
+| `tags`        | no       | Freeform tags for categorization                         |
+
+The `icons` and `color` fields are auto-generated — do not set them manually.
+
+### 5. Add an icon (optional)
+
+Place an icon file in the same directory as the `README.md`.
+Supported formats are **PNG**, **SVG**, and **JPG**. Name it `icon.png`, `icon.svg`, or `icon.jpg`.
+
+Recommendations:
+
+- Square aspect ratio, at least 256 &times; 256 px for raster images
+- Transparent background when possible
+- Keep file size under 100 KB
+
+### 6. Open a pull request
+
+Commit your changes, push to your fork, and open a pull request against `main`.
+The CI will validate the frontmatter schema automatically.
+
+## Automated agents
+
+> If a directory contains a file named `LOCK`, automated agents will not overwrite its contents.
+
+Besides manual contributions, Xmatter runs automated agents that continuously ingest metadata from well-known upstream sources.
+Each agent reads asset data from an external repository, transforms it into the Xmatter schema, and writes it to the `xmatter/` directory.
+
+## Tips
+
+- **EVM address casing** — always use lowercase, no checksum encoding.
+- **Provenance** — set this to the URL of the upstream data source, or your own GitHub profile/repo URL if you are the original author.
+- **One entry per address** — each address gets exactly one directory. If an entry already exists, update it rather than creating a duplicate.
+- **Markdown body** — the content below the frontmatter is rendered as the description on the xmatter website. Keep it concise (1–3 sentences).

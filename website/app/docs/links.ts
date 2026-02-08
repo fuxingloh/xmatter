@@ -6,6 +6,12 @@ export const docsLinks = [
     keywords: ["overview", "introduction", "getting started"],
   },
   {
+    href: "/docs/contributing",
+    label: "Contributing",
+    group: "Documentation",
+    keywords: ["contribute", "submit", "add", "new", "record", "entry", "pull request"],
+  },
+  {
     href: "/docs/standards/path",
     label: "Resource URI",
     group: "Standards",

@@ -64,7 +64,7 @@ function Header() {
           </CmdKTrigger>
 
           <Link
-            href="/docs/contribute"
+            href="/docs/contributing"
             className="text-mono-700 border-mono-200 ml-2 cursor-pointer rounded-md border p-1.25 transition-colors"
           >
             <GitPullRequestCreateArrow className="size-4.5" />
