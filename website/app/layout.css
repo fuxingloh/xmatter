@@ -40,6 +40,12 @@
   }
 }
 
+@layer base {
+  [cmdk-group-heading] {
+    @apply text-mono-500 px-2.5 pt-2 pb-1 text-xs font-medium uppercase;
+  }
+}
+
 @layer utilities {
   .prose code::before,
   .prose code::after {

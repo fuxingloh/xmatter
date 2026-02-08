@@ -9,6 +9,7 @@ import { GitHub } from "@/components/icons/GitHub";
 import { Xmatter } from "@/components/icons/Xmatter";
 import Link from "next/link";
 import { ThemeProvider, ThemeSelection } from "@/app/ThemeProvider";
+import { CmdKMenu, CmdKTrigger } from "@/app/CmdK";
 import { SquareSlash } from "lucide-react";
 import { JetBrains_Mono } from "next/font/google";
 
@@ -31,6 +32,7 @@ export default function RootLayout(props: { children: ReactNode }): ReactElement
         <ThemeProvider>
           <Header />
           {props.children}
+          <CmdKMenu />
         </ThemeProvider>
         <Analytics />
       </body>
@@ -55,10 +57,10 @@ function Header() {
 
           <div className="bg-mono-300 ml-5 hidden h-4 w-px sm:block" />
 
-          <div className="border-mono-200 ml-5 flex items-center gap-1.25 rounded-md border px-2 py-0.75 sm:min-w-54">
+          <CmdKTrigger className="border-mono-200 ml-5 flex items-center gap-1.25 rounded-md border px-2 py-0.75 sm:min-w-54">
             <SquareSlash className="text-mono-400 size-4.5 stroke-[1.3px]" />
             <span className="text-mono-400 text-[15px]">Quick Search</span>
-          </div>
+          </CmdKTrigger>
         </div>
 
         <div className="flex items-center gap-4">
