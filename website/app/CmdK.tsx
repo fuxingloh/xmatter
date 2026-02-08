@@ -219,13 +219,7 @@ function CmdKResources({ onSelect }: { onSelect: (href: string) => void }) {
         const href = `/eip155/${r.chainId}/${r.address}`;
 
         return (
-          <Command.Item
-            key={r.address}
-            value={r.address}
-            onSelect={() => onSelect(href)}
-            className={ITEM_CLASS}
-            forceMount
-          >
+          <Command.Item key={r.address} value={r.address} onSelect={() => onSelect(href)} className={ITEM_CLASS}>
             {isFullAddress ? (
               <ResourceIcon chainId={r.chainId} address={r.address} />
             ) : (
