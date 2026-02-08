@@ -10,13 +10,14 @@ import Image from "next/image";
 import { getDescription } from "@/app/eip155/[chainId]/[address]/frontmatter.json/route";
 import { CSSProperties } from "react";
 import { RollingText } from "@/app/RollingText";
+import UseXmatterNpm from "@/app/UseXmatterNpm";
 
-export default function Page() {
+export default async function Page() {
   const uris = readFileSync(path.join(process.cwd(), "app", "page-featured.txt"), "utf-8").split("\n");
 
   return (
     <main className="mx-auto w-full max-w-7xl px-5 pt-8 pb-48">
-      <div className="grid grid-cols-1 gap-y-12 py-8 lg:grid-cols-2 lg:gap-x-12 lg:gap-y-0">
+      <div className="grid grid-cols-1 gap-y-12 py-6 lg:grid-cols-2 lg:gap-x-12 lg:gap-y-0">
         <div>
           <h1 className="text-3xl font-semibold">Xmatter</h1>
           <p className="text-mono-700 mt-2 text-lg">
@@ -25,12 +26,14 @@ export default function Page() {
             The <RollingText /> registry for assets on-chain.
           </p>
         </div>
-        <div></div>
+        <div>
+          <UseXmatterNpm />
+        </div>
       </div>
 
-      <div className="mt-32">
+      <div className="mt-8">
         <h2 className="mb-3 text-xl font-semibold">Popular examples</h2>
-        <div className="border-mono-200 bg-mono-200 grid grid-cols-2 gap-px overflow-hidden rounded-md border sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+        <div className="border-mono-200 bg-mono-200 grid grid-cols-1 gap-px overflow-hidden rounded-md border sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
           {uris.map((uri) => (
             <EntryCard key={uri} uri={uri} />
           ))}
