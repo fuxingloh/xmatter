@@ -3,7 +3,8 @@
 import { docsGroups, docsLinks } from "@/app/docs/links";
 import { DialogTitle } from "@radix-ui/react-dialog";
 import { Command } from "cmdk";
-import { FileText, Search } from "lucide-react";
+import { FileText, Monitor, Moon, Search, Sun } from "lucide-react";
+import { useTheme } from "next-themes";
 import { useRouter } from "next/navigation";
 import { ReactNode, useCallback, useEffect, useState } from "react";
 
@@ -52,6 +53,7 @@ export function CmdKMenu() {
         <Command.List className="max-h-72 overflow-y-auto p-2">
           <Command.Empty className="text-mono-500 py-6 text-center text-sm">No results found.</Command.Empty>
           <CmdKDocs onSelect={onSelect} />
+          <CmdKTheme onClose={() => setOpen(false)} />
         </Command.List>
       </div>
     </Command.Dialog>
@@ -76,6 +78,33 @@ function CmdKDocs({ onSelect }: { onSelect: (href: string) => void }) {
         ))}
     </Command.Group>
   ));
+}
+
+function CmdKTheme({ onClose }: { onClose: () => void }) {
+  const { setTheme } = useTheme();
+
+  return (
+    <Command.Group heading="Theme">
+      {[
+        { value: "system", label: "System Theme", icon: Monitor, keywords: "system preference auto os" },
+        { value: "light", label: "Light Theme", icon: Sun, keywords: "light bright day" },
+        { value: "dark", label: "Dark Theme", icon: Moon, keywords: "dark night dim" },
+      ].map((item) => (
+        <Command.Item
+          key={item.value}
+          value={`${item.label} theme ${item.keywords}`}
+          onSelect={() => {
+            setTheme(item.value);
+            onClose();
+          }}
+          className="text-mono-700 data-[selected=true]:bg-mono-200/50 data-[selected=true]:text-mono-950 flex cursor-pointer items-center gap-2.5 rounded-lg px-2.5 py-2 text-sm"
+        >
+          <item.icon className="size-4 shrink-0" />
+          {item.label}
+        </Command.Item>
+      ))}
+    </Command.Group>
+  );
 }
 
 export function CmdKTrigger(props: { children: ReactNode; className: string }) {
