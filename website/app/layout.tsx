@@ -12,6 +12,7 @@ import { ThemeProvider, ThemeSelection } from "@/app/ThemeProvider";
 import { CmdKMenu, CmdKTrigger } from "@/app/CmdK";
 import { SquareSlash } from "lucide-react";
 import { JetBrains_Mono } from "next/font/google";
+import { GitPullRequestCreateArrow } from "lucide-react";
 
 const jetBrainsMono = JetBrains_Mono({ subsets: ["latin"], variable: "--font-mono" });
 
@@ -61,6 +62,13 @@ function Header() {
             <SquareSlash className="text-mono-400 size-4.5 stroke-[1.3px]" />
             <span className="text-mono-400 text-[15px]">Quick Search</span>
           </CmdKTrigger>
+
+          <Link
+            href="/docs/contribute"
+            className="text-mono-700 border-mono-200 ml-2 cursor-pointer rounded-md border p-1.25 transition-colors"
+          >
+            <GitPullRequestCreateArrow className="size-4.5" />
+          </Link>
         </div>
 
         <div className="flex items-center gap-4">

@@ -23,7 +23,7 @@ export function ThemeSelection() {
 
   if (!isClient) {
     return (
-      <div className="bg-muted border-mono-200 flex animate-pulse items-center rounded-full border">
+      <div className="bg-mono-200 border-mono-200 flex animate-pulse items-center rounded-full border">
         <div className="size-6.5 rounded-full" />
         <div className="size-6.5 rounded-full" />
         <div className="size-6.5 rounded-full" />
