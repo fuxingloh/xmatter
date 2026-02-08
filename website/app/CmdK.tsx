@@ -1,5 +1,6 @@
 "use client";
 
+import { DialogTitle } from "@radix-ui/react-dialog";
 import { Command } from "cmdk";
 import { FileText, Search } from "lucide-react";
 import { useRouter } from "next/navigation";
@@ -48,6 +49,7 @@ export function CmdKMenu() {
 
   return (
     <Command.Dialog open={open} onOpenChange={setOpen} label="Search documentation" className="fixed inset-0 z-50">
+      <DialogTitle className="sr-only">Search documentation</DialogTitle>
       <div className="fixed inset-0 bg-black/50" onClick={() => setOpen(false)} />
       <div className="bg-mono-50 border-mono-200 fixed top-[20%] left-1/2 w-full max-w-lg -translate-x-1/2 overflow-hidden rounded-xl border shadow-2xl">
         <div className="border-mono-200 flex items-center gap-2 border-b px-3">
