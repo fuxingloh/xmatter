@@ -55,7 +55,7 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
 
   return (
     <div className="grid gap-12 pb-48 lg:grid-cols-10">
-      <main className="lg:col-span-7">
+      <main className="min-w-0 lg:col-span-7">
         <div className="mb-4">
           <h1 className="mb-1 text-2xl font-semibold">{data.name}</h1>
           {sentence && <p className="line-clamp-1">{sentence}</p>}
