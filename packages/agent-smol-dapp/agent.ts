@@ -12,7 +12,6 @@ const tokenAbi = [
 ] as const;
 
 const SKIP_CHAINS = new Set([
-  11155111, // Sepolia
   1151111081099710, // Solana (not EVM)
 ]);
 
@@ -50,13 +49,16 @@ interface TokenEntry {
   decimals?: number;
   hasLogoSvg: boolean;
   hasLogoPng: boolean;
+  readmeExists: boolean;
 }
 
 export class SmolDappAgent extends FileSystemAgent<TokenEntry> {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   private client!: any;
+  private chainId!: number;
 
-  setClient(client: any): void {
+  setChain(chainId: number, client: any): void {
+    this.chainId = chainId;
     this.client = client;
   }
 
@@ -68,6 +70,19 @@ export class SmolDappAgent extends FileSystemAgent<TokenEntry> {
     const hasLogoPng = await hasFile(join(sourcePath, "logo-128.png"));
 
     if (!hasLogoSvg && !hasLogoPng) return undefined;
+
+    const targetPath = join("../../xmatter", `eip155/${this.chainId}/${address.toLowerCase()}`);
+    const readmeExists = await hasFile(join(targetPath, "README.md"));
+
+    if (readmeExists) {
+      return {
+        address,
+        name: address,
+        hasLogoSvg,
+        hasLogoPng,
+        readmeExists: true,
+      };
+    }
 
     try {
       const [name, symbol] = await Promise.all([
@@ -99,6 +114,7 @@ export class SmolDappAgent extends FileSystemAgent<TokenEntry> {
         symbol: symbol ?? undefined,
         hasLogoSvg,
         hasLogoPng,
+        readmeExists: false,
       };
     } catch {
       console.warn(`Skipping ${address}: RPC call failed`);
@@ -126,7 +142,9 @@ export class SmolDappAgent extends FileSystemAgent<TokenEntry> {
     if (data.hasLogoPng) {
       await copyImage(join(source, "logo-128.png"), join(target, "icon.png"));
     }
-    await super.write(uri, data, source, target, file);
+    if (!data.readmeExists) {
+      await super.write(uri, data, source, target, file);
+    }
   }
 }
 
@@ -156,7 +174,7 @@ for (const chainIdStr of await readdir(".repo/tokens")) {
     },
   });
 
-  agent.setClient(client);
+  agent.setChain(chainId, client);
 
   await agent.walk(join(".repo/tokens", chainIdStr), {
     filter: () => true,
