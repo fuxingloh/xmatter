@@ -136,6 +136,70 @@ function useDebouncedPrefix(prefix: string | undefined, delay: number) {
   return debounced;
 }
 
+/** Module-level cache for index.txt responses. Persists across dialog open/close. */
+const indexTxtCache = new Map<string, string[]>();
+
+async function fetchIndexTxt(chainId: string, prefix: string, signal: AbortSignal): Promise<string[]> {
+  const cacheKey = `${chainId}/${prefix}`;
+  const cached = indexTxtCache.get(cacheKey);
+  if (cached) return cached;
+
+  const res = await fetch(`/eip155/${chainId}/${prefix}/index.txt`, { signal });
+  if (!res.ok) return [];
+
+  const lines = (await res.text())
+    .split("\n")
+    .map((l) => l.trim())
+    .filter(Boolean);
+  indexTxtCache.set(cacheKey, lines);
+  return lines;
+}
+
+async function searchByFullAddress(chainId: string, address: string, signal: AbortSignal): Promise<ResourceResult[]> {
+  const res = await fetch(`/eip155/${chainId}/${address}/frontmatter.json`, { signal });
+  if (!res.ok) return [];
+  const data = await res.json();
+  return [{ address, chainId, name: data.name, symbol: data.symbol }];
+}
+
+/**
+ * Walk the prefix trie from "0x" byte-by-byte.
+ * In production, only statically generated prefix levels exist (via generateStaticParams).
+ * The client must follow sub-prefixes returned at each level rather than jumping directly.
+ * Cached responses make subsequent keystrokes resolve instantly.
+ */
+async function searchByPrefix(chainId: string, prefix: string, signal: AbortSignal): Promise<ResourceResult[]> {
+  let cursor = "0x";
+
+  while (true) {
+    const lines = await fetchIndexTxt(chainId, cursor, signal);
+    if (lines.length === 0) return [];
+
+    // Leaf level: lines are full addresses (42 chars) — filter and return
+    if (lines[0].length === 42) {
+      return lines
+        .filter((addr) => addr.toLowerCase().startsWith(prefix))
+        .slice(0, 20)
+        .map((address) => ({ address, chainId }));
+    }
+
+    // Branch level: lines are sub-prefixes (e.g. "0xc0", "0xc02a").
+    // If the user's prefix is long enough to narrow to one branch, drill deeper.
+    const drillTarget = lines.find((p) => prefix.startsWith(p.toLowerCase()) && prefix.length >= p.length);
+
+    if (drillTarget) {
+      cursor = drillTarget.toLowerCase();
+      continue;
+    }
+
+    // User hasn't typed enough to narrow — show matching sub-prefixes
+    return lines
+      .filter((p) => p.toLowerCase().startsWith(prefix))
+      .slice(0, 20)
+      .map((address) => ({ address: address.toLowerCase(), chainId }));
+  }
+}
+
 function useResourceSearch(chainId: string | undefined, prefix: string | undefined) {
   const [state, setState] = useState<{ results: ResourceResult[]; loading: boolean }>({
     results: [],
@@ -150,45 +214,21 @@ function useResourceSearch(chainId: string | undefined, prefix: string | undefin
     const id = ++reqId.current;
     const controller = new AbortController();
 
-    const resolve = (results: ResourceResult[]) => {
-      if (reqId.current === id) setState({ results, loading: false });
-    };
-    const reject = () => {
-      if (reqId.current === id) setState({ results: [], loading: false });
-    };
-
     // eslint-disable-next-line react-hooks/set-state-in-effect
     setState((prev) => ({ ...prev, loading: true }));
 
-    // Full address (42 chars) — skip index.txt, go directly to frontmatter
-    if (prefix!.length === 42) {
-      fetch(`/eip155/${chainId}/${prefix}/frontmatter.json`, { signal: controller.signal })
-        .then((res) => (res.ok ? res.json() : null))
-        .then((data) => {
-          if (data) {
-            resolve([{ address: prefix!, chainId: chainId!, name: data.name, symbol: data.symbol }]);
-          } else {
-            resolve([]);
-          }
-        })
-        .catch(reject);
+    const search =
+      prefix.length === 42
+        ? searchByFullAddress(chainId, prefix, controller.signal)
+        : searchByPrefix(chainId, prefix, controller.signal);
 
-      return () => controller.abort();
-    }
-
-    // Prefix search via index.txt — just show addresses, no enrichment
-    fetch(`/eip155/${chainId}/${prefix}/index.txt`, { signal: controller.signal })
-      .then((res) => (res.ok ? res.text() : ""))
-      .then((text) => {
-        const lines = text
-          .split("\n")
-          .map((l) => l.trim())
-          .filter(Boolean)
-          .slice(0, 20);
-
-        resolve(lines.map((addr) => ({ address: addr, chainId: chainId! })));
+    search
+      .then((results) => {
+        if (reqId.current === id) setState({ results, loading: false });
       })
-      .catch(reject);
+      .catch(() => {
+        if (reqId.current === id) setState({ results: [], loading: false });
+      });
 
     return () => controller.abort();
   }, [valid, chainId, prefix]);
