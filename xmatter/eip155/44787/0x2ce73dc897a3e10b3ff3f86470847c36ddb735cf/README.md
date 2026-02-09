@@ -1,0 +1,12 @@
+---
+name: Wrapped Ether (Celo native bridge)
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
+links: []
+symbol: WETH
+decimals: 18
+icons:
+  - icon.png
+color: "#080707"
+---
