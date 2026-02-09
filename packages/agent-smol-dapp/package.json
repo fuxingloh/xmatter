@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@workspace/agent-base": "workspace:*",
+    "viem": "^2",
     "xmatter": "workspace:*"
   }
 }
