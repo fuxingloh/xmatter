@@ -9,6 +9,12 @@ links:
   - name: telegram
     url: "https://t.me/sombranetwork"
 name: Sombra
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icons:
+  - icon.png
+color: "#14041e"
 ---
 
 Sombra is a social NFT marketplace and gaming ecosystem created to bring collectors, artists and innovators together to make the impossible possible.

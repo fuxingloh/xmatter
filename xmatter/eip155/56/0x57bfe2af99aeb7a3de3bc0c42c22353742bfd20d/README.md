@@ -19,6 +19,12 @@ links:
   - name: github
     url: "https://github.com/Waterrabbittoken"
 name: WATER RABBIT
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icons:
+  - icon.png
+color: "#042b53"
 ---
 
 WATER RABBIT is a Decentralized Meme Deflationary Asset Driven Fully By The Community Of Shanvere DAO.

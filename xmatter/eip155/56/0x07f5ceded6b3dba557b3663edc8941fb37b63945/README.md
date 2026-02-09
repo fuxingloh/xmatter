@@ -11,6 +11,12 @@ links:
   - name: whitepaper
     url: "https://littleangrybunnyv2.com/assets/WHITE-PAPER-LAB.pdf"
 name: Little Angry Bunny v2
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icons:
+  - icon.png
+color: "#0f1d26"
 ---
 
 Little Angry Bunny V2 is committed to provide a decentralized transaction network under Binance Smart Chain (BEP-20) with a maximum circulating supply of 10 septillion. There is no main owner of the LAB token. It is purely Community driven Token.

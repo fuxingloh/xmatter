@@ -17,6 +17,12 @@ links:
   - name: reddit
     url: "https://reddit.com/r/LabsGroupio/"
 name: LABS Group
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icons:
+  - icon.png
+color: "#acc4fc"
 ---
 
 LABS is disrupting real estate investments in the largest asset class through the world's first end to end real estate investment ecosystem by fractionalizing real estate investments. Powered by the LABS ecosystem token through decentralized finance (DeFi) and governance.\n\nLABS tokens are utility tokens with the G.A.I.N.S. model, namely governance, access (to projects), Incentives, nomination (rights) and staking (for rewards).

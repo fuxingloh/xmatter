@@ -17,6 +17,12 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/lunagens/"
 name: LunaGens
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icons:
+  - icon.png
+color: "#1ed174"
 ---
 
 We are KYC'ed by Doken, we want to make sure that our investors are comfortable while investing in LunaGens.

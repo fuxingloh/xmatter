@@ -5,4 +5,10 @@ links:
   - name: website
     url: "https://vianex-org.site/"
 name: VianeXGold
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icons:
+  - icon.png
+color: "#4d4313"
 ---

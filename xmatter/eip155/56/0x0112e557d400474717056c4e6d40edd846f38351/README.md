@@ -15,6 +15,12 @@ links:
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/phala-network/"
 name: Phala Network
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icons:
+  - icon.png
+color: "#cef654"
 ---
 
 Phala Network is a privacy-preserving cloud computing service, which offers computing power comparable to existing cloud services and protects the privacy of managed programs.

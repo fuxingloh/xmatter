@@ -11,6 +11,12 @@ links:
   - name: reddit
     url: "https://reddit.com/user/nftsollar/"
 name: Solar Systems
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icons:
+  - icon.png
+color: "#cb4b16"
 ---
 
 CREATE YOUR OWN UNIQUE SOLAR SYSTEM on Binance Smart Chain.

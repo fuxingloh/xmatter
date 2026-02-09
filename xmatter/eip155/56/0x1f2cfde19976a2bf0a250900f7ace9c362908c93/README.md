@@ -14,6 +14,12 @@ links:
   - name: telegram
     url: "https://t.me/azworld_global"
 name: AZ World SocialFi
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icons:
+  - icon.png
+color: "#04040b"
 ---
 
 AZ World - The First SocialFi To Earn on BSC

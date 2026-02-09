@@ -5,6 +5,12 @@ links:
   - name: website
     url: "https://SpaceVikings.finance"
 name: SpaceVikings Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icons:
+  - icon.png
+color: "#c7cec4"
 ---
 
 SpaceVikings is a Danish DeFi Crypto project with real life use cases

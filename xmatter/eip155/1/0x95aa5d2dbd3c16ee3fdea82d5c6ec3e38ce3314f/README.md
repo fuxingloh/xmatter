@@ -17,6 +17,12 @@ links:
   - name: medium
     url: "https://pointpay.medium.com/"
 name: PointPay Crypto Banking Token V2
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icons:
+  - icon.png
+color: "#2498fb"
 ---
 
 PXP is a native utility token of the PointPay ecosystem. It lies at the heart of our platform, acting as a means of exchange.
