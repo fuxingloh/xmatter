@@ -2,7 +2,7 @@ import { readFile } from "node:fs/promises";
 import { join } from "node:path";
 
 import { XmatterFile } from "xmatter/schema";
-import { FileSystemAgent, hasFile, copyImage } from "@workspace/agent-base/fs";
+import { FileSystemAgent, copyImage } from "@workspace/agent-base/fs";
 
 interface Info {
   name: string;
