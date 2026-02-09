@@ -17,6 +17,12 @@ links:
   - name: telegram
     url: "https://t.me/StackerVentures"
 name: Stacker Ventures Token (PoS)
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icons:
+  - icon.png
+color: "#6434fc"
 ---
 
 Stacker Ventures is a community-run protocol for initiating and managing pooled capital on the blockchain.

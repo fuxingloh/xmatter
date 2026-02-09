@@ -31,6 +31,12 @@ links:
   - name: medium
     url: "https://medium.com/@buddy.dao12"
 name: Buddy DAO
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icons:
+  - icon.png
+color: "#1b2d54"
 ---
 
 BDY is the governance token for Buddy DAO a global credit network
