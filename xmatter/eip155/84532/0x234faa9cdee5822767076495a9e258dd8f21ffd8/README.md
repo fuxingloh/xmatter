@@ -1,5 +1,5 @@
 ---
-name: "Testnet Syndicate "
+name: Testnet Syndicate
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
