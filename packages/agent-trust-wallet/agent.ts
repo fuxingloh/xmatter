@@ -261,6 +261,11 @@ await agent.walk(".repo/blockchains/linea/assets", {
   toUri: (data) => `eip155/59144/${data.id.toLowerCase()}`,
 });
 
+await agent.walk(".repo/blockchains/tomochain/assets", {
+  filter: (data) => data.type === "TRC21",
+  toUri: (data) => `eip155/88/${data.id.toLowerCase()}`,
+});
+
 await agent.walk(".repo/blockchains/megaeth/assets", {
   filter: (data) => data.type === "MEGAETH",
   toUri: (data) => `eip155/4326/${data.id.toLowerCase()}`,
