@@ -34,6 +34,14 @@
         "xmatter": "workspace:*",
       },
     },
+    "packages/agent-smol-dapp": {
+      "name": "@workspace/agent-smol-dapp",
+      "version": "0.0.0",
+      "dependencies": {
+        "@workspace/agent-base": "workspace:*",
+        "xmatter": "workspace:*",
+      },
+    },
     "packages/agent-trust-wallet": {
       "name": "@workspace/agent-trust-wallet",
       "version": "0.0.0",
@@ -468,6 +476,8 @@
     "@workspace/agent-base": ["@workspace/agent-base@workspace:packages/agent-base"],
 
     "@workspace/agent-ethereum-optimism": ["@workspace/agent-ethereum-optimism@workspace:packages/agent-ethereum-optimism"],
+
+    "@workspace/agent-smol-dapp": ["@workspace/agent-smol-dapp@workspace:packages/agent-smol-dapp"],
 
     "@workspace/agent-trust-wallet": ["@workspace/agent-trust-wallet@workspace:packages/agent-trust-wallet"],
 
