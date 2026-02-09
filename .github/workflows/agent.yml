@@ -32,6 +32,9 @@ jobs:
           - agent: agent-ethereum-optimism
             repo: ethereum-optimism/ethereum-optimism.github.io
             ref: master
+          - agent: agent-smol-dapp
+            repo: SmolDapp/tokenAssets
+            ref: main
     steps:
       - uses: actions/checkout@v6
       - uses: ./.github/actions/setup
