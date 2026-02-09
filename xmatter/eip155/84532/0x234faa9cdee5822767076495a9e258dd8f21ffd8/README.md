@@ -1,0 +1,18 @@
+---
+name: Testnet Syndicate
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
+links:
+  - name: website
+    url: "https://syndicate.io"
+  - name: x
+    url: "https://x.com/syndicateio"
+symbol: TestnetSYND
+decimals: 18
+icons:
+  - icon.svg
+color: "#cdcdcd"
+---
+
+Syndicate is infrastructure for building and scaling appchains with programmable onchain sequencers.
