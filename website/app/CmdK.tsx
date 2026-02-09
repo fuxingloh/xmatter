@@ -1,6 +1,6 @@
 "use client";
 
-import { docsGroups, docsLinks } from "@/app/docs/links";
+import { docsGroups, docsLinks } from "@/app/docs";
 import { DialogTitle } from "@radix-ui/react-dialog";
 import { Command, useCommandState } from "cmdk";
 import { FileText, Hexagon, Monitor, Moon, Search, Sun } from "lucide-react";

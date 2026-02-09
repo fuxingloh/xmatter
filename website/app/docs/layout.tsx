@@ -1,7 +1,7 @@
 import { cx } from "@/components/cx";
 import { ActiveLink } from "@/components/ActiveLink";
 
-import { docsGroups, docsLinks } from "@/app/docs/links";
+import { docsGroups, docsLinks } from "@/app/docs/index";
 
 export default function Layout(props: LayoutProps<"/docs">) {
   return (
