@@ -1,0 +1,12 @@
+---
+name: Curve DAO Token
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
+links: []
+symbol: CRV
+decimals: 18
+icons:
+  - icon.png
+color: "#1fcbdb"
+---

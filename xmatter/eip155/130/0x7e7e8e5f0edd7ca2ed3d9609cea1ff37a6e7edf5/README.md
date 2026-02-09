@@ -1,0 +1,12 @@
+---
+name: 0x Protocol Token
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
+links: []
+symbol: ZRX
+decimals: 18
+icons:
+  - icon.png
+color: "#040404"
+---

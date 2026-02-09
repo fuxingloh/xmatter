@@ -1,0 +1,18 @@
+---
+name: UTUCoinMock
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
+links:
+  - name: website
+    url: "https://utu.io"
+  - name: x
+    url: "https://x.com/UTUtrust"
+symbol: UTUM
+decimals: 18
+icons:
+  - icon.svg
+color: "#ead66d"
+---
+
+UTU Coin is the utility token of the UTU decentralised reputation protocol.
