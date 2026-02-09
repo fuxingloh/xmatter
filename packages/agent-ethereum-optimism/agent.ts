@@ -2,7 +2,33 @@ import { readFile } from "node:fs/promises";
 import { join } from "node:path";
 
 import { XmatterFile } from "xmatter/schema";
-import { FileSystemAgent, hasFile, copyImage } from "@workspace/agent-base/fs";
+import { FileSystemAgent, copyImage } from "@workspace/agent-base/fs";
+
+const CHAINS: { chain: string; chainId: number }[] = [
+  { chain: "ethereum", chainId: 1 },
+  { chain: "optimism", chainId: 10 },
+  { chain: "base", chainId: 8453 },
+  { chain: "unichain", chainId: 130 },
+  { chain: "optimism-sepolia", chainId: 11155420 },
+  { chain: "base-sepolia", chainId: 84532 },
+  { chain: "unichain-sepolia", chainId: 1301 },
+  { chain: "sepolia", chainId: 11155111 },
+  { chain: "mode", chainId: 34443 },
+  { chain: "lisk", chainId: 1135 },
+  { chain: "lisk-sepolia", chainId: 4202 },
+  { chain: "redstone", chainId: 690 },
+  { chain: "metall2", chainId: 1750 },
+  { chain: "metall2-sepolia", chainId: 1740 },
+  { chain: "soneium", chainId: 1868 },
+  { chain: "soneium-minato", chainId: 1946 },
+  { chain: "celo", chainId: 42220 },
+  { chain: "celo-sepolia", chainId: 44787 },
+  { chain: "swellchain", chainId: 1923 },
+  { chain: "ink", chainId: 57073 },
+  { chain: "ink-sepolia", chainId: 763373 },
+  { chain: "worldchain", chainId: 480 },
+  { chain: "worldchain-sepolia", chainId: 4801 },
+];
 
 interface Token {
   address: string;
@@ -62,18 +88,16 @@ export class EthereumOptimism extends FileSystemAgent<TokenData> {
       content: data.description,
     };
 
-    if (uri.startsWith("eip155/1/") && data.tokens.ethereum.overrides) {
-      file.data.name = data.tokens.ethereum.overrides?.name ?? data.name;
-      file.data.symbol = data.tokens.ethereum.overrides?.symbol ?? data.symbol;
-      file.data.decimals = data.tokens.ethereum.overrides?.decimals ?? data.decimals;
-    } else if (uri.startsWith("eip155/10/") && data.tokens.optimism.overrides) {
-      file.data.name = data.tokens.optimism.overrides?.name ?? data.name;
-      file.data.symbol = data.tokens.optimism.overrides?.symbol ?? data.symbol;
-      file.data.decimals = data.tokens.optimism.overrides?.decimals ?? data.decimals;
-    } else if (uri.startsWith("eip155/8453/") && data.tokens.base.overrides) {
-      file.data.name = data.tokens.base.overrides?.name ?? data.name;
-      file.data.symbol = data.tokens.base.overrides?.symbol ?? data.symbol;
-      file.data.decimals = data.tokens.base.overrides?.decimals ?? data.decimals;
+    for (const { chain, chainId } of CHAINS) {
+      if (uri.startsWith(`eip155/${chainId}/`)) {
+        const overrides = data.tokens[chain]?.overrides;
+        if (overrides) {
+          file.data.name = overrides.name ?? data.name;
+          file.data.symbol = overrides.symbol ?? data.symbol;
+          file.data.decimals = overrides.decimals ?? data.decimals;
+        }
+        break;
+      }
     }
 
     return file;
@@ -82,22 +106,9 @@ export class EthereumOptimism extends FileSystemAgent<TokenData> {
 
 const agent = new EthereumOptimism();
 
-await agent.walk(".repo/data", {
-  filter: (data) => !!data.tokens.ethereum,
-  toUri: (data) => `eip155/1/${data.tokens.ethereum.address.toLowerCase()}`,
-});
-
-await agent.walk(".repo/data", {
-  filter: (data) => !!data.tokens.optimism,
-  toUri: (data) => `eip155/10/${data.tokens.optimism.address.toLowerCase()}`,
-});
-
-await agent.walk(".repo/data", {
-  filter: (data) => !!data.tokens.base,
-  toUri: (data) => `eip155/8453/${data.tokens.base.address.toLowerCase()}`,
-});
-
-await agent.walk(".repo/data", {
-  filter: (data) => !!data.tokens.sepolia,
-  toUri: (data) => `eip155/11155111/${data.tokens.sepolia.address.toLowerCase()}`,
-});
+for (const { chain, chainId } of CHAINS) {
+  await agent.walk(".repo/data", {
+    filter: (data) => !!data.tokens[chain],
+    toUri: (data) => `eip155/${chainId}/${data.tokens[chain]!.address.toLowerCase()}`,
+  });
+}
