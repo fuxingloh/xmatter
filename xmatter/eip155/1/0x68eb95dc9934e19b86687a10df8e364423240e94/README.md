@@ -5,4 +5,10 @@ links:
   - name: website
     url: "https://ftx.com/tokens/BULL"
 name: 3X Long Bitcoin Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+icons:
+  - icon.png
+color: "#5ecbdc"
 ---
