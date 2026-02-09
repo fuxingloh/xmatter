@@ -1,13 +1,9 @@
 import { z } from "zod";
 
 export const FrontmatterSchema = z.object({
-  name: z
-    .string()
-    .min(1)
-    .regex(/^(?!\s)(?!.*\s$).*$/)
-    .describe("Name of the token"),
-  description: z.string().optional(),
+  name: z.string().nonempty().max(100).describe("Name of the token"),
   provenance: z.string().describe("Where did this entry come from?"),
+  description: z.string().optional(),
   standards: z.array(z.string()),
   tags: z.array(z.string()).optional(),
   links: z
