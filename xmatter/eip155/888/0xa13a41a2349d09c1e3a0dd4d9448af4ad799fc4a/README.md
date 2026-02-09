@@ -1,0 +1,12 @@
+---
+name: BlockMedx Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+links: []
+symbol: MDX
+decimals: 18
+icons:
+  - icon.png
+color: "#9f599f"
+---

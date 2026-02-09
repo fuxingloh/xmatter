@@ -1,0 +1,12 @@
+---
+name: Treeigh
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+links: []
+symbol: TREEG1
+decimals: 0
+icons:
+  - icon.png
+color: "#292111"
+---

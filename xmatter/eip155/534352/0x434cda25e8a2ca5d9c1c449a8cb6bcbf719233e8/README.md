@@ -1,0 +1,26 @@
+---
+name: Uniswap
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+links:
+  - name: website
+    url: "https://uniswap.org"
+  - name: discord
+    url: "https://discord.com/invite/XErMcTq"
+  - name: x
+    url: "https://x.com/UniswapProtocol"
+  - name: blog
+    url: "https://uniswap.org/blog/uni/"
+  - name: coinmarketcap
+    url: "https://coinmarketcap.com/currencies/uniswap/"
+  - name: coingecko
+    url: "https://coingecko.com/en/coins/uniswap/"
+symbol: UNI
+decimals: 18
+icons:
+  - icon.png
+color: "#fcecf4"
+---
+
+UNI is the Uniswap protocol token. Uniswap is a decentralized protocol for automated liquidity provision on Ethereum.

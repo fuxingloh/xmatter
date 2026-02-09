@@ -1,0 +1,12 @@
+---
+name: BitUnits Proof of Work Reward
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+links: []
+symbol: BPOWR
+decimals: 18
+icons:
+  - icon.png
+color: "#d8a407"
+---
