@@ -1,0 +1,12 @@
+---
+name: iETC
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+links: []
+symbol: iETC
+decimals: 4
+icons:
+  - icon.png
+color: "#0b04f3"
+---
