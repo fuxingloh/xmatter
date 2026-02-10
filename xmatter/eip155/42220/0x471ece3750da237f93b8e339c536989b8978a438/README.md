@@ -12,8 +12,9 @@ name: Celo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fbfb54"
+color: "#fbfb53"
 icons:
+  - icon.svg
   - icon.png
 ---
 

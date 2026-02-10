@@ -12,8 +12,9 @@ name: LERNITAS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d8af72"
+color: "#d6a876"
 icons:
+  - icon.svg
   - icon.png
 ---
 

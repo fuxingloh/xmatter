@@ -12,8 +12,9 @@ name: OpenXSwap Gov
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2a293b"
+color: "#000000"
 icons:
+  - icon.svg
   - icon.png
 ---
 

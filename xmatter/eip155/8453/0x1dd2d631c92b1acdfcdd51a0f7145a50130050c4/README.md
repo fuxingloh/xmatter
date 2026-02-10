@@ -16,8 +16,9 @@ name: AlienBase Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e9f1f4"
+color: "#3279fc"
 icons:
+  - icon.svg
   - icon.png
 ---
 

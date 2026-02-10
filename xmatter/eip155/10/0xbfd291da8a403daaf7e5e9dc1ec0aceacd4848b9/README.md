@@ -9,4 +9,5 @@ standards:
 color: "#282f45"
 icons:
   - icon.svg
+  - icon.png
 ---

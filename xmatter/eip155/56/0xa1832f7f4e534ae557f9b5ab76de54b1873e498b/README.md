@@ -10,8 +10,9 @@ name: CreatorBid
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0c0c1b"
+color: "#040404"
 icons:
+  - icon.svg
   - icon.png
 ---
 

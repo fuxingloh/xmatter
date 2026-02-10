@@ -16,8 +16,9 @@ name: Aave Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#807aae"
+color: "#9494f4"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -12,8 +12,9 @@ name: OpenX Optimism
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2a293b"
+color: "#040404"
 icons:
+  - icon.svg
   - icon.png
 ---
 

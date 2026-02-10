@@ -12,6 +12,7 @@ symbol: MTL
 decimals: 8
 icons:
   - icon.svg
+  - icon.png
 color: "#fcb725"
 ---
 

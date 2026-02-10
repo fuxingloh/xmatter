@@ -12,6 +12,7 @@ symbol: CANA
 decimals: 18
 icons:
   - icon.svg
+  - icon.png
 color: "#1d2d3d"
 ---
 

@@ -14,8 +14,9 @@ name: CyberConnect
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#040404"
+color: "#c1f1c0"
 icons:
+  - icon.svg
   - icon.png
 ---
 

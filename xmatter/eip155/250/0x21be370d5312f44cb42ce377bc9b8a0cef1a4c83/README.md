@@ -17,8 +17,9 @@ links:
 symbol: WFTM
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#446cd3"
+color: "#c1d6fc"
 ---
 
 Fantom is a high-performance, scalable, customizable, and secure smart-contract platform. It is designed to overcome the limitations of previous generation blockchain platforms. Fantom is permissionless, decentralized, and open-source.

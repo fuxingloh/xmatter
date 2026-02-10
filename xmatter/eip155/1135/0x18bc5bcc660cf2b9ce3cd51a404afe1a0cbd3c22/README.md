@@ -12,6 +12,7 @@ symbol: IDRX
 decimals: 2
 icons:
   - icon.svg
+  - icon.png
 color: "#0c54e4"
 ---
 

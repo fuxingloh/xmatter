@@ -10,8 +10,9 @@ name: Morpheus
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1ca76c"
+color: "#18ac6e"
 icons:
+  - icon.svg
   - icon.png
 ---
 

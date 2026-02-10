@@ -16,8 +16,9 @@ name: Trackgood AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#42aaa4"
+color: "#3caca4"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -10,7 +10,8 @@ name: Bankless Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#040404"
+color: "#060505"
 icons:
+  - icon.svg
   - icon.png
 ---

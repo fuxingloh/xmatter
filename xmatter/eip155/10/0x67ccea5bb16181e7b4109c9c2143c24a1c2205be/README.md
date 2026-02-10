@@ -13,6 +13,7 @@ standards:
 color: "#f12e47"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Frax Shares (FXS) is the seigniorage token in the Frax protocol.

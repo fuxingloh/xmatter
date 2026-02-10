@@ -13,6 +13,7 @@ standards:
 color: "#493597"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 TKAI is TAIKAI’s native ERC-20 utility token which will be used as a medium of exchange within the TAIKAI Hackathon and Garden Ecosystem.

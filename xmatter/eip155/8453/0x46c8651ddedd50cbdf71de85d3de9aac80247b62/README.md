@@ -13,6 +13,7 @@ standards:
 color: "#c474eb"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 A GameFi token

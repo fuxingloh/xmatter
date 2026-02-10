@@ -17,8 +17,9 @@ links:
 symbol: LINK
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#335cd3"
+color: "#2c5cdc"
 ---
 
 A blockchain-based middleware, acting as a bridge between cryptocurrency smart contracts, data feeds, APIs and traditional bank account payments.

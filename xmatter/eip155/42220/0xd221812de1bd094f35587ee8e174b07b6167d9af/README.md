@@ -7,6 +7,7 @@ links: []
 symbol: WETH
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#080707"
+color: "#120e10"
 ---
