@@ -13,6 +13,7 @@ standards:
 color: "#e5ef95"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Gyroscope's governance token. Gyroscope makes superliquidity simple: efficient, passive access to concentrated liquidity and superliquid stablecoin yield.

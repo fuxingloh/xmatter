@@ -19,8 +19,9 @@ links:
 symbol: USDC
 decimals: 6
 icons:
+  - icon.svg
   - icon.png
-color: "#2373cb"
+color: "#2474cc"
 ---
 
 USDC is a fully collateralized US dollar stablecoin, an Ethereum powered coin and is the brainchild of CENTRE, an open source project bootstrapped by contributions from Circle and Coinbase.

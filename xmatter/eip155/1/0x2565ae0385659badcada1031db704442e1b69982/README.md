@@ -14,8 +14,9 @@ name: ASSEMBLE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d9d9d9"
+color: "#040404"
 icons:
+  - icon.svg
   - icon.png
 ---
 

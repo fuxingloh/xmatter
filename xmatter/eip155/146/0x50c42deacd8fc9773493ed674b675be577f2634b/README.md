@@ -13,8 +13,9 @@ links:
 symbol: WETH
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#080707"
+color: "#646c8c"
 ---
 
 To find out even more about this project, check out our deep dive of WETH.

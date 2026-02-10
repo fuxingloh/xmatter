@@ -13,6 +13,7 @@ standards:
 color: "#cdddfc"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 To add description later

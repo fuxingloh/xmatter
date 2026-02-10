@@ -12,8 +12,9 @@ name: Molten
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ea4a46"
+color: "#de513d"
 icons:
+  - icon.svg
   - icon.png
 ---
 

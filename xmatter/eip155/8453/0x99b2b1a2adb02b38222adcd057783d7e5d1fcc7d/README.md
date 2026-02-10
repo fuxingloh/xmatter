@@ -16,8 +16,9 @@ name: Common Wealth Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1c1e1e"
+color: "#04fbbb"
 icons:
+  - icon.svg
   - icon.png
 ---
 

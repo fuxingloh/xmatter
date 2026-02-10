@@ -13,6 +13,7 @@ standards:
 color: "#23e3db"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Glo Dollar is the stablecoin that funds public goods.

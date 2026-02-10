@@ -12,8 +12,9 @@ name: Lyra Finance
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#3fdca0"
+color: "#141414"
 icons:
+  - icon.svg
   - icon.png
 ---
 

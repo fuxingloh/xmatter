@@ -13,6 +13,7 @@ standards:
 color: "#277bfc"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Real yield, maximized on layer 2

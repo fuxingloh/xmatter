@@ -16,8 +16,9 @@ name: Odos Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f3520a"
+color: "#f05323"
 icons:
+  - icon.svg
   - icon.png
 ---
 

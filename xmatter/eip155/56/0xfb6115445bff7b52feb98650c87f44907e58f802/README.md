@@ -11,8 +11,9 @@ name: Binance-Peg Aave Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7087b3"
+color: "#9494f4"
 icons:
+  - icon.svg
   - icon.png
 ---
 

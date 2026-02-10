@@ -13,8 +13,9 @@ links:
 symbol: CREAM
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#68e0d8"
+color: "#6ce4dc"
 ---
 
 Cream - Crypto Rules Everything Around Me

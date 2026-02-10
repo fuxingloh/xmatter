@@ -13,6 +13,7 @@ standards:
 color: "#040404"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Heurist is a decentralized AI computing platform enabling serverless access to open source AI models.

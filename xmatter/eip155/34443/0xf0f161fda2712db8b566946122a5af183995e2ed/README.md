@@ -11,8 +11,9 @@ links:
 symbol: USDT
 decimals: 6
 icons:
+  - icon.svg
   - icon.png
-color: "#24a37b"
+color: "#54ac94"
 ---
 
 Bringing real world currency to the blockchain.

@@ -12,8 +12,9 @@ name: VelodromeV2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f3f3f2"
+color: "#f3f2f1"
 icons:
+  - icon.svg
   - icon.png
 ---
 

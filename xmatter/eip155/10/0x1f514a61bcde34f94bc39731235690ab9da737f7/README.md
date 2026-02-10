@@ -12,8 +12,9 @@ name: Tarot
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dbdbdb"
+color: "#c3c3c3"
 icons:
+  - icon.svg
   - icon.png
 ---
 

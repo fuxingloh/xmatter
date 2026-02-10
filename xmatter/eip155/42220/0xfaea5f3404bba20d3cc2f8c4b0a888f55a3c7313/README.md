@@ -20,8 +20,9 @@ name: Mento Ghanaian Cedi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#550ec2"
+color: "#5711c2"
 icons:
+  - icon.svg
   - icon.png
 ---
 

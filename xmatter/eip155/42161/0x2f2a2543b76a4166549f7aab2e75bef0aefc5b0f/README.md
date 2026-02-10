@@ -16,8 +16,9 @@ name: Wrapped BTC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#87868f"
+color: "#2a272d"
 icons:
+  - icon.svg
   - icon.png
 ---
 

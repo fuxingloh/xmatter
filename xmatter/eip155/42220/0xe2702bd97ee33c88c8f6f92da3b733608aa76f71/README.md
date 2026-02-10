@@ -20,8 +20,9 @@ name: Mento Nigerian Naira
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#540ec3"
+color: "#530ec3"
 icons:
+  - icon.svg
   - icon.png
 ---
 

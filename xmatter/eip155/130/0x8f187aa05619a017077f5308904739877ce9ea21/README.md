@@ -7,6 +7,7 @@ links: []
 symbol: UNI
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#fbebf4"
+color: "#ff007a"
 ---

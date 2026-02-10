@@ -17,8 +17,9 @@ links:
 symbol: FRAX
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#eeeeee"
+color: "#040404"
 ---
 
 Frax is a fractional-algorithmic stablecoin protocol. It aims to provide highly scalable, decentralized, algorithmic money in place of fixed-supply assets like BTC.

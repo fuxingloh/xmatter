@@ -13,6 +13,7 @@ standards:
 color: "#0414dc"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Empower Token(MPWR) is the ClubRare’s utility token to build the Web-3 E-commerce ecosystem

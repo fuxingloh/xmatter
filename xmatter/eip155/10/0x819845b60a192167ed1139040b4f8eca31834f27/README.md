@@ -13,6 +13,7 @@ standards:
 color: "#bbc3e3"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 mpETH is a modern liquid staking token for ethereum.

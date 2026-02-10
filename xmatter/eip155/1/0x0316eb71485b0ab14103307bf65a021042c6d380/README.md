@@ -8,8 +8,9 @@ name: Huobi BTC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fb9c2c"
+color: "#f4941d"
 icons:
+  - icon.svg
   - icon.png
 ---
 

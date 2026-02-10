@@ -12,8 +12,9 @@ name: Moxie
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f3eafb"
+color: "#7e6daf"
 icons:
+  - icon.svg
   - icon.png
 ---
 

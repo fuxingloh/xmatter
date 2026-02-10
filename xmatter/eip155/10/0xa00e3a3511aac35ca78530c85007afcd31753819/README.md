@@ -11,8 +11,9 @@ name: Kyber Network
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#34cb9c"
+color: "#34cc9c"
 icons:
+  - icon.svg
   - icon.png
 ---
 

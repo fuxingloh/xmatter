@@ -12,8 +12,9 @@ name: OPX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#db453c"
+color: "#fbeceb"
 icons:
+  - icon.svg
   - icon.png
 ---
 

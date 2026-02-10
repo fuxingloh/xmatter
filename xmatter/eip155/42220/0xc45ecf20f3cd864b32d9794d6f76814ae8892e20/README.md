@@ -22,6 +22,7 @@ standards:
   - erc20
 color: "#540dc4"
 icons:
+  - icon.svg
   - icon.png
 ---
 

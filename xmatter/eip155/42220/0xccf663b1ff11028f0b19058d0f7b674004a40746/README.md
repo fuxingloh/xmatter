@@ -20,8 +20,9 @@ name: Mento British Pound
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dee4fb"
+color: "#540cc4"
 icons:
+  - icon.svg
   - icon.png
 ---
 

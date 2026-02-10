@@ -20,8 +20,9 @@ name: Mento Kenyan Shilling
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#550ec3"
+color: "#540dc3"
 icons:
+  - icon.svg
   - icon.png
 ---
 
