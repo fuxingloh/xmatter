@@ -1,5 +1,5 @@
 export const RemotePattern = {
   protocol: "https",
   hostname: "xmatter.org",
-  pathname: "/*/*/*/icon",
+  pathname: "/*/*/*/icon*",
 } as const;
