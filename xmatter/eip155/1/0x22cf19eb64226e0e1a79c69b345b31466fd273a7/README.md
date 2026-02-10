@@ -1,0 +1,10 @@
+---
+name: "Curve.fi Factory Crypto Pool: ibGBP/USDC"
+provenance: "https://github.com/SmolDapp/tokenAssets"
+standards: []
+symbol: ibGBPUSDC-f
+icons:
+  - icon.svg
+  - icon.png
+color: "#dab051"
+---
