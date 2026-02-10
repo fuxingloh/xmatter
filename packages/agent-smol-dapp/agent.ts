@@ -57,10 +57,43 @@ export class SmolDappAgent extends FileSystemAgent<TokenEntry> {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   private client!: any;
   private chainId!: number;
+  private cooldownCount = 0;
+  private readonly maxCooldowns = 10;
+  private readonly cooldownDuration = 90_000; // 90 seconds in milliseconds
 
   setChain(chainId: number, client: any): void {
     this.chainId = chainId;
     this.client = client;
+  }
+
+  private async handleRateLimitError(): Promise<void> {
+    this.cooldownCount++;
+
+    if (this.cooldownCount > this.maxCooldowns) {
+      console.error(`Rate limit cooldown exceeded maximum (${this.maxCooldowns}). Exiting.`);
+      process.exit(1);
+    }
+
+    console.warn(
+      `Rate limit detected (429). Cooldown ${this.cooldownCount}/${this.maxCooldowns}. Waiting ${this.cooldownDuration / 1000} seconds...`,
+    );
+
+    await new Promise((resolve) => setTimeout(resolve, this.cooldownDuration));
+
+    console.log(`Cooldown complete. Resuming operations.`);
+  }
+
+  private isRateLimitError(error: any): boolean {
+    // Check for 429 status code in various error formats
+    if (error?.status === 429) return true;
+    if (error?.response?.status === 429) return true;
+    if (error?.statusCode === 429) return true;
+
+    // Check error message for rate limit indicators
+    const errorMessage = error?.message || error?.toString() || "";
+    const rateLimitPatterns = [/429/, /rate limit/i, /too many requests/i];
+
+    return rateLimitPatterns.some((pattern) => pattern.test(errorMessage));
   }
 
   async readEntry(sourcePath: string): Promise<TokenEntry | undefined> {
@@ -94,14 +127,24 @@ export class SmolDappAgent extends FileSystemAgent<TokenEntry> {
             abi: tokenAbi,
             functionName: "name",
           })
-          .catch(() => undefined),
+          .catch((error: any) => {
+            if (this.isRateLimitError(error)) {
+              throw error; // Re-throw to be caught by outer catch
+            }
+            return undefined;
+          }),
         this.client
           .readContract({
             address: address as `0x${string}`,
             abi: tokenAbi,
             functionName: "symbol",
           })
-          .catch(() => undefined),
+          .catch((error: any) => {
+            if (this.isRateLimitError(error)) {
+              throw error; // Re-throw to be caught by outer catch
+            }
+            return undefined;
+          }),
       ]);
 
       const tokenName = name || symbol;
@@ -118,7 +161,12 @@ export class SmolDappAgent extends FileSystemAgent<TokenEntry> {
         hasLogoPng,
         readmeExists: false,
       };
-    } catch {
+    } catch (error) {
+      if (this.isRateLimitError(error)) {
+        await this.handleRateLimitError();
+        // Retry the same entry after cooldown
+        return this.readEntry(sourcePath);
+      }
       console.warn(`Skipping ${address}: RPC call failed`);
       return undefined;
     }
