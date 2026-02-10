@@ -1,0 +1,10 @@
+---
+name: Curve FRAX-crvUSD Factory yVault
+provenance: "https://github.com/SmolDapp/tokenAssets"
+standards: []
+symbol: yvCurve-FRAX-crvUSD-f
+icons:
+  - icon.svg
+  - icon.png
+color: "#101010"
+---
