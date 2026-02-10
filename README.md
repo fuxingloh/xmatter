@@ -19,7 +19,6 @@ A [prefix-indexed existence check](/docs/api#indextxt) lets clients short-circui
 so most lookups for non-existent addresses never hit the server.
 The [JavaScript client](/docs/javascript) and [Next.js components](/docs/nextjs) handle this automatically.
 
-
 ## Integrating with your project
 
 ```shell
@@ -40,11 +39,11 @@ export default async function Page(props) {
   return (
     <div>
       <XmatterIcon
-        client={xmatter} 
-        chainId={chainId} 
+        client={xmatter}
+        chainId={chainId}
         address={address}
-        width={64} 
-        height={64} 
+        width={64}
+        height={64}
         alt={`${frontmatter.name} Icon`}
       />
       <h1>{frontmatter.name}</h1>
