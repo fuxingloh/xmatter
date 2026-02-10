@@ -1,9 +1,9 @@
-import { readdir } from "node:fs/promises";
+import { mkdir, readdir } from "node:fs/promises";
 import { basename, join } from "node:path";
 
 import { createPublicClient, fallback, http } from "viem";
 import * as viemChains from "viem/chains";
-import { XmatterFile } from "xmatter/schema";
+import { XmatterFile, XmatterSchema } from "xmatter/schema";
 import { FileSystemAgent, copyImage, hasFile } from "@workspace/agent-base/fs";
 
 const tokenAbi = [
@@ -53,23 +53,20 @@ interface TokenEntry {
   readmeExists: boolean;
 }
 
-const MAX_CONSECUTIVE_RPC_FAILURES = 5;
-
 export class SmolDappAgent extends FileSystemAgent<TokenEntry> {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   private client!: any;
   private chainId!: number;
-  private consecutiveRpcFailures = 0;
 
   setChain(chainId: number, client: any): void {
     this.chainId = chainId;
     this.client = client;
-    this.consecutiveRpcFailures = 0;
   }
 
   async readEntry(sourcePath: string): Promise<TokenEntry | undefined> {
     const address = basename(sourcePath);
     if (!address.startsWith("0x") || address.length !== 42) return undefined;
+    if (address.toLowerCase() === "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee") return undefined;
 
     const hasLogoSvg = await hasFile(join(sourcePath, "logo.svg"));
     const hasLogoPng = await hasFile(join(sourcePath, "logo-128.png"));
@@ -109,17 +106,10 @@ export class SmolDappAgent extends FileSystemAgent<TokenEntry> {
 
       const tokenName = name || symbol;
       if (!tokenName) {
-        this.consecutiveRpcFailures++;
-        if (this.consecutiveRpcFailures >= MAX_CONSECUTIVE_RPC_FAILURES) {
-          throw new Error(
-            `Aborting chain ${this.chainId}: ${this.consecutiveRpcFailures} consecutive RPC failures, likely rate limited`,
-          );
-        }
         console.warn(`Skipping ${address}: could not resolve name or symbol`);
         return undefined;
       }
 
-      this.consecutiveRpcFailures = 0;
       return {
         address,
         name: tokenName,
@@ -128,16 +118,7 @@ export class SmolDappAgent extends FileSystemAgent<TokenEntry> {
         hasLogoPng,
         readmeExists: false,
       };
-    } catch (error) {
-      if (error instanceof Error && error.message.startsWith("Aborting chain")) {
-        throw error;
-      }
-      this.consecutiveRpcFailures++;
-      if (this.consecutiveRpcFailures >= MAX_CONSECUTIVE_RPC_FAILURES) {
-        throw new Error(
-          `Aborting chain ${this.chainId}: ${this.consecutiveRpcFailures} consecutive RPC failures, likely rate limited`,
-        );
-      }
+    } catch {
       console.warn(`Skipping ${address}: RPC call failed`);
       return undefined;
     }
@@ -154,6 +135,39 @@ export class SmolDappAgent extends FileSystemAgent<TokenEntry> {
       },
       content: "",
     };
+  }
+
+  override async walk(
+    dir: string,
+    options: { filter: (data: TokenEntry) => boolean; toUri: (data: TokenEntry) => string },
+  ): Promise<void> {
+    const entries = await readdir(dir);
+    // Shuffle so partial failures on re-runs cover different addresses over time
+    for (let i = entries.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [entries[i], entries[j]] = [entries[j], entries[i]];
+    }
+
+    for (const entry of entries) {
+      const sourcePath = join(dir, entry);
+      const data = await this.readEntry(sourcePath);
+      if (data === undefined) continue;
+      if (!options.filter(data)) continue;
+
+      const uri = options.toUri(data);
+      const targetPath = join("../../xmatter", uri);
+      const file = this.toReadmeFile(uri, data);
+      const parsed = XmatterSchema.safeParse(file);
+      if (!parsed.success) {
+        console.error(`Invalid README for ${targetPath}, ${parsed.error}`);
+        continue;
+      }
+
+      if (await hasFile(join(targetPath, "LOCK"))) continue;
+
+      await mkdir(targetPath, { recursive: true });
+      await this.write(uri, data, sourcePath, targetPath, parsed.data);
+    }
   }
 
   async write(uri: string, data: TokenEntry, source: string, target: string, file: XmatterFile): Promise<void> {
