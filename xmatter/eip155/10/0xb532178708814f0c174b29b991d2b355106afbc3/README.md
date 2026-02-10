@@ -1,0 +1,10 @@
+---
+name: Astrava
+provenance: "https://github.com/SmolDapp/tokenAssets"
+standards: []
+symbol: AST
+icons:
+  - icon.svg
+  - icon.png
+color: "#38409b"
+---
