@@ -12,8 +12,9 @@ name: sekoia by Virtuals
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#90aec0"
+color: "#7793a8"
 icons:
+  - icon.svg
   - icon.png
 ---
 
