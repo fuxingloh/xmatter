@@ -229,43 +229,40 @@ export class SmolDappAgent extends FileSystemAgent<TokenEntry> {
   }
 }
 
-// Only run the agent if this file is executed directly
-if (import.meta.main) {
-  const agent = new SmolDappAgent();
+const agent = new SmolDappAgent();
 
-  for (const chainIdStr of await readdir(".repo/tokens")) {
-    if (chainIdStr.startsWith("_")) continue;
-    if (chainIdStr.endsWith(".json")) continue;
+for (const chainIdStr of await readdir(".repo/tokens")) {
+  if (chainIdStr.startsWith("_")) continue;
+  if (chainIdStr.endsWith(".json")) continue;
 
-    const chainId = parseInt(chainIdStr, 10);
-    if (isNaN(chainId)) continue;
-    if (SKIP_CHAINS.has(chainId)) continue;
+  const chainId = parseInt(chainIdStr, 10);
+  if (isNaN(chainId)) continue;
+  if (SKIP_CHAINS.has(chainId)) continue;
 
-    const chain = findChain(chainId);
-    if (!chain) {
-      console.warn(`No viem chain definition for chainId ${chainId}, skipping`);
-      continue;
-    }
+  const chain = findChain(chainId);
+  if (!chain) {
+    console.warn(`No viem chain definition for chainId ${chainId}, skipping`);
+    continue;
+  }
 
-    console.log(`Processing chain ${chain.name} (${chainId})...`);
+  console.log(`Processing chain ${chain.name} (${chainId})...`);
 
-    const client = createPublicClient({
-      chain,
-      transport: createTransport(chainId),
-      batch: {
-        multicall: true,
-      },
+  const client = createPublicClient({
+    chain,
+    transport: createTransport(chainId),
+    batch: {
+      multicall: true,
+    },
+  });
+
+  agent.setChain(chainId, client);
+
+  try {
+    await agent.walk(join(".repo/tokens", chainIdStr), {
+      filter: () => true,
+      toUri: (data) => `eip155/${chainId}/${data.address.toLowerCase()}`,
     });
-
-    agent.setChain(chainId, client);
-
-    try {
-      await agent.walk(join(".repo/tokens", chainIdStr), {
-        filter: () => true,
-        toUri: (data) => `eip155/${chainId}/${data.address.toLowerCase()}`,
-      });
-    } catch (error) {
-      console.error(`Chain ${chainId} (${chain.name}) failed:`, error instanceof Error ? error.message : error);
-    }
+  } catch (error) {
+    console.error(`Chain ${chainId} (${chain.name}) failed:`, error instanceof Error ? error.message : error);
   }
 }
