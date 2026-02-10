@@ -8,6 +8,7 @@ import { hasFile } from "@workspace/agent-base/fs";
 const XMATTER_DIR = "../../xmatter";
 const NAMESPACES = ["eip155", "solana", "tip474"];
 const ICON_EXTENSIONS = ["icon.svg", "icon.png", "icon.jpg", "icon.jpeg"];
+const ICON_RESIZE_DIMENSION = 128;
 
 async function processDirectory(dirPath: string): Promise<void> {
   const readmePath = join(dirPath, "README.md");
@@ -40,6 +41,7 @@ async function processDirectory(dirPath: string): Promise<void> {
     }
 
     // Update icons array if different
+    // Note: Order matters - icons are listed in priority order (svg, png, jpg, jpeg)
     const existingIcons = data.icons || [];
     const iconsChanged = icons.length !== existingIcons.length || icons.some((icon, i) => icon !== existingIcons[i]);
 
@@ -58,7 +60,9 @@ async function processDirectory(dirPath: string): Promise<void> {
 
         // Convert SVG to PNG using sharp before color extraction
         if (firstIcon.endsWith(".svg")) {
-          buffer = Buffer.from(await sharp(buffer).png().resize(128, 128).toBuffer());
+          buffer = Buffer.from(
+            await sharp(buffer).png().resize(ICON_RESIZE_DIMENSION, ICON_RESIZE_DIMENSION).toBuffer(),
+          );
         }
 
         const primaryColor = await getColor(buffer);
