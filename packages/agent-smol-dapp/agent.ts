@@ -38,7 +38,7 @@ function createTransport(chainId: number) {
   const options = { timeout: 10_000, retryCount: 0 } as const;
   const extraRpcs = EXTRA_RPCS[chainId] ?? [];
   if (extraRpcs.length > 0) {
-    return fallback([http(undefined, options), ...extraRpcs.map((url) => http(url, options))]);
+    return fallback([http(undefined, options), ...extraRpcs.map((url) => http(url, options))], options);
   }
   return http(undefined, options);
 }
