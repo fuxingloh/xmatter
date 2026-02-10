@@ -24,7 +24,7 @@ export async function GET(_: Request, context: RouteContext<"/docs/[...slug]">) 
   // /docs/standards/path.md → docs/standards/path/page.md
   const dir = last.slice(0, -3);
   const parts = [...slug.slice(0, -1), dir];
-  const pagePath = join("docs", ...parts, "page.md");
+  const pagePath = join("docs", ...parts, "page.mdx");
 
   let content: string;
   try {
