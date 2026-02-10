@@ -12,8 +12,9 @@ name: ENA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1c1c1c"
+color: "#282828"
 icons:
+  - icon.svg
   - icon.png
 ---
 

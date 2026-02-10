@@ -8,8 +8,9 @@ name: iearn USDC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d4d4d3"
+color: "#c2c2c2"
 icons:
+  - icon.svg
   - icon.png
 ---
 
