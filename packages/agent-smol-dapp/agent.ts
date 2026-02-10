@@ -163,9 +163,7 @@ export class SmolDappAgent extends FileSystemAgent<TokenEntry> {
     if (data.hasLogoPng) {
       await copyImage(join(source, "logo-128.png"), join(target, "icon.png"));
     }
-    if (!data.readmeExists) {
-      await super.write(uri, data, source, target, file);
-    }
+    await super.write(uri, data, source, target, file);
   }
 }
 
