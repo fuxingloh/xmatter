@@ -45,6 +45,8 @@ async function getEip155Routes(): Promise<string[]> {
   return routes;
 }
 
+// TODO: Add solana and tip474 namespace routes when their page directories are built (website/app/solana/, website/app/tip474/).
+
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const [docRoutes, eip155Routes] = await Promise.all([getDocRoutes(), getEip155Routes()]);
 

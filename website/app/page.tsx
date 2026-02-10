@@ -4,6 +4,7 @@ import path from "node:path";
 import gray from "gray-matter";
 import Link from "next/link";
 
+import type { Metadata } from "next";
 import { XmatterFile } from "xmatter/schema";
 import { readFileSync } from "fs";
 import Image from "next/image";
@@ -11,6 +12,10 @@ import { getDescription } from "@/app/eip155/[chainId]/[address]/frontmatter.jso
 import { CSSProperties } from "react";
 import { RollingText } from "@/app/RollingText";
 import UseXmatterNpm from "@/app/UseXmatterNpm";
+
+export const metadata: Metadata = {
+  alternates: { canonical: "/" },
+};
 
 export default function Page() {
   const uris = readFileSync(path.join(process.cwd(), "app", "page-featured.txt"), "utf-8").split("\n");

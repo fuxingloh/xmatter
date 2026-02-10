@@ -23,6 +23,18 @@ export const metadata: Metadata = {
     default: `Xmatter: README.md for Address`,
   },
   description: "Structured metadata for address and smart contracts. The npm registry for assets on-chain.",
+  openGraph: {
+    type: "website",
+    siteName: "Xmatter",
+    title: {
+      template: `%s – Xmatter`,
+      default: `Xmatter: README.md for Address`,
+    },
+    description: "Structured metadata for address and smart contracts. The npm registry for assets on-chain.",
+  },
+  twitter: {
+    card: "summary_large_image",
+  },
 };
 
 export default function RootLayout(props: { children: ReactNode }): ReactElement {

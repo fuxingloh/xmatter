@@ -8,6 +8,7 @@ import { FrontmatterLink } from "@/app/eip155/[chainId]/[address]/FrontmatterLin
 import { IdentifierSelect } from "@/app/eip155/[chainId]/[address]/IdentifierSelect";
 import Link from "next/link";
 import CodeExamples from "@/app/eip155/[chainId]/[address]/CodeExamples";
+import { chains } from "@/app/eip155/chains";
 
 export async function generateStaticParams() {
   return [
@@ -18,23 +19,11 @@ export async function generateStaticParams() {
   ];
 }
 
-const chains: Record<string, string> = {
-  "1": "Ethereum",
-  "10": "Optimism",
-  "56": "Binance Smart Chain",
-  "137": "Polygon",
-  "8453": "Base",
-  "42161": "Arbitrum One",
-  "42220": "Celo",
-  "43114": "Avalanche C-Chain",
-  "11155111": "Ethereum Sepolia",
-  "1313161554": "Aurora",
-};
-
 export async function generateMetadata(props: PageProps<"/eip155/[chainId]/[address]">): Promise<Metadata> {
   const { chainId, address } = await props.params;
   const { data, content } = await getXmatterFile(`/eip155/${chainId}/${address}/README.md`);
   const description = getDescription(data, content);
+  const chainName = chains[chainId] ?? `Chain ${chainId}`;
 
   return {
     title: data.name,
@@ -45,6 +34,15 @@ export async function generateMetadata(props: PageProps<"/eip155/[chainId]/[addr
             icon: `/eip155/${chainId}/${address}/icon`,
           }
         : {},
+    openGraph: {
+      title: `${data.name}${data.symbol ? ` (${data.symbol})` : ""} on ${chainName}`,
+      description: description,
+      type: "article",
+      url: `/eip155/${chainId}/${address}`,
+    },
+    alternates: {
+      canonical: `/eip155/${chainId}/${address}`,
+    },
   };
 }
 
