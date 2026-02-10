@@ -13,6 +13,7 @@ standards:
 color: "#5424ec"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 The token for Giveth, a decentralized platform for supporting non-profits and building the Future of Giving.

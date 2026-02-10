@@ -8,7 +8,10 @@ name: Aave
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-icons: []
+icons:
+  - icon.svg
+  - icon.png
+color: "#259fc8"
 ---
 
 Aave is an Open Source and Non-Custodial protocol to earn interest on deposits & borrow assets.

@@ -8,8 +8,9 @@ name: iearn TUSD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d4d4d3"
+color: "#bfbfbf"
 icons:
+  - icon.svg
   - icon.png
 ---
 

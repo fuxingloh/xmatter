@@ -13,6 +13,7 @@ standards:
 color: "#53fb6b"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Covalent is the leading modular data infrastructure layer that's dedicated to solving the Long-Term Data Availability and the verifiability problems in AI.

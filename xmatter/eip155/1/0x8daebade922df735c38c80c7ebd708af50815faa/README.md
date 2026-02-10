@@ -14,8 +14,9 @@ name: tBTC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080000"
+color: "#bbbbbb"
 icons:
+  - icon.svg
   - icon.png
 ---
 

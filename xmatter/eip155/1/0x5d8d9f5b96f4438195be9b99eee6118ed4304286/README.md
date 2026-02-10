@@ -18,8 +18,9 @@ name: Old Cover Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e7bb74"
+color: "#252525"
 icons:
+  - icon.svg
   - icon.png
 ---
 

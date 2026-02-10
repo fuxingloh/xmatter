@@ -12,8 +12,9 @@ name: Ixs
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#14141c"
+color: "#24242c"
 icons:
+  - icon.svg
   - icon.png
 ---
 

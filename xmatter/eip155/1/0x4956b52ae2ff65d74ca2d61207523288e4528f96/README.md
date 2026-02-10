@@ -10,8 +10,9 @@ name: Resolv Liquidity Provider
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f3ebd4"
+color: "#fb9c1d"
 icons:
+  - icon.svg
   - icon.png
 ---
 

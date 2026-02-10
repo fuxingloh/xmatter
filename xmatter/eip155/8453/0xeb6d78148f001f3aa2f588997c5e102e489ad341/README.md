@@ -16,8 +16,9 @@ name: Super Champs
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#83d0f6"
+color: "#6c37a0"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -13,6 +13,7 @@ standards:
 color: "#edd9d8"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 KIBSHI is the world's first AI-generated meme coin. It is a cryptocurrency that is the result of the union between Kabosu (DOGE) and Shiba Inu (SHIB).

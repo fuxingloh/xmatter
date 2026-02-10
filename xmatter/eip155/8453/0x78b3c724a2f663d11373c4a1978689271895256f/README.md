@@ -10,8 +10,9 @@ name: Token Name Service
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#55a8e8"
+color: "#50a5eb"
 icons:
+  - icon.svg
   - icon.png
 ---
 

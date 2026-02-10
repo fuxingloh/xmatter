@@ -13,6 +13,7 @@ standards:
 color: "#5eb0ec"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Metronome Synth ETH

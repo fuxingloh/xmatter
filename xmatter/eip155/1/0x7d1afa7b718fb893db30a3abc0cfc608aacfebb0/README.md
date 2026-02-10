@@ -8,8 +8,9 @@ name: Polygon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2b93fb"
+color: "#8444e4"
 icons:
+  - icon.svg
   - icon.png
 ---
 

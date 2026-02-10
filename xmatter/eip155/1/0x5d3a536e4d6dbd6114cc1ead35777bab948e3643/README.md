@@ -8,8 +8,9 @@ name: Compound Dai
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5299c0"
+color: "#79a5de"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -13,6 +13,7 @@ standards:
 color: "#e0dbfc"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Cerebrum DAO Governance Token

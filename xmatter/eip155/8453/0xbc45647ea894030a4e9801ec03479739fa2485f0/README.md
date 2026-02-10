@@ -22,8 +22,9 @@ name: Basenji
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d0defa"
+color: "#c7d2e7"
 icons:
+  - icon.svg
   - icon.png
 ---
 

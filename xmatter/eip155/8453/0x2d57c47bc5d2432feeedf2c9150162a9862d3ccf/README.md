@@ -16,8 +16,9 @@ name: Dickbutt
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0c54fa"
+color: "#0b5bfa"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -11,8 +11,9 @@ name: Rari Governance Token (RGT)
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#060606"
+color: "#b4b4b4"
 icons:
+  - icon.svg
   - icon.png
 ---
 

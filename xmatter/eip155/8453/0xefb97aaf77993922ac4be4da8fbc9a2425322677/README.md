@@ -14,6 +14,7 @@ standards:
 color: "#24ac2c"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 An RToken that earns the DeFi rate any time you're in stables.

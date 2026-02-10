@@ -13,6 +13,7 @@ standards:
 color: "#7d8fc4"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 GENOME is the utility and Governance token of the GenomesDAO tools and platforms. It acts as the native currency within Genomes.io

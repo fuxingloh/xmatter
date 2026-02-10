@@ -16,8 +16,9 @@ name: RUSSELL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0454fb"
+color: "#ede1ce"
 icons:
+  - icon.svg
   - icon.png
 ---
 

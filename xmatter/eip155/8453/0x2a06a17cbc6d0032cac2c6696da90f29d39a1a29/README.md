@@ -13,6 +13,7 @@ standards:
 color: "#d5a31e"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 The People's BITCOIN

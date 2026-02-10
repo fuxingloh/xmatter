@@ -12,8 +12,9 @@ name: BankrCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f7d6d1"
+color: "#efcecb"
 icons:
+  - icon.svg
   - icon.png
 ---
 

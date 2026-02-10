@@ -13,6 +13,7 @@ standards:
 color: "#f9d933"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 VitaDAO Governance Token

@@ -8,8 +8,9 @@ name: Function X
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#040404"
+color: "#1c1c1c"
 icons:
+  - icon.svg
   - icon.png
 ---
 

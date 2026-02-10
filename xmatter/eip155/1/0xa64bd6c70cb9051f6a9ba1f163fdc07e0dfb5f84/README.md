@@ -8,8 +8,9 @@ name: Aave LINK V1
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2c5cdc"
+color: "#336ad5"
 icons:
+  - icon.svg
   - icon.png
 ---
 

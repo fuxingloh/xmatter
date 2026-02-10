@@ -14,8 +14,9 @@ name: Osaka Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fa0505"
+color: "#fb0505"
 icons:
+  - icon.svg
   - icon.png
 ---
 

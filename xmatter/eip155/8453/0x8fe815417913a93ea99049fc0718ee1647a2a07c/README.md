@@ -16,8 +16,9 @@ name: XSwap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f1f4f5"
+color: "#1b2745"
 icons:
+  - icon.svg
   - icon.png
 ---
 

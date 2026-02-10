@@ -13,6 +13,7 @@ standards:
 color: "#694c4b"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Official token of the FOAM protocol powering Proof of Location

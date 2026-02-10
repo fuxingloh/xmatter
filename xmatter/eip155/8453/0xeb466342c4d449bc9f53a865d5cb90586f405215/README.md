@@ -37,8 +37,9 @@ name: Axelar Wrapped USDC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2775cb"
+color: "#2675cc"
 icons:
+  - icon.svg
   - icon.png
 ---
 

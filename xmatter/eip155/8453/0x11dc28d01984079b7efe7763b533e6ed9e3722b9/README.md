@@ -13,6 +13,7 @@ standards:
 color: "#cdcdcd"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Syndicate is infrastructure for building and scaling appchains with programmable onchain sequencers.

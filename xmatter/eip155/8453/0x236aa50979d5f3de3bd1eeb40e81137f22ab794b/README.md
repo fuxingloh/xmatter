@@ -13,6 +13,7 @@ standards:
 color: "#040404"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Decentralized, Permissionless Bitcoin Bridge

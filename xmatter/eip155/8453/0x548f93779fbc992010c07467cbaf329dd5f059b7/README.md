@@ -14,8 +14,9 @@ name: BMX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#efeff4"
+color: "#ededf4"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -13,6 +13,7 @@ standards:
 color: "#c5c5c5"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 TOWER Token is an ERC-20 utility token of the TOWER Project initiated by Animoca Brands

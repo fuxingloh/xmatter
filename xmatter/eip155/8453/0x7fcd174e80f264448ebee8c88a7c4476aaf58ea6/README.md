@@ -13,6 +13,7 @@ standards:
 color: "#2b79fb"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Wrapped Super OETH

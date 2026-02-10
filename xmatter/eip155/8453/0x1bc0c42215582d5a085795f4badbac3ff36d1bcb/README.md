@@ -8,8 +8,9 @@ name: tokenbot
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#191322"
+color: "#9551da"
 icons:
+  - icon.svg
   - icon.png
 ---
 

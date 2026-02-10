@@ -15,8 +15,9 @@ name: swETH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ecf3f8"
+color: "#2853db"
 icons:
+  - icon.svg
   - icon.png
 ---
 

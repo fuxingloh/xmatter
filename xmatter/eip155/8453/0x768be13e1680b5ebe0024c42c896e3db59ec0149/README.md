@@ -16,8 +16,9 @@ name: SKI MASK DOG
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#493f42"
+color: "#3d373a"
 icons:
+  - icon.svg
   - icon.png
 ---
 

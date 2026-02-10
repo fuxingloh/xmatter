@@ -8,8 +8,9 @@ name: Aave SNX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#29bbdb"
+color: "#170656"
 icons:
+  - icon.svg
   - icon.png
 ---
 

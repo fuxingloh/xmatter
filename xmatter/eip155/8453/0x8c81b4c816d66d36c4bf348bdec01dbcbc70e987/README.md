@@ -10,8 +10,9 @@ name: Briun Armstrung
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0453fa"
+color: "#e2b8a4"
 icons:
+  - icon.svg
   - icon.png
 ---
 

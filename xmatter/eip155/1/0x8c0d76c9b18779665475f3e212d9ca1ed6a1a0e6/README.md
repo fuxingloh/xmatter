@@ -13,6 +13,7 @@ standards:
 color: "#fc9004"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Zunami is a decentralized protocol that issues aggregated stablecoins, whose collateral is utilized in a omnipools and differentiated among various profit-generating strategies.

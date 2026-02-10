@@ -10,8 +10,9 @@ name: Based ZoomerCoin
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#e9e7e3"
+color: "#413931"
 icons:
+  - icon.svg
   - icon.png
 ---
 

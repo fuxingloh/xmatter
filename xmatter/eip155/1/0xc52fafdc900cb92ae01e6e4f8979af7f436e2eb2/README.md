@@ -13,6 +13,7 @@ standards:
 color: "#6bb282"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 SEXY is utilized for character progression and purchasing gear within EthXY, an onchain MMORPG on Base.

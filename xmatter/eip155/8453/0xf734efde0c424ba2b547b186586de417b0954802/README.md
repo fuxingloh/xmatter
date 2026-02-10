@@ -13,6 +13,7 @@ standards:
 color: "#141c1c"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Silo Finance is a non-custodial protocol for risk-isolated lending markets.

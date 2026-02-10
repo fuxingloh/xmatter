@@ -13,6 +13,7 @@ standards:
 color: "#53eb3b"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 IDRISS is the utility and governance token of IDRISS DAO.
