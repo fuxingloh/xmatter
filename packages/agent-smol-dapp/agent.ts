@@ -116,69 +116,13 @@ export class SmolDappAgent extends FileSystemAgent<TokenEntry> {
     const targetPath = join("../../xmatter", `eip155/${this.chainId}/${address.toLowerCase()}`);
     const readmeExists = await hasFile(join(targetPath, "README.md"));
 
-    if (readmeExists) {
-      return {
-        address,
-        name: address,
-        hasLogoSvg,
-        hasLogoPng,
-        readmeExists: true,
-      };
-    }
-
-    try {
-      const [name, symbol] = await Promise.all([
-        this.client
-          .readContract({
-            address: address as `0x${string}`,
-            abi: tokenAbi,
-            functionName: "name",
-          })
-          .catch((error: any) => {
-            if (this.isRateLimitError(error)) {
-              throw error; // Re-throw to be caught by outer catch
-            }
-            return undefined;
-          }),
-        this.client
-          .readContract({
-            address: address as `0x${string}`,
-            abi: tokenAbi,
-            functionName: "symbol",
-          })
-          .catch((error: any) => {
-            if (this.isRateLimitError(error)) {
-              throw error; // Re-throw to be caught by outer catch
-            }
-            return undefined;
-          }),
-      ]);
-
-      const tokenName = name || symbol;
-      if (!tokenName) {
-        console.warn(`Skipping ${address}: could not resolve name or symbol`);
-        return undefined;
-      }
-
-      return {
-        address,
-        name: tokenName,
-        symbol: symbol ?? undefined,
-        hasLogoSvg,
-        hasLogoPng,
-        readmeExists: false,
-      };
-    } catch (error) {
-      if (this.isRateLimitError(error)) {
-        const shouldRetry = await this.handleRateLimitError(error);
-        if (shouldRetry) {
-          return this.readEntry(sourcePath);
-        }
-        return undefined;
-      }
-      console.warn(`Skipping ${address}: RPC call failed`);
-      return undefined;
-    }
+    return {
+      address,
+      name: address,
+      hasLogoSvg,
+      hasLogoPng,
+      readmeExists,
+    };
   }
 
   toReadmeFile(_uri: string, entry: TokenEntry): XmatterFile {
@@ -198,38 +142,103 @@ export class SmolDappAgent extends FileSystemAgent<TokenEntry> {
     dir: string,
     options: { filter: (data: TokenEntry) => boolean; toUri: (data: TokenEntry) => string },
   ): Promise<void> {
-    const entries = await readdir(dir);
+    const dirEntries = await readdir(dir);
     // Shuffle so partial failures on re-runs cover different addresses over time
-    for (let i = entries.length - 1; i > 0; i--) {
+    for (let i = dirEntries.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
-      [entries[i], entries[j]] = [entries[j], entries[i]];
+      [dirEntries[i], dirEntries[j]] = [dirEntries[j], dirEntries[i]];
     }
 
-    for (const entry of entries) {
-      if (this.cooldownExceeded) break;
+    // Phase 1: Discovery - collect entries, write existing ones immediately, collect new ones for batch RPC
+    const needsRpc: { sourcePath: string; data: TokenEntry }[] = [];
+
+    for (const entry of dirEntries) {
       const sourcePath = join(dir, entry);
       const data = await this.readEntry(sourcePath);
       if (data === undefined) continue;
       if (!options.filter(data)) continue;
 
-      const uri = options.toUri(data);
-      const targetPath = join("../../xmatter", uri);
-      const file = this.toReadmeFile(uri, data);
-      const parsed = XmatterSchema.safeParse(file);
-      if (!parsed.success) {
-        console.error(`Invalid README for ${targetPath}, ${parsed.error}`);
+      if (data.readmeExists) {
+        await this.writeEntry(sourcePath, data, options);
+      } else {
+        needsRpc.push({ sourcePath, data });
+      }
+    }
+
+    // Phase 2: Batch RPC using explicit multicall, then write
+    const CHUNK_SIZE = 100;
+    let chunkStart = 0;
+
+    while (chunkStart < needsRpc.length) {
+      if (this.cooldownExceeded) break;
+
+      const chunk = needsRpc.slice(chunkStart, chunkStart + CHUNK_SIZE);
+      const contracts = chunk.flatMap(({ data }) => [
+        { address: data.address as `0x${string}`, abi: tokenAbi, functionName: "name" as const },
+        { address: data.address as `0x${string}`, abi: tokenAbi, functionName: "symbol" as const },
+      ]);
+
+      console.log(
+        `Multicall batch: ${chunk.length} tokens (${contracts.length} calls) starting at index ${chunkStart}`,
+      );
+
+      let results: any[];
+      try {
+        results = await this.client.multicall({ contracts, allowFailure: true });
+      } catch (error: any) {
+        if (this.isRateLimitError(error)) {
+          const shouldRetry = await this.handleRateLimitError(error);
+          if (!shouldRetry) break;
+          continue; // retry same chunk
+        }
+        console.error(`Multicall failed for chunk at ${chunkStart}:`, error?.message ?? error);
+        chunkStart += CHUNK_SIZE;
         continue;
       }
 
-      if (await hasFile(join(targetPath, "LOCK"))) continue;
+      for (let j = 0; j < chunk.length; j++) {
+        const { sourcePath, data } = chunk[j];
+        const nameResult = results[j * 2];
+        const symbolResult = results[j * 2 + 1];
 
-      await mkdir(targetPath, { recursive: true });
-      const isNew = !data.readmeExists;
-      await this.write(uri, data, sourcePath, targetPath, parsed.data);
-      if (isNew) {
-        console.log(`Created new entry: ${uri} (${data.name})`);
+        const name: string | undefined = nameResult.status === "success" ? nameResult.result : undefined;
+        const symbol: string | undefined = symbolResult.status === "success" ? symbolResult.result : undefined;
+
+        const tokenName = name || symbol;
+        if (!tokenName) {
+          console.warn(`Skipping ${data.address}: could not resolve name or symbol`);
+          continue;
+        }
+
+        data.name = tokenName;
+        data.symbol = symbol ?? undefined;
+
+        await this.writeEntry(sourcePath, data, options);
+        console.log(`Created new entry: ${options.toUri(data)} (${data.name})`);
       }
+
+      chunkStart += CHUNK_SIZE;
     }
+  }
+
+  private async writeEntry(
+    sourcePath: string,
+    data: TokenEntry,
+    options: { toUri: (data: TokenEntry) => string },
+  ): Promise<void> {
+    const uri = options.toUri(data);
+    const targetPath = join("../../xmatter", uri);
+    const file = this.toReadmeFile(uri, data);
+    const parsed = XmatterSchema.safeParse(file);
+    if (!parsed.success) {
+      console.error(`Invalid README for ${targetPath}, ${parsed.error}`);
+      return;
+    }
+
+    if (await hasFile(join(targetPath, "LOCK"))) return;
+
+    await mkdir(targetPath, { recursive: true });
+    await this.write(uri, data, sourcePath, targetPath, parsed.data);
   }
 
   async write(uri: string, data: TokenEntry, source: string, target: string, file: XmatterFile): Promise<void> {
@@ -264,9 +273,6 @@ for (const chainIdStr of await readdir(".repo/tokens")) {
   const client = createPublicClient({
     chain,
     transport: createTransport(chainId),
-    batch: {
-      multicall: true,
-    },
   });
 
   agent.setChain(chainId, client);
