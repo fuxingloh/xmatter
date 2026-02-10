@@ -12,8 +12,9 @@ name: Aelin Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#131133"
+color: "#131131"
 icons:
+  - icon.svg
   - icon.png
 ---
 

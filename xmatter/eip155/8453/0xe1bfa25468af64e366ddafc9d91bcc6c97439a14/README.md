@@ -13,6 +13,7 @@ standards:
 color: "#121212"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 The ecosystem token for the Black Mirror digital experience ecosystem, enabling reputation-based participation and governance.

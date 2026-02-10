@@ -13,6 +13,7 @@ standards:
 color: "#3e62cd"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 A Decentralized Advisory DAO

@@ -13,6 +13,7 @@ standards:
 color: "#2c2c2c"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Fully Collateralized, Scalable, Decentralized Stablecoin

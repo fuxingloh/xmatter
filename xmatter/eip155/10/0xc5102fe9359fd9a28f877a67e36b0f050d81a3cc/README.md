@@ -13,6 +13,7 @@ standards:
 color: "#d167cc"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 A multi-chain token that powers the Hop ecosystem, bridged by Hop Protocol

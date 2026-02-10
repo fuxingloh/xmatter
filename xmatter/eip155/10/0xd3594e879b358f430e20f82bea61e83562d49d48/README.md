@@ -13,6 +13,7 @@ standards:
 color: "#4f87fb"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Multichain DEX Aggregator

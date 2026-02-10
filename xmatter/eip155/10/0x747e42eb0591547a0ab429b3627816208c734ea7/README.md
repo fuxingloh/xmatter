@@ -13,6 +13,7 @@ standards:
 color: "#c28afc"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Threshold Network is the home of $tBTC, proxy re-encryption #PRE, $thUSD, and all threshold cryptography.

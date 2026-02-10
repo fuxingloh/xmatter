@@ -12,6 +12,7 @@ symbol: WBTC
 decimals: 8
 icons:
   - icon.svg
+  - icon.png
 color: "#f39444"
 ---
 

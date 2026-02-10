@@ -10,7 +10,8 @@ name: Across Protocol Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#68f8d8"
+color: "#6bfbdb"
 icons:
+  - icon.svg
   - icon.png
 ---

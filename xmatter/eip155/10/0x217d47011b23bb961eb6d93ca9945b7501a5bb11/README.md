@@ -12,8 +12,9 @@ name: Thales DAO
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#1b1b53"
+color: "#04045c"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -8,5 +8,6 @@ symbol: SNX
 decimals: 18
 icons:
   - icon.svg
+  - icon.png
 color: "#130458"
 ---
