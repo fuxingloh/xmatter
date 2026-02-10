@@ -35,11 +35,12 @@ function findChain(chainId: number) {
 }
 
 function createTransport(chainId: number) {
+  const options = { timeout: 10_000, retryCount: 0 } as const;
   const extraRpcs = EXTRA_RPCS[chainId] ?? [];
   if (extraRpcs.length > 0) {
-    return fallback([http(), ...extraRpcs.map((url) => http(url))]);
+    return fallback([http(undefined, options), ...extraRpcs.map((url) => http(url, options))]);
   }
-  return http();
+  return http(undefined, options);
 }
 
 interface TokenEntry {
@@ -52,14 +53,18 @@ interface TokenEntry {
   readmeExists: boolean;
 }
 
+const MAX_CONSECUTIVE_RPC_FAILURES = 5;
+
 export class SmolDappAgent extends FileSystemAgent<TokenEntry> {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   private client!: any;
   private chainId!: number;
+  private consecutiveRpcFailures = 0;
 
   setChain(chainId: number, client: any): void {
     this.chainId = chainId;
     this.client = client;
+    this.consecutiveRpcFailures = 0;
   }
 
   async readEntry(sourcePath: string): Promise<TokenEntry | undefined> {
@@ -104,10 +109,17 @@ export class SmolDappAgent extends FileSystemAgent<TokenEntry> {
 
       const tokenName = name || symbol;
       if (!tokenName) {
+        this.consecutiveRpcFailures++;
+        if (this.consecutiveRpcFailures >= MAX_CONSECUTIVE_RPC_FAILURES) {
+          throw new Error(
+            `Aborting chain ${this.chainId}: ${this.consecutiveRpcFailures} consecutive RPC failures, likely rate limited`,
+          );
+        }
         console.warn(`Skipping ${address}: could not resolve name or symbol`);
         return undefined;
       }
 
+      this.consecutiveRpcFailures = 0;
       return {
         address,
         name: tokenName,
@@ -116,7 +128,16 @@ export class SmolDappAgent extends FileSystemAgent<TokenEntry> {
         hasLogoPng,
         readmeExists: false,
       };
-    } catch {
+    } catch (error) {
+      if (error instanceof Error && error.message.startsWith("Aborting chain")) {
+        throw error;
+      }
+      this.consecutiveRpcFailures++;
+      if (this.consecutiveRpcFailures >= MAX_CONSECUTIVE_RPC_FAILURES) {
+        throw new Error(
+          `Aborting chain ${this.chainId}: ${this.consecutiveRpcFailures} consecutive RPC failures, likely rate limited`,
+        );
+      }
       console.warn(`Skipping ${address}: RPC call failed`);
       return undefined;
     }
@@ -176,8 +197,12 @@ for (const chainIdStr of await readdir(".repo/tokens")) {
 
   agent.setChain(chainId, client);
 
-  await agent.walk(join(".repo/tokens", chainIdStr), {
-    filter: () => true,
-    toUri: (data) => `eip155/${chainId}/${data.address.toLowerCase()}`,
-  });
+  try {
+    await agent.walk(join(".repo/tokens", chainIdStr), {
+      filter: () => true,
+      toUri: (data) => `eip155/${chainId}/${data.address.toLowerCase()}`,
+    });
+  } catch (error) {
+    console.error(`Chain ${chainId} (${chain.name}) failed:`, error instanceof Error ? error.message : error);
+  }
 }
