@@ -33,5 +33,7 @@ export function XmatterIcon({
   baseUrl = "https://xmatter.org",
   ...props
 }: XmatterIconProps): ReactNode {
-  return <IconWithFallback src={`${baseUrl}/${namespace}/${chainId}/${address}/icon`} fallback={fallback} {...props} />;
+  return (
+    <IconWithFallback src={`${baseUrl}/${namespace}/${chainId}/${address}/icon.webp`} fallback={fallback} {...props} />
+  );
 }

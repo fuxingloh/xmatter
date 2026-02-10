@@ -16,7 +16,7 @@ export async function XmatterIcon({
   fallback,
   ...props
 }: XmatterIconProps): Promise<ReactNode> {
-  const url = await client.getIconUrl(chainId, address);
+  const url = await client.getIconWebpUrl(chainId, address);
   if (!url) {
     return fallback;
   }
