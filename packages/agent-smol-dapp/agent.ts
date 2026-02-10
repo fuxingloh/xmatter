@@ -58,29 +58,36 @@ export class SmolDappAgent extends FileSystemAgent<TokenEntry> {
   private client!: any;
   private chainId!: number;
   private cooldownCount = 0;
+  private cooldownExceeded = false;
   private readonly maxCooldowns = 10;
   private readonly cooldownDuration = 90_000; // 90 seconds in milliseconds
 
   setChain(chainId: number, client: any): void {
     this.chainId = chainId;
     this.client = client;
+    this.cooldownCount = 0;
+    this.cooldownExceeded = false;
   }
 
-  private async handleRateLimitError(): Promise<void> {
+  private async handleRateLimitError(error: any): Promise<boolean> {
     this.cooldownCount++;
 
     if (this.cooldownCount > this.maxCooldowns) {
-      console.error(`Rate limit cooldown exceeded maximum (${this.maxCooldowns}). Exiting.`);
-      process.exit(1);
+      console.warn(
+        `Rate limit cooldown exceeded maximum (${this.maxCooldowns}). Skipping remaining entries for this chain.`,
+      );
+      this.cooldownExceeded = true;
+      return false;
     }
 
     console.warn(
-      `Rate limit detected (429). Cooldown ${this.cooldownCount}/${this.maxCooldowns}. Waiting ${this.cooldownDuration / 1000} seconds...`,
+      `Rate limit detected (429). Cooldown ${this.cooldownCount}/${this.maxCooldowns}. Waiting ${this.cooldownDuration / 1000}s. Error: ${error?.message ?? error?.status ?? error}`,
     );
 
     await new Promise((resolve) => setTimeout(resolve, this.cooldownDuration));
 
     console.log(`Cooldown complete. Resuming operations.`);
+    return true;
   }
 
   private isRateLimitError(error: any): boolean {
@@ -163,16 +170,18 @@ export class SmolDappAgent extends FileSystemAgent<TokenEntry> {
       };
     } catch (error) {
       if (this.isRateLimitError(error)) {
-        await this.handleRateLimitError();
-        // Retry the same entry after cooldown
-        return this.readEntry(sourcePath);
+        const shouldRetry = await this.handleRateLimitError(error);
+        if (shouldRetry) {
+          return this.readEntry(sourcePath);
+        }
+        return undefined;
       }
       console.warn(`Skipping ${address}: RPC call failed`);
       return undefined;
     }
   }
 
-  toReadmeFile(uri: string, entry: TokenEntry): XmatterFile {
+  toReadmeFile(_uri: string, entry: TokenEntry): XmatterFile {
     return {
       data: {
         name: entry.name,
@@ -197,6 +206,7 @@ export class SmolDappAgent extends FileSystemAgent<TokenEntry> {
     }
 
     for (const entry of entries) {
+      if (this.cooldownExceeded) break;
       const sourcePath = join(dir, entry);
       const data = await this.readEntry(sourcePath);
       if (data === undefined) continue;
@@ -214,7 +224,11 @@ export class SmolDappAgent extends FileSystemAgent<TokenEntry> {
       if (await hasFile(join(targetPath, "LOCK"))) continue;
 
       await mkdir(targetPath, { recursive: true });
+      const isNew = !data.readmeExists;
       await this.write(uri, data, sourcePath, targetPath, parsed.data);
+      if (isNew) {
+        console.log(`Created new entry: ${uri} (${data.name})`);
+      }
     }
   }
 
