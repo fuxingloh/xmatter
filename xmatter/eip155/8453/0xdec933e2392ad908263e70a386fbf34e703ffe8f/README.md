@@ -10,8 +10,9 @@ name: Wrapped Backed Coinbase Global
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b2cbfc"
+color: "#acc7fc"
 icons:
+  - icon.svg
   - icon.png
 ---
 

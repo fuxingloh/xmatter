@@ -12,8 +12,9 @@ name: FAI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2f6a43"
+color: "#355a3c"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -10,8 +10,9 @@ name: higher
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#048b0b"
+color: "#048c0c"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -13,6 +13,7 @@ standards:
 color: "#1c1c4d"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Asset management protocol

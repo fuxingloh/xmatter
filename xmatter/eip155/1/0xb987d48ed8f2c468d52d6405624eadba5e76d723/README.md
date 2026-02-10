@@ -14,8 +14,9 @@ name: Stabilize Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#000000"
+color: "#bdbdbd"
 icons:
+  - icon.svg
   - icon.png
 ---
 

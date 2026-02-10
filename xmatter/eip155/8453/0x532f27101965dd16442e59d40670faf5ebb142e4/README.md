@@ -12,8 +12,9 @@ name: Brett
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4ad1f4"
+color: "#1e11f1"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -13,6 +13,7 @@ standards:
 color: "#57f1fc"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 The First Data-Centric Blockchain to Supercharge AI at Scale

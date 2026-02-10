@@ -12,6 +12,7 @@ symbol: RNBW
 decimals: 18
 icons:
   - icon.svg
+  - icon.png
 color: "#a37622"
 ---
 

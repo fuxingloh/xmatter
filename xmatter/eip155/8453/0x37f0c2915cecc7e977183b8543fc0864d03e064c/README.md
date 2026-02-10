@@ -13,6 +13,7 @@ standards:
 color: "#fc6c6c"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Hunt Town is a Web3 builders guild where builders come together to contribute to the expansion of Web3 culture and products.

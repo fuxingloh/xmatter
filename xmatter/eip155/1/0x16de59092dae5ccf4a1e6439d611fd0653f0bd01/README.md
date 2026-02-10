@@ -6,7 +6,8 @@ name: iearn DAI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d4d4d3"
+color: "#c1c1c1"
 icons:
+  - icon.svg
   - icon.png
 ---

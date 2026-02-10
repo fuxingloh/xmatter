@@ -13,6 +13,7 @@ standards:
 color: "#04d091"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Compound DAO Governance Token

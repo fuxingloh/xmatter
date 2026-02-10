@@ -15,8 +15,9 @@ name: Sky
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cbaadd"
+color: "#ceaddf"
 icons:
+  - icon.svg
   - icon.png
 ---
 

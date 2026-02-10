@@ -14,8 +14,9 @@ name: Avail
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3eb0eb"
+color: "#3d9fd6"
 icons:
+  - icon.svg
   - icon.png
 ---
 

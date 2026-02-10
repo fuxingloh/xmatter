@@ -12,8 +12,9 @@ name: Gho
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c9b3f7"
+color: "#2cd45c"
 icons:
+  - icon.svg
   - icon.png
 ---
 

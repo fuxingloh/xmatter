@@ -10,8 +10,9 @@ name: Hegic
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#93f6f7"
+color: "#141c3c"
 icons:
+  - icon.svg
   - icon.png
 ---
 

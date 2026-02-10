@@ -12,8 +12,9 @@ name: Sui (Universal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dbebf9"
+color: "#202020"
 icons:
+  - icon.svg
   - icon.png
 ---
 

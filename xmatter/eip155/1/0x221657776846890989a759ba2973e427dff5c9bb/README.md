@@ -8,8 +8,9 @@ name: Reputation
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0c0c24"
+color: "#16163c"
 icons:
+  - icon.svg
   - icon.png
 ---
 

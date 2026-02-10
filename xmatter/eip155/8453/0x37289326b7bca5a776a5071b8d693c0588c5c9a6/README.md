@@ -13,6 +13,7 @@ standards:
 color: "#d4c395"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 A fractionalized NFT of and from the real doge, Kabosu.

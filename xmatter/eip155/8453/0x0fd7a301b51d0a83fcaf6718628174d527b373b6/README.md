@@ -16,8 +16,9 @@ name: luminous
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c6a780"
+color: "#212223"
 icons:
+  - icon.svg
   - icon.png
 ---
 

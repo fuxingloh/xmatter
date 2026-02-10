@@ -13,6 +13,7 @@ standards:
 color: "#044cac"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 SOFT is for launching tokens

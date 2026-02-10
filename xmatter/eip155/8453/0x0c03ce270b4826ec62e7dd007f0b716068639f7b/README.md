@@ -12,8 +12,9 @@ name: The Innovation Game
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#050505"
+color: "#bdbee4"
 icons:
+  - icon.svg
   - icon.png
 ---
 

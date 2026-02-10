@@ -8,8 +8,9 @@ name: stETH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#00a3ff"
+color: "#63cbfc"
 icons:
+  - icon.svg
   - icon.png
 ---
 

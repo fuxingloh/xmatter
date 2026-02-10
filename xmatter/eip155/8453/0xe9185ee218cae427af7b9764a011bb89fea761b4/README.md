@@ -11,6 +11,7 @@ standards:
 color: "#cec217"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 BRZ is a token backed by the Brazilian Real (BRL) currency

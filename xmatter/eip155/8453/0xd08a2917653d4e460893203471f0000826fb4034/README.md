@@ -13,6 +13,7 @@ standards:
 color: "#c7e0dd"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Harvest Finance Reward Token

@@ -8,8 +8,9 @@ name: Aave YFI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a97db6"
+color: "#a978b5"
 icons:
+  - icon.svg
   - icon.png
 ---
 

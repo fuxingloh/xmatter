@@ -12,8 +12,9 @@ name: mStable USD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f3f3f3"
+color: "#040404"
 icons:
+  - icon.svg
   - icon.png
 ---
 

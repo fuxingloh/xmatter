@@ -16,8 +16,9 @@ name: StargateToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b7b7b7"
+color: "#060606"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -25,8 +25,9 @@ name: USDN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04fbb4"
+color: "#04fab3"
 icons:
+  - icon.svg
   - icon.png
 ---
 

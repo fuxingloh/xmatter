@@ -13,6 +13,7 @@ standards:
 color: "#f2d8ef"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 AJNA tokens are the Ajna Protocol's native token.

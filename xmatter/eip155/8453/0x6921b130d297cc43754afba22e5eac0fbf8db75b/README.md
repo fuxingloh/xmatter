@@ -10,8 +10,9 @@ name: doginme
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#364fc3"
+color: "#415594"
 icons:
+  - icon.svg
   - icon.png
 ---
 

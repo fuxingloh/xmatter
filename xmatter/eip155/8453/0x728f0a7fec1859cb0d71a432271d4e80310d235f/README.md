@@ -13,6 +13,7 @@ standards:
 color: "#5b4389"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Official token of POG Digital

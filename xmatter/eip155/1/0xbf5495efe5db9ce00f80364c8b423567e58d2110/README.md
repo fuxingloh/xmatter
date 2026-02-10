@@ -12,8 +12,9 @@ name: ezETH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#9bcf2c"
+color: "#ace13e"
 icons:
+  - icon.svg
   - icon.png
 ---
 

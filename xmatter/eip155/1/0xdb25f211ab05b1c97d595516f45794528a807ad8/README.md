@@ -10,8 +10,9 @@ name: STASIS EURO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#239cf5"
+color: "#3d6cee"
 icons:
+  - icon.svg
   - icon.png
 ---
 
