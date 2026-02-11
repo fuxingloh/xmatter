@@ -13,9 +13,7 @@
   },
   "dependencies": {
     "@workspace/agent-base": "workspace:*",
-    "colorthief": "^2.6.0",
     "gray-matter": "^4.0.3",
-    "sharp": "^0.34.5",
     "xmatter": "workspace:*"
   }
 }
