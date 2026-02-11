@@ -34,13 +34,11 @@ class IconColorAgent extends FileSystemAgent<Entry> {
     return entry.file;
   }
 
-  override async write(_uri: string, _entry: Entry, _source: string, target: string, file: XmatterFile): Promise<void> {
-    const iconsBefore = file.data.icons;
+  override async write(_uri: string, entry: Entry, _source: string, target: string, file: XmatterFile): Promise<void> {
+    const iconsBefore = entry.file.data.icons.join(",");
     file = await this.mergeIcons(target, file);
 
-    const changed =
-      iconsBefore.length !== file.data.icons.length || iconsBefore.some((icon, i) => icon !== file.data.icons[i]);
-    if (changed || !file.data.color) {
+    if (file.data.icons.join(",") !== iconsBefore || !file.data.color) {
       file = await this.mergeColor(target, file);
       await writeFile(join(target, "README.md"), gray.stringify(file.content ?? "", file.data));
     }
