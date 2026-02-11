@@ -68,7 +68,7 @@ export class EthereumOptimism extends FileSystemAgent<TokenData> {
     await super.write(uri, data, source, target, file);
   }
 
-  toReadmeFile(uri: string, data: TokenData): XmatterFile {
+  override toReadmeFile(uri: string, data: TokenData): XmatterFile {
     const links: XmatterFile["data"]["links"] = [];
     if (data.website) links.push({ name: "website", url: data.website });
     if (data.twitter) {
