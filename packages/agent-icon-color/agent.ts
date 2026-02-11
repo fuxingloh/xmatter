@@ -38,13 +38,12 @@ class IconColorAgent extends FileSystemAgent<Entry> {
     const iconsBefore = file.data.icons;
     file = await this.mergeIcons(target, file);
 
-    const iconsChanged =
+    const changed =
       iconsBefore.length !== file.data.icons.length || iconsBefore.some((icon, i) => icon !== file.data.icons[i]);
-    if (iconsChanged || !file.data.color) {
+    if (changed || !file.data.color) {
       file = await this.mergeColor(target, file);
+      await writeFile(join(target, "README.md"), gray.stringify(file.content ?? "", file.data));
     }
-
-    await writeFile(join(target, "README.md"), gray.stringify(file.content ?? "", file.data));
   }
 }
 
