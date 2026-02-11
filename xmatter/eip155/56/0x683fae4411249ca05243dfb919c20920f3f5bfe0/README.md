@@ -1,6 +1,8 @@
 ---
-symbol: GHC
-decimals: 9
+name: Galaxy Heroes Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://galaxyheroescoin.com"
@@ -22,10 +24,8 @@ links:
     url: "https://facebook.com/GalaxyHeroesCoin"
   - name: youtube
     url: "https://youtube.com/channel/UC0XEhzirmXN0AZQIhoR_Vzg"
-name: Galaxy Heroes Coin
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: GHC
+decimals: 9
 icons: []
 ---
 

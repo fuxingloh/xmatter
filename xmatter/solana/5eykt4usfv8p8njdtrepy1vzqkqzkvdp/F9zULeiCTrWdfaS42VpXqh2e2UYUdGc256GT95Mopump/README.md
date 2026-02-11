@@ -1,13 +1,13 @@
 ---
-symbol: SCAM USDT
-decimals: 6
-links:
-  - name: website
-    url: "https://solscan.io/token/F9zULeiCTrWdfaS42VpXqh2e2UYUdGc256GT95Mopump"
 name: SCAM United Stable Dollar Trump
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
+links:
+  - name: website
+    url: "https://solscan.io/token/F9zULeiCTrWdfaS42VpXqh2e2UYUdGc256GT95Mopump"
+symbol: SCAM USDT
+decimals: 6
 icons: []
 ---
 

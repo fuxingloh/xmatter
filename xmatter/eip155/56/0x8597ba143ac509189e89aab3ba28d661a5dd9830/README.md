@@ -1,13 +1,13 @@
 ---
-symbol: VANCAT
-decimals: 0
-links:
-  - name: website
-    url: "https://www.vancattoken.com/"
 name: Old VANCAT Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+links:
+  - name: website
+    url: "https://www.vancattoken.com/"
+symbol: VANCAT
+decimals: 0
 icons: []
 ---
 

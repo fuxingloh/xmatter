@@ -1,6 +1,8 @@
 ---
-symbol: RISE (old)
-decimals: 18
+name: EverRise (old)
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://www.everrise.com/"
@@ -22,10 +24,8 @@ links:
     url: "https://github.com/everrise-ecosystem"
   - name: facebook
     url: "https://facebook.com/EverRiseToken"
-name: EverRise (old)
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: RISE (old)
+decimals: 18
 icons: []
 ---
 

@@ -1,6 +1,8 @@
 ---
-symbol: QANX
-decimals: 18
+name: QANX Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://qanplatform.com"
@@ -26,10 +28,8 @@ links:
     url: "https://coinmarketcap.com/currencies/qanplatform/"
   - name: coingecko
     url: "https://coingecko.com/en/coins/qanplatform"
-name: QANX Token
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: QANX
+decimals: 18
 icons: []
 ---
 

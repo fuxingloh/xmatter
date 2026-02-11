@@ -1,6 +1,8 @@
 ---
-symbol: ALBT
-decimals: 18
+name: AllianceBlock
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://allianceblock.io"
@@ -19,10 +21,8 @@ links:
     url: "https://medium.com/@allianceblock"
   - name: whitepaper
     url: "https://www.allianceblock.io/AllianceBlock_WhitePaper_n47oEn0Aa.pdf"
-name: AllianceBlock
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: ALBT
+decimals: 18
 icons: []
 ---
 

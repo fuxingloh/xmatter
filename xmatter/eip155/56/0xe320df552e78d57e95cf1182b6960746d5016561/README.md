@@ -1,6 +1,8 @@
 ---
-symbol: DOGECOLA
-decimals: 9
+name: DogeCola
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - deflationary
 links:
@@ -12,10 +14,8 @@ links:
     url: "https://x.com/doge_cola"
   - name: telegram
     url: "https://t.me/dogecola"
-name: DogeCola
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: DOGECOLA
+decimals: 9
 icons: []
 ---
 

@@ -1,6 +1,8 @@
 ---
-symbol: BabyDogeZilla
-decimals: 9
+name: BabyDogeZilla
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://babydogezilla.com/"
@@ -12,10 +14,8 @@ links:
     url: "https://coinmarketcap.com/currencies/babydogezilla/"
   - name: coingecko
     url: "https://coingecko.com/en/coins/babydogezilla"
-name: BabyDogeZilla
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: BabyDogeZilla
+decimals: 9
 icons: []
 ---
 

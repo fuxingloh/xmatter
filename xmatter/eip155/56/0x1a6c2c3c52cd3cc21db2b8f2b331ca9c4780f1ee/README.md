@@ -1,13 +1,13 @@
 ---
-symbol: AER
-decimals: 18
-links:
-  - name: website
-    url: "https://www.aerdrop.finance/"
 name: AERDROP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+links:
+  - name: website
+    url: "https://www.aerdrop.finance/"
+symbol: AER
+decimals: 18
 icons: []
 ---
 

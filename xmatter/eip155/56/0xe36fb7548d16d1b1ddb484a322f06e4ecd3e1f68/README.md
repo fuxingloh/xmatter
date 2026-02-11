@@ -1,6 +1,8 @@
 ---
-symbol: USDN
-decimals: 18
+name: NeutralAI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - stablecoin
 links:
@@ -14,10 +16,8 @@ links:
     url: "https://github.com/neutralai"
   - name: telegram
     url: "https://t.me/neutralai_io"
-name: NeutralAI
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: USDN
+decimals: 18
 icons: []
 ---
 

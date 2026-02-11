@@ -1,6 +1,8 @@
 ---
-symbol: GMR
-decimals: 18
+name: GAMER
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://gmr.center"
@@ -22,10 +24,8 @@ links:
     url: "https://coingecko.com/en/coins/gamer"
   - name: youtube
     url: "https://youtube.com/GMRCenter"
-name: GAMER
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: GMR
+decimals: 18
 icons: []
 ---
 

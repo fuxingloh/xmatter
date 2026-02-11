@@ -1,6 +1,8 @@
 ---
-symbol: DEVE
-decimals: 18
+name: Develocity
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - defi
 links:
@@ -22,10 +24,8 @@ links:
     url: "https://coingecko.com/en/coins/develocity"
   - name: whitepaper
     url: "https://develocity.finance/whitepaper.pdf"
-name: Develocity
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: DEVE
+decimals: 18
 icons:
   - icon.png
 ---

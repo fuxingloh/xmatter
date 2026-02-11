@@ -1,6 +1,8 @@
 ---
-symbol: MTG
-decimals: 18
+name: MagnetGold
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://mtggold.com/"
@@ -18,10 +20,8 @@ links:
     url: "https://coinmarketcap.com/currencies/magnet-gold/"
   - name: medium
     url: "https://medium.com/@magnetgold"
-name: MagnetGold
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: MTG
+decimals: 18
 icons: []
 ---
 

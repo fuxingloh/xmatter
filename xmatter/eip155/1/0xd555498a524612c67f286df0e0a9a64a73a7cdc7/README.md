@@ -1,6 +1,8 @@
 ---
-symbol: DEFROGS
-decimals: 18
+name: DeFrogs
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - memes
 links:
@@ -10,10 +12,8 @@ links:
     url: "https://x.com/DeFrogsToken"
   - name: telegram
     url: "https://t.me/DeFrogs"
-name: DeFrogs
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: DEFROGS
+decimals: 18
 icons: []
 ---
 

@@ -1,15 +1,15 @@
 ---
-symbol: BEER
-decimals: 18
+name: Beers
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://uefaeuro2024.top/"
   - name: x
     url: "https://x.com/euro2024Beers"
-name: Beers
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: BEER
+decimals: 18
 icons: []
 ---
 

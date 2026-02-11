@@ -1,6 +1,8 @@
 ---
-symbol: LLG
-decimals: 9
+name: LucidLandsGem
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://lucidlands.io/"
@@ -12,10 +14,8 @@ links:
     url: "https://coinmarketcap.com/currencies/lucid-lands/"
   - name: coingecko
     url: "https://coingecko.com/en/coins/lucid-lands"
-name: LucidLandsGem
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: LLG
+decimals: 9
 icons: []
 ---
 

@@ -1,13 +1,13 @@
 ---
-symbol: RYOSHI
-decimals: 9
-links:
-  - name: website
-    url: "https://www.ryoshitoken.com"
 name: RYOSHI TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+links:
+  - name: website
+    url: "https://www.ryoshitoken.com"
+symbol: RYOSHI
+decimals: 9
 icons: []
 ---
 

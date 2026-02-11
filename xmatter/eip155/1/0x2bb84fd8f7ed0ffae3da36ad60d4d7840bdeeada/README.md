@@ -1,6 +1,8 @@
 ---
-symbol: GROK
-decimals: 18
+name: SORA GROK
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://soragrok.net/"
@@ -8,10 +10,8 @@ links:
     url: "https://x.com/soragrokxx"
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/sora-grok/"
-name: SORA GROK
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: GROK
+decimals: 18
 icons: []
 ---
 

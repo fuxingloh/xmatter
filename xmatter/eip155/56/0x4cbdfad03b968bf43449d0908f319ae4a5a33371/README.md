@@ -1,15 +1,15 @@
 ---
-symbol: ECOIN
-decimals: 9
+name: E-COIN Finance
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - deflationary
 links:
   - name: website
     url: "https://ecoin-finance.com/"
-name: E-COIN Finance
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: ECOIN
+decimals: 9
 icons: []
 ---
 

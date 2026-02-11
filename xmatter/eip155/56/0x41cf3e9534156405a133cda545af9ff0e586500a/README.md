@@ -1,6 +1,8 @@
 ---
-symbol: GamingShiba
-decimals: 9
+name: GamingShiba
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://www.gamingshibaofficial.com"
@@ -10,10 +12,8 @@ links:
     url: "https://t.me/gamingshibabsc"
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/gamingshiba/"
-name: GamingShiba
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: GamingShiba
+decimals: 9
 icons: []
 ---
 

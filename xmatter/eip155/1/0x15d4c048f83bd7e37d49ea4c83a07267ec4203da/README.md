@@ -1,6 +1,8 @@
 ---
-symbol: GALA
-decimals: 8
+name: Gala
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - nft
   - gamefi
@@ -17,10 +19,8 @@ links:
     url: "https://facebook.com/GoGalaGames"
   - name: reddit
     url: "https://reddit.com/r/GoGalaGames"
-name: Gala
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: GALA
+decimals: 8
 icons: []
 ---
 

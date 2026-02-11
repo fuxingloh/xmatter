@@ -1,13 +1,13 @@
 ---
-symbol: QBX
-decimals: 18
-links:
-  - name: website
-    url: "https://qiibee.com/"
 name: qiibeeToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+links:
+  - name: website
+    url: "https://qiibee.com/"
+symbol: QBX
+decimals: 18
 icons: []
 ---
 

@@ -1,6 +1,8 @@
 ---
-symbol: MNTG
-decimals: 18
+name: Monetas Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - stablecoin
   - staking
@@ -23,10 +25,8 @@ links:
     url: "https://coingecko.com/en/coins/monetas"
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/monetas/"
-name: Monetas Token
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: MNTG
+decimals: 18
 icons: []
 ---
 

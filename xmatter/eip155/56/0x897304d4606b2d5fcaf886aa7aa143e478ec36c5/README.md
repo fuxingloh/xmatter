@@ -1,6 +1,8 @@
 ---
-symbol: MND
-decimals: 9
+name: Mind Music
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://mindmusic.finance"
@@ -14,10 +16,8 @@ links:
     url: "https://coingecko.com/en/coins/mind-music"
   - name: github
     url: "https://github.com/D-B-S-G/MindMusic/tree/main"
-name: Mind Music
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: MND
+decimals: 9
 icons: []
 ---
 

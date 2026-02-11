@@ -1,6 +1,8 @@
 ---
-symbol: SHINJA
-decimals: 9
+name: Shibnobi
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://shibnobi.com"
@@ -18,10 +20,8 @@ links:
     url: "https://reddit.com/r/Shibnobi/"
   - name: coingecko
     url: "https://coingecko.com/en/coins/shibnobi"
-name: Shibnobi
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: SHINJA
+decimals: 9
 icons: []
 ---
 

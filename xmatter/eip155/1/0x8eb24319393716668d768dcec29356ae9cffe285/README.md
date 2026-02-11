@@ -1,13 +1,13 @@
 ---
-symbol: AGI
-decimals: 8
-links:
-  - name: website
-    url: "https://singularitynet.io"
 name: SingularityNET Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+links:
+  - name: website
+    url: "https://singularitynet.io"
+symbol: AGI
+decimals: 8
 icons: []
 ---
 

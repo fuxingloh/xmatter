@@ -1,15 +1,15 @@
 ---
-symbol: MAGA
-decimals: 18
+name: Triumph of MAGA
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://triumphofmaga.com/"
   - name: x
     url: "https://x.com/Triumph_MAGA"
-name: Triumph of MAGA
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: MAGA
+decimals: 18
 icons: []
 ---
 

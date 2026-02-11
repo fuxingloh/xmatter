@@ -1,6 +1,8 @@
 ---
-symbol: PATH
-decimals: 9
+name: PathFund
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://pathfund.net"
@@ -10,10 +12,8 @@ links:
     url: "https://github.com/PathFund"
   - name: telegram
     url: "https://t.me/PathFund"
-name: PathFund
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: PATH
+decimals: 9
 icons: []
 ---
 

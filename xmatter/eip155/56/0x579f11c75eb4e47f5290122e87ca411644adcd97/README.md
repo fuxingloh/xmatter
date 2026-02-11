@@ -1,6 +1,8 @@
 ---
-symbol: CLEANOCEAN
-decimals: 9
+name: CleanOcean
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://cleanocean.io/"
@@ -10,10 +12,8 @@ links:
     url: "https://t.me/cleanocean"
   - name: reddit
     url: "https://reddit.com/r/CLEANOCEAN/"
-name: CleanOcean
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: CLEANOCEAN
+decimals: 9
 icons: []
 ---
 

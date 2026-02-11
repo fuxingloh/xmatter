@@ -1,6 +1,8 @@
 ---
-symbol: BIGB
-decimals: 18
+name: BIGH BULL
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://bighbull.com"
@@ -15,10 +17,8 @@ links:
   - name: source_code
     url: >-
       https://bscscan.com/address/0x64b55bb2f27c3710349d9ca024d0d1ff2dab7f62#code#L1
-name: BIGH BULL
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: BIGB
+decimals: 18
 icons: []
 ---
 

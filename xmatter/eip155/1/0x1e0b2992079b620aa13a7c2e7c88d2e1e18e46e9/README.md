@@ -1,15 +1,15 @@
 ---
-symbol: KOMPETE
-decimals: 10
+name: KOMPETE Token
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://kompete.game"
   - name: twitter
     url: "https://twitter.com/KOMPETEgame"
-name: KOMPETE Token
-provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
-standards:
-  - erc20
+symbol: KOMPETE
+decimals: 10
 icons: []
 ---
 

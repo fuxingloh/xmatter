@@ -1,6 +1,8 @@
 ---
-symbol: ERR
-decimals: 9
+name: Coinerr
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - defi
 links:
@@ -26,10 +28,8 @@ links:
     url: "https://coinerr.medium.com/"
   - name: reddit
     url: "https://reddit.com/r/Coinerr_ERR"
-name: Coinerr
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: ERR
+decimals: 9
 icons: []
 ---
 

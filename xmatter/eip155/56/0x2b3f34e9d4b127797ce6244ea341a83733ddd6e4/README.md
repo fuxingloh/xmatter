@@ -1,6 +1,8 @@
 ---
-symbol: FLOKI
-decimals: 9
+name: Floki Inu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://theflokiinu.com"
@@ -12,10 +14,8 @@ links:
     url: "https://coinmarketcap.com/currencies/floki-inu/"
   - name: coingecko
     url: "https://coingecko.com/en/coins/floki-inu"
-name: Floki Inu
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: FLOKI
+decimals: 9
 icons: []
 ---
 

@@ -1,6 +1,8 @@
 ---
-symbol: GRT
-decimals: 18
+name: The Graph
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - defi
 links:
@@ -16,10 +18,8 @@ links:
     url: "https://t.me/graphprotocol"
   - name: coingecko
     url: "https://coingecko.com/en/coins/the-graph/"
-name: The Graph
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: GRT
+decimals: 18
 icons: []
 ---
 

@@ -1,6 +1,8 @@
 ---
-symbol: BIRB
-decimals: 18
+name: Birb
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - deflationary
 links:
@@ -18,10 +20,8 @@ links:
     url: "https://dessertswap.finance/audits/Birb%20BEP-20%20Audit%209082831.pdf"
   - name: reddit
     url: "https://reddit.com/r/BirbDefi/"
-name: Birb
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: BIRB
+decimals: 18
 icons: []
 ---
 

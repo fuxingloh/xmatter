@@ -1,13 +1,13 @@
 ---
-symbol: VANITY
-decimals: 9
-links:
-  - name: website
-    url: "https://vanitytoken.net"
 name: Vanity
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+links:
+  - name: website
+    url: "https://vanitytoken.net"
+symbol: VANITY
+decimals: 9
 icons: []
 ---
 

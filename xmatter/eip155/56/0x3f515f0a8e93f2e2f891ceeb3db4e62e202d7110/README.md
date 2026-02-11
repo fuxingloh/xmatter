@@ -1,13 +1,13 @@
 ---
-symbol: VIDT
-decimals: 18
-links:
-  - name: website
-    url: "https://about.v-id.org"
 name: VIDT Datalink BEP20
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+links:
+  - name: website
+    url: "https://about.v-id.org"
+symbol: VIDT
+decimals: 18
 icons: []
 ---
 

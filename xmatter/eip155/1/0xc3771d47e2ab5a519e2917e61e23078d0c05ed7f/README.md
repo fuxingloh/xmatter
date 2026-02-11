@@ -1,6 +1,8 @@
 ---
-symbol: GTH
-decimals: 18
+name: Gather
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - governance
 links:
@@ -14,10 +16,8 @@ links:
     url: "https://medium.com/@GatherNetwork"
   - name: whitepaper
     url: "https://gather.network/whitepaper.html"
-name: Gather
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: GTH
+decimals: 18
 icons: []
 ---
 

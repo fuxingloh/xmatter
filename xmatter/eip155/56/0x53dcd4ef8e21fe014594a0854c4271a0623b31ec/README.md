@@ -1,13 +1,13 @@
 ---
-symbol: X2P
-decimals: 9
-links:
-  - name: website
-    url: "https://xenonpay.org"
 name: Xenon Pay
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+links:
+  - name: website
+    url: "https://xenonpay.org"
+symbol: X2P
+decimals: 9
 icons: []
 ---
 

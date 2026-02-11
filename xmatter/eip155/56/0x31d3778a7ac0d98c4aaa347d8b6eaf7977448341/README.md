@@ -1,19 +1,19 @@
 ---
-symbol: KIBA
-decimals: 9
-tags:
-  - defi
-links:
-  - name: website
-    url: "https://kibainu.space/ "
-  - name: coinmarketcap
-    url: "https://coinmarketcap.com/currencies/kiba-inu/"
-  - name: telegram
-    url: "https://t.me/KibaInuGlobal"
 name: Kiba Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+tags:
+  - defi
+links:
+  - name: website
+    url: "https://kibainu.space/"
+  - name: coinmarketcap
+    url: "https://coinmarketcap.com/currencies/kiba-inu/"
+  - name: telegram
+    url: "https://t.me/KibaInuGlobal"
+symbol: KIBA
+decimals: 9
 icons: []
 ---
 

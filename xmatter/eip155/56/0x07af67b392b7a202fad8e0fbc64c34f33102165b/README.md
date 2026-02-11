@@ -1,6 +1,8 @@
 ---
-symbol: AQUAGOAT
-decimals: 9
+name: Aquagoat
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://www.aquagoat.finance/"
@@ -10,10 +12,8 @@ links:
     url: "https://t.me/AquaGoat"
   - name: discord
     url: "https://discord.com/invite/E94cMhRhyu"
-name: Aquagoat
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: AQUAGOAT
+decimals: 9
 icons: []
 ---
 

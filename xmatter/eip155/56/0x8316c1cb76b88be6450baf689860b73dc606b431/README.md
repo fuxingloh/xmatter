@@ -1,6 +1,8 @@
 ---
-symbol: SPO
-decimals: 18
+name: SPO Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://spores.app/about"
@@ -12,10 +14,8 @@ links:
     url: "https://coingecko.com/en/coins/spores-network"
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/spores-network"
-name: SPO Token
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: SPO
+decimals: 18
 icons: []
 ---
 

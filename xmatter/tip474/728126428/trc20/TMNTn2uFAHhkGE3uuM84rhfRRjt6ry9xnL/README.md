@@ -1,13 +1,13 @@
 ---
-symbol: ZEDXION
-decimals: 18
-links:
-  - name: website
-    url: "https://zedxion.io/"
 name: ZEDXION
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
+links:
+  - name: website
+    url: "https://zedxion.io/"
+symbol: ZEDXION
+decimals: 18
 icons: []
 ---
 

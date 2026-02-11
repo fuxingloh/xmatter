@@ -1,6 +1,8 @@
 ---
-symbol: SPOOKYSHIBA
-decimals: 9
+name: SpookyShiba
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://SpookyShibaBSC.com"
@@ -22,10 +24,8 @@ links:
     url: "https://facebook.com/spookyshibatoken"
   - name: youtube
     url: "https://youtube.com/channel/UCaTAm3R9Orew15BAMD7w6xQ"
-name: SpookyShiba
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: SPOOKYSHIBA
+decimals: 9
 icons: []
 ---
 
