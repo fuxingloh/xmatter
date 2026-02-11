@@ -1,15 +1,15 @@
 ---
-symbol: OS
-decimals: 18
+name: EthOS
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://os.ethos.eth.link/"
   - name: discord
     url: "https://discord.com/nHZ2bUd"
-name: EthOS
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: OS
+decimals: 18
 icons: []
 ---
 

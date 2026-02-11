@@ -1,6 +1,8 @@
 ---
-symbol: FEGbsc
-decimals: 9
+name: FEG Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - deflationary
 links:
@@ -16,10 +18,8 @@ links:
     url: "https://reddit.com/r/FegToken_Official/"
   - name: medium
     url: "https://fegtoken.medium.com/"
-name: FEG Token
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: FEGbsc
+decimals: 9
 icons: []
 ---
 

@@ -1,6 +1,8 @@
 ---
-symbol: PEEPS
-decimals: 18
+name: The People's Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://thepeoplescoin.money/"
@@ -12,10 +14,8 @@ links:
     url: "https://reddit.com/r/PEEPScoin/"
   - name: telegram
     url: "https://t.me/ThePeoplesCoinOfficial"
-name: The People's Coin
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: PEEPS
+decimals: 18
 icons: []
 ---
 

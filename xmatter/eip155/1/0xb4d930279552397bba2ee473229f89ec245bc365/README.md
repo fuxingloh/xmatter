@@ -1,6 +1,8 @@
 ---
-symbol: MAHA
-decimals: 18
+name: MahaDAO
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://mahadao.com/"
@@ -10,10 +12,8 @@ links:
     url: "https://t.me/mahadao"
   - name: medium
     url: "https://medium.com/mahadao"
-name: MahaDAO
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: MAHA
+decimals: 18
 icons: []
 ---
 

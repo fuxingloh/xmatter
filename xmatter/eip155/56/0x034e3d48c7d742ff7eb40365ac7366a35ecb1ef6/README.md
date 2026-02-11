@@ -1,6 +1,8 @@
 ---
-symbol: TST
-decimals: 12
+name: TEST
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - memes
 links:
@@ -10,10 +12,8 @@ links:
     url: "https://x.com/testtstx"
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/testtoken-me/"
-name: TEST
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: TST
+decimals: 12
 icons: []
 ---
 

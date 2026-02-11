@@ -1,6 +1,8 @@
 ---
-symbol: XTR
-decimals: 8
+name: Xtremcoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://www.xtremcoin.com"
@@ -10,10 +12,8 @@ links:
     url: "https://github.com/xtremcoin"
   - name: telegram
     url: "https://t.me/xtremcoin"
-name: Xtremcoin
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: XTR
+decimals: 8
 icons: []
 ---
 

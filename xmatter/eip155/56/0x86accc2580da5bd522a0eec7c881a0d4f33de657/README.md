@@ -1,6 +1,8 @@
 ---
-symbol: SNACK
-decimals: 18
+name: CRYPTO SNACK
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://cryptosnacks.org/"
@@ -24,10 +26,8 @@ links:
     url: "https://github.com/CryptoSnackProject"
   - name: discord
     url: "https://discord.com/invite/NyemjyETwA"
-name: CRYPTO SNACK
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: SNACK
+decimals: 18
 icons: []
 ---
 

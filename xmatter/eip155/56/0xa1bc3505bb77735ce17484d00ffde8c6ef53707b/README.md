@@ -1,13 +1,13 @@
 ---
-symbol: STORY
-decimals: 9
-links:
-  - name: website
-    url: "https://storytoken.app"
 name: Story
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+links:
+  - name: website
+    url: "https://storytoken.app"
+symbol: STORY
+decimals: 9
 icons: []
 ---
 

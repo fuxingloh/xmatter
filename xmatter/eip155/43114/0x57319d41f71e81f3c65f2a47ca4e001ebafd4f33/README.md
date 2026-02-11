@@ -1,6 +1,8 @@
 ---
-symbol: xJOE
-decimals: 18
+name: JoeBar
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - defi
 links:
@@ -14,10 +16,8 @@ links:
     url: "https://coinmarketcap.com/currencies/joe/"
   - name: coingecko
     url: "https://coingecko.com/en/coins/joe/"
-name: JoeBar
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: xJOE
+decimals: 18
 icons: []
 ---
 

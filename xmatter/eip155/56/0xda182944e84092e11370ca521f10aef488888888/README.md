@@ -1,6 +1,8 @@
 ---
-symbol: U
-decimals: 18
+name: United Stables
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - stablecoin
 links:
@@ -12,10 +14,8 @@ links:
     url: "https://x.com/UTechStables"
   - name: medium
     url: "https://medium.com/@Ustables"
-name: United Stables
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: U
+decimals: 18
 icons: []
 ---
 

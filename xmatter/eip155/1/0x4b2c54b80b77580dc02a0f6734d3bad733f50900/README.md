@@ -1,6 +1,8 @@
 ---
-symbol: KIBA
-decimals: 9
+name: Kiba Inu
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - memes
 links:
@@ -12,10 +14,8 @@ links:
     url: "https://coinmarketcap.com/currencies/kiba-inu/"
   - name: coingecko
     url: "https://coingecko.com/coins/kiba-inu/"
-name: Kiba Inu
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: KIBA
+decimals: 9
 icons: []
 ---
 

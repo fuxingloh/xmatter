@@ -1,6 +1,8 @@
 ---
-symbol: HoHoHo
-decimals: 2
+name: Santa Floki
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://www.santafloki.com"
@@ -8,10 +10,8 @@ links:
     url: "https://x.com/Santa_Floki"
   - name: telegram
     url: "https://t.me/Santa_Floki"
-name: Santa Floki
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: HoHoHo
+decimals: 2
 icons: []
 ---
 

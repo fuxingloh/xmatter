@@ -1,6 +1,8 @@
 ---
-symbol: ASIX
-decimals: 9
+name: ASIX Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - gamefi
   - nft
@@ -15,10 +17,8 @@ links:
     url: "https://t.me/asixtoken"
   - name: x
     url: "https://x.com/AsixToken"
-name: ASIX Token
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: ASIX
+decimals: 9
 icons: []
 ---
 

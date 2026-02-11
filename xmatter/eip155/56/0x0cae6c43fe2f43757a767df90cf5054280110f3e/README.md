@@ -1,6 +1,8 @@
 ---
-symbol: AFFINITY
-decimals: 9
+name: Affinity
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - defi
   - deflationary
@@ -23,10 +25,8 @@ links:
     url: "https://coingecko.com/en/coins/affinity"
   - name: youtube
     url: "https://youtube.com/channel/UCtbkIqnNuKbgWHYH7ndb1Pg"
-name: Affinity
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: AFFINITY
+decimals: 9
 icons: []
 ---
 

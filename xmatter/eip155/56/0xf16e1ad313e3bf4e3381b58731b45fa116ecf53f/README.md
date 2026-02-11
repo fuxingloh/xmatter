@@ -1,6 +1,8 @@
 ---
-symbol: LuckyPig
-decimals: 9
+name: LuckyPig
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://www.luckypigtoken.com/"
@@ -8,10 +10,8 @@ links:
     url: "https://coinmarketcap.com/currencies/luckypig/"
   - name: x
     url: "https://x.com/Luckypigtoken"
-name: LuckyPig
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: LuckyPig
+decimals: 9
 icons: []
 ---
 

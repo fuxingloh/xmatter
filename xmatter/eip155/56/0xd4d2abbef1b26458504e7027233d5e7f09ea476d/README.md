@@ -1,6 +1,8 @@
 ---
-symbol: MNWL
-decimals: 18
+name: MoonWilly
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://moonwilly.com"
@@ -16,10 +18,8 @@ links:
     url: "https://facebook.com/MoonWilly-101277595537126"
   - name: medium
     url: "https://medium.com/@moonwillycoin"
-name: MoonWilly
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: MNWL
+decimals: 18
 icons: []
 ---
 

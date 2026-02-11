@@ -1,15 +1,15 @@
 ---
-symbol: FLASH
-decimals: 18
+name: Flashstake
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://flashstake.io"
   - name: x
     url: "https://x.com/Flashstake"
-name: Flashstake
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: FLASH
+decimals: 18
 icons: []
 ---
 

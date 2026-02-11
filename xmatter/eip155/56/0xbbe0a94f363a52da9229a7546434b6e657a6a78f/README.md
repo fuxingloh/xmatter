@@ -1,6 +1,8 @@
 ---
-symbol: DYOR
-decimals: 9
+name: DYOR Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://www.dyortoken.info"
@@ -10,10 +12,8 @@ links:
     url: "https://coinmarketcap.com/ru/currencies/dyor-token/"
   - name: x
     url: "https://x.com/DYORToken_BSC"
-name: DYOR Token
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: DYOR
+decimals: 9
 icons: []
 ---
 

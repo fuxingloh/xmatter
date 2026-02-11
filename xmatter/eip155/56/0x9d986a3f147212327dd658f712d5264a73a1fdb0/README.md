@@ -1,6 +1,8 @@
 ---
-symbol: LAND
-decimals: 18
+name: Landshare Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://landshare.io"
@@ -12,10 +14,8 @@ links:
     url: "https://t.me/landshare"
   - name: blog
     url: "https://landshare.medium.com"
-name: Landshare Token
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: LAND
+decimals: 18
 icons: []
 ---
 

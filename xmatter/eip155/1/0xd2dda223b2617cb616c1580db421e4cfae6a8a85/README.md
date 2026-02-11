@@ -1,13 +1,13 @@
 ---
-symbol: BONDLY
-decimals: 18
-links:
-  - name: website
-    url: "https://www.bondly.finance"
 name: Bondly
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+links:
+  - name: website
+    url: "https://www.bondly.finance"
+symbol: BONDLY
+decimals: 18
 icons: []
 ---
 

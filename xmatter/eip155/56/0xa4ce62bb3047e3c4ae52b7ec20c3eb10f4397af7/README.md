@@ -1,6 +1,8 @@
 ---
-symbol: MNTC
-decimals: 18
+name: MINATI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - gamefi
 links:
@@ -14,10 +16,8 @@ links:
     url: "https://coinmarketcap.com/currencies/minati-coin/"
   - name: whitepaper
     url: "https://minativerse.gitbook.io/whitepaper"
-name: MINATI
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: MNTC
+decimals: 18
 icons:
   - icon.png
 ---

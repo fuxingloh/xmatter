@@ -1,13 +1,13 @@
 ---
-symbol: BSOCIAL
-decimals: 8
-links:
-  - name: website
-    url: "https://www.banksocial.io"
 name: BankSocial
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+links:
+  - name: website
+    url: "https://www.banksocial.io"
+symbol: BSOCIAL
+decimals: 8
 icons: []
 ---
 

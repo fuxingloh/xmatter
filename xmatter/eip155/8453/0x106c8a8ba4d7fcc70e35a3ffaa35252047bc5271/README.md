@@ -1,6 +1,8 @@
 ---
-symbol: GOAT
-decimals: 18
+name: GOAT BASED
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - memes
 links:
@@ -10,10 +12,8 @@ links:
     url: "https://x.com/GOATBASEDTOKEN"
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/goat-based/"
-name: GOAT BASED
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: GOAT
+decimals: 18
 icons: []
 ---
 

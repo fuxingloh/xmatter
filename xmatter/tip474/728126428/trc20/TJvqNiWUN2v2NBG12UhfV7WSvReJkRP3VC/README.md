@@ -1,6 +1,8 @@
 ---
-symbol: BRG
-decimals: 6
+name: Bridge Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - trc20
 links:
   - name: website
     url: "https://bridge.link/"
@@ -12,10 +14,8 @@ links:
     url: "https://t.me/BridgeOracle"
   - name: whitepaper
     url: "https://bridge.link/Bridge_White_Paper.pdf"
-name: Bridge Token
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - trc20
+symbol: BRG
+decimals: 6
 icons: []
 ---
 

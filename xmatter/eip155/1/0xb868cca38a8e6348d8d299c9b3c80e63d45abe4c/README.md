@@ -1,6 +1,8 @@
 ---
-symbol: FUSION
-decimals: 9
+name: Fusion AI
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://fusionxlab.io/"
@@ -8,10 +10,8 @@ links:
     url: "https://coinmarketcap.com/currencies/fusion-ai/"
   - name: x
     url: "https://x.com/Fusion_ERC20"
-name: Fusion AI
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: FUSION
+decimals: 9
 icons: []
 ---
 

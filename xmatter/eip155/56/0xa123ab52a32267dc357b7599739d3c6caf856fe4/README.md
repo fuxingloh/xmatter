@@ -1,13 +1,13 @@
 ---
-symbol: AIR
-decimals: 18
-links:
-  - name: website
-    url: "https://aircoin.cool"
 name: AIR
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+links:
+  - name: website
+    url: "https://aircoin.cool"
+symbol: AIR
+decimals: 18
 icons: []
 ---
 

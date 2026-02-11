@@ -1,6 +1,8 @@
 ---
-symbol: RTTv2
-decimals: 9
+name: Real Trump Token V2
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://realtrumptoken.com/"
@@ -16,10 +18,8 @@ links:
     url: "https://facebook.com/Real-Trump-Token-RTT-105614135073370"
   - name: coingecko
     url: "https://coingecko.com/en/coins/real-trump-token-v2"
-name: Real Trump Token V2
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: RTTv2
+decimals: 9
 icons: []
 ---
 

@@ -1,13 +1,13 @@
 ---
-symbol: BOME
-decimals: 14
-links:
-  - name: website
-    url: "https://bookofmeme.link/"
 name: Book of Meme 3.0
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+links:
+  - name: website
+    url: "https://bookofmeme.link/"
+symbol: BOME
+decimals: 14
 icons: []
 ---
 

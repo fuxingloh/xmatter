@@ -1,6 +1,8 @@
 ---
-symbol: eMTR
-decimals: 18
+name: Meter Stable mapped by Meter.io
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://meter.io/"
@@ -16,10 +18,8 @@ links:
     url: "https://facebook.com/MeterFoundation/"
   - name: reddit
     url: "https://reddit.com/r/Meter_io/"
-name: Meter Stable mapped by Meter.io
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: eMTR
+decimals: 18
 icons: []
 ---
 

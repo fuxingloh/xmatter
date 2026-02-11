@@ -1,6 +1,8 @@
 ---
-symbol: SquidGrow
-decimals: 19
+name: SquidGrow
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - defi
 links:
@@ -16,10 +18,8 @@ links:
     url: "https://coingecko.com/en/coins/squidgrow"
   - name: github
     url: "https://github.com/shibtoshi"
-name: SquidGrow
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: SquidGrow
+decimals: 19
 icons: []
 ---
 

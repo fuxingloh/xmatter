@@ -1,6 +1,8 @@
 ---
-symbol: LUFFY
-decimals: 9
+name: Luffy
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - nft
 links:
@@ -12,10 +14,8 @@ links:
     url: "https://t.me/joinchat/R4fpgPGB0l9kMGJi"
   - name: whitepaper
     url: "https://luffytoken.com/pdf/whitepaper.pdf"
-name: Luffy
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: LUFFY
+decimals: 9
 icons: []
 ---
 

@@ -1,6 +1,8 @@
 ---
-symbol: LOF
-decimals: 9
+name: LOFcrypto
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://lofcrypto.com/"
@@ -12,10 +14,8 @@ links:
     url: "https://t.me/LOFcrypto"
   - name: reddit
     url: "https://reddit.com/r/LOFcrypto/"
-name: LOFcrypto
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: LOF
+decimals: 9
 icons: []
 ---
 

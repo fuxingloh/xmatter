@@ -1,13 +1,13 @@
 ---
-symbol: PINKPANDA
-decimals: 9
-links:
-  - name: website
-    url: "https://pinkpanda.finance/"
 name: PinkPanda
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+links:
+  - name: website
+    url: "https://pinkpanda.finance/"
+symbol: PINKPANDA
+decimals: 9
 icons: []
 ---
 

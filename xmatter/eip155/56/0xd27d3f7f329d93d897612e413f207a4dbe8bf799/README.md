@@ -1,6 +1,8 @@
 ---
-symbol: MOONSHOT
-decimals: 9
+name: Moonshot
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://project-moonshot.me/"
@@ -12,10 +14,8 @@ links:
     url: "https://t.me/MoonShotChat"
   - name: medium
     url: "https://rs25moonshot.medium.com/"
-name: Moonshot
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: MOONSHOT
+decimals: 9
 icons: []
 ---
 

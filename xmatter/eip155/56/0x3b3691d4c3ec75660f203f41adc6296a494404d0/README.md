@@ -1,6 +1,8 @@
 ---
-symbol: CATS
-decimals: 0
+name: Catcoin Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - deflationary
 links:
@@ -14,10 +16,8 @@ links:
     url: "https://coinmarketcap.com/currencies/catcoin-token/"
   - name: source_code
     url: "https://github.com/catcointoken-cats/"
-name: Catcoin Token
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: CATS
+decimals: 0
 icons: []
 ---
 

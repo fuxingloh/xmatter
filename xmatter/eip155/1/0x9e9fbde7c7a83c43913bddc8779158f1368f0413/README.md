@@ -1,6 +1,8 @@
 ---
-symbol: PANDORA
-decimals: 18
+name: Pandora
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - memes
 links:
@@ -12,10 +14,8 @@ links:
     url: "https://x.com/Pandora_ERC404"
   - name: telegram
     url: "https://t.me/pandora_404"
-name: Pandora
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: PANDORA
+decimals: 18
 icons: []
 ---
 

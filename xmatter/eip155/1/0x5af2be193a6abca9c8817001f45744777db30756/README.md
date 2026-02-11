@@ -1,6 +1,8 @@
 ---
-symbol: VGX
-decimals: 8
+name: Voyager Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://www.InvestVoyager.com"
@@ -16,10 +18,8 @@ links:
     url: "https://investvoyager.com/VoyagerToken/White_Paper.pdf"
   - name: coingecko
     url: "https://coingecko.com/en/coins/ethos/"
-name: Voyager Token
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: VGX
+decimals: 8
 icons: []
 ---
 

@@ -1,15 +1,15 @@
 ---
-symbol: SAFEMOON
-decimals: 9
+name: Old SafeMoon
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - deflationary
 links:
   - name: website
     url: "https://safemoon.xyz"
-name: Old SafeMoon
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: SAFEMOON
+decimals: 9
 icons: []
 ---
 

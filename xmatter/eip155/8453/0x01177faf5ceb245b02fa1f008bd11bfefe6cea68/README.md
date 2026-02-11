@@ -1,6 +1,8 @@
 ---
-symbol: TRUMP
-decimals: 18
+name: Crypto President Trump
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://cryptopresident.io/"
@@ -8,10 +10,8 @@ links:
     url: "https://x.com/i/flow/login?redirect_after_login=%2FCrypto_Pres_CTO"
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/crypto-president-trump/"
-name: Crypto President Trump
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: TRUMP
+decimals: 18
 icons: []
 ---
 

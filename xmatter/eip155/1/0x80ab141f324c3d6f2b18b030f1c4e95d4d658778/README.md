@@ -1,6 +1,8 @@
 ---
-symbol: DEA
-decimals: 18
+name: DEA
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://deus.finance/"
@@ -9,10 +11,8 @@ links:
   - name: whitepaper
     url: >-
       https://medium.com/@deusfinance/deus-dea-unveiling-the-governance-token-of-the-deus-ecosystem-part-1-26d6433aac13
-name: DEA
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: DEA
+decimals: 18
 icons: []
 ---
 

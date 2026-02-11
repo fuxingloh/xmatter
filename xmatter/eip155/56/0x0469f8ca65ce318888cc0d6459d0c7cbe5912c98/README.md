@@ -1,6 +1,8 @@
 ---
-symbol: HYPER
-decimals: 7
+name: HyperChain X
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://hyperchainx.com/"
@@ -8,10 +10,8 @@ links:
     url: "https://x.com/HyperchainX"
   - name: telegram
     url: "https://t.me/hyperchainx"
-name: HyperChain X
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: HYPER
+decimals: 7
 icons: []
 ---
 

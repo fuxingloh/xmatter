@@ -1,6 +1,8 @@
 ---
-symbol: LIGHT
-decimals: 8
+name: Lightning
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://lightningprotocol.finance/"
@@ -10,10 +12,8 @@ links:
     url: "https://t.me/LightningProtocol"
   - name: discord
     url: "https://discord.com/invite/CKf9ZDJq"
-name: Lightning
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: LIGHT
+decimals: 8
 icons: []
 ---
 

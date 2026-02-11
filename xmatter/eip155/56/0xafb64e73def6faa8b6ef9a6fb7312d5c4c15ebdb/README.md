@@ -1,6 +1,8 @@
 ---
-symbol: GVR
-decimals: 18
+name: Grove
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - defi
 links:
@@ -19,10 +21,8 @@ links:
     url: "https://coinmarketcap.com/currencies/grove/"
   - name: coingecko
     url: "https://coingecko.com/coins/grove"
-name: Grove
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: GVR
+decimals: 18
 icons: []
 ---
 

@@ -1,13 +1,13 @@
 ---
-symbol: GNT
-decimals: 18
-links:
-  - name: website
-    url: "https://golem.network"
 name: Golem
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+links:
+  - name: website
+    url: "https://golem.network"
+symbol: GNT
+decimals: 18
 icons: []
 ---
 

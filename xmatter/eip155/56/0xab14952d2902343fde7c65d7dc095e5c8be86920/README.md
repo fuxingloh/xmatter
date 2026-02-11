@@ -1,6 +1,8 @@
 ---
-symbol: GOMA
-decimals: 9
+name: GOMA Finance
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://GomaToken.com"
@@ -14,10 +16,8 @@ links:
     url: "https://coinmarketcap.com/currencies/goma-finance/"
   - name: coingecko
     url: "https://coingecko.com/en/coins/goma-finance"
-name: GOMA Finance
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: GOMA
+decimals: 9
 icons: []
 ---
 

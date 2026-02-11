@@ -1,6 +1,8 @@
 ---
-symbol: FEAR
-decimals: 18
+name: Fear
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://www.fearnft.games/"
@@ -18,10 +20,8 @@ links:
     url: "https://coingecko.com/en/coins/fear"
   - name: facebook
     url: "https://facebook.com/FEAR-109921091272605"
-name: Fear
-provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
-standards:
-  - erc20
+symbol: FEAR
+decimals: 18
 icons:
   - icon.svg
   - icon.png

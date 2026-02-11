@@ -1,15 +1,15 @@
 ---
-symbol: KLEE
-decimals: 9
+name: Klee Kai
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - deflationary
 links:
   - name: website
     url: "https://klee.finance/"
-name: Klee Kai
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: KLEE
+decimals: 9
 icons: []
 ---
 

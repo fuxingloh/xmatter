@@ -1,6 +1,8 @@
 ---
-symbol: GVR
-decimals: 18
+name: Grove Token
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - defi
 links:
@@ -17,10 +19,8 @@ links:
   - name: source_code
     url: >-
       https://bscscan.com/address/0xaFb64E73dEf6fAa8B6Ef9a6fb7312d5C4C15ebDB#code#L1
-name: Grove Token
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: GVR
+decimals: 18
 icons: []
 ---
 

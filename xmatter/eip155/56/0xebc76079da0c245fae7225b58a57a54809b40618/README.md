@@ -1,6 +1,8 @@
 ---
-symbol: BPAY
-decimals: 9
+name: BNBPay
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://www.bnbpay.io/"
@@ -14,10 +16,8 @@ links:
     url: "https://reddit.com/r/bnbpay/"
   - name: youtube
     url: "https://youtube.com/channel/UCcYgWaX7vvhjsewd7-d599w"
-name: BNBPay
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: BPAY
+decimals: 9
 icons: []
 ---
 

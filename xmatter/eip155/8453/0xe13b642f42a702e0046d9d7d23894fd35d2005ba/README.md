@@ -1,6 +1,8 @@
 ---
-symbol: Kekius
-decimals: 18
+name: Kekius Maximus
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - memes
 links:
@@ -10,10 +12,8 @@ links:
     url: "https://x.com/kekiuson_base"
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/kekiusbase-xyz/"
-name: Kekius Maximus
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: Kekius
+decimals: 18
 icons: []
 ---
 

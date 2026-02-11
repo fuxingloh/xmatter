@@ -1,6 +1,8 @@
 ---
-symbol: USDC
-decimals: 6
+name: Wrapped USDC
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - spl-token
 links:
   - name: website
     url: "https://www.centre.io/usdc"
@@ -14,10 +16,8 @@ links:
     url: "https://coingecko.com/en/coins/usd-coin/"
   - name: medium
     url: "https://medium.com/centre-blog"
-name: Wrapped USDC
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - spl-token
+symbol: USDC
+decimals: 6
 icons: []
 ---
 

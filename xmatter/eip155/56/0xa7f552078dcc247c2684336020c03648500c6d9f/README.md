@@ -1,6 +1,8 @@
 ---
-symbol: EPS
-decimals: 18
+name: Ellipsis
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - defi
 links:
@@ -14,10 +16,8 @@ links:
     url: "https://t.me/ellipsisfinance"
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/ellipsis/"
-name: Ellipsis
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: EPS
+decimals: 18
 icons: []
 ---
 

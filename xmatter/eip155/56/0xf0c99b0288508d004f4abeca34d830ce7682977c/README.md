@@ -1,6 +1,8 @@
 ---
-symbol: GME
-decimals: 18
+name: GameStop Coin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://gamestopcoin.net/"
@@ -8,10 +10,8 @@ links:
     url: "https://x.com/GameStopfun"
   - name: coinmarketcap
     url: "https://coinmarketcap.com/currencies/gamestopcoin-net/"
-name: GameStop Coin
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: GME
+decimals: 18
 icons: []
 ---
 

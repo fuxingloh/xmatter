@@ -1,6 +1,8 @@
 ---
-symbol: HPS
-decimals: 18
+name: HappinessToken
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://billionhappiness.com/"
@@ -10,10 +12,8 @@ links:
     url: "https://x.com/BHC_Happiness"
   - name: reddit
     url: "https://reddit.com/user/BillionHappiness"
-name: HappinessToken
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: HPS
+decimals: 18
 icons: []
 ---
 

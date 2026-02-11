@@ -1,6 +1,8 @@
 ---
-symbol: RHYTHM
-decimals: 9
+name: Rhythm
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://rhythm.cash/"
@@ -14,10 +16,8 @@ links:
     url: "https://t.me/RhythmChat"
   - name: whitepaper
     url: "https://rhythm.cash/whitepaper"
-name: Rhythm
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: RHYTHM
+decimals: 9
 icons: []
 ---
 

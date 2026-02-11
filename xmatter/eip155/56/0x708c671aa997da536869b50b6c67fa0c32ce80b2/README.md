@@ -1,6 +1,8 @@
 ---
-symbol: XCUR
-decimals: 8
+name: Curate
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://curate.style"
@@ -14,10 +16,8 @@ links:
     url: "https://discord.com/invite/mtBpcqtBaK"
   - name: github
     url: "https://github.com/curate-project"
-name: Curate
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: XCUR
+decimals: 8
 icons:
   - icon.png
 ---

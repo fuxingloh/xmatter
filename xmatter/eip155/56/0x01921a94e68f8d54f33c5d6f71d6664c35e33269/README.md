@@ -1,13 +1,13 @@
 ---
-symbol: DEEZNUTS
-decimals: 18
-links:
-  - name: website
-    url: "https://www.deeznutscoin.com"
 name: Deez Nuts
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+links:
+  - name: website
+    url: "https://www.deeznutscoin.com"
+symbol: DEEZNUTS
+decimals: 18
 icons:
   - icon.png
 ---

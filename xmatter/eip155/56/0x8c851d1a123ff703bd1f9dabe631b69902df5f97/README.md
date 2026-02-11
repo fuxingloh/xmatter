@@ -1,6 +1,8 @@
 ---
-symbol: BNX
-decimals: 18
+name: BinaryX
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://www.binaryx.pro/"
@@ -10,10 +12,8 @@ links:
     url: "https://coinmarketcap.com/currencies/binaryx/"
   - name: x
     url: "https://x.com/binary_x"
-name: BinaryX
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: BNX
+decimals: 18
 icons: []
 ---
 

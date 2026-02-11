@@ -1,13 +1,13 @@
 ---
-symbol: PAYN
-decimals: 8
-links:
-  - name: website
-    url: "https://paynetcoin.com"
 name: Paynet Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
+links:
+  - name: website
+    url: "https://paynetcoin.com"
+symbol: PAYN
+decimals: 8
 icons: []
 ---
 

@@ -1,6 +1,8 @@
 ---
-symbol: THOREUM
-decimals: 18
+name: Thoreum V2
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - defi
 links:
@@ -20,10 +22,8 @@ links:
     url: "https://coinmarketcap.com/currencies/thoreum-v2/"
   - name: github
     url: "https://github.com/ThoreumFinance/ThoreumCapital"
-name: Thoreum V2
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: THOREUM
+decimals: 18
 icons: []
 ---
 

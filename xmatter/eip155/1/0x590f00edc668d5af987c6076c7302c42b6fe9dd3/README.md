@@ -1,6 +1,8 @@
 ---
-symbol: SCAM
-decimals: 18
+name: SCAM
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "http://scamcoin.io"
@@ -8,10 +10,8 @@ links:
     url: "https://x.com/scamcoin_eth"
   - name: telegram
     url: "https://t.me/SCAMCOIN_ETH"
-name: SCAM
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: SCAM
+decimals: 18
 icons: []
 ---
 

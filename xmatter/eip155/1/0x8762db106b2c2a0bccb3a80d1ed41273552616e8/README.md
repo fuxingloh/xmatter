@@ -1,6 +1,8 @@
 ---
-symbol: RSR
-decimals: 18
+name: Reserve Rights
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - defi
   - stablecoin
@@ -17,10 +19,8 @@ links:
     url: "https://t.me/reservecurrency"
   - name: coingecko
     url: "https://coingecko.com/en/coins/reserve-rights-token/"
-name: Reserve Rights
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: RSR
+decimals: 18
 icons: []
 ---
 

@@ -1,6 +1,8 @@
 ---
-symbol: TEDDY
-decimals: 18
+name: Teddy Doge
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 tags:
   - defi
 links:
@@ -28,10 +30,8 @@ links:
     url: "https://medium.com/@TeddyDOGE"
   - name: youtube
     url: "https://youtube.com/channel/UCcD7AsRqhU92IfqTh4SY0kQ"
-name: Teddy Doge
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: TEDDY
+decimals: 18
 icons: []
 ---
 

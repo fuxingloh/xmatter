@@ -1,13 +1,13 @@
 ---
-symbol: FWT
-decimals: 18
-links:
-  - name: website
-    url: "https://aubit.io/"
 name: Freeway Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+links:
+  - name: website
+    url: "https://aubit.io/"
+symbol: FWT
+decimals: 18
 icons: []
 ---
 

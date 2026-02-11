@@ -1,15 +1,15 @@
 ---
-symbol: FEAR
-decimals: 18
+name: FEAR
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://www.fear.io/"
   - name: twitter
     url: "https://twitter.com/fearnfts"
-name: FEAR
-provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
-standards:
-  - erc20
+symbol: FEAR
+decimals: 18
 icons:
   - icon.svg
 ---

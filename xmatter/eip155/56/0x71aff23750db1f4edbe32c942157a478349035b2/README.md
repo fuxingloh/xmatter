@@ -1,13 +1,13 @@
 ---
-symbol: PVM
-decimals: 18
-links:
-  - name: website
-    url: "https://privateum.org"
 name: PRIVATEUM INITIATIVE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+links:
+  - name: website
+    url: "https://privateum.org"
+symbol: PVM
+decimals: 18
 icons: []
 ---
 

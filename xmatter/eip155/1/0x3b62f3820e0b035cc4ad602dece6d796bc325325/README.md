@@ -1,6 +1,8 @@
 ---
-symbol: DEUS
-decimals: 18
+name: DEUS
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
 links:
   - name: website
     url: "https://deus.finance/"
@@ -14,10 +16,8 @@ links:
     url: "https://medium.com/@deusfinance"
   - name: whitepaper
     url: "https://deus.finance/litepaper.pdf"
-name: DEUS
-provenance: "https://github.com/trustwallet/assets"
-standards:
-  - erc20
+symbol: DEUS
+decimals: 18
 icons: []
 ---
 

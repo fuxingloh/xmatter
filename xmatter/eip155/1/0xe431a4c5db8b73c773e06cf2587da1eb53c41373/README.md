@@ -1,13 +1,13 @@
 ---
-symbol: TRY
-decimals: 18
-links:
-  - name: website
-    url: "https://www.trias.one"
 name: Trias Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
+links:
+  - name: website
+    url: "https://www.trias.one"
+symbol: TRY
+decimals: 18
 icons: []
 ---
 
