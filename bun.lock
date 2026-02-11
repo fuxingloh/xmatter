@@ -34,6 +34,15 @@
         "xmatter": "workspace:*",
       },
     },
+    "packages/agent-icon-color": {
+      "name": "@workspace/agent-icon-color",
+      "version": "0.0.0",
+      "dependencies": {
+        "@workspace/agent-base": "workspace:*",
+        "gray-matter": "^4.0.3",
+        "xmatter": "workspace:*",
+      },
+    },
     "packages/agent-smol-dapp": {
       "name": "@workspace/agent-smol-dapp",
       "version": "0.0.0",
@@ -491,6 +500,8 @@
     "@workspace/agent-base": ["@workspace/agent-base@workspace:packages/agent-base"],
 
     "@workspace/agent-ethereum-optimism": ["@workspace/agent-ethereum-optimism@workspace:packages/agent-ethereum-optimism"],
+
+    "@workspace/agent-icon-color": ["@workspace/agent-icon-color@workspace:packages/agent-icon-color"],
 
     "@workspace/agent-smol-dapp": ["@workspace/agent-smol-dapp@workspace:packages/agent-smol-dapp"],
 
