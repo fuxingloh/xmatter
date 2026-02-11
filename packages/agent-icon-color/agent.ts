@@ -51,28 +51,31 @@ class IconColorAgent extends FileSystemAgent<Entry> {
 const agent = new IconColorAgent();
 
 const XMATTER_DIR = "../../xmatter";
-const NAMESPACES: { namespace: string; depth: number }[] = [
-  { namespace: "eip155", depth: 1 },
-  { namespace: "solana", depth: 1 },
-  { namespace: "tip474", depth: 2 },
+const NAMESPACES: { namespace: string; types: string[] }[] = [
+  { namespace: "eip155", types: [] },
+  { namespace: "solana", types: [] },
+  { namespace: "tip474", types: ["trc10", "trc20"] },
 ];
 
-for (const { namespace, depth } of NAMESPACES) {
+for (const { namespace, types } of NAMESPACES) {
   const namespacePath = join(XMATTER_DIR, namespace);
-  await walkDepth(namespacePath, namespace, [], depth);
-}
+  const chains = await readdir(namespacePath, { withFileTypes: true }).catch(() => []);
 
-async function walkDepth(dir: string, namespace: string, parts: string[], remaining: number): Promise<void> {
-  const entries = await readdir(dir).catch(() => [] as string[]);
-  for (const entry of entries) {
-    const entryPath = join(dir, entry);
-    if (remaining > 1) {
-      await walkDepth(entryPath, namespace, [...parts, entry], remaining - 1);
+  for (const chain of chains) {
+    if (!chain.isDirectory()) continue;
+    const chainPath = join(namespacePath, chain.name);
+
+    if (types.length > 0) {
+      for (const type of types) {
+        await agent.walk(join(chainPath, type), {
+          filter: () => true,
+          toUri: (e) => `${namespace}/${chain.name}/${type}/${e.address}`,
+        });
+      }
     } else {
-      const prefix = [namespace, ...parts, entry].join("/");
-      await agent.walk(entryPath, {
+      await agent.walk(chainPath, {
         filter: () => true,
-        toUri: (e) => `${prefix}/${e.address}`,
+        toUri: (e) => `${namespace}/${chain.name}/${e.address}`,
       });
     }
   }
