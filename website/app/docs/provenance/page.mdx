@@ -1,0 +1,173 @@
+export const metadata = {
+  title: "Provenance",
+  description: "Understanding the provenance field: what it is, why it's required, and how to set it correctly.",
+};
+
+# Provenance
+
+The `provenance` field is a **required metadata attribute** that documents the origin or source of an entry in the Xmatter registry.
+It answers a fundamental question: _"Where did this data come from?"_
+
+## What is Provenance?
+
+Provenance is an audit trail that tracks the source of token metadata.
+It provides transparency and attribution, helping users understand whether an entry came from:
+
+- An official upstream repository (e.g., Trust Wallet Assets, Optimism token list)
+- A community contribution
+- The original project maintainers
+
+This attribution is critical for establishing trust and enabling users to verify the authenticity of token metadata.
+
+## Schema Definition
+
+```typescript
+provenance: z.string().describe("Where did this entry come from?");
+```
+
+The `provenance` field is:
+
+- **Type**: String (required)
+- **Format**: Typically a URL, but can be any descriptive text
+- **Part of**: `FrontmatterSchema` in every entry's `README.md`
+
+## Common Provenance Values
+
+### Automated Agent Sources
+
+When entries are automatically ingested by agents, the provenance points to the upstream repository:
+
+```yaml
+provenance: "https://github.com/trustwallet/assets"
+```
+
+```yaml
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+```
+
+### Manual Contributions
+
+For manual contributions, set provenance to:
+
+**Your GitHub profile** if you are the original author:
+
+```yaml
+provenance: "https://github.com/your-username"
+```
+
+**The project's official repository**:
+
+```yaml
+provenance: "https://github.com/project-org/project-repo"
+```
+
+**The project's website** if no public repository exists:
+
+```yaml
+provenance: "https://example.com"
+```
+
+## How Provenance is Generated
+
+### By Automated Agents
+
+Xmatter runs automated agents that continuously ingest metadata from well-known upstream sources.
+Each agent is hardcoded with a provenance URL that gets assigned to all entries it processes.
+
+**Example from `agent-ethereum-optimism`:**
+
+```typescript
+const file: XmatterFile = {
+  data: {
+    name: data.name,
+    provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io",
+    standards: ["erc20"],
+    // ...
+  },
+};
+```
+
+**Example from `agent-trust-wallet`:**
+
+```typescript
+return {
+  data: {
+    name: data.name,
+    provenance: "https://github.com/trustwallet/assets",
+    standards: standards,
+    // ...
+  },
+};
+```
+
+### By Manual Contributors
+
+When you add an entry manually via pull request, you must specify the provenance in the YAML frontmatter:
+
+```md
+---
+name: My Token
+symbol: MTK
+decimals: 18
+provenance: "https://github.com/your-username"
+standards:
+  - erc20
+---
+
+Token description here.
+```
+
+See the [Contributing](/docs/contributing) guide for complete instructions.
+
+## Display and Usage
+
+On the Xmatter website, provenance appears as:
+
+- **A clickable link** if it starts with `http://` or `https://`
+- **Plain text** otherwise
+
+The display extracts the domain name and path for compact presentation while preserving the full URL for navigation.
+
+## Best Practices
+
+### DO:
+
+- ✅ Use the official upstream repository URL when available
+- ✅ Use your GitHub profile if you are the original maintainer
+- ✅ Use the project's official website if no repository exists
+- ✅ Be consistent across related entries
+
+### DON'T:
+
+- ❌ Leave provenance blank (it's required)
+- ❌ Use generic URLs like `https://github.com`
+- ❌ Use shortened URLs or redirects
+- ❌ Claim provenance from a source you don't control
+
+## Protection with LOCK Files
+
+If a directory contains a `LOCK` file, automated agents will skip it and preserve the existing provenance.
+This allows manual entries to coexist with automated ingestion without being overwritten.
+
+```
+xmatter/eip155/1/0xabcd.../
+├── README.md      # Your manually curated entry
+├── icon.png       # Your icon
+└── LOCK           # Prevents agent overwrites
+```
+
+See the [Contributing guide](/docs/contributing#automated-agents) for more about LOCK files.
+
+## Why Provenance Matters
+
+1. **Transparency** — Users can trace where data originated
+2. **Verification** — Projects can confirm their entries link back to official sources
+3. **Attribution** — Contributors get proper credit for their work
+4. **Trust** — Clear sourcing helps establish data authenticity
+5. **Debugging** — When metadata conflicts arise, provenance helps resolve disputes
+
+## Related
+
+- [Contributing guide](/docs/contributing) — How to add entries with provenance
+- [API Reference](/docs/api) — How provenance appears in API responses
+- [README.md standard](/docs/standards/markdown) — Full frontmatter schema
