@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "bun --bun next build && bun scripts/generate-search-html.ts && pagefind --site .next/search-html --output-path public/pagefind",
+    "build": "bun --bun next build && bun scripts/generate-search-html.ts && npx -y pagefind --site .next/search-html --output-path public/pagefind",
     "clean": "rm -rf .next",
     "dev": "bun --bun next dev",
     "lint": "eslint .",
