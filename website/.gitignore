@@ -2,6 +2,9 @@
 /.next/
 /out/
 
+# search index (generated at build time)
+/public/pagefind/
+
 # misc
 .DS_Store
 *.pem

@@ -1,12 +1,13 @@
 import type { NextConfig } from "next";
 import createMDX from "@next/mdx";
-import remarkGfm from "remark-gfm";
 
 const ContentSecurityPolicy = `
     default-src 'self';
-    script-src 'self' 'unsafe-eval' 'unsafe-inline';
+    script-src 'self' 'unsafe-eval' 'unsafe-inline' blob:;
     style-src 'self' 'unsafe-inline';
     img-src 'self' blob: data:;
+    worker-src 'self' blob:;
+    connect-src 'self';
     object-src 'none';
     frame-ancestors 'none';
     upgrade-insecure-requests;
