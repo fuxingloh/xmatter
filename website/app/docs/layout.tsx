@@ -39,6 +39,7 @@ export default function Layout(props: LayoutProps<"/docs">) {
             "prose-headings:font-medium prose-h1:text-3xl prose-h2:text-[23px]",
             "text-mono-600 prose-headings:text-mono-950 prose-code:text-mono-700 prose-a:text-mono-700 prose-blockquote:text-mono-700",
             "prose-pre:bg-mono-100 prose-pre:text-mono-950",
+            "prose-ul:list-disc prose-ol:list-decimal prose-li:marker:text-mono-600 prose-ul:my-2 prose-ol:my-2 prose-li:my-1",
           )}
         >
           {props.children}

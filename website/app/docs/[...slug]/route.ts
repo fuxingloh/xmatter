@@ -30,11 +30,7 @@ export async function GET(_: Request, context: RouteContext<"/docs/[...slug]">) 
   try {
     content = await readFile(join(process.cwd(), "app", pagePath), "utf-8");
   } catch {
-    try {
-      content = await readFile(join(process.cwd(), "app", pagePath + "x"), "utf-8");
-    } catch {
-      return new Response(null, { status: 404 });
-    }
+    return new Response(null, { status: 404 });
   }
 
   // Strip MDX imports and JSX components for plain text consumption
