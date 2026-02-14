@@ -1,0 +1,98 @@
+export const metadata = {
+  title: "Provenance",
+  description: "Understanding the provenance field: what it is, why it's required, and how to set it correctly.",
+};
+
+# Provenance
+
+The `provenance` field is a **required metadata attribute** that documents the origin or source of an entry in the Xmatter registry.
+It answers a fundamental question: _"Where did this data come from?"_
+
+## What is Provenance?
+
+Provenance is an audit trail that tracks the source of token metadata.
+It provides transparency and attribution, helping users understand whether an entry came from:
+
+- An official upstream repository (e.g., Trust Wallet Assets, Optimism token list)
+- A community contribution
+- The original project maintainers
+
+This attribution is critical for establishing trust and enabling users to verify the authenticity of token metadata.
+
+## Schema Definition
+
+```ts
+provenance: z.url().describe("Where did this entry come from?");
+```
+
+## Common Provenance Values
+
+### Automated Agent Sources
+
+When entries are automatically ingested by agents, the provenance points to the upstream repository:
+
+```yaml
+provenance: "https://github.com/trustwallet/assets"
+```
+
+```yaml
+provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+```
+
+### Manual Contributions
+
+For manual contributions, set provenance to:
+
+**Your GitHub profile** if you are the original author:
+
+```yaml
+provenance: "https://github.com/your-username"
+```
+
+**The project's official repository**:
+
+```yaml
+provenance: "https://github.com/project-org/project-repo"
+```
+
+**The project's website** if no public repository exists:
+
+```yaml
+provenance: "https://example.com"
+```
+
+## Display and Usage
+
+On the Xmatter website, provenance appears as: **A clickable link** if it starts with `https://`
+
+The display extracts the domain name and path for compact presentation while preserving the full URL for navigation.
+
+## Best Practices
+
+#### DO:
+
+- ✅ Use the official upstream repository URL when available
+- ✅ Use your GitHub profile if you are the original maintainer
+- ✅ Use the project's official website if no repository exists
+- ✅ Be consistent across related entries
+
+#### DO NOT:
+
+- ❌ Leave provenance blank (it's required)
+- ❌ Use generic URLs like `https://github.com`
+- ❌ Use shortened URLs or redirects
+- ❌ Claim provenance from a source you don't control
+
+## Why Provenance Matters
+
+1. **Transparency** — Users can trace where data originated
+2. **Verification** — Projects can confirm their entries link back to official sources
+3. **Attribution** — Contributors get proper credit for their work
+4. **Trust** — Clear sourcing helps establish data authenticity
+5. **Debugging** — When metadata conflicts arise, provenance helps resolve disputes
+
+## Related
+
+- [Contributing guide](/docs/contributing) — How to add entries with provenance
+- [API Reference](/docs/api) — How provenance appears in API responses
+- [README.md standard](/docs/standards/markdown) — Full frontmatter schema
