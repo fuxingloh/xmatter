@@ -139,7 +139,7 @@ class TestAgent extends FileSystemAgent<{ name: string; symbol: string }> {
       data: {
         name: entry.name,
         symbol: entry.symbol,
-        provenance: "test-agent",
+        provenance: "https://example.com/test-agent",
         standards: ["erc20"],
         icons: [],
       },
@@ -166,7 +166,7 @@ describe("FileSystemAgent", () => {
       const file: XmatterFile = {
         data: {
           name: "Test Token",
-          provenance: "test",
+          provenance: "https://example.com/test",
           standards: ["erc20"],
           symbol: "TEST",
           icons: [],
@@ -183,7 +183,7 @@ describe("FileSystemAgent", () => {
       // Create existing README
       const existingData = {
         name: "Existing Name",
-        provenance: "existing",
+        provenance: "https://example.com/existing",
         standards: ["erc20"],
         decimals: 18,
       };
@@ -192,7 +192,7 @@ describe("FileSystemAgent", () => {
       const newFile: XmatterFile = {
         data: {
           name: "New Name",
-          provenance: "new",
+          provenance: "https://example.com/new",
           standards: ["erc721"],
           symbol: "NEW",
           icons: [],
@@ -204,7 +204,7 @@ describe("FileSystemAgent", () => {
 
       // Existing keys should be preserved
       expect(result.data.name).toBe("Existing Name");
-      expect(result.data.provenance).toBe("existing");
+      expect(result.data.provenance).toBe("https://example.com/existing");
       expect(result.data.decimals).toBe(18);
       // New keys should be added
       expect(result.data.symbol).toBe("NEW");
@@ -215,7 +215,7 @@ describe("FileSystemAgent", () => {
     it("should use new content when existing content is empty", async () => {
       const existingData = {
         name: "Existing Name",
-        provenance: "existing",
+        provenance: "https://example.com/existing",
         standards: ["erc20"],
       };
       await writeFile(join(dir, "README.md"), gray.stringify("", existingData));
@@ -223,7 +223,7 @@ describe("FileSystemAgent", () => {
       const newFile: XmatterFile = {
         data: {
           name: "New Name",
-          provenance: "new",
+          provenance: "https://example.com/new",
           standards: ["erc721"],
           icons: [],
         },
@@ -241,7 +241,7 @@ describe("FileSystemAgent", () => {
       const file: XmatterFile = {
         data: {
           name: "Test",
-          provenance: "test",
+          provenance: "https://example.com/test",
           standards: ["erc20"],
           icons: [],
         },
@@ -259,7 +259,7 @@ describe("FileSystemAgent", () => {
       const file: XmatterFile = {
         data: {
           name: "Test",
-          provenance: "test",
+          provenance: "https://example.com/test",
           standards: ["erc20"],
           icons: [],
         },
@@ -281,7 +281,7 @@ describe("FileSystemAgent", () => {
       const file: XmatterFile = {
         data: {
           name: "Test",
-          provenance: "test",
+          provenance: "https://example.com/test",
           standards: ["erc20"],
           icons: [],
         },
@@ -304,7 +304,7 @@ describe("FileSystemAgent", () => {
       const file: XmatterFile = {
         data: {
           name: "Test",
-          provenance: "test",
+          provenance: "https://example.com/test",
           standards: ["erc20"],
           icons: [],
         },
@@ -327,7 +327,7 @@ describe("FileSystemAgent", () => {
       const file: XmatterFile = {
         data: {
           name: "Test",
-          provenance: "test",
+          provenance: "https://example.com/test",
           standards: ["erc20"],
           icons: [],
         },
@@ -345,7 +345,7 @@ describe("FileSystemAgent", () => {
       const file: XmatterFile = {
         data: {
           name: "Test",
-          provenance: "test",
+          provenance: "https://example.com/test",
           standards: ["erc20"],
           icons: [],
         },
@@ -361,7 +361,7 @@ describe("FileSystemAgent", () => {
       const file: XmatterFile = {
         data: {
           name: "Test",
-          provenance: "test",
+          provenance: "https://example.com/test",
           standards: ["erc20"],
           icons: ["nonexistent.png"],
         },
@@ -391,7 +391,7 @@ describe("FileSystemAgent", () => {
       const file: XmatterFile = {
         data: {
           name: "Test",
-          provenance: "test",
+          provenance: "https://example.com/test",
           standards: ["erc20"],
           icons: ["icon.png"],
         },
@@ -413,7 +413,7 @@ describe("FileSystemAgent", () => {
       const file: XmatterFile = {
         data: {
           name: "Test",
-          provenance: "test",
+          provenance: "https://example.com/test",
           standards: ["erc20"],
           icons: ["icon.svg"],
         },
@@ -432,7 +432,7 @@ describe("FileSystemAgent", () => {
       const file: XmatterFile = {
         data: {
           name: "Test",
-          provenance: "test",
+          provenance: "https://example.com/test",
           standards: ["erc20"],
           icons: ["icon.png"],
         },
@@ -451,7 +451,7 @@ describe("FileSystemAgent", () => {
       const file: XmatterFile = {
         data: {
           name: "Test Token",
-          provenance: "test",
+          provenance: "https://example.com/test",
           standards: ["erc20"],
           symbol: "TEST",
           icons: [],
@@ -469,7 +469,7 @@ describe("FileSystemAgent", () => {
 
       expect(parsed.data.name).toBe("Test Token");
       expect(parsed.data.symbol).toBe("TEST");
-      expect(parsed.data.provenance).toBe("test");
+      expect(parsed.data.provenance).toBe("https://example.com/test");
       expect(parsed.content.trim()).toBe("Token description");
     });
 
@@ -477,7 +477,7 @@ describe("FileSystemAgent", () => {
       // Create existing README
       const existingData = {
         name: "Existing Name",
-        provenance: "existing",
+        provenance: "https://example.com/existing",
         standards: ["erc20"],
         decimals: 18,
       };
@@ -486,7 +486,7 @@ describe("FileSystemAgent", () => {
       const file: XmatterFile = {
         data: {
           name: "New Name",
-          provenance: "new",
+          provenance: "https://example.com/new",
           standards: ["erc721"],
           symbol: "NEW",
           icons: [],
@@ -700,7 +700,7 @@ describe("FileSystemAgent", () => {
         join(lockedDir, "README.md"),
         gray.stringify("Original content", {
           name: "Original",
-          provenance: "manual",
+          provenance: "https://website.com",
           standards: ["erc20"],
         }),
       );
