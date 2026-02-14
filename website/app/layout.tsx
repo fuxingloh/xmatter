@@ -19,18 +19,20 @@ const jetBrainsMono = JetBrains_Mono({ subsets: ["latin"], variable: "--font-mon
 export const metadata: Metadata = {
   metadataBase: new URL("https://xmatter.org"),
   title: {
-    template: `%s – Xmatter`,
+    template: `%s on Xmatter`,
     default: `Xmatter: README.md for Address`,
   },
-  description: "Structured metadata for address and smart contracts. The npm registry for assets on-chain.",
+  description:
+    "Structured metadata for address and smart contracts. The README.md, icons, metadata, frontmatter registry for assets on-chain.",
   openGraph: {
     type: "website",
     siteName: "Xmatter",
     title: {
-      template: `%s – Xmatter`,
+      template: `%s on Xmatter`,
       default: `Xmatter: README.md for Address`,
     },
-    description: "Structured metadata for address and smart contracts. The npm registry for assets on-chain.",
+    description:
+      "Structured metadata for address and smart contracts. The README.md, icons, metadata, frontmatter registry for assets on-chain.",
   },
   twitter: {
     card: "summary_large_image",

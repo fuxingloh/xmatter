@@ -14,7 +14,8 @@ import { RollingText } from "@/app/RollingText";
 import UseXmatterNpm from "@/app/UseXmatterNpm";
 
 export const metadata: Metadata = {
-  alternates: { canonical: "/" },
+  description:
+    "Structured metadata for address and smart contracts. The README.md, icons, metadata, frontmatter, npm registry for assets on-chain.",
 };
 
 export default function Page() {
