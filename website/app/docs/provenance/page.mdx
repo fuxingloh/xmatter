@@ -21,15 +21,9 @@ This attribution is critical for establishing trust and enabling users to verify
 
 ## Schema Definition
 
-```typescript
-provenance: z.string().describe("Where did this entry come from?");
+```ts
+provenance: z.url().describe("Where did this entry come from?");
 ```
-
-The `provenance` field is:
-
-- **Type**: String (required)
-- **Format**: Typically a URL, but can be any descriptive text
-- **Part of**: `FrontmatterSchema` in every entry's `README.md`
 
 ## Common Provenance Values
 
@@ -67,63 +61,9 @@ provenance: "https://github.com/project-org/project-repo"
 provenance: "https://example.com"
 ```
 
-## How Provenance is Generated
-
-### By Automated Agents
-
-Xmatter runs automated agents that continuously ingest metadata from well-known upstream sources.
-Each agent is hardcoded with a provenance URL that gets assigned to all entries it processes.
-
-**Example from `agent-ethereum-optimism`:**
-
-```typescript
-const file: XmatterFile = {
-  data: {
-    name: data.name,
-    provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io",
-    standards: ["erc20"],
-    // ...
-  },
-};
-```
-
-**Example from `agent-trust-wallet`:**
-
-```typescript
-return {
-  data: {
-    name: data.name,
-    provenance: "https://github.com/trustwallet/assets",
-    standards: standards,
-    // ...
-  },
-};
-```
-
-### By Manual Contributors
-
-When you add an entry manually via pull request, you must specify the provenance in the YAML frontmatter:
-
-```yaml
----
-name: My Token
-symbol: MTK
-decimals: 18
-provenance: "https://github.com/your-username"
-standards:
-  - erc20
----
-Token description here.
-```
-
-See the [Contributing](/docs/contributing) guide for complete instructions.
-
 ## Display and Usage
 
-On the Xmatter website, provenance appears as:
-
-- **A clickable link** if it starts with `http://` or `https://`
-- **Plain text** otherwise
+On the Xmatter website, provenance appears as: **A clickable link** if it starts with `https://`
 
 The display extracts the domain name and path for compact presentation while preserving the full URL for navigation.
 
@@ -142,20 +82,6 @@ The display extracts the domain name and path for compact presentation while pre
 - ❌ Use generic URLs like `https://github.com`
 - ❌ Use shortened URLs or redirects
 - ❌ Claim provenance from a source you don't control
-
-## Protection with LOCK Files
-
-If a directory contains a `LOCK` file, automated agents will skip it and preserve the existing provenance.
-This allows manual entries to coexist with automated ingestion without being overwritten.
-
-```
-xmatter/eip155/1/0xabcd.../
-├── README.md      # Your manually curated entry
-├── icon.png       # Your icon
-└── LOCK           # Prevents agent overwrites
-```
-
-See the [Contributing guide](/docs/contributing#automated-agents) for more about LOCK files.
 
 ## Why Provenance Matters
 

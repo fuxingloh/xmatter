@@ -7,7 +7,7 @@ export const FrontmatterSchema = z.object({
     .max(100)
     .transform((value) => value.trim())
     .describe("Name of the token"),
-  provenance: z.string().describe("Where did this entry come from?"),
+  provenance: z.url().describe("Where did this entry come from?"),
   description: z.string().optional(),
   standards: z.array(z.string()),
   tags: z.array(z.string()).optional(),
