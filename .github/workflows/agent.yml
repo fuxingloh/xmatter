@@ -36,21 +36,12 @@ jobs:
           - agent: agent-smol-dapp
             repo: SmolDapp/tokenAssets
             ref: main
-          - agent: agent-uniswap
-            repo: Uniswap/default-token-list
-            ref: main
-          - agent: agent-pancakeswap
-            repo: pancakeswap/token-list
-            ref: main
           - agent: agent-viaprotocol
             repo: viaprotocol/tokenlists
             ref: main
           - agent: agent-polygon
             repo: maticnetwork/polygon-token-list
             ref: dev
-          - agent: agent-arbitrum
-            repo: OffchainLabs/arbitrum-token-lists
-            ref: master
           - agent: agent-ethereum-lists
             repo: ethereum-lists/tokens
             ref: master
