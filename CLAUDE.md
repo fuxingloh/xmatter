@@ -8,17 +8,14 @@ Xmatter is a structured metadata registry for smart contracts - the "frontpage" 
 
 ## Repository Structure
 
-- **`xmatter/`** - Static metadata files organized by namespace (eip155, solana, tip474), containing README.md files with YAML frontmatter and optional icons
-- **`packages/xmatter`** - Core library with Zod schema definitions for metadata validation
+- **`xmatter/`** - Static metadata files organized by namespace, containing README.md files with YAML frontmatter and optional icons
+- **`packages/xmatter`** - Core library: Zod schema definitions, HTTP client (`XmatterClient`), and Next.js components
 - **`packages/agent-base`** - Base class (`FileSystemAgent`) for building data ingestion agents
-- **`packages/agent-ethereum-optimism`** - Agent that ingests from ethereum-optimism/ethereum-optimism.github.io
-- **`packages/agent-trust-wallet`** - Agent that ingests from trustwallet/assets
+- **`packages/agent-ethereum-optimism`** - Agent ingesting from ethereum-optimism/ethereum-optimism.github.io
+- **`packages/agent-trust-wallet`** - Agent ingesting from trustwallet/assets
+- **`packages/agent-smol-dapp`** - Agent ingesting from SmolDapp/tokenAssets (uses viem for on-chain RPC)
+- **`packages/agent-icon-color`** - Agent that re-processes existing entries to refresh icon detection and color extraction
 - **`website/`** - Next.js 16 website (BUSL-1.1 licensed), metadata viewer + docs site
-  - `app/` - Next.js App Router pages and layouts
-  - `app/docs/` - Documentation pages written in `.md` and `.mdx`
-  - `app/eip155/[chainId]/[address]/` - Dynamic metadata pages with API routes
-  - `components/` - Shared UI components (`ActiveLink`, `cx`, icons)
-  - `public/` - Symlink to `../xmatter` (metadata files served as static assets)
 
 ## Commands
 
@@ -33,13 +30,31 @@ bun run format        # Format with prettier
 bunx turbo run test --filter=xmatter
 bunx turbo run test --filter=@workspace/agent-base
 
-# Run agents to ingest data (from their package directories)
+# Run agents (from their package directories)
 cd packages/agent-ethereum-optimism && bun run agent
 cd packages/agent-trust-wallet && bun run agent
+cd packages/agent-smol-dapp && bun run agent
+cd packages/agent-icon-color && bun run agent
 
 # Website development
 cd website && bun run dev
 ```
+
+## Testing
+
+Tests use **bun:test** (Bun's native test runner), not vitest:
+
+```typescript
+import { describe, it, expect } from "bun:test";
+```
+
+## Conventions
+
+- **Commit messages**: Conventional commits — `feat(scope):`, `fix(scope):`, `chore(scope):`, `refactor(scope):`, `docs(scope):`
+- **PR titles**: Must be semantic (enforced by "Semantic Pull Request" check)
+- **Formatting**: Prettier with `printWidth: 120`, enforced via husky + lint-staged pre-commit hook
+- **ESLint**: Only in the website (`eslint-config-next/core-web-vitals`)
+- **Modules**: All packages use ESM (`"type": "module"`)
 
 ## Architecture
 
@@ -47,18 +62,28 @@ cd website && bun run dev
 
 Agents extend `FileSystemAgent<Entry>` from `@workspace/agent-base/fs`:
 
-1. `readEntry(path)` - Parse source data (JSON files from external repos)
+1. `readEntry(path)` - Parse source data (JSON files from external repos cloned to `.repo/`)
 2. `toReadmeFile(uri, entry)` - Transform to Xmatter schema format
 3. `write()` - Merge with existing data, copy icons, extract primary colors, write README.md
 
-Entries are written to `xmatter/{namespace}/{chainId}/{address}/README.md` as YAML frontmatter + markdown content. A `LOCK` file in a directory prevents agent overwrites.
+Key behaviors:
+
+- **Merge strategy**: Existing keys are never overwritten — only new keys are added
+- **LOCK file**: A `LOCK` file in a metadata directory prevents agent overwrites
+- Entries are written to `xmatter/{namespace}/{chainId}/{address}/README.md` as YAML frontmatter + markdown
 
 ### Schema (packages/xmatter/schema.ts)
 
 The `FrontmatterSchema` defines:
 
-- `name`, `provenance`, `standards[]` (required)
-- `symbol`, `decimals`, `icon`, `color`, `links[]`, `tags[]` (optional)
+- `name`, `provenance`, `standards[]`, `icons[]` (required)
+- `description`, `symbol`, `decimals`, `color`, `links[]`, `tags[]` (optional)
+
+### xmatter Package Entry Points
+
+- `xmatter/schema` - `FrontmatterSchema`, `XmatterSchema`, `Frontmatter`, `XmatterFile` types
+- `xmatter/client` - `XmatterClient` class (LRU-cached HTTP client for xmatter.org API)
+- `xmatter/next` - `RemotePattern` for next.config.ts, `XmatterIcon` components
 
 ### URI Format
 
@@ -68,54 +93,22 @@ The `FrontmatterSchema` defines:
 
 ### Website (website/)
 
-**Routing & Pages:**
-
-- Uses Next.js 16 App Router with file-based routing
-- Documentation pages are plain `.md` or `.mdx` files (e.g., `app/docs/api/page.md`)
+- Next.js 16 App Router; `website/public` is a **symlink** to `../xmatter`
+- Docs pages are plain `.md`/`.mdx` files in `app/docs/`
 - Dynamic metadata pages at `app/eip155/[chainId]/[address]/` with SSG via `generateStaticParams()`
-- API route handlers serve icon files, frontmatter JSON, and plain text at sub-paths (e.g., `icon/route.ts`, `frontmatter.json/route.ts`)
-
-**Data Fetching:**
-
-- `app/public.ts` provides `getXmatterFile(path)` — fetches from the public directory via internal URL, parses YAML frontmatter with `gray-matter`, returns `{ data, content }`
-- Icons are processed with `sharp` for format conversion and optimization (WebP, resizing)
-- Cache headers: `max-age=86400` (24 hours) on API routes
-
-**Styling:**
-
-- Tailwind CSS 4 with `@tailwindcss/postcss` (PostCSS plugin, configured in `postcss.config.mjs`)
-- Custom monochromatic theme using CSS `light-dark()` function in `app/layout.css` (`--color-mono-50` through `--color-mono-950`)
-- `@tailwindcss/typography` plugin for prose/markdown styling
+- API routes serve icons, frontmatter JSON, and plain text at sub-paths
+- `app/public.ts` provides `getXmatterFile(path)` — fetches from public directory, parses YAML frontmatter
+- Tailwind CSS 4 with custom monochromatic theme using `light-dark()` in `app/layout.css`
+- Server components by default; client components marked with `'use client'` only when needed
 - `cx()` utility in `components/cx.ts` combines `clsx` + `tailwind-merge`
-
-**Key Libraries:**
-
-- `@base-ui/react` — headless UI primitives (Select component)
-- `lucide-react` — icons
-- `next-themes` — light/dark/system theme switching
-- `@shikijs/rehype` — syntax highlighting in markdown (github-light/dark themes)
-- `remark-gfm`, `rehype-slug` — markdown enhancements
-- `react-markdown` — renders markdown content in dynamic pages
-
-**Component Patterns:**
-
-- Server components by default; client components marked with `'use client'` only when needed (theme toggle, copy button, interactive selectors)
-- Page-specific client components live alongside their page (e.g., `app/eip155/[chainId]/[address]/CopyButton.tsx`)
-- Shared components in `components/` directory
-- MDX components configured in `mdx-components.tsx` at website root
-
-**Security:**
-
-- Strict CSP, HSTS, X-Frame-Options: DENY, nosniff headers configured in `next.config.ts`
-- Metadata base URL: `https://xmatter.org`
 
 ## Important: Documentation as Source of Truth
 
-The `website/app/docs/` directory contains the project's own documentation (API reference, standards, etc.). When making changes to APIs, schemas, or behavior, always check if the relevant docs in `website/app/docs/` need updating too. Keep code and docs in sync.
+The `website/app/docs/` directory contains the project's own documentation (API reference, standards, etc.). When making changes to APIs, schemas, or behavior, always check if the relevant docs need updating too.
 
 ## Technical Stack
 
-- Bun
+- Bun (1.3.9)
 - TypeScript 5.9
 - Turborepo for monorepo orchestration
 - Website: Next.js 16, React 19, Tailwind CSS 4
