@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MHUNT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#141414"
 ---

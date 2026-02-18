@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: VOICE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#252c44"
 ---

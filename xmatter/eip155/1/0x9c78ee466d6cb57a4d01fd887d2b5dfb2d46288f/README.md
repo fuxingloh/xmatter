@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MUST
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#edefee"
 ---

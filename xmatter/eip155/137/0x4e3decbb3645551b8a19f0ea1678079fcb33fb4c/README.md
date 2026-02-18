@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: JEUR
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f0c50a"
 ---

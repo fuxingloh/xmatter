@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-19201-WESTP
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#67645e"
 ---

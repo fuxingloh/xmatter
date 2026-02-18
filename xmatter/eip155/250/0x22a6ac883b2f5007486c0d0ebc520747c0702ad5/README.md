@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MOR
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#14a8c4"
 ---

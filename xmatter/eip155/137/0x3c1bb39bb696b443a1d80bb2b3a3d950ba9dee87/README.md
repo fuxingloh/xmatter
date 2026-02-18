@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WSG
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#7a257c"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FHM
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#515a67"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ENXT
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#0f75bc"
 ---

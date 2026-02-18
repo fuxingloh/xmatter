@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AURORA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#5a4cb2"
 ---

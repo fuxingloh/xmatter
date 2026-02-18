@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WPT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#b3b9c2"
 ---

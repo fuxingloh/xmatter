@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ROAR
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#1b150f"
 ---

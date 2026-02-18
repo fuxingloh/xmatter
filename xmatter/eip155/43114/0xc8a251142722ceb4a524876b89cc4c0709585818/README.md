@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AURA
 decimals: 5
-icons: []
+icons:
+  - icon.jpeg
+color: "#08090d"
 ---

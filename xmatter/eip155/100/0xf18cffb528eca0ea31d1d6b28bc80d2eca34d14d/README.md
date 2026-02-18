@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-25097-ANDOV
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#5d5f3b"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MAGIK
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#715e50"
 ---

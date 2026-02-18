@@ -5,5 +5,6 @@ standards:
   - erc20
 symbol: BANDEX
 decimals: 9
-icons: []
+icons:
+  - icon.png
 ---

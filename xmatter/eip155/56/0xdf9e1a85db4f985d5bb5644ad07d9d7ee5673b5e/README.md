@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MM72
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#a1a1a1"
 ---

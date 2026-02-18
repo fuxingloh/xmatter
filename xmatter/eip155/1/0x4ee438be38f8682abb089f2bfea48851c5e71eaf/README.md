@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: YAE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fc2c64"
 ---

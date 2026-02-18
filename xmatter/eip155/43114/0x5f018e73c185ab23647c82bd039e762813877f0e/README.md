@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BUILD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ed1c24"
 ---

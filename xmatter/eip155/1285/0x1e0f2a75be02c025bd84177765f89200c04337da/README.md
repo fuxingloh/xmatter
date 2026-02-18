@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PETS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ece9ea"
 ---

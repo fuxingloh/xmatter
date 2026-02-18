@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: JPEG
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#c7f4e3"
 ---

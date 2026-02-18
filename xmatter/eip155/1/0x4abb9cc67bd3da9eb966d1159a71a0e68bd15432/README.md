@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KEL
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#dc1c52"
 ---

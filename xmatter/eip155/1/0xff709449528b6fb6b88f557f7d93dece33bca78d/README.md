@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: APEUSD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#141716"
 ---

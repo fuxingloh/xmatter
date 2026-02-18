@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ATLX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#137cec"
 ---

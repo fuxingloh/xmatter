@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-402-SKOSTNE
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#c8d6d4"
 ---

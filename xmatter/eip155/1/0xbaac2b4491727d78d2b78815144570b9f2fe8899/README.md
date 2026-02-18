@@ -13,6 +13,7 @@ standards:
 color: "#cebb8a"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 The most iconic meme in internet history, the original Doge, is now fractionalized and available for anyone to own. This is the original Doge NFT minted by Atsuko Sato, the owner of our favorite canine.

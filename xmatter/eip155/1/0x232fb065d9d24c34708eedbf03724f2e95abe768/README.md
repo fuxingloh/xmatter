@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SHEESHA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#15236b"
 ---

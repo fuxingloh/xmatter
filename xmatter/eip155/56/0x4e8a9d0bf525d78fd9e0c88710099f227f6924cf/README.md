@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LUNAR
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#4f424e"
 ---

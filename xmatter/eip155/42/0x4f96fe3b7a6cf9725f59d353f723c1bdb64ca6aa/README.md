@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DAI
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#f4ac34"
 ---

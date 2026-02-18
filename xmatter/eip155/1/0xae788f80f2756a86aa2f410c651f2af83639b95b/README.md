@@ -7,5 +7,6 @@ symbol: MV
 decimals: 18
 icons:
   - icon.svg
+  - icon.png
 color: "#e7a02c"
 ---

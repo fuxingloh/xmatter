@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PEOPLE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c2a66e"
 ---

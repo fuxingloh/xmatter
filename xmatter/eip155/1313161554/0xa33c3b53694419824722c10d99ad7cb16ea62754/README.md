@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MECHA
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#64cb34"
 ---

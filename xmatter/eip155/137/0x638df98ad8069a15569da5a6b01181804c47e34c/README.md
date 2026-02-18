@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DAFI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#33363c"
 ---

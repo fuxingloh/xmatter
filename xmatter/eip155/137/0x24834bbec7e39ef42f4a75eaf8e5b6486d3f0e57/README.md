@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LUNC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#eac954"
 ---

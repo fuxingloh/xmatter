@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: XEND
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#a66e74"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MCASH
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#299ee0"
 ---

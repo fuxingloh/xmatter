@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DERI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#191e2c"
 ---

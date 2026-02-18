@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NEWO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fcf55d"
 ---

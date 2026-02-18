@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: USV
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#051423"
 ---

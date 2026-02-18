@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: VWAVE
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#702572"
 ---

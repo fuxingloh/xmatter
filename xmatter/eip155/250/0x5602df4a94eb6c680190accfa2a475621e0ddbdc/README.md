@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SPA
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#e3e3e3"
 ---

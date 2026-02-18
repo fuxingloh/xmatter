@@ -13,6 +13,7 @@ standards:
 color: "#d42c24"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 ZUSD is the new digital USD which is 100% Fiat-backed.

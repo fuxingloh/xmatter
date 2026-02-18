@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: THOR
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e3e4f7"
 ---

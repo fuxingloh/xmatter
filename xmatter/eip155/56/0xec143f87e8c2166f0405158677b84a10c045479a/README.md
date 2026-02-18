@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PAL
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#80d59a"
 ---

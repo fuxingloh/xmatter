@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SHELL
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#a76365"
 ---

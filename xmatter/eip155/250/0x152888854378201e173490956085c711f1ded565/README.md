@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MST
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#120e0d"
 ---

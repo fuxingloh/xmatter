@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: STEAK
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f46cbc"
 ---

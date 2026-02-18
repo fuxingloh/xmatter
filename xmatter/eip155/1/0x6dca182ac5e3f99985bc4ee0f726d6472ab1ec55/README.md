@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: USHI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0a2038"
 ---

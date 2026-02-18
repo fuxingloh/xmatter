@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BALPHA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#21d9b8"
 ---

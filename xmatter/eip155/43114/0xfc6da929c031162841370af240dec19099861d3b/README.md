@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DOMI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e4bb5a"
 ---

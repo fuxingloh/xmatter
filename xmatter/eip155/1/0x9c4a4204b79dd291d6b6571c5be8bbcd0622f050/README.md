@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TCR
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0404bb"
 ---

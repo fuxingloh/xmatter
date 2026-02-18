@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-13116-KILBO
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#878163"
 ---

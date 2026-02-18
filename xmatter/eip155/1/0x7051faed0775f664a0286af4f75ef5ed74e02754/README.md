@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CHANGE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#8e7aff"
 ---

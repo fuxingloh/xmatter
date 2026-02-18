@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: EFIL
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0088f8"
 ---

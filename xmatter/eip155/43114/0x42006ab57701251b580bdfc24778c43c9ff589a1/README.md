@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: EVO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#69e2df"
 ---

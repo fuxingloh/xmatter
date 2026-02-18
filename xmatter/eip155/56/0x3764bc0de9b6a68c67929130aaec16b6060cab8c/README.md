@@ -5,5 +5,6 @@ standards:
   - erc20
 symbol: XIDO
 decimals: 18
-icons: []
+icons:
+  - icon.png
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LEVIN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e0d0dc"
 ---

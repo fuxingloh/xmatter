@@ -17,6 +17,7 @@ standards:
 color: "#1b1b1b"
 icons:
   - icon.png
+  - icon.webp
 ---
 
 XEN aims to become a community-building crypto asset that connects like minded people together and provide the lowest barrier to entry through its unique tokenomics.

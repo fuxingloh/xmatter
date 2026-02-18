@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: POLYSAFE
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#3d256c"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NESS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#4860f8"
 ---

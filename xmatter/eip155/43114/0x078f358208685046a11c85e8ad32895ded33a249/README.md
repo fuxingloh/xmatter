@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AWBTC
 decimals: 8
-icons: []
+icons:
+  - icon.webp
+color: "#6593aa"
 ---

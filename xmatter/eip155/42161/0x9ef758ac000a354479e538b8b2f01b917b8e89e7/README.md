@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: XDO
 decimals: 18
-icons: []
+icons:
+  - icon.webp
+color: "#8d73b4"
 ---

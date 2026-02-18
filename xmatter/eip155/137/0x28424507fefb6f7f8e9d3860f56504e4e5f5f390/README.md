@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AMWETH
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ce5c9b"
 ---

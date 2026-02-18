@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: EURS
 decimals: 2
-icons: []
+icons:
+  - icon.png
+color: "#2399f5"
 ---

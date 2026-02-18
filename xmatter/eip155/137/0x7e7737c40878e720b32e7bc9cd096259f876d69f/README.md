@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CATHEON
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#2b3ea3"
 ---

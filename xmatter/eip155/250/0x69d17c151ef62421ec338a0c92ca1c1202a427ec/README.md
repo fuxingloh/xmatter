@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SNT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#5c6cec"
 ---

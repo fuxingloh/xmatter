@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: a1INCH
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e5d6dc"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SIFU
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#dec9b2"
 ---

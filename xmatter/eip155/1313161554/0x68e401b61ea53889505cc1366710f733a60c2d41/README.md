@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SHITZU
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#59cf98"
 ---

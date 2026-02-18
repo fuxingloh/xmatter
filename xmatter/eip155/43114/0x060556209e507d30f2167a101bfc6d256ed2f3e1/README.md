@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: XPTP
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#6c6ce4"
 ---

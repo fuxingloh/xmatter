@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CROBLANC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#438ce0"
 ---

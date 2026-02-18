@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TCP
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#3c3a7c"
 ---

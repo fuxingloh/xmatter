@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DSG
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#dadfe4"
 ---

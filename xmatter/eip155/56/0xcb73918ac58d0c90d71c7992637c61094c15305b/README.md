@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SFT
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#d8dbe6"
 ---

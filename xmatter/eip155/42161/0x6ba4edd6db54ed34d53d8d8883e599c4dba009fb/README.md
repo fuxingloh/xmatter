@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: L2PAD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#edbc7c"
 ---

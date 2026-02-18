@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MIMATIC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#da3334"
 ---

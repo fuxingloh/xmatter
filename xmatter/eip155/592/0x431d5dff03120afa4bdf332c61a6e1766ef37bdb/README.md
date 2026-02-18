@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: JPYC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ced7ea"
 ---

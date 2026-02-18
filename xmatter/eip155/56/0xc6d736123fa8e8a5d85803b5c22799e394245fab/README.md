@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: RYIU
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#06090a"
 ---

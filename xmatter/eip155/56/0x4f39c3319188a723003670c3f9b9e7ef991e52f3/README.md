@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FIGHT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f21d2d"
 ---

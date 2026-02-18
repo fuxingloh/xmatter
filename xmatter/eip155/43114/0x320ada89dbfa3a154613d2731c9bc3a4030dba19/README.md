@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FROST
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#53b4e3"
 ---

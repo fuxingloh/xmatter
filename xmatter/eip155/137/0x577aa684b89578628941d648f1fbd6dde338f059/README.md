@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: APOLLO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fc8672"
 ---

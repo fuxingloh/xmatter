@@ -10,5 +10,7 @@ links:
     url: "https://twitter.com/NiftyLeague"
 symbol: NFTL
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#6141e5"
 ---

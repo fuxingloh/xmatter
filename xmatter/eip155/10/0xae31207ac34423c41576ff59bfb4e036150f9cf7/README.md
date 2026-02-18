@@ -13,6 +13,7 @@ standards:
 color: "#d4c8f6"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Governance token for Saddle Finance

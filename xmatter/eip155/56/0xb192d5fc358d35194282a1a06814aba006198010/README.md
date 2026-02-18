@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MESA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#2ec8e2"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: L2DAO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#39e0f5"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-13114-GLENF
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#474532"
 ---

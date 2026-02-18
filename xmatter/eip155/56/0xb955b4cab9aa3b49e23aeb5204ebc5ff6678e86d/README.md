@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AFIN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#51a243"
 ---

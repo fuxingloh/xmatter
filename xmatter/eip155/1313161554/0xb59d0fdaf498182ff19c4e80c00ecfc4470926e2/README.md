@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BAL
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#1c1c1c"
 ---

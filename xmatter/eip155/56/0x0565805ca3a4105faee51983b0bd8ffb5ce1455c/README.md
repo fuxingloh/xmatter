@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GUILD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0d5c79"
 ---

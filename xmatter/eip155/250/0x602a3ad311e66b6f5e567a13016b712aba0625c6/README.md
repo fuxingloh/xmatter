@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DUCK
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fbd4e8"
 ---

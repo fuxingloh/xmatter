@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GEO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c4e4ef"
 ---

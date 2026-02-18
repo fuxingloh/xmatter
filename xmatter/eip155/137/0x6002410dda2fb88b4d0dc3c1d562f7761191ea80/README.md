@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WORK
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#090909"
 ---

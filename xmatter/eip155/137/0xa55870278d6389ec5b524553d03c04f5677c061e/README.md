@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: XCAD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e7e5e5"
 ---

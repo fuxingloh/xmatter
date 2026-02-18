@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PEA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e03b3f"
 ---

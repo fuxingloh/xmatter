@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KIT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ececec"
 ---

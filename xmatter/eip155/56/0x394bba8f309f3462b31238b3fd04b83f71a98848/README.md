@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: POCO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e8b416"
 ---

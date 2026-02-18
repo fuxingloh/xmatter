@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DELO
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#2e2c27"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KOM
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#2d85f5"
 ---

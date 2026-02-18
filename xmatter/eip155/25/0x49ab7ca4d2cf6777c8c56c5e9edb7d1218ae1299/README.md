@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BURROW
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#064cbb"
 ---

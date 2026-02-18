@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CADC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fc6464"
 ---

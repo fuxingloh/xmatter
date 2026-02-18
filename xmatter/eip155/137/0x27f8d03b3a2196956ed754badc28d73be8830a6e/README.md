@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AMDAI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fcbc38"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DARA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#edece7"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SVN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#cc7c3f"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ZYX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ffce00"
 ---

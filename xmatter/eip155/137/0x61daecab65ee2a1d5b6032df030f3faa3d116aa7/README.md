@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DMAGIC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#996aeb"
 ---

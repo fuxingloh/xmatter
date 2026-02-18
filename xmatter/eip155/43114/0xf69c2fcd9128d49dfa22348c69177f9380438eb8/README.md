@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NFSG
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#bd9096"
 ---

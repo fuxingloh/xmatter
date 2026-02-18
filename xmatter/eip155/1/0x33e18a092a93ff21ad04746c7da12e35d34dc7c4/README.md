@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PLAY
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#3e2f44"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: URQA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#90a8df"
 ---

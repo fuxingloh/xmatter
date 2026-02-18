@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: IFARM
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d8f0ef"
 ---

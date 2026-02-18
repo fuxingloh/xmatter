@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SGE
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#a7a4b7"
 ---

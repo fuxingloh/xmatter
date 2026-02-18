@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CRO
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#dfe8ed"
 ---

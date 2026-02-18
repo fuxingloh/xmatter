@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NVT
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#3cafe0"
 ---

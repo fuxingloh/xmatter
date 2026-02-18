@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-5942-AUDUBO
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#566043"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LOOT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#a2695e"
 ---

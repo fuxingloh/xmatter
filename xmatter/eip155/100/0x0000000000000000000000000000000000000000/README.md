@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: xDAI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0ce33c"
 ---

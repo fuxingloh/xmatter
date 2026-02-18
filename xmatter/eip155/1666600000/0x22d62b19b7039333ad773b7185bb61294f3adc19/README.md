@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: STONE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#53999b"
 ---

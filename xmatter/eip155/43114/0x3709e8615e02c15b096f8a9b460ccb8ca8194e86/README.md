@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: VEE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fce0ca"
 ---

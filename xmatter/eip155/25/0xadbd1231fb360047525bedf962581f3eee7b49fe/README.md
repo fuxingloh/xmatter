@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CRONA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#040424"
 ---

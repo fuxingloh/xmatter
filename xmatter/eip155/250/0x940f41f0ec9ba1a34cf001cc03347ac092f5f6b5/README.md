@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GFUSDT
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#2da37c"
 ---

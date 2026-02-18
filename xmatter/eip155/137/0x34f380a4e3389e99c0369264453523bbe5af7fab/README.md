@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KANGAL
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#45382f"
 ---

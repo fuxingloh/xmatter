@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TKB
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fcf082"
 ---

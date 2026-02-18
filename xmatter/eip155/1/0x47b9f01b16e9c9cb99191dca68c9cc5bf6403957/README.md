@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ONSTON
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#202841"
 ---

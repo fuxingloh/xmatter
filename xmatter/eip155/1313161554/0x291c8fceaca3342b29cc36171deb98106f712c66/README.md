@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PICKLE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#4bc34b"
 ---

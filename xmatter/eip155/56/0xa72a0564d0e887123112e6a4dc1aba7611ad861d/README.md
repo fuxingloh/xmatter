@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FEB
 decimals: 0
-icons: []
+icons:
+  - icon.png
+color: "#c5996c"
 ---

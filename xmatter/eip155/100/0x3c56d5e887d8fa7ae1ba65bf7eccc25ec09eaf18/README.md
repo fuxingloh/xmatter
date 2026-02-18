@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-9165-KENSIN
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#4d4e40"
 ---

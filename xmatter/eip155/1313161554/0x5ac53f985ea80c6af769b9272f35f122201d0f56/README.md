@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HAK
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#d4d2cd"
 ---

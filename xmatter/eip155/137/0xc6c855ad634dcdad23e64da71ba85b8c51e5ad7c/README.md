@@ -7,5 +7,6 @@ symbol: ICE
 decimals: 18
 icons:
   - icon.svg
+  - icon.png
 color: "#f3f3f3"
 ---

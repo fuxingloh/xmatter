@@ -8,7 +8,9 @@ links:
     url: "https://julswap.com"
 symbol: JulD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f1bf4e"
 ---
 
 JulSwap DEX Commnuity Token

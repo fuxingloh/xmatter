@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AWX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d4e8f1"
 ---

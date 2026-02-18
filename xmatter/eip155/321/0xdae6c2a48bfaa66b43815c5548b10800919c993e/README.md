@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: APE
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#e0edf7"
 ---

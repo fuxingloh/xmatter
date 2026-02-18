@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DOLLA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#354c84"
 ---

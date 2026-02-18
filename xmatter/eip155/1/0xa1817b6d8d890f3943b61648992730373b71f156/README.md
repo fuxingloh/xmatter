@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MONGOOSE
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#e2a715"
 ---

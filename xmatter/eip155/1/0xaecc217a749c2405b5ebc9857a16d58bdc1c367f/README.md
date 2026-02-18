@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PAWTH
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#fc57ad"
 ---

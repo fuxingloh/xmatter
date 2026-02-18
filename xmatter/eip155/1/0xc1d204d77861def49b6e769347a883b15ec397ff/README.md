@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PAX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#bf9524"
 ---

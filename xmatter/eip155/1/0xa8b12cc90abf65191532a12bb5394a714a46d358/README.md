@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PBTC35A
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f7d566"
 ---

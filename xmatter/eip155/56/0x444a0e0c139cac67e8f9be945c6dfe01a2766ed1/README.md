@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GST
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e784b9"
 ---

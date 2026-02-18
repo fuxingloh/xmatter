@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BOO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e6d4e4"
 ---

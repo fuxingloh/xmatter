@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BDP
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#3b4c64"
 ---

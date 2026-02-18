@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ANN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#cf944e"
 ---

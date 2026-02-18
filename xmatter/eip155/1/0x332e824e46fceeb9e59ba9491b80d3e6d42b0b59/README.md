@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CHEESE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f09aaa"
 ---

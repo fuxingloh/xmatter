@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: EDDA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#7c2cdc"
 ---

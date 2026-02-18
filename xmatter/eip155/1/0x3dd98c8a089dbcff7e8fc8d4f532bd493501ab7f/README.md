@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TOWN
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#da422d"
 ---

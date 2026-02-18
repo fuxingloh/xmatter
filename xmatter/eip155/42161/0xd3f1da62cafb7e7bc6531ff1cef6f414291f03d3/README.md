@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DBL
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#065dec"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FLASH
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#be8e3b"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: JUMBO
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#141414"
 ---

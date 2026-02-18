@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SWPR
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e9e7f6"
 ---

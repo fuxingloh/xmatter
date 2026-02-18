@@ -7,5 +7,6 @@ symbol: OOE
 decimals: 18
 icons:
   - icon.svg
+  - icon.png
 color: "#151515"
 ---

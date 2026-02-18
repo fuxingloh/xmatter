@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: UBE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ece9f7"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: VBNT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#2c5cc4"
 ---

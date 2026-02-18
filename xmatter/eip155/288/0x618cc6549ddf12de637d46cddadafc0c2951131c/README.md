@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KYO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#bf756e"
 ---

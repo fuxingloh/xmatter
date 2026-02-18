@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AXMATIC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#95c5d5"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MIDA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#959584"
 ---

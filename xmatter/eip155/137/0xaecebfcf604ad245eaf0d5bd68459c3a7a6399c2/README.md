@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: RAMP
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#2ac0d9"
 ---

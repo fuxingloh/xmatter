@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: cDEFI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#25316b"
 ---

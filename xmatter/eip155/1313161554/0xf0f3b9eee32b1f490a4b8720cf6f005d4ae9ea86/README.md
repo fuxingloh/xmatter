@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: POLAR
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#241434"
 ---

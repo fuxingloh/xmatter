@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-12405-SANTA
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#6d6e5d"
 ---

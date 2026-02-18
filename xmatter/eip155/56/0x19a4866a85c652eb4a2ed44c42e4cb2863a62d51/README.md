@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HOD
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#e8f4f9"
 ---

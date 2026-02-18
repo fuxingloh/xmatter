@@ -11,6 +11,7 @@ standards:
 color: "#1c1c1c"
 icons:
   - icon.png
+  - icon.jpeg
 ---
 
 Pundi X (NPXS) aims to make the use of cryptocurrency as a form of payment into a reality for retailers and consumers alike.

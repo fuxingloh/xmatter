@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: EXRT
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#2b9cec"
 ---

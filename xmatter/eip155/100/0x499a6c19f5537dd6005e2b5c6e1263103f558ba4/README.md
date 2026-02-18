@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-17813-BRADF
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#9a8b7f"
 ---

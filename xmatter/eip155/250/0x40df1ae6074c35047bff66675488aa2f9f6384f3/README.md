@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WMATIC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#8837da"
 ---

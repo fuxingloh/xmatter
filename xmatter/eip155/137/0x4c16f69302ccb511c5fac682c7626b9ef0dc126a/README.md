@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: POLYBUNNY
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e0d7f7"
 ---

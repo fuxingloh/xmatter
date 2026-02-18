@@ -14,7 +14,9 @@ links:
     url: "https://discord.com/invite/E94cMhRhyu"
 symbol: AQUAGOAT
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#dbf2f6"
 ---
 
 AquaGoat Finance is a decentralized community-led eco-DeFi project, with AquaGoat acting as its DeFi alternative to conventional high-interest savings accounts.

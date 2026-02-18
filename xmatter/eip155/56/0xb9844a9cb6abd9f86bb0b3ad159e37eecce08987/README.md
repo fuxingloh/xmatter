@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DEXF
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#959595"
 ---

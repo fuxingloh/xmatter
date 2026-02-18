@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LUMIII
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#240c3c"
 ---

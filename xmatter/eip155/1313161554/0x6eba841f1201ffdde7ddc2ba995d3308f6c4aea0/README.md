@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NECC
 decimals: 9
-icons: []
+icons:
+  - icon.svg
+color: "#1c589a"
 ---

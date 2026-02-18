@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-15777-ARDMO
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#715b4b"
 ---

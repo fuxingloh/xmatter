@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HDX
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#141a2f"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FIRE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e23d27"
 ---

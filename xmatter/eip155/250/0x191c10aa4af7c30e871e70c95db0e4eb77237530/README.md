@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ALINK
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#9e64a6"
 ---

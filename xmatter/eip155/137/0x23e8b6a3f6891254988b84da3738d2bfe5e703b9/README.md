@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WELT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#b64aa8"
 ---

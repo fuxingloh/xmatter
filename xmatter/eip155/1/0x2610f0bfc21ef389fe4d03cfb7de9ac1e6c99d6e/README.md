@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SKYRIM
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e751a2"
 ---

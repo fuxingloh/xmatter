@@ -7,5 +7,6 @@ symbol: BLES
 decimals: 18
 icons:
   - icon.svg
+  - icon.png
 color: "#dc74e4"
 ---

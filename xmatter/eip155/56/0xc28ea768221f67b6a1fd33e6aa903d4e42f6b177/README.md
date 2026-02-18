@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PAPER
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#121212"
 ---

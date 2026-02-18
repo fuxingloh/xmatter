@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BELT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fce6c5"
 ---

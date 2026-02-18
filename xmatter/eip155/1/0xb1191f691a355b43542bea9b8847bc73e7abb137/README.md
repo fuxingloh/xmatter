@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KIRO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#4a4d62"
 ---

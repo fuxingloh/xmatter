@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CRN
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#f2e5e4"
 ---

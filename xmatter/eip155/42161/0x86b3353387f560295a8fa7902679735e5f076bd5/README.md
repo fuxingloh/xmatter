@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: OMIC
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#73736c"
 ---

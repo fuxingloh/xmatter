@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: stabilUSD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#23c163"
 ---

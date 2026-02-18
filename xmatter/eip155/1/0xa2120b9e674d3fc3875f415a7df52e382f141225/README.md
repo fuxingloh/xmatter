@@ -21,6 +21,7 @@ standards:
 color: "#c24414"
 icons:
   - icon.png
+  - icon.jpeg
 ---
 
 Automata Network is a decentralized service protocol that provides a privacy middleware layer for dApps across multiple blockchains.

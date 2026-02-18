@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LEO
 decimals: 5
-icons: []
+icons:
+  - icon.jpeg
+color: "#191a2c"
 ---

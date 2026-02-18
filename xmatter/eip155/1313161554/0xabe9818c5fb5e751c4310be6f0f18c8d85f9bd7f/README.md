@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CREAM
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#68e0d8"
 ---

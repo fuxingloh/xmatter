@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MAD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#11100f"
 ---

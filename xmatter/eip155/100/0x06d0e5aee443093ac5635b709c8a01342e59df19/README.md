@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-10617-HATHA
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#b9b3ac"
 ---

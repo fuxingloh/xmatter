@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LYD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#eecfeb"
 ---

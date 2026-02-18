@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HERMES
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ceac5e"
 ---

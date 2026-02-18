@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DEFI+L
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#25a5ce"
 ---

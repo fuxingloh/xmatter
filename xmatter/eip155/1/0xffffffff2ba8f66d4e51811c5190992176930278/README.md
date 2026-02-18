@@ -6,6 +6,7 @@ standards:
 symbol: COMBO
 decimals: 18
 icons:
+  - icon.png
   - icon.webp
-color: "#232430"
+color: "#1c1c24"
 ---

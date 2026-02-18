@@ -25,6 +25,7 @@ standards:
 color: "#f9ce0b"
 icons:
   - icon.png
+  - icon.jpeg
 ---
 
 The Tamadoge Token ($TAMA) is the native token of the tamaverse. You’ll be able to use it to play Tamadoge games, earn rewards and buy special items from the tamadoge pet store.

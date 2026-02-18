@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CHARGE
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#ebecf1"
 ---

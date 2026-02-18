@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PECO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#8650e1"
 ---

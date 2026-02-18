@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SHI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#00e13b"
 ---

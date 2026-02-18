@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SWT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#222222"
 ---

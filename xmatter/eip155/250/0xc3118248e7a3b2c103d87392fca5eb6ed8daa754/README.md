@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DUCAT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ba9c4e"
 ---

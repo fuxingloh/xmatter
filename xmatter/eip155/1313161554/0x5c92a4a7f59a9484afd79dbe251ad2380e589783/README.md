@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: abBUSD
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#f4bc0c"
 ---

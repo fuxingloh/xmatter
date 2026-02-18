@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SUSD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d3d2d8"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DLAUNCH
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ccec8d"
 ---

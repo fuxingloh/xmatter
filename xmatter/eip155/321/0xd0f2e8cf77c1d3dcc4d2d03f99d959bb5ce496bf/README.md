@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: COOHA
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#c3b496"
 ---

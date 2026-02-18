@@ -7,5 +7,6 @@ symbol: ROCKS
 decimals: 18
 icons:
   - icon.svg
+  - icon.png
 color: "#e41d3d"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MASQ
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e1f3fb"
 ---

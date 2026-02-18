@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: APP
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#bcbcbc"
 ---

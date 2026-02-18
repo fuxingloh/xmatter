@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-19996-JOANN
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#747f50"
 ---

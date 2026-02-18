@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SAFUU
 decimals: 5
-icons: []
+icons:
+  - icon.jpeg
+color: "#f5f2e6"
 ---

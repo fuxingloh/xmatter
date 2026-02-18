@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LEPA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#686868"
 ---

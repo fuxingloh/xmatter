@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AGAR
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#293e4c"
 ---

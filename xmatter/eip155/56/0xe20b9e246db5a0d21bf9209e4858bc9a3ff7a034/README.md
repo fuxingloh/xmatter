@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BAN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#38383b"
 ---

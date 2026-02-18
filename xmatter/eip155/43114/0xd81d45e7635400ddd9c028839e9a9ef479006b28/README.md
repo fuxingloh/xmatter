@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: EMBR
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#f39750"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PHONON
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#44cac9"
 ---

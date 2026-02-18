@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: JOE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c66c64"
 ---

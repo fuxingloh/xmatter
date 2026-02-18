@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BBADGER
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#242328"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TSUGA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#070e29"
 ---

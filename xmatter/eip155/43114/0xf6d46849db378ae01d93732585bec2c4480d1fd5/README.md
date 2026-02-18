@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FORT
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#aca69e"
 ---

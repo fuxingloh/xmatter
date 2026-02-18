@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SWAPP
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#199ad5"
 ---

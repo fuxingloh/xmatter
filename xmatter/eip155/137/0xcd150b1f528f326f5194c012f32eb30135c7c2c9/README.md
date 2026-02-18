@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: OOKI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f8916a"
 ---

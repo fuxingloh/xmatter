@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MOCA
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#dfc82f"
 ---

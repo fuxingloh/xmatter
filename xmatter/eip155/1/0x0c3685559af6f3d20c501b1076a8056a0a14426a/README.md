@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: miniSAITAMA
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#0f263c"
 ---

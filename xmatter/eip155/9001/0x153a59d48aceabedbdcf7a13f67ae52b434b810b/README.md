@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CEWETH
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#aba7a9"
 ---

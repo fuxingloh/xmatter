@@ -16,7 +16,9 @@ links:
     url: "https://landshare.medium.com"
 symbol: LAND
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fbda50"
 ---
 
 Landshare brings tokenized real estate to the Binance Smart Chain.

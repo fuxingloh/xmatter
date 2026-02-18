@@ -7,5 +7,6 @@ symbol: CARDS
 decimals: 18
 icons:
   - icon.svg
+  - icon.png
 color: "#0544fc"
 ---

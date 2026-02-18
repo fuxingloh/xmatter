@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ASVA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fc0474"
 ---

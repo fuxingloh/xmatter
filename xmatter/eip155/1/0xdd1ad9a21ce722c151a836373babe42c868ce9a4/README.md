@@ -13,6 +13,7 @@ standards:
 color: "#00d9a0"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 UBI is a cryptocurrency that streams to verified humans on Ethereum

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GENX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#740ee9"
 ---

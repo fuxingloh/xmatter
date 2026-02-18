@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: POP
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#98312f"
 ---

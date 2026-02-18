@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ELON
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#322b27"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DOGIRA
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#3f2c2c"
 ---

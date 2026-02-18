@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AKITA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#dedaee"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DMT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#060935"
 ---

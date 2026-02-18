@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LICP
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e6dbde"
 ---

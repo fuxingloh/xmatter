@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LIF3
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e8eaf0"
 ---

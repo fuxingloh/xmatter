@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ALINK
 decimals: 18
-icons: []
+icons:
+  - icon.webp
+color: "#9a66a6"
 ---

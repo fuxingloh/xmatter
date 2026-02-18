@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ZIPT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#444444"
 ---

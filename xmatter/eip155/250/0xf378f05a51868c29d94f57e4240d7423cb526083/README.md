@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CRIME
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#5a3a15"
 ---

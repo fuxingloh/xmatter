@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: YAYO
 decimals: 4
-icons: []
+icons:
+  - icon.png
+color: "#c2bce0"
 ---

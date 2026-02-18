@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BR
 decimals: 6
-icons: []
+icons:
+  - icon.jpeg
+color: "#197ad8"
 ---

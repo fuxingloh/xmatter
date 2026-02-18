@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TSD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c6d0cf"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: EMON
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#a93504"
 ---

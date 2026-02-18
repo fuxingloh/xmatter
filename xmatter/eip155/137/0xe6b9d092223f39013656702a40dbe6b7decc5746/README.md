@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FEVR
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#580da7"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ZEUS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f4f4f4"
 ---

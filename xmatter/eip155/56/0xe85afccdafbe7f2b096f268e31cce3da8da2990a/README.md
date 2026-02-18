@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ABNBC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fbeb1c"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ESW
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#7a9efa"
 ---

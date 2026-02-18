@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: JUNO
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#d0cfcf"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MOZ
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f04557"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: XUSD
 decimals: 18
-icons: []
+icons:
+  - icon.webp
+color: "#a068ab"
 ---

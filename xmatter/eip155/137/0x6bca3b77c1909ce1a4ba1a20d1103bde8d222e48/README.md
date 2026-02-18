@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NBO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e07d78"
 ---

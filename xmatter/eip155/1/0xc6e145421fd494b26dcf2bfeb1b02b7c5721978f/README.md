@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CPRX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#231c23"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BFTM
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#a3a3a3"
 ---

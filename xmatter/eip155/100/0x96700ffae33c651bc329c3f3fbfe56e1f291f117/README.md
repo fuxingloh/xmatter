@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-4380-BEACON
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#acc1d8"
 ---

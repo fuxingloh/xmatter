@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-14229-WILSH
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#686568"
 ---

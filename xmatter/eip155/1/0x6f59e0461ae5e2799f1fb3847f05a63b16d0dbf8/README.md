@@ -18,5 +18,7 @@ links:
     url: "https://medium.com/@ORCA_Alliance"
 symbol: ORCA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#343c41"
 ---

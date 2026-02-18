@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PHX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#cd2628"
 ---

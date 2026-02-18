@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: G-DAI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fbaa24"
 ---

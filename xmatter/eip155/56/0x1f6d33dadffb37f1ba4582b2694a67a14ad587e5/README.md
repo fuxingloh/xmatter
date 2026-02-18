@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LAZYSHIBA
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#e7e3dd"
 ---

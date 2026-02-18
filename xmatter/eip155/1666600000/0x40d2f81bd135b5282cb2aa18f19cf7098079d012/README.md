@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: IKURA
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#231c23"
 ---

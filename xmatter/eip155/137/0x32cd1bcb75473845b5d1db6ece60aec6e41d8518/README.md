@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PS1
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#173c43"
 ---

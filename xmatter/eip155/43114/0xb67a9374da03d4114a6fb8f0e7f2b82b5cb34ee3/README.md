@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AGF
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c5c7fc"
 ---

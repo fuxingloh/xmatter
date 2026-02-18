@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: VETH
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#667deb"
 ---

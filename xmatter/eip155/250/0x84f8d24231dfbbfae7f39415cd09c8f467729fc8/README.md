@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CSC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#8d3983"
 ---

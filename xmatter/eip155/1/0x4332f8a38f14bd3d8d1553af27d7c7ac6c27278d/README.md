@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: APEFI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#181716"
 ---

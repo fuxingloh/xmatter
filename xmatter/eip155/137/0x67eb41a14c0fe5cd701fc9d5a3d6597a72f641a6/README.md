@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GDDY
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d3cec7"
 ---

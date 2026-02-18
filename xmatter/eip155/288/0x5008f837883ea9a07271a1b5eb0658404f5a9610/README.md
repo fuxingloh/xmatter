@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: OLO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#db944b"
 ---

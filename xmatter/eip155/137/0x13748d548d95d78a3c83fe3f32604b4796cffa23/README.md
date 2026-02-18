@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KOGECOIN
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#1ca44c"
 ---

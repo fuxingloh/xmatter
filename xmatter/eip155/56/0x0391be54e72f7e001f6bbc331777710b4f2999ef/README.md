@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TRAVA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f2f8f8"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MFTU
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#dcdad8"
 ---

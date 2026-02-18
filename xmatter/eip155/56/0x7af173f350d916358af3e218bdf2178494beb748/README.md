@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TRADE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#8c74ec"
 ---

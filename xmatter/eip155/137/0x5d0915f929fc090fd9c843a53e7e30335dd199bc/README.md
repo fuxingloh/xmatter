@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: pTREAT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#dcdcdc"
 ---

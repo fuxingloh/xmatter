@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: METACAT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#cec8c8"
 ---

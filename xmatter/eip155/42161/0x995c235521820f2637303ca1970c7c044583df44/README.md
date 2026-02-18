@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: VISR
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#131224"
 ---

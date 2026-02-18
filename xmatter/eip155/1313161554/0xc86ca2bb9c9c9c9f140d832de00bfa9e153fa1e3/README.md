@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NDOL
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#1a4e90"
 ---

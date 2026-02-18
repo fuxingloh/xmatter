@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PACT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ac4bdc"
 ---

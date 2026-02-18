@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: mRTK
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#5e5353"
 ---

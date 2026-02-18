@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SUM
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#bf1e9d"
 ---

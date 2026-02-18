@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: XTRI
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#29ecc0"
 ---

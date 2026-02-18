@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: STKXPRT
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#040404"
 ---

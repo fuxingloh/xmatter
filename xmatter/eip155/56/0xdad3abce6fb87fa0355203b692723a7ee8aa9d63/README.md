@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PLG
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c478fc"
 ---

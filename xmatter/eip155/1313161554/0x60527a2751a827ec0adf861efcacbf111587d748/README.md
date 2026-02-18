@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TRIPOLAR
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#241434"
 ---

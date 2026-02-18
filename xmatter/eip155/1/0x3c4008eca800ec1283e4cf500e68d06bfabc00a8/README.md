@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HAO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c4b290"
 ---

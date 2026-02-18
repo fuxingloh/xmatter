@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: UCO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#040607"
 ---

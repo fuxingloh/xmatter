@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BAKED
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#4474bc"
 ---

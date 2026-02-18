@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PIKA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#843c05"
 ---

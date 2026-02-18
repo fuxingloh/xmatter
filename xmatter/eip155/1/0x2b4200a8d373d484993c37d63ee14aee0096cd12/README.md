@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: USDFL
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#443cf4"
 ---

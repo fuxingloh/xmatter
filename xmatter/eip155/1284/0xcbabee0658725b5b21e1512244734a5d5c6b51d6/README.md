@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ATH
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e4d7cd"
 ---

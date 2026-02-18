@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BABYDOGE
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#634ded"
 ---

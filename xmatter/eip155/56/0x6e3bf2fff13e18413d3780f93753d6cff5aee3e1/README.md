@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: POLP
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#b84985"
 ---

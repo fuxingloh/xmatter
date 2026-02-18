@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AUSDT
 decimals: 6
-icons: []
+icons:
+  - icon.webp
+color: "#53aa9b"
 ---

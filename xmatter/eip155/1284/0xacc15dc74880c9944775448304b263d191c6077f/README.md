@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WGLMR
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#938bda"
 ---

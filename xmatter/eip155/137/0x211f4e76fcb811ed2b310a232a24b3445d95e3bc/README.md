@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MATRIX
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#5ccd61"
 ---

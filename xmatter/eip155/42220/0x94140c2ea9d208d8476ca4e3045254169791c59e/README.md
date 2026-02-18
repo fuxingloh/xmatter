@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PREMIO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#1b739b"
 ---

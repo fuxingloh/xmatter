@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: RUSD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#cfd5df"
 ---

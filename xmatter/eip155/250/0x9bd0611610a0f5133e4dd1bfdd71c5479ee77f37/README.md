@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FTMO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#157bbc"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: X
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0a0a0a"
 ---

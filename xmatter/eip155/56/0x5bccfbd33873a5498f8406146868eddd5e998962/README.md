@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PDO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f2dc94"
 ---

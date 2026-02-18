@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NXTT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#21112b"
 ---

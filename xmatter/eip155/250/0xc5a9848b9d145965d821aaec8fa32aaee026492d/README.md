@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: OXDV2
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#f1f8f5"
 ---

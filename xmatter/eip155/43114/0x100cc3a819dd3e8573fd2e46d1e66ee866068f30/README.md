@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DCAU
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#a9861d"
 ---

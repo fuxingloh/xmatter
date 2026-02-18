@@ -18,5 +18,6 @@ symbol: NCR
 decimals: 18
 icons:
   - icon.svg
+  - icon.png
 color: "#8fd229"
 ---

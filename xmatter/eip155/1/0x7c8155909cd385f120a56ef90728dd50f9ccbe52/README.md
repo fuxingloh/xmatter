@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NII
 decimals: 15
-icons: []
+icons:
+  - icon.png
+color: "#0791d3"
 ---

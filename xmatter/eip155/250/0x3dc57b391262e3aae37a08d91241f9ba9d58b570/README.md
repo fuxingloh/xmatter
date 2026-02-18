@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: YOSHI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#46dca4"
 ---

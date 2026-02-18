@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FLX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#807dcd"
 ---

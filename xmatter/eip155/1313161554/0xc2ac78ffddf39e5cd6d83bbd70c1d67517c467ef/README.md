@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GBA
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#04a7eb"
 ---

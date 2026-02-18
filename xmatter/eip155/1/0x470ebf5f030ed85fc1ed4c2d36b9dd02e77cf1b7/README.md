@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TEMPLE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0c0c0e"
 ---

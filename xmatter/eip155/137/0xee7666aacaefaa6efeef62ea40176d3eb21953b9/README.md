@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MCHC
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#a652dc"
 ---

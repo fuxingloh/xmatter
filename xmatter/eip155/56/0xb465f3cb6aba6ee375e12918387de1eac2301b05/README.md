@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TRIVIA
 decimals: 3
-icons: []
+icons:
+  - icon.png
+color: "#eae092"
 ---

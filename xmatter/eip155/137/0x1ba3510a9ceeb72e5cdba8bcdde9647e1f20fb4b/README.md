@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DRAX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ab81f0"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HYVE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#adadad"
 ---

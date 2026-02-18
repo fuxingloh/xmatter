@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SNOSHARE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#a8c2c7"
 ---

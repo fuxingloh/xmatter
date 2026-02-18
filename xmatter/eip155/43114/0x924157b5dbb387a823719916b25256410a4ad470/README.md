@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SLOT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#dddee6"
 ---

@@ -7,5 +7,6 @@ symbol: LPL
 decimals: 18
 icons:
   - icon.svg
+  - icon.png
 color: "#0479f7"
 ---

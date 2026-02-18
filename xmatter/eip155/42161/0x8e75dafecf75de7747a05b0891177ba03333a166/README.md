@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NITRODOGE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#dcea9f"
 ---

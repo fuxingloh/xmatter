@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WOOFY
 decimals: 12
-icons: []
+icons:
+  - icon.png
+color: "#cedefc"
 ---

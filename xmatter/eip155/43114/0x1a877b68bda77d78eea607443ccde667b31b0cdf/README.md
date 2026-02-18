@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PIGGY
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f5a4ac"
 ---

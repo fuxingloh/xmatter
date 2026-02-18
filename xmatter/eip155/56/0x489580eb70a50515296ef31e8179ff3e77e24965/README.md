@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: RADAR
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#1073fc"
 ---

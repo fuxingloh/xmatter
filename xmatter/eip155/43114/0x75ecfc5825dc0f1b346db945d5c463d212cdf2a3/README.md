@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NOBEL
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e4e4e4"
 ---

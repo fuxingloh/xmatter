@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BEPIS
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#504f75"
 ---

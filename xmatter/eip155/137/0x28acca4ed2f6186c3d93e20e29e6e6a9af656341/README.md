@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ERP
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#87bfb9"
 ---

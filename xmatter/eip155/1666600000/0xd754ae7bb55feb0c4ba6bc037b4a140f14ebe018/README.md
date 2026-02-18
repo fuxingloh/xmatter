@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TEM
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#882d2a"
 ---

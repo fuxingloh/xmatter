@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BRUSH
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e0e2e2"
 ---

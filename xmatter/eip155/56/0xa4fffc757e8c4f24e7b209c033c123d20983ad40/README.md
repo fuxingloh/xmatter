@@ -23,6 +23,7 @@ standards:
 color: "#1e1e1e"
 icons:
   - icon.png
+  - icon.jpeg
 ---
 
 We Meme Business.

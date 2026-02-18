@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DIAMOND
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ebf2a0"
 ---

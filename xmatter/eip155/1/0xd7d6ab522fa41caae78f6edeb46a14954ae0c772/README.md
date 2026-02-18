@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CHPZ
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#cb7dad"
 ---

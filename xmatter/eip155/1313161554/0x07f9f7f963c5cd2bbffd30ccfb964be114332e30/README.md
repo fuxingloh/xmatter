@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: STNEAR
 decimals: 24
-icons: []
+icons:
+  - icon.svg
+color: "#5beb5b"
 ---

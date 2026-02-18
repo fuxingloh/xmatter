@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BRIDGE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0554fc"
 ---

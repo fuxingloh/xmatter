@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: OBOT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ec1a22"
 ---

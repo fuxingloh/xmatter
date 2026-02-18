@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BR34P
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#2f2f2d"
 ---

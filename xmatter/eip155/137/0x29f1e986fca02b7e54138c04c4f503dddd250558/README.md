@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: VSQ
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#34cc9c"
 ---

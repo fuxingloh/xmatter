@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DXGM
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#36499c"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DWEB
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f3f9fa"
 ---

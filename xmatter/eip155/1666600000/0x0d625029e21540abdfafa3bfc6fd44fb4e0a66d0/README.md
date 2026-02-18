@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CLNY
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#bd2620"
 ---

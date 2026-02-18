@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SSS
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#e3c051"
 ---

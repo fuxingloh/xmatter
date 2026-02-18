@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: RAGE
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#323969"
 ---

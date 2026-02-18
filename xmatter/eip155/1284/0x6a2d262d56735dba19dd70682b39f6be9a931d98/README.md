@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CEUSDC
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#2e7acd"
 ---

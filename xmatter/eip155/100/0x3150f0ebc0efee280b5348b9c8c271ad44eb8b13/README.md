@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-19596-GOULB
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#95b5c5"
 ---

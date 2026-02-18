@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ANGLE
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#3a3c42"
 ---

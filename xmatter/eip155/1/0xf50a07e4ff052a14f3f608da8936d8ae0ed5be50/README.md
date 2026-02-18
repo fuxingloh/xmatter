@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FLOKIPUP
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#434958"
 ---

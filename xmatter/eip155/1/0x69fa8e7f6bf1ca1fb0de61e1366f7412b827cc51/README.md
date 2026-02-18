@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NRCH
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#0b248b"
 ---

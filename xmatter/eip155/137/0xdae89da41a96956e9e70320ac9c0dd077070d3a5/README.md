@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CNTR
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#33cc33"
 ---

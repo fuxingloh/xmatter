@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FOLD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#040404"
 ---

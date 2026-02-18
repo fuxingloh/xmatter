@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KSHARE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#dce7f3"
 ---

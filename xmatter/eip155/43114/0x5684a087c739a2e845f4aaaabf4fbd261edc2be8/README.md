@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LF
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#6484d2"
 ---

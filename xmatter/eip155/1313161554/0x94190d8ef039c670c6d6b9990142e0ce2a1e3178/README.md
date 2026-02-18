@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LINK
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#2c5cdc"
 ---

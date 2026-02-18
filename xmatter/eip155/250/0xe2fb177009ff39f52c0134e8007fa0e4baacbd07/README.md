@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SOUL
 decimals: 18
-icons: []
+icons:
+  - icon.webp
+color: "#8d58de"
 ---

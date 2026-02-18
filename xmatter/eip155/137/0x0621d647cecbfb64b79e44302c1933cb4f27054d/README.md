@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AMP
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e4649c"
 ---

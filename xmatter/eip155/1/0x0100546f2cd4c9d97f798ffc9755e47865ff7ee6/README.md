@@ -14,6 +14,7 @@ color: "#688fbd"
 icons:
   - icon.svg
   - icon.png
+  - icon.jpeg
 ---
 
 A synthetic token for users to borrow their future yield.

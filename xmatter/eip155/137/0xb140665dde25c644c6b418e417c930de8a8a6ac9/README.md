@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ATRI
 decimals: 0
-icons: []
+icons:
+  - icon.png
+color: "#eb545a"
 ---

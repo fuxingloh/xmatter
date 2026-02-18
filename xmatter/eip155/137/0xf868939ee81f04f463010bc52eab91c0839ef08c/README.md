@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ATK
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#cf875b"
 ---

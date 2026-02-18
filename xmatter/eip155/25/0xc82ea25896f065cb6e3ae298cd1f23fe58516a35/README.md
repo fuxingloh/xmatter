@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ESSO
 decimals: 8
-icons: []
+icons:
+  - icon.svg
+color: "#4e36fc"
 ---

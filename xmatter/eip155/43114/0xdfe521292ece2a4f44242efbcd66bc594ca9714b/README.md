@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: avWAVAX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#8879b8"
 ---

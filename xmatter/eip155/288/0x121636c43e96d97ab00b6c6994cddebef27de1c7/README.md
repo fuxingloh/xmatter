@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BDOGE
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#efba72"
 ---

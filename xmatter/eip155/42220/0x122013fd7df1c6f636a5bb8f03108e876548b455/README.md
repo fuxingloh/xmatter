@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WETH
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#2c2c2b"
 ---

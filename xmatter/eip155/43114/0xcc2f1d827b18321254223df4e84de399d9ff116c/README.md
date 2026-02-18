@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SMRT
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#437e9e"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ARGO
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#4285d3"
 ---

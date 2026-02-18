@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WHIRL
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#6e9bbd"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: COSMIC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#442d96"
 ---

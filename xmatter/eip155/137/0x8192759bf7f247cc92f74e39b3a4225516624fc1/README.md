@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BOOK
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#090909"
 ---

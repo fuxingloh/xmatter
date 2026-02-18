@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MKR
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#1cac9c"
 ---

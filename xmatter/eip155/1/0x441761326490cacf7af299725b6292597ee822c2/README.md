@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: UNFI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#38f997"
 ---

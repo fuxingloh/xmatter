@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NACHO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e1e1e1"
 ---

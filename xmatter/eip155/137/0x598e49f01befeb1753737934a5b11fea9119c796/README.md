@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ADS
 decimals: 11
-icons: []
+icons:
+  - icon.png
+color: "#5cb4fc"
 ---

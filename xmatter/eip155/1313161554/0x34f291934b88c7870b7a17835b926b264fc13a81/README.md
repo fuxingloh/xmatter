@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PAD
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#339b1d"
 ---

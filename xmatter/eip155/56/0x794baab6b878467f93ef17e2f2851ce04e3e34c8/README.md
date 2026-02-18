@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: YIN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#1b2028"
 ---

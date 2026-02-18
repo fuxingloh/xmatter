@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LIQD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#040424"
 ---

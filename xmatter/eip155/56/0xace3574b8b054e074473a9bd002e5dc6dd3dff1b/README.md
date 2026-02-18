@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: RBX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#efd8d4"
 ---

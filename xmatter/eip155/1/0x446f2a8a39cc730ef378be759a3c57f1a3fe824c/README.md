@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NBT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c8bced"
 ---

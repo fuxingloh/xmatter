@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: IMX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#00b573"
 ---

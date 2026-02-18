@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: A4
 decimals: 6
-icons: []
+icons:
+  - icon.jpeg
+color: "#c9c9c9"
 ---

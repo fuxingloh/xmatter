@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: VPND
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#50c7e5"
 ---

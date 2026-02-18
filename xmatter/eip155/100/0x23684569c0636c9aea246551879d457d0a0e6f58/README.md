@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-9336-PATTON
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#707661"
 ---

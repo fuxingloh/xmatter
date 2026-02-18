@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SHACK
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e81820"
 ---

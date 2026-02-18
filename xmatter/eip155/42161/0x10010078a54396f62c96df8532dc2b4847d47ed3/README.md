@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HND
 decimals: 18
-icons: []
+icons:
+  - icon.webp
+color: "#cbcecf"
 ---

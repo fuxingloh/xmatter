@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: THS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#eed69c"
 ---

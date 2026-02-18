@@ -8,7 +8,9 @@ links:
     url: "https://singularitynet.io"
 symbol: AGI
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#341d75"
 ---
 
 SingularityNET is a blockchain-powered platform that allows anybody to easily create, share, and monetize AI services, thanks to its globally-accessible AI marketplace.

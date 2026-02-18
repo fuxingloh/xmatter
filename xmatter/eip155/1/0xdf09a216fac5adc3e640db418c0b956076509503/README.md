@@ -15,6 +15,7 @@ standards:
 color: "#04fafa"
 icons:
   - icon.png
+  - icon.jpeg
 ---
 
 Pokmi is a social platform to share uncensored creativity with advanced user protection thanks to the Poken wallet

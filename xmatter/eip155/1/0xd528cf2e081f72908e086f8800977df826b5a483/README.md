@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PBX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ccd6fa"
 ---

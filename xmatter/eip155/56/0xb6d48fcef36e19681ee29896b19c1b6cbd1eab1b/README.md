@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FAN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ecd9e7"
 ---

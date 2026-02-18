@@ -11,6 +11,7 @@ standards:
 color: "#b1a7a9"
 icons:
   - icon.png
+  - icon.jpeg
 ---
 
 WENLAMBO finance is a deflationary token rewarding holders on each transaction and donating part of fees to charity

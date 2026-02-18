@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SCLP
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#dcf0fa"
 ---

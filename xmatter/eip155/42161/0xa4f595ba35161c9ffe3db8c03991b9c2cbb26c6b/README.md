@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LYS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#3e9d95"
 ---

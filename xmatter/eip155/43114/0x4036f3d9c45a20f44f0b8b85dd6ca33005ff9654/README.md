@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ROOBEE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#94d424"
 ---

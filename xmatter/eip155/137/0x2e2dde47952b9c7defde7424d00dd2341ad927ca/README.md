@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CHUM
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#efebe4"
 ---

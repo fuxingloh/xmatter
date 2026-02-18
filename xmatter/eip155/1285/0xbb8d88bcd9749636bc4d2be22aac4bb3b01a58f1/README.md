@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MFAM
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fce492"
 ---

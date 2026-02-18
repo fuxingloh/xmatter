@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NEARX
 decimals: 24
-icons: []
+icons:
+  - icon.svg
+color: "#2cabac"
 ---

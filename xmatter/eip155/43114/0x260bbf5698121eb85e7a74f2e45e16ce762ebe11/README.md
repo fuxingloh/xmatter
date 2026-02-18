@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: axlUST
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#7e2e51"
 ---

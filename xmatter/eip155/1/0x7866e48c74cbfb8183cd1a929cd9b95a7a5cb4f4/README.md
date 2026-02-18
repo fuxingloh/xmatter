@@ -13,6 +13,7 @@ standards:
 color: "#040404"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 DexKit builds DexAppBuilder: a no-low code web3 DApp builder

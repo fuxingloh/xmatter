@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: COLLAR
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fbfbdb"
 ---

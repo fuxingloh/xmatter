@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SFL
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#b74c2b"
 ---

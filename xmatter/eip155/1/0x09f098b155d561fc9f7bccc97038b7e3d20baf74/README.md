@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ZOO
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#181227"
 ---

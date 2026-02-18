@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FLAME
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#000000"
 ---

@@ -17,6 +17,7 @@ standards:
 color: "#c30f0f"
 icons:
   - icon.png
+  - icon.jpeg
 ---
 
 Distributed GPU rendering on the blockchain.

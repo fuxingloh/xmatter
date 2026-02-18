@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: IMRTL
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#18160f"
 ---

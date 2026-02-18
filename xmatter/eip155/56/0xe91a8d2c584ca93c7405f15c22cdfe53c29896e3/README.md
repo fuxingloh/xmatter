@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DEXT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#8edaea"
 ---

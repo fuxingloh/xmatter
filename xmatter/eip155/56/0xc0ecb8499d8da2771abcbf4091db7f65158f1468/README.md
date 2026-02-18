@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SWTH
 decimals: 8
-icons: []
+icons:
+  - icon.webp
+color: "#182830"
 ---

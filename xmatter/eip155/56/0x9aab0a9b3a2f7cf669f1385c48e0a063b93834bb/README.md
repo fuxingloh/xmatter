@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: XMETA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#dee8f0"
 ---

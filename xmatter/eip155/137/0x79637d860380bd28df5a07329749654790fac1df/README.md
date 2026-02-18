@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PLATO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#cb720f"
 ---

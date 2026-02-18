@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SMCW
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#180e2d"
 ---

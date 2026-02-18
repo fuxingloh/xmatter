@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NEST
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#050505"
 ---

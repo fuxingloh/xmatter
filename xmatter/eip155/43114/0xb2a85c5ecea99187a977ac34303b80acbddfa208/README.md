@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ROCO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fc4c4c"
 ---

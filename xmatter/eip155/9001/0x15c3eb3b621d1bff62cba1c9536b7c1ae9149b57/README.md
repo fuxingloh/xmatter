@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AXLUSDC
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#2c78cd"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NSHARE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f9b817"
 ---

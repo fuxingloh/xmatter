@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NCT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#161c25"
 ---

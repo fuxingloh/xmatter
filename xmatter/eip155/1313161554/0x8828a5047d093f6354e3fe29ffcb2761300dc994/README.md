@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PULSE
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#b55dfc"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MNTO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c62034"
 ---

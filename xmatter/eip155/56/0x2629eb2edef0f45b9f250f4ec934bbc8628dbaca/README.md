@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SHIBEV
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#f7e4cb"
 ---

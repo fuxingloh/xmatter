@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LUX
 decimals: 9
-icons: []
+icons:
+  - icon.jpeg
+color: "#0a0506"
 ---

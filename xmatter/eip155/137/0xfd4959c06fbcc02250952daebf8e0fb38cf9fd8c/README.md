@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ZEE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#1444c4"
 ---

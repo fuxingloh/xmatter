@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GENE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d7d0e7"
 ---

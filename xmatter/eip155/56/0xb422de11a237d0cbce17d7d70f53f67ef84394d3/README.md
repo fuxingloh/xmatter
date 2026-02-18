@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MONKE
 decimals: 9
-icons: []
+icons:
+  - icon.jpeg
+color: "#404046"
 ---

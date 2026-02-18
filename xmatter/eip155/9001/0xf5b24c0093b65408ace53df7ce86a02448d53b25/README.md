@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AXLWBTC
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#302c38"
 ---

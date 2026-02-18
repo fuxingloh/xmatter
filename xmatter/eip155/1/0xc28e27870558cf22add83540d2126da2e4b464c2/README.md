@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SASHIMI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ec5c1c"
 ---

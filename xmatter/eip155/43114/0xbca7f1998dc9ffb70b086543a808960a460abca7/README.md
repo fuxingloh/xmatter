@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KITTY
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#aecfcc"
 ---

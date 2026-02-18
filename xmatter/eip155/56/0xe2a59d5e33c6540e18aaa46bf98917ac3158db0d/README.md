@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: UFI
 decimals: 18
-icons: []
+icons:
+  - icon.webp
+color: "#151c44"
 ---

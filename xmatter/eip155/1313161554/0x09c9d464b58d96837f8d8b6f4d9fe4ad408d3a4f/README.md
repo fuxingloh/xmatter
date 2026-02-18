@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PLY
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#a5d2b4"
 ---

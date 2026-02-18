@@ -8,7 +8,9 @@ links:
     url: "https://offshift.io"
 symbol: XFT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#480491"
 ---
 
 Offshift is a cryptographically private offshore storage & DeFi protocol on Ethereum.

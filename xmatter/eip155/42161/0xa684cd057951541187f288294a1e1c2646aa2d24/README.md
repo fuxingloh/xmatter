@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: VSTA
 decimals: 18
-icons: []
+icons:
+  - icon.webp
+color: "#0e1c2c"
 ---

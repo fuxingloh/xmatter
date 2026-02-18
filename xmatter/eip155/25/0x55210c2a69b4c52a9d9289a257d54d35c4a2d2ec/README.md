@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BANK
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#f4ece9"
 ---

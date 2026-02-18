@@ -14,7 +14,9 @@ links:
     url: "https://reddit.com/r/stormxio/"
 symbol: STMX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#6c2ce4"
 ---
 
 Earn crypto when you shop online.

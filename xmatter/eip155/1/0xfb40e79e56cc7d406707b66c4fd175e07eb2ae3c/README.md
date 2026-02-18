@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ROTTS
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#292929"
 ---

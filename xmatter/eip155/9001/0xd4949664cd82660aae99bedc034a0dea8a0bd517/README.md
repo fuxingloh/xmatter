@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: EVMOS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f8c2b9"
 ---

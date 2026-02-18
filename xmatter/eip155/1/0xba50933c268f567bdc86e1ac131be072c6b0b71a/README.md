@@ -12,6 +12,7 @@ color: "#c8cfd5"
 icons:
   - icon.svg
   - icon.png
+  - icon.jpeg
 ---
 
 Arpa envisions to be a privacy-preserving computation network by leveraging Multi-Party Computation (MPC).

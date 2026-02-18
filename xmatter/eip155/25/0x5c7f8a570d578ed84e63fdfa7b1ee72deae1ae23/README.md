@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WCRO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#afb0b0"
 ---

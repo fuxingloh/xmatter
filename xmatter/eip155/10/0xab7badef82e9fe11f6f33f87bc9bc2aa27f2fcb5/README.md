@@ -9,4 +9,5 @@ standards:
 color: "#587070"
 icons:
   - icon.png
+  - icon.webp
 ---

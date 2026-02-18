@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: IZA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#04a7d0"
 ---

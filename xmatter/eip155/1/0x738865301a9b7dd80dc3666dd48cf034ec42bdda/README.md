@@ -18,5 +18,7 @@ links:
     url: "https://tauchain.medium.com/"
 symbol: AGRS
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#9934e1"
 ---

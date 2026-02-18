@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NISHIB
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#333f52"
 ---
