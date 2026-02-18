@@ -36,6 +36,15 @@ jobs:
           - agent: agent-smol-dapp
             repo: SmolDapp/tokenAssets
             ref: main
+          - agent: agent-viaprotocol
+            repo: viaprotocol/tokenlists
+            ref: main
+          - agent: agent-polygon
+            repo: maticnetwork/polygon-token-list
+            ref: dev
+          - agent: agent-ethereum-lists
+            repo: ethereum-lists/tokens
+            ref: master
     steps:
       - uses: actions/checkout@v6
       - uses: ./.github/actions/setup
