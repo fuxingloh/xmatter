@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AGAC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#3db444"
 ---

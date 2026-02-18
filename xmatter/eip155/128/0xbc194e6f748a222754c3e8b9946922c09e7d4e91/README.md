@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LEV
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#1c2434"
 ---

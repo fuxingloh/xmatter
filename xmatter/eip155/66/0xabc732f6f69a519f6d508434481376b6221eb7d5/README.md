@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DOTK
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#131313"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: RUGPULL
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#8b43d3"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PTF
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#1b1d19"
 ---

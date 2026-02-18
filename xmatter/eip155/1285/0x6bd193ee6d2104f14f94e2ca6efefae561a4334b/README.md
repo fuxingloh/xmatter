@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SOLAR
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ee9789"
 ---

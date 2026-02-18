@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: 1TEL
 decimals: 2
-icons: []
+icons:
+  - icon.png
+color: "#14ccfc"
 ---

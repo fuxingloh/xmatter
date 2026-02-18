@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LOM
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#cfa87f"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TPT
 decimals: 4
-icons: []
+icons:
+  - icon.png
+color: "#2b83fc"
 ---

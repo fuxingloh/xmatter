@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: sdcrvRenWSBTC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c8c8c8"
 ---

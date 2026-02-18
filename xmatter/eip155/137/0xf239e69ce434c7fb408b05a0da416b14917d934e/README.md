@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SHI3LD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#040715"
 ---

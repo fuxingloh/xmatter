@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: XYO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#8e91c4"
 ---

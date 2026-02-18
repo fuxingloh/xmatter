@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AUT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#353535"
 ---

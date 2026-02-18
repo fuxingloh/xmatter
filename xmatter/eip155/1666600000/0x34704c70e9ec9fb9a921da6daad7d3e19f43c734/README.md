@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DSLA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#eac4aa"
 ---

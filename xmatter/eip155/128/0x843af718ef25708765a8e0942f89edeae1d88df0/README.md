@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ADA
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#1240b1"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: OCEAN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#3b3b3b"
 ---

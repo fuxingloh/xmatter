@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AUDIO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#801ac4"
 ---

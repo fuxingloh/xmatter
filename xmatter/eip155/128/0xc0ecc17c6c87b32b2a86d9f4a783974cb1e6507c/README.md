@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: JT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#862370"
 ---

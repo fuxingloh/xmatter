@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: XMPT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#16a2d8"
 ---

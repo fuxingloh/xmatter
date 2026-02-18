@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: sdeursCRV
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#cacaca"
 ---

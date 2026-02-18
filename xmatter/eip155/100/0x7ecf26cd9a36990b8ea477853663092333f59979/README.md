@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PERP
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#1ed0c6"
 ---

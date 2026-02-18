@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BEE
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#f0c918"
 ---

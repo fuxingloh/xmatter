@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MAI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fa5f66"
 ---

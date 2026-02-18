@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CXO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#8ddc2d"
 ---

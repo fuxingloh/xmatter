@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SUSHI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0f172f"
 ---

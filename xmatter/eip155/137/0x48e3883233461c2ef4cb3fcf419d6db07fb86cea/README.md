@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SENT
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#171e3b"
 ---

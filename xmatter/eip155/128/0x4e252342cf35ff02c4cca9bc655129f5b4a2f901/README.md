@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SLNV2
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0522ab"
 ---

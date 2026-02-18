@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: JULIEN
 decimals: 4
-icons: []
+icons:
+  - icon.png
+color: "#3e3734"
 ---

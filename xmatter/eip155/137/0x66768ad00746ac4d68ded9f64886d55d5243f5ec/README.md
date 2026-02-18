@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: mRBAL
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#58b5e4"
 ---

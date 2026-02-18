@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: COIN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#5d14fb"
 ---

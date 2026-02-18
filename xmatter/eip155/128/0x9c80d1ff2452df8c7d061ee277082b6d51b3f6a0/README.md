@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FIDO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0484fc"
 ---

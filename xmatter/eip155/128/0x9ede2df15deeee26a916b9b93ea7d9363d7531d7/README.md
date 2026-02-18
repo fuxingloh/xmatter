@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HYOT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#165c93"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BEANS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#cdd8e3"
 ---

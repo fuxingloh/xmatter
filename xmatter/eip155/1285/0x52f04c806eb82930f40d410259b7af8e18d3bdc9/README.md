@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KAFE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ede7e4"
 ---

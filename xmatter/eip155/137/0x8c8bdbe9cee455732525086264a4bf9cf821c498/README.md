@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: maUNI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e7e1ed"
 ---

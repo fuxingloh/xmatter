@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WFTM
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#14b4ec"
 ---

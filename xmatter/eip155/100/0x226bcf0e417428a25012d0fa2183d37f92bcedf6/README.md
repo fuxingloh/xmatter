@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ZRX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#cacaca"
 ---

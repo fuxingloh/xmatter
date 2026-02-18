@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LAIKA
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#cd1f40"
 ---

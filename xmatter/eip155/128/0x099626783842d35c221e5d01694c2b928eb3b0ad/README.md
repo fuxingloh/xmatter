@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DOG
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e18734"
 ---

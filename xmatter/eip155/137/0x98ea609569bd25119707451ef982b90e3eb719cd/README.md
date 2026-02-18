@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MALINK
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d8d4ea"
 ---

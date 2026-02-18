@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HAT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e22f32"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PHOTON
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#6d18e4"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BID
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#18c0f0"
 ---

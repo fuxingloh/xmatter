@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: renZEC
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#848b8c"
 ---

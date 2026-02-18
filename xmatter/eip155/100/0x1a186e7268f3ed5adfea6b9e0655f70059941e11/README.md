@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NIF
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#923b9a"
 ---

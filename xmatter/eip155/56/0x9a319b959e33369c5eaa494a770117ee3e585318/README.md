@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HYFI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c7f8e9"
 ---

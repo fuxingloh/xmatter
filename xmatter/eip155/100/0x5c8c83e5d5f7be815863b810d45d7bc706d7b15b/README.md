@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: rSURF
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#248cb7"
 ---

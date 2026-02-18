@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: mDEF
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#35111f"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PRTCLE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#151615"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AFT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f7e5d5"
 ---

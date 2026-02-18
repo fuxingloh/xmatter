@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ELITE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#050505"
 ---

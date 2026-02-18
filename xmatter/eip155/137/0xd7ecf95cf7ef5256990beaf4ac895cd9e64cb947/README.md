@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PBTC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f16760"
 ---

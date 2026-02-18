@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: COPR
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ffb71b"
 ---

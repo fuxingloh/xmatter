@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HZN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#cee9f5"
 ---

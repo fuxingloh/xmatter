@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CAN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#4b61a8"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: RIB
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e9ca68"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AMPL
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#0c0c0c"
 ---

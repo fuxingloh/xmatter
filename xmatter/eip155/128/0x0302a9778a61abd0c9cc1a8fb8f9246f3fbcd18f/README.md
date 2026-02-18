@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SWF
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#1188ca"
 ---

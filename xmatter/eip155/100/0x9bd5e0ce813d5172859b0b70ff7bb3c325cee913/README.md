@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ETHM
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#489f80"
 ---

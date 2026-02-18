@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MAAAVE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#589dd2"
 ---

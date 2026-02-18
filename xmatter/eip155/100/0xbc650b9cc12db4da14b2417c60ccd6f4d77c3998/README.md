@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: STORJ
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#2080f8"
 ---

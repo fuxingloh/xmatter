@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HNB
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e1dfe6"
 ---

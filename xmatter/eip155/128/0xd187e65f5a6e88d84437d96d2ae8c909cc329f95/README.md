@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: STK
 decimals: 12
-icons: []
+icons:
+  - icon.png
+color: "#ccb26a"
 ---

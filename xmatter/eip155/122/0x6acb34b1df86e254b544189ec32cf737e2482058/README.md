@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BNB
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fbecc6"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GAME
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#4cad45"
 ---

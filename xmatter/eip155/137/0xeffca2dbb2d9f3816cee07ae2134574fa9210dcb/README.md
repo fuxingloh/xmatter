@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: RBAG
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ac9446"
 ---

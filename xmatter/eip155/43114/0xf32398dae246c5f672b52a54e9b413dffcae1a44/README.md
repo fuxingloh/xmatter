@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KACY
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ec756d"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AST
 decimals: 4
-icons: []
+icons:
+  - icon.png
+color: "#2b71ff"
 ---

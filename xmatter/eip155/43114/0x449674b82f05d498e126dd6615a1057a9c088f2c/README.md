@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LOST
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#b66aa0"
 ---

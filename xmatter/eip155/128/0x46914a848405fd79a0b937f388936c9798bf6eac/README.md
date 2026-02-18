@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: sMDX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#8335cd"
 ---

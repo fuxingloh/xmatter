@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HNY
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fcf39b"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MOVR
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f4b405"
 ---

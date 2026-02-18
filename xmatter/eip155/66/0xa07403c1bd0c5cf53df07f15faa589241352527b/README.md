@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BLADE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#a80508"
 ---

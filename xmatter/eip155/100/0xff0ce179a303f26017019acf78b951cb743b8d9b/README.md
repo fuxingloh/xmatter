@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TRIB
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f028a0"
 ---

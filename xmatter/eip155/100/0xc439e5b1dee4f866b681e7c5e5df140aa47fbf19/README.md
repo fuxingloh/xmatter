@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SAI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fccb23"
 ---

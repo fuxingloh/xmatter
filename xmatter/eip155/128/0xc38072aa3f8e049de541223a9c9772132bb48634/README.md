@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SHIB
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#efa23b"
 ---

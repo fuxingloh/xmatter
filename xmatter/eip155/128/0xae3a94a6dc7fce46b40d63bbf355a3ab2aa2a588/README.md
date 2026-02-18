@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: EOS
 decimals: 4
-icons: []
+icons:
+  - icon.png
+color: "#1e1e1e"
 ---

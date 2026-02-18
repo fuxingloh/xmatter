@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: COOK
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#2a3363"
 ---

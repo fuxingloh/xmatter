@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ELET
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#857549"
 ---

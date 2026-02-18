@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SOCKS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e8b9df"
 ---

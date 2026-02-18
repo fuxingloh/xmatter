@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BASE
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#e0ccb9"
 ---

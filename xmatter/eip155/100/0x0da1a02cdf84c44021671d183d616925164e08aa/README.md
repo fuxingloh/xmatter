@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0e0e0e"
 ---

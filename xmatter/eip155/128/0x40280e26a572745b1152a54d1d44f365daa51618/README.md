@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DOGE
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#b59d3f"
 ---

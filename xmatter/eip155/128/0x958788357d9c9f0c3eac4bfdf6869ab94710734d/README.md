@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NHA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#dca9c0"
 ---

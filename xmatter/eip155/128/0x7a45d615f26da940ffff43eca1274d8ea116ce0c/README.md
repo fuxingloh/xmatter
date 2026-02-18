@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MAN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#182848"
 ---

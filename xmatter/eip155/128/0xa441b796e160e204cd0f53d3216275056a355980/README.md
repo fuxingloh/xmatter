@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LYFI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fae204"
 ---

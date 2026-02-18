@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WONE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#36d1d6"
 ---

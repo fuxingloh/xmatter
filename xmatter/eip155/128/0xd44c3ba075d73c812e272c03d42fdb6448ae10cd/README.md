@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LION
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fa7cf3"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: RSD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#052454"
 ---

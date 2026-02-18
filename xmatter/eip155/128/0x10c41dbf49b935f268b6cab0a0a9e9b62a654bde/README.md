@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NDFIL
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0a8ff3"
 ---

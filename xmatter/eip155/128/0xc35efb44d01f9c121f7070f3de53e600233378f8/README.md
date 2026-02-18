@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DHD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c2b38b"
 ---

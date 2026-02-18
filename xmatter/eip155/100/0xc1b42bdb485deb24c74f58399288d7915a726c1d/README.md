@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LEND
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#1d9fcb"
 ---

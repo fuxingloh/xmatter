@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WELL
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0454dc"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BTCCB
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f7494d"
 ---

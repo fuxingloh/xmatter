@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: vBTC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#7f4cca"
 ---

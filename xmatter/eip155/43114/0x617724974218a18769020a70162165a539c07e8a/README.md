@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: OLIVE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#bb844b"
 ---

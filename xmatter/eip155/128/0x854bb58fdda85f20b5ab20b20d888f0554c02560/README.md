@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DMC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e4e4e4"
 ---

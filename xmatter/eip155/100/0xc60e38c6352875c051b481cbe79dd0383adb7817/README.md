@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NODE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#5eb3b2"
 ---

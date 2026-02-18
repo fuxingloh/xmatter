@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: EDC
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#ec326c"
 ---

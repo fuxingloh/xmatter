@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LHB
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#141c55"
 ---

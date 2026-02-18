@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: XFORCE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#6060f0"
 ---

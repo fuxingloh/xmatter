@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MET
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#7d64fb"
 ---

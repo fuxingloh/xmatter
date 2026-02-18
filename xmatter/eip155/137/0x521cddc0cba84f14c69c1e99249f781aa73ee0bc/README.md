@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MOVE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c9d8de"
 ---

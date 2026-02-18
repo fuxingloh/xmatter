@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LUNA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f7d45a"
 ---

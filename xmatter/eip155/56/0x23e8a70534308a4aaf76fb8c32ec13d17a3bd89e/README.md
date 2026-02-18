@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LUSD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e4e4e4"
 ---

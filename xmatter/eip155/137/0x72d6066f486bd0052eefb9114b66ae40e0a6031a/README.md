@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WRX
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#3464f3"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ETH
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#2d2f2f"
 ---

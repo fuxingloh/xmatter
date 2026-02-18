@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SORA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e5252d"
 ---

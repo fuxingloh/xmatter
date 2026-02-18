@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: RAREv2
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0c0c0c"
 ---

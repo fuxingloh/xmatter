@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: bscCAKE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d0894c"
 ---

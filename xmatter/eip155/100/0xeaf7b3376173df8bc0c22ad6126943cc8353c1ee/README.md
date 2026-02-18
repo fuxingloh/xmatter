@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CHEEMS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ca9112"
 ---

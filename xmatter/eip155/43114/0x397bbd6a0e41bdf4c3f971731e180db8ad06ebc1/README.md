@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AVXT
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#bc1c2c"
 ---

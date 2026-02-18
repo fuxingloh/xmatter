@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CHSB
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#cdefe5"
 ---

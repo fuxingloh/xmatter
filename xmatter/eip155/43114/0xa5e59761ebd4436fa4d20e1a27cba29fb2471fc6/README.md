@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SHERPA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f13b45"
 ---

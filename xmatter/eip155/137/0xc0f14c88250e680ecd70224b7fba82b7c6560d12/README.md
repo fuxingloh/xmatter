@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: wPTG
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c1a965"
 ---

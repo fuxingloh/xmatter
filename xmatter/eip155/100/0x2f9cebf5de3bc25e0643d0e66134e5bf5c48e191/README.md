@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: xBRICK
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#be5740"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AKRO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#961ef9"
 ---

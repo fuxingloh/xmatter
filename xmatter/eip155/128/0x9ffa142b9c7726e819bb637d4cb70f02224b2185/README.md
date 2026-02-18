@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PWT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d4dce2"
 ---

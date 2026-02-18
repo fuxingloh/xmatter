@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: COMP
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#04d091"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: Suter
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e7b22b"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BTC
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#282138"
 ---

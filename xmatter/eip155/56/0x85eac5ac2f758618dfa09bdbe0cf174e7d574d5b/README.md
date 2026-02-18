@@ -8,7 +8,9 @@ links:
     url: "https://tron.network/"
 symbol: TRX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ec0c2c"
 ---
 
 TRON is a dedicated to build the infrastructure for a truly decentralized Internet.

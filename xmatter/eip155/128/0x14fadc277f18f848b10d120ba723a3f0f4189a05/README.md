@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KIKA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d0429f"
 ---

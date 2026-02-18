@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PUSD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#241d24"
 ---

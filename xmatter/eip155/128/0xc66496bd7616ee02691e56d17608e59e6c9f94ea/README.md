@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MNC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f6e18b"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AMIS
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#cabcbd"
 ---
