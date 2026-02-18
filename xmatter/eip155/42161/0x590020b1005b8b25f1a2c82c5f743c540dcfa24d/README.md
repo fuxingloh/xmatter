@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GMX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#1296e8"
 ---

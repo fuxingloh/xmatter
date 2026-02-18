@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: RACEX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#2c0d07"
 ---

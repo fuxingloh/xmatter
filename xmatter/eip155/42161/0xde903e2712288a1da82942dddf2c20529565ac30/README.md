@@ -6,6 +6,7 @@ standards:
 symbol: SWPR
 decimals: 18
 icons:
+  - icon.png
   - icon.jpeg
-color: "#0d0c11"
+color: "#e5e2f2"
 ---
