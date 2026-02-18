@@ -8,8 +8,9 @@ name: MEME
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f5b42a"
+color: "#622cd7"
 icons:
+  - icon.svg
   - icon.png
 ---
 

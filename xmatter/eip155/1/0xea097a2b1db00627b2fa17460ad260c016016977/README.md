@@ -8,8 +8,9 @@ name: Upfiring
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e83630"
+color: "#eb3b38"
 icons:
+  - icon.svg
   - icon.png
 ---
 

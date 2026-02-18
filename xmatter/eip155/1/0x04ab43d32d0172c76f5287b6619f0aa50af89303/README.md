@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: UNL
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#34c4d4"
 ---

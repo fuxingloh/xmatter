@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: STARS
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#dcbc74"
 ---

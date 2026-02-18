@@ -18,8 +18,9 @@ name: Frontier
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3f2a27"
+color: "#42322c"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LDN
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#7030e8"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: OMNIUNIT
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#3e4d55"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PTERIA
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#eeeeee"
 ---

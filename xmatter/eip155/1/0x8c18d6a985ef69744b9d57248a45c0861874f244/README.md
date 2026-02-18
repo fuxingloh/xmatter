@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CTI
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#6cdbbc"
 ---

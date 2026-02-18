@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: myfi
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#3390c9"
 ---

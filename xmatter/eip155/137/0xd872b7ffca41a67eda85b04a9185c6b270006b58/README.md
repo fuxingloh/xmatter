@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TAKI
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#be536c"
 ---

@@ -12,8 +12,9 @@ name: YfDAI.finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc9c04"
+color: "#e6e6e6"
 icons:
+  - icon.svg
   - icon.png
 ---
 

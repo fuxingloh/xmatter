@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: wPPC
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#3cb454"
 ---

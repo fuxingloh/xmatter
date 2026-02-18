@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BYN
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#ccc4dc"
 ---

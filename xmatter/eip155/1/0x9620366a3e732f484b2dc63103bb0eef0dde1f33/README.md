@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BCM
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#0565dc"
 ---

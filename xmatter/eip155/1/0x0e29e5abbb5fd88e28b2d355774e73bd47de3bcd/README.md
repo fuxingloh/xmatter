@@ -10,8 +10,9 @@ name: Hakka Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#005828"
+color: "#04803c"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -16,8 +16,9 @@ name: Kardiachain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b32329"
+color: "#1b1b31"
 icons:
+  - icon.svg
   - icon.png
 ---
 

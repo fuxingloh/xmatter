@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: VOLT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#7b75f7"
 ---

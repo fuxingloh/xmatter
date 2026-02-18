@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TruMATIC
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#8bf3b3"
 ---

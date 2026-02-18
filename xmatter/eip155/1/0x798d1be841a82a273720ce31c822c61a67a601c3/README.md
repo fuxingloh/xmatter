@@ -8,8 +8,9 @@ name: Digg (DIGG)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fba304"
+color: "#f6b023"
 icons:
+  - icon.svg
   - icon.png
 ---
 

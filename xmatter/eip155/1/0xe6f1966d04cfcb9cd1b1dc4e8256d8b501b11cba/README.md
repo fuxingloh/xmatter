@@ -12,8 +12,9 @@ name: SafeEarth
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6ccc6c"
+color: "#88df91"
 icons:
+  - icon.svg
   - icon.png
 ---
 

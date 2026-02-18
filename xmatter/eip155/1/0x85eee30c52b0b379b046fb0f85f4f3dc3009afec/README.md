@@ -20,8 +20,9 @@ name: KEEP Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4bdbb3"
+color: "#4ad0a0"
 icons:
+  - icon.svg
   - icon.png
 ---
 

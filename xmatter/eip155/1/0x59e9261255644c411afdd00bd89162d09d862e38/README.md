@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ETHA
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#d3d3d8"
 ---

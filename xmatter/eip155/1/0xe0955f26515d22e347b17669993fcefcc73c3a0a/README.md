@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: STACK
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#6438f2"
 ---

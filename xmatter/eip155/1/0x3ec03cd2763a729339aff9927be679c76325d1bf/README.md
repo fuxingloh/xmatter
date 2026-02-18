@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FGH
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#f70404"
 ---

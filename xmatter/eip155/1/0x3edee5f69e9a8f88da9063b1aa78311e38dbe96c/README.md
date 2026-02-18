@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: mLINK
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#0d0b0b"
 ---

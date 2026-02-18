@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MOAR
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#a0d2fc"
 ---

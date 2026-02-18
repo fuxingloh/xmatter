@@ -12,8 +12,9 @@ name: SYNC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4da3be"
+color: "#4188cd"
 icons:
+  - icon.svg
   - icon.png
 ---
 

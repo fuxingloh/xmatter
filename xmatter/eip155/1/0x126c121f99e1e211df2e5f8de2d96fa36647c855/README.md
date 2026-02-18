@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DEGEN
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#1d1d1d"
 ---

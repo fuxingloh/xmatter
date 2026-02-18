@@ -8,8 +8,9 @@ name: Pluton
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d1ab52"
+color: "#cfa952"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CPR
 decimals: 2
-icons: []
+icons:
+  - icon.jpeg
+color: "#c8af4e"
 ---

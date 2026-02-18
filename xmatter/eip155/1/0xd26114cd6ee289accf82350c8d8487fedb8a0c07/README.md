@@ -22,8 +22,9 @@ name: OMG Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#141414"
+color: "#0c0c0c"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ICE
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#f3f3f3"
 ---

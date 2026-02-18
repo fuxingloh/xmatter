@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: acBTC
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#5f6b47"
 ---

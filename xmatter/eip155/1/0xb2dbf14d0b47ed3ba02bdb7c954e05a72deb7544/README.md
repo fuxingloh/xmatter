@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MoFi
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#f73a6a"
 ---

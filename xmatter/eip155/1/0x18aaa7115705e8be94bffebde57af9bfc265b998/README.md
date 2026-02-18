@@ -8,8 +8,9 @@ name: Audius
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7f1ac4"
+color: "#8306ab"
 icons:
+  - icon.svg
   - icon.png
 ---
 

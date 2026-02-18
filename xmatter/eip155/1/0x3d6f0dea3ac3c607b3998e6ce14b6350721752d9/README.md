@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CARDS
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#0544fc"
 ---

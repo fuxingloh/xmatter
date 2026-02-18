@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AFN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#24e48c"
 ---

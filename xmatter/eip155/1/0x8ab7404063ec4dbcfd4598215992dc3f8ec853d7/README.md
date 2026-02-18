@@ -8,8 +8,9 @@ name: Akropolis
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b13ef8"
+color: "#a43fc0"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -8,8 +8,9 @@ name: Coin Artist
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc1464"
+color: "#5c14fc"
 icons:
+  - icon.svg
   - icon.png
 ---
 

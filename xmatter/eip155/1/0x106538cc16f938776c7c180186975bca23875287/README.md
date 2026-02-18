@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BASv2
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#a162f7"
 ---

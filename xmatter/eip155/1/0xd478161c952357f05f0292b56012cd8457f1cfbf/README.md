@@ -8,8 +8,9 @@ name: Polkamarkets
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4a54db"
+color: "#4851e3"
 icons:
+  - icon.svg
   - icon.png
 ---
 

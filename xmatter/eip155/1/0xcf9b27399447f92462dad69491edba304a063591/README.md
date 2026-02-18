@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MEGA
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#1e4f5d"
 ---

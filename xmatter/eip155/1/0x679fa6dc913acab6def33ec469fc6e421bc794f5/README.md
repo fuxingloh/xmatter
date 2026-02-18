@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BRIBE
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#c79fc2"
 ---

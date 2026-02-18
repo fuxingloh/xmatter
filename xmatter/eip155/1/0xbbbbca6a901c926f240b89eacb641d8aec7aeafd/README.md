@@ -25,8 +25,9 @@ name: Loopring
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#2a63f3"
+color: "#1c44fc"
 icons:
+  - icon.svg
   - icon.png
 ---
 

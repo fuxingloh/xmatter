@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: uDOKI
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#f792c0"
 ---

@@ -8,8 +8,9 @@ name: ETH.limiteD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f4863f"
+color: "#d47ba4"
 icons:
+  - icon.svg
   - icon.png
 ---
 

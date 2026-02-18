@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PERI
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#ececed"
 ---

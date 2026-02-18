@@ -8,8 +8,9 @@ name: SnowSwap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8fafa"
+color: "#10d3cb"
 icons:
+  - icon.svg
   - icon.png
 ---
 

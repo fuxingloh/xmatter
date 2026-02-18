@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: Serum
 decimals: 0
-icons: []
+icons:
+  - icon.png
+color: "#0d0e0d"
 ---

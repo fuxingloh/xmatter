@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ISP
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#3534eb"
 ---

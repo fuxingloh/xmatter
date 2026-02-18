@@ -24,8 +24,9 @@ name: SHOPX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#198b73"
+color: "#0d162d"
 icons:
+  - icon.svg
   - icon.png
 ---
 

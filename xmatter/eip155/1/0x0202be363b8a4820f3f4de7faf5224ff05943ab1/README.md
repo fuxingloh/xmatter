@@ -16,8 +16,9 @@ name: UniLend
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2b6ceb"
+color: "#2a6ae8"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CLS
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#0554f4"
 ---

@@ -8,8 +8,9 @@ name: NEX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0453f2"
+color: "#0442f7"
 icons:
+  - icon.svg
   - icon.png
 ---
 

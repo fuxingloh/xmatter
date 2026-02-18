@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: OPIUM
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#576cce"
 ---

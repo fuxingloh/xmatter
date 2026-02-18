@@ -8,8 +8,9 @@ name: Launchpool
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fcc51c"
+color: "#f88725"
 icons:
+  - icon.svg
   - icon.png
 ---
 

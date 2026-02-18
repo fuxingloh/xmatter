@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ISLA
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#c5c4c1"
 ---

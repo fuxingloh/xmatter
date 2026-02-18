@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: csMATIC
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#8754e1"
 ---

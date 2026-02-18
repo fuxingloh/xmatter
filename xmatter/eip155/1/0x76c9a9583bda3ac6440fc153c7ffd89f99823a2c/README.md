@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PIN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#839cb9"
 ---

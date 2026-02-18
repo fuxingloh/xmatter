@@ -16,5 +16,7 @@ links:
     url: "https://medium.com/meeds-dao"
 symbol: MEED
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e25d5d"
 ---

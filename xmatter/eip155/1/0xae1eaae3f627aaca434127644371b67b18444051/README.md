@@ -8,8 +8,9 @@ name: YOP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#9900ff"
+color: "#ac04fc"
 icons:
+  - icon.svg
   - icon.png
 ---
 

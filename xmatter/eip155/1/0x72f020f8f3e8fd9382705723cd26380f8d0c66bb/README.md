@@ -26,8 +26,9 @@ name: PlotX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04142c"
+color: "#25054d"
 icons:
+  - icon.svg
   - icon.png
 ---
 

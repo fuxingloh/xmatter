@@ -14,8 +14,9 @@ name: Decentr
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#69bcdb"
+color: "#497ae5"
 icons:
+  - icon.svg
   - icon.png
 ---
 

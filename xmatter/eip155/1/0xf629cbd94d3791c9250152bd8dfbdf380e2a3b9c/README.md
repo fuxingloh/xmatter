@@ -27,8 +27,9 @@ name: Enjin Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#38eef8"
+color: "#7c64d4"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -16,5 +16,7 @@ links:
     url: "https://neos.com/"
 symbol: NCR
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#8fd229"
 ---

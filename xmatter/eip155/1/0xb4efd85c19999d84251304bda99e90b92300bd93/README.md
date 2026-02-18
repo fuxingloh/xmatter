@@ -10,7 +10,9 @@ links:
     url: "https://www.rocketpool.net"
 symbol: RPL
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#f7522c"
 ---
 
 Rocket Pool (RPL) is a cryptocurrency and operates on the Ethereum platform. Decentralised Proof of Stake Pool

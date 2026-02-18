@@ -25,8 +25,9 @@ name: Decentraland
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fb334e"
+color: "#fb6362"
 icons:
+  - icon.svg
   - icon.png
 ---
 

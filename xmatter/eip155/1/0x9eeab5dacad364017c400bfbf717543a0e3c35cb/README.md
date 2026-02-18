@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MIGUEL
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d8acc5"
 ---

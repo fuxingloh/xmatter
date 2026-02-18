@@ -8,8 +8,9 @@ name: Cardstack
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#34ec74"
+color: "#35ec75"
 icons:
+  - icon.svg
   - icon.png
 ---
 

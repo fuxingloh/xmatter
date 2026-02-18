@@ -12,8 +12,9 @@ name: Fluid
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2261cf"
+color: "#eeeeee"
 icons:
+  - icon.svg
   - icon.png
 ---
 

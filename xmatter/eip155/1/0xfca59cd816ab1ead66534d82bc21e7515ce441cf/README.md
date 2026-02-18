@@ -10,8 +10,9 @@ name: Rarible
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3578fc"
+color: "#3b7df8"
 icons:
+  - icon.svg
   - icon.png
 ---
 

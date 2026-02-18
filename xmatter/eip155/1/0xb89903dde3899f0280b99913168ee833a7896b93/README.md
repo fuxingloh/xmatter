@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AWS
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#dbdbdb"
 ---

@@ -8,8 +8,9 @@ name: QuadrantProtocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1c1c4c"
+color: "#151d4d"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -8,8 +8,9 @@ name: Pundi X (Old)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1c1c1c"
+color: "#e7c80c"
 icons:
+  - icon.svg
   - icon.png
 ---
 

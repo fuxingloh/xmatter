@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: mUNI
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#f20474"
 ---

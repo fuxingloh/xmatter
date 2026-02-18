@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: IGG
 decimals: 6
-icons: []
+icons:
+  - icon.svg
+color: "#9277fc"
 ---

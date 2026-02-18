@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WNAV
 decimals: 8
-icons: []
+icons:
+  - icon.svg
+color: "#e6e6e6"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CUM
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#f7d104"
 ---

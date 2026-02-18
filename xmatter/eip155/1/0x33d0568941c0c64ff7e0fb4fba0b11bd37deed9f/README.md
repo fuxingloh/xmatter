@@ -14,8 +14,9 @@ name: RAMP DEFI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c4bcbc"
+color: "#eceded"
 icons:
+  - icon.svg
   - icon.png
 ---
 

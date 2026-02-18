@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BAB
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#050606"
 ---

@@ -8,7 +8,8 @@ name: Karma
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e9e6ed"
+color: "#050505"
 icons:
+  - icon.svg
   - icon.png
 ---

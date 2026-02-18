@@ -8,8 +8,9 @@ name: megaBONK
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#988af2"
+color: "#8870ee"
 icons:
+  - icon.svg
   - icon.png
 ---
 

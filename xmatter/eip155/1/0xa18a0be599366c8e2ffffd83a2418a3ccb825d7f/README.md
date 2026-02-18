@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SONG
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#fa6796"
 ---
