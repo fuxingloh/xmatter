@@ -15,6 +15,12 @@ links:
   - name: medium
     url: "https://medium.com/ichifarm"
 name: ICHI
+provenance: "https://github.com/maticnetwork/polygon-token-list"
+standards:
+  - erc20
+icons:
+  - icon.png
+color: "#0468e8"
 ---
 
 The ICHI token is a token built for governing the ICHI DAO.

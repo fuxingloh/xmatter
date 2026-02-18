@@ -1,0 +1,9 @@
+---
+name: SOCIETY OF GALACTIC EXPLORATION
+provenance: "https://github.com/maticnetwork/polygon-token-list"
+standards:
+  - erc20
+symbol: SGE
+decimals: 9
+icons: []
+---
