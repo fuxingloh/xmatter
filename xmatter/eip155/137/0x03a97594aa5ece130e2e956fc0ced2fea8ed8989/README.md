@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AMATICB
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#ecf7f9"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BAT
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#81247a"
 ---

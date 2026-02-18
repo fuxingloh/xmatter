@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PAE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#cac9c9"
 ---

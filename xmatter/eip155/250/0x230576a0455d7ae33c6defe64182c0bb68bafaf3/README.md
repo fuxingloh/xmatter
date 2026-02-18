@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BRO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#06c49d"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: RVF
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fb6d2d"
 ---

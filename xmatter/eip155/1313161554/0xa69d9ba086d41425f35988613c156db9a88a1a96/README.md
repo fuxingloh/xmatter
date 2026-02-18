@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: USP
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#241535"
 ---

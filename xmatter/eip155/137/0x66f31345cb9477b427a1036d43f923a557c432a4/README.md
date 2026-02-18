@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: IUSDS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#b546fc"
 ---

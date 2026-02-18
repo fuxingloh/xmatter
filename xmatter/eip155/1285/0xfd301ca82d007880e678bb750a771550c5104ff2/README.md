@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ANKR
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#245ae5"
 ---

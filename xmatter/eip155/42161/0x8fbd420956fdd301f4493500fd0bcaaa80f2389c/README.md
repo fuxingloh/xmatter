@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AMY
 decimals: 18
-icons: []
+icons:
+  - icon.webp
+color: "#24253c"
 ---

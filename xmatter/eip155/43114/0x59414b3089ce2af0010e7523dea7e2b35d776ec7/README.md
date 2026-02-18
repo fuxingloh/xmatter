@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: YAK
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#04c464"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LAND
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#1b9678"
 ---

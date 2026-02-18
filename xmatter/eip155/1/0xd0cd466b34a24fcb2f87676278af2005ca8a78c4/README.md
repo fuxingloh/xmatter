@@ -13,6 +13,7 @@ standards:
 color: "#070705"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Popcorn is a regenerative yield optimizing protocol with soul.

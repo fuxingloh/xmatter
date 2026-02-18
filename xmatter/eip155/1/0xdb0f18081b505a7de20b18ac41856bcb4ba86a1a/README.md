@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: pWING
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#ac7bff"
 ---

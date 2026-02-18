@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LOCO
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#0e172d"
 ---

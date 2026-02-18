@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DBNB
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#e6d2dd"
 ---

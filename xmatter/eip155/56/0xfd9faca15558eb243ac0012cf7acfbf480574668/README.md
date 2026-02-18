@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MVRS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#dddfe1"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TRY
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#b37c41"
 ---

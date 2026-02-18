@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ecdPTP
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e91134"
 ---

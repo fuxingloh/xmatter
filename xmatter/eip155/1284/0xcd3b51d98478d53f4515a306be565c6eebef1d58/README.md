@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GLINT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#5674dc"
 ---

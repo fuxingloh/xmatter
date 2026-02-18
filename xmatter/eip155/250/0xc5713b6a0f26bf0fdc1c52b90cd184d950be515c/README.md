@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LINSPIRIT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e4e6e6"
 ---

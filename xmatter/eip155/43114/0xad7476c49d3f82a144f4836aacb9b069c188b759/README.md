@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SLD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#402524"
 ---

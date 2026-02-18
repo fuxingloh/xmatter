@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: EARNX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#442c90"
 ---

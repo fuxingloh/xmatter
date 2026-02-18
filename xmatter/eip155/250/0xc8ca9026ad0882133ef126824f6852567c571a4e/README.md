@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MSHARE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#67534d"
 ---

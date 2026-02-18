@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MDO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f6c827"
 ---

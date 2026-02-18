@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ROY
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#646cfc"
 ---

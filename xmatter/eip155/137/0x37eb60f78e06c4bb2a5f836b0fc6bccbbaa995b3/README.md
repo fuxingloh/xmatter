@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HANZO
 decimals: 9
-icons: []
+icons:
+  - icon.jpeg
+color: "#9f220f"
 ---

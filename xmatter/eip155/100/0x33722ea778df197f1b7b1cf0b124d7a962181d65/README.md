@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-19136-TRACE
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#8693a6"
 ---

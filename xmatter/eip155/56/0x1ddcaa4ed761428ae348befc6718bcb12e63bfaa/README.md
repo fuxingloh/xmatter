@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: deUSDC
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#296cc6"
 ---

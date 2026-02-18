@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: RIFI
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#ad9054"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AKITAX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ea4f5b"
 ---

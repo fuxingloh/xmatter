@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MIT
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#c4c4c4"
 ---

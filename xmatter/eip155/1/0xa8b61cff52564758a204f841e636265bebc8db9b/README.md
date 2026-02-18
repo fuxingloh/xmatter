@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: YIELD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#27373e"
 ---

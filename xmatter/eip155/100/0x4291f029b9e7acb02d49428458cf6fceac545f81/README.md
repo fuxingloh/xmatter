@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WATER
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d3e7f6"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TAROT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d6d6d6"
 ---

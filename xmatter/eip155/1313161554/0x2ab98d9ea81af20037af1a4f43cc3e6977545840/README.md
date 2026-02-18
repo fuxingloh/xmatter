@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ATO
 decimals: 16
-icons: []
+icons:
+  - icon.png
+color: "#3e350a"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AHE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#8ce7e5"
 ---

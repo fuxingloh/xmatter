@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FANG
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#04070c"
 ---

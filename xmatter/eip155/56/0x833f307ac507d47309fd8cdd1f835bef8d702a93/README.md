@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REVV
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e2dedd"
 ---

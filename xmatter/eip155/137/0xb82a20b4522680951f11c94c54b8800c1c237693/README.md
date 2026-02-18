@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HONOR
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fb7c3c"
 ---

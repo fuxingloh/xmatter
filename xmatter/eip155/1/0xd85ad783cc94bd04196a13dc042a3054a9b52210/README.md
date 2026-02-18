@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HAKA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#974e9a"
 ---

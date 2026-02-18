@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PENDLE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#1a3a6d"
 ---

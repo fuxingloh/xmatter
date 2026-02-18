@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: IXT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#bdbdbd"
 ---

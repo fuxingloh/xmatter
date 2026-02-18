@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HOOF
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#a27a0a"
 ---

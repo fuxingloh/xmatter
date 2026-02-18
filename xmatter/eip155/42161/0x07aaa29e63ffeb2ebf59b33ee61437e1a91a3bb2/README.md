@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: QSD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fc8b10"
 ---

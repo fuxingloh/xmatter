@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: YTS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#9bc3db"
 ---

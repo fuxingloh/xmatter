@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LUCHA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e4bb3c"
 ---

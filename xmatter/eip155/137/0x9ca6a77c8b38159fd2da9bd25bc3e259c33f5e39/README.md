@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SPORK
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#928dad"
 ---

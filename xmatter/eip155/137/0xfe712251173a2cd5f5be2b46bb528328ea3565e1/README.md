@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MVI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#8eb6e3"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PREMIA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#6cbef5"
 ---

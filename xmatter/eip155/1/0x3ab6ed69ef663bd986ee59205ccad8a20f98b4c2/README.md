@@ -11,6 +11,7 @@ standards:
 color: "#8ea9c0"
 icons:
   - icon.png
+  - icon.jpeg
 ---
 
 DREP is committed to building connectors and toolboxes based on blockchain technology, and aims to provide solutions that combine ease of use, flexibility, and frictionless integration.

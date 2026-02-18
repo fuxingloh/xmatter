@@ -23,6 +23,7 @@ standards:
 color: "#00b090"
 icons:
   - icon.png
+  - icon.jpeg
 ---
 
 Kyber is a blockchain-based liquidity protocol that aggregates liquidity from a wide range of reserves, powering instant and secure token exchange in any decentralized application.

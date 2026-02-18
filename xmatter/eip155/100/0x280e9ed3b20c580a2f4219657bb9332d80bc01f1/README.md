@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-19020-ROSEM
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#b9c4cd"
 ---

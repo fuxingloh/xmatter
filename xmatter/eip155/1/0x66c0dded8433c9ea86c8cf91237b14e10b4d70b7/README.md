@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MARS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d66446"
 ---

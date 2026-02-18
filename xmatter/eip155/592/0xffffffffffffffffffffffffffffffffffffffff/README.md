@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WDOT
 decimals: 16
-icons: []
+icons:
+  - icon.png
+color: "#e6007a"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: $KMC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0cd5f3"
 ---

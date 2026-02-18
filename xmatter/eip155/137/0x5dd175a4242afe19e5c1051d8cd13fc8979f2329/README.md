@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: RVRS
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#373234"
 ---

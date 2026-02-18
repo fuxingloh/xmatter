@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: QUICKCHART
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#9e9ea2"
 ---

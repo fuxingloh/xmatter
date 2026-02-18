@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: oneFUSE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#051c2b"
 ---

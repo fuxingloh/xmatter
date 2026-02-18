@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: RMRK
 decimals: 10
-icons: []
+icons:
+  - icon.png
+color: "#3d2c74"
 ---

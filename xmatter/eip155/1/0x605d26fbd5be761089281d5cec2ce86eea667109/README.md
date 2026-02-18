@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DSU
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e0e0e0"
 ---

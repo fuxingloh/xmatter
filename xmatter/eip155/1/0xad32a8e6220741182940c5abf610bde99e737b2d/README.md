@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DOUGH
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#8e26e1"
 ---

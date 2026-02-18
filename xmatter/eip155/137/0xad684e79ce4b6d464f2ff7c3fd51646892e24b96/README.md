@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NIOX
 decimals: 4
-icons: []
+icons:
+  - icon.png
+color: "#2bc59f"
 ---

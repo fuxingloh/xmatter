@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WRLD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#262c27"
 ---

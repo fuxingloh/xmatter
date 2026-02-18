@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-14882-TROES
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#d8d8d9"
 ---

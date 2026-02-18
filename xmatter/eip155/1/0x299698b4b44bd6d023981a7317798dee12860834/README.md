@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NFP
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#a3ccf4"
 ---

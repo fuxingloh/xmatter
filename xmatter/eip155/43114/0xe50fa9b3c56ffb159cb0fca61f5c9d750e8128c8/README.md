@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AWETH
 decimals: 18
-icons: []
+icons:
+  - icon.webp
+color: "#8379a7"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: VST
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#071727"
 ---

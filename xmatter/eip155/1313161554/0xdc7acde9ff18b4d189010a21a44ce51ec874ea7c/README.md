@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: agEUR
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#d7ceb4"
 ---

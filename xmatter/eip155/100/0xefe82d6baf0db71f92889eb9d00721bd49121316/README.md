@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-4680-BUCKIN
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#756d60"
 ---

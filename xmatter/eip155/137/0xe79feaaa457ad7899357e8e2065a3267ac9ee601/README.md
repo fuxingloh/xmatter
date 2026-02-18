@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WCHI
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#ec2824"
 ---

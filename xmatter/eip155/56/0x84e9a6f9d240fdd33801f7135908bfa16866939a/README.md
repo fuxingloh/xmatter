@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GMEE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#4e6cf7"
 ---

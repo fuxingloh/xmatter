@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AUMI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#9f25a5"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: OMG
 decimals: 18
-icons: []
+icons:
+  - icon.webp
+color: "#151515"
 ---

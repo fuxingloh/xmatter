@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CEL
 decimals: 4
-icons: []
+icons:
+  - icon.png
+color: "#f4973c"
 ---

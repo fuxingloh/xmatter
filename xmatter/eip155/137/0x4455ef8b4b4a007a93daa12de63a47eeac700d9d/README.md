@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KNIGHT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e9a009"
 ---

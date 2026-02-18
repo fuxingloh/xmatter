@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SWAPXI
 decimals: 12
-icons: []
+icons:
+  - icon.png
+color: "#0c2e52"
 ---

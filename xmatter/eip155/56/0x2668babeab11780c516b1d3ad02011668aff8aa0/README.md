@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PRM
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#caa04a"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: IBFR
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#dcf0f8"
 ---

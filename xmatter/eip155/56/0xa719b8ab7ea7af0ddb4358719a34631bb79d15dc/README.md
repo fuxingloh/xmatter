@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FRM
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#dcdbda"
 ---

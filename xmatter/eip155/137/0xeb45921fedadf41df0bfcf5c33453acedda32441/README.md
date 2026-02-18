@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: pZUG
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fbc719"
 ---

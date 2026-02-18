@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WMX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e6c249"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ASTRAFER
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c90e59"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BOMB
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#dec741"
 ---

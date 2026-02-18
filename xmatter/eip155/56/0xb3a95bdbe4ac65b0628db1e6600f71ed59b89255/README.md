@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: UV
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e0e7e8"
 ---

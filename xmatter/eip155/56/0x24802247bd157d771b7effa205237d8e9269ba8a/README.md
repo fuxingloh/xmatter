@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: THC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e7a93b"
 ---

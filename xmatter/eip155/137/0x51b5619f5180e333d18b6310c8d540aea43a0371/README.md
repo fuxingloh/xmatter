@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: VHC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c344b3"
 ---

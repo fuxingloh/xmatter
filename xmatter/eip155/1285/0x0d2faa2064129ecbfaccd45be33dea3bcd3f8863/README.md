@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MARA
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#4d0e69"
 ---

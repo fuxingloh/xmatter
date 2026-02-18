@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FEAR
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#bfbfbf"
 ---

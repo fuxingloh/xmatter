@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CCV2
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#051a28"
 ---

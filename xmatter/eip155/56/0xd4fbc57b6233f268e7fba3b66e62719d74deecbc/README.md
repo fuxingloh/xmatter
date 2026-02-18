@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MOD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#cef1fa"
 ---

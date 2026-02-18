@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ALUSD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ecbe98"
 ---

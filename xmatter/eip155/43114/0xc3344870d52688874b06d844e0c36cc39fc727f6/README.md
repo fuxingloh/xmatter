@@ -33,6 +33,7 @@ standards:
 color: "#fbeb1b"
 icons:
   - icon.png
+  - icon.webp
 ---
 
 ankrAVAX represents your staked AVAX and provides liquidity for your staked position. All staking rewards are built into the token price, and ankrAVAX grows daily in value, but never in number.

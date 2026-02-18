@@ -17,6 +17,7 @@ standards:
 color: "#5c09ee"
 icons:
   - icon.png
+  - icon.jpeg
 ---
 
 Cross-chain prediction market and hedging platform that is pioneering the technology of on-chain liquidity aggregation

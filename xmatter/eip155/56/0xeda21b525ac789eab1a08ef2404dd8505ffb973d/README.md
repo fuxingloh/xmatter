@@ -14,7 +14,9 @@ links:
     url: "https://reddit.com/user/BillionHappiness"
 symbol: HPS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fc8d08"
 ---
 
 HPS is a booster token for BillionHappiness project to support, build the ecosystem, and Develop NFT marketplace. To create, buy, or collect digital items secured with BSC blockchain.

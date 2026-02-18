@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: COVAL
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#625f59"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: APEIN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f8c359"
 ---

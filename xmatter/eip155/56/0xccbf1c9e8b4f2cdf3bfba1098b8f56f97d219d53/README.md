@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ccCLO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f4bc0f"
 ---

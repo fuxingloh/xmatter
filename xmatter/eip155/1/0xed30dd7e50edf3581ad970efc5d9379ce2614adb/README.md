@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ARCX_OLD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#3c3257"
 ---

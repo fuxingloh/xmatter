@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DONUT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c0638f"
 ---

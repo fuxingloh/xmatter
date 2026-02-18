@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: D11
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#eba78d"
 ---

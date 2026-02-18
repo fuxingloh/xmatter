@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BOOTY
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#eeeeee"
 ---

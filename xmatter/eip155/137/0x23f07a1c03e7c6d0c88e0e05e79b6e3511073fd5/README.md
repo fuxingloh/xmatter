@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CDS
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#996818"
 ---

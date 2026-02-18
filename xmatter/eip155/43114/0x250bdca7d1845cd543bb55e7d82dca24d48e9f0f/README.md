@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DCAR
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d1d1d2"
 ---

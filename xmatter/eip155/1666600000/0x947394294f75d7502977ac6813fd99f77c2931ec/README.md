@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ODAO
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#bbbbbb"
 ---

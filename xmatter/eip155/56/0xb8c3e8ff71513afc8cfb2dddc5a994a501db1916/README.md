@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: YON
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fcf0e8"
 ---

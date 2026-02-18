@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SPORE
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#313973"
 ---

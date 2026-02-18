@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: XOT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d4d4d4"
 ---

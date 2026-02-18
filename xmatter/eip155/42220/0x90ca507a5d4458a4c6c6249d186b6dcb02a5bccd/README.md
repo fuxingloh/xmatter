@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DAI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fcb529"
 ---

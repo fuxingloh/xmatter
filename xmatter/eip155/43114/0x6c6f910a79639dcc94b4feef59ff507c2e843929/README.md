@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: aAVAXb
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#046cfc"
 ---

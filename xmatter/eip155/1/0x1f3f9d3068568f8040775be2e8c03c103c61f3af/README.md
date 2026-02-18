@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ARCH
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d9f953"
 ---

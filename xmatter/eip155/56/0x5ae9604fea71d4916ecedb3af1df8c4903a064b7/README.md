@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FACE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#002030"
 ---

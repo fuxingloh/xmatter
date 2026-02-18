@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-17809-CHARE
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#8cb2c5"
 ---

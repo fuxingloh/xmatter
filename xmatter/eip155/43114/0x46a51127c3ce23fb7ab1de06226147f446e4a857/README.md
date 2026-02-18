@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: avUSDC
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#9f67aa"
 ---

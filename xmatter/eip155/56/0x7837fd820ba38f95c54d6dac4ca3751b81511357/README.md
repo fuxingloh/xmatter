@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DOSE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e8d3c1"
 ---

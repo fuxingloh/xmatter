@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GCR
 decimals: 4
-icons: []
+icons:
+  - icon.png
+color: "#244bf3"
 ---

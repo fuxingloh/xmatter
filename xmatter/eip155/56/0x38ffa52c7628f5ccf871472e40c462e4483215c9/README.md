@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SWIRL
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#fc6c0c"
 ---

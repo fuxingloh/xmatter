@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CABO
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#101010"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MIMO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#24242d"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MYOBU
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#bca6d4"
 ---

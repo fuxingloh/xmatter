@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BITCOIN
 decimals: 9
-icons: []
+icons:
+  - icon.jpeg
+color: "#ded1ca"
 ---

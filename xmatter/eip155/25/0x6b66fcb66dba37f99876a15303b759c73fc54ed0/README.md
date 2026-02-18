@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HIBIKI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f9ac42"
 ---

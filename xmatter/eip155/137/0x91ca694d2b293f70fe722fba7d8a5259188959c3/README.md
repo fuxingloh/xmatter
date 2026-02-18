@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MFT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e4d4fc"
 ---

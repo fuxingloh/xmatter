@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: XDSHARE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#adb8ad"
 ---

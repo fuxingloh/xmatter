@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: VERSE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#dc7714"
 ---

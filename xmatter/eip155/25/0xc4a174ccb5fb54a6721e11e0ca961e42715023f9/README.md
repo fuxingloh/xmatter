@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CROGE
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#137427"
 ---

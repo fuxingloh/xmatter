@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AAAVE
 decimals: 18
-icons: []
+icons:
+  - icon.webp
+color: "#866db7"
 ---

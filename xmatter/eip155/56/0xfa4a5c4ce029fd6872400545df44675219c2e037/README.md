@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KPHI
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#faf4df"
 ---

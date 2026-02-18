@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KAE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#061b17"
 ---

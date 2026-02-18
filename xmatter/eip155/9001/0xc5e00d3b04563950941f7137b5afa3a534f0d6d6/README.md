@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ATOM
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#2c334a"
 ---

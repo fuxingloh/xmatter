@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: XUSD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c34d96"
 ---

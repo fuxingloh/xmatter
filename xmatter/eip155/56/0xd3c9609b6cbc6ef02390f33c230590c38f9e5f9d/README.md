@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PROT
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#d9a381"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BETA
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#b693bc"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DGMV
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#112044"
 ---

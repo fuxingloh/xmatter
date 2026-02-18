@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FAT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c5fbf1"
 ---

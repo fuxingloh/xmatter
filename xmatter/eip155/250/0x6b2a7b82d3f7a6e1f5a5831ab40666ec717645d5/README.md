@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WATERFALL
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#1b2b2b"
 ---

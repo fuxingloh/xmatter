@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MONEY
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#55b2c4"
 ---

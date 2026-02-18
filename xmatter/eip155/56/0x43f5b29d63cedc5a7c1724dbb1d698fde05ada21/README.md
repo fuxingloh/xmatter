@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FODL
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fc685d"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WSTKSM
 decimals: 12
-icons: []
+icons:
+  - icon.png
+color: "#04a4fc"
 ---

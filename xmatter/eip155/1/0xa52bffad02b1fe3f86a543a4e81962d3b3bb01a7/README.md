@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DUCKER
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e3cd77"
 ---

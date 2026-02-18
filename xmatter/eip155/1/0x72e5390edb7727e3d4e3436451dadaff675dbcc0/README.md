@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HANU
 decimals: 12
-icons: []
+icons:
+  - icon.png
+color: "#38d58d"
 ---

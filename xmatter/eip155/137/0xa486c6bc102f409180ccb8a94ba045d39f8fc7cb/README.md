@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NEX
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#04b3fb"
 ---

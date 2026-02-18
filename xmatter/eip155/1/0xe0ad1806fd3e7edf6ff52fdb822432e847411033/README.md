@@ -7,5 +7,6 @@ symbol: ONX
 decimals: 18
 icons:
   - icon.svg
+  - icon.png
 color: "#d9b73b"
 ---

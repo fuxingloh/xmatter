@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FAME
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#148eda"
 ---

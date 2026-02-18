@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CERBY
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0e2146"
 ---

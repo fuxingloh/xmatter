@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FXUSD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#cfd4c4"
 ---

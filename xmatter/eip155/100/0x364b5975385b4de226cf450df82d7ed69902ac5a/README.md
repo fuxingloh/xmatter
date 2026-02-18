@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TORG
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0c5cfc"
 ---

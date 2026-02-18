@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TETU
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#5b5b9c"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: IRON
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#341c14"
 ---

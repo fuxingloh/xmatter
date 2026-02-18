@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PYD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#8444e4"
 ---

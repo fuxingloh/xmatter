@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BRE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#9be91e"
 ---

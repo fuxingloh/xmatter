@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ACRV
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#2ea8d1"
 ---

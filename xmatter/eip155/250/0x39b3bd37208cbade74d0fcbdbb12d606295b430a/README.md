@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GFTM
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#55b0df"
 ---

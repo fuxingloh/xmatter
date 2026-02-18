@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DEER
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#06f01c"
 ---

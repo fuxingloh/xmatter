@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: VRX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#cbc8de"
 ---

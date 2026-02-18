@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GRIMEVO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#521c2a"
 ---

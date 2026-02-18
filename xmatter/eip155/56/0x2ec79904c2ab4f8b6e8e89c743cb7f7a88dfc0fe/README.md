@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ALTS
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#2d2d2d"
 ---

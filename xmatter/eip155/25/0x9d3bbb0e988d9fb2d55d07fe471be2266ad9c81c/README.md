@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SKY
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#159cfc"
 ---

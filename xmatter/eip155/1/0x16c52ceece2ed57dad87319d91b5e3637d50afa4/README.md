@@ -7,5 +7,6 @@ symbol: TCAP
 decimals: 18
 icons:
   - icon.svg
+  - icon.png
 color: "#1d1d3d"
 ---

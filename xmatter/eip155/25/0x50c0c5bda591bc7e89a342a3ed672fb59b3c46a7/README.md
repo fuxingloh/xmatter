@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MMO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#352d35"
 ---

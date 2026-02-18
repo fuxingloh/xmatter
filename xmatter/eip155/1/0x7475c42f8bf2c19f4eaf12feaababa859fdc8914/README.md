@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ACCEL
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#b5b5b5"
 ---

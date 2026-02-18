@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SOLACE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e79aa6"
 ---

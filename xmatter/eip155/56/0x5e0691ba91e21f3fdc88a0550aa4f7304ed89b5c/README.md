@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DGCL
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#06067c"
 ---

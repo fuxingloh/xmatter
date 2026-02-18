@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ACYC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#776ef6"
 ---

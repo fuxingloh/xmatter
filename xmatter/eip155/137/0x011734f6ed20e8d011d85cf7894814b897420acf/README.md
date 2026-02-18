@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ACRE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c5cdc7"
 ---

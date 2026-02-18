@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ETH2x-FLI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#460580"
 ---

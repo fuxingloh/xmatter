@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PNT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ef6261"
 ---

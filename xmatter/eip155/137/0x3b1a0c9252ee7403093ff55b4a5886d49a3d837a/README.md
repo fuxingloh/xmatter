@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: UM
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#5b3010"
 ---

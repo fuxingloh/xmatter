@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MCRT
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#cdc7de"
 ---

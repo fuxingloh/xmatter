@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GFARM2
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#bad8ed"
 ---

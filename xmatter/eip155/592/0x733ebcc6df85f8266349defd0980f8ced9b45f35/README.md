@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BAI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#101006"
 ---

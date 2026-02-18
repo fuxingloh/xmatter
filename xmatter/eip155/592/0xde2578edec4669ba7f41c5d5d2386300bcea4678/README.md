@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ARSW
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#17c5e0"
 ---

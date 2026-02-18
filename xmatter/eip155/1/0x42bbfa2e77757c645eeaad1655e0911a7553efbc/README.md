@@ -13,6 +13,7 @@ standards:
 color: "#5f6f3f"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Boba is an Ethereum L2 optimistic rollup

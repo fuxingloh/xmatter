@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HON
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#aa7cd2"
 ---

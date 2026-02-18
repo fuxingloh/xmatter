@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CRE8
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#08d2e5"
 ---

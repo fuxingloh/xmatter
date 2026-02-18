@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PIZZA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#a83f36"
 ---

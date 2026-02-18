@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AMWMATIC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#b172af"
 ---

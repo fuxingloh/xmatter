@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SNOB
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#46c4fc"
 ---

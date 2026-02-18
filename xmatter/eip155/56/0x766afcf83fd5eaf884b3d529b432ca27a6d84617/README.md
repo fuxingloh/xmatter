@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BLID
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#14242c"
 ---

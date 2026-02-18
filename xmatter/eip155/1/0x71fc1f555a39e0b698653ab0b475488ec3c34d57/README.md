@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: RAIN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#8289ae"
 ---

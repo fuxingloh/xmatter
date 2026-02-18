@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BORING
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0473e4"
 ---

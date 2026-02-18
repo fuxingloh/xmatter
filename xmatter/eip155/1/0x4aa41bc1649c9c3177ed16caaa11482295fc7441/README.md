@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: XFIT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fc307b"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AMUSDT
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#54aa98"
 ---

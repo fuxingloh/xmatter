@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LUNR
 decimals: 4
-icons: []
+icons:
+  - icon.png
+color: "#11cca4"
 ---

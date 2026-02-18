@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: OH
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#daf2fa"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: VRGW
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ce7f1d"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: RVZ
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#060504"
 ---

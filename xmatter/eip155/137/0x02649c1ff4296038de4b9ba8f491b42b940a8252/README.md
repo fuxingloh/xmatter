@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: XGEM
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fbf5e5"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AXIAL
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#1f1e53"
 ---

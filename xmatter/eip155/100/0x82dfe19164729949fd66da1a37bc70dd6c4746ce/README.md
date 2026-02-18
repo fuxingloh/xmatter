@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BAO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#613a2b"
 ---

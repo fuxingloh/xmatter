@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MON
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f0f0f0"
 ---

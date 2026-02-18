@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WNT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d5ae0b"
 ---

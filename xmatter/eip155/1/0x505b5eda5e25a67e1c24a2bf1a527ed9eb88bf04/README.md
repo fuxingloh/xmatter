@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CWEB
 decimals: 18
-icons: []
+icons:
+  - icon.webp
+color: "#04a5fb"
 ---

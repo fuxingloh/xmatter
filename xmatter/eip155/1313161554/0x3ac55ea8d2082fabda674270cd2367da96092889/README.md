@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ORBITAL
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#251533"
 ---

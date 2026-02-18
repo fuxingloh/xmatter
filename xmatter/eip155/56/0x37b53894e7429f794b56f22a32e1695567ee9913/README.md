@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KRS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fb9904"
 ---

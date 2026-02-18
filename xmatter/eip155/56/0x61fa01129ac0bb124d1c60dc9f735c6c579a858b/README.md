@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KTE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#b8b1b6"
 ---

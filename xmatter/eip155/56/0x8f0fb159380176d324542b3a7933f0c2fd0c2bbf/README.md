@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TFT
 decimals: 7
-icons: []
+icons:
+  - icon.png
+color: "#dddfe0"
 ---

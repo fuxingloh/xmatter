@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: VSO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#3c8ce4"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: COMB
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#eec62a"
 ---

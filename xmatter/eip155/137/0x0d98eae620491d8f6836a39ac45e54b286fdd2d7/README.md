@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SPROCKET
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fa6455"
 ---

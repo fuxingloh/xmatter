@@ -16,6 +16,7 @@ symbol: MAHA
 decimals: 18
 icons:
   - icon.svg
+  - icon.png
 color: "#e93643"
 ---
 

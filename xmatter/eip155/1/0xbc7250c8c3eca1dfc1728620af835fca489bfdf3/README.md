@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GM
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#56608b"
 ---

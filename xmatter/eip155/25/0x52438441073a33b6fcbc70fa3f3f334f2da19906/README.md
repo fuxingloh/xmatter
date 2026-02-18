@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PHNX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f9dad4"
 ---

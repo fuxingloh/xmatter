@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ARBIS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f5c9cb"
 ---

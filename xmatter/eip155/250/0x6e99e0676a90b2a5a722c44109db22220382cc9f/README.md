@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: EXC
 decimals: 18
-icons: []
+icons:
+  - icon.webp
+color: "#141413"
 ---

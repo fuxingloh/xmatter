@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TUS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e16b04"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MEMELON
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c4d2c4"
 ---

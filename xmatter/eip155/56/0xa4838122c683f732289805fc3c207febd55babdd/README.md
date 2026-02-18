@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TRIAS
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#52c6cd"
 ---

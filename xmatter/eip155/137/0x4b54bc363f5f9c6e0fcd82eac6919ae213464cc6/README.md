@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BTC2x-FLI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#450480"
 ---

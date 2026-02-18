@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DDAO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#374192"
 ---

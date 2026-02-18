@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FST
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#5c7df5"
 ---

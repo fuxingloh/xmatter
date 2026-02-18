@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ESHARE
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#0b0d19"
 ---

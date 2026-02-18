@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MILK2
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#08118d"
 ---

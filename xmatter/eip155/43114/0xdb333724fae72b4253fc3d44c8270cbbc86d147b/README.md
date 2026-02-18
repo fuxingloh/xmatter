@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CABAG
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#71ae4c"
 ---

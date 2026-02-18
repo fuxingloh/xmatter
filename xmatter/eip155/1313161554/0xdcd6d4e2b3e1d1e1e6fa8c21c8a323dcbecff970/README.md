@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ROSE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#192b15"
 ---

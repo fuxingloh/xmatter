@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CHOPPER
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#ce427d"
 ---

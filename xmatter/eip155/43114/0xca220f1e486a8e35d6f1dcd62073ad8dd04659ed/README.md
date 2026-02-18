@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GLDB
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#d2b078"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: YDR
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e2483c"
 ---

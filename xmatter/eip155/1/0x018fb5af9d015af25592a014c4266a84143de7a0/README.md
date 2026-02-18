@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MP3
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#b57a87"
 ---

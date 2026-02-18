@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: EROWAN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f7cf1d"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DVF
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#7435fc"
 ---

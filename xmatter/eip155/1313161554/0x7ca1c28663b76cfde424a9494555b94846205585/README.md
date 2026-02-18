@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: XNL
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#04e4cb"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: mOCEAN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#b6b6b6"
 ---

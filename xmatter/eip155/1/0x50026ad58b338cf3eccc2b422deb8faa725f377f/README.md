@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: STEP
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#d8e3f9"
 ---

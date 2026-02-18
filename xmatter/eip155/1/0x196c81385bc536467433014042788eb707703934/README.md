@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CTASK
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#5dd474"
 ---

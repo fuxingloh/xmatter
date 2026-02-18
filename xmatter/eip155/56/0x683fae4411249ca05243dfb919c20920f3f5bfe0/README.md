@@ -26,7 +26,9 @@ links:
     url: "https://youtube.com/channel/UC0XEhzirmXN0AZQIhoR_Vzg"
 symbol: GHC
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#131313"
 ---
 
 Galaxy Heroes Coin is more than just a token. It will have a never seen before NFT platform and gaming app. Be a hero, a Galaxy Hero!

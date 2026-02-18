@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: YETI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#1f7ec1"
 ---

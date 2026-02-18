@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MNTL
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#fcf8e8"
 ---

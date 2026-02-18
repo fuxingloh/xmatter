@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: pCELO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#afa5f8"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HOOP
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#3588f5"
 ---

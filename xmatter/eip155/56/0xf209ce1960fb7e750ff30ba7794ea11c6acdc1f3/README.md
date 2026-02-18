@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GFN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e4547c"
 ---

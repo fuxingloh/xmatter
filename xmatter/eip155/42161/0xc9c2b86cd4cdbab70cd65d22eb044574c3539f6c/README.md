@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NFD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c08704"
 ---

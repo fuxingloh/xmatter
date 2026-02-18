@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CRF
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#a2d7fc"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NSDX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#051e36"
 ---

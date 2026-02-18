@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-11653-NOTTI
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#9d9b8c"
 ---

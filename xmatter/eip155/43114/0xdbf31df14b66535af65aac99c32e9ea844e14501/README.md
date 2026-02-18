@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: renBTC
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#848c8c"
 ---

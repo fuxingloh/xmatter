@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: XMON
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#4f9683"
 ---

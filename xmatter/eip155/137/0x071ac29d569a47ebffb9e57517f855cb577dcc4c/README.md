@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GCOIN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#041424"
 ---

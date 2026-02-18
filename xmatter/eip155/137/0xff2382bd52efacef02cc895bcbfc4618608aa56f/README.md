@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ORARE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c6c6c6"
 ---

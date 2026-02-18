@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TOK
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#0abeea"
 ---

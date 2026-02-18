@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SING
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#5c5c5c"
 ---

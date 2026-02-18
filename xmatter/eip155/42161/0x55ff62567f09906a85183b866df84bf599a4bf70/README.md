@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KROM
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#b0c9f9"
 ---

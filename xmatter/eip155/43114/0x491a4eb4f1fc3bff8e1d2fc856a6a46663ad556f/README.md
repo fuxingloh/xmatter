@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BRZ
 decimals: 4
-icons: []
+icons:
+  - icon.png
+color: "#d6d218"
 ---

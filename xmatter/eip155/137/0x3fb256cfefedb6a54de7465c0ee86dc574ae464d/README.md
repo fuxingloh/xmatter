@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: EMT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#4eb9b9"
 ---

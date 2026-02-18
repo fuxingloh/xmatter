@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REACT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f68611"
 ---

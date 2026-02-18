@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CARBON
 decimals: 18
-icons: []
+icons:
+  - icon.webp
+color: "#8999b5"
 ---

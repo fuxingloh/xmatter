@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: cBSN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#3d86f8"
 ---

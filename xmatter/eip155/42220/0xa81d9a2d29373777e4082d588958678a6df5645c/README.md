@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KNX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f80048"
 ---

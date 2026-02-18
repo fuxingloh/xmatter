@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: RIVRSHIBA
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#750d3b"
 ---

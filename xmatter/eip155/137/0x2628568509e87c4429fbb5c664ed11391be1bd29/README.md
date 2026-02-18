@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: renDGB
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#0464cc"
 ---

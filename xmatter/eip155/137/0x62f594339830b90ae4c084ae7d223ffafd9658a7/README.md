@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SPHERE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#dc3978"
 ---

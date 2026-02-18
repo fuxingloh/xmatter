@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FIN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#04a4f4"
 ---

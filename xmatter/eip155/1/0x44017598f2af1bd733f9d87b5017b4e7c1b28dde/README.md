@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: STKATOM
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#20243b"
 ---

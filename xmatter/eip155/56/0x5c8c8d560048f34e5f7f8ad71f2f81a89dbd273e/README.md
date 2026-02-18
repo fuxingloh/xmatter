@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CART
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#5d5a85"
 ---

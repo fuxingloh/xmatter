@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CYC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#cdf6f5"
 ---

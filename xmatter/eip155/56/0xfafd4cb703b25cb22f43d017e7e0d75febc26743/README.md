@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WEYU
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#dbdef4"
 ---

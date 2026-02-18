@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KALLY
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f2e3eb"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MAXI
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#d9d9d9"
 ---

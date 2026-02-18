@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CYT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#df4424"
 ---

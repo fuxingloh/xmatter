@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BIOFI
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#377885"
 ---

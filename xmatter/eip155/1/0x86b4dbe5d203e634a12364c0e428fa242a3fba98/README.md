@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GBPT
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#e4f8f1"
 ---

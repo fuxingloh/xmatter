@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TFBX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#4d483a"
 ---

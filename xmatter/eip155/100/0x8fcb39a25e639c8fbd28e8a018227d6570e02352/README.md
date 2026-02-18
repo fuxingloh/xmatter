@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-1815-SAVERS
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#566d4c"
 ---

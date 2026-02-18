@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-20200-LESUR
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#95987e"
 ---

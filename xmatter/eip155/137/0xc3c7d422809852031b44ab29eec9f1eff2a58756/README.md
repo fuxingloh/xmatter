@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LDO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fab59d"
 ---

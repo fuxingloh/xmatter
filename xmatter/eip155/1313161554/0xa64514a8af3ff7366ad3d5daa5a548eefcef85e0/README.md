@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: YFI
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#046ce4"
 ---

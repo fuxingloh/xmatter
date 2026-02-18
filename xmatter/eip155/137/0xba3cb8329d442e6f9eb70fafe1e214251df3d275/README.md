@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SWASH
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#3ce45c"
 ---

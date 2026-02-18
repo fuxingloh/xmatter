@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BFG
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f0d976"
 ---

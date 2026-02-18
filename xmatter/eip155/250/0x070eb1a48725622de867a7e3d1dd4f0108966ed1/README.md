@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: POOP
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e40c88"
 ---

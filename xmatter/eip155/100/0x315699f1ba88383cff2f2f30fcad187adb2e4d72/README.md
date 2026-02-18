@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-14078-CARLI
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#949281"
 ---

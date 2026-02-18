@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: POOF
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f3f2f4"
 ---

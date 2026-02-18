@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SATA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#489e3c"
 ---

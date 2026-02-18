@@ -21,6 +21,7 @@ standards:
 color: "#c1b29d"
 icons:
   - icon.png
+  - icon.jpeg
 ---
 
 Kaby Arena is a tactical multiplayer role playing game which combines Free-to-Play and Play-to-Earn to provide an open economy for every player

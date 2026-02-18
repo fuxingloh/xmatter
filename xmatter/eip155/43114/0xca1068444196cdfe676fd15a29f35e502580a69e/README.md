@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ANTG
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ec4a4a"
 ---

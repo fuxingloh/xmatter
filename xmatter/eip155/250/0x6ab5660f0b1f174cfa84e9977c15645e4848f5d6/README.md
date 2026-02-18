@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GSCARAB
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d7952a"
 ---

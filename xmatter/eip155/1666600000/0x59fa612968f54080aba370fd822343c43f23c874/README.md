@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WARU
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#44e4a4"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: UWL
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#dce4f4"
 ---

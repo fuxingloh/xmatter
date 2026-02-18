@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: EUX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d9d9dc"
 ---

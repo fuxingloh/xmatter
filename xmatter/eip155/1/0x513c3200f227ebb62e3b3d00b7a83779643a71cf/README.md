@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LIFT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fc7763"
 ---

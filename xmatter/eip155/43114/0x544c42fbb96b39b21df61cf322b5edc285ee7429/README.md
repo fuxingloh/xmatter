@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: INSUR
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#73bb4a"
 ---

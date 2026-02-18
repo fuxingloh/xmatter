@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: VSP
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#463e9e"
 ---

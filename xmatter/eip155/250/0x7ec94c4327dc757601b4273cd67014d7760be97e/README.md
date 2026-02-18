@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GRIM
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#21131d"
 ---

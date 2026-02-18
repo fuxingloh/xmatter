@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CHT
 decimals: 9
-icons: []
+icons:
+  - icon.jpeg
+color: "#715e18"
 ---

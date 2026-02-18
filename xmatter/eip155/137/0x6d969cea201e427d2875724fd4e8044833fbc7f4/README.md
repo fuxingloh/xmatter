@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PHBD
 decimals: 3
-icons: []
+icons:
+  - icon.png
+color: "#dee4dd"
 ---

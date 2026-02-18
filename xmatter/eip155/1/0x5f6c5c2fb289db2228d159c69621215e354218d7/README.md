@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DMOD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#dd50eb"
 ---

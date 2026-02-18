@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DON
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d6ab72"
 ---

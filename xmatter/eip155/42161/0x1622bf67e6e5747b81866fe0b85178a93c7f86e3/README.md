@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: UMAMI
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#050505"
 ---

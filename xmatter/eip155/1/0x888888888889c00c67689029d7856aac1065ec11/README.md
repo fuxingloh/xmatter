@@ -7,5 +7,6 @@ symbol: OPIUM
 decimals: 18
 icons:
   - icon.svg
+  - icon.png
 color: "#576cce"
 ---

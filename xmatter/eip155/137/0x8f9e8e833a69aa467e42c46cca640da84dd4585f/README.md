@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CHAMP
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#fb0443"
 ---

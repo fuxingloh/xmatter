@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FINN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#def1f9"
 ---

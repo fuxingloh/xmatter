@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ROCK
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#a25b46"
 ---

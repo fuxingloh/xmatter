@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MESH
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#7f50dd"
 ---

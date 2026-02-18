@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: RUG
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#9b99b1"
 ---

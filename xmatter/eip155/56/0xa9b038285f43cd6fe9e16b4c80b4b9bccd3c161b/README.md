@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#382f7e"
 ---

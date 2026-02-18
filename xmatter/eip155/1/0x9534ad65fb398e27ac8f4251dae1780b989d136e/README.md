@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PYR
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f59725"
 ---

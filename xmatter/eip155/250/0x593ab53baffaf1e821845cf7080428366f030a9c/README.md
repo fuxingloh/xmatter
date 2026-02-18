@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: COFFIN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#5464bc"
 ---

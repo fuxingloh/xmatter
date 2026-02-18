@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CLA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#379761"
 ---

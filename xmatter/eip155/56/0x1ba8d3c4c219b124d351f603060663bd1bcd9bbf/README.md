@@ -19,6 +19,7 @@ standards:
 color: "#040404"
 icons:
   - icon.png
+  - icon.jpeg
 ---
 
 Tornado Cash is a fully decentralized protocol for private transactions on Ethereum.

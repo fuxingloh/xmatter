@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SOLIDSEX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d78dbf"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: RUNE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#bebdc2"
 ---

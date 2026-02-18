@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ARVAULT
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#84a0b6"
 ---

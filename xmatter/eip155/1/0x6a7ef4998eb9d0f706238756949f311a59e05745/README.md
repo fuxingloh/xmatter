@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KEN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f7f5f7"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: nNECC
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#1a4d90"
 ---

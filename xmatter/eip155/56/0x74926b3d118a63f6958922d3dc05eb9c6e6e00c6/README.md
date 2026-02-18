@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DOGGY
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e2b989"
 ---

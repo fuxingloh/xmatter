@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CANU
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f4f4f4"
 ---

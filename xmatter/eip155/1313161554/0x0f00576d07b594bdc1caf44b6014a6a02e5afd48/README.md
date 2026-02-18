@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SOL
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#53abc5"
 ---

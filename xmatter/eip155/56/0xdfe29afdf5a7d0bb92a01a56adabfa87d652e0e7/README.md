@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: OPT
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#d6dfeb"
 ---

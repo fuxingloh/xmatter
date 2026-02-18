@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GOVI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d6e6f2"
 ---

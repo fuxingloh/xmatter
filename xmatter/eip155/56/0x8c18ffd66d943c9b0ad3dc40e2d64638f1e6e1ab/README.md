@@ -5,5 +5,6 @@ standards:
   - erc20
 symbol: HER
 decimals: 9
-icons: []
+icons:
+  - icon.png
 ---

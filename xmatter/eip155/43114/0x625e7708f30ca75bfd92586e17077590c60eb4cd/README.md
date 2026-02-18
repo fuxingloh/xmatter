@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AUSDC
 decimals: 6
-icons: []
+icons:
+  - icon.webp
+color: "#2b74ca"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: sCELO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fccb5b"
 ---

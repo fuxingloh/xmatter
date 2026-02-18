@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: RENFIL
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#b3bdc5"
 ---

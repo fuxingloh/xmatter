@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FOMOETH
 decimals: 9
-icons: []
+icons:
+  - icon.jpeg
+color: "#0b0d1c"
 ---

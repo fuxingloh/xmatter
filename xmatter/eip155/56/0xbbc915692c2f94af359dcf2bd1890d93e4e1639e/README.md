@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FINU
 decimals: 4
-icons: []
+icons:
+  - icon.png
+color: "#e8e1de"
 ---

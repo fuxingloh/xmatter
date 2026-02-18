@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FLUX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#2c64d4"
 ---

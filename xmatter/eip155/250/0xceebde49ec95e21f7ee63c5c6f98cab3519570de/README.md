@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WSTA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#05baf0"
 ---

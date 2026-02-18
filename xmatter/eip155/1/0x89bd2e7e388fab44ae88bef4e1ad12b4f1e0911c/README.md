@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NUX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f35424"
 ---

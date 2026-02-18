@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MEDIA
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#06060b"
 ---

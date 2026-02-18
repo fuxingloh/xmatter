@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: UNLOCK
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#464647"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GOHM
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#82999f"
 ---

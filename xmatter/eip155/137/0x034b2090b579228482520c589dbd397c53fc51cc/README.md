@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: VISION
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#b010d4"
 ---

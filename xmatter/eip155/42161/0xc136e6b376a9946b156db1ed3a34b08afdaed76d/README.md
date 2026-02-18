@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CREDA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#4071fc"
 ---

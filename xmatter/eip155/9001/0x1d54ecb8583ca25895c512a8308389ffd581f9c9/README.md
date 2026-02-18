@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: G-WBTC
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#1a3279"
 ---

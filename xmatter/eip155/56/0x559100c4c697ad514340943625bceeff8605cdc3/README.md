@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LOCK
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#161616"
 ---

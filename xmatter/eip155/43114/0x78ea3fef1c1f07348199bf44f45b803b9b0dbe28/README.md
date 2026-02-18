@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FLY
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d1c6d7"
 ---

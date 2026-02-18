@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-15350-GREYD
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#aa9f96"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HONEY
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#d3cfce"
 ---

@@ -8,7 +8,9 @@ links:
     url: "https://www.ryoshitoken.com"
 symbol: RYOSHI
 decimals: 9
-icons: []
+icons:
+  - icon.jpeg
+color: "#2b271f"
 ---
 
 Ryoshi is a deflationary, community driven meme token that came to take over the meme game. With 10% burn from every transaction that decreases the supply and increases the demand you can kick back and watch your RYOSHI value grow.

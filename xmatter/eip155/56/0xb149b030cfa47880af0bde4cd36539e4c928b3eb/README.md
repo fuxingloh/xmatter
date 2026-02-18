@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NUTGV2
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#f1e3d7"
 ---

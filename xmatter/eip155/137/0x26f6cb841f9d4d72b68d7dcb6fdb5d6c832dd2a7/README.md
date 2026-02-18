@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SAFU
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#acb9c5"
 ---

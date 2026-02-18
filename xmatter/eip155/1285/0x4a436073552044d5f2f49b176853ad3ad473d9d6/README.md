@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ROME
 decimals: 9
-icons: []
+icons:
+  - icon.jpeg
+color: "#bc1f3d"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TSX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#162949"
 ---

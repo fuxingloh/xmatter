@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: VLX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0434c4"
 ---

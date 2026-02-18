@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: G-USDT
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#3ebda0"
 ---

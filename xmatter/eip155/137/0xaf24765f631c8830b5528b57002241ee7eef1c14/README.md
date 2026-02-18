@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: IOI
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#111111"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REGEN
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#ccead6"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: STELLA
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#48184b"
 ---

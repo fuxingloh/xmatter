@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: EMPYR
 decimals: 9
-icons: []
+icons:
+  - icon.svg
+color: "#050504"
 ---

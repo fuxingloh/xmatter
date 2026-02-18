@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KLO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#22c4e3"
 ---

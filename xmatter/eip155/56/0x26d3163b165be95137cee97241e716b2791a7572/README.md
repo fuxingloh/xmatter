@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DSHARE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c4c4c4"
 ---

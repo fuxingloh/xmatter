@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LEAG
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#272738"
 ---

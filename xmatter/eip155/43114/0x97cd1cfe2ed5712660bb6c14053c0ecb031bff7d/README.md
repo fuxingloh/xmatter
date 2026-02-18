@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: RAI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#1d2a2a"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CRK
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#dfbb00"
 ---

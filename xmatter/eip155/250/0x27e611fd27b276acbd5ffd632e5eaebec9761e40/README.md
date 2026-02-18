@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DAI+USDC
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#e9eae8"
 ---

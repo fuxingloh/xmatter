@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KAI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#aa232f"
 ---

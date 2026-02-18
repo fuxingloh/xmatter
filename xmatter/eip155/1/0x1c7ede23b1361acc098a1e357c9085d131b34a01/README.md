@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SHN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#070707"
 ---

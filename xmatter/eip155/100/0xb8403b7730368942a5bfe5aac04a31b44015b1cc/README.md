@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-11078-WAYBU
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#b3bdc2"
 ---

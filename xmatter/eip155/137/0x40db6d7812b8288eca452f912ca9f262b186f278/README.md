@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GREEN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#cdd8e5"
 ---

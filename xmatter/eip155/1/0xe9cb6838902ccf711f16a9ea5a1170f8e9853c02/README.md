@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: STRIP
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#dba01e"
 ---

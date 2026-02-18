@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SPG
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#342a72"
 ---

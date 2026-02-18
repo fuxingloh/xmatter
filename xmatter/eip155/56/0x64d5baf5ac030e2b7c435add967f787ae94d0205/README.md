@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GTON
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#141424"
 ---

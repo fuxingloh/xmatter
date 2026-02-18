@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: META
 decimals: 24
-icons: []
+icons:
+  - icon.svg
+color: "#0e2643"
 ---

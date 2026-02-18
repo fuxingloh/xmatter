@@ -30,7 +30,9 @@ links:
     url: "https://coingecko.com/en/coins/qanplatform"
 symbol: QANX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#9c9c9c"
 ---
 
 QANX is the utility token of QAN Platform.

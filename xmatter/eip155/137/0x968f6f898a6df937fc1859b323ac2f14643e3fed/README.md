@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NWC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#cae3f3"
 ---

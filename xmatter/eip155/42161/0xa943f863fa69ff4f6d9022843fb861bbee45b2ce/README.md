@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TNGL
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#fc24ae"
 ---

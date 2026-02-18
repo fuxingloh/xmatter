@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ibBTC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fba404"
 ---

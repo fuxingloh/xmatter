@@ -12,6 +12,7 @@ color: "#e17baa"
 icons:
   - icon.svg
   - icon.png
+  - icon.jpeg
 ---
 
 Sanshu Inu is a community-focused decentralized transaction network

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: YGG
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#08080a"
 ---

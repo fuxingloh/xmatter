@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: Z2O
 decimals: 9
-icons: []
+icons:
+  - icon.jpeg
+color: "#ede0e0"
 ---

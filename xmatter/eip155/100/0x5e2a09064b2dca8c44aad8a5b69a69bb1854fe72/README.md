@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-11201-COLLE
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#dedddd"
 ---

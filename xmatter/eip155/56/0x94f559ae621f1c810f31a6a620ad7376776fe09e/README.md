@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SOUP
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ab2112"
 ---

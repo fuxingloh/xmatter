@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AXLWETH
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#b6b4b7"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: VERSA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#212270"
 ---

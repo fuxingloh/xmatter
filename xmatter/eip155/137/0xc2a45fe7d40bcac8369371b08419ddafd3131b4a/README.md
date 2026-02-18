@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LCD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#241c2c"
 ---

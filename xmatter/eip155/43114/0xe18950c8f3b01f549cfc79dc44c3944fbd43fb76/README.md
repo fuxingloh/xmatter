@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ICY
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#c2e1f0"
 ---

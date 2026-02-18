@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CHP
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#cb354d"
 ---

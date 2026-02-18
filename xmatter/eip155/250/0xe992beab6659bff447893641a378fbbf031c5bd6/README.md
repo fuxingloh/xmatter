@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WIGO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#344cf4"
 ---

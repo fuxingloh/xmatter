@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MAIR
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#7cc449"
 ---

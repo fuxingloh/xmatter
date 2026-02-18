@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: zUSD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#042c6b"
 ---

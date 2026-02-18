@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BANANA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fcf4e3"
 ---

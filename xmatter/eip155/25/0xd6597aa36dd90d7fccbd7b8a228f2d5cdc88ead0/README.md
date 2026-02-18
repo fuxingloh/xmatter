@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TIGER
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#845b4b"
 ---

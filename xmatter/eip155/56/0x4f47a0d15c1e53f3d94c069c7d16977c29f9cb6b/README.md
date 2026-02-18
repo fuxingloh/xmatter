@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: RAMEN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#4d3f34"
 ---

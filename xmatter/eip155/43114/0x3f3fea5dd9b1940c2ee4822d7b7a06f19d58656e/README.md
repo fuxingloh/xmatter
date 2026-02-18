@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AVAPAY
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#ff423f"
 ---

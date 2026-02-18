@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: VRN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#10122f"
 ---

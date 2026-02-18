@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SCA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e59140"
 ---

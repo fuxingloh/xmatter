@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: cXOF
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#196acb"
 ---

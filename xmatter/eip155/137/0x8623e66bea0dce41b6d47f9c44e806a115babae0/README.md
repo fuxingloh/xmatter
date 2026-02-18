@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NFTY
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f3c32a"
 ---

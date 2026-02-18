@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: IRIS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#6aa7af"
 ---

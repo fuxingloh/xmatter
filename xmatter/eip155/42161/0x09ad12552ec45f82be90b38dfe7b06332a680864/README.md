@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ARBY
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#647968"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WOW
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e2ae2a"
 ---

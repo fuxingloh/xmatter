@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: POWER
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ae8022"
 ---

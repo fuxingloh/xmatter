@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-18433-FAUST
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#6a7c3c"
 ---

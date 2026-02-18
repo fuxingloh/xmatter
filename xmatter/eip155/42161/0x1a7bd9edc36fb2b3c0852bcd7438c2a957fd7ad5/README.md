@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: aMoon
 decimals: 9
-icons: []
+icons:
+  - icon.jpeg
+color: "#1b170a"
 ---

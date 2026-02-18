@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LINEAR
 decimals: 24
-icons: []
+icons:
+  - icon.svg
+color: "#4b82cc"
 ---

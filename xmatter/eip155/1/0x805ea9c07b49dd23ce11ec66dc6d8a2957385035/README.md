@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TSCT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ddf1fc"
 ---

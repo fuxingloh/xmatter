@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MMF
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#403731"
 ---

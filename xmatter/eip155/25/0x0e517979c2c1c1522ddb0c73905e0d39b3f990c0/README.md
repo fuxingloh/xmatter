@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WADA
 decimals: 6
-icons: []
+icons:
+  - icon.svg
+color: "#0033ad"
 ---

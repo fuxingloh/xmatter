@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KUN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fc8c12"
 ---

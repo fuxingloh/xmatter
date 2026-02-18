@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WNEAR
 decimals: 24
-icons: []
+icons:
+  - icon.png
+color: "#060607"
 ---

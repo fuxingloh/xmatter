@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SHIBLI
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#f4b169"
 ---

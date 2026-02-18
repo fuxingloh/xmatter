@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REUM
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#7a40a0"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TANGO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0b0d0f"
 ---

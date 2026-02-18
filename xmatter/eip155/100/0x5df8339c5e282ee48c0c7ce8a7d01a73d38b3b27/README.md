@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TEC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0e0c14"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: USD+
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#bfc5d3"
 ---

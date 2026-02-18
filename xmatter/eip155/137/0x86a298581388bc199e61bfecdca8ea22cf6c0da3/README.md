@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DELOT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#eff0f8"
 ---

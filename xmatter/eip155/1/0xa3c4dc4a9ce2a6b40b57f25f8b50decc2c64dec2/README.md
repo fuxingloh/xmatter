@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SNFT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#faca1d"
 ---

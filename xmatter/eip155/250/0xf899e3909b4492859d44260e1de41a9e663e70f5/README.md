@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: RADIO
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#f9ece4"
 ---

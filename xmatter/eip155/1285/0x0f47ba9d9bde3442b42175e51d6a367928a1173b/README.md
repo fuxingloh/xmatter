@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ZLK
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#373737"
 ---

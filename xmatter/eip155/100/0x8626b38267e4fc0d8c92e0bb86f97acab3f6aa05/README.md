@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REALT-S-10604-SOMER
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#8f805d"
 ---

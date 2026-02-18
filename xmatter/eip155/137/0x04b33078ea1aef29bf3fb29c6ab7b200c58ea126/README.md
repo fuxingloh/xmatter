@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SAFLE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#92cefc"
 ---

@@ -22,7 +22,9 @@ links:
     url: "https://coingecko.com/en/coins/shibnobi"
 symbol: SHINJA
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#040404"
 ---
 
 SHIBNOBI is a community-driven token / platform that wants to develop a cross-chain token swap for the next generation of investors and make crypto simple and safe for everyone.

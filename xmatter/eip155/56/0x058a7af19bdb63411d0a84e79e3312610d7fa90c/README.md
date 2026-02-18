@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: JED
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#595a5b"
 ---

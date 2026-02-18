@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KEK
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#101314"
 ---

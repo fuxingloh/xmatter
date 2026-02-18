@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LSHARE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#af8b65"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HVILLE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#84c4e6"
 ---

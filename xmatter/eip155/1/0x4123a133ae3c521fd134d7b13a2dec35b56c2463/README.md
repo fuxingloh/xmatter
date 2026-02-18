@@ -33,6 +33,7 @@ standards:
 color: "#040404"
 icons:
   - icon.png
+  - icon.webp
 ---
 
 Open Custody Protocol brings an omnichain primitive for modular custody.

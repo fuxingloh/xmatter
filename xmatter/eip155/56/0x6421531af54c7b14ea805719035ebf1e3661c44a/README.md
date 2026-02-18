@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BLEO
 decimals: 3
-icons: []
+icons:
+  - icon.png
+color: "#150d04"
 ---

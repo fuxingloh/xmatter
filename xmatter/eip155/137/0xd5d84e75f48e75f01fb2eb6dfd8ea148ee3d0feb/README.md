@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PGOV
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f39277"
 ---

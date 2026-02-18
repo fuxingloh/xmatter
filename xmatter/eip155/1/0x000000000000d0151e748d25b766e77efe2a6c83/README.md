@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: XDEX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#201b8e"
 ---

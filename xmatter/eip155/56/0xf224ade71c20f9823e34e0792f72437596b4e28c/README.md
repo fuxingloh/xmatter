@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SHIBO
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#cf2c16"
 ---

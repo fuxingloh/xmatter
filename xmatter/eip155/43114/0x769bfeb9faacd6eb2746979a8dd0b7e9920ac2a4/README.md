@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ZJOE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#6366c6"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CXETH
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ede6f1"
 ---

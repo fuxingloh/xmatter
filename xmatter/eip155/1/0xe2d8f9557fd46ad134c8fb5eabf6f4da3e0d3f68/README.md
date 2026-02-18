@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ETHBTCMOON
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#7dd675"
 ---

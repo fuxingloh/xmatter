@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: JJPY
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e1899c"
 ---

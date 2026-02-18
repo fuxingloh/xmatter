@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ALPA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fc7b57"
 ---

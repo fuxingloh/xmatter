@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MUSD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ccd6e3"
 ---

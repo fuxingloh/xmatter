@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: UNO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#1a2231"
 ---

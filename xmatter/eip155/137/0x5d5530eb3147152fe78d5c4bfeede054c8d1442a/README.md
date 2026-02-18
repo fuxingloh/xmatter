@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WNOW
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#be36bf"
 ---

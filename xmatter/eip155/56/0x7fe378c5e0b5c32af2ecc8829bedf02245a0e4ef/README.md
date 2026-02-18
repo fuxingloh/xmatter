@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: STZ
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ba1e1e"
 ---

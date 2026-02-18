@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AURUM
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#edaf20"
 ---

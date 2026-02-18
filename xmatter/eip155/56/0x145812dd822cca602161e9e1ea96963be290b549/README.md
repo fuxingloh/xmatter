@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CTNT
 decimals: 4
-icons: []
+icons:
+  - icon.png
+color: "#3298a1"
 ---

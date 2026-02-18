@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: USDIBS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e92829"
 ---

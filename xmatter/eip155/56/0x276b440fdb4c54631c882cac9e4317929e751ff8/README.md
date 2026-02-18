@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: REV
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#b9dce3"
 ---

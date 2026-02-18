@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TOOLS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#3b3c42"
 ---

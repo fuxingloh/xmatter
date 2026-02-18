@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FERT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#dbf1f2"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: OIN
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#5d7c7f"
 ---

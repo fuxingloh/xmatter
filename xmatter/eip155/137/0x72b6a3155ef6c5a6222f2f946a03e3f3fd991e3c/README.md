@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#222222"
 ---

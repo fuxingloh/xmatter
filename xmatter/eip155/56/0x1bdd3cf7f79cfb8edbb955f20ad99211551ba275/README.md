@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BNBX
 decimals: 18
-icons: []
+icons:
+  - icon.webp
+color: "#ecb735"
 ---
