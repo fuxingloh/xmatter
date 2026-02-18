@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KPT
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#ff9292"
 ---
