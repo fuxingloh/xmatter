@@ -1,0 +1,14 @@
+---
+name: Persians
+provenance: "https://github.com/ethereum-lists/tokens"
+standards:
+  - erc20
+links:
+  - name: x
+    url: "https://twitter.com/persian_token"
+  - name: github
+    url: "https://github.com/Neurone/persians"
+symbol: PRS
+decimals: 18
+icons: []
+---
