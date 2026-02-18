@@ -33,18 +33,21 @@ export class FetchWithIgnore {
     let response: Response;
     try {
       response = await fetch(url);
-    } catch {
+    } catch (error) {
+      console.warn(`Fetch failed for ${url}:`, error);
       this.recordFailure(url);
       return false;
     }
     if (!response.ok) {
+      console.warn(`Fetch failed for ${url}: HTTP ${response.status}`);
       this.recordFailure(url);
       return false;
     }
 
     const buffer = Buffer.from(await response.arrayBuffer());
     if (buffer.length > 1024 * 1024) {
-      this.recordFailure(url, 10); // Penalize more for large files
+      console.warn(`Skipping ${url}: file size ${buffer.length} exceeds 1MB`);
+      this.recordFailure(url, 10);
       return false;
     }
 
@@ -52,7 +55,8 @@ export class FetchWithIgnore {
     try {
       const metadata = await sharp(buffer).metadata();
       format = metadata.format ?? "";
-    } catch {
+    } catch (error) {
+      console.warn(`Skipping ${url}: sharp cannot parse image`, error);
       this.recordFailure(url);
       return false;
     }
@@ -61,12 +65,14 @@ export class FetchWithIgnore {
       const to = join(targetDir, `icon.${format}`);
       if (await hasFile(to)) return true;
       await writeFile(to, buffer);
+      console.log(`Copied icon ${url} -> ${to}`);
       return true;
     }
 
     const to = join(targetDir, "icon.webp");
     if (await hasFile(to)) return true;
     await writeFile(to, await sharp(buffer).webp().toBuffer());
+    console.log(`Converted icon ${url} (${format}) -> ${to}`);
     return true;
   }
 }
