@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SCASH
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#2cec9c"
 ---

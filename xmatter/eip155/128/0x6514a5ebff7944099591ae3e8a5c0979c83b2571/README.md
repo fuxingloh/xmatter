@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PNEO
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#00e599"
 ---

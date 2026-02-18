@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: POA20
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#7c5cb4"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GURU
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f1aa10"
 ---

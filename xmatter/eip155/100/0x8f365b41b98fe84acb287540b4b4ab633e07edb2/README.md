@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SETH
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#6783e5"
 ---

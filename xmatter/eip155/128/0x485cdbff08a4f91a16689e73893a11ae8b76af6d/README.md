@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FEI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#249c6c"
 ---

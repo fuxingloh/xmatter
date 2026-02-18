@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: fUSD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d7fba3"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HAI
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#d9faf2"
 ---

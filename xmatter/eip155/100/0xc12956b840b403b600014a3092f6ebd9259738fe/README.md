@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SURF
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#1f6a9d"
 ---

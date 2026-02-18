@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: G$
 decimals: 2
-icons: []
+icons:
+  - icon.png
+color: "#e3f2fb"
 ---

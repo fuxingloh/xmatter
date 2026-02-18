@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LIEN
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#11caba"
 ---

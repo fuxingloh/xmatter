@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BNSD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#6526e2"
 ---

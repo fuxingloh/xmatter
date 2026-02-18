@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TRIPS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#4a7795"
 ---

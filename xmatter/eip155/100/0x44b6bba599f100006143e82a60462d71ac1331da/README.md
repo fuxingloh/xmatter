@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: API3
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c5c5c5"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MADAI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f3ba40"
 ---

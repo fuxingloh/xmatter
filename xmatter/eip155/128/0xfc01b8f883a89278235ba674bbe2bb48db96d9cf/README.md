@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PAUL
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fbdca3"
 ---

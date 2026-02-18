@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GDT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ac2685"
 ---

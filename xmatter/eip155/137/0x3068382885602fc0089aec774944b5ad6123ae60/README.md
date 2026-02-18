@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PDSHARE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c788f2"
 ---

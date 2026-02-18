@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NEXO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#4cb3ee"
 ---

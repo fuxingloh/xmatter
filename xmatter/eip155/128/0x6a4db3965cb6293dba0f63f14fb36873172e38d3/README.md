@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LLC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#060505"
 ---

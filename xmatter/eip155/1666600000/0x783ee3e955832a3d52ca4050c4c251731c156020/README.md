@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: bscETH
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#8991b1"
 ---

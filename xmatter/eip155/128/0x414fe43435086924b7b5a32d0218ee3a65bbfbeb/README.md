@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DBS
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#e71e62"
 ---

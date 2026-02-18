@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HBO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#140e45"
 ---

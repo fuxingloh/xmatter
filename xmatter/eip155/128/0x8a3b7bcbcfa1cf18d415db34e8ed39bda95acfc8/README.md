@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SKK
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ecc881"
 ---

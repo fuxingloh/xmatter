@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BCV
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#21305f"
 ---

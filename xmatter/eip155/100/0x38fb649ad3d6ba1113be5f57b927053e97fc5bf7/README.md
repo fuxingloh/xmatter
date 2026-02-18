@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: XCOMB
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fca574"
 ---

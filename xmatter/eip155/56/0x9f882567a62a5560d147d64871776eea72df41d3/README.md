@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#71ec9e"
 ---

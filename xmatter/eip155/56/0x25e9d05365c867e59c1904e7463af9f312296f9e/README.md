@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ATM
 decimals: 2
-icons: []
+icons:
+  - icon.png
+color: "#dc9d9a"
 ---

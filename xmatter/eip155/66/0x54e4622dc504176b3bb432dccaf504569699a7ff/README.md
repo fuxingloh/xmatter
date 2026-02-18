@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BTCK
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f5941b"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KISHU
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#2a2513"
 ---

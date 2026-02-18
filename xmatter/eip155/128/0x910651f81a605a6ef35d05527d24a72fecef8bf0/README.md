@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WAR
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0f8c20"
 ---

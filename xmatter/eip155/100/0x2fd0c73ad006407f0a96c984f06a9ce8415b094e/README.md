@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: xSEED
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ae78bf"
 ---

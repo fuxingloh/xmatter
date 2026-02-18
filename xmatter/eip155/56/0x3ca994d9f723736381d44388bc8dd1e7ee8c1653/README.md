@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SMG
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#efe489"
 ---

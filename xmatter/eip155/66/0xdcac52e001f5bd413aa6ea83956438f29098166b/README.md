@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: USDK
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0d74f5"
 ---

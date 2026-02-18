@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LAMB
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#5ea2c8"
 ---

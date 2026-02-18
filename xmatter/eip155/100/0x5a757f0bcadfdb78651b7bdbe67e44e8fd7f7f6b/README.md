@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ENJ
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#89e6fc"
 ---

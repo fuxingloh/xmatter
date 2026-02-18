@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PHA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c7ed4f"
 ---

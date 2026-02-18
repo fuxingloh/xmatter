@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: bscZIL
 decimals: 12
-icons: []
+icons:
+  - icon.png
+color: "#4dc1bc"
 ---

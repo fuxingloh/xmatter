@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LADZ
 decimals: 4
-icons: []
+icons:
+  - icon.png
+color: "#da5545"
 ---

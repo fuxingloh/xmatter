@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TITAN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#278cfc"
 ---

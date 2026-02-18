@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: RENDOGE
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#b69c3d"
 ---

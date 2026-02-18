@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: EASY
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c6c1e9"
 ---

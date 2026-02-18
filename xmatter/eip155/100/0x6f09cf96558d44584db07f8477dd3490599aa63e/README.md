@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GEAR
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e4332c"
 ---

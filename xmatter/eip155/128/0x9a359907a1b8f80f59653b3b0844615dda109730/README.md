@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GOAT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#231e11"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: QI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fa7373"
 ---

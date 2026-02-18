@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#247cfb"
 ---

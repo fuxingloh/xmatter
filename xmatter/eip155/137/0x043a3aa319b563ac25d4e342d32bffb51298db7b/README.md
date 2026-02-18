@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SWG
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#28b0d8"
 ---

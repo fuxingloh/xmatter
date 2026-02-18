@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: mBTM
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#323535"
 ---

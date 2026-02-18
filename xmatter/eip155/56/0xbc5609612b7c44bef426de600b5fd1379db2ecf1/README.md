@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PSG
 decimals: 2
-icons: []
+icons:
+  - icon.png
+color: "#d6aeb7"
 ---

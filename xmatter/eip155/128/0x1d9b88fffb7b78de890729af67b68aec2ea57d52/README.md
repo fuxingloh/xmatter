@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HTC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ceae8e"
 ---

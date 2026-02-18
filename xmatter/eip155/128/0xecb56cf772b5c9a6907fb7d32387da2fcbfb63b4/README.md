@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HLTC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#345c9d"
 ---

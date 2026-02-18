@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: RXDAI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#4eaca7"
 ---

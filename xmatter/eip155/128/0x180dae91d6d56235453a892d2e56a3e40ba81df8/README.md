@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DOJO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fac404"
 ---

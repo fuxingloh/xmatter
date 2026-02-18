@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AGVE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#30c79f"
 ---

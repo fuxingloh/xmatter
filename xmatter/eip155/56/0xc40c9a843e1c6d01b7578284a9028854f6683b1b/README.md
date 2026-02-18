@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: JUV
 decimals: 2
-icons: []
+icons:
+  - icon.png
+color: "#d4d6d8"
 ---

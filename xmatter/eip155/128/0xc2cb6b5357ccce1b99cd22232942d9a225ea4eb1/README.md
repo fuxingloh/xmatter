@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HBSV
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#faefca"
 ---

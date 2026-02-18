@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ACAR
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#3cb444"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MANA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fb334e"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: RELAY
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#62c8cc"
 ---

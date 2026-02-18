@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WOO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0c1b24"
 ---

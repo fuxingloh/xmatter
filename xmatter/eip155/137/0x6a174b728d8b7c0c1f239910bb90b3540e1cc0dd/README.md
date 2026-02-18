@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: gSAT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#cdbfb1"
 ---

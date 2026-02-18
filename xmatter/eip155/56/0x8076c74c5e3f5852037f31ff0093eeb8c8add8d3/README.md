@@ -10,7 +10,9 @@ links:
     url: "https://safemoon.xyz"
 symbol: SAFEMOON
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#21363c"
 ---
 
 Self generating liquidity token - Reflection paid back to holders.

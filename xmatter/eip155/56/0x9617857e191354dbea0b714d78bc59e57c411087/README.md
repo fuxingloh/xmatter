@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LMT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#787794"
 ---

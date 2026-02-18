@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LGC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f28955"
 ---

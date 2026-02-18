@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ANO
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#4dbff7"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SOVI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e6a04a"
 ---

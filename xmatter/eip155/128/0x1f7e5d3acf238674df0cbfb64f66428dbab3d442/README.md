@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SID
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#040504"
 ---

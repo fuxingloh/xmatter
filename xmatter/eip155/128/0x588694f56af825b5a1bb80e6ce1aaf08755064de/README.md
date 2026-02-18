@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: COC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f2b250"
 ---

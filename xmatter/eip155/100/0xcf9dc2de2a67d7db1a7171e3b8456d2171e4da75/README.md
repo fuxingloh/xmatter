@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LTI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d0d0d0"
 ---

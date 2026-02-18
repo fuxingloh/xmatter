@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AVAI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#27a698"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CFXQ
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#1f71b4"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: YAM
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d2213c"
 ---

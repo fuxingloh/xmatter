@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MEL
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#302c29"
 ---

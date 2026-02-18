@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GAJ
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#2674b0"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: polyFXS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#141414"
 ---

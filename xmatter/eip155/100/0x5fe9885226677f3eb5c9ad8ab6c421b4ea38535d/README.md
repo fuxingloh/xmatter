@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: JOON
 decimals: 4
-icons: []
+icons:
+  - icon.png
+color: "#e0ddd9"
 ---

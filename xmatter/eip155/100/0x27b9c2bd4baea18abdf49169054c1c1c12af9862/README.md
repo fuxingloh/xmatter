@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SNAFU
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#3f3e43"
 ---

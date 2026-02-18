@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CRX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f05a28"
 ---

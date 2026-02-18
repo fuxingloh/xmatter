@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: RLC
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#fadd14"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MIVA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#6444d4"
 ---

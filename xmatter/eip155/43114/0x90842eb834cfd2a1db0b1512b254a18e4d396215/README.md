@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GB
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#49526c"
 ---

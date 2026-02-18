@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SWISE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#978abb"
 ---

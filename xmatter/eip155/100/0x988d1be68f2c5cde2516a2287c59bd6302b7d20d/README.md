@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PUNK
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ceb9bb"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: eCell
 decimals: 2
-icons: []
+icons:
+  - icon.png
+color: "#162640"
 ---

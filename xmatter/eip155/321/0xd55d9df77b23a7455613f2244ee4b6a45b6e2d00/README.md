@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SFI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c44434"
 ---

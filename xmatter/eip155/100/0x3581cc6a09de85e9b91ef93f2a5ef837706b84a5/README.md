@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ALBT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#055da6"
 ---

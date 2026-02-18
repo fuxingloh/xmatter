@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DB
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d3d3d3"
 ---

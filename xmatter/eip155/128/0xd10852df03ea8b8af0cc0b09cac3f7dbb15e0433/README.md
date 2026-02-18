@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: hFLUX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#141516"
 ---

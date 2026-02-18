@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HIVESHARE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e9b124"
 ---

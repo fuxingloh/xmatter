@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SAFEMOONA
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#eb4444"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PTD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#641cfc"
 ---

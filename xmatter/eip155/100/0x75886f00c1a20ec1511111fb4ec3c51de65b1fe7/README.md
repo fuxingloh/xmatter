@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FTX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#02a6c2"
 ---

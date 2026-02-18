@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DBC
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#fbc404"
 ---

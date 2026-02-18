@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PUD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fa9f29"
 ---

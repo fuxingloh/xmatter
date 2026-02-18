@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KMOON
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#eae8f8"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ISA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#bce3fc"
 ---

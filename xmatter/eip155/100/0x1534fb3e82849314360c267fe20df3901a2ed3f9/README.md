@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KNC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#31cb9e"
 ---

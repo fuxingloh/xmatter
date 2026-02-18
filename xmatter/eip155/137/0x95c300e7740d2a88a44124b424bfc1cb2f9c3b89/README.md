@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ALCX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#251d20"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MFIL
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#25cbba"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SHARE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f45036"
 ---

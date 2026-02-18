@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HAUS
 decimals: 35
-icons: []
+icons:
+  - icon.png
+color: "#d36c59"
 ---

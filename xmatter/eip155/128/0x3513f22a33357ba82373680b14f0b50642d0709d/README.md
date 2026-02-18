@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HIS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f0f8f8"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: bscCOBRA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#dca10b"
 ---

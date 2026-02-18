@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: Dogmoon
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#1e2a72"
 ---

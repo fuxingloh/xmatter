@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: WBNB
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f0b808"
 ---

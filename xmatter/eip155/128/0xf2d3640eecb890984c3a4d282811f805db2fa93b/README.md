@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: HOBA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fcc60d"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CRU
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#1d1c1c"
 ---
