@@ -8,5 +8,7 @@ links:
     url: "https://snarg01.horse"
 symbol: SNARG
 decimals: 0
-icons: []
+icons:
+  - icon.png
+color: "#e21416"
 ---

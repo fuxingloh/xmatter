@@ -12,5 +12,7 @@ links:
     url: "https://github.com/Hemelios/hemelios-token"
 symbol: HEM
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#fcc608"
 ---

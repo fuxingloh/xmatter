@@ -14,5 +14,7 @@ links:
     url: "https://www.reddit.com/r/OfficialCoinMerge/"
 symbol: CMERGE
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#ed4906"
 ---

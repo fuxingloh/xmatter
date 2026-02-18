@@ -18,5 +18,7 @@ links:
     url: "https://medium.com/originprotocol"
 symbol: OGV
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0c141d"
 ---

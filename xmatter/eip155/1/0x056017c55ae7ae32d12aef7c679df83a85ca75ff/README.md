@@ -16,5 +16,7 @@ links:
     url: "https://blog.projectwyvern.com"
 symbol: WYV
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e12d32"
 ---

@@ -16,5 +16,7 @@ links:
     url: "https://medium.com/topinvestmentcoin"
 symbol: TICO
 decimals: 5
-icons: []
+icons:
+  - icon.png
+color: "#10a9f4"
 ---

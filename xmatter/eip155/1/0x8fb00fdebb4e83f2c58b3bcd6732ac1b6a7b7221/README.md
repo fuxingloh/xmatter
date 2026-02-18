@@ -16,5 +16,7 @@ links:
     url: "https://medium.com/orion-protocol"
 symbol: ORN
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#e92cf1"
 ---

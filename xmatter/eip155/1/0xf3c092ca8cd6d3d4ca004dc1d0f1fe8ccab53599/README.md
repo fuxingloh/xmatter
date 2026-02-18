@@ -18,5 +18,7 @@ links:
     url: "https://medium.com/@Zeex.me"
 symbol: ZIX
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#59bae1"
 ---

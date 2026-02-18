@@ -10,5 +10,7 @@ links:
     url: "https://twitter.com/tether_to"
 symbol: EURT
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#7c84aa"
 ---

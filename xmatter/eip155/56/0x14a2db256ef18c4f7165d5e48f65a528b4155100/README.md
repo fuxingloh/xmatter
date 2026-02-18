@@ -12,5 +12,7 @@ links:
     url: "https://t.me/RBCAT_BSC"
 symbol: RBCAT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#151121"
 ---

@@ -16,5 +16,7 @@ links:
     url: "https://medium.com/@nutcoin/about"
 symbol: NUT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#040404"
 ---

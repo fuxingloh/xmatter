@@ -6,5 +6,7 @@ standards:
 links: []
 symbol: rBUND
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#1c74bc"
 ---

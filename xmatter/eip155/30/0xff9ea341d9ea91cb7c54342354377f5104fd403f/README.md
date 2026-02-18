@@ -6,5 +6,7 @@ standards:
 links: []
 symbol: rAMLT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#242a58"
 ---

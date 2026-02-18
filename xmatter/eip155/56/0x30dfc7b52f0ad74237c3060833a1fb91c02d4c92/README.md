@@ -18,5 +18,7 @@ links:
     url: "https://medium.com/@pepow.finance"
 symbol: PEP
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#1c9758"
 ---

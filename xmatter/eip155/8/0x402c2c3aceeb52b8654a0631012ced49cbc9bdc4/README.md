@@ -6,5 +6,7 @@ standards:
 links: []
 symbol: SPHRC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#503a8d"
 ---

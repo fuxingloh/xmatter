@@ -12,5 +12,7 @@ links:
     url: "https://t.me/monkeyshitinu"
 symbol: MSI
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#462217"
 ---

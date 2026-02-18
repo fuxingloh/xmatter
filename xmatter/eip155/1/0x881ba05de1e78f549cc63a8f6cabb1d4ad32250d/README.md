@@ -16,5 +16,7 @@ links:
     url: "https://medium.com/@P00LS"
 symbol: "00"
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#040404"
 ---

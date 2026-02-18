@@ -12,5 +12,7 @@ links:
     url: "https://t.me/donkeytoken"
 symbol: DONK
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#484bb1"
 ---

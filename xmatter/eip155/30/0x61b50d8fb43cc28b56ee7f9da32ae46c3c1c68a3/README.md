@@ -6,5 +6,7 @@ standards:
 links: []
 symbol: CNYCB
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#cc5507"
 ---

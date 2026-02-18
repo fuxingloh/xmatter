@@ -16,5 +16,7 @@ links:
     url: "https://www.reddit.com/r/wlkrfinancial"
 symbol: WLKRR
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#db1c24"
 ---

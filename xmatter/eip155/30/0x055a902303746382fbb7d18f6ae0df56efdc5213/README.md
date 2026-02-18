@@ -14,5 +14,7 @@ links:
     url: "https://github.com/BabelFishProtocol/babelfish-phase-1"
 symbol: FISH
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0e3d93"
 ---

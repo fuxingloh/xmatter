@@ -12,5 +12,7 @@ links:
     url: "https://github.com/V-ID/V-ID-Token"
 symbol: VIDT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#04c4d4"
 ---

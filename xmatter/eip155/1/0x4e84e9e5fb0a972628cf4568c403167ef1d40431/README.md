@@ -18,5 +18,7 @@ links:
     url: "https://medium.com/@fluzcoin"
 symbol: $FFC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#248c53"
 ---

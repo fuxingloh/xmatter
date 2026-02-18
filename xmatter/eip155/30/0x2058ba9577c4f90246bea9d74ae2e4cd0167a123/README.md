@@ -6,5 +6,7 @@ standards:
 links: []
 symbol: MXNCB
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#2c9545"
 ---

@@ -14,5 +14,7 @@ links:
     url: "https://plume.org/blog"
 symbol: nTBILL
 decimals: 6
-icons: []
+icons:
+  - icon.svg
+color: "#04847c"
 ---

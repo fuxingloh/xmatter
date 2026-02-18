@@ -16,6 +16,7 @@ color: "#06230f"
 icons:
   - icon.svg
   - icon.png
+  - icon.jpeg
 ---
 
 An experiment in bringing stablecoins closer to their pegs using farming incentives, jars, and governance

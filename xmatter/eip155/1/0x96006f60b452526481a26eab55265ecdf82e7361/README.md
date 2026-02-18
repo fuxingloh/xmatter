@@ -14,5 +14,7 @@ links:
     url: "https://github.com/bitholla"
 symbol: HEX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#040404"
 ---

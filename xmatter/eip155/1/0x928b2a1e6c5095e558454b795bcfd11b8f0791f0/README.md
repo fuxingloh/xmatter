@@ -12,5 +12,7 @@ links:
     url: "https://t.me/SlimerTokenETH"
 symbol: SLIMER
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#86ad2f"
 ---

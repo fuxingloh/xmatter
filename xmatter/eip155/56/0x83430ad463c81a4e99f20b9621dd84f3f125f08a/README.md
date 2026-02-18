@@ -12,5 +12,7 @@ links:
     url: "https://t.me/+3S0Z0dE17yszZDJK"
 symbol: NZC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ec54dc"
 ---

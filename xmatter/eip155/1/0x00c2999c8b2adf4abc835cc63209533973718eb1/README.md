@@ -16,5 +16,7 @@ links:
     url: "https://medium.com/@publicae"
 symbol: STATE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#040404"
 ---

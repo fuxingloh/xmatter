@@ -18,5 +18,7 @@ links:
     url: "https://medium.com/originprotocol"
 symbol: veOGV
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#171f27"
 ---

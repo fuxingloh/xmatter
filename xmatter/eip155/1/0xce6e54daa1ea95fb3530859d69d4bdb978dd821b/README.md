@@ -16,5 +16,7 @@ links:
     url: "https://medium.com/@ordibank"
 symbol: ORBK
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#2eb4fb"
 ---

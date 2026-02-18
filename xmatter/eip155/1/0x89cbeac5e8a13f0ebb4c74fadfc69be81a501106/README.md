@@ -18,5 +18,7 @@ links:
     url: "https://depository.network/blog/"
 symbol: DEPO (Depository Network)
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#248c53"
 ---

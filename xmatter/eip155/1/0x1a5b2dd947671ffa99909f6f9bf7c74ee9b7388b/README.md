@@ -12,5 +12,7 @@ links:
     url: "https://t.me/BytePort"
 symbol: BYTE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f9ba0d"
 ---

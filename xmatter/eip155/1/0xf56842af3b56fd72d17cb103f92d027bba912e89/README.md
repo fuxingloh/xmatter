@@ -18,5 +18,7 @@ links:
     url: "https://bamboodefi.medium.com/"
 symbol: BAMBOO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#262322"
 ---

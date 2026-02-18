@@ -6,5 +6,7 @@ standards:
 links: []
 symbol: USDCB
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#dfced1"
 ---

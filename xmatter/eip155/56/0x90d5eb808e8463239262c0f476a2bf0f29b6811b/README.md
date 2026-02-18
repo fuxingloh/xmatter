@@ -16,5 +16,7 @@ links:
     url: "https://medium.com/@RaddixBrands"
 symbol: RHT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0c64f4"
 ---

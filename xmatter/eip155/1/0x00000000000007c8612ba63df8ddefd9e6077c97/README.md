@@ -12,5 +12,7 @@ links:
     url: "https://github.com/NaniDAO"
 symbol: ⌘
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#acac71"
 ---

@@ -8,5 +8,7 @@ links:
     url: "https://https://10grans.cash"
 symbol: GRANS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f09e15"
 ---

@@ -10,5 +10,7 @@ links:
     url: "https://reddit.com/r/dripcoin"
 symbol: DRP
 decimals: 0
-icons: []
+icons:
+  - icon.png
+color: "#4cc454"
 ---

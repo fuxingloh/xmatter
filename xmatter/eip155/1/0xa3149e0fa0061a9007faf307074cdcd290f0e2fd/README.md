@@ -10,5 +10,7 @@ links:
     url: "https://twitter.com/PronCoin"
 symbol: PRON
 decimals: 8
-icons: []
+icons:
+  - icon.jpeg
+color: "#1c1b1b"
 ---

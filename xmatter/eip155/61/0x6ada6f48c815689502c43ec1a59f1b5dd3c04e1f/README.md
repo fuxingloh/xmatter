@@ -14,5 +14,7 @@ links:
     url: "https://www.reddit.com/r/UniversalCoin/"
 symbol: UNV
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#040404"
 ---

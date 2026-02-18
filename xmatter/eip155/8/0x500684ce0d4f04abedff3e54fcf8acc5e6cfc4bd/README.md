@@ -8,5 +8,7 @@ links:
     url: "https://geo.money"
 symbol: GEO
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#30a657"
 ---

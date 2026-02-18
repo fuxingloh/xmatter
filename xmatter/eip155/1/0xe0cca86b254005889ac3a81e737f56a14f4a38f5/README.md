@@ -16,5 +16,7 @@ links:
     url: "https://alta.finance/updates"
 symbol: ALTA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#24e48c"
 ---

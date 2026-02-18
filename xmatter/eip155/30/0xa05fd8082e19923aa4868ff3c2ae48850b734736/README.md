@@ -6,5 +6,7 @@ standards:
 links: []
 symbol: PYGCB
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#42518b"
 ---

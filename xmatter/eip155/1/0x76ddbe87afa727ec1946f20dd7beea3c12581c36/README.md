@@ -12,5 +12,7 @@ links:
     url: "https://github.com/amod92/BitDinar-assets"
 symbol: BTD
 decimals: 4
-icons: []
+icons:
+  - icon.png
+color: "#825f2d"
 ---

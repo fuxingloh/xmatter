@@ -14,5 +14,7 @@ links:
     url: "https://github.com/daftoken/DAF"
 symbol: DAF
 decimals: 6
-icons: []
+icons:
+  - icon.jpeg
+color: "#f8ba3a"
 ---

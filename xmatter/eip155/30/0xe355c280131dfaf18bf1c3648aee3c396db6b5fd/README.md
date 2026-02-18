@@ -16,5 +16,7 @@ links:
     url: "https://medium.com/@BrzToken"
 symbol: BRZ
 decimals: 4
-icons: []
+icons:
+  - icon.png
+color: "#70b8b8"
 ---

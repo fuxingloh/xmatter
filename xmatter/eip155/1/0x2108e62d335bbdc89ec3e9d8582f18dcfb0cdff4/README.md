@@ -14,5 +14,7 @@ links:
     url: "https://blog.carco.io"
 symbol: CARCO
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#faf904"
 ---

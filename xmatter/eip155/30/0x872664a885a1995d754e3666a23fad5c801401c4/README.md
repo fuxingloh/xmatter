@@ -6,5 +6,7 @@ standards:
 links: []
 symbol: cRBTC
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#0587e2"
 ---

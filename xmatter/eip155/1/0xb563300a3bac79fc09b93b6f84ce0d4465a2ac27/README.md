@@ -18,5 +18,7 @@ links:
     url: "https://medium.com/redcab"
 symbol: REDC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ec2024"
 ---

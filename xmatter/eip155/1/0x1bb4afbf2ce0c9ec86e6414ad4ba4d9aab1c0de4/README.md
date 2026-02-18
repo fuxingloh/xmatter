@@ -12,5 +12,7 @@ links:
     url: "https://t.me/toranekoeth"
 symbol: TORA
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#ebb65f"
 ---

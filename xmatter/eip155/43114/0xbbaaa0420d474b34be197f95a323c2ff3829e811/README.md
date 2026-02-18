@@ -12,5 +12,7 @@ links:
     url: "https://t.me/LOD3dao"
 symbol: LOD3
 decimals: 17
-icons: []
+icons:
+  - icon.png
+color: "#044e68"
 ---

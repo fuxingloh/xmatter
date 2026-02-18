@@ -14,5 +14,7 @@ links:
     url: "https://github.com/Mirada-Labs"
 symbol: $MIRX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ba261a"
 ---

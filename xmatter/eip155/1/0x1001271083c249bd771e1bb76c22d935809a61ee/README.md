@@ -12,5 +12,7 @@ links:
     url: "https://t.me/fukukun"
 symbol: FUKU
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#edebe7"
 ---

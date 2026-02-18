@@ -12,5 +12,7 @@ links:
     url: "https://medium.com/@scandiweb"
 symbol: SCANDI
 decimals: 2
-icons: []
+icons:
+  - icon.jpeg
+color: "#e01d25"
 ---

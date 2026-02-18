@@ -14,5 +14,7 @@ links:
     url: "https://github.com/lynxcto"
 symbol: LYNX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d5ad45"
 ---

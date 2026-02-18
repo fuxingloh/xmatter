@@ -14,5 +14,7 @@ links:
     url: "https://nodle.medium.com"
 symbol: NODL
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#1c233b"
 ---

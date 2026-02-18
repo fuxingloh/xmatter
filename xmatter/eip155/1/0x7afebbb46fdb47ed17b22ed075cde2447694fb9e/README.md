@@ -16,5 +16,7 @@ links:
     url: "https://blog.oceanprotocol.com"
 symbol: OCEAN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#141414"
 ---

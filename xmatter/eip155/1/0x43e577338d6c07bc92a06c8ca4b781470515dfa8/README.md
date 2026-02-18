@@ -14,5 +14,7 @@ links:
     url: "https://www.reddit.com/r/oblichain/"
 symbol: OBC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f3d349"
 ---

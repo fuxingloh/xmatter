@@ -13,5 +13,7 @@ links:
       https://github.com/WrappedBTC/bitcoin-token-smart-contracts/blob/master/ethereumV2/contracts/token/WDOGE.sol
 symbol: WDOGE
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#f3cb93"
 ---

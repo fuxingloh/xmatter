@@ -8,5 +8,7 @@ links:
     url: "https://vc.fabainvest.com"
 symbol: FABA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d2e6d8"
 ---

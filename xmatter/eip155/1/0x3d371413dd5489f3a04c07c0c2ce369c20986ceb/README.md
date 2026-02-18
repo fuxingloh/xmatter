@@ -18,5 +18,7 @@ links:
     url: "https://youengine.io/blog"
 symbol: YOUC
 decimals: 10
-icons: []
+icons:
+  - icon.png
+color: "#ec54dc"
 ---

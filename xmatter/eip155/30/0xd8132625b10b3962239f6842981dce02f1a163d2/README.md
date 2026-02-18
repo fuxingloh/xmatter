@@ -6,5 +6,7 @@ standards:
 links: []
 symbol: UYUCB
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#2eb6d1"
 ---

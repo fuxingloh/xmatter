@@ -16,5 +16,7 @@ links:
     url: "https://www.reddit.com/user/CyberMiles"
 symbol: CMT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c3a86e"
 ---

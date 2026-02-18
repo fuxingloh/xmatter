@@ -12,5 +12,7 @@ links:
     url: "https://www.reddit.com/r/CloutContracts"
 symbol: CCS
 decimals: 0
-icons: []
+icons:
+  - icon.png
+color: "#52d5eb"
 ---

@@ -12,5 +12,7 @@ links:
     url: "https://cryptochief.net/blog"
 symbol: GR
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#957d4c"
 ---

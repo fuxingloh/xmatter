@@ -16,5 +16,7 @@ links:
     url: "https://erupee.wordpress.com"
 symbol: E₹
 decimals: 2
-icons: []
+icons:
+  - icon.png
+color: "#eaac30"
 ---

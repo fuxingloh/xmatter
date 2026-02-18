@@ -18,5 +18,7 @@ links:
     url: "https://medium.com/bethereum"
 symbol: BTHR
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#5c34b4"
 ---

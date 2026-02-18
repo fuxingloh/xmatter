@@ -8,5 +8,7 @@ links:
     url: "https://ilcoincrypto.com/"
 symbol: WILC
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#10477f"
 ---

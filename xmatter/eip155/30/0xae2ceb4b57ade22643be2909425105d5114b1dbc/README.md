@@ -6,5 +6,7 @@ standards:
 links: []
 symbol: EURCB
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#1f7498"
 ---

@@ -10,5 +10,7 @@ links:
     url: "https://github.com/wlkrfinancial"
 symbol: WLKR
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#db1c24"
 ---

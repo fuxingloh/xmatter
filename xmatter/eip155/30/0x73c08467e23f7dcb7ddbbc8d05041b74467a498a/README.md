@@ -6,5 +6,7 @@ standards:
 links: []
 symbol: rFLIXX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f4c433"
 ---

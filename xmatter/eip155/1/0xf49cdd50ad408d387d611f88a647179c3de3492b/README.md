@@ -16,5 +16,7 @@ links:
     url: "https://medium.com/@thecargocoin"
 symbol: CRGO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#2da0d1"
 ---

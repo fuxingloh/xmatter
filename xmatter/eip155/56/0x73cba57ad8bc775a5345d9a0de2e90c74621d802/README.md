@@ -16,5 +16,7 @@ links:
     url: "https://medium.com/@lookscoin"
 symbol: LOOK
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f85820"
 ---

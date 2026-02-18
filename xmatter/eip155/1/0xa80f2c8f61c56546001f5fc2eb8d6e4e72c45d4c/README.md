@@ -14,5 +14,7 @@ links:
     url: "https://github.com/Uniqueutility"
 symbol: UNQT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#8b2b39"
 ---
