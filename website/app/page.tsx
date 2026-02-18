@@ -135,7 +135,7 @@ function ProjectStats() {
   };
 
   const stats = [
-    { label: "Addresses", value: readmeCount.toLocaleString() },
+    { label: "READMEs", value: readmeCount.toLocaleString() },
     { label: "Icons", value: iconCount.toLocaleString() },
     { label: "Networks", value: networks.size.toLocaleString() },
     { label: "Total Size", value: formatSize(totalBytes) },
