@@ -27,12 +27,12 @@ export class FetchWithIgnore {
     writeFileSync(STATE_PATH, JSON.stringify(this.state, null, 2));
   }
 
-  async copyIcon(url: string, targetDir: string): Promise<boolean> {
+  async copyIcon(url: string, targetDir: string, timeout = 15_000): Promise<boolean> {
     if (this.shouldSkip(url)) return false;
 
     let response: Response;
     try {
-      response = await fetch(url);
+      response = await fetch(url, { signal: AbortSignal.timeout(timeout) });
     } catch (error) {
       console.warn(`Fetch failed for ${url}:`, error);
       this.recordFailure(url);
