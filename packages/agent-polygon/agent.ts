@@ -19,18 +19,16 @@ interface PolygonToken {
 }
 
 export class PolygonTokenList extends FileSystemAgent<PolygonToken> {
-  readEntry(): Promise<PolygonToken | undefined> {
-    throw new Error("Not used — tokens are read from JSON arrays directly.");
+  async readEntry(): Promise<PolygonToken | undefined> {
+    return undefined;
   }
 
   toReadmeFile(_uri: string, token: PolygonToken): XmatterFile {
-    const standards = token.tags?.includes("erc20") ? ["erc20"] : ["erc20"];
-
     return {
       data: {
         name: token.name,
         provenance: "https://github.com/maticnetwork/polygon-token-list",
-        standards,
+        standards: ["erc20"],
         symbol: token.symbol,
         ...(token.decimals !== undefined && { decimals: Number(token.decimals) }),
         icons: [],
@@ -40,10 +38,16 @@ export class PolygonTokenList extends FileSystemAgent<PolygonToken> {
   }
 
   async processFile(filePath: string): Promise<void> {
+    if (!(await hasFile(filePath))) {
+      console.warn(`Skipping ${filePath}: file not found`);
+      return;
+    }
+
     const raw = await readFile(filePath, { encoding: "utf-8" });
     const tokens: PolygonToken[] = JSON.parse(raw);
 
     for (const token of tokens) {
+      if (!token.originTokenAddress) continue;
       if (token.originTokenAddress.toLowerCase() === NATIVE_ETH_SENTINEL) {
         continue;
       }

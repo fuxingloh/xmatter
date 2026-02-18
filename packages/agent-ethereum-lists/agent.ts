@@ -1,12 +1,12 @@
 import { readFile } from "node:fs/promises";
 
 import { XmatterFile } from "xmatter/schema";
-import { FileSystemAgent } from "@workspace/agent-base/fs";
+import { FileSystemAgent, hasFile } from "@workspace/agent-base/fs";
 
 interface TokenInfo {
   symbol: string;
   address: string;
-  decimals: number;
+  decimals?: number;
   name: string;
   ens_address: string;
   website: string;
@@ -102,7 +102,7 @@ export class EthereumListsTokens extends FileSystemAgent<TokenInfo> {
         provenance: "https://github.com/ethereum-lists/tokens",
         standards: ["erc20"],
         symbol: data.symbol,
-        decimals: data.decimals,
+        ...(data.decimals !== undefined && { decimals: Number(data.decimals) }),
         links: links,
         icons: [],
       },
@@ -114,7 +114,13 @@ export class EthereumListsTokens extends FileSystemAgent<TokenInfo> {
 const agent = new EthereumListsTokens();
 
 for (const [chain, chainId] of Object.entries(CHAINS)) {
-  await agent.walk(`.repo/tokens/${chain}`, {
+  const dir = `.repo/tokens/${chain}`;
+  if (!(await hasFile(dir))) {
+    console.warn(`Skipping ${dir}: directory not found`);
+    continue;
+  }
+
+  await agent.walk(dir, {
     filter: () => true,
     toUri: (data) => `eip155/${chainId}/${data.address.toLowerCase()}`,
   });

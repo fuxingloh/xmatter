@@ -8,11 +8,11 @@ interface Token {
   symbol: string;
   name: string;
   address: string;
-  decimals: number;
+  decimals?: number;
   chainId: number;
-  logoURI: string;
-  coingeckoId: string;
-  listedIn: string[];
+  logoURI?: string;
+  coingeckoId?: string | null;
+  listedIn?: string[];
 }
 
 const SKIP_FILES = new Set(["solana.json"]);
@@ -40,7 +40,7 @@ export class ViaProtocolTokenList extends FileSystemAgent<Token> {
         provenance: "https://github.com/viaprotocol/tokenlists",
         standards: ["erc20"],
         symbol: token.symbol,
-        decimals: token.decimals,
+        ...(token.decimals !== undefined && { decimals: Number(token.decimals) }),
         icons: [],
       },
       content: "",
