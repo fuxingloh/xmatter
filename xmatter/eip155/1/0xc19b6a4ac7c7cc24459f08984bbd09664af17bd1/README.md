@@ -5,4 +5,5 @@ standards:
   - erc20
 symbol: SENSO
 icons: []
+decimals: 0
 ---

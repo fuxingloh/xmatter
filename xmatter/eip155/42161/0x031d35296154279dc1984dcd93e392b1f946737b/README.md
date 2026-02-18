@@ -1,0 +1,9 @@
+---
+name: Cap
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: CAP
+decimals: 18
+icons: []
+---

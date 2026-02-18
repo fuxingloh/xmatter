@@ -1,0 +1,9 @@
+---
+name: SeedSwap SEED
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: SEED
+decimals: 18
+icons: []
+---

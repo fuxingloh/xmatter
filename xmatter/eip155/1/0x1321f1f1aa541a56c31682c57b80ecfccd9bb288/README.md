@@ -1,0 +1,9 @@
+---
+name: ARC Governance
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: ARCX
+decimals: 18
+icons: []
+---

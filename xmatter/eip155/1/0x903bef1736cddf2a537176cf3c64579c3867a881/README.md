@@ -15,6 +15,12 @@ links:
   - name: medium
     url: "https://medium.com/ichifarm"
 name: Legacy ICHI
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+icons:
+  - icon.png
+color: "#968872"
 ---
 
 Legacy ICHI is a token deprecated by the ICHI DAO, you can swap it 1-1 for ICHI at app.ichi.org.

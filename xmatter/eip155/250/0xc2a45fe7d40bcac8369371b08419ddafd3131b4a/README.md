@@ -1,0 +1,9 @@
+---
+name: Lucidao Token
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: LCD
+decimals: 18
+icons: []
+---

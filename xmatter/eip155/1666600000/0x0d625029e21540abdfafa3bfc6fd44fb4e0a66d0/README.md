@@ -1,0 +1,9 @@
+---
+name: ColonyToken
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: CLNY
+decimals: 18
+icons: []
+---

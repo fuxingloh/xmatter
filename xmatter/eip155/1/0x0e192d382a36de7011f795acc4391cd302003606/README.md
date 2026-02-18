@@ -1,0 +1,9 @@
+---
+name: Futureswap
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: FST
+decimals: 18
+icons: []
+---

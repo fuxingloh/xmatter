@@ -1,0 +1,9 @@
+---
+name: LEV
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: LEV
+decimals: 18
+icons: []
+---

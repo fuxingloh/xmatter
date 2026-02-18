@@ -1,0 +1,9 @@
+---
+name: Dragon Crypto Aurum
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: DCAU
+decimals: 18
+icons: []
+---

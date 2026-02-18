@@ -7,4 +7,5 @@ icons:
   - icon.svg
   - icon.png
 color: "#228dd7"
+decimals: 18
 ---

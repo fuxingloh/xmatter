@@ -1,0 +1,9 @@
+---
+name: Grape Finance
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: GRAPE
+decimals: 18
+icons: []
+---

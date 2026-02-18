@@ -1,0 +1,9 @@
+---
+name: Alchemy
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: ALCH
+decimals: 18
+icons: []
+---

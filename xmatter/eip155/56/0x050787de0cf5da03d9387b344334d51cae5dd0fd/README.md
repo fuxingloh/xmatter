@@ -9,6 +9,12 @@ links:
   - name: telegram
     url: "https://t.me/peacockcoin"
 name: Peacockcoin
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+icons:
+  - icon.png
+color: "#0f255a"
 ---
 
 PeacockCoin is a deflationary yield token on the Binance Smart Chain with Multi-dimensional NFT's

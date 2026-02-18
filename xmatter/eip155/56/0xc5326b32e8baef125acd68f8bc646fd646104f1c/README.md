@@ -1,0 +1,9 @@
+---
+name: Zap
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: ZAP
+decimals: 18
+icons: []
+---

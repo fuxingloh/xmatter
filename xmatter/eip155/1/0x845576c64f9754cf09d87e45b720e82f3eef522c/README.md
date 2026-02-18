@@ -1,0 +1,9 @@
+---
+name: Artverse
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: AVT
+decimals: 18
+icons: []
+---

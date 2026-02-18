@@ -1,0 +1,9 @@
+---
+name: pTREAT
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: pTREAT
+decimals: 18
+icons: []
+---

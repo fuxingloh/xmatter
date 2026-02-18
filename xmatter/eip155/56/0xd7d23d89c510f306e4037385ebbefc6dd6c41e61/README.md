@@ -1,0 +1,9 @@
+---
+name: DeFi Launch
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: DLAUNCH
+decimals: 18
+icons: []
+---
