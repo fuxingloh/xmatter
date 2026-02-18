@@ -54,7 +54,7 @@ export class ViaProtocolTokenList extends FileSystemAgent<Token> {
         ? token.logoURI.replace(
             "https://elk.finance/tokens/",
             "https://raw.githubusercontent.com/elkfinance/tokens/main/",
-          ) + "/logo.png"
+          )
         : token.logoURI;
       await fetcher.copyIcon(url, target);
     }
