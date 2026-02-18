@@ -4,19 +4,11 @@ import { join } from "node:path";
 import sharp from "sharp";
 import { hasFile } from "./fs";
 
-const STATE_PATH = "../../.fetch-state.json";
-
-const SUPPORTED_FORMATS: Record<string, string> = {
-  svg: "icon.svg",
-  png: "icon.png",
-  jpeg: "icon.jpg",
-  jpg: "icon.jpg",
-  webp: "icon.webp",
-  gif: "icon.gif",
-};
+const STATE_PATH = join(process.cwd(), ".fetch-ignore.json");
+const NATIVE_FORMATS = new Set(["svg", "png", "jpeg", "jpg", "webp"]);
 
 export class FetchWithIgnore {
-  private state: Record<string, number> = {};
+  state: Record<string, number> = {};
 
   constructor() {
     try {
@@ -26,17 +18,13 @@ export class FetchWithIgnore {
     }
   }
 
-  private save(): void {
-    writeFileSync(STATE_PATH, JSON.stringify(this.state, null, 2));
-  }
-
   shouldSkip(url: string): boolean {
     return (this.state[url] ?? 0) >= 3;
   }
 
-  private recordFailure(url: string): void {
-    this.state[url] = (this.state[url] ?? 0) + 1;
-    this.save();
+  private recordFailure(url: string, increment = 1): void {
+    this.state[url] = (this.state[url] ?? 0) + increment;
+    writeFileSync(STATE_PATH, JSON.stringify(this.state, null, 2));
   }
 
   async copyIcon(url: string, targetDir: string): Promise<boolean> {
@@ -56,7 +44,7 @@ export class FetchWithIgnore {
 
     const buffer = Buffer.from(await response.arrayBuffer());
     if (buffer.length > 1024 * 1024) {
-      this.recordFailure(url);
+      this.recordFailure(url, 10); // Penalize more for large files
       return false;
     }
 
@@ -69,16 +57,16 @@ export class FetchWithIgnore {
       return false;
     }
 
-    const filename = SUPPORTED_FORMATS[format];
-    if (!filename) {
-      this.recordFailure(url);
-      return false;
+    if (NATIVE_FORMATS.has(format)) {
+      const to = join(targetDir, `icon.${format}`);
+      if (await hasFile(to)) return true;
+      await writeFile(to, buffer);
+      return true;
     }
 
-    const to = join(targetDir, filename);
+    const to = join(targetDir, "icon.webp");
     if (await hasFile(to)) return true;
-
-    await writeFile(to, buffer);
+    await writeFile(to, await sharp(buffer).webp().toBuffer());
     return true;
   }
 }
