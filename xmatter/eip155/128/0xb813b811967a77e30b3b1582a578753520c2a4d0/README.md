@@ -1,0 +1,9 @@
+---
+name: sFILDA
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: sFILDA
+decimals: 18
+icons: []
+---

@@ -1,0 +1,9 @@
+---
+name: Kyoko
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: KYOKO
+decimals: 18
+icons: []
+---

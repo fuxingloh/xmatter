@@ -1,0 +1,9 @@
+---
+name: TokenBot
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: TKB
+decimals: 18
+icons: []
+---

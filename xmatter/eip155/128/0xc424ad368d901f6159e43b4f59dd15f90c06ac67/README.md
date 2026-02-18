@@ -1,0 +1,9 @@
+---
+name: COB
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: COB
+decimals: 18
+icons: []
+---

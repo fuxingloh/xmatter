@@ -6,4 +6,5 @@ symbol: BASED
 icons:
   - icon.png
 color: "#eae0d4"
+decimals: 18
 ---

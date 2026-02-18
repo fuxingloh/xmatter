@@ -1,0 +1,9 @@
+---
+name: WAR
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: WAR
+decimals: 18
+icons: []
+---

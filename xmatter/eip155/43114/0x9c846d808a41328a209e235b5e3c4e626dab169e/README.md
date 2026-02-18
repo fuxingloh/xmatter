@@ -1,0 +1,9 @@
+---
+name: Chikn Fert
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: FERT
+decimals: 18
+icons: []
+---

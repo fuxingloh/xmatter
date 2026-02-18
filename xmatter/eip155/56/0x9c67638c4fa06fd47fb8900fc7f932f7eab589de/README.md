@@ -1,0 +1,9 @@
+---
+name: Arker
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: ARKER
+decimals: 18
+icons: []
+---

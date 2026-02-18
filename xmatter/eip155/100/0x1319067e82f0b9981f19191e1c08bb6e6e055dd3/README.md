@@ -1,0 +1,9 @@
+---
+name: DeFireX DAI on xDai
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: DDAI
+decimals: 18
+icons: []
+---

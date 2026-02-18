@@ -1,0 +1,9 @@
+---
+name: BlazarBits
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: BZB
+decimals: 18
+icons: []
+---

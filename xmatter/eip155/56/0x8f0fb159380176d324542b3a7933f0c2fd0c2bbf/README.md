@@ -1,0 +1,9 @@
+---
+name: ThreeFold
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: TFT
+decimals: 7
+icons: []
+---

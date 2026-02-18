@@ -1,0 +1,9 @@
+---
+name: DEUS Finance
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: DEUS
+decimals: 18
+icons: []
+---

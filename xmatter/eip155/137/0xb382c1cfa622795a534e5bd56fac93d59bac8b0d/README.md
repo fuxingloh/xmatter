@@ -1,0 +1,9 @@
+---
+name: KIRO
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: KIRO
+decimals: 18
+icons: []
+---

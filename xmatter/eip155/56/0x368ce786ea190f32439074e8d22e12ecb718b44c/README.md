@@ -1,0 +1,9 @@
+---
+name: Epik Prime
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: EPIK
+decimals: 18
+icons: []
+---

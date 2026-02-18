@@ -1,0 +1,9 @@
+---
+name: Manifold Finance
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: FOLD
+decimals: 18
+icons: []
+---

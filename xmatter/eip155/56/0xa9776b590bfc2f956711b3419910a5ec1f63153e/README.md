@@ -1,0 +1,9 @@
+---
+name: Rune
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: RUNE
+decimals: 18
+icons: []
+---

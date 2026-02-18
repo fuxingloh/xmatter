@@ -1,0 +1,9 @@
+---
+name: EMERALD
+provenance: "https://github.com/viaprotocol/tokenlists"
+standards:
+  - erc20
+symbol: EM
+decimals: 18
+icons: []
+---
