@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KAP
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#a48b5b"
 ---

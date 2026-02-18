@@ -8,8 +8,9 @@ name: NapoleonX Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e6e0be"
+color: "#050505"
 icons:
+  - icon.svg
   - icon.png
 ---
 

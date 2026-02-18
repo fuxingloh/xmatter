@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TCAP
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#1d1d3d"
 ---

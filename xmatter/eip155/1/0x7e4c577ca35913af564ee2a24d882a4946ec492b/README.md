@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MOONED
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#e9e9e9"
 ---

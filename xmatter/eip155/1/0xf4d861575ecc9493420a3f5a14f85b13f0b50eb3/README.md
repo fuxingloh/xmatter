@@ -8,8 +8,9 @@ name: Fractal
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc631a"
+color: "#f7621c"
 icons:
+  - icon.svg
   - icon.png
 ---
 

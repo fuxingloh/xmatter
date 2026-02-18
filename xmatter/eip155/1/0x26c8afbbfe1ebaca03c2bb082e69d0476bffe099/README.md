@@ -8,8 +8,9 @@ name: Cellframe
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d41b5a"
+color: "#df3b6a"
 icons:
+  - icon.svg
   - icon.png
 ---
 

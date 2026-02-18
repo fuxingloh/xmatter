@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SANTA
 decimals: 0
-icons: []
+icons:
+  - icon.svg
+color: "#e4353d"
 ---

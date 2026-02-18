@@ -8,8 +8,9 @@ name: NIOX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0c2b3c"
+color: "#050606"
 icons:
+  - icon.svg
   - icon.png
 ---
 

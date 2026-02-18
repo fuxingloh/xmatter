@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TIDAL
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#2a2a72"
 ---

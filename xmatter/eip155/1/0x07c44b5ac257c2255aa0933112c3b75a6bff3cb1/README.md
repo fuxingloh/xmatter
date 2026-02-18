@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: oLTC
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#066ede"
 ---

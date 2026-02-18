@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SDT
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#6222e7"
 ---

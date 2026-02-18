@@ -24,8 +24,9 @@ name: DxSale Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e0e0e0"
+color: "#040404"
 icons:
+  - icon.svg
   - icon.png
 ---
 

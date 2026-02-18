@@ -8,8 +8,9 @@ name: Bidao
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1cc4f3"
+color: "#04c9bf"
 icons:
+  - icon.svg
   - icon.png
 ---
 

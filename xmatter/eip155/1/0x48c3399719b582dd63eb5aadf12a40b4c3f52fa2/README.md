@@ -37,8 +37,9 @@ name: StakeWise SWISE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8678a8"
+color: "#8779a6"
 icons:
+  - icon.svg
   - icon.png
 ---
 

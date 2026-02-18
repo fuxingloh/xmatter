@@ -14,8 +14,9 @@ name: Darwinia Commitment Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#388956"
+color: "#c0efd6"
 icons:
+  - icon.svg
   - icon.png
 ---
 

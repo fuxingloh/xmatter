@@ -8,8 +8,9 @@ name: Froge Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8ac03c"
+color: "#dddddd"
 icons:
+  - icon.svg
   - icon.png
 ---
 

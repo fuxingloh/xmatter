@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: NFTP
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#0d0d26"
 ---

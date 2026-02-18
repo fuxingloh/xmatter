@@ -8,8 +8,9 @@ name: OptionRoom Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#052fcc"
+color: "#4a6ab0"
 icons:
+  - icon.svg
   - icon.png
 ---
 

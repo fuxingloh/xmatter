@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CBK
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#2474fb"
 ---

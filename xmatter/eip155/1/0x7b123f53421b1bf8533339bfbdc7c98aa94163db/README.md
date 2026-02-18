@@ -12,8 +12,9 @@ name: DFOhub
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6404fb"
+color: "#802bf5"
 icons:
+  - icon.svg
   - icon.png
 ---
 

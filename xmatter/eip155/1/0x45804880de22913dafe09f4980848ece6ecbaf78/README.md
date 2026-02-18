@@ -8,8 +8,9 @@ name: PAX Gold
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dcc41b"
+color: "#e3d36b"
 icons:
+  - icon.svg
   - icon.png
 ---
 

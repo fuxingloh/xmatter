@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: 1PLCO2
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#0ca4dc"
 ---

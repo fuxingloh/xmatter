@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TCGC
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#07060a"
 ---

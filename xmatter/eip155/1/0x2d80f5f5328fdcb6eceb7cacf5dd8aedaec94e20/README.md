@@ -6,7 +6,8 @@ name: AGA Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fb3a3a"
+color: "#040434"
 icons:
+  - icon.svg
   - icon.png
 ---

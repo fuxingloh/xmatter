@@ -12,8 +12,9 @@ name: Pepemon Pepeballs
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c59f8b"
+color: "#192e3e"
 icons:
+  - icon.svg
   - icon.png
 ---
 

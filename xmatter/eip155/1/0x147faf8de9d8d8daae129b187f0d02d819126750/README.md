@@ -10,8 +10,9 @@ name: GeoDB Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cbebec"
+color: "#0404f6"
 icons:
+  - icon.svg
   - icon.png
 ---
 

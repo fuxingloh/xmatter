@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GLCH
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#fccc55"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: THREE
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#b92a3a"
 ---

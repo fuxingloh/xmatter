@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ALOHA
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#de1470"
 ---

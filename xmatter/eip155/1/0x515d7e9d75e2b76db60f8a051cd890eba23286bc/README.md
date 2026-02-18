@@ -16,5 +16,7 @@ links:
     url: "https://blog.governordao.org"
 symbol: GDAO
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#2c2862"
 ---

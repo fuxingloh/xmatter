@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SOAR
 decimals: 9
-icons: []
+icons:
+  - icon.svg
+color: "#acacee"
 ---

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SENPAI
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#040404"
 ---

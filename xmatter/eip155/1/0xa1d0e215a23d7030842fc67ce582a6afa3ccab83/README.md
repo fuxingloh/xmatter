@@ -8,8 +8,9 @@ name: YFII
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ed2c76"
+color: "#d00763"
 icons:
+  - icon.svg
   - icon.png
 ---
 

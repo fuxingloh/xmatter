@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: COMBO
 decimals: 18
-icons: []
+icons:
+  - icon.webp
+color: "#232430"
 ---

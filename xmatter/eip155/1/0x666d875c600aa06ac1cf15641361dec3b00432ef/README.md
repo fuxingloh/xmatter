@@ -8,8 +8,9 @@ name: BTSE Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#116cc8"
+color: "#4e62f1"
 icons:
+  - icon.svg
   - icon.png
 ---
 

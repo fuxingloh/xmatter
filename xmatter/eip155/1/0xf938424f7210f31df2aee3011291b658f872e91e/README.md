@@ -8,8 +8,9 @@ name: Visor.Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0d0c1b"
+color: "#070705"
 icons:
+  - icon.svg
   - icon.png
 ---
 

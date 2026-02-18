@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DAOfi
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#050505"
 ---

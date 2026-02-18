@@ -8,8 +8,9 @@ name: xToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6b3de7"
+color: "#6704f7"
 icons:
+  - icon.svg
   - icon.png
 ---
 

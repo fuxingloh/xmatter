@@ -16,8 +16,9 @@ name: Coreto
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#045dcb"
+color: "#0432f6"
 icons:
+  - icon.svg
   - icon.png
 ---
 

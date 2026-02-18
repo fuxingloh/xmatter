@@ -8,8 +8,9 @@ name: Wrapped Statera
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#03558b"
+color: "#0684bf"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -8,8 +8,9 @@ name: GAMEE Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4f69f7"
+color: "#4f62f2"
 icons:
+  - icon.svg
   - icon.png
 ---
 

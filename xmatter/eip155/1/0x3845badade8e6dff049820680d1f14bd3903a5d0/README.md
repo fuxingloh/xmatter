@@ -11,8 +11,9 @@ name: The Sandbox
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04acec"
+color: "#049af7"
 icons:
+  - icon.svg
   - icon.png
 ---
 

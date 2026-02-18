@@ -8,8 +8,9 @@ name: Modefi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#043c84"
+color: "#0d1027"
 icons:
+  - icon.svg
   - icon.png
 ---
 

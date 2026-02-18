@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PLSH
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#946cfc"
 ---

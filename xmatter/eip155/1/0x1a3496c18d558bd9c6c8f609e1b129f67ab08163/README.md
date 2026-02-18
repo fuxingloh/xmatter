@@ -8,8 +8,9 @@ name: DEAPCOIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e5a81c"
+color: "#d7823b"
 icons:
+  - icon.svg
   - icon.png
 ---
 

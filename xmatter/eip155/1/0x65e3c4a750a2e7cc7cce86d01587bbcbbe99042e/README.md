@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: OPU
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#51c0b2"
 ---

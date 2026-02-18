@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: LPL
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#0479f7"
 ---

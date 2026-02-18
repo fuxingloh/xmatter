@@ -8,8 +8,9 @@ name: FunFair
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e02d51"
+color: "#f5f5f5"
 icons:
+  - icon.svg
   - icon.png
 ---
 

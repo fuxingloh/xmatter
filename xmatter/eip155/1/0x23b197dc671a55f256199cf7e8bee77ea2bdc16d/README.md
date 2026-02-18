@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: mUSDC
 decimals: 6
-icons: []
+icons:
+  - icon.svg
+color: "#2a68c0"
 ---

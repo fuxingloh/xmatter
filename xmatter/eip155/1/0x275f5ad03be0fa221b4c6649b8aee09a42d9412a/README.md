@@ -16,8 +16,9 @@ name: Monavale
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#131313"
+color: "#050505"
 icons:
+  - icon.svg
   - icon.png
 ---
 

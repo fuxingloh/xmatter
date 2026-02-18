@@ -8,7 +8,8 @@ name: UniPower
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c79224"
+color: "#cea13a"
 icons:
+  - icon.svg
   - icon.png
 ---

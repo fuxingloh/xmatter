@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: BLES
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#dc74e4"
 ---

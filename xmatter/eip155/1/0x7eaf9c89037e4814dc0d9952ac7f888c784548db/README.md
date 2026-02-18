@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ROYA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#8e99d7"
 ---

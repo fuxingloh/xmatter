@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MV
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#e7a02c"
 ---

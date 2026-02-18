@@ -14,7 +14,9 @@ links:
     url: "https://medium.com/mahadao"
 symbol: MAHA
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#e93643"
 ---
 
 Mahadao introduces non-depreciating currency ARTH coin, a new kind of money that maintains it's buying power irrespective of which direction the market moves.

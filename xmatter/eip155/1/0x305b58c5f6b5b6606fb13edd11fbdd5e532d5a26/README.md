@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DYAD
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#dfdfdf"
 ---

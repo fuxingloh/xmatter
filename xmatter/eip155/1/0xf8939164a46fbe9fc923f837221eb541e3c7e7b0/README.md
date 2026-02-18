@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PENKY
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#bb117a"
 ---

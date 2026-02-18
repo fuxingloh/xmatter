@@ -12,5 +12,7 @@ links:
     url: "https://www.reddit.com/r/FuckToken"
 symbol: FUCK
 decimals: 4
-icons: []
+icons:
+  - icon.svg
+color: "#4cb4e4"
 ---

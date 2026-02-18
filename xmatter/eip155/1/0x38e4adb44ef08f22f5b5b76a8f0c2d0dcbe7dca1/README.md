@@ -18,8 +18,9 @@ name: Concentrated Voting Power
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1b2be3"
+color: "#ececec"
 icons:
+  - icon.svg
   - icon.png
 ---
 

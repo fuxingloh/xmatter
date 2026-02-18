@@ -8,8 +8,9 @@ name: Ruletka
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#625252"
+color: "#dcdcdc"
 icons:
+  - icon.svg
   - icon.png
 ---
 

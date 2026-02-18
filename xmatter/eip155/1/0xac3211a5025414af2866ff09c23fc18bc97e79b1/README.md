@@ -8,8 +8,9 @@ name: DOVU
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2172f9"
+color: "#145af6"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -11,8 +11,9 @@ name: DAO Maker
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#43affa"
+color: "#43aff8"
 icons:
+  - icon.svg
   - icon.png
 ---
 

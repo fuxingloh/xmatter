@@ -8,8 +8,9 @@ name: Tellor
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#45faab"
+color: "#45f7aa"
 icons:
+  - icon.svg
   - icon.png
 ---
 

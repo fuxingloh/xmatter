@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: GIST
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c39104"
 ---

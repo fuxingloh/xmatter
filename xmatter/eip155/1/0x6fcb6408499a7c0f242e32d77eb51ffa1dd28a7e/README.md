@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: xHDX
 decimals: 12
-icons: []
+icons:
+  - icon.svg
+color: "#0c126a"
 ---

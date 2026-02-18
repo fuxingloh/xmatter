@@ -8,7 +8,8 @@ name: Hydro (old)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#338cfc"
+color: "#0c74f4"
 icons:
+  - icon.svg
   - icon.png
 ---

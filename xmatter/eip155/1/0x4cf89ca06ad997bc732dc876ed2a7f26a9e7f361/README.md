@@ -22,8 +22,9 @@ name: Mysterium
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2d2464"
+color: "#86245d"
 icons:
+  - icon.svg
   - icon.png
 ---
 

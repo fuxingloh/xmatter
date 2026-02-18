@@ -8,8 +8,9 @@ name: GraphLinq
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4c9cfc"
+color: "#761ee7"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KOIN
 decimals: 8
-icons: []
+icons:
+  - icon.svg
+color: "#6204f7"
 ---

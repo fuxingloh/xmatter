@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: SWAM
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#0c2556"
 ---

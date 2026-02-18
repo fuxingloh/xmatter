@@ -8,8 +8,9 @@ name: Kylin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e4047c"
+color: "#e00478"
 icons:
+  - icon.svg
   - icon.png
 ---
 

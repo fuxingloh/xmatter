@@ -8,8 +8,9 @@ name: Polkalokr
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e4077d"
+color: "#3c3c3c"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DARK
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#fc0544"
 ---

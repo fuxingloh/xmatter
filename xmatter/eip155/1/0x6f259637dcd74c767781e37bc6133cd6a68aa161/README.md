@@ -18,8 +18,9 @@ name: Huobi Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2aaee3"
+color: "#eeeeee"
 icons:
+  - icon.svg
   - icon.png
 ---
 

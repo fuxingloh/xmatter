@@ -8,8 +8,9 @@ name: GOVI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2452a5"
+color: "#dfdfdf"
 icons:
+  - icon.svg
   - icon.png
 ---
 

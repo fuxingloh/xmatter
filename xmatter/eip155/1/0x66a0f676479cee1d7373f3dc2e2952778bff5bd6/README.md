@@ -8,8 +8,9 @@ name: Wise Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#141c3c"
+color: "#058c84"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: FOLO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#2c2c2c"
 ---

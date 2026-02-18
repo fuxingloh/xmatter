@@ -20,8 +20,9 @@ name: ARMOR
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1b93fc"
+color: "#1b6bda"
 icons:
+  - icon.svg
   - icon.png
 ---
 

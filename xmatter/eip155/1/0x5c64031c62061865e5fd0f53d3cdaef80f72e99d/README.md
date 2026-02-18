@@ -8,8 +8,9 @@ name: HASHGARD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3374bb"
+color: "#1474e4"
 icons:
+  - icon.svg
   - icon.png
 ---
 
