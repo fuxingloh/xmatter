@@ -1,4 +1,4 @@
-# <a href="https://xmatter.org"><img src="website/app/icon.svg" alt="xmatter logo" width="26"></a> Xmatter
+# <a href="https://xmatter.org"><img src="website/app/icon.svg" alt="xmatter logo" width="30"></a> Xmatter
 
 Structured metadata for addresses and smart contracts — the frontpage for every on-chain address.
 The npm registry for assets on-chain.
