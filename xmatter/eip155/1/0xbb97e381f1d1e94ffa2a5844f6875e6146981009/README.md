@@ -16,5 +16,7 @@ links:
     url: "https://medium.com/wibxcoin"
 symbol: WBX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#21fcb8"
 ---

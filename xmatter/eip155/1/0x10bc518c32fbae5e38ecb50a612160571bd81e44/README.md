@@ -10,5 +10,7 @@ links:
     url: "https://twitter.com/VROstablecoin"
 symbol: VRO
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#8e2c74"
 ---

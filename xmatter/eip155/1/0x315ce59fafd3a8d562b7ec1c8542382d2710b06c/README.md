@@ -10,5 +10,7 @@ links:
     url: "https://t.me/joinchat/FoJjLkP1Qxh9yZbCZ5mC9A"
 symbol: CCS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d19951"
 ---

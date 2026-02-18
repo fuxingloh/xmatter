@@ -14,5 +14,7 @@ links:
     url: "https://www.reddit.com/user/krisperio/"
 symbol: KRP
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#242424"
 ---

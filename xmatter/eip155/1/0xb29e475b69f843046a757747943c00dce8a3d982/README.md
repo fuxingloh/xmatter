@@ -14,5 +14,7 @@ links:
     url: "https://www.reddit.com/r/Spectre__/"
 symbol: SPCTR
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#2d2c28"
 ---

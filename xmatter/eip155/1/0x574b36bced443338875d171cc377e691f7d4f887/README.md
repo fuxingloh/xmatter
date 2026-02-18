@@ -8,5 +8,7 @@ links:
     url: "https://co2bit.com"
 symbol: CO2Bit
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c9c8c6"
 ---

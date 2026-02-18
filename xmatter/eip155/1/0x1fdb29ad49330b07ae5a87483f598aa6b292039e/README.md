@@ -12,5 +12,7 @@ links:
     url: "https://t.me/LTDTOKEN"
 symbol: LTD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#b78e55"
 ---

@@ -14,5 +14,7 @@ links:
     url: "https://reddit.com/r/ethereumclassic"
 symbol: WETC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#040404"
 ---

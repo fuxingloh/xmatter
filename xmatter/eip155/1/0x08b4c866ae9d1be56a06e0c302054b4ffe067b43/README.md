@@ -18,5 +18,7 @@ links:
     url: "https://medium.com/@bitcar"
 symbol: BITCAR
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#140f11"
 ---

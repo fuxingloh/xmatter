@@ -6,5 +6,7 @@ standards:
 links: []
 symbol: rUSDT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#24a37b"
 ---

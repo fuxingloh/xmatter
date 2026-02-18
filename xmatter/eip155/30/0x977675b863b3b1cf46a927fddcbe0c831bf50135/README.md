@@ -6,5 +6,7 @@ standards:
 links: []
 symbol: BOBCB
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e2be67"
 ---

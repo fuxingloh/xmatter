@@ -14,5 +14,7 @@ links:
     url: "https://medium.com/@woof-tools"
 symbol: TOOLS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#b22a0f"
 ---

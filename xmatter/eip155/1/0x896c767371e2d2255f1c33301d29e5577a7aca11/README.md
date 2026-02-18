@@ -12,5 +12,7 @@ links:
     url: "https://t.me/BullaFunEntry"
 symbol: BULLA
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#c25f14"
 ---

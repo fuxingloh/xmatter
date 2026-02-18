@@ -6,5 +6,7 @@ standards:
 links: []
 symbol: PENCB
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f6c72d"
 ---

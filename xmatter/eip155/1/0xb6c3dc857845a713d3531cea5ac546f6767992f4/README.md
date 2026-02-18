@@ -14,5 +14,7 @@ links:
     url: "https://github.com/advertisecoin"
 symbol: ADCO
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#2b2a29"
 ---

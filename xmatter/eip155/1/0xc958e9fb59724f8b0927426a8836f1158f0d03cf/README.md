@@ -18,5 +18,7 @@ links:
     url: "https://medium.com/@VladimirTikhomirov"
 symbol: SWAP
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#4c546b"
 ---

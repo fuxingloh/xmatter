@@ -16,5 +16,7 @@ links:
     url: "https://medium.com/@mikado.io"
 symbol: MKT
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#cccccc"
 ---

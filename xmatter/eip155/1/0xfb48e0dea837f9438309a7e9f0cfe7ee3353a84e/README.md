@@ -18,5 +18,7 @@ links:
     url: "https://medium.com/@mdpienaar"
 symbol: AFA
 decimals: 2
-icons: []
+icons:
+  - icon.png
+color: "#0a6bfc"
 ---

@@ -6,5 +6,7 @@ standards:
 links: []
 symbol: crUSDT
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#0486e9"
 ---

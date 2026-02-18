@@ -14,5 +14,7 @@ links:
     url: "https://github.com/money-on-chain/"
 symbol: BITP
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fc9414"
 ---

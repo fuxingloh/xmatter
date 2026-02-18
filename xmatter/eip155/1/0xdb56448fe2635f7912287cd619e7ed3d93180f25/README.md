@@ -10,5 +10,7 @@ links:
     url: "https://github.com/coinvisa"
 symbol: CVS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#2cadbe"
 ---

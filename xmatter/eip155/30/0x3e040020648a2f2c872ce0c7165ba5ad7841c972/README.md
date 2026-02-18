@@ -6,5 +6,7 @@ standards:
 links: []
 symbol: BRLCB
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c8d04d"
 ---

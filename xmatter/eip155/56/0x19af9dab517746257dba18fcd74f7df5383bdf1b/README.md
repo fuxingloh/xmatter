@@ -14,5 +14,7 @@ links:
     url: "https://github.com/Pomo-Protocol/"
 symbol: POMO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d9dee2"
 ---

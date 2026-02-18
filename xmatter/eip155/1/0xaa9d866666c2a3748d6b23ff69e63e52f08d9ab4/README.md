@@ -18,5 +18,7 @@ links:
     url: "https://medium.com/@CivitasFundamenta"
 symbol: FMTA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#24a3db"
 ---

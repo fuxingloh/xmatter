@@ -12,5 +12,7 @@ links:
     url: "https://t.me/BabyTrumpOfficial"
 symbol: BABYTRUMP
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#a33b2c"
 ---

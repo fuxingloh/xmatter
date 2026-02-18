@@ -18,5 +18,7 @@ links:
     url: "https://swashapp.io/blog/"
 symbol: SWASH
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#dff8e3"
 ---

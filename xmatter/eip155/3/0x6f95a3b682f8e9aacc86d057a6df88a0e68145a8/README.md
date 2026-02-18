@@ -6,5 +6,7 @@ standards:
 links: []
 symbol: ILSC
 decimals: 2
-icons: []
+icons:
+  - icon.png
+color: "#d7b866"
 ---

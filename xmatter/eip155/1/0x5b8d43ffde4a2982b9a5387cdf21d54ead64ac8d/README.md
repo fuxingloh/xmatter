@@ -14,5 +14,7 @@ links:
     url: "https://www.reddit.com/r/MonacoEstate/"
 symbol: MEST
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f9f0d6"
 ---

@@ -18,5 +18,7 @@ links:
     url: "https://medium.com/@umka_"
 symbol: UMKA
 decimals: 4
-icons: []
+icons:
+  - icon.jpeg
+color: "#1b1c3b"
 ---

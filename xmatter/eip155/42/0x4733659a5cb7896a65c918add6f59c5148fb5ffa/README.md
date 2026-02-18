@@ -6,5 +6,7 @@ standards:
 links: []
 symbol: GAV
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#dfb146"
 ---

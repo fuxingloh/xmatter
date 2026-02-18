@@ -11,4 +11,5 @@ standards:
 color: "#04fbfb"
 icons:
   - icon.png
+  - icon.webp
 ---

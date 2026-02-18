@@ -18,5 +18,7 @@ links:
     url: "https://medium.com/fr8-network"
 symbol: FR8
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#201820"
 ---

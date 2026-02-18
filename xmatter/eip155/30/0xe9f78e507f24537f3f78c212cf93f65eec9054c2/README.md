@@ -6,5 +6,7 @@ standards:
 links: []
 symbol: VESCB
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#c7061b"
 ---

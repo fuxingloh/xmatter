@@ -16,5 +16,7 @@ links:
     url: "https://www.reddit.com/user/swapcoinz"
 symbol: SPAZ
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#d5cb72"
 ---

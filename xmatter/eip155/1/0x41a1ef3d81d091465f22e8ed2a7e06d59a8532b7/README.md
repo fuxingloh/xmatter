@@ -18,5 +18,7 @@ links:
     url: "https://fanatico.medium.com/"
 symbol: FCO
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+color: "#119fb5"
 ---

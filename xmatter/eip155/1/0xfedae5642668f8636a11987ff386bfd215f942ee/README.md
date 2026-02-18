@@ -16,5 +16,7 @@ links:
     url: "https://medium.com/@policypalnet"
 symbol: PAL
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#04cea7"
 ---

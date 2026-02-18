@@ -10,5 +10,7 @@ links:
     url: "https://mirror.xyz/tetherzero.eth"
 symbol: USD₮0
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#04bc8b"
 ---

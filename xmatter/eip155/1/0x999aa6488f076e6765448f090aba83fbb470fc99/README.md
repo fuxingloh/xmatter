@@ -18,5 +18,7 @@ links:
     url: "https://medium.com/@cocoricos/"
 symbol: EGG
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#4f5df1"
 ---

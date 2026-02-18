@@ -16,5 +16,7 @@ links:
     url: "https://checkdot.medium.com"
 symbol: CDT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#39ee93"
 ---

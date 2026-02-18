@@ -14,5 +14,7 @@ links:
     url: "https://github.com/DistributedCollective"
 symbol: SOV
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#cfcfcf"
 ---

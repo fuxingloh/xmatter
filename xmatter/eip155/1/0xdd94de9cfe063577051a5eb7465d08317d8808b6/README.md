@@ -8,5 +8,7 @@ links:
     url: "https://www.devcon2-token.com"
 symbol: Devcon2 Token
 decimals: 0
-icons: []
+icons:
+  - icon.png
+color: "#ce9bd6"
 ---

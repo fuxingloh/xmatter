@@ -16,5 +16,7 @@ links:
     url: "https://www.reddit.com/r/SysCoin/"
 symbol: SYSX
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#048bd2"
 ---

@@ -18,5 +18,7 @@ links:
     url: "https://medium.com/iex-ec"
 symbol: RLC
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#fbdb04"
 ---

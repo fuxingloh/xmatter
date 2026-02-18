@@ -12,5 +12,7 @@ links:
     url: "https://t.me/CMOS_MAIN/"
 symbol: CMOS
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#48ffcf"
 ---

@@ -14,5 +14,7 @@ links:
     url: "https://github.com/vegaprotocol"
 symbol: VEGA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#000000"
 ---

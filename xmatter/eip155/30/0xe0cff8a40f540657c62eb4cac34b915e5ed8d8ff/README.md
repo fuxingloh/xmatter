@@ -8,5 +8,7 @@ links:
     url: "https://www.sesocio.com/projects/cryptocurrency/investolan"
 symbol: INV
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#1a7dfb"
 ---

@@ -16,5 +16,7 @@ links:
     url: "https://www.reddit.com/r/RadioYo/"
 symbol: RAO
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#f36627"
 ---

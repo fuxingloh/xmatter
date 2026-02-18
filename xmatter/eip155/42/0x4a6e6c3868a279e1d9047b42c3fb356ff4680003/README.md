@@ -6,5 +6,7 @@ standards:
 links: []
 symbol: TIB
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#050505"
 ---

@@ -18,5 +18,7 @@ links:
     url: "https://dirtyfinance.medium.com/"
 symbol: DIRTY
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#be7889"
 ---

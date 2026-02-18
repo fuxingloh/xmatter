@@ -14,5 +14,7 @@ links:
     url: "https://github.com/money-on-chain/"
 symbol: DOC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#04a454"
 ---

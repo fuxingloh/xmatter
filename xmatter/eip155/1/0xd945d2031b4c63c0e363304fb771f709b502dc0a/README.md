@@ -15,5 +15,7 @@ links:
       https://support.bountymarketcap.com/hc/en-us/categories/360002917460-Announcements
 symbol: BMC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#000000"
 ---

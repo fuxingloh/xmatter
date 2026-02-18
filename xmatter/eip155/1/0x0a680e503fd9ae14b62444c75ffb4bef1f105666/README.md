@@ -14,5 +14,7 @@ links:
     url: "https://github.com/dimabarsu/GZM-Armacoin/blob/master/armacoin.sol"
 symbol: GZM
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#0e5075"
 ---

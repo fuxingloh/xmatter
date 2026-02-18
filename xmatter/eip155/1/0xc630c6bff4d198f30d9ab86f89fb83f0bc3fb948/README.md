@@ -12,5 +12,7 @@ links:
     url: "https://t.me/bitdonationofficial"
 symbol: BDT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#79582d"
 ---

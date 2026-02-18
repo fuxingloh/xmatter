@@ -18,5 +18,7 @@ links:
     url: "https://worldcoincash.wordpress.com/"
 symbol: WCN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#222222"
 ---

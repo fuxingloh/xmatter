@@ -12,5 +12,7 @@ links:
     url: "https://github.com/white-b0x/classic-usd"
 symbol: USC
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#33fb9b"
 ---

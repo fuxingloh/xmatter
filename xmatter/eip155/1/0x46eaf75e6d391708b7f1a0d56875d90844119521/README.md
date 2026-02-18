@@ -10,5 +10,7 @@ links:
     url: "https://twitter.com/syscoin"
 symbol: SYS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#ec54dc"
 ---

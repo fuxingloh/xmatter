@@ -6,5 +6,7 @@ standards:
 links: []
 symbol: cRIF
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#0587ea"
 ---

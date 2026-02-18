@@ -14,5 +14,7 @@ links:
     url: "https://www.reddit.com/r/Gluwacoin/"
 symbol: KRW-G
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#04d0fc"
 ---

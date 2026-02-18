@@ -6,5 +6,7 @@ standards:
 links: []
 symbol: USDC.e
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#2373cb"
 ---

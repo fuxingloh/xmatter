@@ -6,5 +6,7 @@ standards:
 links: []
 symbol: RIFP
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0584fc"
 ---

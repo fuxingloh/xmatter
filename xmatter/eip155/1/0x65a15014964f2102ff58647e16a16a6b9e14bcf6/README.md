@@ -18,5 +18,7 @@ links:
     url: "https://oxfina.com/blog"
 symbol: Ox Fina
 decimals: 3
-icons: []
+icons:
+  - icon.png
+color: "#286e9c"
 ---

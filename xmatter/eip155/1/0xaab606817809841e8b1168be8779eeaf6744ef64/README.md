@@ -12,5 +12,7 @@ links:
     url: "https://medium.com/tendswiss"
 symbol: TTA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#6311a7"
 ---

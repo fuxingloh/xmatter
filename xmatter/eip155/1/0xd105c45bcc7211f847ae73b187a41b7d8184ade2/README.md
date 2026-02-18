@@ -14,5 +14,7 @@ links:
     url: "https://github.com/NutcoinOrg/nutcash"
 symbol: NCASH
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#eadcb5"
 ---

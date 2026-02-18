@@ -6,5 +6,7 @@ standards:
 links: []
 symbol: 2DC
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#8c8c8c"
 ---

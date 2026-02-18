@@ -18,5 +18,7 @@ links:
     url: "https://medium.com/@bitcar"
 symbol: 599GTO1
 decimals: 8
-icons: []
+icons:
+  - icon.jpeg
+color: "#e82f35"
 ---

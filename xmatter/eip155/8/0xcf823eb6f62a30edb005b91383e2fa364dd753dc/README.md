@@ -6,5 +6,7 @@ standards:
 links: []
 symbol: TGE1
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#a97959"
 ---

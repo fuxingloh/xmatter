@@ -14,5 +14,7 @@ links:
     url: "https://rbxtoken.medium.com/"
 symbol: RBX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#b23b2b"
 ---

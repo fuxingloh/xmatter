@@ -18,5 +18,7 @@ links:
     url: "https://blog.livenpay.io"
 symbol: LVN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fc346b"
 ---

@@ -18,5 +18,7 @@ links:
     url: "https://medium.com/quadrans"
 symbol: QDT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#4c63db"
 ---

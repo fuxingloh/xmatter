@@ -12,5 +12,7 @@ links:
     url: "https://t.me/coinrankersuite"
 symbol: TREND
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#251b13"
 ---

@@ -18,5 +18,7 @@ links:
     url: "https://medium.com/@etfrocks"
 symbol: ETF
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#41356b"
 ---

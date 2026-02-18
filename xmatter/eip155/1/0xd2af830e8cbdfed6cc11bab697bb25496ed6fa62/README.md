@@ -18,5 +18,7 @@ links:
     url: "https://medium.com/originprotocol"
 symbol: WOUSD
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e9ebec"
 ---

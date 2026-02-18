@@ -12,5 +12,7 @@ links:
     url: "https://github.com/AureiProject/aurei-token"
 symbol: ARE
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#c8a868"
 ---

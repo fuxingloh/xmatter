@@ -6,5 +6,7 @@ standards:
 links: []
 symbol: SPHR
 decimals: 8
-icons: []
+icons:
+  - icon.png
+color: "#ab80cf"
 ---

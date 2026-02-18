@@ -17,5 +17,7 @@ links:
     url: "https://kaizenfinance.medium.com"
 symbol: KZEN
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#e62727"
 ---

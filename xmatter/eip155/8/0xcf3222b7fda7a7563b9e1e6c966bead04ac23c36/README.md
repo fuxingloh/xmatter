@@ -6,5 +6,7 @@ standards:
 links: []
 symbol: ESCH
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#4d4d4d"
 ---
