@@ -50,7 +50,13 @@ export class ViaProtocolTokenList extends FileSystemAgent<Token> {
 
   async write(uri: string, token: Token, source: string, target: string, file: XmatterFile): Promise<void> {
     if (token.logoURI) {
-      await fetcher.copyIcon(token.logoURI, target);
+      const url = token.logoURI.startsWith("https://elk.finance/tokens/")
+        ? token.logoURI.replace(
+            "https://elk.finance/tokens/",
+            "https://raw.githubusercontent.com/elkfinance/tokens/main/",
+          ) + "/logo.png"
+        : token.logoURI;
+      await fetcher.copyIcon(url, target);
     }
     await super.write(uri, token, source, target, file);
   }
