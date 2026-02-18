@@ -18,24 +18,13 @@ export class FetchWithIgnore {
     }
   }
 
-  private getDomain(url: string): string {
-    try {
-      return new URL(url).hostname;
-    } catch {
-      return url;
-    }
-  }
-
   shouldSkip(url: string): boolean {
     if ((this.state[url] ?? 0) >= 3) return true;
-    if ((this.state[this.getDomain(url)] ?? 0) >= 50) return true;
     return false;
   }
 
   private recordFailure(url: string, increment = 1): void {
     this.state[url] = (this.state[url] ?? 0) + increment;
-    const domain = this.getDomain(url);
-    this.state[domain] = (this.state[domain] ?? 0) + increment;
     writeFileSync(STATE_PATH, JSON.stringify(this.state, null, 2));
   }
 

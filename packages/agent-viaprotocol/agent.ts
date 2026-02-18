@@ -50,9 +50,7 @@ export class ViaProtocolTokenList extends FileSystemAgent<Token> {
 
   async write(uri: string, token: Token, source: string, target: string, file: XmatterFile): Promise<void> {
     if (token.logoURI) {
-      if (!token.logoURI.startsWith("https://elk.finance/tokens/logos/xdai")) {
-        await fetcher.copyIcon(token.logoURI, target);
-      }
+      await fetcher.copyIcon(token.logoURI, target);
     }
     await super.write(uri, token, source, target, file);
   }
