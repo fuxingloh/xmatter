@@ -49,7 +49,7 @@ export abstract class FileSystemAgent<Entry> {
     file = await this.mergeFile(target, file);
     file = await this.mergeIcons(target, file);
     file = await this.mergeColor(target, file);
-    await writeFile(join(target, "README.md"), gray.stringify(file.content ?? "", file.data));
+    await writeIfChanged(join(target, "README.md"), file);
   }
 
   async mergeFile(target: string, file: XmatterFile): Promise<XmatterFile> {
@@ -153,6 +153,19 @@ export async function copyImage(from: string, to: string): Promise<void> {
   }
 
   await copyFile(from, to);
+}
+
+async function writeIfChanged(path: string, file: XmatterFile): Promise<void> {
+  try {
+    const existing = gray.read(path);
+    if (
+      JSON.stringify(existing.data) === JSON.stringify(file.data) &&
+      (existing.content.trim() || "") === (file.content?.trim() || "")
+    ) {
+      return;
+    }
+  } catch {}
+  await writeFile(path, gray.stringify(file.content ?? "", file.data));
 }
 
 // Simple utility to check a filepath exist.
