@@ -10,7 +10,7 @@ interface PolygonToken {
   chainId: number;
   name: string;
   symbol: string;
-  decimals: number;
+  decimals?: number;
   originTokenAddress: string;
   originNetworkId: number;
   tags?: string[];
@@ -32,7 +32,7 @@ export class PolygonTokenList extends FileSystemAgent<PolygonToken> {
         provenance: "https://github.com/maticnetwork/polygon-token-list",
         standards,
         symbol: token.symbol,
-        decimals: token.decimals,
+        ...(token.decimals !== undefined && { decimals: Number(token.decimals) }),
         icons: [],
       },
       content: "",
