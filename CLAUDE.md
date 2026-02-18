@@ -71,6 +71,9 @@ Key behaviors:
 - **Merge strategy**: Existing keys are never overwritten — only new keys are added
 - **LOCK file**: A `LOCK` file in a metadata directory prevents agent overwrites
 - Entries are written to `xmatter/{namespace}/{chainId}/{address}/README.md` as YAML frontmatter + markdown
+- **CI**: When adding a new agent, always register it in `.github/workflows/agent.yml` under the matrix
+- **Chain IDs**: Always verify chain IDs against [chainlist.org](https://chainlist.org). Never guess chain IDs.
+- **Testnets**: Never skip testnet chains — include them in agents
 
 ### Schema (packages/xmatter/schema.ts)
 

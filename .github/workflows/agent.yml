@@ -45,6 +45,9 @@ jobs:
           - agent: agent-ethereum-lists
             repo: ethereum-lists/tokens
             ref: master
+          - agent: agent-elkfinance
+            repo: elkfinance/tokens
+            ref: main
     steps:
       - uses: actions/checkout@v6
       - uses: ./.github/actions/setup

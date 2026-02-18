@@ -26,6 +26,14 @@
         "zod": "^4.3.6",
       },
     },
+    "packages/agent-elkfinance": {
+      "name": "@workspace/agent-elkfinance",
+      "version": "0.0.0",
+      "dependencies": {
+        "@workspace/agent-base": "workspace:*",
+        "xmatter": "workspace:*",
+      },
+    },
     "packages/agent-ethereum-lists": {
       "name": "@workspace/agent-ethereum-lists",
       "version": "0.0.0",
@@ -522,6 +530,8 @@
     "@vercel/analytics": ["@vercel/analytics@1.6.1", "", { "optionalDependencies": { "next": "16.1.3", "react": "19.2.3" } }, "sha512-oH9He/bEM+6oKlv3chWuOOcp8Y6fo6/PSro8hEkgCW3pu9/OiCXiUpRUogDh3Fs3LH2sosDrx8CxeOLBEE+afg=="],
 
     "@workspace/agent-base": ["@workspace/agent-base@workspace:packages/agent-base"],
+
+    "@workspace/agent-elkfinance": ["@workspace/agent-elkfinance@workspace:packages/agent-elkfinance"],
 
     "@workspace/agent-ethereum-lists": ["@workspace/agent-ethereum-lists@workspace:packages/agent-ethereum-lists"],
 
