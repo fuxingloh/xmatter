@@ -3,6 +3,7 @@ import { join } from "node:path";
 
 import { XmatterFile, XmatterSchema } from "xmatter/schema";
 import { FileSystemAgent, hasFile } from "@workspace/agent-base/fs";
+import { FetchWithIgnore } from "@workspace/agent-base/fetch";
 
 interface Token {
   symbol: string;
@@ -46,9 +47,18 @@ export class ViaProtocolTokenList extends FileSystemAgent<Token> {
       content: "",
     };
   }
+
+  async write(uri: string, token: Token, source: string, target: string, file: XmatterFile): Promise<void> {
+    if (token.logoURI) {
+      await fetcher.copyIcon(token.logoURI, target);
+    }
+    await super.write(uri, token, source, target, file);
+  }
 }
 
+const fetcher = new FetchWithIgnore();
 const agent = new ViaProtocolTokenList();
+
 const tokenlistsDir = ".repo/tokenlists";
 
 const files = await readdir(tokenlistsDir);

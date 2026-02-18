@@ -3,6 +3,7 @@ import { join } from "node:path";
 
 import { XmatterFile, XmatterSchema } from "xmatter/schema";
 import { FileSystemAgent, hasFile } from "@workspace/agent-base/fs";
+import { FetchWithIgnore } from "@workspace/agent-base/fetch";
 
 const NATIVE_ETH_SENTINEL = "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee";
 
@@ -35,6 +36,13 @@ export class PolygonTokenList extends FileSystemAgent<PolygonToken> {
       },
       content: "",
     };
+  }
+
+  async write(uri: string, token: PolygonToken, source: string, target: string, file: XmatterFile): Promise<void> {
+    if (token.logoURI) {
+      await fetcher.copyIcon(token.logoURI, target);
+    }
+    await super.write(uri, token, source, target, file);
   }
 
   async processFile(filePath: string): Promise<void> {
@@ -72,6 +80,7 @@ export class PolygonTokenList extends FileSystemAgent<PolygonToken> {
   }
 }
 
+const fetcher = new FetchWithIgnore();
 const agent = new PolygonTokenList();
 
 const files = [

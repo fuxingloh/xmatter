@@ -1,7 +1,9 @@
 import { readFile } from "node:fs/promises";
+import { join } from "node:path";
 
 import { XmatterFile } from "xmatter/schema";
 import { FileSystemAgent, hasFile } from "@workspace/agent-base/fs";
+import { FetchWithIgnore } from "@workspace/agent-base/fetch";
 
 interface TokenInfo {
   symbol: string;
@@ -109,8 +111,16 @@ export class EthereumListsTokens extends FileSystemAgent<TokenInfo> {
       content: "",
     };
   }
+
+  async write(uri: string, data: TokenInfo, source: string, target: string, file: XmatterFile): Promise<void> {
+    if (data.logo?.src) {
+      await fetcher.copyIcon(data.logo.src, target);
+    }
+    await super.write(uri, data, source, target, file);
+  }
 }
 
+const fetcher = new FetchWithIgnore();
 const agent = new EthereumListsTokens();
 
 for (const [chain, chainId] of Object.entries(CHAINS)) {
