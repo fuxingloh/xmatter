@@ -15,6 +15,14 @@
         "typescript": "5.9.3",
       },
     },
+    "packages/agent-arbitrum": {
+      "name": "@workspace/agent-arbitrum",
+      "version": "0.0.0",
+      "dependencies": {
+        "@workspace/agent-base": "workspace:*",
+        "xmatter": "workspace:*",
+      },
+    },
     "packages/agent-base": {
       "name": "@workspace/agent-base",
       "version": "0.0.0",
@@ -24,6 +32,14 @@
         "sharp": "^0.34.5",
         "xmatter": "workspace:*",
         "zod": "^4.3.6",
+      },
+    },
+    "packages/agent-ethereum-lists": {
+      "name": "@workspace/agent-ethereum-lists",
+      "version": "0.0.0",
+      "dependencies": {
+        "@workspace/agent-base": "workspace:*",
+        "xmatter": "workspace:*",
       },
     },
     "packages/agent-ethereum-optimism": {
@@ -43,6 +59,22 @@
         "xmatter": "workspace:*",
       },
     },
+    "packages/agent-pancakeswap": {
+      "name": "@workspace/agent-pancakeswap",
+      "version": "0.0.0",
+      "dependencies": {
+        "@workspace/agent-base": "workspace:*",
+        "xmatter": "workspace:*",
+      },
+    },
+    "packages/agent-polygon": {
+      "name": "@workspace/agent-polygon",
+      "version": "0.0.0",
+      "dependencies": {
+        "@workspace/agent-base": "workspace:*",
+        "xmatter": "workspace:*",
+      },
+    },
     "packages/agent-smol-dapp": {
       "name": "@workspace/agent-smol-dapp",
       "version": "0.0.0",
@@ -54,6 +86,22 @@
     },
     "packages/agent-trust-wallet": {
       "name": "@workspace/agent-trust-wallet",
+      "version": "0.0.0",
+      "dependencies": {
+        "@workspace/agent-base": "workspace:*",
+        "xmatter": "workspace:*",
+      },
+    },
+    "packages/agent-uniswap": {
+      "name": "@workspace/agent-uniswap",
+      "version": "0.0.0",
+      "dependencies": {
+        "@workspace/agent-base": "workspace:*",
+        "xmatter": "workspace:*",
+      },
+    },
+    "packages/agent-viaprotocol": {
+      "name": "@workspace/agent-viaprotocol",
       "version": "0.0.0",
       "dependencies": {
         "@workspace/agent-base": "workspace:*",
@@ -497,15 +545,27 @@
 
     "@vercel/analytics": ["@vercel/analytics@1.6.1", "", { "optionalDependencies": { "next": "16.1.3", "react": "19.2.3" } }, "sha512-oH9He/bEM+6oKlv3chWuOOcp8Y6fo6/PSro8hEkgCW3pu9/OiCXiUpRUogDh3Fs3LH2sosDrx8CxeOLBEE+afg=="],
 
+    "@workspace/agent-arbitrum": ["@workspace/agent-arbitrum@workspace:packages/agent-arbitrum"],
+
     "@workspace/agent-base": ["@workspace/agent-base@workspace:packages/agent-base"],
+
+    "@workspace/agent-ethereum-lists": ["@workspace/agent-ethereum-lists@workspace:packages/agent-ethereum-lists"],
 
     "@workspace/agent-ethereum-optimism": ["@workspace/agent-ethereum-optimism@workspace:packages/agent-ethereum-optimism"],
 
     "@workspace/agent-icon-color": ["@workspace/agent-icon-color@workspace:packages/agent-icon-color"],
 
+    "@workspace/agent-pancakeswap": ["@workspace/agent-pancakeswap@workspace:packages/agent-pancakeswap"],
+
+    "@workspace/agent-polygon": ["@workspace/agent-polygon@workspace:packages/agent-polygon"],
+
     "@workspace/agent-smol-dapp": ["@workspace/agent-smol-dapp@workspace:packages/agent-smol-dapp"],
 
     "@workspace/agent-trust-wallet": ["@workspace/agent-trust-wallet@workspace:packages/agent-trust-wallet"],
+
+    "@workspace/agent-uniswap": ["@workspace/agent-uniswap@workspace:packages/agent-uniswap"],
+
+    "@workspace/agent-viaprotocol": ["@workspace/agent-viaprotocol@workspace:packages/agent-viaprotocol"],
 
     "@workspace/website": ["@workspace/website@workspace:website"],
 
