@@ -14,6 +14,7 @@ const FILES: [string, string][] = [
   ["icon.svg", "image/svg+xml"],
   ["icon.png", "image/png"],
   ["icon.jpg", "image/jpeg"],
+  ["icon.webp", "image/webp"],
 ];
 
 export async function GET(_: Request, context: RouteContext<"/eip155/[chainId]/[address]/icon.webp">) {

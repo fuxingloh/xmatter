@@ -77,7 +77,7 @@ export abstract class FileSystemAgent<Entry> {
   async mergeIcons(target: string, file: XmatterFile): Promise<XmatterFile> {
     const icons: string[] = [];
 
-    for (const icon of ["icon.svg", "icon.png", "icon.jpg", "icon.jpeg"]) {
+    for (const icon of ["icon.svg", "icon.png", "icon.jpg", "icon.jpeg", "icon.webp"]) {
       const iconPath = join(target, icon);
       if (await hasFile(iconPath)) {
         icons.push(icon);

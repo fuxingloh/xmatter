@@ -58,13 +58,13 @@ See [README.md](/docs/standards/markdown) for the full schema.
 
 ## icon
 
-Returns the icon as a **256x256 WebP** image, converting from the original format (SVG, PNG, or JPG).
+Returns the icon as a **256x256 WebP** image, converting from the original format (SVG, PNG, JPG, or WebP).
 
 ```
 GET /{namespace}/{chainId}/{address}/icon
 ```
 
-The endpoint tries `icon.svg`, `icon.png`, and `icon.jpg` in order and returns the first one found.
+The endpoint tries `icon.svg`, `icon.png`, `icon.jpg`, and `icon.webp` in order and returns the first one found.
 
 ## icon.webp
 
