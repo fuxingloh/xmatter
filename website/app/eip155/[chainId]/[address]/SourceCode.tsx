@@ -24,28 +24,41 @@ interface SourcifyContract {
 
 async function fetchSourcifyContract(chainId: string, address: string): Promise<{ files: SourceFile[] } | null> {
   try {
-    const response = await fetch(`https://sourcify.dev/server/files/${chainId}/${address}`, {
+    // Normalize address to checksum format
+    const checksumAddress = address.toLowerCase();
+
+    const response = await fetch(`https://sourcify.dev/server/files/${chainId}/${checksumAddress}`, {
       next: { revalidate: 86400 }, // Cache for 24 hours
+      headers: {
+        Accept: "application/json",
+      },
     });
 
     if (!response.ok) {
+      // Silently fail for non-200 responses (contract not verified, API down, etc.)
       return null;
     }
 
     const data = (await response.json()) as SourcifyContract;
 
+    // Validate the response structure
+    if (!data || !Array.isArray(data.files)) {
+      console.warn("Invalid Sourcify API response structure");
+      return null;
+    }
+
     // Filter to only show Solidity source files, excluding metadata and other files
     const sourceFiles = data.files
-      .filter((file) => file.name.endsWith(".sol"))
+      .filter((file) => file && file.name && file.name.endsWith(".sol") && file.content)
       .map((file) => ({
         name: file.name,
-        path: file.path,
+        path: file.path || "",
         content: file.content,
       }));
 
-    return { files: sourceFiles };
-  } catch (error) {
-    console.error("Error fetching Sourcify contract:", error);
+    return sourceFiles.length > 0 ? { files: sourceFiles } : null;
+  } catch {
+    // Silently fail - contract likely not verified or API unavailable
     return null;
   }
 }
@@ -57,25 +70,32 @@ export default async function SourceCode(props: { chainId: string; address: stri
     return null;
   }
 
-  const highlighter = await createHighlighter({
-    themes: ["github-light", "github-dark"],
-    langs: ["solidity"],
-  });
+  let highlightedFiles: Array<{ name: string; path: string; html: string }>;
 
-  const highlightedFiles = contract.files.map((file) => ({
-    name: file.name,
-    path: file.path,
-    html: highlighter.codeToHtml(file.content, {
-      lang: "solidity",
-      themes: {
-        light: "github-light",
-        dark: "github-dark",
-      },
-      defaultColor: false,
-    }),
-  }));
+  try {
+    const highlighter = await createHighlighter({
+      themes: ["github-light", "github-dark"],
+      langs: ["solidity"],
+    });
 
-  highlighter.dispose();
+    highlightedFiles = contract.files.map((file) => ({
+      name: file.name,
+      path: file.path,
+      html: highlighter.codeToHtml(file.content, {
+        lang: "solidity",
+        themes: {
+          light: "github-light",
+          dark: "github-dark",
+        },
+        defaultColor: false,
+      }),
+    }));
+
+    highlighter.dispose();
+  } catch {
+    // If syntax highlighting fails, silently fail and don't render anything
+    return null;
+  }
 
   return (
     <div className="border-mono-200 border-t pt-8">
