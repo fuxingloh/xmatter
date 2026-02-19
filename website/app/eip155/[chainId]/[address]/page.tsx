@@ -8,6 +8,7 @@ import { FrontmatterLink } from "@/app/eip155/[chainId]/[address]/FrontmatterLin
 import { IdentifierSelect } from "@/app/eip155/[chainId]/[address]/IdentifierSelect";
 import Link from "next/link";
 import CodeExamples from "@/app/eip155/[chainId]/[address]/CodeExamples";
+import SourcifySource from "@/app/eip155/[chainId]/[address]/SourcifySource";
 import { chains } from "@/app/eip155/chains";
 
 export async function generateStaticParams() {
@@ -108,6 +109,10 @@ export default async function Page(props: PageProps<"/eip155/[chainId]/[address]
 
           <div className="border-mono-200 border-t pt-8">
             <CodeExamples chainId={chainId} address={address} name={data.name} />
+          </div>
+
+          <div className="border-mono-200 border-t pt-8">
+            <SourcifySource chainId={chainId} address={address} />
           </div>
         </div>
       </main>
