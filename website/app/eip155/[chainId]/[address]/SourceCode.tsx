@@ -79,7 +79,7 @@ export default async function SourceCode(props: { chainId: string; address: stri
 
   return (
     <div className="border-mono-200 border-t pt-8">
-      <h4 className="text-mono-500 mb-4 text-sm">SOURCE CODE</h4>
+      <h4 className="text-mono-500 mb-2 text-sm">SOURCE CODE</h4>
       <p className="text-mono-600 mb-4 text-sm">
         Verified source code from{" "}
         <a
@@ -91,12 +91,14 @@ export default async function SourceCode(props: { chainId: string; address: stri
           sourcify.dev
         </a>
       </p>
-      <div className="flex flex-col gap-8">
+      <div className="flex flex-col gap-6">
         {highlightedFiles.map((file) => (
-          <div key={file.path}>
-            <h5 className="text-mono-700 mb-2 font-mono text-sm font-semibold">{file.name}</h5>
+          <div key={file.path} className="border-mono-200 rounded-md border">
+            <h5 className="border-mono-200 bg-mono-50 text-mono-700 border-b px-4 py-2 font-mono text-sm font-semibold">
+              {file.name}
+            </h5>
             <div
-              className="[&_pre]:overflow-x-auto [&_pre]:rounded-md [&_pre]:p-4 [&_pre]:text-sm"
+              className="overflow-x-auto [&_pre]:!m-0 [&_pre]:!rounded-none [&_pre]:!border-0 [&_pre]:p-4 [&_pre]:text-sm"
               dangerouslySetInnerHTML={{ __html: file.html }}
             />
           </div>
