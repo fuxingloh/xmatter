@@ -7,6 +7,7 @@ links: []
 symbol: rUSDT
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#24a37b"
+color: "#009393"
 ---

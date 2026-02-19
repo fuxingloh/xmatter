@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: ARIA20
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fbfbfa"
 ---

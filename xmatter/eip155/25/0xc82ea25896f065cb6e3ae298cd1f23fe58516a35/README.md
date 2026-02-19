@@ -7,5 +7,6 @@ symbol: ESSO
 decimals: 8
 icons:
   - icon.svg
+  - icon.png
 color: "#4e36fc"
 ---

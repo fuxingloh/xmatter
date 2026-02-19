@@ -6,6 +6,7 @@ standards:
 symbol: SDT
 decimals: 18
 icons:
+  - icon.png
   - icon.jpeg
-color: "#dbdbdb"
+color: "#0a0a0a"
 ---

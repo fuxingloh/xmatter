@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: PPDEX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#1c2f23"
 ---

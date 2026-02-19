@@ -18,7 +18,9 @@ links:
     url: "https://coinmarketcap.com/currencies/ellipsis/"
 symbol: EPS
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#353437"
 ---
 
 Ellipsis Finance aims to offer secure low-slippage stable swapping.

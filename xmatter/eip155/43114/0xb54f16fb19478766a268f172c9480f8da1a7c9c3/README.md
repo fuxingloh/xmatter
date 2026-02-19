@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TIME
 decimals: 9
-icons: []
+icons:
+  - icon.png
+color: "#d2ecf8"
 ---

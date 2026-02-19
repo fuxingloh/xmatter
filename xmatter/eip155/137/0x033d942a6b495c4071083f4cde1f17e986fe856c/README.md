@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: AGA
 decimals: 4
-icons: []
+icons:
+  - icon.png
+color: "#fb3a3a"
 ---
