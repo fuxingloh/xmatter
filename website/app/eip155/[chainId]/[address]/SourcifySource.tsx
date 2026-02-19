@@ -1,28 +1,33 @@
-// @ts-expect-error -- moduleResolution:node can't resolve package exports
-import { createHighlighter } from "shiki/bundle/web";
+import { createHighlighter } from "shiki";
 import { SourcifySourceClient, type SourcifyFile } from "./SourcifySourceClient";
 import Link from "next/link";
 
 interface SourcifyCompilation {
-  sources: Record<string, { id: number; content: string }>;
   language: string;
+  compiler: string;
   compilerVersion: string;
   name: string;
   fullyQualifiedName: string;
 }
 
+interface SourcifySource {
+  content: string;
+}
+
 interface SourcifyResponse {
   match: string;
   compilation: SourcifyCompilation;
+  sources: Record<string, SourcifySource>;
 }
 
 async function fetchSourcify(chainId: string, address: string): Promise<SourcifyResponse | null> {
   try {
-    const res = await fetch(`https://sourcify.dev/server/v2/contract/${chainId}/${address}?fields=compilation`, {
-      next: { revalidate: 86400 },
-    });
+    const res = await fetch(
+      `https://sourcify.dev/server/v2/contract/${chainId}/${address}?fields=compilation,sources`,
+      { next: { revalidate: 86400 } },
+    );
     if (!res.ok) return null;
-    return res.json();
+    return await res.json();
   } catch {
     return null;
   }
@@ -30,10 +35,10 @@ async function fetchSourcify(chainId: string, address: string): Promise<Sourcify
 
 export default async function SourcifySource(props: { chainId: string; address: string }) {
   const data = await fetchSourcify(props.chainId, props.address);
-  if (!data?.compilation?.sources) return null;
+  if (!data?.sources) return null;
 
-  const sources = data.compilation.sources;
-  const entries = Object.entries(sources).sort((a, b) => a[1].id - b[1].id);
+  const sources = data.sources;
+  const entries = Object.entries(sources).sort((a, b) => a[0].localeCompare(b[0]));
   if (entries.length === 0) return null;
 
   const lang = data.compilation.language?.toLowerCase() === "vyper" ? "python" : "solidity";
