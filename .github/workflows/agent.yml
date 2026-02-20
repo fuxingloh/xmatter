@@ -48,6 +48,7 @@ jobs:
           - agent: agent-elkfinance
             repo: elkfinance/tokens
             ref: main
+          - agent: agent-erc1046
     steps:
       - uses: actions/checkout@v6
       - uses: ./.github/actions/setup

@@ -1,0 +1,19 @@
+{
+  "name": "@workspace/agent-erc1046",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "agent": "bun agent.ts"
+  },
+  "lint-staged": {
+    "*": [
+      "prettier --write --ignore-unknown"
+    ]
+  },
+  "dependencies": {
+    "@workspace/agent-base": "workspace:*",
+    "viem": "^2",
+    "xmatter": "workspace:*"
+  }
+}
