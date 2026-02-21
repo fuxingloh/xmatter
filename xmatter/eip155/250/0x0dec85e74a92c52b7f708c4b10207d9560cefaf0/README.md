@@ -6,5 +6,5 @@ symbol: yvWFTM
 icons:
   - icon.svg
   - icon.png
-color: "#c8d1e1"
+color: "#f8f8f8"
 ---

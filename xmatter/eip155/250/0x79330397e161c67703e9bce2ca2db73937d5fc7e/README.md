@@ -6,5 +6,5 @@ symbol: yvBOO
 icons:
   - icon.svg
   - icon.png
-color: "#0c59f9"
+color: "#f8f8f8"
 ---

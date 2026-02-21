@@ -6,5 +6,5 @@ symbol: yvSPELL
 icons:
   - icon.svg
   - icon.png
-color: "#0756fb"
+color: "#f8f8f8"
 ---

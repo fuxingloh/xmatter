@@ -6,5 +6,5 @@ symbol: yvMIM
 icons:
   - icon.svg
   - icon.png
-color: "#0a58fb"
+color: "#f8f8f8"
 ---
