@@ -6,7 +6,7 @@ name: ICO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d1a465"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: CATCOIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4c3cd3"
+color: "#4838d8"
 icons:
   - icon.png
 ---

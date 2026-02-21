@@ -8,7 +8,7 @@ name: MUXE Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f5a223"
+color: "#080808"
 icons:
   - icon.png
 ---

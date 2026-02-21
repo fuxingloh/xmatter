@@ -18,5 +18,5 @@ symbol: ORN
 decimals: 8
 icons:
   - icon.png
-color: "#e92cf1"
+color: "#080808"
 ---

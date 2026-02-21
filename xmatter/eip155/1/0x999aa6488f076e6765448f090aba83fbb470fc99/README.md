@@ -20,5 +20,5 @@ symbol: EGG
 decimals: 18
 icons:
   - icon.png
-color: "#4f5df1"
+color: "#080808"
 ---

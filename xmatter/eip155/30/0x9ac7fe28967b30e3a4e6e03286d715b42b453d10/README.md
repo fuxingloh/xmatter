@@ -16,5 +16,5 @@ symbol: MOC
 decimals: 18
 icons:
   - icon.png
-color: "#d6efee"
+color: "#f8f8f8"
 ---

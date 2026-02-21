@@ -12,7 +12,7 @@ name: Victoria VR
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fcc30d"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

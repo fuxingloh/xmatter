@@ -8,5 +8,5 @@ symbol: RDOC
 decimals: 18
 icons:
   - icon.png
-color: "#0584fc"
+color: "#0888f8"
 ---

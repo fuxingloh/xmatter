@@ -8,7 +8,7 @@ name: Poker Chips
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c63855"
+color: "#282828"
 icons:
   - icon.png
 ---

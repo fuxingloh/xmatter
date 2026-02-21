@@ -10,5 +10,5 @@ symbol: GEO
 decimals: 8
 icons:
   - icon.png
-color: "#30a657"
+color: "#080808"
 ---

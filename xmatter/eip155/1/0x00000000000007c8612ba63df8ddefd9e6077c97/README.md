@@ -14,5 +14,5 @@ symbol: ⌘
 decimals: 18
 icons:
   - icon.png
-color: "#acac71"
+color: "#080808"
 ---

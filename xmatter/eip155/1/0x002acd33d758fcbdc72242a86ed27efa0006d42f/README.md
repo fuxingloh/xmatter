@@ -6,7 +6,7 @@ name: CWIOS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3b3c3c"
+color: "#383838"
 icons:
   - icon.png
 ---

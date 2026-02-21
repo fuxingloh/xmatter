@@ -14,5 +14,5 @@ symbol: USC
 decimals: 6
 icons:
   - icon.png
-color: "#33fb9b"
+color: "#38f898"
 ---

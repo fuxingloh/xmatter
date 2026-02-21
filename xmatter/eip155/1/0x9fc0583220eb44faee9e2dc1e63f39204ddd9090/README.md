@@ -8,5 +8,5 @@ symbol: 2DC
 decimals: 18
 icons:
   - icon.png
-color: "#8c8c8c"
+color: "#9838f8"
 ---

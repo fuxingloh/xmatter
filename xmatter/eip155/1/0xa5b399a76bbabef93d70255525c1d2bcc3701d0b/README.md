@@ -6,7 +6,7 @@ name: GLOSMATIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#495baa"
+color: "#080808"
 icons:
   - icon.png
 ---

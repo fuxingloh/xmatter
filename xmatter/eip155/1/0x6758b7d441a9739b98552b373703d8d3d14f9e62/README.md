@@ -8,7 +8,7 @@ name: POA ERC20 on Foundation
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5c2ca4"
+color: "#5828a8"
 icons:
   - icon.png
 ---

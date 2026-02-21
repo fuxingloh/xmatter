@@ -8,5 +8,5 @@ symbol: PENCB
 decimals: 18
 icons:
   - icon.png
-color: "#f6c72d"
+color: "#080808"
 ---

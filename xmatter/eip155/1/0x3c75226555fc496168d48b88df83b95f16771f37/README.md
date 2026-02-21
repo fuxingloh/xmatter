@@ -6,7 +6,7 @@ name: Droplex Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#88cbf8"
+color: "#080808"
 icons:
   - icon.png
 ---

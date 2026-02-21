@@ -8,7 +8,7 @@ name: ZMINE Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#25292c"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -10,5 +10,5 @@ symbol: INV
 decimals: 18
 icons:
   - icon.png
-color: "#1a7dfb"
+color: "#080808"
 ---

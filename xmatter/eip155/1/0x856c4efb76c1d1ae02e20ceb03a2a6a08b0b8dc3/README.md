@@ -6,7 +6,7 @@ symbol: OETH
 icons:
   - icon.svg
   - icon.png
-color: "#d5eafb"
+color: "#0878e8"
 links:
   - name: website
     url: "https://oeth.com"

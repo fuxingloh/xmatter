@@ -6,7 +6,7 @@ name: EXCOIN CASH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b2b24f"
+color: "#080808"
 icons:
   - icon.png
 ---

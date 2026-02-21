@@ -8,5 +8,5 @@ symbol: WRBTC
 decimals: 18
 icons:
   - icon.png
-color: "#1d1b1a"
+color: "#080808"
 ---

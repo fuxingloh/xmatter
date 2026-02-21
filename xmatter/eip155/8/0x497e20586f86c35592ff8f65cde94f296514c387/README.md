@@ -10,5 +10,5 @@ symbol: SNARG
 decimals: 0
 icons:
   - icon.png
-color: "#e21416"
+color: "#080808"
 ---

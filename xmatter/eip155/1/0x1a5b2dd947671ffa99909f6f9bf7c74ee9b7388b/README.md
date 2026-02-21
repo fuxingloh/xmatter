@@ -14,5 +14,5 @@ symbol: BYTE
 decimals: 18
 icons:
   - icon.png
-color: "#f9ba0d"
+color: "#080808"
 ---

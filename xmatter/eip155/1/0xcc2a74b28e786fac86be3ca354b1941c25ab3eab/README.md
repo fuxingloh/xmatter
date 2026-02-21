@@ -6,7 +6,7 @@ name: GABO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c49241"
+color: "#080808"
 icons:
   - icon.png
 ---

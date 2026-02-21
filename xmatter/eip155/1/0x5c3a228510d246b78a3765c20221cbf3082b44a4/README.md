@@ -8,7 +8,7 @@ name: Storiqa Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#17acf4"
+color: "#28b8f8"
 icons:
   - icon.png
 ---

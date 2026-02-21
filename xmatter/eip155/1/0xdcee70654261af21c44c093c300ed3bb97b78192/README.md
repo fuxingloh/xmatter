@@ -6,7 +6,7 @@ symbol: wOETH
 icons:
   - icon.svg
   - icon.png
-color: "#d2e8fb"
+color: "#0878e8"
 links:
   - name: website
     url: "https://oeth.com"

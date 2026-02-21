@@ -8,7 +8,7 @@ name: Token-as-a-Service
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#041c34"
+color: "#081838"
 icons:
   - icon.png
 ---

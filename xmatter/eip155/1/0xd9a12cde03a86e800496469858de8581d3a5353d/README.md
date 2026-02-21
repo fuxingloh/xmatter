@@ -8,7 +8,7 @@ name: YUP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d84840"
+color: "#d84848"
 icons:
   - icon.png
 ---

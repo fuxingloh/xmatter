@@ -20,5 +20,5 @@ symbol: PEP
 decimals: 9
 icons:
   - icon.png
-color: "#1c9758"
+color: "#080808"
 ---

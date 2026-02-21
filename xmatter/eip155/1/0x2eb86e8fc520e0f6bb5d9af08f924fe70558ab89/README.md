@@ -6,7 +6,7 @@ name: Logarithm
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#23232d"
+color: "#281828"
 icons:
   - icon.png
 ---

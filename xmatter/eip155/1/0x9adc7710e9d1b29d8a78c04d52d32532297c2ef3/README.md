@@ -20,5 +20,5 @@ symbol: QDT
 decimals: 18
 icons:
   - icon.png
-color: "#4c63db"
+color: "#080808"
 ---

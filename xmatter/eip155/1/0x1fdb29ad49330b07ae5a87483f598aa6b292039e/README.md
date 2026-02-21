@@ -14,5 +14,5 @@ symbol: LTD
 decimals: 18
 icons:
   - icon.png
-color: "#b78e55"
+color: "#486848"
 ---

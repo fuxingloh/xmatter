@@ -6,7 +6,7 @@ name: ROTH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e0c55a"
+color: "#080808"
 icons:
   - icon.png
 ---

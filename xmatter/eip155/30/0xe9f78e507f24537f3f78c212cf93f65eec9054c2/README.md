@@ -8,5 +8,5 @@ symbol: VESCB
 decimals: 18
 icons:
   - icon.png
-color: "#c7061b"
+color: "#080808"
 ---

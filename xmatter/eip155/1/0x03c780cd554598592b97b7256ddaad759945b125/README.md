@@ -8,7 +8,7 @@ name: BTRN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1d303c"
+color: "#283848"
 icons:
   - icon.png
 ---

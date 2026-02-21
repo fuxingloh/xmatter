@@ -8,7 +8,7 @@ name: Transcodium
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0474bc"
+color: "#0878b8"
 icons:
   - icon.png
 ---

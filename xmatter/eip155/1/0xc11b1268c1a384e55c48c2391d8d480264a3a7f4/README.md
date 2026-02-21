@@ -6,7 +6,7 @@ symbol: cWBTC
 icons:
   - icon.svg
   - icon.png
-color: "#64acca"
+color: "#080808"
 links:
   - name: website
     url: "https://compound.finance"

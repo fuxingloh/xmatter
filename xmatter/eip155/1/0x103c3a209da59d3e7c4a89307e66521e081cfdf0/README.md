@@ -8,7 +8,7 @@ name: Genesis Vision Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1c242b"
+color: "#182828"
 icons:
   - icon.png
 ---

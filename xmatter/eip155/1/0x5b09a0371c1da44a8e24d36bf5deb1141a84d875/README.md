@@ -8,7 +8,7 @@ name: MadNetwork
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ebfb04"
+color: "#e8f808"
 icons:
   - icon.png
 ---

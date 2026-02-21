@@ -18,5 +18,5 @@ symbol: CMT
 decimals: 18
 icons:
   - icon.png
-color: "#c3a86e"
+color: "#f8f8f8"
 ---

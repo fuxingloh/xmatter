@@ -18,7 +18,7 @@ name: Fantom Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1c6cfc"
+color: "#1868f8"
 icons:
   - icon.svg
   - icon.png

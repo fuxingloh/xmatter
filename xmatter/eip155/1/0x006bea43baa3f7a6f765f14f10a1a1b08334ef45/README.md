@@ -8,7 +8,7 @@ name: Stox
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7323f3"
+color: "#7828e8"
 icons:
   - icon.png
 ---

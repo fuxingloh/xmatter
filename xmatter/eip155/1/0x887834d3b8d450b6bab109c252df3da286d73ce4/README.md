@@ -6,7 +6,7 @@ name: Atmatrix Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cf8745"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

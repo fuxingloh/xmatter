@@ -6,7 +6,7 @@ name: Surge Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2f7e9e"
+color: "#081828"
 icons:
   - icon.png
 ---

@@ -8,5 +8,5 @@ symbol: cRIF
 decimals: 8
 icons:
   - icon.png
-color: "#0587ea"
+color: "#f8f8f8"
 ---

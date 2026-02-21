@@ -12,5 +12,5 @@ symbol: CVS
 decimals: 18
 icons:
   - icon.png
-color: "#2cadbe"
+color: "#f8f8f8"
 ---

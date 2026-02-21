@@ -14,5 +14,5 @@ symbol: BABYTRUMP
 decimals: 18
 icons:
   - icon.png
-color: "#a33b2c"
+color: "#f8f8f8"
 ---

@@ -14,5 +14,5 @@ symbol: LOD3
 decimals: 17
 icons:
   - icon.png
-color: "#044e68"
+color: "#080808"
 ---

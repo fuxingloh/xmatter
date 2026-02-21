@@ -14,5 +14,5 @@ symbol: GR
 decimals: 6
 icons:
   - icon.png
-color: "#957d4c"
+color: "#f8f8f8"
 ---

@@ -8,5 +8,5 @@ symbol: SPHR
 decimals: 8
 icons:
   - icon.png
-color: "#ab80cf"
+color: "#080808"
 ---

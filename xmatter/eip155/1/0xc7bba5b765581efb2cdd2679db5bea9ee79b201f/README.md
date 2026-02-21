@@ -8,7 +8,7 @@ name: Gems Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0d142c"
+color: "#081828"
 icons:
   - icon.png
 ---

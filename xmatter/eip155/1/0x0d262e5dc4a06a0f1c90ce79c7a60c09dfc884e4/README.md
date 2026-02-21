@@ -8,7 +8,7 @@ name: J8T Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fb4a3d"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

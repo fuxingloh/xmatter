@@ -8,7 +8,7 @@ name: RiptideCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#85d313"
+color: "#88d818"
 icons:
   - icon.png
 ---

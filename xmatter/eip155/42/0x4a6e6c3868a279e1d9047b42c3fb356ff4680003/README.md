@@ -8,5 +8,5 @@ symbol: TIB
 decimals: 18
 icons:
   - icon.jpeg
-color: "#050505"
+color: "#080808"
 ---

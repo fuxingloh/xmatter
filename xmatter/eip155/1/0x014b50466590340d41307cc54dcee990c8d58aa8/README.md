@@ -8,7 +8,7 @@ name: ICOS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5c5c5c"
+color: "#585858"
 icons:
   - icon.png
 ---

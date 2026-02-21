@@ -8,5 +8,5 @@ symbol: crUSDT
 decimals: 8
 icons:
   - icon.png
-color: "#0486e9"
+color: "#f8f8f8"
 ---

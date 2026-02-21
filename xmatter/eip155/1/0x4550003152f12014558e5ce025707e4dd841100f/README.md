@@ -19,5 +19,5 @@ symbol: KZEN
 decimals: 18
 icons:
   - icon.png
-color: "#e62727"
+color: "#080808"
 ---

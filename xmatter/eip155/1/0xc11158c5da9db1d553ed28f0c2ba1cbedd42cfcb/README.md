@@ -10,7 +10,7 @@ name: Wrapped PAW
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#041c6c"
+color: "#081868"
 icons:
   - icon.svg
   - icon.png

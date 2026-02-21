@@ -8,5 +8,5 @@ symbol: COPCB
 decimals: 18
 icons:
   - icon.png
-color: "#cdc349"
+color: "#080808"
 ---

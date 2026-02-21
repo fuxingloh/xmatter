@@ -6,7 +6,7 @@ name: Bitcoineum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1ea047"
+color: "#089848"
 icons:
   - icon.png
 ---

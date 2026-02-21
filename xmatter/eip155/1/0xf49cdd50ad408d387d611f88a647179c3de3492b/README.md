@@ -18,5 +18,5 @@ symbol: CRGO
 decimals: 18
 icons:
   - icon.png
-color: "#2da0d1"
+color: "#080808"
 ---

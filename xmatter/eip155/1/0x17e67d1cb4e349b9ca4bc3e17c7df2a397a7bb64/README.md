@@ -8,7 +8,7 @@ name: Freyr Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e7b12e"
+color: "#486878"
 icons:
   - icon.png
 ---

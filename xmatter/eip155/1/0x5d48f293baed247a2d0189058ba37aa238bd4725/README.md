@@ -8,7 +8,7 @@ name: NeuroChain Clausius
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7cbcf3"
+color: "#78b8e8"
 icons:
   - icon.png
 ---

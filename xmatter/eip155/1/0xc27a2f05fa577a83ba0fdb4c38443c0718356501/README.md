@@ -8,7 +8,7 @@ name: Lamden Tau
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c42b79"
+color: "#080808"
 icons:
   - icon.png
 ---

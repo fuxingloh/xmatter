@@ -8,7 +8,7 @@ name: MatryxToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#17324a"
+color: "#183848"
 icons:
   - icon.png
 ---

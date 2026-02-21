@@ -18,5 +18,5 @@ symbol: OCEAN
 decimals: 18
 icons:
   - icon.png
-color: "#141414"
+color: "#f8f8f8"
 ---

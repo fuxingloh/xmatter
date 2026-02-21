@@ -10,5 +10,5 @@ symbol: WILC
 decimals: 8
 icons:
   - icon.png
-color: "#10477f"
+color: "#080808"
 ---

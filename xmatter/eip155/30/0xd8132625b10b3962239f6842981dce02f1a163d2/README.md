@@ -8,5 +8,5 @@ symbol: UYUCB
 decimals: 18
 icons:
   - icon.png
-color: "#2eb6d1"
+color: "#080808"
 ---

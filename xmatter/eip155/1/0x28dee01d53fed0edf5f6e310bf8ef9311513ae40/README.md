@@ -8,7 +8,7 @@ name: BlitzPick (XBP)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#27b366"
+color: "#080808"
 icons:
   - icon.png
 ---

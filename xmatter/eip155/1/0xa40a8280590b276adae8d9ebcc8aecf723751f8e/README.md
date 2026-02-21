@@ -16,5 +16,5 @@ symbol: TOOLS
 decimals: 18
 icons:
   - icon.png
-color: "#b22a0f"
+color: "#b82808"
 ---

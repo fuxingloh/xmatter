@@ -6,7 +6,7 @@ name: Boule Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2cc9e3"
+color: "#28b8e8"
 icons:
   - icon.png
 ---

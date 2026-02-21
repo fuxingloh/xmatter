@@ -16,5 +16,5 @@ symbol: BITP
 decimals: 18
 icons:
   - icon.png
-color: "#fc9414"
+color: "#f8f8f8"
 ---

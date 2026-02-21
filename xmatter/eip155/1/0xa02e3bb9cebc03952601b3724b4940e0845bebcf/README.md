@@ -20,5 +20,5 @@ symbol: BTHR
 decimals: 18
 icons:
   - icon.png
-color: "#5c34b4"
+color: "#5838b8"
 ---

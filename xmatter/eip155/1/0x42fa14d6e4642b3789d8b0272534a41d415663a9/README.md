@@ -14,5 +14,5 @@ symbol: TREND
 decimals: 9
 icons:
   - icon.png
-color: "#251b13"
+color: "#e88828"
 ---

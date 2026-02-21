@@ -6,7 +6,7 @@ name: Ferret Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#df9534"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

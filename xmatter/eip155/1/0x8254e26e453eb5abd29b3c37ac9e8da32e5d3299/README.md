@@ -16,5 +16,5 @@ symbol: RBX
 decimals: 18
 icons:
   - icon.png
-color: "#b23b2b"
+color: "#181818"
 ---

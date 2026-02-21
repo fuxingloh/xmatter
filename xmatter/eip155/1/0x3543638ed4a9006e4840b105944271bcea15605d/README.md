@@ -8,7 +8,7 @@ name: UNetworkToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3c5cd2"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

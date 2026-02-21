@@ -10,5 +10,5 @@ symbol: Devcon2 Token
 decimals: 0
 icons:
   - icon.png
-color: "#ce9bd6"
+color: "#c8b8e8"
 ---

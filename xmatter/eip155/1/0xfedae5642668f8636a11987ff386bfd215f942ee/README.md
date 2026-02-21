@@ -18,5 +18,5 @@ symbol: PAL
 decimals: 18
 icons:
   - icon.png
-color: "#04cea7"
+color: "#080808"
 ---

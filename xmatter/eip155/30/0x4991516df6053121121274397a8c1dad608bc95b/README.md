@@ -8,5 +8,5 @@ symbol: rBUND
 decimals: 18
 icons:
   - icon.png
-color: "#1c74bc"
+color: "#1868b8"
 ---

@@ -10,5 +10,5 @@ symbol: FABA
 decimals: 18
 icons:
   - icon.png
-color: "#d2e6d8"
+color: "#f8f8f8"
 ---

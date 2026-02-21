@@ -8,7 +8,7 @@ name: Blocktix Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ec4b4c"
+color: "#e84848"
 icons:
   - icon.png
 ---

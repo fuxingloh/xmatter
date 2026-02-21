@@ -8,7 +8,7 @@ name: Mark
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e5e7ee"
+color: "#e8e8f8"
 icons:
   - icon.png
 ---

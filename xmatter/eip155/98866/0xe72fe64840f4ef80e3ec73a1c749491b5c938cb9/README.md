@@ -16,5 +16,5 @@ symbol: nTBILL
 decimals: 6
 icons:
   - icon.svg
-color: "#04847c"
+color: "#088878"
 ---

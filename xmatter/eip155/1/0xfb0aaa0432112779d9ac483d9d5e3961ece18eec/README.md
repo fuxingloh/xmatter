@@ -16,5 +16,5 @@ symbol: USD-G
 decimals: 18
 icons:
   - icon.png
-color: "#04d0fc"
+color: "#0848f8"
 ---

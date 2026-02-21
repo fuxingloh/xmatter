@@ -6,7 +6,7 @@ name: Zodcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3c67b6"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Bither Platform Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1c3cbc"
+color: "#1838b8"
 icons:
   - icon.png
 ---

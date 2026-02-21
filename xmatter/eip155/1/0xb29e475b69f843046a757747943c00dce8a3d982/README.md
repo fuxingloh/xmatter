@@ -16,5 +16,5 @@ symbol: SPCTR
 decimals: 9
 icons:
   - icon.png
-color: "#2d2c28"
+color: "#080808"
 ---

@@ -14,5 +14,5 @@ symbol: BULLA
 decimals: 9
 icons:
   - icon.png
-color: "#c25f14"
+color: "#080808"
 ---

@@ -16,5 +16,5 @@ symbol: CARCO
 decimals: 8
 icons:
   - icon.png
-color: "#faf904"
+color: "#f8f808"
 ---

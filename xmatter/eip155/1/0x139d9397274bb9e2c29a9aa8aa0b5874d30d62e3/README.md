@@ -8,7 +8,7 @@ name: BoutsPro
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d4b443"
+color: "#080808"
 icons:
   - icon.png
 ---

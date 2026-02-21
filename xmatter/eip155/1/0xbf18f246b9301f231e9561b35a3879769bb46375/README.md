@@ -6,7 +6,7 @@ name: Token Care
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ebece9"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

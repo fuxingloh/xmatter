@@ -8,7 +8,7 @@ name: Populous
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#132b41"
+color: "#182848"
 icons:
   - icon.png
 ---

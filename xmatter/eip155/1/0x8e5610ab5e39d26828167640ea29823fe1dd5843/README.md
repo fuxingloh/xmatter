@@ -8,7 +8,7 @@ name: KanadeCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e53054"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: FARAD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e7e4e5"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

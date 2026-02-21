@@ -6,7 +6,7 @@ name: Cycle
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4d4c7c"
+color: "#484878"
 icons:
   - icon.png
 ---

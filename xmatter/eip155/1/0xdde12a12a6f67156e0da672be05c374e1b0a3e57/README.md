@@ -8,7 +8,7 @@ name: JOYSO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fae6d7"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

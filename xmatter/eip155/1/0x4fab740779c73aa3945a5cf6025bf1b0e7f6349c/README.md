@@ -20,5 +20,5 @@ symbol: DIRTY
 decimals: 18
 icons:
   - icon.png
-color: "#be7889"
+color: "#080808"
 ---

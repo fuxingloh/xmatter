@@ -14,5 +14,5 @@ symbol: BDT
 decimals: 18
 icons:
   - icon.png
-color: "#79582d"
+color: "#483828"
 ---

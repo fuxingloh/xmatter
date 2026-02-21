@@ -6,7 +6,7 @@ name: Blockchain of Africa
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#debc68"
+color: "#080808"
 icons:
   - icon.png
 ---

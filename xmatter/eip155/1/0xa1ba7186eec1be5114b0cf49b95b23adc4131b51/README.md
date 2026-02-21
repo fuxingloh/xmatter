@@ -6,7 +6,7 @@ name: FTI NEWS Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2ca4a4"
+color: "#28a8a8"
 icons:
   - icon.png
 ---

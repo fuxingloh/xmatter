@@ -8,5 +8,5 @@ symbol: BOBCB
 decimals: 18
 icons:
   - icon.png
-color: "#e2be67"
+color: "#080808"
 ---

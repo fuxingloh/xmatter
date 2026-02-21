@@ -16,5 +16,5 @@ symbol: CMERGE
 decimals: 9
 icons:
   - icon.png
-color: "#ed4906"
+color: "#080808"
 ---

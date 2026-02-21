@@ -20,5 +20,5 @@ symbol: FMTA
 decimals: 18
 icons:
   - icon.png
-color: "#24a3db"
+color: "#080808"
 ---

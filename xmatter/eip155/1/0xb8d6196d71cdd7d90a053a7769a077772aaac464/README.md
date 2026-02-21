@@ -14,5 +14,5 @@ symbol: MARS
 decimals: 9
 icons:
   - icon.png
-color: "#ea4e37"
+color: "#080808"
 ---

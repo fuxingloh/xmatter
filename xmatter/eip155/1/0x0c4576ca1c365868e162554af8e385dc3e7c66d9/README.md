@@ -20,5 +20,5 @@ symbol: veOGV
 decimals: 18
 icons:
   - icon.png
-color: "#171f27"
+color: "#080818"
 ---
