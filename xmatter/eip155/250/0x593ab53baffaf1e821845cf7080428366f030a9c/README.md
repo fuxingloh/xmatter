@@ -7,5 +7,5 @@ symbol: COFFIN
 decimals: 18
 icons:
   - icon.png
-color: "#5858b8"
+color: "#5464bc"
 ---

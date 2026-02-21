@@ -7,5 +7,5 @@ symbol: yPANDA
 decimals: 8
 icons:
   - icon.png
-color: "#c8e8f8"
+color: "#d7ebf7"
 ---

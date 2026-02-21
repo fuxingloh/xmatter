@@ -7,5 +7,5 @@ symbol: DBL
 decimals: 18
 icons:
   - icon.png
-color: "#0858e8"
+color: "#065dec"
 ---

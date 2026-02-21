@@ -7,5 +7,5 @@ symbol: ASVA
 decimals: 18
 icons:
   - icon.png
-color: "#f80878"
+color: "#fc0474"
 ---

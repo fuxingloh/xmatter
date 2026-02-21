@@ -7,5 +7,5 @@ symbol: MASQ
 decimals: 18
 icons:
   - icon.png
-color: "#0898f8"
+color: "#e1f3fb"
 ---

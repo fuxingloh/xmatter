@@ -7,5 +7,5 @@ symbol: JGBP
 decimals: 18
 icons:
   - icon.png
-color: "#c80828"
+color: "#cbbdce"
 ---

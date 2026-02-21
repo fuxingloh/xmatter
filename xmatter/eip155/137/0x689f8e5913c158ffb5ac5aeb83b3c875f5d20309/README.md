@@ -7,5 +7,5 @@ symbol: SNK
 decimals: 18
 icons:
   - icon.png
-color: "#0858a8"
+color: "#0773b5"
 ---

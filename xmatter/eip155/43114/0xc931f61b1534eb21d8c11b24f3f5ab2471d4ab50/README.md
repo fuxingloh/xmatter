@@ -7,5 +7,5 @@ symbol: ABLOCK
 decimals: 8
 icons:
   - icon.png
-color: "#081838"
+color: "#051937"
 ---

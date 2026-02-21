@@ -7,5 +7,5 @@ symbol: ECELL
 decimals: 2
 icons:
   - icon.png
-color: "#080808"
+color: "#142742"
 ---

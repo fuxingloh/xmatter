@@ -7,5 +7,5 @@ symbol: DEFI5
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#b4b4b4"
 ---

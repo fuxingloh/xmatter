@@ -7,5 +7,5 @@ symbol: DODO
 decimals: 18
 icons:
   - icon.svg
-color: "#f8e808"
+color: "#fbeb04"
 ---

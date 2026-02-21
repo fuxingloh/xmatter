@@ -7,5 +7,5 @@ symbol: WHT
 decimals: 18
 icons:
   - icon.png
-color: "#282868"
+color: "#2c336c"
 ---

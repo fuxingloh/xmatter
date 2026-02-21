@@ -7,5 +7,5 @@ symbol: HAPI
 decimals: 18
 icons:
   - icon.png
-color: "#f8f808"
+color: "#1e1c0c"
 ---

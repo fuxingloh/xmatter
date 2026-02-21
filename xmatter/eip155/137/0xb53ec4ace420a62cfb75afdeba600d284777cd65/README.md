@@ -7,5 +7,5 @@ symbol: SPACE
 decimals: 18
 icons:
   - icon.png
-color: "#e84868"
+color: "#ec476a"
 ---

@@ -7,5 +7,5 @@ symbol: HVILLE
 decimals: 18
 icons:
   - icon.png
-color: "#88c8e8"
+color: "#84c4e6"
 ---

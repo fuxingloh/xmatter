@@ -7,5 +7,5 @@ symbol: renZEC
 decimals: 8
 icons:
   - icon.png
-color: "#888888"
+color: "#848b8c"
 ---

@@ -7,5 +7,5 @@ symbol: Dogmoon
 decimals: 9
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#1e2a72"
 ---

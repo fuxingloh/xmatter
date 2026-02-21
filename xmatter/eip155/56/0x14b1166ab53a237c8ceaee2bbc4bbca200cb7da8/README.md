@@ -7,5 +7,5 @@ symbol: bSRK
 decimals: 18
 icons:
   - icon.png
-color: "#184858"
+color: "#ea7433"
 ---

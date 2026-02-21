@@ -7,5 +7,5 @@ symbol: BT
 decimals: 18
 icons:
   - icon.png
-color: "#6858e8"
+color: "#5c58e1"
 ---

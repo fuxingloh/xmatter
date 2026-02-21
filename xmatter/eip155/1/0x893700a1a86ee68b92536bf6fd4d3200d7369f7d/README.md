@@ -7,5 +7,5 @@ symbol: EMT
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#72f9f1"
 ---

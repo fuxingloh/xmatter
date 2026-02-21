@@ -7,5 +7,5 @@ symbol: OML
 decimals: 18
 icons:
   - icon.png
-color: "#08b8e8"
+color: "#e4f5fa"
 ---

@@ -7,5 +7,5 @@ symbol: LUX
 decimals: 9
 icons:
   - icon.jpeg
-color: "#080808"
+color: "#0a0506"
 ---

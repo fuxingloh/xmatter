@@ -7,5 +7,5 @@ symbol: LSHARE
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#af8b65"
 ---

@@ -7,5 +7,5 @@ symbol: EGG
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#ec5c5b"
 ---

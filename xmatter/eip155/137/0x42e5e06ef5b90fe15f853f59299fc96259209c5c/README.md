@@ -7,5 +7,5 @@ symbol: KEK
 decimals: 18
 icons:
   - icon.png
-color: "#180828"
+color: "#1e043f"
 ---

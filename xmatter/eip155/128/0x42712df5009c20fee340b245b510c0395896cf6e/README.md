@@ -7,5 +7,5 @@ symbol: DFT
 decimals: 18
 icons:
   - icon.png
-color: "#f8b838"
+color: "#fcba3b"
 ---

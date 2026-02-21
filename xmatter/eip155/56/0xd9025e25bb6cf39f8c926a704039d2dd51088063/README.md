@@ -7,5 +7,5 @@ symbol: CYT
 decimals: 18
 icons:
   - icon.png
-color: "#d84818"
+color: "#df4424"
 ---

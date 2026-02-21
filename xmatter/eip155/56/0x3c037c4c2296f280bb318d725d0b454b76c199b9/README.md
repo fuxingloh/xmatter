@@ -7,5 +7,5 @@ symbol: JNTR/b
 decimals: 18
 icons:
   - icon.jpeg
-color: "#181818"
+color: "#211a14"
 ---

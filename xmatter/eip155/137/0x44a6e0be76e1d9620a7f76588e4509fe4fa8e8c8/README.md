@@ -7,5 +7,5 @@ symbol: FOMO
 decimals: 18
 icons:
   - icon.png
-color: "#a81828"
+color: "#e25320"
 ---

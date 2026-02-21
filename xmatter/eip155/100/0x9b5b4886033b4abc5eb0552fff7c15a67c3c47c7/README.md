@@ -7,5 +7,5 @@ symbol: REALT-S-11300-ROXBU
 decimals: 18
 icons:
   - icon.jpeg
-color: "#383838"
+color: "#3b444c"
 ---

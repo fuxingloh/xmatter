@@ -7,5 +7,5 @@ symbol: MAIN
 decimals: 18
 icons:
   - icon.png
-color: "#181818"
+color: "#a673ee"
 ---

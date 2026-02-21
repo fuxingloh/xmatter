@@ -7,5 +7,5 @@ symbol: zUSD
 decimals: 18
 icons:
   - icon.png
-color: "#082868"
+color: "#042c6b"
 ---

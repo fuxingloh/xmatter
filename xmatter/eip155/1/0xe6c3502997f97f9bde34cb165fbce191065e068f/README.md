@@ -7,5 +7,5 @@ symbol: KBTC
 decimals: 18
 icons:
   - icon.png
-color: "#180858"
+color: "#140550"
 ---

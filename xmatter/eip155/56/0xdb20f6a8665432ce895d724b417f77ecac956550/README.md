@@ -7,5 +7,5 @@ symbol: ESHARE
 decimals: 18
 icons:
   - icon.jpeg
-color: "#080808"
+color: "#0b0d19"
 ---

@@ -7,5 +7,5 @@ symbol: KAE
 decimals: 18
 icons:
   - icon.png
-color: "#081808"
+color: "#061b17"
 ---

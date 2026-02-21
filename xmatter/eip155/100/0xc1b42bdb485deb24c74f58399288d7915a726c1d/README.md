@@ -7,5 +7,5 @@ symbol: LEND
 decimals: 18
 icons:
   - icon.png
-color: "#2898c8"
+color: "#1d9fcb"
 ---

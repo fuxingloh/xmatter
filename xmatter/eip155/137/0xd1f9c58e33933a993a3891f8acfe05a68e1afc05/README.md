@@ -7,5 +7,5 @@ symbol: SFL
 decimals: 18
 icons:
   - icon.png
-color: "#b84828"
+color: "#b74c2b"
 ---

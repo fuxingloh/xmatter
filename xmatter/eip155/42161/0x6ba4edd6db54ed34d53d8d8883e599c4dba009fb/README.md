@@ -7,5 +7,5 @@ symbol: L2PAD
 decimals: 18
 icons:
   - icon.png
-color: "#e8b878"
+color: "#edbc7c"
 ---

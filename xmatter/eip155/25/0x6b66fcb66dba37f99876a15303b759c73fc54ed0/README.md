@@ -7,5 +7,5 @@ symbol: HIBIKI
 decimals: 18
 icons:
   - icon.png
-color: "#f8a848"
+color: "#f9ac42"
 ---

@@ -7,5 +7,5 @@ symbol: JUNO
 decimals: 6
 icons:
   - icon.png
-color: "#080808"
+color: "#d0cfcf"
 ---

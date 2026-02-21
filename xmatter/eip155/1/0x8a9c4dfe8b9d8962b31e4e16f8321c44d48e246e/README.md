@@ -7,5 +7,5 @@ symbol: NCT
 decimals: 18
 icons:
   - icon.png
-color: "#e8a838"
+color: "#dba064"
 ---

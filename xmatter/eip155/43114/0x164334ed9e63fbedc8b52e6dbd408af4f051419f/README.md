@@ -7,5 +7,5 @@ symbol: ENXT
 decimals: 6
 icons:
   - icon.png
-color: "#0878b8"
+color: "#0f75bc"
 ---

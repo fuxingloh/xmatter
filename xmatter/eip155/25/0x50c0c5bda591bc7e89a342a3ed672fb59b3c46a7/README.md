@@ -7,5 +7,5 @@ symbol: MMO
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#352d35"
 ---

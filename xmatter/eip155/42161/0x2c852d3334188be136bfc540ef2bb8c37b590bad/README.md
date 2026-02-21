@@ -7,5 +7,5 @@ symbol: MAGIC
 decimals: 18
 icons:
   - icon.png
-color: "#38a8d8"
+color: "#57b4dc"
 ---

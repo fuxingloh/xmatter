@@ -7,5 +7,5 @@ symbol: G-USDT
 decimals: 6
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#3ebda0"
 ---

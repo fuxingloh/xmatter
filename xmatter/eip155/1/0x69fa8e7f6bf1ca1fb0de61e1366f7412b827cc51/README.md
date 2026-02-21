@@ -7,5 +7,5 @@ symbol: NRCH
 decimals: 9
 icons:
   - icon.png
-color: "#082888"
+color: "#0b248b"
 ---

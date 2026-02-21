@@ -7,5 +7,5 @@ symbol: ISLE
 decimals: 9
 icons:
   - icon.png
-color: "#f8c838"
+color: "#b7b7b7"
 ---

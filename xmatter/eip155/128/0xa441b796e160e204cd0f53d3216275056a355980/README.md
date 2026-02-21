@@ -7,5 +7,5 @@ symbol: LYFI
 decimals: 18
 icons:
   - icon.png
-color: "#f8e818"
+color: "#fae204"
 ---

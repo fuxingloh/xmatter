@@ -7,5 +7,5 @@ symbol: WETH
 decimals: 18
 icons:
   - icon.png
-color: "#c8e8f8"
+color: "#2c2c2b"
 ---

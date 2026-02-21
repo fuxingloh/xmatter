@@ -7,5 +7,5 @@ symbol: ANTG
 decimals: 18
 icons:
   - icon.png
-color: "#e84848"
+color: "#ec4a4a"
 ---

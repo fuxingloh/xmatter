@@ -7,5 +7,5 @@ symbol: YAE
 decimals: 18
 icons:
   - icon.png
-color: "#f82868"
+color: "#fc2c64"
 ---

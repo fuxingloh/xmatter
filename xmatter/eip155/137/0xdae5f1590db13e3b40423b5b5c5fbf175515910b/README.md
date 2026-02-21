@@ -7,5 +7,5 @@ symbol: maUSDT
 decimals: 6
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#52acbb"
 ---

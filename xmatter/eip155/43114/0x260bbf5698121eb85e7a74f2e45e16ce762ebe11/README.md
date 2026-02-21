@@ -7,5 +7,5 @@ symbol: axlUST
 decimals: 6
 icons:
   - icon.png
-color: "#080808"
+color: "#7e2e51"
 ---

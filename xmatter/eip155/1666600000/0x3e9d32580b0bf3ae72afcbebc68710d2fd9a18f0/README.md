@@ -7,5 +7,5 @@ symbol: bscCAKE
 decimals: 18
 icons:
   - icon.png
-color: "#c88848"
+color: "#d0894c"
 ---

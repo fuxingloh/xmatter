@@ -7,5 +7,5 @@ symbol: POOCH
 decimals: 18
 icons:
   - icon.png
-color: "#28a8e8"
+color: "#2cabe3"
 ---

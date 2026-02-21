@@ -7,5 +7,5 @@ symbol: DEPO
 decimals: 18
 icons:
   - icon.png
-color: "#2868a8"
+color: "#2767ad"
 ---

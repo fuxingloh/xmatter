@@ -7,5 +7,5 @@ symbol: ANODE
 decimals: 18
 icons:
   - icon.png
-color: "#e83838"
+color: "#f8dcdc"
 ---

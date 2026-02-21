@@ -7,5 +7,5 @@ symbol: REALT-S-19317-GABLE
 decimals: 18
 icons:
   - icon.jpeg
-color: "#f8f8f8"
+color: "#847c61"
 ---

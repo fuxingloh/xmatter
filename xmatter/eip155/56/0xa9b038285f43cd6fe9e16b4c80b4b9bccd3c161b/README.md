@@ -7,5 +7,5 @@ symbol: AI
 decimals: 18
 icons:
   - icon.png
-color: "#382878"
+color: "#382f7e"
 ---

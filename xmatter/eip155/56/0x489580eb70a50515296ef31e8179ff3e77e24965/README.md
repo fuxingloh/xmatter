@@ -7,5 +7,5 @@ symbol: RADAR
 decimals: 18
 icons:
   - icon.png
-color: "#0868f8"
+color: "#1073fc"
 ---

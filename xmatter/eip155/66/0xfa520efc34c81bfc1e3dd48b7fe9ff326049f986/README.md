@@ -7,5 +7,5 @@ symbol: LTCK
 decimals: 18
 icons:
   - icon.png
-color: "#385898"
+color: "#345c9d"
 ---

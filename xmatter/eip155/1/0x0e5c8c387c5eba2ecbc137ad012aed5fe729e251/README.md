@@ -7,5 +7,5 @@ symbol: RPG
 decimals: 18
 icons:
   - icon.png
-color: "#281848"
+color: "#a28572"
 ---

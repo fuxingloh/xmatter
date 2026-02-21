@@ -7,5 +7,5 @@ symbol: GCR
 decimals: 4
 icons:
   - icon.png
-color: "#2848f8"
+color: "#244bf3"
 ---

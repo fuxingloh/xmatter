@@ -7,5 +7,5 @@ symbol: HIVESHARE
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#e9b124"
 ---

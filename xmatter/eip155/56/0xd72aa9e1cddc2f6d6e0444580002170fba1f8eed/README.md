@@ -7,5 +7,5 @@ symbol: MDA
 decimals: 18
 icons:
   - icon.png
-color: "#08a848"
+color: "#04a34b"
 ---

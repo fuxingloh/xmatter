@@ -7,5 +7,5 @@ symbol: WNOW
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#be36bf"
 ---

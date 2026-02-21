@@ -7,5 +7,5 @@ symbol: mRBAL
 decimals: 18
 icons:
   - icon.png
-color: "#58b8e8"
+color: "#58b5e4"
 ---

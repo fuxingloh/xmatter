@@ -7,5 +7,5 @@ symbol: PREMIO
 decimals: 18
 icons:
   - icon.png
-color: "#186898"
+color: "#1b739b"
 ---

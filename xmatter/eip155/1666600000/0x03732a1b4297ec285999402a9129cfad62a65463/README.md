@@ -7,5 +7,5 @@ symbol: anyBTC
 decimals: 8
 icons:
   - icon.png
-color: "#6858e8"
+color: "#685cf0"
 ---

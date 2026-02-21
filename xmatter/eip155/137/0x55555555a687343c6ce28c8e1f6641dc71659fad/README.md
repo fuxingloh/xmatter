@@ -7,5 +7,5 @@ symbol: XY
 decimals: 18
 icons:
   - icon.png
-color: "#0858e8"
+color: "#0c54e2"
 ---

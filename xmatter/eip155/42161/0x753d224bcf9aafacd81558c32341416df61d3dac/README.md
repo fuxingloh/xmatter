@@ -7,5 +7,5 @@ symbol: PERP
 decimals: 18
 icons:
   - icon.png
-color: "#38e8a8"
+color: "#3beaaa"
 ---

@@ -7,5 +7,5 @@ symbol: SWIRL
 decimals: 9
 icons:
   - icon.png
-color: "#f86808"
+color: "#fc6c0c"
 ---

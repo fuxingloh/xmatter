@@ -7,5 +7,5 @@ symbol: URQA
 decimals: 18
 icons:
   - icon.png
-color: "#88a8d8"
+color: "#90a8df"
 ---

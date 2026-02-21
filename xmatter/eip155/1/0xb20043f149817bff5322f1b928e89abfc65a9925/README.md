@@ -7,5 +7,5 @@ symbol: EXRT
 decimals: 8
 icons:
   - icon.png
-color: "#2898e8"
+color: "#2b9cec"
 ---

@@ -7,5 +7,5 @@ symbol: ALINK
 decimals: 18
 icons:
   - icon.webp
-color: "#2858d8"
+color: "#9a66a6"
 ---

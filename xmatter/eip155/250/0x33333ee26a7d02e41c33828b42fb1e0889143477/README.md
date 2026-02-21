@@ -7,5 +7,5 @@ symbol: LIQR
 decimals: 18
 icons:
   - icon.png
-color: "#0808f8"
+color: "#0404fc"
 ---

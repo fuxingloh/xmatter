@@ -7,5 +7,5 @@ symbol: VIPER
 decimals: 18
 icons:
   - icon.png
-color: "#088868"
+color: "#049676"
 ---

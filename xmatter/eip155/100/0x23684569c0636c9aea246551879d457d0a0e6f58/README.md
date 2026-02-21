@@ -7,5 +7,5 @@ symbol: REALT-S-9336-PATTON
 decimals: 18
 icons:
   - icon.jpeg
-color: "#585848"
+color: "#707661"
 ---

@@ -7,5 +7,5 @@ symbol: CEUSDC
 decimals: 6
 icons:
   - icon.png
-color: "#2878c8"
+color: "#2e7acd"
 ---

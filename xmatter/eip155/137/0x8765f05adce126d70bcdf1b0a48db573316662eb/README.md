@@ -7,5 +7,5 @@ symbol: PLA
 decimals: 18
 icons:
   - icon.png
-color: "#08d8b8"
+color: "#04d4b4"
 ---

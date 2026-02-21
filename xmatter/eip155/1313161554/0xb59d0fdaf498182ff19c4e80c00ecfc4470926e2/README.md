@@ -7,5 +7,5 @@ symbol: BAL
 decimals: 18
 icons:
   - icon.svg
-color: "#181818"
+color: "#1c1c1c"
 ---

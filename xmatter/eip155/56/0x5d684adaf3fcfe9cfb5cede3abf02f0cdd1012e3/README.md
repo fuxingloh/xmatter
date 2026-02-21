@@ -7,5 +7,5 @@ symbol: LIEN
 decimals: 8
 icons:
   - icon.png
-color: "#18b8a8"
+color: "#11caba"
 ---

@@ -7,5 +7,5 @@ symbol: FIGHT
 decimals: 18
 icons:
   - icon.png
-color: "#f81828"
+color: "#f21d2d"
 ---

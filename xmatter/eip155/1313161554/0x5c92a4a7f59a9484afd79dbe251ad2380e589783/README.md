@@ -7,5 +7,5 @@ symbol: abBUSD
 decimals: 18
 icons:
   - icon.svg
-color: "#e8b808"
+color: "#f4bc0c"
 ---

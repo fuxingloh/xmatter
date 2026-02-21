@@ -7,5 +7,5 @@ symbol: VWAVE
 decimals: 18
 icons:
   - icon.svg
-color: "#782878"
+color: "#702572"
 ---

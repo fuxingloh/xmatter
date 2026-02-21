@@ -7,5 +7,5 @@ symbol: NUT
 decimals: 18
 icons:
   - icon.png
-color: "#f85838"
+color: "#fa643d"
 ---

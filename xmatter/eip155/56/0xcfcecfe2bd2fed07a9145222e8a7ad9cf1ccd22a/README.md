@@ -7,5 +7,5 @@ symbol: ADS
 decimals: 11
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#5cb4fc"
 ---

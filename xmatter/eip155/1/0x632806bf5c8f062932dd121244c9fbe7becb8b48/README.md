@@ -7,5 +7,5 @@ symbol: PDI
 decimals: 18
 icons:
   - icon.png
-color: "#0848f8"
+color: "#0c59fc"
 ---

@@ -7,5 +7,5 @@ symbol: REALT-S-4680-BUCKIN
 decimals: 18
 icons:
   - icon.jpeg
-color: "#f8f8f8"
+color: "#756d60"
 ---

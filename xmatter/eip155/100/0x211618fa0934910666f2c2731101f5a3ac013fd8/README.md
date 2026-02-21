@@ -7,5 +7,5 @@ symbol: REALT-S-19200-STRAS
 decimals: 18
 icons:
   - icon.jpeg
-color: "#584838"
+color: "#5d5b4f"
 ---

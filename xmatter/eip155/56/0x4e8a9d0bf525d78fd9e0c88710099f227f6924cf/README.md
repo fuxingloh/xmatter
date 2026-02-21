@@ -7,5 +7,5 @@ symbol: LUNAR
 decimals: 9
 icons:
   - icon.png
-color: "#484848"
+color: "#4f424e"
 ---

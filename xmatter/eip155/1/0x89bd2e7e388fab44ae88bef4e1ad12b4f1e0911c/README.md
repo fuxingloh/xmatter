@@ -7,5 +7,5 @@ symbol: NUX
 decimals: 18
 icons:
   - icon.png
-color: "#f85828"
+color: "#f35424"
 ---

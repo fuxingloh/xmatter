@@ -7,5 +7,5 @@ symbol: COVAL
 decimals: 8
 icons:
   - icon.png
-color: "#787868"
+color: "#625f59"
 ---

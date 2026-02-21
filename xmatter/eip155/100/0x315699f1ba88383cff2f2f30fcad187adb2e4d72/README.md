@@ -7,5 +7,5 @@ symbol: REALT-S-14078-CARLI
 decimals: 18
 icons:
   - icon.jpeg
-color: "#f8f8f8"
+color: "#949281"
 ---

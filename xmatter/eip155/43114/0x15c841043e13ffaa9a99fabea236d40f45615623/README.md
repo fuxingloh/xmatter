@@ -7,5 +7,5 @@ symbol: BUSINESSES
 decimals: 18
 icons:
   - icon.png
-color: "#1888c8"
+color: "#1c89c4"
 ---

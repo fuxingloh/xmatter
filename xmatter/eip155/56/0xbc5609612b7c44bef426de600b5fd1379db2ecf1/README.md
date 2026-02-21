@@ -7,5 +7,5 @@ symbol: PSG
 decimals: 2
 icons:
   - icon.png
-color: "#085898"
+color: "#d6aeb7"
 ---

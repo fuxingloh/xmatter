@@ -7,5 +7,5 @@ symbol: GEL
 decimals: 18
 icons:
   - icon.png
-color: "#f8a898"
+color: "#3a1b1d"
 ---

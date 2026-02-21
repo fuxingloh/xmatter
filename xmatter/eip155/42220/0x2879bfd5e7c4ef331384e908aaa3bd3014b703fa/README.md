@@ -7,5 +7,5 @@ symbol: sCELO
 decimals: 18
 icons:
   - icon.png
-color: "#f8c858"
+color: "#fccb5b"
 ---

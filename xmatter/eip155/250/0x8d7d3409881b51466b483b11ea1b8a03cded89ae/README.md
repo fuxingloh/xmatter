@@ -5,6 +5,6 @@ standards: []
 symbol: BASED
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#eae0d4"
 decimals: 18
 ---

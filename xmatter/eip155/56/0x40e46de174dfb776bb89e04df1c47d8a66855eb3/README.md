@@ -7,5 +7,5 @@ symbol: BSCDEFI
 decimals: 18
 icons:
   - icon.png
-color: "#f8a808"
+color: "#fce9b9"
 ---

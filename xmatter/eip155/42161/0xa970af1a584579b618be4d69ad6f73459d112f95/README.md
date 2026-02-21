@@ -7,5 +7,5 @@ symbol: SUSD
 decimals: 18
 icons:
   - icon.png
-color: "#080828"
+color: "#d3d2d8"
 ---

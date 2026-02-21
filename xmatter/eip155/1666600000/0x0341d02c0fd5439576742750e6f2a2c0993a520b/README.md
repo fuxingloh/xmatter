@@ -7,5 +7,5 @@ symbol: bscZIL
 decimals: 12
 icons:
   - icon.png
-color: "#080808"
+color: "#4dc1bc"
 ---

@@ -7,5 +7,5 @@ symbol: USDC
 decimals: 6
 icons:
   - icon.webp
-color: "#2878c8"
+color: "#2b74ca"
 ---

@@ -7,5 +7,5 @@ symbol: RIFI
 decimals: 18
 icons:
   - icon.jpeg
-color: "#080828"
+color: "#ad9054"
 ---

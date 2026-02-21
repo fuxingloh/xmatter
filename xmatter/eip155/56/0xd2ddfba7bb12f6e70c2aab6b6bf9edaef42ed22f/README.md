@@ -7,5 +7,5 @@ symbol: UBU
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#c44a97"
 ---

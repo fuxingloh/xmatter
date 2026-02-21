@@ -7,5 +7,5 @@ symbol: DFX
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#69d8f3"
 ---

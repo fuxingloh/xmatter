@@ -7,5 +7,5 @@ symbol: ARBY
 decimals: 18
 icons:
   - icon.png
-color: "#687868"
+color: "#647968"
 ---

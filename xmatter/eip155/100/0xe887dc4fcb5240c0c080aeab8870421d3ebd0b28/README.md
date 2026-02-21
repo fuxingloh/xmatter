@@ -7,5 +7,5 @@ symbol: REALT-S-14066-SANTA
 decimals: 18
 icons:
   - icon.jpeg
-color: "#98d8f8"
+color: "#b9e1ec"
 ---

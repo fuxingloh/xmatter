@@ -7,5 +7,5 @@ symbol: CHARM
 decimals: 18
 icons:
   - icon.png
-color: "#68d8f8"
+color: "#85bbf2"
 ---

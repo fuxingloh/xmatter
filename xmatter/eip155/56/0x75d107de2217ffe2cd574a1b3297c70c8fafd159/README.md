@@ -7,5 +7,5 @@ symbol: TRY
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#b37c41"
 ---

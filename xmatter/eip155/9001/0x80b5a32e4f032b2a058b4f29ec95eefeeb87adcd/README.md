@@ -7,5 +7,5 @@ symbol: GRAV
 decimals: 6
 icons:
   - icon.png
-color: "#0828a8"
+color: "#1238aa"
 ---

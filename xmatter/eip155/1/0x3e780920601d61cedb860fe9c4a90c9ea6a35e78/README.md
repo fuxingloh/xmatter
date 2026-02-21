@@ -7,5 +7,5 @@ symbol: BOOST
 decimals: 18
 icons:
   - icon.png
-color: "#081838"
+color: "#12213f"
 ---

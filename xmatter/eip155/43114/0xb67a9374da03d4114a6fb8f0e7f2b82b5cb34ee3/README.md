@@ -7,5 +7,5 @@ symbol: AGF
 decimals: 18
 icons:
   - icon.png
-color: "#4848e8"
+color: "#c5c7fc"
 ---

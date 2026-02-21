@@ -7,5 +7,5 @@ symbol: ET
 decimals: 18
 icons:
   - icon.png
-color: "#18b8a8"
+color: "#23bcab"
 ---

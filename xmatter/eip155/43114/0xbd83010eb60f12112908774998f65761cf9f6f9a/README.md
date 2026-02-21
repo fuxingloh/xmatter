@@ -7,5 +7,5 @@ symbol: BOO
 decimals: 18
 icons:
   - icon.png
-color: "#181828"
+color: "#e6d4e4"
 ---

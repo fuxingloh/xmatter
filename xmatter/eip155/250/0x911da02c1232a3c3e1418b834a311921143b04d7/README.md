@@ -7,6 +7,6 @@ icons:
   - icon.svg
   - icon.png
   - icon.jpeg
-color: "#08e8d8"
+color: "#04dad8"
 decimals: 18
 ---

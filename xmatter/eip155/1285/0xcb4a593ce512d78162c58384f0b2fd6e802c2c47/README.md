@@ -7,5 +7,5 @@ symbol: BEPRO
 decimals: 18
 icons:
   - icon.png
-color: "#3848e8"
+color: "#3343eb"
 ---

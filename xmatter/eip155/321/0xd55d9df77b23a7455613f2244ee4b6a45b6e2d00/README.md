@@ -7,5 +7,5 @@ symbol: SFI
 decimals: 18
 icons:
   - icon.png
-color: "#c84838"
+color: "#c44434"
 ---

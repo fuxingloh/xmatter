@@ -7,5 +7,5 @@ symbol: KROM
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#b0c9f9"
 ---

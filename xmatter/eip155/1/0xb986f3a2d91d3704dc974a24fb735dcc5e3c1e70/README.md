@@ -7,5 +7,5 @@ symbol: EUX
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#d9d9dc"
 ---

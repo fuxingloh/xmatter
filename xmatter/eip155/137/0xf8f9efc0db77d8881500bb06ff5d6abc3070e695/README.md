@@ -7,5 +7,5 @@ symbol: SYN
 decimals: 18
 icons:
   - icon.png
-color: "#080818"
+color: "#0c131d"
 ---

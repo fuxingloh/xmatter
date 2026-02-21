@@ -7,5 +7,5 @@ symbol: BTU
 decimals: 18
 icons:
   - icon.png
-color: "#684888"
+color: "#644484"
 ---

@@ -7,5 +7,5 @@ symbol: SFT
 decimals: 8
 icons:
   - icon.png
-color: "#283888"
+color: "#d8dbe6"
 ---

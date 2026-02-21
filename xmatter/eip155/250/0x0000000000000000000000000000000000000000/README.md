@@ -7,5 +7,5 @@ symbol: FTM
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#c0d5fc"
 ---

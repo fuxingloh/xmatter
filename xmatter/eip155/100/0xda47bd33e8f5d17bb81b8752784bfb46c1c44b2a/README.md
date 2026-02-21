@@ -7,5 +7,5 @@ symbol: REALT-S-15350-GREYD
 decimals: 18
 icons:
   - icon.jpeg
-color: "#f8f8f8"
+color: "#aa9f96"
 ---

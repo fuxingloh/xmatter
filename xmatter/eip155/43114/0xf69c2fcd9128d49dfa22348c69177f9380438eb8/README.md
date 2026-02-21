@@ -7,5 +7,5 @@ symbol: NFSG
 decimals: 6
 icons:
   - icon.png
-color: "#080808"
+color: "#bd9096"
 ---

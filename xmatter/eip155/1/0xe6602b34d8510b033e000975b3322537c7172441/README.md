@@ -7,5 +7,5 @@ symbol: FRR
 decimals: 18
 icons:
   - icon.jpeg
-color: "#f848e8"
+color: "#f254e9"
 ---

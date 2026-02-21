@@ -7,5 +7,5 @@ symbol: NIO
 decimals: 18
 icons:
   - icon.png
-color: "#08a8b8"
+color: "#d0edf0"
 ---

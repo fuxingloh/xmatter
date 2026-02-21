@@ -7,5 +7,5 @@ symbol: MIMO
 decimals: 18
 icons:
   - icon.png
-color: "#281828"
+color: "#24242d"
 ---

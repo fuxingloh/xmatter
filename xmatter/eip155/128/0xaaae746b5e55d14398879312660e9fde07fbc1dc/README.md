@@ -7,5 +7,5 @@ symbol: PIPI
 decimals: 18
 icons:
   - icon.png
-color: "#6888f8"
+color: "#6c83f7"
 ---

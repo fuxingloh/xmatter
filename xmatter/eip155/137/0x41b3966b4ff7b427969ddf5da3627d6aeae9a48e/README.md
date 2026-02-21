@@ -7,5 +7,5 @@ symbol: NEXO
 decimals: 18
 icons:
   - icon.svg
-color: "#080818"
+color: "#d7d0bb"
 ---

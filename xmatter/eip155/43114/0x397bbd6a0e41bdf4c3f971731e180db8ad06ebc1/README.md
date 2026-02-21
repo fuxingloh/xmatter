@@ -7,5 +7,5 @@ symbol: AVXT
 decimals: 6
 icons:
   - icon.png
-color: "#b81828"
+color: "#bc1c2c"
 ---

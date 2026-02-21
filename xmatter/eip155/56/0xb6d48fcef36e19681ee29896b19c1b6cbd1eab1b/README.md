@@ -7,5 +7,5 @@ symbol: FAN
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#ecd9e7"
 ---

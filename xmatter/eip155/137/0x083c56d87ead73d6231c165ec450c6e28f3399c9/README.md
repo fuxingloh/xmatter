@@ -7,5 +7,5 @@ symbol: CHART
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#4398d4"
 ---

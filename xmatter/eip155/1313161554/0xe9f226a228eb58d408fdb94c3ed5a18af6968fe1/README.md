@@ -7,5 +7,5 @@ symbol: EMPYR
 decimals: 9
 icons:
   - icon.svg
-color: "#080808"
+color: "#050504"
 ---

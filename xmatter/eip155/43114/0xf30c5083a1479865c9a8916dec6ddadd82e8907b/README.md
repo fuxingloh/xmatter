@@ -7,5 +7,5 @@ symbol: SPICE
 decimals: 18
 icons:
   - icon.png
-color: "#280848"
+color: "#250e45"
 ---

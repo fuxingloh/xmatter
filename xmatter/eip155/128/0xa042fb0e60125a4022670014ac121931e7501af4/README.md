@@ -7,5 +7,5 @@ symbol: BAG
 decimals: 18
 icons:
   - icon.png
-color: "#083898"
+color: "#0c3992"
 ---

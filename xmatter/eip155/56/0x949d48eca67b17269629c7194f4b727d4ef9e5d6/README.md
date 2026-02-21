@@ -7,5 +7,5 @@ symbol: MC
 decimals: 18
 icons:
   - icon.png
-color: "#f8b848"
+color: "#ef9c42"
 ---

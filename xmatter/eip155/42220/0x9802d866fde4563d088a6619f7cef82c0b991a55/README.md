@@ -7,5 +7,5 @@ symbol: MCREAL
 decimals: 18
 icons:
   - icon.png
-color: "#3888e8"
+color: "#348cec"
 ---

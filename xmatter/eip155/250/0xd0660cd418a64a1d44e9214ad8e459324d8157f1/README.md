@@ -6,6 +6,6 @@ symbol: WOOFY
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#0454fc"
 decimals: 12
 ---

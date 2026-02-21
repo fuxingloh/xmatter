@@ -7,5 +7,5 @@ symbol: UNO
 decimals: 18
 icons:
   - icon.png
-color: "#181838"
+color: "#1a2231"
 ---

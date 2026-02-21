@@ -7,5 +7,5 @@ symbol: bscCOBRA
 decimals: 18
 icons:
   - icon.png
-color: "#d89808"
+color: "#dca10b"
 ---

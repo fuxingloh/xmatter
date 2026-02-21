@@ -7,5 +7,5 @@ symbol: UNB
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#044c74"
 ---

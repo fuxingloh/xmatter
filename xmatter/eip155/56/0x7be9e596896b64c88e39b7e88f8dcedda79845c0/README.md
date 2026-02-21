@@ -7,5 +7,5 @@ symbol: BR
 decimals: 6
 icons:
   - icon.jpeg
-color: "#080828"
+color: "#197ad8"
 ---

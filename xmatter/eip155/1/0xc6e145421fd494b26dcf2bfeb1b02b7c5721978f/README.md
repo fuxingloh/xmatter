@@ -7,5 +7,5 @@ symbol: CPRX
 decimals: 18
 icons:
   - icon.png
-color: "#281818"
+color: "#231c23"
 ---

@@ -7,5 +7,5 @@ symbol: BOMB
 decimals: 18
 icons:
   - icon.png
-color: "#181818"
+color: "#dec741"
 ---

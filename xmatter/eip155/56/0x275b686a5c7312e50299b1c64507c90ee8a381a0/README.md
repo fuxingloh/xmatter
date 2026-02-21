@@ -7,5 +7,5 @@ symbol: CHT
 decimals: 9
 icons:
   - icon.jpeg
-color: "#080808"
+color: "#715e18"
 ---

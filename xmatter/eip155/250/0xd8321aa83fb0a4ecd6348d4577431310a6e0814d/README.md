@@ -6,6 +6,6 @@ symbol: GEIST
 icons:
   - icon.svg
   - icon.png
-color: "#383838"
+color: "#a4f85e"
 decimals: 18
 ---

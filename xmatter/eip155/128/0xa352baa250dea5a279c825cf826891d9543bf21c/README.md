@@ -7,5 +7,5 @@ symbol: GTL
 decimals: 18
 icons:
   - icon.png
-color: "#f8b8c8"
+color: "#fcbcd2"
 ---

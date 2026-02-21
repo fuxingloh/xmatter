@@ -7,5 +7,5 @@ symbol: BFR
 decimals: 18
 icons:
   - icon.jpeg
-color: "#3878f8"
+color: "#3473fa"
 ---

@@ -7,5 +7,5 @@ symbol: MULTI
 decimals: 18
 icons:
   - icon.png
-color: "#6848e8"
+color: "#d6d2fa"
 ---

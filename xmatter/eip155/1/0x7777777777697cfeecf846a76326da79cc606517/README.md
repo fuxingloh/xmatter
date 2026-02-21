@@ -7,5 +7,5 @@ symbol: SIG
 decimals: 18
 icons:
   - icon.png
-color: "#e8f8f8"
+color: "#f3f3f3"
 ---

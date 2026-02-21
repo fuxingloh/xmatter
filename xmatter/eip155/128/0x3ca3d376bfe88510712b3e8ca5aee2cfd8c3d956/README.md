@@ -7,5 +7,5 @@ symbol: SGT
 decimals: 18
 icons:
   - icon.png
-color: "#f8e858"
+color: "#f9d725"
 ---

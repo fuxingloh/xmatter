@@ -7,5 +7,5 @@ symbol: ZAP
 decimals: 18
 icons:
   - icon.png
-color: "#08a8f8"
+color: "#0495fc"
 ---

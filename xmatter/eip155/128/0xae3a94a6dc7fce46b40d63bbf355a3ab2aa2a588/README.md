@@ -7,5 +7,5 @@ symbol: EOS
 decimals: 4
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#1e1e1e"
 ---

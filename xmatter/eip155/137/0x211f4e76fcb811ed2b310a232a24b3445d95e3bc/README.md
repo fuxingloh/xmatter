@@ -7,5 +7,5 @@ symbol: MATRIX
 decimals: 18
 icons:
   - icon.jpeg
-color: "#080808"
+color: "#5ccd61"
 ---

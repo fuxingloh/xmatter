@@ -7,5 +7,5 @@ symbol: ATRI
 decimals: 0
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#eb545a"
 ---

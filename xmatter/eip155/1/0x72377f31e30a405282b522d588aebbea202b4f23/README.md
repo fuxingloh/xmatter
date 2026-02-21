@@ -7,5 +7,5 @@ symbol: VRN
 decimals: 18
 icons:
   - icon.png
-color: "#080828"
+color: "#10122f"
 ---

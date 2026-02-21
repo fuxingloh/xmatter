@@ -7,5 +7,5 @@ symbol: DXD
 decimals: 18
 icons:
   - icon.png
-color: "#2848f8"
+color: "#344cfc"
 ---

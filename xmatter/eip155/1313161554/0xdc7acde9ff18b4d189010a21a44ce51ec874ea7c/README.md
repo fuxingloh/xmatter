@@ -7,5 +7,5 @@ symbol: agEUR
 decimals: 18
 icons:
   - icon.svg
-color: "#080808"
+color: "#d7ceb4"
 ---

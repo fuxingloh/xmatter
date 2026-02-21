@@ -7,5 +7,5 @@ symbol: STKXPRT
 decimals: 6
 icons:
   - icon.png
-color: "#080808"
+color: "#040404"
 ---

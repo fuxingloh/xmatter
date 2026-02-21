@@ -7,5 +7,5 @@ symbol: MNTL
 decimals: 6
 icons:
   - icon.png
-color: "#f8a818"
+color: "#fcf8e8"
 ---

@@ -7,5 +7,5 @@ symbol: JPYC
 decimals: 18
 icons:
   - icon.png
-color: "#184898"
+color: "#15449a"
 ---

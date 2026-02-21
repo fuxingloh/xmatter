@@ -7,5 +7,5 @@ symbol: NFP
 decimals: 9
 icons:
   - icon.png
-color: "#a8c8f8"
+color: "#a3ccf4"
 ---

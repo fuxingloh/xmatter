@@ -7,5 +7,5 @@ symbol: REALT-S-13895-SARAT
 decimals: 18
 icons:
   - icon.jpeg
-color: "#98c8f8"
+color: "#a59786"
 ---

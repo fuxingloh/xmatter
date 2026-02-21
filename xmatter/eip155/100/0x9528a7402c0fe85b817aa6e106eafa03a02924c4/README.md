@@ -7,5 +7,5 @@ symbol: REALT-S-14231-STRAT
 decimals: 18
 icons:
   - icon.jpeg
-color: "#e8e8e8"
+color: "#c9d4d6"
 ---

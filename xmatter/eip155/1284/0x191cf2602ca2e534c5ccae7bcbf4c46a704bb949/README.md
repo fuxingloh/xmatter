@@ -7,5 +7,5 @@ symbol: STDOT
 decimals: 10
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#38ccfc"
 ---

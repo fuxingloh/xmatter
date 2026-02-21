@@ -7,5 +7,5 @@ symbol: XCDOT
 decimals: 10
 icons:
   - icon.png
-color: "#e80878"
+color: "#f4c4d8"
 ---

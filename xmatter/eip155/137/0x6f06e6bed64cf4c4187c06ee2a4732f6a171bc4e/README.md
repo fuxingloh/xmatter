@@ -7,5 +7,5 @@ symbol: FOOD
 decimals: 18
 icons:
   - icon.png
-color: "#281818"
+color: "#251e25"
 ---

@@ -7,5 +7,5 @@ symbol: XAVA
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#fcf3f3"
 ---

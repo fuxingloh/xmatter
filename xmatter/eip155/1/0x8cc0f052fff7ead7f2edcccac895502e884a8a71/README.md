@@ -7,5 +7,5 @@ symbol: ARTH
 decimals: 18
 icons:
   - icon.png
-color: "#181818"
+color: "#cb3d34"
 ---

@@ -7,5 +7,5 @@ symbol: JIG
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#0c5545"
 ---

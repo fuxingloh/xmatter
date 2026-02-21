@@ -7,5 +7,5 @@ symbol: HUSKY
 decimals: 9
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#d6d6d6"
 ---

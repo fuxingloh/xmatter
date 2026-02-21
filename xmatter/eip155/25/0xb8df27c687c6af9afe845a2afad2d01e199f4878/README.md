@@ -7,5 +7,5 @@ symbol: METF
 decimals: 18
 icons:
   - icon.png
-color: "#580808"
+color: "#621515"
 ---

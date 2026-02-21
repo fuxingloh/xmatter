@@ -7,5 +7,5 @@ symbol: TETU
 decimals: 18
 icons:
   - icon.png
-color: "#282838"
+color: "#5b5b9c"
 ---

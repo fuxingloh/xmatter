@@ -7,5 +7,5 @@ symbol: KNC
 decimals: 18
 icons:
   - icon.png
-color: "#38c898"
+color: "#34cb9c"
 ---

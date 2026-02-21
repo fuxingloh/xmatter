@@ -7,5 +7,5 @@ symbol: PINKSALE
 decimals: 18
 icons:
   - icon.png
-color: "#f8e8f8"
+color: "#fcecf3"
 ---

@@ -7,5 +7,5 @@ symbol: REALT-S-14229-WILSH
 decimals: 18
 icons:
   - icon.jpeg
-color: "#786858"
+color: "#686568"
 ---

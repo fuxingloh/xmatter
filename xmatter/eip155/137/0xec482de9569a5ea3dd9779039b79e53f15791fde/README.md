@@ -7,5 +7,5 @@ symbol: REGEN
 decimals: 6
 icons:
   - icon.png
-color: "#48b878"
+color: "#ccead6"
 ---

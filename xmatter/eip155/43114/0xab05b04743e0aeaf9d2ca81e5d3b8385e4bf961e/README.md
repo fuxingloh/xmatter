@@ -7,5 +7,5 @@ symbol: USDS
 decimals: 18
 icons:
   - icon.png
-color: "#58b858"
+color: "#5cbc5c"
 ---

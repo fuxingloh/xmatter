@@ -7,5 +7,5 @@ symbol: DOMI
 decimals: 18
 icons:
   - icon.webp
-color: "#282828"
+color: "#272320"
 ---

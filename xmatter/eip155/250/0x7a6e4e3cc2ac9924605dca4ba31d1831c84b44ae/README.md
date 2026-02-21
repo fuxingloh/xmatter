@@ -7,5 +7,5 @@ symbol: 2OMB
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#6a05f4"
 ---

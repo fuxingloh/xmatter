@@ -7,5 +7,5 @@ symbol: FOREX
 decimals: 18
 icons:
   - icon.png
-color: "#283838"
+color: "#2d353d"
 ---

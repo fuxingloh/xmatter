@@ -7,5 +7,5 @@ symbol: SWASH
 decimals: 18
 icons:
   - icon.png
-color: "#38e858"
+color: "#3ce45c"
 ---

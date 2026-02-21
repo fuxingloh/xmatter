@@ -7,5 +7,5 @@ symbol: ENG
 decimals: 8
 icons:
   - icon.png
-color: "#080838"
+color: "#210545"
 ---

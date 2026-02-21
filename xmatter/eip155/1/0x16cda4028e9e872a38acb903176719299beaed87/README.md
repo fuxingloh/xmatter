@@ -7,5 +7,5 @@ symbol: MARS4
 decimals: 18
 icons:
   - icon.png
-color: "#c81828"
+color: "#c81f30"
 ---

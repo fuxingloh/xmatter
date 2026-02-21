@@ -7,5 +7,5 @@ symbol: EDDA
 decimals: 18
 icons:
   - icon.png
-color: "#7828d8"
+color: "#7c2cdc"
 ---

@@ -7,5 +7,5 @@ symbol: OPCT
 decimals: 18
 icons:
   - icon.jpeg
-color: "#f8f8f8"
+color: "#3b6ab7"
 ---

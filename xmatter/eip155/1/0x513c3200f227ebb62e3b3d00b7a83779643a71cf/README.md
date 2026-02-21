@@ -7,5 +7,5 @@ symbol: LIFT
 decimals: 18
 icons:
   - icon.png
-color: "#f87868"
+color: "#fc7763"
 ---

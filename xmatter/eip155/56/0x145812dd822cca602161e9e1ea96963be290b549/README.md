@@ -7,5 +7,5 @@ symbol: CTNT
 decimals: 4
 icons:
   - icon.png
-color: "#7838d8"
+color: "#3298a1"
 ---

@@ -7,5 +7,5 @@ symbol: MYC
 decimals: 18
 icons:
   - icon.png
-color: "#083808"
+color: "#043c04"
 ---

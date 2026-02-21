@@ -7,5 +7,5 @@ symbol: JEWEL
 decimals: 18
 icons:
   - icon.png
-color: "#d89848"
+color: "#e8d972"
 ---

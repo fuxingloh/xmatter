@@ -7,5 +7,5 @@ symbol: BUILD
 decimals: 18
 icons:
   - icon.png
-color: "#e81828"
+color: "#ed1c24"
 ---

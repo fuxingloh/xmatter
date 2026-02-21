@@ -7,5 +7,5 @@ symbol: CCV2
 decimals: 18
 icons:
   - icon.png
-color: "#081818"
+color: "#051a28"
 ---

@@ -7,5 +7,5 @@ symbol: bHOME
 decimals: 6
 icons:
   - icon.svg
-color: "#080808"
+color: "#1f0808"
 ---

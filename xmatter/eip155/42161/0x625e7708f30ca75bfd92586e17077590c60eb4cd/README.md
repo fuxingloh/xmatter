@@ -7,5 +7,5 @@ symbol: AUSDC
 decimals: 6
 icons:
   - icon.png
-color: "#2878c8"
+color: "#afacd6"
 ---

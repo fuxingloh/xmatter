@@ -7,5 +7,5 @@ symbol: PACT
 decimals: 18
 icons:
   - icon.png
-color: "#a848d8"
+color: "#ac4bdc"
 ---

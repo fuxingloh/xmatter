@@ -7,5 +7,5 @@ symbol: RXDAI
 decimals: 18
 icons:
   - icon.png
-color: "#48a8a8"
+color: "#4eaca7"
 ---

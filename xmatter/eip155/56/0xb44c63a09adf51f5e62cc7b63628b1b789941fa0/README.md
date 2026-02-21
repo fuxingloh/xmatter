@@ -7,5 +7,5 @@ symbol: RFX
 decimals: 9
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#4e85d0"
 ---

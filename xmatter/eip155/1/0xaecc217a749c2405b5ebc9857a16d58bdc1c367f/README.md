@@ -7,5 +7,5 @@ symbol: PAWTH
 decimals: 9
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#fc57ad"
 ---

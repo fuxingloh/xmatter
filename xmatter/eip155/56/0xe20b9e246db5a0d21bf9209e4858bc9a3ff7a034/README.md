@@ -7,5 +7,5 @@ symbol: BAN
 decimals: 18
 icons:
   - icon.png
-color: "#383838"
+color: "#38383b"
 ---

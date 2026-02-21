@@ -7,5 +7,5 @@ symbol: DSHARE
 decimals: 18
 icons:
   - icon.png
-color: "#a8a8a8"
+color: "#c4c4c4"
 ---

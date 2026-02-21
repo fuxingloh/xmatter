@@ -7,5 +7,5 @@ symbol: CRU
 decimals: 18
 icons:
   - icon.png
-color: "#181818"
+color: "#1d1c1c"
 ---

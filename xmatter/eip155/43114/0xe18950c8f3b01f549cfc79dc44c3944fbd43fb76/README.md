@@ -7,5 +7,5 @@ symbol: ICY
 decimals: 6
 icons:
   - icon.png
-color: "#c8e8f8"
+color: "#c2e1f0"
 ---

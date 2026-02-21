@@ -7,5 +7,5 @@ symbol: ZYX
 decimals: 18
 icons:
   - icon.png
-color: "#f8c808"
+color: "#ffce00"
 ---

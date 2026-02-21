@@ -7,5 +7,5 @@ symbol: PANA
 decimals: 18
 icons:
   - icon.png
-color: "#886848"
+color: "#8f674c"
 ---

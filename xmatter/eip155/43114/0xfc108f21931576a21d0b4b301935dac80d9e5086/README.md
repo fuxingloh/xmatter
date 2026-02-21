@@ -7,5 +7,5 @@ symbol: IronICE
 decimals: 18
 icons:
   - icon.png
-color: "#181828"
+color: "#1f1a23"
 ---

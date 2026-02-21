@@ -7,5 +7,5 @@ symbol: TRACE
 decimals: 18
 icons:
   - icon.png
-color: "#f80898"
+color: "#9024ce"
 ---

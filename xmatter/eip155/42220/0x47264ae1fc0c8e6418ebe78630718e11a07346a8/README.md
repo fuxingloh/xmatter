@@ -7,5 +7,5 @@ symbol: SBR
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#6964f5"
 ---

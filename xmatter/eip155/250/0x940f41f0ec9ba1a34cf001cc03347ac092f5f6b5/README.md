@@ -7,5 +7,5 @@ symbol: GFUSDT
 decimals: 6
 icons:
   - icon.png
-color: "#289878"
+color: "#2da37c"
 ---

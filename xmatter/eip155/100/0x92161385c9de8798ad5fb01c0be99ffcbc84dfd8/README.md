@@ -7,5 +7,5 @@ symbol: REALT-S-10084-GRAYT
 decimals: 18
 icons:
   - icon.jpeg
-color: "#786858"
+color: "#6a6855"
 ---

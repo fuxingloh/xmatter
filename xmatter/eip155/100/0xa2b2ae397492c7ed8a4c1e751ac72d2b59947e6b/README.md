@@ -7,5 +7,5 @@ symbol: REALT-S-9920-BISHOP
 decimals: 18
 icons:
   - icon.jpeg
-color: "#68c8f8"
+color: "#545a4f"
 ---

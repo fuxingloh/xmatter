@@ -7,5 +7,5 @@ symbol: axlATOM
 decimals: 6
 icons:
   - icon.png
-color: "#283848"
+color: "#2d344c"
 ---

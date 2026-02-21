@@ -7,5 +7,5 @@ symbol: MKR
 decimals: 18
 icons:
   - icon.svg
-color: "#18a898"
+color: "#1cac9c"
 ---

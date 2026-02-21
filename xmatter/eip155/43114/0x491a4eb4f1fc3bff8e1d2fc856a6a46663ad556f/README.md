@@ -7,5 +7,5 @@ symbol: BRZ
 decimals: 4
 icons:
   - icon.png
-color: "#180838"
+color: "#d6d218"
 ---

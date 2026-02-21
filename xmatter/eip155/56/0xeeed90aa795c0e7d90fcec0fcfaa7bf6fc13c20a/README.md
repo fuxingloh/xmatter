@@ -7,5 +7,5 @@ symbol: TSCT
 decimals: 18
 icons:
   - icon.png
-color: "#0898e8"
+color: "#ddf1fc"
 ---

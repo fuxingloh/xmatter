@@ -7,5 +7,5 @@ symbol: DEUSDC
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#db6b8a"
 ---

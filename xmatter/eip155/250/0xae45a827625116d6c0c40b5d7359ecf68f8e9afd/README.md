@@ -7,5 +7,5 @@ symbol: COMB
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#eec62a"
 ---

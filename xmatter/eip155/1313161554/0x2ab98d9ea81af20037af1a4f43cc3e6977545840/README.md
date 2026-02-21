@@ -7,5 +7,5 @@ symbol: ATO
 decimals: 16
 icons:
   - icon.png
-color: "#f8d818"
+color: "#3e350a"
 ---

@@ -7,5 +7,5 @@ symbol: EBOX
 decimals: 18
 icons:
   - icon.png
-color: "#f86808"
+color: "#fc6d06"
 ---

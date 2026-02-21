@@ -7,5 +7,5 @@ symbol: NITRODOGE
 decimals: 18
 icons:
   - icon.png
-color: "#08a8f8"
+color: "#dcea9f"
 ---

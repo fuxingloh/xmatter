@@ -7,5 +7,5 @@ symbol: JOON
 decimals: 4
 icons:
   - icon.png
-color: "#e8e8e8"
+color: "#e0ddd9"
 ---

@@ -7,5 +7,5 @@ symbol: REALT-S-272-NE-42ND
 decimals: 18
 icons:
   - icon.jpeg
-color: "#283828"
+color: "#445747"
 ---

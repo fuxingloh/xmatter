@@ -7,5 +7,5 @@ symbol: REALT-S-18776-SUNDE
 decimals: 18
 icons:
   - icon.jpeg
-color: "#e8e8f8"
+color: "#e2e4e9"
 ---

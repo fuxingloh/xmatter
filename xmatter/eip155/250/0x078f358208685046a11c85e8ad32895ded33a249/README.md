@@ -7,5 +7,5 @@ symbol: AWBTC
 decimals: 8
 icons:
   - icon.png
-color: "#080808"
+color: "#e48a51"
 ---

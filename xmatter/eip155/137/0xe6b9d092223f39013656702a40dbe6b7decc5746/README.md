@@ -7,5 +7,5 @@ symbol: FEVR
 decimals: 18
 icons:
   - icon.png
-color: "#480898"
+color: "#580da7"
 ---

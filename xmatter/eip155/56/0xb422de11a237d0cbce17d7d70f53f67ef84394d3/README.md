@@ -7,5 +7,5 @@ symbol: MONKE
 decimals: 9
 icons:
   - icon.jpeg
-color: "#785848"
+color: "#404046"
 ---

@@ -7,5 +7,5 @@ symbol: MFT
 decimals: 18
 icons:
   - icon.png
-color: "#6828f8"
+color: "#e4d4fc"
 ---

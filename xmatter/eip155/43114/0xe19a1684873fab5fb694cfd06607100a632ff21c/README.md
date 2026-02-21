@@ -7,5 +7,5 @@ symbol: BAVA
 decimals: 18
 icons:
   - icon.png
-color: "#f8d848"
+color: "#f2d549"
 ---

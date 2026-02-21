@@ -7,5 +7,5 @@ symbol: avUSDC
 decimals: 6
 icons:
   - icon.png
-color: "#486848"
+color: "#9f67aa"
 ---

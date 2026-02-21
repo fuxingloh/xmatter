@@ -7,5 +7,5 @@ symbol: STAKE
 decimals: 18
 icons:
   - icon.png
-color: "#48a8a8"
+color: "#cfe7e7"
 ---

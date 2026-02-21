@@ -7,5 +7,5 @@ symbol: ANKR
 decimals: 9
 icons:
   - icon.png
-color: "#2858e8"
+color: "#245ae5"
 ---

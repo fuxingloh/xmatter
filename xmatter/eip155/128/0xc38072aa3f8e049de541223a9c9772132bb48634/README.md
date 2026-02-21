@@ -7,5 +7,5 @@ symbol: SHIB
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#efa23b"
 ---

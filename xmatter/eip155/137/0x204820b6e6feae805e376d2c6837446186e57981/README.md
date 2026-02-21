@@ -7,5 +7,5 @@ symbol: ROND
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#a6a5a4"
 ---

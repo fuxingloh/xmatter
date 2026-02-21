@@ -7,5 +7,5 @@ symbol: BEPIS
 decimals: 6
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#504f75"
 ---

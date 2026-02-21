@@ -7,5 +7,5 @@ symbol: STATIC
 decimals: 18
 icons:
   - icon.png
-color: "#382828"
+color: "#383539"
 ---

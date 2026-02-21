@@ -7,5 +7,5 @@ symbol: STONE
 decimals: 18
 icons:
   - icon.png
-color: "#489898"
+color: "#53999b"
 ---

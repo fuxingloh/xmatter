@@ -7,5 +7,5 @@ symbol: BEE
 decimals: 8
 icons:
   - icon.png
-color: "#080808"
+color: "#f0c918"
 ---

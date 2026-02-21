@@ -7,5 +7,5 @@ symbol: EM
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#51d5c2"
 ---

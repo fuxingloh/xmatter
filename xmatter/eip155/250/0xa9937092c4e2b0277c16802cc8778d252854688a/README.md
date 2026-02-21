@@ -7,5 +7,5 @@ symbol: OLIVE
 decimals: 18
 icons:
   - icon.png
-color: "#b88848"
+color: "#bb844c"
 ---

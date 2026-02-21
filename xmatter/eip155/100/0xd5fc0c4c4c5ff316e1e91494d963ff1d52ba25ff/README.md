@@ -7,5 +7,5 @@ symbol: REALT-S-11078-LONGV
 decimals: 18
 icons:
   - icon.jpeg
-color: "#d8d8d8"
+color: "#bdd2d7"
 ---

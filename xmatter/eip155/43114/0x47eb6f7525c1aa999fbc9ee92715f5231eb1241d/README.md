@@ -7,5 +7,5 @@ symbol: MELT
 decimals: 18
 icons:
   - icon.png
-color: "#282848"
+color: "#2c2d45"
 ---

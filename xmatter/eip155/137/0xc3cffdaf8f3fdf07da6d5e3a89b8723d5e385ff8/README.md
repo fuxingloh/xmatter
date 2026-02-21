@@ -7,5 +7,5 @@ symbol: RBC
 decimals: 18
 icons:
   - icon.png
-color: "#48a858"
+color: "#b1d9b6"
 ---

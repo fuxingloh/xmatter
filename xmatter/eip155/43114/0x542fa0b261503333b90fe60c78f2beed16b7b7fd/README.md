@@ -7,5 +7,5 @@ symbol: TRACTOR
 decimals: 9
 icons:
   - icon.png
-color: "#e8e8e8"
+color: "#e4dcd9"
 ---

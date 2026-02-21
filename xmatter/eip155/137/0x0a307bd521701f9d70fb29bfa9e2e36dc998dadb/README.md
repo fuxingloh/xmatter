@@ -7,5 +7,5 @@ symbol: CNW
 decimals: 6
 icons:
   - icon.png
-color: "#080808"
+color: "#103858"
 ---

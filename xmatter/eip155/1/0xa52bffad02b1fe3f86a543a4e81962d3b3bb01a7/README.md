@@ -7,5 +7,5 @@ symbol: DUCKER
 decimals: 18
 icons:
   - icon.png
-color: "#0808a8"
+color: "#e3cd77"
 ---

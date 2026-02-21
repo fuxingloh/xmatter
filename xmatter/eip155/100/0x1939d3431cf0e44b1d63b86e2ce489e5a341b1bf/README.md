@@ -7,5 +7,5 @@ symbol: CREAM
 decimals: 18
 icons:
   - icon.png
-color: "#68e8d8"
+color: "#68e0d8"
 ---

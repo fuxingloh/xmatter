@@ -7,5 +7,5 @@ symbol: REALT-S-4380-BEACON
 decimals: 18
 icons:
   - icon.jpeg
-color: "#78a8e8"
+color: "#acc1d8"
 ---

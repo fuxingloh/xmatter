@@ -7,5 +7,5 @@ symbol: ROYA
 decimals: 18
 icons:
   - icon.jpeg
-color: "#080838"
+color: "#04123a"
 ---

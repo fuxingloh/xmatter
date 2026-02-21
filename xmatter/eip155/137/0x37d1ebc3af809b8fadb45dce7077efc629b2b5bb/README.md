@@ -7,5 +7,5 @@ symbol: pCOMB
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#fc9b73"
 ---

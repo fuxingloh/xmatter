@@ -7,5 +7,5 @@ symbol: NII
 decimals: 15
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#0791d3"
 ---

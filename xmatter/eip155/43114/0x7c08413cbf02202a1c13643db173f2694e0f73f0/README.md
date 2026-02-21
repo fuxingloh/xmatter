@@ -7,5 +7,5 @@ symbol: MAXI
 decimals: 9
 icons:
   - icon.png
-color: "#080808"
+color: "#d9d9d9"
 ---

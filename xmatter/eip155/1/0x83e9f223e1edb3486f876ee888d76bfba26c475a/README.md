@@ -7,5 +7,5 @@ symbol: GUILD
 decimals: 18
 icons:
   - icon.png
-color: "#084868"
+color: "#0d5c79"
 ---

@@ -7,5 +7,5 @@ symbol: REALT-S-19136-TRACE
 decimals: 18
 icons:
   - icon.jpeg
-color: "#d8d8d8"
+color: "#8693a6"
 ---

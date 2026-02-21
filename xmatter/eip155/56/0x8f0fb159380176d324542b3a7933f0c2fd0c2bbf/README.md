@@ -7,5 +7,5 @@ symbol: TFT
 decimals: 7
 icons:
   - icon.png
-color: "#e8e8e8"
+color: "#dddfe0"
 ---

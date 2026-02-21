@@ -7,5 +7,5 @@ symbol: SPHRI
 decimals: 18
 icons:
   - icon.png
-color: "#2838f8"
+color: "#3f59f1"
 ---

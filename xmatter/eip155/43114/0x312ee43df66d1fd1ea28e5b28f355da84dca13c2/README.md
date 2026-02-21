@@ -7,5 +7,5 @@ symbol: SWAPXI
 decimals: 12
 icons:
   - icon.png
-color: "#080808"
+color: "#0c2e52"
 ---

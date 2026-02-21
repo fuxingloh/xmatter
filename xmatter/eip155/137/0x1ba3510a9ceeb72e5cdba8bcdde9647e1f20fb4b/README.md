@@ -7,5 +7,5 @@ symbol: DRAX
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#ab81f0"
 ---

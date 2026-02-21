@@ -7,5 +7,5 @@ symbol: NOBEL
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#e4e4e4"
 ---

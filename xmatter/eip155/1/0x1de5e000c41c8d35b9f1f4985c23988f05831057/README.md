@@ -7,5 +7,5 @@ symbol: BNF
 decimals: 18
 icons:
   - icon.png
-color: "#9818e8"
+color: "#17b4d4"
 ---

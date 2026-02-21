@@ -7,5 +7,5 @@ symbol: TSD
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#c6d0cf"
 ---

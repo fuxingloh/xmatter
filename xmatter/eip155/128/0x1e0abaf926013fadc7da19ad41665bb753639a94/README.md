@@ -7,5 +7,5 @@ symbol: RDTK
 decimals: 18
 icons:
   - icon.png
-color: "#48d8d8"
+color: "#4bcfd0"
 ---

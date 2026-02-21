@@ -7,5 +7,5 @@ symbol: CARBON
 decimals: 18
 icons:
   - icon.webp
-color: "#080808"
+color: "#8999b5"
 ---

@@ -7,5 +7,5 @@ symbol: WLRS
 decimals: 18
 icons:
   - icon.png
-color: "#181828"
+color: "#04daf2"
 ---

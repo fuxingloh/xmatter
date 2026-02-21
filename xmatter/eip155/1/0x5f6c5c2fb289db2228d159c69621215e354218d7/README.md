@@ -7,5 +7,5 @@ symbol: DMOD
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#dd50eb"
 ---

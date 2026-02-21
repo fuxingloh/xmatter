@@ -7,5 +7,5 @@ symbol: AHE
 decimals: 18
 icons:
   - icon.png
-color: "#8858f8"
+color: "#8ce7e5"
 ---

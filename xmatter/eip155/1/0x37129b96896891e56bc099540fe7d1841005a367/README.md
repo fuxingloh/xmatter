@@ -7,5 +7,5 @@ symbol: EUROS
 decimals: 18
 icons:
   - icon.png
-color: "#58b858"
+color: "#c9e9c9"
 ---

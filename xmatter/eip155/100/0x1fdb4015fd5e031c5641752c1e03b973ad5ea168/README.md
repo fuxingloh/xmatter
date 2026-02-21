@@ -7,5 +7,5 @@ symbol: REALT-S-17500-EVERG
 decimals: 18
 icons:
   - icon.jpeg
-color: "#685848"
+color: "#776b54"
 ---

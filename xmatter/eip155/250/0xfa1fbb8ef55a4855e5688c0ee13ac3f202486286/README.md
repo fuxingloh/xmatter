@@ -7,5 +7,5 @@ symbol: FHM
 decimals: 9
 icons:
   - icon.png
-color: "#585868"
+color: "#515a67"
 ---

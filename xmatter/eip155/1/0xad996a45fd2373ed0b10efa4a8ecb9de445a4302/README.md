@@ -7,5 +7,5 @@ symbol: SHI
 decimals: 18
 icons:
   - icon.png
-color: "#08e838"
+color: "#00e13b"
 ---

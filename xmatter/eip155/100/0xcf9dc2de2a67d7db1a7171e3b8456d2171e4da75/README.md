@@ -7,5 +7,5 @@ symbol: LTI
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#d0d0d0"
 ---

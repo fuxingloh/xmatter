@@ -7,5 +7,5 @@ symbol: LOCO
 decimals: 18
 icons:
   - icon.jpeg
-color: "#081838"
+color: "#0e172d"
 ---

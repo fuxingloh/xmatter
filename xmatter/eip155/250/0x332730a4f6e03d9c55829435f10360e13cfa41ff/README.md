@@ -7,5 +7,5 @@ symbol: FRY
 decimals: 18
 icons:
   - icon.png
-color: "#781838"
+color: "#dda5be"
 ---

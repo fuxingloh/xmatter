@@ -7,5 +7,5 @@ symbol: APEIN
 decimals: 18
 icons:
   - icon.png
-color: "#f8c858"
+color: "#f8c359"
 ---

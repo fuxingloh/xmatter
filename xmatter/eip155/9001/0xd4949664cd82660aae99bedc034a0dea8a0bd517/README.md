@@ -7,5 +7,5 @@ symbol: EVMOS
 decimals: 18
 icons:
   - icon.png
-color: "#e84838"
+color: "#f8c2b9"
 ---

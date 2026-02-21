@@ -7,5 +7,5 @@ symbol: TEC
 decimals: 18
 icons:
   - icon.png
-color: "#d8f848"
+color: "#0e0c14"
 ---

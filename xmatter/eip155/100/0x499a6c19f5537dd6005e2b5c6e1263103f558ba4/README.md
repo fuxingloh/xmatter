@@ -7,5 +7,5 @@ symbol: REALT-S-17813-BRADF
 decimals: 18
 icons:
   - icon.jpeg
-color: "#989898"
+color: "#9a8b7f"
 ---

@@ -7,5 +7,5 @@ symbol: YAM
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#d2213c"
 ---

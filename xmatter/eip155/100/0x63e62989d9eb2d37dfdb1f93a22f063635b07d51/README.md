@@ -7,5 +7,5 @@ symbol: MIVA
 decimals: 18
 icons:
   - icon.png
-color: "#6848d8"
+color: "#6444d4"
 ---

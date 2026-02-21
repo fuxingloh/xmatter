@@ -7,5 +7,5 @@ symbol: ZJOE
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#6366c6"
 ---

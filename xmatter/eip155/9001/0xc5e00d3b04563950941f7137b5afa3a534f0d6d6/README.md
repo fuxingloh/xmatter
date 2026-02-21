@@ -7,5 +7,5 @@ symbol: ATOM
 decimals: 6
 icons:
   - icon.png
-color: "#283848"
+color: "#2c334a"
 ---

@@ -7,5 +7,5 @@ symbol: FAT
 decimals: 18
 icons:
   - icon.png
-color: "#08e8c8"
+color: "#c5fbf1"
 ---

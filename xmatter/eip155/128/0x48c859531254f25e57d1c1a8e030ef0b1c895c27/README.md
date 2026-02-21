@@ -7,5 +7,5 @@ symbol: DEP
 decimals: 18
 icons:
   - icon.png
-color: "#0858f8"
+color: "#0463fc"
 ---

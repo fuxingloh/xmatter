@@ -7,5 +7,5 @@ symbol: CRN
 decimals: 18
 icons:
   - icon.png
-color: "#080828"
+color: "#051424"
 ---

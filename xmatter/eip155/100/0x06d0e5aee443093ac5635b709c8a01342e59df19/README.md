@@ -7,5 +7,5 @@ symbol: REALT-S-10617-HATHA
 decimals: 18
 icons:
   - icon.jpeg
-color: "#f8f8f8"
+color: "#b9b3ac"
 ---

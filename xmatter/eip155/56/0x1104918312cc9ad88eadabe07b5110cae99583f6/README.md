@@ -7,5 +7,5 @@ symbol: MIDA
 decimals: 18
 icons:
   - icon.png
-color: "#284858"
+color: "#959584"
 ---

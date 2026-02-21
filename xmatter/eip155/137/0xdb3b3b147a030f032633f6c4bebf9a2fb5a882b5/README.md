@@ -7,5 +7,5 @@ symbol: EASY
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#c6c1e9"
 ---

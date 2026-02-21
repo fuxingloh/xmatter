@@ -7,5 +7,5 @@ symbol: PAL
 decimals: 18
 icons:
   - icon.png
-color: "#68c8a8"
+color: "#80d59a"
 ---

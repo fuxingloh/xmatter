@@ -7,5 +7,5 @@ symbol: EVO
 decimals: 18
 icons:
   - icon.png
-color: "#283838"
+color: "#69e2df"
 ---

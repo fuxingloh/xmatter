@@ -7,5 +7,5 @@ symbol: UM
 decimals: 18
 icons:
   - icon.png
-color: "#582808"
+color: "#5b3010"
 ---

@@ -7,5 +7,5 @@ symbol: HONEY
 decimals: 18
 icons:
   - icon.jpeg
-color: "#d8d8d8"
+color: "#d3cfce"
 ---

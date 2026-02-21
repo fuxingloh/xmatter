@@ -7,5 +7,5 @@ symbol: DAIK
 decimals: 18
 icons:
   - icon.png
-color: "#2858d8"
+color: "#2c64e4"
 ---

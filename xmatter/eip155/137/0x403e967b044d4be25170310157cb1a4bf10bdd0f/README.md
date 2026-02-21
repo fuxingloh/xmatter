@@ -7,5 +7,5 @@ symbol: FUD
 decimals: 18
 icons:
   - icon.png
-color: "#288858"
+color: "#31854b"
 ---

@@ -7,5 +7,5 @@ symbol: RIVRSHIBA
 decimals: 9
 icons:
   - icon.png
-color: "#080808"
+color: "#750d3b"
 ---

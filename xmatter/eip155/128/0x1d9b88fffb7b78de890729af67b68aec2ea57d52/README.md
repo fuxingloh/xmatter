@@ -7,5 +7,5 @@ symbol: HTC
 decimals: 18
 icons:
   - icon.png
-color: "#c8a888"
+color: "#ceae8e"
 ---

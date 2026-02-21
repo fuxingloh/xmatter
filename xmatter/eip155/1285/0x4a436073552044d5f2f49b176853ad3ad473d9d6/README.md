@@ -7,5 +7,5 @@ symbol: ROME
 decimals: 9
 icons:
   - icon.jpeg
-color: "#b81838"
+color: "#bc1f3d"
 ---

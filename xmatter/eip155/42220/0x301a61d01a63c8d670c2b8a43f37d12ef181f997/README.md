@@ -7,5 +7,5 @@ symbol: pCELO
 decimals: 18
 icons:
   - icon.png
-color: "#f8c858"
+color: "#afa5f8"
 ---

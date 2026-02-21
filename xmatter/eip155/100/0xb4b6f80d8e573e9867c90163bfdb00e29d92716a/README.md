@@ -7,5 +7,5 @@ symbol: MET
 decimals: 18
 icons:
   - icon.png
-color: "#7868f8"
+color: "#7d64fb"
 ---

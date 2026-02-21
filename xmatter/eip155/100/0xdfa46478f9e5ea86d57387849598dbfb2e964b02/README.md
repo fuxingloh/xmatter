@@ -7,5 +7,5 @@ symbol: QI
 decimals: 18
 icons:
   - icon.png
-color: "#f87878"
+color: "#fa7373"
 ---

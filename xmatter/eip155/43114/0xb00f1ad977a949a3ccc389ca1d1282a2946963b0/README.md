@@ -7,5 +7,5 @@ symbol: BOOFI
 decimals: 18
 icons:
   - icon.png
-color: "#38d898"
+color: "#3dd993"
 ---

@@ -7,5 +7,5 @@ symbol: SWFTC
 decimals: 8
 icons:
   - icon.png
-color: "#b88818"
+color: "#bf8b24"
 ---

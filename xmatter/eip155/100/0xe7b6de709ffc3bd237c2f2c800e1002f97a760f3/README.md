@@ -7,5 +7,5 @@ symbol: REALT-S-4852-4854-W
 decimals: 18
 icons:
   - icon.jpeg
-color: "#f8f8f8"
+color: "#eaeae9"
 ---

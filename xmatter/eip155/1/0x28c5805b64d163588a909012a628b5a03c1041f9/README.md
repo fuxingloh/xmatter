@@ -7,5 +7,5 @@ symbol: CHOPPER
 decimals: 9
 icons:
   - icon.png
-color: "#f8e8f8"
+color: "#ce427d"
 ---

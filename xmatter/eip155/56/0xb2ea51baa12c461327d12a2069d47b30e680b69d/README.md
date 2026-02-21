@@ -7,5 +7,5 @@ symbol: SMCW
 decimals: 18
 icons:
   - icon.jpeg
-color: "#080818"
+color: "#180e2d"
 ---

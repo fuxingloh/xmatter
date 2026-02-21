@@ -7,5 +7,5 @@ symbol: DDAO
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#374192"
 ---

@@ -7,5 +7,5 @@ symbol: REV
 decimals: 18
 icons:
   - icon.jpeg
-color: "#f8f8f8"
+color: "#b9dce3"
 ---

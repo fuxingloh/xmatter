@@ -7,5 +7,5 @@ symbol: AWBTC
 decimals: 8
 icons:
   - icon.webp
-color: "#282838"
+color: "#6593aa"
 ---

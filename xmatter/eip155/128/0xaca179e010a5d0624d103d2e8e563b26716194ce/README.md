@@ -7,5 +7,5 @@ symbol: FA
 decimals: 18
 icons:
   - icon.png
-color: "#282838"
+color: "#f2ca44"
 ---

@@ -7,5 +7,5 @@ symbol: REALT-S-6923-GREENV
 decimals: 18
 icons:
   - icon.jpeg
-color: "#789808"
+color: "#6f6a3c"
 ---

@@ -7,5 +7,5 @@ symbol: DMC
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#e4e4e4"
 ---

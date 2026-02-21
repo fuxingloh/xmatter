@@ -7,5 +7,5 @@ symbol: APE
 decimals: 18
 icons:
   - icon.png
-color: "#686868"
+color: "#646464"
 ---

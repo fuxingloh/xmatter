@@ -7,5 +7,5 @@ symbol: STEP
 decimals: 8
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#d8e3f9"
 ---

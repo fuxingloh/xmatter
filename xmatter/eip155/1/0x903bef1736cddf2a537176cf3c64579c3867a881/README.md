@@ -21,7 +21,7 @@ standards:
 icons:
   - icon.png
   - icon.jpeg
-color: "#080808"
+color: "#968872"
 ---
 
 Legacy ICHI is a token deprecated by the ICHI DAO, you can swap it 1-1 for ICHI at app.ichi.org.

@@ -7,5 +7,5 @@ symbol: SMART
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#c135fc"
 ---

@@ -7,5 +7,5 @@ symbol: ESW
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#7a9efa"
 ---

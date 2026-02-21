@@ -7,5 +7,5 @@ symbol: WNT
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#d5ae0b"
 ---

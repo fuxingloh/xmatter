@@ -7,5 +7,5 @@ symbol: SPG
 decimals: 18
 icons:
   - icon.jpeg
-color: "#382868"
+color: "#342a72"
 ---

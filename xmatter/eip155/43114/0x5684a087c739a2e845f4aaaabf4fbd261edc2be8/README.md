@@ -7,5 +7,5 @@ symbol: LF
 decimals: 9
 icons:
   - icon.png
-color: "#6888c8"
+color: "#6484d2"
 ---

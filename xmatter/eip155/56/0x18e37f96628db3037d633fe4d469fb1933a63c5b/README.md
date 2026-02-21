@@ -7,5 +7,5 @@ symbol: MBL
 decimals: 18
 icons:
   - icon.png
-color: "#584898"
+color: "#d9d8e8"
 ---

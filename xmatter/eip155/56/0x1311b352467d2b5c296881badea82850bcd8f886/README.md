@@ -7,5 +7,5 @@ symbol: TOOLS
 decimals: 18
 icons:
   - icon.png
-color: "#f8c818"
+color: "#3b3c42"
 ---

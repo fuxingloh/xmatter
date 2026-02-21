@@ -7,5 +7,5 @@ symbol: AXLUSDC
 decimals: 6
 icons:
   - icon.png
-color: "#2878c8"
+color: "#2c78cd"
 ---

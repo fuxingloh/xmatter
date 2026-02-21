@@ -7,5 +7,5 @@ symbol: IRON
 decimals: 18
 icons:
   - icon.jpeg
-color: "#180808"
+color: "#341c14"
 ---

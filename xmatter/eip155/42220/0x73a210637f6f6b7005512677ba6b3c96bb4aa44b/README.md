@@ -7,5 +7,5 @@ symbol: MOBI
 decimals: 18
 icons:
   - icon.png
-color: "#282828"
+color: "#2c2d2d"
 ---

@@ -7,5 +7,5 @@ symbol: PENDLE
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#1a3a6d"
 ---

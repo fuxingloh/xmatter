@@ -7,5 +7,5 @@ symbol: UOP
 decimals: 18
 icons:
   - icon.png
-color: "#58c8e8"
+color: "#53c3e4"
 ---

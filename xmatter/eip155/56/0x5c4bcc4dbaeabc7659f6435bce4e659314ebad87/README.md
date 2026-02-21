@@ -7,5 +7,5 @@ symbol: NTX
 decimals: 6
 icons:
   - icon.png
-color: "#181828"
+color: "#1e799a"
 ---

@@ -7,5 +7,5 @@ symbol: mCOIN
 decimals: 18
 icons:
   - icon.png
-color: "#d88848"
+color: "#d0894b"
 ---

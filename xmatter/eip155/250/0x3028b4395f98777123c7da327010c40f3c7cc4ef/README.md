@@ -7,5 +7,5 @@ symbol: PREMIA
 decimals: 18
 icons:
   - icon.png
-color: "#5898f8"
+color: "#5294ff"
 ---

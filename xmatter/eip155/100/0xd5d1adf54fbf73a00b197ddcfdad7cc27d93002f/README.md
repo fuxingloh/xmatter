@@ -7,5 +7,5 @@ symbol: REALT-S-10629-MCKIN
 decimals: 18
 icons:
   - icon.jpeg
-color: "#888888"
+color: "#908e8d"
 ---

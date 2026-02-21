@@ -7,5 +7,5 @@ symbol: SAND
 decimals: 18
 icons:
   - icon.png
-color: "#08a8e8"
+color: "#92d9f5"
 ---

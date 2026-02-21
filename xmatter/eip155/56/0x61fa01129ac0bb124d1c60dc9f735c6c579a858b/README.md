@@ -7,5 +7,5 @@ symbol: KTE
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#b8b1b6"
 ---

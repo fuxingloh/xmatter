@@ -7,5 +7,5 @@ symbol: REALT-S-15777-ARDMO
 decimals: 18
 icons:
   - icon.jpeg
-color: "#685848"
+color: "#715b4b"
 ---

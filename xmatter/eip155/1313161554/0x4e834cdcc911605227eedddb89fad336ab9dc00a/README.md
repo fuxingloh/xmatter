@@ -7,5 +7,5 @@ symbol: AAVE
 decimals: 18
 icons:
   - icon.svg
-color: "#080808"
+color: "#807aae"
 ---

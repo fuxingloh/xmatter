@@ -7,5 +7,5 @@ symbol: IDT
 decimals: 18
 icons:
   - icon.png
-color: "#7848e8"
+color: "#6261ee"
 ---

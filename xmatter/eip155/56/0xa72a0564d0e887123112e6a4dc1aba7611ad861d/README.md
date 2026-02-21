@@ -7,5 +7,5 @@ symbol: FEB
 decimals: 0
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#c5996c"
 ---

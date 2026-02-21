@@ -7,5 +7,5 @@ symbol: CASH
 decimals: 18
 icons:
   - icon.png
-color: "#f8d818"
+color: "#fcd010"
 ---

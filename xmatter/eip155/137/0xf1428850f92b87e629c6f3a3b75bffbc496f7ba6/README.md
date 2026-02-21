@@ -7,5 +7,5 @@ symbol: GEO
 decimals: 18
 icons:
   - icon.png
-color: "#0848d8"
+color: "#d4e0f0"
 ---

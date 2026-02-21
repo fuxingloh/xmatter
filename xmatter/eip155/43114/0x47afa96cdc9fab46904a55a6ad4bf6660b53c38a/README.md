@@ -7,5 +7,5 @@ symbol: avDAI
 decimals: 18
 icons:
   - icon.png
-color: "#486848"
+color: "#fcbc38"
 ---

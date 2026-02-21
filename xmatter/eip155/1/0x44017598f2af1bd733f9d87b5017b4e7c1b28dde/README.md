@@ -7,5 +7,5 @@ symbol: STKATOM
 decimals: 6
 icons:
   - icon.png
-color: "#282848"
+color: "#20243b"
 ---

@@ -7,5 +7,5 @@ symbol: CHIHUA
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#9e715a"
 ---

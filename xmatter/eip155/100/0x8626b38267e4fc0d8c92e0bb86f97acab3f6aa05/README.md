@@ -7,5 +7,5 @@ symbol: REALT-S-10604-SOMER
 decimals: 18
 icons:
   - icon.jpeg
-color: "#a8a858"
+color: "#8f805d"
 ---

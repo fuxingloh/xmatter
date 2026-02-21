@@ -7,5 +7,5 @@ symbol: FRM
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#dcdbda"
 ---

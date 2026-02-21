@@ -7,5 +7,5 @@ symbol: BETA
 decimals: 18
 icons:
   - icon.jpeg
-color: "#281828"
+color: "#b693bc"
 ---

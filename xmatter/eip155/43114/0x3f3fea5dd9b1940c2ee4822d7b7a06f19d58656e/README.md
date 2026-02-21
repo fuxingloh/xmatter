@@ -7,5 +7,5 @@ symbol: AVAPAY
 decimals: 9
 icons:
   - icon.png
-color: "#f84838"
+color: "#ff423f"
 ---

@@ -7,5 +7,5 @@ symbol: REALT-S-5942-AUDUBO
 decimals: 18
 icons:
   - icon.jpeg
-color: "#686858"
+color: "#566043"
 ---

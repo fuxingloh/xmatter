@@ -7,5 +7,5 @@ symbol: KEY
 decimals: 18
 icons:
   - icon.png
-color: "#58a8f8"
+color: "#f7cb0a"
 ---

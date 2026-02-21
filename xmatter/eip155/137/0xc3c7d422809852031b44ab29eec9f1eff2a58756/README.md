@@ -7,5 +7,5 @@ symbol: LDO
 decimals: 18
 icons:
   - icon.png
-color: "#f8d8a8"
+color: "#fab59d"
 ---

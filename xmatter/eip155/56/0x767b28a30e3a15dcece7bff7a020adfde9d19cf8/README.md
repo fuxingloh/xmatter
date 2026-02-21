@@ -7,5 +7,5 @@ symbol: MRXB
 decimals: 8
 icons:
   - icon.png
-color: "#280828"
+color: "#381539"
 ---

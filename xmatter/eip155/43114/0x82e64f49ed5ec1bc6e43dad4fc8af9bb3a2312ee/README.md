@@ -7,5 +7,5 @@ symbol: ADAI
 decimals: 18
 icons:
   - icon.webp
-color: "#f8b838"
+color: "#fbba36"
 ---

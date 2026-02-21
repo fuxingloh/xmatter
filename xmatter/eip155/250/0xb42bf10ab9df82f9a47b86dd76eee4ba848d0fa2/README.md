@@ -7,5 +7,5 @@ symbol: AFTMB
 decimals: 18
 icons:
   - icon.png
-color: "#0868f8"
+color: "#046cfc"
 ---

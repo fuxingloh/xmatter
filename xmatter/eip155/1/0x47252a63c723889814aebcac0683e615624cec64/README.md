@@ -7,5 +7,5 @@ symbol: NIL
 decimals: 18
 icons:
   - icon.png
-color: "#181818"
+color: "#1b1b1b"
 ---

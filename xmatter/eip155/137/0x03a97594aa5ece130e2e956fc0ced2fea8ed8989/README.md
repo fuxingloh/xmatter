@@ -7,5 +7,5 @@ symbol: AMATICB
 decimals: 18
 icons:
   - icon.jpeg
-color: "#0868f8"
+color: "#ecf7f9"
 ---

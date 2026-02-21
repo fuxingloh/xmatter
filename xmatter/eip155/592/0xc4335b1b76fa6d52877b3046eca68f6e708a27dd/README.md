@@ -7,5 +7,5 @@ symbol: LAY
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#05c2f9"
 ---

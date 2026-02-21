@@ -7,5 +7,5 @@ symbol: AMP
 decimals: 18
 icons:
   - icon.png
-color: "#d82878"
+color: "#e4649c"
 ---

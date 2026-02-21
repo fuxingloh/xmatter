@@ -7,5 +7,5 @@ symbol: ZEE
 decimals: 18
 icons:
   - icon.png
-color: "#1848c8"
+color: "#bdcaed"
 ---

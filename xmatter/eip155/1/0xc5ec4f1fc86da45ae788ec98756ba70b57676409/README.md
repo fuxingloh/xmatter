@@ -7,5 +7,5 @@ symbol: OJE
 decimals: 18
 icons:
   - icon.jpeg
-color: "#180808"
+color: "#52b07a"
 ---

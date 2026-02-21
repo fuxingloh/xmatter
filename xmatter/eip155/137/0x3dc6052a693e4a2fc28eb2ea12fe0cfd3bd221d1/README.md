@@ -7,5 +7,5 @@ symbol: IRIS
 decimals: 6
 icons:
   - icon.png
-color: "#5858a8"
+color: "#5b5ba8"
 ---

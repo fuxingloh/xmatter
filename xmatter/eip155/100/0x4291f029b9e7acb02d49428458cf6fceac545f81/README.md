@@ -7,5 +7,5 @@ symbol: WATER
 decimals: 18
 icons:
   - icon.png
-color: "#d8e8f8"
+color: "#d3e7f6"
 ---

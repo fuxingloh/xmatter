@@ -7,5 +7,5 @@ symbol: ZOO
 decimals: 18
 icons:
   - icon.png
-color: "#089888"
+color: "#0b897f"
 ---

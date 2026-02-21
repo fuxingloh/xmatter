@@ -7,5 +7,5 @@ symbol: WSTA
 decimals: 18
 icons:
   - icon.png
-color: "#085888"
+color: "#05baf0"
 ---

@@ -7,5 +7,5 @@ symbol: HBSV
 decimals: 18
 icons:
   - icon.png
-color: "#e8b808"
+color: "#faefca"
 ---

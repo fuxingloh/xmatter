@@ -7,5 +7,5 @@ symbol: CYC
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#cdf6f5"
 ---

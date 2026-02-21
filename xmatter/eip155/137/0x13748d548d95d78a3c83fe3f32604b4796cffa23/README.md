@@ -7,5 +7,5 @@ symbol: KOGECOIN
 decimals: 9
 icons:
   - icon.png
-color: "#18a848"
+color: "#1ca44c"
 ---

@@ -7,5 +7,5 @@ symbol: G-DAI
 decimals: 18
 icons:
   - icon.png
-color: "#f8a818"
+color: "#fbaa24"
 ---

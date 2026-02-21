@@ -7,5 +7,5 @@ symbol: ATH
 decimals: 18
 icons:
   - icon.png
-color: "#e86828"
+color: "#e4d7cd"
 ---

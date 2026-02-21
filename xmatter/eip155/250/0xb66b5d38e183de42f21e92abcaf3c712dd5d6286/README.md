@@ -7,5 +7,5 @@ symbol: PILLS
 decimals: 18
 icons:
   - icon.png
-color: "#181818"
+color: "#e44b54"
 ---

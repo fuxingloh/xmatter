@@ -7,5 +7,5 @@ symbol: XCUR
 decimals: 8
 icons:
   - icon.png
-color: "#081828"
+color: "#d4d6d8"
 ---

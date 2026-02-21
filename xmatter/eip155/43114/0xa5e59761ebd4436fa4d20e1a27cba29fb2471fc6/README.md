@@ -7,5 +7,5 @@ symbol: SHERPA
 decimals: 18
 icons:
   - icon.png
-color: "#082838"
+color: "#f13b45"
 ---

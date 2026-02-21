@@ -7,5 +7,5 @@ symbol: YDR
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#e2483c"
 ---

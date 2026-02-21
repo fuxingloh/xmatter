@@ -7,5 +7,5 @@ symbol: YFI
 decimals: 18
 icons:
   - icon.svg
-color: "#0868e8"
+color: "#046ce4"
 ---

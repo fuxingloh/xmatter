@@ -7,5 +7,5 @@ symbol: AVXL
 decimals: 18
 icons:
   - icon.png
-color: "#e84848"
+color: "#e44444"
 ---

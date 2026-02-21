@@ -7,5 +7,5 @@ symbol: RAI
 decimals: 18
 icons:
   - icon.png
-color: "#182828"
+color: "#1d2a2a"
 ---

@@ -7,5 +7,5 @@ symbol: STELLA
 decimals: 18
 icons:
   - icon.jpeg
-color: "#381848"
+color: "#48184b"
 ---

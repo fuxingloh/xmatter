@@ -7,5 +7,5 @@ symbol: UMA
 decimals: 18
 icons:
   - icon.png
-color: "#f84848"
+color: "#fc4c4c"
 ---

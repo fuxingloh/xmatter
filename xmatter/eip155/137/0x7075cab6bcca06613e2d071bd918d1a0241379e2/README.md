@@ -7,5 +7,5 @@ symbol: GFARM2
 decimals: 18
 icons:
   - icon.png
-color: "#5808d8"
+color: "#bfd7ed"
 ---

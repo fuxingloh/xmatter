@@ -7,5 +7,5 @@ symbol: TEM
 decimals: 9
 icons:
   - icon.png
-color: "#e8e8e8"
+color: "#d4d1ce"
 ---

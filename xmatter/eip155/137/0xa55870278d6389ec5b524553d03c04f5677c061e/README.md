@@ -7,5 +7,5 @@ symbol: XCAD
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#e7e5e5"
 ---

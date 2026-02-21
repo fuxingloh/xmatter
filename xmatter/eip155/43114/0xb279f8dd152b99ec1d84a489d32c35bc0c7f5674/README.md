@@ -7,5 +7,5 @@ symbol: STEAK
 decimals: 18
 icons:
   - icon.png
-color: "#f868b8"
+color: "#f46cbc"
 ---

@@ -7,5 +7,5 @@ symbol: HAO
 decimals: 18
 icons:
   - icon.png
-color: "#181818"
+color: "#c4b290"
 ---

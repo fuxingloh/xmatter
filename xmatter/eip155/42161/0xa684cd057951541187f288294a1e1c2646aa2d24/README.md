@@ -7,5 +7,5 @@ symbol: VSTA
 decimals: 18
 icons:
   - icon.webp
-color: "#f8f8e8"
+color: "#0e1c2c"
 ---

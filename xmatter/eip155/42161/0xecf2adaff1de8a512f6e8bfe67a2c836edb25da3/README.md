@@ -7,5 +7,5 @@ symbol: WMEMO
 decimals: 18
 icons:
   - icon.png
-color: "#283888"
+color: "#3e5cb4"
 ---

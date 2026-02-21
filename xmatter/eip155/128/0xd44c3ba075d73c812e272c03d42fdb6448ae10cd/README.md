@@ -7,5 +7,5 @@ symbol: LION
 decimals: 18
 icons:
   - icon.png
-color: "#f878f8"
+color: "#fa7cf3"
 ---

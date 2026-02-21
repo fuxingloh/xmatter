@@ -7,5 +7,5 @@ symbol: ALTA
 decimals: 18
 icons:
   - icon.png
-color: "#28e888"
+color: "#25e494"
 ---

@@ -7,5 +7,5 @@ symbol: SURF
 decimals: 18
 icons:
   - icon.png
-color: "#186898"
+color: "#1f6a9d"
 ---

@@ -7,5 +7,5 @@ symbol: NFTI
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#28bda6"
 ---

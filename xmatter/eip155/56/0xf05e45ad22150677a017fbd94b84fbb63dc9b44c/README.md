@@ -7,5 +7,5 @@ symbol: OG
 decimals: 2
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#d7dbe1"
 ---

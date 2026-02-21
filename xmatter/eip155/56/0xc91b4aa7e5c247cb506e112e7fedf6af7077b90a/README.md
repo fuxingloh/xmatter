@@ -7,5 +7,5 @@ symbol: DELO
 decimals: 9
 icons:
   - icon.png
-color: "#080808"
+color: "#2e2c27"
 ---

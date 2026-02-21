@@ -7,5 +7,5 @@ symbol: REALT-S-402-SKOSTNE
 decimals: 18
 icons:
   - icon.jpeg
-color: "#d8c8b8"
+color: "#c8d6d4"
 ---

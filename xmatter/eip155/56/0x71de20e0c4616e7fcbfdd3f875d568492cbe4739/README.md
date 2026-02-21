@@ -7,5 +7,5 @@ symbol: SWINGBY
 decimals: 18
 icons:
   - icon.png
-color: "#181848"
+color: "#181c55"
 ---

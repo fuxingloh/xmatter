@@ -7,5 +7,5 @@ symbol: BRUSH
 decimals: 18
 icons:
   - icon.png
-color: "#d8f8e8"
+color: "#e0e2e2"
 ---

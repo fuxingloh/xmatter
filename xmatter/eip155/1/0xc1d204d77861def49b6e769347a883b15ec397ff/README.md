@@ -7,5 +7,5 @@ symbol: PAX
 decimals: 18
 icons:
   - icon.png
-color: "#a87818"
+color: "#bf9524"
 ---

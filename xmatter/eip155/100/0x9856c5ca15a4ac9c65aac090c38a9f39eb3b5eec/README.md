@@ -7,5 +7,5 @@ symbol: REALT-S-18273-MONTE
 decimals: 18
 icons:
   - icon.jpeg
-color: "#f8f8f8"
+color: "#8c7d7b"
 ---

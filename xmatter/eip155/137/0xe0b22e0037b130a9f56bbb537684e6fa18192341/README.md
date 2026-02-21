@@ -7,5 +7,5 @@ symbol: MADAI
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#f3ba40"
 ---

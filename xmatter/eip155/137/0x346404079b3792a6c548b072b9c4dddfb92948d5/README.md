@@ -7,5 +7,5 @@ symbol: IUX
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#000000"
 ---

@@ -7,5 +7,5 @@ symbol: RFG
 decimals: 9
 icons:
   - icon.png
-color: "#080808"
+color: "#6eb6ac"
 ---

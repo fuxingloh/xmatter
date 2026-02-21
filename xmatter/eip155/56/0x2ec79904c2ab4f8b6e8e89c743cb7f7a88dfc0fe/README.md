@@ -7,5 +7,5 @@ symbol: ALTS
 decimals: 9
 icons:
   - icon.png
-color: "#080808"
+color: "#2d2d2d"
 ---

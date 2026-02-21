@@ -7,5 +7,5 @@ symbol: CHANGE
 decimals: 18
 icons:
   - icon.png
-color: "#8878f8"
+color: "#8e7aff"
 ---

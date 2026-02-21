@@ -7,5 +7,5 @@ symbol: aMoon
 decimals: 9
 icons:
   - icon.jpeg
-color: "#080808"
+color: "#1b170a"
 ---

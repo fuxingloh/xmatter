@@ -7,5 +7,5 @@ symbol: DGCL
 decimals: 18
 icons:
   - icon.png
-color: "#080878"
+color: "#06067c"
 ---

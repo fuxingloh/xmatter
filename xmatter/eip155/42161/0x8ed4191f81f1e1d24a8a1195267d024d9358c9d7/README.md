@@ -7,5 +7,5 @@ symbol: MAGNET
 decimals: 18
 icons:
   - icon.jpeg
-color: "#181818"
+color: "#171526"
 ---

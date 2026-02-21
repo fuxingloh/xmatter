@@ -7,5 +7,5 @@ symbol: HBCH
 decimals: 18
 icons:
   - icon.png
-color: "#88c858"
+color: "#8dc454"
 ---

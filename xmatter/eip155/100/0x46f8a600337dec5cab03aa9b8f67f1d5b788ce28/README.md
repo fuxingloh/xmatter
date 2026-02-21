@@ -7,5 +7,5 @@ symbol: REALT-S-18433-FAUST
 decimals: 18
 icons:
   - icon.jpeg
-color: "#c8c8c8"
+color: "#6a7c3c"
 ---

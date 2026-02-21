@@ -7,5 +7,5 @@ symbol: UNIX
 decimals: 18
 icons:
   - icon.png
-color: "#180848"
+color: "#322061"
 ---

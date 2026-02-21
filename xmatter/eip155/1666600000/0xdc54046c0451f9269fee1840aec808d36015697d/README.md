@@ -7,5 +7,5 @@ symbol: 1BTC
 decimals: 8
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#d2f3e5"
 ---

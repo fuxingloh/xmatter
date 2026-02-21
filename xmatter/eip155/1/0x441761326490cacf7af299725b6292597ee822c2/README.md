@@ -7,5 +7,5 @@ symbol: UNFI
 decimals: 18
 icons:
   - icon.png
-color: "#38f898"
+color: "#38f997"
 ---

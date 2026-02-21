@@ -7,5 +7,5 @@ symbol: LOM
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#cfa87f"
 ---

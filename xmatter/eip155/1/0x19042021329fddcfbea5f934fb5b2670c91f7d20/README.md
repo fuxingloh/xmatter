@@ -7,5 +7,5 @@ symbol: TMM
 decimals: 6
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#1c1c1c"
 ---

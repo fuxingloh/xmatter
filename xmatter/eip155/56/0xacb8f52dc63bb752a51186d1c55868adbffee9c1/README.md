@@ -7,5 +7,5 @@ symbol: BP
 decimals: 18
 icons:
   - icon.png
-color: "#e86888"
+color: "#f5cbd4"
 ---

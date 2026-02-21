@@ -7,5 +7,5 @@ symbol: DANTE
 decimals: 18
 icons:
   - icon.png
-color: "#b8a898"
+color: "#d9c6af"
 ---

@@ -7,5 +7,5 @@ symbol: bscEPS
 decimals: 18
 icons:
   - icon.png
-color: "#383838"
+color: "#7779de"
 ---

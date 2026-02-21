@@ -7,5 +7,5 @@ symbol: RUG
 decimals: 9
 icons:
   - icon.png
-color: "#383878"
+color: "#9b99b1"
 ---

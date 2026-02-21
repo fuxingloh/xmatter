@@ -7,5 +7,5 @@ symbol: RVRS
 decimals: 9
 icons:
   - icon.png
-color: "#383838"
+color: "#373234"
 ---

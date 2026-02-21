@@ -7,5 +7,5 @@ symbol: ZEUM
 decimals: 18
 icons:
   - icon.jpeg
-color: "#383838"
+color: "#272829"
 ---
