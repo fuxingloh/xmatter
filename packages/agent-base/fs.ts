@@ -106,13 +106,22 @@ export abstract class FileSystemAgent<Entry> {
         buffer = Buffer.from(await sharp(buffer).png().resize(128, 128).toBuffer());
       }
 
-      const primaryColor = await getColor(buffer);
+      let rgb: [number, number, number] | undefined;
 
-      if (!primaryColor) {
+      try {
+        rgb = await getColor(buffer);
+      } catch {
+        const { dominant } = await sharp(buffer).stats();
+        if (dominant) {
+          rgb = [dominant.r, dominant.g, dominant.b];
+        }
+      }
+
+      if (!rgb) {
         return file;
       }
 
-      const hexColor = `#${primaryColor.map((c: number) => c.toString(16).padStart(2, "0")).join("")}`;
+      const hexColor = `#${rgb.map((c) => c.toString(16).padStart(2, "0")).join("")}`;
 
       return {
         ...file,
