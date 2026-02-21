@@ -28,6 +28,7 @@ symbol: DEVE
 decimals: 18
 icons:
   - icon.png
+color: "#080808"
 ---
 
 Develocity, your gateway to decentralized finance. Our ecosystem includes DV Wallet for secure asset management, DV Scan for blockchain security, DV Swap for token exchanges, DV Bridge for cross-chain transactions, and DV DEX for decentralized trading.

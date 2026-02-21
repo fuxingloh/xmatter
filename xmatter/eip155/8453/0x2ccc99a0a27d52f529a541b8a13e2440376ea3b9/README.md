@@ -12,6 +12,7 @@ symbol: FEAR
 decimals: 18
 icons:
   - icon.svg
+color: "#080808"
 ---
 
 Experience story driven nightmares on-chain.
