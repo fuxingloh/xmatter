@@ -12,7 +12,7 @@ symbol: FOX
 decimals: 18
 icons:
   - icon.svg
-color: "#3c74fc"
+color: "#3878f8"
 ---
 
 FOX is an ERC-20 token created by ShapeShift which serves as the governance token for the ShapeShift DAO. The token supports and provides utility for a borderless, cross-chain crypto trading platform and portfolio manager for user self-sovereignty.

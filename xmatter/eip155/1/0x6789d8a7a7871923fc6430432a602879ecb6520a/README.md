@@ -10,7 +10,7 @@ name: veKwenta
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#b38756"
+color: "#080808"
 icons:
   - icon.svg
 ---

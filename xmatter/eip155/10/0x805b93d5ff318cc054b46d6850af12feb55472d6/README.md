@@ -10,7 +10,7 @@ name: Zunami ETH
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#fbaf07"
+color: "#f8a808"
 icons:
   - icon.svg
 ---

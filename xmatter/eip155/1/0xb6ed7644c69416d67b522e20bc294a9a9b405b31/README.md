@@ -8,7 +8,7 @@ name: 0xBitcoin Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#f7901c"
+color: "#f89818"
 icons:
   - icon.svg
   - icon.png

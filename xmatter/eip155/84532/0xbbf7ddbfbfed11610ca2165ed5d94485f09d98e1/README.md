@@ -12,7 +12,7 @@ symbol: LIZ
 decimals: 18
 icons:
   - icon.png
-color: "#f8d359"
+color: "#f8f8f8"
 ---
 
 The Lizcoin ERC20 token is the governance token for the Gaming Sub-DAO of Lizard Labs. While the studio focuses on immersive, interconnected gaming experiences, the token is primarily used for yield farming and revenue distribution for active participants, protocol governance, and liquidity staking.

@@ -17,7 +17,7 @@ name: Wrapped Bitcoin
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#f39444"
+color: "#080808"
 icons:
   - icon.svg
   - icon.png

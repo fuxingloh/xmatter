@@ -8,5 +8,5 @@ symbol: TRB
 decimals: 18
 icons:
   - icon.png
-color: "#46f8ac"
+color: "#080808"
 ---

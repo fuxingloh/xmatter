@@ -10,7 +10,7 @@ name: ShibaDoge
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#e1c145"
+color: "#f8e858"
 icons:
   - icon.png
 ---

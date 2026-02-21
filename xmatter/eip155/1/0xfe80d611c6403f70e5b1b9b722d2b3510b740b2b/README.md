@@ -10,7 +10,7 @@ name: Equilibria Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#040904"
+color: "#08f808"
 icons:
   - icon.svg
 ---

@@ -8,7 +8,7 @@ name: Vidya
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#c474eb"
+color: "#080808"
 icons:
   - icon.svg
   - icon.png

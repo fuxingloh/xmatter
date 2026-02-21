@@ -12,7 +12,7 @@ symbol: GHST
 decimals: 18
 icons:
   - icon.svg
-color: "#ea1efb"
+color: "#080808"
 ---
 
 GHST is the eco-governance token of the Aavegotchi Crypto Gaming Protocol.

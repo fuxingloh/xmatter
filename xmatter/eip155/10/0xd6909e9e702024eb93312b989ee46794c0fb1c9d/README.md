@@ -10,7 +10,7 @@ name: Biconomy
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#ff4e17"
+color: "#080808"
 icons:
   - icon.svg
 ---

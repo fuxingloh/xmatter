@@ -13,7 +13,7 @@ decimals: 18
 icons:
   - icon.svg
   - icon.png
-color: "#a37622"
+color: "#080808"
 ---
 
 Official Token for Rainbow

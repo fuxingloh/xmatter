@@ -10,7 +10,7 @@ name: ShapeShift FOX
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#3c74fc"
+color: "#3878f8"
 icons:
   - icon.svg
 ---

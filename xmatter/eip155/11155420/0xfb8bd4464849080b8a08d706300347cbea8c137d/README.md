@@ -12,7 +12,7 @@ symbol: FORT
 decimals: 18
 icons:
   - icon.svg
-color: "#1c1c1c"
+color: "#181818"
 ---
 
 FORT is the native token of the Forta Network, a real-time security and compliance transaction screening network.

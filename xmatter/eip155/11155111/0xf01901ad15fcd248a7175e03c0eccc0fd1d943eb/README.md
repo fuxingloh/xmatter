@@ -10,7 +10,7 @@ links:
     url: "https://x.com/SeamlessFi"
 symbol: SEAM
 decimals: 18
-color: "#040404"
+color: "#f8f8f8"
 icons:
   - icon.svg
 ---

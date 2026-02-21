@@ -12,7 +12,7 @@ symbol: TestnetSYND
 decimals: 18
 icons:
   - icon.svg
-color: "#cdcdcd"
+color: "#f8f8f8"
 ---
 
 Syndicate is infrastructure for building and scaling appchains with programmable onchain sequencers.

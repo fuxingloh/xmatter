@@ -12,7 +12,7 @@ symbol: SOL
 decimals: 9
 icons:
   - icon.svg
-color: "#6f8ed1"
+color: "#080808"
 ---
 
 SOL from Solana, bridged by Wormhole.

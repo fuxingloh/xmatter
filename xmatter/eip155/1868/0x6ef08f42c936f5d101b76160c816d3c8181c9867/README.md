@@ -12,7 +12,7 @@ symbol: QUICK
 decimals: 18
 icons:
   - icon.svg
-color: "#278cc2"
+color: "#f8f8f8"
 ---
 
 QuickSwap DEX token

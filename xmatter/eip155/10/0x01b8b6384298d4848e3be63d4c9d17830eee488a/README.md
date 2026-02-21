@@ -10,7 +10,7 @@ name: DAOhaus Token on Optimism
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#f77860"
+color: "#081838"
 icons:
   - icon.png
 ---

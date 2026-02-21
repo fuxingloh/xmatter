@@ -10,7 +10,7 @@ links:
     url: "https://x.com/Metacade_"
 symbol: MCADE
 decimals: 18
-color: "#ce1cd9"
+color: "#080808"
 icons:
   - icon.svg
 ---

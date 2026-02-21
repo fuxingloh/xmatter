@@ -12,7 +12,7 @@ symbol: IPOR
 decimals: 18
 icons:
   - icon.svg
-color: "#040f32"
+color: "#080828"
 ---
 
 The IPOR token is the protocol's native token issued to the parties involved with the project: builders, investors, liquidity providers, and the like.

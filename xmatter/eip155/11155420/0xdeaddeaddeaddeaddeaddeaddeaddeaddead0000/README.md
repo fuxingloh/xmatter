@@ -8,5 +8,5 @@ symbol: ETH
 decimals: 18
 icons:
   - icon.svg
-color: "#c5cdf4"
+color: "#6878e8"
 ---

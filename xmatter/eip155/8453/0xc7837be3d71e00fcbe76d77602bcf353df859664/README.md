@@ -10,7 +10,7 @@ name: Legend
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#1a1c12"
+color: "#d8f808"
 icons:
   - icon.svg
   - icon.png

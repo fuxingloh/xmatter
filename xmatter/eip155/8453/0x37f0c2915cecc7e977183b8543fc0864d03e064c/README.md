@@ -10,7 +10,7 @@ name: HuntToken
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#fc6c6c"
+color: "#f86868"
 icons:
   - icon.svg
   - icon.png

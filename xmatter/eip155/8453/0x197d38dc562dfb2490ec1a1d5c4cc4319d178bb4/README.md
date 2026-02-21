@@ -8,7 +8,7 @@ name: RAC
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#f2d8f2"
+color: "#e8d8f8"
 icons:
   - icon.png
 ---

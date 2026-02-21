@@ -10,7 +10,7 @@ name: GENOME
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#7d8fc4"
+color: "#f8f8f8"
 icons:
   - icon.svg
 ---

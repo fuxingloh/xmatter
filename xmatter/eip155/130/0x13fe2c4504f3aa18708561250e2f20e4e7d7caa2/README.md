@@ -12,7 +12,7 @@ symbol: PSTAKE
 decimals: 18
 icons:
   - icon.png
-color: "#141414"
+color: "#181818"
 ---
 
 pSTAKE Finance is a Bitcoin Yield and Liquid Staking protocol, backed by Binance Labs.

@@ -8,5 +8,5 @@ symbol: AMIE
 decimals: 18
 icons:
   - icon.png
-color: "#441d5d"
+color: "#f8f8f8"
 ---

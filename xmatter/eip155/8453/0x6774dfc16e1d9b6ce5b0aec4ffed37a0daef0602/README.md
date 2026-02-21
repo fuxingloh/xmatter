@@ -10,7 +10,7 @@ name: Shutter Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#f3f3f3"
+color: "#e8e8e8"
 icons:
   - icon.png
 ---

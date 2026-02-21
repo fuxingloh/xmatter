@@ -12,7 +12,7 @@ symbol: YGG
 decimals: 18
 icons:
   - icon.svg
-color: "#050505"
+color: "#080808"
 ---
 
 We are a Web3 Guild Protocol for enabling guilds globally.

@@ -10,7 +10,7 @@ name: NFTEarthOFT
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#6fea9b"
+color: "#487858"
 icons:
   - icon.png
 ---

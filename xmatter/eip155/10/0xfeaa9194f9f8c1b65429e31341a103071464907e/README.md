@@ -6,7 +6,7 @@ name: LoopringCoin V2
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#044cf3"
+color: "#0848f8"
 icons:
   - icon.png
 ---

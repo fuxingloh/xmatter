@@ -10,7 +10,7 @@ name: IDRISS
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#53eb3b"
+color: "#58e838"
 icons:
   - icon.svg
 ---

@@ -10,7 +10,7 @@ links:
     url: "https://x.com/irara823"
 symbol: IRARA
 decimals: 18
-color: "#000000"
+color: "#080808"
 icons:
   - icon.svg
 ---

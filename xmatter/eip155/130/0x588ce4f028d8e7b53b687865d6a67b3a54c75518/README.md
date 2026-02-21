@@ -12,7 +12,7 @@ symbol: USDT
 decimals: 6
 icons:
   - icon.png
-color: "#24a37b"
+color: "#28a878"
 ---
 
 Bringing real world currency to the blockchain.

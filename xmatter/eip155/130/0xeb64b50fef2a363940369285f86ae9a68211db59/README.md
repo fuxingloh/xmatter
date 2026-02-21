@@ -12,7 +12,7 @@ symbol: cbETH
 decimals: 18
 icons:
   - icon.svg
-color: "#cdddfc"
+color: "#f8f8f8"
 ---
 
 To add description later

@@ -10,7 +10,7 @@ links:
     url: "https://x.com/https://twitter.com/JoinEveryworld"
 symbol: EVERY
 decimals: 18
-color: "#245453"
+color: "#285858"
 icons:
   - icon.svg
 ---

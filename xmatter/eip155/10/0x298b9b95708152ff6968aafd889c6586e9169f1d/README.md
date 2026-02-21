@@ -6,7 +6,7 @@ name: Synthetic Bitcoin
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#f4941c"
+color: "#f89818"
 icons:
   - icon.svg
 ---

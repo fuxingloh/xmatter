@@ -13,7 +13,7 @@ decimals: 8
 icons:
   - icon.svg
   - icon.png
-color: "#f39444"
+color: "#080808"
 ---
 
 Wrapped Bitcoin delivers the power of Bitcoin with the flexibility of an ERC20 token

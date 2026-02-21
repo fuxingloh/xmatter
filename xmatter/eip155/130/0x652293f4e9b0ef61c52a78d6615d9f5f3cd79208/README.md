@@ -12,7 +12,7 @@ symbol: OCEAN
 decimals: 18
 icons:
   - icon.png
-color: "#151515"
+color: "#080808"
 ---
 
 Ocean Protocol Token

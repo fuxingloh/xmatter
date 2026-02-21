@@ -12,7 +12,7 @@ symbol: TRAC
 decimals: 18
 icons:
   - icon.png
-color: "#6344db"
+color: "#6848d8"
 ---
 
 The Trace token (TRAC) is a utility token for the OriginTrail Decentralized Knowledge Graph (DKG).

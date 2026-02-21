@@ -10,7 +10,7 @@ name: Bright
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#f88860"
+color: "#f88868"
 icons:
   - icon.svg
 ---

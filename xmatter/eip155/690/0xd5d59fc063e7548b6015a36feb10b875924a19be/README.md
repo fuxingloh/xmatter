@@ -12,7 +12,7 @@ symbol: USDC.e
 decimals: 6
 icons:
   - icon.png
-color: "#2373cb"
+color: "#2878c8"
 ---
 
 USDC is a faster, safer, and more efficient way to send, spend, and exchange money around the globe.

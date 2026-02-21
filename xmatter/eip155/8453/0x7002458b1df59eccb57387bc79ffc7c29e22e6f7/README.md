@@ -10,7 +10,7 @@ name: OriginToken
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#1c84fc"
+color: "#1888f8"
 icons:
   - icon.svg
   - icon.png

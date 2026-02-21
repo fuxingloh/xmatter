@@ -8,5 +8,5 @@ symbol: RGT
 decimals: 18
 icons:
   - icon.png
-color: "#b1b1b1"
+color: "#080808"
 ---

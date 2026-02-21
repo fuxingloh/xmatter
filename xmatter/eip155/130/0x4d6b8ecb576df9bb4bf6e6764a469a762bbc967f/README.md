@@ -10,5 +10,5 @@ symbol: AMP
 decimals: 18
 icons:
   - icon.svg
-color: "#d42c7c"
+color: "#d82878"
 ---

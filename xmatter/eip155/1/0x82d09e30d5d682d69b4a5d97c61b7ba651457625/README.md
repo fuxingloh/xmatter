@@ -10,7 +10,7 @@ name: TokenDao
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#55a8e8"
+color: "#b878f8"
 icons:
   - icon.png
 ---

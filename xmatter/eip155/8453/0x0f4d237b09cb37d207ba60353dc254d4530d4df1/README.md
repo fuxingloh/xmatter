@@ -10,7 +10,7 @@ name: Graph Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#6c4cfc"
+color: "#6848f8"
 icons:
   - icon.svg
 ---

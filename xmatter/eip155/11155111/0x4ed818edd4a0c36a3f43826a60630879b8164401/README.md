@@ -10,7 +10,7 @@ links:
     url: "https://x.com/dForcenet"
 symbol: DF
 decimals: 18
-color: "#272e46"
+color: "#f8f8f8"
 icons:
   - icon.svg
 ---

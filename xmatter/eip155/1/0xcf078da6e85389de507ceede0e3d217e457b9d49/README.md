@@ -12,7 +12,7 @@ name: SkaiToken
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#af40b4"
+color: "#080808"
 icons:
   - icon.svg
   - icon.png

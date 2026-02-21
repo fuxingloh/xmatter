@@ -12,5 +12,5 @@ symbol: 1INCH
 decimals: 18
 icons:
   - icon.svg
-color: "#253951"
+color: "#183848"
 ---

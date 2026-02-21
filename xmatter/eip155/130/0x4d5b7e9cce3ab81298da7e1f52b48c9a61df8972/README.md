@@ -8,5 +8,5 @@ symbol: BOND
 decimals: 18
 icons:
   - icon.svg
-color: "#fc443c"
+color: "#f84838"
 ---

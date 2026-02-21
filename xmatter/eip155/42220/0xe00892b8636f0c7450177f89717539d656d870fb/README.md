@@ -8,5 +8,5 @@ symbol: POOL
 decimals: 18
 icons:
   - icon.svg
-color: "#7a43f1"
+color: "#7848f8"
 ---

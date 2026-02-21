@@ -10,7 +10,7 @@ name: Gaia Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#151515"
+color: "#181818"
 icons:
   - icon.svg
 ---

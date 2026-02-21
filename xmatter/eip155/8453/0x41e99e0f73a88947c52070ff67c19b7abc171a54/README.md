@@ -10,7 +10,7 @@ name: Redemption Finance
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#94b8ba"
+color: "#f8f8f8"
 icons:
   - icon.svg
 ---

@@ -12,7 +12,7 @@ symbol: MUGLOO
 decimals: 4
 icons:
   - icon.svg
-color: "#2c2c2c"
+color: "#282828"
 ---
 
 Mugloo Token is designed with a simple yet robust tokenomics structure. Mugloo Token is future-ready and designed to be bridgable across chains

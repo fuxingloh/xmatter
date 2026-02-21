@@ -8,5 +8,5 @@ symbol: PEPE
 decimals: 18
 icons:
   - icon.svg
-color: "#3c8434"
+color: "#080808"
 ---

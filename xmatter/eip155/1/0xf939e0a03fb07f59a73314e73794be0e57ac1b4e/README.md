@@ -12,7 +12,7 @@ name: Curve.Finance USD Stablecoin
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#e2ebe4"
+color: "#387848"
 icons:
   - icon.svg
   - icon.png

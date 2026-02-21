@@ -10,7 +10,7 @@ name: Dimo
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#ec0404"
+color: "#e80808"
 icons:
   - icon.svg
 ---

@@ -12,7 +12,7 @@ symbol: USD₮0
 decimals: 6
 icons:
   - icon.png
-color: "#9de3d2"
+color: "#08b888"
 ---
 
 USD₮0 is the omnichain deployment of USDT.

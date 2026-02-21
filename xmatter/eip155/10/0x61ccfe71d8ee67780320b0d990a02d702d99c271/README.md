@@ -10,7 +10,7 @@ name: Scamfari
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#090804"
+color: "#e8d828"
 icons:
   - icon.svg
 ---

@@ -12,7 +12,7 @@ symbol: RSR
 decimals: 18
 icons:
   - icon.png
-color: "#040404"
+color: "#080808"
 ---
 
 An ERC20 governance token for the Reserve Protocol

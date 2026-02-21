@@ -8,7 +8,7 @@ name: Ponder
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#e15c5a"
+color: "#080818"
 icons:
   - icon.png
 ---

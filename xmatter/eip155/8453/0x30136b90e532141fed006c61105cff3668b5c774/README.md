@@ -10,7 +10,7 @@ name: BlueSwap
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#334bfa"
+color: "#3848f8"
 icons:
   - icon.svg
 ---

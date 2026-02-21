@@ -12,7 +12,7 @@ symbol: GRG
 decimals: 18
 icons:
   - icon.svg
-color: "#fbc32c"
+color: "#083888"
 ---
 
 RigoBlock is a DeFi protocol for token management

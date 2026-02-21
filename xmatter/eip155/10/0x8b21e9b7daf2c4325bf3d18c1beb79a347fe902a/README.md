@@ -12,7 +12,7 @@ name: Collab.Land
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#000000"
+color: "#080808"
 icons:
   - icon.svg
   - icon.png

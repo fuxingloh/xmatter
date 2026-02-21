@@ -10,7 +10,7 @@ name: OPENLOOT
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#c9c9c9"
+color: "#f8f8f8"
 icons:
   - icon.svg
 ---

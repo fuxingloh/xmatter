@@ -16,7 +16,7 @@ name: USD Coin (Bridged from Ethereum)
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#2474cc"
+color: "#2878c8"
 icons:
   - icon.svg
   - icon.png

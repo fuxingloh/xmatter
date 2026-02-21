@@ -10,7 +10,7 @@ links:
     url: "https://x.com/Polemos_io"
 symbol: PLMS
 decimals: 18
-color: "#3f1314"
+color: "#281818"
 icons:
   - icon.svg
 ---

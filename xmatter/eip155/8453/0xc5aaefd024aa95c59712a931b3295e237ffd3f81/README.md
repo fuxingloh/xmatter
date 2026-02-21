@@ -8,7 +8,7 @@ name: CattButt
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#fbd304"
+color: "#f8d808"
 icons:
   - icon.svg
 ---

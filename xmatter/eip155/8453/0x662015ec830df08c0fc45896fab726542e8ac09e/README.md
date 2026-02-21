@@ -10,7 +10,7 @@ name: Status Network Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#4463dc"
+color: "#4858d8"
 icons:
   - icon.svg
 ---

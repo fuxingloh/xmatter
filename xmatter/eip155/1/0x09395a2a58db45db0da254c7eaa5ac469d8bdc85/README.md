@@ -10,7 +10,7 @@ name: SubQueryToken
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#4f85d6"
+color: "#080808"
 icons:
   - icon.svg
 ---

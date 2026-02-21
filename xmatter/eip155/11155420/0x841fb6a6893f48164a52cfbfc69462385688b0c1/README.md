@@ -12,7 +12,7 @@ symbol: LITKEY
 decimals: 18
 icons:
   - icon.png
-color: "#fc4404"
+color: "#f84808"
 ---
 
 LITKEY is the token for Lit Protocol, a decentralized key management system
