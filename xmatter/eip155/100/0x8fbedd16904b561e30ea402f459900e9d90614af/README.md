@@ -7,5 +7,5 @@ symbol: LAYER
 decimals: 18
 icons:
   - icon.png
-color: "#081848"
+color: "#da568b"
 ---

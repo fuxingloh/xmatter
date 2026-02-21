@@ -7,5 +7,5 @@ symbol: WRX
 decimals: 8
 icons:
   - icon.png
-color: "#2868e8"
+color: "#3464f3"
 ---

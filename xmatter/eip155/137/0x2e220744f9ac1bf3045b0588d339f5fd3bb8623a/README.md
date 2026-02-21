@@ -7,5 +7,5 @@ symbol: MM
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#d93f3b"
 ---

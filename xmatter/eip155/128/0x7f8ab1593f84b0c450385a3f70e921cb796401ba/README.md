@@ -7,5 +7,5 @@ symbol: SGB
 decimals: 6
 icons:
   - icon.png
-color: "#181818"
+color: "#171416"
 ---

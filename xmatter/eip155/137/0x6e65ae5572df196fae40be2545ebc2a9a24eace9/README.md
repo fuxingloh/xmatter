@@ -7,5 +7,5 @@ symbol: SHACK
 decimals: 18
 icons:
   - icon.png
-color: "#e81828"
+color: "#e81820"
 ---

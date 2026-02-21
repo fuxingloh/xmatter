@@ -7,5 +7,5 @@ symbol: GB
 decimals: 9
 icons:
   - icon.png
-color: "#485868"
+color: "#49526c"
 ---

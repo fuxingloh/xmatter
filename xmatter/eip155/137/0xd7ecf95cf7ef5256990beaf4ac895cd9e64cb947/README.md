@@ -7,5 +7,5 @@ symbol: PBTC
 decimals: 18
 icons:
   - icon.png
-color: "#f86868"
+color: "#f16760"
 ---

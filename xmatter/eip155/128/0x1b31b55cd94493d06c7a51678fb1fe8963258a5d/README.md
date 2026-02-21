@@ -7,5 +7,5 @@ symbol: FCS
 decimals: 18
 icons:
   - icon.png
-color: "#d8b878"
+color: "#ddbc79"
 ---

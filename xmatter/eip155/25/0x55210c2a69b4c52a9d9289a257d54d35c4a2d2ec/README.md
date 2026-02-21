@@ -7,5 +7,5 @@ symbol: BANK
 decimals: 9
 icons:
   - icon.png
-color: "#c8a898"
+color: "#f4ece9"
 ---

@@ -7,5 +7,5 @@ symbol: eDAI
 decimals: 8
 icons:
   - icon.png
-color: "#f8b828"
+color: "#fcb931"
 ---

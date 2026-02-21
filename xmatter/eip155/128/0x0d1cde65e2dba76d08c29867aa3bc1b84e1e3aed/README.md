@@ -7,5 +7,5 @@ symbol: YF
 decimals: 18
 icons:
   - icon.png
-color: "#285888"
+color: "#24548c"
 ---

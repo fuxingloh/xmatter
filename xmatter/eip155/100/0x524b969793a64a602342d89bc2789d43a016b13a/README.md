@@ -7,5 +7,5 @@ symbol: DONUT
 decimals: 18
 icons:
   - icon.png
-color: "#486848"
+color: "#c0638f"
 ---

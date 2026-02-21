@@ -7,5 +7,5 @@ symbol: HYFI
 decimals: 18
 icons:
   - icon.png
-color: "#18c888"
+color: "#c7f8e9"
 ---

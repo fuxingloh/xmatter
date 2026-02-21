@@ -7,5 +7,5 @@ symbol: CFI
 decimals: 18
 icons:
   - icon.png
-color: "#f8f808"
+color: "#070704"
 ---

@@ -7,5 +7,5 @@ symbol: MALINK
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#d8d4ea"
 ---

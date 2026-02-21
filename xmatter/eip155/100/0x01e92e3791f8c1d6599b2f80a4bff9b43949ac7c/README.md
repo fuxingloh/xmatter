@@ -7,5 +7,5 @@ symbol: wNXM
 decimals: 18
 icons:
   - icon.png
-color: "#282828"
+color: "#2d2d2d"
 ---

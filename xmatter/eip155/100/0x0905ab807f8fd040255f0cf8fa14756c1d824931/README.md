@@ -7,5 +7,5 @@ symbol: OWL
 decimals: 18
 icons:
   - icon.png
-color: "#08a8c8"
+color: "#01aec1"
 ---

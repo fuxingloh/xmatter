@@ -7,5 +7,5 @@ symbol: AFT
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#f7e5d5"
 ---

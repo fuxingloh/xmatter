@@ -7,5 +7,5 @@ symbol: BLADE
 decimals: 18
 icons:
   - icon.png
-color: "#a80808"
+color: "#a80508"
 ---

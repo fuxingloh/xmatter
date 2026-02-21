@@ -7,5 +7,5 @@ symbol: BAOcx
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8e8"
+color: "#704237"
 ---

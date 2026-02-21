@@ -7,5 +7,5 @@ symbol: HBO
 decimals: 18
 icons:
   - icon.png
-color: "#180848"
+color: "#140e45"
 ---

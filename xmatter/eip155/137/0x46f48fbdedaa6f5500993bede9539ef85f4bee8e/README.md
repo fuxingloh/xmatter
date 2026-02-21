@@ -7,5 +7,5 @@ symbol: ARIA20
 decimals: 18
 icons:
   - icon.png
-color: "#b89848"
+color: "#fbfbfa"
 ---

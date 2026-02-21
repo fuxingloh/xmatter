@@ -7,5 +7,5 @@ symbol: bscUSDT
 decimals: 18
 icons:
   - icon.png
-color: "#08a888"
+color: "#07ad85"
 ---

@@ -7,5 +7,5 @@ symbol: POA20
 decimals: 18
 icons:
   - icon.png
-color: "#7858b8"
+color: "#7c5cb4"
 ---

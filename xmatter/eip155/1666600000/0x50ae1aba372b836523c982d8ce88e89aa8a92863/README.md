@@ -7,5 +7,5 @@ symbol: 1TEL
 decimals: 2
 icons:
   - icon.png
-color: "#18c8f8"
+color: "#14ccfc"
 ---

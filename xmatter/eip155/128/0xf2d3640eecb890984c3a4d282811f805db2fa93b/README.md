@@ -7,5 +7,5 @@ symbol: HOBA
 decimals: 18
 icons:
   - icon.png
-color: "#d80808"
+color: "#fcc60d"
 ---

@@ -7,5 +7,5 @@ symbol: MEME
 decimals: 8
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#a6864c"
 ---

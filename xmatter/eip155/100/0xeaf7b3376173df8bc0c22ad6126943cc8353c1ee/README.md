@@ -7,5 +7,5 @@ symbol: CHEEMS
 decimals: 18
 icons:
   - icon.png
-color: "#e8c838"
+color: "#ca9112"
 ---

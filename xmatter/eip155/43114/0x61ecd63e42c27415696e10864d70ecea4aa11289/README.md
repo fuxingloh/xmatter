@@ -7,5 +7,5 @@ symbol: RUGPULL
 decimals: 18
 icons:
   - icon.png
-color: "#8848d8"
+color: "#8b43d3"
 ---

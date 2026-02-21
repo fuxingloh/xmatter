@@ -7,5 +7,5 @@ symbol: CXO
 decimals: 18
 icons:
   - icon.png
-color: "#88d828"
+color: "#8ddc2d"
 ---

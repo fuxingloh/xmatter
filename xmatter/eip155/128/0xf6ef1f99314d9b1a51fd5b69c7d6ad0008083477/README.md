@@ -7,5 +7,5 @@ symbol: OGT
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#c0c8e0"
 ---

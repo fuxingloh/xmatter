@@ -7,5 +7,5 @@ symbol: MCDC
 decimals: 2
 icons:
   - icon.png
-color: "#080808"
+color: "#f8b008"
 ---

@@ -7,5 +7,5 @@ symbol: 1CRV
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#1fc8db"
 ---

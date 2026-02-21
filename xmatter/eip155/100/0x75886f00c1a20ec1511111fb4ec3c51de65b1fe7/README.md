@@ -7,5 +7,5 @@ symbol: FTX
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#02a6c2"
 ---

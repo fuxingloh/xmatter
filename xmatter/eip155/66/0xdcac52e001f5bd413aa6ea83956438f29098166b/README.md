@@ -7,5 +7,5 @@ symbol: USDK
 decimals: 18
 icons:
   - icon.png
-color: "#0878f8"
+color: "#0d74f5"
 ---

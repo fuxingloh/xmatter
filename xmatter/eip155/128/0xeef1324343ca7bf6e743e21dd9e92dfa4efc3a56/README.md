@@ -7,5 +7,5 @@ symbol: CON
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#3b4462"
 ---

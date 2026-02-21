@@ -7,5 +7,5 @@ symbol: HWIN
 decimals: 18
 icons:
   - icon.png
-color: "#2868f8"
+color: "#2c64f9"
 ---

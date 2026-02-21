@@ -7,5 +7,5 @@ symbol: ANY
 decimals: 18
 icons:
   - icon.png
-color: "#6858e8"
+color: "#685cf0"
 ---

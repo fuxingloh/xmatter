@@ -7,5 +7,5 @@ symbol: FIDO
 decimals: 18
 icons:
   - icon.png
-color: "#0888f8"
+color: "#0484fc"
 ---

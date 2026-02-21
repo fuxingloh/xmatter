@@ -7,5 +7,5 @@ symbol: VISR
 decimals: 18
 icons:
   - icon.png
-color: "#d8f868"
+color: "#131224"
 ---

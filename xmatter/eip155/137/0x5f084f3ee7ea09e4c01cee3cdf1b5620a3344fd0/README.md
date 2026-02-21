@@ -7,5 +7,5 @@ symbol: KIF
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#eeb33a"
 ---

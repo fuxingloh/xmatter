@@ -7,5 +7,5 @@ symbol: MNC
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#f6e18b"
 ---

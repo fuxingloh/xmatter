@@ -7,5 +7,5 @@ symbol: EWT
 decimals: 18
 icons:
   - icon.png
-color: "#a868f8"
+color: "#a565fc"
 ---

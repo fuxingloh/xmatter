@@ -7,5 +7,5 @@ symbol: JT
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#862370"
 ---

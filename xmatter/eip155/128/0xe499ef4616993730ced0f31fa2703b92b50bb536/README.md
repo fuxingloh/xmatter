@@ -7,5 +7,5 @@ symbol: HPT
 decimals: 18
 icons:
   - icon.png
-color: "#0868e8"
+color: "#0464ec"
 ---

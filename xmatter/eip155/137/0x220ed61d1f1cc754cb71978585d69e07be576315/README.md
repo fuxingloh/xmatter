@@ -7,5 +7,5 @@ symbol: LADZ
 decimals: 4
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#da5545"
 ---

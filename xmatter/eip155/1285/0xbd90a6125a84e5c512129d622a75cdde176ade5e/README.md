@@ -7,5 +7,5 @@ symbol: RIB
 decimals: 18
 icons:
   - icon.png
-color: "#f8c858"
+color: "#e9ca68"
 ---

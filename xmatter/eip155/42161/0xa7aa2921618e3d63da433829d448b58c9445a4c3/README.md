@@ -7,5 +7,5 @@ symbol: DVF
 decimals: 18
 icons:
   - icon.png
-color: "#5808f8"
+color: "#7435fc"
 ---

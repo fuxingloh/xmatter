@@ -7,5 +7,5 @@ symbol: BASE
 decimals: 9
 icons:
   - icon.png
-color: "#281818"
+color: "#e0ccb9"
 ---

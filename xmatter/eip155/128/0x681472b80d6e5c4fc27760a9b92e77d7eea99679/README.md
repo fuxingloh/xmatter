@@ -7,5 +7,5 @@ symbol: CMP
 decimals: 18
 icons:
   - icon.png
-color: "#182848"
+color: "#1c2244"
 ---

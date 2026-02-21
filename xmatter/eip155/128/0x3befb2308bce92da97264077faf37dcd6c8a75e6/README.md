@@ -7,5 +7,5 @@ symbol: WOO
 decimals: 18
 icons:
   - icon.png
-color: "#081828"
+color: "#0c1b24"
 ---

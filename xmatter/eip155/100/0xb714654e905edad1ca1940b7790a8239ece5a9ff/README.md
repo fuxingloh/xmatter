@@ -7,5 +7,5 @@ symbol: TUSD
 decimals: 18
 icons:
   - icon.png
-color: "#1858f8"
+color: "#1c5cfc"
 ---

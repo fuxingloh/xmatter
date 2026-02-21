@@ -7,5 +7,5 @@ symbol: MAYFI
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#d0d2e8"
 ---

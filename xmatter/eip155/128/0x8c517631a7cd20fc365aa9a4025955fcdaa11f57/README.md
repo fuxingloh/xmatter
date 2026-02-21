@@ -7,5 +7,5 @@ symbol: HBELT
 decimals: 18
 icons:
   - icon.png
-color: "#68a8f8"
+color: "#6cacfc"
 ---

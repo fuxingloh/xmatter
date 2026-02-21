@@ -7,5 +7,5 @@ symbol: DOJO
 decimals: 18
 icons:
   - icon.png
-color: "#181828"
+color: "#fac404"
 ---

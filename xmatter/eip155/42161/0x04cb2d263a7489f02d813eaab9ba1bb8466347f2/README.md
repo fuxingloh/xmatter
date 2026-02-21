@@ -7,5 +7,5 @@ symbol: KUN
 decimals: 18
 icons:
   - icon.png
-color: "#f88808"
+color: "#fc8c12"
 ---

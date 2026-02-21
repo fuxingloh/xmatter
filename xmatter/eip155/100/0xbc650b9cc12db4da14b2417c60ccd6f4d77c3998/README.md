@@ -7,5 +7,5 @@ symbol: STORJ
 decimals: 8
 icons:
   - icon.png
-color: "#2888f8"
+color: "#2080f8"
 ---

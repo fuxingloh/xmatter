@@ -7,5 +7,5 @@ symbol: H2O
 decimals: 18
 icons:
   - icon.png
-color: "#282848"
+color: "#2a2e47"
 ---

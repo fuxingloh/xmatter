@@ -7,5 +7,5 @@ symbol: HOT
 decimals: 18
 icons:
   - icon.png
-color: "#8838f8"
+color: "#8b34fc"
 ---

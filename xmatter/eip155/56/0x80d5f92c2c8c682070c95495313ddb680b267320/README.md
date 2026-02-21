@@ -7,5 +7,5 @@ symbol: ASR
 decimals: 2
 icons:
   - icon.png
-color: "#f8b818"
+color: "#f1b914"
 ---

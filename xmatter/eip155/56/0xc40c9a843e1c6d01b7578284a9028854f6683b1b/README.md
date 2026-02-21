@@ -7,5 +7,5 @@ symbol: JUV
 decimals: 2
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#d4d6d8"
 ---

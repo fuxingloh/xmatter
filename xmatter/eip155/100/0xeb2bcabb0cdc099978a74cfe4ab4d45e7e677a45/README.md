@@ -7,5 +7,5 @@ symbol: TVK
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#63afb0"
 ---

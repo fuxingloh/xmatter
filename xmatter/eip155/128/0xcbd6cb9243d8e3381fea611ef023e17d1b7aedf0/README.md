@@ -7,5 +7,5 @@ symbol: BXH
 decimals: 18
 icons:
   - icon.png
-color: "#28b878"
+color: "#2cb47c"
 ---

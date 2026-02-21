@@ -7,5 +7,5 @@ symbol: HTMoon
 decimals: 9
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#1c2343"
 ---

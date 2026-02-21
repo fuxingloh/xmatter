@@ -7,5 +7,5 @@ symbol: 0XBTC
 decimals: 8
 icons:
   - icon.png
-color: "#f87808"
+color: "#fc7d05"
 ---

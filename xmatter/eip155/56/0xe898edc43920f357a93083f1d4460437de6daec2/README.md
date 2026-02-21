@@ -7,5 +7,5 @@ symbol: TITAN
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#278cfc"
 ---

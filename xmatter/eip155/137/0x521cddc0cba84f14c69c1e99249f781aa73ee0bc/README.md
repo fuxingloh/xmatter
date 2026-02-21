@@ -7,5 +7,5 @@ symbol: MOVE
 decimals: 18
 icons:
   - icon.png
-color: "#c8e8f8"
+color: "#c9d8de"
 ---

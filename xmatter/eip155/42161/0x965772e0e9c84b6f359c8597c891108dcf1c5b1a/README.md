@@ -7,5 +7,5 @@ symbol: PICKLE
 decimals: 18
 icons:
   - icon.png
-color: "#88a848"
+color: "#6f9244"
 ---

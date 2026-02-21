@@ -7,5 +7,5 @@ symbol: SWF
 decimals: 18
 icons:
   - icon.png
-color: "#1898d8"
+color: "#1188ca"
 ---

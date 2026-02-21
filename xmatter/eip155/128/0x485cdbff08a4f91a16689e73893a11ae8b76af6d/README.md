@@ -7,5 +7,5 @@ symbol: FEI
 decimals: 18
 icons:
   - icon.png
-color: "#289868"
+color: "#249c6c"
 ---

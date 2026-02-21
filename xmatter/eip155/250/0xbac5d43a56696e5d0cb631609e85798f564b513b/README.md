@@ -7,5 +7,5 @@ symbol: BITB
 decimals: 0
 icons:
   - icon.png
-color: "#080808"
+color: "#60aa92"
 ---
