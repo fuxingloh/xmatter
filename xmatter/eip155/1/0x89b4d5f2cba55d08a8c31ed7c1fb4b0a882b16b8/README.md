@@ -6,7 +6,7 @@ name: GameMax
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ef4a23"
 icons:
   - icon.png
 ---

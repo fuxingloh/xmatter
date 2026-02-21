@@ -10,7 +10,7 @@ name: pochan coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c8c8c8"
+color: "#bfc4c1"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Decentralized Ecosystem Coorperation
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#0967af"
 icons:
   - icon.png
 ---

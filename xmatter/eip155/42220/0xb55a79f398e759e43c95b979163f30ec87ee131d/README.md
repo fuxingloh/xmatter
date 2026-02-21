@@ -20,7 +20,7 @@ name: Mento Swiss Franc
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5808c8"
+color: "#edd5e6"
 icons:
   - icon.svg
   - icon.png

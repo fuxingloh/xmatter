@@ -6,7 +6,7 @@ name: HDRR
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486848"
+color: "#cfd3d6"
 icons:
   - icon.png
 ---

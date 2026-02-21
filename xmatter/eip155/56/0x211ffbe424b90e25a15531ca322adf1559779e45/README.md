@@ -12,7 +12,7 @@ name: BUX Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08b868"
+color: "#04bc6c"
 icons:
   - icon.png
 ---

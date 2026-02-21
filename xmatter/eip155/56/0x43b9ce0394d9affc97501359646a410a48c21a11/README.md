@@ -25,7 +25,7 @@ name: Pepecoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#588838"
+color: "#57883c"
 icons:
   - icon.png
 ---

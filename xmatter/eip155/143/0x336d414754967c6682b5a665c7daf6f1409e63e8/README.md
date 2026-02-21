@@ -14,7 +14,7 @@ symbol: muBOND
 decimals: 18
 icons:
   - icon.png
-color: "#081858"
+color: "#051d5c"
 ---
 
 Mu Digital is an access gateway to the premier investment opportunities in Asia.

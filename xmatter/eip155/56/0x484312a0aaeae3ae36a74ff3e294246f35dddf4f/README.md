@@ -8,7 +8,7 @@ name: Baby Shark Tank
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081818"
+color: "#d6c082"
 icons:
   - icon.png
 ---

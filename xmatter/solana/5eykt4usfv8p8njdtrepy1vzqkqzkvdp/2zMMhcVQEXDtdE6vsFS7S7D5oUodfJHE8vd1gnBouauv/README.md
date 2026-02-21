@@ -16,7 +16,7 @@ name: Pudgy Penguins
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#e8f8f8"
+color: "#f0f6f9"
 icons:
   - icon.png
 ---

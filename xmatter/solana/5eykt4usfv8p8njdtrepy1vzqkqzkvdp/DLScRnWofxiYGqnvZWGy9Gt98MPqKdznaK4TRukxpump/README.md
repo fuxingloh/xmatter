@@ -12,7 +12,7 @@ name: Dog
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#b18457"
 icons:
   - icon.png
 ---

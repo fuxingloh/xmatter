@@ -12,7 +12,7 @@ name: NodeAI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#82f8a0"
 icons:
   - icon.png
 ---

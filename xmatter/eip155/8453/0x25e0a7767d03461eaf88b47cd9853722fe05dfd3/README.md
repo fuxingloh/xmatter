@@ -16,7 +16,7 @@ name: PoSciDonDAO Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0818e8"
+color: "#0c1cec"
 icons:
   - icon.png
 ---

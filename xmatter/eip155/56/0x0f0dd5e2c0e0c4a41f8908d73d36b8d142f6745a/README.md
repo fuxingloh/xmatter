@@ -19,7 +19,7 @@ name: Firework Games
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#df4210"
 icons:
   - icon.png
 ---

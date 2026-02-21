@@ -8,7 +8,7 @@ name: Little Rabbit
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08b8d8"
+color: "#04bbd3"
 icons:
   - icon.png
 ---

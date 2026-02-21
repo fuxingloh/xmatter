@@ -6,7 +6,7 @@ name: Digital Block
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0878e8"
+color: "#047ce4"
 icons:
   - icon.png
 ---

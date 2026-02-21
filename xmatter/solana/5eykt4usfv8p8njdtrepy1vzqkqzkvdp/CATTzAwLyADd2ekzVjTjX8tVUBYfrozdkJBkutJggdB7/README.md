@@ -12,7 +12,7 @@ name: CatDog
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#78c8f8"
+color: "#75c3fa"
 icons:
   - icon.png
 ---

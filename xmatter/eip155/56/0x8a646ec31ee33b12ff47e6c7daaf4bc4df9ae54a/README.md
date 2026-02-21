@@ -8,7 +8,7 @@ name: FairLife
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#04bce9"
 icons:
   - icon.png
 ---

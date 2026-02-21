@@ -8,7 +8,7 @@ name: Okschain Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#04c1fc"
 icons:
   - icon.png
 ---

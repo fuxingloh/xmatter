@@ -10,7 +10,7 @@ name: SPX6900
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#080808"
+color: "#ca9a3c"
 icons:
   - icon.svg
   - icon.png

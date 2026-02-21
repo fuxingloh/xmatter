@@ -8,7 +8,7 @@ name: TRON UP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#080808"
+color: "#332391"
 icons:
   - icon.png
 ---

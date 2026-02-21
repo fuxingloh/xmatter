@@ -15,7 +15,7 @@ name: Wrapped Chevron Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e81838"
+color: "#eb1c34"
 icons:
   - icon.png
 ---

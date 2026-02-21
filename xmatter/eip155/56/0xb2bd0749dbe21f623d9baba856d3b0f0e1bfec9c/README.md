@@ -8,7 +8,7 @@ name: Dusk Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#583898"
+color: "#543f9b"
 icons:
   - icon.png
 ---

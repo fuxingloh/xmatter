@@ -30,7 +30,7 @@ name: BODA V2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#182838"
+color: "#24353b"
 icons:
   - icon.png
 ---

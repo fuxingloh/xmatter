@@ -6,7 +6,7 @@ name: PlexCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d6a658"
 icons:
   - icon.png
 ---

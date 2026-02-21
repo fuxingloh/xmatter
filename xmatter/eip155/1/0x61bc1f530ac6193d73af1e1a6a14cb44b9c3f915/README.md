@@ -8,7 +8,7 @@ name: Pajama.Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#38486e"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Helper Search Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#b4b2a8"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Loonie Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#e6cc7f"
 icons:
   - icon.png
 ---

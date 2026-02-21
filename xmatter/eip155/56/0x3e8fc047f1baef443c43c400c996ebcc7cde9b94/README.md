@@ -8,7 +8,7 @@ name: Terra Exchange
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#78d858"
+color: "#7bdb54"
 icons:
   - icon.png
 ---

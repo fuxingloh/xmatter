@@ -8,7 +8,7 @@ name: LiteXToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#2ba4e2"
 icons:
   - icon.png
 ---

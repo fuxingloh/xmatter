@@ -34,7 +34,7 @@ name: Beam
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f86868"
+color: "#9ddce5"
 icons:
   - icon.png
 ---

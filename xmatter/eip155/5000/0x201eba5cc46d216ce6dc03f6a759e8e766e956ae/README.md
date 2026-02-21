@@ -14,7 +14,7 @@ symbol: USDT
 decimals: 6
 icons:
   - icon.png
-color: "#28a878"
+color: "#24a37b"
 ---
 
 Tether USD - Mantle Bridged (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar.

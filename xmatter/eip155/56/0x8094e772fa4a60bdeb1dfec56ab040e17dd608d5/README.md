@@ -24,7 +24,7 @@ name: Koda Cryptocurrency
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b8d8f8"
+color: "#dce8ec"
 icons:
   - icon.png
 ---

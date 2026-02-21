@@ -8,7 +8,7 @@ name: Coin Controller Cash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#fc6f6f"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: EtherCenter
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#087808"
+color: "#047c04"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Walletreum Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0868b8"
+color: "#0463b3"
 icons:
   - icon.png
 ---

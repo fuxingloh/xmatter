@@ -16,7 +16,7 @@ name: Ninebot
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081828"
+color: "#d53c9f"
 icons:
   - icon.png
 ---

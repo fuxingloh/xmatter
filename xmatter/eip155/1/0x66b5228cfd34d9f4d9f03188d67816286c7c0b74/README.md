@@ -12,7 +12,7 @@ name: VOLT.WIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#282828"
+color: "#1dfa05"
 icons:
   - icon.png
 ---

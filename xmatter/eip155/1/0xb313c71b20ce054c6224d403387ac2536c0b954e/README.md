@@ -6,7 +6,7 @@ name: 1VIBE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#18b848"
+color: "#14b34b"
 icons:
   - icon.png
 ---

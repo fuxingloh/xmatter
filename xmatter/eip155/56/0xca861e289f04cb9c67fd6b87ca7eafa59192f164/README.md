@@ -20,7 +20,7 @@ name: UnityMeta Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080828"
+color: "#040425"
 icons:
   - icon.png
 ---

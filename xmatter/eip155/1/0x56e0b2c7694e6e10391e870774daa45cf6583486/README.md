@@ -8,7 +8,7 @@ name: DUO Network Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#cbcbcb"
 icons:
   - icon.png
 ---

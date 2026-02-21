@@ -12,7 +12,7 @@ name: Crypto Jesus Trump
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486848"
+color: "#342318"
 icons:
   - icon.png
 ---

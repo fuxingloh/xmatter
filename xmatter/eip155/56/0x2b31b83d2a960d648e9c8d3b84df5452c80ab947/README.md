@@ -18,7 +18,7 @@ name: SMD Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#dfc31d"
 icons:
   - icon.png
 ---

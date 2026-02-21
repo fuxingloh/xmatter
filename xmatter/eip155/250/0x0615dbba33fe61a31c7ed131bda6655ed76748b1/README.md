@@ -30,7 +30,7 @@ symbol: ANKR
 decimals: 18
 icons:
   - icon.png
-color: "#1878e8"
+color: "#2474eb"
 ---
 
 Ankr is building an infrastructure platform and marketplace for Web3-stack deployment

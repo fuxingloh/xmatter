@@ -8,7 +8,7 @@ name: CTAGToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#082868"
+color: "#042c63"
 icons:
   - icon.png
 ---

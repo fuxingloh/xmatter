@@ -8,7 +8,7 @@ name: BeatzCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#080808"
+color: "#6404ce"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: TrueUSD (OLD)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#082868"
+color: "#052a6a"
 icons:
   - icon.png
 ---

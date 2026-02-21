@@ -20,7 +20,7 @@ name: CVIP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#1f7694"
 icons:
   - icon.png
 ---

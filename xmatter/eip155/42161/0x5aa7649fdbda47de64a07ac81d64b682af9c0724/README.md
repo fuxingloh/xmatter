@@ -14,7 +14,7 @@ name: Wrapped Apple Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a8a8a8"
+color: "#ababab"
 icons:
   - icon.png
 ---

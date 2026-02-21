@@ -8,7 +8,7 @@ name: PiggyBank Coins
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#585898"
+color: "#6b4f9f"
 icons:
   - icon.png
 ---

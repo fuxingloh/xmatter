@@ -6,7 +6,7 @@ name: Game Magic
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b88808"
+color: "#c38b0d"
 icons:
   - icon.png
 ---

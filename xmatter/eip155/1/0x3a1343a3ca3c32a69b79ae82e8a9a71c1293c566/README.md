@@ -6,7 +6,7 @@ name: Onyx S&P 500
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#171d53"
 icons:
   - icon.png
 ---

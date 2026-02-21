@@ -8,7 +8,7 @@ name: ICE ROCK MINING
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#d8dcdc"
 icons:
   - icon.png
 ---

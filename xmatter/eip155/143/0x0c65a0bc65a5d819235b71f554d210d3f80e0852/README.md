@@ -12,7 +12,7 @@ symbol: aprMON
 decimals: 18
 icons:
   - icon.png
-color: "#8848f8"
+color: "#8b4cfc"
 ---
 
 aPriori empowers staking on the Monad blockchain by unlocking staked liquidity and enhancing yield with MEV rewards

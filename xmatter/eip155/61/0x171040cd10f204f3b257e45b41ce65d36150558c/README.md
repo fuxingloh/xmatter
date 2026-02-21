@@ -8,5 +8,5 @@ symbol: POW
 decimals: 18
 icons:
   - icon.png
-color: "#08e808"
+color: "#05e305"
 ---

@@ -6,7 +6,7 @@ name: Lending Platform
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#a78290"
 icons:
   - icon.png
 ---

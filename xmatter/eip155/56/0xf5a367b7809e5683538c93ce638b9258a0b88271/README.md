@@ -10,7 +10,7 @@ name: Aurory (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e858c8"
+color: "#db58c3"
 icons:
   - icon.png
 ---

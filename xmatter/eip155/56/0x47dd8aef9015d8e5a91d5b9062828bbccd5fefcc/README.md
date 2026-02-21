@@ -8,7 +8,7 @@ name: TANTAN Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c84828"
+color: "#cd4e28"
 icons:
   - icon.png
 ---

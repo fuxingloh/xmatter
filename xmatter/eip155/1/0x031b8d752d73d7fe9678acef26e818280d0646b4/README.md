@@ -12,7 +12,7 @@ name: Sovrun
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#f81878"
+color: "#fc1474"
 icons:
   - icon.svg
   - icon.png

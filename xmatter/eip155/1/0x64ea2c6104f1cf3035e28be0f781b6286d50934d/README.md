@@ -8,7 +8,7 @@ name: Satoshivisioncoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486848"
+color: "#f4462c"
 icons:
   - icon.png
 ---

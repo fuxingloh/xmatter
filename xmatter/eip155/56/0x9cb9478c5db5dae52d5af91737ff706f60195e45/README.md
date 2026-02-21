@@ -20,7 +20,7 @@ name: Galaxy Heroes
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#8dd7eb"
 icons:
   - icon.png
 ---

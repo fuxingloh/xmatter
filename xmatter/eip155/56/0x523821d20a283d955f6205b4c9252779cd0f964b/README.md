@@ -20,7 +20,7 @@ name: Wrapped Okcash BSC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#040811"
 icons:
   - icon.png
 ---

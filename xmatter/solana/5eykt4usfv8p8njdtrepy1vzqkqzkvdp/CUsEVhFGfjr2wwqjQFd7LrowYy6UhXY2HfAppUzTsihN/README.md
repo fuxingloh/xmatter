@@ -10,7 +10,7 @@ name: Hump
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8b848"
+color: "#f6b151"
 icons:
   - icon.png
 ---

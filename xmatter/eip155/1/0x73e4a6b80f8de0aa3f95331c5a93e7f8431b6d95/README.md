@@ -8,7 +8,7 @@ name: Fama
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#29abe2"
 icons:
   - icon.png
 ---

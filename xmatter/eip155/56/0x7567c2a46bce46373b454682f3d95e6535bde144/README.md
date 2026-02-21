@@ -14,7 +14,7 @@ name: DoorDash (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f82808"
+color: "#fcd5cd"
 icons:
   - icon.png
 ---

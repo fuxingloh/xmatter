@@ -8,7 +8,7 @@ name: MoonLift
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a8f8f8"
+color: "#bbf0e4"
 icons:
   - icon.png
 ---

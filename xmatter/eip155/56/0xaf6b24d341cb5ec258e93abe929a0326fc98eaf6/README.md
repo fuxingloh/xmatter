@@ -8,7 +8,7 @@ name: ElonCity
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#fccc04"
 icons:
   - icon.png
 ---

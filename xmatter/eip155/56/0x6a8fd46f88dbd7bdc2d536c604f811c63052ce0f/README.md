@@ -14,7 +14,7 @@ name: TRVL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a82828"
+color: "#a32b2c"
 icons:
   - icon.png
 ---

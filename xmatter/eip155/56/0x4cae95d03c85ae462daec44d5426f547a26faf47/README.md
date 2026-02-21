@@ -8,7 +8,7 @@ name: Apollo Space Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ce0f9b"
 icons:
   - icon.png
 ---

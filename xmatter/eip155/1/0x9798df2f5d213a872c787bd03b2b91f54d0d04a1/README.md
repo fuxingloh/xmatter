@@ -8,7 +8,7 @@ name: TeraBlock Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#280858"
+color: "#2c0e58"
 icons:
   - icon.png
 ---

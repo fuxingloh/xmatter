@@ -8,7 +8,7 @@ name: Pocket Bomb
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8b848"
+color: "#ebba43"
 icons:
   - icon.png
 ---

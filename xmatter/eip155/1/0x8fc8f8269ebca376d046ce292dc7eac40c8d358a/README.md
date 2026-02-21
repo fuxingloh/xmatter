@@ -16,7 +16,7 @@ name: DeFiChain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f818a8"
+color: "#f91eac"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: WAP Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#88c8e8"
+color: "#fad408"
 icons:
   - icon.png
 ---

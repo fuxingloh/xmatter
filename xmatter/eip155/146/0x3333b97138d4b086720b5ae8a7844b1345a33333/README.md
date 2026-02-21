@@ -12,7 +12,7 @@ symbol: SHADOW
 decimals: 18
 icons:
   - icon.png
-color: "#180808"
+color: "#1b0604"
 ---
 
 A Sonic-native concentrated liquidity exchange.The ultimate trading hub on Sonic.

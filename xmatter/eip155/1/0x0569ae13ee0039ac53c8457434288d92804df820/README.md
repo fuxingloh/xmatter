@@ -6,7 +6,7 @@ name: TrustEURO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b8a858"
+color: "#e9d899"
 icons:
   - icon.png
 ---

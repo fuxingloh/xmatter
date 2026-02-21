@@ -8,7 +8,7 @@ name: SDOG
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e89868"
+color: "#eba57a"
 icons:
   - icon.png
 ---

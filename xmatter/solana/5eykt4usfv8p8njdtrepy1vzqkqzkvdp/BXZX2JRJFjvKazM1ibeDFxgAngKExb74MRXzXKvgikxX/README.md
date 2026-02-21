@@ -10,7 +10,7 @@ name: yearn.finance (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#0868e8"
+color: "#056ade"
 icons:
   - icon.png
 ---

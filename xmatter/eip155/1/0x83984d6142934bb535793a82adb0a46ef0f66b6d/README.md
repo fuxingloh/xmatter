@@ -8,7 +8,7 @@ name: REMME token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7828e8"
+color: "#7424e4"
 icons:
   - icon.png
 ---

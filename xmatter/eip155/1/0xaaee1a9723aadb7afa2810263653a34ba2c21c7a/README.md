@@ -14,7 +14,7 @@ name: Mog Coin
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#080808"
+color: "#2a39ad"
 icons:
   - icon.svg
   - icon.png

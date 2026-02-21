@@ -14,7 +14,7 @@ symbol: ACTION
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#040404"
 ---
 
 Bounce is a decentralized auction platform, incorporating liquidity mining, decentralized governance and staking mechanisms. The first principle of Bounce is scarcity of resources, which creates a competitive swap environment.

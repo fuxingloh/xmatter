@@ -8,7 +8,7 @@ name: KOK Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#103050"
 icons:
   - icon.png
 ---

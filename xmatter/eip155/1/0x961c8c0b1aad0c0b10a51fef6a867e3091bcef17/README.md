@@ -26,7 +26,7 @@ name: Dypius
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5858d8"
+color: "#665fdc"
 icons:
   - icon.png
 ---

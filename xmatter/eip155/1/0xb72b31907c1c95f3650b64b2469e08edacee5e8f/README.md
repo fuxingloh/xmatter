@@ -8,7 +8,7 @@ name: bZx Vesting Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5888f8"
+color: "#5c8cfc"
 icons:
   - icon.png
 ---

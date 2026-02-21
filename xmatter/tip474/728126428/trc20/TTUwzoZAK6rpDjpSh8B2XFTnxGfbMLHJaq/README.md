@@ -8,7 +8,7 @@ name: KING OF DEFI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#080808"
+color: "#194671"
 icons:
   - icon.png
 ---

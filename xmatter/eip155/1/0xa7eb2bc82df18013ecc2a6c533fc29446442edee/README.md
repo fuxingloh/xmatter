@@ -6,7 +6,7 @@ name: bZx ZRX iToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#6c6cac"
 icons:
   - icon.png
 ---

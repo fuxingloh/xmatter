@@ -6,7 +6,7 @@ name: Jury.Online Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d3d4d4"
 icons:
   - icon.png
 ---

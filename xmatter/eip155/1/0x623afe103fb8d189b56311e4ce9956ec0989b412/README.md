@@ -6,7 +6,7 @@ name: Beauty Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#a97b38"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: OON
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#98c8e8"
+color: "#98afc0"
 icons:
   - icon.png
 ---

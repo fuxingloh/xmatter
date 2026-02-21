@@ -8,7 +8,7 @@ name: Saint Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#423e3c"
 icons:
   - icon.png
 ---

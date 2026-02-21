@@ -8,7 +8,7 @@ name: SpaceGrime
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#384878"
+color: "#3c4f7a"
 icons:
   - icon.png
 ---

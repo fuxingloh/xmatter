@@ -8,7 +8,7 @@ name: SUN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#f8f8f8"
+color: "#fad61a"
 icons:
   - icon.png
 ---

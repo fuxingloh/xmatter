@@ -16,7 +16,7 @@ symbol: TSHARE
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#4a15c0"
 ---
 
 TSHARE holders have voting rights (governance) on proposals to improve the protocol and future use cases within the Tomb finance ecosystem.

@@ -14,7 +14,7 @@ symbol: AUTO
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#cccccc"
 ---
 
 Yield, on AUTO. Autopools aggregate blue-chip DeFi protocols, optimally and autonomously rebalancing between destinations.

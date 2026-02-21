@@ -6,7 +6,7 @@ name: UBIpromoter
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#e8e3e2"
 icons:
   - icon.png
 ---

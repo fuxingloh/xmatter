@@ -12,7 +12,7 @@ name: HeyAnon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#e85808"
+color: "#e25d0e"
 icons:
   - icon.png
 ---

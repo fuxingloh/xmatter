@@ -8,7 +8,7 @@ name: Stargazer Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#606ba2"
 icons:
   - icon.png
 ---

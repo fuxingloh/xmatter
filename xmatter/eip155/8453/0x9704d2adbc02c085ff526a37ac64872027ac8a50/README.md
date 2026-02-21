@@ -12,7 +12,7 @@ name: Bsop
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3888c8"
+color: "#4892cc"
 icons:
   - icon.png
 ---

@@ -20,7 +20,7 @@ name: Futura Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#6c4be3"
 icons:
   - icon.png
 ---

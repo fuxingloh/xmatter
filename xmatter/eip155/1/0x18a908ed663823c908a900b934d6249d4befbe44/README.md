@@ -8,7 +8,7 @@ name: Strike BUSD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#1c70c0"
 icons:
   - icon.png
 ---

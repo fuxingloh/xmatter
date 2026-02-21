@@ -14,7 +14,7 @@ name: Vector Smart Gas
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d7cc3d"
 icons:
   - icon.png
 ---

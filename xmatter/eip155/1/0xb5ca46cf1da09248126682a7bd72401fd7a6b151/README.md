@@ -8,7 +8,7 @@ name: Provoco Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f80848"
+color: "#f80048"
 icons:
   - icon.png
 ---

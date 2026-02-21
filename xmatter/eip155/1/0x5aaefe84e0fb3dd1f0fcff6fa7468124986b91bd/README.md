@@ -8,7 +8,7 @@ name: Evedo Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ea3a6e"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: TokenPocket Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2878f8"
+color: "#2b83fc"
 icons:
   - icon.png
 ---

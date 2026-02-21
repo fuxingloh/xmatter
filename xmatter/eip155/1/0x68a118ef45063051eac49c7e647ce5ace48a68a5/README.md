@@ -8,7 +8,7 @@ name: Based Money
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08a8d8"
+color: "#fbbbb2"
 icons:
   - icon.png
 ---

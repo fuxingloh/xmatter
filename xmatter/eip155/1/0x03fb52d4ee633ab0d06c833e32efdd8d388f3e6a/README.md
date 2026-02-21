@@ -8,7 +8,7 @@ name: Black Hole
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d04b2a"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: Keep Building
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c8c8c8"
+color: "#d1c3b3"
 icons:
   - icon.png
 ---

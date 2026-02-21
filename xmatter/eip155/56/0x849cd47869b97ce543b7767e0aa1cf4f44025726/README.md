@@ -10,7 +10,7 @@ name: Nova Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080858"
+color: "#0b0753"
 icons:
   - icon.png
 ---

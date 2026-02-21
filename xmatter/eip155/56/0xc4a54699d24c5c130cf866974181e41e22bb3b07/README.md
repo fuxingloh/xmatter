@@ -16,7 +16,7 @@ name: Floki Elon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#8e9f59"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Lega
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#4c8df7"
 icons:
   - icon.png
 ---

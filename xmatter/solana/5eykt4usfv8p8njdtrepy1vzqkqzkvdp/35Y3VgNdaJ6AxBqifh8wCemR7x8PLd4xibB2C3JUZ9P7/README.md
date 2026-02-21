@@ -10,7 +10,7 @@ name: PANTIES
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#b8d8f8"
+color: "#3d841e"
 icons:
   - icon.png
 ---

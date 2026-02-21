@@ -8,7 +8,7 @@ name: PLAAS FARMERS TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#322505"
 icons:
   - icon.png
 ---

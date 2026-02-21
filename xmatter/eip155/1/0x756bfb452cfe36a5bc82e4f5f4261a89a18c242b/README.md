@@ -10,7 +10,7 @@ name: Marinade staked SOL (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c8e8e8"
+color: "#c9e9e1"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Secondary Data Attestation Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08a888"
+color: "#0cb08e"
 icons:
   - icon.png
 ---

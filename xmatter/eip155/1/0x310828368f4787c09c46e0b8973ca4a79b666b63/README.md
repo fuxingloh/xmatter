@@ -6,7 +6,7 @@ name: LIST (LISC.WORLD)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ea6228"
 icons:
   - icon.png
 ---

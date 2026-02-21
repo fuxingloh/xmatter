@@ -15,7 +15,7 @@ name: Wrapped UnitedHealth Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#184888"
+color: "#1d4483"
 icons:
   - icon.png
 ---

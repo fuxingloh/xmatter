@@ -16,7 +16,7 @@ name: Lion Cat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ae6f42"
 icons:
   - icon.png
 ---

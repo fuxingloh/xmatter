@@ -6,7 +6,7 @@ name: SEG
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#080808"
+color: "#060404"
 icons:
   - icon.png
 ---

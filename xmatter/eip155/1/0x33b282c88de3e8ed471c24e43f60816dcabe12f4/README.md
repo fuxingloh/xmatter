@@ -6,7 +6,7 @@ name: Hopper Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#da9c4c"
 icons:
   - icon.png
 ---

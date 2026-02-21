@@ -12,7 +12,7 @@ name: Genie Ai
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#180838"
+color: "#2d045e"
 icons:
   - icon.png
 ---

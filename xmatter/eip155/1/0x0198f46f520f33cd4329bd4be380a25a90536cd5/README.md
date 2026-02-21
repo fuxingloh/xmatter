@@ -8,7 +8,7 @@ name: PlayChip
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#23bc78"
 icons:
   - icon.png
 ---

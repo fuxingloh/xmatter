@@ -12,7 +12,7 @@ name: Lets Fuckin Go
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#3888c8"
+color: "#4289cc"
 icons:
   - icon.png
 ---

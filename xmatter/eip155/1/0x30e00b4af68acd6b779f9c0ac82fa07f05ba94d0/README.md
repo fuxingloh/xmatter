@@ -6,7 +6,7 @@ name: Bitcoin Diamond
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#a7a6a4"
 icons:
   - icon.png
 ---

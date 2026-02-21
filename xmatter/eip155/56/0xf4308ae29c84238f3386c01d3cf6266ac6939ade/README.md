@@ -8,7 +8,7 @@ name: Lazy
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#18aead"
 icons:
   - icon.png
 ---

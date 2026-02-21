@@ -10,7 +10,7 @@ name: DINA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ebca70"
 icons:
   - icon.png
 ---

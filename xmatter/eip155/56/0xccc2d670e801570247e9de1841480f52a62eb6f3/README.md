@@ -8,7 +8,7 @@ name: Marsturbate
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f87898"
+color: "#f27f92"
 icons:
   - icon.png
 ---

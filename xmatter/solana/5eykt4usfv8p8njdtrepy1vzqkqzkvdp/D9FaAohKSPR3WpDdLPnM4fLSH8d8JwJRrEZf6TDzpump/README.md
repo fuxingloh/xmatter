@@ -10,7 +10,7 @@ name: HQ Trivia
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#383898"
+color: "#343c9b"
 icons:
   - icon.png
 ---

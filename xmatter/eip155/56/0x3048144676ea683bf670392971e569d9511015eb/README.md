@@ -8,7 +8,7 @@ name: FUSD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d82828"
+color: "#d22728"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Massive WAVs
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#a37c2e"
 icons:
   - icon.png
 ---

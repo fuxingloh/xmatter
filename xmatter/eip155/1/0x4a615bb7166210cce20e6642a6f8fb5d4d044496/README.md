@@ -26,7 +26,7 @@ name: NAOS Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#4131c5"
 icons:
   - icon.png
 ---

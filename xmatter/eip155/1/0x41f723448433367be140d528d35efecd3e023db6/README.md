@@ -6,7 +6,7 @@ name: Farm Partner
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#b8b5ac"
 icons:
   - icon.png
 ---

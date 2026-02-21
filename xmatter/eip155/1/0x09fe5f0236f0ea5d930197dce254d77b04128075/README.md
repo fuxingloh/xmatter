@@ -10,7 +10,7 @@ name: Wrapped CryptoKitties
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8c8e8"
+color: "#f9cee8"
 icons:
   - icon.png
 ---

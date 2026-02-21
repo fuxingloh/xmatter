@@ -8,7 +8,7 @@ name: MineBee
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#f49434"
 icons:
   - icon.png
 ---

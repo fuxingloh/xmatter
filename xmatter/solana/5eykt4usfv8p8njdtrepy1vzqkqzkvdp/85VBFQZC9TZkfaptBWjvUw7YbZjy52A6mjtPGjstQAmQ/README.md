@@ -12,7 +12,7 @@ name: Wormhole
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#282858"
+color: "#23234f"
 icons:
   - icon.png
 ---

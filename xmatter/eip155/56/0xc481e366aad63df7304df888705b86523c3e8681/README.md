@@ -8,7 +8,7 @@ name: Film Vault Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#0c5a6b"
 icons:
   - icon.png
 ---

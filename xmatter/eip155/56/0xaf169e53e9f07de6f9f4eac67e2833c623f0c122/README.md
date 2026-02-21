@@ -8,7 +8,7 @@ name: Torpedo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#091e54"
 icons:
   - icon.png
 ---

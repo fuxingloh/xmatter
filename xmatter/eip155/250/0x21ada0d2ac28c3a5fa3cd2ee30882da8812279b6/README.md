@@ -16,7 +16,7 @@ symbol: OATH
 decimals: 18
 icons:
   - icon.png
-color: "#181818"
+color: "#141414"
 ---
 
 The Byte Masons are a development collective pursuing open, secure and reliable systems focused on helping users navigate the new web and Decentralized Finance (DeFi).

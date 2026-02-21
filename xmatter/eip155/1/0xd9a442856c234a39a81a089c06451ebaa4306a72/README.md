@@ -12,7 +12,7 @@ name: pufETH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#a5f0dd"
 icons:
   - icon.svg
   - icon.png

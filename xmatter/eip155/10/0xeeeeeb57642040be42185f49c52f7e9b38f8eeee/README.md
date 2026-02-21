@@ -14,7 +14,7 @@ symbol: ELK
 decimals: 18
 icons:
   - icon.png
-color: "#089858"
+color: "#049b54"
 ---
 
 Elk Finance is building a peer-to-peer network for cross-chain value transfers and blockchain interoperability.

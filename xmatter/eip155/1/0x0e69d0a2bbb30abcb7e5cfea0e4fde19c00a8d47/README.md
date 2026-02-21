@@ -14,7 +14,7 @@ name: CarLive Chain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#2c8cc5"
 icons:
   - icon.png
 ---

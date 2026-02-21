@@ -10,7 +10,7 @@ name: JUST
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#b81818"
+color: "#b21414"
 icons:
   - icon.png
 ---

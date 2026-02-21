@@ -8,7 +8,7 @@ name: CapdaxToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6898e8"
+color: "#6d92ed"
 icons:
   - icon.png
 ---

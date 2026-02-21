@@ -34,7 +34,7 @@ name: YOUWHO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08c898"
+color: "#04cb98"
 icons:
   - icon.png
 ---

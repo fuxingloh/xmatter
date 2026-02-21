@@ -10,7 +10,7 @@ name: FetaToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081828"
+color: "#f8e244"
 icons:
   - icon.png
 ---

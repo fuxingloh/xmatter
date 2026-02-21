@@ -8,7 +8,7 @@ name: CyberMovieChain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#240c10"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: GoPlus Security
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#181818"
+color: "#09df79"
 icons:
   - icon.png
 ---

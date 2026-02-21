@@ -16,7 +16,7 @@ name: MamyShibaInu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#681808"
+color: "#60130d"
 icons:
   - icon.png
 ---

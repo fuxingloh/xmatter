@@ -6,7 +6,7 @@ name: Kappi Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#1663c8"
 icons:
   - icon.png
 ---

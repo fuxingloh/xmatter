@@ -12,7 +12,7 @@ name: Binapet
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#281848"
+color: "#d2742f"
 icons:
   - icon.png
 ---

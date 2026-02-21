@@ -18,7 +18,7 @@ name: Nexum Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08e8c8"
+color: "#04decc"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Unido
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#283848"
+color: "#2c3444"
 icons:
   - icon.png
 ---

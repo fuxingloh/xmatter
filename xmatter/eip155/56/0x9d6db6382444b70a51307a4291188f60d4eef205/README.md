@@ -18,7 +18,7 @@ name: Baby Pepe
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08f868"
+color: "#0d2d3b"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: SafeDrive
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0868c8"
+color: "#045fbb"
 icons:
   - icon.png
 ---

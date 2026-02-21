@@ -14,7 +14,7 @@ name: Rai.Finance
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#080808"
+color: "#b464f4"
 icons:
   - icon.svg
   - icon.png

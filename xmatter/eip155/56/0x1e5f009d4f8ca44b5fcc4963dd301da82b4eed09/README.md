@@ -8,7 +8,7 @@ name: Zabaku Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#983848"
+color: "#893f45"
 icons:
   - icon.png
 ---

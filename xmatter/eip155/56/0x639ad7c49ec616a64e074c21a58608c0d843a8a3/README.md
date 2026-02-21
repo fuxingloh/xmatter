@@ -30,7 +30,7 @@ name: TripCandy
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#082858"
+color: "#043361"
 icons:
   - icon.png
 ---

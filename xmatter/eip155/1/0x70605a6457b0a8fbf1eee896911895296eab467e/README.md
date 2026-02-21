@@ -8,7 +8,7 @@ name: IchiStake
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08a848"
+color: "#04a748"
 icons:
   - icon.png
 ---

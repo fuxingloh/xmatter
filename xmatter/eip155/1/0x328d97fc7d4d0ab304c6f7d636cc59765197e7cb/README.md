@@ -6,7 +6,7 @@ name: Manufacturing block chain alliance development platform
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#0464fa"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: LibraNetwork
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#44348d"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: SafeMoon.Swap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#61adcd"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ name: Gourmetgalaxy
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a878c8"
+color: "#3c1c64"
 icons:
   - icon.png
 ---

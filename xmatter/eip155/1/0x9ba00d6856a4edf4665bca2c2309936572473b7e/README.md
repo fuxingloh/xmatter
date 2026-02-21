@@ -8,7 +8,7 @@ name: Aave USDC V1
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#2474cc"
 icons:
   - icon.png
 ---

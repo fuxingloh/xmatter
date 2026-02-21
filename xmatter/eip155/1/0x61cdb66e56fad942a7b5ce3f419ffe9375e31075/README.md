@@ -8,7 +8,7 @@ name: RAIN Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0888e8"
+color: "#d6f3f6"
 icons:
   - icon.png
 ---

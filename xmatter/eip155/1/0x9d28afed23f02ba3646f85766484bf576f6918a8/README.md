@@ -6,7 +6,7 @@ name: GRAND
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f898"
+color: "#d2b66c"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ name: MarsSpaceXToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081838"
+color: "#c6c6de"
 icons:
   - icon.png
 ---

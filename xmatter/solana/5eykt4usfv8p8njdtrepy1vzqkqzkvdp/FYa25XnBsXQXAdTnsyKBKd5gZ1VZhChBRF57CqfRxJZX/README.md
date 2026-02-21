@@ -12,7 +12,7 @@ name: monkeyhaircut
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#787878"
+color: "#97858b"
 icons:
   - icon.png
 ---

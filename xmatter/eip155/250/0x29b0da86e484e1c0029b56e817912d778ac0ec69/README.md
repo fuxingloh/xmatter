@@ -19,7 +19,7 @@ decimals: 18
 icons:
   - icon.svg
   - icon.png
-color: "#0868d8"
+color: "#046bd9"
 ---
 
 YFI is the governance token for Yearn.Finance, a site that performs a variety of functions for DeFi users, moving their assets in and out of different liquidity pools in order to find the best yields.

@@ -24,7 +24,7 @@ name: Step
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d8f808"
+color: "#1a1c12"
 icons:
   - icon.png
 ---

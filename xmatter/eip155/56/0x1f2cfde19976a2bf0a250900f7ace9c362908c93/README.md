@@ -19,7 +19,7 @@ standards:
   - erc20
 icons:
   - icon.png
-color: "#080808"
+color: "#04040b"
 ---
 
 AZ World - The First SocialFi To Earn on BSC

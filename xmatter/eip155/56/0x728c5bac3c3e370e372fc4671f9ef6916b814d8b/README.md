@@ -8,7 +8,7 @@ name: UNFI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#38f898"
+color: "#3cfb94"
 icons:
   - icon.png
 ---

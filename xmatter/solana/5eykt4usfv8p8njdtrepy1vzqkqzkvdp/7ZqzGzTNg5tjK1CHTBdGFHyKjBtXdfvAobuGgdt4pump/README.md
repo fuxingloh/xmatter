@@ -12,7 +12,7 @@ name: Hasbulla's Cat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#c8b8a8"
+color: "#c6bdb9"
 icons:
   - icon.png
 ---

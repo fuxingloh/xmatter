@@ -8,7 +8,7 @@ name: Phoneum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#080808"
+color: "#fc6f35"
 icons:
   - icon.png
 ---

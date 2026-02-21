@@ -6,7 +6,7 @@ name: RLW WIND TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#386808"
+color: "#366506"
 icons:
   - icon.png
 ---

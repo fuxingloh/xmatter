@@ -6,7 +6,7 @@ name: HackerGold
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d8d8d8"
+color: "#31302f"
 icons:
   - icon.png
 ---

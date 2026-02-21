@@ -12,7 +12,7 @@ name: Pepewifhat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#188838"
+color: "#cd2613"
 icons:
   - icon.png
 ---

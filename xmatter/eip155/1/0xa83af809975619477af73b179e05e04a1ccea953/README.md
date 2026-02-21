@@ -8,7 +8,7 @@ name: LEOcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8a838"
+color: "#eba434"
 icons:
   - icon.png
 ---

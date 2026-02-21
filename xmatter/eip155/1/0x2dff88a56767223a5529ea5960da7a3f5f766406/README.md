@@ -24,7 +24,7 @@ name: SPACE ID
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#18e8a8"
+color: "#040605"
 icons:
   - icon.png
 ---

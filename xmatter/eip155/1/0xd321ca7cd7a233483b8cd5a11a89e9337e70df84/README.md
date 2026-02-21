@@ -8,7 +8,7 @@ name: VI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#fb8152"
 icons:
   - icon.png
 ---

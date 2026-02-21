@@ -14,7 +14,7 @@ name: Cocopad
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#b4d434"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: TeslaSafe
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081858"
+color: "#0c2454"
 icons:
   - icon.png
 ---

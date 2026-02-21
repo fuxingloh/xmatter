@@ -8,7 +8,7 @@ name: Ethereum Message Search
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#2b2b2b"
 icons:
   - icon.png
 ---

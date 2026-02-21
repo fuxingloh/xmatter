@@ -6,7 +6,7 @@ name: NOTES
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f83808"
+color: "#fb3404"
 icons:
   - icon.png
 ---

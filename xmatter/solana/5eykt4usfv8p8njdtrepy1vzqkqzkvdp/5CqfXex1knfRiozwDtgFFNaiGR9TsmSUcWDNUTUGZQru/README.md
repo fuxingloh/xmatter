@@ -10,7 +10,7 @@ name: Theory Of Gravity
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#8838b8"
+color: "#833cba"
 icons:
   - icon.png
 ---

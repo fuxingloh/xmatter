@@ -6,7 +6,7 @@ name: STASHPAY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8d818"
+color: "#fbfbe6"
 icons:
   - icon.png
 ---

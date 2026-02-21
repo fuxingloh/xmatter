@@ -8,7 +8,7 @@ name: Typerium
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#181818"
+color: "#04f4f4"
 icons:
   - icon.png
 ---

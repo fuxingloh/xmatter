@@ -12,7 +12,7 @@ name: ALL ART
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#3c7ca3"
 icons:
   - icon.png
 ---

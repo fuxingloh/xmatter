@@ -6,7 +6,7 @@ name: USDCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4878e8"
+color: "#eaf2fb"
 icons:
   - icon.png
 ---

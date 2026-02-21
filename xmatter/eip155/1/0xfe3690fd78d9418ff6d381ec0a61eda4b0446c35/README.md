@@ -12,7 +12,7 @@ name: MosesCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8e8b8"
+color: "#d7b797"
 icons:
   - icon.png
 ---

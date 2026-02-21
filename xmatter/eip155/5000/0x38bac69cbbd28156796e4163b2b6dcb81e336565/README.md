@@ -12,7 +12,7 @@ symbol: AVGOx
 decimals: 18
 icons:
   - icon.png
-color: "#c80828"
+color: "#cb0c2c"
 ---
 
 Broadcom xStock

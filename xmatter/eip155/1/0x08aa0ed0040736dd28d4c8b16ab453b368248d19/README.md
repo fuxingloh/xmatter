@@ -8,7 +8,7 @@ name: Cryptobuyer Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#28a8b8"
+color: "#2cacb3"
 icons:
   - icon.png
 ---

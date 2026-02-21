@@ -10,7 +10,7 @@ name: Tree
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081808"
+color: "#3edf76"
 icons:
   - icon.png
 ---

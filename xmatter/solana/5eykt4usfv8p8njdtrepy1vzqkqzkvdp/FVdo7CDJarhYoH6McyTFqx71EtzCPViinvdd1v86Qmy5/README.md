@@ -12,7 +12,7 @@ name: Aimonica Brands
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#4878a8"
+color: "#8391b1"
 icons:
   - icon.png
 ---

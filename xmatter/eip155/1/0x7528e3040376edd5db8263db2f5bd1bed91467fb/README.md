@@ -8,7 +8,7 @@ name: Simmitri
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#f4c44c"
 icons:
   - icon.png
 ---

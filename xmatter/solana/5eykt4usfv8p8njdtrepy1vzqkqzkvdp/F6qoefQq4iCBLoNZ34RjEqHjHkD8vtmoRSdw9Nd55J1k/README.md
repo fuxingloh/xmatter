@@ -12,7 +12,7 @@ name: Shibwifhatcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#f2bfb3"
 icons:
   - icon.png
 ---

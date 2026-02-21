@@ -14,7 +14,7 @@ symbol: AUSD
 decimals: 6
 icons:
   - icon.png
-color: "#989848"
+color: "#9c9454"
 ---
 
 AUSD, a digital dollar minted 1:1 with USD fiat. AUSD is designed to be a secure digital currency, utilizing one of the world’s largest custodian banks to safeguard assets.

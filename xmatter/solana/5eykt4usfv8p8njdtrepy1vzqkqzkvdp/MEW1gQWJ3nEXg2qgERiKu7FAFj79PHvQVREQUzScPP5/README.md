@@ -12,7 +12,7 @@ name: cat in a dogs world
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#e81828"
+color: "#eadae7"
 icons:
   - icon.png
 ---

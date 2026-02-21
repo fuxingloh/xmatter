@@ -12,7 +12,7 @@ name: MysteryCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8c858"
+color: "#2a323f"
 icons:
   - icon.png
 ---

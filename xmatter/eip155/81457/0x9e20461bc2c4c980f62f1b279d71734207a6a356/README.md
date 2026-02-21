@@ -14,7 +14,7 @@ symbol: OMNI
 decimals: 18
 icons:
   - icon.png
-color: "#080838"
+color: "#050535"
 ---
 
 OmniCat is the first omnichain memecoin. Powered by LayerZero, $OMNI is currently live and tradeable on 7 different ecosystems including Ethereum, Arbitrum and Solana.

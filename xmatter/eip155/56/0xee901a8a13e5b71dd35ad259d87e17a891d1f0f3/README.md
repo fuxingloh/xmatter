@@ -21,7 +21,7 @@ name: FlokiZap Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#e2d6c8"
 icons:
   - icon.png
 ---

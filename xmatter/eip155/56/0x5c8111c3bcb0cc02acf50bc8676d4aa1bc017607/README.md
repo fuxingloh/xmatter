@@ -8,7 +8,7 @@ name: BUNNY DeFi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#88b8b8"
+color: "#8cbcbc"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: DUKE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#78e8f8"
+color: "#6edfef"
 icons:
   - icon.png
 ---

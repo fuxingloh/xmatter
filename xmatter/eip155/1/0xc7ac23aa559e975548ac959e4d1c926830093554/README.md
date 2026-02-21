@@ -8,7 +8,7 @@ name: Stella's LIMO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#c5e3e4"
 icons:
   - icon.png
 ---

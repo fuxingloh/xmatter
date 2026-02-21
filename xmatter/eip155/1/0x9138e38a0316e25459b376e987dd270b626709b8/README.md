@@ -6,7 +6,7 @@ name: 数码链
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#288d1e"
 icons:
   - icon.png
 ---

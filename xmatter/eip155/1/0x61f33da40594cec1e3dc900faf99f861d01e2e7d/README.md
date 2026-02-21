@@ -8,7 +8,7 @@ name: Cybereits Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#084888"
+color: "#094d91"
 icons:
   - icon.png
 ---

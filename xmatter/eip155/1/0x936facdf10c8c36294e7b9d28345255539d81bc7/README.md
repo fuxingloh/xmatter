@@ -17,7 +17,7 @@ name: RockSolid rETH Vault
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b8e8f8"
+color: "#284350"
 icons:
   - icon.png
 ---

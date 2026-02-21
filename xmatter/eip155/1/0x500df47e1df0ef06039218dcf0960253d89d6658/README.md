@@ -8,7 +8,7 @@ name: Authpaper Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#047e98"
 icons:
   - icon.png
 ---

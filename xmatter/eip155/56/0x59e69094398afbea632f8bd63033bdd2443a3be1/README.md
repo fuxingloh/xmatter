@@ -10,7 +10,7 @@ name: Wise Monkey
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8c848"
+color: "#e7b748"
 icons:
   - icon.png
 ---

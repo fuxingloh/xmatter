@@ -8,7 +8,7 @@ name: InterValue
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#383838"
+color: "#3d3c3c"
 icons:
   - icon.png
 ---

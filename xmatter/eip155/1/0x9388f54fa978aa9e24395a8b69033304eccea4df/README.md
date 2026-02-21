@@ -8,7 +8,7 @@ name: Bitscoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8e8e8"
+color: "#0a94d2"
 icons:
   - icon.png
 ---

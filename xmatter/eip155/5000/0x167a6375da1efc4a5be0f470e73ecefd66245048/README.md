@@ -12,7 +12,7 @@ symbol: UNHx
 decimals: 18
 icons:
   - icon.png
-color: "#184888"
+color: "#1a407c"
 ---
 
 UnitedHealth xStock

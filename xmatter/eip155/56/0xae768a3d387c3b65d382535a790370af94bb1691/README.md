@@ -8,7 +8,7 @@ name: UndoToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#18d8b8"
+color: "#19dbbc"
 icons:
   - icon.png
 ---

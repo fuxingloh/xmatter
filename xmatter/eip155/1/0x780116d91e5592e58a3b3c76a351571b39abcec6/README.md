@@ -8,7 +8,7 @@ name: Boxx
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6838f8"
+color: "#6b39f3"
 icons:
   - icon.png
 ---

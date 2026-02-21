@@ -8,7 +8,7 @@ name: Beer Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8c818"
+color: "#f7c919"
 icons:
   - icon.png
 ---

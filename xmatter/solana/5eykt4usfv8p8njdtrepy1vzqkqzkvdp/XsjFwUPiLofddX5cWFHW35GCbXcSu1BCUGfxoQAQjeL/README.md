@@ -14,7 +14,7 @@ name: Oracle tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f80808"
+color: "#fb0404"
 icons:
   - icon.png
 ---

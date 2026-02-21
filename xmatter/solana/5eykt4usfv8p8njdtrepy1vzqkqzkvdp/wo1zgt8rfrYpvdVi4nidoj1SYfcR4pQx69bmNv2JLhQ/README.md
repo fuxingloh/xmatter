@@ -12,7 +12,7 @@ name: JustAnEgg
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8a858"
+color: "#f0a563"
 icons:
   - icon.png
 ---

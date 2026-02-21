@@ -14,7 +14,7 @@ symbol: MIM
 decimals: 18
 icons:
   - icon.png
-color: "#180838"
+color: "#151248"
 ---
 
 abracadabra.money is a lending protocol that allows users to borrow a USD-pegged Stablecoin (MIM) using interest-bearing tokens as collateral.

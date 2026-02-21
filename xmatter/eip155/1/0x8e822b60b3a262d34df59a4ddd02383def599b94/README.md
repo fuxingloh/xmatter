@@ -6,7 +6,7 @@ name: USDCI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d8f8f8"
+color: "#c8eaf8"
 icons:
   - icon.png
 ---

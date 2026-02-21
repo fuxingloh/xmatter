@@ -14,7 +14,7 @@ symbol: AI
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#dae0f1"
 ---
 
 $AI is a omnichain dog coin powered by Axelar's Interchain Token Service.

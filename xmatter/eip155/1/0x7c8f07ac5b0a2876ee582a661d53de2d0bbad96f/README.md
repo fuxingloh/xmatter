@@ -6,7 +6,7 @@ name: Synth iBNB
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b83828"
+color: "#bc3b2b"
 icons:
   - icon.png
 ---

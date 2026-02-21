@@ -8,7 +8,7 @@ name: fry.world
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f86818"
+color: "#fbca23"
 icons:
   - icon.png
 ---

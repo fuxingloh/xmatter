@@ -12,7 +12,7 @@ symbol: USD1
 decimals: 6
 icons:
   - icon.png
-color: "#c88808"
+color: "#bf7a05"
 ---
 
 A stablecoin by World Liberty Financial, redeemable 1:1 for the US dollar and backed by U.S. treasuries, dollar deposits, and other cash equivalents.

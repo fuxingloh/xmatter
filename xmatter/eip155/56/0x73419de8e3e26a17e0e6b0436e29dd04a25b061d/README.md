@@ -22,7 +22,7 @@ name: MIKU
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#58b8f8"
+color: "#4e8ecd"
 icons:
   - icon.png
 ---

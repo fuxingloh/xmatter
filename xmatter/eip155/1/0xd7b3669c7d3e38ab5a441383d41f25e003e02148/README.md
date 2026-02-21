@@ -8,7 +8,7 @@ name: SealToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b82868"
+color: "#b32363"
 icons:
   - icon.png
 ---

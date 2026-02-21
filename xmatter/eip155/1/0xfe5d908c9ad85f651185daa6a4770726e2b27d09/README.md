@@ -6,7 +6,7 @@ name: BETHER
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#040707"
 icons:
   - icon.png
 ---

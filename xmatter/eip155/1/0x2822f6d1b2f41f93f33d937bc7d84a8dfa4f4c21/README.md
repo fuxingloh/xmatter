@@ -8,7 +8,7 @@ name: QQQ Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#93ccbc"
 icons:
   - icon.png
 ---

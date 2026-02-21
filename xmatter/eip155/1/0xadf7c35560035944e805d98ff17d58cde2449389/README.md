@@ -10,7 +10,7 @@ name: Spectral
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#083898"
+color: "#043c9b"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ symbol: MP
 decimals: 18
 icons:
   - icon.png
-color: "#181818"
+color: "#c98f44"
 ---
 
 MerlinSwap is an innovative and highly capital efficient DEX built to support the Merlin ecosystem

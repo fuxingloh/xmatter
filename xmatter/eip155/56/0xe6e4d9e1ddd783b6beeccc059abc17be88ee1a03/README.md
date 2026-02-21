@@ -22,7 +22,7 @@ name: Verum Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#282838"
+color: "#f6aa12"
 icons:
   - icon.png
 ---

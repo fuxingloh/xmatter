@@ -20,7 +20,7 @@ name: Onyx
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#181818"
+color: "#141c1c"
 icons:
   - icon.png
 ---

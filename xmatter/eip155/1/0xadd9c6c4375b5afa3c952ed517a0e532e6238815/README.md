@@ -6,7 +6,7 @@ name: HCTCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#484898"
+color: "#4c4494"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: burek obema
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#a77c5d"
 icons:
   - icon.png
 ---

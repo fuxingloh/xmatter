@@ -8,7 +8,7 @@ name: Moeda Loyalty Points
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08a848"
+color: "#04a44c"
 icons:
   - icon.png
 ---

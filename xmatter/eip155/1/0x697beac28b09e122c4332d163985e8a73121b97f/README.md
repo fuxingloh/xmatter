@@ -6,7 +6,7 @@ name: QRL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#1c2c53"
 icons:
   - icon.png
 ---

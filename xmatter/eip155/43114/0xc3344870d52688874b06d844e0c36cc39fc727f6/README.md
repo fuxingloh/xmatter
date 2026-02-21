@@ -30,7 +30,7 @@ name: Ankr Staked AVAX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8e818"
+color: "#fbeb1b"
 icons:
   - icon.png
   - icon.webp

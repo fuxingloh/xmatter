@@ -8,7 +8,7 @@ name: Attention Token of Media
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#b9aaba"
 icons:
   - icon.png
 ---

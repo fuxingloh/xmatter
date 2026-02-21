@@ -10,7 +10,7 @@ name: MOTHER IGGY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#e8a888"
+color: "#925559"
 icons:
   - icon.png
 ---

@@ -17,7 +17,7 @@ name: SolChicks
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#b88878"
+color: "#c99b84"
 icons:
   - icon.png
 ---

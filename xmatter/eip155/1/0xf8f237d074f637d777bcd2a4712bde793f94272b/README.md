@@ -8,7 +8,7 @@ name: ERC223
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#1974fb"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ name: Apple tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#686868"
+color: "#5e5e5e"
 icons:
   - icon.png
 ---

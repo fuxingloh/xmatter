@@ -8,7 +8,7 @@ name: YOU COIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#5805d3"
 icons:
   - icon.png
 ---

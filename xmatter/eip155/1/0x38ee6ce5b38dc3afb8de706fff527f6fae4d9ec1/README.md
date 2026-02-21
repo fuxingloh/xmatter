@@ -6,7 +6,7 @@ name: DogeFi.finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#8b774e"
 icons:
   - icon.png
 ---

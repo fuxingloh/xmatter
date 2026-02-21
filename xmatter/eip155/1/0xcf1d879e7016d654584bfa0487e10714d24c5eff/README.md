@@ -6,7 +6,7 @@ name: SEED SECURITY TOKEN INVESTMENT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#7699be"
 icons:
   - icon.png
 ---

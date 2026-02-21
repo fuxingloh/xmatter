@@ -15,7 +15,7 @@ name: Wrapped Pfizer Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0808c8"
+color: "#0404cb"
 icons:
   - icon.png
 ---

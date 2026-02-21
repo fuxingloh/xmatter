@@ -30,7 +30,7 @@ name: Torum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#c93583"
 icons:
   - icon.png
 ---

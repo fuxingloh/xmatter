@@ -14,7 +14,7 @@ name: American Express (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0868c8"
+color: "#056dd3"
 icons:
   - icon.png
 ---

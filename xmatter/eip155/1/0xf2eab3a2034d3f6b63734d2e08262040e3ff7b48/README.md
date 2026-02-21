@@ -6,7 +6,7 @@ name: CANDY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f83888"
+color: "#fb348b"
 icons:
   - icon.png
 ---

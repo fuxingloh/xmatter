@@ -6,7 +6,7 @@ name: EGORAS DOLLAR
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#ef8b26"
 icons:
   - icon.png
 ---

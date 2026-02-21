@@ -6,7 +6,7 @@ name: Sonder
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#082858"
+color: "#091c39"
 icons:
   - icon.png
 ---

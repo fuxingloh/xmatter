@@ -12,7 +12,7 @@ name: METAVERSE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#c4d2e4"
 icons:
   - icon.png
 ---

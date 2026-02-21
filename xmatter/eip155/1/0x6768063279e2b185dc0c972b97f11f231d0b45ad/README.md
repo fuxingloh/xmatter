@@ -8,7 +8,7 @@ name: YIELD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d8f8f8"
+color: "#06373f"
 icons:
   - icon.png
 ---

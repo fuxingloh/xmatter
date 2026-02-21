@@ -14,7 +14,7 @@ name: Marvell tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#686868"
+color: "#5e5e5e"
 icons:
   - icon.png
 ---

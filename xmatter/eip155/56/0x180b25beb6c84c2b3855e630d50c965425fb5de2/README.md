@@ -14,7 +14,7 @@ name: BABYBONK
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8c898"
+color: "#fbd098"
 icons:
   - icon.png
 ---

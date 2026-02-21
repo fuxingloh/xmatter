@@ -12,7 +12,7 @@ name: Autonomous Virtual Beings
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8e8"
+color: "#d5d0af"
 icons:
   - icon.png
 ---

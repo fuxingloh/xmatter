@@ -16,7 +16,7 @@ name: DXD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3858f8"
+color: "#3958fb"
 icons:
   - icon.png
 ---

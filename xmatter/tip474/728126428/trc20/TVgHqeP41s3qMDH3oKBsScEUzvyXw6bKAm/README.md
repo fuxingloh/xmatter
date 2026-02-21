@@ -10,7 +10,7 @@ name: Tron Cat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#f80808"
+color: "#f80505"
 icons:
   - icon.png
 ---

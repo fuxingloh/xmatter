@@ -14,7 +14,7 @@ name: Santa Floki v2.0
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#ca765f"
 icons:
   - icon.png
 ---

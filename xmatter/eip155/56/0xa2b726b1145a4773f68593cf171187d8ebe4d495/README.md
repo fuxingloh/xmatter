@@ -8,7 +8,7 @@ name: Injective
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4838f8"
+color: "#4c3cfc"
 icons:
   - icon.png
 ---

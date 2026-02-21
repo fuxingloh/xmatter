@@ -12,7 +12,7 @@ name: Moo Deng
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#b8a898"
+color: "#434342"
 icons:
   - icon.png
 ---

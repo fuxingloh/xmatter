@@ -24,7 +24,7 @@ name: Doge Dash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#e59044"
 icons:
   - icon.png
   - icon.jpeg

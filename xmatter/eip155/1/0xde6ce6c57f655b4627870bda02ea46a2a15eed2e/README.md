@@ -8,7 +8,7 @@ name: EPay
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#2c3989"
 icons:
   - icon.png
 ---

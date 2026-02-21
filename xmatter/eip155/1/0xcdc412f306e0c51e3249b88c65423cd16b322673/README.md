@@ -6,7 +6,7 @@ name: Blockchain.io
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3848a8"
+color: "#3f46ad"
 icons:
   - icon.png
 ---

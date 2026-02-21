@@ -10,7 +10,7 @@ standards:
   - erc20
 icons:
   - icon.png
-color: "#08a898"
+color: "#04ac94"
 ---
 
 JBPToken is 100% community driven audited deflationary token

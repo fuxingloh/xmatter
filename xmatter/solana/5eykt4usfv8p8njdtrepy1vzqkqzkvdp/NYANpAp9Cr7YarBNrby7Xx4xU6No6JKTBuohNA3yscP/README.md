@@ -12,7 +12,7 @@ name: Nyan Heroes
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f828"
+color: "#353d4b"
 icons:
   - icon.png
 ---

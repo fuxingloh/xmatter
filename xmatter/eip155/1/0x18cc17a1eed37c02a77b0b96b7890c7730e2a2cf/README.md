@@ -8,7 +8,7 @@ name: oneLINK
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3858c8"
+color: "#3c5ccc"
 icons:
   - icon.png
 ---

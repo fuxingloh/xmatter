@@ -8,5 +8,5 @@ symbol: FLOWG1
 decimals: 0
 icons:
   - icon.png
-color: "#080808"
+color: "#1e5a56"
 ---

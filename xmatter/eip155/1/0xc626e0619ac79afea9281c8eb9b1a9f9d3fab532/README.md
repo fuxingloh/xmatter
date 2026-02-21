@@ -16,7 +16,7 @@ name: Freedom Reserve
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#2a8466"
 icons:
   - icon.png
 ---

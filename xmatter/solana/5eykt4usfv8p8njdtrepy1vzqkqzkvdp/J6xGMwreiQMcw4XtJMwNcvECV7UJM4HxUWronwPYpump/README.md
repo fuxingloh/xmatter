@@ -12,7 +12,7 @@ name: OGCAT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8a848"
+color: "#f78b2e"
 icons:
   - icon.png
 ---

@@ -34,7 +34,7 @@ name: Scotty Beam
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#284878"
+color: "#e0a382"
 icons:
   - icon.png
 ---

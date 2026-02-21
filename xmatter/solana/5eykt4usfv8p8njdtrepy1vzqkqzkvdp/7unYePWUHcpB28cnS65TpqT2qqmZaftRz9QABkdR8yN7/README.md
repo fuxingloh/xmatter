@@ -16,7 +16,7 @@ name: ZEBU
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#ded9f4"
 icons:
   - icon.png
 ---

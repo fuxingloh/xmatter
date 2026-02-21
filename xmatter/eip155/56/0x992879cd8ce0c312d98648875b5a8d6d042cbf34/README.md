@@ -15,7 +15,7 @@ name: Circle Internet Group (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8858e8"
+color: "#8556ec"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: ZeusNetwork
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#7304bc"
 icons:
   - icon.png
 ---

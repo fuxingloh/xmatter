@@ -12,7 +12,7 @@ name: Solcasino
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#282838"
+color: "#232c3b"
 icons:
   - icon.png
 ---

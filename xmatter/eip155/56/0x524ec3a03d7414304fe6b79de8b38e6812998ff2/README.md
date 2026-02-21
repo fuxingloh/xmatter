@@ -13,7 +13,7 @@ name: Takki
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c8c8c8"
+color: "#cec8b6"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ name: ivendPay
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0808f8"
+color: "#0404fc"
 icons:
   - icon.png
 ---

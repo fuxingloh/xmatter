@@ -8,7 +8,7 @@ name: MASTER USD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d9ddd5"
 icons:
   - icon.png
 ---

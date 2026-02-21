@@ -10,7 +10,7 @@ name: ZIMOMO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8e808"
+color: "#40200f"
 icons:
   - icon.png
 ---

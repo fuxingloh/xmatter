@@ -12,7 +12,7 @@ symbol: TBLLx
 decimals: 18
 icons:
   - icon.png
-color: "#0808d8"
+color: "#040cd3"
 ---
 
 TBLL xStock

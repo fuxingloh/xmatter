@@ -6,7 +6,7 @@ name: Garuda Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081868"
+color: "#ebae17"
 icons:
   - icon.png
 ---

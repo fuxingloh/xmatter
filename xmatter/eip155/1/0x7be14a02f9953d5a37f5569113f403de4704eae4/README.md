@@ -6,7 +6,7 @@ name: CARTY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#14b6ee"
 icons:
   - icon.png
 ---

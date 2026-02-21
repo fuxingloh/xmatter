@@ -6,7 +6,7 @@ name: Ledgerium
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#c68c60"
 icons:
   - icon.png
 ---

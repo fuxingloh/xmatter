@@ -20,7 +20,7 @@ name: Tronix (TRX)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#ec0c2c"
 icons:
   - icon.png
 ---

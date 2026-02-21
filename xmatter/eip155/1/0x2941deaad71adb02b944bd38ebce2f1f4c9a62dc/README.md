@@ -6,7 +6,7 @@ name: ColoradoCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#082808"
+color: "#052c05"
 icons:
   - icon.png
 ---

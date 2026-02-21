@@ -8,7 +8,7 @@ name: BZ
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#182868"
+color: "#1a3264"
 icons:
   - icon.png
 ---

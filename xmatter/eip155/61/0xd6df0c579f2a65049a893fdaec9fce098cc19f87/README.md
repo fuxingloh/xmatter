@@ -8,5 +8,5 @@ symbol: UVCX
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#f72d2d"
 ---

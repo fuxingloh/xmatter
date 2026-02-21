@@ -12,7 +12,7 @@ name: Plumbus
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#284868"
+color: "#24485f"
 icons:
   - icon.png
 ---

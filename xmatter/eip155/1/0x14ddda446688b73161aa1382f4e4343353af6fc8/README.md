@@ -8,7 +8,7 @@ name: FXPay
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#20b0c5"
 icons:
   - icon.png
 ---

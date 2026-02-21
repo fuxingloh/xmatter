@@ -12,7 +12,7 @@ name: ZigCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081828"
+color: "#13132d"
 icons:
   - icon.png
 ---

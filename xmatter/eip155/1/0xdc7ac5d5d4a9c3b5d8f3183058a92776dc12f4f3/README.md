@@ -12,7 +12,7 @@ name: Monkas
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#189818"
+color: "#d6a221"
 icons:
   - icon.png
 ---

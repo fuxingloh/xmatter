@@ -8,7 +8,7 @@ name: Piggy Bank Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#180838"
+color: "#270939"
 icons:
   - icon.png
 ---

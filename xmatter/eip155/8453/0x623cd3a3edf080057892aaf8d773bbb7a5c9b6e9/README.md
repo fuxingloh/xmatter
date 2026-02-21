@@ -16,7 +16,7 @@ name: Sekuya
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b83858"
+color: "#c7507b"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: G-Mbel
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ecf2f3"
 icons:
   - icon.png
 ---

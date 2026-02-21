@@ -13,7 +13,7 @@ decimals: 18
 icons:
   - icon.svg
   - icon.png
-color: "#1888f8"
+color: "#1c84fc"
 ---
 
 Earn on S and stack rewards with Origin's S-tier Sonic LST

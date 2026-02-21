@@ -6,7 +6,7 @@ name: WARP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#db0710"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Decentralized Accessible Content Chain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#231c1d"
 icons:
   - icon.png
 ---

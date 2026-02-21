@@ -8,7 +8,7 @@ name: EKT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#fae15e"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: TrueDeck
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b81858"
+color: "#b4145b"
 icons:
   - icon.png
 ---

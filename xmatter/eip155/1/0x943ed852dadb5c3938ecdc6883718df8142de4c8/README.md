@@ -8,7 +8,7 @@ name: FTI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#b29e5f"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ symbol: TT-HT
 decimals: 18
 icons:
   - icon.png
-color: "#282858"
+color: "#2c2c5c"
 ---
 
 Bridged token of HT on ThunderCore blockchain. The Bridge allows users to convert assets between Ethereum, BSC, HECO and ThunderCore. This is a customized version of POA network Bridge

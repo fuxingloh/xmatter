@@ -26,7 +26,7 @@ name: Based Chad
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0858f8"
+color: "#0754f6"
 icons:
   - icon.svg
   - icon.png

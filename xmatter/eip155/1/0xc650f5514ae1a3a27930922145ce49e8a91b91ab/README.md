@@ -6,7 +6,7 @@ name: VENOTY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#fbd314"
 icons:
   - icon.png
 ---

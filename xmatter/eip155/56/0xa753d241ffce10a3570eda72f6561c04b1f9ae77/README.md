@@ -12,7 +12,7 @@ name: TitsV2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ee4872"
 icons:
   - icon.png
 ---

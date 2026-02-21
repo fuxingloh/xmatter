@@ -6,7 +6,7 @@ name: Sphre AIR
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080878"
+color: "#040483"
 icons:
   - icon.png
 ---

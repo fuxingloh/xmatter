@@ -8,7 +8,7 @@ name: AXIS DeFi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#082828"
+color: "#042424"
 icons:
   - icon.png
 ---

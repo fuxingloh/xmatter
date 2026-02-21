@@ -24,7 +24,7 @@ name: FRGX Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#b37980"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: HashBX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#10b7f3"
 icons:
   - icon.png
 ---

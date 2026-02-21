@@ -23,7 +23,7 @@ name: BitDAO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a8f808"
+color: "#abfb04"
 icons:
   - icon.png
 ---

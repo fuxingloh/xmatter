@@ -10,7 +10,7 @@ name: Gold Brick
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#f5d11d"
 icons:
   - icon.png
 ---

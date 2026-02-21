@@ -8,7 +8,7 @@ name: Simple Cool Autommatic Money
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#36484d"
 icons:
   - icon.png
 ---

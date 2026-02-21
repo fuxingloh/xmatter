@@ -8,7 +8,7 @@ name: Solanium
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#f7f7f7"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: BrainFart
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080808"
+color: "#141518"
 icons:
   - icon.png
 ---

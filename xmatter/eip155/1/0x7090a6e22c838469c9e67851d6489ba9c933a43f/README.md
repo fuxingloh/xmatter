@@ -8,7 +8,7 @@ name: Zuck Bucks
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8d808"
+color: "#544125"
 icons:
   - icon.png
 ---

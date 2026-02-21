@@ -10,7 +10,7 @@ name: DAI (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#fbb933"
 icons:
   - icon.png
 ---

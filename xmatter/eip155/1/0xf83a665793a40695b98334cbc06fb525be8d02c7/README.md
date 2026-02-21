@@ -14,7 +14,7 @@ name: fija crvUSD CurveConvex FIFI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d9e7e7"
 icons:
   - icon.png
 ---

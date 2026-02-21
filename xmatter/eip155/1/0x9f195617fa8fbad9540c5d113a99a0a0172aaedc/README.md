@@ -8,7 +8,7 @@ name: Niobium
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#1d243c"
 icons:
   - icon.png
 ---

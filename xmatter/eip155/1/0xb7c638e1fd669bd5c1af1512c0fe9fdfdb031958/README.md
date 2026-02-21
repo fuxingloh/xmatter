@@ -6,7 +6,7 @@ name: Ubiqwifi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#04a4b8"
 icons:
   - icon.png
 ---

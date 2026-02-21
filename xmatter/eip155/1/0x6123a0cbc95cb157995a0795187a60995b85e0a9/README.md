@@ -8,7 +8,7 @@ name: BTCDaiRebalancingSetToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8a808"
+color: "#eba304"
 icons:
   - icon.png
 ---

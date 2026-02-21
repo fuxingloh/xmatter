@@ -8,7 +8,7 @@ name: Suntrust Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#88e8f8"
+color: "#85d6eb"
 icons:
   - icon.png
 ---

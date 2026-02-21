@@ -6,7 +6,7 @@ name: RoboDollar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#f8f8f8"
+color: "#6d8f7d"
 icons:
   - icon.png
 ---

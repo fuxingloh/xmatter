@@ -8,7 +8,7 @@ name: SafePitbull
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#080606"
 icons:
   - icon.png
 ---

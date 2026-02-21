@@ -19,7 +19,7 @@ name: CumRocket
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#f506c1"
 icons:
   - icon.png
 ---

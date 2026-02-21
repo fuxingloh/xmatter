@@ -6,7 +6,7 @@ name: Seed of wisdom
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#00c6ff"
 icons:
   - icon.png
 ---

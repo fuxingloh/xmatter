@@ -10,7 +10,7 @@ name: Bermuda Shorts
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#585858"
+color: "#4d4b4b"
 icons:
   - icon.png
 ---

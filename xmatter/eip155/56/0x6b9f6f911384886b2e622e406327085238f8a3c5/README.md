@@ -28,7 +28,7 @@ name: HeroVerse
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8b818"
+color: "#fcbb14"
 icons:
   - icon.png
 ---

@@ -18,7 +18,7 @@ name: DUCATO Protocol Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#002caa"
 icons:
   - icon.png
 ---

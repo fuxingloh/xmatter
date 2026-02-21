@@ -10,7 +10,7 @@ name: Nexus Mutual (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#282828"
+color: "#2c2b2e"
 icons:
   - icon.png
 ---

@@ -19,7 +19,7 @@ decimals: 18
 icons:
   - icon.svg
   - icon.png
-color: "#5858f8"
+color: "#fbdb55"
 ---
 
 MIM is a stablecoin backed by interest bearing collateral

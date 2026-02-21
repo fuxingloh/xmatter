@@ -6,7 +6,7 @@ name: जोह्_Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c89808"
+color: "#b98c05"
 icons:
   - icon.png
 ---

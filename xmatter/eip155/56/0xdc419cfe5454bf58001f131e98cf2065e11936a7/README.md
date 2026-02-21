@@ -14,7 +14,7 @@ name: bscSUNDOG
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8c8b8"
+color: "#b6a17d"
 icons:
   - icon.png
 ---

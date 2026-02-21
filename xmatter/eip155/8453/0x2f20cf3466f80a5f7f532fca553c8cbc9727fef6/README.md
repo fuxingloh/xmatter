@@ -12,7 +12,7 @@ name: Akuma Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b81818"
+color: "#c41b1b"
 icons:
   - icon.svg
   - icon.png

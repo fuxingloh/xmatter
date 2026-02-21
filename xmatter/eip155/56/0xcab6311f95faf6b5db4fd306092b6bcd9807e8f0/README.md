@@ -12,7 +12,7 @@ name: FourXBT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8c808"
+color: "#1f1a13"
 icons:
   - icon.png
 ---

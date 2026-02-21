@@ -8,7 +8,7 @@ name: TIKI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#892d22"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: ethArt
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f888b8"
+color: "#f585a9"
 icons:
   - icon.png
 ---

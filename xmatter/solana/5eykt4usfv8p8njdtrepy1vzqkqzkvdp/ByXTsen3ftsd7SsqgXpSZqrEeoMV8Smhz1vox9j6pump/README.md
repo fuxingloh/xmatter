@@ -12,7 +12,7 @@ name: JUSTICE FOR SUCHIR
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#181818"
+color: "#ae8861"
 icons:
   - icon.png
 ---

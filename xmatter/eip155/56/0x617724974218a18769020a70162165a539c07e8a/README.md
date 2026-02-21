@@ -16,7 +16,7 @@ name: OliveCash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b88848"
+color: "#bb844c"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: VoltBit
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080838"
+color: "#f3951e"
 icons:
   - icon.png
 ---

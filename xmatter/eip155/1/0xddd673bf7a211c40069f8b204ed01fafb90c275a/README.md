@@ -6,7 +6,7 @@ name: Chanel
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#eaeae9"
 icons:
   - icon.png
 ---

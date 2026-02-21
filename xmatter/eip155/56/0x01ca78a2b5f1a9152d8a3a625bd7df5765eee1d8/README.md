@@ -14,7 +14,7 @@ name: Andy
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8d828"
+color: "#fad124"
 icons:
   - icon.png
 ---

@@ -23,7 +23,7 @@ name: Cheelee
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#180838"
+color: "#d815bd"
 icons:
   - icon.png
 ---

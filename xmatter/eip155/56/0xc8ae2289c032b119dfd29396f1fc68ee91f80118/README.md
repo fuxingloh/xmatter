@@ -8,7 +8,7 @@ name: IM Super League
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#cfae6e"
 icons:
   - icon.png
 ---

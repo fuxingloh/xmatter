@@ -12,7 +12,7 @@ name: Libertarian Dog
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#171323"
 icons:
   - icon.png
 ---

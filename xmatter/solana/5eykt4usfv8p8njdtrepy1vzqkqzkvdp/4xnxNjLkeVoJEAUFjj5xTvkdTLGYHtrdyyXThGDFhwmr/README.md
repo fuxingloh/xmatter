@@ -10,7 +10,7 @@ name: GOFURS Del Sol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#d8b8b8"
+color: "#eabdbb"
 icons:
   - icon.png
 ---

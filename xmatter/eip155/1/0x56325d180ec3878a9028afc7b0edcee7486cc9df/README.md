@@ -6,7 +6,7 @@ name: Fountain 3
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#12a7fc"
 icons:
   - icon.png
 ---

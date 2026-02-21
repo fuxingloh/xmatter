@@ -6,7 +6,7 @@ name: CACHE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#48d848"
+color: "#043d46"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Fidelium Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#82959a"
 icons:
   - icon.png
 ---

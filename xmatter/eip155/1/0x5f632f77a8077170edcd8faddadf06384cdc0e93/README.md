@@ -6,7 +6,7 @@ name: HRQ Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8c808"
+color: "#fcc404"
 icons:
   - icon.png
 ---

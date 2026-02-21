@@ -8,7 +8,7 @@ name: AutCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#98c8c8"
+color: "#9bcbcc"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ symbol: VANCAT
 decimals: 0
 icons:
   - icon.png
-color: "#f8b818"
+color: "#f1c114"
 ---
 
 VANCAT platform allows users to easily deposit BEP20 tokens (ANY tokens) into an NFT. VANCAT token is the governance token of the platform.

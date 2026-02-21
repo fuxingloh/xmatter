@@ -12,7 +12,7 @@ name: WORK
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#8858f8"
+color: "#8353fb"
 icons:
   - icon.png
 ---

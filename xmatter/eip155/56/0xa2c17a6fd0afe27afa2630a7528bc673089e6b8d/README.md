@@ -12,7 +12,7 @@ name: CZ THE GOAT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#686868"
+color: "#6b6662"
 icons:
   - icon.png
 ---

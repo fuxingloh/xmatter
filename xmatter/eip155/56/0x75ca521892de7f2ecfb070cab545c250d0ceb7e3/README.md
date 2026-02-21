@@ -18,7 +18,7 @@ name: PVC META
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#085888"
+color: "#045c84"
 icons:
   - icon.png
 ---

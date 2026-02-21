@@ -8,7 +8,7 @@ name: XRT Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#082838"
+color: "#042e42"
 icons:
   - icon.png
 ---

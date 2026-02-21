@@ -16,7 +16,7 @@ name: Arbitrum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#283848"
+color: "#6db0e1"
 icons:
   - icon.svg
   - icon.png

@@ -12,7 +12,7 @@ name: Rizzmas
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#083878"
+color: "#e1b1a7"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Z.com USD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#0858a8"
+color: "#045bab"
 icons:
   - icon.png
 ---

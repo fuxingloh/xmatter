@@ -8,7 +8,7 @@ name: HOMEROS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#d2d8da"
 icons:
   - icon.png
 ---

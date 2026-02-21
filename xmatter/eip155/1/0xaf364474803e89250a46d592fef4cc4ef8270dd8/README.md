@@ -6,7 +6,7 @@ name: Apollon Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#1755a8"
 icons:
   - icon.png
 ---

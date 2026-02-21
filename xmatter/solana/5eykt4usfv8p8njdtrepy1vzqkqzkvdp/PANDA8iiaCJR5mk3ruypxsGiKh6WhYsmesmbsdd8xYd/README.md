@@ -12,7 +12,7 @@ name: Panda Swap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080808"
+color: "#9d69d6"
 icons:
   - icon.png
 ---

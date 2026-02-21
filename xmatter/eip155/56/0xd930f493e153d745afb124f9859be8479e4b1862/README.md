@@ -20,7 +20,7 @@ name: Spaceman LOL Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#dfb86e"
 icons:
   - icon.png
 ---

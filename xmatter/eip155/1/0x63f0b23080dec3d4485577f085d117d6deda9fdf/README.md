@@ -6,7 +6,7 @@ name: EveryBody
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#184848"
+color: "#e3d591"
 icons:
   - icon.png
 ---

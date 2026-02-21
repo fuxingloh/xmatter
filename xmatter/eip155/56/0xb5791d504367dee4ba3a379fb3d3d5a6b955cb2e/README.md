@@ -8,7 +8,7 @@ name: The Luxury Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d5bd89"
 icons:
   - icon.png
 ---

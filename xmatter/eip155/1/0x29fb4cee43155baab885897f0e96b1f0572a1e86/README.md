@@ -6,7 +6,7 @@ name: FilmBusinessBuster
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f82818"
+color: "#ea2a1f"
 icons:
   - icon.png
 ---

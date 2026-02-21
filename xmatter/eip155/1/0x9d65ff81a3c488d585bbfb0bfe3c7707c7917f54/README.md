@@ -16,7 +16,7 @@ name: SSV
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081828"
+color: "#1994e5"
 icons:
   - icon.png
 ---

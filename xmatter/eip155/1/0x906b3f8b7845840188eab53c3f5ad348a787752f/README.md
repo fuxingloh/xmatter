@@ -6,7 +6,7 @@ name: DoradoToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#082858"
+color: "#042b5a"
 icons:
   - icon.png
 ---

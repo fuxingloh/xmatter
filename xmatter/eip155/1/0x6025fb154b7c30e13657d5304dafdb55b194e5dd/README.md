@@ -6,7 +6,7 @@ name: iAM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3878b8"
+color: "#facb0c"
 icons:
   - icon.png
 ---

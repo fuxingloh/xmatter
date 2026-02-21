@@ -8,7 +8,7 @@ name: WPPTOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#66a4db"
 icons:
   - icon.png
 ---

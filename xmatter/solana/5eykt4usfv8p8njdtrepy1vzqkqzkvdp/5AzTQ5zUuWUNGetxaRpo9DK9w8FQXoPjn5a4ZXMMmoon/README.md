@@ -12,7 +12,7 @@ name: Tree stuck in cat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#c5c58d"
 icons:
   - icon.png
 ---

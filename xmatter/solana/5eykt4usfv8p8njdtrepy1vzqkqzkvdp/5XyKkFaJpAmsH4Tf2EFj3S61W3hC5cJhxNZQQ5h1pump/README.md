@@ -12,7 +12,7 @@ name: Luigi Mangione
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#485858"
+color: "#47565b"
 icons:
   - icon.png
 ---

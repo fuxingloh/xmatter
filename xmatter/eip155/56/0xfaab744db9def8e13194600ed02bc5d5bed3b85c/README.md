@@ -8,7 +8,7 @@ name: NEFTiPEDiA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#287888"
+color: "#2f808c"
 icons:
   - icon.png
 ---

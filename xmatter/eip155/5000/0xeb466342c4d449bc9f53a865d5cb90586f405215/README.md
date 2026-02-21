@@ -14,7 +14,7 @@ symbol: axlUSDC
 decimals: 6
 icons:
   - icon.png
-color: "#2878c8"
+color: "#2775cb"
 ---
 
 Axelar Wrapped USDC (axlUSDC) is a cryptocurrency and operates on the BNB Smart Chain (BEP20) platform.

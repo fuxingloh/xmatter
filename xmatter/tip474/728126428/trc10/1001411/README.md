@@ -6,7 +6,7 @@ name: CryptoBankCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#181818"
+color: "#141414"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: UniversalGlobalIntegral
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#045ea0"
 icons:
   - icon.png
 ---

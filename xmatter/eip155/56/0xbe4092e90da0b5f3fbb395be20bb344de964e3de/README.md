@@ -8,7 +8,7 @@ name: Sephiroth Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#2d2c2b"
 icons:
   - icon.png
 ---

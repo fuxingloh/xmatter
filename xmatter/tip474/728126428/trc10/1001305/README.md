@@ -6,7 +6,7 @@ name: dice
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#080808"
+color: "#bc3328"
 icons:
   - icon.png
 ---

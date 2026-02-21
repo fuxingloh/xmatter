@@ -6,7 +6,7 @@ name: WOWcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#082848"
+color: "#0f3156"
 icons:
   - icon.png
 ---

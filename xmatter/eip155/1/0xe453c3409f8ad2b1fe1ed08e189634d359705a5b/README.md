@@ -10,7 +10,7 @@ name: DGI Game
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081818"
+color: "#041d1d"
 icons:
   - icon.png
 ---

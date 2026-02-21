@@ -6,7 +6,7 @@ name: HappyEX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#5858d8"
+color: "#5959dd"
 icons:
   - icon.png
 ---

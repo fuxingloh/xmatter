@@ -21,7 +21,7 @@ name: Darik
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486848"
+color: "#e8c152"
 icons:
   - icon.png
 ---

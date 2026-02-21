@@ -6,7 +6,7 @@ name: Odyssey
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#0b499b"
 icons:
   - icon.png
 ---

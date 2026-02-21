@@ -10,7 +10,7 @@ name: Origin D
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#384878"
+color: "#eaca8b"
 icons:
   - icon.png
 ---

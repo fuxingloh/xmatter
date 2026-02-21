@@ -6,7 +6,7 @@ name: Fulcrum Perpetual Short KNC-DAI 3x v2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#4cbc9c"
 icons:
   - icon.png
 ---

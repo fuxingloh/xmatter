@@ -8,7 +8,7 @@ name: ENB
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1838f8"
+color: "#1030f0"
 icons:
   - icon.png
 ---

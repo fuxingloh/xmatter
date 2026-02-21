@@ -8,5 +8,5 @@ symbol: BRZL
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#073e75"
 ---

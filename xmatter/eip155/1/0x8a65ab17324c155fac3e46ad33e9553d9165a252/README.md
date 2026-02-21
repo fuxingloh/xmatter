@@ -8,7 +8,7 @@ name: Silver Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d3d3d3"
 icons:
   - icon.png
 ---

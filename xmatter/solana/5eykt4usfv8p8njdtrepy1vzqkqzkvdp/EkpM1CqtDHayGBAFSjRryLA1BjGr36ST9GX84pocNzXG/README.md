@@ -12,7 +12,7 @@ name: KHABY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8b808"
+color: "#642a33"
 icons:
   - icon.png
 ---

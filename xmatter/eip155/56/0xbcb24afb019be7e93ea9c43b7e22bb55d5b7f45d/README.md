@@ -8,7 +8,7 @@ name: BSCS Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#e5b318"
 icons:
   - icon.png
 ---

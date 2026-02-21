@@ -6,7 +6,7 @@ name: HaveABreakHaveAKitKat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#080808"
+color: "#de9d1d"
 icons:
   - icon.png
 ---

@@ -26,7 +26,7 @@ symbol: HEC
 decimals: 9
 icons:
   - icon.png
-color: "#080808"
+color: "#b3a384"
 ---
 
 Hector Finance is developing a financial center on the Fantom Opera Chain and beyond.

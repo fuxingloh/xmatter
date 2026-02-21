@@ -10,7 +10,7 @@ name: LuaSwap (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8b848"
+color: "#f8bc47"
 icons:
   - icon.png
 ---

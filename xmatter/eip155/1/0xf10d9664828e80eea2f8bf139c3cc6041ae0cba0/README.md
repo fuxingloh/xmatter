@@ -8,7 +8,7 @@ name: COMBO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#055b9b"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Diamond Chain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#132d3a"
 icons:
   - icon.png
 ---

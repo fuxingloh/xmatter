@@ -6,7 +6,7 @@ name: KvazarCash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#f8f8f8"
+color: "#d3bc5c"
 icons:
   - icon.png
 ---

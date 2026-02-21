@@ -18,7 +18,7 @@ name: FlickerPro
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f84858"
+color: "#f9435b"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ name: Forkast
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08e878"
+color: "#04e37b"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: BLVR Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#f0d876"
 icons:
   - icon.png
 ---

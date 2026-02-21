@@ -6,7 +6,7 @@ name: Compound Zai
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#50b7c5"
 icons:
   - icon.png
 ---

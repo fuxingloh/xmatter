@@ -14,7 +14,7 @@ name: YFIONE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f80878"
+color: "#fb2c76"
 icons:
   - icon.png
 ---

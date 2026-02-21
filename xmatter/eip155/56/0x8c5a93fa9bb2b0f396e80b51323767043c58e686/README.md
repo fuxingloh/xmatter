@@ -8,7 +8,7 @@ name: Forestry
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#387848"
+color: "#337b43"
 icons:
   - icon.png
 ---

@@ -28,7 +28,7 @@ name: WeSendit
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#083868"
+color: "#053464"
 icons:
   - icon.png
 ---

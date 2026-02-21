@@ -12,7 +12,7 @@ name: Pochita
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#38c8d8"
+color: "#dec38d"
 icons:
   - icon.png
 ---

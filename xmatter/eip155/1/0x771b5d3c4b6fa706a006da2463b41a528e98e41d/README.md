@@ -6,7 +6,7 @@ name: COSSE Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#daa31c"
 icons:
   - icon.png
 ---

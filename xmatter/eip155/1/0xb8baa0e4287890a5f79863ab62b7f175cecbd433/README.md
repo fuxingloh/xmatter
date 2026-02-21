@@ -10,7 +10,7 @@ name: Swerve
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#182828"
+color: "#232424"
 icons:
   - icon.png
 ---

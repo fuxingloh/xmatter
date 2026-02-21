@@ -6,7 +6,7 @@ name: EVCOIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#48b838"
+color: "#53bc33"
 icons:
   - icon.png
 ---

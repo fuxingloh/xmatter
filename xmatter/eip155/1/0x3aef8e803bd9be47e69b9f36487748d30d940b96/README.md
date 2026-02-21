@@ -10,7 +10,7 @@ name: Vesta
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080818"
+color: "#e7e7e8"
 icons:
   - icon.png
 ---

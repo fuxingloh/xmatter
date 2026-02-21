@@ -6,7 +6,7 @@ name: MHIMG1-8/30M8
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f86868"
+color: "#fb6463"
 icons:
   - icon.png
 ---

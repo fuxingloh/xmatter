@@ -8,7 +8,7 @@ name: BirdCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8858f8"
+color: "#8d5dfb"
 icons:
   - icon.png
 ---

@@ -20,7 +20,7 @@ name: UMA Voting Token v1
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f84848"
+color: "#fc4c4c"
 icons:
   - icon.png
 ---

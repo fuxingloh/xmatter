@@ -8,7 +8,7 @@ name: LikeCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#31686f"
 icons:
   - icon.png
 ---

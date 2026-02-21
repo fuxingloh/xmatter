@@ -8,5 +8,5 @@ symbol: ONE
 decimals: 6
 icons:
   - icon.png
-color: "#080808"
+color: "#050505"
 ---

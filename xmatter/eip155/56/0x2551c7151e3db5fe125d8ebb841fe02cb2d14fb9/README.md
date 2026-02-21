@@ -10,7 +10,7 @@ name: Hamster Champ
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8d858"
+color: "#e4c354"
 icons:
   - icon.png
 ---

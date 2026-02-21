@@ -8,7 +8,7 @@ name: RADDITARIUM NETWORK
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#060606"
 icons:
   - icon.png
 ---

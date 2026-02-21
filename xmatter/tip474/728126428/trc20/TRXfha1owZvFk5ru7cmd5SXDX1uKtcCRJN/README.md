@@ -12,7 +12,7 @@ symbol: CRCLx
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#7abef0"
 ---
 
 Circle xStock

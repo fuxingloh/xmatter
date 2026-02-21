@@ -18,7 +18,7 @@ name: Renewable Energy Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8d838"
+color: "#f3c639"
 icons:
   - icon.png
 ---

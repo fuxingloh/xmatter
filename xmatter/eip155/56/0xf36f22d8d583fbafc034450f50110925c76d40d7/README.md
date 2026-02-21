@@ -10,7 +10,7 @@ name: SIAMESE NEKO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#c6c9be"
 icons:
   - icon.png
 ---

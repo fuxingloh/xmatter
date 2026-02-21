@@ -6,7 +6,7 @@ name: GIGS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#083838"
+color: "#ebecbe"
 icons:
   - icon.png
 ---

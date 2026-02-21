@@ -6,7 +6,7 @@ name: Billions Icon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#343c8c"
 icons:
   - icon.png
 ---

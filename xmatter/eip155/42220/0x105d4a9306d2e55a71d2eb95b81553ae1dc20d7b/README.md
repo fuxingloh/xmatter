@@ -20,7 +20,7 @@ name: Mento Philippine Peso
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5808c8"
+color: "#d8d6f3"
 icons:
   - icon.svg
   - icon.png

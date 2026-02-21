@@ -14,7 +14,7 @@ name: DNAxCAT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8b828"
+color: "#fcbc24"
 icons:
   - icon.png
 ---

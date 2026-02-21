@@ -15,7 +15,7 @@ name: Wrapped Thermo Fisher Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e84838"
+color: "#eb4334"
 icons:
   - icon.png
 ---

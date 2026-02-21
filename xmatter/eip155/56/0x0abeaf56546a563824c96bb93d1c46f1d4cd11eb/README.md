@@ -12,7 +12,7 @@ name: BAKENEKO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f82818"
+color: "#ef2e1c"
 icons:
   - icon.png
 ---

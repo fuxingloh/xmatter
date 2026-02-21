@@ -8,7 +8,7 @@ name: The Movement
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#98c878"
+color: "#93cb73"
 icons:
   - icon.png
 ---

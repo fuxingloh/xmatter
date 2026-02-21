@@ -8,7 +8,7 @@ name: MARGIN CALL TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d80828"
+color: "#da0424"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Crypto VENO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#6c66a4"
 icons:
   - icon.png
 ---

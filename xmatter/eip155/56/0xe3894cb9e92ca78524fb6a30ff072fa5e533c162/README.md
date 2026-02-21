@@ -8,7 +8,7 @@ name: Everlasting Parachain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#3ec1cc"
 icons:
   - icon.png
 ---

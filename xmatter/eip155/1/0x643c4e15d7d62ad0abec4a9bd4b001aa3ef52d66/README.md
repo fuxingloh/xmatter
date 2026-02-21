@@ -14,7 +14,7 @@ name: Syrup Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f88848"
+color: "#fb8c4d"
 icons:
   - icon.png
 ---

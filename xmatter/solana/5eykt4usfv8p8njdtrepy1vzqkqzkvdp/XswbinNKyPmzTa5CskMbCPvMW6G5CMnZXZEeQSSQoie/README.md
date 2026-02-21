@@ -14,7 +14,7 @@ name: AbbVie tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080838"
+color: "#040438"
 icons:
   - icon.png
 ---

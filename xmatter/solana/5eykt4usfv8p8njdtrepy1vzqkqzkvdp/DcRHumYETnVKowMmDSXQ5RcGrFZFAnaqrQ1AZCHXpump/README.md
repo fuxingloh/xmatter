@@ -12,7 +12,7 @@ name: The Dissolution of Value
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080808"
+color: "#070707"
 icons:
   - icon.png
 ---

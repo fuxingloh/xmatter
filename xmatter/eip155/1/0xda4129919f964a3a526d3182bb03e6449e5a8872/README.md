@@ -6,7 +6,7 @@ name: 1irstgold
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#ca9736"
 icons:
   - icon.png
 ---

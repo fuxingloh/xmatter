@@ -16,7 +16,7 @@ name: USDT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#28a878"
+color: "#24a37b"
 icons:
   - icon.png
 ---

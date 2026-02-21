@@ -6,7 +6,7 @@ name: RIALTO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#9da8af"
 icons:
   - icon.png
 ---

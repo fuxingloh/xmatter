@@ -12,7 +12,7 @@ name: Shadow Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#8898b8"
+color: "#7e92a5"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: ICOCalendar.Today
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#6693e6"
 icons:
   - icon.png
 ---

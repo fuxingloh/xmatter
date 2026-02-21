@@ -16,7 +16,7 @@ name: Avalon Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#282828"
+color: "#1b242c"
 icons:
   - icon.png
 ---

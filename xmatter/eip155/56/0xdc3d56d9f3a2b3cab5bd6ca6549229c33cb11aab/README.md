@@ -8,7 +8,7 @@ name: BabYoda
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#182838"
+color: "#8fa732"
 icons:
   - icon.png
 ---

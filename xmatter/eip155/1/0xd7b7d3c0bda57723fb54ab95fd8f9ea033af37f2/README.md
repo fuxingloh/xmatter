@@ -13,7 +13,7 @@ name: Pylon Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0848c8"
+color: "#0443cb"
 icons:
   - icon.png
 ---

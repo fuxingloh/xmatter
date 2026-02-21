@@ -15,7 +15,7 @@ name: Light DeFi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081818"
+color: "#e7a911"
 icons:
   - icon.png
 ---

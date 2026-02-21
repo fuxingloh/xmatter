@@ -14,7 +14,7 @@ name: Based Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#1c68b5"
 icons:
   - icon.png
 ---

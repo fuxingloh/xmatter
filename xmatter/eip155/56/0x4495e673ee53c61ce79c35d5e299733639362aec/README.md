@@ -8,7 +8,7 @@ name: Wrapped LQX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#e85c1a"
 icons:
   - icon.png
 ---

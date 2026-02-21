@@ -6,7 +6,7 @@ name: MasterNet
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#e4b55b"
 icons:
   - icon.png
 ---

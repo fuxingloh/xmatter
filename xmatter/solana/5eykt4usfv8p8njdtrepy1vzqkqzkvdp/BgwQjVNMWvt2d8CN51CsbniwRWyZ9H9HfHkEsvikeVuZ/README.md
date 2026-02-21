@@ -12,7 +12,7 @@ name: DEAPCOIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080808"
+color: "#e6a81c"
 icons:
   - icon.png
 ---

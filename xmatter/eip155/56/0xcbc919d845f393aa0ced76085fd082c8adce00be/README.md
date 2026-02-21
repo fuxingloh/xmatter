@@ -16,7 +16,7 @@ name: BOSAGORA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#084898"
+color: "#004f9e"
 icons:
   - icon.png
 ---

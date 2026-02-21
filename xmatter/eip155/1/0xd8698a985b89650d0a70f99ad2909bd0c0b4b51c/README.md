@@ -8,7 +8,7 @@ name: Consentium Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#7669f3"
 icons:
   - icon.png
 ---

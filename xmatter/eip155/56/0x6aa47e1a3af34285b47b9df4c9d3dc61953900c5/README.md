@@ -10,7 +10,7 @@ name: FIST
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#181818"
+color: "#181b20"
 icons:
   - icon.png
 ---

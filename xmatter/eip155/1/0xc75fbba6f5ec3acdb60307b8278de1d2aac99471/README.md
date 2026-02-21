@@ -10,7 +10,7 @@ name: TelFx
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08b898"
+color: "#04ae8e"
 icons:
   - icon.png
 ---

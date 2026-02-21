@@ -8,7 +8,7 @@ name: BitKAM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#2ec0c8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: CreamPYE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ef639c"
 icons:
   - icon.png
 ---

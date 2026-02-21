@@ -8,7 +8,7 @@ name: Bridge Protocol Token (ERC20)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#6d57a6"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: RUFF
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#08c6cb"
 icons:
   - icon.png
 ---

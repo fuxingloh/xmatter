@@ -16,7 +16,7 @@ name: Battle World
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#1fb32e"
 icons:
   - icon.png
 ---

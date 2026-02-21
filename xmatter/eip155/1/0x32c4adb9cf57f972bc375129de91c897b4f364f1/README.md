@@ -8,7 +8,7 @@ name: Flowchain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f88828"
+color: "#f08820"
 icons:
   - icon.png
 ---

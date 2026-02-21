@@ -14,7 +14,7 @@ name: Cisco Systems (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1898d8"
+color: "#d4ecf5"
 icons:
   - icon.png
 ---

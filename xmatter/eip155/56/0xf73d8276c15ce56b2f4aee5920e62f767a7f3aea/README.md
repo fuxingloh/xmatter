@@ -18,7 +18,7 @@ name: TCGCoin 2.0
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#5261fc"
 icons:
   - icon.png
 ---

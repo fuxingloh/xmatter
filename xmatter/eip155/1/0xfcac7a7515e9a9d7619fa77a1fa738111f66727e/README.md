@@ -6,7 +6,7 @@ name: Pitch
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#749ded"
 icons:
   - icon.png
 ---

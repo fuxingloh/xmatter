@@ -12,7 +12,7 @@ name: PRISM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080818"
+color: "#050b18"
 icons:
   - icon.png
 ---

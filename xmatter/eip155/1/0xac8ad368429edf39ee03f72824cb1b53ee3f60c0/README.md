@@ -6,7 +6,7 @@ name: E-INDIAN RUPEE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#93439b"
 icons:
   - icon.png
 ---

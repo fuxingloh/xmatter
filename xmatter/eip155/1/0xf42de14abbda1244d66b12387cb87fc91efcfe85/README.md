@@ -6,7 +6,7 @@ name: Steady
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c8c8a8"
+color: "#3a3225"
 icons:
   - icon.png
 ---

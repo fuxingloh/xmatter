@@ -16,7 +16,7 @@ name: Shake Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080888"
+color: "#040c8c"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: BEAT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#c0314d"
 icons:
   - icon.png
 ---

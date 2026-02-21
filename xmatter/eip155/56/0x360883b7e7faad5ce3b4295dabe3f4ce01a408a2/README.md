@@ -16,7 +16,7 @@ standards:
   - erc20
 icons:
   - icon.png
-color: "#080808"
+color: "#cb4b16"
 ---
 
 CREATE YOUR OWN UNIQUE SOLAR SYSTEM on Binance Smart Chain.

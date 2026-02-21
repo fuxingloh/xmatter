@@ -12,7 +12,7 @@ name: FLock.io
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081828"
+color: "#577dd6"
 icons:
   - icon.svg
   - icon.png

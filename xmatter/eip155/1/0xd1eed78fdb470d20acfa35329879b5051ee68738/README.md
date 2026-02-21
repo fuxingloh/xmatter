@@ -6,7 +6,7 @@ name: Loopie
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b8b8b8"
+color: "#bababa"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ name: Evergreen token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#4e6814"
 icons:
   - icon.png
 ---

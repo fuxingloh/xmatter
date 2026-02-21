@@ -14,7 +14,7 @@ symbol: MOD
 decimals: 18
 icons:
   - icon.png
-color: "#083888"
+color: "#043c84"
 ---
 
 Decentralized Oracle Solutions. Building the foundation for real world adoption of Oracles and DeFi

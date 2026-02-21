@@ -10,7 +10,7 @@ name: Starter.xyz
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#b1a5fa"
 icons:
   - icon.png
 ---

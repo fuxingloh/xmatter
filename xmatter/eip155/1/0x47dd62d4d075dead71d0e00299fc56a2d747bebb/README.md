@@ -6,7 +6,7 @@ name: EQUAL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3898f8"
+color: "#339bfb"
 icons:
   - icon.png
 ---

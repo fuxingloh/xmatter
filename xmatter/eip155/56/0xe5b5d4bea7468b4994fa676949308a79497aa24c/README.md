@@ -18,7 +18,7 @@ name: Sheikh Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8b808"
+color: "#f5b70f"
 icons:
   - icon.png
 ---

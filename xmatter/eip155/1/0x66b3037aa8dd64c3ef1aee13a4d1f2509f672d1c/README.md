@@ -8,7 +8,7 @@ name: NAP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#f9c92f"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Learno
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f808"
+color: "#0564cb"
 icons:
   - icon.png
 ---

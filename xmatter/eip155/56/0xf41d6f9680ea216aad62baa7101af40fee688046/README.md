@@ -8,7 +8,7 @@ name: ComPro Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8b818"
+color: "#ffb71b"
 icons:
   - icon.png
 ---

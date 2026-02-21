@@ -12,7 +12,7 @@ name: Doge AI Agent
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080818"
+color: "#0c1927"
 icons:
   - icon.png
 ---

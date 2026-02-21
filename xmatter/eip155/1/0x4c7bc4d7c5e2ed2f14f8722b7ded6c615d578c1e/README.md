@@ -6,7 +6,7 @@ name: ZeroChain Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#0c1cec"
 icons:
   - icon.png
 ---

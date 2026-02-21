@@ -12,7 +12,7 @@ name: lou
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#d8c8a8"
+color: "#d4c6ad"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: 46th President
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#d8d8d8"
+color: "#cecbc8"
 icons:
   - icon.png
 ---

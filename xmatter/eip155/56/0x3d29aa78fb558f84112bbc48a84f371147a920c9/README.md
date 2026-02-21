@@ -12,7 +12,7 @@ name: Dogefather
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#f4c224"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: PitisCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#e4ad3a"
 icons:
   - icon.png
 ---

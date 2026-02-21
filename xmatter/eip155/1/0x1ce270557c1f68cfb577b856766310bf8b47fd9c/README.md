@@ -16,7 +16,7 @@ name: MongCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7818f8"
+color: "#7b14f3"
 icons:
   - icon.png
 ---

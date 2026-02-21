@@ -8,7 +8,7 @@ name: DORON
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#383838"
+color: "#d7a410"
 icons:
   - icon.png
 ---

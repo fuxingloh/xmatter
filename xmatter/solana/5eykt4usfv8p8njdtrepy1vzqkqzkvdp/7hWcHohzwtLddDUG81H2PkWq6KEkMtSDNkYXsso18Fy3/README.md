@@ -22,7 +22,7 @@ name: Catcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080808"
+color: "#c49d54"
 icons:
   - icon.png
 ---

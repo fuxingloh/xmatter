@@ -12,7 +12,7 @@ name: Gyro
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#922c8a"
 icons:
   - icon.png
 ---

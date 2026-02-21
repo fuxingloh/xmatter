@@ -8,7 +8,7 @@ name: Authorship Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#94cc57"
 icons:
   - icon.png
 ---

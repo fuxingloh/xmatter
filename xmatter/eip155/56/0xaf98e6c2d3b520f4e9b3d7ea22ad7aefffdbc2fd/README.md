@@ -18,7 +18,7 @@ name: RatBoyBSC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#083868"
+color: "#163051"
 icons:
   - icon.png
 ---

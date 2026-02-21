@@ -6,7 +6,7 @@ name: ORBIT MAX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#c28d31"
 icons:
   - icon.png
 ---

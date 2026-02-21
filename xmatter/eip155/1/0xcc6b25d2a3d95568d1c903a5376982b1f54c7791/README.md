@@ -6,7 +6,7 @@ name: DEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#184868"
+color: "#1c4474"
 icons:
   - icon.png
 ---

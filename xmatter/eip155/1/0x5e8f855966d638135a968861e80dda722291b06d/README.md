@@ -8,7 +8,7 @@ name: Coinvest COIN V2 Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0838f8"
+color: "#c9e0fb"
 icons:
   - icon.png
 ---

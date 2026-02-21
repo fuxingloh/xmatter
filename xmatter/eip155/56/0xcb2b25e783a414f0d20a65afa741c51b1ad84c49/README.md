@@ -12,7 +12,7 @@ name: Starpunk
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#191431"
 icons:
   - icon.png
 ---

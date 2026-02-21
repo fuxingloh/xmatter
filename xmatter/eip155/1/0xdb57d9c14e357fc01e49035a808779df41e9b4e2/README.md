@@ -14,7 +14,7 @@ name: Goldman Sachs (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7898c8"
+color: "#e7eef5"
 icons:
   - icon.png
 ---

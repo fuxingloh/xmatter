@@ -14,7 +14,7 @@ name: Wrapped Tesla Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e80828"
+color: "#eb0424"
 icons:
   - icon.png
 ---

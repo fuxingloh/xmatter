@@ -10,7 +10,7 @@ name: AnchorUST (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#db7a82"
 icons:
   - icon.png
 ---

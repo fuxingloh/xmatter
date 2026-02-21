@@ -8,7 +8,7 @@ name: Invictus Hyperion
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#203868"
 icons:
   - icon.png
 ---

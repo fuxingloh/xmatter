@@ -12,7 +12,7 @@ name: crow with knife
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#787878"
+color: "#81827c"
 icons:
   - icon.png
 ---

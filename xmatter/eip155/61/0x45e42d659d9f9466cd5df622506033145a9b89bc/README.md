@@ -8,5 +8,5 @@ symbol: NxC
 decimals: 3
 icons:
   - icon.png
-color: "#080808"
+color: "#c7a250"
 ---

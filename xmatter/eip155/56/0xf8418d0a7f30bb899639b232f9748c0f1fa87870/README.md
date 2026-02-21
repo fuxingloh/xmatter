@@ -8,7 +8,7 @@ name: TheCollectiveCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c82838"
+color: "#cb243c"
 icons:
   - icon.png
 ---

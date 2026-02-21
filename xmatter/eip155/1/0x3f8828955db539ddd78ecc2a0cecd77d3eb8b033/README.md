@@ -6,7 +6,7 @@ name: AmethystCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f80808"
+color: "#fb0527"
 icons:
   - icon.png
 ---

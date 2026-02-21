@@ -8,7 +8,7 @@ name: Flexacoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8e8f8"
+color: "#eb8ba1"
 icons:
   - icon.png
 ---

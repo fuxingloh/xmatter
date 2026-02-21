@@ -14,7 +14,7 @@ symbol: 1ART
 decimals: 18
 icons:
   - icon.png
-color: "#e8e8f8"
+color: "#d5deeb"
 ---
 
 OneArt is building a scalable ecosystem of NFT related products connecting blockchains together in one place.

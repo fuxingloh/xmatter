@@ -12,7 +12,7 @@ name: ZOE CASH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#f8f8f8"
+color: "#345c9c"
 icons:
   - icon.png
 ---

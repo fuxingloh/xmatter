@@ -20,7 +20,7 @@ name: Corite
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f80838"
+color: "#fc043c"
 icons:
   - icon.png
 ---

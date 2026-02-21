@@ -8,7 +8,7 @@ name: Bloomzed Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#d1c27a"
 icons:
   - icon.png
 ---

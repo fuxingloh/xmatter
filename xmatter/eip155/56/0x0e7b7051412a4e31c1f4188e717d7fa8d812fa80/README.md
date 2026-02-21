@@ -10,7 +10,7 @@ name: Belgian Malinois
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d89808"
+color: "#c59626"
 icons:
   - icon.png
 ---

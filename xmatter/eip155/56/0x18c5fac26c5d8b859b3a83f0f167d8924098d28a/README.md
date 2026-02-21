@@ -16,7 +16,7 @@ name: NAFTY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d83888"
+color: "#dc3c84"
 icons:
   - icon.png
 ---

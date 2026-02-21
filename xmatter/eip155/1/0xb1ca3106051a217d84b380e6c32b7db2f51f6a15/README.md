@@ -6,7 +6,7 @@ name: Arcadium X
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#0d0a08"
 icons:
   - icon.png
 ---

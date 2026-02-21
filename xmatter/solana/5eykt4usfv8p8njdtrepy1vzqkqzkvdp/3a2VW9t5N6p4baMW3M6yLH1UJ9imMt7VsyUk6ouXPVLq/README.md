@@ -10,7 +10,7 @@ name: Keep3rV1 (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080808"
+color: "#136cd7"
 icons:
   - icon.png
 ---

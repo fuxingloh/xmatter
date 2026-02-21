@@ -6,7 +6,7 @@ name: Toqqn
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#2d65a0"
 icons:
   - icon.png
 ---

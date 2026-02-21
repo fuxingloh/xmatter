@@ -12,7 +12,7 @@ name: Chuan Pu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f81818"
+color: "#c93d2f"
 icons:
   - icon.png
 ---

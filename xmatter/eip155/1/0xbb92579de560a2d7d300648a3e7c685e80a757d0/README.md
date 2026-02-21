@@ -6,7 +6,7 @@ name: Neutron
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#4b3e95"
 icons:
   - icon.png
 ---

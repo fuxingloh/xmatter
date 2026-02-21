@@ -10,7 +10,7 @@ name: SatoPay
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f86848"
+color: "#f45659"
 icons:
   - icon.png
 ---

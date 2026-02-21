@@ -20,7 +20,7 @@ name: The Graph
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#433fad"
 icons:
   - icon.png
 ---

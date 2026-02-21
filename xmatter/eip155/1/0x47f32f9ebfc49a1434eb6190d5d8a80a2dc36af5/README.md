@@ -6,7 +6,7 @@ name: Happy Park Chip
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d4d5da"
 icons:
   - icon.png
 ---

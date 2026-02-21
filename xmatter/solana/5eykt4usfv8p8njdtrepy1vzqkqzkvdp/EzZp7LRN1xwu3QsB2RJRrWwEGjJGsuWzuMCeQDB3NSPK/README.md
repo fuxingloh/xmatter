@@ -10,7 +10,7 @@ name: Yield Guild Games (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080808"
+color: "#0d0b10"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Measurable Data
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#8ccaf9"
 icons:
   - icon.png
 ---

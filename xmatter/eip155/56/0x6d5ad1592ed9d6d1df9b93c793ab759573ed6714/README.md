@@ -12,7 +12,7 @@ name: CZ&#39;S DOG
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8b828"
+color: "#f1ba32"
 icons:
   - icon.png
 ---

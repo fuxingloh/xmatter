@@ -8,7 +8,7 @@ name: Tripio Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f87898"
+color: "#fb7c9c"
 icons:
   - icon.png
 ---

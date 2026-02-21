@@ -6,7 +6,7 @@ name: Europay
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8b818"
+color: "#fceb94"
 icons:
   - icon.png
 ---

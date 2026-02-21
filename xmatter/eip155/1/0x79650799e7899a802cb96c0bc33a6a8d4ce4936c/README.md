@@ -8,7 +8,7 @@ name: AIT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#069bdd"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Enme Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#080808"
+color: "#060504"
 icons:
   - icon.png
 ---

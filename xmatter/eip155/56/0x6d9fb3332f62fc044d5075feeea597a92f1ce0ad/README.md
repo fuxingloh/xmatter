@@ -22,7 +22,7 @@ name: Baby Doge Billionaire
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#5a4f25"
 icons:
   - icon.png
 ---

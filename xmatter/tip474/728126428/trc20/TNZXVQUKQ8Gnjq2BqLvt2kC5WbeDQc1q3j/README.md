@@ -6,7 +6,7 @@ name: DXNToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#080808"
+color: "#fce4d6"
 icons:
   - icon.png
 ---

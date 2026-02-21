@@ -16,7 +16,7 @@ name: ZenFi AI Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#181848"
+color: "#1c1c44"
 icons:
   - icon.png
 ---

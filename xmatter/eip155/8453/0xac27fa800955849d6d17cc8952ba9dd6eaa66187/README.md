@@ -22,7 +22,7 @@ name: UnlockProtocolToken
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#f8f8e8"
+color: "#faf2ea"
 icons:
   - icon.svg
   - icon.png

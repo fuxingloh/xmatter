@@ -10,7 +10,7 @@ name: Huobi BTC (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080808"
+color: "#2c46b5"
 icons:
   - icon.png
 ---

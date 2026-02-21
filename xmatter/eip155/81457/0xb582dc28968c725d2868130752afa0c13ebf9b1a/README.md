@@ -14,7 +14,7 @@ symbol: BEPE
 decimals: 18
 icons:
   - icon.png
-color: "#f8f808"
+color: "#f2f728"
 ---
 
 First memecoin on Blast. Stealth launched. LP vanished. Community-driven meme here to redefine shitcoins.

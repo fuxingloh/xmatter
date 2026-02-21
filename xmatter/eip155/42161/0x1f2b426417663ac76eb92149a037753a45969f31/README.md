@@ -12,7 +12,7 @@ name: Real World Assetss
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080818"
+color: "#bbf907"
 icons:
   - icon.png
 ---

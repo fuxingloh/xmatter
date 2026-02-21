@@ -18,7 +18,7 @@ name: SWEAT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f80878"
+color: "#fc0c74"
 icons:
   - icon.png
 ---

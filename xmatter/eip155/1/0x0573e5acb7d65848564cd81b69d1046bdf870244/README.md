@@ -6,7 +6,7 @@ name: CAMS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#eeefee"
 icons:
   - icon.png
 ---

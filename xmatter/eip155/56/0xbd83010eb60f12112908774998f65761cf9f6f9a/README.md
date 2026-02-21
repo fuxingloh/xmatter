@@ -17,7 +17,7 @@ name: Mogul Stars
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#e4bc5c"
 icons:
   - icon.png
 ---

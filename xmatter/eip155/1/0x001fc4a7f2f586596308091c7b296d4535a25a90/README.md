@@ -8,7 +8,7 @@ name: Hubscop
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#f2f6f4"
 icons:
   - icon.png
 ---

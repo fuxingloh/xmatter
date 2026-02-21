@@ -8,7 +8,7 @@ name: Garlicoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8d868"
+color: "#f4d56a"
 icons:
   - icon.png
 ---

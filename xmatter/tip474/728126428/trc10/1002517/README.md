@@ -8,7 +8,7 @@ name: BUILDER
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#989808"
+color: "#949404"
 icons:
   - icon.png
 ---

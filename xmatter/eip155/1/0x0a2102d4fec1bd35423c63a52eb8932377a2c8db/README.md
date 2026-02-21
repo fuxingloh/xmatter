@@ -6,7 +6,7 @@ name: VIGO Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080858"
+color: "#0e065c"
 icons:
   - icon.png
 ---

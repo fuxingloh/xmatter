@@ -10,7 +10,7 @@ name: FTX Token (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#68d8e8"
+color: "#65d3e3"
 icons:
   - icon.png
 ---

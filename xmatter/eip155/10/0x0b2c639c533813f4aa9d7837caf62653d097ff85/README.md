@@ -16,7 +16,7 @@ name: USD Coin
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#2878c8"
+color: "#2474cb"
 icons:
   - icon.svg
   - icon.png

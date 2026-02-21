@@ -8,7 +8,7 @@ name: SaylorMoon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#f5dbc7"
 icons:
   - icon.png
 ---

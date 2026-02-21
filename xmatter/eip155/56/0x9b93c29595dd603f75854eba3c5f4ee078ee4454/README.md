@@ -8,7 +8,7 @@ name: Strite
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08a8c8"
+color: "#05aad6"
 icons:
   - icon.png
 ---

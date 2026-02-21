@@ -8,7 +8,7 @@ name: AOG
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#a2771b"
 icons:
   - icon.png
 ---

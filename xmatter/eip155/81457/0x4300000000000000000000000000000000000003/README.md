@@ -14,7 +14,7 @@ symbol: USDB
 decimals: 18
 icons:
   - icon.png
-color: "#f8f808"
+color: "#0c0c04"
 ---
 
 Blast's native stablecoin.

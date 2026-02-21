@@ -12,7 +12,7 @@ name: Scrat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#4878b8"
+color: "#447bbb"
 icons:
   - icon.png
 ---

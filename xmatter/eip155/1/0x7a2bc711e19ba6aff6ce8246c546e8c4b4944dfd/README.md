@@ -10,7 +10,7 @@ name: WAXE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#58a828"
+color: "#64c034"
 icons:
   - icon.png
 ---

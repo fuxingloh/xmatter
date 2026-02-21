@@ -18,7 +18,7 @@ name: P2E Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#da2323"
 icons:
   - icon.png
 ---

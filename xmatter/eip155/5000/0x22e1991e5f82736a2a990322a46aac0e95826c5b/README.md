@@ -10,7 +10,7 @@ symbol: BTBTx
 decimals: 18
 icons:
   - icon.png
-color: "#08c8a8"
+color: "#04c3a3"
 ---
 
 Bit Digital xStock

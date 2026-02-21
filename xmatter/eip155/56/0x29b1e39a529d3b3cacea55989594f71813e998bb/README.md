@@ -14,7 +14,7 @@ name: Dexioprotocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#082838"
+color: "#0c2b3c"
 icons:
   - icon.png
 ---

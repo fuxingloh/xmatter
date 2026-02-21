@@ -8,7 +8,7 @@ name: YAM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8e8e8"
+color: "#f3e3eb"
 icons:
   - icon.png
 ---

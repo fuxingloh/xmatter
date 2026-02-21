@@ -8,7 +8,7 @@ name: Mocktail
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#dc18a5"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ symbol: ITP
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#09080f"
 ---
 
 Pushing cross-chain boundaries for seamless DeFi operations. We empower traders with fast cross-chain swaps at the best rates powered by meta DEX aggregation and cross-chain messaging.

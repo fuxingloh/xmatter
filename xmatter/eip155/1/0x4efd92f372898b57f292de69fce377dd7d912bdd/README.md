@@ -14,7 +14,7 @@ name: PayPal (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#082888"
+color: "#ccd5e5"
 icons:
   - icon.png
 ---

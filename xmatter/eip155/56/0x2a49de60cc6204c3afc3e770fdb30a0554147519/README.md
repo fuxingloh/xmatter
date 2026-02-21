@@ -8,7 +8,7 @@ name: LaikaProtocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#180818"
+color: "#dd3c64"
 icons:
   - icon.png
 ---

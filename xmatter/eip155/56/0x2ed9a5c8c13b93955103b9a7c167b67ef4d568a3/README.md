@@ -14,7 +14,7 @@ name: Mask Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1868f8"
+color: "#1c6bf4"
 icons:
   - icon.png
 ---

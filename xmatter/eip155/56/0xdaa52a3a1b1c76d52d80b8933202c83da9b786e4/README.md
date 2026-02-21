@@ -10,7 +10,7 @@ name: Pi Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#382868"
+color: "#422969"
 icons:
   - icon.png
 ---

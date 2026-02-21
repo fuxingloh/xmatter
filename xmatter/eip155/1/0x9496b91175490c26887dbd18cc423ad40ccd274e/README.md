@@ -6,7 +6,7 @@ name: future modern builderbucks
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#5474f4"
 icons:
   - icon.png
 ---

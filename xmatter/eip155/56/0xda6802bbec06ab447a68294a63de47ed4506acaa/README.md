@@ -18,7 +18,7 @@ name: CrypterToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c8f8b8"
+color: "#cbfbbb"
 icons:
   - icon.png
 ---

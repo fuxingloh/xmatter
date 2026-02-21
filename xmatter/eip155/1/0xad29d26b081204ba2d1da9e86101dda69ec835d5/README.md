@@ -6,7 +6,7 @@ name: OBXCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#383848"
+color: "#3c4f63"
 icons:
   - icon.png
 ---

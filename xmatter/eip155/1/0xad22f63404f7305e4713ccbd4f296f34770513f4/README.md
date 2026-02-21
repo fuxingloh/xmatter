@@ -8,7 +8,7 @@ name: Atomic Wallet Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#689ff3"
 icons:
   - icon.png
 ---

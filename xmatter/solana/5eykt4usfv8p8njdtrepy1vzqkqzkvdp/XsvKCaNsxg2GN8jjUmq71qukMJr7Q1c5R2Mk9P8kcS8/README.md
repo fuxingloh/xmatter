@@ -14,7 +14,7 @@ name: Comcast tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#0888c8"
+color: "#078bcb"
 icons:
   - icon.png
 ---

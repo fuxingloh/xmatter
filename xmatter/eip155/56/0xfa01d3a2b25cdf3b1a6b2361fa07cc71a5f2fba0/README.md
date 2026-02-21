@@ -8,7 +8,7 @@ name: Hukku
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#383838"
+color: "#f9d3d1"
 icons:
   - icon.png
 ---

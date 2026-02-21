@@ -8,7 +8,7 @@ name: Traders Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e81838"
+color: "#f01936"
 icons:
   - icon.png
 ---

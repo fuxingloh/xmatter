@@ -14,7 +14,7 @@ name: Covalent X Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#181818"
+color: "#53fb6b"
 icons:
   - icon.svg
   - icon.png

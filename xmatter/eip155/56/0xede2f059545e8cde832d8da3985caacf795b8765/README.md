@@ -8,7 +8,7 @@ name: Ormeus Ecosystem
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#088888"
+color: "#009085"
 icons:
   - icon.png
 ---

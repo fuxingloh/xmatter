@@ -20,7 +20,7 @@ name: Game Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#dfb45d"
 icons:
   - icon.png
 ---

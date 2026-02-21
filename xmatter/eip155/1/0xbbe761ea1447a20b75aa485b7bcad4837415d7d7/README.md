@@ -8,7 +8,7 @@ name: Global Crypto Alliance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#3b79b2"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ name: BIO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#182808"
+color: "#1c2414"
 icons:
   - icon.png
 ---

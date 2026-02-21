@@ -23,7 +23,7 @@ name: Dai
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#f8a838"
+color: "#f4ac34"
 icons:
   - icon.svg
   - icon.png

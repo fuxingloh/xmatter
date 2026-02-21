@@ -10,7 +10,7 @@ symbol: AXS
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#043686"
 ---
 
 Axie Infinity Shards are Axie Infinity's governance token.

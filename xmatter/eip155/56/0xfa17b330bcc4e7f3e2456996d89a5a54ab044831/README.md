@@ -24,7 +24,7 @@ name: Cardence
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080828"
+color: "#62a5b7"
 icons:
   - icon.png
 ---

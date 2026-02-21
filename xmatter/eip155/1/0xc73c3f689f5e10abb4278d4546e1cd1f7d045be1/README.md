@@ -6,7 +6,7 @@ name: Transferencias y Remesas Internacionales
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#383838"
+color: "#454145"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ name: Hive Game Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#4fefda"
 icons:
   - icon.png
 ---

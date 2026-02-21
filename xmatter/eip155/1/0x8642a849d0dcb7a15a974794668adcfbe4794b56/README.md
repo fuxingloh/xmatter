@@ -22,7 +22,7 @@ name: Prosper
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#a4c18e"
 icons:
   - icon.png
 ---

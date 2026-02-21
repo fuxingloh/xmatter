@@ -14,7 +14,7 @@ symbol: MLR
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#e11819"
 ---
 
 lottery blockchain operates fully automatically based on smart contracts

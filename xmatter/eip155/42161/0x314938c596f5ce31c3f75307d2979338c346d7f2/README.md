@@ -15,7 +15,7 @@ name: Bank of America tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1878c8"
+color: "#147cc4"
 icons:
   - icon.png
 ---

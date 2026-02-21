@@ -16,7 +16,7 @@ name: MOBOX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#3780f6"
 icons:
   - icon.png
 ---

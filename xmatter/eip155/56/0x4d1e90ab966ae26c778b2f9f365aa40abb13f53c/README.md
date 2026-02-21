@@ -14,7 +14,7 @@ name: STA TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#e1b954"
 icons:
   - icon.png
 ---

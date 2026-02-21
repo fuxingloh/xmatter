@@ -6,7 +6,7 @@ name: Digital Developers Fund Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#ecab1e"
 icons:
   - icon.png
 ---

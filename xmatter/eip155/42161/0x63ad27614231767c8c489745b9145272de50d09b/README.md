@@ -15,7 +15,7 @@ name: Wrapped Microsoft Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08a8e8"
+color: "#04a3eb"
 icons:
   - icon.png
 ---

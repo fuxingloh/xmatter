@@ -6,7 +6,7 @@ name: Curlva Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0868e8"
+color: "#046ce4"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: PDATA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#281888"
+color: "#34288e"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ name: Honeywell tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#d81838"
+color: "#dc1b33"
 icons:
   - icon.png
 ---

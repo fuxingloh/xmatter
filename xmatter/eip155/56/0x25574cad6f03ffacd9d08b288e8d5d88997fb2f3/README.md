@@ -14,7 +14,7 @@ name: RedFEG
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#181848"
+color: "#e20604"
 icons:
   - icon.png
 ---

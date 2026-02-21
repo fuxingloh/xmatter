@@ -8,7 +8,7 @@ name: Elephant Money
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8b848"
+color: "#ecbc4b"
 icons:
   - icon.png
 ---

@@ -28,7 +28,7 @@ symbol: RISE
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#c43a2e"
 ---
 
 The Original Buyback Token Powering The EverRise Ecosystem. EverRise token (RISE) is a multi-chain collateralized cryptocurrency that protects both the ecosystem and investors with its innovative buyback and staking protocol.

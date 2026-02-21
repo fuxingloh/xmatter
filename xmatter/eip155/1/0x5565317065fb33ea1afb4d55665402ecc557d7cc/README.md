@@ -6,7 +6,7 @@ name: Digger
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#78ce8e"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: Melania Trump
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#280868"
+color: "#502c84"
 icons:
   - icon.png
 ---

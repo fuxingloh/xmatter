@@ -12,7 +12,7 @@ name: Wrapped USD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a89868"
+color: "#fbdb54"
 icons:
   - icon.png
 ---

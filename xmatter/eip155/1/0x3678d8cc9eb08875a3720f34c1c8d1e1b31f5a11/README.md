@@ -8,7 +8,7 @@ name: Obee Network ERC-20
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3848e8"
+color: "#284bec"
 icons:
   - icon.png
 ---

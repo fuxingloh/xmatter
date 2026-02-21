@@ -8,7 +8,7 @@ name: BitUP Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#082838"
+color: "#082038"
 icons:
   - icon.png
 ---

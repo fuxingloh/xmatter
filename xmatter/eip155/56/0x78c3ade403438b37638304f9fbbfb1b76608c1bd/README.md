@@ -12,7 +12,7 @@ name: BinaHero
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#181818"
+color: "#d2c079"
 icons:
   - icon.png
 ---

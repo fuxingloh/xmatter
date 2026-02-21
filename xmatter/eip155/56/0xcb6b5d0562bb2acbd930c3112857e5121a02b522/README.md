@@ -8,7 +8,7 @@ name: Paynshop
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f87818"
+color: "#fb741c"
 icons:
   - icon.png
 ---

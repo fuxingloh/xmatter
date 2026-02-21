@@ -6,7 +6,7 @@ name: TearFiat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#db4f4d"
 icons:
   - icon.png
 ---

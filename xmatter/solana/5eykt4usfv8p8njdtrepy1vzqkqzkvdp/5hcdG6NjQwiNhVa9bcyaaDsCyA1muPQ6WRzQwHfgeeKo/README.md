@@ -10,7 +10,7 @@ name: SWAG Finance (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#08d8b8"
+color: "#07d2bb"
 icons:
   - icon.png
 ---

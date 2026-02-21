@@ -8,7 +8,7 @@ name: DuckDaoDime
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8a828"
+color: "#eca424"
 icons:
   - icon.png
 ---

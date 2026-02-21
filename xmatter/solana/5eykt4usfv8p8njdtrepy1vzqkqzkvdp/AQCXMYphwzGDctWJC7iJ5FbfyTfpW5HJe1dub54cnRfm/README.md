@@ -12,7 +12,7 @@ name: Boss US
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#c81828"
+color: "#221b2e"
 icons:
   - icon.png
 ---

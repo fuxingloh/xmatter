@@ -6,7 +6,7 @@ name: Shreyas
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d8e8e8"
+color: "#d2dee4"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ name: INPA Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486848"
+color: "#d5be83"
 icons:
   - icon.png
 ---

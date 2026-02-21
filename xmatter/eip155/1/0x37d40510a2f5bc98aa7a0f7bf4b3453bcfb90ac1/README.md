@@ -8,7 +8,7 @@ name: Beluga Banking Infrastructure Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#084848"
+color: "#054553"
 icons:
   - icon.png
 ---

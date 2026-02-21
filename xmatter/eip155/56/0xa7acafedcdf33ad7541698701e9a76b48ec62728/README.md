@@ -8,7 +8,7 @@ name: Tadpole
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8d8"
+color: "#fbf3e2"
 icons:
   - icon.png
 ---

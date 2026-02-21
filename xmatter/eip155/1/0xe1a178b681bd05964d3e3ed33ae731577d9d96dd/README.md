@@ -8,7 +8,7 @@ name: BOX Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e84828"
+color: "#f4673a"
 icons:
   - icon.png
 ---

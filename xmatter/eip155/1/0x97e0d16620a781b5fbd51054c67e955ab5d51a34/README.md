@@ -6,7 +6,7 @@ name: NG COIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#f8f000"
 icons:
   - icon.png
 ---

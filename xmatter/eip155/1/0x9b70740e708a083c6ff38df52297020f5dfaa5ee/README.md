@@ -8,7 +8,7 @@ name: Daneel
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0838d8"
+color: "#0444dc"
 icons:
   - icon.png
 ---

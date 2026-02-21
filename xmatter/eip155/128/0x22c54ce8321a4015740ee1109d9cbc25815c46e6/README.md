@@ -12,7 +12,7 @@ symbol: UNI
 decimals: 18
 icons:
   - icon.png
-color: "#f8e8f8"
+color: "#fcecf4"
 ---
 
 UNI token served as governance token for Uniswap protocol with 1 billion UNI have been minted at genesis. 60% of the UNI genesis supply is allocated to Uniswap community members and remaining for team, investors and advisors.

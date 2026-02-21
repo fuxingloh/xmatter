@@ -6,7 +6,7 @@ name: Eternode
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#382878"
+color: "#342a6f"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Iggy Azalea's Dog
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080808"
+color: "#2d321d"
 icons:
   - icon.png
 ---

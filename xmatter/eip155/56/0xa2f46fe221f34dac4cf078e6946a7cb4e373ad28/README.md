@@ -8,7 +8,7 @@ name: BAFI Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#383838"
+color: "#343b33"
 icons:
   - icon.png
 ---

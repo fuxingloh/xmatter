@@ -8,7 +8,7 @@ name: MoneyToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#089898"
+color: "#04949c"
 icons:
   - icon.png
 ---

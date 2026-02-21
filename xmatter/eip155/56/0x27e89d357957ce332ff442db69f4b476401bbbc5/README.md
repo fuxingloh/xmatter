@@ -8,7 +8,7 @@ name: Carma Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#98a8e8"
+color: "#75d0d0"
 icons:
   - icon.png
 ---

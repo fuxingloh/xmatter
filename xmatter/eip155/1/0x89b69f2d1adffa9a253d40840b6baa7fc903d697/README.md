@@ -26,7 +26,7 @@ name: Dione (DIONE)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#582878"
+color: "#3c8abc"
 icons:
   - icon.png
 ---

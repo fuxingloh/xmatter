@@ -8,7 +8,7 @@ name: HINT Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#becff3"
 icons:
   - icon.png
 ---

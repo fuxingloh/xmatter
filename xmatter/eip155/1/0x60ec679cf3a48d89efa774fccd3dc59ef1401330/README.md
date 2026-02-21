@@ -10,7 +10,7 @@ name: NXT Gold
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8a808"
+color: "#4d4c4b"
 icons:
   - icon.png
 ---

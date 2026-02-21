@@ -16,7 +16,7 @@ symbol: MJT
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#14d4ad"
 ---
 
 MJT (MojitoToken) is the native token of MojitoSwap, with a total circulation of 100,000,000. MJT is a practical and governance token with rich application scenarios. Holding MJT can not only allow investors to participate in liquidity mining and borrow money to obtain rewards, but also make them owning the governance rights of the future Mojito DAO organization.

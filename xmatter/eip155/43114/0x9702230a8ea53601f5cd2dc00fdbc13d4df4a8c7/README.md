@@ -18,7 +18,7 @@ name: TetherToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#28a878"
+color: "#23a37b"
 icons:
   - icon.png
 ---

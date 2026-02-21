@@ -12,7 +12,7 @@ name: Mini Donald
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#bf9582"
 icons:
   - icon.png
 ---

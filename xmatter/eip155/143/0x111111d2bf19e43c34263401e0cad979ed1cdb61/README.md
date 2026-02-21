@@ -14,7 +14,7 @@ symbol: USD1
 decimals: 6
 icons:
   - icon.png
-color: "#c88808"
+color: "#bf7a04"
 ---
 
 USD1 is a fiat-backed digital asset, designed to maintain a 1:1 equivalence with the U.S. dollar.

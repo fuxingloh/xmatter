@@ -6,7 +6,7 @@ name: ETHEREUMtoken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8c818"
+color: "#f4c720"
 icons:
   - icon.png
 ---

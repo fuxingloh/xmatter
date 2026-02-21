@@ -8,7 +8,7 @@ name: AMO Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#384878"
+color: "#3c4b7a"
 icons:
   - icon.png
 ---

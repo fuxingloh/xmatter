@@ -12,7 +12,7 @@ symbol: DAI-HECO
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#fcb831"
 ---
 
 Multi-Collateral Dai, brings a lot of new and exciting features, such as support for new CDP collateral types and Dai Savings Rate.

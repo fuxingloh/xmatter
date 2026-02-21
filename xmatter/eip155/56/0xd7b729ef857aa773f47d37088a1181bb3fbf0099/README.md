@@ -8,7 +8,7 @@ name: OLD BOG Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8c818"
+color: "#fcc313"
 icons:
   - icon.png
 ---

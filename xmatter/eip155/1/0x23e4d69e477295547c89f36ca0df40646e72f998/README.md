@@ -6,7 +6,7 @@ name: Blend
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#fb673c"
 icons:
   - icon.png
 ---

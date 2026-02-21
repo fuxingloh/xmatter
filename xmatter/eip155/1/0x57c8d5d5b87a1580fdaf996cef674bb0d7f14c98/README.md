@@ -8,7 +8,7 @@ name: OdinBrowser
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#33488d"
 icons:
   - icon.png
 ---

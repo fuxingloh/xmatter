@@ -12,7 +12,7 @@ name: TBCC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#18a6e1"
 icons:
   - icon.png
 ---

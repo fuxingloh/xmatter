@@ -12,7 +12,7 @@ name: PIP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#0838e8"
+color: "#043ceb"
 icons:
   - icon.png
 ---

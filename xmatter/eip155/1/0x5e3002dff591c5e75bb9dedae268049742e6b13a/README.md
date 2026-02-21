@@ -8,7 +8,7 @@ name: TudaToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#31a1b9"
 icons:
   - icon.png
 ---

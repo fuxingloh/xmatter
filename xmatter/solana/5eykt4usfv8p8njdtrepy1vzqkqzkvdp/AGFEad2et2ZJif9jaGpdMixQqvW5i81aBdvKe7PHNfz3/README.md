@@ -19,7 +19,7 @@ name: Wrapped FTX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#082878"
+color: "#6ed2e1"
 icons:
   - icon.png
 ---

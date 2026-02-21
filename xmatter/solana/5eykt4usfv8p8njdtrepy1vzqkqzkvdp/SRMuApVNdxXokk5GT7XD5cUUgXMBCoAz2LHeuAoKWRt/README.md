@@ -14,7 +14,7 @@ name: Serum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080808"
+color: "#16b2cb"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ symbol: ELDE
 decimals: 18
 icons:
   - icon.png
-color: "#f8c818"
+color: "#fbc314"
 ---
 
 Elderglade is a next-generation Web3 fantasy game ecosystem that combines two of gaming's most successful genres: casual mobile games and MMORPGs, powered by ELDE token.

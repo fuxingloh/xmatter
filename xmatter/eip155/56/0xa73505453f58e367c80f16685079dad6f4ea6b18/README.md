@@ -18,7 +18,7 @@ name: UnderMineGold
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#181818"
+color: "#d7be67"
 icons:
   - icon.png
 ---

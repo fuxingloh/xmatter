@@ -8,7 +8,7 @@ name: Meong Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08b8a8"
+color: "#05baa3"
 icons:
   - icon.png
 ---

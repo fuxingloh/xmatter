@@ -14,7 +14,7 @@ name: PizzaSwap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8d888"
+color: "#fbd282"
 icons:
   - icon.png
 ---

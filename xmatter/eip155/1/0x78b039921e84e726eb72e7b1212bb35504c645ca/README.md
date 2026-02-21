@@ -8,7 +8,7 @@ name: Sether
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d9b19c"
 icons:
   - icon.png
 ---

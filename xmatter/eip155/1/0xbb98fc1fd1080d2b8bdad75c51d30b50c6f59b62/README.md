@@ -6,7 +6,7 @@ name: PYGOZ
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8e8c8"
+color: "#f1e6c0"
 icons:
   - icon.png
 ---

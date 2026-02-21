@@ -14,7 +14,7 @@ name: Wrapped ABBC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f89808"
+color: "#f99c07"
 icons:
   - icon.png
 ---

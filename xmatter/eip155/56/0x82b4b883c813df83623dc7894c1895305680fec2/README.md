@@ -8,7 +8,7 @@ name: IceBreak-R Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2878b8"
+color: "#1e8fbf"
 icons:
   - icon.png
 ---

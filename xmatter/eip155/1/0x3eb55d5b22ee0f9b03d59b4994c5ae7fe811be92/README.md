@@ -8,7 +8,7 @@ name: Tratin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#34a6d8"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: EXSERION
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#c3b89d"
 icons:
   - icon.png
 ---

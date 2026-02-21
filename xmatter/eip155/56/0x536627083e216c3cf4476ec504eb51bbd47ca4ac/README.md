@@ -16,7 +16,7 @@ name: GamingDoge
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#281818"
+color: "#e0a012"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: SNAP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#d8b8d8"
+color: "#dcbcdb"
 icons:
   - icon.png
 ---

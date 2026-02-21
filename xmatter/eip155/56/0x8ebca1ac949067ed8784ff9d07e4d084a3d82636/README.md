@@ -8,7 +8,7 @@ name: Fuck$ Finance v2.0
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d4917f"
 icons:
   - icon.png
 ---

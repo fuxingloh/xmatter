@@ -8,7 +8,7 @@ name: AMGO - Arena Match Gold
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#f1cc63"
 icons:
   - icon.png
 ---

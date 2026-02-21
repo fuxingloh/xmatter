@@ -6,7 +6,7 @@ name: Clubfungus
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d0e0cb"
 icons:
   - icon.png
 ---

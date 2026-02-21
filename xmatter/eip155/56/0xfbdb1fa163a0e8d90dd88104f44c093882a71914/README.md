@@ -20,7 +20,7 @@ name: FRZ Solar System Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486848"
+color: "#3ba9d2"
 icons:
   - icon.png
 ---

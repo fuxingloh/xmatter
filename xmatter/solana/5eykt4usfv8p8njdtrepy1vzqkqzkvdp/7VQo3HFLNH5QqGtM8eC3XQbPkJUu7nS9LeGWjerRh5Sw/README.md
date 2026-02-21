@@ -10,7 +10,7 @@ name: HUSD Stablecoin (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#0858f8"
+color: "#b96789"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: USDf
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#b1b4d1"
 icons:
   - icon.png
 ---

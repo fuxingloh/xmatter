@@ -10,7 +10,7 @@ name: Blockiichain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c8d8d8"
+color: "#cbd4d0"
 icons:
   - icon.png
 ---

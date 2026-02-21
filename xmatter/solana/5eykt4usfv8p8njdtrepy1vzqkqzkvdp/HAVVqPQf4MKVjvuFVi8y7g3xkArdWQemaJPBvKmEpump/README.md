@@ -12,7 +12,7 @@ name: Kekius Maximus
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#382838"
+color: "#352732"
 icons:
   - icon.png
 ---

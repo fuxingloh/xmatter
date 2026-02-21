@@ -20,7 +20,7 @@ name: Only 1 Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080818"
+color: "#100e1e"
 icons:
   - icon.png
 ---

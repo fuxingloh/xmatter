@@ -8,7 +8,7 @@ name: Tether DeFi (USDD)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#c9dcda"
 icons:
   - icon.png
 ---

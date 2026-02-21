@@ -14,7 +14,7 @@ name: Staked USDS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#f283b9"
 icons:
   - icon.png
 ---

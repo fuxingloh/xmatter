@@ -6,7 +6,7 @@ name: Aurora DAO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#649ae5"
 icons:
   - icon.png
 ---

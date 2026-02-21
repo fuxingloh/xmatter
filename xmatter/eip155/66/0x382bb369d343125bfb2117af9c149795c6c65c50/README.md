@@ -10,7 +10,7 @@ symbol: USDT
 decimals: 18
 icons:
   - icon.png
-color: "#28a878"
+color: "#24a47c"
 ---
 
 Tether (USDT) is a cryptocurrency mirroring the value of the U.S. dollar.

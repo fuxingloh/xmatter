@@ -8,7 +8,7 @@ name: ArtFinity
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#187848"
+color: "#1b7848"
 icons:
   - icon.png
 ---

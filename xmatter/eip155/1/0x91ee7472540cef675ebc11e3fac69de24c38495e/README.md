@@ -6,7 +6,7 @@ name: XAVIA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#cc891a"
 icons:
   - icon.png
 ---

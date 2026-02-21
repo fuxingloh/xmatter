@@ -8,7 +8,7 @@ name: Oven
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d34c2b"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: TAM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8b808"
+color: "#ffba00"
 icons:
   - icon.png
 ---

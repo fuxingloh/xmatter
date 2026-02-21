@@ -8,7 +8,7 @@ name: ArcBlock
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#080808"
+color: "#1dcecf"
 icons:
   - icon.svg
   - icon.png

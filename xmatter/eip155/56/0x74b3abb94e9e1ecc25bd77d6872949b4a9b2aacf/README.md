@@ -8,7 +8,7 @@ name: DeFireX on BSC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#1ea84a"
 icons:
   - icon.png
 ---

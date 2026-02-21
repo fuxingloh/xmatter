@@ -6,7 +6,7 @@ name: FIB
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#987828"
+color: "#aa8a38"
 icons:
   - icon.png
 ---

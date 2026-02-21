@@ -14,7 +14,7 @@ symbol: JUICE
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#050406"
 ---
 
 Juice Finance, is a leading disruptive Cross-Margin DeFi protocol built on the Blast L2. At its core, Juice innovates with cross-margin lending features, integrating seamlessly with Blast’s unique rebasing tokens and ecosystem ethos.

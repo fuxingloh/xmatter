@@ -12,7 +12,7 @@ name: littlemanyu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8e8d8"
+color: "#ded3bd"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Magaverse
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#e8e8e8"
+color: "#21345f"
 icons:
   - icon.png
 ---

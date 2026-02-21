@@ -6,7 +6,7 @@ name: SkyWay Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#78c8f8"
+color: "#1c5a95"
 icons:
   - icon.png
 ---

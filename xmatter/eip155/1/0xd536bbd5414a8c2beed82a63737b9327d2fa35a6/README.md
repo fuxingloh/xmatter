@@ -8,7 +8,7 @@ name: Aitheon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#181818"
+color: "#171716"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Sallar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#281828"
+color: "#0cf1be"
 icons:
   - icon.png
 ---

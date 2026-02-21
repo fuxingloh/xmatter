@@ -6,7 +6,7 @@ name: TronWow
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#080808"
+color: "#b58a26"
 icons:
   - icon.png
 ---

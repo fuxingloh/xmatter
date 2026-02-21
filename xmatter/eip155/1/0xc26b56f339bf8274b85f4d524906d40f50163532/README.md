@@ -8,7 +8,7 @@ name: ASHTONIUM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d59462"
 icons:
   - icon.png
 ---

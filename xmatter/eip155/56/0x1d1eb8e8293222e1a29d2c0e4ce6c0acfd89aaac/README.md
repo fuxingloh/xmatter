@@ -8,7 +8,7 @@ name: Hakka Finance on xDai on BSC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#085828"
+color: "#005828"
 icons:
   - icon.png
 ---

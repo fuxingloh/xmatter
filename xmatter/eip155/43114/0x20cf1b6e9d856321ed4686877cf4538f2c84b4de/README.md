@@ -30,7 +30,7 @@ name: Ankr Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3868f8"
+color: "#3068f0"
 icons:
   - icon.svg
   - icon.png

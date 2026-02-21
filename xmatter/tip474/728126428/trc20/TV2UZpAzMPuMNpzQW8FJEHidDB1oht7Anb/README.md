@@ -6,7 +6,7 @@ name: DXAToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#080808"
+color: "#fbefb9"
 icons:
   - icon.png
 ---

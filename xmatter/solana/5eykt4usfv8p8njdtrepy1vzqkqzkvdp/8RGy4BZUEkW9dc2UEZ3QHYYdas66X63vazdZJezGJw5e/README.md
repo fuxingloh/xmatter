@@ -10,7 +10,7 @@ name: bul
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f83838"
+color: "#f83a3b"
 icons:
   - icon.png
 ---

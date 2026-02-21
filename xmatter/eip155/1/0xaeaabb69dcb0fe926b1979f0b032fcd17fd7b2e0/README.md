@@ -8,7 +8,7 @@ name: CYBR - Cyber Security Ecosystem Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#1e3060"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: CloudWalkCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#185888"
+color: "#1c5b83"
 icons:
   - icon.png
 ---

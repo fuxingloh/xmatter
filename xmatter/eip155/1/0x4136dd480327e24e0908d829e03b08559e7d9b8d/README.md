@@ -6,7 +6,7 @@ name: Pirate Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8d888"
+color: "#d7b56a"
 icons:
   - icon.png
 ---

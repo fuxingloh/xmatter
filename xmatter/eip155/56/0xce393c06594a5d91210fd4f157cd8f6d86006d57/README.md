@@ -8,7 +8,7 @@ name: Aqua Pig
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ed7c3c"
 icons:
   - icon.png
 ---

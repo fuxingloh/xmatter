@@ -8,7 +8,7 @@ name: Verify Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#64b454"
 icons:
   - icon.png
 ---

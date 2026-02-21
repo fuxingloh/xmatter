@@ -12,7 +12,7 @@ symbol: scUSD
 decimals: 6
 icons:
   - icon.png
-color: "#8888d8"
+color: "#957bde"
 ---
 
 A scalable yield-bearing stablecoin inspired by Solidly on Sonic.

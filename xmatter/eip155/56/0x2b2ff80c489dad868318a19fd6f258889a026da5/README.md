@@ -23,7 +23,7 @@ name: DEXIT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#2e9ef9"
 icons:
   - icon.png
 ---

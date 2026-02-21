@@ -14,7 +14,7 @@ name: srnArtGallery
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#18ba54"
 icons:
   - icon.png
 ---

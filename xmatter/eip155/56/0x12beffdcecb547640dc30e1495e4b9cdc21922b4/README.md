@@ -10,7 +10,7 @@ name: Serum (Portal from Solana)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#3fc2d6"
 icons:
   - icon.png
 ---

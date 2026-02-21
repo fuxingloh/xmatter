@@ -8,7 +8,7 @@ name: BELIEVER
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#780808"
+color: "#7b0404"
 icons:
   - icon.png
 ---

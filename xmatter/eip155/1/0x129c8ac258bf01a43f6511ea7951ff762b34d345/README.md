@@ -6,7 +6,7 @@ name: BitcoinMoon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1888c8"
+color: "#1f71b3"
 icons:
   - icon.png
 ---

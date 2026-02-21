@@ -16,7 +16,7 @@ name: Matic-Peg Stream
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#db2c2c"
 icons:
   - icon.png
 ---

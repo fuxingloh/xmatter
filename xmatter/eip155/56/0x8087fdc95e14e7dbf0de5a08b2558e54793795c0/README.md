@@ -12,7 +12,7 @@ name: Binance&#39;s dog
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#181818"
+color: "#272826"
 icons:
   - icon.png
 ---

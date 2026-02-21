@@ -14,7 +14,7 @@ name: Novo Nordisk (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081868"
+color: "#081f67"
 icons:
   - icon.png
 ---

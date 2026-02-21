@@ -12,7 +12,7 @@ name: Metaplex
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#b8b8b8"
+color: "#c1c0c1"
 icons:
   - icon.png
 ---

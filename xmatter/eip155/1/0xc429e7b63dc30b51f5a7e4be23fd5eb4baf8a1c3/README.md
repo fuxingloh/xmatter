@@ -6,7 +6,7 @@ name: Bitibu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5838a8"
+color: "#5b34a4"
 icons:
   - icon.png
 ---

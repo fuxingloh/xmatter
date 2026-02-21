@@ -10,7 +10,7 @@ name: Degen Spartan AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080808"
+color: "#3e2e22"
 icons:
   - icon.png
 ---

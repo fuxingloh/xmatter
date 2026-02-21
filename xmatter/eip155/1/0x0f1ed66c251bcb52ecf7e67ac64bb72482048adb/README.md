@@ -8,7 +8,7 @@ name: SEER-ERC20-Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#3cbc8c"
 icons:
   - icon.png
 ---

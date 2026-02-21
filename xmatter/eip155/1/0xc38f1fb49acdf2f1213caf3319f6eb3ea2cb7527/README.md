@@ -8,7 +8,7 @@ name: Bitcoinus Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#58a8d8"
+color: "#5ba7da"
 icons:
   - icon.png
 ---

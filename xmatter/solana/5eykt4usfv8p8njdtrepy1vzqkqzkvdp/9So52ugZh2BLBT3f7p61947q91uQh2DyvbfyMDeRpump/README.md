@@ -12,7 +12,7 @@ name: Musk It
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080808"
+color: "#171714"
 icons:
   - icon.png
 ---

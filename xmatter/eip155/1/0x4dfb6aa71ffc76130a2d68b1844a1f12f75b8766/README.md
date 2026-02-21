@@ -6,7 +6,7 @@ name: Geissbühler Weber & Partner Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#2c749c"
 icons:
   - icon.png
 ---

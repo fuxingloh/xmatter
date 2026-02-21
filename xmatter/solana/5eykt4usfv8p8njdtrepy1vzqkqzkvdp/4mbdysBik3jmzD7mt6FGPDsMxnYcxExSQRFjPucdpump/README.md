@@ -12,7 +12,7 @@ name: tsotchke
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080808"
+color: "#171717"
 icons:
   - icon.png
 ---

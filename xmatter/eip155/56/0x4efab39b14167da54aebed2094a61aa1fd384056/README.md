@@ -8,7 +8,7 @@ name: LEOPARD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8d8b8"
+color: "#f8e2c4"
 icons:
   - icon.png
 ---

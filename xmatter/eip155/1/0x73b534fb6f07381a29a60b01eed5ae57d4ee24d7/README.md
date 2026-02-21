@@ -6,7 +6,7 @@ name: SENDERON
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#e85d22"
 icons:
   - icon.png
 ---

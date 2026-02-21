@@ -14,7 +14,7 @@ name: RABBIT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8d8"
+color: "#f9eecf"
 icons:
   - icon.png
 ---

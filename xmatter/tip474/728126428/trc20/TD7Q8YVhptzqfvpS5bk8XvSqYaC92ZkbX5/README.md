@@ -10,7 +10,7 @@ symbol: VTx
 decimals: 18
 icons:
   - icon.png
-color: "#981818"
+color: "#8b131a"
 ---
 
 Vanguard Total World xStock

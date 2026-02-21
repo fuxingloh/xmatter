@@ -6,7 +6,7 @@ name: Movement DAO Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#88a8a8"
+color: "#93b3ab"
 icons:
   - icon.png
 ---

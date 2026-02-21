@@ -22,7 +22,7 @@ name: Fuse Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b8f8b8"
+color: "#b3fbbb"
 icons:
   - icon.png
 ---

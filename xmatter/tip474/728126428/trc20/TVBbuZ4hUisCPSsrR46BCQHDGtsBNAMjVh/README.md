@@ -12,7 +12,7 @@ symbol: QQQx
 decimals: 18
 icons:
   - icon.png
-color: "#184858"
+color: "#13474f"
 ---
 
 Nasdaq xStock

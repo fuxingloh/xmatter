@@ -8,7 +8,7 @@ name: GRAP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#9363cb"
 icons:
   - icon.png
 ---

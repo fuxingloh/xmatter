@@ -16,7 +16,7 @@ name: Sensay
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8e8"
+color: "#fbf3e3"
 icons:
   - icon.png
 ---

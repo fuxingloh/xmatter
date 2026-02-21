@@ -20,7 +20,7 @@ symbol: BIFI
 decimals: 18
 icons:
   - icon.png
-color: "#f8e8e8"
+color: "#070707"
 ---
 
 The Multichain Yield Optimizer

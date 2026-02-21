@@ -12,7 +12,7 @@ name: Pigeon Tech
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#cdcdcd"
 icons:
   - icon.png
 ---

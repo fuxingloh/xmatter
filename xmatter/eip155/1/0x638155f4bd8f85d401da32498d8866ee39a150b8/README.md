@@ -14,7 +14,7 @@ name: Jura
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#266bc0"
 icons:
   - icon.png
 ---

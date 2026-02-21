@@ -8,7 +8,7 @@ name: TrueHKD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d82808"
+color: "#d11a09"
 icons:
   - icon.png
 ---

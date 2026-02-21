@@ -8,7 +8,7 @@ name: Hunny Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f808f8"
+color: "#eed0d4"
 icons:
   - icon.png
 ---

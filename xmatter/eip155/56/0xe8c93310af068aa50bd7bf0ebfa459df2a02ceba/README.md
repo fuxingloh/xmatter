@@ -27,7 +27,7 @@ name: HoneyMoon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#fbf4c5"
 icons:
   - icon.png
 ---

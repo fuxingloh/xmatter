@@ -14,7 +14,7 @@ name: Amber tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#686868"
+color: "#656565"
 icons:
   - icon.png
 ---

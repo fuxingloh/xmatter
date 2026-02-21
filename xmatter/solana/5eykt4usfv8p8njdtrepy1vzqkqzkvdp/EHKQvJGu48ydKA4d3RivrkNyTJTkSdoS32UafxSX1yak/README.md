@@ -10,7 +10,7 @@ name: Ampleforth (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#486878"
+color: "#c75071"
 icons:
   - icon.png
 ---

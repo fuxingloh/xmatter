@@ -14,7 +14,7 @@ name: IBM (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0828a8"
+color: "#cbd4ec"
 icons:
   - icon.png
 ---

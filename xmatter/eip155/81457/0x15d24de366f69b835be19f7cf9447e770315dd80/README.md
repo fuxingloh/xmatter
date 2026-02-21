@@ -12,7 +12,7 @@ symbol: KAP
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#e0f804"
 ---
 
 KAP Games is a web3 gaming publisher, studio, and distributor specializing in browser and mobile-native experiences.

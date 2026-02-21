@@ -8,7 +8,7 @@ name: What Do You Meme Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#f9c92c"
 icons:
   - icon.png
 ---

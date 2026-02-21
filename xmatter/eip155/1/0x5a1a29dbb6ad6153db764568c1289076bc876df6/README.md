@@ -8,7 +8,7 @@ name: NeworkCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#181848"
+color: "#141c43"
 icons:
   - icon.png
 ---

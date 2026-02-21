@@ -12,7 +12,7 @@ name: Skibidi Toilet
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#b8b898"
+color: "#4b402f"
 icons:
   - icon.png
 ---

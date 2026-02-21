@@ -15,7 +15,7 @@ name: iShares Core US Aggregate Bond ETF (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#084828"
+color: "#d3e4cd"
 icons:
   - icon.png
 ---

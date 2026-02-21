@@ -24,7 +24,7 @@ symbol: claimRISE
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#cd4231"
 ---
 
 Virtual token that allows unclaimed rewards from EverRise Staking NFTs and its Vote Escrowed (ve) EverRise to display in wallet balances.

@@ -6,7 +6,7 @@ name: yam.gold
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8d808"
+color: "#f9d216"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Eggdog
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#a8b8b8"
+color: "#a7b2b3"
 icons:
   - icon.png
 ---

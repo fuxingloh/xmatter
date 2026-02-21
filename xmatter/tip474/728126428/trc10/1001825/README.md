@@ -6,7 +6,7 @@ name: CYBER
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#f8f8f8"
+color: "#f4f6f6"
 icons:
   - icon.png
 ---

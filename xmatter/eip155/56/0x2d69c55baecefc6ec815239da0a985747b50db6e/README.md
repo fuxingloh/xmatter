@@ -8,7 +8,7 @@ name: Tutti Frutti
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8c818"
+color: "#e5c825"
 icons:
   - icon.png
 ---

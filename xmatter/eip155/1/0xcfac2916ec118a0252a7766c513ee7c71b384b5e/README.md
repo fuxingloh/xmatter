@@ -8,7 +8,7 @@ name: HoryouToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d89838"
+color: "#d5943d"
 icons:
   - icon.png
 ---

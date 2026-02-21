@@ -6,7 +6,7 @@ name: 451PCBCOM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#080808"
+color: "#040505"
 icons:
   - icon.png
 ---

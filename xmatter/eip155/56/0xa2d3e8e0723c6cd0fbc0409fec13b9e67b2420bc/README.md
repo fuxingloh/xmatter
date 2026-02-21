@@ -8,7 +8,7 @@ name: NFTShiba.Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#e6c27c"
 icons:
   - icon.png
 ---

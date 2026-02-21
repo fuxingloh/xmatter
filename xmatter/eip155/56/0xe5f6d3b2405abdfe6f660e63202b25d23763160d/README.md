@@ -14,7 +14,7 @@ name: Gamestop tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f80808"
+color: "#fb0404"
 icons:
   - icon.png
 ---

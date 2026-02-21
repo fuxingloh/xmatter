@@ -6,7 +6,7 @@ name: Leber Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#34348c"
 icons:
   - icon.png
 ---

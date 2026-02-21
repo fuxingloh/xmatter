@@ -20,7 +20,7 @@ name: FqSwap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#f72d72"
 icons:
   - icon.png
 ---

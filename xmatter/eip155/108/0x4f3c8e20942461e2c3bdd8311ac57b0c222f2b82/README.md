@@ -14,7 +14,7 @@ symbol: TT-USDT
 decimals: 6
 icons:
   - icon.png
-color: "#58a898"
+color: "#54ac94"
 ---
 
 Bridged token of USDT on ThunderCore blockchain. The Bridge allows users to convert assets between Ethereum, BSC, HECO and ThunderCore. This is a customized version of POA network Bridge

@@ -12,7 +12,7 @@ symbol: MKR
 decimals: 18
 icons:
   - icon.png
-color: "#58b8a8"
+color: "#5cbbab"
 ---
 
 Maker is a Decentralized Autonomous Organization that creates and insures the dai stablecoin on the Ethereum blockchain

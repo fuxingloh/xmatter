@@ -14,7 +14,7 @@ name: OFFICIAL TRUMP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#1f1c18"
 icons:
   - icon.png
 ---

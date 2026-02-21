@@ -8,7 +8,7 @@ name: SafeFinance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#44acec"
 icons:
   - icon.png
 ---

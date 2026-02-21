@@ -21,7 +21,7 @@ name: MUSO Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#f38f08"
 icons:
   - icon.png
 ---

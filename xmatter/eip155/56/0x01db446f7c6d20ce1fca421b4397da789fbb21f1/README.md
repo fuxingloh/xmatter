@@ -18,7 +18,7 @@ name: Doge King
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ae570b"
 icons:
   - icon.png
 ---

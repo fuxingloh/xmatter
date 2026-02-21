@@ -8,7 +8,7 @@ name: The Great Wave
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#183878"
+color: "#c2dbdd"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: CHAD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8c8e8"
+color: "#eebfd9"
 icons:
   - icon.png
 ---

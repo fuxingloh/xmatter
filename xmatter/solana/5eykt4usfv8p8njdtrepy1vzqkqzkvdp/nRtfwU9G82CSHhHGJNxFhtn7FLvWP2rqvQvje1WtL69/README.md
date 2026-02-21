@@ -10,7 +10,7 @@ name: Celsius (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#486878"
+color: "#f49c43"
 icons:
   - icon.png
 ---

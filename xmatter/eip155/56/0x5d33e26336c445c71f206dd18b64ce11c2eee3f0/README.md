@@ -28,7 +28,7 @@ name: NFTStyle
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#e4703d"
 icons:
   - icon.png
 ---

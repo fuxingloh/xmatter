@@ -8,7 +8,7 @@ name: Fox Trading
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081848"
+color: "#f9af61"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Levolution.io Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#aea8ae"
 icons:
   - icon.png
 ---

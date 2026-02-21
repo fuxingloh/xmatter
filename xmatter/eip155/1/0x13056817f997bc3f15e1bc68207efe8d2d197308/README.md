@@ -6,7 +6,7 @@ name: CXKJ
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#58e8b8"
+color: "#4cd6d3"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Nitro
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8e888"
+color: "#edd58d"
 icons:
   - icon.png
 ---

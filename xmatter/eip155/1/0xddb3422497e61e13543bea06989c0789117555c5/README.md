@@ -10,7 +10,7 @@ name: COTI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#bdd5e1"
 icons:
   - icon.png
 ---

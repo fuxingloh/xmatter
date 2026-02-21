@@ -12,7 +12,7 @@ name: Apu Apustaja
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#588838"
+color: "#5f873f"
 icons:
   - icon.svg
   - icon.png

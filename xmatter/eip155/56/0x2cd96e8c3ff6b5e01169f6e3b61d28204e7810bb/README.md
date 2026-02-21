@@ -16,7 +16,7 @@ name: LuckyBlock
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#6b4f18"
 icons:
   - icon.png
 ---

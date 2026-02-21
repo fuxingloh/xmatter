@@ -8,7 +8,7 @@ name: NCAT Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d87898"
+color: "#e27d94"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: CONUN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#cfb124"
 icons:
   - icon.png
 ---

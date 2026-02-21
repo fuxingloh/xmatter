@@ -16,7 +16,7 @@ name: Planet
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#9b3ef3"
 icons:
   - icon.png
 ---

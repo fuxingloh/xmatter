@@ -12,7 +12,7 @@ name: Shrimp.Finance(SHRIMP)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#df493b"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: Moby AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#d8e8d8"
+color: "#d6e5da"
 icons:
   - icon.png
 ---

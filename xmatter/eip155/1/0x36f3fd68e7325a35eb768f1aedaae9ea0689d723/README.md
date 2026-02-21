@@ -12,7 +12,7 @@ name: Empty Set Dollar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#382838"
+color: "#342c34"
 icons:
   - icon.png
 ---

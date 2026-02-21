@@ -18,7 +18,7 @@ name: The Doge World
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#1b2030"
 icons:
   - icon.png
 ---

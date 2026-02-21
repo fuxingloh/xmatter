@@ -14,7 +14,7 @@ name: ZooToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#5aa0f7"
 icons:
   - icon.png
 ---

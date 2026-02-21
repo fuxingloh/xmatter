@@ -8,7 +8,7 @@ name: Sharpay
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f89838"
+color: "#f89830"
 icons:
   - icon.png
 ---

@@ -20,7 +20,7 @@ name: TXGPRO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#282828"
+color: "#d0ab51"
 icons:
   - icon.png
 ---

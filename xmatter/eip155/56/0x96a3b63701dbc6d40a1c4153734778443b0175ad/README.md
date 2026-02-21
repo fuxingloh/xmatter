@@ -12,7 +12,7 @@ name: CAKEDOG
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8b818"
+color: "#f5b11f"
 icons:
   - icon.png
 ---

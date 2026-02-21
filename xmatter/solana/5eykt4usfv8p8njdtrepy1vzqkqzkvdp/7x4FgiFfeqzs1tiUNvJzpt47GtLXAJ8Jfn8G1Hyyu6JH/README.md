@@ -12,7 +12,7 @@ name: Smilek
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8b808"
+color: "#fbbf0d"
 icons:
   - icon.png
 ---

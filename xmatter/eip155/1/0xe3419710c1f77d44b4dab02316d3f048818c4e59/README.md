@@ -14,7 +14,7 @@ name: Qualcomm (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3858d8"
+color: "#3353dc"
 icons:
   - icon.png
 ---

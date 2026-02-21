@@ -8,7 +8,7 @@ name: AeroToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#dc692f"
 icons:
   - icon.png
 ---

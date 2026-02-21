@@ -12,7 +12,7 @@ name: POPCAT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#e8d8d8"
+color: "#5c3f35"
 icons:
   - icon.png
 ---

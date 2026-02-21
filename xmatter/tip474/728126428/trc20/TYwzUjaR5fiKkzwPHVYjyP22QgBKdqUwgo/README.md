@@ -10,7 +10,7 @@ name: Meow Meow
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#080808"
+color: "#fae3db"
 icons:
   - icon.png
 ---

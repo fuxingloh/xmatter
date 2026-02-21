@@ -6,7 +6,7 @@ name: POINT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#f8d838"
+color: "#fbda3d"
 icons:
   - icon.png
 ---

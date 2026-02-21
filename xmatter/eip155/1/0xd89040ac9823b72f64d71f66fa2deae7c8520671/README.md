@@ -8,7 +8,7 @@ name: NewSolution
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#411573"
 icons:
   - icon.png
 ---

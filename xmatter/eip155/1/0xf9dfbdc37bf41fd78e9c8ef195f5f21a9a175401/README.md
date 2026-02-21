@@ -6,7 +6,7 @@ name: istanbul
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#1b3465"
 icons:
   - icon.png
 ---

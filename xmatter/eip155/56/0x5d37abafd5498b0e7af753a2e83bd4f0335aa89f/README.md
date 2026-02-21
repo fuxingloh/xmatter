@@ -10,7 +10,7 @@ name: WECOIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#58e8f8"
+color: "#5bf2fb"
 icons:
   - icon.png
 ---

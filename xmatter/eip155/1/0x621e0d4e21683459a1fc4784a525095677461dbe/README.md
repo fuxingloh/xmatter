@@ -6,7 +6,7 @@ name: wetoken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4808f8"
+color: "#440cfc"
 icons:
   - icon.png
 ---

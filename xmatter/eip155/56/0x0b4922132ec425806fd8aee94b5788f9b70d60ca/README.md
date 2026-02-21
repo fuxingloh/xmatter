@@ -8,7 +8,7 @@ name: HyperDeflate
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7838b8"
+color: "#dbe245"
 icons:
   - icon.png
 ---

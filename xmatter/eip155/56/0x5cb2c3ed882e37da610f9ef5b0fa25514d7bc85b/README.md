@@ -31,7 +31,7 @@ name: Mouse Haunt Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080828"
+color: "#c071eb"
 icons:
   - icon.png
 ---

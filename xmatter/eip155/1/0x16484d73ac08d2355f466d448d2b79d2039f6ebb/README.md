@@ -28,7 +28,7 @@ name: FortKnoxster
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3878f8"
+color: "#3474fc"
 icons:
   - icon.png
 ---

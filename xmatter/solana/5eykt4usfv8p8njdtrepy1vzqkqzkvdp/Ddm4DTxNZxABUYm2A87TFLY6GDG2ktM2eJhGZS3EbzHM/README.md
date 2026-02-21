@@ -10,7 +10,7 @@ name: DISTRIBUTE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#181818"
+color: "#8852f1"
 icons:
   - icon.png
 ---

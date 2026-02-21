@@ -18,7 +18,7 @@ symbol: WETH
 decimals: 18
 icons:
   - icon.png
-color: "#5878e8"
+color: "#d2ddfa"
 ---
 
 wETH is 'wrapped ETH'

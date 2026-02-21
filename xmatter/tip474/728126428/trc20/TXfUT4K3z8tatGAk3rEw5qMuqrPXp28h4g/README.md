@@ -6,7 +6,7 @@ name: DLIToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#38c8f8"
+color: "#e8f7f3"
 icons:
   - icon.png
 ---

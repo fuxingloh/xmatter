@@ -8,7 +8,7 @@ name: Useless Ethereum Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#288888"
+color: "#238b8b"
 icons:
   - icon.png
 ---

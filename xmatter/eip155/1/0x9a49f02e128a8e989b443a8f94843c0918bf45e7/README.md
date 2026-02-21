@@ -8,7 +8,7 @@ name: TOKOK
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f86828"
+color: "#f46b2d"
 icons:
   - icon.png
 ---

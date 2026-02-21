@@ -14,7 +14,7 @@ name: Catvills Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#181818"
+color: "#1f1e1d"
 icons:
   - icon.png
 ---

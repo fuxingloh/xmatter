@@ -6,7 +6,7 @@ name: TronInvestGroup
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#182828"
+color: "#2d3743"
 icons:
   - icon.png
 ---

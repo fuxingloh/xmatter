@@ -8,7 +8,7 @@ name: UltimateToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#182838"
+color: "#202837"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Euros
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#083898"
+color: "#04349c"
 icons:
   - icon.png
 ---

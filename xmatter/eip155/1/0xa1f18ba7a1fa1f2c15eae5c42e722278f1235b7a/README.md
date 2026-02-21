@@ -6,7 +6,7 @@ name: ESCX Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#e9202e"
 icons:
   - icon.png
 ---

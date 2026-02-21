@@ -8,7 +8,7 @@ name: BitStash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#082878"
+color: "#042b7b"
 icons:
   - icon.png
 ---

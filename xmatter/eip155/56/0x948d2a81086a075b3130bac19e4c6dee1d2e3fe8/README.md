@@ -18,7 +18,7 @@ name: Helmet.insure Governance Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#080705"
 icons:
   - icon.png
 ---

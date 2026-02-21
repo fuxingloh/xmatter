@@ -8,7 +8,7 @@ name: ExhibitToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#2cace4"
 icons:
   - icon.png
 ---

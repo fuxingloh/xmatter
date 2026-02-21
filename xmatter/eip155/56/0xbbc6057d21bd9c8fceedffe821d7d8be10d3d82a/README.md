@@ -10,7 +10,7 @@ name: FistToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8c818"
+color: "#faf9e4"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: YFN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#154ca3"
 icons:
   - icon.png
 ---

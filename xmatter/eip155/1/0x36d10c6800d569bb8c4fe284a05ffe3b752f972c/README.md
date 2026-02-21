@@ -8,7 +8,7 @@ name: We Show Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ea7d59"
 icons:
   - icon.png
 ---

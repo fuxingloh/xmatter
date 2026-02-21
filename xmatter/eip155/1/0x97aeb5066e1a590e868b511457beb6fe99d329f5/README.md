@@ -8,7 +8,7 @@ name: Atonomi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2898d8"
+color: "#edf9fa"
 icons:
   - icon.png
 ---

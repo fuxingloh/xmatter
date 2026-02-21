@@ -8,7 +8,7 @@ name: MUTANT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f81858"
+color: "#0d1a3a"
 icons:
   - icon.png
 ---

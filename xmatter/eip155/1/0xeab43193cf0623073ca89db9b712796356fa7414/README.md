@@ -6,7 +6,7 @@ name: GOLDX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d8a828"
+color: "#e0ad1e"
 icons:
   - icon.png
 ---

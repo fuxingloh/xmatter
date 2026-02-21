@@ -8,7 +8,7 @@ name: BitScreenerToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#282838"
+color: "#232b3c"
 icons:
   - icon.png
 ---

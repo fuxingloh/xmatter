@@ -6,7 +6,7 @@ name: EMStoken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#0808f8"
+color: "#cecefc"
 icons:
   - icon.png
 ---

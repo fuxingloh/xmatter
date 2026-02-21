@@ -6,7 +6,7 @@ name: Rare Ones
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#e38740"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: FLOKITA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8a8c8"
+color: "#f6a9c0"
 icons:
   - icon.png
 ---

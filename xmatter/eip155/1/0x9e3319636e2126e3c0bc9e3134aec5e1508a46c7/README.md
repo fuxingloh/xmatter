@@ -8,7 +8,7 @@ name: "UTN-P: Universa Token"
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#1d1b1c"
 icons:
   - icon.png
 ---

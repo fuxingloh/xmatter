@@ -6,7 +6,7 @@ name: Yustemcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#efe4ab"
 icons:
   - icon.png
 ---

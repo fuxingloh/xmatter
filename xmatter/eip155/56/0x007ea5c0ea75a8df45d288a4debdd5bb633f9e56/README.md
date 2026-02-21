@@ -8,7 +8,7 @@ name: CanYaCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#38c8f8"
+color: "#33ccfc"
 icons:
   - icon.png
 ---

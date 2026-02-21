@@ -8,7 +8,7 @@ name: DimensionToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#089898"
+color: "#118d9b"
 icons:
   - icon.png
 ---

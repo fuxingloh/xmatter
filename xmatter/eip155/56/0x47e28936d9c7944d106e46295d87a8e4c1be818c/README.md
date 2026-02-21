@@ -8,7 +8,7 @@ name: MOONBAR
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486848"
+color: "#232325"
 icons:
   - icon.png
 ---

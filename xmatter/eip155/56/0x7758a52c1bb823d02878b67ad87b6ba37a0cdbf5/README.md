@@ -16,7 +16,7 @@ name: Ookeenga
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f87828"
+color: "#f4812c"
 icons:
   - icon.png
 ---

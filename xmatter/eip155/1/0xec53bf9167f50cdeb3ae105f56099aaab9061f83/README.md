@@ -12,7 +12,7 @@ name: Eigen
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#1d0e6b"
 icons:
   - icon.png
 ---

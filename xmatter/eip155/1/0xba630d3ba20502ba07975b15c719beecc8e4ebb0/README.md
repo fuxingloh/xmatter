@@ -8,7 +8,7 @@ name: EthereumPro
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#483b0e"
 icons:
   - icon.png
 ---

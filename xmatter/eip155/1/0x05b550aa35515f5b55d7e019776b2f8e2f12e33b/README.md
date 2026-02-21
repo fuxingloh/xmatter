@@ -6,7 +6,7 @@ name: SKY SOOM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#18a8f8"
+color: "#14a4fc"
 icons:
   - icon.png
 ---

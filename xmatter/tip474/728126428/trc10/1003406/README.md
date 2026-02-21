@@ -6,7 +6,7 @@ name: PeerCash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#f8f8f8"
+color: "#f2f2f2"
 icons:
   - icon.png
 ---

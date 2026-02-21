@@ -12,7 +12,7 @@ name: Wegie
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#0a090a"
 icons:
   - icon.png
 ---

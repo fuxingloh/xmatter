@@ -6,7 +6,7 @@ name: PNGold
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#c9a166"
 icons:
   - icon.png
 ---

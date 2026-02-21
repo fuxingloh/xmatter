@@ -6,7 +6,7 @@ name: Catnero
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#e1dd08"
 icons:
   - icon.png
 ---

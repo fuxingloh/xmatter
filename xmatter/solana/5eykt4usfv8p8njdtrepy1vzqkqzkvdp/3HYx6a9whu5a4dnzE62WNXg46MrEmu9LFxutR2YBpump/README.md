@@ -12,7 +12,7 @@ name: Flávia Is Online
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#583838"
+color: "#4e3f42"
 icons:
   - icon.png
 ---

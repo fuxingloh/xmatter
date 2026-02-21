@@ -8,7 +8,7 @@ name: Anonymous
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#383848"
+color: "#252b40"
 icons:
   - icon.png
 ---

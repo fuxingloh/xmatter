@@ -12,7 +12,7 @@ name: Bitget Wallet Token (Wormhole)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080808"
+color: "#060607"
 icons:
   - icon.png
 ---

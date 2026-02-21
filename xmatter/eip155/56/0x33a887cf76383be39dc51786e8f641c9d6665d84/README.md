@@ -8,7 +8,7 @@ name: VOYR
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#e8272e"
 icons:
   - icon.png
 ---

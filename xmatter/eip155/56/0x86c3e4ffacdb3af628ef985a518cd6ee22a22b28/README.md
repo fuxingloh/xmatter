@@ -8,7 +8,7 @@ name: Octans
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#88d7ea"
 icons:
   - icon.png
 ---

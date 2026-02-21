@@ -6,7 +6,7 @@ name: DEKSEN Ecosystem
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#9a9694"
 icons:
   - icon.png
 ---

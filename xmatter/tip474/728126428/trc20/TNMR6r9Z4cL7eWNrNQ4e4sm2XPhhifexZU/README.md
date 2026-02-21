@@ -12,7 +12,7 @@ symbol: NVDAx
 decimals: 18
 icons:
   - icon.png
-color: "#48c848"
+color: "#4ccb44"
 ---
 
 NVIDIA xStock

@@ -8,7 +8,7 @@ name: VIDT Datalink BEP20
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08c8d8"
+color: "#f9d40d"
 icons:
   - icon.png
 ---

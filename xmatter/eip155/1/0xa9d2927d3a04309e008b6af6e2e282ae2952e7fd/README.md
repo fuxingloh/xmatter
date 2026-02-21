@@ -8,7 +8,7 @@ name: Zipper
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#dedede"
 icons:
   - icon.png
 ---

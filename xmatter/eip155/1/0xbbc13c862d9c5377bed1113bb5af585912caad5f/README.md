@@ -6,7 +6,7 @@ name: NEOBANKTOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e81838"
+color: "#eb1b3b"
 icons:
   - icon.png
 ---

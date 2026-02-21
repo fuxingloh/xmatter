@@ -14,7 +14,7 @@ name: Genopets
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#082828"
+color: "#042f30"
 icons:
   - icon.png
 ---

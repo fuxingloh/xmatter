@@ -26,7 +26,7 @@ name: UNS Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#18c818"
+color: "#1ccc1c"
 icons:
   - icon.png
 ---

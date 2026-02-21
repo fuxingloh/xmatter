@@ -17,7 +17,7 @@ name: Bitanium
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080818"
+color: "#14141c"
 icons:
   - icon.png
 ---

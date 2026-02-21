@@ -6,7 +6,7 @@ name: MESSE Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f88808"
+color: "#fc8405"
 icons:
   - icon.png
 ---

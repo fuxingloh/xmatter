@@ -14,7 +14,7 @@ name: Equinix (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e82828"
+color: "#ec2424"
 icons:
   - icon.png
 ---

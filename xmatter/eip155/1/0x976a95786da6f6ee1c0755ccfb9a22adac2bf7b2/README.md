@@ -30,7 +30,7 @@ name: DynDYDX DynaSet
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#131312"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Dragonereum Gold
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8b848"
+color: "#ecb44c"
 icons:
   - icon.png
 ---

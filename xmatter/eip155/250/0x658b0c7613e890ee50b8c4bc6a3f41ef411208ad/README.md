@@ -18,7 +18,7 @@ symbol: FETH
 decimals: 18
 icons:
   - icon.png
-color: "#6878e8"
+color: "#657ceb"
 ---
 
 fETH (ETH FETH) is a token issued by Binance on Smart Chain; its price is pegged to Ethereum (ETH) at a ratio of 1:1.

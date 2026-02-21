@@ -12,7 +12,7 @@ name: Boomer
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0858f8"
+color: "#cfa69e"
 icons:
   - icon.png
 ---

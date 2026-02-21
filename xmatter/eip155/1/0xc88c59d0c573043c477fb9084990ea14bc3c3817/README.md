@@ -6,7 +6,7 @@ name: USDP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#228ac9"
 icons:
   - icon.png
 ---

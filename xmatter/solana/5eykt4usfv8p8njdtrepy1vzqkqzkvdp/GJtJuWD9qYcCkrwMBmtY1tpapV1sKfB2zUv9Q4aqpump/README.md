@@ -12,7 +12,7 @@ name: Rifampicin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#a8a8f8"
+color: "#aba3f3"
 icons:
   - icon.png
 ---

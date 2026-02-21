@@ -8,7 +8,7 @@ name: Wrapped Dai
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f87808"
+color: "#fb7304"
 icons:
   - icon.png
 ---

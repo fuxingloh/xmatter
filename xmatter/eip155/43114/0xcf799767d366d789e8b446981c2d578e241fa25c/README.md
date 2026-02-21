@@ -16,7 +16,7 @@ name: Decentralized USD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#286858"
+color: "#246c5c"
 icons:
   - icon.png
 ---

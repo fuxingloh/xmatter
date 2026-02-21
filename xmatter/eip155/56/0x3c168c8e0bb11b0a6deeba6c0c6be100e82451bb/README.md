@@ -22,7 +22,7 @@ name: SHREW
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#28d8c8"
+color: "#33d4cc"
 icons:
   - icon.png
 ---

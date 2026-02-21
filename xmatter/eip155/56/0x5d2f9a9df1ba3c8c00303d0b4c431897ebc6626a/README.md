@@ -8,7 +8,7 @@ name: Ormeus Cash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#283888"
+color: "#203880"
 icons:
   - icon.png
 ---

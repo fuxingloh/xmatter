@@ -8,7 +8,7 @@ name: Catex
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5888b8"
+color: "#548bbc"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: Beeper Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d8b838"
+color: "#eab118"
 icons:
   - icon.png
 ---

@@ -18,7 +18,7 @@ symbol: USDT0
 decimals: 6
 icons:
   - icon.png
-color: "#08b888"
+color: "#04bb8b"
 ---
 
 USDT0 is how USDT gets to new chains, such as Ink, Berachain, MegaETH, and Plasma. USDT0 is secure and omnichain.

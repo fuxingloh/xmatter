@@ -17,7 +17,7 @@ name: Mango Markets
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#181828"
+color: "#141424"
 icons:
   - icon.png
 ---

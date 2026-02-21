@@ -14,7 +14,7 @@ name: Apple (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#dcdcdc"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Fatcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#184898"
+color: "#1652a5"
 icons:
   - icon.png
 ---

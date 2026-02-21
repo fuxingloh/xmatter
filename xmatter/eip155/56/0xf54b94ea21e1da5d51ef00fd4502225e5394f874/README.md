@@ -15,7 +15,7 @@ name: iShares Russell 2000 Value ETF (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#480878"
+color: "#460f7d"
 icons:
   - icon.png
 ---

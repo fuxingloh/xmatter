@@ -6,7 +6,7 @@ name: Teacher Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#0b0b0b"
 icons:
   - icon.png
 ---

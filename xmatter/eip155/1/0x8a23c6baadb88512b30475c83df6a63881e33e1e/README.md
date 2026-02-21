@@ -14,7 +14,7 @@ name: Oracle (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e81828"
+color: "#ec1c23"
 icons:
   - icon.png
 ---

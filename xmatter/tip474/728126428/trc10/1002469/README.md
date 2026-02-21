@@ -6,7 +6,7 @@ name: ECOECTRON
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#f8f8f8"
+color: "#9b8124"
 icons:
   - icon.png
 ---

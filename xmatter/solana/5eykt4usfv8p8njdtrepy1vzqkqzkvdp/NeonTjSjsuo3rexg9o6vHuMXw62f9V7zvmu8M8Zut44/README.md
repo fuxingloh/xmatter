@@ -12,7 +12,7 @@ name: Neon EVM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080808"
+color: "#e23c93"
 icons:
   - icon.png
 ---

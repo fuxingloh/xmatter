@@ -6,7 +6,7 @@ name: MKPUG1-1/30M61
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f86868"
+color: "#fb6662"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: TopChainCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#43a4ec"
 icons:
   - icon.png
 ---

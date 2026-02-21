@@ -6,7 +6,7 @@ name: OWL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#f8f8f8"
+color: "#06060c"
 icons:
   - icon.png
 ---

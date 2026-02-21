@@ -8,7 +8,7 @@ name: Bitcoffeen
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#bc6323"
 icons:
   - icon.png
 ---

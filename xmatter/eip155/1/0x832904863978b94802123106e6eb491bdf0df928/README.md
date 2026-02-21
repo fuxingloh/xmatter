@@ -8,7 +8,7 @@ name: OptiToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ffff00"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: Bancor Network Token (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#486878"
+color: "#b44a6c"
 icons:
   - icon.png
 ---

@@ -20,7 +20,7 @@ name: Binance-Peg MANTRA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f898d8"
+color: "#343434"
 icons:
   - icon.png
 ---

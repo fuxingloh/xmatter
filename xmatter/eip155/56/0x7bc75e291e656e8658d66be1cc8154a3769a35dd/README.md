@@ -22,7 +22,7 @@ name: iMe Lab
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#efba14"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Lever Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#182838"
+color: "#b363c4"
 icons:
   - icon.png
 ---

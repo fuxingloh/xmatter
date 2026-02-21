@@ -8,7 +8,7 @@ name: BASIC Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#0d1c85"
 icons:
   - icon.png
 ---

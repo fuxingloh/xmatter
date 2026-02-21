@@ -6,7 +6,7 @@ name: PazCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8e8b8"
+color: "#f7e6b0"
 icons:
   - icon.png
 ---

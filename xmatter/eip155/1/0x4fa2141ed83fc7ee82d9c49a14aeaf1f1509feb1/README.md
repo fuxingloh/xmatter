@@ -6,7 +6,7 @@ name: All Beauty Community Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#f22687"
 icons:
   - icon.png
 ---

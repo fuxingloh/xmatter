@@ -8,7 +8,7 @@ name: GlobCoin Crypto Platform
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#282858"
+color: "#242c51"
 icons:
   - icon.png
 ---

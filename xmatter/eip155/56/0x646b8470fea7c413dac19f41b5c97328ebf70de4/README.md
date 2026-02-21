@@ -8,7 +8,7 @@ name: Bitcoin Networks
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f89828"
+color: "#f49323"
 icons:
   - icon.png
 ---

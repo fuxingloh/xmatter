@@ -24,7 +24,7 @@ name: WEB4 AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#381808"
+color: "#3a2012"
 icons:
   - icon.png
 ---

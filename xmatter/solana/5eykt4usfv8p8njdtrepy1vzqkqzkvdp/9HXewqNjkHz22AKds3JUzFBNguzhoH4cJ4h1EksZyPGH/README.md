@@ -10,7 +10,7 @@ name: SOLGOAT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080818"
+color: "#150a35"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ name: ZAP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081818"
+color: "#f8f80c"
 icons:
   - icon.png
 ---

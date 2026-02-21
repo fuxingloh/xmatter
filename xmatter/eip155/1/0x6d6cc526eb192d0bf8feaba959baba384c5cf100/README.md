@@ -6,7 +6,7 @@ name: Dreambuilder Dept.
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486848"
+color: "#ae2221"
 icons:
   - icon.png
 ---

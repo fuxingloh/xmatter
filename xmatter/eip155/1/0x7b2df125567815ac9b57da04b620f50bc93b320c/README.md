@@ -8,7 +8,7 @@ name: Archetypal Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8c838"
+color: "#132e35"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ name: Simons Cat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#100a0a"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Baby
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#181818"
+color: "#d98288"
 icons:
   - icon.png
 ---

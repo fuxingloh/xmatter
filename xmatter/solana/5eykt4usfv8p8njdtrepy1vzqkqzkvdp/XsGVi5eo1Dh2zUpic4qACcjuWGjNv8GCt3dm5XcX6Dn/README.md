@@ -15,7 +15,7 @@ name: Johnson & Johnson tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#e81808"
+color: "#ec1404"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: RIKO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f89808"
+color: "#272220"
 icons:
   - icon.png
 ---

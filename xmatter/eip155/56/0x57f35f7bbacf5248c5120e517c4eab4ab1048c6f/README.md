@@ -8,7 +8,7 @@ name: Mars Crater
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f86848"
+color: "#f36b43"
 icons:
   - icon.png
 ---

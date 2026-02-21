@@ -6,7 +6,7 @@ name: Noble Technologies Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6878a8"
+color: "#677daa"
 icons:
   - icon.png
 ---

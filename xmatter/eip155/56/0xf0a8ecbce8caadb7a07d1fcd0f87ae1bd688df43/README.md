@@ -16,7 +16,7 @@ name: CryptoGodz
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#383838"
+color: "#262523"
 icons:
   - icon.png
 ---

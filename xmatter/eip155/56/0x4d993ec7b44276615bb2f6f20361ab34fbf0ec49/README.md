@@ -16,7 +16,7 @@ name: BrandPad Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#280838"
+color: "#29013e"
 icons:
   - icon.png
 ---

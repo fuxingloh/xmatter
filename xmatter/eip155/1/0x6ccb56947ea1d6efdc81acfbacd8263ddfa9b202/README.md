@@ -6,7 +6,7 @@ name: Royal Kingdom Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#22180d"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: Queenyi Mubarak
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4888a8"
+color: "#c0baad"
 icons:
   - icon.png
 ---

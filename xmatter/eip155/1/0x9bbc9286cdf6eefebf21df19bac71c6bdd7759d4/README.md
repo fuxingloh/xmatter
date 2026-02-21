@@ -8,7 +8,7 @@ name: QBEE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#4e4e4e"
 icons:
   - icon.png
 ---

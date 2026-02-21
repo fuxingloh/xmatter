@@ -8,7 +8,7 @@ name: United Bull Traders
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#cfa952"
 icons:
   - icon.png
 ---

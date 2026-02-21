@@ -12,7 +12,7 @@ name: SynesisOne
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#070707"
 icons:
   - icon.png
 ---

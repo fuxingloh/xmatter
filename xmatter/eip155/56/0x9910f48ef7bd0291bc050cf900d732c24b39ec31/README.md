@@ -18,7 +18,7 @@ name: Mars Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#882808"
+color: "#ebd4b4"
 icons:
   - icon.png
 ---

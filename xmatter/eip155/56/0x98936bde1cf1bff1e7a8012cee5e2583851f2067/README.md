@@ -18,7 +18,7 @@ name: Annex
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#082848"
+color: "#04244c"
 icons:
   - icon.png
 ---

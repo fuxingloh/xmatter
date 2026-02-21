@@ -12,7 +12,7 @@ name: Multigame
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08f8f8"
+color: "#04f3fb"
 icons:
   - icon.png
 ---

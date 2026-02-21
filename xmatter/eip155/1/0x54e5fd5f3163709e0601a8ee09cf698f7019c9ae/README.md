@@ -6,7 +6,7 @@ name: ORICToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e86808"
+color: "#f7f6eb"
 icons:
   - icon.png
 ---

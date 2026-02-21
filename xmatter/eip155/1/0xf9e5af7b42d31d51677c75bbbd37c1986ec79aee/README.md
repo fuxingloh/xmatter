@@ -8,7 +8,7 @@ name: QuickX Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#283868"
+color: "#22355e"
 icons:
   - icon.png
 ---

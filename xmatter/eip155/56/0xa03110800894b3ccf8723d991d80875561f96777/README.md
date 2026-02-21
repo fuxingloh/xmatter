@@ -20,7 +20,7 @@ name: BIT GAME VERSE TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#c58f04"
 icons:
   - icon.png
 ---

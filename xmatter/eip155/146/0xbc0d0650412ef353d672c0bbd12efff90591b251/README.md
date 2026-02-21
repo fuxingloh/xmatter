@@ -12,7 +12,7 @@ symbol: FS
 decimals: 18
 icons:
   - icon.png
-color: "#180848"
+color: "#1c0c45"
 ---
 
 ICOs Made Simple

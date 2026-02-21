@@ -8,7 +8,7 @@ name: Pixel
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#5d8ef4"
 icons:
   - icon.png
 ---

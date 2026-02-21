@@ -12,7 +12,7 @@ name: BOZO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#282828"
+color: "#e2dbcc"
 icons:
   - icon.png
 ---

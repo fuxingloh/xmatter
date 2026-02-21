@@ -28,7 +28,7 @@ name: MicroPets
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#ed4e90"
 icons:
   - icon.png
 ---

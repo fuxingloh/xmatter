@@ -18,7 +18,7 @@ name: Annex ETH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081838"
+color: "#0f223c"
 icons:
   - icon.png
 ---

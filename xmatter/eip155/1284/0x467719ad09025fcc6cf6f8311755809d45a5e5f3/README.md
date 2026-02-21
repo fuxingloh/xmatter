@@ -36,7 +36,7 @@ symbol: AXL
 decimals: 6
 icons:
   - icon.png
-color: "#080808"
+color: "#000000"
 ---
 
 Axelar delivers secure cross-chain communication for Web3. Our infrastructure enables dApp users to interact with any asset or application, on any chain, with one click.

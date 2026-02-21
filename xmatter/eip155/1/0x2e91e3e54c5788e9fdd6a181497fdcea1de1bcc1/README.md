@@ -8,7 +8,7 @@ name: Hercules
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ecd333"
 icons:
   - icon.png
 ---

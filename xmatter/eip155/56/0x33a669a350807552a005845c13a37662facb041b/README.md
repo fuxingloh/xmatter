@@ -8,7 +8,7 @@ name: SHAGGY TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08c8f8"
+color: "#e1ac5a"
 icons:
   - icon.png
 ---

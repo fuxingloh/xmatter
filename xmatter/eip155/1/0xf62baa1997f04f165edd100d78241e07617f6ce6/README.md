@@ -6,7 +6,7 @@ name: Uservice Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0868f8"
+color: "#0066ff"
 icons:
   - icon.png
 ---

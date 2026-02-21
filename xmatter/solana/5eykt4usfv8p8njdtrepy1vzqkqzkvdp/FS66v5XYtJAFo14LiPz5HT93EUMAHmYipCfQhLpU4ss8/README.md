@@ -12,7 +12,7 @@ name: Smog
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#ab8f4c"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: BabyShiba
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f84888"
+color: "#fa5082"
 icons:
   - icon.png
 ---

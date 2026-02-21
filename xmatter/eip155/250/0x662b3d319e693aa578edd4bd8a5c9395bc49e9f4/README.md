@@ -16,7 +16,7 @@ symbol: GOGLZ
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#070a0f"
 ---
 
 SONIC FAST BOI. THEY STAY ON.

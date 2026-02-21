@@ -6,7 +6,7 @@ name: Pornvisory
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#be3a54"
 icons:
   - icon.png
 ---

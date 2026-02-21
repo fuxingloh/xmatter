@@ -14,7 +14,7 @@ name: Magic Square
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#180838"
+color: "#140c3c"
 icons:
   - icon.png
 ---

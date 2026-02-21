@@ -10,7 +10,7 @@ name: 23 Turtles
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080808"
+color: "#12c310"
 icons:
   - icon.png
 ---

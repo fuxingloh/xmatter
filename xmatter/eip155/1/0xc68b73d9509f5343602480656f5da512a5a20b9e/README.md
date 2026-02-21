@@ -6,7 +6,7 @@ name: ACIDTOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c8f808"
+color: "#cbfb04"
 icons:
   - icon.png
 ---

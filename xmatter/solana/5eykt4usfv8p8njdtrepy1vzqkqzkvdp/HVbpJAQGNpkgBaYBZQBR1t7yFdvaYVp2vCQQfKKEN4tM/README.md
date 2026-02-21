@@ -20,7 +20,7 @@ name: Pax Dollar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#085828"
+color: "#126039"
 icons:
   - icon.png
 ---

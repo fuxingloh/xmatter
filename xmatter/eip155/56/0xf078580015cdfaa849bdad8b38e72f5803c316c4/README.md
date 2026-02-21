@@ -18,7 +18,7 @@ name: Son of Doge
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d8b476"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Education
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#282828"
+color: "#202828"
 icons:
   - icon.png
 ---

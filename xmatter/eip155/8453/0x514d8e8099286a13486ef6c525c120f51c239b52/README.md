@@ -10,7 +10,7 @@ name: Orbiter
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8e8e8"
+color: "#ecece4"
 icons:
   - icon.png
 ---

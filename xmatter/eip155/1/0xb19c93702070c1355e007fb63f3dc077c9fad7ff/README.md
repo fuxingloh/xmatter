@@ -6,7 +6,7 @@ name: Soma
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#0d2b3a"
 icons:
   - icon.png
 ---

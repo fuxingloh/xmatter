@@ -8,7 +8,7 @@ name: ElonXCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#c19a8a"
 icons:
   - icon.png
 ---

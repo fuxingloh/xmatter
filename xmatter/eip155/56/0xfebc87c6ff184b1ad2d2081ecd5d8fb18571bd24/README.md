@@ -8,7 +8,7 @@ name: Volta
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e89808"
+color: "#ee9f04"
 icons:
   - icon.png
 ---

@@ -19,7 +19,7 @@ name: Bitpaid
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#a9a9a9"
 icons:
   - icon.png
 ---

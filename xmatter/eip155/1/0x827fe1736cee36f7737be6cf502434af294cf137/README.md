@@ -6,7 +6,7 @@ name: Africa Digital Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#c2994d"
 icons:
   - icon.png
 ---

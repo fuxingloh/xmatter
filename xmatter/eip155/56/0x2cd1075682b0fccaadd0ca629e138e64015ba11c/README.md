@@ -12,7 +12,7 @@ name: τBitcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#c8c9d7"
 icons:
   - icon.png
 ---

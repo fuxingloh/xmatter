@@ -8,7 +8,7 @@ name: DartChain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#482878"
+color: "#442474"
 icons:
   - icon.png
 ---

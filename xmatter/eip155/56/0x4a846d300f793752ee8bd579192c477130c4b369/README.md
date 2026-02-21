@@ -16,7 +16,7 @@ name: LITE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5868f8"
+color: "#5464fb"
 icons:
   - icon.png
 ---

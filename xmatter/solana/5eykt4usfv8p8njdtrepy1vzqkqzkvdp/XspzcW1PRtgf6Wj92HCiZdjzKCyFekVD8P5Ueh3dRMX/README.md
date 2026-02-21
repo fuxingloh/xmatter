@@ -14,7 +14,7 @@ name: Microsoft tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#08a8e8"
+color: "#045474"
 icons:
   - icon.png
 ---

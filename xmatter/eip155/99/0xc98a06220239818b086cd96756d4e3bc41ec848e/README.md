@@ -8,5 +8,5 @@ symbol: PAO
 decimals: 0
 icons:
   - icon.png
-color: "#583898"
+color: "#5535a9"
 ---

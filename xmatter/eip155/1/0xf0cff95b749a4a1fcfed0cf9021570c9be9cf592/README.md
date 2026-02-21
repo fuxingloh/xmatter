@@ -6,7 +6,7 @@ name: MerchentPay
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f87818"
+color: "#e67420"
 icons:
   - icon.png
 ---

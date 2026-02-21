@@ -14,7 +14,7 @@ name: Mastercard tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#f3f3f3"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: My Neighbor Alice (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080808"
+color: "#e58393"
 icons:
   - icon.png
 ---

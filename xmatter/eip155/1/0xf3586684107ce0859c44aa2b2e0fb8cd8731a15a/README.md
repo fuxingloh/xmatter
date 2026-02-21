@@ -6,7 +6,7 @@ name: KaratBank Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#887848"
+color: "#84744c"
 icons:
   - icon.png
 ---

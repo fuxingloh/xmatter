@@ -8,7 +8,7 @@ name: UNICAT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#cb7ec5"
 icons:
   - icon.png
 ---

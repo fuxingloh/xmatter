@@ -20,7 +20,7 @@ name: FlokiBonk
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#b98a5d"
 icons:
   - icon.png
 ---

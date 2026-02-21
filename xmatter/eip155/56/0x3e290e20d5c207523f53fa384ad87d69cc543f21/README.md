@@ -10,7 +10,7 @@ name: FairMint FAIR
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#0c0c0c"
 icons:
   - icon.png
 ---

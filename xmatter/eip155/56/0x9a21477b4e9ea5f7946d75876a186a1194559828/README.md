@@ -16,7 +16,7 @@ name: FindShibby
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#e28138"
 icons:
   - icon.png
 ---

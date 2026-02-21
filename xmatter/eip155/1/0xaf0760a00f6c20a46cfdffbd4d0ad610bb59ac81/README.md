@@ -6,7 +6,7 @@ name: Ether Classic
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#157d93"
 icons:
   - icon.png
 ---

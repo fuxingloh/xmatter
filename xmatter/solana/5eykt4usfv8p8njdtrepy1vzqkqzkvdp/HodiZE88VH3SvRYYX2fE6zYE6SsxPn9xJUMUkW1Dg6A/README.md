@@ -12,7 +12,7 @@ name: Cat in Hoodie
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8e818"
+color: "#f5cf1d"
 icons:
   - icon.png
 ---

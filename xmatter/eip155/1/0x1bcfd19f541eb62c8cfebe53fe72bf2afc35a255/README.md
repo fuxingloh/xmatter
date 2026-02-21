@@ -6,7 +6,7 @@ name: MIKETANGOBRAVO18
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e87808"
+color: "#ef8116"
 icons:
   - icon.png
 ---

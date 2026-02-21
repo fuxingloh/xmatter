@@ -8,7 +8,7 @@ name: H3X
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#04c191"
 icons:
   - icon.png
 ---

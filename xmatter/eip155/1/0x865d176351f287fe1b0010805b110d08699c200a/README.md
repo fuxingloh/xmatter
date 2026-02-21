@@ -6,7 +6,7 @@ name: BananaCoin Extended
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8d808"
+color: "#050504"
 icons:
   - icon.png
 ---

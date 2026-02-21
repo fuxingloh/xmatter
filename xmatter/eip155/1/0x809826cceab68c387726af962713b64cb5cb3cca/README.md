@@ -8,7 +8,7 @@ name: NucleusVision
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081828"
+color: "#052639"
 icons:
   - icon.png
 ---

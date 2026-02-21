@@ -6,7 +6,7 @@ name: DANIEL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#39403e"
 icons:
   - icon.png
 ---

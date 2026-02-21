@@ -14,7 +14,7 @@ name: Bonk
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f88808"
+color: "#ed950b"
 icons:
   - icon.png
 ---

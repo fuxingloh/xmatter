@@ -18,7 +18,7 @@ name: Bomber Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8a838"
+color: "#fbca46"
 icons:
   - icon.png
 ---

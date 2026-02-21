@@ -8,7 +8,7 @@ name: Binance Smart Chain Girl Moon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#f3d7b9"
 icons:
   - icon.png
 ---

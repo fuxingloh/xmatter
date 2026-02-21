@@ -23,7 +23,7 @@ standards:
 icons:
   - icon.png
   - icon.jpeg
-color: "#6838f8"
+color: "#6434fc"
 ---
 
 Stacker Ventures is a community-run protocol for initiating and managing pooled capital on the blockchain.

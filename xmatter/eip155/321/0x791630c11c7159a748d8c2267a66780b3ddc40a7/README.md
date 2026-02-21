@@ -16,7 +16,7 @@ symbol: QNT
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#dadada"
 ---
 
 Blockchain operating system that connects the world’s networks and facilitates the development of multi-chain applications.

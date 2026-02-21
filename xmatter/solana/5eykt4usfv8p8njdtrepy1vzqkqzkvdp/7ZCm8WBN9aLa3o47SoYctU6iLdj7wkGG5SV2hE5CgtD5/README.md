@@ -10,7 +10,7 @@ name: Dogelon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#2e2824"
 icons:
   - icon.png
 ---

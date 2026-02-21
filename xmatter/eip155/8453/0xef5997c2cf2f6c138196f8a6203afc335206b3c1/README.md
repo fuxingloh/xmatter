@@ -6,7 +6,7 @@ symbol: OWB
 icons:
   - icon.svg
   - icon.png
-color: "#181818"
+color: "#14141b"
 links:
   - name: website
     url: "https://clashofcoins.com"

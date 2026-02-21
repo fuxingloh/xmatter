@@ -14,7 +14,7 @@ symbol: HOLD
 decimals: 18
 icons:
   - icon.png
-color: "#080818"
+color: "#0c0414"
 ---
 
 Holdstation is an innovative Smart Contract Wallet for Futures Trading built on the zkSync Era.

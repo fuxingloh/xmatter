@@ -6,7 +6,7 @@ name: Countinghouse Fund
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#a61280"
 icons:
   - icon.png
 ---

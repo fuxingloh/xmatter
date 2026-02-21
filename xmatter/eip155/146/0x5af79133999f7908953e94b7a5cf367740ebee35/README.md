@@ -12,7 +12,7 @@ symbol: CRV
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#30c9c7"
 ---
 
 Curve is an exchange liquidity pool on Ethereum. Curve is designed for extremely efficient stablecoin trading and low risk, supplemental fee income for liquidity providers, without an opportunity cost.

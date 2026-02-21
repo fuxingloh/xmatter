@@ -8,7 +8,7 @@ name: BirdChain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d58497"
 icons:
   - icon.png
 ---

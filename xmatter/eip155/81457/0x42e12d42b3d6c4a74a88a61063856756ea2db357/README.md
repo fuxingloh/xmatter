@@ -14,7 +14,7 @@ symbol: ORBIT
 decimals: 18
 icons:
   - icon.png
-color: "#181818"
+color: "#1d1514"
 ---
 
 Orbit is a decentralized liquidity protocol that facilitates the lending and borrowing of Blast assets. Orbit's innovation is to make use of Blast's native yield to provide a better lending / borrowing experience.

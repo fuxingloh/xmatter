@@ -8,7 +8,7 @@ name: FNKOSToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#6653b9"
 icons:
   - icon.png
 ---

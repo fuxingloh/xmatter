@@ -6,7 +6,7 @@ name: HUB Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8b838"
+color: "#f4bc34"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Spike
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8e8e8"
+color: "#fbeae1"
 icons:
   - icon.png
 ---

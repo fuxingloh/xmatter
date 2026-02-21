@@ -10,7 +10,7 @@ name: AICell
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#fa74fa"
 icons:
   - icon.png
 ---

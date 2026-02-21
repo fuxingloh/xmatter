@@ -6,7 +6,7 @@ name: Moneybrain BiPS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7818e8"
+color: "#791de4"
 icons:
   - icon.png
 ---

@@ -26,7 +26,7 @@ name: AnpanSwap Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#98c8f8"
+color: "#a1ccf7"
 icons:
   - icon.png
 ---

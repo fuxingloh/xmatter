@@ -8,7 +8,7 @@ name: HyperChain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#e9e8f4"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Mark
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e83808"
+color: "#ec3b04"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ name: Landshare Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d8f8f8"
+color: "#267736"
 icons:
   - icon.png
 ---

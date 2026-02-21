@@ -6,7 +6,7 @@ name: DTIToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#080808"
+color: "#ee649a"
 icons:
   - icon.png
 ---

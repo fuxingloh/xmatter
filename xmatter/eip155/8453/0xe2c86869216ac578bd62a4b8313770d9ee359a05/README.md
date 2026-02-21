@@ -18,7 +18,7 @@ name: EMAIL Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2868e8"
+color: "#2464ec"
 icons:
   - icon.svg
   - icon.png

@@ -6,7 +6,7 @@ name: KhanhTest01
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#cba143"
 icons:
   - icon.png
 ---

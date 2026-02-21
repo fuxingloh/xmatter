@@ -18,7 +18,7 @@ name: Coin98
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#d8a848"
+color: "#d9b44e"
 icons:
   - icon.png
 ---

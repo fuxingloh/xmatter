@@ -6,7 +6,7 @@ name: Hada Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#079a7e"
 icons:
   - icon.png
 ---

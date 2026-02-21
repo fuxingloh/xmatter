@@ -11,7 +11,7 @@ name: "4"
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#181808"
+color: "#eab50d"
 icons:
   - icon.png
 ---

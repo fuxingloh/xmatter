@@ -6,7 +6,7 @@ name: CUZ
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8818f8"
+color: "#9414fc"
 icons:
   - icon.png
 ---

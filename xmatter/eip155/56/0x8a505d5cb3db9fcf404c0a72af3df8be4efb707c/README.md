@@ -15,7 +15,7 @@ name: ENERGY COIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#581878"
+color: "#651872"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ name: Kogin by Virtuals
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#883838"
+color: "#694652"
 icons:
   - icon.png
 ---

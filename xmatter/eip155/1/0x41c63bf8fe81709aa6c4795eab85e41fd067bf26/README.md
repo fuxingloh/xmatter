@@ -6,7 +6,7 @@ name: PGcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8b838"
+color: "#e4bc3c"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ name: Walmart tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0858e8"
+color: "#0453e3"
 icons:
   - icon.png
 ---

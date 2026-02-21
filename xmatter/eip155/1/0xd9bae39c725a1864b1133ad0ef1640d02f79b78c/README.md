@@ -8,7 +8,7 @@ name: Touch Smart Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08a8c8"
+color: "#18b0c2"
 icons:
   - icon.png
 ---

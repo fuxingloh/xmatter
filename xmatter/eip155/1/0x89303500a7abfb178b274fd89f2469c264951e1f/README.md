@@ -6,7 +6,7 @@ name: RefToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f88838"
+color: "#f48d33"
 icons:
   - icon.png
 ---

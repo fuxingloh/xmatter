@@ -8,7 +8,7 @@ name: BitBook
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4888f8"
+color: "#488af7"
 icons:
   - icon.png
 ---

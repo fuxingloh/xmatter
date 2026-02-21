@@ -11,7 +11,7 @@ name: BNB pegged Dogecoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#bea248"
 icons:
   - icon.png
 ---

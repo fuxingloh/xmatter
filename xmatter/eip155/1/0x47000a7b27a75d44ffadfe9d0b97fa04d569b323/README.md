@@ -12,7 +12,7 @@ name: Trumpius Maximus
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#380808"
+color: "#825342"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Zloadr Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#184848"
+color: "#144c44"
 icons:
   - icon.png
 ---

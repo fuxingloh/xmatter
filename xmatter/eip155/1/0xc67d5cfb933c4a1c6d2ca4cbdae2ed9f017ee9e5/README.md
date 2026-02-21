@@ -8,7 +8,7 @@ name: Lipchain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#284858"
+color: "#234455"
 icons:
   - icon.png
 ---

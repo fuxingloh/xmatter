@@ -8,7 +8,7 @@ name: Planet BlockChain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#0a84b5"
 icons:
   - icon.png
 ---

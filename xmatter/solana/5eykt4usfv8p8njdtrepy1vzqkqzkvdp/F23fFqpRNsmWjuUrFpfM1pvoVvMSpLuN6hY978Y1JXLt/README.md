@@ -10,7 +10,7 @@ name: upsidedowncat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8d838"
+color: "#46301b"
 icons:
   - icon.png
 ---

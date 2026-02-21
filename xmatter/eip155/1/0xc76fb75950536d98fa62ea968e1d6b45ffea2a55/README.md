@@ -18,7 +18,7 @@ name: Unit protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f898c8"
+color: "#fb9bcc"
 icons:
   - icon.svg
   - icon.png

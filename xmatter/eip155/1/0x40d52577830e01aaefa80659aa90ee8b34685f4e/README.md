@@ -8,7 +8,7 @@ name: Bilaxy Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e84828"
+color: "#e44c2c"
 icons:
   - icon.png
 ---

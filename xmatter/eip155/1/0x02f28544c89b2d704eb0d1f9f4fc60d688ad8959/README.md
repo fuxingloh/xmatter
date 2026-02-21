@@ -6,7 +6,7 @@ name: Smart Pharma Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#22b9d3"
 icons:
   - icon.png
 ---

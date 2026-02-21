@@ -12,7 +12,7 @@ symbol: suUSD
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#b0c1c8"
 ---
 
 suUSD is a multichain fungible synthetic asset by Sumer.Money pegged to USD and representing the same security characteristics and collateral backing across all supported networks.

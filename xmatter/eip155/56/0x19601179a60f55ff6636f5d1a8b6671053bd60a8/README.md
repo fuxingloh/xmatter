@@ -15,7 +15,7 @@ name: Robinhood Markets (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#181808"
+color: "#dcdbdb"
 icons:
   - icon.png
 ---

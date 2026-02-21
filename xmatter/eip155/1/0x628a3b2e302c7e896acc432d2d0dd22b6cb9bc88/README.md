@@ -14,7 +14,7 @@ name: LimeWire Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#089848"
+color: "#d9f58c"
 icons:
   - icon.png
 ---

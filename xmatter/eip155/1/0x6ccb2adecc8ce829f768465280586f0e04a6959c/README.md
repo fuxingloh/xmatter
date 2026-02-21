@@ -6,7 +6,7 @@ name: TOP TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#e46238"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Africoyn
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f85858"
+color: "#fb5b5b"
 icons:
   - icon.png
 ---

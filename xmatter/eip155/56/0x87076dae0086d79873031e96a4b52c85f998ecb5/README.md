@@ -8,7 +8,7 @@ name: Revolt
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#c5ad92"
 icons:
   - icon.png
 ---

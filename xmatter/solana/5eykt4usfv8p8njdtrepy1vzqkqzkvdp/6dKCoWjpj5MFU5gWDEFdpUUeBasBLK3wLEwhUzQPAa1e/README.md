@@ -12,7 +12,7 @@ name: Chintai
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#a8b888"
+color: "#a3b38c"
 icons:
   - icon.png
 ---

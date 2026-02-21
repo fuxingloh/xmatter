@@ -18,7 +18,7 @@ name: Binance USD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8b808"
+color: "#f3bc0c"
 icons:
   - icon.png
 ---

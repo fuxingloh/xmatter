@@ -8,7 +8,7 @@ name: Tacoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e84848"
+color: "#04c4ac"
 icons:
   - icon.png
 ---

@@ -30,7 +30,7 @@ name: SafuYield
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08a8a8"
+color: "#099b99"
 icons:
   - icon.png
 ---

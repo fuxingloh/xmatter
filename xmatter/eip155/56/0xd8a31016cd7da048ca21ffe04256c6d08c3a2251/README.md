@@ -8,7 +8,7 @@ name: Wenlambo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#b1a7a9"
 icons:
   - icon.png
   - icon.jpeg

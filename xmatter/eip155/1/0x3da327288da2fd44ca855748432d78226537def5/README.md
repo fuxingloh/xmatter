@@ -6,7 +6,7 @@ name: Cashlink
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#43abe4"
 icons:
   - icon.png
 ---

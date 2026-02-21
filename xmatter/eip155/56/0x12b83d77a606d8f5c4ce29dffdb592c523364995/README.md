@@ -20,7 +20,7 @@ name: Baby Yooshi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#089848"
+color: "#2c9e44"
 icons:
   - icon.png
 ---

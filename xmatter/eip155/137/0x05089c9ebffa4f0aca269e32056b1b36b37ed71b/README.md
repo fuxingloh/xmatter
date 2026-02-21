@@ -18,7 +18,7 @@ name: Krill
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6828d8"
+color: "#6d2ee3"
 icons:
   - icon.png
 ---

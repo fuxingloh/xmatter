@@ -12,7 +12,7 @@ name: PsyNova
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080808"
+color: "#f95c06"
 icons:
   - icon.png
 ---

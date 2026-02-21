@@ -14,7 +14,7 @@ symbol: TAROT
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#dbdbdb"
 ---
 
 ALPACA is the token that powers Alpaca Finance, the 1st leveraged yield farming protocol on Binance Smart Chain.

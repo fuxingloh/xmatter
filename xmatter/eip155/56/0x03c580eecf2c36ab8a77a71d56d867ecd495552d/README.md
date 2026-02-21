@@ -14,7 +14,7 @@ name: NUKE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#181838"
+color: "#1f273e"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ name: Paynet Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#080808"
+color: "#1870b8"
 icons:
   - icon.png
 ---

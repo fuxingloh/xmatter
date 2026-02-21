@@ -8,7 +8,7 @@ name: Vision Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#2d263c"
 icons:
   - icon.png
 ---

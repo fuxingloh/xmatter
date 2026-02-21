@@ -8,7 +8,7 @@ name: CorgiCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#384858"
+color: "#374351"
 icons:
   - icon.png
 ---

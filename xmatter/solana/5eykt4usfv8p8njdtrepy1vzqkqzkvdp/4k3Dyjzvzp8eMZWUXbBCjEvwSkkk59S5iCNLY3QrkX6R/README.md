@@ -14,7 +14,7 @@ name: Raydium
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#081828"
+color: "#0b1434"
 icons:
   - icon.png
 ---

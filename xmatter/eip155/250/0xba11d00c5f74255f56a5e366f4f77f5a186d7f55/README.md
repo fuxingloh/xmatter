@@ -18,7 +18,7 @@ symbol: BAND
 decimals: 18
 icons:
   - icon.png
-color: "#4828e8"
+color: "#4423e3"
 ---
 
 Band Protocol is a cross-chain data oracle network that aggregates and connects real-world data and APIs to smart contracts.

@@ -28,7 +28,7 @@ name: SymBULL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#60cc48"
 icons:
   - icon.png
 ---

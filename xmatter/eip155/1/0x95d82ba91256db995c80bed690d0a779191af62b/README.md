@@ -8,7 +8,7 @@ name: AlrightCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a87828"
+color: "#bf8b22"
 icons:
   - icon.png
 ---

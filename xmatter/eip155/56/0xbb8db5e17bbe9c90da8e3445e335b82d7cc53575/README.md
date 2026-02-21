@@ -8,7 +8,7 @@ name: Beer
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#bf8d4f"
 icons:
   - icon.png
 ---

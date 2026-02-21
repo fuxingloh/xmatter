@@ -12,7 +12,7 @@ name: Crypto Agent Trading
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080808"
+color: "#040f11"
 icons:
   - icon.png
 ---

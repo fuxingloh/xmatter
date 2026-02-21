@@ -12,7 +12,7 @@ name: Sonic The Goat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#282828"
+color: "#252525"
 icons:
   - icon.png
 ---

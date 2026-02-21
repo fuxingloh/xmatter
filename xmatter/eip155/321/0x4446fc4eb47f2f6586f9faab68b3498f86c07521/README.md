@@ -20,7 +20,7 @@ symbol: WKCS
 decimals: 18
 icons:
   - icon.png
-color: "#28a898"
+color: "#23ac93"
 ---
 
 KCS is the native token of KuCoin, which was launched back in 2017 as a profit-sharing token that allows traders to draw value from the exchange. It was issued as an ERC-20 token running on the Ethereum network and was supported by most Ethereum wallets. The total supply of KCS was set at 200 million, and there is a planned buyback and burn until just 100 million KCS remain. Sooner or later, as the KuCoin decentralized trading solution goes live, KCS will be the native asset of KuCoin's decentralized financial services as well as the governance token of the KuCoin community in the future.

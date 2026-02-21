@@ -8,7 +8,7 @@ name: PuffyDogCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#a99a70"
 icons:
   - icon.png
 ---

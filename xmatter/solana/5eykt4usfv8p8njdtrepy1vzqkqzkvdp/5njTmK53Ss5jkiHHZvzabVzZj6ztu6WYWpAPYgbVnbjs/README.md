@@ -10,7 +10,7 @@ name: Quickswap (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#e7d2d9"
 icons:
   - icon.png
 ---

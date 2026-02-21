@@ -6,7 +6,7 @@ name: ABSTRACT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#88a888"
+color: "#c57955"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ symbol: WBTC
 decimals: 8
 icons:
   - icon.png
-color: "#080808"
+color: "#f39444"
 ---
 
 WBTC — first and largest tokenized Bitcoin, 1:1 with BTC across multiple chains. Wrapped Bitcoin is a tokenized version of Bitcoin (BTC) that runs on the Ethereum (ETH) blockchain.

@@ -8,7 +8,7 @@ name: TrueFlip
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#382848"
+color: "#343344"
 icons:
   - icon.png
 ---

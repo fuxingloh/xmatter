@@ -10,7 +10,7 @@ name: NEZHA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#a37363"
 icons:
   - icon.png
 ---

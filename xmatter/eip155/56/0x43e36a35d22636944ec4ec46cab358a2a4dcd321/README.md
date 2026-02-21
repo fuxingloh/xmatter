@@ -10,7 +10,7 @@ name: Bambi-Nance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4868b8"
+color: "#484049"
 icons:
   - icon.png
 ---

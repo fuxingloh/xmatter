@@ -8,7 +8,7 @@ name: ASS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#a0948c"
 icons:
   - icon.png
 ---

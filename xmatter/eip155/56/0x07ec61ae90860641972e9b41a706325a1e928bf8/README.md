@@ -14,7 +14,7 @@ name: Volt Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486848"
+color: "#dacdc4"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: BrilliantOilCorporationToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0868b8"
+color: "#066cbb"
 icons:
   - icon.png
 ---

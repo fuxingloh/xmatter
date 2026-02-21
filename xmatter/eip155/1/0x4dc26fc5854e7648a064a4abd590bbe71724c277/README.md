@@ -14,7 +14,7 @@ name: Animecoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#c3832a"
 icons:
   - icon.png
 ---

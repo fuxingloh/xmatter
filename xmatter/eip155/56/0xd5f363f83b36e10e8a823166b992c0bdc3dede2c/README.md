@@ -23,7 +23,7 @@ name: ElonBank
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#e3c7b8"
 icons:
   - icon.png
 ---

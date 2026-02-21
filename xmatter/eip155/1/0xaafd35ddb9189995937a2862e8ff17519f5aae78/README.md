@@ -6,7 +6,7 @@ name: Golden Time of Life
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#6565b7"
 icons:
   - icon.png
 ---

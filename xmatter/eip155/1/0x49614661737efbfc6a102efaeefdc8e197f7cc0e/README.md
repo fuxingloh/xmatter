@@ -8,7 +8,7 @@ name: Escroco Emerald
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ca302f"
 icons:
   - icon.png
 ---

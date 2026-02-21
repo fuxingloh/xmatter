@@ -6,7 +6,7 @@ name: Bazooka Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ed9454"
 icons:
   - icon.png
 ---

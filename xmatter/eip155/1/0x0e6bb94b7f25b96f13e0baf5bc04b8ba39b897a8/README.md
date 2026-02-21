@@ -6,7 +6,7 @@ name: Top.One Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#0e0d0b"
 icons:
   - icon.png
 ---

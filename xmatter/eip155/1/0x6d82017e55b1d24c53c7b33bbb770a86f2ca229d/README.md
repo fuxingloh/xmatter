@@ -20,7 +20,7 @@ name: Stable FIL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0888f8"
+color: "#0488fc"
 icons:
   - icon.png
 ---

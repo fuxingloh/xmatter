@@ -6,7 +6,7 @@ name: TooCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#613173"
 icons:
   - icon.png
 ---

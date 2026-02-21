@@ -8,7 +8,7 @@ name: AUTOv2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2828b8"
+color: "#3434bc"
 icons:
   - icon.png
 ---

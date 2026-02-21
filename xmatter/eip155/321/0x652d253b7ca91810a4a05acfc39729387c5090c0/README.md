@@ -24,7 +24,7 @@ symbol: CRO
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#242b5b"
 ---
 
 Crypto.com Chain will be a privacy preserving payment network that focuses on enabling crypto spending in the real world, powering the future of mobile money.

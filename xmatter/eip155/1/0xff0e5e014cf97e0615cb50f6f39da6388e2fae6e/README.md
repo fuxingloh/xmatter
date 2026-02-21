@@ -8,7 +8,7 @@ name: Origo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#4498cf"
 icons:
   - icon.png
 ---

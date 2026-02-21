@@ -16,7 +16,7 @@ name: Solv
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8848f8"
+color: "#8c4cfc"
 icons:
   - icon.png
 ---

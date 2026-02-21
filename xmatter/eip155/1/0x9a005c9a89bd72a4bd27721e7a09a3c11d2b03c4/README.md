@@ -8,7 +8,7 @@ name: StarterCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#380848"
+color: "#f9cdf2"
 icons:
   - icon.png
 ---

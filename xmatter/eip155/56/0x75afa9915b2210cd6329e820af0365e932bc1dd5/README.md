@@ -15,7 +15,7 @@ name: Smurfs INU
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#f1f3f5"
 icons:
   - icon.png
 ---

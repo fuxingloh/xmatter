@@ -8,7 +8,7 @@ name: BoozeMoon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#98e8f8"
+color: "#b1eaf3"
 icons:
   - icon.png
 ---

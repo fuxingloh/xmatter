@@ -18,7 +18,7 @@ name: GoldMiner
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486848"
+color: "#252f6d"
 icons:
   - icon.png
 ---

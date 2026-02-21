@@ -6,7 +6,7 @@ name: SG10006（YOU）
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2858a8"
+color: "#335ba6"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: Cz pfp on chain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#dcdee1"
 icons:
   - icon.png
 ---

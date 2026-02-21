@@ -12,7 +12,7 @@ name: BioPassport
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#082848"
+color: "#132444"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ symbol: USDai
 decimals: 18
 icons:
   - icon.png
-color: "#181818"
+color: "#bba696"
 ---
 
 USDai is a low risk, fully-backed synthetic dollar, which allows it to be redeemed instantly at all times. USDai does not pass yield through to holders, instead providing users with deep secondary market liquidity across DeFi and CeFi.

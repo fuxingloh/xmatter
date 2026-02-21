@@ -8,7 +8,7 @@ name: BrickblockToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3888f8"
+color: "#3a8cf4"
 icons:
   - icon.png
 ---

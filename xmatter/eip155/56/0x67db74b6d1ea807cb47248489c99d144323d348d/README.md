@@ -20,7 +20,7 @@ name: MMS COIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#c6a73f"
 icons:
   - icon.png
 ---

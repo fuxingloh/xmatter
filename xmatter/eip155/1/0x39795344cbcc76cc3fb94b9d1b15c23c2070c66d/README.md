@@ -8,7 +8,7 @@ name: Seigniorage Shares
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0868c8"
+color: "#0464d3"
 icons:
   - icon.png
 ---

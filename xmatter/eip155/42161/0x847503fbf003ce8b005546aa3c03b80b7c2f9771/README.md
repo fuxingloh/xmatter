@@ -14,7 +14,7 @@ name: Byte
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#383828"
+color: "#292822"
 icons:
   - icon.png
 ---

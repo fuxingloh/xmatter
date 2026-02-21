@@ -12,7 +12,7 @@ name: Pepe Unchained
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b8d8b8"
+color: "#c5c4b8"
 icons:
   - icon.png
 ---

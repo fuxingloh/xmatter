@@ -6,7 +6,7 @@ name: Bitpoint
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#184888"
+color: "#144789"
 icons:
   - icon.png
 ---

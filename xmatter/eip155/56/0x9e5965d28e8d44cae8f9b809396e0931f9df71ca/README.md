@@ -26,7 +26,7 @@ name: Space SIP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#4544e6"
 icons:
   - icon.png
 ---

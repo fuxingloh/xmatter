@@ -10,7 +10,7 @@ name: USD Coin (Portal from Avalanche)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2878c8"
+color: "#2574cb"
 icons:
   - icon.png
 ---

@@ -31,7 +31,7 @@ name: EverRise
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#c43a2e"
 icons:
   - icon.png
 ---

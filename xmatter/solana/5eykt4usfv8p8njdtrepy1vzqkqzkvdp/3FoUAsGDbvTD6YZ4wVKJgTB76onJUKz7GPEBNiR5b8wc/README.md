@@ -10,7 +10,7 @@ name: Cheems
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#c8c8b8"
+color: "#a6958d"
 icons:
   - icon.png
 ---

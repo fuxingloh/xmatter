@@ -8,7 +8,7 @@ name: Real Estate Asset Ledger
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#148cda"
 icons:
   - icon.png
 ---

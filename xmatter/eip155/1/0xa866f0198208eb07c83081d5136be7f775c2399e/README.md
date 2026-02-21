@@ -14,7 +14,7 @@ name: KORE Vault
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f858"
+color: "#ed5ff5"
 icons:
   - icon.png
 ---

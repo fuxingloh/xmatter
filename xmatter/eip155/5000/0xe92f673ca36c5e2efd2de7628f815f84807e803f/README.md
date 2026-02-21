@@ -12,7 +12,7 @@ symbol: GOOGLx
 decimals: 18
 icons:
   - icon.png
-color: "#4888f8"
+color: "#4484f3"
 ---
 
 Alphabet xStock

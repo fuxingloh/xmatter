@@ -20,7 +20,7 @@ name: Crypto Legions Bloodstone
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f83838"
+color: "#e23039"
 icons:
   - icon.png
 ---

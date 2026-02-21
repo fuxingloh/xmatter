@@ -10,7 +10,7 @@ name: Ankr (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#486878"
+color: "#569bec"
 icons:
   - icon.png
 ---

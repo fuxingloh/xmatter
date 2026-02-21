@@ -8,7 +8,7 @@ name: EventChain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#1e2263"
 icons:
   - icon.png
 ---

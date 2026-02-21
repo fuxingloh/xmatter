@@ -8,7 +8,7 @@ name: '""'
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#cb2e82"
 icons:
   - icon.png
 ---

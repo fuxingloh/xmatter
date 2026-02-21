@@ -12,7 +12,7 @@ name: OpenLM RevShare
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#181818"
+color: "#06dce4"
 icons:
   - icon.png
 ---

@@ -18,7 +18,7 @@ name: FOMO BULL CLUB
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d28c0a"
 icons:
   - icon.png
 ---

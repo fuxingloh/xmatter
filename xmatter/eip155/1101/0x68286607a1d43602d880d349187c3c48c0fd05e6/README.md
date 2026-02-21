@@ -18,7 +18,7 @@ symbol: QUICK
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#1c255a"
 ---
 
 Next-gen Layer 2 DEX. Trade at lightning-fast speeds with near-zero gas fees, Powered by Polygon

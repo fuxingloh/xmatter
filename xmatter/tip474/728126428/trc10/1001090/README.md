@@ -8,7 +8,7 @@ name: TRONONE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#f8f8f8"
+color: "#e2f0e8"
 icons:
   - icon.png
 ---

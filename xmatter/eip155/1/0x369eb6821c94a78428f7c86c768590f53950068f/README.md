@@ -8,7 +8,7 @@ name: ATFS Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#44a454"
 icons:
   - icon.png
 ---

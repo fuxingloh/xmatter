@@ -14,7 +14,7 @@ name: Mememe
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#685848"
+color: "#69603f"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Deflacoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#070605"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: GoDigit
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c89838"
+color: "#c3963d"
 icons:
   - icon.png
 ---

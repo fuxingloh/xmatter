@@ -6,7 +6,7 @@ name: lothlor
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#58a8f8"
+color: "#39470a"
 icons:
   - icon.png
 ---

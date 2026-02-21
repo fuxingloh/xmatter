@@ -8,7 +8,7 @@ name: Monaco
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#dfe3e7"
 icons:
   - icon.png
 ---

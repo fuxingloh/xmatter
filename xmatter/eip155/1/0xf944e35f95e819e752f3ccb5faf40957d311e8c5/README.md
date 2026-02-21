@@ -16,7 +16,7 @@ name: Moca
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c85898"
+color: "#c35c94"
 icons:
   - icon.png
 ---

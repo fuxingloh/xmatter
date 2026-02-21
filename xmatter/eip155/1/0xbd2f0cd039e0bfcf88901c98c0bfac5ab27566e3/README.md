@@ -12,7 +12,7 @@ name: Dynamic Set Dollar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#bababa"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Mutual Uniting System
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0888a8"
+color: "#058cac"
 icons:
   - icon.png
 ---

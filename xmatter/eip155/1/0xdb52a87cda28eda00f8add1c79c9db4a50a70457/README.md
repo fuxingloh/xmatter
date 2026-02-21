@@ -8,7 +8,7 @@ name: Trader Cash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#1cb5a6"
 icons:
   - icon.png
 ---

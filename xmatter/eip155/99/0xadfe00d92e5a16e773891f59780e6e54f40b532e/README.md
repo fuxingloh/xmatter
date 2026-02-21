@@ -8,5 +8,5 @@ symbol: VIK
 decimals: 0
 icons:
   - icon.png
-color: "#1878c8"
+color: "#1c74cc"
 ---

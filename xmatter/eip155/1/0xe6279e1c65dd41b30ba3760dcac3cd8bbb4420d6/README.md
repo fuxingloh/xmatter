@@ -8,7 +8,7 @@ name: Rebased
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ef5f28"
 icons:
   - icon.png
 ---

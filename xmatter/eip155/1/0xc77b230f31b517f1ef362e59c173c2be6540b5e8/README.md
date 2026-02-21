@@ -8,7 +8,7 @@ name: VidyCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f838a8"
+color: "#fb3cac"
 icons:
   - icon.png
 ---

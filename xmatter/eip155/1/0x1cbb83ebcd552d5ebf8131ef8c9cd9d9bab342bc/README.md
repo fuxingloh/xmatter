@@ -16,7 +16,7 @@ name: Non-Fungible Yearn
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#38e828"
+color: "#34e42c"
 icons:
   - icon.png
 ---

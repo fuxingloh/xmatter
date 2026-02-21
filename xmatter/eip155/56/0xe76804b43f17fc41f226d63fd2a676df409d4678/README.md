@@ -8,7 +8,7 @@ name: Bat Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#383858"
+color: "#3c345c"
 icons:
   - icon.png
 ---

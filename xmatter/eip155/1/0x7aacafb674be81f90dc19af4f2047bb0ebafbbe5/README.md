@@ -6,7 +6,7 @@ name: GREENQUEEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#4edcb0"
 icons:
   - icon.png
 ---

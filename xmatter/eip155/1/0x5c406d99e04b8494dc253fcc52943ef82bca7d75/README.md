@@ -8,7 +8,7 @@ name: cUSD Currency
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4888c8"
+color: "#daf2fb"
 icons:
   - icon.png
 ---

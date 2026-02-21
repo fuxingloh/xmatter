@@ -8,7 +8,7 @@ name: Rapidz
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#bc1b23"
 icons:
   - icon.png
 ---

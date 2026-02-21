@@ -14,7 +14,7 @@ name: Healthify
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#7fb942"
 icons:
   - icon.png
 ---

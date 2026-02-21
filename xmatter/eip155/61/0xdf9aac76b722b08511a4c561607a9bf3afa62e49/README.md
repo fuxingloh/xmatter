@@ -8,5 +8,5 @@ symbol: P3C
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#4bbb6c"
 ---

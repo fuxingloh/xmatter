@@ -6,7 +6,7 @@ name: DN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#789838"
+color: "#3a7028"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Jonathan Joseph
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8c898"
+color: "#41261d"
 icons:
   - icon.png
 ---

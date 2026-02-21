@@ -10,7 +10,7 @@ name: Synthetix Network Token (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080828"
+color: "#13053b"
 icons:
   - icon.png
 ---

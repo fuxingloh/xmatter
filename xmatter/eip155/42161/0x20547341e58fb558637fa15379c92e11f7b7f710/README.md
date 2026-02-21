@@ -12,7 +12,7 @@ name: Mozaic
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#cdcdcd"
 icons:
   - icon.png
 ---

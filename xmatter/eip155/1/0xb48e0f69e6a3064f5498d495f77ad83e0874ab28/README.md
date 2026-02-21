@@ -12,7 +12,7 @@ name: CXN Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#283848"
+color: "#32394d"
 icons:
   - icon.png
 ---

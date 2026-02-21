@@ -24,7 +24,7 @@ name: Robust Reward
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3838c8"
+color: "#3c3ccc"
 icons:
   - icon.png
 ---

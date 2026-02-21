@@ -8,7 +8,7 @@ name: BitGuild PLAT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#f8b808"
+color: "#f5b006"
 icons:
   - icon.png
 ---

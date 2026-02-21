@@ -16,7 +16,7 @@ name: S315
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081818"
+color: "#101b22"
 icons:
   - icon.png
 ---

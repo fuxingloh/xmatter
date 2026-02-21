@@ -8,7 +8,7 @@ name: Ethereum SV
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#782838"
+color: "#93363d"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ symbol: JEFE
 decimals: 9
 icons:
   - icon.png
-color: "#080808"
+color: "#131313"
 ---
 
 JEFETOKEN is a software development project focused on smart contracts, blockchain technology, video games & mobile applications. Our goal is to create an ecosystem of web3 applications.

@@ -10,7 +10,7 @@ name: Gondola
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f898c8"
+color: "#e393b0"
 icons:
   - icon.png
 ---

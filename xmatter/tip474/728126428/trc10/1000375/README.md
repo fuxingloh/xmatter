@@ -6,7 +6,7 @@ name: Salvatio
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#f8f8f8"
+color: "#223388"
 icons:
   - icon.png
 ---

@@ -8,5 +8,5 @@ symbol: BFM
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#8d8d8d"
 ---

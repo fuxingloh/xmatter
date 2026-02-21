@@ -16,7 +16,7 @@ name: Maker
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#58b8a8"
+color: "#5cbbab"
 icons:
   - icon.png
 ---

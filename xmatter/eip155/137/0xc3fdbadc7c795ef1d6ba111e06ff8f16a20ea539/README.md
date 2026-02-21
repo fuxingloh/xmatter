@@ -16,7 +16,7 @@ name: Adamant
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#586858"
+color: "#546454"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: mini
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#907f6b"
 icons:
   - icon.png
 ---

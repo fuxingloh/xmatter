@@ -6,7 +6,7 @@ name: Azbit
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081828"
+color: "#041424"
 icons:
   - icon.png
 ---

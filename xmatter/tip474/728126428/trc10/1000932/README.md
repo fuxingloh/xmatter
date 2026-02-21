@@ -6,7 +6,7 @@ name: GamingEmpowermentMaterialSource
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#f8f8f8"
+color: "#1e1e1e"
 icons:
   - icon.png
 ---

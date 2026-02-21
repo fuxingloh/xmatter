@@ -18,7 +18,7 @@ name: Cream Binance USD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#efb913"
 icons:
   - icon.png
 ---

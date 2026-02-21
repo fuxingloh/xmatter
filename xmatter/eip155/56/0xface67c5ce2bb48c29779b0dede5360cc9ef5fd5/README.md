@@ -25,7 +25,7 @@ name: Affinity
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d12227"
 icons:
   - icon.png
 ---

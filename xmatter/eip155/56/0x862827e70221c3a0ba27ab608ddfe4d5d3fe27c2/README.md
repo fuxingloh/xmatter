@@ -8,7 +8,7 @@ name: SafeRune
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#586878"
+color: "#5c6c74"
 icons:
   - icon.png
 ---

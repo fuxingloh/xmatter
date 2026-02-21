@@ -6,7 +6,7 @@ name: ORACLETRX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#f8f8f8"
+color: "#9f4478"
 icons:
   - icon.png
 ---

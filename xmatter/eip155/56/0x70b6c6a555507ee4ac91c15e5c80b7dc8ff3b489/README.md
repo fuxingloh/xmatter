@@ -14,7 +14,7 @@ name: XTblock Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#05ac9f"
 icons:
   - icon.png
 ---

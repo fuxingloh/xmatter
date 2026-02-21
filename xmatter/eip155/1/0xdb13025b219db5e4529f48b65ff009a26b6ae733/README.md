@@ -8,7 +8,7 @@ name: Ubricoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8d878"
+color: "#f0e085"
 icons:
   - icon.png
 ---

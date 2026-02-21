@@ -8,7 +8,7 @@ name: SONM Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081828"
+color: "#edeeee"
 icons:
   - icon.png
 ---

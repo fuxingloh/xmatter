@@ -8,7 +8,7 @@ name: SAFEMOON RED
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8e8e8"
+color: "#fae9eb"
 icons:
   - icon.png
 ---

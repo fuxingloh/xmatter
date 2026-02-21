@@ -8,7 +8,7 @@ name: Axolotl Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a8f8f8"
+color: "#a3f2fa"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ name: BILLY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#e8e8d8"
+color: "#a69d7f"
 icons:
   - icon.png
 ---

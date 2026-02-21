@@ -12,7 +12,7 @@ name: Venus XVS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#181828"
+color: "#369af0"
 icons:
   - icon.png
 ---

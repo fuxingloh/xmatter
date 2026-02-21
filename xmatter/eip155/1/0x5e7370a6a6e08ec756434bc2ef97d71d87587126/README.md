@@ -6,7 +6,7 @@ name: EL REY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8e818"
+color: "#ece413"
 icons:
   - icon.png
 ---

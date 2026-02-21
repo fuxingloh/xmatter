@@ -14,7 +14,7 @@ name: SnailBrook
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#280868"
+color: "#240f6e"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: wCardano
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081828"
+color: "#131c2c"
 icons:
   - icon.png
 ---

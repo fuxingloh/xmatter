@@ -20,7 +20,7 @@ symbol: USDM
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#365d46"
 ---
 
 MegaUSD stablecoin on MegaETH

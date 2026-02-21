@@ -14,7 +14,7 @@ name: Copiosa Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4868f8"
+color: "#3e5df0"
 icons:
   - icon.png
 ---

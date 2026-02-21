@@ -6,7 +6,7 @@ name: StonieCoin BETA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ecdc11"
 icons:
   - icon.png
 ---

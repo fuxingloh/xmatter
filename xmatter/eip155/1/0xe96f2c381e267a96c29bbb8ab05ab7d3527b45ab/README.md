@@ -8,7 +8,7 @@ name: SatoExchange
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#1c74d3"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Pesto the Baby King Penguin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#382818"
+color: "#b0aaa6"
 icons:
   - icon.png
 ---

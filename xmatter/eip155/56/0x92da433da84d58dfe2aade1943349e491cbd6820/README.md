@@ -24,7 +24,7 @@ name: Rise of Defenders Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8e8d8"
+color: "#dbdbda"
 icons:
   - icon.png
 ---

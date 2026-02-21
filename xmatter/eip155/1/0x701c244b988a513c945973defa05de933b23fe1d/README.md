@@ -8,7 +8,7 @@ name: openANX Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#284878"
+color: "#23437b"
 icons:
   - icon.png
 ---

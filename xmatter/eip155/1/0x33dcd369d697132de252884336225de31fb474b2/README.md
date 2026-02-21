@@ -6,7 +6,7 @@ name: Alice
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#fb9f78"
 icons:
   - icon.png
 ---

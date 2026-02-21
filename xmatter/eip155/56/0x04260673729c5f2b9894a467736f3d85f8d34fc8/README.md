@@ -24,7 +24,7 @@ name: CryptoPlanes
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3868c8"
+color: "#f2c36c"
 icons:
   - icon.png
 ---

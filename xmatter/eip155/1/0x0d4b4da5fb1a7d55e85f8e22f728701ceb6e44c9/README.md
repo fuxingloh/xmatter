@@ -8,7 +8,7 @@ name: DigiMax
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#ca0707"
 icons:
   - icon.png
 ---

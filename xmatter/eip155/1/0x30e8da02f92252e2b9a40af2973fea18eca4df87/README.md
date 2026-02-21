@@ -6,7 +6,7 @@ name: FIAT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#bca13c"
 icons:
   - icon.png
 ---

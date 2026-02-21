@@ -14,7 +14,7 @@ name: GAMMA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#06200d"
 icons:
   - icon.png
 ---

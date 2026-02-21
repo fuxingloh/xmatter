@@ -10,7 +10,7 @@ symbol: WBTC.eth
 decimals: 8
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#87868f"
 ---
 
 Wrapped Bitcoin (WBTC) is the first ERC20 token backed 1:1 with Bitcoin.

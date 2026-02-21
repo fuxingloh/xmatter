@@ -24,7 +24,7 @@ name: SparkLab
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#58b8f8"
+color: "#2597f7"
 icons:
   - icon.png
 ---

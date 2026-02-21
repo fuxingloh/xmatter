@@ -8,7 +8,7 @@ name: Gomics
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#d42424"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: MIMANY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#382818"
+color: "#222f1f"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: GETART Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#de9d89"
 icons:
   - icon.png
 ---

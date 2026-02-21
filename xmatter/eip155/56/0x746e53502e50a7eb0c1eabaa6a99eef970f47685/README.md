@@ -8,7 +8,7 @@ name: Xiaoji.cash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8d878"
+color: "#0d0c09"
 icons:
   - icon.png
 ---

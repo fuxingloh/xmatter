@@ -16,7 +16,7 @@ symbol: LYNX
 decimals: 18
 icons:
   - icon.png
-color: "#181818"
+color: "#e9c59c"
 ---
 
 Lynex stands as a cutting-edge decentralized exchange (DEX), liquidity layer, and ALM aggregator on the Linea blockchain. This robust platform revolutionizes DeFi activities by offering token swapping, seamless liquidity provision, and governance through the innovative veLYNX voting mechanism.

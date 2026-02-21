@@ -32,7 +32,7 @@ name: Luxurious Pro Network Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e83858"
+color: "#011230"
 icons:
   - icon.png
 ---

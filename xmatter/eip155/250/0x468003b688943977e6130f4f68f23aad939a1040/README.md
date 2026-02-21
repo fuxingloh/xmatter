@@ -17,7 +17,7 @@ decimals: 18
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#6c69e9"
 ---
 
 Abracadabra.money is a lending platform that allows users to borrow funds using Interest Bearing Tokens as collateral.

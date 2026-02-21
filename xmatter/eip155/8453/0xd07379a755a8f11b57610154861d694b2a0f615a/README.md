@@ -10,7 +10,7 @@ name: BASE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#3bcee5"
 icons:
   - icon.png
 ---

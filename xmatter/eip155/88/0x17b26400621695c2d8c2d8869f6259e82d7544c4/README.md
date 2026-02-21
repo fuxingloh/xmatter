@@ -8,5 +8,5 @@ symbol: TOMO
 decimals: 18
 icons:
   - icon.png
-color: "#183858"
+color: "#143b54"
 ---

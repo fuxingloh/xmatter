@@ -8,7 +8,7 @@ name: Fire Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#fce945"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ symbol: STMX
 decimals: 18
 icons:
   - icon.png
-color: "#6828e8"
+color: "#6c2ce4"
 ---
 
 Earn crypto when you shop online.

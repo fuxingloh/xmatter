@@ -12,7 +12,7 @@ name: ATWO (wrapped)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f838"
+color: "#f3fb3c"
 icons:
   - icon.png
 ---

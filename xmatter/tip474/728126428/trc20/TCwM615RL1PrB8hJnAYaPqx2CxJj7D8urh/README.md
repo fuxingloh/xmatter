@@ -13,7 +13,7 @@ symbol: JNJx
 decimals: 18
 icons:
   - icon.png
-color: "#e81808"
+color: "#eb1404"
 ---
 
 Johnson & Johnson xStock

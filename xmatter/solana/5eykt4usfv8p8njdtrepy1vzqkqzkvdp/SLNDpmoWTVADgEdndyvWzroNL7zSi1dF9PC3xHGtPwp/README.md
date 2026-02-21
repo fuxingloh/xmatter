@@ -12,7 +12,7 @@ name: Solend
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#081818"
+color: "#f4753e"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: UFOPepe
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#68a8c8"
+color: "#68b0af"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: CreditBIT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#283858"
+color: "#293a51"
 icons:
   - icon.png
 ---

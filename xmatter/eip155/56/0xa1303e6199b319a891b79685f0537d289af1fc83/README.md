@@ -16,7 +16,7 @@ name: NAR Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8e8f8"
+color: "#dae0f8"
 icons:
   - icon.png
 ---

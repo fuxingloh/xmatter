@@ -8,7 +8,7 @@ name: CASHBACK Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#107cc2"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: ZeroCarbon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#180848"
+color: "#1b0c53"
 icons:
   - icon.png
 ---

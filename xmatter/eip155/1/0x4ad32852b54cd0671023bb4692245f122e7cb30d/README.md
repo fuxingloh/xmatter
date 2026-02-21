@@ -6,7 +6,7 @@ name: Co2 Hero
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486848"
+color: "#0071bc"
 icons:
   - icon.png
 ---

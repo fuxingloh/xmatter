@@ -6,7 +6,7 @@ name: Hexa Chain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#085808"
+color: "#eff8ee"
 icons:
   - icon.png
 ---

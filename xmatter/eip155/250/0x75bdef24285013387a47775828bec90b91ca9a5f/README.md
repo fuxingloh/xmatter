@@ -22,7 +22,7 @@ symbol: sHEC
 decimals: 9
 icons:
   - icon.png
-color: "#080808"
+color: "#ac9d81"
 ---
 
 Staked version of Hector (HEC) Token

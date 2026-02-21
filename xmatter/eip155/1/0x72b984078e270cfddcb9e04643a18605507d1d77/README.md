@@ -6,7 +6,7 @@ name: EASY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#9b7731"
 icons:
   - icon.png
 ---

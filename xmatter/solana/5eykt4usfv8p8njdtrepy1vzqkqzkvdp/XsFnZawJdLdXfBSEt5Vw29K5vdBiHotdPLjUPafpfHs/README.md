@@ -10,7 +10,7 @@ symbol: IEMGx
 decimals: 8
 icons:
   - icon.png
-color: "#18a8d8"
+color: "#1cacdc"
 ---
 
 Core MSCI Emerging Markets xStock

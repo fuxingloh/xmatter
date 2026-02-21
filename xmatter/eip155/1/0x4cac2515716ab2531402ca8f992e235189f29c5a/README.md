@@ -8,7 +8,7 @@ name: WINSTEX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#88c838"
+color: "#0474bc"
 icons:
   - icon.png
 ---

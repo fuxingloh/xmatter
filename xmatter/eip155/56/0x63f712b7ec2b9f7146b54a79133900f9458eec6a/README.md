@@ -16,7 +16,7 @@ name: FutureToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#b3b3b3"
 icons:
   - icon.png
 ---

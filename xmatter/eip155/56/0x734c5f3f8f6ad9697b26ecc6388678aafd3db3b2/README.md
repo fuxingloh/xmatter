@@ -18,7 +18,7 @@ name: METAMUSK Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ff147a"
 icons:
   - icon.png
 ---

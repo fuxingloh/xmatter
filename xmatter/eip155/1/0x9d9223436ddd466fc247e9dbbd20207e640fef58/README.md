@@ -6,7 +6,7 @@ name: Olive
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8888f8"
+color: "#848cfb"
 icons:
   - icon.png
 ---

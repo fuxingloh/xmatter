@@ -6,7 +6,7 @@ name: MasterMind Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d0d0d0"
 icons:
   - icon.png
 ---

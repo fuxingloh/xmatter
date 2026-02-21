@@ -6,7 +6,7 @@ name: Alxocity
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#e0c8a2"
 icons:
   - icon.png
 ---

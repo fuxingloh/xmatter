@@ -10,7 +10,7 @@ name: SAFESUN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8e808"
+color: "#fbdb0d"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Korbot
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2868e8"
+color: "#2c69e8"
 icons:
   - icon.png
 ---

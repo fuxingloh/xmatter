@@ -14,7 +14,7 @@ symbol: sUSDe
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#0e0e0e"
 ---
 
 vEthena is a synthetic dollar protocol built on Ethereum that will provide a crypto-native solution for money not reliant on traditional banking system infrastructure, alongside a globally accessible dollar denominated savings instrument - the 'Internet Bond'.

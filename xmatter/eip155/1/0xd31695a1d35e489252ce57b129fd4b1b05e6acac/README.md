@@ -8,7 +8,7 @@ name: TOKPIE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#0baffc"
 icons:
   - icon.png
 ---

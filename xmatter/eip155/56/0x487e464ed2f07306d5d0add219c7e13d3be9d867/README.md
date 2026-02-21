@@ -14,7 +14,7 @@ name: The xHunter
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#082808"
+color: "#0b2c04"
 icons:
   - icon.png
 ---

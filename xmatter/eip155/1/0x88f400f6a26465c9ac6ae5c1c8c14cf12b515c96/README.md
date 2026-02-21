@@ -8,7 +8,7 @@ name: Virus Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#c9c9c9"
 icons:
   - icon.png
 ---

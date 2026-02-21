@@ -6,7 +6,7 @@ name: Futbol Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8c808"
+color: "#ebc304"
 icons:
   - icon.png
 ---

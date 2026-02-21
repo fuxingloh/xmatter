@@ -12,7 +12,7 @@ symbol: THC
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#0c0a0d"
 ---
 
 The Conspiracy Brand of Crypto. 👁🕳 Built on Sonic

@@ -8,7 +8,7 @@ name: Metronome
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#282828"
+color: "#2b242b"
 icons:
   - icon.png
 ---

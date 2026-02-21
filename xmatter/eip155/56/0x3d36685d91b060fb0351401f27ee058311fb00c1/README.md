@@ -10,7 +10,7 @@ name: Costco Hot Dog
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8e8d8"
+color: "#c4c6c3"
 icons:
   - icon.png
 ---

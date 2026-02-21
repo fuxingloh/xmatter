@@ -10,7 +10,7 @@ name: TRUMP AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#bd9d92"
 icons:
   - icon.png
 ---

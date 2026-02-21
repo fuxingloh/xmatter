@@ -16,7 +16,7 @@ symbol: SHIB
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#efa23b"
 ---
 
 According to SHIBA INU, the reasoning behind the creation of SHIBA is that Shibas constantly forget where they bury their treasure. The website proclaims "Many doggie wars have been waged over precious treasure and delicious goodies."

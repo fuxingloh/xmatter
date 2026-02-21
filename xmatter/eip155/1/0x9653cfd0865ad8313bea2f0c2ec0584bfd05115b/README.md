@@ -6,7 +6,7 @@ name: FuturXE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e80818"
+color: "#ed0c1a"
 icons:
   - icon.png
 ---

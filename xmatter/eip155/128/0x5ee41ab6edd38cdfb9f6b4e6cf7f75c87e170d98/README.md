@@ -18,7 +18,7 @@ symbol: TUSD
 decimals: 18
 icons:
   - icon.png
-color: "#1858f8"
+color: "#1b5bfc"
 ---
 
 TUSD is a regulated, exchange-independent stablecoin backed 1-for-1 with US Dollars.

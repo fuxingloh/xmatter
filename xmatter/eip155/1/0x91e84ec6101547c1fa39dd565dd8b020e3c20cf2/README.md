@@ -8,7 +8,7 @@ name: Cannadrix
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#083818"
+color: "#05471e"
 icons:
   - icon.png
 ---

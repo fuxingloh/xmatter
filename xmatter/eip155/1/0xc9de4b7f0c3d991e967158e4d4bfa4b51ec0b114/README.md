@@ -6,7 +6,7 @@ name: ROK Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#f4dab8"
 icons:
   - icon.png
 ---

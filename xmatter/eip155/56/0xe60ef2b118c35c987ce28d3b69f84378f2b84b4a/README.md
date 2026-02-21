@@ -8,7 +8,7 @@ name: NudesCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#380838"
+color: "#3b0e61"
 icons:
   - icon.png
 ---

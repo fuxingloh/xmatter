@@ -18,7 +18,7 @@ name: VVS Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#283858"
+color: "#2c3b53"
 icons:
   - icon.png
 ---

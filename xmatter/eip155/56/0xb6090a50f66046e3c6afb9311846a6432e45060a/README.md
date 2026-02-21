@@ -12,7 +12,7 @@ name: PinkMoon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8a898"
+color: "#f5a59a"
 icons:
   - icon.png
 ---

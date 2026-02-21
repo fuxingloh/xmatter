@@ -6,7 +6,7 @@ name: GLAD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#78a838"
+color: "#74af36"
 icons:
   - icon.png
 ---

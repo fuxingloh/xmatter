@@ -14,7 +14,7 @@ name: Media Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080808"
+color: "#06060b"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ symbol: MANTA
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#15a4e6"
 ---
 
 Manta Pacific is the first EVM-equivalent ZK-application platform that is scalable and secure through Celestia DA and Polygon zkEVM.

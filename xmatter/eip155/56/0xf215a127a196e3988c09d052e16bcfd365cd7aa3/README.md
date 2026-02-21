@@ -8,7 +8,7 @@ name: Wrapped Mirror TSLA Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#e41c34"
 icons:
   - icon.png
 ---

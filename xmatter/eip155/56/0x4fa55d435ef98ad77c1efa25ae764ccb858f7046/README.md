@@ -8,7 +8,7 @@ name: HelloSwap Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8e8f8"
+color: "#b41676"
 icons:
   - icon.png
 ---

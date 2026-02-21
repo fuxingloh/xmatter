@@ -22,7 +22,7 @@ name: KodexPay
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#2f3a60"
 icons:
   - icon.png
 ---

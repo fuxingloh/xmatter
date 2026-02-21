@@ -8,5 +8,5 @@ symbol: EMD
 decimals: 5
 icons:
   - icon.png
-color: "#080808"
+color: "#42aa6e"
 ---

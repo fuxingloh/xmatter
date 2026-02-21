@@ -8,7 +8,7 @@ name: BRZ
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a8d8c8"
+color: "#acdbc5"
 icons:
   - icon.png
 ---

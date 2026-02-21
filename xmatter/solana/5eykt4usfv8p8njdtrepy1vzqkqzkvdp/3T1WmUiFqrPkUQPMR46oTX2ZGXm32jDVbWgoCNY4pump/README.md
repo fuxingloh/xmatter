@@ -12,7 +12,7 @@ name: bichi mao
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8e8"
+color: "#fbe7cc"
 icons:
   - icon.png
 ---

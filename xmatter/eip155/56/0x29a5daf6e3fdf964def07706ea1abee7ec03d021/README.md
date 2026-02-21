@@ -22,7 +22,7 @@ name: Trillioner
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8b818"
+color: "#fabb1c"
 icons:
   - icon.png
 ---

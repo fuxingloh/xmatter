@@ -10,7 +10,7 @@ name: Terawatt LED Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#58b746"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: Growth DeFi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#04f892"
 icons:
   - icon.png
 ---

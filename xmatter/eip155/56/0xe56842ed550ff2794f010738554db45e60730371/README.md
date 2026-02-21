@@ -14,7 +14,7 @@ name: Binemon token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#363749"
 icons:
   - icon.png
 ---

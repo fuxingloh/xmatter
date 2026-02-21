@@ -10,7 +10,7 @@ name: Non-Playable Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#48b8e8"
+color: "#44b3eb"
 icons:
   - icon.png
 ---

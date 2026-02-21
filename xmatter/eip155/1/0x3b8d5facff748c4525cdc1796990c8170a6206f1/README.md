@@ -6,7 +6,7 @@ name: Atunala Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8e808"
+color: "#fae304"
 icons:
   - icon.png
 ---

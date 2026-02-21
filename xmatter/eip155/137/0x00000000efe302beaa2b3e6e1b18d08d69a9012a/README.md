@@ -10,7 +10,7 @@ name: AUSD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#989848"
+color: "#9c9454"
 icons:
   - icon.png
 ---

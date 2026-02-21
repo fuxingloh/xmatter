@@ -8,7 +8,7 @@ name: DeepCloud
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#3e9ace"
 icons:
   - icon.png
 ---

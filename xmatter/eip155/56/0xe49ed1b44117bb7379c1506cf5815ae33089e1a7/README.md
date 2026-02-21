@@ -8,7 +8,7 @@ name: Order of the Black Rose
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#332f30"
 icons:
   - icon.png
 ---

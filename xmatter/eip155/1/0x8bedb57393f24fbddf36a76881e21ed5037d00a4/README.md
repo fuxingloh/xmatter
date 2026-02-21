@@ -6,7 +6,7 @@ name: Decentralized Finance Application
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#4bdba1"
 icons:
   - icon.png
 ---

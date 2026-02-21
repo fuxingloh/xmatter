@@ -14,7 +14,7 @@ name: Amazing Doge
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#58c8f8"
+color: "#5cc3f3"
 icons:
   - icon.png
 ---

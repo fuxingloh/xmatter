@@ -16,7 +16,7 @@ name: ITAM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#efa95d"
 icons:
   - icon.png
 ---

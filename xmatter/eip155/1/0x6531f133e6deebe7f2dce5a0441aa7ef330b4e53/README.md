@@ -8,7 +8,7 @@ name: Chronobank TIME (EOL)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080828"
+color: "#0f0c29"
 icons:
   - icon.png
 ---

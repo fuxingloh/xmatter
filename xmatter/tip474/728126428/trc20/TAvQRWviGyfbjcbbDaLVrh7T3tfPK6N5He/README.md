@@ -6,7 +6,7 @@ name: DYIToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#080808"
+color: "#f99015"
 icons:
   - icon.png
 ---

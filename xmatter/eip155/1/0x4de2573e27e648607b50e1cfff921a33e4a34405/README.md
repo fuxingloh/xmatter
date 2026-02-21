@@ -8,7 +8,7 @@ name: Lendroid Support Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#182858"
+color: "#14255c"
 icons:
   - icon.png
 ---

@@ -22,7 +22,7 @@ name: Synthetix
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080828"
+color: "#0c042c"
 icons:
   - icon.png
 ---

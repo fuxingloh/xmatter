@@ -14,7 +14,7 @@ name: Booster
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0818a8"
+color: "#0e16a4"
 icons:
   - icon.png
 ---

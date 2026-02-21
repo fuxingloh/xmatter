@@ -6,7 +6,7 @@ name: Global Super Game
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08a8f8"
+color: "#b1e9fc"
 icons:
   - icon.png
 ---

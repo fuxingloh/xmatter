@@ -8,7 +8,7 @@ name: Game Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#9888c8"
+color: "#9485cc"
 icons:
   - icon.png
 ---

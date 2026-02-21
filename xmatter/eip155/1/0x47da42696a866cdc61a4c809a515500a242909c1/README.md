@@ -8,7 +8,7 @@ name: BitRewards Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#fc7c46"
 icons:
   - icon.png
 ---

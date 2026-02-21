@@ -15,7 +15,7 @@ name: Wrapped CrowdStrike Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e83828"
+color: "#eb3b24"
 icons:
   - icon.png
 ---

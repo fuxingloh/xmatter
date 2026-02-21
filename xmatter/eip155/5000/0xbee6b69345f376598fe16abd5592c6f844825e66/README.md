@@ -12,7 +12,7 @@ symbol: OPENx
 decimals: 18
 icons:
   - icon.png
-color: "#1888e8"
+color: "#1c84eb"
 ---
 
 OPEN xStock

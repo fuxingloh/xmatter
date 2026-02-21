@@ -8,7 +8,7 @@ name: SafeDancer
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#e25a32"
 icons:
   - icon.png
 ---

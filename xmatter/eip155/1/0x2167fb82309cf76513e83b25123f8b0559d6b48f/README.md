@@ -8,7 +8,7 @@ name: LION
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#082848"
+color: "#285c7c"
 icons:
   - icon.png
 ---

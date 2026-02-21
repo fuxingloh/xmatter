@@ -6,7 +6,7 @@ name: Dogethereum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#c9b674"
 icons:
   - icon.png
 ---

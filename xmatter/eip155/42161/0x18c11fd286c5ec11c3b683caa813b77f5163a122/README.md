@@ -28,7 +28,7 @@ name: Gains Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#181818"
+color: "#3ad4b4"
 icons:
   - icon.png
 ---

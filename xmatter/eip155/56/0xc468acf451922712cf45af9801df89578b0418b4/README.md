@@ -10,7 +10,7 @@ name: DOODiPALS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8e8b8"
+color: "#eb9d42"
 icons:
   - icon.png
 ---

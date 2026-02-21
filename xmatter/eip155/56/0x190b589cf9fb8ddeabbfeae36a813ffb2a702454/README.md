@@ -16,7 +16,7 @@ name: bDollar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#fbd01b"
 icons:
   - icon.png
 ---

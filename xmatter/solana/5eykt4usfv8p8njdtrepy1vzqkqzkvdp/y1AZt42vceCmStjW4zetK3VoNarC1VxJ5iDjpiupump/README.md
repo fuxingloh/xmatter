@@ -12,7 +12,7 @@ name: FARTBOY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#c8d828"
+color: "#2ba6ce"
 icons:
   - icon.png
 ---

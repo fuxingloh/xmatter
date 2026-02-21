@@ -10,7 +10,7 @@ name: USDS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8a848"
+color: "#fca050"
 icons:
   - icon.png
 ---

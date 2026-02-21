@@ -10,7 +10,7 @@ name: Keyboard Cat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#082868"
+color: "#1f3b71"
 icons:
   - icon.svg
   - icon.png

@@ -12,7 +12,7 @@ name: PolkaWar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d00c76"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Sanook Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b81818"
+color: "#c82222"
 icons:
   - icon.png
 ---

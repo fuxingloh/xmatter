@@ -8,7 +8,7 @@ name: Kava
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f85848"
+color: "#fc534b"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Walken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#181818"
+color: "#f6b735"
 icons:
   - icon.png
 ---

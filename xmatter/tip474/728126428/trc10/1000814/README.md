@@ -6,7 +6,7 @@ name: MGG
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#e8e8e8"
+color: "#eae9e9"
 icons:
   - icon.png
 ---

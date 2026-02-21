@@ -10,7 +10,7 @@ name: Decentraland (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080808"
+color: "#f1505c"
 icons:
   - icon.png
 ---

@@ -15,7 +15,7 @@ name: International Business Machines tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0868f8"
+color: "#0c63fb"
 icons:
   - icon.png
 ---

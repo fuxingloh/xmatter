@@ -10,7 +10,7 @@ name: Paxos Gold (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#486878"
+color: "#dfca20"
 icons:
   - icon.png
 ---

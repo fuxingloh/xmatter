@@ -14,7 +14,7 @@ name: Sundog
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#e8c8b8"
+color: "#b6a17d"
 icons:
   - icon.png
 ---

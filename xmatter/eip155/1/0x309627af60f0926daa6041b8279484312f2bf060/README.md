@@ -8,7 +8,7 @@ name: Bancor USD Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081838"
+color: "#0e253e"
 icons:
   - icon.png
 ---

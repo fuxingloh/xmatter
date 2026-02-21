@@ -10,7 +10,7 @@ name: USDK (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#0878f8"
+color: "#0c74f3"
 icons:
   - icon.png
 ---

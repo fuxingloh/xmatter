@@ -8,7 +8,7 @@ name: PLANET
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8c848"
+color: "#120f09"
 icons:
   - icon.png
 ---

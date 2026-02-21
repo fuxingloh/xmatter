@@ -20,7 +20,7 @@ name: Nasa Doge
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#282868"
+color: "#303c78"
 icons:
   - icon.png
 ---

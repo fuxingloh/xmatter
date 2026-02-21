@@ -16,7 +16,7 @@ name: Hungry Bear
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8d888"
+color: "#43261b"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ symbol: PFEx
 decimals: 18
 icons:
   - icon.png
-color: "#0808c8"
+color: "#0404cc"
 ---
 
 Pfizer xStock

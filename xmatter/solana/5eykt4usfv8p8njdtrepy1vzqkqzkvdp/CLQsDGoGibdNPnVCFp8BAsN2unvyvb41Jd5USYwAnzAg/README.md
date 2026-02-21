@@ -10,7 +10,7 @@ name: Ethereum Name Service (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#7898f8"
+color: "#6ca0f7"
 icons:
   - icon.png
 ---

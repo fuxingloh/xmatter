@@ -6,7 +6,7 @@ name: Oracle Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#139c93"
 icons:
   - icon.png
 ---

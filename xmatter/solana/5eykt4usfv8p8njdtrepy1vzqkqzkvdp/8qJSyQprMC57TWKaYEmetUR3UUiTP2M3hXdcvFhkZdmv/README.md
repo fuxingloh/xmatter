@@ -10,7 +10,7 @@ name: Tether USD (Portal from BSC)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#48a898"
+color: "#55ac94"
 icons:
   - icon.png
 ---

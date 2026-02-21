@@ -12,7 +12,7 @@ name: SHIBANOMICS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#881818"
+color: "#8e1e1c"
 icons:
   - icon.png
 ---

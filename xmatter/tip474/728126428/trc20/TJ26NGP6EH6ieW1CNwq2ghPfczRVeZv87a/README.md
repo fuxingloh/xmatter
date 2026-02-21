@@ -12,7 +12,7 @@ symbol: CSCOx
 decimals: 18
 icons:
   - icon.png
-color: "#0898d8"
+color: "#049bdb"
 ---
 
 Cisco xStock

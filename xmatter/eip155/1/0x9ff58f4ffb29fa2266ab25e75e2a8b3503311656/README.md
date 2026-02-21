@@ -8,7 +8,7 @@ name: Aave WBTC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#807da8"
 icons:
   - icon.svg
   - icon.png

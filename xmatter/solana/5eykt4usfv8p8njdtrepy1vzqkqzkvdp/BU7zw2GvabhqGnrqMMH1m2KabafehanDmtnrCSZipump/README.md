@@ -12,7 +12,7 @@ name: Lil Bub
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#b8d8c8"
+color: "#bed0bf"
 icons:
   - icon.png
 ---

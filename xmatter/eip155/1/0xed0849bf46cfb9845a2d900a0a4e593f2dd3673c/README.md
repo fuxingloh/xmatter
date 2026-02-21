@@ -8,7 +8,7 @@ name: Saga
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1858e8"
+color: "#2355e4"
 icons:
   - icon.png
 ---

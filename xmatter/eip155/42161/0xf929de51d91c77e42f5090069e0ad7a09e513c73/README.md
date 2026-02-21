@@ -14,7 +14,7 @@ name: Shapeshift FOX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081828"
+color: "#0c1b2c"
 icons:
   - icon.png
 ---

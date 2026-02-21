@@ -6,7 +6,7 @@ name: HaloCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#e4c16c"
 icons:
   - icon.png
 ---

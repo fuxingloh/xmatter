@@ -27,7 +27,7 @@ name: TOR Stablecoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b89888"
+color: "#b6a086"
 icons:
   - icon.png
 ---

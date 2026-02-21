@@ -8,7 +8,7 @@ name: Binance Wrapped FIL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0888f8"
+color: "#0494fb"
 icons:
   - icon.png
 ---

@@ -30,7 +30,7 @@ name: RiceFarm Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#287828"
+color: "#287127"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Edwin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#385888"
+color: "#d9aa79"
 icons:
   - icon.png
 ---

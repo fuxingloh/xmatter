@@ -6,7 +6,7 @@ name: Grandeo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5848a8"
+color: "#534ca3"
 icons:
   - icon.png
 ---

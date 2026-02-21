@@ -8,7 +8,7 @@ name: ALP Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#485848"
+color: "#475044"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ symbol: WBB
 decimals: 18
 icons:
   - icon.png
-color: "#f8e8e8"
+color: "#f3eceb"
 ---
 
 BounceBit pioneers CeDeFi infrastructure, offering institutional-grade yield products, restaking use cases, and CeDeFi as a service, making high-yield opportunities accessible.

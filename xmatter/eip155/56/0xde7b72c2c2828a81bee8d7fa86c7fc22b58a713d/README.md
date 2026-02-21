@@ -19,7 +19,7 @@ name: EtherPoS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#223d6c"
 icons:
   - icon.png
 ---

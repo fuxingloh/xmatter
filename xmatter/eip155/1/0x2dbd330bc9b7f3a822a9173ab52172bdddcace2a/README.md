@@ -14,7 +14,7 @@ name: YFED.FINANCE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8858d8"
+color: "#7367de"
 icons:
   - icon.png
 ---

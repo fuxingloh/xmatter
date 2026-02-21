@@ -6,7 +6,7 @@ name: LOCKEDiN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#264c7a"
 icons:
   - icon.png
 ---

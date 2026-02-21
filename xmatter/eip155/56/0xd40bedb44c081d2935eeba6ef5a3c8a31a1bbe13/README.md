@@ -8,7 +8,7 @@ name: Metahero
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#65c2b7"
 icons:
   - icon.png
 ---

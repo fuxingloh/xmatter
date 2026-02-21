@@ -8,7 +8,7 @@ name: Belifex
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#286898"
+color: "#3b7fab"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ name: MagicStaves
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#083858"
+color: "#043256"
 icons:
   - icon.png
 ---

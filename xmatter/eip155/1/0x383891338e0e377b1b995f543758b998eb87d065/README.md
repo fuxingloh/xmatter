@@ -6,7 +6,7 @@ name: GBHub Pro
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d9b55b"
 icons:
   - icon.png
 ---

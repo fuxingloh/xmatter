@@ -16,7 +16,7 @@ name: Miss Doge
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#f3c9a9"
 icons:
   - icon.png
 ---

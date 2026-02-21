@@ -8,7 +8,7 @@ name: Charity Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b89838"
+color: "#ba9132"
 icons:
   - icon.png
 ---

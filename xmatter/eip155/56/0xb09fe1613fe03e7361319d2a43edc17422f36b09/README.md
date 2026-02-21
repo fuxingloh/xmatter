@@ -8,7 +8,7 @@ name: Bogged Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8c818"
+color: "#fcfbfb"
 icons:
   - icon.png
 ---

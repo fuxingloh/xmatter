@@ -8,7 +8,7 @@ name: RealToken 9943 Marlowe Street Detroit MI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#d6c5a1"
 icons:
   - icon.png
 ---

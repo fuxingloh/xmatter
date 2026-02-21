@@ -15,7 +15,7 @@ name: Wrapped Abbott tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1898d8"
+color: "#149bd3"
 icons:
   - icon.png
 ---

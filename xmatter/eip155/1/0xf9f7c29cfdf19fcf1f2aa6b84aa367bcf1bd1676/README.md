@@ -6,7 +6,7 @@ name: Delphi Technologies Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0838f8"
+color: "#0433fb"
 icons:
   - icon.png
 ---

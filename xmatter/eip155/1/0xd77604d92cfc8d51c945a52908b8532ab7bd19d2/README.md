@@ -6,7 +6,7 @@ name: Exchain Global
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8b838"
+color: "#fbbc34"
 icons:
   - icon.png
 ---

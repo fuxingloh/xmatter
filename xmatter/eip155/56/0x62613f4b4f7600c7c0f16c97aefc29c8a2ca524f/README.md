@@ -8,7 +8,7 @@ name: Global Adversity Project
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f88838"
+color: "#438e72"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ name: Gamezone.io
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#38f818"
+color: "#bcfcc2"
 icons:
   - icon.png
 ---

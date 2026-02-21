@@ -14,7 +14,7 @@ name: Philip Morris tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#4898d8"
+color: "#4ba3dc"
 icons:
   - icon.png
 ---

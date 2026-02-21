@@ -8,7 +8,7 @@ name: BBNToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#365f86"
 icons:
   - icon.png
 ---

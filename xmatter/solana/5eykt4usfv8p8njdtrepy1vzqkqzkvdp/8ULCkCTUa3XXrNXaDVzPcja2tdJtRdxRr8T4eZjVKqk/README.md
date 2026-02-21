@@ -12,7 +12,7 @@ name: GAME OF MEMES
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#7838b8"
+color: "#7a46b6"
 icons:
   - icon.png
 ---

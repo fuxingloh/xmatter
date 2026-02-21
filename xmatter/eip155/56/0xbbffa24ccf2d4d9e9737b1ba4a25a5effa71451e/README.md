@@ -14,7 +14,7 @@ name: Tech Earnbd
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#0c800b"
 icons:
   - icon.png
 ---

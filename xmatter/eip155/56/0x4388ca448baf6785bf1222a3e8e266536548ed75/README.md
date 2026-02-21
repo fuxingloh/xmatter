@@ -8,7 +8,7 @@ name: TravelCake
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#085888"
+color: "#04548c"
 icons:
   - icon.png
 ---

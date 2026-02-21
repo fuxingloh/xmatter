@@ -10,7 +10,7 @@ name: Paramecium
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c8d8e8"
+color: "#c7d9cb"
 icons:
   - icon.png
 ---

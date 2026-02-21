@@ -6,7 +6,7 @@ name: Ducat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#333366"
 icons:
   - icon.png
 ---

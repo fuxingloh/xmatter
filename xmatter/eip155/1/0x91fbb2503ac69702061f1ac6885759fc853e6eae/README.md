@@ -20,7 +20,7 @@ name: K9 Finance DAO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#e44e20"
 icons:
   - icon.png
 ---

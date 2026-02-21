@@ -8,7 +8,7 @@ name: POPPY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#d83828"
+color: "#db3323"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Zyber Synergy
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#f50681"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Metrin Data Platform
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#9e82ab"
 icons:
   - icon.png
 ---

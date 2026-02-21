@@ -6,7 +6,7 @@ name: Groocoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e81888"
+color: "#f4d2e3"
 icons:
   - icon.png
 ---

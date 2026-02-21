@@ -6,7 +6,7 @@ name: 游龙盾
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#281848"
+color: "#9f8b9f"
 icons:
   - icon.png
 ---

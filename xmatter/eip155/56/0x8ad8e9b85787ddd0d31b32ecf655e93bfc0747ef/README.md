@@ -14,7 +14,7 @@ standards:
   - erc20
 icons:
   - icon.png
-color: "#180828"
+color: "#14041e"
 ---
 
 Sombra is a social NFT marketplace and gaming ecosystem created to bring collectors, artists and innovators together to make the impossible possible.

@@ -6,7 +6,7 @@ name: LoveHearts
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#f8f8f8"
+color: "#d61419"
 icons:
   - icon.png
 ---

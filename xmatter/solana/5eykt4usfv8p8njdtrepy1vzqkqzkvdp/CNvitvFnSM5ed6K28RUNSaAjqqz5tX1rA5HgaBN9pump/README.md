@@ -10,7 +10,7 @@ name: First Convicted RACCON
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#786858"
+color: "#716b5f"
 icons:
   - icon.png
 ---

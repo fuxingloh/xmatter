@@ -8,7 +8,7 @@ name: TEN Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#ec4c44"
 icons:
   - icon.png
 ---

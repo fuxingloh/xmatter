@@ -12,7 +12,7 @@ name: Wrapped BMX Liquidity
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0808f8"
+color: "#c4a474"
 icons:
   - icon.svg
   - icon.png

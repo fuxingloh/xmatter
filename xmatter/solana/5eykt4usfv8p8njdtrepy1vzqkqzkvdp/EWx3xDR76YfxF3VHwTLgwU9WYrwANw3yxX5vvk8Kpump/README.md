@@ -12,7 +12,7 @@ name: twurtle the turtle
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#a8c898"
+color: "#243660"
 icons:
   - icon.png
 ---

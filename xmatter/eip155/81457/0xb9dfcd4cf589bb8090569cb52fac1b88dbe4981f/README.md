@@ -14,7 +14,7 @@ symbol: BAG
 decimals: 18
 icons:
   - icon.png
-color: "#080818"
+color: "#0c1832"
 ---
 
 BAG: The metaverse coin of the people. Aligning builders and hosts to become the #1 Metaverse community in the world.

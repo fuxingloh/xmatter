@@ -12,7 +12,7 @@ name: Claude Opus
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#181818"
+color: "#7a8fb8"
 icons:
   - icon.png
 ---

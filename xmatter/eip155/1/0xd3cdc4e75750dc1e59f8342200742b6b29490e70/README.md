@@ -8,7 +8,7 @@ name: Decurian
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#d0d0d1"
 icons:
   - icon.png
 ---

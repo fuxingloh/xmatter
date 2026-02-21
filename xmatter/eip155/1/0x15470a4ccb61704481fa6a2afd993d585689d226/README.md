@@ -6,7 +6,7 @@ name: BRI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08d8b8"
+color: "#00d4be"
 icons:
   - icon.png
 ---

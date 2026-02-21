@@ -6,7 +6,7 @@ name: Hero Origen Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2878b8"
+color: "#e3e7e9"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: donotfomoew
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#0858f8"
+color: "#f7f2f0"
 icons:
   - icon.png
 ---

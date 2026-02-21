@@ -14,7 +14,7 @@ name: Dingocoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d0a842"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Hugo Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d8f868"
+color: "#a25741"
 icons:
   - icon.png
 ---

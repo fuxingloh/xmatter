@@ -6,7 +6,7 @@ name: coindex
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#f48f27"
 icons:
   - icon.png
 ---

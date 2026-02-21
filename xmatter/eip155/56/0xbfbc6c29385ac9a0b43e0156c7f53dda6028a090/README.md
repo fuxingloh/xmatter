@@ -8,7 +8,7 @@ name: Doge-1 Rocket
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#877344"
 icons:
   - icon.png
 ---

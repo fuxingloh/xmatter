@@ -6,7 +6,7 @@ name: RXCOIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#05d488"
 icons:
   - icon.png
 ---

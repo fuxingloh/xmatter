@@ -8,7 +8,7 @@ name: AraPlanet
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ce9e49"
 icons:
   - icon.png
 ---

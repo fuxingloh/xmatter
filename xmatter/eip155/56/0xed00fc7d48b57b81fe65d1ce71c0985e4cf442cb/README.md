@@ -16,7 +16,7 @@ name: Chirpley Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f84838"
+color: "#f4443c"
 icons:
   - icon.png
 ---

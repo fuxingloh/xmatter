@@ -6,7 +6,7 @@ name: Losscoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8a8"
+color: "#f9d409"
 icons:
   - icon.png
 ---

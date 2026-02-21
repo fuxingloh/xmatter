@@ -6,7 +6,7 @@ name: Edustars Lite
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8e848"
+color: "#565147"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: COLD FINANCE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080838"
+color: "#cbe3f2"
 icons:
   - icon.png
 ---

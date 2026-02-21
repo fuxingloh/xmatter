@@ -6,7 +6,7 @@ name: MKIMG1-22/30M52
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f86868"
+color: "#fb6463"
 icons:
   - icon.png
 ---

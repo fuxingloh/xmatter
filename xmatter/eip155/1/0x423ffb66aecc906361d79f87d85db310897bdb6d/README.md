@@ -8,7 +8,7 @@ name: First Internet Football Association
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8b858"
+color: "#deac4f"
 icons:
   - icon.png
 ---

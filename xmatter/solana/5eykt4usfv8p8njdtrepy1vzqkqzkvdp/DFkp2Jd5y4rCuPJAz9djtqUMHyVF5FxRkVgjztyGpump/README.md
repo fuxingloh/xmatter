@@ -12,7 +12,7 @@ name: CodeCraft AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#181818"
+color: "#191818"
 icons:
   - icon.png
 ---

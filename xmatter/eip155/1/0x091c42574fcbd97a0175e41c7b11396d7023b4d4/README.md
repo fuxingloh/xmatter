@@ -6,7 +6,7 @@ name: BLACKCOIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#b4b4b8"
 icons:
   - icon.png
 ---

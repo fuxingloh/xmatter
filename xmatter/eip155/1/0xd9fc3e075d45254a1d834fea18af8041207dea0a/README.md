@@ -15,7 +15,7 @@ name: JPMorgan Chase tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#783828"
+color: "#6d4022"
 icons:
   - icon.png
 ---

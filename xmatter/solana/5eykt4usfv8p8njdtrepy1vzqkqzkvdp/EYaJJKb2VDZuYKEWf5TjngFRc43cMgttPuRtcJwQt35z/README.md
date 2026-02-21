@@ -10,7 +10,7 @@ name: Blekrok
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#cfc4b6"
 icons:
   - icon.png
 ---

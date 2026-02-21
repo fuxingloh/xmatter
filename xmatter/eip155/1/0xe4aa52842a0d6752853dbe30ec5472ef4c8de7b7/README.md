@@ -6,7 +6,7 @@ name: EQR TEST mg4000
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#32f40c"
 icons:
   - icon.png
 ---

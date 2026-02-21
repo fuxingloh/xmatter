@@ -14,7 +14,7 @@ name: Kishimoto Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#141110"
 icons:
   - icon.png
 ---

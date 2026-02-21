@@ -15,7 +15,7 @@ decimals: 18
 icons:
   - icon.svg
   - icon.png
-color: "#686888"
+color: "#646c8c"
 ---
 
 To find out even more about this project, check out our deep dive of WETH.

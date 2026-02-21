@@ -8,7 +8,7 @@ name: Biffys Love
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#28d8c8"
+color: "#530c7c"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ symbol: AAPLx
 decimals: 18
 icons:
   - icon.png
-color: "#686868"
+color: "#5e5e5e"
 ---
 
 Apple xStock

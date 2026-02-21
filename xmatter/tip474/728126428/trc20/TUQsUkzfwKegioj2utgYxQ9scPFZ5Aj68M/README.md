@@ -12,7 +12,7 @@ symbol: HOODx
 decimals: 18
 icons:
   - icon.png
-color: "#08c808"
+color: "#04cb04"
 ---
 
 Robinhood xStock

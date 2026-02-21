@@ -8,7 +8,7 @@ name: ARIX Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#280848"
+color: "#230c44"
 icons:
   - icon.png
 ---

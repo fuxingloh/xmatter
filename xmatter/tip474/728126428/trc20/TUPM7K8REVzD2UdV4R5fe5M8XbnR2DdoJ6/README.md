@@ -12,7 +12,7 @@ name: HTX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#080808"
+color: "#e63538"
 icons:
   - icon.png
 ---

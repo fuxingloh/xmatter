@@ -8,7 +8,7 @@ name: 1irst
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8a828"
+color: "#060404"
 icons:
   - icon.png
 ---

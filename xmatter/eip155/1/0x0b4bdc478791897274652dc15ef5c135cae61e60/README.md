@@ -8,7 +8,7 @@ name: DAEX Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#7b56f2"
 icons:
   - icon.png
 ---

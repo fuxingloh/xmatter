@@ -16,7 +16,7 @@ name: Basic Attention Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f85808"
+color: "#fc5404"
 icons:
   - icon.png
 ---

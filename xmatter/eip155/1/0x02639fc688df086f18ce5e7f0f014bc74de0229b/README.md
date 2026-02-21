@@ -6,7 +6,7 @@ name: Golden Berry
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b89808"
+color: "#ad910d"
 icons:
   - icon.png
 ---

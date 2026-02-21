@@ -6,7 +6,7 @@ name: TRON GO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#f8f8f8"
+color: "#5d0b8b"
 icons:
   - icon.png
 ---

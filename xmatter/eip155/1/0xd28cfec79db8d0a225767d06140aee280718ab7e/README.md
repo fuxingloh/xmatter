@@ -8,7 +8,7 @@ name: BIZKEY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d8a868"
+color: "#d3a565"
 icons:
   - icon.png
 ---

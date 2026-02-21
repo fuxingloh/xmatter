@@ -10,7 +10,7 @@ name: nubcat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#b8d8f8"
+color: "#b4dbfa"
 icons:
   - icon.png
 ---

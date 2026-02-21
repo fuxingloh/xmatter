@@ -6,7 +6,7 @@ name: MAZO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#68b8a8"
+color: "#2c354d"
 icons:
   - icon.png
 ---

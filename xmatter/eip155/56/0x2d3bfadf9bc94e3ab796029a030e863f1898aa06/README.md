@@ -18,7 +18,7 @@ name: Cream Trust Wallet
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#e7c398"
 icons:
   - icon.png
 ---

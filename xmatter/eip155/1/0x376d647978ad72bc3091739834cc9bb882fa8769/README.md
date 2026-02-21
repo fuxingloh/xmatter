@@ -6,7 +6,7 @@ name: 9 Global Digital Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#0e9c0c"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: KingCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#383838"
+color: "#eba334"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ name: GamingShiba
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c80808"
+color: "#f2bc7c"
 icons:
   - icon.png
 ---

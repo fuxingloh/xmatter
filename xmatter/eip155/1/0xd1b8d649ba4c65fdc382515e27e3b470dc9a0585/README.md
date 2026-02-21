@@ -8,7 +8,7 @@ name: WrapECO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#089898"
+color: "#009999"
 icons:
   - icon.png
 ---

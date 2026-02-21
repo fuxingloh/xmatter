@@ -12,7 +12,7 @@ name: aether collective
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#c8c8c8"
+color: "#acabaa"
 icons:
   - icon.png
 ---

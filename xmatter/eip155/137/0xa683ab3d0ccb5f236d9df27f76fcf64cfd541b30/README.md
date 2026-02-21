@@ -18,7 +18,7 @@ name: NeutralAI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#6b42d5"
 icons:
   - icon.png
 ---

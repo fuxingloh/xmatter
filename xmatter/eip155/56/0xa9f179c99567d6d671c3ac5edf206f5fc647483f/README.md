@@ -8,7 +8,7 @@ name: Mammon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#541e2d"
 icons:
   - icon.png
 ---

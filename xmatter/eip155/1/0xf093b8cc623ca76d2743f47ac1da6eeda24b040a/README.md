@@ -6,7 +6,7 @@ name: Axor
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#40a0c9"
 icons:
   - icon.png
 ---

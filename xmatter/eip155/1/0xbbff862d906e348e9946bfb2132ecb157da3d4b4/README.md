@@ -8,7 +8,7 @@ name: Sharder
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#181818"
+color: "#1d1c1d"
 icons:
   - icon.png
 ---

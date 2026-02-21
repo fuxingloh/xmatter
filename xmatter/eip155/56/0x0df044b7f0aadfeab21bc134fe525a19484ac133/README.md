@@ -18,7 +18,7 @@ name: UZYTH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0888e8"
+color: "#0584ec"
 icons:
   - icon.png
 ---

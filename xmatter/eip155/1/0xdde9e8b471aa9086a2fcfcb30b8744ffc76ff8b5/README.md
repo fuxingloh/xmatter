@@ -6,7 +6,7 @@ name: AGGCE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0868c8"
+color: "#0766cc"
 icons:
   - icon.png
 ---

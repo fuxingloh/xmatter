@@ -8,7 +8,7 @@ name: bitCEO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8e838"
+color: "#fbe435"
 icons:
   - icon.png
 ---

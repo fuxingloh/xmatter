@@ -8,7 +8,7 @@ name: CBI Index 7
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#880808"
+color: "#d1a73e"
 icons:
   - icon.png
 ---

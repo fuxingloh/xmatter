@@ -8,7 +8,7 @@ name: KERMAN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#482818"
+color: "#6f5c45"
 icons:
   - icon.png
 ---

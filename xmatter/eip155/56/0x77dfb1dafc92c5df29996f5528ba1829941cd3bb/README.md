@@ -12,7 +12,7 @@ name: fyeth.finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0808a8"
+color: "#05059f"
 icons:
   - icon.png
 ---

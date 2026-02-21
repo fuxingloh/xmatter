@@ -8,7 +8,7 @@ name: UNICORN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#dd1786"
 icons:
   - icon.png
 ---

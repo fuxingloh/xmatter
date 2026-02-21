@@ -10,7 +10,7 @@ standards:
   - erc20
 icons:
   - icon.png
-color: "#486878"
+color: "#5ecbdc"
 ---
 
 3X Short Bitcoin Token (BEAR) is an ERC20 token which seeks a return that corresponds to -3 times the daily return of Bitcoin.

@@ -8,7 +8,7 @@ name: ONOT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b8b8b8"
+color: "#a4a4a4"
 icons:
   - icon.png
 ---

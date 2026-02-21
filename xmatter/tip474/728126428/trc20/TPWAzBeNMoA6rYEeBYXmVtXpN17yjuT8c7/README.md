@@ -12,7 +12,7 @@ symbol: LLYx
 decimals: 18
 icons:
   - icon.png
-color: "#e81828"
+color: "#eb1c24"
 ---
 
 Eli Lilly xStock

@@ -8,7 +8,7 @@ name: TokenDesk
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f86858"
+color: "#f7695a"
 icons:
   - icon.png
 ---

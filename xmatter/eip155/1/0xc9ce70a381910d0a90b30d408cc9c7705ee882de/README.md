@@ -10,7 +10,7 @@ name: NYAN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#6082b4"
 icons:
   - icon.png
 ---

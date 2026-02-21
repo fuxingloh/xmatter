@@ -12,7 +12,7 @@ standards:
   - erc20
 icons:
   - icon.png
-color: "#080808"
+color: "#f8a20a"
 ---
 
 Decentralised MEME Platform with NFT Market

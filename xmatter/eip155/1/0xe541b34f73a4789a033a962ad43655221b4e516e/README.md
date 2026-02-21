@@ -8,7 +8,7 @@ name: Creatanium
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#65b452"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: aidus
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081838"
+color: "#131d3b"
 icons:
   - icon.png
 ---

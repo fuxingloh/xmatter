@@ -8,7 +8,7 @@ name: WrapORME
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a87848"
+color: "#a77c4f"
 icons:
   - icon.png
 ---

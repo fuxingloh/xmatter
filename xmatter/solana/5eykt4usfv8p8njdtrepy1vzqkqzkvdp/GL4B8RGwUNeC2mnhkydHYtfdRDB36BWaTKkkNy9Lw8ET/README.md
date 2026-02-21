@@ -12,7 +12,7 @@ name: dnai16z
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#181818"
+color: "#20181e"
 icons:
   - icon.png
 ---

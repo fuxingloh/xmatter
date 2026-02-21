@@ -6,7 +6,7 @@ name: RoboCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#f8f8f8"
+color: "#c5b44b"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: DALECOIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#90927c"
 icons:
   - icon.png
 ---

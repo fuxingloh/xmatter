@@ -8,7 +8,7 @@ name: Global Social Chain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f80858"
+color: "#fc0463"
 icons:
   - icon.png
 ---

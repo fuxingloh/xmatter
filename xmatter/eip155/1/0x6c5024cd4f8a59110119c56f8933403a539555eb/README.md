@@ -8,7 +8,7 @@ name: Aave SUSD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080828"
+color: "#0f072e"
 icons:
   - icon.svg
   - icon.png

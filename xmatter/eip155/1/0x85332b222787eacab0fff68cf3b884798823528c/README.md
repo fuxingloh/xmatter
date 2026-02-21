@@ -6,7 +6,7 @@ name: WinETHFree
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#f3a34c"
 icons:
   - icon.png
 ---

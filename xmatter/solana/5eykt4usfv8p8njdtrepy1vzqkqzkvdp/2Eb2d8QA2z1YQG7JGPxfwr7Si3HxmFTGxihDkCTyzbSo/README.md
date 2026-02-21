@@ -10,7 +10,7 @@ name: UDDER
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#58a858"
+color: "#55a95a"
 icons:
   - icon.png
 ---

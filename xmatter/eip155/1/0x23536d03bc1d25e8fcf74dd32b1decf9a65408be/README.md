@@ -6,7 +6,7 @@ name: Jii coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#31cfe3"
 icons:
   - icon.png
 ---

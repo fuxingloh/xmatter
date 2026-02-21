@@ -8,7 +8,7 @@ name: WhiteRockCasino
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#bf9869"
 icons:
   - icon.png
 ---

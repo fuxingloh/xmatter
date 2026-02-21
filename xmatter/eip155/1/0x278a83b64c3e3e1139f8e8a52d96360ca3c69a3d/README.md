@@ -8,7 +8,7 @@ name: Nexxo Tokens
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8b828"
+color: "#e0ae25"
 icons:
   - icon.png
 ---

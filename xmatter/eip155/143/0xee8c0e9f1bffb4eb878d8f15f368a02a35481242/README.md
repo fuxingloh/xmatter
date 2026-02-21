@@ -14,7 +14,7 @@ symbol: WETH
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#e23485"
 ---
 
 WETH (Wrapped Ethereum) is a tokenized version of Ethereum (ETH).

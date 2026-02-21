@@ -8,7 +8,7 @@ name: NKN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#283878"
+color: "#304384"
 icons:
   - icon.png
 ---

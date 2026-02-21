@@ -6,7 +6,7 @@ name: Carbon Network Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#fba314"
 icons:
   - icon.png
 ---

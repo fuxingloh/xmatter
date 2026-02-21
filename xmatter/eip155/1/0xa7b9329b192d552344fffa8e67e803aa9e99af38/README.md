@@ -6,7 +6,7 @@ name: Montana
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#f48524"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: NasToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#f5c65b"
 icons:
   - icon.png
 ---

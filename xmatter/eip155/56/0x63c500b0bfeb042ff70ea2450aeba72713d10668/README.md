@@ -8,7 +8,7 @@ name: Moon Stake
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8d8a8"
+color: "#47792e"
 icons:
   - icon.png
 ---

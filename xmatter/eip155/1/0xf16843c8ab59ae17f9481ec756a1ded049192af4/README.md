@@ -6,7 +6,7 @@ name: 比特链
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08b808"
+color: "#dcf3dd"
 icons:
   - icon.png
 ---

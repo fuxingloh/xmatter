@@ -8,7 +8,7 @@ name: Exchange Union Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#184888"
+color: "#154585"
 icons:
   - icon.png
 ---

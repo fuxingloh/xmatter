@@ -8,7 +8,7 @@ name: Decentralized Vulnerability Platform
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#2090f0"
 icons:
   - icon.png
 ---

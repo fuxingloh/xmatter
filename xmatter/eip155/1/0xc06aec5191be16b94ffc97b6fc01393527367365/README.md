@@ -8,7 +8,7 @@ name: BTC ETH Equal Weight Set
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#18a8d8"
+color: "#17ace3"
 icons:
   - icon.png
 ---

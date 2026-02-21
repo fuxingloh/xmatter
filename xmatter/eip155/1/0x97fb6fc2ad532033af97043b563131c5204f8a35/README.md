@@ -8,7 +8,7 @@ name: PlusCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#e85040"
 icons:
   - icon.png
 ---

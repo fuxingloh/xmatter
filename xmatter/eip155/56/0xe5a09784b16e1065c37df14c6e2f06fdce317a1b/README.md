@@ -8,7 +8,7 @@ name: Kai Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#c97531"
 icons:
   - icon.png
 ---

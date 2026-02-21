@@ -16,7 +16,7 @@ name: MilkyWayToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080888"
+color: "#f9f1eb"
 icons:
   - icon.png
 ---

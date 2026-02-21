@@ -8,7 +8,7 @@ name: GlobalGive Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#58c8b8"
+color: "#0bd4bc"
 icons:
   - icon.png
 ---

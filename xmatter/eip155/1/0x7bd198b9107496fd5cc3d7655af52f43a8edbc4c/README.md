@@ -8,7 +8,7 @@ name: oneVBTC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#480808"
+color: "#460604"
 icons:
   - icon.png
 ---

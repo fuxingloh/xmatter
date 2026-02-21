@@ -12,7 +12,7 @@ name: Perlin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#383838"
+color: "#35b1e3"
 icons:
   - icon.png
 ---

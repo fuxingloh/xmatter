@@ -6,7 +6,7 @@ name: Txc
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#080808"
+color: "#0c040c"
 icons:
   - icon.png
 ---

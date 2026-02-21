@@ -10,7 +10,7 @@ name: Duko
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#b888e8"
+color: "#b28add"
 icons:
   - icon.png
 ---

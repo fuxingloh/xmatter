@@ -12,7 +12,7 @@ name: GameStop
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#191617"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: DOMCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#d0d4ef"
 icons:
   - icon.png
 ---

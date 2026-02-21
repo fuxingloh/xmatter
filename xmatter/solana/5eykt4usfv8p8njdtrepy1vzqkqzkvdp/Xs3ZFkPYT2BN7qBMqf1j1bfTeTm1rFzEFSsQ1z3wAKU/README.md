@@ -14,7 +14,7 @@ name: AstraZeneca tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8a818"
+color: "#fcac14"
 icons:
   - icon.png
 ---

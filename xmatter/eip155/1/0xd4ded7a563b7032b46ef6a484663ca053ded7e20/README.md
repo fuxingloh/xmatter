@@ -6,7 +6,7 @@ name: iHDVi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#13bec1"
 icons:
   - icon.png
 ---

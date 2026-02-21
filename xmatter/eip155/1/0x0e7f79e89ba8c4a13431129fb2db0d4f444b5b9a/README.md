@@ -8,7 +8,7 @@ name: Xank
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#04234c"
 icons:
   - icon.png
 ---

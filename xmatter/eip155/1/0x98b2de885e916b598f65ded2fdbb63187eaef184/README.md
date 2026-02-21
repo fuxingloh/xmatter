@@ -6,7 +6,7 @@ name: Defi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#182848"
+color: "#1b2b4b"
 icons:
   - icon.png
 ---

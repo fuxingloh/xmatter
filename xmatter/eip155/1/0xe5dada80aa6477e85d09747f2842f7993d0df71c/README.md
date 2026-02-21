@@ -8,7 +8,7 @@ name: DockToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#72a3d6"
 icons:
   - icon.png
 ---

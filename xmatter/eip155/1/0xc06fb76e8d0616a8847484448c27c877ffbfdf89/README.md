@@ -8,7 +8,7 @@ name: FrankfurtSchoolCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#384878"
+color: "#33447b"
 icons:
   - icon.png
 ---

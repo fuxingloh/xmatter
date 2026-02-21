@@ -6,7 +6,7 @@ name: BestOne
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c8c8c8"
+color: "#d5b81d"
 icons:
   - icon.png
 ---

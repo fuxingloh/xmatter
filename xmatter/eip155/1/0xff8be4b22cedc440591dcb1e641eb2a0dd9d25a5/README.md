@@ -8,7 +8,7 @@ name: URACToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#868e58"
 icons:
   - icon.png
 ---

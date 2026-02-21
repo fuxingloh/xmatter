@@ -29,7 +29,7 @@ name: Vanity
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#282828"
+color: "#262627"
 icons:
   - icon.png
 ---

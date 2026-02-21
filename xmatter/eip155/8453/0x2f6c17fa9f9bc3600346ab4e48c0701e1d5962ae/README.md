@@ -12,7 +12,7 @@ name: Based Fartcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1858e8"
+color: "#1453f2"
 icons:
   - icon.png
 ---

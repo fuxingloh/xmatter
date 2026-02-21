@@ -10,7 +10,7 @@ name: Serum (Portal from Ethereum)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#3dbfd4"
 icons:
   - icon.png
 ---

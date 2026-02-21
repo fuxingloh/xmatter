@@ -8,7 +8,7 @@ name: Smart Application Chain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5848b8"
+color: "#5444c4"
 icons:
   - icon.png
 ---

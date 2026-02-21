@@ -18,7 +18,7 @@ name: Kin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#7848f8"
+color: "#7444f4"
 icons:
   - icon.png
 ---

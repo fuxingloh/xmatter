@@ -10,7 +10,7 @@ name: titcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f89818"
+color: "#fa931c"
 icons:
   - icon.png
 ---

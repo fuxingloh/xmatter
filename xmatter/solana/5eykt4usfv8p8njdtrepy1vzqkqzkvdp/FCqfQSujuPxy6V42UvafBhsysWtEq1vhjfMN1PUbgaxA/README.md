@@ -10,7 +10,7 @@ name: USD Coin (Portal from BSC)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#2878c8"
+color: "#2574cb"
 icons:
   - icon.png
 ---

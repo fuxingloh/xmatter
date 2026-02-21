@@ -28,7 +28,7 @@ name: GYSR
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#147bf4"
 icons:
   - icon.png
 ---

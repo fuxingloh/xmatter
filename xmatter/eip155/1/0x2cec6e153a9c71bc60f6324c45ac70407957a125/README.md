@@ -6,7 +6,7 @@ name: Model Agency Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#e1d1ab"
 icons:
   - icon.png
 ---

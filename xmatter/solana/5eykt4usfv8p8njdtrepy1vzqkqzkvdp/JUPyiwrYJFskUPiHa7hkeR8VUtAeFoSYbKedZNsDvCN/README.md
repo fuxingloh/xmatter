@@ -12,7 +12,7 @@ name: Jupiter
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#181828"
+color: "#75d8af"
 icons:
   - icon.png
 ---

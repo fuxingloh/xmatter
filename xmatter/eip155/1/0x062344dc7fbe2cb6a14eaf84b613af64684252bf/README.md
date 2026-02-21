@@ -6,7 +6,7 @@ name: 币胜币
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#fce4e0"
 icons:
   - icon.png
 ---

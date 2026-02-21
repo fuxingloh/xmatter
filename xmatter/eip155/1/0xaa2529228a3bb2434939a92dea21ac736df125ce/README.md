@@ -6,7 +6,7 @@ name: World currency conference coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#04b3f3"
 icons:
   - icon.png
 ---

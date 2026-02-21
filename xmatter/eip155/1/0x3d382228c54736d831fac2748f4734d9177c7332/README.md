@@ -18,7 +18,7 @@ name: ANIVERSE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#084828"
+color: "#0f4023"
 icons:
   - icon.png
 ---

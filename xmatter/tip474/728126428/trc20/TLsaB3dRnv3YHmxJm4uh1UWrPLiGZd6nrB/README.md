@@ -12,7 +12,7 @@ symbol: CVXx
 decimals: 18
 icons:
   - icon.png
-color: "#e81838"
+color: "#eb1c34"
 ---
 
 Chevron xStock

@@ -6,7 +6,7 @@ name: PIXBYTOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3838f8"
+color: "#3c3cfc"
 icons:
   - icon.png
 ---

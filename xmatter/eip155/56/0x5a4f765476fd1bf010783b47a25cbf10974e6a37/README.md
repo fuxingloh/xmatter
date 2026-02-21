@@ -40,7 +40,7 @@ name: SavePlanetEarth
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#287848"
+color: "#afc56b"
 icons:
   - icon.png
 ---

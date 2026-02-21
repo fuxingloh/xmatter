@@ -8,7 +8,7 @@ name: Flaring Sword
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#282838"
+color: "#e8562c"
 icons:
   - icon.png
 ---

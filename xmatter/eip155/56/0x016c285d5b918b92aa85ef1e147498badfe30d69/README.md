@@ -10,7 +10,7 @@ name: 100xCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#f98837"
 icons:
   - icon.png
 ---

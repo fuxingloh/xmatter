@@ -8,7 +8,7 @@ name: Tyercoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#efb14e"
 icons:
   - icon.png
 ---

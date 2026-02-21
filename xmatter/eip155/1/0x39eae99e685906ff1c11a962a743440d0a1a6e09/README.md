@@ -8,7 +8,7 @@ name: Holyheld
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1838f8"
+color: "#1b3cf4"
 icons:
   - icon.png
 ---

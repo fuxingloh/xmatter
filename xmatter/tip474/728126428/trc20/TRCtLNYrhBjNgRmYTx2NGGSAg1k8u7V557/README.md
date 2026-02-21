@@ -12,7 +12,7 @@ symbol: GSx
 decimals: 18
 icons:
   - icon.png
-color: "#7898c8"
+color: "#749bc3"
 ---
 
 Goldman Sachs xStock

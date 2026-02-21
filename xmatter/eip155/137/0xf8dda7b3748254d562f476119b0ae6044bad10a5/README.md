@@ -12,7 +12,7 @@ name: Sirius by Humanity
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#152c56"
 icons:
   - icon.png
 ---

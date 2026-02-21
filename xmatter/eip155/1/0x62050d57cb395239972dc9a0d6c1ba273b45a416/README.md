@@ -6,7 +6,7 @@ name: Retengo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ded9d9"
 icons:
   - icon.png
 ---

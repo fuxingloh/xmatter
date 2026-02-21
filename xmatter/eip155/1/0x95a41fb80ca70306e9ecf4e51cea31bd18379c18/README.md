@@ -8,7 +8,7 @@ name: Aladdin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#0ad7f8"
 icons:
   - icon.png
 ---

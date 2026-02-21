@@ -8,7 +8,7 @@ name: FidexToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d28e31"
 icons:
   - icon.png
 ---

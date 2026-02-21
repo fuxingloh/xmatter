@@ -14,7 +14,7 @@ symbol: suETH
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#172436"
 ---
 
 suETH is a multichain fungible synthetic asset by Sumer.Money pegged to ETH and representing same security characteristics and collateral backing across all supported networks.

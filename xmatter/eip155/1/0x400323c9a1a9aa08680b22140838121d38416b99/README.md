@@ -6,7 +6,7 @@ name: Sava Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08d898"
+color: "#04d49c"
 icons:
   - icon.png
 ---

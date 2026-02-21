@@ -6,7 +6,7 @@ name: SitKoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ce864c"
 icons:
   - icon.png
 ---

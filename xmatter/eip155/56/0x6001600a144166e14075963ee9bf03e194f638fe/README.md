@@ -8,7 +8,7 @@ name: KissMyMoon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f89898"
+color: "#f49a9a"
 icons:
   - icon.png
 ---

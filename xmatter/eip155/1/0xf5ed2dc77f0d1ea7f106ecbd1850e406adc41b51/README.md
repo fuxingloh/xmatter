@@ -6,7 +6,7 @@ name: The Ocean Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#75d4e3"
 icons:
   - icon.png
 ---

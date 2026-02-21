@@ -6,7 +6,7 @@ name: Hora Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#080808"
+color: "#6b6147"
 icons:
   - icon.png
 ---

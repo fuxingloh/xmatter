@@ -8,5 +8,5 @@ symbol: TTK
 decimals: 6
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#f4f4f4"
 ---

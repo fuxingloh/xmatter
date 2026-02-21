@@ -10,7 +10,7 @@ name: FSP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#050a09"
 icons:
   - icon.png
 ---

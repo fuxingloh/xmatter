@@ -8,7 +8,7 @@ name: CheesecakeSwap Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#78e8e8"
+color: "#7be3eb"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Better Betting
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#282838"
+color: "#242c34"
 icons:
   - icon.png
 ---

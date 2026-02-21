@@ -6,7 +6,7 @@ name: Auto Make Money
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#fab314"
 icons:
   - icon.png
 ---

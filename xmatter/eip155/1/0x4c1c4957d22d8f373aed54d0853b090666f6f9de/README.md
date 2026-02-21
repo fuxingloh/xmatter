@@ -8,7 +8,7 @@ name: Silverway
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#182838"
+color: "#152533"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Divi Exchange Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#f7f0f0"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: MetaGraphChain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#e59b43"
 icons:
   - icon.png
 ---

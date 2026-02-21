@@ -6,7 +6,7 @@ name: Orionix
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#182828"
+color: "#193230"
 icons:
   - icon.png
 ---

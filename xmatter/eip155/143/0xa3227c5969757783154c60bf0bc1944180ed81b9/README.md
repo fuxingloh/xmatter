@@ -14,7 +14,7 @@ symbol: sMON
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#47b8ee"
 ---
 
 The Kintsu Liquid Staking protocol automates the process by which users can pool their MON tokens together for network staking via non-custodial smart contracts. Kintsu creates sMON, a liquid version of the core MON gas token.

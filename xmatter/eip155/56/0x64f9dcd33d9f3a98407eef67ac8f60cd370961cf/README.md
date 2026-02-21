@@ -8,7 +8,7 @@ name: ElonCryptoGod
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#040c1f"
 icons:
   - icon.png
 ---

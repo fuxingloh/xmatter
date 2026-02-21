@@ -8,7 +8,7 @@ name: MobileGo Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ff0000"
 icons:
   - icon.png
 ---

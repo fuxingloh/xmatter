@@ -8,7 +8,7 @@ name: PitJupiter
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#282828"
+color: "#c88942"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: TBOT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#185888"
+color: "#1e5489"
 icons:
   - icon.png
 ---

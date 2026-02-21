@@ -8,7 +8,7 @@ name: REVI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#54d4b4"
 icons:
   - icon.png
 ---

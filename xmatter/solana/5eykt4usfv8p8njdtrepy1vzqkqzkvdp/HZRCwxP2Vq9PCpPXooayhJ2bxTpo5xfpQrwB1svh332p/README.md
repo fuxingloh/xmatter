@@ -10,7 +10,7 @@ name: Lido DAO (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#e87878"
+color: "#e1a099"
 icons:
   - icon.png
 ---

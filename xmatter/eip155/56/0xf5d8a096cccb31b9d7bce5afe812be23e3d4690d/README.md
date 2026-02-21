@@ -25,7 +25,7 @@ name: Happy Fans Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#e84070"
 icons:
   - icon.png
 ---

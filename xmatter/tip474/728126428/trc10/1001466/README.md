@@ -6,7 +6,7 @@ name: Tronics
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#f8f8f8"
+color: "#4cab44"
 icons:
   - icon.png
 ---

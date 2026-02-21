@@ -12,7 +12,7 @@ name: APF
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#282828"
+color: "#2c2c2b"
 icons:
   - icon.png
 ---

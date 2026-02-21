@@ -8,7 +8,7 @@ name: YFMoonshot
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#283888"
+color: "#2b438c"
 icons:
   - icon.png
 ---

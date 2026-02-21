@@ -18,7 +18,7 @@ name: Paint
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#060506"
 icons:
   - icon.png
 ---

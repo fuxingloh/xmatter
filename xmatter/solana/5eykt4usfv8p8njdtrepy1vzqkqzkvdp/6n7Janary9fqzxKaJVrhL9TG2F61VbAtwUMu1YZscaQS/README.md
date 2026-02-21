@@ -10,7 +10,7 @@ name: Ansem's Cat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#c8c8d8"
+color: "#ac9daa"
 icons:
   - icon.png
 ---

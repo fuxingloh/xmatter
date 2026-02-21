@@ -10,7 +10,7 @@ name: Doodle dump
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8e8"
+color: "#232f1b"
 icons:
   - icon.png
 ---

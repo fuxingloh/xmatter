@@ -8,7 +8,7 @@ name: PAPARAZZI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#fc8888"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ symbol: M-ordi
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#5f3bf0"
 ---
 
 Merlin's Seal ordi

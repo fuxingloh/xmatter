@@ -14,7 +14,7 @@ name: Strains Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#38a818"
+color: "#328f15"
 icons:
   - icon.png
 ---

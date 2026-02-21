@@ -6,7 +6,7 @@ name: GaeaToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#1d6bb5"
 icons:
   - icon.png
 ---

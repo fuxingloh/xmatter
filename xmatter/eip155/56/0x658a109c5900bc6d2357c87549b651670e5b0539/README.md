@@ -16,7 +16,7 @@ name: The Force Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08d8c8"
+color: "#04dccc"
 icons:
   - icon.png
 ---

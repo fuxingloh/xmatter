@@ -14,7 +14,7 @@ name: Ancient8
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#0a0c06"
 icons:
   - icon.png
 ---

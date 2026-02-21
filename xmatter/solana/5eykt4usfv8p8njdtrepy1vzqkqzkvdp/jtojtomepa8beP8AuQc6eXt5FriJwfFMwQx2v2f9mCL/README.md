@@ -16,7 +16,7 @@ name: JITO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080808"
+color: "#d4d4d4"
 icons:
   - icon.png
 ---

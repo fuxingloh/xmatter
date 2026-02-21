@@ -8,7 +8,7 @@ name: PLGToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c85838"
+color: "#cc5433"
 icons:
   - icon.png
 ---

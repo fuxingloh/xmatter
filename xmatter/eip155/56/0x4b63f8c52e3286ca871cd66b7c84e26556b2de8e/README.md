@@ -8,7 +8,7 @@ name: BudaCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#d8b961"
 icons:
   - icon.png
 ---

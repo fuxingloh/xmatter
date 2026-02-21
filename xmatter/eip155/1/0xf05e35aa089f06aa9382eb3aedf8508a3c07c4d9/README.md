@@ -6,7 +6,7 @@ name: Yugi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c87838"
+color: "#cb7b34"
 icons:
   - icon.png
 ---

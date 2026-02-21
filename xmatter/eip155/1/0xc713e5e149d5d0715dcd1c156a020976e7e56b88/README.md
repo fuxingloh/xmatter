@@ -8,7 +8,7 @@ name: Aave MKR
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#5ab7ae"
 icons:
   - icon.png
 ---

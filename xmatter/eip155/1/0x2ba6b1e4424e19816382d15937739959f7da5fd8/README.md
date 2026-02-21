@@ -8,7 +8,7 @@ name: MEX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ddb665"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Galaxium Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#65c6bd"
 icons:
   - icon.png
 ---

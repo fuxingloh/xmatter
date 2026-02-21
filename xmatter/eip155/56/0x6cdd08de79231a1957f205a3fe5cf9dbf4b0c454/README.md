@@ -12,7 +12,7 @@ name: Baby Neiro
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e87838"
+color: "#e19a5d"
 icons:
   - icon.png
 ---

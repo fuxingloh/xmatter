@@ -6,7 +6,7 @@ name: AFRICAN DIGITAL CURRENCY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#8b6317"
 icons:
   - icon.png
 ---

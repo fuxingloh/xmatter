@@ -8,7 +8,7 @@ name: Catge V2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#dbb160"
 icons:
   - icon.png
 ---

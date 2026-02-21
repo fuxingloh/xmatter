@@ -10,7 +10,7 @@ name: Cream (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#68e8d8"
+color: "#6ce3db"
 icons:
   - icon.png
 ---

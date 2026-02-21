@@ -6,7 +6,7 @@ name: ChainBow.io
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#183848"
+color: "#1c344c"
 icons:
   - icon.png
 ---

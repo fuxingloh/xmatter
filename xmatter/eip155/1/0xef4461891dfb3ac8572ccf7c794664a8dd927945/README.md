@@ -12,7 +12,7 @@ name: WalletConnect
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0888e8"
+color: "#0b8bec"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ name: Gluteus Maximus by Virtuals
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c8b898"
+color: "#bbb598"
 icons:
   - icon.png
 ---

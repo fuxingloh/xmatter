@@ -8,5 +8,5 @@ symbol: A2Z
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#241e24"
 ---

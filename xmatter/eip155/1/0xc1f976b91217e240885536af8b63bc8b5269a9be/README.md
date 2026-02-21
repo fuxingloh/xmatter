@@ -8,7 +8,7 @@ name: PIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c84848"
+color: "#cc4444"
 icons:
   - icon.png
 ---

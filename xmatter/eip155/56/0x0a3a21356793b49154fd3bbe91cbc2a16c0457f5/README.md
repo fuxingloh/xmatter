@@ -16,7 +16,7 @@ name: RFOX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c80808"
+color: "#c90505"
 icons:
   - icon.png
 ---

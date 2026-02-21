@@ -12,7 +12,7 @@ name: Paysenger EGO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#f35d0d"
 icons:
   - icon.png
 ---

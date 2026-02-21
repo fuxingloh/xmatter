@@ -6,7 +6,7 @@ name: ReaCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8e8e8"
+color: "#e4e1e4"
 icons:
   - icon.png
 ---

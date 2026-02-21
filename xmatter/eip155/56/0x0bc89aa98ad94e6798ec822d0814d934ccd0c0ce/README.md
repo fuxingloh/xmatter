@@ -18,7 +18,7 @@ name: Battle Hero
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8b828"
+color: "#e3bb23"
 icons:
   - icon.png
 ---

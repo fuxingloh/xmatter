@@ -8,7 +8,7 @@ name: DADI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08c858"
+color: "#0ecc5f"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: BNB pegged EOS Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#c6c6c7"
 icons:
   - icon.png
 ---

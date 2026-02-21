@@ -6,7 +6,7 @@ name: iZiFinance Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#68c828"
+color: "#6ccc24"
 icons:
   - icon.png
 ---

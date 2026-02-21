@@ -16,7 +16,7 @@ name: Haber-Stornetta Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#845d1f"
 icons:
   - icon.png
 ---

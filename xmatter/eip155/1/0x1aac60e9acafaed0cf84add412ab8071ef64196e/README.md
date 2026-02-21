@@ -6,7 +6,7 @@ name: SphinxToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#a31fff"
 icons:
   - icon.png
 ---

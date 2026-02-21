@@ -16,7 +16,7 @@ symbol: ZF
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#9118de"
 ---
 
 zkSwap Finance is the first Swap to Earn DeFi Platform on zkSync Era ecosystem

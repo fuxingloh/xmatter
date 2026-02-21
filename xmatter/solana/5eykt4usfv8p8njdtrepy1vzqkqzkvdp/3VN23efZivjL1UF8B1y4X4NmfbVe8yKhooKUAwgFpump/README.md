@@ -12,7 +12,7 @@ name: DIGGER AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080808"
+color: "#b7b7b7"
 icons:
   - icon.png
 ---

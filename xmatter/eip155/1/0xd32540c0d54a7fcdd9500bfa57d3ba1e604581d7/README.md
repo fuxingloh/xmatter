@@ -6,7 +6,7 @@ name: Jules
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a86858"
+color: "#9e7266"
 icons:
   - icon.png
 ---

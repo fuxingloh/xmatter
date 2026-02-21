@@ -8,7 +8,7 @@ name: Bankcoin Cash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#28b898"
+color: "#2bbb9b"
 icons:
   - icon.png
 ---

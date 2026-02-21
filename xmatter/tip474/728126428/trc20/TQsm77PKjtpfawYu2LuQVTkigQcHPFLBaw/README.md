@@ -8,7 +8,7 @@ name: Intercoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#181818"
+color: "#ecc661"
 icons:
   - icon.png
 ---

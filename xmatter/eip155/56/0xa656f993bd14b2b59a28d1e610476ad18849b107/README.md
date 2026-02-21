@@ -8,7 +8,7 @@ name: SAFERMOON
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#084868"
+color: "#06496b"
 icons:
   - icon.png
 ---

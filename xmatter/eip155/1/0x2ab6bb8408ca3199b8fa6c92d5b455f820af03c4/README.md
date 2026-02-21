@@ -12,7 +12,7 @@ name: TE-FOOD/TustChain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#5297ce"
 icons:
   - icon.png
 ---

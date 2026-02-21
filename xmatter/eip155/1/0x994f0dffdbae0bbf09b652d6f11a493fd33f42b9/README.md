@@ -6,7 +6,7 @@ name: EagleCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8d8a8"
+color: "#f6d699"
 icons:
   - icon.png
 ---

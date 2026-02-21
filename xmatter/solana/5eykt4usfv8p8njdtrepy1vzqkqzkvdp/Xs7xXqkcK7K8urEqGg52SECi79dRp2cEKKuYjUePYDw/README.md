@@ -14,7 +14,7 @@ name: CrowdStrike tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#e83828"
+color: "#ec3b24"
 icons:
   - icon.png
 ---

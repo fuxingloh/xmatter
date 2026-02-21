@@ -14,7 +14,7 @@ name: Meta Platforms (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0868d8"
+color: "#cde4fb"
 icons:
   - icon.png
 ---

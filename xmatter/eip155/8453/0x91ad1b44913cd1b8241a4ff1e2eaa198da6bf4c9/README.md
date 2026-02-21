@@ -14,7 +14,7 @@ name: Altura
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080818"
+color: "#0b0c14"
 icons:
   - icon.png
 ---

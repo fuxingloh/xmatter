@@ -18,7 +18,7 @@ name: New Year Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#46b74d"
 icons:
   - icon.png
 ---

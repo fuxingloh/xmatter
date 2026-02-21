@@ -6,7 +6,7 @@ name: SHRINK
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3828c8"
+color: "#3424cb"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: OnlyLoveChain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f80838"
+color: "#7729ff"
 icons:
   - icon.png
 ---

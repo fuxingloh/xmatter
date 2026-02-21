@@ -8,7 +8,7 @@ name: Baby Shiba Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#f39c19"
 icons:
   - icon.png
 ---

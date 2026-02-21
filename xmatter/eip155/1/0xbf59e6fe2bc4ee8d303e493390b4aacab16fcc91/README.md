@@ -6,7 +6,7 @@ name: Clipper Coin Capital
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#0b84ee"
 icons:
   - icon.png
 ---

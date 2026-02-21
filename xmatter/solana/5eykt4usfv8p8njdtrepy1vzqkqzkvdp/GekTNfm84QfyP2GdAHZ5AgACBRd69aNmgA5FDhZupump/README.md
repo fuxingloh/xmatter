@@ -12,7 +12,7 @@ name: ORBIT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#d1bef5"
 icons:
   - icon.png
 ---

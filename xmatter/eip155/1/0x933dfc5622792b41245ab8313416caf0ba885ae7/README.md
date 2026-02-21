@@ -6,7 +6,7 @@ name: CoinBroker
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#cfcdcc"
 icons:
   - icon.png
 ---

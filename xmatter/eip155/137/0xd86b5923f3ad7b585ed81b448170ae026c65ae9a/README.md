@@ -16,7 +16,7 @@ name: IRON Stablecoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f87818"
+color: "#f47424"
 icons:
   - icon.png
 ---

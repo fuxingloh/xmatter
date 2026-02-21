@@ -8,7 +8,7 @@ name: Elitium
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#181818"
+color: "#59d26c"
 icons:
   - icon.png
 ---

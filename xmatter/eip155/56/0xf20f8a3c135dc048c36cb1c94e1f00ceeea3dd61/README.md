@@ -10,7 +10,7 @@ name: FiveSs
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#eb3588"
 icons:
   - icon.png
 ---

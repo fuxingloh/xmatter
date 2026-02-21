@@ -6,7 +6,7 @@ name: NILOY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#bd0e0e"
 icons:
   - icon.png
 ---

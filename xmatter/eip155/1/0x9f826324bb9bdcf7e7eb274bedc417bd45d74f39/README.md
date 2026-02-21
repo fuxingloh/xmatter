@@ -18,7 +18,7 @@ name: milkAI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0888a8"
+color: "#3b3d33"
 icons:
   - icon.png
 ---

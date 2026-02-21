@@ -14,7 +14,7 @@ symbol: WISH
 decimals: 18
 icons:
   - icon.png
-color: "#f86808"
+color: "#f36715"
 ---
 
 BitGenie is a one-stop shop for Ordinals, Runes, and other Bitcoin DeFi tools.

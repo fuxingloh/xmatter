@@ -28,7 +28,7 @@ name: Bad Idea AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#102a3a"
 icons:
   - icon.png
 ---

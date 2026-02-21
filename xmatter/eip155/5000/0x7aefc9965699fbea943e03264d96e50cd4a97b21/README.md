@@ -12,7 +12,7 @@ symbol: WMTx
 decimals: 18
 icons:
   - icon.png
-color: "#0858e8"
+color: "#0454e3"
 ---
 
 Walmart xStock

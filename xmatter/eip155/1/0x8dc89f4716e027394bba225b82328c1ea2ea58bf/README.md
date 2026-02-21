@@ -23,7 +23,7 @@ name: Galaxy Villains
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ea0506"
 icons:
   - icon.png
 ---

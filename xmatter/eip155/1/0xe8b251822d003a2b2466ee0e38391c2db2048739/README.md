@@ -12,7 +12,7 @@ name: rbase.finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#1bb1d6"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Shping Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e82848"
+color: "#e62a51"
 icons:
   - icon.png
   - icon.jpeg

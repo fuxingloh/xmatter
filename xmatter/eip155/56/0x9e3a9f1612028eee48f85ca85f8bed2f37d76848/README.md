@@ -12,7 +12,7 @@ name: Quidax Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#381888"
+color: "#48288a"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: EGORAS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#222d33"
 icons:
   - icon.png
 ---

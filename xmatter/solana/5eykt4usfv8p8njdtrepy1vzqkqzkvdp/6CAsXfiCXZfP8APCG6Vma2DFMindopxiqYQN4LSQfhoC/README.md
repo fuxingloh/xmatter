@@ -14,7 +14,7 @@ symbol: POKT
 decimals: 6
 icons:
   - icon.png
-color: "#281818"
+color: "#241c23"
 ---
 
 ​​Pocket Network is a decentralized blockchain data platform - a protocol that is built to connect to any blockchain and service the data demands of Web3 dApps.

@@ -8,7 +8,7 @@ name: AXiaL Entertainment Digital Asset
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#c56d32"
 icons:
   - icon.png
 ---

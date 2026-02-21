@@ -8,7 +8,7 @@ name: EloniumCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#e9e9e9"
 icons:
   - icon.png
 ---

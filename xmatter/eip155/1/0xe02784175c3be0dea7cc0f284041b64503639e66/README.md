@@ -8,7 +8,7 @@ name: TouchCon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#fc7d05"
 icons:
   - icon.png
 ---

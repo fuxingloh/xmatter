@@ -8,7 +8,7 @@ name: NFTTONE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a808f8"
+color: "#a304fc"
 icons:
   - icon.png
 ---

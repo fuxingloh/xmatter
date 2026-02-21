@@ -12,7 +12,7 @@ name: Globitex Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0858a8"
+color: "#0050a0"
 icons:
   - icon.png
 ---

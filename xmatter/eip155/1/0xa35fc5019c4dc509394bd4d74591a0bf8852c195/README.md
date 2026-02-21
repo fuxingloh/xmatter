@@ -8,7 +8,7 @@ name: BitEth7525RebalancingSetToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#18a8d8"
+color: "#14abe3"
 icons:
   - icon.png
 ---

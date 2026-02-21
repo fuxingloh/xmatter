@@ -8,7 +8,7 @@ name: Omnitude Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8d818"
+color: "#373944"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: G2 Crypto Gaming & Lottery
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#183868"
+color: "#214674"
 icons:
   - icon.png
 ---

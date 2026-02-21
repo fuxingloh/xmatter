@@ -16,7 +16,7 @@ name: BOB
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d8d8f8"
+color: "#d4dbf3"
 icons:
   - icon.png
 ---

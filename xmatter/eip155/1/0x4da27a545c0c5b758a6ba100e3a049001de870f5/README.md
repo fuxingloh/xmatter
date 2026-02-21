@@ -8,7 +8,7 @@ name: Staked AAVE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8b808"
+color: "#fcbb04"
 icons:
   - icon.svg
   - icon.png

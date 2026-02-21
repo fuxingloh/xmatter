@@ -8,7 +8,7 @@ name: Love Inu Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#af9cb7"
 icons:
   - icon.png
 ---

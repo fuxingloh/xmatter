@@ -8,7 +8,7 @@ name: RiseofNebula
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#c30e8c"
 icons:
   - icon.png
 ---

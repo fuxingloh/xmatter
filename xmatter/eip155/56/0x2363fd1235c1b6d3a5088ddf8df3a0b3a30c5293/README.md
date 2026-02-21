@@ -14,7 +14,7 @@ name: Visa tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1838c8"
+color: "#1433cc"
 icons:
   - icon.png
 ---

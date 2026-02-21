@@ -6,7 +6,7 @@ name: Tarquin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#f8f8f8"
+color: "#4a4ac2"
 icons:
   - icon.png
 ---

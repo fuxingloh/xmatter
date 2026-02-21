@@ -6,7 +6,7 @@ name: Ethereum Titanium
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#eda628"
 icons:
   - icon.png
 ---

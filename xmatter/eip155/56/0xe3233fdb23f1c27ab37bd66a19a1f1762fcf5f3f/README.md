@@ -14,7 +14,7 @@ name: Elemon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#a1281f"
 icons:
   - icon.png
 ---

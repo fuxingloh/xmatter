@@ -12,7 +12,7 @@ symbol: WETH
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#2a2e2e"
 ---
 
 Wrapped Ether (WETH) on Plasma

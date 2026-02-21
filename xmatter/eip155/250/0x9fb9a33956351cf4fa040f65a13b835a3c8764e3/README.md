@@ -20,7 +20,7 @@ symbol: MULTI
 decimals: 18
 icons:
   - icon.png
-color: "#2868d8"
+color: "#2c63d3"
 ---
 
 Multichain is a cross-chain router protocol (CRP), to be the ultimate router for Web3.

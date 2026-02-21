@@ -8,7 +8,7 @@ name: BDAO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#06accb"
 icons:
   - icon.png
 ---

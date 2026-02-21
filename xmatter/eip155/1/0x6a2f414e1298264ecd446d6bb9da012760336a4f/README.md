@@ -6,7 +6,7 @@ name: MikeTangoBravo20
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a8d878"
+color: "#2c243c"
 icons:
   - icon.png
 ---

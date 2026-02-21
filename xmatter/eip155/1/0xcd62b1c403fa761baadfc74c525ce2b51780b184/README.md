@@ -8,7 +8,7 @@ name: Aragon Network Juror
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486848"
+color: "#fc9483"
 icons:
   - icon.png
 ---

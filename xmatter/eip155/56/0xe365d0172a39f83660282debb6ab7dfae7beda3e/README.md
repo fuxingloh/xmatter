@@ -8,7 +8,7 @@ name: Electra
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#060c11"
 icons:
   - icon.png
 ---

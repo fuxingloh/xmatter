@@ -21,7 +21,7 @@ name: beefy.finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8e8e8"
+color: "#070707"
 icons:
   - icon.png
 ---

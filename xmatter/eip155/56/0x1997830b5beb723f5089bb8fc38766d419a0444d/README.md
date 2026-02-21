@@ -8,7 +8,7 @@ name: New Guinea Singing Dog Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#3f2c17"
 icons:
   - icon.png
 ---

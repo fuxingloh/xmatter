@@ -12,7 +12,7 @@ symbol: MSFTx
 decimals: 18
 icons:
   - icon.png
-color: "#08a8e8"
+color: "#04a4ec"
 ---
 
 Microsoft xStock

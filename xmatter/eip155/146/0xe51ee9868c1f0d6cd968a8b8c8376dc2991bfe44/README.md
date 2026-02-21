@@ -12,7 +12,7 @@ symbol: BRUSH
 decimals: 18
 icons:
   - icon.png
-color: "#181818"
+color: "#14141b"
 ---
 
 BRUSH is the token of Estfor Kingdom & PaintSwap

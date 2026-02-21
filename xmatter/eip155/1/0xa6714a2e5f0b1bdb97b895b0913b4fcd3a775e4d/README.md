@@ -8,7 +8,7 @@ name: PromotionCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#34bcd3"
 icons:
   - icon.png
 ---

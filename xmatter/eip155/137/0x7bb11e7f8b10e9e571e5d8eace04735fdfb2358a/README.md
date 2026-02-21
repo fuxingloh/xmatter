@@ -10,7 +10,7 @@ name: Wrapped AVAX (Wormhole)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e84848"
+color: "#e74245"
 icons:
   - icon.png
 ---

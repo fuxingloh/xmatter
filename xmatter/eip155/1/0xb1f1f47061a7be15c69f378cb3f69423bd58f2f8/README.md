@@ -23,7 +23,7 @@ name: Flashstake
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#080808"
+color: "#040405"
 icons:
   - icon.svg
   - icon.png

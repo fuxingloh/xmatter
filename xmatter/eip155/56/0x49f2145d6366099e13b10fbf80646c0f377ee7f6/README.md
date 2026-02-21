@@ -14,7 +14,7 @@ name: FC Porto Fan Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#c1a095"
 icons:
   - icon.png
 ---

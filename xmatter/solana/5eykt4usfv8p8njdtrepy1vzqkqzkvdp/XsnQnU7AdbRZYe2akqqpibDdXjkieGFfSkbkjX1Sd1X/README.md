@@ -14,7 +14,7 @@ name: Merck tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#089898"
+color: "#04928b"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ name: PeiPei
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#2d0c09"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: ETHEREUM METAMASK
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8b848"
+color: "#2a1a67"
 icons:
   - icon.png
 ---

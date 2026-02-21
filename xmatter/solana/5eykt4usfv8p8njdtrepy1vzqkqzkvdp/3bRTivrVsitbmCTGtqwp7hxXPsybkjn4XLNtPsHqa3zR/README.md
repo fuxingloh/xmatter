@@ -14,7 +14,7 @@ name: Only1
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080808"
+color: "#8837c6"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: LORDLESS HOPS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8e8c8"
+color: "#eae3cb"
 icons:
   - icon.png
 ---

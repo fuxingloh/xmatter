@@ -8,7 +8,7 @@ name: MaxGoat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f86858"
+color: "#f76f5f"
 icons:
   - icon.png
 ---

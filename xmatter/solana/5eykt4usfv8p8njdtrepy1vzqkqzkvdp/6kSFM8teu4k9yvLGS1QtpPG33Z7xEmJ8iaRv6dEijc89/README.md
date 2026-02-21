@@ -10,7 +10,7 @@ name: The Simpsons
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#d85d8d"
 icons:
   - icon.png
 ---

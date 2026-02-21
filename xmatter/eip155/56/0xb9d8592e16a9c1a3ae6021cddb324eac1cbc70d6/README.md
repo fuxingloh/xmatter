@@ -20,7 +20,7 @@ name: PERA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#e64f23"
 icons:
   - icon.png
 ---

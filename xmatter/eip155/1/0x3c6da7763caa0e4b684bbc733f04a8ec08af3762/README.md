@@ -8,7 +8,7 @@ name: MODEL-X-coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f80808"
+color: "#f70a0a"
 icons:
   - icon.png
 ---

@@ -18,7 +18,7 @@ name: Shumo.io
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e85838"
+color: "#ea5334"
 icons:
   - icon.png
 ---

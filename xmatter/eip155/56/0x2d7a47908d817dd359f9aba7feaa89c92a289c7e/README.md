@@ -28,7 +28,7 @@ name: Lenda
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#4b2cc4"
 icons:
   - icon.png
 ---

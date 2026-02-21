@@ -8,7 +8,7 @@ name: Nebula Chain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#182858"
+color: "#45417b"
 icons:
   - icon.png
 ---

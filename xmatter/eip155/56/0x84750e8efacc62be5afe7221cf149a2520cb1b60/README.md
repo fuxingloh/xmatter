@@ -14,7 +14,7 @@ name: SCORPION
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f85828"
+color: "#f35324"
 icons:
   - icon.png
 ---

@@ -28,7 +28,7 @@ name: Legion Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#2c45b4"
 icons:
   - icon.png
 ---

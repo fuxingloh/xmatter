@@ -6,7 +6,7 @@ name: OBIDUA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#62c1c8"
 icons:
   - icon.png
 ---

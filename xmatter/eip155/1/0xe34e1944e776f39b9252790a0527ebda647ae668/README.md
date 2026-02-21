@@ -8,7 +8,7 @@ name: Helbiz Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#989878"
+color: "#9f9274"
 icons:
   - icon.png
 ---

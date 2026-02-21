@@ -10,7 +10,7 @@ name: Puss in Boots
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#384818"
+color: "#3d3e1f"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: shelterDAO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#287898"
+color: "#257b95"
 icons:
   - icon.png
 ---

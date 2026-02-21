@@ -20,7 +20,7 @@ name: GYEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0858a8"
+color: "#045cac"
 icons:
   - icon.png
 ---

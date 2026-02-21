@@ -14,7 +14,7 @@ name: Invesco QQQ (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#480878"
+color: "#47107d"
 icons:
   - icon.png
 ---

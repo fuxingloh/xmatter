@@ -16,7 +16,7 @@ name: SatoshiStreetBets Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#e6b046"
 icons:
   - icon.png
 ---

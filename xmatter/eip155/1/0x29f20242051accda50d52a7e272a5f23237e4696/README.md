@@ -8,7 +8,7 @@ name: Identity Hub Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8e8e8"
+color: "#eaeaea"
 icons:
   - icon.png
 ---

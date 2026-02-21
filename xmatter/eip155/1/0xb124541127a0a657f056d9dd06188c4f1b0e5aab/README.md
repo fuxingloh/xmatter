@@ -8,7 +8,7 @@ name: Aave UNI V1
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#f11d88"
 icons:
   - icon.png
 ---

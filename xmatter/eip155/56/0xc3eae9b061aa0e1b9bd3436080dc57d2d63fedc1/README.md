@@ -20,7 +20,7 @@ name: BEAR
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d4986a"
 icons:
   - icon.png
 ---

@@ -18,7 +18,7 @@ name: Gather
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#3c53e3"
 icons:
   - icon.png
 ---

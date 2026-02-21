@@ -8,7 +8,7 @@ name: DAV Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ff6a42"
 icons:
   - icon.png
 ---

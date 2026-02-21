@@ -15,7 +15,7 @@ name: Taiwan Semiconductor Manufacturing (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e80818"
+color: "#fbccd3"
 icons:
   - icon.png
 ---

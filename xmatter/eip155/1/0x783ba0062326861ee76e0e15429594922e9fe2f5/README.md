@@ -6,7 +6,7 @@ name: Andrey Voronkov Ventures Promo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f80808"
+color: "#ed1d1b"
 icons:
   - icon.png
 ---

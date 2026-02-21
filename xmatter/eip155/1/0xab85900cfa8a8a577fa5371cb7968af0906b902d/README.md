@@ -6,7 +6,7 @@ name: "Health, Technology &amp; Agriculture Token"
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b8b878"
+color: "#d5b54e"
 icons:
   - icon.png
 ---

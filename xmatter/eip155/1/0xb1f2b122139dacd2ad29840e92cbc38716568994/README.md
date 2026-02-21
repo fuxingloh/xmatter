@@ -6,7 +6,7 @@ name: LIBERTY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#f0e5a8"
 icons:
   - icon.png
 ---

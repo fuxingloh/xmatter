@@ -14,7 +14,7 @@ name: Trustlines Network Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ff7c4e"
 icons:
   - icon.png
 ---

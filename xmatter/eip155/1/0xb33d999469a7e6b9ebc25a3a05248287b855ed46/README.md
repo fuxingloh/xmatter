@@ -12,7 +12,7 @@ name: Flockerz
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#98c8e8"
+color: "#92caea"
 icons:
   - icon.png
 ---

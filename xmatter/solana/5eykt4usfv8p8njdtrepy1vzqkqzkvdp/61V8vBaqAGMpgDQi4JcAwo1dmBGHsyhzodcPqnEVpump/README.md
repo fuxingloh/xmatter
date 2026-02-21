@@ -12,7 +12,7 @@ name: AI Rig Complex
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#0c0c0c"
 icons:
   - icon.png
 ---

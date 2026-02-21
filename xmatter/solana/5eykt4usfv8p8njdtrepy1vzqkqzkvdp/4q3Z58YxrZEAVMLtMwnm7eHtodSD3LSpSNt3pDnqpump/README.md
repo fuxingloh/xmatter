@@ -12,7 +12,7 @@ name: Kolin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#58e8f8"
+color: "#79b4f4"
 icons:
   - icon.png
 ---

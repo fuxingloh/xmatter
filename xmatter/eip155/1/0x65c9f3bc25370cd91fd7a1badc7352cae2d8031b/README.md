@@ -6,7 +6,7 @@ name: COZ
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#f15b54"
 icons:
   - icon.png
 ---

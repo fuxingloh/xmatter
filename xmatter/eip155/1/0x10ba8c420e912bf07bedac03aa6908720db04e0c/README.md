@@ -8,7 +8,7 @@ name: Raise
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ff3d97"
 icons:
   - icon.png
 ---

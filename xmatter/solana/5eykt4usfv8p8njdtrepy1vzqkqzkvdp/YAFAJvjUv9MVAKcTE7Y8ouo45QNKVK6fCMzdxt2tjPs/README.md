@@ -12,7 +12,7 @@ name: Free Palestine
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080808"
+color: "#040705"
 icons:
   - icon.png
 ---

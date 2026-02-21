@@ -6,7 +6,7 @@ name: Cross Trading System Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#986838"
+color: "#a07743"
 icons:
   - icon.png
 ---

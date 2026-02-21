@@ -8,7 +8,7 @@ name: Blizzard.Money
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#4e9edd"
 icons:
   - icon.png
 ---

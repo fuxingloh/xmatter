@@ -12,7 +12,7 @@ name: CARV
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#e5e2e2"
 icons:
   - icon.png
 ---

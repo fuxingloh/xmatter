@@ -16,7 +16,7 @@ name: Qi Dao
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f86868"
+color: "#16151c"
 icons:
   - icon.png
 ---

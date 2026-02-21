@@ -6,7 +6,7 @@ name: WePower Contribution Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#2aadd6"
 icons:
   - icon.png
 ---

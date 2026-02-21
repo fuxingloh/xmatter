@@ -6,7 +6,7 @@ name: Roman Empire Club
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ecc65d"
 icons:
   - icon.png
 ---

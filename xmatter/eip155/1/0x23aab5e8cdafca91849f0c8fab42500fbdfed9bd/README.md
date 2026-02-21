@@ -6,7 +6,7 @@ name: Ebank Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8f848"
+color: "#ddf442"
 icons:
   - icon.png
 ---

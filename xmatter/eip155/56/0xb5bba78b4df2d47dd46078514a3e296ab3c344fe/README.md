@@ -22,7 +22,7 @@ name: Hertz Network BEP-20 Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0858a8"
+color: "#0454ac"
 icons:
   - icon.png
 ---

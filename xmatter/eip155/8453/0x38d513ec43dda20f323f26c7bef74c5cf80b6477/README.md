@@ -16,7 +16,7 @@ name: Carlo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#f2e6a7"
 icons:
   - icon.png
 ---

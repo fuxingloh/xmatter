@@ -22,7 +22,7 @@ symbol: FEGbsc
 decimals: 9
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#3a7efa"
 ---
 
 FEG is a decentralized token that has developed the first fork to combine the powers of Shiba Inu (SHIB) and reflect.finance (RFI) with a super deflationary black hole that hyper-deflates the supply of the FEG governance token.

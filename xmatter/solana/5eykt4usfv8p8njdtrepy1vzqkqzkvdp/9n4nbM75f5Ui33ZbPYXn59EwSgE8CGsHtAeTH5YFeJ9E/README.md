@@ -12,7 +12,7 @@ name: Wrapped BTC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f89818"
+color: "#f4941c"
 icons:
   - icon.png
 ---

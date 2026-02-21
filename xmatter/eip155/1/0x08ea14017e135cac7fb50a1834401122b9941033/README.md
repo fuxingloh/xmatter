@@ -6,7 +6,7 @@ name: T8T Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0888d8"
+color: "#0090d7"
 icons:
   - icon.png
 ---

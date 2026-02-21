@@ -8,7 +8,7 @@ name: Ultraman Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c82818"
+color: "#cc231b"
 icons:
   - icon.png
 ---

@@ -29,7 +29,7 @@ name: DOGEFOOD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0898c8"
+color: "#13a2cd"
 icons:
   - icon.png
 ---

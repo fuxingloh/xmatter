@@ -6,7 +6,7 @@ name: Culture Travel Currency
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#188898"
+color: "#33a6b8"
 icons:
   - icon.png
 ---

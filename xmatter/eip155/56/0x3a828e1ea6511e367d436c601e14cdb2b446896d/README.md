@@ -10,7 +10,7 @@ name: GATSBY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#eae6bd"
 icons:
   - icon.png
 ---

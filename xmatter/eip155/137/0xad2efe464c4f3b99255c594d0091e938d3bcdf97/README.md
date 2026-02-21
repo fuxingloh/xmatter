@@ -12,7 +12,7 @@ name: 300FIT Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#94c9b7"
 icons:
   - icon.png
 ---

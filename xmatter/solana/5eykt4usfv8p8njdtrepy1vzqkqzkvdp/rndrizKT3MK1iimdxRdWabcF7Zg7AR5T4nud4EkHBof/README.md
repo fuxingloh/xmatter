@@ -14,7 +14,7 @@ name: Render Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#d81818"
+color: "#c30f0f"
 icons:
   - icon.png
 ---

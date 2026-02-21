@@ -6,7 +6,7 @@ name: Time Asset Chain Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#046cbb"
 icons:
   - icon.png
 ---

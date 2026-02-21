@@ -6,7 +6,7 @@ name: Peer 2 Peer Global Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#f6f4e1"
 icons:
   - icon.png
 ---

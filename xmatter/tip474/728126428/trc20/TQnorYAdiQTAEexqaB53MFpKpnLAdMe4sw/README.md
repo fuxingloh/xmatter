@@ -12,7 +12,7 @@ symbol: GLDx
 decimals: 18
 icons:
   - icon.png
-color: "#b88828"
+color: "#453310"
 ---
 
 Gold xStock

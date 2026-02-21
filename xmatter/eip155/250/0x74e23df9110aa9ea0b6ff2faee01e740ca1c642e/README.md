@@ -26,7 +26,7 @@ symbol: TOR
 decimals: 18
 icons:
   - icon.png
-color: "#b89888"
+color: "#b6a086"
 ---
 
 TOR is a fully collateralized, backed by the Hector Finance Treasury, stablecoin built on the Fantom Opera Chain.

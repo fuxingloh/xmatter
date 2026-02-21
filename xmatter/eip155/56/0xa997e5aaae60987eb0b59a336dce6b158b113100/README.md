@@ -8,7 +8,7 @@ name: SeChain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d0b534"
 icons:
   - icon.png
 ---

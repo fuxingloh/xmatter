@@ -6,7 +6,7 @@ name: Distribute Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f83868"
+color: "#fc3364"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: MRWEB
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#483898"
+color: "#3d2d7c"
 icons:
   - icon.png
 ---

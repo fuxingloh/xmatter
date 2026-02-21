@@ -8,7 +8,7 @@ name: FarmaTrust Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#253776"
 icons:
   - icon.png
 ---

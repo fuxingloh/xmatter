@@ -12,7 +12,7 @@ name: Popcorn
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#f8e858"
+color: "#070705"
 icons:
   - icon.svg
   - icon.png

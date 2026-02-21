@@ -8,7 +8,7 @@ name: OPEN Chain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4898d8"
+color: "#4890e0"
 icons:
   - icon.png
 ---

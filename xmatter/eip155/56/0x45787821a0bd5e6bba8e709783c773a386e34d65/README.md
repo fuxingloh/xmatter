@@ -16,7 +16,7 @@ name: GoldenRat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#e9c774"
 icons:
   - icon.png
 ---

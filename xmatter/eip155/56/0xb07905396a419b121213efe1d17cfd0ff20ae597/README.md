@@ -16,7 +16,7 @@ name: PIZZANFT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#e55fb1"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Coco Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#cf9e5b"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: 1Million
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#fcd434"
 icons:
   - icon.png
 ---

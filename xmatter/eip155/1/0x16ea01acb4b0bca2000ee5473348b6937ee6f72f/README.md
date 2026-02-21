@@ -8,7 +8,7 @@ name: Enecuum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#00a7d2"
 icons:
   - icon.png
 ---

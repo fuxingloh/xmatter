@@ -20,7 +20,7 @@ symbol: EPS
 decimals: 18
 icons:
   - icon.png
-color: "#383838"
+color: "#353437"
 ---
 
 Ellipsis Finance aims to offer secure low-slippage stable swapping.

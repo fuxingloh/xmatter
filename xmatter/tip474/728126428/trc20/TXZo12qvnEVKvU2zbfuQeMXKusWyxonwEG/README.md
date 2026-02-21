@@ -21,7 +21,7 @@ name: USDGKG
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#d89848"
+color: "#d4a344"
 icons:
   - icon.png
 ---

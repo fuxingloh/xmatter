@@ -6,7 +6,7 @@ name: TRONdice
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#080808"
+color: "#bf352a"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Dafco Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#f28428"
 icons:
   - icon.png
 ---

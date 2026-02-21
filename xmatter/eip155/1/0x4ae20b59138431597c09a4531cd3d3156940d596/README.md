@@ -6,7 +6,7 @@ name: Gatt
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#878f8a"
 icons:
   - icon.png
 ---

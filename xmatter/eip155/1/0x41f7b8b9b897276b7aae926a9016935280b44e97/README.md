@@ -10,7 +10,7 @@ name: USD Coin (Portal from Solana)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2878c8"
+color: "#2976cc"
 icons:
   - icon.png
 ---

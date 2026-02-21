@@ -26,7 +26,7 @@ name: Bridge Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081838"
+color: "#0f1a30"
 icons:
   - icon.png
 ---

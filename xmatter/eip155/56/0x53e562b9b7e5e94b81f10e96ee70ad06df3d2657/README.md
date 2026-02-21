@@ -10,7 +10,7 @@ name: BabySwap Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8d8"
+color: "#fbf3db"
 icons:
   - icon.png
 ---

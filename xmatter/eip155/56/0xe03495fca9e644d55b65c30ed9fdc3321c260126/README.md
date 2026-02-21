@@ -22,7 +22,7 @@ name: WhenLambo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f858a8"
+color: "#f85da3"
 icons:
   - icon.png
 ---

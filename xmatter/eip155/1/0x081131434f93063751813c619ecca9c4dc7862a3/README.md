@@ -16,7 +16,7 @@ name: Dalarnia
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#4a1a57"
 icons:
   - icon.png
   - icon.jpeg

@@ -23,7 +23,7 @@ name: FatCake
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#282828"
+color: "#232323"
 icons:
   - icon.png
 ---

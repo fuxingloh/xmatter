@@ -12,7 +12,7 @@ name: KAP Games
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#e0f804"
 icons:
   - icon.png
 ---

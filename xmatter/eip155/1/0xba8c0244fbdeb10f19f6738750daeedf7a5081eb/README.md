@@ -8,7 +8,7 @@ name: Suterusu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#c48cfc"
 icons:
   - icon.png
 ---

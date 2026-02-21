@@ -8,7 +8,7 @@ name: Polychain Monsters
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f83868"
+color: "#fb4c81"
 icons:
   - icon.png
 ---

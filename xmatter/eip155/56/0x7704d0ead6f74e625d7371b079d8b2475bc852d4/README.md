@@ -14,7 +14,7 @@ name: PulseAI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e81838"
+color: "#ea1c3c"
 icons:
   - icon.png
 ---

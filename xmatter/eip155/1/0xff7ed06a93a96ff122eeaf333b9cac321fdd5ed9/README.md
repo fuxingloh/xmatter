@@ -6,7 +6,7 @@ name: SUREBANQA PERSONAL e-SHARE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ead487"
 icons:
   - icon.png
 ---

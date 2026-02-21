@@ -12,7 +12,7 @@ name: Anji
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#a6b0e5"
 icons:
   - icon.png
 ---

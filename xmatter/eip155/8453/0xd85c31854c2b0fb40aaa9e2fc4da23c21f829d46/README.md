@@ -14,7 +14,7 @@ name: Ping
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8d8"
+color: "#528eac"
 icons:
   - icon.svg
   - icon.png

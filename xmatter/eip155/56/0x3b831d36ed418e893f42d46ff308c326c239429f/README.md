@@ -8,7 +8,7 @@ name: PancakeTools
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8c888"
+color: "#ebc67f"
 icons:
   - icon.png
 ---

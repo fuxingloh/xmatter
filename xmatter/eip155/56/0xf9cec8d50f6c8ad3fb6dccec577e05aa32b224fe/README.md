@@ -14,7 +14,7 @@ name: Chromia
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#181828"
+color: "#eba2c8"
 icons:
   - icon.png
 ---

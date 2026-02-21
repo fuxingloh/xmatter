@@ -6,7 +6,7 @@ name: Secrets of Zurich Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#dd2e2c"
 icons:
   - icon.png
 ---

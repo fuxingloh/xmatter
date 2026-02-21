@@ -8,7 +8,7 @@ name: Nadeshiko
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e82888"
+color: "#eec4ef"
 icons:
   - icon.png
 ---

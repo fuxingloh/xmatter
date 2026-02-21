@@ -6,7 +6,7 @@ name: BitBonus
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#181818"
+color: "#17181b"
 icons:
   - icon.png
 ---

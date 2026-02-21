@@ -12,7 +12,7 @@ symbol: crvUSD
 decimals: 18
 icons:
   - icon.png
-color: "#387848"
+color: "#d1e0d5"
 ---
 
 crvUSD is a collateralized-debt-position (CDP) stablecoin pegged to the US Dollar

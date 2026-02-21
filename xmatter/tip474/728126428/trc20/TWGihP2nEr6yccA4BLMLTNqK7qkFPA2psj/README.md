@@ -12,7 +12,7 @@ symbol: PEPx
 decimals: 18
 icons:
   - icon.png
-color: "#0898d8"
+color: "#0494d4"
 ---
 
 PepsiCo xStock

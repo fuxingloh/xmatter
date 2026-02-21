@@ -16,7 +16,7 @@ name: Aurora
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#68d848"
+color: "#6cd44b"
 icons:
   - icon.png
 ---

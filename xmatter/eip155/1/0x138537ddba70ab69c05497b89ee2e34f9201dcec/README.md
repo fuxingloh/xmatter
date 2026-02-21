@@ -8,7 +8,7 @@ name: ShahinMedical
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3898c8"
+color: "#3b93d3"
 icons:
   - icon.png
 ---

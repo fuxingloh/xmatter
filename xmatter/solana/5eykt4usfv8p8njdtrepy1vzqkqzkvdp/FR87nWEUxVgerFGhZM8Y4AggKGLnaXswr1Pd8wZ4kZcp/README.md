@@ -10,7 +10,7 @@ name: Frax (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080808"
+color: "#bc6f87"
 icons:
   - icon.png
 ---

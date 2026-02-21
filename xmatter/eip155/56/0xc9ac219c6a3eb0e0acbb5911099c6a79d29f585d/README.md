@@ -12,7 +12,7 @@ name: CATEX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#d61f24"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ name: Pi INU Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#f7b04a"
 icons:
   - icon.png
 ---

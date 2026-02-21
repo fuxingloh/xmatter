@@ -20,7 +20,7 @@ symbol: UNI
 decimals: 18
 icons:
   - icon.png
-color: "#f8e8f8"
+color: "#fcecf4"
 ---
 
 UNI is the Uniswap protocol token. Uniswap is a decentralized protocol for automated liquidity provision on Ethereum.

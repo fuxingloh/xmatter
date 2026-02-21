@@ -10,7 +10,7 @@ name: Ronaldinho Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8d888"
+color: "#e5bd76"
 icons:
   - icon.png
 ---

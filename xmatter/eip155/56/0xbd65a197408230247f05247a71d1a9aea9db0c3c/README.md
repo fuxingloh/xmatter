@@ -16,7 +16,7 @@ name: POLKADOG
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8e8d8"
+color: "#f17710"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: EURITE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#0b4b60"
 icons:
   - icon.png
 ---

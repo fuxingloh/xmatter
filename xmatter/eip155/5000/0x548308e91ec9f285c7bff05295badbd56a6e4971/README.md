@@ -12,7 +12,7 @@ symbol: ORCLx
 decimals: 18
 icons:
   - icon.png
-color: "#f80808"
+color: "#fb0404"
 ---
 
 Oracle xStock

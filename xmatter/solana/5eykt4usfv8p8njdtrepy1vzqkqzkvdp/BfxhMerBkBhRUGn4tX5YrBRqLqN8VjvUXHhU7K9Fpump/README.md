@@ -12,7 +12,7 @@ name: Lynk
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#181818"
+color: "#273442"
 icons:
   - icon.png
 ---

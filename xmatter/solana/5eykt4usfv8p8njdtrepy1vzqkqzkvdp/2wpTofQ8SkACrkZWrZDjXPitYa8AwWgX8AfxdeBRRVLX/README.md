@@ -10,7 +10,7 @@ name: Chainlink (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#3858d8"
+color: "#345cd3"
 icons:
   - icon.png
 ---

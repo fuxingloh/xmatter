@@ -6,7 +6,7 @@ name: Vocal Chain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8e8a8"
+color: "#e9c96d"
 icons:
   - icon.png
 ---

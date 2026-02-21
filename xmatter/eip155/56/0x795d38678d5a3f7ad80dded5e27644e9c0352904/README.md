@@ -8,7 +8,7 @@ name: upShib
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8848f8"
+color: "#8c4cf9"
 icons:
   - icon.png
 ---

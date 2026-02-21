@@ -8,7 +8,7 @@ name: WednesdayCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#982888"
+color: "#93238b"
 icons:
   - icon.png
 ---

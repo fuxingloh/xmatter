@@ -8,7 +8,7 @@ name: CoinBene Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5888e8"
+color: "#5b93e4"
 icons:
   - icon.png
 ---

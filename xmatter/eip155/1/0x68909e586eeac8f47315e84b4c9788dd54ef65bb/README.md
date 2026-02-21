@@ -8,7 +8,7 @@ name: EvenCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#edca74"
 icons:
   - icon.png
 ---

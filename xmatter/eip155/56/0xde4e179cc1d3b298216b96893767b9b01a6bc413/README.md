@@ -8,7 +8,7 @@ name: KingToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ff9d00"
 icons:
   - icon.png
 ---

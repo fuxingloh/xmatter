@@ -8,7 +8,7 @@ name: NewOS Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c84838"
+color: "#c44233"
 icons:
   - icon.png
 ---

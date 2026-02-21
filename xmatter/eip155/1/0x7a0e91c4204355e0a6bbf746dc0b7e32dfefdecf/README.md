@@ -8,7 +8,7 @@ name: EURO TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#282828"
+color: "#222e2d"
 icons:
   - icon.png
 ---

@@ -8,5 +8,5 @@ symbol: GST1
 decimals: 2
 icons:
   - icon.png
-color: "#080808"
+color: "#000000"
 ---

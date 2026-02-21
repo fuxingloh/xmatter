@@ -8,7 +8,7 @@ name: Space Soldier
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#48c8e8"
+color: "#56bdde"
 icons:
   - icon.png
 ---

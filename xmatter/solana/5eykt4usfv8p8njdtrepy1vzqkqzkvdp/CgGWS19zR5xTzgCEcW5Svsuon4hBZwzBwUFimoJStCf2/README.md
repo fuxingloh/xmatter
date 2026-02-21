@@ -12,7 +12,7 @@ name: Foxsy AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#d5d2d0"
 icons:
   - icon.png
 ---

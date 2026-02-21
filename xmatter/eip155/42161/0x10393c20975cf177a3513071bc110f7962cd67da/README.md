@@ -14,7 +14,7 @@ name: Jones DAO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#1f151f"
 icons:
   - icon.png
   - icon.jpeg

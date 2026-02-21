@@ -8,7 +8,7 @@ name: Cryptaur
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#afafaf"
 icons:
   - icon.png
 ---

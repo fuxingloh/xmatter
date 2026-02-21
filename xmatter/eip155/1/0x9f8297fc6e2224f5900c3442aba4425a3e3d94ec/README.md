@@ -6,7 +6,7 @@ name: MineBlock
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f84838"
+color: "#f34434"
 icons:
   - icon.png
 ---

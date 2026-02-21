@@ -20,7 +20,7 @@ name: Galxe
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1858f8"
+color: "#1c5cfc"
 icons:
   - icon.png
 ---

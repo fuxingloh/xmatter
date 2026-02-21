@@ -14,7 +14,7 @@ name: Salesforce tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#0898d8"
+color: "#049cdc"
 icons:
   - icon.png
 ---

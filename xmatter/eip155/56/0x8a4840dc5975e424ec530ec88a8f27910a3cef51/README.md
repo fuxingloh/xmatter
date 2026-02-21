@@ -8,7 +8,7 @@ name: 4-Stock
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#fc4404"
 icons:
   - icon.png
 ---

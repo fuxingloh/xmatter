@@ -10,7 +10,7 @@ name: Flooring Lab Credit
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#28d8a8"
+color: "#37d4b7"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ symbol: SAFEMOON
 decimals: 9
 icons:
   - icon.png
-color: "#282838"
+color: "#21363c"
 ---
 
 Self generating liquidity token - Reflection paid back to holders.

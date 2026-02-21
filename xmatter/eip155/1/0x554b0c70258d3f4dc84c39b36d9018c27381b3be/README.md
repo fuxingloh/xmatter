@@ -6,7 +6,7 @@ name: IOT$
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#fabc1e"
 icons:
   - icon.png
 ---

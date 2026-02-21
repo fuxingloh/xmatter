@@ -16,7 +16,7 @@ name: Ninneko
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f86808"
+color: "#fc6b04"
 icons:
   - icon.png
 ---

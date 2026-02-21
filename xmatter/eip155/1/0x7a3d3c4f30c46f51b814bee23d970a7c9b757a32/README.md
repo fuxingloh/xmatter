@@ -6,7 +6,7 @@ name: ASGARD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#f8c94d"
 icons:
   - icon.png
 ---

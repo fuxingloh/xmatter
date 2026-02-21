@@ -8,7 +8,7 @@ name: XEND
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#a06871"
 icons:
   - icon.png
 ---

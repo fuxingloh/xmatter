@@ -14,7 +14,7 @@ name: Danaher tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#083888"
+color: "#04387c"
 icons:
   - icon.png
 ---

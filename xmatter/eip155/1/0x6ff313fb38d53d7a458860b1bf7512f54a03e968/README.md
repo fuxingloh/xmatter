@@ -6,7 +6,7 @@ name: Mero Currency
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#795082"
 icons:
   - icon.png
 ---

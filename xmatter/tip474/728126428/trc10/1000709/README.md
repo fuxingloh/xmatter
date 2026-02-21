@@ -6,7 +6,7 @@ name: Alivio
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#f8f8f8"
+color: "#eb5c2c"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: QASH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#38a8e8"
+color: "#34abf3"
 icons:
   - icon.png
 ---

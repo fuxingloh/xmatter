@@ -12,7 +12,7 @@ name: Ross Ulbricht
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#281818"
+color: "#785c4e"
 icons:
   - icon.png
 ---

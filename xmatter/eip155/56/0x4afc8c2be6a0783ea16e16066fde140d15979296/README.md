@@ -8,7 +8,7 @@ name: Hare Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08c8f8"
+color: "#efe3d5"
 icons:
   - icon.png
 ---

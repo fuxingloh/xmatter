@@ -14,7 +14,7 @@ name: APM Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#281818"
+color: "#241c14"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: HEY BITCOIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a8c858"
+color: "#f3fbfa"
 icons:
   - icon.png
 ---

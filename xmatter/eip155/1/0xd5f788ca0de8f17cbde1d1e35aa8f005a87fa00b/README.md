@@ -8,7 +8,7 @@ name: Shivers
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#dc2224"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: ECOSCU
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c89868"
+color: "#cea067"
 icons:
   - icon.png
 ---

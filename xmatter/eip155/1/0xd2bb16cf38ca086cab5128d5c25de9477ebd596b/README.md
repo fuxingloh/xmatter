@@ -8,7 +8,7 @@ name: xCrypt Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#e75456"
 icons:
   - icon.png
 ---

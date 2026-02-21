@@ -14,7 +14,7 @@ name: BabyFlokiCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08c8f8"
+color: "#0dcafa"
 icons:
   - icon.png
 ---

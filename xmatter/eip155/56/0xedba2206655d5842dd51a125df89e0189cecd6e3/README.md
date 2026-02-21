@@ -8,7 +8,7 @@ name: Meme10000x
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#182848"
+color: "#db9c60"
 icons:
   - icon.png
 ---

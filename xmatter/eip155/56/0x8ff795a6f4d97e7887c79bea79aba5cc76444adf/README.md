@@ -8,7 +8,7 @@ name: BNB pegged Bitcoin Cash Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#48c848"
+color: "#4bcb43"
 icons:
   - icon.png
 ---

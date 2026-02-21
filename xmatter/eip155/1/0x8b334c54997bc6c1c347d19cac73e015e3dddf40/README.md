@@ -6,7 +6,7 @@ name: Credit
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c8d8c8"
+color: "#c7d0bd"
 icons:
   - icon.png
 ---

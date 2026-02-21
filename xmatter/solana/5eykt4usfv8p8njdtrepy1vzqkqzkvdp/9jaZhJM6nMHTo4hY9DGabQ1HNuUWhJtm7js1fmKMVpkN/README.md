@@ -12,7 +12,7 @@ name: AMC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#8a98d5"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: ShibaCorgi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#38d8f8"
+color: "#36d9fb"
 icons:
   - icon.png
 ---

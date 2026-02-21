@@ -10,7 +10,7 @@ name: Compounding Open Dollar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7858d8"
+color: "#7c54dc"
 icons:
   - icon.svg
   - icon.png

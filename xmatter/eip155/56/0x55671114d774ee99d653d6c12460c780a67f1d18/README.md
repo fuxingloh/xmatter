@@ -8,7 +8,7 @@ name: Pacoca Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8d8c8"
+color: "#fbd9bf"
 icons:
   - icon.png
 ---

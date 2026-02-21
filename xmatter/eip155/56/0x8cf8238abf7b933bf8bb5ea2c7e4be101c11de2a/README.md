@@ -24,7 +24,7 @@ name: XP.network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#282838"
+color: "#242434"
 icons:
   - icon.png
 ---

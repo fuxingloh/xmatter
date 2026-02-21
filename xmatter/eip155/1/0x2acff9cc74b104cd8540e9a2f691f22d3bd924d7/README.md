@@ -8,7 +8,7 @@ name: WrapUSDT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#289878"
+color: "#24a27b"
 icons:
   - icon.png
 ---

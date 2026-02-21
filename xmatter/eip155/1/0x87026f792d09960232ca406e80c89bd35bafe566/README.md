@@ -8,7 +8,7 @@ name: CDCToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#484848"
+color: "#44b0c9"
 icons:
   - icon.png
 ---

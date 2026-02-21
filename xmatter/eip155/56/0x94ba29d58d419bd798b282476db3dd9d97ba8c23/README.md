@@ -14,7 +14,7 @@ name: Frosted Cake
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#68c8d8"
+color: "#6dcbd9"
 icons:
   - icon.png
 ---

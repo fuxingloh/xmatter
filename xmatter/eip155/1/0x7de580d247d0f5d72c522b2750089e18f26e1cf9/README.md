@@ -6,7 +6,7 @@ name: MadCripto
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081818"
+color: "#ba975c"
 icons:
   - icon.png
 ---

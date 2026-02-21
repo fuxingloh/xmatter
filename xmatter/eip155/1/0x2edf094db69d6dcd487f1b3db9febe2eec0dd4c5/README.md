@@ -16,7 +16,7 @@ name: ZeroSwap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080848"
+color: "#04044c"
 icons:
   - icon.png
 ---

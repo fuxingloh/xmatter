@@ -6,7 +6,7 @@ name: CIChain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#428bf9"
 icons:
   - icon.png
 ---

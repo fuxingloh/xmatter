@@ -8,7 +8,7 @@ name: CoinMetro Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8d808"
+color: "#f7d808"
 icons:
   - icon.png
 ---

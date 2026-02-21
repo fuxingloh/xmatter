@@ -8,7 +8,7 @@ name: ArCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#fcc83d"
 icons:
   - icon.png
 ---

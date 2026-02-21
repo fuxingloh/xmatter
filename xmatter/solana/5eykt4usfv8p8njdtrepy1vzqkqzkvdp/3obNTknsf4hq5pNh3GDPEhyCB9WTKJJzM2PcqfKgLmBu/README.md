@@ -10,7 +10,7 @@ name: Cats Of Sol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#181818"
+color: "#2f323b"
 icons:
   - icon.png
 ---

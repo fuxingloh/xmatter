@@ -19,7 +19,7 @@ name: Mini Hollywood Doge
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#2d2a27"
 icons:
   - icon.png
 ---

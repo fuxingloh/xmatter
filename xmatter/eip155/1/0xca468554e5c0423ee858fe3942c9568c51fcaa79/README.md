@@ -14,7 +14,7 @@ name: Hims & Hers Health (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d8d8d8"
+color: "#261e26"
 icons:
   - icon.png
 ---

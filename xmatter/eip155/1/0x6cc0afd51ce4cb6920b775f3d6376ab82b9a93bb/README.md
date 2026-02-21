@@ -14,7 +14,7 @@ name: Intuit (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2868f8"
+color: "#236bfc"
 icons:
   - icon.png
 ---

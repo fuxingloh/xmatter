@@ -8,7 +8,7 @@ name: Zilla Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#7962e8"
 icons:
   - icon.png
 ---

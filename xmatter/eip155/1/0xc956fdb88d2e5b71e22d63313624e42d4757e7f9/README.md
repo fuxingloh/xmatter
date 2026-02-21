@@ -6,7 +6,7 @@ name: ApeCash Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#082848"
+color: "#f6cf05"
 icons:
   - icon.png
 ---

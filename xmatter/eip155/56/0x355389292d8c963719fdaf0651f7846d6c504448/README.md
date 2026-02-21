@@ -8,7 +8,7 @@ name: HAKUNAMATATA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d72c6d"
 icons:
   - icon.png
 ---

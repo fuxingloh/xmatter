@@ -6,7 +6,7 @@ name: SHIPS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#082898"
+color: "#b0c60c"
 icons:
   - icon.png
 ---

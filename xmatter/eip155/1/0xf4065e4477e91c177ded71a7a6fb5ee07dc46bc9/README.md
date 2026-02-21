@@ -8,7 +8,7 @@ name: CEDEX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#cfdad4"
 icons:
   - icon.png
 ---

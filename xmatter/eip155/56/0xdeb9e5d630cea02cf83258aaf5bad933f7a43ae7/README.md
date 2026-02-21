@@ -18,7 +18,7 @@ name: BabyBitcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8a8b8"
+color: "#f4abc3"
 icons:
   - icon.png
 ---

@@ -17,7 +17,7 @@ name: SpacePi Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#683888"
+color: "#623c8a"
 icons:
   - icon.png
 ---

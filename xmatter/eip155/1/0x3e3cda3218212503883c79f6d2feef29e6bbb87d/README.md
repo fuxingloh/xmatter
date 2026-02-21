@@ -12,7 +12,7 @@ name: GoldenPyrex
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d8a858"
+color: "#fbbf42"
 icons:
   - icon.png
 ---

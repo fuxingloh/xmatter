@@ -12,7 +12,7 @@ name: 360noscope420blazeit
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#a80720"
 icons:
   - icon.png
 ---

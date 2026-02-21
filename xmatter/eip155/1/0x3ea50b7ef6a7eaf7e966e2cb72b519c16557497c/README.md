@@ -8,7 +8,7 @@ name: Rocket Bunny
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#282828"
+color: "#232b2b"
 icons:
   - icon.png
 ---

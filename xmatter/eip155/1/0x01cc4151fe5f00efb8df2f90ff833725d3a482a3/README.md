@@ -8,7 +8,7 @@ name: SPECTRUM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#369a15"
 icons:
   - icon.png
 ---

@@ -27,7 +27,7 @@ name: TiFi Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#00a3ff"
 icons:
   - icon.png
 ---

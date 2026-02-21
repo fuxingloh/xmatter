@@ -12,7 +12,7 @@ symbol: RBX
 decimals: 18
 icons:
   - icon.png
-color: "#282828"
+color: "#343333"
 ---
 
 RabbitX is a global permissionless perpetuals exchange built on Starknet.

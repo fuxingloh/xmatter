@@ -12,7 +12,7 @@ name: HappyCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486848"
+color: "#e8c409"
 icons:
   - icon.png
 ---

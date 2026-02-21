@@ -34,7 +34,7 @@ name: TruBadger
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#cfcfd0"
 icons:
   - icon.png
 ---

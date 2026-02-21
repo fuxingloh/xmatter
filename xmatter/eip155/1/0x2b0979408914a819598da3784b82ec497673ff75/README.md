@@ -6,7 +6,7 @@ name: CCT 67398/489
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081858"
+color: "#cdcfd3"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Decentralize Currency Assets
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#746742"
 icons:
   - icon.png
 ---

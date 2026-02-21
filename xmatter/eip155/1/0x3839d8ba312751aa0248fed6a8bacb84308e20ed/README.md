@@ -8,7 +8,7 @@ name: Bezop
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#dcf2f5"
 icons:
   - icon.png
 ---

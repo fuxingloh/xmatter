@@ -6,7 +6,7 @@ name: Oikos Network Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#080808"
+color: "#a2a2a2"
 icons:
   - icon.png
 ---

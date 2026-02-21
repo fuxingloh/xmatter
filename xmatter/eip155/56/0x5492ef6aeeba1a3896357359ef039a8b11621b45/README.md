@@ -17,7 +17,7 @@ name: Chumbi Valley
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c88838"
+color: "#f0bf41"
 icons:
   - icon.png
 ---

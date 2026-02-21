@@ -8,7 +8,7 @@ name: KickToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#fc7c2c"
 icons:
   - icon.png
 ---

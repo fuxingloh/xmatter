@@ -12,7 +12,7 @@ name: Zenith by Virtuals
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#281b39"
 icons:
   - icon.png
 ---

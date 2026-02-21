@@ -10,7 +10,7 @@ name: Chiliz (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#c80828"
+color: "#cb0626"
 icons:
   - icon.png
 ---

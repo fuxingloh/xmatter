@@ -6,7 +6,7 @@ name: 777 TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#183858"
+color: "#15345c"
 icons:
   - icon.png
 ---

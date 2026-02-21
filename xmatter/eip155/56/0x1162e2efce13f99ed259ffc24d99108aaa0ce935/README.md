@@ -8,7 +8,7 @@ name: CluCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#de0486"
 icons:
   - icon.png
 ---

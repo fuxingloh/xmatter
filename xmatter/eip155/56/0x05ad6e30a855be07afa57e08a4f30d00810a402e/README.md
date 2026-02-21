@@ -24,7 +24,7 @@ name: Tiny Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#fce3d8"
 icons:
   - icon.png
 ---

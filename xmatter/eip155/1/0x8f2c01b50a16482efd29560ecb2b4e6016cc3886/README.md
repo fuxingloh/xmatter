@@ -6,7 +6,7 @@ name: Ambazonia Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#bb9c36"
 icons:
   - icon.png
 ---

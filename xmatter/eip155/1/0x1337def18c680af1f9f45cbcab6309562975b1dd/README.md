@@ -20,7 +20,7 @@ name: Armor NXM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1888f8"
+color: "#1b93fc"
 icons:
   - icon.png
 ---

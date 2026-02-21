@@ -6,7 +6,7 @@ name: Game4Bitcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#dc9e26"
 icons:
   - icon.png
 ---

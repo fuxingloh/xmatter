@@ -8,7 +8,7 @@ name: Yo Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0898d8"
+color: "#049bdb"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ symbol: ENA
 decimals: 18
 icons:
   - icon.png
-color: "#181818"
+color: "#1c1c1c"
 ---
 
 ENA is first and foremost a governance token, governing the Ethena protocol and its critical decisions. ENA holders can vote bi-annually to elect members to a Risk Committee, and in the future additional committees performing critical roles within the ecosystem.

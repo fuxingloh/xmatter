@@ -8,7 +8,7 @@ name: Brazilian Digital Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#484848"
+color: "#4c4c4c"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Bakerytools
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#c07537"
 icons:
   - icon.png
 ---

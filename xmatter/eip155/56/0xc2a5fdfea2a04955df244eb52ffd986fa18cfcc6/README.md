@@ -8,7 +8,7 @@ name: Panda Chain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#131313"
 icons:
   - icon.png
 ---

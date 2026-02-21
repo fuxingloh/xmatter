@@ -8,7 +8,7 @@ name: CryptoBlades Skill Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#272623"
 icons:
   - icon.png
 ---

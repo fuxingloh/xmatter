@@ -8,7 +8,7 @@ name: MasterXriba
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080848"
+color: "#000848"
 icons:
   - icon.png
 ---

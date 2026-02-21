@@ -20,7 +20,7 @@ name: LOFI-DEFI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8808e8"
+color: "#750ee1"
 icons:
   - icon.png
 ---

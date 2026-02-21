@@ -12,7 +12,7 @@ name: Do Your Own Research
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0858f8"
+color: "#045cfb"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: szn
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#4888b8"
+color: "#f1d7c3"
 icons:
   - icon.png
 ---

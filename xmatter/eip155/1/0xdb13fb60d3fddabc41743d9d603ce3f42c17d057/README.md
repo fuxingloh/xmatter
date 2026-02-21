@@ -6,7 +6,7 @@ name: Baby Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8d858"
+color: "#fcd45c"
 icons:
   - icon.png
 ---

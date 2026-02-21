@@ -6,7 +6,7 @@ name: TRADECOIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ce9e3a"
 icons:
   - icon.png
 ---

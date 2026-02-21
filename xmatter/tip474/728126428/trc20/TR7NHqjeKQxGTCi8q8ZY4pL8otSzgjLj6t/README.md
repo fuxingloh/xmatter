@@ -22,7 +22,7 @@ name: Tether
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#28a878"
+color: "#24a37b"
 icons:
   - icon.png
 ---

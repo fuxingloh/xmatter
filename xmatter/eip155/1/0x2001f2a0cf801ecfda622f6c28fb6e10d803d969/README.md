@@ -8,7 +8,7 @@ name: CoinLoan
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2878e8"
+color: "#2c84ec"
 icons:
   - icon.png
 ---

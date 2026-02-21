@@ -16,7 +16,7 @@ name: HeeeHeee
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#e8a808"
+color: "#f5bc14"
 icons:
   - icon.png
 ---

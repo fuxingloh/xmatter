@@ -20,7 +20,7 @@ name: TreasureTV
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#58a898"
+color: "#53ab93"
 icons:
   - icon.png
 ---

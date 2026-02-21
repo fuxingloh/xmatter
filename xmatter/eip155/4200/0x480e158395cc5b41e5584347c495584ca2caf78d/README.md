@@ -14,7 +14,7 @@ symbol: VOYA
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#92795c"
 ---
 
 Merlin Chain Bridged VOYA (Merlin)

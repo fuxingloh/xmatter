@@ -31,7 +31,7 @@ name: DAIKOKUTEN SAMA TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#f5e4de"
 icons:
   - icon.png
 ---

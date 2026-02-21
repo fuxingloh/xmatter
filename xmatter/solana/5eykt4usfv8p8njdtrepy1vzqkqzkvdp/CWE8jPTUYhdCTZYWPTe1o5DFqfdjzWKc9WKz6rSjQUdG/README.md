@@ -18,7 +18,7 @@ name: Chainlink
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#2858d8"
+color: "#335cd3"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: OFFICIAL BABY TRUMP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#241f19"
 icons:
   - icon.png
 ---

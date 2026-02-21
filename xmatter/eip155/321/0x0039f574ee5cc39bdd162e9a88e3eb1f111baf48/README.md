@@ -14,7 +14,7 @@ symbol: USDT
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#009494"
 ---
 
 USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether. The token’s peg to the USD is achieved via maintaining a sum of commercial paper, fiduciary deposits, cash, reserve repo notes, and treasury bills in reserves that is equal in USD value to the number of USDT in circulation.

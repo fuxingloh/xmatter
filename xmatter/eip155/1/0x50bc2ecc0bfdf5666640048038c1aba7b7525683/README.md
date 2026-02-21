@@ -8,7 +8,7 @@ name: carVertical
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#2dbce4"
 icons:
   - icon.png
 ---

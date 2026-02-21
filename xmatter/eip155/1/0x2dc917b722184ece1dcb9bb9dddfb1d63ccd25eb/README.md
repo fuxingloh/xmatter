@@ -12,7 +12,7 @@ name: WHITE RHINOCEROS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#e5d2a8"
 icons:
   - icon.png
 ---

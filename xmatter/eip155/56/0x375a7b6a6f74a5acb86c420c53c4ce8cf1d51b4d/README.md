@@ -20,7 +20,7 @@ name: HUP.LIFE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#17350e"
 icons:
   - icon.png
 ---

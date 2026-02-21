@@ -8,7 +8,7 @@ name: EligmaToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8e838"
+color: "#040404"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: IUNGO token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#881898"
+color: "#eedef0"
 icons:
   - icon.png
 ---

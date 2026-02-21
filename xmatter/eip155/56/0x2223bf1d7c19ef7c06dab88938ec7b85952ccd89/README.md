@@ -36,7 +36,7 @@ name: Kryxivia
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#1f1113"
 icons:
   - icon.png
 ---

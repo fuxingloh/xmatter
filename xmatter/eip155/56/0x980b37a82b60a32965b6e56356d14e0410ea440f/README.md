@@ -14,7 +14,7 @@ name: Ronin Gamez
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#241310"
 icons:
   - icon.png
 ---

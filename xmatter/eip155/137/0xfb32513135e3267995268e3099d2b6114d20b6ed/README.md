@@ -20,7 +20,7 @@ name: Coinerr
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3858a8"
+color: "#3860ab"
 icons:
   - icon.png
 ---

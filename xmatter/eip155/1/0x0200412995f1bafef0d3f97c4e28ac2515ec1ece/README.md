@@ -8,7 +8,7 @@ name: FollowCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4898f8"
+color: "#5ea3fa"
 icons:
   - icon.png
 ---

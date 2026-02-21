@@ -10,7 +10,7 @@ name: Frontier (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#382828"
+color: "#402a29"
 icons:
   - icon.png
 ---

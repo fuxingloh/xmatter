@@ -8,7 +8,7 @@ name: BF Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#181858"
+color: "#14145d"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: SmokeCoinV_2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#dde1d9"
 icons:
   - icon.png
 ---

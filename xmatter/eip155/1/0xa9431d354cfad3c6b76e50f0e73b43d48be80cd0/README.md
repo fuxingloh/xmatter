@@ -14,7 +14,7 @@ name: Reddit (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#fcdccd"
 icons:
   - icon.png
 ---

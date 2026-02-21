@@ -6,7 +6,7 @@ name: CNC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08a8e8"
+color: "#3b7dc8"
 icons:
   - icon.png
 ---

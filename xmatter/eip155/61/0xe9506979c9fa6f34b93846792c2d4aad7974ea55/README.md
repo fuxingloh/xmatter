@@ -8,5 +8,5 @@ symbol: ELG1
 decimals: 0
 icons:
   - icon.png
-color: "#080808"
+color: "#b6f6ee"
 ---

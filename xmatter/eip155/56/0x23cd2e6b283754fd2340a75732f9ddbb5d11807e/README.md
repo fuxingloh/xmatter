@@ -27,7 +27,7 @@ name: EverRise NFT Stakes
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#0490f4"
 icons:
   - icon.png
 ---

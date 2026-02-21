@@ -16,7 +16,7 @@ name: WaultSwap Polygon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#182828"
+color: "#163036"
 icons:
   - icon.png
 ---

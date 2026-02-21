@@ -10,7 +10,7 @@ name: Shonen Pump
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f89808"
+color: "#f39b0c"
 icons:
   - icon.png
 ---

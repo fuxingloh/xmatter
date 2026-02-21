@@ -8,7 +8,7 @@ name: MZI GOLD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#df9a10"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Based ETH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0858f8"
+color: "#0454fc"
 icons:
   - icon.svg
   - icon.png

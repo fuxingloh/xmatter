@@ -6,7 +6,7 @@ name: Bitbucx
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#283898"
+color: "#2b368b"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: mHealthCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#e8c269"
 icons:
   - icon.png
 ---

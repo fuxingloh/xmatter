@@ -6,7 +6,7 @@ name: TPS+
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#dfe5ee"
 icons:
   - icon.png
 ---

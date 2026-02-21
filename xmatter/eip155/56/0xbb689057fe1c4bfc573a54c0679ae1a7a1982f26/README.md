@@ -21,7 +21,7 @@ name: shelling
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#ba934b"
 icons:
   - icon.png
 ---

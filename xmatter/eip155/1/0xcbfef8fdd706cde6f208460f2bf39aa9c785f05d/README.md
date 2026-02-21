@@ -8,7 +8,7 @@ name: Kine Governance Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#18a8a8"
+color: "#ebf3f3"
 icons:
   - icon.png
 ---

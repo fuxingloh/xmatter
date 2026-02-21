@@ -8,7 +8,7 @@ name: TrustMax
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#fbac14"
 icons:
   - icon.png
 ---

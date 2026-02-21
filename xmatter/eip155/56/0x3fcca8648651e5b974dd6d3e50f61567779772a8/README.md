@@ -8,7 +8,7 @@ name: Moonpot
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6858a8"
+color: "#736eb3"
 icons:
   - icon.png
 ---

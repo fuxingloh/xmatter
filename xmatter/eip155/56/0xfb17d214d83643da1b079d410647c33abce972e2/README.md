@@ -8,7 +8,7 @@ name: FEG Wrapped DOGE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#cfa745"
 icons:
   - icon.png
 ---

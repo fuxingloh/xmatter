@@ -8,7 +8,7 @@ name: Flow Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#eec23d"
 icons:
   - icon.png
 ---

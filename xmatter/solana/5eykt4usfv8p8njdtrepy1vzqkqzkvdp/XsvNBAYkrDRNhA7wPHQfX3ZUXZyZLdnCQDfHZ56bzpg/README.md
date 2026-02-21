@@ -14,7 +14,7 @@ name: Robinhood tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#08c808"
+color: "#04cb04"
 icons:
   - icon.png
 ---

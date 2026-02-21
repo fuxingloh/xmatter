@@ -12,7 +12,7 @@ name: Melon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#a91f17"
 icons:
   - icon.png
 ---

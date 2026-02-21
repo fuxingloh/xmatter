@@ -14,7 +14,7 @@ name: Safe Star Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081848"
+color: "#0e254f"
 icons:
   - icon.png
 ---

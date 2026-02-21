@@ -12,7 +12,7 @@ name: OnlyCalls by Virtuals
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#5c34db"
 icons:
   - icon.png
 ---

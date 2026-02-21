@@ -16,7 +16,7 @@ name: SolAPE Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080808"
+color: "#0c0c0c"
 icons:
   - icon.png
 ---

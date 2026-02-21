@@ -6,7 +6,7 @@ name: BitZyon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#f12323"
 icons:
   - icon.png
 ---

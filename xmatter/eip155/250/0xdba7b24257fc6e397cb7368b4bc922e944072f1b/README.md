@@ -24,7 +24,7 @@ symbol: veRISE
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#04abfa"
 ---
 
 Virtual token that allows the Vote Escrowed (ve) EverRise weighted governance tokens from EverRise Staking NFTs to display in wallet balances.

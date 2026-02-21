@@ -8,7 +8,7 @@ name: BNbitcoin Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f89818"
+color: "#857f7a"
 icons:
   - icon.png
 ---

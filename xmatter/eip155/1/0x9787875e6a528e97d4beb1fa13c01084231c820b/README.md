@@ -6,7 +6,7 @@ name: Cancer Realtime Check
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e82828"
+color: "#e42424"
 icons:
   - icon.png
 ---

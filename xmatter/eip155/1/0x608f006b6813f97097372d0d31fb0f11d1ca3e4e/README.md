@@ -22,7 +22,7 @@ name: CRAD CASH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#98c828"
+color: "#94c325"
 icons:
   - icon.png
 ---

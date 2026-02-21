@@ -8,7 +8,7 @@ name: SwftCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#f2e7d5"
 icons:
   - icon.png
   - icon.jpeg

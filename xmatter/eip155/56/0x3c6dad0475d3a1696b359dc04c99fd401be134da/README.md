@@ -28,7 +28,7 @@ name: Saito
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f81838"
+color: "#f41c3c"
 icons:
   - icon.png
 ---

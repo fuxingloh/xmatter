@@ -16,7 +16,7 @@ symbol: WMATIC
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#e2d1f8"
 ---
 
 Wrapped MATIC

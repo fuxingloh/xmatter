@@ -8,7 +8,7 @@ name: BANQUEUNIVERSAL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d80828"
+color: "#d90026"
 icons:
   - icon.png
 ---

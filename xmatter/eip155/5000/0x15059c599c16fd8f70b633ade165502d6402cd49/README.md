@@ -12,7 +12,7 @@ symbol: LINx
 decimals: 18
 icons:
   - icon.png
-color: "#085888"
+color: "#044f8c"
 ---
 
 Linde xStock

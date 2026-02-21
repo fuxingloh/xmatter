@@ -14,7 +14,7 @@ name: Inspect
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#60f072"
 icons:
   - icon.png
 ---

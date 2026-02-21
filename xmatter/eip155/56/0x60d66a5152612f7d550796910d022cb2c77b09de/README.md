@@ -20,7 +20,7 @@ name: Useless
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8b828"
+color: "#ecb42c"
 icons:
   - icon.png
 ---

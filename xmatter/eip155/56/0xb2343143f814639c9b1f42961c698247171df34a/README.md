@@ -18,7 +18,7 @@ name: CORE MultiChain Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f87858"
+color: "#ff7152"
 icons:
   - icon.png
 ---

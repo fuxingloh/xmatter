@@ -8,7 +8,7 @@ name: CASTWEET
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#f2ba2f"
 icons:
   - icon.png
 ---

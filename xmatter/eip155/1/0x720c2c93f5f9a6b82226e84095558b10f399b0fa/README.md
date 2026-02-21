@@ -8,7 +8,7 @@ name: Gric Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#946e3a"
 icons:
   - icon.png
 ---

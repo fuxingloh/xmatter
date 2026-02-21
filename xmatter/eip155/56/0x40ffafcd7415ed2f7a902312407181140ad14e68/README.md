@@ -20,7 +20,7 @@ name: Big Amber Stone
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#db62a5"
 icons:
   - icon.png
 ---

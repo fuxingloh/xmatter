@@ -6,7 +6,7 @@ name: Deut Capital Management
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0858a8"
+color: "#055fae"
 icons:
   - icon.png
 ---

@@ -20,7 +20,7 @@ name: HONEYPAD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#fca824"
 icons:
   - icon.png
 ---

@@ -8,5 +8,5 @@ symbol: FTC
 decimals: 4
 icons:
   - icon.png
-color: "#387818"
+color: "#396729"
 ---

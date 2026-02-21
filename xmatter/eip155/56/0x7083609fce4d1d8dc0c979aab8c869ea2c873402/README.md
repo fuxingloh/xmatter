@@ -8,7 +8,7 @@ name: BNB pegged Polkadot Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e80878"
+color: "#e3047b"
 icons:
   - icon.png
 ---

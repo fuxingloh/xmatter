@@ -14,7 +14,7 @@ name: My DeFi Pet Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8e828"
+color: "#fbdf2b"
 icons:
   - icon.png
 ---

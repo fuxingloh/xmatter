@@ -18,7 +18,7 @@ symbol: WMON
 decimals: 18
 icons:
   - icon.png
-color: "#6858f8"
+color: "#6b53fb"
 ---
 
 Monad is a high-performance Layer 1 blockchain that is 100% EVM-compatible. It processes 10,000 transactions per second with near-zero fees and sub-second finality. MON is the native token of the Monad blockchain, used for gas fees and network operations.

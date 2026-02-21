@@ -6,7 +6,7 @@ name: IdealCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#283848"
+color: "#b6babf"
 icons:
   - icon.png
 ---

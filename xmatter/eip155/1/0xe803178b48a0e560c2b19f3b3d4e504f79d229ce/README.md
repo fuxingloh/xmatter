@@ -32,7 +32,7 @@ name: Bobcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8c888"
+color: "#e2c282"
 icons:
   - icon.png
 ---

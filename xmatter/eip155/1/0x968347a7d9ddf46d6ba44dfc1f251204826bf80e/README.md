@@ -6,7 +6,7 @@ name: Hiway Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c80828"
+color: "#c80028"
 icons:
   - icon.png
 ---

@@ -8,5 +8,5 @@ symbol: iETC
 decimals: 4
 icons:
   - icon.png
-color: "#0808f8"
+color: "#0b04f3"
 ---

@@ -8,7 +8,7 @@ name: Dirham
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081818"
+color: "#d69d3a"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ name: HODL 2.0
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#eef2f9"
 icons:
   - icon.png
 ---

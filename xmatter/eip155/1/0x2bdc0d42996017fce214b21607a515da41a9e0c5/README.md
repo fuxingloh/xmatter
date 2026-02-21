@@ -8,7 +8,7 @@ name: SkinCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081828"
+color: "#042d47"
 icons:
   - icon.png
 ---

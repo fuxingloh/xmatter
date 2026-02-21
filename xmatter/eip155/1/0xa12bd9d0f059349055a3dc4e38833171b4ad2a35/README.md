@@ -8,7 +8,7 @@ name: POWM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8d8b8"
+color: "#fad4b5"
 icons:
   - icon.png
 ---

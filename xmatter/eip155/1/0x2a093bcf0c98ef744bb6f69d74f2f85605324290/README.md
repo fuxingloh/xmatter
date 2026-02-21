@@ -8,7 +8,7 @@ name: FoodCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f87808"
+color: "#ccc8c4"
 icons:
   - icon.png
 ---

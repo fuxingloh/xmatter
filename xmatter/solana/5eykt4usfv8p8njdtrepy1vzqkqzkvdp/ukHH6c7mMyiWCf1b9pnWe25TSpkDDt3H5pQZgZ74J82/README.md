@@ -13,7 +13,7 @@ name: BOOK OF MEME
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#588828"
+color: "#56832e"
 icons:
   - icon.png
 ---

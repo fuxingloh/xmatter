@@ -8,7 +8,7 @@ name: Humaniq
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5888c8"
+color: "#538ac4"
 icons:
   - icon.png
 ---

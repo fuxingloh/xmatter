@@ -6,7 +6,7 @@ name: code1 coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#469de6"
 icons:
   - icon.png
 ---

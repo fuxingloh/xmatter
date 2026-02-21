@@ -6,7 +6,7 @@ name: YACHT.SOCIAL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#b6b6b8"
 icons:
   - icon.png
 ---

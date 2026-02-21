@@ -6,7 +6,7 @@ name: IDOLCOIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#35a0ea"
 icons:
   - icon.png
 ---

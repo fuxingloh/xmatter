@@ -14,7 +14,7 @@ symbol: AVAX
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#040404"
 ---
 
 Avalanche is an open-source platform for launching Decentralized Finance (DeFi) applications and enterprise blockchain deployments in an interoperable, highly scalable ecosystem.

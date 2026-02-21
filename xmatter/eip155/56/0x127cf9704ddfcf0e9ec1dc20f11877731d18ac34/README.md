@@ -8,7 +8,7 @@ name: Saiyan Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#9ea88c"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: ROCKY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8e8"
+color: "#f4b057"
 icons:
   - icon.png
 ---

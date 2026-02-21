@@ -18,7 +18,7 @@ symbol: LAND
 decimals: 18
 icons:
   - icon.png
-color: "#f8d848"
+color: "#fbda50"
 ---
 
 Landshare brings tokenized real estate to the Binance Smart Chain.

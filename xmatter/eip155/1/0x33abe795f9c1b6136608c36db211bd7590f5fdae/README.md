@@ -12,7 +12,7 @@ name: Landwolf
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8d848"
+color: "#f6d34b"
 icons:
   - icon.png
 ---

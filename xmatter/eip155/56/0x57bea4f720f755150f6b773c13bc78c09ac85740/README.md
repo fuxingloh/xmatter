@@ -8,7 +8,7 @@ name: Micro Gaming Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#2e3b47"
 icons:
   - icon.png
 ---

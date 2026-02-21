@@ -8,7 +8,7 @@ name: XCell Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#484848"
+color: "#444444"
 icons:
   - icon.png
 ---

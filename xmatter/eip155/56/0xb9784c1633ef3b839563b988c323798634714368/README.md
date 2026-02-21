@@ -8,7 +8,7 @@ name: Phoswap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#68c8c8"
+color: "#6bcbca"
 icons:
   - icon.png
 ---

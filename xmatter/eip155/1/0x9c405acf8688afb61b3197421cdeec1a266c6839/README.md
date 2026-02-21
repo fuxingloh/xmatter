@@ -8,7 +8,7 @@ name: DogeYield
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c89808"
+color: "#dda611"
 icons:
   - icon.png
 ---

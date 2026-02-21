@@ -10,7 +10,7 @@ name: EOG Eye of God
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#c42c23"
 icons:
   - icon.png
 ---

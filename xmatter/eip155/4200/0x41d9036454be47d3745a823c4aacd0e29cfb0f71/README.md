@@ -16,7 +16,7 @@ symbol: SolvBTC
 decimals: 18
 icons:
   - icon.png
-color: "#381858"
+color: "#33245c"
 ---
 
 Earn BTC Yield and Secure Solv Points

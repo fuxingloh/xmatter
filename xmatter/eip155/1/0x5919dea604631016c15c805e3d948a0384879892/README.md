@@ -19,7 +19,7 @@ name: The People's Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#515d7a"
 icons:
   - icon.png
 ---

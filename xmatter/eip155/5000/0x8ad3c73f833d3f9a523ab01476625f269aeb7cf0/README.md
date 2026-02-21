@@ -12,7 +12,7 @@ symbol: TSLAx
 decimals: 18
 icons:
   - icon.png
-color: "#e80828"
+color: "#eb0424"
 ---
 
 Tesla xStock

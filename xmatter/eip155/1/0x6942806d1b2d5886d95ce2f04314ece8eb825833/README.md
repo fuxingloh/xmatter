@@ -10,7 +10,7 @@ name: Groyper
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#688818"
+color: "#5767ad"
 icons:
   - icon.png
 ---

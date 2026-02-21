@@ -18,7 +18,7 @@ name: Value USD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#4b54e6"
 icons:
   - icon.png
 ---

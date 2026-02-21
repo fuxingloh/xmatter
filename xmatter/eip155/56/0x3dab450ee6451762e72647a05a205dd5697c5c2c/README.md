@@ -8,7 +8,7 @@ name: FlokiShiba
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f80878"
+color: "#f90779"
 icons:
   - icon.png
 ---

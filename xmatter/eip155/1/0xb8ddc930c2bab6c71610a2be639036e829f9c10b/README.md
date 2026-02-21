@@ -8,7 +8,7 @@ name: KWHCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d4a048"
 icons:
   - icon.png
 ---

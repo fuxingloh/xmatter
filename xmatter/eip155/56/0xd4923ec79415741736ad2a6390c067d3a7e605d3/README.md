@@ -8,7 +8,7 @@ name: Capsule Decentralized Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#182858"
+color: "#1c2d5c"
 icons:
   - icon.png
 ---

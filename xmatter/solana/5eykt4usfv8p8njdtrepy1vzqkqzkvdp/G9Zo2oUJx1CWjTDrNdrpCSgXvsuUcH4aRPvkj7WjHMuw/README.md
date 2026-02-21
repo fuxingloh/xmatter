@@ -10,7 +10,7 @@ name: SHARES
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#2a164e"
 icons:
   - icon.png
 ---

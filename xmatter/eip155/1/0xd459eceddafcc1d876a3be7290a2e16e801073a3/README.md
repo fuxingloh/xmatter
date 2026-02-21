@@ -14,7 +14,7 @@ name: BounceBit Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8e8e8"
+color: "#f3eceb"
 icons:
   - icon.png
 ---

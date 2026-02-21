@@ -14,7 +14,7 @@ name: Crow Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d4a6f1"
 icons:
   - icon.png
 ---

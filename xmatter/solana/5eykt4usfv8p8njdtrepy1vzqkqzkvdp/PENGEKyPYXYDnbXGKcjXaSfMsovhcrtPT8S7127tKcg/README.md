@@ -16,7 +16,7 @@ name: Penguiana
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f8f8"
+color: "#ebc891"
 icons:
   - icon.png
 ---

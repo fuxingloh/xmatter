@@ -12,7 +12,7 @@ name: RWA Inc
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080868"
+color: "#040e76"
 icons:
   - icon.svg
   - icon.png

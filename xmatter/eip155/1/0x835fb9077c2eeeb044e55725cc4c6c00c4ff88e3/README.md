@@ -6,7 +6,7 @@ name: Whisky
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8868f8"
+color: "#8b6bfb"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Bitcoin Anonymous
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#384858"
+color: "#3b4353"
 icons:
   - icon.png
 ---

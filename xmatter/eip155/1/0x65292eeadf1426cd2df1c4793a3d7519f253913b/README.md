@@ -6,7 +6,7 @@ name: COSS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#182828"
+color: "#23242c"
 icons:
   - icon.png
 ---

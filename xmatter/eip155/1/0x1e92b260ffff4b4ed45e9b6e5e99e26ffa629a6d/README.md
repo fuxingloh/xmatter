@@ -6,7 +6,7 @@ name: Statiz
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f84828"
+color: "#fc4c2c"
 icons:
   - icon.png
 ---

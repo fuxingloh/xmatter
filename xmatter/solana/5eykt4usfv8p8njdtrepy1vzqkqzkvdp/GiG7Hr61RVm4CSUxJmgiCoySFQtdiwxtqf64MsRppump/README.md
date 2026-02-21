@@ -12,7 +12,7 @@ name: Smoking Chicken Fish
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#181818"
+color: "#bbc1cf"
 icons:
   - icon.png
 ---

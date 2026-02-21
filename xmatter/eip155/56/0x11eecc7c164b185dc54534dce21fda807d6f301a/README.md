@@ -8,7 +8,7 @@ name: BPlanted
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#78c848"
+color: "#74bc39"
 icons:
   - icon.png
 ---

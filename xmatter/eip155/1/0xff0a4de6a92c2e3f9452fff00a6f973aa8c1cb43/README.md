@@ -6,7 +6,7 @@ name: AUA GOLD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d1b77a"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Crypto Crash Course
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#cbcbcc"
 icons:
   - icon.png
 ---

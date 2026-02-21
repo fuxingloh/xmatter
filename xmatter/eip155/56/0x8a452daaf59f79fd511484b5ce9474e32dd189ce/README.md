@@ -10,7 +10,7 @@ name: BIC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8c828"
+color: "#f3cb26"
 icons:
   - icon.png
 ---

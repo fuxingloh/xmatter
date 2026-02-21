@@ -14,7 +14,7 @@ name: HXAcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d8d8d8"
+color: "#1a1c19"
 icons:
   - icon.png
 ---

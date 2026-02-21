@@ -8,7 +8,7 @@ name: '"""BANKEX"" project utility token"'
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#12adfc"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: HOWL-WPB
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#b9b9b8"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ name: MetaHouse
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e86818"
+color: "#e46c1c"
 icons:
   - icon.png
 ---

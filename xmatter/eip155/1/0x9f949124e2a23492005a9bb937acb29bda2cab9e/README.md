@@ -6,7 +6,7 @@ name: CMMEToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#cda31f"
 icons:
   - icon.png
 ---

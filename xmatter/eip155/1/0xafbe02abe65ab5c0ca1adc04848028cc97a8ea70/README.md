@@ -6,7 +6,7 @@ name: Bolivar Soberano
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8b808"
+color: "#fcb404"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: STETHDaiRebalancingSetToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8a808"
+color: "#eba50b"
 icons:
   - icon.png
 ---

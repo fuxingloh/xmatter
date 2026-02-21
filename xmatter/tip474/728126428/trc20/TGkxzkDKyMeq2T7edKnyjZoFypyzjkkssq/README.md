@@ -10,7 +10,7 @@ name: Wrapped Staked USDT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#080808"
+color: "#2ea063"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Phoneum Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#fc6f35"
 icons:
   - icon.png
 ---

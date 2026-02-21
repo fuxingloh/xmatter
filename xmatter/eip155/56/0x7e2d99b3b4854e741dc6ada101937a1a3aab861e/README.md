@@ -8,7 +8,7 @@ name: FEG Wrapped DOT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#f3873a"
 icons:
   - icon.png
 ---

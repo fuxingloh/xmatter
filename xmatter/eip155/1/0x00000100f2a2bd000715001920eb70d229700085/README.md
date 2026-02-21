@@ -8,7 +8,7 @@ name: TrueCAD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f80808"
+color: "#f20505"
 icons:
   - icon.png
 ---

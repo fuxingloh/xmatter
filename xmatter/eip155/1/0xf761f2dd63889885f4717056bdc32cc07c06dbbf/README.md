@@ -6,7 +6,7 @@ name: DagX Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#cd3423"
 icons:
   - icon.png
 ---
