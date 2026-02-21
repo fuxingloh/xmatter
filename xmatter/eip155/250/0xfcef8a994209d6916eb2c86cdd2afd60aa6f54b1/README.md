@@ -6,5 +6,5 @@ symbol: fBEETS
 icons:
   - icon.svg
   - icon.png
-color: "#18e7ad"
+color: "#080808"
 ---
