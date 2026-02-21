@@ -8,5 +8,5 @@ symbol: BCHC
 decimals: 8
 icons:
   - icon.png
-color: "#06ae4a"
+color: "#e8c8c8"
 ---

@@ -6,7 +6,7 @@ name: Augmint Crypto Euro
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dbdde4"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

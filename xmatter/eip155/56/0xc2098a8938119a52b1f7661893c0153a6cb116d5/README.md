@@ -14,7 +14,7 @@ name: Rangers Protocol Gas(RPG)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#26333b"
+color: "#080808"
 icons:
   - icon.png
 ---

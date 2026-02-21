@@ -12,7 +12,7 @@ symbol: HDx
 decimals: 18
 icons:
   - icon.png
-color: "#ec7c14"
+color: "#e87818"
 ---
 
 Home Depot xStock

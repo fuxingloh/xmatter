@@ -12,7 +12,7 @@ symbol: LVMON
 decimals: 18
 icons:
   - icon.png
-color: "#6c54fc"
+color: "#080808"
 ---
 
 LeverUp is an LP-Free perpetuals exchange delivering uncapped open interest, 100% fee redistribution to traders, and leverage up to 1001x

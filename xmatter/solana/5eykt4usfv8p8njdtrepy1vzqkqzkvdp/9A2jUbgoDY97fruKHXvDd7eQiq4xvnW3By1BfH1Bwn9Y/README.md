@@ -12,7 +12,7 @@ name: DeepSeek AI Agent
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#546df8"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

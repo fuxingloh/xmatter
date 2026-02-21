@@ -22,7 +22,7 @@ name: IoTeX Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#07b8a9"
+color: "#181828"
 icons:
   - icon.png
 ---

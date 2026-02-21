@@ -8,7 +8,7 @@ name: The Last McAfee Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bc253f"
+color: "#080808"
 icons:
   - icon.png
 ---

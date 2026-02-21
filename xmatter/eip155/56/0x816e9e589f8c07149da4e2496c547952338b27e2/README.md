@@ -12,7 +12,7 @@ name: BITTO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#81cbfc"
+color: "#080808"
 icons:
   - icon.png
 ---

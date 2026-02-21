@@ -19,7 +19,7 @@ name: LESLARVERSE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f6d96d"
+color: "#080808"
 icons:
   - icon.png
 ---

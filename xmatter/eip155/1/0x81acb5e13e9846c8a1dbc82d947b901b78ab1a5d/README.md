@@ -6,7 +6,7 @@ name: HXT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#45dcff"
+color: "#080808"
 icons:
   - icon.png
 ---

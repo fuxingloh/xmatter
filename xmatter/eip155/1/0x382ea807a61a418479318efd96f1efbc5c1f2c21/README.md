@@ -12,7 +12,7 @@ name: pepe in a memes world
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a7a889"
+color: "#a8a888"
 icons:
   - icon.png
 ---

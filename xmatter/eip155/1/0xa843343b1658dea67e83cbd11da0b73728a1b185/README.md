@@ -6,7 +6,7 @@ name: TixguruToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8ac1e8"
+color: "#181828"
 icons:
   - icon.png
 ---

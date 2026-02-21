@@ -6,7 +6,7 @@ name: GreatBritishPoundToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a40c0d"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Mero
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#235b9b"
+color: "#285898"
 icons:
   - icon.png
 ---

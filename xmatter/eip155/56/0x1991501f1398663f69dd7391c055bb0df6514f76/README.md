@@ -8,7 +8,7 @@ name: HotDoge Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d77127"
+color: "#f86868"
 icons:
   - icon.png
 ---

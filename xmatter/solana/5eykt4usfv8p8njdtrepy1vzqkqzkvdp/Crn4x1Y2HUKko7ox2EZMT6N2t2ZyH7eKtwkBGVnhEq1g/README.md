@@ -12,7 +12,7 @@ name: GMO JPY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#045bab"
+color: "#0858a8"
 icons:
   - icon.png
 ---

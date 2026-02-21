@@ -10,7 +10,7 @@ name: SafeMoon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#191b2b"
+color: "#181828"
 icons:
   - icon.png
 ---

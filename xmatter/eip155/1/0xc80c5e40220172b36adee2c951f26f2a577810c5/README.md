@@ -8,7 +8,7 @@ name: Banker Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#45bcb7"
+color: "#58c8b8"
 icons:
   - icon.png
 ---

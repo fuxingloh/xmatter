@@ -12,7 +12,7 @@ symbol: TQQQx
 decimals: 18
 icons:
   - icon.png
-color: "#35784e"
+color: "#e8f8f8"
 ---
 
 TQQQ xStock

@@ -12,7 +12,7 @@ name: PEPE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4a8a3f"
+color: "#489848"
 icons:
   - icon.png
 ---

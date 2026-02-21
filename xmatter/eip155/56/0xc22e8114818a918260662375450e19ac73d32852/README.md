@@ -17,7 +17,7 @@ name: KittyCake
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f4cf8a"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

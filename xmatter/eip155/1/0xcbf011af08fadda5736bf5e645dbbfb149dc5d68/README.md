@@ -6,7 +6,7 @@ name: Yi Fa Temple Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d0a63e"
+color: "#080808"
 icons:
   - icon.png
 ---

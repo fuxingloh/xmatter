@@ -8,7 +8,7 @@ name: A-May Daw Aung San Suu Kyi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e64d4c"
+color: "#e84848"
 icons:
   - icon.png
 ---

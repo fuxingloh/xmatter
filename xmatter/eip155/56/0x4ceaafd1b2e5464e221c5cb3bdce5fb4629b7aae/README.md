@@ -8,7 +8,7 @@ name: SafeUniverse V2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bf829a"
+color: "#281848"
 icons:
   - icon.png
 ---

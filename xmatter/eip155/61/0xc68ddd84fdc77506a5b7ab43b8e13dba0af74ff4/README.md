@@ -8,5 +8,5 @@ symbol: PXG1
 decimals: 0
 icons:
   - icon.png
-color: "#e0e0dd"
+color: "#080808"
 ---

@@ -12,7 +12,7 @@ name: PEPEFLOKI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8cd22d"
+color: "#b8e828"
 icons:
   - icon.png
 ---

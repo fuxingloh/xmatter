@@ -12,7 +12,7 @@ name: Tulip
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#041c2c"
+color: "#081828"
 icons:
   - icon.png
 ---

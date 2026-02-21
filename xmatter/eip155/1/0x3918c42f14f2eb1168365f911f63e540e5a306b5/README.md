@@ -8,7 +8,7 @@ name: Neural Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4290b9"
+color: "#080808"
 icons:
   - icon.png
 ---

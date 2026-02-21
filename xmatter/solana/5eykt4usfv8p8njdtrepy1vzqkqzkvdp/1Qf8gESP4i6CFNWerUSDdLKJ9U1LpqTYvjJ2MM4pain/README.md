@@ -10,7 +10,7 @@ name: PAIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#ca8578"
+color: "#c87868"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: AirNFT Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4097fc"
+color: "#080808"
 icons:
   - icon.png
 ---

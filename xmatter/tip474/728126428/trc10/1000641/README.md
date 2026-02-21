@@ -6,7 +6,7 @@ name: SexTronsPartys
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#bf9a7d"
+color: "#080808"
 icons:
   - icon.png
 ---

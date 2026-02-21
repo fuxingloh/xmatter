@@ -8,5 +8,5 @@ symbol: WEED
 decimals: 18
 icons:
   - icon.png
-color: "#09aa49"
+color: "#080808"
 ---

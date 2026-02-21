@@ -24,7 +24,7 @@ name: BNB pegged Dai Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fcb831"
+color: "#080808"
 icons:
   - icon.png
 ---

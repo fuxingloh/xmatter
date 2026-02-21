@@ -8,5 +8,5 @@ symbol: UMC
 decimals: 8
 icons:
   - icon.png
-color: "#1b9fd8"
+color: "#f8f8f8"
 ---

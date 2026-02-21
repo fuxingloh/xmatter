@@ -12,7 +12,7 @@ name: Farting Unicorn
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#1a2e60"
+color: "#d8d8e8"
 icons:
   - icon.png
 ---

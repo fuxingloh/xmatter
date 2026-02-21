@@ -6,7 +6,7 @@ name: Cojam
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0b0a09"
+color: "#f8b868"
 icons:
   - icon.png
 ---

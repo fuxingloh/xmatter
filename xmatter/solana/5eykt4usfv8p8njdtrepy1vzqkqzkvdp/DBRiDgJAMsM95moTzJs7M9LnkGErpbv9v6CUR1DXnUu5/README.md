@@ -12,7 +12,7 @@ name: deBridge
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f8f93b"
+color: "#081818"
 icons:
   - icon.png
 ---

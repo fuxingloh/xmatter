@@ -6,7 +6,7 @@ name: DEP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#d4cbcc"
+color: "#d8c8c8"
 icons:
   - icon.png
 ---

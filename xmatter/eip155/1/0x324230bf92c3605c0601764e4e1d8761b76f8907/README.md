@@ -6,7 +6,7 @@ name: OTChain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#67b9ec"
+color: "#080808"
 icons:
   - icon.png
 ---

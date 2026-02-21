@@ -8,7 +8,7 @@ name: Cobinhood Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#05ba8c"
+color: "#08b888"
 icons:
   - icon.png
 ---

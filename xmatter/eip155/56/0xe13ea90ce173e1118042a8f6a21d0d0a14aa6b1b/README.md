@@ -8,7 +8,7 @@ name: KazooCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#33acab"
+color: "#38a8a8"
 icons:
   - icon.png
 ---

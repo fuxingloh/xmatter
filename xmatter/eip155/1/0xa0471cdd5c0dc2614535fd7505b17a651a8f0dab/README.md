@@ -8,7 +8,7 @@ name: EasySwap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1c1c4c"
+color: "#181848"
 icons:
   - icon.png
 ---

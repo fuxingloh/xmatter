@@ -12,7 +12,7 @@ name: BIAO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#e1e0e1"
+color: "#080808"
 icons:
   - icon.png
 ---

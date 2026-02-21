@@ -14,7 +14,7 @@ name: Abbott tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#149cd4"
+color: "#1898d8"
 icons:
   - icon.png
 ---

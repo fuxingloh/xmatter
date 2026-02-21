@@ -12,7 +12,7 @@ name: Cryowar Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#292e3b"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: DARC Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#042b63"
+color: "#082868"
 icons:
   - icon.png
 ---

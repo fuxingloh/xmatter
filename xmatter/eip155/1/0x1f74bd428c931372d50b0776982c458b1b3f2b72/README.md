@@ -6,7 +6,7 @@ name: FGCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#23b3e4"
+color: "#080808"
 icons:
   - icon.png
 ---

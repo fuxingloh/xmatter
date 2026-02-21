@@ -8,5 +8,5 @@ symbol: UP
 decimals: 18
 icons:
   - icon.png
-color: "#04acec"
+color: "#08a8e8"
 ---

@@ -6,7 +6,7 @@ name: ETH Player Key
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b7b58b"
+color: "#180848"
 icons:
   - icon.png
 ---

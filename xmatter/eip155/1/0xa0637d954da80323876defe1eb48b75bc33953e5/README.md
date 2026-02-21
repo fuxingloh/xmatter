@@ -6,7 +6,7 @@ name: GlobalCitizenPay
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b5883e"
+color: "#080808"
 icons:
   - icon.png
 ---

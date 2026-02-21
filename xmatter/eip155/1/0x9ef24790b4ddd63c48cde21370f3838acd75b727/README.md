@@ -6,7 +6,7 @@ name: DragonBorns
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c7c7dd"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Bitpaid
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8f8f8f"
+color: "#080808"
 icons:
   - icon.png
 ---

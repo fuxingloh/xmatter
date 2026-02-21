@@ -8,7 +8,7 @@ name: DeFiat Points
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ab9bfc"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

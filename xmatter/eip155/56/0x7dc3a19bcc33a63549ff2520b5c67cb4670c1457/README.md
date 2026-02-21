@@ -12,7 +12,7 @@ name: AI16CZ
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c38156"
+color: "#f87828"
 icons:
   - icon.png
 ---

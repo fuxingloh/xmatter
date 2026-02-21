@@ -16,7 +16,7 @@ name: VELO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#db1c5c"
+color: "#d81858"
 icons:
   - icon.png
 ---

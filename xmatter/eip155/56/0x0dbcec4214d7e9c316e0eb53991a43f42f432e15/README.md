@@ -34,7 +34,7 @@ name: FxBox
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3c6bdc"
+color: "#3868d8"
 icons:
   - icon.png
 ---

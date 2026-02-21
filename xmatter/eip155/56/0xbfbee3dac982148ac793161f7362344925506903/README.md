@@ -8,7 +8,7 @@ name: CatzCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d6c186"
+color: "#080808"
 icons:
   - icon.png
 ---

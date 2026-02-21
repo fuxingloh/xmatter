@@ -16,7 +16,7 @@ name: Chintai Exchange Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08243b"
+color: "#080808"
 icons:
   - icon.png
 ---

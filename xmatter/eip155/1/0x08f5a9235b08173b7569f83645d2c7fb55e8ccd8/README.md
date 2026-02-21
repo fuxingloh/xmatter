@@ -8,7 +8,7 @@ name: Tierion
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fb4282"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

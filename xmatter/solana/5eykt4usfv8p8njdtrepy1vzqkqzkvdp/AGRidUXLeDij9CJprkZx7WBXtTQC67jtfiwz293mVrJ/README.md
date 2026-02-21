@@ -10,7 +10,7 @@ name: AgriDex
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#040414"
+color: "#080818"
 icons:
   - icon.png
 ---

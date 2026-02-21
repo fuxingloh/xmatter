@@ -14,7 +14,7 @@ name: MicroStrategy tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#dc3443"
+color: "#d83848"
 icons:
   - icon.png
 ---

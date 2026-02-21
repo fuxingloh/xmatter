@@ -14,7 +14,7 @@ name: Gold tokenized ETF (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#bc842b"
+color: "#b88828"
 icons:
   - icon.png
 ---

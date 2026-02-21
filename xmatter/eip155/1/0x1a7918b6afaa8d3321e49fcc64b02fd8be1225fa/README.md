@@ -6,7 +6,7 @@ name: TokenMarket Ltd. A shares
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0bbe3e"
+color: "#08b838"
 icons:
   - icon.png
 ---

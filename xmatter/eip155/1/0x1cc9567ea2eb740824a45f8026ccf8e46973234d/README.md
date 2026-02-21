@@ -6,7 +6,7 @@ name: bZx KNC iToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#42bdac"
+color: "#48b898"
 icons:
   - icon.png
 ---

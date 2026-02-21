@@ -8,7 +8,7 @@ name: botXcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f9c40e"
+color: "#182858"
 icons:
   - icon.png
 ---

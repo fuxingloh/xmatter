@@ -14,7 +14,7 @@ name: Baidu (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2b33e3"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

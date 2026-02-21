@@ -12,7 +12,7 @@ name: ArgenPeso
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b9a15e"
+color: "#080808"
 icons:
   - icon.png
 ---

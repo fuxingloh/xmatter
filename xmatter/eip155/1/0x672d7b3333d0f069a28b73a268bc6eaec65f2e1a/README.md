@@ -8,7 +8,7 @@ name: Kelpie Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1f1c19"
+color: "#c88838"
 icons:
   - icon.png
 ---

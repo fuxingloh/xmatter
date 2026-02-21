@@ -8,7 +8,7 @@ name: InnovativeBioresearchClassic
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#324a61"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

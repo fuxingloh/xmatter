@@ -8,7 +8,7 @@ name: CWV Chain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#9dd5cd"
+color: "#080808"
 icons:
   - icon.png
 ---

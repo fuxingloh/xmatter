@@ -23,7 +23,7 @@ name: Shiba Floki Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#302d2c"
+color: "#f80808"
 icons:
   - icon.png
 ---

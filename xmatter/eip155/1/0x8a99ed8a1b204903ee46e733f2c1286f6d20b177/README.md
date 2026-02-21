@@ -6,7 +6,7 @@ name: Fujinto
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3bbcec"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -8,5 +8,5 @@ symbol: CANDY
 decimals: 6
 icons:
   - icon.png
-color: "#d5dcca"
+color: "#f8f8f8"
 ---

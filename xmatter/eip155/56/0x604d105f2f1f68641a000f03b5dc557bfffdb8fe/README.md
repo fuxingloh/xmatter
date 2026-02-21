@@ -8,7 +8,7 @@ name: SoupSwap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ec7f04"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

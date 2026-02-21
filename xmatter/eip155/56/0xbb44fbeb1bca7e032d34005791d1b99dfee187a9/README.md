@@ -10,7 +10,7 @@ name: Four Meme Game
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#202b42"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

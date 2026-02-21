@@ -6,7 +6,7 @@ name: EV Dollar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#575859"
+color: "#080808"
 icons:
   - icon.png
 ---

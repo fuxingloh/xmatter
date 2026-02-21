@@ -29,7 +29,7 @@ name: WEB3 Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dfe2ba"
+color: "#080878"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: PVS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#984968"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

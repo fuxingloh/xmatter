@@ -10,7 +10,7 @@ name: WAT2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f1d1ed"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

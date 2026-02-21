@@ -8,7 +8,7 @@ name: metalblock
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fab906"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

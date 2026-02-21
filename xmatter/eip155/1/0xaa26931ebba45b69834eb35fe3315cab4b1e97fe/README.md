@@ -8,7 +8,7 @@ name: AWARE Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fcac1d"
+color: "#080808"
 icons:
   - icon.png
 ---

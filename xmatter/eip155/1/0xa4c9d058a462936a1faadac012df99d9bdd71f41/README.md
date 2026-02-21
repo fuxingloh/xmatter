@@ -8,7 +8,7 @@ name: Diamond Exchange Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f5eabb"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Project Joule
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fbbb0c"
+color: "#f8b808"
 icons:
   - icon.png
 ---

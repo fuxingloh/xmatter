@@ -16,7 +16,7 @@ name: Wrapped AVAX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ec4444"
+color: "#e84848"
 icons:
   - icon.png
 ---

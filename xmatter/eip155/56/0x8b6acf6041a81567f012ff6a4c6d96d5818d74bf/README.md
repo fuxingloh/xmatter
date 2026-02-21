@@ -15,7 +15,7 @@ name: Micron Technology (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cdcdcd"
+color: "#080808"
 icons:
   - icon.png
 ---

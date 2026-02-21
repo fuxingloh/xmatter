@@ -8,7 +8,7 @@ name: Dapp Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6e1aa6"
+color: "#486878"
 icons:
   - icon.png
 ---

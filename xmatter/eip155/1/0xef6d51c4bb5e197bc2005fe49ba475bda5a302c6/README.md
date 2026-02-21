@@ -6,7 +6,7 @@ name: CoinPaws
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc9d04"
+color: "#f89808"
 icons:
   - icon.png
 ---

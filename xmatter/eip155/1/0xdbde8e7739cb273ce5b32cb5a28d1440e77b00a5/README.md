@@ -6,7 +6,7 @@ name: Relentless
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e75b00"
+color: "#e85808"
 icons:
   - icon.png
 ---

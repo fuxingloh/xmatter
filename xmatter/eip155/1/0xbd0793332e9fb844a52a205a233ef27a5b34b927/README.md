@@ -8,7 +8,7 @@ name: ZB Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e02018"
+color: "#080808"
 icons:
   - icon.png
 ---

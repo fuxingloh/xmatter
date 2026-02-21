@@ -12,7 +12,7 @@ symbol: ABBVx
 decimals: 18
 icons:
   - icon.png
-color: "#040438"
+color: "#080838"
 ---
 
 AbbVie xStock

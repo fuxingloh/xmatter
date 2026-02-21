@@ -10,7 +10,7 @@ name: Basic Attention Token (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fa5306"
+color: "#f84808"
 icons:
   - icon.png
 ---

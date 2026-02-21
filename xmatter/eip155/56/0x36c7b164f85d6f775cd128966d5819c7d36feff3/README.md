@@ -26,7 +26,7 @@ name: Openlive NFT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#41aed7"
+color: "#48b8c8"
 icons:
   - icon.png
 ---

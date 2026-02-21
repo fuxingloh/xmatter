@@ -12,7 +12,7 @@ name: Yearn Land
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0460c1"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: Literally Me
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#291235"
+color: "#181838"
 icons:
   - icon.png
 ---

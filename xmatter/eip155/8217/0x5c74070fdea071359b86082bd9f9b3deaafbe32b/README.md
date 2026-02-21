@@ -22,7 +22,7 @@ symbol: KDAI
 decimals: 18
 icons:
   - icon.png
-color: "#fcb831"
+color: "#080808"
 ---
 
 Dai is a stable cryptocurrency supported by Maker (MKR). To ensure price stability, Dai minimizes the price volatility against the US dollar, through an incentive structure for its participants.

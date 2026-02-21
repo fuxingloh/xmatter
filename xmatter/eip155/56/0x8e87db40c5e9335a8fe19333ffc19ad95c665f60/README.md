@@ -33,7 +33,7 @@ name: DOOiT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04a3c6"
+color: "#08a8c8"
 icons:
   - icon.png
 ---

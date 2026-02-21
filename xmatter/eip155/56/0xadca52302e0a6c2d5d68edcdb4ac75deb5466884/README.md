@@ -28,7 +28,7 @@ symbol: GMR
 decimals: 18
 icons:
   - icon.jpeg
-color: "#ce9e51"
+color: "#f8f8f8"
 ---
 
 GMR: The decentralised gaming token and social GameFi platform. Create. Empower. Game.

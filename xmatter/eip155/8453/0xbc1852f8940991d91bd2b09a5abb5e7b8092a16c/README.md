@@ -12,7 +12,7 @@ name: BasePrinter
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0553f9"
+color: "#0858f8"
 icons:
   - icon.png
 ---

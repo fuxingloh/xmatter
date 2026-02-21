@@ -6,7 +6,7 @@ name: Hydrolic
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fbb413"
+color: "#f8a818"
 icons:
   - icon.png
 ---

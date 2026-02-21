@@ -8,7 +8,7 @@ name: Marcelo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04fbfb"
+color: "#f8f8f8"
 icons:
   - icon.png
   - icon.webp

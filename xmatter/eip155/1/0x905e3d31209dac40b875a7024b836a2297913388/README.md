@@ -6,7 +6,7 @@ name: Crypto Code
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#64fbd2"
+color: "#58f8d8"
 icons:
   - icon.png
 ---

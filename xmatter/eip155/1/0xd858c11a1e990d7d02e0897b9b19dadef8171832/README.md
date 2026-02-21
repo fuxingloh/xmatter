@@ -6,7 +6,7 @@ name: Voke
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#130f25"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Zuflo Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d1b56c"
+color: "#486878"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: Poly Ontology Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4ca4fc"
+color: "#48a8f8"
 icons:
   - icon.png
 ---

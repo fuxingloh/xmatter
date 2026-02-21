@@ -20,7 +20,7 @@ name: UNCL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1baafc"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

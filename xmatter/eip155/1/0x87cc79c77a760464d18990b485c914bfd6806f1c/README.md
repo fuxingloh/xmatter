@@ -6,7 +6,7 @@ name: JSW
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#80513f"
+color: "#f8f8e8"
 icons:
   - icon.png
 ---

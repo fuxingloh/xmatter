@@ -8,7 +8,7 @@ name: WINGS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0ccbf4"
+color: "#080808"
 icons:
   - icon.png
 ---

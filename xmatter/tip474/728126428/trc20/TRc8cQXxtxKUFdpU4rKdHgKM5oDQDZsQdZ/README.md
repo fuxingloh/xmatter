@@ -12,7 +12,7 @@ symbol: CRMx
 decimals: 18
 icons:
   - icon.png
-color: "#049bdb"
+color: "#0898d8"
 ---
 
 Salesforce xStock

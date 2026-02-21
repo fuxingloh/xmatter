@@ -6,7 +6,7 @@ name: TradeMyCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b61a5d"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -20,7 +20,7 @@ name: FINO DAO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fbbf08"
+color: "#282828"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: Hedget (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#0a070a"
+color: "#080808"
 icons:
   - icon.png
 ---

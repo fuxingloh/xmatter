@@ -14,7 +14,7 @@ name: NCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4a4844"
+color: "#080808"
 icons:
   - icon.png
 ---

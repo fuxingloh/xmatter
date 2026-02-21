@@ -8,7 +8,7 @@ name: Elon Peg
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1ca3f4"
+color: "#080808"
 icons:
   - icon.png
 ---

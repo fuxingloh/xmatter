@@ -15,7 +15,7 @@ name: Wrapped Home Depot Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eb7b14"
+color: "#e87818"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: ALMEELA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ca9a3e"
+color: "#080808"
 icons:
   - icon.png
 ---

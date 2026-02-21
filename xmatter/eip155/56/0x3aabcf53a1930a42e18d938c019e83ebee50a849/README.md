@@ -8,7 +8,7 @@ name: SPONGE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f2b104"
+color: "#f8b808"
 icons:
   - icon.png
 ---

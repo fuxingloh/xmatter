@@ -12,7 +12,7 @@ name: MEME AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1ec5ef"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

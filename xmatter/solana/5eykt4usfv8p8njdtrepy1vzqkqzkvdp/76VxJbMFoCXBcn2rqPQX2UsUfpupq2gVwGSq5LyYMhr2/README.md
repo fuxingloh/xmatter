@@ -12,7 +12,7 @@ name: Gaimin Token (Wormhole)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#e4c278"
+color: "#080828"
 icons:
   - icon.png
 ---

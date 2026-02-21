@@ -14,7 +14,7 @@ name: OLAF
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#3a9ac4"
+color: "#1878a8"
 icons:
   - icon.png
 ---

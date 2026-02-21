@@ -18,7 +18,7 @@ name: Cat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e2c89e"
+color: "#e83858"
 icons:
   - icon.png
 ---

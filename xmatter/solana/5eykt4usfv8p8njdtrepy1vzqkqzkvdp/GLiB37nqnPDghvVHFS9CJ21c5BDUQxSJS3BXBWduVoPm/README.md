@@ -12,7 +12,7 @@ name: Chedda
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f7c254"
+color: "#f8b848"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: rocky
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#b1967b"
+color: "#c8b8a8"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Tachain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f2eff1"
+color: "#880868"
 icons:
   - icon.png
 ---

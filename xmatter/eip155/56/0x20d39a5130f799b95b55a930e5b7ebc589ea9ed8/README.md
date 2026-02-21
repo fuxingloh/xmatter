@@ -12,7 +12,7 @@ name: Heroes&Empires
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f1b00b"
+color: "#080808"
 icons:
   - icon.png
 ---

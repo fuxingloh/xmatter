@@ -18,7 +18,7 @@ symbol: ETH
 decimals: 18
 icons:
   - icon.png
-color: "#8b8b8b"
+color: "#080808"
 ---
 
 Ethereum is a global, open-source platform for decentralized applications. Eth is fueling transactions on the Chain.

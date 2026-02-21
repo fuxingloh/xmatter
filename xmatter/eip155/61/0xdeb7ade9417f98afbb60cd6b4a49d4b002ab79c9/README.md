@@ -8,5 +8,5 @@ symbol: BJAM
 decimals: 18
 icons:
   - icon.png
-color: "#dcdd12"
+color: "#080808"
 ---

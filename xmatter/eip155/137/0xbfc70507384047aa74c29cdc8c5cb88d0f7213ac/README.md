@@ -12,7 +12,7 @@ name: Artificial Liquid Intelligence
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2caae2"
+color: "#080848"
 icons:
   - icon.png
 ---

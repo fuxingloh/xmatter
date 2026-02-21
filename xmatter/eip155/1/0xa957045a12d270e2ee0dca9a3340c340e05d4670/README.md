@@ -8,7 +8,7 @@ name: AIDUS TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#131d3b"
+color: "#081838"
 icons:
   - icon.png
 ---

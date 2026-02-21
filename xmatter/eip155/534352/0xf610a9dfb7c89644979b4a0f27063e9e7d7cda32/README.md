@@ -16,7 +16,7 @@ symbol: wstETH
 decimals: 18
 icons:
   - icon.png
-color: "#f7dadd"
+color: "#f8d8d8"
 ---
 
 wstETH is a wrapped version of stETH. As some DeFi protocols require a constant balance mechanism for tokens, wstETH keeps your balance of stETH fixed and uses an underlying share system to reflect your earned staking rewards.

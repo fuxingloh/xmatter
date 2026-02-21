@@ -12,7 +12,7 @@ name: Jen-Hsun Huang
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#1ba53e"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: ABCC Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f7d104"
+color: "#181818"
 icons:
   - icon.png
 ---

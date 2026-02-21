@@ -8,7 +8,7 @@ name: DefHold
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#435bef"
+color: "#080808"
 icons:
   - icon.png
 ---

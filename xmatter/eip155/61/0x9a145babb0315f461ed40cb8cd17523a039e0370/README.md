@@ -8,5 +8,5 @@ symbol: Astral
 decimals: 6
 icons:
   - icon.png
-color: "#307990"
+color: "#080808"
 ---

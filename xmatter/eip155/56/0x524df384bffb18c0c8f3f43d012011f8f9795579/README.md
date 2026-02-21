@@ -22,7 +22,7 @@ name: YAY Games
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4ad93b"
+color: "#282828"
 icons:
   - icon.png
 ---

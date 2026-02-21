@@ -16,7 +16,7 @@ name: METAGALAXY LAND
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#33807e"
+color: "#386868"
 icons:
   - icon.png
 ---

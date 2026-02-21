@@ -14,7 +14,7 @@ name: Oxygen Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f4f8f8"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

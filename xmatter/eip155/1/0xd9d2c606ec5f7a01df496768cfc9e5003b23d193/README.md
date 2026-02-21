@@ -6,7 +6,7 @@ name: YouthCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e4a963"
+color: "#080808"
 icons:
   - icon.png
 ---

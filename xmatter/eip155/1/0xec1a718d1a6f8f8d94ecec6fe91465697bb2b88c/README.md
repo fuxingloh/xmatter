@@ -8,7 +8,7 @@ name: ENTONE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#565655"
+color: "#585858"
 icons:
   - icon.png
 ---

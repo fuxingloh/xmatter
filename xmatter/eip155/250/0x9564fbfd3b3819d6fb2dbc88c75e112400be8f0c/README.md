@@ -16,7 +16,7 @@ symbol: OWL
 decimals: 18
 icons:
   - icon.png
-color: "#19223d"
+color: "#f8f8f8"
 ---
 
 OwlDAO - Build the Best Casino Solution on Ethereum Networks.

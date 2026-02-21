@@ -14,7 +14,7 @@ name: NVIDIA tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#4ccc44"
+color: "#48c848"
 icons:
   - icon.png
 ---

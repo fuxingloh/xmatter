@@ -14,7 +14,7 @@ name: Airbnb (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc5b5d"
+color: "#f85858"
 icons:
   - icon.png
 ---

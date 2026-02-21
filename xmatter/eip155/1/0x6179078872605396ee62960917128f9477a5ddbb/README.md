@@ -8,7 +8,7 @@ name: Aave UniETH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#363030"
+color: "#080808"
 icons:
   - icon.png
 ---

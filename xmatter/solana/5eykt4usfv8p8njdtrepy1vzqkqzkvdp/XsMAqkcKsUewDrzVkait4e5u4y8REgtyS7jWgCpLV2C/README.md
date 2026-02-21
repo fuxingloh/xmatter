@@ -15,7 +15,7 @@ name: JPMorgan Chase tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#6d4022"
+color: "#783828"
 icons:
   - icon.png
 ---

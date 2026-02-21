@@ -8,7 +8,7 @@ name: Eden Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2e609c"
+color: "#080808"
 icons:
   - icon.png
 ---

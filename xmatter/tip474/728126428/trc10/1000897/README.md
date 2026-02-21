@@ -6,7 +6,7 @@ name: DEXCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#111a2c"
+color: "#080818"
 icons:
   - icon.png
 ---

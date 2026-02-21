@@ -14,7 +14,7 @@ name: Corgiswap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8d071"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

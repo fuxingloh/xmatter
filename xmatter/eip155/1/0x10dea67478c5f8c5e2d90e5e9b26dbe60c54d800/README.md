@@ -27,7 +27,7 @@ name: Taiko Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fbf8fa"
+color: "#e81898"
 icons:
   - icon.png
 ---

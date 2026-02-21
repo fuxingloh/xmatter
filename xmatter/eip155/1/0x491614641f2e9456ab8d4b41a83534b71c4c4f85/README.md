@@ -6,7 +6,7 @@ name: AVC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b79476"
+color: "#582808"
 icons:
   - icon.png
 ---

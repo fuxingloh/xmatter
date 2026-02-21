@@ -10,7 +10,7 @@ name: Listadog
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0c3257"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

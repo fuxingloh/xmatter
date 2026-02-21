@@ -14,7 +14,7 @@ name: ReapChain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0b2444"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

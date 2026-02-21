@@ -14,7 +14,7 @@ name: Accenture (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eccdfc"
+color: "#a808f8"
 icons:
   - icon.png
 ---

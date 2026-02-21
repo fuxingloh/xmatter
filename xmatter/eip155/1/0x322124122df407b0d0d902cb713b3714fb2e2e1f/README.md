@@ -10,7 +10,7 @@ name: Soft Yearn Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#046be3"
+color: "#0868e8"
 icons:
   - icon.png
 ---

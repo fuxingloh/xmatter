@@ -6,7 +6,7 @@ name: JoygoEOS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#20aa37"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

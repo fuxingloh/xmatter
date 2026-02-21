@@ -14,7 +14,7 @@ name: ASML Holding NV (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cdd4eb"
+color: "#082888"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: AlexMasmej
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8a7d78"
+color: "#080808"
 icons:
   - icon.png
 ---

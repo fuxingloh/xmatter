@@ -6,7 +6,7 @@ name: Tyche Chip
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ff9900"
+color: "#f89808"
 icons:
   - icon.png
 ---

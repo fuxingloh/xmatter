@@ -10,7 +10,7 @@ name: Binance Coin (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f4bc2d"
+color: "#f8b828"
 icons:
   - icon.png
 ---

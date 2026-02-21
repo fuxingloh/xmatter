@@ -8,7 +8,7 @@ name: simplyBrand Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#db4c4c"
+color: "#d84848"
 icons:
   - icon.png
 ---

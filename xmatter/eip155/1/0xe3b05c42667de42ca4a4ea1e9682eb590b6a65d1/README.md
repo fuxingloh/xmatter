@@ -6,7 +6,7 @@ name: Orom Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#580d63"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ symbol: WBTC
 decimals: 18
 icons:
   - icon.png
-color: "#87868f"
+color: "#f8f8f8"
 ---
 
 Wrapped Bitcoin (WBTC) is the first MERLIN token backed 1:1 with Bitcoin.

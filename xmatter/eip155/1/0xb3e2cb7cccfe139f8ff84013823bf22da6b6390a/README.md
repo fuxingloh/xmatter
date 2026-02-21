@@ -8,7 +8,7 @@ name: Iconiq Lab Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#384860"
+color: "#384868"
 icons:
   - icon.png
 ---

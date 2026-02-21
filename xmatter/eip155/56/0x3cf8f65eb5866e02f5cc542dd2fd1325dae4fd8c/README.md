@@ -10,7 +10,7 @@ name: ROCK
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#77615c"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Bruciare
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0fe1cb"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

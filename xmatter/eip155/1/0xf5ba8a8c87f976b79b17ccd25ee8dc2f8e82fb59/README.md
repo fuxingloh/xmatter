@@ -6,7 +6,7 @@ name: EtherStone
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0c4c8b"
+color: "#084888"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ symbol: KOx
 decimals: 18
 icons:
   - icon.png
-color: "#eb1c24"
+color: "#e81828"
 ---
 
 Coca-Cola xStock

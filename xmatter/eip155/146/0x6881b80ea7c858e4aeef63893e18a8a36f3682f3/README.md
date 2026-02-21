@@ -12,7 +12,7 @@ symbol: NAVI
 decimals: 18
 icons:
   - icon.png
-color: "#93fb74"
+color: "#88f878"
 ---
 
 Revolutionizing Decentralized Trading. Trading crypto, forex, and commodities with high leverage.

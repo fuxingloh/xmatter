@@ -8,5 +8,5 @@ symbol: MLIUM
 decimals: 12
 icons:
   - icon.png
-color: "#041207"
+color: "#080808"
 ---

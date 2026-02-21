@@ -6,7 +6,7 @@ name: SmartIDentity.io
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cec5bb"
+color: "#080808"
 icons:
   - icon.png
 ---

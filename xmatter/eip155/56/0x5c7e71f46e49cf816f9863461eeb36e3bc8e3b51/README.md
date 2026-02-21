@@ -12,7 +12,7 @@ name: EQUAL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7454ec"
+color: "#6858e8"
 icons:
   - icon.png
 ---

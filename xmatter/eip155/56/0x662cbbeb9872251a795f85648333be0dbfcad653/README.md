@@ -16,7 +16,7 @@ name: DefiSportsCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2c8bfa"
+color: "#2888f8"
 icons:
   - icon.png
 ---

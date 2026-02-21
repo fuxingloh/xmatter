@@ -15,7 +15,7 @@ name: Carbon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc6721"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

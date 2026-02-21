@@ -20,7 +20,7 @@ name: POTENT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f27c0d"
+color: "#080808"
 icons:
   - icon.png
 ---

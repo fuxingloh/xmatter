@@ -8,7 +8,7 @@ name: SENTINEL PROTOCOL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#18a0c0"
+color: "#18a8c8"
 icons:
   - icon.png
 ---

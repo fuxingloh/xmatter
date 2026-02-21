@@ -6,7 +6,7 @@ name: TURBOTHUNDERPAY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#0e9e87"
+color: "#08a888"
 icons:
   - icon.png
 ---

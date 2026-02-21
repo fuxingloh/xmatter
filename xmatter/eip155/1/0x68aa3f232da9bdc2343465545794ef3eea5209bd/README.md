@@ -8,7 +8,7 @@ name: Mothership Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#311040"
+color: "#380848"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ name: Baby Mind
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#281a13"
+color: "#f8b8a8"
 icons:
   - icon.png
 ---

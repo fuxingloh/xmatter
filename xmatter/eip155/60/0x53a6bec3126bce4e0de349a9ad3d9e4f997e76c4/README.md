@@ -8,5 +8,5 @@ symbol: LAD
 decimals: 18
 icons:
   - icon.png
-color: "#1692dd"
+color: "#f8f8f8"
 ---

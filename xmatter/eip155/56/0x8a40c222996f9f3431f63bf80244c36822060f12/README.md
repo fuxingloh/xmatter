@@ -14,7 +14,7 @@ name: Finxflo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc7c42"
+color: "#f87848"
 icons:
   - icon.png
 ---

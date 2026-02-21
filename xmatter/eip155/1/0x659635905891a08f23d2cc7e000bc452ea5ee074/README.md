@@ -8,7 +8,7 @@ name: CCTCOIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0d4ca2"
+color: "#0848a8"
 icons:
   - icon.png
 ---

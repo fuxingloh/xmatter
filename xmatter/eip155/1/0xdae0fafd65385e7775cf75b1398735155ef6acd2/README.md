@@ -16,7 +16,7 @@ name: Truth
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dbfa45"
+color: "#181818"
 icons:
   - icon.png
 ---

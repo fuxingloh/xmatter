@@ -8,7 +8,7 @@ name: Xplosive Ethereum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d75030"
+color: "#383838"
 icons:
   - icon.png
 ---

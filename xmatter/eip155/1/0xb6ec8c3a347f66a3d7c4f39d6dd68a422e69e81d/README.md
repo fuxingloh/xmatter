@@ -6,7 +6,7 @@ name: Catholic Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#af892c"
+color: "#080808"
 icons:
   - icon.png
 ---

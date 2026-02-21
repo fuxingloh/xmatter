@@ -14,7 +14,7 @@ symbol: pufETH
 decimals: 18
 icons:
   - icon.png
-color: "#549ddc"
+color: "#486848"
 ---
 
 Puffer is a decentralized native liquid restaking protocol (nLRP) built on Eigenlayer.

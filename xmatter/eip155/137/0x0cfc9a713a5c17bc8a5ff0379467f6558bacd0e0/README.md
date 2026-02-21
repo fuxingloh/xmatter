@@ -14,7 +14,7 @@ name: GraphLinq (PoS)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4c9cfc"
+color: "#4898f8"
 icons:
   - icon.png
 ---

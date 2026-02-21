@@ -6,7 +6,7 @@ name: Bayan Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cfa141"
+color: "#486878"
 icons:
   - icon.png
 ---

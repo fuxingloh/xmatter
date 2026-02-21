@@ -8,7 +8,7 @@ name: Rope Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#37c6ba"
+color: "#281818"
 icons:
   - icon.png
 ---

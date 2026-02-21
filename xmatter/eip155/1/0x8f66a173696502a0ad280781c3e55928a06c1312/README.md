@@ -6,7 +6,7 @@ name: Peoplewave Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#363433"
+color: "#382838"
 icons:
   - icon.png
 ---

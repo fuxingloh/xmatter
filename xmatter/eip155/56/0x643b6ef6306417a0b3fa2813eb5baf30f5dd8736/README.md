@@ -8,7 +8,7 @@ name: Shilling
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f5db5b"
+color: "#080808"
 icons:
   - icon.png
 ---

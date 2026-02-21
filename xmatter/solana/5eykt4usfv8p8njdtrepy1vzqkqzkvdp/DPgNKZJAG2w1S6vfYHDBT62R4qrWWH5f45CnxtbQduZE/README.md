@@ -10,7 +10,7 @@ name: Tribe (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#168cd3"
+color: "#1888c8"
 icons:
   - icon.png
 ---

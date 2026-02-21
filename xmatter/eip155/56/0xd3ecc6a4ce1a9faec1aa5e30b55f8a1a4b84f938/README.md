@@ -14,7 +14,7 @@ name: Elonomics
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#94be37"
+color: "#98c828"
 icons:
   - icon.png
 ---

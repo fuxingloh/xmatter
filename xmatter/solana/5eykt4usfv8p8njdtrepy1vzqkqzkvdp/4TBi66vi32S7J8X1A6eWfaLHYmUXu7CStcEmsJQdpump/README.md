@@ -10,7 +10,7 @@ name: Ghiblification
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#809286"
+color: "#e8c828"
 icons:
   - icon.png
 ---

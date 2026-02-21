@@ -10,7 +10,7 @@ name: dego.finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d6b76e"
+color: "#484848"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: TREECHAIN NETWORK
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#086838"
+color: "#080808"
 icons:
   - icon.png
 ---

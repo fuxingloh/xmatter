@@ -8,7 +8,7 @@ name: SHIBA BSC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f2ad79"
+color: "#f8a878"
 icons:
   - icon.png
 ---

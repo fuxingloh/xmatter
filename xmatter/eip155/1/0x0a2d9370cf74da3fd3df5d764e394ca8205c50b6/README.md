@@ -8,7 +8,7 @@ name: SAVE ENVIRONMENT TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0494dc"
+color: "#080808"
 icons:
   - icon.png
 ---

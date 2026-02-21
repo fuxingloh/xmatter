@@ -8,7 +8,7 @@ name: Tcash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#323334"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

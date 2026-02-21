@@ -15,7 +15,7 @@ name: Wrapped MicroStrategy Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#db3443"
+color: "#d83848"
 icons:
   - icon.png
 ---

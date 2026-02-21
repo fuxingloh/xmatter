@@ -6,7 +6,7 @@ name: Vaunker
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#baf15e"
+color: "#7858e8"
 icons:
   - icon.png
 ---

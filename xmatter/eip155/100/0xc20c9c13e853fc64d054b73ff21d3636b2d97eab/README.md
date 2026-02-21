@@ -30,7 +30,7 @@ symbol: vCOW
 decimals: 18
 icons:
   - icon.png
-color: "#f3cb14"
+color: "#f8c818"
 ---
 
 CoW Protocol lets you swap assets MEV protected at the best exchange rate by leveraging its batch settlement layer built on top of AMMs and DEX Aggregators.

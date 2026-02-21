@@ -8,7 +8,7 @@ name: DAPSTOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5c1c5c"
+color: "#581858"
 icons:
   - icon.png
 ---

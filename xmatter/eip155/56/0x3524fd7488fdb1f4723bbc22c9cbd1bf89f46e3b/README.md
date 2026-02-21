@@ -10,7 +10,7 @@ name: SushiToken (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cd69ad"
+color: "#080808"
 icons:
   - icon.png
 ---

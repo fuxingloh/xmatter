@@ -15,7 +15,7 @@ name: Wrapped McDonald's Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d32b3c"
+color: "#d82838"
 icons:
   - icon.png
 ---

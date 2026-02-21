@@ -12,7 +12,7 @@ name: Dogc
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#191814"
+color: "#f8e828"
 icons:
   - icon.png
 ---

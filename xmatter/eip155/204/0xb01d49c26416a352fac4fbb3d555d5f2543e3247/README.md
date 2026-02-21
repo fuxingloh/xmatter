@@ -10,7 +10,7 @@ symbol: CUBI
 decimals: 18
 icons:
   - icon.png
-color: "#88e605"
+color: "#080808"
 ---
 
 CUBISwap is a Decentralized Autonomous Organization (DAO) that offers a full suite of tools to explore and engage with decentralized finance opportunities.

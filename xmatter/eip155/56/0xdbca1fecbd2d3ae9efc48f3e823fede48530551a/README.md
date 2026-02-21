@@ -8,7 +8,7 @@ name: BYCOIN NFT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d22084"
+color: "#c82888"
 icons:
   - icon.png
 ---

@@ -22,7 +22,7 @@ name: METAVERSE FACE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#264e55"
+color: "#486848"
 icons:
   - icon.png
 ---

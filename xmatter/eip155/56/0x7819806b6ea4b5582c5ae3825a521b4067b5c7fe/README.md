@@ -8,7 +8,7 @@ name: MAMADOGE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bb3053"
+color: "#080808"
 icons:
   - icon.png
 ---

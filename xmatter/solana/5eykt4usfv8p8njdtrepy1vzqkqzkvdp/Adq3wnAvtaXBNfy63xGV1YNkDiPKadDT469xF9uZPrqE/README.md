@@ -10,7 +10,7 @@ name: What in Tarnation?
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#e0e0cc"
+color: "#e8f8f8"
 icons:
   - icon.png
 ---

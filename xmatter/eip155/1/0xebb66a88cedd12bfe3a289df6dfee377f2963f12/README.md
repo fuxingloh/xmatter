@@ -12,7 +12,7 @@ name: Oscar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e1ae5c"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

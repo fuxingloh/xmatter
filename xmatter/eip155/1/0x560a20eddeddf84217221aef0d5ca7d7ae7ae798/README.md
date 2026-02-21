@@ -6,7 +6,7 @@ name: PlasmaBank token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc3a4e"
+color: "#f83848"
 icons:
   - icon.png
 ---

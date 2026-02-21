@@ -20,7 +20,7 @@ name: Baby 4
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1c140a"
+color: "#080808"
 icons:
   - icon.png
 ---

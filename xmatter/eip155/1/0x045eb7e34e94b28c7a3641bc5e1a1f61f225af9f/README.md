@@ -8,7 +8,7 @@ name: ZPAY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6cc484"
+color: "#080808"
 icons:
   - icon.png
 ---

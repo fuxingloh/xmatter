@@ -8,7 +8,7 @@ name: Primas
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ed6c0f"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: SAD HAMSTER
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#828080"
+color: "#888888"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ name: Spectral Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#047cee"
+color: "#080808"
 icons:
   - icon.svg
   - icon.png

@@ -14,7 +14,7 @@ name: aleph.im BEP-20 v2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0453fc"
+color: "#0858f8"
 icons:
   - icon.png
 ---

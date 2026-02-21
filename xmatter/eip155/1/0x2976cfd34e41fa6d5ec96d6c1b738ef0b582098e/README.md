@@ -6,7 +6,7 @@ name: MythicX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d0a89b"
+color: "#080808"
 icons:
   - icon.png
 ---

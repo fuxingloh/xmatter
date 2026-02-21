@@ -10,7 +10,7 @@ name: Ether (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#2e2933"
+color: "#e8e8e8"
 icons:
   - icon.png
 ---

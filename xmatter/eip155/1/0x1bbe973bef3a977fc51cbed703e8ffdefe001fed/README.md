@@ -12,7 +12,7 @@ name: PORTAL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#14041c"
+color: "#180818"
 icons:
   - icon.png
 ---

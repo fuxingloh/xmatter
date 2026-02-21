@@ -16,7 +16,7 @@ name: MonsterSlayer
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ebd9bf"
+color: "#080808"
 icons:
   - icon.png
 ---

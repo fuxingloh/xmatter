@@ -12,7 +12,7 @@ symbol: MCDx
 decimals: 18
 icons:
   - icon.png
-color: "#d42c3b"
+color: "#d82838"
 ---
 
 McDonald's xStock

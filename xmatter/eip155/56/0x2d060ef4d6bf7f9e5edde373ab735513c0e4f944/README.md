@@ -20,7 +20,7 @@ name: AITECH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cacacb"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

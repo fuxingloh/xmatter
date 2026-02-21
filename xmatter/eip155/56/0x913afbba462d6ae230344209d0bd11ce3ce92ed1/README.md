@@ -16,7 +16,7 @@ name: Rijent Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fbcb2b"
+color: "#f8c828"
 icons:
   - icon.png
 ---

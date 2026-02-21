@@ -6,7 +6,7 @@ name: SetoCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1c1cab"
+color: "#1818a8"
 icons:
   - icon.png
 ---

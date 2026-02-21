@@ -6,7 +6,7 @@ name: Saifu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4c43b3"
+color: "#4838a8"
 icons:
   - icon.png
 ---

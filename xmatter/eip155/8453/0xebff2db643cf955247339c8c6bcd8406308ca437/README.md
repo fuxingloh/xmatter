@@ -12,7 +12,7 @@ name: ChompCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04a9f8"
+color: "#08a8f8"
 icons:
   - icon.svg
   - icon.png

@@ -6,7 +6,7 @@ name: LUV
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e97c74"
+color: "#084858"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ name: Bridged USDC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2474cc"
+color: "#2878c8"
 icons:
   - icon.svg
   - icon.png

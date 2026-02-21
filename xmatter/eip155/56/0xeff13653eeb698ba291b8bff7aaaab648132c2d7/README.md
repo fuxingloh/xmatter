@@ -14,7 +14,7 @@ name: BNB Shinobi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1d1c13"
+color: "#080808"
 icons:
   - icon.png
 ---

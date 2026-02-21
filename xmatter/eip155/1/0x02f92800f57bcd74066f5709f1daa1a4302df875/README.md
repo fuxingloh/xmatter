@@ -10,7 +10,7 @@ name: Peapods
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#9ce53c"
+color: "#082848"
 icons:
   - icon.png
 ---

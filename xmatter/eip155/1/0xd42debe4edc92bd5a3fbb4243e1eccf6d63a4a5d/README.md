@@ -8,7 +8,7 @@ name: Carboneum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#241f22"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: TeaCrypto Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a3eb8c"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

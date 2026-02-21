@@ -20,7 +20,7 @@ name: (PoS) Dai Stablecoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f4b434"
+color: "#f8b838"
 icons:
   - icon.svg
   - icon.png

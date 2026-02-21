@@ -14,7 +14,7 @@ symbol: stBTC
 decimals: 18
 icons:
   - icon.png
-color: "#f4941c"
+color: "#f89818"
 ---
 
 To be the premier Bitcoin platform for yield-bearing token issuance, trading, and settlement.

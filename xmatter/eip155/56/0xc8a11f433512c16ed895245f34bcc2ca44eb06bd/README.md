@@ -18,7 +18,7 @@ name: KISSAN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6bcce5"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: MaskFactory
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#99d9ee"
+color: "#080808"
 icons:
   - icon.png
 ---

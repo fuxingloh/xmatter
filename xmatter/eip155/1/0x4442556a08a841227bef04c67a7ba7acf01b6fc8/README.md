@@ -8,7 +8,7 @@ name: Monarch Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f7a906"
+color: "#282828"
 icons:
   - icon.png
 ---

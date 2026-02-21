@@ -10,7 +10,7 @@ name: Satoshi Airline
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0c1c2c"
+color: "#081828"
 icons:
   - icon.png
 ---

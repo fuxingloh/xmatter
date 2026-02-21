@@ -16,7 +16,7 @@ symbol: SOL
 decimals: 9
 icons:
   - icon.png
-color: "#58afc5"
+color: "#080808"
 ---
 
 Wrapped Solana (SOL) is a cryptocurrency token and operates on the Solana platform.

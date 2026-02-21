@@ -14,7 +14,7 @@ name: GMCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#f69d2d"
+color: "#080808"
 icons:
   - icon.png
 ---

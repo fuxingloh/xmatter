@@ -23,7 +23,7 @@ name: Ryoshi's Vision
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b20d0f"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Duke inu Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dfa26a"
+color: "#080808"
 icons:
   - icon.png
 ---

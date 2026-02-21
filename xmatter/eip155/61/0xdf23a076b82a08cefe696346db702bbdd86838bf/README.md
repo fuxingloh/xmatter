@@ -8,5 +8,5 @@ symbol: VYLG1
 decimals: 0
 icons:
   - icon.png
-color: "#e5b56b"
+color: "#080808"
 ---

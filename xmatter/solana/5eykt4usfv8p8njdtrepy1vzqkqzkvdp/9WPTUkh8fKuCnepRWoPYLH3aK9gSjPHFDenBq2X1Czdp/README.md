@@ -12,7 +12,7 @@ name: SelfieDogCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#d2d1cb"
+color: "#d8d8d8"
 icons:
   - icon.png
 ---

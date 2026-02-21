@@ -14,7 +14,7 @@ name: StormX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc2c54"
+color: "#f82858"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: FUTURE1COIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c0b798"
+color: "#080808"
 icons:
   - icon.png
 ---

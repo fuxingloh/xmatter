@@ -8,7 +8,7 @@ name: Flit Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f4ac04"
+color: "#f8a808"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ name: HEDGE Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f46565"
+color: "#181818"
 icons:
   - icon.png
 ---

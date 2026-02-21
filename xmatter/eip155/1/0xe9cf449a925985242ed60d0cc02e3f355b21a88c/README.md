@@ -8,5 +8,5 @@ standards:
   - erc20
 icons:
   - icon.png
-color: "#e5ce45"
+color: "#f8f8f8"
 ---

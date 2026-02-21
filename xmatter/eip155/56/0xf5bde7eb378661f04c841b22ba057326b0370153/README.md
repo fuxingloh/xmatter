@@ -18,7 +18,7 @@ name: Pink BNB
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f43b6c"
+color: "#f83868"
 icons:
   - icon.png
 ---

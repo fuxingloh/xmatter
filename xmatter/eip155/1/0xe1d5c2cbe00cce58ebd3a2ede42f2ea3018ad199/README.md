@@ -6,7 +6,7 @@ name: BitWex
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fbd066"
+color: "#080808"
 icons:
   - icon.png
 ---

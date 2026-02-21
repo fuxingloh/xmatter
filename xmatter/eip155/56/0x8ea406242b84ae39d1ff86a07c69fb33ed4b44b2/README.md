@@ -8,7 +8,7 @@ name: ElonMars
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#edf5f5"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

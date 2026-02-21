@@ -14,7 +14,7 @@ name: Orca
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#080706"
+color: "#f8c858"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ name: RLE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#05072e"
+color: "#080838"
 icons:
   - icon.png
 ---

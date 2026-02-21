@@ -12,7 +12,7 @@ name: TRUMP MEME
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#60aad8"
+color: "#58a8d8"
 icons:
   - icon.png
 ---

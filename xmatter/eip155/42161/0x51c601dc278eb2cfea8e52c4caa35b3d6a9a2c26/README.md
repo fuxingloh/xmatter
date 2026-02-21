@@ -12,7 +12,7 @@ name: Chainge
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4c1cf9"
+color: "#4818f8"
 icons:
   - icon.png
 ---

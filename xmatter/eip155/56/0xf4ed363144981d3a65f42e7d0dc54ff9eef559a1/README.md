@@ -8,7 +8,7 @@ name: FaraCrystal
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc9b3a"
+color: "#f85838"
 icons:
   - icon.png
 ---

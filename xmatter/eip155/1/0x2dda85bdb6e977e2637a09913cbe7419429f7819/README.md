@@ -6,7 +6,7 @@ name: PullRug.Run
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2e1923"
+color: "#080808"
 icons:
   - icon.png
 ---

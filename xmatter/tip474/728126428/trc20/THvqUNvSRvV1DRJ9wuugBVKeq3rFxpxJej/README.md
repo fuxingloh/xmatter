@@ -10,7 +10,7 @@ name: Darkness
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#6d655c"
+color: "#685848"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ name: Wrapped Intel Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#046bb3"
+color: "#0868b8"
 icons:
   - icon.png
 ---

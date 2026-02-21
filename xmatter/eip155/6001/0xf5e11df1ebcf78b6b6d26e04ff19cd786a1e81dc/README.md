@@ -12,7 +12,7 @@ symbol: stBBTC
 decimals: 18
 icons:
   - icon.png
-color: "#907b62"
+color: "#887858"
 ---
 
 Bitcoin is a decentralized cryptocurrency originally described in a 2008 whitepaper by a person, or group of people, using the alias Satoshi Nakamoto. It was launched soon after, in January 2009.

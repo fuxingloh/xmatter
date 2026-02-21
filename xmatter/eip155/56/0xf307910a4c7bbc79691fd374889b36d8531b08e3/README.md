@@ -15,7 +15,7 @@ name: Ankr Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#579ceb"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

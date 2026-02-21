@@ -8,7 +8,7 @@ name: PANTHEON X
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0c345c"
+color: "#083858"
 icons:
   - icon.png
 ---

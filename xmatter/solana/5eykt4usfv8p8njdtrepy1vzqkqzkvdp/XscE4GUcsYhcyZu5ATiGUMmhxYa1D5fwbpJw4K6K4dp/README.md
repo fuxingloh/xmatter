@@ -10,7 +10,7 @@ symbol: TONXx
 decimals: 8
 icons:
   - icon.png
-color: "#049beb"
+color: "#0898e8"
 ---
 
 TON xStock

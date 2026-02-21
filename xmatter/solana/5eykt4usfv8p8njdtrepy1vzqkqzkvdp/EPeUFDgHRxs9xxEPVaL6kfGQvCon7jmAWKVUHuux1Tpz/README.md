@@ -10,7 +10,7 @@ name: Basic Attention Token (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#fa5306"
+color: "#f84808"
 icons:
   - icon.png
 ---

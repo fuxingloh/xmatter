@@ -8,7 +8,7 @@ name: Barter
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#efca7f"
+color: "#f8d888"
 icons:
   - icon.png
 ---

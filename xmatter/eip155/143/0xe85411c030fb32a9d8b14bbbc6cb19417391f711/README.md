@@ -13,7 +13,7 @@ symbol: suBTC
 decimals: 18
 icons:
   - icon.png
-color: "#172437"
+color: "#080808"
 ---
 
 Synthetic asset under sumer.money

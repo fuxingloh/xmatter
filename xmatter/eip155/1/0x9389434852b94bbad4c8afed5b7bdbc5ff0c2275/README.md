@@ -8,7 +8,7 @@ name: TTC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04048b"
+color: "#080888"
 icons:
   - icon.png
 ---

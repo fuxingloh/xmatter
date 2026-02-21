@@ -10,7 +10,7 @@ symbol: STRKx
 decimals: 18
 icons:
   - icon.png
-color: "#fb630c"
+color: "#f86808"
 ---
 
 Strategy PP Fixed xStock

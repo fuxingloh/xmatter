@@ -6,7 +6,7 @@ name: Mcr Stablecoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0099ff"
+color: "#0898f8"
 icons:
   - icon.png
 ---

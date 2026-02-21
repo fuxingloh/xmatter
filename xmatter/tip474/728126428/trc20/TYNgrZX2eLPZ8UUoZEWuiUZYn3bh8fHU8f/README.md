@@ -6,7 +6,7 @@ name: YLToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#c9cbd3"
+color: "#080808"
 icons:
   - icon.png
 ---

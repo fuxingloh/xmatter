@@ -8,7 +8,7 @@ name: Omega Protocol Money
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f7b804"
+color: "#181828"
 icons:
   - icon.png
 ---

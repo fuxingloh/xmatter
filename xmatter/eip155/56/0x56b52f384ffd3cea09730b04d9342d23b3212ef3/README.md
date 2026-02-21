@@ -8,7 +8,7 @@ name: Vice Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#421b41"
+color: "#381838"
 icons:
   - icon.png
 ---

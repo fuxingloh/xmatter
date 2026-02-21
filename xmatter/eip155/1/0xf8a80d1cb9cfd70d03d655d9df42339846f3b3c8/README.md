@@ -14,7 +14,7 @@ name: Intel tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#046bb4"
+color: "#0868b8"
 icons:
   - icon.png
 ---

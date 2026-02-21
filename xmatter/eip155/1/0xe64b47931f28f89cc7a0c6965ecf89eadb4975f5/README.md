@@ -8,7 +8,7 @@ name: Ludos Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eedcea"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ symbol: ABTx
 decimals: 18
 icons:
   - icon.png
-color: "#149cd3"
+color: "#1898d8"
 ---
 
 Abbott xStock

@@ -12,7 +12,7 @@ name: DOGE AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#e2c79b"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

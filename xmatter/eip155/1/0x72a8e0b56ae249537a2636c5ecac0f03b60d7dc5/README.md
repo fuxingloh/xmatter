@@ -6,7 +6,7 @@ name: Nise Chain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0b0d0c"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ symbol: DACKIE
 decimals: 18
 icons:
   - icon.png
-color: "#c9d3fa"
+color: "#f8f8f8"
 ---
 
 The Premier User-friendly Multi-chain DEX.

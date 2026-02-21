@@ -6,7 +6,7 @@ name: Eaglebits
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#045afc"
+color: "#0858f8"
 icons:
   - icon.png
 ---

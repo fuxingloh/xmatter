@@ -12,7 +12,7 @@ symbol: LBTC
 decimals: 8
 icons:
   - icon.png
-color: "#142c33"
+color: "#182828"
 ---
 
 Liquid Bitcoin (LBTC) is yield-bearing, cross-chain, and 1:1 backed by BTC.

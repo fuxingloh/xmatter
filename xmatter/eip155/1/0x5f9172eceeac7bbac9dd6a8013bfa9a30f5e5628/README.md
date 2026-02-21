@@ -6,7 +6,7 @@ name: SEXPOP Collective
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e6d6ce"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

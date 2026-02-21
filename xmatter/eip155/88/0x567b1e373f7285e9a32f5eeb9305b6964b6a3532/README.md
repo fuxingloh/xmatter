@@ -17,7 +17,7 @@ symbol: CFB
 decimals: 18
 icons:
   - icon.png
-color: "#344c9c"
+color: "#384898"
 ---
 
 Your Gateway to Winning

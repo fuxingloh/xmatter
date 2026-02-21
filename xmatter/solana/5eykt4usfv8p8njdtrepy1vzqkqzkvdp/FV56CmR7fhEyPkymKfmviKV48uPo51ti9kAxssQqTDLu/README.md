@@ -12,7 +12,7 @@ name: walter
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#7e786a"
+color: "#888878"
 icons:
   - icon.png
 ---

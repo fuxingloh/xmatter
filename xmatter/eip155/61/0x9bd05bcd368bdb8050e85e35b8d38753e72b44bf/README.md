@@ -8,5 +8,5 @@ symbol: AOX
 decimals: 18
 icons:
   - icon.png
-color: "#9b0404"
+color: "#080808"
 ---

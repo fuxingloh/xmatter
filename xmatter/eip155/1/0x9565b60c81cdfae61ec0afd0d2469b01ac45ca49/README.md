@@ -6,7 +6,7 @@ name: OMNET
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fb8c04"
+color: "#f88808"
 icons:
   - icon.png
 ---

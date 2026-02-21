@@ -12,7 +12,7 @@ name: Hawk Tuah
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#e7ba27"
+color: "#080808"
 icons:
   - icon.png
 ---

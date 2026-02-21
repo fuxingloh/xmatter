@@ -10,7 +10,7 @@ name: KelpDao Restaked ETH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#abc9c9"
+color: "#085858"
 icons:
   - icon.svg
   - icon.png

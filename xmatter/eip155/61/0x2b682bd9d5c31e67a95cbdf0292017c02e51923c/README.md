@@ -8,5 +8,5 @@ symbol: KLOWN2
 decimals: 6
 icons:
   - icon.png
-color: "#050b06"
+color: "#080808"
 ---

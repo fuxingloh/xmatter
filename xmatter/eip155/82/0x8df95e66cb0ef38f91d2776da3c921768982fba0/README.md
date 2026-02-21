@@ -8,5 +8,5 @@ symbol: VOLT
 decimals: 18
 icons:
   - icon.png
-color: "#1a6aaf"
+color: "#080808"
 ---

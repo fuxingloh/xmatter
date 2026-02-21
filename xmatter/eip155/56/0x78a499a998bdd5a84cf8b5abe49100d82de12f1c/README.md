@@ -14,7 +14,7 @@ name: JOJO Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fbda47"
+color: "#f8d848"
 icons:
   - icon.png
 ---

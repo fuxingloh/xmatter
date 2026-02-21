@@ -12,7 +12,7 @@ name: PokerFI.finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bb9a0d"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: DigiPulse Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0473bb"
+color: "#0878b8"
 icons:
   - icon.png
 ---

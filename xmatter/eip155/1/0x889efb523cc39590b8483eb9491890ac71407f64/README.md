@@ -10,7 +10,7 @@ name: Moon Juice (JUICE)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#914940"
+color: "#080808"
 icons:
   - icon.png
 ---

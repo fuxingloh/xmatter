@@ -6,7 +6,7 @@ name: DoNever
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#070607"
+color: "#f8b8e8"
 icons:
   - icon.png
 ---

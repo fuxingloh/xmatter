@@ -12,7 +12,7 @@ name: hispanic pepe
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#c39b7b"
+color: "#c89878"
 icons:
   - icon.png
 ---

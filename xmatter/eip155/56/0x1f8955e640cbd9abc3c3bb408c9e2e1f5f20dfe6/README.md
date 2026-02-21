@@ -12,7 +12,7 @@ name: Ondo U.S. Dollar Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d4e4cd"
+color: "#d8e8c8"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: UFC Oficial
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cf292a"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

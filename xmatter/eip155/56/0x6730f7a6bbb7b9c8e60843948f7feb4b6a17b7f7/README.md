@@ -20,7 +20,7 @@ name: Seed.Photo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8c7b3c"
+color: "#887838"
 icons:
   - icon.png
 ---

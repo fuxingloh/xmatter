@@ -10,7 +10,7 @@ name: Swipe (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f96238"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

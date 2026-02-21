@@ -12,7 +12,7 @@ name: Marinade staked
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#6f90cd"
+color: "#080808"
 icons:
   - icon.png
 ---

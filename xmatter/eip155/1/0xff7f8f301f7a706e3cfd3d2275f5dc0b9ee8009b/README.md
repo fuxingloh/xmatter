@@ -16,7 +16,7 @@ name: Folks Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#346bbc"
+color: "#3868b8"
 icons:
   - icon.png
 ---

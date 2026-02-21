@@ -13,7 +13,7 @@ name: Fartcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#141414"
+color: "#181818"
 icons:
   - icon.png
 ---

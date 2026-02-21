@@ -18,7 +18,7 @@ name: USD Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2474cb"
+color: "#2878c8"
 icons:
   - icon.png
 ---

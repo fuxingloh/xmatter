@@ -10,7 +10,7 @@ name: Tardigrades.Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4c647c"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

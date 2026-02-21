@@ -16,7 +16,7 @@ name: Jerry The Turtle By Matt Furie
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f744a6"
+color: "#f838a8"
 icons:
   - icon.png
 ---

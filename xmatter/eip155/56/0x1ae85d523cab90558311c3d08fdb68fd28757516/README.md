@@ -10,7 +10,7 @@ name: Botzilla
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081b0f"
+color: "#080808"
 icons:
   - icon.png
 ---

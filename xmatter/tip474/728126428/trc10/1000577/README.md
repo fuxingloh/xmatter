@@ -6,7 +6,7 @@ name: MegaTron
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#0c1c24"
+color: "#081828"
 icons:
   - icon.png
 ---

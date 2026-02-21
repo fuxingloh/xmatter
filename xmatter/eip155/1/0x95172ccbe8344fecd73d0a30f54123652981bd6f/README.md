@@ -8,7 +8,7 @@ name: Meridian Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#32dcce"
+color: "#281868"
 icons:
   - icon.png
 ---

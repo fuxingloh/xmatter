@@ -8,7 +8,7 @@ name: Merlin Lab
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#231240"
+color: "#281848"
 icons:
   - icon.png
 ---

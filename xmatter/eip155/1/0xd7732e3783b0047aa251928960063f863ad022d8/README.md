@@ -6,7 +6,7 @@ name: BrahmaOS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bfa062"
+color: "#080808"
 icons:
   - icon.png
 ---

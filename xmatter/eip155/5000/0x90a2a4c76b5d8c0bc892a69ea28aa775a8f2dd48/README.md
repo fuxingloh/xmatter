@@ -12,7 +12,7 @@ symbol: SPYx
 decimals: 18
 icons:
   - icon.png
-color: "#d3042b"
+color: "#d80828"
 ---
 
 SP500 xStock

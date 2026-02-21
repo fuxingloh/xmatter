@@ -12,7 +12,7 @@ name: ART Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fb043b"
+color: "#f80838"
 icons:
   - icon.png
 ---

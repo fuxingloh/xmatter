@@ -10,7 +10,7 @@ name: SharkBoy
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bb8179"
+color: "#d89888"
 icons:
   - icon.png
 ---

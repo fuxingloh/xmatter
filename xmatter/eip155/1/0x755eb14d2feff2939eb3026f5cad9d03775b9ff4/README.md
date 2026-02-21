@@ -8,7 +8,7 @@ name: BunnyToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c8225f"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Pyramidion Cryptocurrency
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#302e2c"
+color: "#080808"
 icons:
   - icon.png
 ---

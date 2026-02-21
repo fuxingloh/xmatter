@@ -8,7 +8,7 @@ name: Whole Network Node
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d5b323"
+color: "#486878"
 icons:
   - icon.png
 ---

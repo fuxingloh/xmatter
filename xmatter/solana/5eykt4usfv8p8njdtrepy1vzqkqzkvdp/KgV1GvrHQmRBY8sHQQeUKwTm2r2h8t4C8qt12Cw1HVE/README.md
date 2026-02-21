@@ -10,7 +10,7 @@ name: AVAX (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#e74245"
+color: "#e84848"
 icons:
   - icon.png
 ---

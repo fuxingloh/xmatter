@@ -12,7 +12,7 @@ name: SwarmNode.ai
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#212121"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

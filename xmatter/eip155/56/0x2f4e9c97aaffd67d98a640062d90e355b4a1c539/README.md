@@ -20,7 +20,7 @@ name: Afrostar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#826c27"
+color: "#080808"
 icons:
   - icon.png
 ---

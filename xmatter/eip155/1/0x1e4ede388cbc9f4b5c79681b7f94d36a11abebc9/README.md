@@ -14,7 +14,7 @@ name: X2Y2Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2991e4"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

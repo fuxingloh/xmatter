@@ -6,7 +6,7 @@ name: Wincoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7c7d7d"
+color: "#787878"
 icons:
   - icon.png
 ---

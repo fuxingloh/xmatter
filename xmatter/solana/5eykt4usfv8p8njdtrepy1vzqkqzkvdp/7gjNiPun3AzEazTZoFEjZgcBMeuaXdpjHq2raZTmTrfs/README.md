@@ -10,7 +10,7 @@ name: Curve DAO Token (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#dcecd8"
+color: "#486878"
 icons:
   - icon.png
 ---

@@ -19,7 +19,7 @@ name: LoveDoge
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f19106"
+color: "#d87808"
 icons:
   - icon.png
 ---

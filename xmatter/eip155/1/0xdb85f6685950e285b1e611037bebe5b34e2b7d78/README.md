@@ -14,7 +14,7 @@ name: Wrapped Zano
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0b0c3c"
+color: "#080838"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: ECHAT TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0465ad"
+color: "#080808"
 icons:
   - icon.png
 ---

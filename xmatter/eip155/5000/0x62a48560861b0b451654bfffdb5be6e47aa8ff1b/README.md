@@ -12,7 +12,7 @@ symbol: HONx
 decimals: 18
 icons:
   - icon.png
-color: "#db1c33"
+color: "#d81838"
 ---
 
 Honeywell xStock

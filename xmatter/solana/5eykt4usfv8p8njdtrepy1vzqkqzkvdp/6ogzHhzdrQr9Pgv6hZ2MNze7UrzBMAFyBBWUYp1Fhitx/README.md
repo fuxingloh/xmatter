@@ -12,7 +12,7 @@ name: RETARDIO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#eacd3c"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

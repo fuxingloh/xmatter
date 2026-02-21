@@ -6,7 +6,7 @@ name: iDAG SPACE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8e9699"
+color: "#080808"
 icons:
   - icon.png
 ---

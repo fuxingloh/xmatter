@@ -8,7 +8,7 @@ name: AcuteAngleCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#251e0b"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

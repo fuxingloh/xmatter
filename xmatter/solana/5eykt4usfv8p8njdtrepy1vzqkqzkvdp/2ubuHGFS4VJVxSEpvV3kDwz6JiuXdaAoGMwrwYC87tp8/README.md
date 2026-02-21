@@ -12,7 +12,7 @@ name: MILKBAG
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#eae4a5"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

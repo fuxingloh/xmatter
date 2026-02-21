@@ -6,7 +6,7 @@ name: Five Star Coin Pro
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c6c7c4"
+color: "#486878"
 icons:
   - icon.png
 ---

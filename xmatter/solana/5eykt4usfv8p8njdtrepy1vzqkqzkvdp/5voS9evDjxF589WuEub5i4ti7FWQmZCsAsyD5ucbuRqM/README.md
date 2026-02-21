@@ -12,7 +12,7 @@ name: Eliza
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#11151f"
+color: "#080808"
 icons:
   - icon.png
 ---

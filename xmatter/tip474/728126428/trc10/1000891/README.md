@@ -6,7 +6,7 @@ name: DEG
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#251414"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

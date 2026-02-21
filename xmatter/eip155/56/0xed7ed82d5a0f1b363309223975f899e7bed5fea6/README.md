@@ -18,7 +18,7 @@ name: BabyBoxer
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5d1675"
+color: "#080808"
 icons:
   - icon.png
 ---

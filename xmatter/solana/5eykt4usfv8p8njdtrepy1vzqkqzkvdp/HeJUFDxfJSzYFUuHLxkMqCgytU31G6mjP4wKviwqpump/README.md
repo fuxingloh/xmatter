@@ -10,7 +10,7 @@ name: numogram
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#190808"
+color: "#180808"
 icons:
   - icon.png
 ---

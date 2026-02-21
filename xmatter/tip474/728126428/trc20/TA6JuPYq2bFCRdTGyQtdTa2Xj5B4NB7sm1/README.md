@@ -8,7 +8,7 @@ name: Power Cash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#451e5b"
+color: "#481858"
 icons:
   - icon.png
 ---

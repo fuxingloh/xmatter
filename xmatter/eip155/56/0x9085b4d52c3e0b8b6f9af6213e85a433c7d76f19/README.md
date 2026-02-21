@@ -22,7 +22,7 @@ name: OwlDAO Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f3e0bf"
+color: "#f8e8c8"
 icons:
   - icon.png
 ---

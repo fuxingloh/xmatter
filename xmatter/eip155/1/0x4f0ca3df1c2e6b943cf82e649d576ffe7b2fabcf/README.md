@@ -14,7 +14,7 @@ name: iShares Gold Trust (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#944c23"
+color: "#984828"
 icons:
   - icon.png
 ---

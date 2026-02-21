@@ -6,7 +6,7 @@ name: Real Estate Coupon Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f6d268"
+color: "#080808"
 icons:
   - icon.png
 ---

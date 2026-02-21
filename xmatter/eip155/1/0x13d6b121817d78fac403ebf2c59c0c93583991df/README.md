@@ -6,7 +6,7 @@ name: MccCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b3b3b3"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

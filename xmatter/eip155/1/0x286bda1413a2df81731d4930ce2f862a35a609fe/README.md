@@ -8,7 +8,7 @@ name: Tael
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f85840"
+color: "#f85848"
 icons:
   - icon.png
 ---

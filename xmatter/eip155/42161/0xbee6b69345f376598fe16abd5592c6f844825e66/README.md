@@ -14,7 +14,7 @@ name: OPEN tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1c84eb"
+color: "#1888e8"
 icons:
   - icon.png
 ---

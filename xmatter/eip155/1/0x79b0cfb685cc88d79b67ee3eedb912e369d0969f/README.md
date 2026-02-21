@@ -6,7 +6,7 @@ name: IRCM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e9343c"
+color: "#080808"
 icons:
   - icon.png
 ---

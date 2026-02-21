@@ -8,7 +8,7 @@ name: EthereumMax (Deprecated)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5a08af"
+color: "#5808b8"
 icons:
   - icon.png
 ---

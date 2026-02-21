@@ -12,7 +12,7 @@ symbol: GMEx
 decimals: 18
 icons:
   - icon.png
-color: "#fb0404"
+color: "#f80808"
 ---
 
 Gamestop xStock

@@ -6,7 +6,7 @@ name: Fulcrum Perpetual Short ZRX-DAI 3x v2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fa5484"
+color: "#080808"
 icons:
   - icon.png
 ---

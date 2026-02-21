@@ -8,7 +8,7 @@ name: DeFi-X Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#064d95"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

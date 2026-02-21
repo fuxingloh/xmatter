@@ -24,7 +24,7 @@ name: Ignore Fud
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0aac0c"
+color: "#080808"
 icons:
   - icon.png
 ---

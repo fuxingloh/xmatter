@@ -14,7 +14,7 @@ symbol: USDe
 decimals: 18
 icons:
   - icon.png
-color: "#252525"
+color: "#282828"
 ---
 
 Ethena is a synthetic dollar protocol built on Ethereum that will provide a crypto-native solution for money not reliant on traditional banking system infrastructure, alongside a globally accessible dollar denominated savings instrument - the 'Internet Bond'.

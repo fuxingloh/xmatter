@@ -10,7 +10,7 @@ symbol: USDC.eth
 decimals: 6
 icons:
   - icon.png
-color: "#2373cb"
+color: "#2878c8"
 ---
 
 USDC stablecoin originating on Ethereum, bridged as an ESDT token on Elrond. 1 USDC = 1 Wrapped USDC

@@ -30,7 +30,7 @@ name: DynL1BNB DynaSet
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e9c356"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

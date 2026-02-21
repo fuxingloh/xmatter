@@ -8,7 +8,7 @@ name: EWO Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bc1b2a"
+color: "#b81828"
 icons:
   - icon.png
 ---

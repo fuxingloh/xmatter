@@ -16,7 +16,7 @@ name: BULLA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c7ab9c"
+color: "#181818"
 icons:
   - icon.png
 ---

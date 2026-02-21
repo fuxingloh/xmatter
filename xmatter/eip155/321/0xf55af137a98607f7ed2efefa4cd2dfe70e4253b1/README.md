@@ -18,7 +18,7 @@ symbol: ETH
 decimals: 18
 icons:
   - icon.png
-color: "#8b8b8b"
+color: "#080808"
 ---
 
 KCC-Peg Ethereum is a token issued by Binance on Smart Chain; its price is pegged to Ethereum (ETH) at a ratio of 1:1.

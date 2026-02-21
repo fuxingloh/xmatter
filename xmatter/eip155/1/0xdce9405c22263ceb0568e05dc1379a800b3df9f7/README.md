@@ -8,7 +8,7 @@ name: Gold
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dcbe56"
+color: "#181828"
 icons:
   - icon.png
 ---

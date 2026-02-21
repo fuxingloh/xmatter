@@ -8,5 +8,5 @@ symbol: BOT
 decimals: 18
 icons:
   - icon.png
-color: "#1b6cb7"
+color: "#d8d8d8"
 ---

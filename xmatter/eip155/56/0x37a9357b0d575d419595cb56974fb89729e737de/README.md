@@ -14,7 +14,7 @@ name: Galaxy Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cd61d7"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

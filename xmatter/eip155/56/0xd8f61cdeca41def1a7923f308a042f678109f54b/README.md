@@ -20,7 +20,7 @@ name: BuffedShiba
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2c393f"
+color: "#283848"
 icons:
   - icon.png
 ---

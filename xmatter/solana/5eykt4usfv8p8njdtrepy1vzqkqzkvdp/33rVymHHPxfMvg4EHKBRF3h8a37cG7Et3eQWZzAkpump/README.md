@@ -12,7 +12,7 @@ name: bro the cat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#deddde"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: PICA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#faf4f4"
+color: "#080808"
 icons:
   - icon.png
 ---

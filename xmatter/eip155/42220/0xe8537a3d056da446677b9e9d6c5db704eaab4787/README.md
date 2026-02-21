@@ -22,7 +22,7 @@ name: Mento Brazilian Real
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#550fc4"
+color: "#5808c8"
 icons:
   - icon.svg
   - icon.png

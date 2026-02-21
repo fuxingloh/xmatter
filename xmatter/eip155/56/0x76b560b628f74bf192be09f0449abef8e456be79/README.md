@@ -18,7 +18,7 @@ name: BabyCate
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f9e97c"
+color: "#f8e878"
 icons:
   - icon.png
 ---

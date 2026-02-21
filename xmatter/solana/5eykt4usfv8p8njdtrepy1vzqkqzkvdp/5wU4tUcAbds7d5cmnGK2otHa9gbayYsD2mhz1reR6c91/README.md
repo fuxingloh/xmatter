@@ -10,7 +10,7 @@ name: Tongue Cat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#946e54"
+color: "#785848"
 icons:
   - icon.png
 ---

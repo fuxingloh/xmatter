@@ -6,7 +6,7 @@ name: Scalareum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3c4493"
+color: "#383898"
 icons:
   - icon.png
 ---

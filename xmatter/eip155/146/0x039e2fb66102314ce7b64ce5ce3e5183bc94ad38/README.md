@@ -19,7 +19,7 @@ decimals: 18
 icons:
   - icon.svg
   - icon.png
-color: "#f4f4f4"
+color: "#080808"
 ---
 
 Sonic is the highest-performing EVM L1

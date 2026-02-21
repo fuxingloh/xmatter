@@ -8,7 +8,7 @@ name: Long Asset
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#113055"
+color: "#082858"
 icons:
   - icon.png
 ---

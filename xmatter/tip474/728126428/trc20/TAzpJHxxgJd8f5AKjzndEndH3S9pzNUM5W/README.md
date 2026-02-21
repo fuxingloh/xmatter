@@ -12,7 +12,7 @@ name: sunpepe
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#608fbd"
+color: "#5888c8"
 icons:
   - icon.png
 ---

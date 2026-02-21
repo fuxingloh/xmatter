@@ -14,7 +14,7 @@ name: BUSD Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#f1ba0c"
+color: "#181818"
 icons:
   - icon.png
 ---

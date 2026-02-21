@@ -10,7 +10,7 @@ name: DefiFarm
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3b246b"
+color: "#382868"
 icons:
   - icon.png
 ---

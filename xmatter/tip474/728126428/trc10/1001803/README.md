@@ -6,7 +6,7 @@ name: LIME
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#ebebeb"
+color: "#e8e8e8"
 icons:
   - icon.png
 ---

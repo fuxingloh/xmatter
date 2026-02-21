@@ -6,7 +6,7 @@ name: dmb.top
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fbe40c"
+color: "#f8e808"
 icons:
   - icon.png
 ---

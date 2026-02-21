@@ -6,7 +6,7 @@ name: Black Sun Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#be8e2e"
+color: "#080808"
 icons:
   - icon.png
 ---

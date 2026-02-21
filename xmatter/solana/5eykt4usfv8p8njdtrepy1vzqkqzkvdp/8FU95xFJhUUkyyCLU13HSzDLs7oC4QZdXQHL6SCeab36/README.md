@@ -10,7 +10,7 @@ name: Uniswap (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#b01e66"
+color: "#f8e8f8"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ name: Step Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f1a44b"
+color: "#080808"
 icons:
   - icon.png
 ---

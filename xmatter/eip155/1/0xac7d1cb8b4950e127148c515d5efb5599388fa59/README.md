@@ -6,7 +6,7 @@ name: SG Dev London
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bd2020"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

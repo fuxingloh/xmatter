@@ -8,7 +8,7 @@ name: HXY Money
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5e84fc"
+color: "#080808"
 icons:
   - icon.png
 ---

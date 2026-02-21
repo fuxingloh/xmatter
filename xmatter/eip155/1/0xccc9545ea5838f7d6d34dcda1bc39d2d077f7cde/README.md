@@ -6,7 +6,7 @@ name: GLORY TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c2ac23"
+color: "#080808"
 icons:
   - icon.png
 ---

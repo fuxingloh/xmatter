@@ -8,7 +8,7 @@ name: CVNToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5c74ec"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: VIU
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0483fb"
+color: "#0878f8"
 icons:
   - icon.png
 ---

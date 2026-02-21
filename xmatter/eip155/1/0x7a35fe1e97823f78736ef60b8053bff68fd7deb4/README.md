@@ -6,7 +6,7 @@ name: Hasanah
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#54e2c5"
+color: "#58e8c8"
 icons:
   - icon.png
 ---

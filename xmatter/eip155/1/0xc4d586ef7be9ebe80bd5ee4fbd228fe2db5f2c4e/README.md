@@ -8,7 +8,7 @@ name: Papa Shiba
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#daba81"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

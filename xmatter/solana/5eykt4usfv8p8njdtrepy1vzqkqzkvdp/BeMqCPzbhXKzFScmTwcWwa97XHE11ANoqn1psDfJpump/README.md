@@ -14,7 +14,7 @@ name: PUMP TRUMP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f1c9b4"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

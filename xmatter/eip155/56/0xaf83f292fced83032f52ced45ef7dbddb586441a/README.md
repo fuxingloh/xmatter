@@ -8,7 +8,7 @@ name: Twinci Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bed359"
+color: "#b8d858"
 icons:
   - icon.png
 ---

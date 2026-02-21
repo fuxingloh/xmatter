@@ -20,7 +20,7 @@ name: Nocovid19
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e2886a"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

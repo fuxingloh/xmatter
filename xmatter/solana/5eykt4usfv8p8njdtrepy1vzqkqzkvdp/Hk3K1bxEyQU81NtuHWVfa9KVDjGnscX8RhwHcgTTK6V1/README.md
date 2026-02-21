@@ -12,7 +12,7 @@ name: AMERICA AI Agent
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#463c59"
+color: "#181838"
 icons:
   - icon.png
 ---

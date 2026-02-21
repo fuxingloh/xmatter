@@ -14,7 +14,7 @@ symbol: PACM
 decimals: 18
 icons:
   - icon.png
-color: "#f7cb1e"
+color: "#2828f8"
 ---
 
 Unruggable meme with burnt LP. P@cman Blastoff is the legendary 69th memecoin, fueled by Pacman Blur's wild vision. Show how much you love Pacman and his beast Blast L2 by owning $PACM. Get ready for the ride!

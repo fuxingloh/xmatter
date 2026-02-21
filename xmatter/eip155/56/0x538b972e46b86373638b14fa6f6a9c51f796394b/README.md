@@ -12,7 +12,7 @@ name: AD Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fbcd0a"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

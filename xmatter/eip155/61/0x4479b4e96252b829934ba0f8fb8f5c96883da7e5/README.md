@@ -8,5 +8,5 @@ symbol: BBB
 decimals: 0
 icons:
   - icon.png
-color: "#4c5ce4"
+color: "#4858e8"
 ---

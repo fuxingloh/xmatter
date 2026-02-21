@@ -6,7 +6,7 @@ name: Decentralized Exchange Set
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#10928a"
+color: "#080808"
 icons:
   - icon.png
 ---

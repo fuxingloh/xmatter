@@ -15,7 +15,7 @@ name: International Business Machines tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#0c63fb"
+color: "#0868f8"
 icons:
   - icon.png
 ---

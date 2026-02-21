@@ -6,7 +6,7 @@ name: TOR Cabala
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7f3499"
+color: "#080808"
 icons:
   - icon.png
 ---

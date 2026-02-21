@@ -8,5 +8,5 @@ symbol: AURA
 decimals: 18
 icons:
   - icon.png
-color: "#eaf1f4"
+color: "#f8f8f8"
 ---

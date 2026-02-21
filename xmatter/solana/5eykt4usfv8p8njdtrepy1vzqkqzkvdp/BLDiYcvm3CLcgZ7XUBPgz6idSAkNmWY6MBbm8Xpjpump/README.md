@@ -10,7 +10,7 @@ name: TRI SIGMA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#1e1e27"
+color: "#181828"
 icons:
   - icon.png
 ---

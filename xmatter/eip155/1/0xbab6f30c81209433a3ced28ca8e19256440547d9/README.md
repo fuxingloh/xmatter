@@ -6,7 +6,7 @@ name: Yu Gi Oh
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0c3774"
+color: "#68b8e8"
 icons:
   - icon.png
 ---

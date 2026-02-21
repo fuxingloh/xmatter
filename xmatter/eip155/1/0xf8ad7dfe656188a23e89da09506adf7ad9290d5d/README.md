@@ -8,7 +8,7 @@ name: Blocery Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#00b2ab"
+color: "#08b8a8"
 icons:
   - icon.png
 ---

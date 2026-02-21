@@ -8,7 +8,7 @@ name: SAFETREES
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8ba5a"
+color: "#080808"
 icons:
   - icon.png
 ---

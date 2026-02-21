@@ -12,7 +12,7 @@ symbol: DFDVx
 decimals: 18
 icons:
   - icon.png
-color: "#1a2240"
+color: "#182838"
 ---
 
 DFDV xStock

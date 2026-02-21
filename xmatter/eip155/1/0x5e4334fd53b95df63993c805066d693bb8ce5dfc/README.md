@@ -8,7 +8,7 @@ name: CayTreX Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#397bbe"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: DoubleMoon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f68c32"
+color: "#180838"
 icons:
   - icon.png
 ---

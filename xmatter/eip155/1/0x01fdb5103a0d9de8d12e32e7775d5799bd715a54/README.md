@@ -6,7 +6,7 @@ name: QBUX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#448d6e"
+color: "#080808"
 icons:
   - icon.png
 ---

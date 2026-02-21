@@ -8,7 +8,7 @@ name: Fulcrum Perpetual Long KNC-DAI 2x v2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4cbc9c"
+color: "#080808"
 icons:
   - icon.png
 ---

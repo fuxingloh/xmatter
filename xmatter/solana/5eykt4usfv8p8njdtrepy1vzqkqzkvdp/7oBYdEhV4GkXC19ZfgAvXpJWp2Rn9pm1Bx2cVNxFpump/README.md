@@ -10,7 +10,7 @@ name: Central African Republic Meme
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#1f5731"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

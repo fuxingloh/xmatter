@@ -10,7 +10,7 @@ name: GhibliCZ
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e6d0ae"
+color: "#f8e8c8"
 icons:
   - icon.png
 ---

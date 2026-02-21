@@ -6,7 +6,7 @@ name: NLC Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a72424"
+color: "#080808"
 icons:
   - icon.png
 ---

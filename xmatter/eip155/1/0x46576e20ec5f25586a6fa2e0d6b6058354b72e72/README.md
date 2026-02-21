@@ -14,7 +14,7 @@ name: Cryptomind
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f7c107"
+color: "#f8c808"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: VCOIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fcc32b"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: Tether USD (Portal from Ethereum)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#56a995"
+color: "#48a898"
 icons:
   - icon.png
 ---

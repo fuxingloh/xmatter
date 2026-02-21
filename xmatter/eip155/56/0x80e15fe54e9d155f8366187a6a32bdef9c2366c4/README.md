@@ -12,7 +12,7 @@ name: Binamon-Z1
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e7872d"
+color: "#e87808"
 icons:
   - icon.png
 ---

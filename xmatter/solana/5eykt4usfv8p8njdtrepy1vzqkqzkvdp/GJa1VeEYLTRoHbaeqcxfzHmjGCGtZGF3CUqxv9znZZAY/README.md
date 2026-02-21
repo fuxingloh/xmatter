@@ -10,7 +10,7 @@ name: 0x (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#1c1b1d"
+color: "#181818"
 icons:
   - icon.png
 ---

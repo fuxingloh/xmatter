@@ -8,7 +8,7 @@ name: EVDC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6bbc5c"
+color: "#68b858"
 icons:
   - icon.png
 ---

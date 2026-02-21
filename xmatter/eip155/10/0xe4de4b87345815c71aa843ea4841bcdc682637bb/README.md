@@ -14,7 +14,7 @@ symbol: BUILD
 decimals: 18
 icons:
   - icon.png
-color: "#df232a"
+color: "#080808"
 ---
 
 RadioShack is positioned to bridge the gap and 'cross the chasm' of mainstream usage for Cryptocurrency.

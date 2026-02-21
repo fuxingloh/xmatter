@@ -6,7 +6,7 @@ name: yamCRV.org
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c02d2c"
+color: "#080808"
 icons:
   - icon.png
 ---

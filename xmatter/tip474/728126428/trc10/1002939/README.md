@@ -8,7 +8,7 @@ name: TRONFamily
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#212120"
+color: "#181818"
 icons:
   - icon.png
 ---

@@ -24,7 +24,7 @@ name: CURE Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f5d66c"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

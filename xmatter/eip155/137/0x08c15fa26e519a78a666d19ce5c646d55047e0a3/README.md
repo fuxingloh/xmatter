@@ -18,7 +18,7 @@ name: dForce
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f6f6ee"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

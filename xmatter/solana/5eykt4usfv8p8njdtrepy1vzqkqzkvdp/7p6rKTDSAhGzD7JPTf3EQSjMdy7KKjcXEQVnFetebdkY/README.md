@@ -12,7 +12,7 @@ name: Simpson AI Agent
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#e3d1cc"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

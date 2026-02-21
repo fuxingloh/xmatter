@@ -12,7 +12,7 @@ name: Tradehub
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1b302a"
+color: "#080808"
 icons:
   - icon.png
 ---

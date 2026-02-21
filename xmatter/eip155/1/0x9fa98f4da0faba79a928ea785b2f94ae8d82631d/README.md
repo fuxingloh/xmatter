@@ -6,7 +6,7 @@ name: Block Genesis Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8a6e6a"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

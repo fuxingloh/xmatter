@@ -28,7 +28,7 @@ name: Mu Continent
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#055225"
+color: "#085828"
 icons:
   - icon.png
 ---

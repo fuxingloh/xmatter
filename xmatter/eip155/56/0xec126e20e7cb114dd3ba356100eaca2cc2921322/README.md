@@ -14,7 +14,7 @@ name: Solar Energy
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0b0a08"
+color: "#080808"
 icons:
   - icon.png
 ---

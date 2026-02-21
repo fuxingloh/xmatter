@@ -8,7 +8,7 @@ name: "Bitcoin\_And\_Ethereum\_Standard\_Token"
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fca104"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

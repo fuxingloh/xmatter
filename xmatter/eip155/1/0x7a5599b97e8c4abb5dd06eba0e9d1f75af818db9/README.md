@@ -6,7 +6,7 @@ name: OSMOTIC TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2b53a3"
+color: "#2858a8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: All Sports Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#aef7c3"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

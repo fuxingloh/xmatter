@@ -16,7 +16,7 @@ symbol: SYN
 decimals: 18
 icons:
   - icon.png
-color: "#c32df5"
+color: "#080808"
 ---
 
 Synapse is a cross-chain layer ∞ protocol powering interoperability between blockchains.

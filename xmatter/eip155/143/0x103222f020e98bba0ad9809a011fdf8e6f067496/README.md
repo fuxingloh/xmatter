@@ -12,7 +12,7 @@ symbol: earnAUSD
 decimals: 6
 icons:
   - icon.png
-color: "#9c9454"
+color: "#989848"
 ---
 
 earnAUSD is the anchor liquid yield token on Monad, and part of the Liquid Earn campaign designed to distribute yield to stablecoin holders across the ecosystem.

@@ -8,5 +8,5 @@ symbol: USVT
 decimals: 8
 icons:
   - icon.png
-color: "#436aa9"
+color: "#f8f8f8"
 ---

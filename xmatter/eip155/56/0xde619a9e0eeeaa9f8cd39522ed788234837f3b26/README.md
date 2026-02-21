@@ -8,7 +8,7 @@ name: Hungarian Vizsla Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3fa49b"
+color: "#080808"
 icons:
   - icon.png
 ---

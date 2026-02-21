@@ -8,7 +8,7 @@ name: ShowHand
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cce2f0"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

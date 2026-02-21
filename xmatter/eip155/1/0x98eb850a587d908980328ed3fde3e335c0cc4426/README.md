@@ -6,7 +6,7 @@ name: Market Return
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d53a48"
+color: "#080808"
 icons:
   - icon.png
 ---

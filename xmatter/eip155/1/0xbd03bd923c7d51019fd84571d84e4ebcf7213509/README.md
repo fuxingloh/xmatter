@@ -14,7 +14,7 @@ name: Rocket Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f3042b"
+color: "#f80828"
 icons:
   - icon.png
 ---

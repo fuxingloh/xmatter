@@ -6,7 +6,7 @@ name: Eqwity Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a1095a"
+color: "#080808"
 icons:
   - icon.png
 ---

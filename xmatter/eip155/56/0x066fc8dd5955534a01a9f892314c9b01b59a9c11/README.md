@@ -8,7 +8,7 @@ name: Animal Adoption Advocacy
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f7c511"
+color: "#080808"
 icons:
   - icon.png
 ---

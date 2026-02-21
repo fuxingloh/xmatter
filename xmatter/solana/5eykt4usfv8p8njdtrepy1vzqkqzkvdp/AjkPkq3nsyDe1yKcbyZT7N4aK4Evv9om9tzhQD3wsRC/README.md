@@ -10,7 +10,7 @@ name: 1INCH Token (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#20334e"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

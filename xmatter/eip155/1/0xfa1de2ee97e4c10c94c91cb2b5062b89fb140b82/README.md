@@ -6,7 +6,7 @@ name: Education Credits
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#efb63a"
+color: "#080808"
 icons:
   - icon.png
 ---

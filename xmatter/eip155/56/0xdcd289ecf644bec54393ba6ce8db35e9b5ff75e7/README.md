@@ -8,7 +8,7 @@ name: FairLunar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1c2444"
+color: "#182848"
 icons:
   - icon.png
 ---

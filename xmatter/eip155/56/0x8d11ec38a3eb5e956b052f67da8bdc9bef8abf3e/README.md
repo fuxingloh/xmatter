@@ -22,7 +22,7 @@ name: KIRA Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8134d4"
+color: "#8838d8"
 icons:
   - icon.png
 ---

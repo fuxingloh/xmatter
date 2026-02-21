@@ -14,7 +14,7 @@ name: Medtronic tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#2363c4"
+color: "#2868c8"
 icons:
   - icon.png
 ---

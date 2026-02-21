@@ -6,7 +6,7 @@ name: Yoga Community Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c03afc"
+color: "#080808"
 icons:
   - icon.png
 ---

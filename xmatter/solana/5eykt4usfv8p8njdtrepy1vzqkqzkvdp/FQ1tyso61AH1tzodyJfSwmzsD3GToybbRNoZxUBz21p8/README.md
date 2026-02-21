@@ -12,7 +12,7 @@ name: Dasha
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#d38745"
+color: "#282828"
 icons:
   - icon.png
 ---

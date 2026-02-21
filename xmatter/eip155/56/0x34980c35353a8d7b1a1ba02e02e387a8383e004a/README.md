@@ -20,7 +20,7 @@ name: Snake
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#90c82e"
+color: "#086828"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Foxy Equilibrium
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ea4f30"
+color: "#080808"
 icons:
   - icon.png
 ---

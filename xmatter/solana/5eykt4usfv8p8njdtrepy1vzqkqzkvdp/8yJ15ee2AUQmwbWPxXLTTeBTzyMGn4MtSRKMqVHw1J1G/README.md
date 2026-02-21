@@ -12,7 +12,7 @@ name: KITTY AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#d9eaf5"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

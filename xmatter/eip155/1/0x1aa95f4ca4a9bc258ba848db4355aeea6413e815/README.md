@@ -6,7 +6,7 @@ name: Budget
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a8344b"
+color: "#a83848"
 icons:
   - icon.png
 ---

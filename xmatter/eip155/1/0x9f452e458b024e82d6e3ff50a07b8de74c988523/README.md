@@ -8,7 +8,7 @@ name: GoatCash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8c7c69"
+color: "#080808"
 icons:
   - icon.png
 ---

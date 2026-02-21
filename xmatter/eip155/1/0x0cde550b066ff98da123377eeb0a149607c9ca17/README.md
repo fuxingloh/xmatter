@@ -8,7 +8,7 @@ name: EUR36
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#645094"
+color: "#080808"
 icons:
   - icon.png
 ---

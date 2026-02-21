@@ -8,7 +8,7 @@ name: Jinchuriki
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#392d2d"
+color: "#080808"
 icons:
   - icon.png
 ---

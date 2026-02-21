@@ -12,7 +12,7 @@ name: Staked USDT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#0a211d"
+color: "#081818"
 icons:
   - icon.png
 ---

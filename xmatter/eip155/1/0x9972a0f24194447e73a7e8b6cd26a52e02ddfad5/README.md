@@ -8,7 +8,7 @@ name: ThoreCash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f2e615"
+color: "#58b848"
 icons:
   - icon.png
 ---

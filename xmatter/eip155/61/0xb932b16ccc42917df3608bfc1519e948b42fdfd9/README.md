@@ -8,5 +8,5 @@ symbol: NTRO
 decimals: 4
 icons:
   - icon.png
-color: "#000000"
+color: "#080808"
 ---

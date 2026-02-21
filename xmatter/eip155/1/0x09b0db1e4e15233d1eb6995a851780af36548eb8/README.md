@@ -6,7 +6,7 @@ name: EtherDiamond
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fbc33c"
+color: "#f8b838"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: USDX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04d4a4"
+color: "#08d898"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: FINFINE TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#07051e"
+color: "#080818"
 icons:
   - icon.png
 ---

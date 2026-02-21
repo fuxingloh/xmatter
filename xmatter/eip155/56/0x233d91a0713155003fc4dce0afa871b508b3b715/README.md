@@ -12,7 +12,7 @@ name: Ditto
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fa79be"
+color: "#f878c8"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Onlyone
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#142c1c"
+color: "#182818"
 icons:
   - icon.png
 ---

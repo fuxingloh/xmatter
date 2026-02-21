@@ -8,7 +8,7 @@ name: STK Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8a7b63"
+color: "#486878"
 icons:
   - icon.png
 ---

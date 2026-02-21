@@ -8,7 +8,7 @@ name: Buggyra Coin Zero
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cdd0d7"
+color: "#080808"
 icons:
   - icon.png
 ---

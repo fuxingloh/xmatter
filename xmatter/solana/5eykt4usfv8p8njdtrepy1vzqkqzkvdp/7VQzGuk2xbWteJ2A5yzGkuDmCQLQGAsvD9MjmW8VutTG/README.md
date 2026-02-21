@@ -12,7 +12,7 @@ name: Secrot Servoce
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#cbc3c1"
+color: "#c8c8c8"
 icons:
   - icon.png
 ---

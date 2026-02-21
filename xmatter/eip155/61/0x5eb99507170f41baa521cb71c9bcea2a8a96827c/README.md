@@ -8,5 +8,5 @@ symbol: XOM
 decimals: 4
 icons:
   - icon.png
-color: "#505c69"
+color: "#080808"
 ---

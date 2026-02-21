@@ -6,7 +6,7 @@ name: PEP Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1f5c82"
+color: "#185888"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Venture Mind AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#d65991"
+color: "#081818"
 icons:
   - icon.png
 ---

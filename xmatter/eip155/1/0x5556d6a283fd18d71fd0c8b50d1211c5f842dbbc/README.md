@@ -6,7 +6,7 @@ name: ButtCoin v2.0
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0f0f0d"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

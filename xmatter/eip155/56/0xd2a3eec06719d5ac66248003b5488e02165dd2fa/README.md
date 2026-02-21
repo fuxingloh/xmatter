@@ -26,7 +26,7 @@ name: Paxe
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dfdef2"
+color: "#080808"
 icons:
   - icon.png
 ---

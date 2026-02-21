@@ -6,7 +6,7 @@ name: Five Color Stone
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cf9527"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

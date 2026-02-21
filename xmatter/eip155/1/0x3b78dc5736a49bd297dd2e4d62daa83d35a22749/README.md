@@ -10,7 +10,7 @@ name: Finswap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fb5c45"
+color: "#080808"
 icons:
   - icon.png
 ---

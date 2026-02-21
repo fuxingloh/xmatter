@@ -28,7 +28,7 @@ name: SPAY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0c343b"
+color: "#083838"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Doggy Swap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d1e9f6"
+color: "#c8e8f8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: ARIVA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#739574"
+color: "#789878"
 icons:
   - icon.png
 ---

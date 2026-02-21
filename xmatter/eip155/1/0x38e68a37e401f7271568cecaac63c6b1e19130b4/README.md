@@ -14,7 +14,7 @@ name: Banana
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#facc46"
+color: "#f8c848"
 icons:
   - icon.png
 ---

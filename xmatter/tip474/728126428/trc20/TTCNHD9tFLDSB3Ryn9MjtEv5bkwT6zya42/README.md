@@ -12,7 +12,7 @@ symbol: APPx
 decimals: 18
 icons:
   - icon.png
-color: "#04acdc"
+color: "#08a8d8"
 ---
 
 AppLovin xStock

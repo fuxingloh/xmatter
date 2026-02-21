@@ -20,7 +20,7 @@ name: Akita Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e3deee"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -18,7 +18,7 @@ name: Shibosu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7fc4ed"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

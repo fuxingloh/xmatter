@@ -14,7 +14,7 @@ symbol: LINEA
 decimals: 18
 icons:
   - icon.png
-color: "#61dfff"
+color: "#68d8f8"
 ---
 
 Linea is the Layer 2 built from first principles to strengthen Ethereum and the entire ETH economy. Every aspect of its design—from its productive ETH burn mechanics, and capital efficient native yield, to its underlying Ethereum-equivalent zk tech—amplifies the value and utility of Ethereum Mainnet.

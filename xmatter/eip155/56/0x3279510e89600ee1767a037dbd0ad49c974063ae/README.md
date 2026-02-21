@@ -31,7 +31,7 @@ name: NFTBooks
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b69883"
+color: "#384858"
 icons:
   - icon.png
 ---

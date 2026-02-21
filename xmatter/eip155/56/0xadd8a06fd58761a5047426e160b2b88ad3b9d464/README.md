@@ -14,7 +14,7 @@ name: CheeseSwap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fcc92a"
+color: "#f8f8d8"
 icons:
   - icon.png
 ---

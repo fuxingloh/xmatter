@@ -14,7 +14,7 @@ name: Costco (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e42c34"
+color: "#e82838"
 icons:
   - icon.png
 ---

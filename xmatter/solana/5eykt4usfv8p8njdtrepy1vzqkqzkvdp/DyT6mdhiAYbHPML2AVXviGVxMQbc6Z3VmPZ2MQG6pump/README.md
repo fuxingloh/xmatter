@@ -12,7 +12,7 @@ name: LLM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#de2bec"
+color: "#080808"
 icons:
   - icon.png
 ---

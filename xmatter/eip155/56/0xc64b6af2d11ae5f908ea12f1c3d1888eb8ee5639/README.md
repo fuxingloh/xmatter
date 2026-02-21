@@ -10,7 +10,7 @@ name: Mashallah
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b2a192"
+color: "#b8a898"
 icons:
   - icon.png
 ---

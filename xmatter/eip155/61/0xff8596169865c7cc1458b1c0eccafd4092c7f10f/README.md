@@ -8,5 +8,5 @@ symbol: DOGECT
 decimals: 8
 icons:
   - icon.png
-color: "#cfad60"
+color: "#080808"
 ---

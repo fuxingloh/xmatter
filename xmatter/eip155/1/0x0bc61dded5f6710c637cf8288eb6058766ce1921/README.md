@@ -8,7 +8,7 @@ name: CEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#043c64"
+color: "#080808"
 icons:
   - icon.png
 ---

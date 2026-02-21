@@ -6,7 +6,7 @@ name: RedRabbitToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eb0404"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: XE Currency Converter
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3b4142"
+color: "#383838"
 icons:
   - icon.png
 ---

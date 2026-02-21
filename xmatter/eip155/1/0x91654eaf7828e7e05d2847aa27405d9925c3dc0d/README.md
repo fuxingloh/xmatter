@@ -6,7 +6,7 @@ name: Ubiquitous Business Credit 2.0
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ed7919"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

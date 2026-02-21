@@ -12,7 +12,7 @@ name: Sonne
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc644c"
+color: "#f86848"
 icons:
   - icon.svg
   - icon.png

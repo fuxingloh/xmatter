@@ -8,7 +8,7 @@ name: Parallel Universe
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c1ab60"
+color: "#080808"
 icons:
   - icon.png
 ---

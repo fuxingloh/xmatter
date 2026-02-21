@@ -8,7 +8,7 @@ name: UG Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f2641a"
+color: "#080808"
 icons:
   - icon.png
 ---

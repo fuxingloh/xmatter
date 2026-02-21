@@ -6,7 +6,7 @@ name: DD Electrum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8d9fdf"
+color: "#080808"
 icons:
   - icon.png
 ---

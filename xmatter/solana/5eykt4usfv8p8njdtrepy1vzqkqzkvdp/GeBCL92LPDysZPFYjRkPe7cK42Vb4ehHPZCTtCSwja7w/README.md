@@ -10,7 +10,7 @@ name: BaoBao
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#58c623"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

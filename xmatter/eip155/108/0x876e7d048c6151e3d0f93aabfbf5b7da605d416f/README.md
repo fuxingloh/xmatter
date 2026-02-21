@@ -8,5 +8,5 @@ symbol: CXKJ
 decimals: 8
 icons:
   - icon.png
-color: "#41d3d6"
+color: "#080808"
 ---

@@ -6,7 +6,7 @@ name: InsurChain2.0
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#183c7c"
+color: "#183878"
 icons:
   - icon.png
 ---

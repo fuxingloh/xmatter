@@ -8,7 +8,7 @@ name: Jeju Doge BSC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e4b6be"
+color: "#080808"
 icons:
   - icon.png
 ---

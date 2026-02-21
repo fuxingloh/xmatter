@@ -18,7 +18,7 @@ name: FileSystemVideo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4680b8"
+color: "#989898"
 icons:
   - icon.png
 ---

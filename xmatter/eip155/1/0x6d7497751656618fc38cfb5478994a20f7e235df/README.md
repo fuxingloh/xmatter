@@ -14,7 +14,7 @@ name: Spyro
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#9104d1"
+color: "#8808d8"
 icons:
   - icon.png
 ---

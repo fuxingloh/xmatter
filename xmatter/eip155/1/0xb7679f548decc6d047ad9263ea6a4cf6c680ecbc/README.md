@@ -6,7 +6,7 @@ name: IACO GAN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#161211"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -8,5 +8,5 @@ symbol: GOLD
 decimals: 8
 icons:
   - icon.png
-color: "#d3bd43"
+color: "#f8f8f8"
 ---

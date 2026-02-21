@@ -6,7 +6,7 @@ name: cgturbo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#047ce9"
+color: "#080808"
 icons:
   - icon.png
 ---

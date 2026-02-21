@@ -10,7 +10,7 @@ name: Super Saiya-jin token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#082482"
+color: "#f85818"
 icons:
   - icon.png
 ---

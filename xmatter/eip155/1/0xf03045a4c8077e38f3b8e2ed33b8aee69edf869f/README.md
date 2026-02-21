@@ -8,7 +8,7 @@ name: BlockMesh
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1d3d4d"
+color: "#183848"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Let's Go Gambling
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#b5b7c1"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

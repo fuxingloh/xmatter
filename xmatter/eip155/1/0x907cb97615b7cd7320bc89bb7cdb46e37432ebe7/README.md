@@ -8,7 +8,7 @@ name: Fren.community
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#16737a"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: IAM MDLT C 270-CN51
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#120708"
+color: "#f80808"
 icons:
   - icon.png
 ---

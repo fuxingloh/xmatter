@@ -14,7 +14,7 @@ name: UnitedHealth (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cddce4"
+color: "#083878"
 icons:
   - icon.png
 ---

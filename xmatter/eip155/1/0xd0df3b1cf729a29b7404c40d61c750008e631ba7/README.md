@@ -8,7 +8,7 @@ name: Rug
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#151011"
+color: "#f8c878"
 icons:
   - icon.png
 ---

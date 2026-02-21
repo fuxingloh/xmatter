@@ -6,7 +6,7 @@ name: Pundi X Classic
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e0dfa3"
+color: "#080808"
 icons:
   - icon.png
 ---

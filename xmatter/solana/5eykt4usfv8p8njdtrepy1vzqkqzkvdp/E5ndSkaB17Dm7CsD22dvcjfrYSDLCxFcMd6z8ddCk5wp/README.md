@@ -8,7 +8,7 @@ name: Cryptocurrencies.Ai
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#151d1e"
+color: "#080808"
 icons:
   - icon.png
 ---

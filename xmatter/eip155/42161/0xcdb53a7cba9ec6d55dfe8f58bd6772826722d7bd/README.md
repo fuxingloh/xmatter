@@ -15,7 +15,7 @@ name: Wrapped Johnson & Johnson Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eb1404"
+color: "#e81808"
 icons:
   - icon.png
 ---

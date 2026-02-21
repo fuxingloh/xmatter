@@ -14,7 +14,7 @@ name: ROPE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#000000"
+color: "#486848"
 icons:
   - icon.png
 ---

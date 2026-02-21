@@ -12,7 +12,7 @@ name: Kwenta
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b58958"
+color: "#080808"
 icons:
   - icon.svg
   - icon.png

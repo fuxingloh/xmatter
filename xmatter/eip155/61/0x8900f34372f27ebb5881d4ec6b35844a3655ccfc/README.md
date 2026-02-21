@@ -8,5 +8,5 @@ symbol: PHX
 decimals: 0
 icons:
   - icon.png
-color: "#fbea44"
+color: "#080808"
 ---

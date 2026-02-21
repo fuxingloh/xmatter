@@ -8,7 +8,7 @@ name: Great Ape
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f3ddc5"
+color: "#f8e8d8"
 icons:
   - icon.png
 ---

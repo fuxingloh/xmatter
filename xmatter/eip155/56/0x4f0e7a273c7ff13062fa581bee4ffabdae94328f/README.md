@@ -8,7 +8,7 @@ name: Wild Ride Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e18c34"
+color: "#f89828"
 icons:
   - icon.png
 ---

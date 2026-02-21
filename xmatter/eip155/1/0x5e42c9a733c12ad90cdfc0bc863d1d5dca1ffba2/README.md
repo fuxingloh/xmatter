@@ -6,7 +6,7 @@ name: XCBytes
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fb8b1b"
+color: "#080808"
 icons:
   - icon.png
 ---

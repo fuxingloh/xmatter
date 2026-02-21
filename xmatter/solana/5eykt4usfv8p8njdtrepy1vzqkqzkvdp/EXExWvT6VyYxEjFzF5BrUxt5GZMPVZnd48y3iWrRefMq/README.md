@@ -10,7 +10,7 @@ name: EnjinCoin (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#87befa"
+color: "#080808"
 icons:
   - icon.png
 ---

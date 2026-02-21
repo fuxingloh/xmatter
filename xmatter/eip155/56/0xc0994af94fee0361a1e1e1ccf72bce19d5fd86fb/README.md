@@ -14,7 +14,7 @@ name: RichCity
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e5ec2a"
+color: "#28c8d8"
 icons:
   - icon.png
 ---

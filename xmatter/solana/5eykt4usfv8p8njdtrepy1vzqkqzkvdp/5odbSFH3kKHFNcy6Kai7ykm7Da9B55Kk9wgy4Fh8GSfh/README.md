@@ -12,7 +12,7 @@ name: PYRATE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#fae83e"
+color: "#f8e838"
 icons:
   - icon.png
 ---

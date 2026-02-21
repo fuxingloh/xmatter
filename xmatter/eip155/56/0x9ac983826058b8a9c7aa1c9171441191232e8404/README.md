@@ -22,7 +22,7 @@ name: BNB pegged Synthetix
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0c042c"
+color: "#080828"
 icons:
   - icon.png
 ---

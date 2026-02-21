@@ -6,7 +6,7 @@ name: The Real Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3d3e3d"
+color: "#080808"
 icons:
   - icon.png
 ---

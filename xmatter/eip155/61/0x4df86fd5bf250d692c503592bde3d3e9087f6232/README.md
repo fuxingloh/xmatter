@@ -8,5 +8,5 @@ symbol: AITBOT
 decimals: 4
 icons:
   - icon.png
-color: "#649bfb"
+color: "#f8f8f8"
 ---

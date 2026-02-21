@@ -16,7 +16,7 @@ name: LuckyPig
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1e1213"
+color: "#486848"
 icons:
   - icon.png
 ---

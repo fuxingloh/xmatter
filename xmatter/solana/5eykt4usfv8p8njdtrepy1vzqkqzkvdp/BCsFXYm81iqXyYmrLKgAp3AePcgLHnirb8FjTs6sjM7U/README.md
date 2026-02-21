@@ -10,7 +10,7 @@ name: Spell Token (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#251c47"
+color: "#281848"
 icons:
   - icon.png
 ---

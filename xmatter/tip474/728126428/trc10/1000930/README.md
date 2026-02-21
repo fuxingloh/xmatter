@@ -6,7 +6,7 @@ name: GhostNote
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#282a32"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

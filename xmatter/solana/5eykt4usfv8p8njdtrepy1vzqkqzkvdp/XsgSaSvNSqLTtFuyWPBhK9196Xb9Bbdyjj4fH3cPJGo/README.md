@@ -14,7 +14,7 @@ name: Broadcom tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#cc0b2c"
+color: "#c80828"
 icons:
   - icon.png
 ---

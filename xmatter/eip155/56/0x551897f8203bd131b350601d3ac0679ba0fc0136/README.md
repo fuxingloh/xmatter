@@ -12,7 +12,7 @@ name: NFPrompt
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7068fb"
+color: "#8868f8"
 icons:
   - icon.png
 ---

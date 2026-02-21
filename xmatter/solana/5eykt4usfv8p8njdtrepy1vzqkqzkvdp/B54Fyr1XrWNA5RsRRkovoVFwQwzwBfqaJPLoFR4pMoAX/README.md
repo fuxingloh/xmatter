@@ -12,7 +12,7 @@ name: Department Of Governm
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#342628"
+color: "#181818"
 icons:
   - icon.png
 ---

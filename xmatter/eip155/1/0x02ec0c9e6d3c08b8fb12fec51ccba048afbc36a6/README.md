@@ -6,7 +6,7 @@ name: Stable Set
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8777c"
+color: "#080808"
 icons:
   - icon.png
 ---

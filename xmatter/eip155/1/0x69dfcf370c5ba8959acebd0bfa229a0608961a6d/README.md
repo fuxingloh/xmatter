@@ -6,7 +6,7 @@ name: TokenBookCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4090f0"
+color: "#080808"
 icons:
   - icon.png
 ---

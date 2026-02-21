@@ -8,7 +8,7 @@ name: Tepleton
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fcbc0c"
+color: "#282828"
 icons:
   - icon.png
 ---

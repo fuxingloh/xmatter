@@ -12,7 +12,7 @@ name: STAKD Finance (STAKD)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f85d5d"
+color: "#080808"
 icons:
   - icon.png
 ---

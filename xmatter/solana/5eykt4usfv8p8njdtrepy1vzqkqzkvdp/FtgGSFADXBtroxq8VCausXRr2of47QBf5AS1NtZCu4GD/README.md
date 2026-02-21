@@ -8,7 +8,7 @@ name: Brazilian Digital Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#acdbc5"
+color: "#a8d8c8"
 icons:
   - icon.png
 ---

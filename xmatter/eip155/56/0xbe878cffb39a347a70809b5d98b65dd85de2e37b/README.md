@@ -8,7 +8,7 @@ name: NewBTC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b38931"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

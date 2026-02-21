@@ -8,5 +8,5 @@ symbol: PAZT
 decimals: 18
 icons:
   - icon.png
-color: "#d8d8d7"
+color: "#e8e8e8"
 ---

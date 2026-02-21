@@ -6,7 +6,7 @@ name: Synth sBTC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#439b2b"
+color: "#489828"
 icons:
   - icon.png
 ---

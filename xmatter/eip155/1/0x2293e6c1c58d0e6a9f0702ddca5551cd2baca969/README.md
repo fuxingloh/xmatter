@@ -6,7 +6,7 @@ name: GCB
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bc9c38"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

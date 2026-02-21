@@ -6,7 +6,7 @@ name: Yattaqi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fba304"
+color: "#f8a808"
 icons:
   - icon.png
 ---

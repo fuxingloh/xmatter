@@ -37,7 +37,7 @@ name: ASPO World
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc7b6a"
+color: "#f87868"
 icons:
   - icon.png
 ---

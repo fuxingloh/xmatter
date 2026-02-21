@@ -8,7 +8,7 @@ name: Kokomo Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6bb38c"
+color: "#080808"
 icons:
   - icon.png
 ---

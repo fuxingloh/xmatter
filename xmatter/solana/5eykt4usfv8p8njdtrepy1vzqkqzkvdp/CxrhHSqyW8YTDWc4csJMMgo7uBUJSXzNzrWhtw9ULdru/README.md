@@ -12,7 +12,7 @@ name: neversol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#100806"
+color: "#f88828"
 icons:
   - icon.png
 ---

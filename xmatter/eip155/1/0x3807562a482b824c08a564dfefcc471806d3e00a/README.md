@@ -14,7 +14,7 @@ name: D-Wave Quantum (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ccebf5"
+color: "#0888d8"
 icons:
   - icon.png
 ---

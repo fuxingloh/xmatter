@@ -14,7 +14,7 @@ symbol: OWL
 decimals: 18
 icons:
   - icon.png
-color: "#f0ebdc"
+color: "#584898"
 ---
 
 The 1st native NFT gaming protocol on @MerlinLayer2

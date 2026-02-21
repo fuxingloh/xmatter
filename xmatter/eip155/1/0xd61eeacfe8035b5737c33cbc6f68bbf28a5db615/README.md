@@ -6,7 +6,7 @@ name: Premium
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fa0704"
+color: "#f8f808"
 icons:
   - icon.png
 ---

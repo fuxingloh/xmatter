@@ -6,7 +6,7 @@ name: TrainingToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04649b"
+color: "#086898"
 icons:
   - icon.png
 ---

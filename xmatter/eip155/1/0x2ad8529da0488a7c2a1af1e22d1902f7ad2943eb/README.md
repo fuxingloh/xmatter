@@ -6,7 +6,7 @@ name: BCAChain Initial Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b03d95"
+color: "#080808"
 icons:
   - icon.png
 ---

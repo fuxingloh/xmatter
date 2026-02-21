@@ -14,7 +14,7 @@ name: CrowdStrike tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ec3b24"
+color: "#e83828"
 icons:
   - icon.png
 ---

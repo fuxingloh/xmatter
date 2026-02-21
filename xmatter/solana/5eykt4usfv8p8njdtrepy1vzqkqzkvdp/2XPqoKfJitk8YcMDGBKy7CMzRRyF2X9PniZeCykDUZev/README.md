@@ -12,7 +12,7 @@ name: HUND
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#172228"
+color: "#181828"
 icons:
   - icon.png
 ---

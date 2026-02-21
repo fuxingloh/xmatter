@@ -8,7 +8,7 @@ name: Ricoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f6f6f6"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

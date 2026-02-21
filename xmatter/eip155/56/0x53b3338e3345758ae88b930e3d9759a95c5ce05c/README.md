@@ -16,7 +16,7 @@ name: GenshinFlokiInu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d8d6d4"
+color: "#d8d8d8"
 icons:
   - icon.png
 ---

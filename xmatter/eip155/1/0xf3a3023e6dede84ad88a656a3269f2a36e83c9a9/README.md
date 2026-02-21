@@ -14,7 +14,7 @@ name: SHARBI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b7787c"
+color: "#d87888"
 icons:
   - icon.png
 ---

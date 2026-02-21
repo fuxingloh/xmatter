@@ -23,7 +23,7 @@ name: Pepe 2.0
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ec9710"
+color: "#e87808"
 icons:
   - icon.png
 ---

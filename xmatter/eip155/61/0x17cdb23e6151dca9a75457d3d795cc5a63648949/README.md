@@ -8,5 +8,5 @@ symbol: UZG1
 decimals: 0
 icons:
   - icon.png
-color: "#e9cae8"
+color: "#080808"
 ---

@@ -10,7 +10,7 @@ name: inshallah
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ab9f86"
+color: "#a89878"
 icons:
   - icon.png
 ---

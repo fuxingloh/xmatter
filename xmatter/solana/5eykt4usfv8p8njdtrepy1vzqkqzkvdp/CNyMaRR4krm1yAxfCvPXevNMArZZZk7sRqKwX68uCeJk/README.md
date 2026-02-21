@@ -12,7 +12,7 @@ name: Major Frog
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#c17b36"
+color: "#f8f8b8"
 icons:
   - icon.png
 ---

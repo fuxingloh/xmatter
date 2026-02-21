@@ -6,7 +6,7 @@ name: LocalKoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f06b17"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

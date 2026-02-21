@@ -10,7 +10,7 @@ name: GateToken (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#c75054"
+color: "#486878"
 icons:
   - icon.png
 ---

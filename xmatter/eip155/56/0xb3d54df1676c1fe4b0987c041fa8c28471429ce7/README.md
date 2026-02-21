@@ -8,7 +8,7 @@ name: Lovecoin Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bc2c3c"
+color: "#b82838"
 icons:
   - icon.png
 ---

@@ -20,7 +20,7 @@ name: Welnance Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0c2c3c"
+color: "#082838"
 icons:
   - icon.png
 ---

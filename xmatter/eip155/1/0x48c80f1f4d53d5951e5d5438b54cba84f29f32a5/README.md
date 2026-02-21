@@ -6,7 +6,7 @@ name: "0x52657075746174696f6e00000000000000000000000000000000000000000000"
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dcd1de"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

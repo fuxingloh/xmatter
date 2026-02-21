@@ -24,7 +24,7 @@ name: AMATERASU OMIKAMI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f69d09"
+color: "#f89808"
 icons:
   - icon.png
 ---

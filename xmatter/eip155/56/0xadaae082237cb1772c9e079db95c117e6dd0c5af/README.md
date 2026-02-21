@@ -14,7 +14,7 @@ name: VizslaSwap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d8ecea"
+color: "#38a898"
 icons:
   - icon.png
 ---

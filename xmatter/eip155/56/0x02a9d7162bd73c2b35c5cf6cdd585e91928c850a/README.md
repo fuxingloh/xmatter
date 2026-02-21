@@ -8,7 +8,7 @@ name: Baby Floki Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3b3c3f"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

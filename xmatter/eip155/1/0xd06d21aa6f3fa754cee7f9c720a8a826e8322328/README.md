@@ -6,7 +6,7 @@ name: TokenChain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#faab1d"
+color: "#f89818"
 icons:
   - icon.png
 ---

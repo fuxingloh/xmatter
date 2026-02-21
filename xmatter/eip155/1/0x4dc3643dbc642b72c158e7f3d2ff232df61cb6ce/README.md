@@ -8,7 +8,7 @@ name: Ambrosus
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1e3dc9"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

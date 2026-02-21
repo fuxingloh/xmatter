@@ -8,7 +8,7 @@ name: Herpes
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fae20a"
+color: "#f8e808"
 icons:
   - icon.png
 ---

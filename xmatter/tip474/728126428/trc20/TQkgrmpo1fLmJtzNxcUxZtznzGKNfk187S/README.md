@@ -10,7 +10,7 @@ name: To The Sun!
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#e5bd86"
+color: "#080808"
 icons:
   - icon.png
 ---

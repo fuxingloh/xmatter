@@ -18,7 +18,7 @@ name: Fox Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#db802a"
+color: "#080808"
 icons:
   - icon.png
 ---

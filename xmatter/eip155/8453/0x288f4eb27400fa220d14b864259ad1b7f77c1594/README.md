@@ -12,7 +12,7 @@ name: Kudai
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6ec4e6"
+color: "#68c8e8"
 icons:
   - icon.png
 ---

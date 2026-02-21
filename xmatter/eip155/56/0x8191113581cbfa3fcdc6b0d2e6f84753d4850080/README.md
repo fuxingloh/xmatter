@@ -20,7 +20,7 @@ name: HOES
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cf5f9a"
+color: "#080808"
 icons:
   - icon.png
 ---

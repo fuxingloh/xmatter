@@ -10,7 +10,7 @@ name: BOMB
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c48a87"
+color: "#080808"
 icons:
   - icon.png
 ---

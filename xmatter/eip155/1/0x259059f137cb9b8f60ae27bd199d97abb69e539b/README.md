@@ -6,7 +6,7 @@ name: SpectrumNetwork
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#06265d"
+color: "#082858"
 icons:
   - icon.png
 ---

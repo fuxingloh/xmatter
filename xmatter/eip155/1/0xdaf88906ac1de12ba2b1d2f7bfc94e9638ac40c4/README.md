@@ -8,7 +8,7 @@ name: EpiK Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cc9f5d"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: AppleB
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1c2c2c"
+color: "#182828"
 icons:
   - icon.png
 ---

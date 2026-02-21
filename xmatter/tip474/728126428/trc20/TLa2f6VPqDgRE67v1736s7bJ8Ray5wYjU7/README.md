@@ -14,7 +14,7 @@ name: WINk
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#141c3b"
+color: "#181838"
 icons:
   - icon.png
 ---

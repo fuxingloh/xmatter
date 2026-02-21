@@ -8,7 +8,7 @@ name: IRONY MAN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#aabac2"
+color: "#182838"
 icons:
   - icon.png
 ---

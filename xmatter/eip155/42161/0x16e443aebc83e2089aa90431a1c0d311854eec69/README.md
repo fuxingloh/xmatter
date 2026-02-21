@@ -15,7 +15,7 @@ name: Wrapped Novo Nordisk Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04aada"
+color: "#08a8d8"
 icons:
   - icon.png
 ---

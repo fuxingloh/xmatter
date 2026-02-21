@@ -10,7 +10,7 @@ name: TieDan
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#28282d"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

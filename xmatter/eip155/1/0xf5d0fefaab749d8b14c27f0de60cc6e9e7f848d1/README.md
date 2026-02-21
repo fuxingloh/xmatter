@@ -16,7 +16,7 @@ name: YFARM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#41495c"
+color: "#484858"
 icons:
   - icon.png
 ---

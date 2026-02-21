@@ -12,7 +12,7 @@ name: OSOL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#d0cced"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

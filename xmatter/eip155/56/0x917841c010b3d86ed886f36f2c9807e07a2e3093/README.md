@@ -20,7 +20,7 @@ name: RisingSun Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f4e9d9"
+color: "#f82828"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Gameology Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ccd4da"
+color: "#080808"
 icons:
   - icon.png
 ---

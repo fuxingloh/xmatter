@@ -6,7 +6,7 @@ name: Synthetic YBDAO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c4b0a0"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

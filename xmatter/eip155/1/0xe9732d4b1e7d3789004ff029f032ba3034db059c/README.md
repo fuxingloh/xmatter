@@ -12,7 +12,7 @@ name: Patriot
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#db5a47"
+color: "#083878"
 icons:
   - icon.png
 ---

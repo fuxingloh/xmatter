@@ -8,7 +8,7 @@ name: InTime
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fb0464"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -18,7 +18,7 @@ name: BugsCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#070604"
+color: "#f89828"
 icons:
   - icon.png
 ---

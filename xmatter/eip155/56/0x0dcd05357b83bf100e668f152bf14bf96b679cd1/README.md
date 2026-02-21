@@ -22,7 +22,7 @@ name: Pepemusk
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a39d69"
+color: "#a8a868"
 icons:
   - icon.png
 ---

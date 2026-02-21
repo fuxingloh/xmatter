@@ -12,7 +12,7 @@ name: JungleDoge
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#d9b681"
+color: "#087808"
 icons:
   - icon.png
 ---

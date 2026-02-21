@@ -9,7 +9,7 @@ name: Read This Contract
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#da534b"
+color: "#282828"
 icons:
   - icon.png
 ---

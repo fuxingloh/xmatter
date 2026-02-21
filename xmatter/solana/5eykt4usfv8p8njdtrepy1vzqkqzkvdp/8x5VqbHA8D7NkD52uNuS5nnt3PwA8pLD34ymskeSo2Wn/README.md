@@ -12,7 +12,7 @@ name: Zerebro
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#1d1c1f"
+color: "#181818"
 icons:
   - icon.png
 ---

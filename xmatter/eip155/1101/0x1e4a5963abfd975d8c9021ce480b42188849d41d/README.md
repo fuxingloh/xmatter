@@ -16,7 +16,7 @@ symbol: USDT
 decimals: 6
 icons:
   - icon.png
-color: "#54ac94"
+color: "#58a898"
 ---
 
 Tether gives you the joint benefits of open blockchain technology and traditional currency by converting your cash into a stable digital currency equivalent.

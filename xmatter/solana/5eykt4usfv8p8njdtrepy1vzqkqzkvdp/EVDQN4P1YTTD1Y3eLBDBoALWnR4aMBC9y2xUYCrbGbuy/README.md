@@ -10,7 +10,7 @@ name: MOCHICAT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#fad5d5"
+color: "#f8d8d8"
 icons:
   - icon.png
 ---

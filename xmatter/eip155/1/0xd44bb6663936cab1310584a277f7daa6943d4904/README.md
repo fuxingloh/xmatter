@@ -8,7 +8,7 @@ name: Winco
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#db8b04"
+color: "#d88808"
 icons:
   - icon.png
 ---

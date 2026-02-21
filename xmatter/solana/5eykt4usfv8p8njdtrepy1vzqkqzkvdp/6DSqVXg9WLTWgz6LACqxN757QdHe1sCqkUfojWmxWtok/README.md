@@ -10,7 +10,7 @@ name: Solanacorn
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#040506"
+color: "#080808"
 icons:
   - icon.png
 ---

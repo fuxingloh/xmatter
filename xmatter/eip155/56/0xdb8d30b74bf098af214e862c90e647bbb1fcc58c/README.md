@@ -18,7 +18,7 @@ name: BABY CAKE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d28a4c"
+color: "#080808"
 icons:
   - icon.png
 ---

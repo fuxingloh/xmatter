@@ -26,7 +26,7 @@ name: Reflex V2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2b2b3b"
+color: "#282838"
 icons:
   - icon.png
 ---

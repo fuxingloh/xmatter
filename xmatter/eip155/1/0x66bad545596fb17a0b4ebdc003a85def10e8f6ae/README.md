@@ -8,7 +8,7 @@ name: WIKI Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e4243b"
+color: "#e82838"
 icons:
   - icon.png
 ---

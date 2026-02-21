@@ -16,7 +16,7 @@ name: CryptoFrog.Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#375728"
+color: "#080808"
 icons:
   - icon.png
 ---

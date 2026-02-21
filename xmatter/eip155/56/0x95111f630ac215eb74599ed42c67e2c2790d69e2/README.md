@@ -16,7 +16,7 @@ name: icarus.finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0c131b"
+color: "#081818"
 icons:
   - icon.png
 ---

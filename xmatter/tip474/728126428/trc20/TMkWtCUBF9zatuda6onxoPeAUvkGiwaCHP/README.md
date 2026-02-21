@@ -12,7 +12,7 @@ symbol: INTCx
 decimals: 18
 icons:
   - icon.png
-color: "#046bb3"
+color: "#0868b8"
 ---
 
 Intel xStock

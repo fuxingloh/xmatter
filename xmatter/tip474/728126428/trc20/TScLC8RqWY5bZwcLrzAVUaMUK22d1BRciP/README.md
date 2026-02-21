@@ -12,7 +12,7 @@ symbol: TMOx
 decimals: 18
 icons:
   - icon.png
-color: "#eb4333"
+color: "#e84838"
 ---
 
 Thermo Fisher xStock

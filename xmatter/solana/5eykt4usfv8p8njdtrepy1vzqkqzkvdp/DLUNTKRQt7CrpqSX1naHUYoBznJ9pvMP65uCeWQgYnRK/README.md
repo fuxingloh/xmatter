@@ -16,7 +16,7 @@ name: SolCard
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#daa7d1"
+color: "#080808"
 icons:
   - icon.png
 ---

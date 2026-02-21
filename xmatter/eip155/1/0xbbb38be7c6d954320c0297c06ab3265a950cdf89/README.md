@@ -6,7 +6,7 @@ name: Wrapped BOMB
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bd18c3"
+color: "#080808"
 icons:
   - icon.png
 ---

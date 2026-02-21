@@ -8,7 +8,7 @@ name: Blackberry token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6b4089"
+color: "#080808"
 icons:
   - icon.png
 ---

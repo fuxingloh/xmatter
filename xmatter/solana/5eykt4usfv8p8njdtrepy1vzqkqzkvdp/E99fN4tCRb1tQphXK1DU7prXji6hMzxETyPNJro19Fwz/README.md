@@ -12,7 +12,7 @@ name: CatSolHat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#49403a"
+color: "#e8c8f8"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Bank Future Exchange
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4c6cb4"
+color: "#4868b8"
 icons:
   - icon.png
 ---

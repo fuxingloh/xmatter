@@ -14,7 +14,7 @@ symbol: PAC
 decimals: 18
 icons:
   - icon.png
-color: "#e0b90f"
+color: "#080808"
 ---
 
 The community coin of Blast.

@@ -8,7 +8,7 @@ name: SHIKOKU INU
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f9eac3"
+color: "#f8e8c8"
 icons:
   - icon.png
 ---

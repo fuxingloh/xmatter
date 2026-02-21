@@ -6,7 +6,7 @@ name: CandyToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ffa7c0"
+color: "#f8a8b8"
 icons:
   - icon.png
 ---

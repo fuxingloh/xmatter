@@ -8,7 +8,7 @@ name: UnikoinGold
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f2b356"
+color: "#f8b858"
 icons:
   - icon.svg
   - icon.png

@@ -16,7 +16,7 @@ name: PayPal USD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#eaf4f8"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

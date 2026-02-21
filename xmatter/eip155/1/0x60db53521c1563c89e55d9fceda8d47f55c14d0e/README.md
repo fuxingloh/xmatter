@@ -8,7 +8,7 @@ name: e-Money DKK stablecoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#185878"
+color: "#080808"
 icons:
   - icon.png
 ---

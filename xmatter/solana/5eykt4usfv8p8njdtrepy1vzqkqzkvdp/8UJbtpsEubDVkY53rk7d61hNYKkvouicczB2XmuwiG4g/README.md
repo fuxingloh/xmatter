@@ -10,7 +10,7 @@ name: Illuvium (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#47296e"
+color: "#582878"
 icons:
   - icon.png
 ---

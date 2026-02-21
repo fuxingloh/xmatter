@@ -12,7 +12,7 @@ name: Tokyo AU Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fa6464"
+color: "#080808"
 icons:
   - icon.png
 ---

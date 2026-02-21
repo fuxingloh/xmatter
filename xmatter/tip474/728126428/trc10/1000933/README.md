@@ -6,7 +6,7 @@ name: TronWatchMarket
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#e23349"
+color: "#e83848"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: Camel
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d7994c"
+color: "#58a8e8"
 icons:
   - icon.png
 ---

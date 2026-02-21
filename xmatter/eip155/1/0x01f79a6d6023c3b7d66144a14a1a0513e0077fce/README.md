@@ -6,7 +6,7 @@ name: COMMUNITY MONEY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ef7224"
+color: "#080808"
 icons:
   - icon.png
 ---

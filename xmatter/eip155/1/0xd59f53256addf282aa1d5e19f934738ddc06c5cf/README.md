@@ -6,7 +6,7 @@ name: KINELA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc090a"
+color: "#080808"
 icons:
   - icon.png
 ---

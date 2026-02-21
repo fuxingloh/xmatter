@@ -20,7 +20,7 @@ name: MetYa
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d6e61e"
+color: "#c8d818"
 icons:
   - icon.png
 ---

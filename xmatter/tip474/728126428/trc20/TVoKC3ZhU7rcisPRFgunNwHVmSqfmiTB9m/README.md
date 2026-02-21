@@ -12,7 +12,7 @@ name: Measurable Data
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#8ccaf9"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

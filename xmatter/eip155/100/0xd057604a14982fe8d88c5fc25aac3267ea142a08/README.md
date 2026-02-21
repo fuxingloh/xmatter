@@ -16,7 +16,7 @@ symbol: HOPR
 decimals: 18
 icons:
   - icon.png
-color: "#fbfba3"
+color: "#f8f898"
 ---
 
 HOPR brings true privacy to web3 with its fully scalable and incentivized mixnet. With HOPR, any kind of data can be transmitted without having to reveal the metadata. HOPR doesn't have its own blockchain: node runners earn HOPR tokens on Gnosis Chain and Ethereum mainnet.

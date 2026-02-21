@@ -14,7 +14,7 @@ name: Melania Meme
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#d9d9d9"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: Eid Mubarak
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1d1d21"
+color: "#181818"
 icons:
   - icon.png
 ---

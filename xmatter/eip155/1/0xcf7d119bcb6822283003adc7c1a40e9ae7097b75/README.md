@@ -8,7 +8,7 @@ name: Star Pacific Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#10bbf0"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: FEG Wrapped ADA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080605"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

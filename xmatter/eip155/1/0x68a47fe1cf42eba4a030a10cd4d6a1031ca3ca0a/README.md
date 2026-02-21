@@ -14,7 +14,7 @@ name: Tectum Emission Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4c7bfb"
+color: "#4878f8"
 icons:
   - icon.png
 ---

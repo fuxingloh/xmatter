@@ -14,7 +14,7 @@ name: Amazon tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#fb9404"
+color: "#f89808"
 icons:
   - icon.png
 ---

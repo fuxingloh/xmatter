@@ -8,7 +8,7 @@ name: MoonStop Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d6d5dd"
+color: "#080808"
 icons:
   - icon.png
 ---

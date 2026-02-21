@@ -8,7 +8,7 @@ name: LEV Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8404fc"
+color: "#8808f8"
 icons:
   - icon.png
 ---

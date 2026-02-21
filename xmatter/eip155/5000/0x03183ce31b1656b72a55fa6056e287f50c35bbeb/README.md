@@ -12,7 +12,7 @@ symbol: ACNx
 decimals: 18
 icons:
   - icon.png
-color: "#a304fb"
+color: "#a808f8"
 ---
 
 Accenture xStock

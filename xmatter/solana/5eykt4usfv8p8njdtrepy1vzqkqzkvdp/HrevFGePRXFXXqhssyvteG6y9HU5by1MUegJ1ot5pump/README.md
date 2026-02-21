@@ -12,7 +12,7 @@ name: Robin Rug
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#e99a34"
+color: "#080808"
 icons:
   - icon.png
 ---

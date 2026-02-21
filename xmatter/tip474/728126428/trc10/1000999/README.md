@@ -6,7 +6,7 @@ name: tronloot
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#121618"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

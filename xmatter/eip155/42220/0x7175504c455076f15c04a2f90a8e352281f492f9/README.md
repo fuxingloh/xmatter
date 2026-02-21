@@ -20,7 +20,7 @@ name: Mento Australian Dollar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b0c4f7"
+color: "#5808c8"
 icons:
   - icon.svg
   - icon.png

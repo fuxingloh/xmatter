@@ -8,7 +8,7 @@ name: Level-Up Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#090a0e"
+color: "#080808"
 icons:
   - icon.png
 ---

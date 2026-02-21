@@ -19,7 +19,7 @@ name: BNB pegged APENFT Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#120e0e"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

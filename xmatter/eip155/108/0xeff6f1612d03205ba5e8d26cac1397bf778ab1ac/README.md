@@ -8,5 +8,5 @@ symbol: PALA
 decimals: 8
 icons:
   - icon.png
-color: "#c49a62"
+color: "#f8f8e8"
 ---

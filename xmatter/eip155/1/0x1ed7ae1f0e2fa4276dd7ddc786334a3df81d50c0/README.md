@@ -8,7 +8,7 @@ name: Forty Seven Bank Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dcdddd"
+color: "#d8d8d8"
 icons:
   - icon.png
 ---

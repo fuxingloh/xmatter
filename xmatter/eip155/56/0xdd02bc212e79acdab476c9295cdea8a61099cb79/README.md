@@ -18,7 +18,7 @@ name: MCNCOIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#93530b"
+color: "#080808"
 icons:
   - icon.png
 ---

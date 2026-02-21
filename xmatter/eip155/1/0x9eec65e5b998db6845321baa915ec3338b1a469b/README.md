@@ -6,7 +6,7 @@ name: OnlyChain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f89219"
+color: "#f8e898"
 icons:
   - icon.png
 ---

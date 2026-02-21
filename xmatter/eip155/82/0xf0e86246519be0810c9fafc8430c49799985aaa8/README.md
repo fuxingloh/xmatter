@@ -10,7 +10,7 @@ symbol: BNB
 decimals: 18
 icons:
   - icon.png
-color: "#f3bb0c"
+color: "#e8b808"
 ---
 
 Fast and secure decentralized digital asset exchange. The new crypto currency trading standard is here.

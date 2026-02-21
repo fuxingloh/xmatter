@@ -8,7 +8,7 @@ name: BCHC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dd292a"
+color: "#080808"
 icons:
   - icon.png
 ---

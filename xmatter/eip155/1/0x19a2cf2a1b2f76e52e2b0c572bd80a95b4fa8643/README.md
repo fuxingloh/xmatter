@@ -8,7 +8,7 @@ name: Fyooz NFT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1c1c2c"
+color: "#181828"
 icons:
   - icon.png
 ---

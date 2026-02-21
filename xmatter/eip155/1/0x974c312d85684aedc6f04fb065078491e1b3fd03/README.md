@@ -6,7 +6,7 @@ name: Vietnam Gold Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e4c47c"
+color: "#080808"
 icons:
   - icon.png
 ---

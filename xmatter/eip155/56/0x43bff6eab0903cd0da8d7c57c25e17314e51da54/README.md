@@ -8,7 +8,7 @@ name: DRIVENprotocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#43fac2"
+color: "#182858"
 icons:
   - icon.png
 ---

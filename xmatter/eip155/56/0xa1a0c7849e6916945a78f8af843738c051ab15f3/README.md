@@ -8,7 +8,7 @@ name: MetaMoon.io
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#74f3dc"
+color: "#78f8d8"
 icons:
   - icon.png
 ---

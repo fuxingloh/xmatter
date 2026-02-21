@@ -17,7 +17,7 @@ name: Bombcrypto Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fcd144"
+color: "#f8a838"
 icons:
   - icon.png
 ---

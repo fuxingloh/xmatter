@@ -15,7 +15,7 @@ name: Wrapped Honeywell Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#db1c33"
+color: "#d81838"
 icons:
   - icon.png
 ---

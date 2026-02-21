@@ -12,7 +12,7 @@ name: Phoenix Global
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1768d7"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: VIDTC Precious metals and stones
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04fb74"
+color: "#08f878"
 icons:
   - icon.png
 ---

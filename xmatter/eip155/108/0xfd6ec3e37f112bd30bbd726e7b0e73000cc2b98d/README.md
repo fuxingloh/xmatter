@@ -14,7 +14,7 @@ symbol: TT-HUSD
 decimals: 8
 icons:
   - icon.png
-color: "#f5f7fc"
+color: "#0858f8"
 ---
 
 Bridged token of HUSD on ThunderCore blockchain. The Bridge allows users to convert assets between Ethereum, BSC, HECO and ThunderCore. This is a customized version of POA network Bridge

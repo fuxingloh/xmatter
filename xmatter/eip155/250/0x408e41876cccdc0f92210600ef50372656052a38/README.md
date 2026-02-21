@@ -26,7 +26,7 @@ symbol: REN
 decimals: 18
 icons:
   - icon.png
-color: "#0b0b0b"
+color: "#f8f8f8"
 ---
 
 Ren is an open protocol meant to enable the permissionless and private transfer of value between any blockchain.

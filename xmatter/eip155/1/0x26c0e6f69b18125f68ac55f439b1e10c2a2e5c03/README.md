@@ -6,7 +6,7 @@ name: Crowdvilla Point
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bbeee9"
+color: "#08c8b8"
 icons:
   - icon.png
 ---

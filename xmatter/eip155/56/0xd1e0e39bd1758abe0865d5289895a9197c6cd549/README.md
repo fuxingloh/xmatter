@@ -18,7 +18,7 @@ name: UAHg
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3068e0"
+color: "#3868e8"
 icons:
   - icon.png
 ---

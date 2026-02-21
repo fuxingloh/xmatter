@@ -8,7 +8,7 @@ name: ANALYSX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#34cc9c"
+color: "#38c898"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: BNB pegged Zcash Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ecb44c"
+color: "#e8b848"
 icons:
   - icon.png
 ---

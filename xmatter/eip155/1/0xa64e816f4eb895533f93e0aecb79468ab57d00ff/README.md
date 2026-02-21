@@ -6,7 +6,7 @@ name: VARO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#446bac"
+color: "#4868a8"
 icons:
   - icon.png
 ---

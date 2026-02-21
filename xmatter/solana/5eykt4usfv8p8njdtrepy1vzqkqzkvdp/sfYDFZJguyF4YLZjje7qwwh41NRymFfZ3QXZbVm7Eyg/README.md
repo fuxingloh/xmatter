@@ -12,7 +12,7 @@ name: MAGA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#0e2041"
+color: "#081838"
 icons:
   - icon.png
 ---

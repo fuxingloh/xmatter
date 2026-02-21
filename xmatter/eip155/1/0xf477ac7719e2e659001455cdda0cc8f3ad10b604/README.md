@@ -12,7 +12,7 @@ name: CryptoAutos
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fa4405"
+color: "#f84808"
 icons:
   - icon.png
 ---

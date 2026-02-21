@@ -8,7 +8,7 @@ name: Wrapped BIS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5ca3eb"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

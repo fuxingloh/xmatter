@@ -14,7 +14,7 @@ name: BullBear AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#20162a"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -13,7 +13,7 @@ name: Coinhub
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc9d12"
+color: "#f8a818"
 icons:
   - icon.png
 ---

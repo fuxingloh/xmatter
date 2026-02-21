@@ -20,7 +20,7 @@ name: BNB pegged Uniswap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fcecf4"
+color: "#f8e8f8"
 icons:
   - icon.png
 ---

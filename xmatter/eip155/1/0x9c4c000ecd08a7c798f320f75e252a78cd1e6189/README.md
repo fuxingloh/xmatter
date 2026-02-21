@@ -6,7 +6,7 @@ name: DD Copper
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4f261d"
+color: "#080808"
 icons:
   - icon.png
 ---

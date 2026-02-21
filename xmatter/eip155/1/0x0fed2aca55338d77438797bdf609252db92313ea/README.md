@@ -6,7 +6,7 @@ name: Bdb
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#19a6b7"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

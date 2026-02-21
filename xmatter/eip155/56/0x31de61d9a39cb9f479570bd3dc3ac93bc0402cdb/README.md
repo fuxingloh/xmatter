@@ -8,7 +8,7 @@ name: NFTPunk.Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e5b35a"
+color: "#f8b828"
 icons:
   - icon.png
 ---

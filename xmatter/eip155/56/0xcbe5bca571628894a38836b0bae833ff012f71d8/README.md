@@ -22,7 +22,7 @@ name: Infinity Rocket Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4858a0"
+color: "#4858a8"
 icons:
   - icon.png
 ---

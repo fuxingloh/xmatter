@@ -18,7 +18,7 @@ name: UBXS Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1eafd9"
+color: "#08a8d8"
 icons:
   - icon.png
 ---

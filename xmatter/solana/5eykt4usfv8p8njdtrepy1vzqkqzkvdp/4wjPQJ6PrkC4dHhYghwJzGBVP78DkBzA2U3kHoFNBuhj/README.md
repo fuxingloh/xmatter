@@ -8,7 +8,7 @@ name: LIQ Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#c03cf8"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

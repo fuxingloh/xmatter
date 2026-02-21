@@ -8,7 +8,7 @@ name: Asian Dragon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#24242b"
+color: "#080808"
 icons:
   - icon.png
 ---

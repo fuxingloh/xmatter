@@ -8,7 +8,7 @@ name: Emblem (EMB)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f4c454"
+color: "#f8b858"
 icons:
   - icon.png
 ---

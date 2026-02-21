@@ -8,7 +8,7 @@ name: Morphose
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dadada"
+color: "#d8d8d8"
 icons:
   - icon.png
 ---

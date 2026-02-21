@@ -10,7 +10,7 @@ name: Fantom (Portal from Ethereum)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#1f6df9"
+color: "#1868f8"
 icons:
   - icon.png
 ---

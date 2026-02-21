@@ -6,7 +6,7 @@ name: Git
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e34b24"
+color: "#080808"
 icons:
   - icon.png
 ---

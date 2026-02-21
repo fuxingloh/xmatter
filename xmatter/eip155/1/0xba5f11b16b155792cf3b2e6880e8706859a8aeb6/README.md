@@ -8,7 +8,7 @@ name: Aeron
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3b81b2"
+color: "#080808"
 icons:
   - icon.png
 ---

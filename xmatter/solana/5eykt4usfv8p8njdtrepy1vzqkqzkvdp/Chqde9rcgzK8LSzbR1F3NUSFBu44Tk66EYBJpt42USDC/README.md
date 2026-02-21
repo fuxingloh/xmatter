@@ -10,7 +10,7 @@ name: USDC Piggy Bank
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#eaa0a4"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

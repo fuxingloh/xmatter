@@ -6,7 +6,7 @@ name: ULTRON
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#05b8fc"
+color: "#080808"
 icons:
   - icon.png
 ---

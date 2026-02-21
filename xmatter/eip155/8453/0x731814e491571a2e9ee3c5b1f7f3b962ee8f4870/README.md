@@ -12,7 +12,7 @@ name: VaderAI by Virtuals
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2c2d16"
+color: "#280808"
 icons:
   - icon.png
 ---

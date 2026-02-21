@@ -6,7 +6,7 @@ name: Counsel
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#62493b"
+color: "#584838"
 icons:
   - icon.png
 ---

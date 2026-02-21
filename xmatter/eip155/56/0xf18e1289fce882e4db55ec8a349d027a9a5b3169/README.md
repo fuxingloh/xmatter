@@ -14,7 +14,7 @@ name: MetaBotChain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#978552"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -22,7 +22,7 @@ name: MuratiAI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ee62a1"
+color: "#282828"
 icons:
   - icon.png
 ---

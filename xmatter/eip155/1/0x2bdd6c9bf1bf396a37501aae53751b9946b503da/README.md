@@ -6,7 +6,7 @@ name: Korea Medical TBA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#9c9c9c"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: KINGS GLOBAL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0d2c6b"
+color: "#080808"
 icons:
   - icon.png
 ---

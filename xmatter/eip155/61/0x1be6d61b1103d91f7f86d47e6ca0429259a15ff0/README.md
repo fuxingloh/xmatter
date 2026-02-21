@@ -8,5 +8,5 @@ symbol: BCT
 decimals: 8
 icons:
   - icon.png
-color: "#fb9d0b"
+color: "#080808"
 ---

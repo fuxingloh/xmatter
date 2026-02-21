@@ -10,7 +10,7 @@ name: Gala (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#b74a6c"
+color: "#486878"
 icons:
   - icon.png
 ---

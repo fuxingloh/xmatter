@@ -16,7 +16,7 @@ name: TalentProtocolToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8068e8"
+color: "#8868e8"
 icons:
   - icon.svg
   - icon.png

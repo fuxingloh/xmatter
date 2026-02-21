@@ -8,5 +8,5 @@ symbol: BCNA
 decimals: 8
 icons:
   - icon.png
-color: "#d2a57f"
+color: "#080808"
 ---

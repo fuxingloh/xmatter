@@ -8,7 +8,7 @@ name: W GREEN PAY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#061e3c"
+color: "#080808"
 icons:
   - icon.png
 ---

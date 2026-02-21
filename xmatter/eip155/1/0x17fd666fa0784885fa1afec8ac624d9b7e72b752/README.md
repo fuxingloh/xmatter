@@ -8,7 +8,7 @@ name: FLiK
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dddbdf"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

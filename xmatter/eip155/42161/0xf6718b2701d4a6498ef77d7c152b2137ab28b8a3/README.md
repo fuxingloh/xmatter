@@ -12,7 +12,7 @@ name: Lorenzo stBTC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f4941c"
+color: "#f89818"
 icons:
   - icon.png
 ---

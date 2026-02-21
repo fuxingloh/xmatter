@@ -32,7 +32,7 @@ name: GoMining
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#7444ec"
+color: "#7838e8"
 icons:
   - icon.png
 ---

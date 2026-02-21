@@ -8,7 +8,7 @@ name: CoinUs
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4d6599"
+color: "#486898"
 icons:
   - icon.png
 ---

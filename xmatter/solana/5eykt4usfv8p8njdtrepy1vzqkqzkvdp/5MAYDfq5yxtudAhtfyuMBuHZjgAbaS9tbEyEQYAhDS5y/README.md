@@ -14,7 +14,7 @@ name: Access Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#6493fa"
+color: "#6888f8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Change Our World
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ec7474"
+color: "#e87878"
 icons:
   - icon.png
 ---

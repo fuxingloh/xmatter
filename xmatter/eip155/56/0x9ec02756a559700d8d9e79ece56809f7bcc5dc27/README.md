@@ -12,7 +12,7 @@ name: why
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a1a1a1"
+color: "#a8a8a8"
 icons:
   - icon.png
 ---

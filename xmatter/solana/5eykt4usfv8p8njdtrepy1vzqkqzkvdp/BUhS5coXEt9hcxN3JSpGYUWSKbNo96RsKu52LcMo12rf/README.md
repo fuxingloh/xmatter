@@ -16,7 +16,7 @@ name: Meow
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#2b3338"
+color: "#081828"
 icons:
   - icon.png
 ---

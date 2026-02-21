@@ -6,7 +6,7 @@ name: Planemo Xchange Utility
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1b1c3b"
+color: "#181838"
 icons:
   - icon.png
 ---

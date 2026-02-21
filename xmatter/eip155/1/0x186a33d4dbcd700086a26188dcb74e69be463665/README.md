@@ -8,7 +8,7 @@ name: 7ELEVEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bbe4f5"
+color: "#486878"
 icons:
   - icon.png
 ---

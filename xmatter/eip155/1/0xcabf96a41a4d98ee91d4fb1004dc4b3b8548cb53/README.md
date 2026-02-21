@@ -6,7 +6,7 @@ name: BffDoom
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b7e1fc"
+color: "#080808"
 icons:
   - icon.png
 ---

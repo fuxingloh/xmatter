@@ -14,7 +14,7 @@ name: Swapz.app
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f56e23"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: DRP Utility
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#656bb0"
+color: "#080808"
 icons:
   - icon.png
 ---

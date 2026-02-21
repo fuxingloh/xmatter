@@ -10,7 +10,7 @@ name: Epep
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f097b4"
+color: "#f898b8"
 icons:
   - icon.png
 ---

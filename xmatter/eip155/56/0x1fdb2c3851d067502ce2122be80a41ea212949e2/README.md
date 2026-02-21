@@ -28,7 +28,7 @@ name: Pige Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f3d3a3"
+color: "#080808"
 icons:
   - icon.png
 ---

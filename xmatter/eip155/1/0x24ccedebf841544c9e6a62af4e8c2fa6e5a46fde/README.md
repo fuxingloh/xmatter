@@ -22,7 +22,7 @@ name: BlueSparrow
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#27292c"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

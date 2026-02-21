@@ -6,7 +6,7 @@ name: Bitenny
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a69ac6"
+color: "#080808"
 icons:
   - icon.png
 ---

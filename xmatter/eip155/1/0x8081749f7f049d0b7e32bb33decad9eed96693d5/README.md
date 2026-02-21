@@ -6,7 +6,7 @@ name: International Financial Asset
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3656f4"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

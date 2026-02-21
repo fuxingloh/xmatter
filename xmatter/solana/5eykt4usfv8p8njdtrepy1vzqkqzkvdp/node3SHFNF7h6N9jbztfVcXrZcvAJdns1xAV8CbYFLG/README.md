@@ -10,7 +10,7 @@ name: Ligma Node
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f4dae4"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

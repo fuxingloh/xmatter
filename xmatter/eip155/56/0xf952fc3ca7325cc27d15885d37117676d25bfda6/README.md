@@ -16,7 +16,7 @@ name: Goose Golden Egg
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b2822c"
+color: "#080808"
 icons:
   - icon.png
 ---

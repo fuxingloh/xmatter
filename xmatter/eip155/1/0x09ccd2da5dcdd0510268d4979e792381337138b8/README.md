@@ -8,7 +8,7 @@ name: Bodhi Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5060f8"
+color: "#080808"
 icons:
   - icon.png
 ---

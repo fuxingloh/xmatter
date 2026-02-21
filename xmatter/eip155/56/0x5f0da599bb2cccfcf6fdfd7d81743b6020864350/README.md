@@ -20,7 +20,7 @@ name: Binance-Peg Maker
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5cbbab"
+color: "#58b8a8"
 icons:
   - icon.png
 ---

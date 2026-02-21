@@ -12,7 +12,7 @@ name: soulja coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#bfb5b7"
+color: "#a8a898"
 icons:
   - icon.png
 ---

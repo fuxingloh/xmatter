@@ -12,7 +12,7 @@ name: jacky
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#171519"
+color: "#080808"
 icons:
   - icon.png
 ---

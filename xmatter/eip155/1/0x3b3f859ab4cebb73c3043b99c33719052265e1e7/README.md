@@ -8,7 +8,7 @@ name: khAZon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dfdacd"
+color: "#080808"
 icons:
   - icon.png
 ---

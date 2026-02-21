@@ -8,7 +8,7 @@ name: AINU TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dfba6e"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Keep3r BSC Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ecb40b"
+color: "#e8b808"
 icons:
   - icon.png
 ---

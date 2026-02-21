@@ -8,7 +8,7 @@ name: LAZACA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#242cfc"
+color: "#2828f8"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: RECORD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4384f4"
+color: "#4888f8"
 icons:
   - icon.png
 ---

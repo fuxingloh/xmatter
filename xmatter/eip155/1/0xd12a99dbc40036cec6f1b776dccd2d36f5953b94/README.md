@@ -12,7 +12,7 @@ name: Draggy
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dba473"
+color: "#38b8f8"
 icons:
   - icon.png
 ---

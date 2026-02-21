@@ -8,7 +8,7 @@ name: Synth sUSD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1c1b33"
+color: "#181838"
 icons:
   - icon.png
 ---

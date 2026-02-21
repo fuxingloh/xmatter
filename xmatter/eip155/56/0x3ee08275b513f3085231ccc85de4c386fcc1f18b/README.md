@@ -16,7 +16,7 @@ name: BelecX Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1b43c3"
+color: "#1848b8"
 icons:
   - icon.png
 ---

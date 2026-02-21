@@ -6,7 +6,7 @@ name: Rock Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#751119"
+color: "#881818"
 icons:
   - icon.png
 ---

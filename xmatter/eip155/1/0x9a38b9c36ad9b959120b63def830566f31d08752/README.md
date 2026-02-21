@@ -6,7 +6,7 @@ name: BDA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c9a13e"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

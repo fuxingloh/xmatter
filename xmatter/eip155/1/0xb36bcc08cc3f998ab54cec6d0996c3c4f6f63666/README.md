@@ -6,7 +6,7 @@ name: XSAPPHIRE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#05a9cf"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: TEZILLA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#180807"
+color: "#080808"
 icons:
   - icon.png
 ---

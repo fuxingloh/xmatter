@@ -6,7 +6,7 @@ name: All Things Blockchain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cdcdcd"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

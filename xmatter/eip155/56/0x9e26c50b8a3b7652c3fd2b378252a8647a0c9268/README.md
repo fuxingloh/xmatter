@@ -28,7 +28,7 @@ name: Shibance Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fbd304"
+color: "#f8d808"
 icons:
   - icon.png
 ---

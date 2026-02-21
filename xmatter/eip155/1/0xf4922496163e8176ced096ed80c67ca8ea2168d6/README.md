@@ -14,7 +14,7 @@ name: Les Collectionneurs
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#251c1a"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

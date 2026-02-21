@@ -26,7 +26,7 @@ name: WEB2 Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cfd82f"
+color: "#080808"
 icons:
   - icon.png
 ---

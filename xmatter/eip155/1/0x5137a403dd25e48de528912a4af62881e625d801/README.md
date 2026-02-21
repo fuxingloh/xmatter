@@ -6,7 +6,7 @@ name: Huddl
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6030b1"
+color: "#6828b8"
 icons:
   - icon.png
 ---

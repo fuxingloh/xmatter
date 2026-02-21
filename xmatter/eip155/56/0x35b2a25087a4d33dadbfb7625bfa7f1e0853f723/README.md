@@ -18,7 +18,7 @@ name: Annex USDT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0c213d"
+color: "#081838"
 icons:
   - icon.png
 ---

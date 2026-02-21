@@ -20,7 +20,7 @@ name: Merchant Token (MTO)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3876bb"
+color: "#3878b8"
 icons:
   - icon.png
 ---

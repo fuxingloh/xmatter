@@ -10,7 +10,7 @@ name: Martian Dog
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dfa9aa"
+color: "#181818"
 icons:
   - icon.png
 ---

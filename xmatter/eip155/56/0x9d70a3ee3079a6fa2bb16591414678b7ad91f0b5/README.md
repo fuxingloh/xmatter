@@ -8,7 +8,7 @@ name: MemePad
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0a7de0"
+color: "#0888e8"
 icons:
   - icon.png
 ---

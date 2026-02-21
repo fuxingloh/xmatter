@@ -16,7 +16,7 @@ name: Sphynx BSC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e59759"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

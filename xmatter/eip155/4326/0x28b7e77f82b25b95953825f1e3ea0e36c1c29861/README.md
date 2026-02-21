@@ -22,7 +22,7 @@ symbol: MEGA
 decimals: 18
 icons:
   - icon.png
-color: "#342c2c"
+color: "#d8d8d8"
 ---
 
 MEGA Governance token

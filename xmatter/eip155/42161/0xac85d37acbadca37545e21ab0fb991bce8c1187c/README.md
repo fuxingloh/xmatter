@@ -15,7 +15,7 @@ name: Wrapped Amazon Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fb9404"
+color: "#f89808"
 icons:
   - icon.png
 ---

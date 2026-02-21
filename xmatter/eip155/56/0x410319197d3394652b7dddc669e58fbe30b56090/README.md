@@ -8,7 +8,7 @@ name: Cyber Time Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e15d69"
+color: "#080808"
 icons:
   - icon.png
 ---

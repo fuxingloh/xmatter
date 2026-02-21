@@ -8,7 +8,7 @@ name: Aave XSUSHI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1f4f64"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

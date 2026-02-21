@@ -6,7 +6,7 @@ name: AGI BANK
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6e5d7e"
+color: "#080808"
 icons:
   - icon.png
 ---

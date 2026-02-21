@@ -32,7 +32,7 @@ symbol: QANX
 decimals: 18
 icons:
   - icon.png
-color: "#9c9c9c"
+color: "#080808"
 ---
 
 QANX is the utility token of QAN Platform.

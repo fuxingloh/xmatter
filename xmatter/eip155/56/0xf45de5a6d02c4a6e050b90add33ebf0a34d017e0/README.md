@@ -27,7 +27,7 @@ name: WEB3 Doge
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eea617"
+color: "#281818"
 icons:
   - icon.png
 ---

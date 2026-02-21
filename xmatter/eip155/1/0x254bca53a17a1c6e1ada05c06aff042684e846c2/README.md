@@ -6,7 +6,7 @@ name: Cygnity
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cfac4e"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

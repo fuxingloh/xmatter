@@ -16,7 +16,7 @@ name: Fortress
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f3c30b"
+color: "#f8c808"
 icons:
   - icon.png
 ---

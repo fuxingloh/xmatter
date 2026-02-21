@@ -12,7 +12,7 @@ name: wOCTA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a61b9d"
+color: "#080808"
 icons:
   - icon.png
 ---

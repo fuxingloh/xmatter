@@ -6,7 +6,7 @@ name: AEN.
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#00b7ce"
+color: "#080808"
 icons:
   - icon.png
 ---

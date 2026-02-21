@@ -16,7 +16,7 @@ name: Catgirl
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f1b5be"
+color: "#080808"
 icons:
   - icon.png
 ---

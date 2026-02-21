@@ -6,7 +6,7 @@ name: PowH3D
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d3ebe9"
+color: "#088878"
 icons:
   - icon.png
 ---

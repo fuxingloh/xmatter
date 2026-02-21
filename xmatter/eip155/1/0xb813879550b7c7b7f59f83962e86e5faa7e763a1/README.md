@@ -6,7 +6,7 @@ name: BuidlersVault
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7b04f4"
+color: "#7808f8"
 icons:
   - icon.png
 ---

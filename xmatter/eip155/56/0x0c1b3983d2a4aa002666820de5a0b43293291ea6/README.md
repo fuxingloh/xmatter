@@ -8,7 +8,7 @@ name: PEPE Community
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#949db6"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

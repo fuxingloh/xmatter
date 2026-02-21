@@ -14,7 +14,7 @@ name: Okage Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#80453a"
+color: "#c8b8b8"
 icons:
   - icon.png
 ---

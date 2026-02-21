@@ -14,7 +14,7 @@ name: Block World Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#acd036"
+color: "#282828"
 icons:
   - icon.png
 ---

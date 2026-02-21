@@ -16,7 +16,7 @@ symbol: gMON
 decimals: 18
 icons:
   - icon.png
-color: "#eb7b14"
+color: "#082838"
 ---
 
 Magma's staking pool allows users to stake their Monad tokens in exchange for liquid staked Monad tokens (gMON). Magma Staked Monad (gMON) represents users MON tokens that are 'staked' or deposited into Magma. gMON can be used to earn staking rewards, or participate in various DeFi platforms, such as providing collateral to take out a loan.

@@ -12,7 +12,7 @@ name: BlazeStake Staked SOL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#07ead6"
+color: "#181828"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ symbol: SWPx
 decimals: 18
 icons:
   - icon.png
-color: "#cbdbcc"
+color: "#c8d8c8"
 ---
 
 This token can be acquired on the market, earned as a farming reward for providing liquidity via weekly emission, or, for select early users, received via an airdrop.

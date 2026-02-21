@@ -14,7 +14,7 @@ symbol: weETH
 decimals: 18
 icons:
   - icon.png
-color: "#191768"
+color: "#081868"
 ---
 
 This is the wrapped version of eETH, the first native liquid restaking token on Ethereum. Stakers can mint eETH on ether.fi. When a user does this, ether.fi will then stake and restake the ETH, allowing users to maximize rewards.

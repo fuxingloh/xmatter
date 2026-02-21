@@ -10,7 +10,7 @@ name: EraLabs
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#0b0f42"
+color: "#080838"
 icons:
   - icon.png
 ---

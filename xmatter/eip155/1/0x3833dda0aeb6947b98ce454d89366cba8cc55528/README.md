@@ -8,7 +8,7 @@ name: SPHTX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#142434"
+color: "#182838"
 icons:
   - icon.png
 ---

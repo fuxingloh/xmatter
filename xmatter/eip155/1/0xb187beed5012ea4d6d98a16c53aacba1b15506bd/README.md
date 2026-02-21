@@ -6,7 +6,7 @@ name: MybillCash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#051245"
+color: "#081848"
 icons:
   - icon.png
 ---

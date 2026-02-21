@@ -8,7 +8,7 @@ name: SEFI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fbf3bb"
+color: "#f8f8b8"
 icons:
   - icon.png
 ---

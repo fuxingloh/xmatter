@@ -6,7 +6,7 @@ name: Controlled Chaos Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8904fb"
+color: "#080808"
 icons:
   - icon.png
 ---

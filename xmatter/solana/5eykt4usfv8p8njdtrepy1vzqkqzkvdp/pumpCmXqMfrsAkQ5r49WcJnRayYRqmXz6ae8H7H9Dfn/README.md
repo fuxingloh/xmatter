@@ -12,7 +12,7 @@ name: Pump
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#1c1e2c"
+color: "#181828"
 icons:
   - icon.png
 ---

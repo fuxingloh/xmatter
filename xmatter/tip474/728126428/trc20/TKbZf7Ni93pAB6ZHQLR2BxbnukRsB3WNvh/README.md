@@ -12,7 +12,7 @@ symbol: AMZNx
 decimals: 18
 icons:
   - icon.png
-color: "#fb9404"
+color: "#f89808"
 ---
 
 Amazon.com xStock

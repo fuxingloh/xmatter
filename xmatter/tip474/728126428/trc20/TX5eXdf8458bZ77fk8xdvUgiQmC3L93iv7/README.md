@@ -10,7 +10,7 @@ name: PUSS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#574b45"
+color: "#080808"
 icons:
   - icon.png
 ---

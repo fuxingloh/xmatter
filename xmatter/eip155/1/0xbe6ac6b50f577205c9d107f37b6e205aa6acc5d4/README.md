@@ -6,7 +6,7 @@ name: United Network Distribution
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#157cc5"
+color: "#080808"
 icons:
   - icon.png
 ---

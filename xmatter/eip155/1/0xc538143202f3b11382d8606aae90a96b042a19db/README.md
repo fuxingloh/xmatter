@@ -8,7 +8,7 @@ name: Coinsbit Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a8895c"
+color: "#987848"
 icons:
   - icon.png
 ---

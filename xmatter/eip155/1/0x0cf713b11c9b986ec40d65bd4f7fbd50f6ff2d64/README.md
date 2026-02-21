@@ -6,7 +6,7 @@ name: IST34 Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0b0534"
+color: "#080808"
 icons:
   - icon.png
 ---

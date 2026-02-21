@@ -21,7 +21,7 @@ name: Staked USDA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#43cfae"
+color: "#080808"
 icons:
   - icon.png
 ---

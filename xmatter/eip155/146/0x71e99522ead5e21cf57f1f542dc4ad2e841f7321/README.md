@@ -12,7 +12,7 @@ symbol: METRO
 decimals: 18
 icons:
   - icon.png
-color: "#0c1424"
+color: "#081828"
 ---
 
 $METRO is the native Reward and Governance Token of Metropolis, a DLMM Liquidity Book DEX that offers full flexibility for liquidity providers and zero-slippage swaps for traders.

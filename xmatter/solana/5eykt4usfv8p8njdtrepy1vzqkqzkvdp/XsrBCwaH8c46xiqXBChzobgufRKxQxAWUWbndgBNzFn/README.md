@@ -10,7 +10,7 @@ symbol: BMNRx
 decimals: 8
 icons:
   - icon.png
-color: "#f39d7c"
+color: "#f89878"
 ---
 
 Bitmine xStock

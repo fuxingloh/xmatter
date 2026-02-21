@@ -8,7 +8,7 @@ name: Hyperion
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b64304"
+color: "#080808"
 icons:
   - icon.png
 ---

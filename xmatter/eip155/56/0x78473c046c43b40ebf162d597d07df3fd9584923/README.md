@@ -8,7 +8,7 @@ name: Aku The Bodyguard
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bc8f77"
+color: "#182838"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: SBX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f7b342"
+color: "#686868"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: Infinite Money Glitch X2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#10e41d"
+color: "#080808"
 icons:
   - icon.png
 ---

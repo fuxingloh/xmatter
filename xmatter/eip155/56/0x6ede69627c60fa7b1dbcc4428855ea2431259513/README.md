@@ -14,7 +14,7 @@ name: ZhouKing
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#9a2679"
+color: "#982878"
 icons:
   - icon.png
 ---

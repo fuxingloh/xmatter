@@ -8,7 +8,7 @@ name: Lancer Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2eb4eb"
+color: "#38c8f8"
 icons:
   - icon.png
 ---

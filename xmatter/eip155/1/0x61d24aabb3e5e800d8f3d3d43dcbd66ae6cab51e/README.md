@@ -8,7 +8,7 @@ name: BitRabbit Exchange
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f3ca82"
+color: "#080808"
 icons:
   - icon.png
 ---

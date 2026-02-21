@@ -16,7 +16,7 @@ name: Samoyedcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#dedce1"
+color: "#e8e8e8"
 icons:
   - icon.png
 ---

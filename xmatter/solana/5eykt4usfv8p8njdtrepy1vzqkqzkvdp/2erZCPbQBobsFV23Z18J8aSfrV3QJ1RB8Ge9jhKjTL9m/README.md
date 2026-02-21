@@ -12,7 +12,7 @@ name: WASSIE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#21795d"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

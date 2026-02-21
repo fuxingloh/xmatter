@@ -8,7 +8,7 @@ name: FEG Wrapped BUSD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f3b618"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ symbol: PENDLE
 decimals: 18
 icons:
   - icon.png
-color: "#e5e8ed"
+color: "#f8f8f8"
 ---
 
 Pendle is essentially a protocol for tokenizing yield and an AMM for trading tokenized yield and other time-decaying assets.

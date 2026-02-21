@@ -12,7 +12,7 @@ name: IronyMan
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#052950"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

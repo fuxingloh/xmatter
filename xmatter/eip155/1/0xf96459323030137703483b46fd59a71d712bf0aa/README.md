@@ -8,7 +8,7 @@ name: XTAKE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d9d8d4"
+color: "#080808"
 icons:
   - icon.png
 ---

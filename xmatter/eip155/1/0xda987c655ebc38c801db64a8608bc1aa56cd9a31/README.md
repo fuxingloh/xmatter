@@ -10,7 +10,7 @@ name: Synternet
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#221845"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

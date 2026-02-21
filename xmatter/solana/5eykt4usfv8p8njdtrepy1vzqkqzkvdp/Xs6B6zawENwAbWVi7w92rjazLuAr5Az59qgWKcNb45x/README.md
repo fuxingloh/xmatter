@@ -15,7 +15,7 @@ name: Berkshire Hathaway tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#29318b"
+color: "#283898"
 icons:
   - icon.png
 ---

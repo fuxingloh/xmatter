@@ -16,7 +16,7 @@ name: XO Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1b1e50"
+color: "#181858"
 icons:
   - icon.png
 ---

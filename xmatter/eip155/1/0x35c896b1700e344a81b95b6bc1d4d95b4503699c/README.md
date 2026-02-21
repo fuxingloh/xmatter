@@ -6,7 +6,7 @@ name: PokerSports Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3a3a3a"
+color: "#080808"
 icons:
   - icon.png
 ---

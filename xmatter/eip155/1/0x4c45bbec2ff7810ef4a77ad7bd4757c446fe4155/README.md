@@ -12,7 +12,7 @@ name: Jungle
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5ee82a"
+color: "#181828"
 icons:
   - icon.png
 ---

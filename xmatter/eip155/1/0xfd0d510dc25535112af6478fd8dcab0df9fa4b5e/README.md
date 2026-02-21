@@ -6,7 +6,7 @@ name: GoldBoxToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ffcd5c"
+color: "#f8c858"
 icons:
   - icon.png
 ---

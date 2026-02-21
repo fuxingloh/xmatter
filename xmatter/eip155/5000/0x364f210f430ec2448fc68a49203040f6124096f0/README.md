@@ -12,7 +12,7 @@ symbol: COINx
 decimals: 18
 icons:
   - icon.png
-color: "#0454fb"
+color: "#0858f8"
 ---
 
 Coinbase xStock

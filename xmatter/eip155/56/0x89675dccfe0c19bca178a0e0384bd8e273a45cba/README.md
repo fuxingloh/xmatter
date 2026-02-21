@@ -8,7 +8,7 @@ name: Dexview
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#040607"
+color: "#080808"
 icons:
   - icon.png
 ---

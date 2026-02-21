@@ -6,7 +6,7 @@ name: MOVEX Dollar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#43a645"
+color: "#080808"
 icons:
   - icon.png
 ---

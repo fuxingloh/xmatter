@@ -10,7 +10,7 @@ symbol: MOVR
 decimals: 18
 icons:
   - icon.png
-color: "#f4b404"
+color: "#f8f8f8"
 ---
 
 Moonriver is a sister network of Moonbeam, and provides an environment to test new code under real economic conditions.

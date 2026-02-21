@@ -16,7 +16,7 @@ name: BIO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1c2414"
+color: "#182808"
 icons:
   - icon.svg
   - icon.png

@@ -6,7 +6,7 @@ name: TBT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#df7a46"
+color: "#080808"
 icons:
   - icon.png
 ---

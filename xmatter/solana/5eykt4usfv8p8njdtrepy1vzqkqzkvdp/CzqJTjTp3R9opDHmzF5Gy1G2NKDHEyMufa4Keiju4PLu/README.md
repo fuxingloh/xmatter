@@ -22,7 +22,7 @@ name: Wrapped Conceal
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#797a7d"
+color: "#080808"
 icons:
   - icon.png
 ---

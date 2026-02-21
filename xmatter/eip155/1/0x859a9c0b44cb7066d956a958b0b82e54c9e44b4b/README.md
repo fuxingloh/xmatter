@@ -6,7 +6,7 @@ name: iEthereum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6cc3e6"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: OCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#243035"
+color: "#282838"
 icons:
   - icon.png
 ---

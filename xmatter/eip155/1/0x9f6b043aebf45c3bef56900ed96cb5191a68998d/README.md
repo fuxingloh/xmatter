@@ -6,7 +6,7 @@ name: BTCC Pool Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e4e4e4"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

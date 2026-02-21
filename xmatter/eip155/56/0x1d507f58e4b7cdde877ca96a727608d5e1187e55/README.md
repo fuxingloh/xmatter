@@ -14,7 +14,7 @@ name: RTC_Plus
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8dc6d"
+color: "#885808"
 icons:
   - icon.png
 ---

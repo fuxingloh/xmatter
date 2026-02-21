@@ -12,7 +12,7 @@ name: ANTISEAL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#be1f43"
+color: "#2888c8"
 icons:
   - icon.png
 ---

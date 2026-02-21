@@ -8,7 +8,7 @@ name: Brigadeiro
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#673230"
+color: "#f8c8c8"
 icons:
   - icon.png
 ---

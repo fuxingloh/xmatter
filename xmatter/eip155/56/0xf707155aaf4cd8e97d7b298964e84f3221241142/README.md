@@ -8,7 +8,7 @@ name: MARKGOAT Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ecbe99"
+color: "#080808"
 icons:
   - icon.png
 ---

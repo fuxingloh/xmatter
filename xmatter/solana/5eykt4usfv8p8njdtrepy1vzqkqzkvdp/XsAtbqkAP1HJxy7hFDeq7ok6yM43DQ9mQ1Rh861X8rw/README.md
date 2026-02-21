@@ -14,7 +14,7 @@ name: Pfizer tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#0404cc"
+color: "#0808c8"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: OwnTheDay.io Days
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d7bdeb"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

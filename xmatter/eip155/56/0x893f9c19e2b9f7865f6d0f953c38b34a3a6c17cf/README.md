@@ -8,7 +8,7 @@ name: Bitcoin Reflect
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#190e32"
+color: "#180828"
 icons:
   - icon.png
 ---

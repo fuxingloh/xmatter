@@ -12,7 +12,7 @@ symbol: MRVLx
 decimals: 18
 icons:
   - icon.png
-color: "#5e5e5e"
+color: "#686868"
 ---
 
 Marvell xStock

@@ -8,7 +8,7 @@ name: ALBOS Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8ec436"
+color: "#080808"
 icons:
   - icon.png
 ---

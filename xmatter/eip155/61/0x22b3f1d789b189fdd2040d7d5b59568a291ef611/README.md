@@ -8,5 +8,5 @@ symbol: SEAG1
 decimals: 0
 icons:
   - icon.png
-color: "#5a8adf"
+color: "#080808"
 ---

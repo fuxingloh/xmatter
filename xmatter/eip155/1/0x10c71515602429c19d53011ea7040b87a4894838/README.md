@@ -8,7 +8,7 @@ name: Diamond Platform Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c8977d"
+color: "#181828"
 icons:
   - icon.png
 ---

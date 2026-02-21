@@ -10,7 +10,7 @@ name: MATIC (Portal from Ethereum)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#8446e1"
+color: "#8848e8"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Bluzelle
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1e0539"
+color: "#180828"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: Boysclub
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#78624b"
+color: "#0858f8"
 icons:
   - icon.png
 ---

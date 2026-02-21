@@ -14,7 +14,7 @@ name: MicroStrategy (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f5d4d4"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

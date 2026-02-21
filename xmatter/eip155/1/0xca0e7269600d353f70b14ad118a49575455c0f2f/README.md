@@ -8,7 +8,7 @@ name: AMLT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#171c5c"
+color: "#181858"
 icons:
   - icon.png
 ---

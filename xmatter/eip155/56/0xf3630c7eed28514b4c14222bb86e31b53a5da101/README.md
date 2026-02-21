@@ -16,7 +16,7 @@ name: MetaNet
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0c090f"
+color: "#080808"
 icons:
   - icon.png
 ---

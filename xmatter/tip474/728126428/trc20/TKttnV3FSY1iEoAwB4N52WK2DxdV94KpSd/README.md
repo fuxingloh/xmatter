@@ -8,7 +8,7 @@ name: TRONbetDice
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#233f21"
+color: "#181818"
 icons:
   - icon.png
 ---

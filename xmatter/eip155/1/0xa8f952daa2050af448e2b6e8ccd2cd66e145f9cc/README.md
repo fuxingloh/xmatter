@@ -6,7 +6,7 @@ name: RXCCryptofreedomToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f40606"
+color: "#f80808"
 icons:
   - icon.png
 ---

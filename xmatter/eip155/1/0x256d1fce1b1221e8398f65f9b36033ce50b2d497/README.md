@@ -16,7 +16,7 @@ name: Alvey Chain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#47c4de"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

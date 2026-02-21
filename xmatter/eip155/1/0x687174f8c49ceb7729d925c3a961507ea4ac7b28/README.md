@@ -8,7 +8,7 @@ name: GAT Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a5d5e7"
+color: "#080808"
 icons:
   - icon.png
 ---

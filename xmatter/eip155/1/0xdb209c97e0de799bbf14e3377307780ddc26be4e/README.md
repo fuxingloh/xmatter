@@ -6,7 +6,7 @@ name: DarkPay Wallet
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0e3d65"
+color: "#083868"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ name: Turbo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f3f2f1"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

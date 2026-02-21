@@ -8,7 +8,7 @@ name: WINSSHI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#54c3e4"
+color: "#080808"
 icons:
   - icon.png
 ---

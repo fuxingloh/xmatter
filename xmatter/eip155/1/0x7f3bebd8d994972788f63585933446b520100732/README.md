@@ -8,7 +8,7 @@ name: Pinata
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#32214b"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

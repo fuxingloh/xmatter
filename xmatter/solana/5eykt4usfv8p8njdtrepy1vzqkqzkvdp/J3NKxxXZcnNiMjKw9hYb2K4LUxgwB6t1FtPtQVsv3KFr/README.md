@@ -12,7 +12,7 @@ name: SPX6900
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#dab24d"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

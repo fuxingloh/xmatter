@@ -8,7 +8,7 @@ name: GREENX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6cc4cc"
+color: "#080808"
 icons:
   - icon.png
 ---

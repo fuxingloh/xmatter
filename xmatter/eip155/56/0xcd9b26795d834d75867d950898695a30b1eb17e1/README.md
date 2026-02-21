@@ -8,7 +8,7 @@ name: VIDTC NFT Claim
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04c3d3"
+color: "#08c8d8"
 icons:
   - icon.png
 ---

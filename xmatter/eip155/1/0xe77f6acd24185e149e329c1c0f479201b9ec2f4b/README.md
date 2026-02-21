@@ -16,7 +16,7 @@ name: ZEEBU
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#041b33"
+color: "#081838"
 icons:
   - icon.png
 ---

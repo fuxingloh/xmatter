@@ -8,7 +8,7 @@ name: PureLifeCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#14bb9b"
+color: "#18b898"
 icons:
   - icon.png
 ---

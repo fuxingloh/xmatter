@@ -12,7 +12,7 @@ name: EML Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#52a9db"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -18,7 +18,7 @@ name: Clifford Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cc2021"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

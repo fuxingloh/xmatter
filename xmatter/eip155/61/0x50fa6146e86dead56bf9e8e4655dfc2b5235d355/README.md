@@ -8,5 +8,5 @@ symbol: MERG1
 decimals: 0
 icons:
   - icon.png
-color: "#2a3e3a"
+color: "#080808"
 ---

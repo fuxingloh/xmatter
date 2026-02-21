@@ -6,7 +6,7 @@ name: KEPENG
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e5c724"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

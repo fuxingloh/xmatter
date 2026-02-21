@@ -6,7 +6,7 @@ name: Digital Florin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bf923c"
+color: "#080808"
 icons:
   - icon.png
 ---

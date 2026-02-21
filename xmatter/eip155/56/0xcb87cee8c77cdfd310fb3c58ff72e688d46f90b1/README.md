@@ -18,7 +18,7 @@ name: Cream Bitcoin Cash Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4bcb44"
+color: "#080808"
 icons:
   - icon.png
 ---

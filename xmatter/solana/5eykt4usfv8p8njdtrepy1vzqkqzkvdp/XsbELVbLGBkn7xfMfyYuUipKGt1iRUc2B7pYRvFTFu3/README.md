@@ -10,7 +10,7 @@ symbol: IWMx
 decimals: 8
 icons:
   - icon.png
-color: "#1cacdc"
+color: "#18a8d8"
 ---
 
 Russell 2000 xStock

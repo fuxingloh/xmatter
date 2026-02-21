@@ -22,7 +22,7 @@ name: AIR
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8a642"
+color: "#0858a8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Shark Stake
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#145cac"
+color: "#080808"
 icons:
   - icon.png
 ---

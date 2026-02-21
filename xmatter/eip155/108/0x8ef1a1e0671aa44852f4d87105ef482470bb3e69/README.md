@@ -14,7 +14,7 @@ symbol: TT-BNB
 decimals: 18
 icons:
   - icon.png
-color: "#f3ba2f"
+color: "#080808"
 ---
 
 Bridged token of BSC on ThunderCore blockchain. The Bridge allows users to convert assets between Ethereum, BSC, HECO and ThunderCore. This is a customized version of POA network Bridge

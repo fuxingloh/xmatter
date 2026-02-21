@@ -18,7 +18,7 @@ name: AntNetworX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6c34f3"
+color: "#6838e8"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: VelaToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#371da9"
+color: "#180868"
 icons:
   - icon.png
 ---

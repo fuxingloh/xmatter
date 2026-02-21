@@ -8,7 +8,7 @@ name: Buddy
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#07b5fb"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

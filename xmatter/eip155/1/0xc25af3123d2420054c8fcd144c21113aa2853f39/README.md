@@ -8,7 +8,7 @@ name: Xion Global Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2ca4dc"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ name: Exxon Mobil tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ec1b2c"
+color: "#e81828"
 icons:
   - icon.png
 ---

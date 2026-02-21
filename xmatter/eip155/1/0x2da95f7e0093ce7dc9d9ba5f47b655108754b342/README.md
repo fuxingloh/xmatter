@@ -6,7 +6,7 @@ name: RIN Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#367dea"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

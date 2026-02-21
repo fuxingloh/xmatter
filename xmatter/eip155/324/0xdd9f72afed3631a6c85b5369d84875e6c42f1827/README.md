@@ -18,7 +18,7 @@ symbol: SIS
 decimals: 18
 icons:
   - icon.png
-color: "#04ed04"
+color: "#080808"
 ---
 
 Symbiosis aggregates decentralized exchange liquidity across any EVM and non-EVM networks. Swap any token and transfer liquidity. Yes, any.

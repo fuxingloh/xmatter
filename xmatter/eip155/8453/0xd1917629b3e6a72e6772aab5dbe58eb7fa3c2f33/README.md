@@ -10,7 +10,7 @@ name: Settled ETHXY
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#6bb282"
+color: "#68b888"
 icons:
   - icon.svg
   - icon.png

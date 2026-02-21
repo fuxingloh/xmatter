@@ -12,7 +12,7 @@ name: HULVIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#8c5ccc"
+color: "#f88808"
 icons:
   - icon.png
 ---

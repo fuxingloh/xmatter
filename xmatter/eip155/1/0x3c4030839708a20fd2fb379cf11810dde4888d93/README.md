@@ -8,7 +8,7 @@ name: IMSWallet
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8de4bc"
+color: "#080808"
 icons:
   - icon.png
 ---

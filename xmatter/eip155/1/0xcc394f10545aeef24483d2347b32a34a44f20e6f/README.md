@@ -8,7 +8,7 @@ name: Vault Guardian Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#135bec"
+color: "#1858e8"
 icons:
   - icon.png
 ---

@@ -8,5 +8,5 @@ symbol: CCC
 decimals: 8
 icons:
   - icon.png
-color: "#201d3b"
+color: "#181838"
 ---

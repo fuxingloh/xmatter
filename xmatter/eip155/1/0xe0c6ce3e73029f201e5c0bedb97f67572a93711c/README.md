@@ -8,7 +8,7 @@ name: ETHplode
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c4cef5"
+color: "#1898d8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: TradeKax
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ed1c24"
+color: "#281818"
 icons:
   - icon.png
 ---

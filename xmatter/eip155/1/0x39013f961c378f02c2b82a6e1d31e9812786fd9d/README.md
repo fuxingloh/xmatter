@@ -6,7 +6,7 @@ name: Speed Mining Service
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ed7b57"
+color: "#080808"
 icons:
   - icon.png
 ---

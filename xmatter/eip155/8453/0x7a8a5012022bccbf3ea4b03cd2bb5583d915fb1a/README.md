@@ -16,7 +16,7 @@ name: Chuck
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f7ca7e"
+color: "#f8d878"
 icons:
   - icon.png
 ---

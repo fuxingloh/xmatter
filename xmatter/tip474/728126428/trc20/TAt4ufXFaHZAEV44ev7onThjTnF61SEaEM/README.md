@@ -10,7 +10,7 @@ name: Tron Bull
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#fa050c"
+color: "#f80808"
 icons:
   - icon.png
 ---

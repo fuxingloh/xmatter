@@ -11,7 +11,7 @@ name: BNB pegged ChainLink
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#335cd3"
+color: "#2858d8"
 icons:
   - icon.png
 ---

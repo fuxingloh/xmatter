@@ -18,7 +18,7 @@ name: BulleX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#072b48"
+color: "#183858"
 icons:
   - icon.png
 ---

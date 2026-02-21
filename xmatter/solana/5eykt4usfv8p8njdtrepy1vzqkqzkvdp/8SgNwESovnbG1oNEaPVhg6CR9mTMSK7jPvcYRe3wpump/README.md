@@ -12,7 +12,7 @@ name: chaos and disorder
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#443628"
+color: "#382818"
 icons:
   - icon.png
 ---

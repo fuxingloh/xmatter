@@ -10,7 +10,7 @@ name: ETNA Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8be819"
+color: "#080808"
 icons:
   - icon.png
 ---

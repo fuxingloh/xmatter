@@ -6,7 +6,7 @@ name: BOSTOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f2d16c"
+color: "#080808"
 icons:
   - icon.png
 ---

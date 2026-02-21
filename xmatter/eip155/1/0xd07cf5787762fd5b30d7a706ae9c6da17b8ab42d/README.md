@@ -6,7 +6,7 @@ name: ABYDOS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e1c259"
+color: "#080808"
 icons:
   - icon.png
 ---

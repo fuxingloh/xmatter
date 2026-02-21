@@ -8,7 +8,7 @@ name: MOOCHII
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fae1d1"
+color: "#f8e8d8"
 icons:
   - icon.png
 ---

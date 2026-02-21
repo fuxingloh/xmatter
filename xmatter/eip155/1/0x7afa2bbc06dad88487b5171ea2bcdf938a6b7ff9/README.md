@@ -6,7 +6,7 @@ name: TramsToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#54b2c9"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

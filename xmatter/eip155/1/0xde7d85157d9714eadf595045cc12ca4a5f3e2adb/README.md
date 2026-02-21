@@ -8,7 +8,7 @@ name: Standard Tokenization Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#64a4db"
+color: "#486878"
 icons:
   - icon.png
 ---

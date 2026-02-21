@@ -12,7 +12,7 @@ name: real fast
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#d1bfb9"
+color: "#c8b8b8"
 icons:
   - icon.png
 ---

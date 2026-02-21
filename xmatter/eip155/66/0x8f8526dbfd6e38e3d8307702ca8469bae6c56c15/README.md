@@ -10,7 +10,7 @@ symbol: WOKT
 decimals: 18
 icons:
   - icon.png
-color: "#c7c7c7"
+color: "#f8f8f8"
 ---
 
 WOKT is wrapped OKT.

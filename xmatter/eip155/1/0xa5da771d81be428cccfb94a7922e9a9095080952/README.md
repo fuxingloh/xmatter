@@ -6,7 +6,7 @@ name: Satanic
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f96b5c"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

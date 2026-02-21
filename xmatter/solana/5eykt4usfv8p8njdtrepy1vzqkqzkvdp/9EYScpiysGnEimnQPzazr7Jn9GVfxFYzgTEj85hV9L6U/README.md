@@ -10,7 +10,7 @@ name: tooker kurlson
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#3e3642"
+color: "#382848"
 icons:
   - icon.png
 ---

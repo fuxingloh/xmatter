@@ -8,7 +8,7 @@ name: SafeMeme
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8f1f5"
+color: "#0858b8"
 icons:
   - icon.png
 ---

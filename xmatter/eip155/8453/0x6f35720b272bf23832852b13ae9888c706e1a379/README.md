@@ -12,7 +12,7 @@ name: BASED APU
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#608357"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

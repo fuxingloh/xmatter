@@ -12,7 +12,7 @@ name: Joe Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#977a2a"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

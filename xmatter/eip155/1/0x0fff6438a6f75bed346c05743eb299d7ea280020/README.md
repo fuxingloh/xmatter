@@ -6,7 +6,7 @@ name: bomb.finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#060506"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: SafePanda
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8bf4dc"
+color: "#080808"
 icons:
   - icon.png
 ---

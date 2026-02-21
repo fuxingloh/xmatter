@@ -6,7 +6,7 @@ name: POS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#ec7c04"
+color: "#080808"
 icons:
   - icon.png
 ---

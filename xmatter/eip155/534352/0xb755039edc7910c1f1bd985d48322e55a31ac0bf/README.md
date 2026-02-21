@@ -18,7 +18,7 @@ symbol: CRV
 decimals: 18
 icons:
   - icon.png
-color: "#24ccd6"
+color: "#f8f8f8"
 ---
 
 CRV is a governance token on the Curve platform with time-weighted voting and value accrual mechanisms.

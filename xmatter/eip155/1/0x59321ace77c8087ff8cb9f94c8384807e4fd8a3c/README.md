@@ -8,7 +8,7 @@ name: Xeniumx
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d4d5d6"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

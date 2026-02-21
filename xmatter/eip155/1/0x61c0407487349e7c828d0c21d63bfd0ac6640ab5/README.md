@@ -6,7 +6,7 @@ name: Zebras Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d6d5d5"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

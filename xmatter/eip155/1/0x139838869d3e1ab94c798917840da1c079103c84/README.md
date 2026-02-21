@@ -8,7 +8,7 @@ name: Binantex
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0d1443"
+color: "#081848"
 icons:
   - icon.png
 ---

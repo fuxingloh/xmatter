@@ -8,7 +8,7 @@ name: App Alliance Association
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d8d5d5"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

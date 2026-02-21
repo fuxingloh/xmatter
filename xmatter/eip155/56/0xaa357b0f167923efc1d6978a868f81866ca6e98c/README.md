@@ -20,7 +20,7 @@ name: ShibX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d0b9df"
+color: "#080808"
 icons:
   - icon.png
 ---

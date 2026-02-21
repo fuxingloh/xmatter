@@ -6,7 +6,7 @@ name: Sakuya Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#05223c"
+color: "#080808"
 icons:
   - icon.png
 ---

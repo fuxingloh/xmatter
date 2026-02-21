@@ -8,7 +8,7 @@ name: Humanscape
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2cbdf8"
+color: "#486878"
 icons:
   - icon.png
 ---

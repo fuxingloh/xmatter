@@ -8,7 +8,7 @@ name: Ethereum Gold Project
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#322707"
+color: "#080808"
 icons:
   - icon.png
 ---

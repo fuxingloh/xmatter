@@ -16,7 +16,7 @@ symbol: HBTC
 decimals: 18
 icons:
   - icon.png
-color: "#d2dcec"
+color: "#f8f8f8"
 ---
 
 BTC is a peer-to-peer digital system, users can transact directly without an intermediary. Transactions are verified by network nodes and recorded in a public distributed ledger called the blockchain.

@@ -6,7 +6,7 @@ name: ZeePin Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3c4cb9"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

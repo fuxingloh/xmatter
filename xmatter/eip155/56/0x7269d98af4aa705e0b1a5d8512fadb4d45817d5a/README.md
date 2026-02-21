@@ -16,7 +16,7 @@ name: Shirtum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#05e339"
+color: "#08e838"
 icons:
   - icon.png
 ---

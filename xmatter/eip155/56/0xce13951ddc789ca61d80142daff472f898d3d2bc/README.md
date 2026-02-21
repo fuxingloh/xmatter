@@ -12,7 +12,7 @@ name: BSCNews
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#40b9ce"
+color: "#083868"
 icons:
   - icon.png
 ---

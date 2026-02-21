@@ -16,7 +16,7 @@ name: Ondo U.S. Dollar Yield
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#042c64"
+color: "#082868"
 icons:
   - icon.png
 ---

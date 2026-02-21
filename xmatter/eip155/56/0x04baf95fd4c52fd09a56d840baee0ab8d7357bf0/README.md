@@ -8,7 +8,7 @@ name: ONE Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#43148c"
+color: "#481888"
 icons:
   - icon.png
 ---

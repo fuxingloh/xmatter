@@ -8,7 +8,7 @@ name: CEEZEE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d5d5d1"
+color: "#d8d8d8"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ name: AppLovin (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cdedfc"
+color: "#08a8f8"
 icons:
   - icon.png
 ---

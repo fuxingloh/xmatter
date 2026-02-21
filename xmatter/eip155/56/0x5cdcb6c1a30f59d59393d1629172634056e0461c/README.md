@@ -8,7 +8,7 @@ name: Foliowatch
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#282967"
+color: "#080808"
 icons:
   - icon.png
 ---

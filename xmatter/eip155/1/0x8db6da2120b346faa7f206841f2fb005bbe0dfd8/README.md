@@ -6,7 +6,7 @@ name: Paul Razvan Berg
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b8a69a"
+color: "#080808"
 icons:
   - icon.png
 ---

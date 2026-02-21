@@ -10,7 +10,7 @@ standards:
   - erc20
 icons:
   - icon.png
-color: "#e1302a"
+color: "#e82828"
 ---
 
 The First DEX on BSC that offers dividends in BUSD, rewards and distribution of fees directly to holders. Enjoy the highest APRsnce.

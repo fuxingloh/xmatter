@@ -6,7 +6,7 @@ name: Rethen Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c4c5c5"
+color: "#080808"
 icons:
   - icon.png
 ---

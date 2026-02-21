@@ -8,7 +8,7 @@ name: 智投链
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eccb23"
+color: "#e8c818"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: PORNROCKET
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f5942f"
+color: "#f8a818"
 icons:
   - icon.png
 ---

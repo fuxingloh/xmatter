@@ -16,7 +16,7 @@ name: Shintama
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#16a2f1"
+color: "#0898f8"
 icons:
   - icon.png
 ---

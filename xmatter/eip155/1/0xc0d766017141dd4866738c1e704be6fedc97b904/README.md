@@ -6,7 +6,7 @@ name: Tree Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0fba8a"
+color: "#080808"
 icons:
   - icon.png
 ---

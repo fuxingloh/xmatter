@@ -12,7 +12,7 @@ name: Molecule
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#286c9d"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: OleCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fbeb2b"
+color: "#f8e828"
 icons:
   - icon.png
 ---

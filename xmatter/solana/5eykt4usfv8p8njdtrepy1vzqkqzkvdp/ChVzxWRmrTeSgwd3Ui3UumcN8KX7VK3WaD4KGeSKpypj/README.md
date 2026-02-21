@@ -10,7 +10,7 @@ name: SushiToken (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#cd69ad"
+color: "#080808"
 icons:
   - icon.png
 ---

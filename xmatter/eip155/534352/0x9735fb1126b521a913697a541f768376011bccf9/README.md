@@ -24,7 +24,7 @@ symbol: CHESS
 decimals: 18
 icons:
   - icon.png
-color: "#040404"
+color: "#f8f8f8"
 ---
 
 Tranchess Protocol is a tokenized asset management and derivatives trading protocol. Inspired by tranches fund that caters investors with different risk appetite, Tranchess aims to provide different risk/return matrix out of a single main fund that tracks a specific underlying asset.

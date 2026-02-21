@@ -10,7 +10,7 @@ name: ansom
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#3b2922"
+color: "#f8a828"
 icons:
   - icon.png
 ---

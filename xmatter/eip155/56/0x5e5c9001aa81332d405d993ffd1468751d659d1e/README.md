@@ -18,7 +18,7 @@ name: Baby Doge Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dda177"
+color: "#080808"
 icons:
   - icon.png
 ---

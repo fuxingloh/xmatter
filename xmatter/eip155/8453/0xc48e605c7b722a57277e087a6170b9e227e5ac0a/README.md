@@ -10,7 +10,7 @@ name: OmniCat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#050535"
+color: "#080838"
 icons:
   - icon.png
 ---

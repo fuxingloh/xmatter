@@ -8,7 +8,7 @@ name: Cashcow Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eca573"
+color: "#281848"
 icons:
   - icon.png
 ---

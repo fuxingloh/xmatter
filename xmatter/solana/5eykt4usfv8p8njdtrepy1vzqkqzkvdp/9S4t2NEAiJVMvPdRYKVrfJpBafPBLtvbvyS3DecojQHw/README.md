@@ -8,7 +8,7 @@ name: Wrapped FRONT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#3f2a27"
+color: "#382828"
 icons:
   - icon.png
 ---

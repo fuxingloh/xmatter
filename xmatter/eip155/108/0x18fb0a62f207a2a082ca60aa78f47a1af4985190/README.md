@@ -14,7 +14,7 @@ symbol: TT-WBTC
 decimals: 8
 icons:
   - icon.png
-color: "#282138"
+color: "#080808"
 ---
 
 Bridged token of WBTC on ThunderCore blockchain. The Bridge allows users to convert assets between Ethereum, BSC, HECO and ThunderCore. This is a customized version of POA network Bridge

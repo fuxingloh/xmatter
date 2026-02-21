@@ -6,7 +6,7 @@ name: POSH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f60e1e"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ name: ALPHAKOMBAT TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d5d5d4"
+color: "#181818"
 icons:
   - icon.png
 ---

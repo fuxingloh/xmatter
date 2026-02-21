@@ -6,7 +6,7 @@ name: YouDeal Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1c74fc"
+color: "#1878f8"
 icons:
   - icon.png
 ---

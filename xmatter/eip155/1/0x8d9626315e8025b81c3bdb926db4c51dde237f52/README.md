@@ -6,7 +6,7 @@ name: PLAAS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#efb83b"
+color: "#080808"
 icons:
   - icon.png
 ---

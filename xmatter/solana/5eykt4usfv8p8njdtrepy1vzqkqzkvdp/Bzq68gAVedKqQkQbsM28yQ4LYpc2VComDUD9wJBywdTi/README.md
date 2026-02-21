@@ -10,7 +10,7 @@ name: Interest Bearing Bitcoin (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#fba306"
+color: "#f8a808"
 icons:
   - icon.png
 ---

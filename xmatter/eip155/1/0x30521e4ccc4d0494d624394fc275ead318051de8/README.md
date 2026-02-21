@@ -6,7 +6,7 @@ name: RealDAS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c8e2ca"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

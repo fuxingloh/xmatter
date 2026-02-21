@@ -8,7 +8,7 @@ name: Extend Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cab89d"
+color: "#080808"
 icons:
   - icon.png
 ---

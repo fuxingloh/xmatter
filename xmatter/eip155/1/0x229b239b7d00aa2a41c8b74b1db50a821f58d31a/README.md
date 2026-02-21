@@ -6,7 +6,7 @@ name: FRUITS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ec6c04"
+color: "#e86808"
 icons:
   - icon.png
 ---

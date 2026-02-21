@@ -8,7 +8,7 @@ name: SafeNFT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#241564"
+color: "#281868"
 icons:
   - icon.png
 ---

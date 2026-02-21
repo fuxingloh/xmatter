@@ -26,7 +26,7 @@ name: $MLNX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#047c72"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

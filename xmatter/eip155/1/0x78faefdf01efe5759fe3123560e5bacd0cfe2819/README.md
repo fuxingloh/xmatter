@@ -6,7 +6,7 @@ name: ElectroLite Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc964b"
+color: "#080808"
 icons:
   - icon.png
 ---

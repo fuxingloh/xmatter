@@ -8,7 +8,7 @@ name: ullu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#40b688"
+color: "#48b888"
 icons:
   - icon.png
 ---

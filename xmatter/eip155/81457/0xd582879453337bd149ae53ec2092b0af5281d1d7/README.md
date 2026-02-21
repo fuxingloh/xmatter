@@ -14,7 +14,7 @@ symbol: GLORY
 decimals: 18
 icons:
   - icon.png
-color: "#333934"
+color: "#181818"
 ---
 
 SEKAI GLORY is an anime trading card game on mobile - built on Blast.

@@ -8,7 +8,7 @@ name: YMEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f31d55"
+color: "#f81858"
 icons:
   - icon.png
 ---

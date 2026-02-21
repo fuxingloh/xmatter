@@ -23,7 +23,7 @@ name: Crusaders Of Crypto
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3f1927"
+color: "#080808"
 icons:
   - icon.png
 ---

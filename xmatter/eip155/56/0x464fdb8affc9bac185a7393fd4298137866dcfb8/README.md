@@ -14,7 +14,7 @@ name: REALM Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#173452"
+color: "#082848"
 icons:
   - icon.png
 ---

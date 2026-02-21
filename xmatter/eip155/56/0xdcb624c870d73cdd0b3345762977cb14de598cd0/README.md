@@ -8,7 +8,7 @@ name: YFIH2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#048b2a"
+color: "#088828"
 icons:
   - icon.png
 ---

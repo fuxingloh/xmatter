@@ -6,7 +6,7 @@ name: BLANK
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#042c54"
+color: "#082858"
 icons:
   - icon.png
 ---

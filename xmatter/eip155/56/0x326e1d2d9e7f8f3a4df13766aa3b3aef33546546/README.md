@@ -8,7 +8,7 @@ name: Grandpa Doge
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8eb6ec"
+color: "#98c8f8"
 icons:
   - icon.png
 ---

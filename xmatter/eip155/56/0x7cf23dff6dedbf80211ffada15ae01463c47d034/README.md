@@ -8,7 +8,7 @@ name: legion For Justice
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080e09"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Mumu the Bull
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#ca651b"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

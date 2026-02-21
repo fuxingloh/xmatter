@@ -8,7 +8,7 @@ name: Cappasity
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e23189"
+color: "#080808"
 icons:
   - icon.png
 ---

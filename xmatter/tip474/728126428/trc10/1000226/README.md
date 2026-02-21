@@ -8,7 +8,7 @@ name: TRONEuropeRewardCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#0a0a0a"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

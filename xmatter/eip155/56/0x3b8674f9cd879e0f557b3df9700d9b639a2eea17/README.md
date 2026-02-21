@@ -8,7 +8,7 @@ name: Erth Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7bc1ab"
+color: "#486848"
 icons:
   - icon.png
 ---

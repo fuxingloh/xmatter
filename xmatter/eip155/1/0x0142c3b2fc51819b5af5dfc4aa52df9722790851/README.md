@@ -8,7 +8,7 @@ name: Paycentos Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fbc52c"
+color: "#080808"
 icons:
   - icon.png
 ---

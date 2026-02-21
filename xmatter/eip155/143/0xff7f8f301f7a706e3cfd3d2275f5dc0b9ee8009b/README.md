@@ -16,7 +16,7 @@ symbol: FOLKS
 decimals: 6
 icons:
   - icon.png
-color: "#346cbc"
+color: "#3868b8"
 ---
 
 Folks Finance is a crosschain decentralized finance (DeFi) protocol that enables users to supply, borrow, and manage digital assets across multiple blockchains from a single platform.

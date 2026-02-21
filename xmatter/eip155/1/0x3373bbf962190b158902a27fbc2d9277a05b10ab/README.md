@@ -6,7 +6,7 @@ name: EGOLD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e3be2e"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Wrapped TON Crystal
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1f1f1f"
+color: "#080808"
 icons:
   - icon.png
 ---

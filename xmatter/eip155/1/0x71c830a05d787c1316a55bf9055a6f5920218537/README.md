@@ -6,7 +6,7 @@ name: Best US Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d0a154"
+color: "#080808"
 icons:
   - icon.png
 ---

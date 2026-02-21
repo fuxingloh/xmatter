@@ -8,7 +8,7 @@ name: Bitcoin Fast
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e56314"
+color: "#f86818"
 icons:
   - icon.png
 ---

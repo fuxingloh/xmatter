@@ -20,7 +20,7 @@ name: VLaunch
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#05071e"
+color: "#68f8d8"
 icons:
   - icon.png
 ---

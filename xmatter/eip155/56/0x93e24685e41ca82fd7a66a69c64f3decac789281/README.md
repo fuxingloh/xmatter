@@ -8,7 +8,7 @@ name: Cheecoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f2bf46"
+color: "#080808"
 icons:
   - icon.png
 ---

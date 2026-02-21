@@ -6,7 +6,7 @@ name: iearn USDT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c5c5c5"
+color: "#f8f8f8"
 icons:
   - icon.svg
   - icon.png

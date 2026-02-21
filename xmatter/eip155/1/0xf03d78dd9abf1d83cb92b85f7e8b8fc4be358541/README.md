@@ -6,7 +6,7 @@ name: Thaler Group Company
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#354c9e"
+color: "#080808"
 icons:
   - icon.png
 ---

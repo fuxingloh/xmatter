@@ -6,7 +6,7 @@ name: BetEncore
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f47343"
+color: "#182848"
 icons:
   - icon.png
 ---

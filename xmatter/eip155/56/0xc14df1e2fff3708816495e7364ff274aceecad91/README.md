@@ -8,7 +8,7 @@ name: N1CE Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dde9ec"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

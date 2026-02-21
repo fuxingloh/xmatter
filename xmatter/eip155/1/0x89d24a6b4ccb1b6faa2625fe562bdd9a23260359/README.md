@@ -8,7 +8,7 @@ name: Single Collateral DAI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fccb23"
+color: "#f8c828"
 icons:
   - icon.png
 ---

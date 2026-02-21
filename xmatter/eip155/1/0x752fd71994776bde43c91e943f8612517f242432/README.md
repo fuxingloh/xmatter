@@ -6,7 +6,7 @@ name: BDAM Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dd9031"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

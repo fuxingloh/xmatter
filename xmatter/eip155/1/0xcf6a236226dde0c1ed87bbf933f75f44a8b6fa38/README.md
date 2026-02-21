@@ -6,7 +6,7 @@ name: Unity
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#090c1e"
+color: "#080818"
 icons:
   - icon.png
 ---

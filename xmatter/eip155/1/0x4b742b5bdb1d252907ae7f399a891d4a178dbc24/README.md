@@ -8,7 +8,7 @@ name: B One Payment
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04243c"
+color: "#082838"
 icons:
   - icon.png
 ---

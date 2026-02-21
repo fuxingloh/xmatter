@@ -8,7 +8,7 @@ name: IDEX Membership
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#004868"
+color: "#084868"
 icons:
   - icon.png
 ---

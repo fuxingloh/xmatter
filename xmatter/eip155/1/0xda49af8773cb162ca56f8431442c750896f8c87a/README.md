@@ -30,7 +30,7 @@ name: DynBTC DynaSet
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0a0a0a"
+color: "#080808"
 icons:
   - icon.png
 ---

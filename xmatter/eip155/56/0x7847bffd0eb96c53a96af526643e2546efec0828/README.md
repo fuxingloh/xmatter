@@ -20,7 +20,7 @@ name: JETMAX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b5cad9"
+color: "#c8d8e8"
 icons:
   - icon.png
 ---

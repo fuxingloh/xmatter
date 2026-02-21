@@ -10,7 +10,7 @@ name: AllWin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ffe500"
+color: "#080808"
 icons:
   - icon.png
 ---

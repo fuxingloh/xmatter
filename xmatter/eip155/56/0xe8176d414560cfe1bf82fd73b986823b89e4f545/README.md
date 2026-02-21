@@ -16,7 +16,7 @@ name: Step Hero
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c8c4ba"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

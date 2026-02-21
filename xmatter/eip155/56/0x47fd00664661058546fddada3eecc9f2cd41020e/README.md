@@ -12,7 +12,7 @@ name: MINIKISHU
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b8cee3"
+color: "#98b8e8"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ name: Decentralized USDOLD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#246c5c"
+color: "#286858"
 icons:
   - icon.png
 ---

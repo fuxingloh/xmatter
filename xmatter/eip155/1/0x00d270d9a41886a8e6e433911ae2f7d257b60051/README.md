@@ -6,7 +6,7 @@ name: BUZZ
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8047a"
+color: "#181818"
 icons:
   - icon.png
 ---

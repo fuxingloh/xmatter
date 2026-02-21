@@ -6,7 +6,7 @@ name: 365 Stream Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1f1f37"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

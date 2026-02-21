@@ -6,7 +6,7 @@ name: AssChat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#fad7c5"
+color: "#080808"
 icons:
   - icon.png
 ---

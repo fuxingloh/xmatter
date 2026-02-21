@@ -6,7 +6,7 @@ name: DSD Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cfd3d9"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: Based Shiba Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#40b4ef"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

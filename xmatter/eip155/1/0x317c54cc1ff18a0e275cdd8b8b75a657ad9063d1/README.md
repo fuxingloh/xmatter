@@ -6,7 +6,7 @@ name: aibi token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1a4b6d"
+color: "#080808"
 icons:
   - icon.png
 ---

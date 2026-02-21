@@ -17,7 +17,7 @@ name: SHIELD FINANCE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#061a4f"
+color: "#080848"
 icons:
   - icon.png
 ---

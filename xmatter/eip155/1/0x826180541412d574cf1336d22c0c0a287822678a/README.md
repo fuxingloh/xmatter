@@ -12,7 +12,7 @@ name: Chainflip
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#131918"
+color: "#081808"
 icons:
   - icon.png
 ---

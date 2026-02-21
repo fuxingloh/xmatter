@@ -20,7 +20,7 @@ name: Carbon Coin - CNES
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#24b374"
+color: "#080808"
 icons:
   - icon.png
 ---

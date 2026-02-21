@@ -24,7 +24,7 @@ standards:
   - erc20
 icons:
   - icon.png
-color: "#042b53"
+color: "#082858"
 ---
 
 WATER RABBIT is a Decentralized Meme Deflationary Asset Driven Fully By The Community Of Shanvere DAO.

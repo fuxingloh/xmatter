@@ -13,7 +13,7 @@ symbol: BRK.Bx
 decimals: 18
 icons:
   - icon.png
-color: "#29318b"
+color: "#283898"
 ---
 
 Berkshire Hathaway xStock

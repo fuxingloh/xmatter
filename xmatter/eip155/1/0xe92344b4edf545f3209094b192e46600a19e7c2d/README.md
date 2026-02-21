@@ -12,7 +12,7 @@ name: zKML
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#042b33"
+color: "#081818"
 icons:
   - icon.png
 ---

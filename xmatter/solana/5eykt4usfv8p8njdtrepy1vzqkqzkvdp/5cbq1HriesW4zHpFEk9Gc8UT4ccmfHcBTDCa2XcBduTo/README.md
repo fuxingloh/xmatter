@@ -12,7 +12,7 @@ name: Elixir Games
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#facbe2"
+color: "#181818"
 icons:
   - icon.png
 ---

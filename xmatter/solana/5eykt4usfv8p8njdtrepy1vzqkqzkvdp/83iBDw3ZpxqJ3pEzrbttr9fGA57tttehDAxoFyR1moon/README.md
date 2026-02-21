@@ -12,7 +12,7 @@ name: SaMEMDEX100ros
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#e6ecec"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

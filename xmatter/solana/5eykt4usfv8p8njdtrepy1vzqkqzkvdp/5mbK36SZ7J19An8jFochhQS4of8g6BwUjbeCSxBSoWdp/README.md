@@ -12,7 +12,7 @@ name: michi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#9e8164"
+color: "#c89878"
 icons:
   - icon.png
 ---

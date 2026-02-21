@@ -6,7 +6,7 @@ name: Super Mario Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fce813"
+color: "#080808"
 icons:
   - icon.png
 ---

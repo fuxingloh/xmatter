@@ -16,7 +16,7 @@ name: WOMAN YELLING AT CAT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#2e1e17"
+color: "#080808"
 icons:
   - icon.png
 ---

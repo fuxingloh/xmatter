@@ -6,7 +6,7 @@ name: EIC token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#93ccfa"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

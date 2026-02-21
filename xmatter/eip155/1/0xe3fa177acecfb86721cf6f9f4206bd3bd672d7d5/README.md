@@ -6,7 +6,7 @@ name: ChainTrade Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#233239"
+color: "#283838"
 icons:
   - icon.png
 ---

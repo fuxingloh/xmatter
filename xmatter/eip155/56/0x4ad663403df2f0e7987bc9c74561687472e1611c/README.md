@@ -10,7 +10,7 @@ name: Frodo the virtual samurai
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4c994c"
+color: "#58a858"
 icons:
   - icon.png
 ---

@@ -8,5 +8,5 @@ symbol: BPOWR
 decimals: 18
 icons:
   - icon.png
-color: "#d8a407"
+color: "#080808"
 ---

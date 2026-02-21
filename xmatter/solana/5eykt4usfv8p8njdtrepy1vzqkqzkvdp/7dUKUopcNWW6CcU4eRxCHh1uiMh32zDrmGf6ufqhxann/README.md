@@ -16,7 +16,7 @@ name: Baby Doge Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#fae974"
+color: "#f8e878"
 icons:
   - icon.png
 ---

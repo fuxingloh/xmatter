@@ -8,7 +8,7 @@ name: Slonigiraf Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#046cb4"
+color: "#0868b8"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ name: Open Ecosystem Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f4e9f8"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

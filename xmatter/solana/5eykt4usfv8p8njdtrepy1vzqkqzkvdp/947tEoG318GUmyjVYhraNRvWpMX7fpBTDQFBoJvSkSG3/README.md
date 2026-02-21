@@ -10,7 +10,7 @@ name: Solchat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#25272b"
+color: "#7898d8"
 icons:
   - icon.png
 ---

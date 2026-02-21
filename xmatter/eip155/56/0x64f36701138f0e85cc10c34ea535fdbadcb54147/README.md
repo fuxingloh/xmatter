@@ -14,7 +14,7 @@ name: ANON INU
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ddd7d8"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

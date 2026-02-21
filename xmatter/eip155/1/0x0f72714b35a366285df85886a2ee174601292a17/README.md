@@ -8,7 +8,7 @@ name: 1SG
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f2576b"
+color: "#080808"
 icons:
   - icon.png
 ---

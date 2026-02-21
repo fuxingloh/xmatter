@@ -12,7 +12,7 @@ symbol: FTT
 decimals: 18
 icons:
   - icon.png
-color: "#6ed2e1"
+color: "#082878"
 ---
 
 Cryptocurrency Derivatives Exchange

@@ -6,7 +6,7 @@ name: CouponOne
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dab818"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

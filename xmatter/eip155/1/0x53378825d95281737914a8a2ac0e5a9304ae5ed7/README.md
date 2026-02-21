@@ -8,7 +8,7 @@ name: Samurai Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e1242b"
+color: "#080808"
 icons:
   - icon.png
 ---

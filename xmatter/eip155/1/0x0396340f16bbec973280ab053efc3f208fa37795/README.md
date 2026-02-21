@@ -6,7 +6,7 @@ name: BigONE Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6a63a1"
+color: "#685898"
 icons:
   - icon.png
 ---

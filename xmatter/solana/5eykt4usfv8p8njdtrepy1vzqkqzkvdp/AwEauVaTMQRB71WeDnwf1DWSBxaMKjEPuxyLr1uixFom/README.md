@@ -10,7 +10,7 @@ name: Compound (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#050c0e"
+color: "#080808"
 icons:
   - icon.png
 ---

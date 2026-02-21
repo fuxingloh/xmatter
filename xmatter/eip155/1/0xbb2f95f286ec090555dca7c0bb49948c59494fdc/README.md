@@ -6,7 +6,7 @@ name: Rupiah Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#faba13"
+color: "#f8b818"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Solana Swap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#050507"
+color: "#080808"
 icons:
   - icon.png
 ---

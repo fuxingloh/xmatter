@@ -8,7 +8,7 @@ name: INMAX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4dc38d"
+color: "#080808"
 icons:
   - icon.png
 ---

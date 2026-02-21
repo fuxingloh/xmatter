@@ -14,7 +14,7 @@ name: Alibaba (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fce4cc"
+color: "#f86808"
 icons:
   - icon.png
 ---

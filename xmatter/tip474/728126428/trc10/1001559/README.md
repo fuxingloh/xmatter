@@ -6,7 +6,7 @@ name: TronID
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#b3b3b3"
+color: "#080808"
 icons:
   - icon.png
 ---

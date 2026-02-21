@@ -8,7 +8,7 @@ name: Accelerator
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eff9f8"
+color: "#08a8f8"
 icons:
   - icon.png
 ---

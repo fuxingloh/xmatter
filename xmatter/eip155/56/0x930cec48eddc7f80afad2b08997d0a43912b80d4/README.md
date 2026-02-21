@@ -12,7 +12,7 @@ name: The Spartans
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3e0605"
+color: "#280808"
 icons:
   - icon.png
 ---

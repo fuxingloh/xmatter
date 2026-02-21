@@ -12,7 +12,7 @@ name: MAGA (Wormhole)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#e7c5ae"
+color: "#081838"
 icons:
   - icon.png
 ---

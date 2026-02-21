@@ -10,7 +10,7 @@ name: TYBENG
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#06215b"
+color: "#080808"
 icons:
   - icon.svg
   - icon.png

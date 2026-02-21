@@ -16,7 +16,7 @@ symbol: FABBC
 decimals: 8
 icons:
   - icon.png
-color: "#f99c07"
+color: "#f89808"
 ---
 
 ABBC Swap is a platform that allows users to seamlessly swap their ABBC from the ABBC mainnet using Aladdin Wallet and Aladdin Pro wallet apps into Polygon ABBC pegged.

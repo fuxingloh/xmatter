@@ -8,7 +8,7 @@ name: LIMON GROUP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#9ad949"
+color: "#88c838"
 icons:
   - icon.png
 ---

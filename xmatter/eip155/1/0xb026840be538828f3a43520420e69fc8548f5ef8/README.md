@@ -6,7 +6,7 @@ name: FoodSafetyChain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#14c2f9"
+color: "#080808"
 icons:
   - icon.png
 ---

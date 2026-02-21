@@ -16,7 +16,7 @@ name: SwissBorg Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#e8f8f6"
+color: "#18a888"
 icons:
   - icon.png
 ---

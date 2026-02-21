@@ -8,7 +8,7 @@ name: Safe Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fbdc34"
+color: "#48c898"
 icons:
   - icon.png
 ---

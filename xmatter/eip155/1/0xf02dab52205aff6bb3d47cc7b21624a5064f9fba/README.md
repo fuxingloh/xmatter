@@ -8,7 +8,7 @@ name: Pyrrhos Gold
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f7941e"
+color: "#f89818"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: End Wokeness
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#e66a51"
+color: "#181848"
 icons:
   - icon.png
 ---

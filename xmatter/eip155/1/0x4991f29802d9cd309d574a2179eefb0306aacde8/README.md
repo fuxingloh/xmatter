@@ -6,7 +6,7 @@ name: AFM 2018
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#612843"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

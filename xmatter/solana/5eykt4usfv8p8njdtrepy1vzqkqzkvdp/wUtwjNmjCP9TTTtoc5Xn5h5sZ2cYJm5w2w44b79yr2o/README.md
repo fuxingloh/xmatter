@@ -12,7 +12,7 @@ name: ai16zeliza
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#373438"
+color: "#181828"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Aigang
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#9946c9"
+color: "#080808"
 icons:
   - icon.png
 ---

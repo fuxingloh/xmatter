@@ -16,7 +16,7 @@ name: ARPA Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cad0d6"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

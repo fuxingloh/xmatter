@@ -6,7 +6,7 @@ name: LookRev
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d6865c"
+color: "#080808"
 icons:
   - icon.png
 ---

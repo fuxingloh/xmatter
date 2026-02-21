@@ -10,7 +10,7 @@ name: Convex Finance (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#daa69f"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

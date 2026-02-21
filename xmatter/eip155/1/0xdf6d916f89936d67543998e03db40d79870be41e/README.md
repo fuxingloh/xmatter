@@ -6,7 +6,7 @@ name: Cryptocurrency 50 Index
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1444a4"
+color: "#1848a8"
 icons:
   - icon.png
 ---

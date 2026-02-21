@@ -14,7 +14,7 @@ symbol: sUSDai
 decimals: 18
 icons:
   - icon.png
-color: "#ab9383"
+color: "#a89888"
 ---
 
 sUSDai is the yield-bearing token backed by income-generating Compute or other infrastructure assets. These assets are inherently less liquid than stablecoins, so holders accrue yield for the added risk and are also subject to redemption periods.

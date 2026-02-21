@@ -8,7 +8,7 @@ name: GSENetwork
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0c94fb"
+color: "#0898f8"
 icons:
   - icon.png
 ---

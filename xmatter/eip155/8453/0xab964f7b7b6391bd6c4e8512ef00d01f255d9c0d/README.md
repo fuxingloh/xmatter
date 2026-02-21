@@ -15,7 +15,7 @@ name: Prefrontal Cortex Convo Agent by Virtuals
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e6f0df"
+color: "#e8f8d8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: TemboCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ceae2d"
+color: "#484848"
 icons:
   - icon.png
 ---

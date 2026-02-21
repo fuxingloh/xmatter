@@ -8,7 +8,7 @@ name: MOONBOYS FINANCE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#17182d"
+color: "#180818"
 icons:
   - icon.png
 ---

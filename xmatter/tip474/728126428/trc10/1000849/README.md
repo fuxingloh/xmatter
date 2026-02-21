@@ -6,7 +6,7 @@ name: DealWithIt
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#e0a321"
+color: "#080808"
 icons:
   - icon.png
 ---

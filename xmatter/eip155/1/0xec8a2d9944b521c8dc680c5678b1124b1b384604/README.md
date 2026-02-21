@@ -6,7 +6,7 @@ name: IDIA Alliance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0e366d"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

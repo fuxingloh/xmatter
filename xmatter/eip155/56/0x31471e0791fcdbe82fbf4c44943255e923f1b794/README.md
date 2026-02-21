@@ -12,7 +12,7 @@ name: Plant vs Undead Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#98d840"
+color: "#98d848"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: SWAPCOINZ
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cacaca"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

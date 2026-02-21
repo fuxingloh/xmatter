@@ -6,7 +6,7 @@ name: Free Fair Chain Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#db9c27"
+color: "#080808"
 icons:
   - icon.png
 ---

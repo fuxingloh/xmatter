@@ -8,7 +8,7 @@ name: RabbitsMoon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dcc4b7"
+color: "#080808"
 icons:
   - icon.png
 ---

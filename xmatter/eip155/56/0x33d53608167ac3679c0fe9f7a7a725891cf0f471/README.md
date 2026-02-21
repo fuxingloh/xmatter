@@ -8,7 +8,7 @@ name: Onegetcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b88b3a"
+color: "#080808"
 icons:
   - icon.png
 ---

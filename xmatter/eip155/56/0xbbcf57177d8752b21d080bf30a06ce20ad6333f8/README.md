@@ -16,7 +16,7 @@ name: Zamzam
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#21becc"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

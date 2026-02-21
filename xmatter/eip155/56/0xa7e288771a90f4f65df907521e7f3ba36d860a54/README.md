@@ -25,7 +25,7 @@ name: BTC GAME
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c5aa61"
+color: "#080808"
 icons:
   - icon.png
 ---

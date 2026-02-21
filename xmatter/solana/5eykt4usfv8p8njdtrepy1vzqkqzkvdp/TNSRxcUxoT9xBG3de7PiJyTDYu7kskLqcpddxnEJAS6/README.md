@@ -12,7 +12,7 @@ name: Tensor
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#bfbfbf"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: CoinOil
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eb232d"
+color: "#080808"
 icons:
   - icon.png
 ---

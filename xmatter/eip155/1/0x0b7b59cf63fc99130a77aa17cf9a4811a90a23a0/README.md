@@ -6,7 +6,7 @@ name: Grenade Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#202f2e"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ name: VANCAT Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c08e05"
+color: "#080808"
 icons:
   - icon.png
 ---

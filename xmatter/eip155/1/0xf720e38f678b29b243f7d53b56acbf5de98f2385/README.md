@@ -8,7 +8,7 @@ name: Upfire
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#06cdec"
+color: "#0868b8"
 icons:
   - icon.png
 ---

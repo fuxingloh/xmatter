@@ -20,7 +20,7 @@ symbol: MUBI
 decimals: 18
 icons:
   - icon.png
-color: "#44d6b2"
+color: "#080808"
 ---
 
 MultiBit is the first-ever dual-sided bridge designed for easy cross-network transfers between BRC20 and ERC20 tokens.

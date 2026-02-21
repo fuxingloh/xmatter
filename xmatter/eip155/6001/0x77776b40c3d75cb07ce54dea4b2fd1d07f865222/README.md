@@ -13,7 +13,7 @@ symbol: BBUSD
 decimals: 18
 icons:
   - icon.png
-color: "#8f7961"
+color: "#887858"
 ---
 
 Stablecoins from various EVM-compatible Chains can be bridged into the BounceBit ecosystem. Most notably, FDUSD on Binance Smart Chain (BEP20) and USDT on Ethereum are supported. BounceBit aims to support all sound stablecoins.

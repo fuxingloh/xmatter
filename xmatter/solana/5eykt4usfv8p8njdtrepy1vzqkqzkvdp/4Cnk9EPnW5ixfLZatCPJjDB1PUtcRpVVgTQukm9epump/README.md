@@ -12,7 +12,7 @@ name: DADDY TATE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#1c1412"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Trendercoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f7e2ec"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

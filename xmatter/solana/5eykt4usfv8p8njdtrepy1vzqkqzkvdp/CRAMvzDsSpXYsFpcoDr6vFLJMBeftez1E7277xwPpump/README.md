@@ -12,7 +12,7 @@ name: PEPECAT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#07f21e"
+color: "#08f818"
 icons:
   - icon.png
 ---

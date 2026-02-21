@@ -13,7 +13,7 @@ symbol: JPMx
 decimals: 18
 icons:
   - icon.png
-color: "#6d4022"
+color: "#783828"
 ---
 
 JPMorgan Chase xStock

@@ -6,7 +6,7 @@ name: NiMA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#965f8d"
+color: "#985888"
 icons:
   - icon.png
 ---

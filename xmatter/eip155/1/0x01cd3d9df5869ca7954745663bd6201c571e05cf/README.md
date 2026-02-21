@@ -6,7 +6,7 @@ name: LULU Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#774d8e"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -20,7 +20,7 @@ name: BitcoMine
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#040c44"
+color: "#080848"
 icons:
   - icon.png
 ---

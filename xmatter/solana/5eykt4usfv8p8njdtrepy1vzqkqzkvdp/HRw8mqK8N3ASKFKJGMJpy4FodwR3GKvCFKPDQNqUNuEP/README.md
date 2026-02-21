@@ -12,7 +12,7 @@ name: TrumpCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#957870"
+color: "#a88878"
 icons:
   - icon.png
 ---

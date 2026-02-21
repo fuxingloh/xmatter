@@ -14,7 +14,7 @@ name: Wrapped Binance Beacon ETH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e7bb1f"
+color: "#e8b818"
 icons:
   - icon.svg
   - icon.png

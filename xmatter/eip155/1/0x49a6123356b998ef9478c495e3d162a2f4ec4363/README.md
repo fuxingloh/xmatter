@@ -6,7 +6,7 @@ name: HOLDPLATFORM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3829a4"
+color: "#3828a8"
 icons:
   - icon.png
 ---

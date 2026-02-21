@@ -19,7 +19,7 @@ decimals: 18
 icons:
   - icon.svg
   - icon.png
-color: "#2c5cdc"
+color: "#f8f8f8"
 ---
 
 A blockchain-based middleware, acting as a bridge between cryptocurrency smart contracts, data feeds, APIs and traditional bank account payments.

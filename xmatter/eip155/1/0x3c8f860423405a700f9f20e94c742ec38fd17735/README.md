@@ -6,7 +6,7 @@ name: Oats
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d0575a"
+color: "#181818"
 icons:
   - icon.png
 ---

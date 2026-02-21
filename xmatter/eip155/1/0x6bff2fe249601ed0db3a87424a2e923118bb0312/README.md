@@ -8,7 +8,7 @@ name: Fyooz
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1b1b24"
+color: "#181828"
 icons:
   - icon.png
 ---

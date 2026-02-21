@@ -12,7 +12,7 @@ name: Skibidi Dop Dop
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#85745b"
+color: "#c8b898"
 icons:
   - icon.png
 ---

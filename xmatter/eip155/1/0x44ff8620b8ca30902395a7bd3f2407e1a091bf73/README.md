@@ -12,7 +12,7 @@ name: Virtual Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dbf8e5"
+color: "#d8f8e8"
 icons:
   - icon.png
 ---

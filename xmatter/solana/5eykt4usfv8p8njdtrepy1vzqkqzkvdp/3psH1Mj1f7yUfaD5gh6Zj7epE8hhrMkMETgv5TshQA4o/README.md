@@ -14,7 +14,7 @@ symbol: boden
 decimals: 9
 icons:
   - icon.png
-color: "#edcfc2"
+color: "#f8f8f8"
 ---
 
 Joe Boden is da hartfelt leeder of Amuriku. His mishun is to bild bak betta, to unify da divided, n to counter da wild claims of Doland Tremp.

@@ -8,7 +8,7 @@ name: OnTime
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04eafa"
+color: "#080808"
 icons:
   - icon.png
 ---

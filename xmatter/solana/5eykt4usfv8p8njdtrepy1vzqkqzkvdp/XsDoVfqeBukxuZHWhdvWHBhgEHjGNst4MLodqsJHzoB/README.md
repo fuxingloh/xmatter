@@ -14,7 +14,7 @@ name: Tesla tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#ec0424"
+color: "#e80828"
 icons:
   - icon.png
 ---
