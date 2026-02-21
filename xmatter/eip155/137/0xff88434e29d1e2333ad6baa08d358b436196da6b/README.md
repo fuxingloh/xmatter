@@ -7,5 +7,5 @@ symbol: BOR
 decimals: 18
 icons:
   - icon.png
-color: "#046edf"
+color: "#0868d8"
 ---

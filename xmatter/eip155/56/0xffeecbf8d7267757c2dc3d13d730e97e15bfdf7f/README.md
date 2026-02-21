@@ -7,5 +7,5 @@ symbol: BORING
 decimals: 18
 icons:
   - icon.png
-color: "#0473e4"
+color: "#0878e8"
 ---

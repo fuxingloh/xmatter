@@ -7,5 +7,5 @@ symbol: PTT
 decimals: 18
 icons:
   - icon.png
-color: "#2ca4ba"
+color: "#f8f8f8"
 ---

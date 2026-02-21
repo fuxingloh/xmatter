@@ -7,5 +7,5 @@ symbol: FREE
 decimals: 18
 icons:
   - icon.png
-color: "#f4c63d"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: BOND
 decimals: 18
 icons:
   - icon.png
-color: "#fc443c"
+color: "#f84838"
 ---

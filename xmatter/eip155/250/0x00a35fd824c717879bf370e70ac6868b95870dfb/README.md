@@ -7,5 +7,5 @@ symbol: IB
 decimals: 18
 icons:
   - icon.png
-color: "#222322"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: DIAMOND
 decimals: 18
 icons:
   - icon.png
-color: "#ebf2a0"
+color: "#f8f898"
 ---

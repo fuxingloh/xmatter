@@ -7,5 +7,5 @@ symbol: TRIVIA
 decimals: 3
 icons:
   - icon.png
-color: "#eae092"
+color: "#080808"
 ---

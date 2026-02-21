@@ -7,5 +7,5 @@ symbol: XGEM
 decimals: 18
 icons:
   - icon.png
-color: "#fbf5e5"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: WARP
 decimals: 18
 icons:
   - icon.png
-color: "#1f1f1f"
+color: "#181818"
 ---

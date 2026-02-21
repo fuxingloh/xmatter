@@ -7,5 +7,5 @@ symbol: MGN
 decimals: 18
 icons:
   - icon.jpeg
-color: "#404040"
+color: "#080808"
 ---

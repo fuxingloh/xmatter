@@ -7,5 +7,5 @@ symbol: BXR
 decimals: 18
 icons:
   - icon.png
-color: "#464a3a"
+color: "#c8f808"
 ---

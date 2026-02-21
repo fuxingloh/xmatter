@@ -7,5 +7,5 @@ symbol: WPT
 decimals: 18
 icons:
   - icon.png
-color: "#b3b9c2"
+color: "#f8f8f8"
 ---

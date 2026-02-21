@@ -7,5 +7,5 @@ symbol: AZUKI
 decimals: 18
 icons:
   - icon.png
-color: "#e44484"
+color: "#e84888"
 ---

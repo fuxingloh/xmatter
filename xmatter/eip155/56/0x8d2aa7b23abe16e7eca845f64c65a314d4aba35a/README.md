@@ -7,5 +7,5 @@ symbol: USDIBS
 decimals: 18
 icons:
   - icon.png
-color: "#e92829"
+color: "#f80808"
 ---

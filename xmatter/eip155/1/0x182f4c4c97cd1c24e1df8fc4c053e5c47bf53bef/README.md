@@ -7,5 +7,5 @@ symbol: TANGO
 decimals: 18
 icons:
   - icon.png
-color: "#0b0d0f"
+color: "#f8f8f8"
 ---

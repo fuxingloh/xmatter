@@ -7,5 +7,5 @@ symbol: PSHARE
 decimals: 18
 icons:
   - icon.png
-color: "#e2e2e1"
+color: "#d8e8d8"
 ---

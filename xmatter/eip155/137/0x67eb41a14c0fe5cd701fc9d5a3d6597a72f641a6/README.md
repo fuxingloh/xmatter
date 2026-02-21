@@ -7,5 +7,5 @@ symbol: GDDY
 decimals: 18
 icons:
   - icon.png
-color: "#d3cec7"
+color: "#e8d8d8"
 ---

@@ -7,5 +7,5 @@ symbol: PAD
 decimals: 18
 icons:
   - icon.svg
-color: "#339b1d"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: DG
 decimals: 18
 icons:
   - icon.png
-color: "#056dfc"
+color: "#0868f8"
 ---

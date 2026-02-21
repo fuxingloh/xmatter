@@ -7,5 +7,5 @@ symbol: OMG
 decimals: 18
 icons:
   - icon.png
-color: "#232323"
+color: "#f8f8f8"
 ---

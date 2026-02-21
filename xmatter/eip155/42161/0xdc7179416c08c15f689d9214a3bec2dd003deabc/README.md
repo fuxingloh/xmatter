@@ -7,5 +7,5 @@ symbol: KSW
 decimals: 18
 icons:
   - icon.png
-color: "#1b134e"
+color: "#181848"
 ---

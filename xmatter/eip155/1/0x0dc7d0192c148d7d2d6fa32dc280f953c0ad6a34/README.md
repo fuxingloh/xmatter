@@ -7,5 +7,5 @@ symbol: METACAT
 decimals: 18
 icons:
   - icon.png
-color: "#cec8c8"
+color: "#d8d8d8"
 ---

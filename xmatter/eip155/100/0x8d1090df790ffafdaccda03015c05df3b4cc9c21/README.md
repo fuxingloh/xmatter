@@ -7,5 +7,5 @@ symbol: REALT-S-15753-HARTW
 decimals: 18
 icons:
   - icon.jpeg
-color: "#6e6c5d"
+color: "#f8f8f8"
 ---

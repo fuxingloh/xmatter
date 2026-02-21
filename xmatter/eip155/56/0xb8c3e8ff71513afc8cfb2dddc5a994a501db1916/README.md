@@ -7,5 +7,5 @@ symbol: YON
 decimals: 18
 icons:
   - icon.png
-color: "#fcf0e8"
+color: "#f86808"
 ---

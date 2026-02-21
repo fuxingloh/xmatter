@@ -7,5 +7,5 @@ symbol: MSCP
 decimals: 18
 icons:
   - icon.png
-color: "#bd498e"
+color: "#f8f8f8"
 ---

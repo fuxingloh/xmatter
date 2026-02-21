@@ -7,5 +7,5 @@ symbol: RAMP
 decimals: 18
 icons:
   - icon.png
-color: "#2ac0d9"
+color: "#080808"
 ---

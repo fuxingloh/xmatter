@@ -7,5 +7,5 @@ symbol: MARS
 decimals: 18
 icons:
   - icon.png
-color: "#d66446"
+color: "#f8f8f8"
 ---

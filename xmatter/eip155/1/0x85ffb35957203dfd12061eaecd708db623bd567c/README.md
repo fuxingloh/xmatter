@@ -7,5 +7,5 @@ symbol: LTY
 decimals: 18
 icons:
   - icon.png
-color: "#73bcfc"
+color: "#f8f8f8"
 ---

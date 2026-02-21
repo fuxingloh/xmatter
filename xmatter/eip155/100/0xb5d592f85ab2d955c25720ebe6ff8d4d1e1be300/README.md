@@ -7,5 +7,5 @@ symbol: PRTCLE
 decimals: 18
 icons:
   - icon.png
-color: "#151615"
+color: "#181818"
 ---

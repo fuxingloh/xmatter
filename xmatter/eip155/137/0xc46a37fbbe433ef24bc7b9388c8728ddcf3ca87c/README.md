@@ -7,5 +7,5 @@ symbol: MFTU
 decimals: 18
 icons:
   - icon.png
-color: "#dcdad8"
+color: "#f8f8f8"
 ---

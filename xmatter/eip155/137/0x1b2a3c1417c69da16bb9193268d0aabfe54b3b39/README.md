@@ -7,5 +7,5 @@ symbol: ROSN
 decimals: 18
 icons:
   - icon.png
-color: "#e55fdc"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: FINN
 decimals: 18
 icons:
   - icon.png
-color: "#def1f9"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: GDT
 decimals: 18
 icons:
   - icon.png
-color: "#ac2685"
+color: "#f8f8f8"
 ---

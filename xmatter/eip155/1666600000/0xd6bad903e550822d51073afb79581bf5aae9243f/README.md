@@ -7,5 +7,5 @@ symbol: bscATOM
 decimals: 18
 icons:
   - icon.png
-color: "#282e46"
+color: "#283848"
 ---

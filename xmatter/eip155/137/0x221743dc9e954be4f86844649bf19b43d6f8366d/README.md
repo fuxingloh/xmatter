@@ -7,5 +7,5 @@ symbol: OBOT
 decimals: 18
 icons:
   - icon.png
-color: "#ec1a22"
+color: "#e81828"
 ---

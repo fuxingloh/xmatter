@@ -7,5 +7,5 @@ symbol: EZ
 decimals: 18
 icons:
   - icon.png
-color: "#fc920d"
+color: "#080808"
 ---

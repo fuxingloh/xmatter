@@ -7,5 +7,5 @@ symbol: 1MIL
 decimals: 18
 icons:
   - icon.png
-color: "#74fc04"
+color: "#080808"
 ---

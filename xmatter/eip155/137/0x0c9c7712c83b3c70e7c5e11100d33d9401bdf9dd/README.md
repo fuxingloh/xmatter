@@ -7,5 +7,5 @@ symbol: WOMBAT
 decimals: 18
 icons:
   - icon.png
-color: "#dfe4e3"
+color: "#f8f8f8"
 ---

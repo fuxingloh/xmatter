@@ -7,5 +7,5 @@ symbol: NDCEX
 decimals: 18
 icons:
   - icon.png
-color: "#0a8ff3"
+color: "#0888f8"
 ---

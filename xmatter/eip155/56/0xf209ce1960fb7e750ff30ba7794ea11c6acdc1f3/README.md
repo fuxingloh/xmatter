@@ -7,5 +7,5 @@ symbol: GFN
 decimals: 18
 icons:
   - icon.png
-color: "#e4547c"
+color: "#080808"
 ---

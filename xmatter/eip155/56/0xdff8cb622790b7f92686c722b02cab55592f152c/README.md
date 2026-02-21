@@ -7,5 +7,5 @@ symbol: TEN
 decimals: 18
 icons:
   - icon.png
-color: "#090b0c"
+color: "#a8d8f8"
 ---

@@ -7,5 +7,5 @@ symbol: KAI
 decimals: 18
 icons:
   - icon.png
-color: "#aa232f"
+color: "#486878"
 ---

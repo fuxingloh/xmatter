@@ -7,5 +7,5 @@ symbol: KRS
 decimals: 18
 icons:
   - icon.png
-color: "#fb9904"
+color: "#f89808"
 ---

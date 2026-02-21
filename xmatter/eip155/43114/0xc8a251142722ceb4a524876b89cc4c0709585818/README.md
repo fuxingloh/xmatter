@@ -7,5 +7,5 @@ symbol: AURA
 decimals: 5
 icons:
   - icon.jpeg
-color: "#08090d"
+color: "#080808"
 ---

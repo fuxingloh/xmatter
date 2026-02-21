@@ -7,5 +7,5 @@ symbol: MONS
 decimals: 18
 icons:
   - icon.png
-color: "#ec5c21"
+color: "#080808"
 ---

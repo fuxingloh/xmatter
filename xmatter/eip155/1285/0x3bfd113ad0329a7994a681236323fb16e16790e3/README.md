@@ -7,5 +7,5 @@ symbol: WSTKSM
 decimals: 12
 icons:
   - icon.png
-color: "#04a4fc"
+color: "#08a8f8"
 ---

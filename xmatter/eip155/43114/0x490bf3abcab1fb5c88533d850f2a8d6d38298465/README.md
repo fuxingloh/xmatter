@@ -7,5 +7,5 @@ symbol: PLAYMATES
 decimals: 18
 icons:
   - icon.png
-color: "#19040b"
+color: "#080808"
 ---

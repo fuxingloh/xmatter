@@ -7,5 +7,5 @@ symbol: MUSD
 decimals: 18
 icons:
   - icon.png
-color: "#ccd6e3"
+color: "#082878"
 ---

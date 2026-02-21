@@ -7,5 +7,5 @@ symbol: PERI
 decimals: 18
 icons:
   - icon.png
-color: "#14085b"
+color: "#180858"
 ---

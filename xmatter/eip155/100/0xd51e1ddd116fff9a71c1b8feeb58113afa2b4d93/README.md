@@ -7,5 +7,5 @@ symbol: AMIS
 decimals: 9
 icons:
   - icon.png
-color: "#cabcbd"
+color: "#080808"
 ---

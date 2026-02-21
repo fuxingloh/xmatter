@@ -7,5 +7,5 @@ symbol: TFBX
 decimals: 18
 icons:
   - icon.png
-color: "#4d483a"
+color: "#f8f8f8"
 ---

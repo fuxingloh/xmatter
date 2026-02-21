@@ -7,5 +7,5 @@ symbol: OSMO
 decimals: 6
 icons:
   - icon.png
-color: "#831dbc"
+color: "#080808"
 ---

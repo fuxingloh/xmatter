@@ -7,5 +7,5 @@ symbol: ASH
 decimals: 18
 icons:
   - icon.png
-color: "#646464"
+color: "#f8f8f8"
 ---

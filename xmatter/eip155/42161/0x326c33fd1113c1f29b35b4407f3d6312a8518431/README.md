@@ -7,5 +7,5 @@ symbol: STRP
 decimals: 18
 icons:
   - icon.png
-color: "#f4ec34"
+color: "#080808"
 ---

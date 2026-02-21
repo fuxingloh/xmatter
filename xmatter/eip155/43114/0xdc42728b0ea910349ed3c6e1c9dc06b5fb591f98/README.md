@@ -7,5 +7,5 @@ symbol: FRAX
 decimals: 18
 icons:
   - icon.png
-color: "#dcdcdc"
+color: "#f8f8f8"
 ---

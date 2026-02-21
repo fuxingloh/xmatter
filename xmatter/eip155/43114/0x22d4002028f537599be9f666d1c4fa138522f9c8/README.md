@@ -7,5 +7,5 @@ symbol: PTP
 decimals: 18
 icons:
   - icon.png
-color: "#45bfca"
+color: "#080808"
 ---

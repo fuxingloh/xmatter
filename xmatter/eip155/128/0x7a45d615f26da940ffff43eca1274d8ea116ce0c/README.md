@@ -7,5 +7,5 @@ symbol: MAN
 decimals: 18
 icons:
   - icon.png
-color: "#182848"
+color: "#080808"
 ---

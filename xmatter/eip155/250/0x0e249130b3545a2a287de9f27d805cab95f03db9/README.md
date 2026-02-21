@@ -7,5 +7,5 @@ symbol: FBA
 decimals: 18
 icons:
   - icon.png
-color: "#f87e45"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: WBTC
 decimals: 8
 icons:
   - icon.png
-color: "#dddbe0"
+color: "#282838"
 ---

@@ -7,5 +7,5 @@ symbol: OCEAN
 decimals: 18
 icons:
   - icon.png
-color: "#3b3b3b"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: RGP
 decimals: 18
 icons:
   - icon.png
-color: "#2894c3"
+color: "#080808"
 ---

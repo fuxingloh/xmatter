@@ -7,5 +7,5 @@ symbol: CNFI
 decimals: 18
 icons:
   - icon.png
-color: "#060606"
+color: "#080808"
 ---

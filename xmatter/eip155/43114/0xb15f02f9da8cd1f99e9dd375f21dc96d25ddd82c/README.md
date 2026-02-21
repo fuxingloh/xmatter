@@ -7,5 +7,5 @@ symbol: HERMES
 decimals: 18
 icons:
   - icon.png
-color: "#ceac5e"
+color: "#080808"
 ---

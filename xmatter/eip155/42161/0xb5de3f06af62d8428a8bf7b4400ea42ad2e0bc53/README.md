@@ -7,5 +7,5 @@ symbol: BRC
 decimals: 18
 icons:
   - icon.png
-color: "#cdfcfc"
+color: "#080808"
 ---

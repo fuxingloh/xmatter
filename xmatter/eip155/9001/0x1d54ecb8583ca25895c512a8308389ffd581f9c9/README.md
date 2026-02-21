@@ -7,5 +7,5 @@ symbol: G-WBTC
 decimals: 8
 icons:
   - icon.png
-color: "#1a3279"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: wSOTE
 decimals: 18
 icons:
   - icon.png
-color: "#fceede"
+color: "#f8f8f8"
 ---

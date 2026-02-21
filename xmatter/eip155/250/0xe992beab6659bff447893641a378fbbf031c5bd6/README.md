@@ -7,5 +7,5 @@ symbol: WIGO
 decimals: 18
 icons:
   - icon.png
-color: "#344cf4"
+color: "#3848f8"
 ---

@@ -7,5 +7,5 @@ symbol: BKK
 decimals: 18
 icons:
   - icon.png
-color: "#ea725b"
+color: "#f8f8f8"
 ---

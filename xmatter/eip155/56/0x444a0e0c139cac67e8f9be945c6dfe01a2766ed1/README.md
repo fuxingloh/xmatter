@@ -7,5 +7,5 @@ symbol: GST
 decimals: 18
 icons:
   - icon.png
-color: "#e784b9"
+color: "#f8f8f8"
 ---

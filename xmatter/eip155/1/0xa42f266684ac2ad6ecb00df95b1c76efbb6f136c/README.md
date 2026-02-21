@@ -7,5 +7,5 @@ symbol: CATE
 decimals: 18
 icons:
   - icon.png
-color: "#27cbb1"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: FXUSD
 decimals: 18
 icons:
   - icon.png
-color: "#cfd4c4"
+color: "#080808"
 ---

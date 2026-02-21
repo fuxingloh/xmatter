@@ -7,5 +7,5 @@ symbol: ibBTC
 decimals: 18
 icons:
   - icon.png
-color: "#fba404"
+color: "#f8a808"
 ---

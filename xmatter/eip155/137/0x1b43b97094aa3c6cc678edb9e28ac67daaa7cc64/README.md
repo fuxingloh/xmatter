@@ -7,5 +7,5 @@ symbol: LICP
 decimals: 18
 icons:
   - icon.png
-color: "#e6dbde"
+color: "#f8f8f8"
 ---

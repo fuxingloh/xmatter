@@ -7,5 +7,5 @@ symbol: LIF3
 decimals: 18
 icons:
   - icon.png
-color: "#e8eaf0"
+color: "#284878"
 ---

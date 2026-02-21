@@ -7,5 +7,5 @@ symbol: BPT
 decimals: 18
 icons:
   - icon.png
-color: "#d5a75c"
+color: "#483828"
 ---

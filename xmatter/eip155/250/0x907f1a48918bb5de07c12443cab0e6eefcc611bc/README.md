@@ -7,5 +7,5 @@ symbol: CZTEARS
 decimals: 18
 icons:
   - icon.png
-color: "#0f97ef"
+color: "#080808"
 ---

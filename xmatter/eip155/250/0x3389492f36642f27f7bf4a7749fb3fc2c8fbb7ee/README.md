@@ -7,5 +7,5 @@ symbol: GIZA
 decimals: 9
 icons:
   - icon.jpeg
-color: "#e28a39"
+color: "#f8f8f8"
 ---

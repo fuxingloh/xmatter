@@ -7,5 +7,5 @@ symbol: BID
 decimals: 18
 icons:
   - icon.png
-color: "#18c0f0"
+color: "#18c8f8"
 ---

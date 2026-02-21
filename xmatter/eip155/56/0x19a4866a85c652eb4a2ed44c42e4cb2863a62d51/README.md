@@ -7,5 +7,5 @@ symbol: HOD
 decimals: 18
 icons:
   - icon.jpeg
-color: "#e8f4f9"
+color: "#f8f8f8"
 ---

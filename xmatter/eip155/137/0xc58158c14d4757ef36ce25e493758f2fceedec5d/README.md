@@ -7,5 +7,5 @@ symbol: D11
 decimals: 18
 icons:
   - icon.png
-color: "#eba78d"
+color: "#080808"
 ---

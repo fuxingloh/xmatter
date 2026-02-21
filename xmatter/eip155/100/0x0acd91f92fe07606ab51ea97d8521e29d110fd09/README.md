@@ -7,5 +7,5 @@ symbol: CEL
 decimals: 4
 icons:
   - icon.png
-color: "#f5993d"
+color: "#f8a848"
 ---

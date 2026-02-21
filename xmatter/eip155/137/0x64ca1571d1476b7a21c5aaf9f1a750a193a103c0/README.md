@@ -7,5 +7,5 @@ symbol: BONDLY
 decimals: 18
 icons:
   - icon.png
-color: "#fc07fc"
+color: "#f8f8f8"
 ---

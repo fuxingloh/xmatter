@@ -7,5 +7,5 @@ symbol: DJ15
 decimals: 9
 icons:
   - icon.png
-color: "#e90e6f"
+color: "#080808"
 ---

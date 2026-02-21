@@ -7,5 +7,5 @@ symbol: TCP
 decimals: 18
 icons:
   - icon.png
-color: "#3c3a7c"
+color: "#382878"
 ---

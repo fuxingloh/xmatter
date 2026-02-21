@@ -7,5 +7,5 @@ symbol: UNT
 decimals: 18
 icons:
   - icon.png
-color: "#bcbcbc"
+color: "#080808"
 ---

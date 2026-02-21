@@ -7,5 +7,5 @@ symbol: 4INT
 decimals: 9
 icons:
   - icon.png
-color: "#5884a2"
+color: "#080808"
 ---

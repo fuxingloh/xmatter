@@ -7,5 +7,5 @@ symbol: APP
 decimals: 8
 icons:
   - icon.png
-color: "#bcbcbc"
+color: "#080808"
 ---

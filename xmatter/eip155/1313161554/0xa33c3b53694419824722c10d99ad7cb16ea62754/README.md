@@ -7,5 +7,5 @@ symbol: MECHA
 decimals: 18
 icons:
   - icon.svg
-color: "#64cb34"
+color: "#080808"
 ---

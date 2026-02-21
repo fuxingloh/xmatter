@@ -7,5 +7,5 @@ symbol: bDIGG
 decimals: 18
 icons:
   - icon.png
-color: "#fba305"
+color: "#f8a808"
 ---

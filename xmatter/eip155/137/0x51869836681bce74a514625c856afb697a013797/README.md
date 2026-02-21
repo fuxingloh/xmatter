@@ -7,5 +7,5 @@ symbol: GENESIS
 decimals: 18
 icons:
   - icon.jpeg
-color: "#591f9a"
+color: "#f8f8f8"
 ---

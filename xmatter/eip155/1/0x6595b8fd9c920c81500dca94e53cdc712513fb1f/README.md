@@ -7,5 +7,5 @@ symbol: OLY
 decimals: 18
 icons:
   - icon.png
-color: "#383839"
+color: "#282828"
 ---

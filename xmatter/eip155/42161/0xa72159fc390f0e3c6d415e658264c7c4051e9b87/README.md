@@ -7,5 +7,5 @@ symbol: TCR
 decimals: 18
 icons:
   - icon.png
-color: "#c4c4ec"
+color: "#0808b8"
 ---

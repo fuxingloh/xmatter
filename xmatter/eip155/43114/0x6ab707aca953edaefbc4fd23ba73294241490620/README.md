@@ -7,5 +7,5 @@ symbol: AUSDT
 decimals: 6
 icons:
   - icon.webp
-color: "#53aa9b"
+color: "#58a898"
 ---

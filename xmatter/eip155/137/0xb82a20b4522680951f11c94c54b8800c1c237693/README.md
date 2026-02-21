@@ -7,5 +7,5 @@ symbol: HONOR
 decimals: 18
 icons:
   - icon.png
-color: "#fb7c3c"
+color: "#f86828"
 ---

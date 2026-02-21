@@ -7,5 +7,5 @@ symbol: MRP
 decimals: 18
 icons:
   - icon.png
-color: "#3b6cfc"
+color: "#3868f8"
 ---

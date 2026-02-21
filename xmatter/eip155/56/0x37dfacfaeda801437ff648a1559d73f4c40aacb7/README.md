@@ -7,5 +7,5 @@ symbol: APYS
 decimals: 18
 icons:
   - icon.png
-color: "#e6f9f4"
+color: "#f8f8f8"
 ---

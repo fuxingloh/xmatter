@@ -7,5 +7,5 @@ symbol: RUN
 decimals: 18
 icons:
   - icon.png
-color: "#24300c"
+color: "#080808"
 ---

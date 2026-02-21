@@ -7,5 +7,5 @@ symbol: PLY
 decimals: 18
 icons:
   - icon.png
-color: "#a5d2b4"
+color: "#f8f8f8"
 ---

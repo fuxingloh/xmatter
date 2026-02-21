@@ -7,5 +7,5 @@ symbol: DHV
 decimals: 18
 icons:
   - icon.png
-color: "#14141c"
+color: "#181818"
 ---

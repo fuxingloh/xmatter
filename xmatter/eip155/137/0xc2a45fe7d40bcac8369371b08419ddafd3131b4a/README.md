@@ -7,5 +7,5 @@ symbol: LCD
 decimals: 18
 icons:
   - icon.png
-color: "#241c2c"
+color: "#181828"
 ---

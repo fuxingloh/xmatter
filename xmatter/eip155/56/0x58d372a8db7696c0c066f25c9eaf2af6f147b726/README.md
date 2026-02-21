@@ -7,5 +7,5 @@ symbol: TSUGA
 decimals: 18
 icons:
   - icon.png
-color: "#070e29"
+color: "#080808"
 ---

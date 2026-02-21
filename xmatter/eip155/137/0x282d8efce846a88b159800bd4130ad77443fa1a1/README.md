@@ -7,5 +7,5 @@ symbol: mOCEAN
 decimals: 18
 icons:
   - icon.png
-color: "#b6b6b6"
+color: "#f8f8f8"
 ---

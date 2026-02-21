@@ -7,5 +7,5 @@ symbol: SPHERE
 decimals: 18
 icons:
   - icon.png
-color: "#dc3978"
+color: "#181828"
 ---

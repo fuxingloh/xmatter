@@ -7,5 +7,5 @@ symbol: BR34P
 decimals: 8
 icons:
   - icon.png
-color: "#2f2f2d"
+color: "#f8f8f8"
 ---

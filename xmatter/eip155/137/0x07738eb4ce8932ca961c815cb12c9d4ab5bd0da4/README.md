@@ -7,5 +7,5 @@ symbol: ELET
 decimals: 18
 icons:
   - icon.png
-color: "#857549"
+color: "#080808"
 ---

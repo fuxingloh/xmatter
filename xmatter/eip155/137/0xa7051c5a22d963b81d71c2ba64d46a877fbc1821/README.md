@@ -7,5 +7,5 @@ symbol: EROWAN
 decimals: 18
 icons:
   - icon.png
-color: "#f2c31b"
+color: "#f8d818"
 ---

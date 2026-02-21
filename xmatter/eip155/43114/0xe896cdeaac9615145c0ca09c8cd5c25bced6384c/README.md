@@ -7,5 +7,5 @@ symbol: PEFI
 decimals: 18
 icons:
   - icon.png
-color: "#080707"
+color: "#080808"
 ---

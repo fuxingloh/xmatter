@@ -7,5 +7,5 @@ symbol: OCCT
 decimals: 18
 icons:
   - icon.png
-color: "#ce1220"
+color: "#c80818"
 ---

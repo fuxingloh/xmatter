@@ -7,5 +7,5 @@ symbol: LAZYSHIBA
 decimals: 9
 icons:
   - icon.png
-color: "#e7e3dd"
+color: "#080808"
 ---

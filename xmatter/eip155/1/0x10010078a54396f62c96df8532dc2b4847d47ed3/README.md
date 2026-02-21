@@ -7,5 +7,5 @@ symbol: HND
 decimals: 18
 icons:
   - icon.png
-color: "#262627"
+color: "#f8f8f8"
 ---

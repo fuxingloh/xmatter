@@ -7,5 +7,5 @@ symbol: GHNY
 decimals: 18
 icons:
   - icon.png
-color: "#fbe3a3"
+color: "#f8c858"
 ---

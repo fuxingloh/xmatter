@@ -7,5 +7,5 @@ symbol: REALT-S-11653-NOTTI
 decimals: 18
 icons:
   - icon.jpeg
-color: "#9d9b8c"
+color: "#888888"
 ---

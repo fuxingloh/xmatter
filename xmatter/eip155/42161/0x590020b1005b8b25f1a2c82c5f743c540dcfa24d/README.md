@@ -7,5 +7,5 @@ symbol: GMX
 decimals: 18
 icons:
   - icon.png
-color: "#1296e8"
+color: "#080808"
 ---

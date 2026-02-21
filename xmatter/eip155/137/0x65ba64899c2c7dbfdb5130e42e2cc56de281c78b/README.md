@@ -7,5 +7,5 @@ symbol: DEXI
 decimals: 9
 icons:
   - icon.png
-color: "#041e3d"
+color: "#080808"
 ---

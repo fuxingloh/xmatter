@@ -7,5 +7,5 @@ symbol: BICO
 decimals: 18
 icons:
   - icon.jpeg
-color: "#f9f6ed"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: CHP
 decimals: 18
 icons:
   - icon.png
-color: "#cb354d"
+color: "#282828"
 ---

@@ -7,5 +7,5 @@ symbol: SLOT
 decimals: 18
 icons:
   - icon.png
-color: "#dddee6"
+color: "#f8f8f8"
 ---

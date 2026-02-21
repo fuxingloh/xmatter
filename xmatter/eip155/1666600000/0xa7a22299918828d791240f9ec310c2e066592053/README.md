@@ -7,5 +7,5 @@ symbol: 1xSUSHI
 decimals: 18
 icons:
   - icon.png
-color: "#fab263"
+color: "#080808"
 ---

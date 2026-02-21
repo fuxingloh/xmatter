@@ -7,5 +7,5 @@ symbol: miniSAITAMA
 decimals: 9
 icons:
   - icon.png
-color: "#0f263c"
+color: "#083868"
 ---

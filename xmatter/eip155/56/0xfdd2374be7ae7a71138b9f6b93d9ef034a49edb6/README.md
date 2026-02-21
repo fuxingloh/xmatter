@@ -7,5 +7,5 @@ symbol: VRGW
 decimals: 18
 icons:
   - icon.png
-color: "#ce7f1d"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: BTC2x-FLI
 decimals: 18
 icons:
   - icon.png
-color: "#450480"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: CWEB
 decimals: 18
 icons:
   - icon.webp
-color: "#04a5fb"
+color: "#08e8f8"
 ---

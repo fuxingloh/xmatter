@@ -7,5 +7,5 @@ symbol: LMT
 decimals: 18
 icons:
   - icon.png
-color: "#787794"
+color: "#f8f8f8"
 ---

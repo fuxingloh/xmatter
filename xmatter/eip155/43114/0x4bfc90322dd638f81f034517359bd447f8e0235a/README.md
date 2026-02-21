@@ -7,5 +7,5 @@ symbol: NEWO
 decimals: 18
 icons:
   - icon.png
-color: "#fcf55d"
+color: "#080808"
 ---

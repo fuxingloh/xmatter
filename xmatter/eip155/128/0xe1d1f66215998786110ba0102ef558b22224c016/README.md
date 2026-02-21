@@ -7,5 +7,5 @@ symbol: HOO
 decimals: 8
 icons:
   - icon.png
-color: "#04ead2"
+color: "#081818"
 ---

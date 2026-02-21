@@ -7,5 +7,5 @@ symbol: HOOF
 decimals: 18
 icons:
   - icon.png
-color: "#a27a0a"
+color: "#080808"
 ---

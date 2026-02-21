@@ -7,5 +7,5 @@ symbol: LOOT
 decimals: 18
 icons:
   - icon.png
-color: "#a2695e"
+color: "#080808"
 ---

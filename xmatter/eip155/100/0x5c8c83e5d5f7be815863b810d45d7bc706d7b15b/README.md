@@ -7,5 +7,5 @@ symbol: rSURF
 decimals: 9
 icons:
   - icon.png
-color: "#248cb7"
+color: "#080808"
 ---

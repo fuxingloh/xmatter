@@ -7,5 +7,5 @@ symbol: QUICKCHART
 decimals: 9
 icons:
   - icon.png
-color: "#9e9ea2"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: REALT-S-11957-OLGA-
 decimals: 18
 icons:
   - icon.jpeg
-color: "#677150"
+color: "#f8f8f8"
 ---

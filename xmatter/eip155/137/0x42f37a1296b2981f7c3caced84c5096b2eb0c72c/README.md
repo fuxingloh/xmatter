@@ -7,5 +7,5 @@ symbol: KEEP
 decimals: 18
 icons:
   - icon.jpeg
-color: "#5acdab"
+color: "#080808"
 ---

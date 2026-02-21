@@ -7,5 +7,5 @@ symbol: UMINT
 decimals: 18
 icons:
   - icon.svg
-color: "#040404"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: CVT
 decimals: 18
 icons:
   - icon.png
-color: "#3f34ff"
+color: "#080808"
 ---

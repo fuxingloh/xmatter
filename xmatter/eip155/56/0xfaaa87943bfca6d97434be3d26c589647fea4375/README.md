@@ -7,5 +7,5 @@ symbol: ACE
 decimals: 18
 icons:
   - icon.png
-color: "#9d0505"
+color: "#080808"
 ---

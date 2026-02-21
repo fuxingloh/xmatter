@@ -7,5 +7,5 @@ symbol: SPIN
 decimals: 18
 icons:
   - icon.png
-color: "#9208cf"
+color: "#080808"
 ---

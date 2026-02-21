@@ -7,5 +7,5 @@ symbol: xMARK
 decimals: 9
 icons:
   - icon.png
-color: "#232323"
+color: "#282828"
 ---

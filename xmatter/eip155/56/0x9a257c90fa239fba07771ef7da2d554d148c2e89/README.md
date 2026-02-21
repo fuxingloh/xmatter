@@ -7,5 +7,5 @@ symbol: EYE
 decimals: 18
 icons:
   - icon.png
-color: "#402d79"
+color: "#f8f8f8"
 ---

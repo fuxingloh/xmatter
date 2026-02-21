@@ -7,5 +7,5 @@ symbol: DMAGIC
 decimals: 18
 icons:
   - icon.png
-color: "#996aeb"
+color: "#080808"
 ---

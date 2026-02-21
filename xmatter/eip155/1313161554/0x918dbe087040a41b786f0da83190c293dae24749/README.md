@@ -7,5 +7,5 @@ symbol: LINEAR
 decimals: 24
 icons:
   - icon.svg
-color: "#4b82cc"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: DSG
 decimals: 18
 icons:
   - icon.png
-color: "#dadfe4"
+color: "#f8f8f8"
 ---

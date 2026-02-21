@@ -7,5 +7,5 @@ symbol: DOG
 decimals: 18
 icons:
   - icon.png
-color: "#e18734"
+color: "#f8f8f8"
 ---

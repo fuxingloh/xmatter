@@ -7,5 +7,5 @@ symbol: DFIAT
 decimals: 18
 icons:
   - icon.png
-color: "#0038f8"
+color: "#080808"
 ---

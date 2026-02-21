@@ -7,5 +7,5 @@ symbol: NIFLOKI
 decimals: 9
 icons:
   - icon.png
-color: "#5e4634"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: SWPR
 decimals: 18
 icons:
   - icon.png
-color: "#e9e7f6"
+color: "#080808"
 ---

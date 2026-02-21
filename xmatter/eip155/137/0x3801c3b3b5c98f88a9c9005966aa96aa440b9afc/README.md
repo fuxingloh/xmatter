@@ -7,5 +7,5 @@ symbol: GLTR
 decimals: 18
 icons:
   - icon.png
-color: "#c47c04"
+color: "#f8c808"
 ---

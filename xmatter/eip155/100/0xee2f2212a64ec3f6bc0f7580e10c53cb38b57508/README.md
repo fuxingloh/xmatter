@@ -7,5 +7,5 @@ symbol: REALT-S-12334-LANSD
 decimals: 18
 icons:
   - icon.jpeg
-color: "#91b4cc"
+color: "#98c8f8"
 ---

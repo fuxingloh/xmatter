@@ -7,5 +7,5 @@ symbol: LUSD
 decimals: 18
 icons:
   - icon.png
-color: "#e4e4e4"
+color: "#080808"
 ---

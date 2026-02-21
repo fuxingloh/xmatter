@@ -7,5 +7,5 @@ symbol: YOSHI
 decimals: 18
 icons:
   - icon.png
-color: "#46dca4"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: GLINT
 decimals: 18
 icons:
   - icon.png
-color: "#5674dc"
+color: "#080808"
 ---

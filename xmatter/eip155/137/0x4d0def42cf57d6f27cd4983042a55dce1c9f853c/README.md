@@ -7,5 +7,5 @@ symbol: KIT
 decimals: 18
 icons:
   - icon.png
-color: "#ececec"
+color: "#080808"
 ---

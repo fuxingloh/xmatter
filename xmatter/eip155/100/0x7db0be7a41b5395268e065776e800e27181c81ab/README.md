@@ -7,5 +7,5 @@ symbol: LPT
 decimals: 18
 icons:
   - icon.png
-color: "#04d179"
+color: "#080808"
 ---

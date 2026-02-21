@@ -7,5 +7,5 @@ symbol: REALT-S-20200-LESUR
 decimals: 18
 icons:
   - icon.jpeg
-color: "#95987e"
+color: "#f8d8c8"
 ---

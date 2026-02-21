@@ -7,5 +7,5 @@ symbol: GEM
 decimals: 18
 icons:
   - icon.png
-color: "#d4a454"
+color: "#080808"
 ---

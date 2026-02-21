@@ -7,5 +7,5 @@ symbol: NFTL
 decimals: 18
 icons:
   - icon.png
-color: "#aa9ff9"
+color: "#b888f8"
 ---

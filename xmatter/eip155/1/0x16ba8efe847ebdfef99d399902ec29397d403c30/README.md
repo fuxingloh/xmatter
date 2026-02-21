@@ -7,5 +7,5 @@ symbol: OH
 decimals: 18
 icons:
   - icon.png
-color: "#daf2fa"
+color: "#0898e8"
 ---

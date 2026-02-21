@@ -7,5 +7,5 @@ symbol: WATCH
 decimals: 18
 icons:
   - icon.png
-color: "#dfc876"
+color: "#080808"
 ---

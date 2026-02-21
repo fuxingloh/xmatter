@@ -7,5 +7,5 @@ symbol: DHD
 decimals: 18
 icons:
   - icon.png
-color: "#c2b38b"
+color: "#181818"
 ---

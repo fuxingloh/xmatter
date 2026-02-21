@@ -7,5 +7,5 @@ symbol: REALT-S-11201-COLLE
 decimals: 18
 icons:
   - icon.jpeg
-color: "#dedddd"
+color: "#f8f8f8"
 ---

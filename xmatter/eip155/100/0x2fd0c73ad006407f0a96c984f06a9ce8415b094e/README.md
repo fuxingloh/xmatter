@@ -7,5 +7,5 @@ symbol: xSEED
 decimals: 18
 icons:
   - icon.png
-color: "#ae78bf"
+color: "#a868c8"
 ---

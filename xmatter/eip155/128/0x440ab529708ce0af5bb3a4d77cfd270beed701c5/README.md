@@ -7,5 +7,5 @@ symbol: ORB
 decimals: 18
 icons:
   - icon.png
-color: "#1c0455"
+color: "#180858"
 ---

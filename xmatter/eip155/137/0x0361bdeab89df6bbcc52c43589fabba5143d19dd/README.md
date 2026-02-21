@@ -7,5 +7,5 @@ symbol: dTOP
 decimals: 18
 icons:
   - icon.png
-color: "#1193b9"
+color: "#080808"
 ---

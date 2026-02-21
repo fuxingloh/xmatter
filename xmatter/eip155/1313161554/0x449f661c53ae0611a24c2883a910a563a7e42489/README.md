@@ -7,5 +7,5 @@ symbol: nNECC
 decimals: 18
 icons:
   - icon.svg
-color: "#1a4d90"
+color: "#080808"
 ---

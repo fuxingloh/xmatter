@@ -7,5 +7,5 @@ symbol: YIN
 decimals: 18
 icons:
   - icon.png
-color: "#1b2028"
+color: "#f8f8f8"
 ---

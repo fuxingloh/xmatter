@@ -7,5 +7,5 @@ symbol: SHAKE
 decimals: 18
 icons:
   - icon.png
-color: "#eae1e6"
+color: "#080888"
 ---

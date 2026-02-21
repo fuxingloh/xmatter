@@ -7,5 +7,5 @@ symbol: MX
 decimals: 18
 icons:
   - icon.png
-color: "#64efa7"
+color: "#f8f8f8"
 ---

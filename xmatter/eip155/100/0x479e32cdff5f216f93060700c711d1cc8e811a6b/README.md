@@ -7,5 +7,5 @@ symbol: TRIPS
 decimals: 18
 icons:
   - icon.png
-color: "#4a7795"
+color: "#487898"
 ---

@@ -7,5 +7,5 @@ symbol: WBTC
 decimals: 8
 icons:
   - icon.webp
-color: "#f2f0f1"
+color: "#f8f8f8"
 ---

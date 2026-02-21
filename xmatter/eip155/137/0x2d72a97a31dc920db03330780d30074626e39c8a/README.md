@@ -7,5 +7,5 @@ symbol: POLP
 decimals: 18
 icons:
   - icon.jpeg
-color: "#b84985"
+color: "#f8f8f8"
 ---

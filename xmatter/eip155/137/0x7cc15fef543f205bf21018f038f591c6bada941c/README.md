@@ -7,5 +7,5 @@ symbol: POLYCUB
 decimals: 18
 icons:
   - icon.png
-color: "#d4a14b"
+color: "#f8f8f8"
 ---

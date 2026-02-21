@@ -7,5 +7,5 @@ symbol: YF-DAI
 decimals: 18
 icons:
   - icon.png
-color: "#98caf6"
+color: "#f8f8f8"
 ---

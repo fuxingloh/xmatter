@@ -7,5 +7,5 @@ symbol: FER
 decimals: 18
 icons:
   - icon.png
-color: "#d97e53"
+color: "#080808"
 ---

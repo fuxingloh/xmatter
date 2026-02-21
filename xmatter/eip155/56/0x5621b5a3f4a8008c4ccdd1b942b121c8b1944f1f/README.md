@@ -7,5 +7,5 @@ symbol: XED
 decimals: 18
 icons:
   - icon.png
-color: "#73fa4b"
+color: "#080808"
 ---

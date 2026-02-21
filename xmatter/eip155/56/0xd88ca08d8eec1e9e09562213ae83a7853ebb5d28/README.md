@@ -7,5 +7,5 @@ symbol: XWIN
 decimals: 18
 icons:
   - icon.png
-color: "#8bd054"
+color: "#f8f8f8"
 ---

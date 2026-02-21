@@ -7,5 +7,5 @@ symbol: REALT-S-18481-WESTP
 decimals: 18
 icons:
   - icon.jpeg
-color: "#bababc"
+color: "#e8f8f8"
 ---

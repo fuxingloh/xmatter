@@ -7,5 +7,5 @@ symbol: ANGLE
 decimals: 18
 icons:
   - icon.png
-color: "#3a383e"
+color: "#080808"
 ---

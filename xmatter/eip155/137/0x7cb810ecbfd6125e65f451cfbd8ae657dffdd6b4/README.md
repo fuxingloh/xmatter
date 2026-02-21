@@ -7,5 +7,5 @@ symbol: SOFI
 decimals: 18
 icons:
   - icon.png
-color: "#ecccfc"
+color: "#f8f8f8"
 ---

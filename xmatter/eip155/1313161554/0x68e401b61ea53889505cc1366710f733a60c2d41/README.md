@@ -7,5 +7,5 @@ symbol: SHITZU
 decimals: 18
 icons:
   - icon.png
-color: "#59cf98"
+color: "#080808"
 ---

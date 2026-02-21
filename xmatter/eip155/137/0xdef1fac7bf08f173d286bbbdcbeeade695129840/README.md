@@ -7,5 +7,5 @@ symbol: CERBY
 decimals: 18
 icons:
   - icon.png
-color: "#0e2146"
+color: "#f8f8f8"
 ---

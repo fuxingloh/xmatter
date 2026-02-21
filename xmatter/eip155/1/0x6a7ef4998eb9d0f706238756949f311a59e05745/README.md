@@ -7,5 +7,5 @@ symbol: KEN
 decimals: 18
 icons:
   - icon.png
-color: "#f7f5f7"
+color: "#f8f8f8"
 ---

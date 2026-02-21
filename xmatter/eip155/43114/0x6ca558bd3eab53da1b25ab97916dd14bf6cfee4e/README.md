@@ -7,5 +7,5 @@ symbol: PAVAX
 decimals: 18
 icons:
   - icon.png
-color: "#cac9c9"
+color: "#f8f8f8"
 ---

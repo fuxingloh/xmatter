@@ -7,5 +7,5 @@ symbol: MIX
 decimals: 18
 icons:
   - icon.png
-color: "#ae8394"
+color: "#080808"
 ---

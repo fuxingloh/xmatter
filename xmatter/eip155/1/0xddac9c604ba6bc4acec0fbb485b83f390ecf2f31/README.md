@@ -7,5 +7,5 @@ symbol: CYOP
 decimals: 9
 icons:
   - icon.png
-color: "#080807"
+color: "#080808"
 ---

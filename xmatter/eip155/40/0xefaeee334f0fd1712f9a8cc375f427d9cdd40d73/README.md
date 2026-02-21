@@ -7,5 +7,5 @@ symbol: USDT
 decimals: 6
 icons:
   - icon.png
-color: "#24a37c"
+color: "#28a878"
 ---

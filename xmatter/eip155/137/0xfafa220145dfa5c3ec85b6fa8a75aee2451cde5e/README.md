@@ -7,5 +7,5 @@ symbol: ROOBEE
 decimals: 18
 icons:
   - icon.png
-color: "#94d424"
+color: "#080808"
 ---

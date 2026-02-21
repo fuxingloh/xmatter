@@ -7,5 +7,5 @@ symbol: RVF
 decimals: 18
 icons:
   - icon.png
-color: "#fb6d2d"
+color: "#f86828"
 ---

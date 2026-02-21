@@ -7,5 +7,5 @@ symbol: ETET
 decimals: 18
 icons:
   - icon.png
-color: "#6c85a4"
+color: "#080808"
 ---

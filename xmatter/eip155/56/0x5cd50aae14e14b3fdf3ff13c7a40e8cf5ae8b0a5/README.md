@@ -7,5 +7,5 @@ symbol: zSEED
 decimals: 18
 icons:
   - icon.png
-color: "#1197ae"
+color: "#f8f8f8"
 ---

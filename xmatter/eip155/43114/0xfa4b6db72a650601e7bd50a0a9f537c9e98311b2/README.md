@@ -7,5 +7,5 @@ symbol: HSHARES
 decimals: 18
 icons:
   - icon.png
-color: "#a4a496"
+color: "#080808"
 ---

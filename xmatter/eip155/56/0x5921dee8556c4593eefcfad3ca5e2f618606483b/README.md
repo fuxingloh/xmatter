@@ -7,5 +7,5 @@ symbol: MTLX
 decimals: 18
 icons:
   - icon.png
-color: "#e1dff1"
+color: "#f8f8f8"
 ---

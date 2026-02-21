@@ -7,5 +7,5 @@ symbol: NPX
 decimals: 18
 icons:
   - icon.jpeg
-color: "#575452"
+color: "#f8f8f8"
 ---

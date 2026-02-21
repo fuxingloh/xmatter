@@ -7,5 +7,5 @@ symbol: WTLOS
 decimals: 18
 icons:
   - icon.png
-color: "#704dbb"
+color: "#a868f8"
 ---

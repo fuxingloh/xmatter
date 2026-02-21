@@ -7,5 +7,5 @@ symbol: PIGGY
 decimals: 18
 icons:
   - icon.png
-color: "#f5a4ac"
+color: "#f8d8d8"
 ---

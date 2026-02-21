@@ -7,5 +7,5 @@ symbol: MATUSD
 decimals: 18
 icons:
   - icon.png
-color: "#77a2d0"
+color: "#f8f8f8"
 ---

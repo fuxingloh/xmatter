@@ -7,5 +7,5 @@ symbol: CEWBTC
 decimals: 8
 icons:
   - icon.png
-color: "#e8e4e2"
+color: "#f8f8f8"
 ---

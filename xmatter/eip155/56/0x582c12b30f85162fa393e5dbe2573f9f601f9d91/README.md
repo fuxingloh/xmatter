@@ -7,5 +7,5 @@ symbol: XMT
 decimals: 18
 icons:
   - icon.png
-color: "#335267"
+color: "#285868"
 ---

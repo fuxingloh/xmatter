@@ -7,5 +7,5 @@ symbol: CRA
 decimals: 18
 icons:
   - icon.png
-color: "#07c9f2"
+color: "#f8f8f8"
 ---

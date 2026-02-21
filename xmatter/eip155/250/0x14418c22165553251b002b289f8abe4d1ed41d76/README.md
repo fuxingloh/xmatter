@@ -7,5 +7,5 @@ symbol: FEAR
 decimals: 18
 icons:
   - icon.png
-color: "#0a0a0a"
+color: "#080808"
 ---

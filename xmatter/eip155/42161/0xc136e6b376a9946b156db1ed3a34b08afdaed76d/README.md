@@ -7,5 +7,5 @@ symbol: CREDA
 decimals: 18
 icons:
   - icon.png
-color: "#4071fc"
+color: "#080808"
 ---

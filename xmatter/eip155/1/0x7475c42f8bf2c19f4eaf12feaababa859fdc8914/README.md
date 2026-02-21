@@ -7,5 +7,5 @@ symbol: ACCEL
 decimals: 18
 icons:
   - icon.png
-color: "#b5b5b5"
+color: "#f8f8f8"
 ---

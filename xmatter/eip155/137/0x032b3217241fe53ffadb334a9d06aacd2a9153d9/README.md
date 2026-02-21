@@ -7,5 +7,5 @@ symbol: BND
 decimals: 18
 icons:
   - icon.png
-color: "#04f8c1"
+color: "#080818"
 ---

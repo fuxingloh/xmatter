@@ -7,5 +7,5 @@ symbol: PETG
 decimals: 18
 icons:
   - icon.png
-color: "#8cc8dd"
+color: "#f8f8f8"
 ---

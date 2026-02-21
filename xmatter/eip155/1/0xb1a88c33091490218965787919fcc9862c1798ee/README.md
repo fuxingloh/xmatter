@@ -7,5 +7,5 @@ symbol: SHIBLI
 decimals: 9
 icons:
   - icon.png
-color: "#f4b169"
+color: "#f8f8f8"
 ---

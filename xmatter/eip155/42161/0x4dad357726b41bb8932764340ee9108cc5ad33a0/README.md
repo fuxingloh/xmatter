@@ -7,5 +7,5 @@ symbol: NISHIB
 decimals: 18
 icons:
   - icon.png
-color: "#333f52"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: ATM
 decimals: 18
 icons:
   - icon.png
-color: "#d4462b"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: DBY
 decimals: 18
 icons:
   - icon.png
-color: "#a17908"
+color: "#080808"
 ---

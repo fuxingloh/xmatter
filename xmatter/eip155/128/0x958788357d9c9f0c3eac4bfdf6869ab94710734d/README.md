@@ -7,5 +7,5 @@ symbol: NHA
 decimals: 18
 icons:
   - icon.png
-color: "#dca9c0"
+color: "#f8f8f8"
 ---

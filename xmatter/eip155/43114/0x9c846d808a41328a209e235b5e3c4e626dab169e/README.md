@@ -7,5 +7,5 @@ symbol: FERT
 decimals: 18
 icons:
   - icon.png
-color: "#dbf1f2"
+color: "#080808"
 ---

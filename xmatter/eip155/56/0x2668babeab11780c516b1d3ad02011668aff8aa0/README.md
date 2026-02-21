@@ -7,5 +7,5 @@ symbol: PRM
 decimals: 6
 icons:
   - icon.png
-color: "#caa04a"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: GCOIN
 decimals: 18
 icons:
   - icon.png
-color: "#041424"
+color: "#081828"
 ---

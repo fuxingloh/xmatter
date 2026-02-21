@@ -7,5 +7,5 @@ symbol: RSD
 decimals: 18
 icons:
   - icon.png
-color: "#052454"
+color: "#082858"
 ---

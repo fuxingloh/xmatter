@@ -7,5 +7,5 @@ symbol: AXIAL
 decimals: 18
 icons:
   - icon.png
-color: "#1f1e53"
+color: "#181858"
 ---

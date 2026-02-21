@@ -7,5 +7,5 @@ symbol: BDOGE
 decimals: 18
 icons:
   - icon.jpeg
-color: "#efba72"
+color: "#080808"
 ---

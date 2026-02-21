@@ -7,5 +7,5 @@ symbol: TAROT
 decimals: 18
 icons:
   - icon.png
-color: "#d6d6d6"
+color: "#080808"
 ---

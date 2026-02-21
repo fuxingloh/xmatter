@@ -7,5 +7,5 @@ symbol: PWR
 decimals: 18
 icons:
   - icon.webp
-color: "#090708"
+color: "#080808"
 ---

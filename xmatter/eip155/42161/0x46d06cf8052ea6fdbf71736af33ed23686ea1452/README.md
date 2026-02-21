@@ -7,5 +7,5 @@ symbol: ETHRISE
 decimals: 18
 icons:
   - icon.png
-color: "#765fdb"
+color: "#6858d8"
 ---

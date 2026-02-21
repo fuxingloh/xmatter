@@ -7,5 +7,5 @@ symbol: RAMEN
 decimals: 18
 icons:
   - icon.png
-color: "#4d3f34"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: 1-UP
 decimals: 18
 icons:
   - icon.png
-color: "#1da2dc"
+color: "#080808"
 ---

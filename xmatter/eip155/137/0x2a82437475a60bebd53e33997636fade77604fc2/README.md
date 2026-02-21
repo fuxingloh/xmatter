@@ -7,5 +7,5 @@ symbol: CIRUS
 decimals: 18
 icons:
   - icon.png
-color: "#fc696d"
+color: "#080808"
 ---

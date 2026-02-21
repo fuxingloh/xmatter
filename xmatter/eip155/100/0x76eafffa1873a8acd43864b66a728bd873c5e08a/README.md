@@ -7,5 +7,5 @@ symbol: CHSB
 decimals: 8
 icons:
   - icon.png
-color: "#cdefe5"
+color: "#08b888"
 ---

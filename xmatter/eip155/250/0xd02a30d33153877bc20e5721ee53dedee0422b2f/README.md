@@ -6,6 +6,6 @@ symbol: g3CRV
 icons:
   - icon.svg
   - icon.png
-color: "#97f867"
+color: "#080808"
 decimals: 18
 ---

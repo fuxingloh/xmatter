@@ -7,5 +7,5 @@ symbol: PHOTON
 decimals: 18
 icons:
   - icon.png
-color: "#6d18e4"
+color: "#080808"
 ---

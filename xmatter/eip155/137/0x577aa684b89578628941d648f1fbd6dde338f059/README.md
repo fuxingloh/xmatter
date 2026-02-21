@@ -7,5 +7,5 @@ symbol: APOLLO
 decimals: 18
 icons:
   - icon.png
-color: "#fc8672"
+color: "#f88868"
 ---

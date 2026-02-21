@@ -7,5 +7,5 @@ symbol: POWER
 decimals: 18
 icons:
   - icon.png
-color: "#ae8022"
+color: "#f8f8f8"
 ---

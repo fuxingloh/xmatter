@@ -7,5 +7,5 @@ symbol: YIELD
 decimals: 18
 icons:
   - icon.png
-color: "#27373e"
+color: "#f8f8f8"
 ---

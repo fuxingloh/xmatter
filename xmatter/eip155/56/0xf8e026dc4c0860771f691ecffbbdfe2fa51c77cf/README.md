@@ -7,5 +7,5 @@ symbol: BGOV
 decimals: 18
 icons:
   - icon.png
-color: "#54a4db"
+color: "#f8f8f8"
 ---

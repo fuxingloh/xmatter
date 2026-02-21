@@ -7,5 +7,5 @@ symbol: sNULS
 decimals: 18
 icons:
   - icon.png
-color: "#34ec9e"
+color: "#080808"
 ---

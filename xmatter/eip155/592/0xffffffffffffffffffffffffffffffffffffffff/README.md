@@ -7,5 +7,5 @@ symbol: WDOT
 decimals: 16
 icons:
   - icon.png
-color: "#e6007a"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: MESA
 decimals: 18
 icons:
   - icon.png
-color: "#2ec8e2"
+color: "#f8f8f8"
 ---

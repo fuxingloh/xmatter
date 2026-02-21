@@ -7,5 +7,5 @@ symbol: RENA
 decimals: 18
 icons:
   - icon.png
-color: "#ebd7ed"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: FSN
 decimals: 18
 icons:
   - icon.png
-color: "#263c62"
+color: "#f8f8f8"
 ---

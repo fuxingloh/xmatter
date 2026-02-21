@@ -7,5 +7,5 @@ symbol: CTASK
 decimals: 18
 icons:
   - icon.png
-color: "#5dd474"
+color: "#f8f8f8"
 ---

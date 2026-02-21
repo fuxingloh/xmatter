@@ -7,5 +7,5 @@ symbol: WEYU
 decimals: 18
 icons:
   - icon.png
-color: "#dbdef4"
+color: "#f8f8f8"
 ---

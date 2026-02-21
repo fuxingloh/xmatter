@@ -7,5 +7,5 @@ symbol: AVME
 decimals: 18
 icons:
   - icon.png
-color: "#70bee4"
+color: "#f8f8f8"
 ---

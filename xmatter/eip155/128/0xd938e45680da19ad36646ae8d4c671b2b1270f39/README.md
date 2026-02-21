@@ -7,5 +7,5 @@ symbol: NULS
 decimals: 8
 icons:
   - icon.png
-color: "#e0eed1"
+color: "#f8f8f8"
 ---

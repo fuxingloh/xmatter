@@ -7,5 +7,5 @@ symbol: VITE
 decimals: 18
 icons:
   - icon.png
-color: "#0078f8"
+color: "#080808"
 ---

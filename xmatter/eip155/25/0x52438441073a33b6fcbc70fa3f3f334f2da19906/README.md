@@ -7,5 +7,5 @@ symbol: PHNX
 decimals: 18
 icons:
   - icon.png
-color: "#f9dad4"
+color: "#f8f8f8"
 ---

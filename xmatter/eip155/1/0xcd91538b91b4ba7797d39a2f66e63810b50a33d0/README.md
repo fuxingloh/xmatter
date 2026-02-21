@@ -7,5 +7,5 @@ symbol: STABLEx
 decimals: 18
 icons:
   - icon.png
-color: "#c06c89"
+color: "#080808"
 ---

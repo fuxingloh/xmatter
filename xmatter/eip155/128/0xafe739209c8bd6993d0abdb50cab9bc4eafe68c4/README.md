@@ -7,5 +7,5 @@ symbol: GFC
 decimals: 18
 icons:
   - icon.png
-color: "#3594d4"
+color: "#080808"
 ---

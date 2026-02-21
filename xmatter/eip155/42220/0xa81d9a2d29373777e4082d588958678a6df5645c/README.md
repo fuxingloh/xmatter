@@ -7,5 +7,5 @@ symbol: KNX
 decimals: 18
 icons:
   - icon.png
-color: "#f80048"
+color: "#080808"
 ---

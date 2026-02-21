@@ -7,5 +7,5 @@ symbol: DFD
 decimals: 18
 icons:
   - icon.png
-color: "#050504"
+color: "#080808"
 ---

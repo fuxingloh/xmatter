@@ -7,5 +7,5 @@ symbol: FIX
 decimals: 18
 icons:
   - icon.png
-color: "#3cdce2"
+color: "#080808"
 ---

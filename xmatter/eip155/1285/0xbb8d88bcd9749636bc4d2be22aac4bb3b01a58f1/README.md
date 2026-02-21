@@ -7,5 +7,5 @@ symbol: MFAM
 decimals: 18
 icons:
   - icon.png
-color: "#fce492"
+color: "#080808"
 ---

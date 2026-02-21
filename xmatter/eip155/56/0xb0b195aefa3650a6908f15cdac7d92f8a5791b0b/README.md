@@ -7,5 +7,5 @@ symbol: BOB
 decimals: 18
 icons:
   - icon.png
-color: "#a265fc"
+color: "#f8f8f8"
 ---

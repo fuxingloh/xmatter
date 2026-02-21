@@ -7,5 +7,5 @@ symbol: SNOB
 decimals: 18
 icons:
   - icon.png
-color: "#46c4fc"
+color: "#f8f8f8"
 ---

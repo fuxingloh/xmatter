@@ -7,5 +7,5 @@ symbol: EDC
 decimals: 9
 icons:
   - icon.png
-color: "#ec326c"
+color: "#f8f8f8"
 ---

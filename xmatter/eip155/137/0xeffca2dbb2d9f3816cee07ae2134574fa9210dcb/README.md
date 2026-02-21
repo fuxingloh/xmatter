@@ -7,5 +7,5 @@ symbol: RBAG
 decimals: 18
 icons:
   - icon.png
-color: "#ac9446"
+color: "#080808"
 ---

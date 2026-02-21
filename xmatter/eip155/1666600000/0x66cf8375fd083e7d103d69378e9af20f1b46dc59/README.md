@@ -7,5 +7,5 @@ symbol: HPLAY
 decimals: 18
 icons:
   - icon.png
-color: "#1c2435"
+color: "#182838"
 ---

@@ -7,5 +7,5 @@ symbol: JJPY
 decimals: 18
 icons:
   - icon.png
-color: "#e1899c"
+color: "#f8f8f8"
 ---

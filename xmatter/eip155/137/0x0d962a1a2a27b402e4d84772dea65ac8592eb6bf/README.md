@@ -7,5 +7,5 @@ symbol: GMS
 decimals: 18
 icons:
   - icon.png
-color: "#6cc4ee"
+color: "#f8f8f8"
 ---

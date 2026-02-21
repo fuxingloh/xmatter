@@ -7,5 +7,5 @@ symbol: HUH
 decimals: 9
 icons:
   - icon.png
-color: "#dfe6fa"
+color: "#0838f8"
 ---

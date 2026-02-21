@@ -7,5 +7,5 @@ symbol: THS
 decimals: 18
 icons:
   - icon.png
-color: "#eed69c"
+color: "#080808"
 ---

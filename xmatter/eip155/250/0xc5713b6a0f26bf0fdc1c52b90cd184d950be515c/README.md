@@ -7,5 +7,5 @@ symbol: LINSPIRIT
 decimals: 18
 icons:
   - icon.png
-color: "#e4e6e6"
+color: "#080808"
 ---

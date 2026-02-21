@@ -7,5 +7,5 @@ symbol: HEC
 decimals: 18
 icons:
   - icon.png
-color: "#d98b33"
+color: "#080808"
 ---

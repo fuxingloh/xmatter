@@ -7,5 +7,5 @@ symbol: WATERFALL
 decimals: 18
 icons:
   - icon.jpeg
-color: "#1b2b2b"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: MOONED
 decimals: 18
 icons:
   - icon.png
-color: "#060607"
+color: "#080808"
 ---

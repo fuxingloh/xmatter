@@ -7,5 +7,5 @@ symbol: BONE
 decimals: 18
 icons:
   - icon.png
-color: "#d44c44"
+color: "#d84848"
 ---

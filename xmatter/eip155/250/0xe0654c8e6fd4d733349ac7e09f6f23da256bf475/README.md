@@ -7,5 +7,5 @@ symbol: SCREAM
 decimals: 18
 icons:
   - icon.png
-color: "#fabcd4"
+color: "#68e8d8"
 ---

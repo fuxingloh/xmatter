@@ -7,5 +7,5 @@ symbol: SUM
 decimals: 18
 icons:
   - icon.png
-color: "#bf1e9d"
+color: "#c81898"
 ---

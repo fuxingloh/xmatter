@@ -7,5 +7,5 @@ symbol: POOL
 decimals: 18
 icons:
   - icon.png
-color: "#7c45ec"
+color: "#f8f8f8"
 ---

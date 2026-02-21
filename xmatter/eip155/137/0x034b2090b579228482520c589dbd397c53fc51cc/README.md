@@ -7,5 +7,5 @@ symbol: VISION
 decimals: 18
 icons:
   - icon.png
-color: "#b010d4"
+color: "#080808"
 ---

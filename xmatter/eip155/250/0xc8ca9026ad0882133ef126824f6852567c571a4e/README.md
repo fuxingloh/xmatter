@@ -7,5 +7,5 @@ symbol: MSHARE
 decimals: 18
 icons:
   - icon.png
-color: "#67534d"
+color: "#080808"
 ---

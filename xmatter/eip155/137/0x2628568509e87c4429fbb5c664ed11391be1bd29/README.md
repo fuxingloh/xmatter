@@ -7,5 +7,5 @@ symbol: renDGB
 decimals: 8
 icons:
   - icon.png
-color: "#0464cc"
+color: "#080808"
 ---

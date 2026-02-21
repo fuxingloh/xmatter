@@ -7,5 +7,5 @@ symbol: HFI
 decimals: 18
 icons:
   - icon.png
-color: "#d1f9f2"
+color: "#38e8c8"
 ---

@@ -7,5 +7,5 @@ symbol: RUX
 decimals: 18
 icons:
   - icon.png
-color: "#000000"
+color: "#080808"
 ---

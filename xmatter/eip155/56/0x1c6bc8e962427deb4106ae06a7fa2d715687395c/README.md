@@ -7,5 +7,5 @@ symbol: CHARGE
 decimals: 18
 icons:
   - icon.jpeg
-color: "#ebecf1"
+color: "#383838"
 ---

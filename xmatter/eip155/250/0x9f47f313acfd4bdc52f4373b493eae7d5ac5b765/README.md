@@ -7,5 +7,5 @@ symbol: JOE
 decimals: 18
 icons:
   - icon.png
-color: "#c66c64"
+color: "#f8f8f8"
 ---

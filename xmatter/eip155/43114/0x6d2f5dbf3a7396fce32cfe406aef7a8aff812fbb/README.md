@@ -7,5 +7,5 @@ symbol: ASTRO
 decimals: 18
 icons:
   - icon.jpeg
-color: "#421b83"
+color: "#381878"
 ---

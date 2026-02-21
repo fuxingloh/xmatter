@@ -7,5 +7,5 @@ symbol: UNIM
 decimals: 18
 icons:
   - icon.png
-color: "#822ae3"
+color: "#f8f8f8"
 ---

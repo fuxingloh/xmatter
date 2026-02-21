@@ -7,5 +7,5 @@ symbol: SWG
 decimals: 18
 icons:
   - icon.png
-color: "#28b0d8"
+color: "#080808"
 ---

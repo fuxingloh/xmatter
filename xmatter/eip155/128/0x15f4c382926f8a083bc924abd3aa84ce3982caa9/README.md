@@ -7,5 +7,5 @@ symbol: BXC
 decimals: 18
 icons:
   - icon.png
-color: "#fbc107"
+color: "#080808"
 ---

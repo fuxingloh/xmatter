@@ -7,5 +7,5 @@ symbol: ICR
 decimals: 8
 icons:
   - icon.png
-color: "#f2df94"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: KMOON
 decimals: 18
 icons:
   - icon.png
-color: "#eae8f8"
+color: "#e8e8f8"
 ---

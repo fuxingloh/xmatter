@@ -7,5 +7,5 @@ symbol: BEETS
 decimals: 18
 icons:
   - icon.png
-color: "#d40404"
+color: "#080808"
 ---

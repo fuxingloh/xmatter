@@ -7,5 +7,5 @@ symbol: sd3Crv
 decimals: 18
 icons:
   - icon.png
-color: "#050505"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: SMRTR
 decimals: 18
 icons:
   - icon.png
-color: "#893153"
+color: "#080808"
 ---

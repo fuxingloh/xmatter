@@ -7,5 +7,5 @@ symbol: PEA
 decimals: 18
 icons:
   - icon.png
-color: "#e03b3f"
+color: "#080808"
 ---

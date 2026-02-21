@@ -7,5 +7,5 @@ symbol: BIOFI
 decimals: 6
 icons:
   - icon.png
-color: "#377885"
+color: "#080808"
 ---

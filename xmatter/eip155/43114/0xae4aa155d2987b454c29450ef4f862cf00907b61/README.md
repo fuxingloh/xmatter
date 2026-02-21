@@ -7,5 +7,5 @@ symbol: THO
 decimals: 18
 icons:
   - icon.png
-color: "#374593"
+color: "#f8f8f8"
 ---

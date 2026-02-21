@@ -7,5 +7,5 @@ symbol: BLEO
 decimals: 3
 icons:
   - icon.png
-color: "#150d04"
+color: "#080808"
 ---

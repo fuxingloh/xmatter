@@ -7,5 +7,5 @@ symbol: AFI
 decimals: 18
 icons:
   - icon.png
-color: "#1e222b"
+color: "#181828"
 ---

@@ -7,5 +7,5 @@ symbol: IUSDS
 decimals: 18
 icons:
   - icon.png
-color: "#b546fc"
+color: "#b848f8"
 ---

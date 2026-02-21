@@ -6,6 +6,6 @@ symbol: CRE8R
 icons:
   - icon.svg
   - icon.png
-color: "#d2d2d2"
+color: "#f8f8f8"
 decimals: 18
 ---

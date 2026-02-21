@@ -7,5 +7,5 @@ symbol: OSEA
 decimals: 18
 icons:
   - icon.png
-color: "#f26286"
+color: "#080808"
 ---

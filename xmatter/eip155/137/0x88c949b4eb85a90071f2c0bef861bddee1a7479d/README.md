@@ -7,5 +7,5 @@ symbol: MSHEESHA
 decimals: 18
 icons:
   - icon.png
-color: "#15236b"
+color: "#181868"
 ---

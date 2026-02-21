@@ -7,5 +7,5 @@ symbol: POP
 decimals: 18
 icons:
   - icon.png
-color: "#fce45c"
+color: "#f8e858"
 ---

@@ -7,5 +7,5 @@ symbol: maUNI
 decimals: 18
 icons:
   - icon.png
-color: "#e7e1ed"
+color: "#f8f8f8"
 ---

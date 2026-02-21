@@ -7,5 +7,5 @@ symbol: KART
 decimals: 18
 icons:
   - icon.png
-color: "#fb943c"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: AUT
 decimals: 18
 icons:
   - icon.png
-color: "#353535"
+color: "#f8f8f8"
 ---

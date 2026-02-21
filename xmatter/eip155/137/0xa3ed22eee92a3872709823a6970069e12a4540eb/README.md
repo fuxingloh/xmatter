@@ -7,5 +7,5 @@ symbol: FRONT
 decimals: 18
 icons:
   - icon.png
-color: "#402a27"
+color: "#382828"
 ---

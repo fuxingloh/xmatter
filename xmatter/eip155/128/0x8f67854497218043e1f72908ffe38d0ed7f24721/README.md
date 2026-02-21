@@ -7,5 +7,5 @@ symbol: LHB
 decimals: 18
 icons:
   - icon.png
-color: "#141c55"
+color: "#081858"
 ---

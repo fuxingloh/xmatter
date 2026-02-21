@@ -7,5 +7,5 @@ symbol: PAPER
 decimals: 18
 icons:
   - icon.jpeg
-color: "#121212"
+color: "#f8f8f8"
 ---

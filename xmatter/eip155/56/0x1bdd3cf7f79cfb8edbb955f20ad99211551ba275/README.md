@@ -7,5 +7,5 @@ symbol: BNBX
 decimals: 18
 icons:
   - icon.webp
-color: "#ecb735"
+color: "#080808"
 ---

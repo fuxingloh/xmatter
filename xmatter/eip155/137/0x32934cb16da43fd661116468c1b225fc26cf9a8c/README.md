@@ -7,5 +7,5 @@ symbol: SNE
 decimals: 18
 icons:
   - icon.png
-color: "#d2cec5"
+color: "#080808"
 ---

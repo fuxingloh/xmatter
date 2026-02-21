@@ -7,5 +7,5 @@ symbol: PLG
 decimals: 18
 icons:
   - icon.png
-color: "#c478fc"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: RP
 decimals: 18
 icons:
   - icon.png
-color: "#fa061e"
+color: "#f8e8e8"
 ---

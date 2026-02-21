@@ -7,5 +7,5 @@ symbol: TOMB
 decimals: 18
 icons:
   - icon.png
-color: "#5e04e3"
+color: "#f8f8f8"
 ---

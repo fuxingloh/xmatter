@@ -7,5 +7,5 @@ symbol: avWAVAX
 decimals: 18
 icons:
   - icon.png
-color: "#8879b8"
+color: "#8878b8"
 ---

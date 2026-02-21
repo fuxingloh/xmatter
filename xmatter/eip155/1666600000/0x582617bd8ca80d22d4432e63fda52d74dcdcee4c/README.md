@@ -7,5 +7,5 @@ symbol: ADA
 decimals: 18
 icons:
   - icon.png
-color: "#5d8cd0"
+color: "#080808"
 ---

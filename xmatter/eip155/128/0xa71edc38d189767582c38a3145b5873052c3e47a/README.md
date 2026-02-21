@@ -7,5 +7,5 @@ symbol: USDTHECO
 decimals: 18
 icons:
   - icon.png
-color: "#d7ac5a"
+color: "#080808"
 ---

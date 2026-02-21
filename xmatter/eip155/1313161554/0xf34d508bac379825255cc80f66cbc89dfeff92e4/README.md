@@ -7,5 +7,5 @@ symbol: WSTR
 decimals: 18
 icons:
   - icon.svg
-color: "#000000"
+color: "#080808"
 ---

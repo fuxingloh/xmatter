@@ -7,5 +7,5 @@ symbol: BEANS
 decimals: 18
 icons:
   - icon.png
-color: "#cdd8e3"
+color: "#080808"
 ---

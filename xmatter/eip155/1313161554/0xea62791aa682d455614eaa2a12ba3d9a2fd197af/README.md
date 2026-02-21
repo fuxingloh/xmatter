@@ -7,5 +7,5 @@ symbol: FLX
 decimals: 18
 icons:
   - icon.png
-color: "#807dcd"
+color: "#080808"
 ---

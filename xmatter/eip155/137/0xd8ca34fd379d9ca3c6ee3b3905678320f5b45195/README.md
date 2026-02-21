@@ -7,5 +7,5 @@ symbol: GOHM
 decimals: 18
 icons:
   - icon.png
-color: "#82999f"
+color: "#f8f8f8"
 ---

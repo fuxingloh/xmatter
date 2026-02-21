@@ -7,5 +7,5 @@ symbol: GENI
 decimals: 18
 icons:
   - icon.png
-color: "#d5a34c"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: KITTY
 decimals: 18
 icons:
   - icon.png
-color: "#aecfcc"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: PAN
 decimals: 18
 icons:
   - icon.png
-color: "#248bc4"
+color: "#080808"
 ---

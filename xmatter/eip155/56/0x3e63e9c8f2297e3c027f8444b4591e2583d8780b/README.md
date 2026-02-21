@@ -7,5 +7,5 @@ symbol: PLOT
 decimals: 18
 icons:
   - icon.jpeg
-color: "#dcdbda"
+color: "#f8f8f8"
 ---

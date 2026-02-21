@@ -7,5 +7,5 @@ symbol: PDO
 decimals: 18
 icons:
   - icon.png
-color: "#f2dc94"
+color: "#f8e898"
 ---

@@ -7,5 +7,5 @@ symbol: ATLX
 decimals: 18
 icons:
   - icon.png
-color: "#137cec"
+color: "#0878e8"
 ---

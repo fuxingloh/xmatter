@@ -6,6 +6,6 @@ symbol: TUSD
 icons:
   - icon.svg
   - icon.png
-color: "#042c6b"
+color: "#082868"
 decimals: 18
 ---

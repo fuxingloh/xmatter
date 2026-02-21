@@ -7,5 +7,5 @@ symbol: LOOKS
 decimals: 18
 icons:
   - icon.png
-color: "#15171d"
+color: "#181818"
 ---

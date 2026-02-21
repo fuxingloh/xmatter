@@ -7,5 +7,5 @@ symbol: eCell
 decimals: 2
 icons:
   - icon.png
-color: "#162640"
+color: "#181838"
 ---

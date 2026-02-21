@@ -7,5 +7,5 @@ symbol: VINCI
 decimals: 18
 icons:
   - icon.png
-color: "#242d5d"
+color: "#f8f8f8"
 ---

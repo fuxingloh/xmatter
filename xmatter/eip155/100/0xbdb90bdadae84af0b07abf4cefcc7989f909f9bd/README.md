@@ -7,5 +7,5 @@ symbol: BNSD
 decimals: 18
 icons:
   - icon.png
-color: "#6526e2"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: ORBITAL
 decimals: 18
 icons:
   - icon.svg
-color: "#251533"
+color: "#281838"
 ---

@@ -7,5 +7,5 @@ symbol: BTE
 decimals: 18
 icons:
   - icon.png
-color: "#1c2424"
+color: "#181828"
 ---

@@ -7,5 +7,5 @@ symbol: MTRG
 decimals: 18
 icons:
   - icon.png
-color: "#293866"
+color: "#f8f8f8"
 ---

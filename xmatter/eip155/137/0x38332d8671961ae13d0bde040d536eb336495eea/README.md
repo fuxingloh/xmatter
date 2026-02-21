@@ -7,5 +7,5 @@ symbol: mRTK
 decimals: 18
 icons:
   - icon.png
-color: "#5e5353"
+color: "#080808"
 ---

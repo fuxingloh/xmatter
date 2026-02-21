@@ -7,5 +7,5 @@ symbol: DPT
 decimals: 18
 icons:
   - icon.png
-color: "#795a2e"
+color: "#f8f8f8"
 ---

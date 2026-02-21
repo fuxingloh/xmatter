@@ -7,5 +7,5 @@ symbol: MONGOOSE
 decimals: 9
 icons:
   - icon.png
-color: "#e2a715"
+color: "#d89808"
 ---

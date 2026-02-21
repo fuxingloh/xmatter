@@ -7,5 +7,5 @@ symbol: PHONON
 decimals: 18
 icons:
   - icon.png
-color: "#44cac9"
+color: "#080808"
 ---

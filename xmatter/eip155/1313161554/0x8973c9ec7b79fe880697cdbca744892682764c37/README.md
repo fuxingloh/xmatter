@@ -7,5 +7,5 @@ symbol: BAKED
 decimals: 18
 icons:
   - icon.svg
-color: "#4474bc"
+color: "#f8f8f8"
 ---

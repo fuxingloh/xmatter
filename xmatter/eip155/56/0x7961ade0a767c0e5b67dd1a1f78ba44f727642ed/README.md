@@ -7,5 +7,5 @@ symbol: QUIDD
 decimals: 18
 icons:
   - icon.png
-color: "#6018c8"
+color: "#6818c8"
 ---

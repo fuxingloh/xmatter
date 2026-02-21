@@ -7,5 +7,5 @@ symbol: VBSWAP
 decimals: 18
 icons:
   - icon.png
-color: "#e4c454"
+color: "#f8f8f8"
 ---

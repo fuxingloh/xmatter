@@ -7,5 +7,5 @@ symbol: SORA
 decimals: 18
 icons:
   - icon.png
-color: "#e5252d"
+color: "#e82828"
 ---

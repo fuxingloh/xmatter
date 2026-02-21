@@ -7,5 +7,5 @@ symbol: RELAY
 decimals: 18
 icons:
   - icon.png
-color: "#62c8cc"
+color: "#080808"
 ---

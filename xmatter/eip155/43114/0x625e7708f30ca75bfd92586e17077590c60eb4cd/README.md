@@ -7,5 +7,5 @@ symbol: AUSDC
 decimals: 6
 icons:
   - icon.webp
-color: "#2b74ca"
+color: "#2878c8"
 ---

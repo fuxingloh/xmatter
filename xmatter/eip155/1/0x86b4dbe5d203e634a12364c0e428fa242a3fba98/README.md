@@ -7,5 +7,5 @@ symbol: GBPT
 decimals: 18
 icons:
   - icon.jpeg
-color: "#e4f8f1"
+color: "#78e8b8"
 ---

@@ -7,5 +7,5 @@ symbol: SWAP
 decimals: 18
 icons:
   - icon.png
-color: "#2bcdfc"
+color: "#080808"
 ---

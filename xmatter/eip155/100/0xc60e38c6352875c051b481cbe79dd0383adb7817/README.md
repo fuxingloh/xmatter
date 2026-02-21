@@ -7,5 +7,5 @@ symbol: NODE
 decimals: 18
 icons:
   - icon.png
-color: "#5eb3b2"
+color: "#58b8b8"
 ---

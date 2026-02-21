@@ -7,5 +7,5 @@ symbol: RADIO
 decimals: 18
 icons:
   - icon.jpeg
-color: "#f9ece4"
+color: "#f8f8f8"
 ---

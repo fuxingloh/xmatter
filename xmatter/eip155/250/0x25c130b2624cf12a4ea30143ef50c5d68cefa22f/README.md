@@ -7,5 +7,5 @@ symbol: GETH
 decimals: 18
 icons:
   - icon.png
-color: "#5a5e5a"
+color: "#f8f8f8"
 ---

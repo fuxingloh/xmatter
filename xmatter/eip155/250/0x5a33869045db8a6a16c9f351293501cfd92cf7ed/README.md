@@ -7,5 +7,5 @@ symbol: BSGG
 decimals: 18
 icons:
   - icon.png
-color: "#f9d504"
+color: "#181818"
 ---

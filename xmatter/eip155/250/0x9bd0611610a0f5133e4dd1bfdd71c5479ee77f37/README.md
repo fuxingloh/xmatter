@@ -7,5 +7,5 @@ symbol: FTMO
 decimals: 18
 icons:
   - icon.png
-color: "#157bbc"
+color: "#f8f8f8"
 ---

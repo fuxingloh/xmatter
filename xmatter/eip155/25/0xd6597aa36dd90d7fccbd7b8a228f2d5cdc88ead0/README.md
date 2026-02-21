@@ -7,5 +7,5 @@ symbol: TIGER
 decimals: 18
 icons:
   - icon.png
-color: "#845b4b"
+color: "#080808"
 ---

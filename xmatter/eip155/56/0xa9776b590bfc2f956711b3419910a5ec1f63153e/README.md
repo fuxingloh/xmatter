@@ -7,5 +7,5 @@ symbol: RUNE
 decimals: 18
 icons:
   - icon.png
-color: "#bebdc2"
+color: "#080808"
 ---

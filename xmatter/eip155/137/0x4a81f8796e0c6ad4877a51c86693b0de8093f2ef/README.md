@@ -7,5 +7,5 @@ symbol: ICE
 decimals: 18
 icons:
   - icon.png
-color: "#f1b465"
+color: "#881858"
 ---

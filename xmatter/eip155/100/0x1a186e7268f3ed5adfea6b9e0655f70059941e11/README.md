@@ -7,5 +7,5 @@ symbol: NIF
 decimals: 18
 icons:
   - icon.png
-color: "#923b9a"
+color: "#983898"
 ---

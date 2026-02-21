@@ -8,5 +8,5 @@ decimals: 18
 icons:
   - icon.png
   - icon.jpeg
-color: "#0a0a0a"
+color: "#080808"
 ---

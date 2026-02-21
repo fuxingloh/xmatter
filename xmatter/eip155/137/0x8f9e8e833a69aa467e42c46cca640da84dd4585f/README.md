@@ -7,5 +7,5 @@ symbol: CHAMP
 decimals: 8
 icons:
   - icon.png
-color: "#fb0443"
+color: "#f80848"
 ---

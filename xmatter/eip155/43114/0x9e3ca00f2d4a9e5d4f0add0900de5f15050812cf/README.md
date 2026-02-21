@@ -7,5 +7,5 @@ symbol: NFTD
 decimals: 18
 icons:
   - icon.png
-color: "#ebf3fc"
+color: "#e8f8f8"
 ---

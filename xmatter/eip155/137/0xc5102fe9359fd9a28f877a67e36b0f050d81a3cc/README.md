@@ -7,5 +7,5 @@ symbol: HOP
 decimals: 18
 icons:
   - icon.png
-color: "#d268cc"
+color: "#c858d8"
 ---

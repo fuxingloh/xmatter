@@ -7,5 +7,5 @@ symbol: YLD
 decimals: 18
 icons:
   - icon.png
-color: "#dbae7b"
+color: "#383838"
 ---

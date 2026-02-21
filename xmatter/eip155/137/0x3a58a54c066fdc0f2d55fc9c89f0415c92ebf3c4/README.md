@@ -7,5 +7,5 @@ symbol: STMATIC
 decimals: 18
 icons:
   - icon.png
-color: "#24bafc"
+color: "#f8f8f8"
 ---

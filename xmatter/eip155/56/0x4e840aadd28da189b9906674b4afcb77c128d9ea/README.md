@@ -7,5 +7,5 @@ symbol: HTB
 decimals: 18
 icons:
   - icon.png
-color: "#06fcd4"
+color: "#f8f8f8"
 ---

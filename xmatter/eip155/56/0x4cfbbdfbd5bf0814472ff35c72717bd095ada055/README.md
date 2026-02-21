@@ -7,5 +7,5 @@ symbol: Suter
 decimals: 18
 icons:
   - icon.png
-color: "#e7b22b"
+color: "#080818"
 ---

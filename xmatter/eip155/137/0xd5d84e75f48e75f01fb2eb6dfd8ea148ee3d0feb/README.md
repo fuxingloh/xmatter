@@ -7,5 +7,5 @@ symbol: PGOV
 decimals: 18
 icons:
   - icon.png
-color: "#f39277"
+color: "#f8f8f8"
 ---

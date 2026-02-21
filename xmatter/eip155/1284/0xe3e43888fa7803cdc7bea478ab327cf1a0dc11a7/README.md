@@ -7,5 +7,5 @@ symbol: FLARE
 decimals: 18
 icons:
   - icon.png
-color: "#fc4779"
+color: "#f84878"
 ---

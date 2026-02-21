@@ -7,5 +7,5 @@ symbol: BNS
 decimals: 18
 icons:
   - icon.png
-color: "#8d0dd3"
+color: "#8808d8"
 ---

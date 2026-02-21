@@ -7,5 +7,5 @@ symbol: KIKA
 decimals: 18
 icons:
   - icon.png
-color: "#d0429f"
+color: "#f8f8f8"
 ---

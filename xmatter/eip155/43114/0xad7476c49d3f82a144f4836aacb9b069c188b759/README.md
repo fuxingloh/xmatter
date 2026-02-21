@@ -7,5 +7,5 @@ symbol: SLD
 decimals: 18
 icons:
   - icon.png
-color: "#402524"
+color: "#080808"
 ---

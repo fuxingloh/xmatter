@@ -7,5 +7,5 @@ symbol: LLC
 decimals: 18
 icons:
   - icon.png
-color: "#060505"
+color: "#080808"
 ---

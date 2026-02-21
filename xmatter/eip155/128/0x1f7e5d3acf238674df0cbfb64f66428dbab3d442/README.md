@@ -7,5 +7,5 @@ symbol: SID
 decimals: 18
 icons:
   - icon.png
-color: "#040504"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: POLS
 decimals: 18
 icons:
   - icon.png
-color: "#fc3464"
+color: "#f83868"
 ---

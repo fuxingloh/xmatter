@@ -7,5 +7,5 @@ symbol: ALM
 decimals: 18
 icons:
   - icon.png
-color: "#23b878"
+color: "#080808"
 ---

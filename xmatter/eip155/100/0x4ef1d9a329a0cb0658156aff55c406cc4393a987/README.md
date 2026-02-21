@@ -7,5 +7,5 @@ symbol: DAIX
 decimals: 18
 icons:
   - icon.png
-color: "#f4ac34"
+color: "#f8a838"
 ---

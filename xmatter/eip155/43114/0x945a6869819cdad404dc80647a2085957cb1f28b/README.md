@@ -7,5 +7,5 @@ symbol: LEO
 decimals: 5
 icons:
   - icon.jpeg
-color: "#191a2c"
+color: "#080808"
 ---

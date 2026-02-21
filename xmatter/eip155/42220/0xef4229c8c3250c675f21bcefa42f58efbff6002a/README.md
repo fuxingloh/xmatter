@@ -7,5 +7,5 @@ symbol: USDC
 decimals: 6
 icons:
   - icon.png
-color: "#2373cb"
+color: "#2878c8"
 ---

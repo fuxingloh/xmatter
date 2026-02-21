@@ -7,5 +7,5 @@ symbol: MEM
 decimals: 18
 icons:
   - icon.png
-color: "#f4ede0"
+color: "#c8a868"
 ---

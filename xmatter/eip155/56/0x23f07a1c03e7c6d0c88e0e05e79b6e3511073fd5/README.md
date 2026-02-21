@@ -7,5 +7,5 @@ symbol: CDS
 decimals: 8
 icons:
   - icon.png
-color: "#996818"
+color: "#080808"
 ---

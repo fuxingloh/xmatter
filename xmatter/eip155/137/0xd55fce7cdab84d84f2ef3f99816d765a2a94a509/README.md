@@ -7,5 +7,5 @@ symbol: CHAIN
 decimals: 18
 icons:
   - icon.png
-color: "#9d391c"
+color: "#080808"
 ---

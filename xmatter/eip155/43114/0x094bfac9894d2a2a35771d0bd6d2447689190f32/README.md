@@ -7,5 +7,5 @@ symbol: CAT
 decimals: 18
 icons:
   - icon.png
-color: "#fcda07"
+color: "#080808"
 ---

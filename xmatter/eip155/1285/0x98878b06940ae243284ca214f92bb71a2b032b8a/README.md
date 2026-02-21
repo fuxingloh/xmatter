@@ -7,5 +7,5 @@ symbol: MOVR
 decimals: 18
 icons:
   - icon.png
-color: "#f4b405"
+color: "#080808"
 ---

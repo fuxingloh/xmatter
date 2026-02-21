@@ -7,5 +7,5 @@ symbol: KING
 decimals: 18
 icons:
   - icon.png
-color: "#fbd838"
+color: "#080808"
 ---

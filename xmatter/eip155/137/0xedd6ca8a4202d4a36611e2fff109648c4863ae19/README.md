@@ -7,5 +7,5 @@ symbol: MAHA
 decimals: 18
 icons:
   - icon.png
-color: "#cf3939"
+color: "#181818"
 ---

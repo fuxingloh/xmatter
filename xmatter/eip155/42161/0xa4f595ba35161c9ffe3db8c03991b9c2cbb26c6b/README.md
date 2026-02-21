@@ -7,5 +7,5 @@ symbol: LYS
 decimals: 18
 icons:
   - icon.png
-color: "#3e9d95"
+color: "#080808"
 ---

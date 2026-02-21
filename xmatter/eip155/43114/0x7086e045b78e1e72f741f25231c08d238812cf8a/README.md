@@ -7,5 +7,5 @@ symbol: RACEX
 decimals: 18
 icons:
   - icon.png
-color: "#2c0d07"
+color: "#280808"
 ---

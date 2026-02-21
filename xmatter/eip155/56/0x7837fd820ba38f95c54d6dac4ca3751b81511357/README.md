@@ -7,5 +7,5 @@ symbol: DOSE
 decimals: 18
 icons:
   - icon.png
-color: "#e8d3c1"
+color: "#f8f8f8"
 ---

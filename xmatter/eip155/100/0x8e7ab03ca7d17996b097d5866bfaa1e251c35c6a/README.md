@@ -7,5 +7,5 @@ symbol: DUCK
 decimals: 18
 icons:
   - icon.png
-color: "#fa9bcc"
+color: "#f898c8"
 ---

@@ -7,5 +7,5 @@ symbol: EXOD
 decimals: 9
 icons:
   - icon.jpeg
-color: "#040404"
+color: "#080808"
 ---

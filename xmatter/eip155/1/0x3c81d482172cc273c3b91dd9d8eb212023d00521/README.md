@@ -7,5 +7,5 @@ symbol: PRY
 decimals: 18
 icons:
   - icon.png
-color: "#fc4966"
+color: "#080808"
 ---

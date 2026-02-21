@@ -7,5 +7,5 @@ symbol: ROSE
 decimals: 18
 icons:
   - icon.png
-color: "#192b15"
+color: "#f8f898"
 ---

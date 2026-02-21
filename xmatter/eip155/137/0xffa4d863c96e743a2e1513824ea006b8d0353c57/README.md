@@ -7,5 +7,5 @@ symbol: USDD
 decimals: 18
 icons:
   - icon.jpeg
-color: "#e7f7f5"
+color: "#f8f8f8"
 ---

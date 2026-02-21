@@ -7,5 +7,5 @@ symbol: OXDV2
 decimals: 18
 icons:
   - icon.jpeg
-color: "#f1f8f5"
+color: "#f8f8f8"
 ---

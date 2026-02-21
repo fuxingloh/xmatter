@@ -7,5 +7,5 @@ symbol: FUSE
 decimals: 18
 icons:
   - icon.png
-color: "#112a37"
+color: "#082838"
 ---

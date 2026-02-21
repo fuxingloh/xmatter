@@ -7,5 +7,5 @@ symbol: DEER
 decimals: 18
 icons:
   - icon.png
-color: "#06f01c"
+color: "#080808"
 ---

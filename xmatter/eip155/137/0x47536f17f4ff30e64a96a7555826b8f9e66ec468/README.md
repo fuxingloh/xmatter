@@ -7,5 +7,5 @@ symbol: BELUGA
 decimals: 18
 icons:
   - icon.png
-color: "#906dc5"
+color: "#080808"
 ---

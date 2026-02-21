@@ -7,5 +7,5 @@ symbol: ONE
 decimals: 18
 icons:
   - icon.png
-color: "#6c54bc"
+color: "#6858b8"
 ---

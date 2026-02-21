@@ -7,5 +7,5 @@ symbol: GCAKE
 decimals: 18
 icons:
   - icon.png
-color: "#f5faf5"
+color: "#f8f8f8"
 ---

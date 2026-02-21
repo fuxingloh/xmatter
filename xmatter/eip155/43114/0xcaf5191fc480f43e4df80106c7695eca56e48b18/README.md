@@ -7,5 +7,5 @@ symbol: AKITA
 decimals: 18
 icons:
   - icon.png
-color: "#dedaee"
+color: "#f8f8f8"
 ---

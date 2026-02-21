@@ -7,5 +7,5 @@ symbol: FILDA
 decimals: 18
 icons:
   - icon.png
-color: "#040506"
+color: "#080808"
 ---

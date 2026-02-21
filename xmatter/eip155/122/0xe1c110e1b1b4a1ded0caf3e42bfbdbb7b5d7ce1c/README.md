@@ -7,5 +7,5 @@ symbol: ELK
 decimals: 18
 icons:
   - icon.png
-color: "#8324ea"
+color: "#8828e8"
 ---

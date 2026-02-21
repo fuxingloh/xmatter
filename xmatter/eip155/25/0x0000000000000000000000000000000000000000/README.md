@@ -7,5 +7,5 @@ symbol: CRO
 decimals: 18
 icons:
   - icon.jpeg
-color: "#dfe8ed"
+color: "#082868"
 ---

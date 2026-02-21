@@ -7,5 +7,5 @@ symbol: SCA
 decimals: 18
 icons:
   - icon.png
-color: "#e59140"
+color: "#080808"
 ---

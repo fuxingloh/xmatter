@@ -7,5 +7,5 @@ symbol: FAME
 decimals: 18
 icons:
   - icon.svg
-color: "#148eda"
+color: "#080808"
 ---

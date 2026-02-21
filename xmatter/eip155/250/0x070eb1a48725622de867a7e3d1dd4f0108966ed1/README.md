@@ -7,5 +7,5 @@ symbol: POOP
 decimals: 18
 icons:
   - icon.png
-color: "#e40c88"
+color: "#080808"
 ---

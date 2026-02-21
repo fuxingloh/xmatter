@@ -7,5 +7,5 @@ symbol: WMX
 decimals: 18
 icons:
   - icon.png
-color: "#e6c249"
+color: "#080808"
 ---

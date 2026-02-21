@@ -7,5 +7,5 @@ symbol: UFI
 decimals: 18
 icons:
   - icon.webp
-color: "#151c44"
+color: "#f8f8f8"
 ---

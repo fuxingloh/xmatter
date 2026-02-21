@@ -7,5 +7,5 @@ symbol: DAI
 decimals: 18
 icons:
   - icon.png
-color: "#fcb931"
+color: "#f8c848"
 ---

@@ -7,5 +7,5 @@ symbol: bBADGER
 decimals: 18
 icons:
   - icon.png
-color: "#151114"
+color: "#f8a828"
 ---

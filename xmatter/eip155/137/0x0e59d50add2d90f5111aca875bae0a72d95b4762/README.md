@@ -7,5 +7,5 @@ symbol: DB
 decimals: 18
 icons:
   - icon.png
-color: "#d3d3d3"
+color: "#f8f8f8"
 ---

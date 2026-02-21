@@ -7,5 +7,5 @@ symbol: KIRO
 decimals: 18
 icons:
   - icon.png
-color: "#445464"
+color: "#485868"
 ---

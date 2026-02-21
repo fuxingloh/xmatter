@@ -7,5 +7,5 @@ symbol: GLCH
 decimals: 18
 icons:
   - icon.png
-color: "#dfe5ea"
+color: "#080808"
 ---

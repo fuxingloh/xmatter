@@ -7,5 +7,5 @@ symbol: BBT
 decimals: 18
 icons:
   - icon.svg
-color: "#1c8cfc"
+color: "#080808"
 ---

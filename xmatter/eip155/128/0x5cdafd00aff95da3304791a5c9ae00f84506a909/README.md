@@ -7,5 +7,5 @@ symbol: MFIL
 decimals: 18
 icons:
   - icon.png
-color: "#25cbba"
+color: "#080808"
 ---

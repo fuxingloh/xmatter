@@ -7,5 +7,5 @@ symbol: REALT-S-12866-LAUDE
 decimals: 18
 icons:
   - icon.jpeg
-color: "#716f69"
+color: "#f8f8f8"
 ---

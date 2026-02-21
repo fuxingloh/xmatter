@@ -7,5 +7,5 @@ symbol: EFIL
 decimals: 18
 icons:
   - icon.png
-color: "#0088f8"
+color: "#0888f8"
 ---

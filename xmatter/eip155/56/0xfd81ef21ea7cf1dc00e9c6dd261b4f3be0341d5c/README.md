@@ -7,5 +7,5 @@ symbol: DIBS
 decimals: 18
 icons:
   - icon.png
-color: "#f5b519"
+color: "#f8a808"
 ---

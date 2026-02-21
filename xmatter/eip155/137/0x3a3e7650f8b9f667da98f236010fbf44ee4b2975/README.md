@@ -7,5 +7,5 @@ symbol: XUSD
 decimals: 18
 icons:
   - icon.png
-color: "#c34d96"
+color: "#080808"
 ---

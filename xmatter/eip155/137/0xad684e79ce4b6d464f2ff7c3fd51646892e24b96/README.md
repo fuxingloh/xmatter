@@ -7,5 +7,5 @@ symbol: NIOX
 decimals: 4
 icons:
   - icon.png
-color: "#2bc59f"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: ALBT
 decimals: 18
 icons:
   - icon.png
-color: "#055da6"
+color: "#0858a8"
 ---

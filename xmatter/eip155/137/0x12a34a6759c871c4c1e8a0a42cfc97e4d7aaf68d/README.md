@@ -7,5 +7,5 @@ symbol: TUT
 decimals: 18
 icons:
   - icon.png
-color: "#287383"
+color: "#080808"
 ---

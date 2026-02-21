@@ -7,5 +7,5 @@ symbol: LUNC
 decimals: 18
 icons:
   - icon.png
-color: "#eac954"
+color: "#082858"
 ---

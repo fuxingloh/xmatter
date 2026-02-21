@@ -7,5 +7,5 @@ symbol: VSHARE
 decimals: 18
 icons:
   - icon.png
-color: "#566cfc"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: RITE
 decimals: 18
 icons:
   - icon.png
-color: "#121414"
+color: "#181818"
 ---

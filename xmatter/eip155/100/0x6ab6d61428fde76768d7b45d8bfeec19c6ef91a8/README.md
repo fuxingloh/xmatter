@@ -7,5 +7,5 @@ symbol: GTON
 decimals: 18
 icons:
   - icon.png
-color: "#201f1f"
+color: "#181818"
 ---

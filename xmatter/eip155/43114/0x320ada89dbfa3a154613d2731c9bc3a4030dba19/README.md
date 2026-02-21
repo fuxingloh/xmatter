@@ -7,5 +7,5 @@ symbol: FROST
 decimals: 18
 icons:
   - icon.png
-color: "#53b4e3"
+color: "#f8f8f8"
 ---

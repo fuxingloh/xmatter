@@ -7,5 +7,5 @@ symbol: WNEAR
 decimals: 24
 icons:
   - icon.png
-color: "#060607"
+color: "#f8f8f8"
 ---

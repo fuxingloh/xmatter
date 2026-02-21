@@ -7,5 +7,5 @@ symbol: JPEG
 decimals: 18
 icons:
   - icon.png
-color: "#264137"
+color: "#282828"
 ---

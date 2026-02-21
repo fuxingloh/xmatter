@@ -7,5 +7,5 @@ symbol: VSQ
 decimals: 9
 icons:
   - icon.png
-color: "#34cc9c"
+color: "#38c898"
 ---

@@ -7,5 +7,5 @@ symbol: DGMV
 decimals: 18
 icons:
   - icon.png
-color: "#112044"
+color: "#080808"
 ---

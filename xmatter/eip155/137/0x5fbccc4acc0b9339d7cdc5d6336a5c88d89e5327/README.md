@@ -7,5 +7,5 @@ symbol: SOLAR
 decimals: 18
 icons:
   - icon.png
-color: "#fcc904"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: UWL
 decimals: 18
 icons:
   - icon.png
-color: "#dce4f4"
+color: "#080808"
 ---

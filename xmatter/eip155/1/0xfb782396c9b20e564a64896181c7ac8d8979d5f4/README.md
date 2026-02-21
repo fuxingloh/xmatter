@@ -7,5 +7,5 @@ symbol: DIVER
 decimals: 18
 icons:
   - icon.png
-color: "#ddf5f5"
+color: "#f8f8f8"
 ---

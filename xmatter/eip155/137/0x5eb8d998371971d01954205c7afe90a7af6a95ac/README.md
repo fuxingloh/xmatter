@@ -7,5 +7,5 @@ symbol: AUDIO
 decimals: 18
 icons:
   - icon.png
-color: "#d408d4"
+color: "#d808d8"
 ---

@@ -7,5 +7,5 @@ symbol: AKITAX
 decimals: 18
 icons:
   - icon.png
-color: "#ea4f5b"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: MIMATIC
 decimals: 18
 icons:
   - icon.png
-color: "#da3334"
+color: "#d83838"
 ---

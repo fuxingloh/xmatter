@@ -7,5 +7,5 @@ symbol: BZRX
 decimals: 18
 icons:
   - icon.png
-color: "#106bd7"
+color: "#f8f8f8"
 ---

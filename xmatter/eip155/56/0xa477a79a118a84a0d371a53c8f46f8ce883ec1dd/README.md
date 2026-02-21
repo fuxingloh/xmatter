@@ -7,5 +7,5 @@ symbol: BBS
 decimals: 18
 icons:
   - icon.png
-color: "#6bb994"
+color: "#081828"
 ---

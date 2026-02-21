@@ -7,5 +7,5 @@ symbol: COMBO
 decimals: 18
 icons:
   - icon.png
-color: "#212530"
+color: "#181828"
 ---

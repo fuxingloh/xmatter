@@ -7,5 +7,5 @@ symbol: MOR
 decimals: 18
 icons:
   - icon.png
-color: "#14a8c4"
+color: "#181818"
 ---

@@ -7,5 +7,5 @@ symbol: SHO
 decimals: 18
 icons:
   - icon.png
-color: "#e84958"
+color: "#f8f8f8"
 ---

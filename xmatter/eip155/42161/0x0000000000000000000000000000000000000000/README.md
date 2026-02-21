@@ -7,5 +7,5 @@ symbol: ETH
 decimals: 18
 icons:
   - icon.png
-color: "#657ceb"
+color: "#6878e8"
 ---

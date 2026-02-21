@@ -7,5 +7,5 @@ symbol: COW
 decimals: 18
 icons:
   - icon.png
-color: "#4698f4"
+color: "#58a8f8"
 ---

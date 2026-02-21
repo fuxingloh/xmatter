@@ -7,5 +7,5 @@ symbol: SEA
 decimals: 18
 icons:
   - icon.png
-color: "#8ad2de"
+color: "#08b8d8"
 ---

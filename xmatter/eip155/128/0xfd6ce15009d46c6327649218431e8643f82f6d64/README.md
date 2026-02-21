@@ -7,5 +7,5 @@ symbol: HGT
 decimals: 18
 icons:
   - icon.png
-color: "#f5f5f7"
+color: "#080808"
 ---

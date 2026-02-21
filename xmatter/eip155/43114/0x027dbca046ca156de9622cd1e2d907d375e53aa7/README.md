@@ -7,5 +7,5 @@ symbol: AMPL
 decimals: 9
 icons:
   - icon.png
-color: "#050505"
+color: "#f8f8f8"
 ---

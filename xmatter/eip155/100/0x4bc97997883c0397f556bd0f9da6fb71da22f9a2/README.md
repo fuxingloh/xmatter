@@ -7,5 +7,5 @@ symbol: ALEPH
 decimals: 18
 icons:
   - icon.png
-color: "#0453fc"
+color: "#0858f8"
 ---

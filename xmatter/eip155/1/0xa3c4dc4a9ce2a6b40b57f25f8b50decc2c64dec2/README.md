@@ -7,5 +7,5 @@ symbol: SNFT
 decimals: 18
 icons:
   - icon.png
-color: "#faca1d"
+color: "#f8f8f8"
 ---

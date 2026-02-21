@@ -7,5 +7,5 @@ symbol: MON
 decimals: 18
 icons:
   - icon.png
-color: "#f0f0f0"
+color: "#080808"
 ---

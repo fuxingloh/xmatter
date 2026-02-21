@@ -7,5 +7,5 @@ symbol: SWTH
 decimals: 8
 icons:
   - icon.png
-color: "#e3fba3"
+color: "#e8f8a8"
 ---

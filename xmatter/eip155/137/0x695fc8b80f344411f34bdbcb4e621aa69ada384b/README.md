@@ -7,5 +7,5 @@ symbol: NITRO
 decimals: 18
 icons:
   - icon.png
-color: "#f9ebef"
+color: "#f80838"
 ---

@@ -7,5 +7,5 @@ symbol: BNT
 decimals: 18
 icons:
   - icon.png
-color: "#0c0c2b"
+color: "#080828"
 ---

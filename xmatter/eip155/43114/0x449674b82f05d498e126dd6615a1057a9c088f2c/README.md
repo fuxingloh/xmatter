@@ -7,5 +7,5 @@ symbol: LOST
 decimals: 18
 icons:
   - icon.png
-color: "#b66aa0"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: NEARX
 decimals: 24
 icons:
   - icon.svg
-color: "#2cabac"
+color: "#28a8a8"
 ---

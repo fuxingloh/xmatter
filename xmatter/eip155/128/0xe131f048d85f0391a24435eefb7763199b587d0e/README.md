@@ -7,5 +7,5 @@ symbol: LAMB
 decimals: 18
 icons:
   - icon.png
-color: "#5ea2c8"
+color: "#f8f8f8"
 ---

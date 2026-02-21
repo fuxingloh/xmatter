@@ -7,5 +7,5 @@ symbol: SELECT
 decimals: 18
 icons:
   - icon.jpeg
-color: "#54145e"
+color: "#581868"
 ---

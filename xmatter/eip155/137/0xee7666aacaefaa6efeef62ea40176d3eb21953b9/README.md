@@ -7,5 +7,5 @@ symbol: MCHC
 decimals: 18
 icons:
   - icon.jpeg
-color: "#a652dc"
+color: "#f8f8f8"
 ---

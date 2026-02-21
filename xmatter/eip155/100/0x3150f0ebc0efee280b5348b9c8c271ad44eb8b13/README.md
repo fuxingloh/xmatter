@@ -7,5 +7,5 @@ symbol: REALT-S-19596-GOULB
 decimals: 18
 icons:
   - icon.jpeg
-color: "#95b5c5"
+color: "#88d8f8"
 ---

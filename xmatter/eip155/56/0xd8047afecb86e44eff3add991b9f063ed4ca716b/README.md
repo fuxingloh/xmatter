@@ -7,5 +7,5 @@ symbol: GGG
 decimals: 18
 icons:
   - icon.png
-color: "#292429"
+color: "#282828"
 ---

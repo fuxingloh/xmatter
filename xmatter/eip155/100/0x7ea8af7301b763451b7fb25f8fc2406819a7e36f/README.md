@@ -7,5 +7,5 @@ symbol: PHA
 decimals: 18
 icons:
   - icon.png
-color: "#c7ed4f"
+color: "#080808"
 ---

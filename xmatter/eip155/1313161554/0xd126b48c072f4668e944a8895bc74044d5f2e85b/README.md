@@ -7,5 +7,5 @@ symbol: MNFT
 decimals: 18
 icons:
   - icon.png
-color: "#d28663"
+color: "#080808"
 ---

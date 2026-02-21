@@ -7,5 +7,5 @@ symbol: SOTA
 decimals: 18
 icons:
   - icon.png
-color: "#0f090c"
+color: "#080808"
 ---

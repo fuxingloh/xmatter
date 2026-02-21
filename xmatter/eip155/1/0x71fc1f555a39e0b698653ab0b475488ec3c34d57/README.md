@@ -7,5 +7,5 @@ symbol: RAIN
 decimals: 18
 icons:
   - icon.png
-color: "#8289ae"
+color: "#080808"
 ---

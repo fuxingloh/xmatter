@@ -7,5 +7,5 @@ symbol: VSP
 decimals: 18
 icons:
   - icon.jpeg
-color: "#463e9e"
+color: "#f8f8f8"
 ---

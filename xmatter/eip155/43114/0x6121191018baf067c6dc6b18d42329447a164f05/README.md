@@ -7,5 +7,5 @@ symbol: PIZZA
 decimals: 18
 icons:
   - icon.png
-color: "#a83f36"
+color: "#080808"
 ---

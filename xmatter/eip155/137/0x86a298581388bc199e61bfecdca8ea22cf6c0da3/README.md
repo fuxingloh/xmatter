@@ -7,5 +7,5 @@ symbol: DELOT
 decimals: 18
 icons:
   - icon.png
-color: "#eff0f8"
+color: "#f8f8f8"
 ---

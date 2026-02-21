@@ -7,5 +7,5 @@ symbol: CRIME
 decimals: 18
 icons:
   - icon.png
-color: "#5a3a15"
+color: "#080808"
 ---

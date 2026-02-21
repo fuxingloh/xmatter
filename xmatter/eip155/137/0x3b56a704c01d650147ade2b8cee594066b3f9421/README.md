@@ -7,5 +7,5 @@ symbol: FYN
 decimals: 18
 icons:
   - icon.png
-color: "#fc5454"
+color: "#f8f8f8"
 ---

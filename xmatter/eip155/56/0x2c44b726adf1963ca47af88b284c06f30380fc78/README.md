@@ -7,5 +7,5 @@ symbol: PEOPLE
 decimals: 18
 icons:
   - icon.png
-color: "#c2a66e"
+color: "#080808"
 ---

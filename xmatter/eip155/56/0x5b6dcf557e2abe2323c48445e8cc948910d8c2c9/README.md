@@ -7,5 +7,5 @@ symbol: MIR
 decimals: 18
 icons:
   - icon.png
-color: "#cacaca"
+color: "#f8f8f8"
 ---

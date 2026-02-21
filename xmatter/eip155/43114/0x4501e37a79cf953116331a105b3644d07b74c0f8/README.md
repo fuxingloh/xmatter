@@ -7,5 +7,5 @@ symbol: SAFEMOONA
 decimals: 9
 icons:
   - icon.png
-color: "#eb4444"
+color: "#e84848"
 ---

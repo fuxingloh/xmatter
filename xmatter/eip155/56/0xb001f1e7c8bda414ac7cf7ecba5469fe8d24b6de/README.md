@@ -7,5 +7,5 @@ symbol: UCO
 decimals: 18
 icons:
   - icon.png
-color: "#040607"
+color: "#080808"
 ---

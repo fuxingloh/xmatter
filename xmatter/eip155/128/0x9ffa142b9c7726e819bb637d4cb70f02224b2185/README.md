@@ -7,5 +7,5 @@ symbol: PWT
 decimals: 18
 icons:
   - icon.png
-color: "#d4dce2"
+color: "#f8f8f8"
 ---

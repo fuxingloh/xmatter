@@ -7,5 +7,5 @@ symbol: ANGLE
 decimals: 18
 icons:
   - icon.svg
-color: "#3a3c42"
+color: "#080808"
 ---

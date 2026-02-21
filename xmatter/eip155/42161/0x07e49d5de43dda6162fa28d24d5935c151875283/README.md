@@ -7,5 +7,5 @@ symbol: GOVI
 decimals: 18
 icons:
   - icon.png
-color: "#d6e6f2"
+color: "#f8f8f8"
 ---

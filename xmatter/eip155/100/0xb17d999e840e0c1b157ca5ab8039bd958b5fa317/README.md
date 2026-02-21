@@ -7,5 +7,5 @@ symbol: ETHO
 decimals: 18
 icons:
   - icon.png
-color: "#941c44"
+color: "#080808"
 ---

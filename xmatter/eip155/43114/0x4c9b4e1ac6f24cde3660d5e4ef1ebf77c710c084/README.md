@@ -7,5 +7,5 @@ symbol: LYD
 decimals: 18
 icons:
   - icon.png
-color: "#eecfeb"
+color: "#080808"
 ---

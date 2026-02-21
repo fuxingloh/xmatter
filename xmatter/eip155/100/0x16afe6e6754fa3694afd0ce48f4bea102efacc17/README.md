@@ -7,5 +7,5 @@ symbol: TESTA
 decimals: 18
 icons:
   - icon.png
-color: "#04d394"
+color: "#08d898"
 ---

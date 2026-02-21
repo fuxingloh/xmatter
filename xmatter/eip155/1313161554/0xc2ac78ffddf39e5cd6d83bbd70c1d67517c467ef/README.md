@@ -7,5 +7,5 @@ symbol: GBA
 decimals: 18
 icons:
   - icon.jpeg
-color: "#04a7eb"
+color: "#08a8e8"
 ---

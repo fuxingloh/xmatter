@@ -7,5 +7,5 @@ symbol: HAKU
 decimals: 18
 icons:
   - icon.png
-color: "#0cbcac"
+color: "#08b8a8"
 ---

@@ -7,5 +7,5 @@ symbol: ONI
 decimals: 18
 icons:
   - icon.png
-color: "#e4eeee"
+color: "#48a8b8"
 ---

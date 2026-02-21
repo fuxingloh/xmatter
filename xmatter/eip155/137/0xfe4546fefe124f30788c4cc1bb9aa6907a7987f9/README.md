@@ -7,5 +7,5 @@ symbol: CXETH
 decimals: 18
 icons:
   - icon.png
-color: "#ede6f1"
+color: "#f8f8f8"
 ---

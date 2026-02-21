@@ -7,5 +7,5 @@ symbol: REALT-S-4061-GRAND-
 decimals: 18
 icons:
   - icon.jpeg
-color: "#888f8b"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: DBNB
 decimals: 9
 icons:
   - icon.png
-color: "#e6d2dd"
+color: "#e84858"
 ---

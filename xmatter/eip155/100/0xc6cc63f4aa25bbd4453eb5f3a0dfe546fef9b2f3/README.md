@@ -7,5 +7,5 @@ symbol: BAT
 decimals: 18
 icons:
   - icon.png
-color: "#fc5304"
+color: "#f84808"
 ---

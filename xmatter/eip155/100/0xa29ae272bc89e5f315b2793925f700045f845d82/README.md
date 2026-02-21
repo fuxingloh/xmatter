@@ -7,5 +7,5 @@ symbol: REALT-S-581-587-JEF
 decimals: 18
 icons:
   - icon.jpeg
-color: "#ada38f"
+color: "#f8f8f8"
 ---

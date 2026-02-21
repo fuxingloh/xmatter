@@ -7,5 +7,5 @@ symbol: BFG
 decimals: 18
 icons:
   - icon.png
-color: "#f0d976"
+color: "#080808"
 ---

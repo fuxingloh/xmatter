@@ -7,5 +7,5 @@ symbol: CABAG
 decimals: 18
 icons:
   - icon.png
-color: "#71ae4c"
+color: "#080808"
 ---

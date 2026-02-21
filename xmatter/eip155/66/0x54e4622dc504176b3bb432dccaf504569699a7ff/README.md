@@ -7,5 +7,5 @@ symbol: BTCK
 decimals: 18
 icons:
   - icon.png
-color: "#f5941b"
+color: "#f89818"
 ---

@@ -7,5 +7,5 @@ symbol: IMX
 decimals: 18
 icons:
   - icon.png
-color: "#04b474"
+color: "#08b878"
 ---

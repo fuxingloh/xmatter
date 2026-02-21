@@ -7,5 +7,5 @@ symbol: mBONK
 decimals: 18
 icons:
   - icon.png
-color: "#988af2"
+color: "#080808"
 ---

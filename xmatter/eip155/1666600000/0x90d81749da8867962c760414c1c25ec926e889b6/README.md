@@ -7,5 +7,5 @@ symbol: UNI
 decimals: 18
 icons:
   - icon.png
-color: "#fcebf4"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: NFD
 decimals: 18
 icons:
   - icon.svg
-color: "#eb9a4c"
+color: "#080808"
 ---

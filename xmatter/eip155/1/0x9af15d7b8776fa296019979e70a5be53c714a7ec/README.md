@@ -7,5 +7,5 @@ symbol: EVN
 decimals: 18
 icons:
   - icon.png
-color: "#b93138"
+color: "#f8f8f8"
 ---

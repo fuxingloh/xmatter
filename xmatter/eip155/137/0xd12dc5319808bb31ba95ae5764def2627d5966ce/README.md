@@ -7,5 +7,5 @@ symbol: BOOTY
 decimals: 18
 icons:
   - icon.png
-color: "#eeeeee"
+color: "#f8f8f8"
 ---

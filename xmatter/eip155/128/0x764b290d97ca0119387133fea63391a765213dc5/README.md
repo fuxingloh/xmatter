@@ -7,5 +7,5 @@ symbol: MEL
 decimals: 18
 icons:
   - icon.png
-color: "#302c29"
+color: "#282828"
 ---

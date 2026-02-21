@@ -7,5 +7,5 @@ symbol: GN
 decimals: 9
 icons:
   - icon.png
-color: "#070707"
+color: "#e8e8e8"
 ---

@@ -7,5 +7,5 @@ symbol: REUM
 decimals: 9
 icons:
   - icon.png
-color: "#7a40a0"
+color: "#080808"
 ---

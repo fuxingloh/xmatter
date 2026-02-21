@@ -7,5 +7,5 @@ symbol: AWETH
 decimals: 18
 icons:
   - icon.webp
-color: "#8379a7"
+color: "#f8f8f8"
 ---

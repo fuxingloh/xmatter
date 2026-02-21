@@ -7,5 +7,5 @@ symbol: WZRD
 decimals: 18
 icons:
   - icon.png
-color: "#d0f9f5"
+color: "#f8f8f8"
 ---

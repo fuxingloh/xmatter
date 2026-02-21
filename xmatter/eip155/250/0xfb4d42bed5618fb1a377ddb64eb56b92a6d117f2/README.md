@@ -7,5 +7,5 @@ symbol: NOKU
 decimals: 18
 icons:
   - icon.png
-color: "#444cec"
+color: "#4848e8"
 ---

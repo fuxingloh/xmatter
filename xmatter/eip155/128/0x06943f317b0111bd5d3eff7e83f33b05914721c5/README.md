@@ -7,5 +7,5 @@ symbol: KISHU
 decimals: 9
 icons:
   - icon.png
-color: "#2a2513"
+color: "#080808"
 ---

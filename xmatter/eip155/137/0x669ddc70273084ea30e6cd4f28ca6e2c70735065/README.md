@@ -7,5 +7,5 @@ symbol: AGAC
 decimals: 18
 icons:
   - icon.png
-color: "#3db444"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: RENDOGE
 decimals: 8
 icons:
   - icon.png
-color: "#b69c3d"
+color: "#f8f8f8"
 ---

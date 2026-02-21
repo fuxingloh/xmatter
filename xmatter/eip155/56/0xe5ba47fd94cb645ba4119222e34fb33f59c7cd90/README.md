@@ -7,5 +7,5 @@ symbol: SAFUU
 decimals: 5
 icons:
   - icon.jpeg
-color: "#f5f2e6"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: AXMATIC
 decimals: 18
 icons:
   - icon.png
-color: "#95c5d5"
+color: "#080808"
 ---

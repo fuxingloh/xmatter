@@ -7,5 +7,5 @@ symbol: SAX
 decimals: 18
 icons:
   - icon.png
-color: "#502219"
+color: "#080808"
 ---

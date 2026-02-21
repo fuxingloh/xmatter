@@ -7,5 +7,5 @@ symbol: MVI
 decimals: 18
 icons:
   - icon.png
-color: "#8eb6e3"
+color: "#f8f8f8"
 ---

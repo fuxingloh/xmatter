@@ -7,5 +7,5 @@ symbol: ZED
 decimals: 18
 icons:
   - icon.jpeg
-color: "#e5eaee"
+color: "#f8f8f8"
 ---

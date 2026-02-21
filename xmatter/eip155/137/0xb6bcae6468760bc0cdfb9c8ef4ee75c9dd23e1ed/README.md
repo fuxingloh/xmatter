@@ -7,5 +7,5 @@ symbol: PNT
 decimals: 18
 icons:
   - icon.png
-color: "#ef6261"
+color: "#f86868"
 ---

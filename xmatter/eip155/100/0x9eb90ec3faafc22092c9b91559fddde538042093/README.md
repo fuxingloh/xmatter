@@ -7,5 +7,5 @@ symbol: REALT-S-18900-MANSF
 decimals: 18
 icons:
   - icon.jpeg
-color: "#d4d1c6"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: OPT
 decimals: 9
 icons:
   - icon.png
-color: "#d6dfeb"
+color: "#080808"
 ---

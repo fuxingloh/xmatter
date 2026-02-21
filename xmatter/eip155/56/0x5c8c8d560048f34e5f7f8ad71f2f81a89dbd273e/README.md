@@ -7,5 +7,5 @@ symbol: CART
 decimals: 18
 icons:
   - icon.png
-color: "#5d5a85"
+color: "#f8f8f8"
 ---

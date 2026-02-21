@@ -7,5 +7,5 @@ symbol: SOL
 decimals: 18
 icons:
   - icon.png
-color: "#07080b"
+color: "#080808"
 ---

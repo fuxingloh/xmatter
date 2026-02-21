@@ -7,5 +7,5 @@ symbol: VPND
 decimals: 18
 icons:
   - icon.png
-color: "#50c7e5"
+color: "#384898"
 ---

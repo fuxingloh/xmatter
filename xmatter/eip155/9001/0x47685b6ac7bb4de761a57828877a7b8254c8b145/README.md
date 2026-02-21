@@ -7,5 +7,5 @@ symbol: EVD
 decimals: 18
 icons:
   - icon.png
-color: "#4a88fc"
+color: "#080808"
 ---

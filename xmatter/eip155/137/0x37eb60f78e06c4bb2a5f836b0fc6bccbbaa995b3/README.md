@@ -7,5 +7,5 @@ symbol: HANZO
 decimals: 9
 icons:
   - icon.jpeg
-color: "#9f220f"
+color: "#f8f8f8"
 ---

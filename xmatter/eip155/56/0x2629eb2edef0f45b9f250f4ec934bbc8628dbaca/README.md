@@ -7,5 +7,5 @@ symbol: SHIBEV
 decimals: 18
 icons:
   - icon.jpeg
-color: "#f7e4cb"
+color: "#f8f8f8"
 ---

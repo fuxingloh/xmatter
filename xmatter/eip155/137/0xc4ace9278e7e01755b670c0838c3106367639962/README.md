@@ -7,5 +7,5 @@ symbol: renFIL
 decimals: 18
 icons:
   - icon.png
-color: "#b3bdc5"
+color: "#0888f8"
 ---

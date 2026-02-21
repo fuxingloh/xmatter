@@ -7,5 +7,5 @@ symbol: AQU
 decimals: 18
 icons:
   - icon.png
-color: "#1039c0"
+color: "#080808"
 ---

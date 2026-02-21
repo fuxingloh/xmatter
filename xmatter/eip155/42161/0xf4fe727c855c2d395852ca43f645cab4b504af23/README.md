@@ -7,5 +7,5 @@ symbol: HDX
 decimals: 9
 icons:
   - icon.png
-color: "#141a2f"
+color: "#081828"
 ---

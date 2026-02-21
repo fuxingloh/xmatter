@@ -7,5 +7,5 @@ symbol: ABNBC
 decimals: 18
 icons:
   - icon.png
-color: "#fbeb1c"
+color: "#f8f8f8"
 ---

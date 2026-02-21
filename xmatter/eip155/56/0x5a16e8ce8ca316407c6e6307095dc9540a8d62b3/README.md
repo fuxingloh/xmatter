@@ -7,5 +7,5 @@ symbol: BTR
 decimals: 18
 icons:
   - icon.png
-color: "#f5c246"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: SH
 decimals: 12
 icons:
   - icon.png
-color: "#e7b942"
+color: "#080808"
 ---

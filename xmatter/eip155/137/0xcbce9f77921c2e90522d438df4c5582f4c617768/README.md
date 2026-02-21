@@ -7,5 +7,5 @@ symbol: ACAR
 decimals: 18
 icons:
   - icon.png
-color: "#3cb444"
+color: "#080808"
 ---

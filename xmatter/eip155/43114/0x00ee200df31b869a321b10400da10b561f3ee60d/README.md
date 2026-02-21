@@ -7,5 +7,5 @@ symbol: ACRE
 decimals: 18
 icons:
   - icon.png
-color: "#cfd4cf"
+color: "#080808"
 ---

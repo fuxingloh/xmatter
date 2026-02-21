@@ -7,5 +7,5 @@ symbol: rCELO
 decimals: 18
 icons:
   - icon.png
-color: "#fccc5b"
+color: "#f8c858"
 ---

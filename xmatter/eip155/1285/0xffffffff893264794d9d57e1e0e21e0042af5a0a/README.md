@@ -7,5 +7,5 @@ symbol: RMRK
 decimals: 10
 icons:
   - icon.png
-color: "#3c2c74"
+color: "#382878"
 ---

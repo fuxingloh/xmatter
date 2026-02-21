@@ -7,5 +7,5 @@ symbol: BLACK
 decimals: 18
 icons:
   - icon.png
-color: "#191819"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: BRIDGE
 decimals: 18
 icons:
   - icon.png
-color: "#0554fc"
+color: "#080808"
 ---

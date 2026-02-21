@@ -7,5 +7,5 @@ symbol: WFUSE
 decimals: 18
 icons:
   - icon.png
-color: "#b3fbbb"
+color: "#b8f8b8"
 ---

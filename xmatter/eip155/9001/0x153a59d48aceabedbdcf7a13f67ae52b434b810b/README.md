@@ -7,5 +7,5 @@ symbol: CEWETH
 decimals: 18
 icons:
   - icon.png
-color: "#aba7a9"
+color: "#f8f8f8"
 ---

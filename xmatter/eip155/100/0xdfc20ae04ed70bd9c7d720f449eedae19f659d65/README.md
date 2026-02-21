@@ -7,5 +7,5 @@ symbol: BADGER
 decimals: 18
 icons:
   - icon.png
-color: "#19161a"
+color: "#f8a828"
 ---

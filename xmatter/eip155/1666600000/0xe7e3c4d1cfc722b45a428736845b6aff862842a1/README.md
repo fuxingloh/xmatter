@@ -7,5 +7,5 @@ symbol: WISE
 decimals: 18
 icons:
   - icon.png
-color: "#29abb5"
+color: "#080808"
 ---

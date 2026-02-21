@@ -7,5 +7,5 @@ symbol: MEDIA
 decimals: 6
 icons:
   - icon.png
-color: "#06060b"
+color: "#080808"
 ---

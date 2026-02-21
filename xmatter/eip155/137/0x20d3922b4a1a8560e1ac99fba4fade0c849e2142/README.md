@@ -7,5 +7,5 @@ symbol: MAWETH
 decimals: 18
 icons:
   - icon.png
-color: "#7aa3cd"
+color: "#f8f8f8"
 ---

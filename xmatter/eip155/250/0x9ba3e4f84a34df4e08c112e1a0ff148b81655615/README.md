@@ -7,5 +7,5 @@ symbol: SHIBA
 decimals: 9
 icons:
   - icon.png
-color: "#212326"
+color: "#080808"
 ---

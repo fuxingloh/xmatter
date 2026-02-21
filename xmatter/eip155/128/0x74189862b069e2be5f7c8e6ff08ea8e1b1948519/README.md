@@ -7,5 +7,5 @@ symbol: COOK
 decimals: 18
 icons:
   - icon.png
-color: "#2a3363"
+color: "#283868"
 ---

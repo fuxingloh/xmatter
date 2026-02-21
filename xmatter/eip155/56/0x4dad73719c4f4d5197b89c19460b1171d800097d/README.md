@@ -7,5 +7,5 @@ symbol: MJACK
 decimals: 18
 icons:
   - icon.png
-color: "#e4bc4c"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: NSDX
 decimals: 18
 icons:
   - icon.png
-color: "#051e36"
+color: "#081838"
 ---

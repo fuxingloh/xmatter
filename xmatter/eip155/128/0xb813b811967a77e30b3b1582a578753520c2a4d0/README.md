@@ -7,5 +7,5 @@ symbol: sFILDA
 decimals: 18
 icons:
   - icon.png
-color: "#06070a"
+color: "#080808"
 ---

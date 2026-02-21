@@ -7,5 +7,5 @@ symbol: EFT
 decimals: 18
 icons:
   - icon.png
-color: "#8154c6"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: POLX
 decimals: 18
 icons:
   - icon.png
-color: "#8cecfc"
+color: "#f8f8f8"
 ---

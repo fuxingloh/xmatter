@@ -7,5 +7,5 @@ symbol: fUSD
 decimals: 18
 icons:
   - icon.png
-color: "#d7fba3"
+color: "#080808"
 ---

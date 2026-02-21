@@ -7,5 +7,5 @@ symbol: WMATIC
 decimals: 18
 icons:
   - icon.png
-color: "#8837da"
+color: "#8838d8"
 ---

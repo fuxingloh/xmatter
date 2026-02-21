@@ -7,5 +7,5 @@ symbol: CC10
 decimals: 18
 icons:
   - icon.png
-color: "#cacaca"
+color: "#080808"
 ---

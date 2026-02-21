@@ -7,5 +7,5 @@ symbol: BITCOIN
 decimals: 9
 icons:
   - icon.jpeg
-color: "#ded1ca"
+color: "#e8d8e8"
 ---

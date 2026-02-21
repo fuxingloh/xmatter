@@ -7,5 +7,5 @@ symbol: SLIME
 decimals: 18
 icons:
   - icon.png
-color: "#f0ecfc"
+color: "#7858f8"
 ---

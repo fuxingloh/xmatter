@@ -7,5 +7,5 @@ symbol: NEX
 decimals: 8
 icons:
   - icon.png
-color: "#04b3fb"
+color: "#08b8f8"
 ---

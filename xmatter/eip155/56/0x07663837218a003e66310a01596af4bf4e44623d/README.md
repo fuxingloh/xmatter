@@ -7,5 +7,5 @@ symbol: RUSD
 decimals: 18
 icons:
   - icon.png
-color: "#0d2862"
+color: "#082858"
 ---

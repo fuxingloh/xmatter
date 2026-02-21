@@ -7,5 +7,5 @@ symbol: BUCK
 decimals: 18
 icons:
   - icon.png
-color: "#0c66e2"
+color: "#1858e8"
 ---

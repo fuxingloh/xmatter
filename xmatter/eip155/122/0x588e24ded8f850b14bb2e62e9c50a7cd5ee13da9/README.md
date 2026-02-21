@@ -7,5 +7,5 @@ symbol: atLUNA
 decimals: 18
 icons:
   - icon.png
-color: "#142654"
+color: "#182858"
 ---

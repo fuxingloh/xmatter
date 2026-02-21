@@ -7,5 +7,5 @@ symbol: PIXEL
 decimals: 18
 icons:
   - icon.png
-color: "#ec04fb"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: SPORE
 decimals: 9
 icons:
   - icon.png
-color: "#313973"
+color: "#484888"
 ---

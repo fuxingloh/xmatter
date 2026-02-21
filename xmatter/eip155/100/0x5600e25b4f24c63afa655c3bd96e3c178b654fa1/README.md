@@ -7,5 +7,5 @@ symbol: REALT-S-13045-WADE-
 decimals: 18
 icons:
   - icon.jpeg
-color: "#7e8980"
+color: "#788848"
 ---

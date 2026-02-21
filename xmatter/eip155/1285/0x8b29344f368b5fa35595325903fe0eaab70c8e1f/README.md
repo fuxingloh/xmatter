@@ -7,5 +7,5 @@ symbol: POLK
 decimals: 18
 icons:
   - icon.png
-color: "#f3f3fb"
+color: "#f8e8f8"
 ---

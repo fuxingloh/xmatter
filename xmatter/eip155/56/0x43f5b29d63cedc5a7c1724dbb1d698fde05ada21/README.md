@@ -7,5 +7,5 @@ symbol: FODL
 decimals: 18
 icons:
   - icon.png
-color: "#fc685d"
+color: "#080808"
 ---

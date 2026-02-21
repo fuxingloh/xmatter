@@ -7,5 +7,5 @@ symbol: RVZ
 decimals: 9
 icons:
   - icon.png
-color: "#060504"
+color: "#080808"
 ---

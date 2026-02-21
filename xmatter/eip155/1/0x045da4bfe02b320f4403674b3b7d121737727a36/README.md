@@ -7,5 +7,5 @@ symbol: DCHF
 decimals: 18
 icons:
   - icon.png
-color: "#df9791"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: BRO
 decimals: 18
 icons:
   - icon.png
-color: "#06c49d"
+color: "#f8f8f8"
 ---

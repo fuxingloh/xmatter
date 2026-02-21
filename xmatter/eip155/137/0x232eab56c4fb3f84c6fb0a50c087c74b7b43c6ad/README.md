@@ -7,5 +7,5 @@ symbol: ZUZ
 decimals: 18
 icons:
   - icon.png
-color: "#cca664"
+color: "#d8a868"
 ---

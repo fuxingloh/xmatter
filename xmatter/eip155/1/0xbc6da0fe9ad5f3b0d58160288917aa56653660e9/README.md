@@ -7,5 +7,5 @@ symbol: ALUSD
 decimals: 18
 icons:
   - icon.png
-color: "#ecbe98"
+color: "#282838"
 ---

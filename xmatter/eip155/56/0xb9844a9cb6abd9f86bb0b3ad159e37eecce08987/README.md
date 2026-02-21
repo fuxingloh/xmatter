@@ -7,5 +7,5 @@ symbol: DEXF
 decimals: 18
 icons:
   - icon.png
-color: "#959595"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: UGT
 decimals: 18
 icons:
   - icon.png
-color: "#28429b"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: LUXY
 decimals: 18
 icons:
   - icon.png
-color: "#8464e3"
+color: "#7868e8"
 ---

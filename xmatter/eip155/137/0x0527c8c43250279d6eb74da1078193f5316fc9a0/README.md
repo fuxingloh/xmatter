@@ -7,5 +7,5 @@ symbol: PYD
 decimals: 18
 icons:
   - icon.png
-color: "#8444e4"
+color: "#8848e8"
 ---

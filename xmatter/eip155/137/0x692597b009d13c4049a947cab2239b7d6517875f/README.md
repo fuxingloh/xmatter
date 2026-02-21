@@ -7,5 +7,5 @@ symbol: USTC
 decimals: 18
 icons:
   - icon.png
-color: "#5592f0"
+color: "#f8f8f8"
 ---

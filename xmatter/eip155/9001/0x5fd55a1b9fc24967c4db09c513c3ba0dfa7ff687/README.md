@@ -7,5 +7,5 @@ symbol: G-USDC
 decimals: 6
 icons:
   - icon.png
-color: "#3c7dcd"
+color: "#2878c8"
 ---

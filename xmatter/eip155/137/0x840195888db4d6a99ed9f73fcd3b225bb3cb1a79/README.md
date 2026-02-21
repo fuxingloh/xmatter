@@ -7,5 +7,5 @@ symbol: SX
 decimals: 18
 icons:
   - icon.png
-color: "#a6a6a6"
+color: "#080808"
 ---

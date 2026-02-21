@@ -7,5 +7,5 @@ symbol: ODAO
 decimals: 9
 icons:
   - icon.png
-color: "#bbbbbb"
+color: "#f8f8f8"
 ---

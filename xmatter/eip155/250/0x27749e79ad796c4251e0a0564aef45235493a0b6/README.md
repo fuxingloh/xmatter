@@ -7,5 +7,5 @@ symbol: ONX
 decimals: 18
 icons:
   - icon.png
-color: "#4b2df9"
+color: "#f8f8f8"
 ---

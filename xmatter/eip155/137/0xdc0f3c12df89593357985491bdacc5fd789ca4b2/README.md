@@ -7,5 +7,5 @@ symbol: mWETH
 decimals: 18
 icons:
   - icon.png
-color: "#5db6a6"
+color: "#f8f8f8"
 ---

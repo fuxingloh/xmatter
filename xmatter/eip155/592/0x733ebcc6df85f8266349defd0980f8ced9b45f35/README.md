@@ -7,5 +7,5 @@ symbol: BAI
 decimals: 18
 icons:
   - icon.png
-color: "#101006"
+color: "#f8f848"
 ---

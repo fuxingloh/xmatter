@@ -7,5 +7,5 @@ symbol: TLPT
 decimals: 18
 icons:
   - icon.png
-color: "#c4c4c4"
+color: "#181818"
 ---

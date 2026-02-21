@@ -7,5 +7,5 @@ symbol: OLO
 decimals: 18
 icons:
   - icon.png
-color: "#db944b"
+color: "#f8f8f8"
 ---

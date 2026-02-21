@@ -7,5 +7,5 @@ symbol: YGG
 decimals: 18
 icons:
   - icon.png
-color: "#08080a"
+color: "#080808"
 ---

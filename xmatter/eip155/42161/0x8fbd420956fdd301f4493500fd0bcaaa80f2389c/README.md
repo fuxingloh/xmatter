@@ -7,5 +7,5 @@ symbol: AMY
 decimals: 18
 icons:
   - icon.webp
-color: "#24253c"
+color: "#182838"
 ---

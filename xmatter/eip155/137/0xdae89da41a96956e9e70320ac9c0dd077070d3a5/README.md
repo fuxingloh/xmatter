@@ -7,5 +7,5 @@ symbol: CNTR
 decimals: 18
 icons:
   - icon.png
-color: "#33cc33"
+color: "#080808"
 ---

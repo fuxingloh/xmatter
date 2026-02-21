@@ -7,5 +7,5 @@ symbol: sNEO
 decimals: 18
 icons:
   - icon.png
-color: "#49db9c"
+color: "#080808"
 ---

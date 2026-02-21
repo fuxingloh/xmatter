@@ -7,5 +7,5 @@ symbol: TEDDY
 decimals: 18
 icons:
   - icon.png
-color: "#0c0c0c"
+color: "#080808"
 ---

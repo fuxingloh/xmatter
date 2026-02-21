@@ -7,5 +7,5 @@ symbol: YUSD
 decimals: 18
 icons:
   - icon.png
-color: "#338dcc"
+color: "#f8f8f8"
 ---

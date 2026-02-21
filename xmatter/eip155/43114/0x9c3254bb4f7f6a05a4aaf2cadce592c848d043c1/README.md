@@ -7,5 +7,5 @@ symbol: ALPHA
 decimals: 18
 icons:
   - icon.png
-color: "#481762"
+color: "#f808b8"
 ---

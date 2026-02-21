@@ -7,5 +7,5 @@ symbol: NVT
 decimals: 18
 icons:
   - icon.png
-color: "#538ce4"
+color: "#080808"
 ---

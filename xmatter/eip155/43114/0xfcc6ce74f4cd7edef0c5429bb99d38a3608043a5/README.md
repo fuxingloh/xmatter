@@ -7,5 +7,5 @@ symbol: FIRE
 decimals: 18
 icons:
   - icon.png
-color: "#e23d27"
+color: "#280808"
 ---

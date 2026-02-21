@@ -7,5 +7,5 @@ symbol: MBTC
 decimals: 18
 icons:
   - icon.png
-color: "#eeeeee"
+color: "#080808"
 ---

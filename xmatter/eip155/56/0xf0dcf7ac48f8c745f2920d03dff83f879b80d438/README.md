@@ -7,5 +7,5 @@ symbol: GAMI
 decimals: 18
 icons:
   - icon.jpeg
-color: "#db1b6b"
+color: "#f80868"
 ---

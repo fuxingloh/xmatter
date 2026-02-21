@@ -7,5 +7,5 @@ symbol: DEFIT
 decimals: 18
 icons:
   - icon.png
-color: "#047cfc"
+color: "#0878f8"
 ---

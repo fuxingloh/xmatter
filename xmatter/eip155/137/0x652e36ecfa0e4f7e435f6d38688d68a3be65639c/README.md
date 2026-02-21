@@ -7,5 +7,5 @@ symbol: mWBTC
 decimals: 8
 icons:
   - icon.png
-color: "#df9482"
+color: "#080808"
 ---

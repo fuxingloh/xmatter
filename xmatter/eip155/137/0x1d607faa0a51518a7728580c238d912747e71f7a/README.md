@@ -7,5 +7,5 @@ symbol: DATA
 decimals: 18
 icons:
   - icon.png
-color: "#0a0404"
+color: "#f80828"
 ---

@@ -7,5 +7,5 @@ symbol: PTF
 decimals: 18
 icons:
   - icon.png
-color: "#1b1d19"
+color: "#181818"
 ---

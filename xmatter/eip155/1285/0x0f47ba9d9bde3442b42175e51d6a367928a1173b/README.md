@@ -7,5 +7,5 @@ symbol: ZLK
 decimals: 18
 icons:
   - icon.png
-color: "#373737"
+color: "#f8f8f8"
 ---

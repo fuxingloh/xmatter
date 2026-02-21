@@ -7,5 +7,5 @@ symbol: REACT
 decimals: 18
 icons:
   - icon.png
-color: "#f68611"
+color: "#080808"
 ---

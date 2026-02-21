@@ -7,5 +7,5 @@ symbol: VSO
 decimals: 18
 icons:
   - icon.png
-color: "#3c8ce4"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: BELT
 decimals: 18
 icons:
   - icon.png
-color: "#fce6c5"
+color: "#f8b858"
 ---

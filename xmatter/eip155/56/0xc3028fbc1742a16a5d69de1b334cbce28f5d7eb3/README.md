@@ -7,5 +7,5 @@ symbol: SSS
 decimals: 18
 icons:
   - icon.jpeg
-color: "#e3c051"
+color: "#080808"
 ---

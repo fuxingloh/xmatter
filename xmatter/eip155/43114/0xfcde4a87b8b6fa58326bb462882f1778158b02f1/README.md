@@ -7,5 +7,5 @@ symbol: WXT
 decimals: 18
 icons:
   - icon.png
-color: "#064636"
+color: "#c8f8c8"
 ---

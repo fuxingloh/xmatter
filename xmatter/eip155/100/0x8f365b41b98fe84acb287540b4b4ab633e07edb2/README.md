@@ -7,5 +7,5 @@ symbol: SETH
 decimals: 18
 icons:
   - icon.png
-color: "#6783e5"
+color: "#6878e8"
 ---

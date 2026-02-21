@@ -7,5 +7,5 @@ symbol: OMIC
 decimals: 9
 icons:
   - icon.png
-color: "#73736c"
+color: "#787868"
 ---

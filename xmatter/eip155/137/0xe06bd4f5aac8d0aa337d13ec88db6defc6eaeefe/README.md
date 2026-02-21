@@ -7,5 +7,5 @@ symbol: IXT
 decimals: 18
 icons:
   - icon.png
-color: "#bdbdbd"
+color: "#f8f8f8"
 ---

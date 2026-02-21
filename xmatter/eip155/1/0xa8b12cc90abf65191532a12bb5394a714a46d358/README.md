@@ -7,5 +7,5 @@ symbol: PBTC35A
 decimals: 18
 icons:
   - icon.png
-color: "#f7d566"
+color: "#083858"
 ---

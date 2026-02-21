@@ -7,5 +7,5 @@ symbol: REALT-S-9166-DEVONS
 decimals: 18
 icons:
   - icon.jpeg
-color: "#404630"
+color: "#283818"
 ---

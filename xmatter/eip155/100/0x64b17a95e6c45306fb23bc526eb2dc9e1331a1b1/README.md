@@ -7,5 +7,5 @@ symbol: CFXQ
 decimals: 6
 icons:
   - icon.png
-color: "#1f71b4"
+color: "#1878b8"
 ---

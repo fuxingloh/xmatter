@@ -7,5 +7,5 @@ symbol: META
 decimals: 24
 icons:
   - icon.svg
-color: "#0e2643"
+color: "#c8f818"
 ---

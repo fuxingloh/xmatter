@@ -7,5 +7,5 @@ symbol: UNIDX
 decimals: 18
 icons:
   - icon.png
-color: "#e7ebf7"
+color: "#f8f8f8"
 ---

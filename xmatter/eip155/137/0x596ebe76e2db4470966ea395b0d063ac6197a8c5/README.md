@@ -7,5 +7,5 @@ symbol: JRT
 decimals: 18
 icons:
   - icon.png
-color: "#50f870"
+color: "#58f878"
 ---

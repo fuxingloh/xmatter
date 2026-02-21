@@ -7,5 +7,5 @@ symbol: NXUSD
 decimals: 18
 icons:
   - icon.png
-color: "#0566dc"
+color: "#0868d8"
 ---

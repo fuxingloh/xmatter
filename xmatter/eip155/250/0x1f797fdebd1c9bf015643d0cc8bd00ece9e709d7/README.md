@@ -7,5 +7,5 @@ symbol: PWFL
 decimals: 18
 icons:
   - icon.jpeg
-color: "#130e0c"
+color: "#080808"
 ---

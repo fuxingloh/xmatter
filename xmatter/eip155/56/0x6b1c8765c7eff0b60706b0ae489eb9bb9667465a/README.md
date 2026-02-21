@@ -7,5 +7,5 @@ symbol: SATA
 decimals: 18
 icons:
   - icon.png
-color: "#489e3c"
+color: "#080808"
 ---

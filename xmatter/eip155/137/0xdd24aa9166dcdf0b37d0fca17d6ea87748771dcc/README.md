@@ -7,5 +7,5 @@ symbol: PLAY
 decimals: 18
 icons:
   - icon.svg
-color: "#49a3f5"
+color: "#482848"
 ---

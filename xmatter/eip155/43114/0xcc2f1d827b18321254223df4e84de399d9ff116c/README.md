@@ -7,5 +7,5 @@ symbol: SMRT
 decimals: 18
 icons:
   - icon.jpeg
-color: "#437e9e"
+color: "#f8f8f8"
 ---

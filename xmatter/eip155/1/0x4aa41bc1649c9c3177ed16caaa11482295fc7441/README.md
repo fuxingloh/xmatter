@@ -7,5 +7,5 @@ symbol: XFIT
 decimals: 18
 icons:
   - icon.png
-color: "#fc307b"
+color: "#080808"
 ---

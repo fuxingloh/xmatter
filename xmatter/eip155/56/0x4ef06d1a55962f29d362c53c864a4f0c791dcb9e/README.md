@@ -7,5 +7,5 @@ symbol: MYOBU
 decimals: 9
 icons:
   - icon.png
-color: "#bca6d4"
+color: "#080808"
 ---

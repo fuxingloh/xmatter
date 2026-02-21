@@ -7,5 +7,5 @@ symbol: ETHM
 decimals: 18
 icons:
   - icon.png
-color: "#489f80"
+color: "#080808"
 ---

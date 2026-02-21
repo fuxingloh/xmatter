@@ -7,5 +7,5 @@ symbol: WAVE
 decimals: 18
 icons:
   - icon.png
-color: "#072031"
+color: "#081828"
 ---

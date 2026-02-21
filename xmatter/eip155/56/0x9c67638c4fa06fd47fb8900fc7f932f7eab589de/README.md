@@ -7,5 +7,5 @@ symbol: ARKER
 decimals: 18
 icons:
   - icon.png
-color: "#3ca889"
+color: "#589888"
 ---

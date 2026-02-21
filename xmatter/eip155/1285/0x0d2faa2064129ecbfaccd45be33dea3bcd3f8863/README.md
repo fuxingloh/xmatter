@@ -7,5 +7,5 @@ symbol: MARA
 decimals: 18
 icons:
   - icon.jpeg
-color: "#4d0e69"
+color: "#f8f8f8"
 ---

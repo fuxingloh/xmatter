@@ -7,5 +7,5 @@ symbol: POLYSAFE
 decimals: 9
 icons:
   - icon.png
-color: "#3d256c"
+color: "#381868"
 ---

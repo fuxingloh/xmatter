@@ -7,5 +7,5 @@ symbol: MDZA
 decimals: 18
 icons:
   - icon.png
-color: "#622121"
+color: "#080808"
 ---

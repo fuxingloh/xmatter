@@ -7,5 +7,5 @@ symbol: SHELL
 decimals: 18
 icons:
   - icon.png
-color: "#a76365"
+color: "#080808"
 ---

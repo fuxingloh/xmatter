@@ -7,5 +7,5 @@ symbol: API3
 decimals: 18
 icons:
   - icon.png
-color: "#c5c5c5"
+color: "#080808"
 ---

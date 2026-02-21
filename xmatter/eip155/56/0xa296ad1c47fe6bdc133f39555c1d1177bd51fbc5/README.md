@@ -7,5 +7,5 @@ symbol: IBFR
 decimals: 18
 icons:
   - icon.jpeg
-color: "#dcf0f8"
+color: "#3878f8"
 ---

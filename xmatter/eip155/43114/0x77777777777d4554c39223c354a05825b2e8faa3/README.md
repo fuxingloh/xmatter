@@ -7,5 +7,5 @@ symbol: YETI
 decimals: 18
 icons:
   - icon.png
-color: "#1f7ec1"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: VRX
 decimals: 18
 icons:
   - icon.png
-color: "#cbc8de"
+color: "#f8f8f8"
 ---

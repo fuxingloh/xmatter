@@ -7,5 +7,5 @@ symbol: TRAVA
 decimals: 18
 icons:
   - icon.png
-color: "#f2f8f8"
+color: "#1838a8"
 ---

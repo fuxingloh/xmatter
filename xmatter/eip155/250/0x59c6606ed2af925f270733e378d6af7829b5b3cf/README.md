@@ -7,5 +7,5 @@ symbol: WBOND
 decimals: 18
 icons:
   - icon.png
-color: "#789fbc"
+color: "#f8f8f8"
 ---

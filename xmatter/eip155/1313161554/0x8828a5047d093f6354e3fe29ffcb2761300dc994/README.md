@@ -7,5 +7,5 @@ symbol: PULSE
 decimals: 18
 icons:
   - icon.svg
-color: "#b55dfc"
+color: "#080808"
 ---

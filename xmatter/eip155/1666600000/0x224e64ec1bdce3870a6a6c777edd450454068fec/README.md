@@ -7,5 +7,5 @@ symbol: UST
 decimals: 18
 icons:
   - icon.png
-color: "#5490f0"
+color: "#080808"
 ---

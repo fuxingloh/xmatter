@@ -7,5 +7,5 @@ symbol: USV
 decimals: 9
 icons:
   - icon.png
-color: "#051423"
+color: "#081828"
 ---
