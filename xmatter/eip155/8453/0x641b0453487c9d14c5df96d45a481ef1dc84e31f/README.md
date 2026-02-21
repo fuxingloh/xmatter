@@ -6,5 +6,5 @@ symbol: MAAT
 icons:
   - icon.svg
   - icon.png
-color: "#f0d9ab"
+color: "#f8d8a8"
 ---

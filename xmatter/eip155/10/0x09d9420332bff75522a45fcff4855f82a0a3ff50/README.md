@@ -6,5 +6,5 @@ symbol: DINERO
 icons:
   - icon.svg
   - icon.png
-color: "#132429"
+color: "#080808"
 ---

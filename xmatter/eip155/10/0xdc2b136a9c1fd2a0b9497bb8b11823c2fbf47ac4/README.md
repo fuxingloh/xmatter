@@ -6,5 +6,5 @@ symbol: vAMMV2-WETH/GRAIN
 icons:
   - icon.svg
   - icon.png
-color: "#e4c24c"
+color: "#e8c848"
 ---

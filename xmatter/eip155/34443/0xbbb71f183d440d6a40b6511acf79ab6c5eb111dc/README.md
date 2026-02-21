@@ -6,5 +6,5 @@ symbol: superETH
 icons:
   - icon.svg
   - icon.png
-color: "#2a2a2a"
+color: "#f8f8f8"
 ---

@@ -6,5 +6,5 @@ symbol: UST_whv23CRV-f
 icons:
   - icon.svg
   - icon.png
-color: "#e07749"
+color: "#080808"
 ---

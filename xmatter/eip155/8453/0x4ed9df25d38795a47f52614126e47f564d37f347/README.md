@@ -6,5 +6,5 @@ symbol: VEUR
 icons:
   - icon.svg
   - icon.png
-color: "#e7da9c"
+color: "#080808"
 ---

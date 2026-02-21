@@ -6,5 +6,5 @@ symbol: VIS
 icons:
   - icon.svg
   - icon.png
-color: "#0c0c0c"
+color: "#080808"
 ---

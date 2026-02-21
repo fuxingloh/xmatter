@@ -6,5 +6,5 @@ symbol: OptiDoge
 icons:
   - icon.svg
   - icon.png
-color: "#f91918"
+color: "#f8f8f8"
 ---

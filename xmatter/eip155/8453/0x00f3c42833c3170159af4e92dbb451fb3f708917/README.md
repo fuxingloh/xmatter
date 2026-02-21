@@ -6,5 +6,5 @@ symbol: ICP
 icons:
   - icon.svg
   - icon.png
-color: "#33aae2"
+color: "#f8f8f8"
 ---

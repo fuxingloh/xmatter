@@ -6,5 +6,5 @@ symbol: yvCurve-MIM
 icons:
   - icon.svg
   - icon.png
-color: "#296cd3"
+color: "#f8f8f8"
 ---

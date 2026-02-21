@@ -6,5 +6,5 @@ symbol: wstASTR
 icons:
   - icon.svg
   - icon.png
-color: "#29a964"
+color: "#080808"
 ---

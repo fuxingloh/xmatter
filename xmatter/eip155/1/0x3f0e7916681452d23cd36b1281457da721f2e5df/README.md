@@ -6,5 +6,5 @@ symbol: CTRETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#d9ba65"
+color: "#080808"
 ---

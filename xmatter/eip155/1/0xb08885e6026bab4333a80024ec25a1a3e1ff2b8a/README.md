@@ -6,5 +6,5 @@ symbol: B-staFiETH-WETH-Stable
 icons:
   - icon.svg
   - icon.png
-color: "#04bece"
+color: "#080808"
 ---

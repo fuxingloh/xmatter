@@ -6,5 +6,5 @@ symbol: PRML
 icons:
   - icon.svg
   - icon.png
-color: "#151625"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: ankrCRV
 icons:
   - icon.svg
   - icon.png
-color: "#f7eb1d"
+color: "#f8e818"
 ---

@@ -6,5 +6,5 @@ symbol: BAVA
 icons:
   - icon.svg
   - icon.png
-color: "#f2da3b"
+color: "#f8d838"
 ---

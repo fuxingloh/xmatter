@@ -6,5 +6,5 @@ symbol: MOLT
 icons:
   - icon.svg
   - icon.png
-color: "#e25e53"
+color: "#080808"
 ---

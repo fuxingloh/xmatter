@@ -6,6 +6,6 @@ symbol: GHST
 icons:
   - icon.svg
   - icon.png
-color: "#ea1efb"
+color: "#080808"
 decimals: 18
 ---

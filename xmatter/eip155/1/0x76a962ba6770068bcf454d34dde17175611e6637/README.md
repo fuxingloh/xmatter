@@ -6,5 +6,5 @@ symbol: savedola
 icons:
   - icon.svg
   - icon.png
-color: "#edb919"
+color: "#080808"
 ---

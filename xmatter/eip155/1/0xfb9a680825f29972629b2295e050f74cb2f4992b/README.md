@@ -6,5 +6,5 @@ symbol: yvBal-GHO-LUSD-f
 icons:
   - icon.svg
   - icon.png
-color: "#1f3457"
+color: "#f8f8f8"
 ---

@@ -6,5 +6,5 @@ symbol: LGCT
 icons:
   - icon.svg
   - icon.png
-color: "#2653db"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: ANITA
 icons:
   - icon.svg
   - icon.png
-color: "#c895f5"
+color: "#e8b8f8"
 ---

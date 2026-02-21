@@ -6,5 +6,5 @@ symbol: yvoBTC/sbtcCRV
 icons:
   - icon.svg
   - icon.png
-color: "#8ea392"
+color: "#f8f8f8"
 ---

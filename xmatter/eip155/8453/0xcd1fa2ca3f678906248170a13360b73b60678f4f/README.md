@@ -6,5 +6,5 @@ symbol: $BDC
 icons:
   - icon.svg
   - icon.png
-color: "#f8f7f7"
+color: "#080808"
 ---

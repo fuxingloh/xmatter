@@ -6,5 +6,5 @@ symbol: MAG
 icons:
   - icon.svg
   - icon.png
-color: "#7a6bdf"
+color: "#080808"
 ---

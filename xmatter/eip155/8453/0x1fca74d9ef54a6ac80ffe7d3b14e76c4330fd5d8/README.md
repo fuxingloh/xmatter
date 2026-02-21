@@ -6,5 +6,5 @@ symbol: VCHF
 icons:
   - icon.svg
   - icon.png
-color: "#e7dca3"
+color: "#080808"
 ---

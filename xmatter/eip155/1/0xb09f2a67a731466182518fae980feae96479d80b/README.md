@@ -6,5 +6,5 @@ symbol: yvKP3RETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#dbd17c"
+color: "#f8f8f8"
 ---

@@ -6,5 +6,5 @@ symbol: TREN
 icons:
   - icon.svg
   - icon.png
-color: "#23f8a9"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: yvVelo-sUSD-USDC.e-f
 icons:
   - icon.svg
   - icon.png
-color: "#181818"
+color: "#f8f8f8"
 ---

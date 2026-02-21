@@ -6,5 +6,5 @@ symbol: SLC
 icons:
   - icon.svg
   - icon.png
-color: "#0c0c14"
+color: "#080808"
 ---

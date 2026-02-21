@@ -6,5 +6,5 @@ symbol: vAMMV2-UNLOCK/VELO
 icons:
   - icon.svg
   - icon.png
-color: "#080909"
+color: "#080808"
 ---

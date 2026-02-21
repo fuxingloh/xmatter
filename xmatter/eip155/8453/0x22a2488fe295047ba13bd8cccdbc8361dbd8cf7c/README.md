@@ -6,5 +6,5 @@ symbol: SONNE
 icons:
   - icon.svg
   - icon.png
-color: "#fc644c"
+color: "#f86848"
 ---

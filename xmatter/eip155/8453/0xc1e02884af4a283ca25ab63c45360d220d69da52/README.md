@@ -6,5 +6,5 @@ symbol: sUSDCy
 icons:
   - icon.svg
   - icon.png
-color: "#2a71dd"
+color: "#080808"
 ---

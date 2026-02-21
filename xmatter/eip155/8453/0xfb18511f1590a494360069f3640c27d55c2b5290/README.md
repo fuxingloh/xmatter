@@ -12,5 +12,5 @@ standards: []
 icons:
   - icon.svg
   - icon.png
-color: "#d4b97f"
+color: "#080808"
 ---

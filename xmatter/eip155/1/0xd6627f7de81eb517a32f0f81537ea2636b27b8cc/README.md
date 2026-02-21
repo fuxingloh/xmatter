@@ -6,5 +6,5 @@ symbol: yvCurve-wBETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#1063b0"
+color: "#f8f8f8"
 ---

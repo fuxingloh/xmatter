@@ -6,5 +6,5 @@ symbol: STAR
 icons:
   - icon.svg
   - icon.png
-color: "#261330"
+color: "#080808"
 ---

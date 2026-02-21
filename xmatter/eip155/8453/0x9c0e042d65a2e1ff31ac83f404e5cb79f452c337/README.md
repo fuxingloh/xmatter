@@ -6,5 +6,5 @@ symbol: uAPT
 icons:
   - icon.svg
   - icon.png
-color: "#141414"
+color: "#080808"
 ---

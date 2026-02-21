@@ -6,5 +6,5 @@ symbol: yvVelo-MIM-USDC.e-f
 icons:
   - icon.svg
   - icon.png
-color: "#7b7068"
+color: "#f8f8f8"
 ---

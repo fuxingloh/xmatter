@@ -6,5 +6,5 @@ symbol: cdxUSD
 icons:
   - icon.svg
   - icon.png
-color: "#fc6c1c"
+color: "#f86818"
 ---

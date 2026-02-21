@@ -6,5 +6,5 @@ symbol: cvxcrv-crv-f
 icons:
   - icon.svg
   - icon.png
-color: "#cae0cf"
+color: "#080808"
 ---

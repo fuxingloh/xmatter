@@ -6,5 +6,5 @@ symbol: yvCurve-RSR-FRAXBP-f
 icons:
   - icon.svg
   - icon.png
-color: "#d6ce67"
+color: "#080808"
 ---

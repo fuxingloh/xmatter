@@ -6,5 +6,5 @@ symbol: yvCurve-ibJPY
 icons:
   - icon.svg
   - icon.png
-color: "#d4d66b"
+color: "#f8f8f8"
 ---

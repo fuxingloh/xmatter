@@ -6,5 +6,5 @@ symbol: rETH
 icons:
   - icon.svg
   - icon.png
-color: "#f5a273"
+color: "#080808"
 ---

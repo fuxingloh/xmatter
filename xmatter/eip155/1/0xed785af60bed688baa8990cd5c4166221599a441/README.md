@@ -6,5 +6,5 @@ symbol: reusdsfrx
 icons:
   - icon.svg
   - icon.png
-color: "#0f101c"
+color: "#080808"
 ---

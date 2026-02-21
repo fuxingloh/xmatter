@@ -6,5 +6,5 @@ symbol: vAMM-WETH/AERO
 icons:
   - icon.svg
   - icon.png
-color: "#e6e6e4"
+color: "#e8e8e8"
 ---

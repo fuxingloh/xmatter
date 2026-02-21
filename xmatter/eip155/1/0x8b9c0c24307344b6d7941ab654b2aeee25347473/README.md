@@ -6,5 +6,5 @@ symbol: yvCurve-EURN
 icons:
   - icon.svg
   - icon.png
-color: "#f68736"
+color: "#f8f8f8"
 ---

@@ -6,5 +6,5 @@ symbol: AIPUMP
 icons:
   - icon.svg
   - icon.png
-color: "#dc8734"
+color: "#080808"
 ---

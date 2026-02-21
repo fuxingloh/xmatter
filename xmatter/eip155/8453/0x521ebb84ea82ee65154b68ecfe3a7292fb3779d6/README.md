@@ -6,5 +6,5 @@ symbol: AGNT
 icons:
   - icon.svg
   - icon.png
-color: "#42cf2b"
+color: "#080808"
 ---

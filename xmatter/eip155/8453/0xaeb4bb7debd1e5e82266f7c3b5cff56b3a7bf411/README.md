@@ -6,5 +6,5 @@ symbol: VGBP
 icons:
   - icon.svg
   - icon.png
-color: "#eadfac"
+color: "#f8e8c8"
 ---

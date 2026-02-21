@@ -6,5 +6,5 @@ symbol: alfrxETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#24232e"
+color: "#080808"
 ---

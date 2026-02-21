@@ -6,5 +6,5 @@ symbol: crvGEARETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#0d0909"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: wethrsup
 icons:
   - icon.svg
   - icon.png
-color: "#835de6"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: FOMO
 icons:
   - icon.svg
   - icon.png
-color: "#c84c11"
+color: "#080808"
 ---

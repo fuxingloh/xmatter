@@ -6,5 +6,5 @@ symbol: uPEPE
 icons:
   - icon.svg
   - icon.png
-color: "#3c8433"
+color: "#080808"
 ---

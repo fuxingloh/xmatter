@@ -6,5 +6,5 @@ symbol: USDM3CRV-f
 icons:
   - icon.svg
   - icon.png
-color: "#0e529a"
+color: "#080808"
 ---

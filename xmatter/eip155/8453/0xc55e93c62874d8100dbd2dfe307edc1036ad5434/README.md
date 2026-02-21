@@ -6,5 +6,5 @@ symbol: mooBIFI
 icons:
   - icon.svg
   - icon.png
-color: "#83848b"
+color: "#080818"
 ---

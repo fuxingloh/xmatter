@@ -6,5 +6,5 @@ symbol: PROS
 icons:
   - icon.svg
   - icon.png
-color: "#a4c18f"
+color: "#080808"
 ---

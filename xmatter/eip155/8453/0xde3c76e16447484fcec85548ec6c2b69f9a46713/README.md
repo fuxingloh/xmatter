@@ -6,5 +6,5 @@ symbol: TAIX
 icons:
   - icon.svg
   - icon.png
-color: "#eedcd3"
+color: "#080808"
 ---

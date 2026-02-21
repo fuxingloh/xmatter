@@ -6,5 +6,5 @@ symbol: sDAI
 icons:
   - icon.svg
   - icon.png
-color: "#f0b12b"
+color: "#182828"
 ---

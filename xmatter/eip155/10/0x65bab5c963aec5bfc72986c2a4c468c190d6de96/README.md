@@ -6,5 +6,5 @@ symbol: yvVelo-STG-USDC-f
 icons:
   - icon.svg
   - icon.png
-color: "#0b0b0c"
+color: "#080808"
 ---

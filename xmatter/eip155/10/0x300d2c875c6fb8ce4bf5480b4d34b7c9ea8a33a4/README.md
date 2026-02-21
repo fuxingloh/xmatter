@@ -6,5 +6,5 @@ symbol: pxETH
 icons:
   - icon.svg
   - icon.png
-color: "#0d0f0e"
+color: "#080808"
 ---

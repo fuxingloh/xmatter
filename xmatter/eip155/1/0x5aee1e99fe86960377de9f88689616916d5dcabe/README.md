@@ -6,5 +6,5 @@ symbol: wstETH-rETH-sfrxETH-BPT
 icons:
   - icon.svg
   - icon.png
-color: "#efb38f"
+color: "#080808"
 ---

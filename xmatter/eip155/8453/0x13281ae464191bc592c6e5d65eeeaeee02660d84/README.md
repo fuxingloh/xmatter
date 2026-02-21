@@ -6,5 +6,5 @@ symbol: POPCAT
 icons:
   - icon.svg
   - icon.png
-color: "#4d302f"
+color: "#f8f8f8"
 ---

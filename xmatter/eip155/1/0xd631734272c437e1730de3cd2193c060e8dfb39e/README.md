@@ -6,5 +6,5 @@ symbol: yvcrvSPELLETH
 icons:
   - icon.svg
   - icon.png
-color: "#f48e43"
+color: "#f8f8f8"
 ---

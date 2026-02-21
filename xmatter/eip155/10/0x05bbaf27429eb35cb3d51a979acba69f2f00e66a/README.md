@@ -6,5 +6,5 @@ symbol: yvVelo-wTBT-USDC.e-f
 icons:
   - icon.svg
   - icon.png
-color: "#0f457d"
+color: "#f8f8f8"
 ---

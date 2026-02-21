@@ -6,5 +6,5 @@ symbol: RAY
 icons:
   - icon.svg
   - icon.png
-color: "#437df1"
+color: "#080808"
 ---

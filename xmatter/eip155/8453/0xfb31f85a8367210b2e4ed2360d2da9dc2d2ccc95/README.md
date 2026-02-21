@@ -6,5 +6,5 @@ symbol: EDEL
 icons:
   - icon.svg
   - icon.png
-color: "#ddd6c6"
+color: "#182828"
 ---

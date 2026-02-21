@@ -6,5 +6,5 @@ symbol: ibff
 icons:
   - icon.svg
   - icon.png
-color: "#6aded7"
+color: "#080808"
 ---

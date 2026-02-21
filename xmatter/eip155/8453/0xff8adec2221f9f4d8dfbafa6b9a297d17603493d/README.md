@@ -6,5 +6,5 @@ symbol: WELL
 icons:
   - icon.svg
   - icon.png
-color: "#2474dc"
+color: "#2878d8"
 ---

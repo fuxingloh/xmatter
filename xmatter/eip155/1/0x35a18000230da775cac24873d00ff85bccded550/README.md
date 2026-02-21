@@ -6,6 +6,6 @@ symbol: cUNI
 icons:
   - icon.svg
   - icon.png
-color: "#62abcd"
+color: "#f8f8f8"
 decimals: 8
 ---

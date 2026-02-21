@@ -6,5 +6,5 @@ symbol: yvusdn3CRV
 icons:
   - icon.svg
   - icon.png
-color: "#f6893a"
+color: "#f8f8f8"
 ---

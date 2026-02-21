@@ -6,5 +6,5 @@ symbol: B-stETH-STABLE
 icons:
   - icon.svg
   - icon.png
-color: "#d1eaf7"
+color: "#f8f8f8"
 ---

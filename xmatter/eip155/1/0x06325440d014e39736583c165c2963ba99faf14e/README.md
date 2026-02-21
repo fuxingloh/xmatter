@@ -6,5 +6,5 @@ symbol: steCRV
 icons:
   - icon.svg
   - icon.png
-color: "#dac587"
+color: "#f8f8f8"
 ---

@@ -6,5 +6,5 @@ symbol: CANA
 icons:
   - icon.svg
   - icon.png
-color: "#1d2d3d"
+color: "#182838"
 ---

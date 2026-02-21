@@ -6,5 +6,5 @@ symbol: yvpBTC/sbtcCRV
 icons:
   - icon.svg
   - icon.png
-color: "#09579d"
+color: "#f8f8f8"
 ---

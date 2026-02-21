@@ -6,5 +6,5 @@ symbol: ETHFI
 icons:
   - icon.svg
   - icon.png
-color: "#6c82e3"
+color: "#f8f8f8"
 ---

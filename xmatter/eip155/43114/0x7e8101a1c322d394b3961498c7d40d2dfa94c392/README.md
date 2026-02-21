@@ -6,5 +6,5 @@ symbol: wbNVDA
 icons:
   - icon.svg
   - icon.png
-color: "#d2e8ab"
+color: "#78b808"
 ---

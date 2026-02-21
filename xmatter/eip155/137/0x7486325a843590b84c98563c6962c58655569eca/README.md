@@ -6,5 +6,5 @@ symbol: ysWETH
 icons:
   - icon.svg
   - icon.png
-color: "#0756fc"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: MON
 icons:
   - icon.svg
   - icon.png
-color: "#1a1622"
+color: "#080808"
 ---

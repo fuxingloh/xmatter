@@ -6,5 +6,5 @@ symbol: AURA
 icons:
   - icon.svg
   - icon.png
-color: "#7b38ce"
+color: "#080808"
 ---

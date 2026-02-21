@@ -6,5 +6,5 @@ symbol: SOL
 icons:
   - icon.svg
   - icon.png
-color: "#6794cc"
+color: "#181818"
 ---

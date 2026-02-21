@@ -6,5 +6,5 @@ symbol: toby
 icons:
   - icon.svg
   - icon.png
-color: "#e1f1f7"
+color: "#080808"
 ---

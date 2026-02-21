@@ -6,5 +6,5 @@ symbol: yvVelo-DAI-USDC.e-f
 icons:
   - icon.svg
   - icon.png
-color: "#0e4781"
+color: "#f8f8f8"
 ---

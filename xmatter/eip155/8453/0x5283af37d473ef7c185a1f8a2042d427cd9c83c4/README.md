@@ -6,5 +6,5 @@ symbol: MUNITY
 icons:
   - icon.svg
   - icon.png
-color: "#806caa"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: ibEUR
 icons:
   - icon.svg
   - icon.png
-color: "#040505"
+color: "#080808"
 ---

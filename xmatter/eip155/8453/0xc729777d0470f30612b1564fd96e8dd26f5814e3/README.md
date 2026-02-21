@@ -6,5 +6,5 @@ symbol: SAPIEN
 icons:
   - icon.svg
   - icon.png
-color: "#0404fc"
+color: "#0808f8"
 ---

@@ -6,5 +6,5 @@ symbol: BCN
 icons:
   - icon.svg
   - icon.png
-color: "#0d1535"
+color: "#f8f8f8"
 ---

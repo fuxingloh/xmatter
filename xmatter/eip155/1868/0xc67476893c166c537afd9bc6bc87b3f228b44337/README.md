@@ -6,5 +6,5 @@ symbol: nsASTR
 icons:
   - icon.svg
   - icon.png
-color: "#2e2e2e"
+color: "#282828"
 ---

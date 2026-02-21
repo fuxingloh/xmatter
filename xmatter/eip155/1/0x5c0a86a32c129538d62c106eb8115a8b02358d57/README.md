@@ -6,5 +6,5 @@ symbol: yvCurve-rETHwstETH
 icons:
   - icon.svg
   - icon.png
-color: "#262626"
+color: "#f8f8f8"
 ---

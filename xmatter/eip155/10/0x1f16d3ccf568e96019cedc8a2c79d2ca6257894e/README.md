@@ -6,5 +6,5 @@ symbol: przLUSD
 icons:
   - icon.svg
   - icon.png
-color: "#7b58e0"
+color: "#f8f8f8"
 ---

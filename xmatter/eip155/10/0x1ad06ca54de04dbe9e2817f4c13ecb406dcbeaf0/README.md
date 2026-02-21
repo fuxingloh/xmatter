@@ -6,5 +6,5 @@ symbol: sAMMV2-alETH/frxETH
 icons:
   - icon.svg
   - icon.png
-color: "#e7aa84"
+color: "#080808"
 ---

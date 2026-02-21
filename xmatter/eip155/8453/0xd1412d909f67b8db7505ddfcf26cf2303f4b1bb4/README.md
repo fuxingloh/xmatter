@@ -6,5 +6,5 @@ symbol: RIKU
 icons:
   - icon.svg
   - icon.png
-color: "#077ef2"
+color: "#0878f8"
 ---

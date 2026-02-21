@@ -6,5 +6,5 @@ symbol: OD
 icons:
   - icon.svg
   - icon.png
-color: "#6394fc"
+color: "#080808"
 ---

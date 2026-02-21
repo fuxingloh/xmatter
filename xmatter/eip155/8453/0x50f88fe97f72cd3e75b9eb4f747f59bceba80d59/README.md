@@ -6,5 +6,5 @@ symbol: jesse
 icons:
   - icon.svg
   - icon.png
-color: "#718489"
+color: "#688898"
 ---

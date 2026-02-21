@@ -6,5 +6,5 @@ symbol: yvCurve-FXS-ETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#dad26d"
+color: "#f8f8f8"
 ---

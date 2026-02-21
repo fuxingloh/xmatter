@@ -6,5 +6,5 @@ symbol: ibbtc/sbtcCRV-f
 icons:
   - icon.svg
   - icon.png
-color: "#faa205"
+color: "#f8a808"
 ---

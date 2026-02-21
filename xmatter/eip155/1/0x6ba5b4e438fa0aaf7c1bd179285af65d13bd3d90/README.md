@@ -6,5 +6,5 @@ symbol: RAI3CRV
 icons:
   - icon.svg
   - icon.png
-color: "#1f3130"
+color: "#182828"
 ---

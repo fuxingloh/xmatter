@@ -6,5 +6,5 @@ symbol: AVNT
 icons:
   - icon.svg
   - icon.png
-color: "#11061f"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: EDGE
 icons:
   - icon.svg
   - icon.png
-color: "#372e15"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: vAMM-pHAM/pwBLT
 icons:
   - icon.svg
   - icon.png
-color: "#e5cedf"
+color: "#f8f8f8"
 ---

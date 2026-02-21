@@ -6,5 +6,5 @@ symbol: SIGN
 icons:
   - icon.svg
   - icon.png
-color: "#f88927"
+color: "#080808"
 ---

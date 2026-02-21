@@ -6,5 +6,5 @@ symbol: XSWAP
 icons:
   - icon.svg
   - icon.png
-color: "#1b2745"
+color: "#f8f8f8"
 ---

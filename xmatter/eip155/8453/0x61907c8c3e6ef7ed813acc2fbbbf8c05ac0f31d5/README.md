@@ -6,5 +6,5 @@ symbol: vAMM-wBLT/BMX
 icons:
   - icon.svg
   - icon.png
-color: "#e2c6cb"
+color: "#1808f8"
 ---

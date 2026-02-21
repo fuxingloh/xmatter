@@ -6,5 +6,5 @@ symbol: FYNI
 icons:
   - icon.svg
   - icon.png
-color: "#819cfb"
+color: "#080808"
 ---

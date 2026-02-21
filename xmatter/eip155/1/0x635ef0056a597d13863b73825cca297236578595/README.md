@@ -6,5 +6,5 @@ symbol: GHOcrvUSD
 icons:
   - icon.svg
   - icon.png
-color: "#9199d3"
+color: "#080808"
 ---

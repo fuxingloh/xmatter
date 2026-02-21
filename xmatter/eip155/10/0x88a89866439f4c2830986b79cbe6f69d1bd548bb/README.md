@@ -6,5 +6,5 @@ symbol: Bike
 icons:
   - icon.svg
   - icon.png
-color: "#fbebdb"
+color: "#f8e8d8"
 ---

@@ -10,7 +10,7 @@ name: Threshold Network Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#c28afc"
+color: "#7808f8"
 icons:
   - icon.svg
   - icon.png

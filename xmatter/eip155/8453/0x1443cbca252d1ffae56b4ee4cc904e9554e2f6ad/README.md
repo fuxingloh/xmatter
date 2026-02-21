@@ -6,5 +6,5 @@ symbol: baldcat
 icons:
   - icon.svg
   - icon.png
-color: "#eaaeb0"
+color: "#0858f8"
 ---

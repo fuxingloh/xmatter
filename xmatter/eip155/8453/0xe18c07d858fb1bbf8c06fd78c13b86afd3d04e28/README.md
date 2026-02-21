@@ -6,5 +6,5 @@ symbol: HEMPY
 icons:
   - icon.svg
   - icon.png
-color: "#43a9f8"
+color: "#f8d808"
 ---

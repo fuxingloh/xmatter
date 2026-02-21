@@ -6,5 +6,5 @@ symbol: SEND
 icons:
   - icon.svg
   - icon.png
-color: "#152a25"
+color: "#38f848"
 ---

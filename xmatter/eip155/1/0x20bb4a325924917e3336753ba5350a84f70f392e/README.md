@@ -6,5 +6,5 @@ symbol: rev DOLA
 icons:
   - icon.svg
   - icon.png
-color: "#ddb65c"
+color: "#080808"
 ---

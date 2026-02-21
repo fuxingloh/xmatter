@@ -6,5 +6,5 @@ symbol: CLEAR
 icons:
   - icon.svg
   - icon.png
-color: "#040405"
+color: "#080808"
 ---

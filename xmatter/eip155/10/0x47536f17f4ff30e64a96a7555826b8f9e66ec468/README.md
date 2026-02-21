@@ -6,5 +6,5 @@ symbol: MMY
 icons:
   - icon.svg
   - icon.png
-color: "#04eea9"
+color: "#081838"
 ---

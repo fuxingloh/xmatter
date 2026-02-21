@@ -6,5 +6,5 @@ symbol: VFY
 icons:
   - icon.svg
   - icon.png
-color: "#b2f9a2"
+color: "#b8f8a8"
 ---

@@ -6,5 +6,5 @@ symbol: multibtc3CRV-f
 icons:
   - icon.svg
   - icon.png
-color: "#3183b3"
+color: "#080808"
 ---

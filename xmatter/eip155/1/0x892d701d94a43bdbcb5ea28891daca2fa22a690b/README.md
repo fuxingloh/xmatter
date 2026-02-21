@@ -6,5 +6,5 @@ symbol: STBT3CRV-f
 icons:
   - icon.svg
   - icon.png
-color: "#2d2d54"
+color: "#080808"
 ---

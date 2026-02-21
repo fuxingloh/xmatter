@@ -6,5 +6,5 @@ symbol: EUROe
 icons:
   - icon.svg
   - icon.png
-color: "#203848"
+color: "#283848"
 ---

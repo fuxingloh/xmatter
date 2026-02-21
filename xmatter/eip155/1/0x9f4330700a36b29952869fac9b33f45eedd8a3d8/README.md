@@ -6,5 +6,5 @@ symbol: yBOLD
 icons:
   - icon.svg
   - icon.png
-color: "#0474fc"
+color: "#0878f8"
 ---

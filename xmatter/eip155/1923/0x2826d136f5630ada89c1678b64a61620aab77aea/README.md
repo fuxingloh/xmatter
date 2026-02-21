@@ -6,5 +6,5 @@ symbol: SWELL
 icons:
   - icon.svg
   - icon.png
-color: "#2955dc"
+color: "#080808"
 ---

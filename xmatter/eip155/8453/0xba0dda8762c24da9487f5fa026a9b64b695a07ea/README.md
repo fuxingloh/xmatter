@@ -6,5 +6,5 @@ symbol: OX
 icons:
   - icon.svg
   - icon.png
-color: "#bcf470"
+color: "#080808"
 ---

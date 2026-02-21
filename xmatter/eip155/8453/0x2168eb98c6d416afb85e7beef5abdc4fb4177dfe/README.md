@@ -6,5 +6,5 @@ symbol: BLP
 icons:
   - icon.svg
   - icon.png
-color: "#883ae2"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: opxVELO
 icons:
   - icon.svg
   - icon.png
-color: "#1885ee"
+color: "#f8f8f8"
 ---

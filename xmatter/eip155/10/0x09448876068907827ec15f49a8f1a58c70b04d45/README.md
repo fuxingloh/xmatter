@@ -6,5 +6,5 @@ symbol: sETHo
 icons:
   - icon.svg
   - icon.png
-color: "#cdcdcd"
+color: "#080808"
 ---

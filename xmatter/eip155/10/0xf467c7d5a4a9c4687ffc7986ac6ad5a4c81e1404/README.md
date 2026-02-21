@@ -6,5 +6,5 @@ symbol: KITE
 icons:
   - icon.svg
   - icon.png
-color: "#e6ccc5"
+color: "#e8c8b8"
 ---

@@ -6,5 +6,5 @@ symbol: rsETH
 icons:
   - icon.svg
   - icon.png
-color: "#abc9c9"
+color: "#085858"
 ---

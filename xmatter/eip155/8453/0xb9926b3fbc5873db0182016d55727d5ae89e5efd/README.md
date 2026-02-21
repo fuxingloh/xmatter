@@ -6,5 +6,5 @@ symbol: APU
 icons:
   - icon.svg
   - icon.png
-color: "#5d8a41"
+color: "#588838"
 ---

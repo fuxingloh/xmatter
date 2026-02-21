@@ -6,5 +6,5 @@ symbol: sAMMV2-FRAX/alUSD
 icons:
   - icon.svg
   - icon.png
-color: "#eab998"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: FUD
 icons:
   - icon.svg
   - icon.png
-color: "#f5a067"
+color: "#080808"
 ---

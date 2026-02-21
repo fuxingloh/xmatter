@@ -6,5 +6,5 @@ symbol: ASTR
 icons:
   - icon.svg
   - icon.png
-color: "#4196e4"
+color: "#080808"
 ---

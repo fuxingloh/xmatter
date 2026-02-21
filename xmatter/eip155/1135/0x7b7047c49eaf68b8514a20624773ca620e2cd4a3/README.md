@@ -6,5 +6,5 @@ symbol: LZAR
 icons:
   - icon.svg
   - icon.png
-color: "#11723c"
+color: "#087838"
 ---

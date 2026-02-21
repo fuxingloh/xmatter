@@ -6,5 +6,5 @@ symbol: M-BTC
 icons:
   - icon.svg
   - icon.png
-color: "#5f3af2"
+color: "#080808"
 ---

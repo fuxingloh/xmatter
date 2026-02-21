@@ -6,5 +6,5 @@ symbol: yvCurve-DOLA-FRXBP-f
 icons:
   - icon.svg
   - icon.png
-color: "#f4924c"
+color: "#f8f8f8"
 ---

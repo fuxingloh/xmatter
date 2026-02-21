@@ -6,5 +6,5 @@ symbol: vAMM-hyUSD/eUSD
 icons:
   - icon.svg
   - icon.png
-color: "#e6a40f"
+color: "#080808"
 ---

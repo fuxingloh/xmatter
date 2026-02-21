@@ -6,5 +6,5 @@ symbol: WBERA
 icons:
   - icon.svg
   - icon.png
-color: "#814a2e"
+color: "#f8f8f8"
 ---

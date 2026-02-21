@@ -6,5 +6,5 @@ symbol: sAMMV2-DOLA/ERN
 icons:
   - icon.svg
   - icon.png
-color: "#e5a77a"
+color: "#080808"
 ---

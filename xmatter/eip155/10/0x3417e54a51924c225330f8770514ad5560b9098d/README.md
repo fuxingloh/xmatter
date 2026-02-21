@@ -6,5 +6,5 @@ symbol: RED
 icons:
   - icon.svg
   - icon.png
-color: "#ece2e3"
+color: "#e83848"
 ---

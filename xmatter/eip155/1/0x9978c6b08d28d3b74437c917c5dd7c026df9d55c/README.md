@@ -6,5 +6,5 @@ symbol: LUSDcrvUSD-f
 icons:
   - icon.svg
   - icon.png
-color: "#dbc488"
+color: "#080808"
 ---

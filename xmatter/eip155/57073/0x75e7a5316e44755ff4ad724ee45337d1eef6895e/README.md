@@ -6,5 +6,5 @@ symbol: PRL
 icons:
   - icon.svg
   - icon.png
-color: "#cf93ce"
+color: "#c888c8"
 ---

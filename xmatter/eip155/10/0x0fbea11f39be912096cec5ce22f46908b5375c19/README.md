@@ -6,5 +6,5 @@ symbol: yvsUSD
 icons:
   - icon.svg
   - icon.png
-color: "#0a58fa"
+color: "#f8f8f8"
 ---

@@ -6,5 +6,5 @@ symbol: 3EURpool-f
 icons:
   - icon.svg
   - icon.png
-color: "#c3c361"
+color: "#080808"
 ---

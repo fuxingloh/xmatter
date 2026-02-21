@@ -6,5 +6,5 @@ symbol: yUSD USDC
 icons:
   - icon.svg
   - icon.png
-color: "#1d1c1c"
+color: "#080808"
 ---

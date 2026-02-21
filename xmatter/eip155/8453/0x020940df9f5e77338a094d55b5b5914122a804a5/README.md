@@ -6,5 +6,5 @@ symbol: RBNT
 icons:
   - icon.svg
   - icon.png
-color: "#ff5050"
+color: "#080808"
 ---

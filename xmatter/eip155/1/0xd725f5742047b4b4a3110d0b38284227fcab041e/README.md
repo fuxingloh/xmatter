@@ -6,5 +6,5 @@ symbol: lp-yBAL
 icons:
   - icon.svg
   - icon.png
-color: "#2f2f35"
+color: "#282838"
 ---

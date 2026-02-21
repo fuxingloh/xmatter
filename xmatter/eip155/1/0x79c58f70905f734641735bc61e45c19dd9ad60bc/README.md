@@ -6,5 +6,5 @@ symbol: USDC-DAI-USDT
 icons:
   - icon.svg
   - icon.png
-color: "#eec56d"
+color: "#080808"
 ---

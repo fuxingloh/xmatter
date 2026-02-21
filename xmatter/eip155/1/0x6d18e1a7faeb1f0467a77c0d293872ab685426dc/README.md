@@ -6,5 +6,5 @@ symbol: OUSD/USDC
 icons:
   - icon.svg
   - icon.png
-color: "#2b4049"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: ibKRWUSDC-f
 icons:
   - icon.svg
   - icon.png
-color: "#dab04f"
+color: "#080808"
 ---

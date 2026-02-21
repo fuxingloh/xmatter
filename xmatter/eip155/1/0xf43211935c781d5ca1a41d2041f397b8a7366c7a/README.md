@@ -6,5 +6,5 @@ symbol: frxETHCRV
 icons:
   - icon.svg
   - icon.png
-color: "#090909"
+color: "#080808"
 ---

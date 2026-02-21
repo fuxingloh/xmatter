@@ -6,5 +6,5 @@ symbol: vAMMV2-USDC/VELO
 icons:
   - icon.svg
   - icon.png
-color: "#f0efef"
+color: "#f8f8f8"
 ---

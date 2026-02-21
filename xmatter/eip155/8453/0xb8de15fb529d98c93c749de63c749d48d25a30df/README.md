@@ -6,5 +6,5 @@ symbol: NUT
 icons:
   - icon.svg
   - icon.png
-color: "#969696"
+color: "#888888"
 ---

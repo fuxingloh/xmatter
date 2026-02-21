@@ -6,5 +6,5 @@ symbol: a3CRV
 icons:
   - icon.svg
   - icon.png
-color: "#8680b1"
+color: "#080808"
 ---

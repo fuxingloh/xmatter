@@ -6,5 +6,5 @@ symbol: uniBTC
 icons:
   - icon.svg
   - icon.png
-color: "#a9dbf2"
+color: "#080808"
 ---

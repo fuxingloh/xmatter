@@ -6,5 +6,5 @@ symbol: yvCurve-3CryptoUSDC-f
 icons:
   - icon.svg
   - icon.png
-color: "#1b1b1b"
+color: "#f8f8f8"
 ---

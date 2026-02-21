@@ -6,5 +6,5 @@ symbol: EGP
 icons:
   - icon.svg
   - icon.png
-color: "#e0dee9"
+color: "#080808"
 ---

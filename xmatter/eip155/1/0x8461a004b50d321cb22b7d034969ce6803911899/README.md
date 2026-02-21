@@ -6,5 +6,5 @@ symbol: ibKRW+sKRW-f
 icons:
   - icon.svg
   - icon.png
-color: "#090809"
+color: "#080808"
 ---

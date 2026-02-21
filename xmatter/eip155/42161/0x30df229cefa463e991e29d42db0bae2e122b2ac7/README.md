@@ -6,5 +6,5 @@ symbol: MIM3CRV-f
 icons:
   - icon.svg
   - icon.png
-color: "#e8c222"
+color: "#080808"
 ---

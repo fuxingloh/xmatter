@@ -6,5 +6,5 @@ symbol: RING
 icons:
   - icon.svg
   - icon.png
-color: "#d73121"
+color: "#080808"
 ---

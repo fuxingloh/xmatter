@@ -6,5 +6,5 @@ symbol: zunETH
 icons:
   - icon.svg
   - icon.png
-color: "#fbaf07"
+color: "#f8a808"
 ---

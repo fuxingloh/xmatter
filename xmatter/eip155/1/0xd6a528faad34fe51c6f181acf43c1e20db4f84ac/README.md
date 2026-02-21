@@ -6,5 +6,5 @@ symbol: yvBal-DOLA-USDC-f
 icons:
   - icon.svg
   - icon.png
-color: "#ec7655"
+color: "#080808"
 ---

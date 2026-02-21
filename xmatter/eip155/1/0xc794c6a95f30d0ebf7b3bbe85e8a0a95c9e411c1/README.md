@@ -6,5 +6,5 @@ symbol: hyUSDeUSD-f
 icons:
   - icon.svg
   - icon.png
-color: "#eab01c"
+color: "#080808"
 ---

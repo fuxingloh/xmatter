@@ -6,5 +6,5 @@ symbol: yvCurve-msUSD-FRAXBP-f
 icons:
   - icon.svg
   - icon.png
-color: "#49494e"
+color: "#f8f8f8"
 ---

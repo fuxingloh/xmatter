@@ -6,5 +6,5 @@ symbol: pETH-ETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#657eeb"
+color: "#6878e8"
 ---

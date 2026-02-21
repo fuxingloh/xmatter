@@ -6,5 +6,5 @@ symbol: vAMMV2-USDC/wTBT
 icons:
   - icon.svg
   - icon.png
-color: "#eca482"
+color: "#f8f8f8"
 ---

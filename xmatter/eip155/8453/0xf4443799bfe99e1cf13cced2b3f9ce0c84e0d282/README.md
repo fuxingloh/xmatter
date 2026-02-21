@@ -6,5 +6,5 @@ symbol: P-DEMSSENATE26
 icons:
   - icon.svg
   - icon.png
-color: "#edf2ea"
+color: "#2878a8"
 ---

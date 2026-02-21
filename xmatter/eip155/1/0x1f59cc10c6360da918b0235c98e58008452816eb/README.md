@@ -6,5 +6,5 @@ symbol: yn-ETH/LSD
 icons:
   - icon.svg
   - icon.png
-color: "#294caa"
+color: "#e8c888"
 ---

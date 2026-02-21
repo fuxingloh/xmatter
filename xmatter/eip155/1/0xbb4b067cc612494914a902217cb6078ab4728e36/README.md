@@ -6,5 +6,5 @@ symbol: cyCUSDT
 icons:
   - icon.svg
   - icon.png
-color: "#6cdeda"
+color: "#68e8d8"
 ---

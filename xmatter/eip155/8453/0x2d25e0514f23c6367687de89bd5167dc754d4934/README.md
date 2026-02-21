@@ -6,5 +6,5 @@ symbol: vAMM-WETH/TAROT
 icons:
   - icon.svg
   - icon.png
-color: "#cbcad4"
+color: "#080808"
 ---

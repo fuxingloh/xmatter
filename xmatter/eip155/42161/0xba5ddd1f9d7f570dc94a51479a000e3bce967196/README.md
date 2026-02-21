@@ -6,5 +6,5 @@ symbol: AAVE
 icons:
   - icon.svg
   - icon.png
-color: "#9494f4"
+color: "#9898f8"
 ---

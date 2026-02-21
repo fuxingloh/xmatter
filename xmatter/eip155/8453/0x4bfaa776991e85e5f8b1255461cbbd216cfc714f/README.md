@@ -6,5 +6,5 @@ symbol: HOME
 icons:
   - icon.svg
   - icon.png
-color: "#04231e"
+color: "#082818"
 ---

@@ -6,5 +6,5 @@ symbol: EMP
 icons:
   - icon.svg
   - icon.png
-color: "#050505"
+color: "#f8f8f8"
 ---

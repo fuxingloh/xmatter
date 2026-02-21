@@ -6,5 +6,5 @@ symbol: USDM
 icons:
   - icon.svg
   - icon.png
-color: "#eecd0b"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: axlREGEN
 icons:
   - icon.svg
   - icon.png
-color: "#56b790"
+color: "#080808"
 ---

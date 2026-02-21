@@ -6,5 +6,5 @@ symbol: BeVELO
 icons:
   - icon.svg
   - icon.png
-color: "#383838"
+color: "#f8e8e8"
 ---

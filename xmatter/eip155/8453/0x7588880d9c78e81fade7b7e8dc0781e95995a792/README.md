@@ -6,5 +6,5 @@ symbol: SAINT
 icons:
   - icon.svg
   - icon.png
-color: "#4c3737"
+color: "#281818"
 ---

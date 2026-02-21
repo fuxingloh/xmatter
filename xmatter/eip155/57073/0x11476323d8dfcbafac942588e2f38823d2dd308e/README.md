@@ -6,5 +6,5 @@ symbol: iETH
 icons:
   - icon.svg
   - icon.png
-color: "#572ab8"
+color: "#080808"
 ---

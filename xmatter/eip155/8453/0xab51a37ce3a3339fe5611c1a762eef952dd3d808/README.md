@@ -6,5 +6,5 @@ symbol: CAESAR
 icons:
   - icon.svg
   - icon.png
-color: "#d8d8d5"
+color: "#f8f8f8"
 ---

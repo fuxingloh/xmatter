@@ -6,5 +6,5 @@ symbol: IBEX
 icons:
   - icon.svg
   - icon.png
-color: "#1c1e1e"
+color: "#28a898"
 ---

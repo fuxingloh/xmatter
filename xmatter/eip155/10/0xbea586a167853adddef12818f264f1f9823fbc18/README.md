@@ -6,5 +6,5 @@ symbol: esEXA
 icons:
   - icon.svg
   - icon.png
-color: "#35c13d"
+color: "#f8f8f8"
 ---

@@ -6,5 +6,5 @@ symbol: wstUSR
 icons:
   - icon.svg
   - icon.png
-color: "#4c87a5"
+color: "#080808"
 ---

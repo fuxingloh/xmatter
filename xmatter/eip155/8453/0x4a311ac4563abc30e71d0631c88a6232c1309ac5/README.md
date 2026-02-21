@@ -6,5 +6,5 @@ symbol: vAMM-Mog/WETH
 icons:
   - icon.svg
   - icon.png
-color: "#434a82"
+color: "#080808"
 ---

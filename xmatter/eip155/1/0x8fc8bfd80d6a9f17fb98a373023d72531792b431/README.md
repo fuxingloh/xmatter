@@ -6,5 +6,5 @@ symbol: iWBTC
 icons:
   - icon.svg
   - icon.png
-color: "#6ce1d9"
+color: "#68e8d8"
 ---

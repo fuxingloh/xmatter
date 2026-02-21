@@ -6,5 +6,5 @@ symbol: yvCurve-STBT-f
 icons:
   - icon.svg
   - icon.png
-color: "#d7d075"
+color: "#f8f8f8"
 ---

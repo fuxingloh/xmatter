@@ -6,5 +6,5 @@ symbol: aUSDC-USDT
 icons:
   - icon.svg
   - icon.png
-color: "#6bb4a7"
+color: "#f80808"
 ---

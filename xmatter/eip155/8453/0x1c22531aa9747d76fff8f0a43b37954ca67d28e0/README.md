@@ -6,5 +6,5 @@ symbol: suETH
 icons:
   - icon.svg
   - icon.png
-color: "#acbcc4"
+color: "#080808"
 ---

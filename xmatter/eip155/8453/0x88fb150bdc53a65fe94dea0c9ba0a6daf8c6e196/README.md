@@ -6,5 +6,5 @@ symbol: LINK
 icons:
   - icon.svg
   - icon.png
-color: "#0840f0"
+color: "#0848f8"
 ---

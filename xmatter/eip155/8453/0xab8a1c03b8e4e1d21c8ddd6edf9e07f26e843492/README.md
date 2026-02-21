@@ -6,5 +6,5 @@ symbol: OGRE
 icons:
   - icon.svg
   - icon.png
-color: "#1d4de3"
+color: "#1848e8"
 ---

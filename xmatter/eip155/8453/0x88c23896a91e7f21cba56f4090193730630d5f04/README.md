@@ -6,5 +6,5 @@ symbol: xSN51
 icons:
   - icon.svg
   - icon.png
-color: "#2381f7"
+color: "#080808"
 ---

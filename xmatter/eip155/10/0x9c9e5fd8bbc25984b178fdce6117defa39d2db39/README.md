@@ -6,5 +6,5 @@ symbol: BUSD
 icons:
   - icon.svg
   - icon.png
-color: "#f0b808"
+color: "#080808"
 ---

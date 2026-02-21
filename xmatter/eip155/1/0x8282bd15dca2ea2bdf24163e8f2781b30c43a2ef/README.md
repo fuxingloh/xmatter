@@ -6,5 +6,5 @@ symbol: crvSPELLETH
 icons:
   - icon.svg
   - icon.png
-color: "#ebc16b"
+color: "#080808"
 ---

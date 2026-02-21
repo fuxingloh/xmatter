@@ -6,5 +6,5 @@ symbol: docker
 icons:
   - icon.svg
   - icon.png
-color: "#0c0c04"
+color: "#080808"
 ---

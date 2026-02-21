@@ -6,5 +6,5 @@ symbol: MOVE
 icons:
   - icon.svg
   - icon.png
-color: "#f3bb13"
+color: "#f8b818"
 ---

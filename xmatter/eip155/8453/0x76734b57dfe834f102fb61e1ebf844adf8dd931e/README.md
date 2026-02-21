@@ -6,5 +6,5 @@ symbol: weirdo
 icons:
   - icon.svg
   - icon.png
-color: "#0c4dd6"
+color: "#d8e8f8"
 ---

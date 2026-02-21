@@ -6,5 +6,5 @@ symbol: yvCurve-LUSD
 icons:
   - icon.svg
   - icon.png
-color: "#b3c9ae"
+color: "#f8f8f8"
 ---

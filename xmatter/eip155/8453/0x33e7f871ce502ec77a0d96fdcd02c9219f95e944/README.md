@@ -6,5 +6,5 @@ symbol: BOMET
 icons:
   - icon.svg
   - icon.png
-color: "#000000"
+color: "#080808"
 ---

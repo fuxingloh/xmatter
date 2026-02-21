@@ -6,5 +6,5 @@ symbol: yvAero-DAI+-USD+-f
 icons:
   - icon.svg
   - icon.png
-color: "#ca8497"
+color: "#f8f8f8"
 ---

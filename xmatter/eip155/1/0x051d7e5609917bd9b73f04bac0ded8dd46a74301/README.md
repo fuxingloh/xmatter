@@ -6,5 +6,5 @@ symbol: crvWSBTC
 icons:
   - icon.svg
   - icon.png
-color: "#e9a226"
+color: "#f8f8f8"
 ---

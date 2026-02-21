@@ -6,5 +6,5 @@ symbol: yvVelo-KWENTA-WETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#c3c2bb"
+color: "#f8f8f8"
 ---

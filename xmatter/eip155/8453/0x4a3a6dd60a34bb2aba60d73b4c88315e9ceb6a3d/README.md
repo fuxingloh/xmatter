@@ -6,5 +6,5 @@ symbol: MIM
 icons:
   - icon.svg
   - icon.png
-color: "#fbdb55"
+color: "#5858f8"
 ---

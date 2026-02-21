@@ -6,5 +6,5 @@ symbol: GHOUSR
 icons:
   - icon.svg
   - icon.png
-color: "#5e92ad"
+color: "#080808"
 ---

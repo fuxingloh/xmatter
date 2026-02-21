@@ -6,5 +6,5 @@ symbol: xSN17
 icons:
   - icon.svg
   - icon.png
-color: "#f35850"
+color: "#080808"
 ---

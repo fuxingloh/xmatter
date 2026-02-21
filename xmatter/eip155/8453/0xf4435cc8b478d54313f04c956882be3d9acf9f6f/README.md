@@ -6,5 +6,5 @@ symbol: LUCHA
 icons:
   - icon.svg
   - icon.png
-color: "#dab238"
+color: "#f8f8f8"
 ---

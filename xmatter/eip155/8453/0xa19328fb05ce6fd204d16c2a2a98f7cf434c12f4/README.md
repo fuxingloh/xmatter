@@ -6,5 +6,5 @@ symbol: L2VE
 icons:
   - icon.svg
   - icon.png
-color: "#0b59fc"
+color: "#f8f8f8"
 ---

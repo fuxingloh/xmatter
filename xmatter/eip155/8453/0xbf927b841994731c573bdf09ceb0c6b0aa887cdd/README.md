@@ -6,5 +6,5 @@ symbol: VELVET
 icons:
   - icon.svg
   - icon.png
-color: "#290f54"
+color: "#280858"
 ---

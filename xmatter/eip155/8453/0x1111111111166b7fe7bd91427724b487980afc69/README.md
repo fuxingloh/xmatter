@@ -6,5 +6,5 @@ symbol: ZORA
 icons:
   - icon.svg
   - icon.png
-color: "#46282f"
+color: "#080808"
 ---

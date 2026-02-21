@@ -6,5 +6,5 @@ symbol: ERN
 icons:
   - icon.svg
   - icon.png
-color: "#060606"
+color: "#f8f8f8"
 ---

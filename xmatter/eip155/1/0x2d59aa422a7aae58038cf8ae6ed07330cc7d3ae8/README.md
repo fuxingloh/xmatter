@@ -6,5 +6,5 @@ symbol: yvCurve-bLUSD-f
 icons:
   - icon.svg
   - icon.png
-color: "#222222"
+color: "#f8f8f8"
 ---

@@ -6,5 +6,5 @@ symbol: USDafscrv
 icons:
   - icon.svg
   - icon.png
-color: "#eff6ee"
+color: "#f8f8f8"
 ---

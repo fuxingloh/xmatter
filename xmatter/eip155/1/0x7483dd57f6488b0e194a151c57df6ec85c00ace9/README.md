@@ -6,5 +6,5 @@ symbol: BTRFLYETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#e4e7b5"
+color: "#080808"
 ---

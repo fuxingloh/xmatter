@@ -6,5 +6,5 @@ symbol: yvCurve-ibCHF
 icons:
   - icon.svg
   - icon.png
-color: "#d5d76a"
+color: "#f8f8f8"
 ---

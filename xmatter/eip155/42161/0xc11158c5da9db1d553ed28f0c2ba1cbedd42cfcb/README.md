@@ -6,7 +6,7 @@ symbol: wPAW
 icons:
   - icon.svg
   - icon.png
-color: "#041c6c"
+color: "#081868"
 links:
   - name: website
     url: "https://www.pawchain.net"

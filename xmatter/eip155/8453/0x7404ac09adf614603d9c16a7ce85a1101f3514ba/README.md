@@ -6,5 +6,5 @@ symbol: PLAY
 icons:
   - icon.svg
   - icon.png
-color: "#b477f8"
+color: "#f8f8f8"
 ---

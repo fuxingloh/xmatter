@@ -5,5 +5,5 @@ standards: []
 symbol: Kendu
 icons:
   - icon.png
-color: "#af6c42"
+color: "#080808"
 ---

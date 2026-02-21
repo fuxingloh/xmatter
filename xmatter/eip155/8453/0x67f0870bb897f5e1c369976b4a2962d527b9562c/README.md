@@ -6,5 +6,5 @@ symbol: DOGE
 icons:
   - icon.svg
   - icon.png
-color: "#d4c386"
+color: "#f8f8f8"
 ---

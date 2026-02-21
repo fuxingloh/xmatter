@@ -6,5 +6,5 @@ symbol: yvCurve-Pax
 icons:
   - icon.svg
   - icon.png
-color: "#909e84"
+color: "#f8f8f8"
 ---

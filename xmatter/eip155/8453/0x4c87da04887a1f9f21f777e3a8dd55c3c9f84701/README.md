@@ -6,5 +6,5 @@ symbol: COMMON
 icons:
   - icon.svg
   - icon.png
-color: "#fb1c06"
+color: "#f8f8f8"
 ---

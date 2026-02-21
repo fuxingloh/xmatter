@@ -6,5 +6,5 @@ symbol: yvcrvTETH
 icons:
   - icon.svg
   - icon.png
-color: "#dbd986"
+color: "#f8f8f8"
 ---

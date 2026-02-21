@@ -6,5 +6,5 @@ symbol: vAMM-ION/WETH
 icons:
   - icon.svg
   - icon.png
-color: "#dcacb6"
+color: "#080808"
 ---

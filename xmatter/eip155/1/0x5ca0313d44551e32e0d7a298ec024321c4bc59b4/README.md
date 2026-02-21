@@ -6,5 +6,5 @@ symbol: bLUSDLUSD3-f
 icons:
   - icon.svg
   - icon.png
-color: "#3c5cba"
+color: "#3858b8"
 ---

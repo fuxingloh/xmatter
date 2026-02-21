@@ -6,5 +6,5 @@ symbol: lp-yPRISMA
 icons:
   - icon.svg
   - icon.png
-color: "#c5c8bf"
+color: "#f8f8f8"
 ---

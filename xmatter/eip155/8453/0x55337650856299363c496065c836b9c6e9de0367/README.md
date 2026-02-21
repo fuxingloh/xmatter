@@ -6,5 +6,5 @@ symbol: ACES
 icons:
   - icon.svg
   - icon.png
-color: "#cfb053"
+color: "#281818"
 ---

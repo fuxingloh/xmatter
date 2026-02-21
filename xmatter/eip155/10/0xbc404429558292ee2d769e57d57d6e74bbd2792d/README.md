@@ -6,5 +6,5 @@ symbol: sUSX
 icons:
   - icon.svg
   - icon.png
-color: "#243494"
+color: "#f8f8f8"
 ---

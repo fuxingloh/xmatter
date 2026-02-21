@@ -6,5 +6,5 @@ symbol: yvCurve-IronBank
 icons:
   - icon.svg
   - icon.png
-color: "#ddd466"
+color: "#f8f8f8"
 ---

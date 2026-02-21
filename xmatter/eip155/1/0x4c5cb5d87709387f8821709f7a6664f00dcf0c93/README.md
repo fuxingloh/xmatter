@@ -6,5 +6,5 @@ symbol: RAFT
 icons:
   - icon.svg
   - icon.png
-color: "#fc7c14"
+color: "#f8f8f8"
 ---

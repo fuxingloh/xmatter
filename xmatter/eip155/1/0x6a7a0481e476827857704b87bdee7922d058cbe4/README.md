@@ -6,5 +6,5 @@ symbol: yvCurve-hyUSD-eUSD-f
 icons:
   - icon.svg
   - icon.png
-color: "#dcd272"
+color: "#f8f8f8"
 ---

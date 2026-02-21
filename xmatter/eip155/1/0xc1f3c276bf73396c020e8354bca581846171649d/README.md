@@ -6,5 +6,5 @@ symbol: yvwstETH
 icons:
   - icon.svg
   - icon.png
-color: "#1059f0"
+color: "#f8f8f8"
 ---

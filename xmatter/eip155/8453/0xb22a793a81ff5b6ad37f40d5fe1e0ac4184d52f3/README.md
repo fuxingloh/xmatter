@@ -6,5 +6,5 @@ symbol: TONY
 icons:
   - icon.svg
   - icon.png
-color: "#2a3a5c"
+color: "#080808"
 ---

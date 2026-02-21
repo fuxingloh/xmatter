@@ -6,5 +6,5 @@ symbol: yvCurve-ETHx-WETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#d7d57e"
+color: "#f8f8f8"
 ---

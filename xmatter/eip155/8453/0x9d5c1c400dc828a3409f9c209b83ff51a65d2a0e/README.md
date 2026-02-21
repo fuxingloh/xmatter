@@ -6,5 +6,5 @@ symbol: TAIRO
 icons:
   - icon.svg
   - icon.png
-color: "#e1d5b8"
+color: "#080808"
 ---

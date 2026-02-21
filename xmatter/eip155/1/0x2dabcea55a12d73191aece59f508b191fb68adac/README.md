@@ -6,5 +6,5 @@ symbol: KweETH
 icons:
   - icon.svg
   - icon.png
-color: "#11103d"
+color: "#080838"
 ---

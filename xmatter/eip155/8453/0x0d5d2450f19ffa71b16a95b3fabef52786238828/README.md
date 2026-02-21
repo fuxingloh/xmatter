@@ -6,5 +6,5 @@ symbol: XTGPT
 icons:
   - icon.svg
   - icon.png
-color: "#050404"
+color: "#080808"
 ---

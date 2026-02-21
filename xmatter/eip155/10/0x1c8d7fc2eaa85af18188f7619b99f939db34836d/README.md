@@ -6,5 +6,5 @@ symbol: vAMMV2-QI/USDC
 icons:
   - icon.svg
   - icon.png
-color: "#f66f6d"
+color: "#080808"
 ---

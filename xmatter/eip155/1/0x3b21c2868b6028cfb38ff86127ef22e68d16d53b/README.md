@@ -6,5 +6,5 @@ symbol: cvxprismlp-f
 icons:
   - icon.svg
   - icon.png
-color: "#ecc04e"
+color: "#f8f8f8"
 ---

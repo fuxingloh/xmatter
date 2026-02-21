@@ -6,5 +6,5 @@ symbol: yvlinkCRV
 icons:
   - icon.svg
   - icon.png
-color: "#1c1c1c"
+color: "#f8f8f8"
 ---

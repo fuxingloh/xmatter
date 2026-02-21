@@ -6,5 +6,5 @@ symbol: saCRV
 icons:
   - icon.svg
   - icon.png
-color: "#0f062e"
+color: "#080828"
 ---

@@ -6,5 +6,5 @@ symbol: SolvBTC
 icons:
   - icon.svg
   - icon.png
-color: "#eeb851"
+color: "#080808"
 ---

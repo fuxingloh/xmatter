@@ -6,5 +6,5 @@ symbol: DYDXETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#dac083"
+color: "#181828"
 ---

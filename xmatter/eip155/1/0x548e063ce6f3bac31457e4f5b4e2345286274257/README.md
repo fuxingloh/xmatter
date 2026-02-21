@@ -6,5 +6,5 @@ symbol: cbETHfrxET-f
 icons:
   - icon.svg
   - icon.png
-color: "#e1c493"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: ypaxCrv
 icons:
   - icon.svg
   - icon.png
-color: "#237f3f"
+color: "#f8f8f8"
 ---

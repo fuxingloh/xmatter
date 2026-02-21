@@ -6,5 +6,5 @@ symbol: st-frxETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#53c4ea"
+color: "#f8f8f8"
 ---

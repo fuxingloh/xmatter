@@ -6,5 +6,5 @@ symbol: sAMMV2-USDC/LUSD
 icons:
   - icon.svg
   - icon.png
-color: "#3690e1"
+color: "#080808"
 ---

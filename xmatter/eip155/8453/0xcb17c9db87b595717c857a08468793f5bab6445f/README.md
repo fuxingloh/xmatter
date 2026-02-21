@@ -6,5 +6,5 @@ symbol: cbLTC
 icons:
   - icon.svg
   - icon.png
-color: "#0555fc"
+color: "#f8f8f8"
 ---

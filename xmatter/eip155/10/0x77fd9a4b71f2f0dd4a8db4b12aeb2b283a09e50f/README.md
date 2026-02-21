@@ -6,5 +6,5 @@ symbol: eEUR
 icons:
   - icon.svg
   - icon.png
-color: "#eeeff7"
+color: "#f8f8f8"
 ---

@@ -6,5 +6,5 @@ symbol: xSN35
 icons:
   - icon.svg
   - icon.png
-color: "#05080c"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: USDz
 icons:
   - icon.svg
   - icon.png
-color: "#2048df"
+color: "#f8f8f8"
 ---

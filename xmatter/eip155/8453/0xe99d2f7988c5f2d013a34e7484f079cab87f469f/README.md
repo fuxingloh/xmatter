@@ -6,5 +6,5 @@ symbol: ZXBT
 icons:
   - icon.svg
   - icon.png
-color: "#dedede"
+color: "#f8f8f8"
 ---

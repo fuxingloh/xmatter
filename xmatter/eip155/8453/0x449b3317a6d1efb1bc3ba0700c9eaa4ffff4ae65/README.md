@@ -6,5 +6,5 @@ symbol: AUDD
 icons:
   - icon.svg
   - icon.png
-color: "#4500ff"
+color: "#080808"
 ---

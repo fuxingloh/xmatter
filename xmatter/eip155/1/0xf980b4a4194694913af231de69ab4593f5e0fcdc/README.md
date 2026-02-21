@@ -6,5 +6,5 @@ symbol: mkUSDUSDC
 icons:
   - icon.svg
   - icon.png
-color: "#debe7d"
+color: "#f8f8f8"
 ---

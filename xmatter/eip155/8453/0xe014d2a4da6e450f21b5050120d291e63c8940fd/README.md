@@ -6,5 +6,5 @@ symbol: SOGNI
 icons:
   - icon.svg
   - icon.png
-color: "#181220"
+color: "#180818"
 ---

@@ -6,5 +6,5 @@ symbol: FMP
 icons:
   - icon.svg
   - icon.png
-color: "#e3e3e3"
+color: "#080808"
 ---

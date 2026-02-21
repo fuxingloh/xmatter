@@ -6,5 +6,5 @@ symbol: yvVelo-DOLA-USDC-f
 icons:
   - icon.svg
   - icon.png
-color: "#124f8e"
+color: "#f8f8f8"
 ---

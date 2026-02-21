@@ -6,5 +6,5 @@ symbol: SYK
 icons:
   - icon.svg
   - icon.png
-color: "#e5f504"
+color: "#080808"
 ---

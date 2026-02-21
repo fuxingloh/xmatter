@@ -6,5 +6,5 @@ symbol: bCOIN
 icons:
   - icon.svg
   - icon.png
-color: "#acc7fc"
+color: "#0858f8"
 ---

@@ -6,5 +6,5 @@ symbol: yvVelo-rETH-WETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#a0a6ad"
+color: "#f8f8f8"
 ---

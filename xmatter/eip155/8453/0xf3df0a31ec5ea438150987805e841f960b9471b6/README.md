@@ -6,5 +6,5 @@ symbol: WOO
 icons:
   - icon.svg
   - icon.png
-color: "#24242c"
+color: "#182828"
 ---

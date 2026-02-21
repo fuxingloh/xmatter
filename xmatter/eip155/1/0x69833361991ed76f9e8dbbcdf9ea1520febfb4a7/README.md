@@ -6,5 +6,5 @@ symbol: yPRISMA-f
 icons:
   - icon.svg
   - icon.png
-color: "#f5a738"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: ibJPYUSDC-f
 icons:
   - icon.svg
   - icon.png
-color: "#dcb150"
+color: "#080808"
 ---

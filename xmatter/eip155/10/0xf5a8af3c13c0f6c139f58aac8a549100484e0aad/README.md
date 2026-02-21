@@ -6,5 +6,5 @@ symbol: yvVelo-UNLOCK-VELO-f
 icons:
   - icon.svg
   - icon.png
-color: "#0d0d0e"
+color: "#080808"
 ---

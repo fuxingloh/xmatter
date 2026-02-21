@@ -6,6 +6,6 @@ symbol: yWTBC
 icons:
   - icon.svg
   - icon.png
-color: "#c1c1c1"
+color: "#f8f8f8"
 decimals: 8
 ---

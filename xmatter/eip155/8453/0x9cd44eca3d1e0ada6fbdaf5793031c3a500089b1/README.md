@@ -6,5 +6,5 @@ symbol: SPARKLET
 icons:
   - icon.svg
   - icon.png
-color: "#34c4fb"
+color: "#38c8f8"
 ---

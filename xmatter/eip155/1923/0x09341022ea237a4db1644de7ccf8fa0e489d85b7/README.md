@@ -6,5 +6,5 @@ symbol: swETH
 icons:
   - icon.svg
   - icon.png
-color: "#2854db"
+color: "#080808"
 ---

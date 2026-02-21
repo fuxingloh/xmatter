@@ -6,5 +6,5 @@ symbol: yvCurve-TUSD
 icons:
   - icon.svg
   - icon.png
-color: "#146cf1"
+color: "#f8f8f8"
 ---

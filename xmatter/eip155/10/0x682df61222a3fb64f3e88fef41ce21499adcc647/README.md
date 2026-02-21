@@ -6,5 +6,5 @@ symbol: yvVelo-USDC-MAI
 icons:
   - icon.svg
   - icon.png
-color: "#135190"
+color: "#f8f8f8"
 ---

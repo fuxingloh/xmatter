@@ -6,5 +6,5 @@ symbol: yvVelo-SONNE-USDC.e-f
 icons:
   - icon.svg
   - icon.png
-color: "#175da4"
+color: "#f8f8f8"
 ---

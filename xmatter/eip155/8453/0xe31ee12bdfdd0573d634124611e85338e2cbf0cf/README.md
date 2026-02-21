@@ -6,5 +6,5 @@ symbol: sUSDz
 icons:
   - icon.svg
   - icon.png
-color: "#f3f3fb"
+color: "#f8f8f8"
 ---

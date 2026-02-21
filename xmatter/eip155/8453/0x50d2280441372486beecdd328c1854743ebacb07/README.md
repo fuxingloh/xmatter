@@ -6,5 +6,5 @@ symbol: KellyClaude
 icons:
   - icon.svg
   - icon.png
-color: "#eb441c"
+color: "#e84818"
 ---

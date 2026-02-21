@@ -6,5 +6,5 @@ symbol: suUSD
 icons:
   - icon.svg
   - icon.png
-color: "#acbcc4"
+color: "#080808"
 ---

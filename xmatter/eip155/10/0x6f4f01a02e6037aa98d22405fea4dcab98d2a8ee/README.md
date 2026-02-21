@@ -6,5 +6,5 @@ symbol: yvVelo-PERP-USDC.e-f
 icons:
   - icon.svg
   - icon.png
-color: "#104c8a"
+color: "#f8f8f8"
 ---

@@ -6,5 +6,5 @@ symbol: eBTC
 icons:
   - icon.svg
   - icon.png
-color: "#7371df"
+color: "#080828"
 ---

@@ -6,5 +6,5 @@ symbol: sgGOLD
 icons:
   - icon.svg
   - icon.png
-color: "#e8c46b"
+color: "#080808"
 ---

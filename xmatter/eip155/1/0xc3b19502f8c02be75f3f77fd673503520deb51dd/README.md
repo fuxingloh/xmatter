@@ -6,5 +6,5 @@ symbol: msUSDFRAX3CRV-f
 icons:
   - icon.svg
   - icon.png
-color: "#5fa7e8"
+color: "#080808"
 ---

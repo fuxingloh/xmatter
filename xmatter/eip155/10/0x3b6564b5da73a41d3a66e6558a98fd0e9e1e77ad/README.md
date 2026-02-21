@@ -6,5 +6,5 @@ symbol: UTS
 icons:
   - icon.svg
   - icon.png
-color: "#fcd516"
+color: "#080808"
 ---

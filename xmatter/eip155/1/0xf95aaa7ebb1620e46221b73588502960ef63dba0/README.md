@@ -6,5 +6,5 @@ symbol: TBTCSBTC23CRV-f
 icons:
   - icon.svg
   - icon.png
-color: "#2c2c34"
+color: "#282838"
 ---

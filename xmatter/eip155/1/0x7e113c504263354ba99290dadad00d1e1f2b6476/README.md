@@ -6,5 +6,5 @@ symbol: yvCurve-sdFXS-f
 icons:
   - icon.svg
   - icon.png
-color: "#0d0d0d"
+color: "#f8f8f8"
 ---

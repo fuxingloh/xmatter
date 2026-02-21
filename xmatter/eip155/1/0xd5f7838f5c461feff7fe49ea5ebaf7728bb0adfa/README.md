@@ -6,5 +6,5 @@ symbol: mETH
 icons:
   - icon.svg
   - icon.png
-color: "#f65e6e"
+color: "#f8f8f8"
 ---

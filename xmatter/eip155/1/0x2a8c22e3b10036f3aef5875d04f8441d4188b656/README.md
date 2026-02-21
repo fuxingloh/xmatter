@@ -6,5 +6,5 @@ symbol: mBASIS
 icons:
   - icon.svg
   - icon.png
-color: "#eef6f9"
+color: "#289848"
 ---

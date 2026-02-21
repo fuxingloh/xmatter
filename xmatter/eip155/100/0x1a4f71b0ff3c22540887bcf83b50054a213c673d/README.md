@@ -6,5 +6,5 @@ symbol: wbMSTR
 icons:
   - icon.svg
   - icon.png
-color: "#fccdbb"
+color: "#f86838"
 ---

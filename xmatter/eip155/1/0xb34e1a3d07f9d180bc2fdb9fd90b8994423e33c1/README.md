@@ -6,5 +6,5 @@ symbol: PRISMAETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#f1b15c"
+color: "#f8f8f8"
 ---

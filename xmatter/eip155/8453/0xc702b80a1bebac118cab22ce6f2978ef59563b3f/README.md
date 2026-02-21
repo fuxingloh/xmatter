@@ -6,5 +6,5 @@ symbol: RAFL
 icons:
   - icon.svg
   - icon.png
-color: "#cc1424"
+color: "#c81828"
 ---

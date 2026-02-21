@@ -6,5 +6,5 @@ symbol: yvCurve-VEUR-agEUR-f
 icons:
   - icon.svg
   - icon.png
-color: "#0a6bc4"
+color: "#f8f8f8"
 ---

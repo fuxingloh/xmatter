@@ -6,5 +6,5 @@ symbol: AVI
 icons:
   - icon.svg
   - icon.png
-color: "#6aacdb"
+color: "#080808"
 ---

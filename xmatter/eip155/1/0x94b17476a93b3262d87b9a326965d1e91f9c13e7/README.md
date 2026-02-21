@@ -6,5 +6,5 @@ symbol: OETHCRV-f
 icons:
   - icon.svg
   - icon.png
-color: "#ddcb9a"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: K2
 icons:
   - icon.svg
   - icon.png
-color: "#04c732"
+color: "#080808"
 ---

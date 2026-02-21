@@ -6,5 +6,5 @@ symbol: AVICI
 icons:
   - icon.svg
   - icon.png
-color: "#474747"
+color: "#f8f8f8"
 ---

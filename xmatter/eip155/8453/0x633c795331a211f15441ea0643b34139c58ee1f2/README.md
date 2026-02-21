@@ -6,5 +6,5 @@ symbol: DAO
 icons:
   - icon.svg
   - icon.png
-color: "#4cd4fc"
+color: "#080808"
 ---

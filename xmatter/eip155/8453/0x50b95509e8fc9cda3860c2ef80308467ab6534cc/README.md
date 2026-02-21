@@ -6,5 +6,5 @@ symbol: BMMF
 icons:
   - icon.svg
   - icon.png
-color: "#0f0f09"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: hCRV
 icons:
   - icon.svg
   - icon.png
-color: "#2e70ef"
+color: "#080808"
 ---

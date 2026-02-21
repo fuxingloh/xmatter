@@ -6,5 +6,5 @@ symbol: vAMMV2-WETH/USDC
 icons:
   - icon.svg
   - icon.png
-color: "#1c1b1d"
+color: "#080808"
 ---

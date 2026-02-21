@@ -6,5 +6,5 @@ symbol: TLX
 icons:
   - icon.svg
   - icon.png
-color: "#cf5f84"
+color: "#d86888"
 ---

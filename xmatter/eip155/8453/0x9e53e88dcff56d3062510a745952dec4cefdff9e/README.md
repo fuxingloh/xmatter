@@ -6,5 +6,5 @@ symbol: DOG
 icons:
   - icon.svg
   - icon.png
-color: "#a6c2fa"
+color: "#f8f8f8"
 ---

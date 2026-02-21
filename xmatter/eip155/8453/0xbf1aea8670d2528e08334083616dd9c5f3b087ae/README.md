@@ -6,5 +6,5 @@ symbol: MAI
 icons:
   - icon.svg
   - icon.png
-color: "#e44c44"
+color: "#e84848"
 ---

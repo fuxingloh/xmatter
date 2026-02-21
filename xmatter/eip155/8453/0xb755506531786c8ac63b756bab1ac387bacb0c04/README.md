@@ -6,5 +6,5 @@ symbol: ZARP
 icons:
   - icon.svg
   - icon.png
-color: "#f7e104"
+color: "#084838"
 ---

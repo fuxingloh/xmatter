@@ -6,5 +6,5 @@ symbol: MOBY
 icons:
   - icon.svg
   - icon.png
-color: "#0756eb"
+color: "#080808"
 ---

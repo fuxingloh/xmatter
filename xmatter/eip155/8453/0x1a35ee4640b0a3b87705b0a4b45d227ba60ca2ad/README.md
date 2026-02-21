@@ -6,5 +6,5 @@ symbol: axlWBTC
 icons:
   - icon.svg
   - icon.png
-color: "#272529"
+color: "#080808"
 ---

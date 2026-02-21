@@ -6,5 +6,5 @@ symbol: eGBP
 icons:
   - icon.svg
   - icon.png
-color: "#3f5b7a"
+color: "#f8f8f8"
 ---

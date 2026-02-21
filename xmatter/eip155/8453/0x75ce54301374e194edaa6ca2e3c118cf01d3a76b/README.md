@@ -6,5 +6,5 @@ symbol: stNIBI
 icons:
   - icon.svg
   - icon.png
-color: "#27b499"
+color: "#080808"
 ---

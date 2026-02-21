@@ -6,5 +6,5 @@ symbol: yvTUSD
 icons:
   - icon.svg
   - icon.png
-color: "#0856f9"
+color: "#f8f8f8"
 ---

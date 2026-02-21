@@ -6,5 +6,5 @@ symbol: BETS
 icons:
   - icon.svg
   - icon.png
-color: "#2e75e7"
+color: "#f8f8f8"
 ---

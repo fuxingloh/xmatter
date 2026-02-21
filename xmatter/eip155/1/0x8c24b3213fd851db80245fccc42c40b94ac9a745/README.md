@@ -6,5 +6,5 @@ symbol: CRVZUNUSD
 icons:
   - icon.svg
   - icon.png
-color: "#3e8964"
+color: "#080808"
 ---

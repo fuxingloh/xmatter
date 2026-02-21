@@ -6,5 +6,5 @@ symbol: AST
 icons:
   - icon.svg
   - icon.png
-color: "#38409b"
+color: "#080808"
 ---

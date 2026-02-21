@@ -6,5 +6,5 @@ symbol: gDAI
 icons:
   - icon.svg
   - icon.png
-color: "#192436"
+color: "#181828"
 ---

@@ -6,5 +6,5 @@ symbol: PREON
 icons:
   - icon.svg
   - icon.png
-color: "#17102e"
+color: "#080808"
 ---

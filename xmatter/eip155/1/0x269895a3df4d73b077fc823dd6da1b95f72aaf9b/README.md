@@ -6,5 +6,5 @@ symbol: sKRW
 icons:
   - icon.svg
   - icon.png
-color: "#79a9a5"
+color: "#080828"
 ---

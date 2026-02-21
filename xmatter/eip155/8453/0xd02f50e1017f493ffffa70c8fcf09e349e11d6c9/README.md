@@ -6,5 +6,5 @@ symbol: DGLD
 icons:
   - icon.svg
   - icon.png
-color: "#ebce77"
+color: "#f8d878"
 ---

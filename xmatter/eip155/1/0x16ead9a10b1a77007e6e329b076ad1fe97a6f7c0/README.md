@@ -6,5 +6,5 @@ symbol: xETHETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#e23149"
+color: "#080808"
 ---

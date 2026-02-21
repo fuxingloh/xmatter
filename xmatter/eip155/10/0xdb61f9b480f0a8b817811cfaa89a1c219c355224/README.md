@@ -6,5 +6,5 @@ symbol: vAMMV2-LYRA/USDC
 icons:
   - icon.svg
   - icon.png
-color: "#151717"
+color: "#181818"
 ---

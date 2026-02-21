@@ -10,7 +10,7 @@ name: Ajna
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#f2d8ef"
+color: "#f8f8f8"
 icons:
   - icon.svg
   - icon.png

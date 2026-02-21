@@ -6,5 +6,5 @@ symbol: LsETH
 icons:
   - icon.svg
   - icon.png
-color: "#dae273"
+color: "#d8e878"
 ---

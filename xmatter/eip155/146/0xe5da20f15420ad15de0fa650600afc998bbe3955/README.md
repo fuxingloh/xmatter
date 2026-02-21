@@ -6,5 +6,5 @@ symbol: stS
 icons:
   - icon.svg
   - icon.png
-color: "#301919"
+color: "#181818"
 ---

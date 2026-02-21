@@ -6,5 +6,5 @@ symbol: sAMMV2-USD+/DAI+
 icons:
   - icon.svg
   - icon.png
-color: "#06234c"
+color: "#080808"
 ---

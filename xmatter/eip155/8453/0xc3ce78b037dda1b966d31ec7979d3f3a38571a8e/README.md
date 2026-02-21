@@ -6,5 +6,5 @@ symbol: bCSPX
 icons:
   - icon.svg
   - icon.png
-color: "#f1abba"
+color: "#d80828"
 ---

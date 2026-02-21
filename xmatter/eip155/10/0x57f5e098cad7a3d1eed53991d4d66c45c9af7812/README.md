@@ -6,5 +6,5 @@ symbol: wUSDM
 icons:
   - icon.svg
   - icon.png
-color: "#e6e6e6"
+color: "#080808"
 ---

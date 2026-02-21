@@ -6,5 +6,5 @@ symbol: OVERPOWERED
 icons:
   - icon.svg
   - icon.png
-color: "#333521"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: yvCurve-cvxCRVv2-f
 icons:
   - icon.svg
   - icon.png
-color: "#c8e3c8"
+color: "#f8f8f8"
 ---

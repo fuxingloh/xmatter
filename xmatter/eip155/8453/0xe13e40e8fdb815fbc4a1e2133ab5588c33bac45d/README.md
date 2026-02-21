@@ -6,5 +6,5 @@ symbol: TRIBAL
 icons:
   - icon.svg
   - icon.png
-color: "#fba82d"
+color: "#080808"
 ---

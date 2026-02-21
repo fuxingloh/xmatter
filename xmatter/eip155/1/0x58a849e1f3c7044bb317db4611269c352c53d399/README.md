@@ -6,5 +6,5 @@ symbol: eSGD
 icons:
   - icon.svg
   - icon.png
-color: "#f8efef"
+color: "#f8f8f8"
 ---

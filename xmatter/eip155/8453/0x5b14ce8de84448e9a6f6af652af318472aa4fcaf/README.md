@@ -6,5 +6,5 @@ symbol: Aave GHO-USR
 icons:
   - icon.svg
   - icon.png
-color: "#5f91ab"
+color: "#080808"
 ---

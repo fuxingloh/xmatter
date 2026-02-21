@@ -6,5 +6,5 @@ symbol: XVELO
 icons:
   - icon.svg
   - icon.png
-color: "#f3f2f1"
+color: "#f8f8f8"
 ---

@@ -6,5 +6,5 @@ symbol: xOGN
 icons:
   - icon.svg
   - icon.png
-color: "#0474f4"
+color: "#f8f8f8"
 ---

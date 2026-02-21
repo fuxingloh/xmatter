@@ -6,5 +6,5 @@ symbol: BET
 icons:
   - icon.svg
   - icon.png
-color: "#dde8f8"
+color: "#0848f8"
 ---

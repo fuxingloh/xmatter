@@ -6,5 +6,5 @@ symbol: yvBalancer-BoostedAaveUSD
 icons:
   - icon.svg
   - icon.png
-color: "#c3cbdc"
+color: "#f8f8f8"
 ---

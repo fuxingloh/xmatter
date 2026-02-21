@@ -6,5 +6,5 @@ symbol: PLAI
 icons:
   - icon.svg
   - icon.png
-color: "#cf9696"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: pointless
 icons:
   - icon.svg
   - icon.png
-color: "#414e44"
+color: "#b8d8c8"
 ---

@@ -6,5 +6,5 @@ symbol: LASAGNA
 icons:
   - icon.svg
   - icon.png
-color: "#aee5f4"
+color: "#f8f8f8"
 ---

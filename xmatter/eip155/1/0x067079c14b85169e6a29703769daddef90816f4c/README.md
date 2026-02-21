@@ -6,5 +6,5 @@ symbol: mkPRISMA-f
 icons:
   - icon.svg
   - icon.png
-color: "#258acf"
+color: "#f8f8f8"
 ---

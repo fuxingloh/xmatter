@@ -6,5 +6,5 @@ symbol: ynETHx
 icons:
   - icon.svg
   - icon.png
-color: "#e8c283"
+color: "#e8c888"
 ---

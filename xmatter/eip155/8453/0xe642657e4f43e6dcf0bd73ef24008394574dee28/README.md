@@ -6,5 +6,5 @@ symbol: RECORD
 icons:
   - icon.svg
   - icon.png
-color: "#1d5f76"
+color: "#d8d8d8"
 ---

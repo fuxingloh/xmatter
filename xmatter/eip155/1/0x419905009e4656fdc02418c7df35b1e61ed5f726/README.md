@@ -6,5 +6,5 @@ symbol: RSUP
 icons:
   - icon.svg
   - icon.png
-color: "#835cea"
+color: "#8858e8"
 ---

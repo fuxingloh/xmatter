@@ -6,5 +6,5 @@ symbol: USDf
 icons:
   - icon.svg
   - icon.png
-color: "#202020"
+color: "#f8f8f8"
 ---

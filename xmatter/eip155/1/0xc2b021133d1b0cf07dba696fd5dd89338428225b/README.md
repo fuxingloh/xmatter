@@ -6,5 +6,5 @@ symbol: GHO/bb-a-USD
 icons:
   - icon.svg
   - icon.png
-color: "#cbafca"
+color: "#181828"
 ---

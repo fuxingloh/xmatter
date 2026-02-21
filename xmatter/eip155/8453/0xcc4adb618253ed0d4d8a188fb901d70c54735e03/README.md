@@ -6,5 +6,5 @@ symbol: A0T
 icons:
   - icon.svg
   - icon.png
-color: "#04041c"
+color: "#080818"
 ---

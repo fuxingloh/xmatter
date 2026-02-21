@@ -6,5 +6,5 @@ symbol: cvcrvUSD
 icons:
   - icon.svg
   - icon.png
-color: "#d8cfa7"
+color: "#080808"
 ---

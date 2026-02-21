@@ -6,6 +6,6 @@ symbol: yUSDC
 icons:
   - icon.svg
   - icon.png
-color: "#c2c2c2"
+color: "#f8f8f8"
 decimals: 6
 ---

@@ -6,5 +6,5 @@ symbol: yvVelo-USD+-DAI+-f
 icons:
   - icon.svg
   - icon.png
-color: "#131313"
+color: "#f8f8f8"
 ---

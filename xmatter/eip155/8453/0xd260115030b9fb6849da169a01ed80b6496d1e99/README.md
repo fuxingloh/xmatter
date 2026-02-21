@@ -6,5 +6,5 @@ symbol: BRATE
 icons:
   - icon.svg
   - icon.png
-color: "#255585"
+color: "#184888"
 ---

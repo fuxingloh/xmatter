@@ -6,5 +6,5 @@ symbol: yvcDAI+cUSDC
 icons:
   - icon.svg
   - icon.png
-color: "#e0d56a"
+color: "#f8f8f8"
 ---

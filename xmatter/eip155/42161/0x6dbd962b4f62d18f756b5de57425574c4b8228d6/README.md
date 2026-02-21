@@ -6,5 +6,5 @@ symbol: dUSDC
 icons:
   - icon.svg
   - icon.png
-color: "#2675cc"
+color: "#080808"
 ---

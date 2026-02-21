@@ -6,5 +6,5 @@ symbol: BIG
 icons:
   - icon.svg
   - icon.png
-color: "#ecd2b7"
+color: "#f8d8b8"
 ---

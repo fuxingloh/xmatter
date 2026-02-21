@@ -6,7 +6,7 @@ name: Optimistic Thales Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#04045c"
+color: "#080858"
 icons:
   - icon.svg
   - icon.png

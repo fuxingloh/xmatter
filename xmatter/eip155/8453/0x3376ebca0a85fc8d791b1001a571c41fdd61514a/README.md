@@ -6,5 +6,5 @@ symbol: brBTC
 icons:
   - icon.svg
   - icon.png
-color: "#7e72e5"
+color: "#f8f8f8"
 ---

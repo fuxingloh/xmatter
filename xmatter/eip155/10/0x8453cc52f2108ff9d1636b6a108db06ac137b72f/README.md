@@ -6,5 +6,5 @@ symbol: vAMMV2-USDC/MTA
 icons:
   - icon.svg
   - icon.png
-color: "#050505"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: pETHo
 icons:
   - icon.svg
   - icon.png
-color: "#cecdce"
+color: "#080808"
 ---

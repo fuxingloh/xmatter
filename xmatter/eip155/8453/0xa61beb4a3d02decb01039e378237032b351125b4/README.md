@@ -6,5 +6,5 @@ symbol: EURA
 icons:
   - icon.svg
   - icon.png
-color: "#8db0fb"
+color: "#080808"
 ---

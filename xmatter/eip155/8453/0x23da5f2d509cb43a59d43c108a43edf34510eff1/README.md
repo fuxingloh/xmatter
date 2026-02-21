@@ -6,5 +6,5 @@ symbol: xPufETH
 icons:
   - icon.svg
   - icon.png
-color: "#5699da"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: CYPR
 icons:
   - icon.svg
   - icon.png
-color: "#f0c143"
+color: "#e8e8e8"
 ---

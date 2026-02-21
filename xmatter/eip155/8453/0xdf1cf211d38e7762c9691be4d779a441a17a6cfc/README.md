@@ -6,5 +6,5 @@ symbol: Bonk
 icons:
   - icon.svg
   - icon.png
-color: "#f6c516"
+color: "#080808"
 ---

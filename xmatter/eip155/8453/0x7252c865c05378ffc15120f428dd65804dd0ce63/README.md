@@ -6,5 +6,5 @@ symbol: TLOS
 icons:
   - icon.svg
   - icon.png
-color: "#1ed7fc"
+color: "#080808"
 ---

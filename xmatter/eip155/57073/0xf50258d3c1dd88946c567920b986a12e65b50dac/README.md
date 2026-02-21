@@ -6,5 +6,5 @@ symbol: XAUt0
 icons:
   - icon.svg
   - icon.png
-color: "#d39b04"
+color: "#c89808"
 ---

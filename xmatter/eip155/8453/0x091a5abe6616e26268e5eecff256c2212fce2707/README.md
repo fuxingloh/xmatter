@@ -6,5 +6,5 @@ symbol: BondETH
 icons:
   - icon.svg
   - icon.png
-color: "#c3ebfc"
+color: "#68c8f8"
 ---

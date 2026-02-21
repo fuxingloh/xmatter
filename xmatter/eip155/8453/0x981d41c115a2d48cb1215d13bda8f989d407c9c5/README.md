@@ -6,5 +6,5 @@ symbol: XEN
 icons:
   - icon.svg
   - icon.png
-color: "#2c1404"
+color: "#281808"
 ---

@@ -10,7 +10,7 @@ name: Aavegotchi GHST Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#ea1efb"
+color: "#080808"
 icons:
   - icon.svg
   - icon.png

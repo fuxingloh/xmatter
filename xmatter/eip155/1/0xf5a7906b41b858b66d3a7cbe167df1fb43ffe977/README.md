@@ -6,5 +6,5 @@ symbol: rev alUSD
 icons:
   - icon.svg
   - icon.png
-color: "#104653"
+color: "#080808"
 ---

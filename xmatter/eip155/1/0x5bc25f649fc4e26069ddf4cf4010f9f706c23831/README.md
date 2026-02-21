@@ -6,6 +6,6 @@ symbol: DUSD
 icons:
   - icon.svg
   - icon.png
-color: "#5c54ec"
+color: "#5858e8"
 decimals: 18
 ---

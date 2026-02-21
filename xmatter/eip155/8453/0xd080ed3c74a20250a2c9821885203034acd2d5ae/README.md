@@ -6,5 +6,5 @@ symbol: ZFI
 icons:
   - icon.svg
   - icon.png
-color: "#9ab8de"
+color: "#181818"
 ---

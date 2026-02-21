@@ -6,5 +6,5 @@ symbol: SUPR
 icons:
   - icon.svg
   - icon.png
-color: "#93d3cb"
+color: "#98c8c8"
 ---

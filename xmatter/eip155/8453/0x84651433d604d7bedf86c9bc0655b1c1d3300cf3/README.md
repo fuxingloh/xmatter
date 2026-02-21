@@ -6,5 +6,5 @@ symbol: LEMON
 icons:
   - icon.svg
   - icon.png
-color: "#074029"
+color: "#080808"
 ---

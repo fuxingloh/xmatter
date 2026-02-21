@@ -6,5 +6,5 @@ symbol: KsUSDe
 icons:
   - icon.svg
   - icon.png
-color: "#111111"
+color: "#f8f8f8"
 ---

@@ -6,5 +6,5 @@ symbol: USDp
 icons:
   - icon.svg
   - icon.png
-color: "#7507fc"
+color: "#a898f8"
 ---

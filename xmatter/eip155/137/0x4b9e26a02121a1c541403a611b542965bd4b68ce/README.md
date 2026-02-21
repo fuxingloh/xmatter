@@ -6,5 +6,5 @@ symbol: aWBTC-WETH
 icons:
   - icon.svg
   - icon.png
-color: "#262023"
+color: "#f80808"
 ---

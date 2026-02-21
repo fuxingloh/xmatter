@@ -6,5 +6,5 @@ symbol: TROVE
 icons:
   - icon.svg
   - icon.png
-color: "#e7be0f"
+color: "#083898"
 ---

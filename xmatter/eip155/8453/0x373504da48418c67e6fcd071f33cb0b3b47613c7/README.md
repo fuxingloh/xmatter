@@ -6,5 +6,5 @@ symbol: wBaseDOGE
 icons:
   - icon.svg
   - icon.png
-color: "#bcc0f2"
+color: "#383838"
 ---

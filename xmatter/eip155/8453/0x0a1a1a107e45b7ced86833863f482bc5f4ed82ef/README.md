@@ -6,5 +6,5 @@ symbol: USDai
 icons:
   - icon.svg
   - icon.png
-color: "#baa595"
+color: "#181818"
 ---

@@ -6,5 +6,5 @@ symbol: sAMM-DAI+/USD+
 icons:
   - icon.svg
   - icon.png
-color: "#fbb730"
+color: "#080808"
 ---

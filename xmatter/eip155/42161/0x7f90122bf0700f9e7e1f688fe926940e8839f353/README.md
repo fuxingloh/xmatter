@@ -6,5 +6,5 @@ symbol: 2CRV
 icons:
   - icon.svg
   - icon.png
-color: "#d7d724"
+color: "#080808"
 ---

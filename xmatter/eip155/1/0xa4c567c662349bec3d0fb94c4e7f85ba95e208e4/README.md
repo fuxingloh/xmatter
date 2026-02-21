@@ -6,5 +6,5 @@ symbol: msETHWETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#63a1e6"
+color: "#080808"
 ---

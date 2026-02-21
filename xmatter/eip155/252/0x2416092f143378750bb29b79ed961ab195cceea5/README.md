@@ -6,5 +6,5 @@ symbol: ezETH
 icons:
   - icon.svg
   - icon.png
-color: "#14181c"
+color: "#080818"
 ---

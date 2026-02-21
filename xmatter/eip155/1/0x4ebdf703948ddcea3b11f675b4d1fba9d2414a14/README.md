@@ -6,5 +6,5 @@ symbol: crvUSDETHCRV
 icons:
   - icon.svg
   - icon.png
-color: "#65937d"
+color: "#080808"
 ---

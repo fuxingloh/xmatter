@@ -6,5 +6,5 @@ symbol: yvCurve-FRAX-crvUSD-f
 icons:
   - icon.svg
   - icon.png
-color: "#101010"
+color: "#f8f8f8"
 ---

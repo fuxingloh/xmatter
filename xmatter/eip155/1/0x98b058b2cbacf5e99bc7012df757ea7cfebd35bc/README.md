@@ -6,5 +6,5 @@ symbol: yveursCRV
 icons:
   - icon.svg
   - icon.png
-color: "#151515"
+color: "#f8f8f8"
 ---

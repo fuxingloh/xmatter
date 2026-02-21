@@ -6,5 +6,5 @@ symbol: cvxFXSFXS-f
 icons:
   - icon.svg
   - icon.png
-color: "#d6d4ac"
+color: "#080808"
 ---

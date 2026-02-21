@@ -6,5 +6,5 @@ symbol: FRAX3CRV-f
 icons:
   - icon.svg
   - icon.png
-color: "#dbd972"
+color: "#080808"
 ---

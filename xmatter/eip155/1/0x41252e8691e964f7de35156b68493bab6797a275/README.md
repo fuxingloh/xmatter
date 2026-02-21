@@ -6,5 +6,5 @@ symbol: dYFI
 icons:
   - icon.svg
   - icon.png
-color: "#8b24fc"
+color: "#080808"
 ---

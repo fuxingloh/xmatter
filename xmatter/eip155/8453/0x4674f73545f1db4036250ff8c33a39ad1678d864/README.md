@@ -6,5 +6,5 @@ symbol: SQDGN
 icons:
   - icon.svg
   - icon.png
-color: "#59863b"
+color: "#588838"
 ---

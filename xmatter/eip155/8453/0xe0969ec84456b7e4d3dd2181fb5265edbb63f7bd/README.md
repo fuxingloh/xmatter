@@ -6,5 +6,5 @@ symbol: FLK
 icons:
   - icon.svg
   - icon.png
-color: "#8224aa"
+color: "#8828a8"
 ---

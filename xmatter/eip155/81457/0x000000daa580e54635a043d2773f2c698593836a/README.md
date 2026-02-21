@@ -6,5 +6,5 @@ symbol: OHNO
 icons:
   - icon.svg
   - icon.png
-color: "#e37bfb"
+color: "#e878f8"
 ---

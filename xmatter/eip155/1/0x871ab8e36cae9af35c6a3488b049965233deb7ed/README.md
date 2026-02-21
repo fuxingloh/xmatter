@@ -6,5 +6,5 @@ symbol: DETH
 icons:
   - icon.svg
   - icon.png
-color: "#27252d"
+color: "#282828"
 ---

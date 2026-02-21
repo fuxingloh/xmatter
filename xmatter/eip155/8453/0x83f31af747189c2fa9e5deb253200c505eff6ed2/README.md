@@ -6,5 +6,5 @@ symbol: uZEC
 icons:
   - icon.svg
   - icon.png
-color: "#24241d"
+color: "#080808"
 ---

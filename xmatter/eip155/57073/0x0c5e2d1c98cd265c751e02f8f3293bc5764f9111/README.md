@@ -6,5 +6,5 @@ symbol: SHROOMY
 icons:
   - icon.svg
   - icon.png
-color: "#df76a3"
+color: "#080808"
 ---

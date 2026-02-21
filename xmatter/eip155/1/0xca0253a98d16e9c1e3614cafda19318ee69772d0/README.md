@@ -6,5 +6,5 @@ symbol: sdCRVlp-f
 icons:
   - icon.svg
   - icon.png
-color: "#0b3642"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: reUSD
 icons:
   - icon.svg
   - icon.png
-color: "#24eb9b"
+color: "#28e898"
 ---

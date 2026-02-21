@@ -6,5 +6,5 @@ symbol: ibGBP+sGBP-f
 icons:
   - icon.svg
   - icon.png
-color: "#070607"
+color: "#080808"
 ---

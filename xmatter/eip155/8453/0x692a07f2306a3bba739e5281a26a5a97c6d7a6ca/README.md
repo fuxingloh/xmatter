@@ -6,5 +6,5 @@ symbol: SPK
 icons:
   - icon.svg
   - icon.png
-color: "#fc7c6e"
+color: "#f8f8f8"
 ---

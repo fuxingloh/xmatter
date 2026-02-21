@@ -6,5 +6,5 @@ symbol: BTCB
 icons:
   - icon.svg
   - icon.png
-color: "#84acfc"
+color: "#88a8f8"
 ---

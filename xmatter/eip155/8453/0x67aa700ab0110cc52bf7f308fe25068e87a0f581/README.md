@@ -6,5 +6,5 @@ symbol: PUNDIAI
 icons:
   - icon.svg
   - icon.png
-color: "#2c354b"
+color: "#f8f8f8"
 ---

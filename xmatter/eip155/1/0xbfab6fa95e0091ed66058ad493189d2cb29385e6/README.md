@@ -6,5 +6,5 @@ symbol: ETHwBETHCRV
 icons:
   - icon.svg
   - icon.png
-color: "#e6bf24"
+color: "#080808"
 ---

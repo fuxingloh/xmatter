@@ -6,5 +6,5 @@ symbol: yvVelo-alUSD-FRAX-f
 icons:
   - icon.svg
   - icon.png
-color: "#0a3057"
+color: "#f8f8f8"
 ---

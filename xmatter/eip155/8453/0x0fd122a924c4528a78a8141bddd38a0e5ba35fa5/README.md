@@ -6,5 +6,5 @@ symbol: CREATOR
 icons:
   - icon.svg
   - icon.png
-color: "#bb26e0"
+color: "#080808"
 ---

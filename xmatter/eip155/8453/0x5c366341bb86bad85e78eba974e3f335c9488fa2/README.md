@@ -6,5 +6,5 @@ symbol: yvAero-agEUR-USDbC-f
 icons:
   - icon.svg
   - icon.png
-color: "#4c56c8"
+color: "#f8f8f8"
 ---

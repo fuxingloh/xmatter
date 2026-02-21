@@ -6,5 +6,5 @@ symbol: yvCurve-ibGBP-f
 icons:
   - icon.svg
   - icon.png
-color: "#ecae5d"
+color: "#f8f8f8"
 ---

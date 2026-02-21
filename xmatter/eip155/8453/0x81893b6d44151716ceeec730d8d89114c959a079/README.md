@@ -6,5 +6,5 @@ symbol: MOODENG
 icons:
   - icon.svg
   - icon.png
-color: "#795345"
+color: "#080808"
 ---

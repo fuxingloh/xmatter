@@ -6,5 +6,5 @@ symbol: SLaY
 icons:
   - icon.svg
   - icon.png
-color: "#ccc8d4"
+color: "#f8f8f8"
 ---

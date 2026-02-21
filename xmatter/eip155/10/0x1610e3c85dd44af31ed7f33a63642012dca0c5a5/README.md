@@ -6,5 +6,5 @@ symbol: msETH
 icons:
   - icon.svg
   - icon.png
-color: "#5c9aec"
+color: "#080808"
 ---

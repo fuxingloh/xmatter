@@ -6,5 +6,5 @@ symbol: rCRV
 icons:
   - icon.svg
   - icon.png
-color: "#07c1cd"
+color: "#080808"
 ---

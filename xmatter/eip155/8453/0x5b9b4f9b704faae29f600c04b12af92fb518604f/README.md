@@ -6,5 +6,5 @@ symbol: yvAero-EXTRA-USDbC-f
 icons:
   - icon.svg
   - icon.png
-color: "#3f4cb7"
+color: "#f8f8f8"
 ---

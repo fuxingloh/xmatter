@@ -6,5 +6,5 @@ symbol: crvUSDMIM-f
 icons:
   - icon.svg
   - icon.png
-color: "#707cec"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: uADA
 icons:
   - icon.svg
   - icon.png
-color: "#212222"
+color: "#d8e8f8"
 ---

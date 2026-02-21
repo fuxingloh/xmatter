@@ -6,5 +6,5 @@ symbol: yvCurve-ibKRW
 icons:
   - icon.svg
   - icon.png
-color: "#d4d66d"
+color: "#f8f8f8"
 ---

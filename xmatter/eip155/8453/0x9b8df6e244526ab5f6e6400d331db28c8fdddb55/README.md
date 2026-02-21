@@ -6,5 +6,5 @@ symbol: uSOL
 icons:
   - icon.svg
   - icon.png
-color: "#c29ce7"
+color: "#282828"
 ---

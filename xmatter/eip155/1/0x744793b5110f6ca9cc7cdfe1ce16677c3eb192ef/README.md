@@ -6,5 +6,5 @@ symbol: DOLA-sUSDe
 icons:
   - icon.svg
   - icon.png
-color: "#e7ece8"
+color: "#080808"
 ---

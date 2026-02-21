@@ -6,5 +6,5 @@ symbol: FUSE
 icons:
   - icon.svg
   - icon.png
-color: "#b3fbbb"
+color: "#b8f8b8"
 ---

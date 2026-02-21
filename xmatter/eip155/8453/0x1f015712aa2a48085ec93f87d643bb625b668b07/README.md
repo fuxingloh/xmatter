@@ -6,5 +6,5 @@ symbol: i
 icons:
   - icon.svg
   - icon.png
-color: "#137b5b"
+color: "#187858"
 ---

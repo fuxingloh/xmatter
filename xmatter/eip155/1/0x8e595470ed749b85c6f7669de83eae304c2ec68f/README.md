@@ -6,5 +6,5 @@ symbol: iDAI
 icons:
   - icon.svg
   - icon.png
-color: "#6ce3db"
+color: "#68e8d8"
 ---

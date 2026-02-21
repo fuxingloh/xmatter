@@ -6,5 +6,5 @@ symbol: GUCHA
 icons:
   - icon.svg
   - icon.png
-color: "#c7cfdd"
+color: "#98a8b8"
 ---

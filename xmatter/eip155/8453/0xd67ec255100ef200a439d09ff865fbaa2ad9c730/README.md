@@ -6,5 +6,5 @@ symbol: SCOR
 icons:
   - icon.svg
   - icon.png
-color: "#de54c8"
+color: "#080808"
 ---

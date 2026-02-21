@@ -6,6 +6,6 @@ symbol: TAROT
 icons:
   - icon.svg
   - icon.png
-color: "#090808"
+color: "#080808"
 decimals: 18
 ---
