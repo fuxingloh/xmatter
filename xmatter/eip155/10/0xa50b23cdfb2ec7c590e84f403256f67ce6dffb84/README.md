@@ -6,5 +6,5 @@ symbol: BLU
 icons:
   - icon.svg
   - icon.png
-color: "#1c9cfc"
+color: "#1898f8"
 ---

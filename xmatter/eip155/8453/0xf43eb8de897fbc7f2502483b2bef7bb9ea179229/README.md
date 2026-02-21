@@ -23,7 +23,7 @@ name: Horizen
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fbcb14"
+color: "#f8c818"
 icons:
   - icon.svg
   - icon.png

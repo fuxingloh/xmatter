@@ -6,5 +6,5 @@ symbol: yvWBTC-1
 icons:
   - icon.svg
   - icon.png
-color: "#0a58f9"
+color: "#f8f8f8"
 ---

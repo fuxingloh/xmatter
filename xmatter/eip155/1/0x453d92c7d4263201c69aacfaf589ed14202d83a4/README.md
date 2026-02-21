@@ -6,5 +6,5 @@ symbol: yCRV-f
 icons:
   - icon.svg
   - icon.png
-color: "#d1dd29"
+color: "#080808"
 ---

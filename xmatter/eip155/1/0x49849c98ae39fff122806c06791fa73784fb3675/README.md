@@ -6,5 +6,5 @@ symbol: crvRenWBTC
 icons:
   - icon.svg
   - icon.png
-color: "#1b1818"
+color: "#f8f8f8"
 ---

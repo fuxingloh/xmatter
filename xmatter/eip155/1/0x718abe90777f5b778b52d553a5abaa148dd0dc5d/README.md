@@ -6,5 +6,5 @@ symbol: yvCurve-alETH
 icons:
   - icon.svg
   - icon.png
-color: "#166df2"
+color: "#f8f8f8"
 ---

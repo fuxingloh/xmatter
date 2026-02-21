@@ -6,5 +6,5 @@ symbol: yvAero-cbETH-WETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#d78892"
+color: "#f8f8f8"
 ---

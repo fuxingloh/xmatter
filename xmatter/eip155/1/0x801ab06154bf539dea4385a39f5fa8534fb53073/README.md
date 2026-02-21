@@ -6,5 +6,5 @@ symbol: yvCurve-EURSUSDC
 icons:
   - icon.svg
   - icon.png
-color: "#ded568"
+color: "#f8f8f8"
 ---

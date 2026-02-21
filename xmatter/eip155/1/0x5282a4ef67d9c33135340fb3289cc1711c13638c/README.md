@@ -6,5 +6,5 @@ symbol: ib3CRV
 icons:
   - icon.svg
   - icon.png
-color: "#6be3da"
+color: "#68e8d8"
 ---

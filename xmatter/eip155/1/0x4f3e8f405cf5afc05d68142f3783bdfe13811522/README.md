@@ -6,5 +6,5 @@ symbol: usdn3CRV
 icons:
   - icon.svg
   - icon.png
-color: "#09dba8"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: yvVelo-THALES-USDC.e-f
 icons:
   - icon.svg
   - icon.png
-color: "#d6d2c7"
+color: "#f8f8f8"
 ---

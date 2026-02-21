@@ -6,5 +6,5 @@ symbol: uIP
 icons:
   - icon.svg
   - icon.png
-color: "#191812"
+color: "#080808"
 ---

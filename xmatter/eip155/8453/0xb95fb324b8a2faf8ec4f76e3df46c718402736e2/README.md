@@ -6,5 +6,5 @@ symbol: UNIT
 icons:
   - icon.svg
   - icon.png
-color: "#cea5bd"
+color: "#181818"
 ---

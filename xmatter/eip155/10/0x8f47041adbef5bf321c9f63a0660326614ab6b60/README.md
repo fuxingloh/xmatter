@@ -6,5 +6,5 @@ symbol: vAMMV2-WETH/KWENTA
 icons:
   - icon.svg
   - icon.png
-color: "#383432"
+color: "#080808"
 ---

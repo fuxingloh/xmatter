@@ -6,5 +6,5 @@ symbol: yvCurve-alUSD-FRAXBP-f
 icons:
   - icon.svg
   - icon.png
-color: "#d9d686"
+color: "#f8f8f8"
 ---

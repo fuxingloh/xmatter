@@ -6,5 +6,5 @@ symbol: LCAP
 icons:
   - icon.svg
   - icon.png
-color: "#041210"
+color: "#080808"
 ---

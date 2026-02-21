@@ -6,5 +6,5 @@ symbol: PURR
 icons:
   - icon.svg
   - icon.png
-color: "#15100d"
+color: "#080808"
 ---

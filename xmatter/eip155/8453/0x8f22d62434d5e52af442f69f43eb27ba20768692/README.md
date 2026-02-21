@@ -6,5 +6,5 @@ symbol: yvAero-stERN-USD+-f
 icons:
   - icon.svg
   - icon.png
-color: "#b3accb"
+color: "#f8f8f8"
 ---

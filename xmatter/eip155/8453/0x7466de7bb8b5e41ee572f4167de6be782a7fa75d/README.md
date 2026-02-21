@@ -6,5 +6,5 @@ symbol: WAGMI
 icons:
   - icon.svg
   - icon.png
-color: "#44abf2"
+color: "#48a8f8"
 ---

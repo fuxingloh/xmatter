@@ -6,5 +6,5 @@ symbol: wrsETH
 icons:
   - icon.svg
   - icon.png
-color: "#abc9c9"
+color: "#085858"
 ---

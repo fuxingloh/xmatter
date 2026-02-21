@@ -10,7 +10,7 @@ name: Meta
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#010101"
+color: "#080808"
 icons:
   - icon.svg
   - icon.png

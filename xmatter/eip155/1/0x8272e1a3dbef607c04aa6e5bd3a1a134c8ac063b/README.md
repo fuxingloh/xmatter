@@ -6,5 +6,5 @@ symbol: crvUSDDOLA-f
 icons:
   - icon.svg
   - icon.png
-color: "#e4bd6f"
+color: "#181858"
 ---

@@ -12,7 +12,7 @@ name: rswETH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1d0d6b"
+color: "#180868"
 icons:
   - icon.svg
   - icon.png

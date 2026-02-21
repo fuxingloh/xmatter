@@ -6,5 +6,5 @@ symbol: sAMMV2-USDC/ERN
 icons:
   - icon.svg
   - icon.png
-color: "#e3ab90"
+color: "#080808"
 ---

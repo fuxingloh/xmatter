@@ -6,5 +6,5 @@ symbol: EURAU
 icons:
   - icon.svg
   - icon.png
-color: "#1bddf0"
+color: "#080808"
 ---

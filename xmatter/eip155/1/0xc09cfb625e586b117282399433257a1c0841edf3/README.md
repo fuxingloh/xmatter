@@ -6,5 +6,5 @@ symbol: st-yBAL
 icons:
   - icon.svg
   - icon.png
-color: "#303037"
+color: "#282838"
 ---

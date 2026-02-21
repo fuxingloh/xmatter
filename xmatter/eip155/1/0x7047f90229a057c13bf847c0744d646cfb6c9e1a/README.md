@@ -6,5 +6,5 @@ symbol: yvCurve-renBTC
 icons:
   - icon.svg
   - icon.png
-color: "#f19957"
+color: "#f8f8f8"
 ---

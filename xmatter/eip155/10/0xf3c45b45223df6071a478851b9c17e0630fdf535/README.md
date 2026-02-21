@@ -6,5 +6,5 @@ symbol: vAMMV2-EXA/WETH
 icons:
   - icon.svg
   - icon.png
-color: "#090909"
+color: "#080808"
 ---

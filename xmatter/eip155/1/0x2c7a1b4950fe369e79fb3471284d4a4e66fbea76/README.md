@@ -6,5 +6,5 @@ symbol: sdeUSDdeUS
 icons:
   - icon.svg
   - icon.png
-color: "#263f72"
+color: "#f8f8f8"
 ---

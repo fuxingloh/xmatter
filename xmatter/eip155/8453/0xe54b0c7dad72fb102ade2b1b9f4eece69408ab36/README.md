@@ -6,5 +6,5 @@ symbol: HLSp
 icons:
   - icon.svg
   - icon.png
-color: "#dac4d2"
+color: "#f8f8f8"
 ---

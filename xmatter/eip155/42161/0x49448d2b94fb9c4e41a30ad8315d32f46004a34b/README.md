@@ -6,5 +6,5 @@ symbol: yv2CRV
 icons:
   - icon.svg
   - icon.png
-color: "#0f0f0f"
+color: "#f8f8f8"
 ---

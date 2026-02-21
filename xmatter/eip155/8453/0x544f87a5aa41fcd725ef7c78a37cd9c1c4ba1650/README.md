@@ -6,5 +6,5 @@ symbol: uBERA
 icons:
   - icon.svg
   - icon.png
-color: "#dbd9d8"
+color: "#080808"
 ---

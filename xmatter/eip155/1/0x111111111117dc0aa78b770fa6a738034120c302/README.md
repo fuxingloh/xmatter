@@ -20,7 +20,7 @@ name: 1INCH Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#253951"
+color: "#183848"
 icons:
   - icon.svg
   - icon.png

@@ -6,6 +6,6 @@ symbol: TOWER
 icons:
   - icon.svg
   - icon.png
-color: "#bfbcbe"
+color: "#f8f8f8"
 decimals: 18
 ---

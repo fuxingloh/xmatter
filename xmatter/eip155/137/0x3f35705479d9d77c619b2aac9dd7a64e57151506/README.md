@@ -6,5 +6,5 @@ symbol: aWBTC-USDC
 icons:
   - icon.svg
   - icon.png
-color: "#fb0707"
+color: "#f80808"
 ---

@@ -6,5 +6,5 @@ symbol: YFX
 icons:
   - icon.svg
   - icon.png
-color: "#e1619a"
+color: "#080808"
 ---

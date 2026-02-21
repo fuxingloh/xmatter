@@ -6,5 +6,5 @@ symbol: PURPLE
 icons:
   - icon.svg
   - icon.png
-color: "#7031f4"
+color: "#7838f8"
 ---

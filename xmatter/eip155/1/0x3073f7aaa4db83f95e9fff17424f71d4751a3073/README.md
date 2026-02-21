@@ -16,7 +16,7 @@ name: Movement
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f3bb13"
+color: "#f8b818"
 icons:
   - icon.svg
   - icon.png

@@ -6,5 +6,5 @@ symbol: USD3USDM
 icons:
   - icon.svg
   - icon.png
-color: "#27ac2f"
+color: "#18a828"
 ---

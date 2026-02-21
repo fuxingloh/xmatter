@@ -6,6 +6,6 @@ symbol: yDAI+yUSDC+yUSDT+yTUSD
 icons:
   - icon.svg
   - icon.png
-color: "#0c0c0c"
+color: "#080808"
 decimals: 18
 ---

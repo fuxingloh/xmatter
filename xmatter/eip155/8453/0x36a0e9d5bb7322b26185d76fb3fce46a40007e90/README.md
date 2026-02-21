@@ -6,5 +6,5 @@ symbol: TONO
 icons:
   - icon.svg
   - icon.png
-color: "#30c4d0"
+color: "#080808"
 ---

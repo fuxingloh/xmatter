@@ -6,5 +6,5 @@ symbol: B-auraBAL-STABLE
 icons:
   - icon.svg
   - icon.png
-color: "#8345ca"
+color: "#080808"
 ---

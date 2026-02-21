@@ -6,5 +6,5 @@ symbol: ultraETHs
 icons:
   - icon.svg
   - icon.png
-color: "#15e591"
+color: "#081818"
 ---

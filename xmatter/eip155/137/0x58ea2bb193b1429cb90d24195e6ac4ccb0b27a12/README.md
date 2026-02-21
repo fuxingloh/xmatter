@@ -6,5 +6,5 @@ symbol: vTAO
 icons:
   - icon.svg
   - icon.png
-color: "#97eafc"
+color: "#080808"
 ---

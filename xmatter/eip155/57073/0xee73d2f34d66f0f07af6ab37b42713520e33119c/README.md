@@ -6,5 +6,5 @@ symbol: MYST
 icons:
   - icon.svg
   - icon.png
-color: "#222228"
+color: "#f8f8f8"
 ---

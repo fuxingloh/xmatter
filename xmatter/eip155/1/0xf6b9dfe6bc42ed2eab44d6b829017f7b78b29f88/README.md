@@ -6,5 +6,5 @@ symbol: yvCurve-ibKRW-USDC
 icons:
   - icon.svg
   - icon.png
-color: "#0e0e0e"
+color: "#f8f8f8"
 ---

@@ -6,5 +6,5 @@ symbol: SPS
 icons:
   - icon.svg
   - icon.png
-color: "#050504"
+color: "#080808"
 ---

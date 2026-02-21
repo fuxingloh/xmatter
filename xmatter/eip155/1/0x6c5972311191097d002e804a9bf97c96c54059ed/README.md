@@ -6,5 +6,5 @@ symbol: Surge USDf-aGHO
 icons:
   - icon.svg
   - icon.png
-color: "#eef0ef"
+color: "#f8f8f8"
 ---

@@ -6,5 +6,5 @@ symbol: BASS
 icons:
   - icon.svg
   - icon.png
-color: "#2c2c2c"
+color: "#282828"
 ---

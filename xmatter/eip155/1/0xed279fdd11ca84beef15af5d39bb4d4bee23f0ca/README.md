@@ -6,5 +6,5 @@ symbol: LUSD3CRV-f
 icons:
   - icon.svg
   - icon.png
-color: "#2eb8e8"
+color: "#28b8e8"
 ---

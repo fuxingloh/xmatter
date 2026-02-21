@@ -6,5 +6,5 @@ symbol: superOETHp
 icons:
   - icon.svg
   - icon.png
-color: "#287bfb"
+color: "#080808"
 ---

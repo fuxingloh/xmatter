@@ -6,5 +6,5 @@ symbol: uDOGE
 icons:
   - icon.svg
   - icon.png
-color: "#232220"
+color: "#282828"
 ---

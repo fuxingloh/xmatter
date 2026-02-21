@@ -12,7 +12,7 @@ name: USD+
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#041f45"
+color: "#081848"
 icons:
   - icon.svg
   - icon.png

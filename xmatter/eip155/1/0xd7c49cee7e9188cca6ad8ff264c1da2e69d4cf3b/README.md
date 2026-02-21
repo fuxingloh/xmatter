@@ -10,7 +10,7 @@ name: NXM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#363636"
+color: "#383838"
 icons:
   - icon.svg
   - icon.png

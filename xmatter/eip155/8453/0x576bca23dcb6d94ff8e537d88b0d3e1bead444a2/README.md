@@ -6,5 +6,5 @@ symbol: BCT
 icons:
   - icon.svg
   - icon.png
-color: "#f58a28"
+color: "#f8f8f8"
 ---

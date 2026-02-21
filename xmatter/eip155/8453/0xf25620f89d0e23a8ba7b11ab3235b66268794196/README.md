@@ -6,5 +6,5 @@ symbol: RISE
 icons:
   - icon.svg
   - icon.png
-color: "#ec4a32"
+color: "#181828"
 ---

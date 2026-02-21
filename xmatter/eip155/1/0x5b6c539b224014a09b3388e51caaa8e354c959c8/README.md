@@ -6,5 +6,5 @@ symbol: cbETH/ETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#dac187"
+color: "#f8f8f8"
 ---

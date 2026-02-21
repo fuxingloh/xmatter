@@ -6,5 +6,5 @@ symbol: mkUSDUSDe
 icons:
   - icon.svg
   - icon.png
-color: "#3b71f8"
+color: "#f8f8f8"
 ---

@@ -11,7 +11,7 @@ standards:
 icons:
   - icon.svg
   - icon.png
-color: "#259fc8"
+color: "#2898c8"
 ---
 
 Aave is an Open Source and Non-Custodial protocol to earn interest on deposits & borrow assets.

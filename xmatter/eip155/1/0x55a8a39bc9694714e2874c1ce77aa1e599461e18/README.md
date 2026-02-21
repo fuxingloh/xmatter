@@ -6,5 +6,5 @@ symbol: MIM-UST-f
 icons:
   - icon.svg
   - icon.png
-color: "#f2d349"
+color: "#5858f8"
 ---

@@ -20,7 +20,7 @@ name: TrueUSD
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#042c6b"
+color: "#082868"
 icons:
   - icon.svg
   - icon.png

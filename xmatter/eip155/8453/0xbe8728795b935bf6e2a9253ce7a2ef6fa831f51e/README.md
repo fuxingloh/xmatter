@@ -6,5 +6,5 @@ symbol: uOS
 icons:
   - icon.svg
   - icon.png
-color: "#040404"
+color: "#f8f8f8"
 ---

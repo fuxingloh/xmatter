@@ -6,5 +6,5 @@ symbol: vbUSDS
 icons:
   - icon.svg
   - icon.png
-color: "#fca04f"
+color: "#080808"
 ---

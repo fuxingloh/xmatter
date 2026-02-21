@@ -6,5 +6,5 @@ symbol: ibCHFUSDC-f
 icons:
   - icon.svg
   - icon.png
-color: "#dbaf4c"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: agEUREUROC-f
 icons:
   - icon.svg
   - icon.png
-color: "#c8d5bb"
+color: "#f8f8f8"
 ---

@@ -6,5 +6,5 @@ symbol: USR
 icons:
   - icon.svg
   - icon.png
-color: "#ebe5d2"
+color: "#4888a8"
 ---

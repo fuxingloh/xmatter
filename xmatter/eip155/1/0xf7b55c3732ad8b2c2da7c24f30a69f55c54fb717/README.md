@@ -6,5 +6,5 @@ symbol: sdCRVCRV-f
 icons:
   - icon.svg
   - icon.png
-color: "#188490"
+color: "#080808"
 ---

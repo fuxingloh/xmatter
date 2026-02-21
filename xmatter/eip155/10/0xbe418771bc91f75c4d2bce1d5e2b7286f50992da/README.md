@@ -6,5 +6,5 @@ symbol: sAMMV2-DOLA/MAI
 icons:
   - icon.svg
   - icon.png
-color: "#14357b"
+color: "#e84848"
 ---

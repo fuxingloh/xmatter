@@ -6,5 +6,5 @@ symbol: yvAero-TAROT-WETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#d48d99"
+color: "#f8f8f8"
 ---

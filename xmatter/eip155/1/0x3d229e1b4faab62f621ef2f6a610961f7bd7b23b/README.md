@@ -6,5 +6,5 @@ symbol: crvEURSUSDC
 icons:
   - icon.svg
   - icon.png
-color: "#3877e7"
+color: "#f8f8f8"
 ---

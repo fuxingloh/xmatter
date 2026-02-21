@@ -6,5 +6,5 @@ symbol: DUSD
 icons:
   - icon.svg
   - icon.png
-color: "#e4476d"
+color: "#e84868"
 ---

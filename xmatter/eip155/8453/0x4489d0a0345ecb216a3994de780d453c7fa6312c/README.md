@@ -6,5 +6,5 @@ symbol: STPT
 icons:
   - icon.svg
   - icon.png
-color: "#24ace4"
+color: "#080808"
 ---

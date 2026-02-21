@@ -6,5 +6,5 @@ symbol: wXCH
 icons:
   - icon.svg
   - icon.png
-color: "#1f1f1f"
+color: "#282828"
 ---

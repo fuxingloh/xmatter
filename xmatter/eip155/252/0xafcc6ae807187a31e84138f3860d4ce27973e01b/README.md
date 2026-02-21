@@ -6,5 +6,5 @@ symbol: XOP
 icons:
   - icon.svg
   - icon.png
-color: "#fc0423"
+color: "#f80818"
 ---

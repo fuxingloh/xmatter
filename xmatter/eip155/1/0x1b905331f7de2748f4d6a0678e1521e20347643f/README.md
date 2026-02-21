@@ -6,5 +6,5 @@ symbol: yvCurve-ibAUD
 icons:
   - icon.svg
   - icon.png
-color: "#d4d96f"
+color: "#f8f8f8"
 ---

@@ -6,5 +6,5 @@ symbol: USD3sDAI
 icons:
   - icon.svg
   - icon.png
-color: "#dbbe69"
+color: "#18a828"
 ---

@@ -6,5 +6,5 @@ symbol: MUXLP
 icons:
   - icon.svg
   - icon.png
-color: "#0c0c0c"
+color: "#f8f8f8"
 ---

@@ -6,5 +6,5 @@ symbol: USDC+LP-f
 icons:
   - icon.svg
   - icon.png
-color: "#061efb"
+color: "#080808"
 ---

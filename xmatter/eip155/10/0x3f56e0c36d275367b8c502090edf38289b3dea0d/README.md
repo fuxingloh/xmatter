@@ -6,6 +6,6 @@ symbol: QI
 icons:
   - icon.svg
   - icon.png
-color: "#fb7373"
+color: "#f87878"
 decimals: 18
 ---

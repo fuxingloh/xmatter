@@ -6,5 +6,5 @@ symbol: eUSD3CRV-f
 icons:
   - icon.svg
   - icon.png
-color: "#d4d48b"
+color: "#080808"
 ---

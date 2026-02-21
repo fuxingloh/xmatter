@@ -6,5 +6,5 @@ symbol: B-rETH-STABLE
 icons:
   - icon.svg
   - icon.png
-color: "#f6a774"
+color: "#080808"
 ---

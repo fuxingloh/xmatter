@@ -6,5 +6,5 @@ symbol: ENA
 icons:
   - icon.svg
   - icon.png
-color: "#242424"
+color: "#282828"
 ---

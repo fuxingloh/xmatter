@@ -6,5 +6,5 @@ symbol: WIF
 icons:
   - icon.svg
   - icon.png
-color: "#9c8772"
+color: "#989888"
 ---

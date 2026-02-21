@@ -6,5 +6,5 @@ symbol: deUSDUSDC
 icons:
   - icon.svg
   - icon.png
-color: "#2874d0"
+color: "#f8f8f8"
 ---

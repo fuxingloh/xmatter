@@ -6,5 +6,5 @@ symbol: ankrfrxETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#1d2d24"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: ibZAR
 icons:
   - icon.svg
   - icon.png
-color: "#69ded6"
+color: "#080808"
 ---

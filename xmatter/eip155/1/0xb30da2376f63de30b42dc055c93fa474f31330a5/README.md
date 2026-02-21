@@ -6,5 +6,5 @@ symbol: alUSDFRAXB3CRV-f
 icons:
   - icon.svg
   - icon.png
-color: "#edb788"
+color: "#080808"
 ---

@@ -25,7 +25,7 @@ name: Aave (PoS)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#9494f4"
+color: "#9898f8"
 icons:
   - icon.svg
   - icon.png

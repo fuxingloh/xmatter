@@ -6,5 +6,5 @@ symbol: BFROG
 icons:
   - icon.svg
   - icon.png
-color: "#4b8404"
+color: "#488808"
 ---

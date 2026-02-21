@@ -6,5 +6,5 @@ symbol: NZDD
 icons:
   - icon.svg
   - icon.png
-color: "#106fff"
+color: "#1868f8"
 ---

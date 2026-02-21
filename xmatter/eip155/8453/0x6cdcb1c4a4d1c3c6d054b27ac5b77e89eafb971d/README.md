@@ -6,5 +6,5 @@ symbol: vAMM-USDC/AERO
 icons:
   - icon.svg
   - icon.png
-color: "#e6e6e5"
+color: "#e8e8e8"
 ---

@@ -6,5 +6,5 @@ symbol: MF
 icons:
   - icon.svg
   - icon.png
-color: "#5b5bf2"
+color: "#5858f8"
 ---

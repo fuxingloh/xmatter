@@ -6,5 +6,5 @@ symbol: seth-f
 icons:
   - icon.svg
   - icon.png
-color: "#5f81de"
+color: "#6878e8"
 ---

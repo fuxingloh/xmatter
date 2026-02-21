@@ -6,5 +6,5 @@ symbol: KING
 icons:
   - icon.svg
   - icon.png
-color: "#f2bb04"
+color: "#181818"
 ---

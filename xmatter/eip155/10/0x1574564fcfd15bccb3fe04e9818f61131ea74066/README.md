@@ -6,5 +6,5 @@ symbol: JARVIS
 icons:
   - icon.svg
   - icon.png
-color: "#4bf673"
+color: "#383848"
 ---

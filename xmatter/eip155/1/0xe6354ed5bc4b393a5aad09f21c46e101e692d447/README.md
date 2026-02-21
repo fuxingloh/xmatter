@@ -6,6 +6,6 @@ symbol: yUSDT
 icons:
   - icon.svg
   - icon.png
-color: "#c5c5c5"
+color: "#f8f8f8"
 decimals: 6
 ---

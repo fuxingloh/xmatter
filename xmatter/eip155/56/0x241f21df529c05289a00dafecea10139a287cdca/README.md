@@ -6,5 +6,5 @@ symbol: WELEPHANT
 icons:
   - icon.svg
   - icon.png
-color: "#3c6cfc"
+color: "#3868f8"
 ---

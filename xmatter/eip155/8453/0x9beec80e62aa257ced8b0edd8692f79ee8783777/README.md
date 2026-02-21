@@ -6,5 +6,5 @@ symbol: TIMI
 icons:
   - icon.svg
   - icon.png
-color: "#044bfa"
+color: "#0848f8"
 ---

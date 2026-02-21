@@ -6,5 +6,5 @@ symbol: WGC
 icons:
   - icon.svg
   - icon.png
-color: "#987a4a"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: STGUSDC-f
 icons:
   - icon.svg
   - icon.png
-color: "#bab47c"
+color: "#080808"
 ---

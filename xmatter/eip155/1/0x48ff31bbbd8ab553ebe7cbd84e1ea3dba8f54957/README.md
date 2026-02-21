@@ -6,5 +6,5 @@ symbol: sdAGAG-f
 icons:
   - icon.svg
   - icon.png
-color: "#1b1b1e"
+color: "#f8f8e8"
 ---

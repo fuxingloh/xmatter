@@ -6,5 +6,5 @@ symbol: sAMMV2-WBTC/tBTC
 icons:
   - icon.svg
   - icon.png
-color: "#2c2c34"
+color: "#282838"
 ---

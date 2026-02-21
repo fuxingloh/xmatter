@@ -6,5 +6,5 @@ symbol: ALOT
 icons:
   - icon.svg
   - icon.png
-color: "#161334"
+color: "#f80868"
 ---

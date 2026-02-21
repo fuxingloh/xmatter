@@ -6,5 +6,5 @@ symbol: yv1INCH
 icons:
   - icon.svg
   - icon.png
-color: "#c7cfde"
+color: "#f8f8f8"
 ---

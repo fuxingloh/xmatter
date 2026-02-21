@@ -6,5 +6,5 @@ symbol: SKR
 icons:
   - icon.svg
   - icon.png
-color: "#5253fc"
+color: "#f8f8f8"
 ---

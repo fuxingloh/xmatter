@@ -6,5 +6,5 @@ symbol: TOKEETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#d7ba6b"
+color: "#080808"
 ---

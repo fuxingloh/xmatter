@@ -6,5 +6,5 @@ symbol: OKAYEG
 icons:
   - icon.svg
   - icon.png
-color: "#d0d59d"
+color: "#08b838"
 ---

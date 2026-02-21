@@ -6,5 +6,5 @@ symbol: APEUSDBP3CRV-f
 icons:
   - icon.svg
   - icon.png
-color: "#e0b41b"
+color: "#080808"
 ---

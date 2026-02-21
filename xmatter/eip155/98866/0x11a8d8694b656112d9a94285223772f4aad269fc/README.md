@@ -6,5 +6,5 @@ symbol: nRWA
 icons:
   - icon.svg
   - icon.png
-color: "#048cfc"
+color: "#0888f8"
 ---

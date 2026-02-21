@@ -6,5 +6,5 @@ symbol: awMATIC-USDC
 icons:
   - icon.svg
   - icon.png
-color: "#7dbdf3"
+color: "#f80808"
 ---

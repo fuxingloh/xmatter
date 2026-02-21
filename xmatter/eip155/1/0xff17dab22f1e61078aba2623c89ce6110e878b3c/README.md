@@ -6,5 +6,5 @@ symbol: dola-save
 icons:
   - icon.svg
   - icon.png
-color: "#eab80d"
+color: "#080808"
 ---

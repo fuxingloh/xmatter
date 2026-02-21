@@ -6,5 +6,5 @@ symbol: yvCurve-StaFi-rETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#bfc651"
+color: "#f8f8f8"
 ---

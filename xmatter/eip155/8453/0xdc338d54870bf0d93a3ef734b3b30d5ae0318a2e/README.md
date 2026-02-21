@@ -6,5 +6,5 @@ symbol: xSN46
 icons:
   - icon.svg
   - icon.png
-color: "#344cd4"
+color: "#f8f8f8"
 ---

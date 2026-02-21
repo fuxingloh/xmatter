@@ -6,5 +6,5 @@ symbol: ibEURUSDC-f
 icons:
   - icon.svg
   - icon.png
-color: "#deba6e"
+color: "#080808"
 ---

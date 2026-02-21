@@ -6,5 +6,5 @@ symbol: sAMMV2-USDC/USX
 icons:
   - icon.svg
   - icon.png
-color: "#2477d1"
+color: "#080808"
 ---

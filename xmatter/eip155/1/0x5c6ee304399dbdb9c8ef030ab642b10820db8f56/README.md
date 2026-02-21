@@ -6,5 +6,5 @@ symbol: B-80BAL-20WETH
 icons:
   - icon.svg
   - icon.png
-color: "#ac9454"
+color: "#080808"
 ---

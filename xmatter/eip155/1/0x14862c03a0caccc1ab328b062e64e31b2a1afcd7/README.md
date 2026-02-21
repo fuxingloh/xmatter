@@ -6,5 +6,5 @@ symbol: SEDA
 icons:
   - icon.svg
   - icon.png
-color: "#cccccc"
+color: "#f8f8f8"
 ---

@@ -6,5 +6,5 @@ symbol: DAG
 icons:
   - icon.svg
   - icon.png
-color: "#1555ec"
+color: "#f8f8f8"
 ---

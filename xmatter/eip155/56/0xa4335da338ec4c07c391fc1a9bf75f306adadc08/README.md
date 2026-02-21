@@ -6,5 +6,5 @@ symbol: eUSD
 icons:
   - icon.svg
   - icon.png
-color: "#258351"
+color: "#c8e8d8"
 ---

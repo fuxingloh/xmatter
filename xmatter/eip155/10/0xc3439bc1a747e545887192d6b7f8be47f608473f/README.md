@@ -6,5 +6,5 @@ symbol: vAMMV2-OATH/WETH
 icons:
   - icon.svg
   - icon.png
-color: "#090808"
+color: "#080808"
 ---

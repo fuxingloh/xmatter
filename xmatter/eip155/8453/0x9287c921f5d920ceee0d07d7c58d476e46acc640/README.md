@@ -6,5 +6,5 @@ symbol: vAMM-WETH/DAI
 icons:
   - icon.svg
   - icon.png
-color: "#12162d"
+color: "#080808"
 ---

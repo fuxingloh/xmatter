@@ -6,5 +6,5 @@ symbol: stERN
 icons:
   - icon.svg
   - icon.png
-color: "#8222cc"
+color: "#080808"
 ---

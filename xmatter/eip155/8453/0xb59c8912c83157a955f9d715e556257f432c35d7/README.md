@@ -6,5 +6,5 @@ symbol: TRUF
 icons:
   - icon.svg
   - icon.png
-color: "#285fc4"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: AISTR
 icons:
   - icon.svg
   - icon.png
-color: "#f9f1f1"
+color: "#b80808"
 ---

@@ -6,5 +6,5 @@ symbol: fxUSDGHO
 icons:
   - icon.svg
   - icon.png
-color: "#8f95d6"
+color: "#080808"
 ---

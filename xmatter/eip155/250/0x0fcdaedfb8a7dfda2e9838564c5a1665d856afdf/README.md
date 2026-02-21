@@ -6,5 +6,5 @@ symbol: yvbtcCRV
 icons:
   - icon.svg
   - icon.png
-color: "#9d9fa4"
+color: "#f8f8f8"
 ---

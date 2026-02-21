@@ -6,5 +6,5 @@ symbol: EXA
 icons:
   - icon.svg
   - icon.png
-color: "#1fa793"
+color: "#080808"
 ---

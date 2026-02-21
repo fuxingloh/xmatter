@@ -18,7 +18,7 @@ name: HUSD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1c64f3"
+color: "#1868e8"
 icons:
   - icon.svg
   - icon.png

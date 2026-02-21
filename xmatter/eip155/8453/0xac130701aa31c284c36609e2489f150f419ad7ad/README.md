@@ -6,5 +6,5 @@ symbol: SNUT
 icons:
   - icon.svg
   - icon.png
-color: "#353535"
+color: "#080808"
 ---

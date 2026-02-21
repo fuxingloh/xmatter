@@ -6,5 +6,5 @@ symbol: MXNe
 icons:
   - icon.svg
   - icon.png
-color: "#d9f13b"
+color: "#282828"
 ---

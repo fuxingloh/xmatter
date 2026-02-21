@@ -6,5 +6,5 @@ symbol: CLEVETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#3638f3"
+color: "#f8f8f8"
 ---

@@ -6,5 +6,5 @@ symbol: CNDL
 icons:
   - icon.svg
   - icon.png
-color: "#04147c"
+color: "#081878"
 ---

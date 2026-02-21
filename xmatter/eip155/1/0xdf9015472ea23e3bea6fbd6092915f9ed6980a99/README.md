@@ -6,5 +6,5 @@ symbol: revPool
 icons:
   - icon.svg
   - icon.png
-color: "#d7bc70"
+color: "#080808"
 ---

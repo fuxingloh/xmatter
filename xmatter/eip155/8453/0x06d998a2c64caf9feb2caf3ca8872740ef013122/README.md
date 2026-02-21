@@ -6,5 +6,5 @@ symbol: DCB
 icons:
   - icon.svg
   - icon.png
-color: "#70146a"
+color: "#080808"
 ---

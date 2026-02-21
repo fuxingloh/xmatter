@@ -6,5 +6,5 @@ symbol: yvCurve-mUSD
 icons:
   - icon.svg
   - icon.png
-color: "#0d6af8"
+color: "#f8f8f8"
 ---

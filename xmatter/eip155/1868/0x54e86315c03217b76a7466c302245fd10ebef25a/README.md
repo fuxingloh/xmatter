@@ -6,5 +6,5 @@ symbol: yaySTONE
 icons:
   - icon.svg
   - icon.png
-color: "#c5c5c5"
+color: "#080808"
 ---

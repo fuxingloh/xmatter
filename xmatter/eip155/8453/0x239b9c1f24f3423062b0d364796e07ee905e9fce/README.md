@@ -6,5 +6,5 @@ symbol: uSHIB
 icons:
   - icon.svg
   - icon.png
-color: "#f30804"
+color: "#080808"
 ---

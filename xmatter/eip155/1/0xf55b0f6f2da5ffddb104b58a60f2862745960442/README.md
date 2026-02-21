@@ -6,5 +6,5 @@ symbol: USDecrvUSD
 icons:
   - icon.svg
   - icon.png
-color: "#d7c38c"
+color: "#080808"
 ---

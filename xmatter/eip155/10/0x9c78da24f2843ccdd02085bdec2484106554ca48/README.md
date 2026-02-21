@@ -6,5 +6,5 @@ symbol: vAMMV2-TAROTv1/USDC
 icons:
   - icon.svg
   - icon.png
-color: "#e1ac92"
+color: "#080808"
 ---

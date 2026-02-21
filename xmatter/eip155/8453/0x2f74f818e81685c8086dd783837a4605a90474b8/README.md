@@ -6,5 +6,5 @@ symbol: NATION
 icons:
   - icon.svg
   - icon.png
-color: "#c9f813"
+color: "#080808"
 ---

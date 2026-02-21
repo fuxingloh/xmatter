@@ -6,5 +6,5 @@ symbol: syrupUSDC
 icons:
   - icon.svg
   - icon.png
-color: "#fc7c4c"
+color: "#f87848"
 ---

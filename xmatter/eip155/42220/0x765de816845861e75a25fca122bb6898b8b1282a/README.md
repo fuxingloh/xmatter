@@ -22,7 +22,7 @@ name: Mento Dollar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5310c2"
+color: "#5808c8"
 icons:
   - icon.svg
   - icon.png

@@ -6,5 +6,5 @@ symbol: IQ
 icons:
   - icon.svg
   - icon.png
-color: "#1c3d4f"
+color: "#f858a8"
 ---

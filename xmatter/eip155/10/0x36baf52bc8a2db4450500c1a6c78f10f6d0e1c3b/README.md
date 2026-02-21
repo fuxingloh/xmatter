@@ -6,5 +6,5 @@ symbol: yvVelo-TAROT-USDC.e-f
 icons:
   - icon.svg
   - icon.png
-color: "#c9cac5"
+color: "#f8f8f8"
 ---

@@ -6,5 +6,5 @@ symbol: cbADA
 icons:
   - icon.svg
   - icon.png
-color: "#c1d5fc"
+color: "#f8f8f8"
 ---

@@ -6,5 +6,5 @@ symbol: USSI
 icons:
   - icon.svg
   - icon.png
-color: "#132335"
+color: "#e8e8e8"
 ---

@@ -6,5 +6,5 @@ symbol: sAMMV2-USDC/MAI
 icons:
   - icon.svg
   - icon.png
-color: "#2076d5"
+color: "#e84848"
 ---

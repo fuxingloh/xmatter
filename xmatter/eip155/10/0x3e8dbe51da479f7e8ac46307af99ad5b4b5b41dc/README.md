@@ -6,5 +6,5 @@ symbol: przDAI
 icons:
   - icon.svg
   - icon.png
-color: "#a273f6"
+color: "#9868f8"
 ---

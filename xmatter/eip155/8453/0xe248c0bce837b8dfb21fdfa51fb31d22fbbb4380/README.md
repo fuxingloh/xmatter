@@ -6,5 +6,5 @@ symbol: FDX
 icons:
   - icon.svg
   - icon.png
-color: "#f0ebfa"
+color: "#080808"
 ---

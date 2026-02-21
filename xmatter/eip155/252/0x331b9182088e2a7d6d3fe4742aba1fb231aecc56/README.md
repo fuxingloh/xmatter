@@ -6,5 +6,5 @@ symbol: CRV
 icons:
   - icon.svg
   - icon.png
-color: "#3ab3c2"
+color: "#f8f8f8"
 ---

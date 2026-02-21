@@ -8,5 +8,5 @@ standards: []
 icons:
   - icon.svg
   - icon.png
-color: "#d5a31e"
+color: "#080808"
 ---

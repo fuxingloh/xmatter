@@ -6,5 +6,5 @@ symbol: yvCurve-RAI
 icons:
   - icon.svg
   - icon.png
-color: "#f29040"
+color: "#f8f8f8"
 ---

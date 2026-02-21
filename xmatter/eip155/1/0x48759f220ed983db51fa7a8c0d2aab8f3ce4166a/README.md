@@ -6,5 +6,5 @@ symbol: iUSDT
 icons:
   - icon.svg
   - icon.png
-color: "#6be3db"
+color: "#68e8d8"
 ---

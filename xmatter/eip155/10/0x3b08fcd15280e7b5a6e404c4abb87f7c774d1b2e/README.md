@@ -6,5 +6,5 @@ symbol: OVN
 icons:
   - icon.svg
   - icon.png
-color: "#0b2557"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: vASTR
 icons:
   - icon.svg
   - icon.png
-color: "#252526"
+color: "#282828"
 ---

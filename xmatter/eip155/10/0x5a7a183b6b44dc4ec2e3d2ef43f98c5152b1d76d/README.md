@@ -6,5 +6,5 @@ symbol: inETH
 icons:
   - icon.svg
   - icon.png
-color: "#949494"
+color: "#f8f8f8"
 ---

@@ -6,5 +6,5 @@ symbol: oUSDT
 icons:
   - icon.svg
   - icon.png
-color: "#fc0424"
+color: "#f80818"
 ---

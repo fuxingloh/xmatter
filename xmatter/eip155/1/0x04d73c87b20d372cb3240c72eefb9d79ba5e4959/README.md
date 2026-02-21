@@ -6,5 +6,5 @@ symbol: yvCurve-UST
 icons:
   - icon.svg
   - icon.png
-color: "#0a5394"
+color: "#f8f8f8"
 ---

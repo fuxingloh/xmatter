@@ -6,5 +6,5 @@ symbol: sUSDai
 icons:
   - icon.svg
   - icon.png
-color: "#ab9383"
+color: "#a89888"
 ---

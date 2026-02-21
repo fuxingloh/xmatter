@@ -6,5 +6,5 @@ symbol: yvCurve-pBTC
 icons:
   - icon.svg
   - icon.png
-color: "#09579d"
+color: "#f8f8f8"
 ---

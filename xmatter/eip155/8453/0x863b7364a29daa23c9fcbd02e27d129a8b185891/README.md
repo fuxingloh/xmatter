@@ -6,5 +6,5 @@ symbol: SFI
 icons:
   - icon.svg
   - icon.png
-color: "#0d050d"
+color: "#080808"
 ---

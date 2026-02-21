@@ -6,5 +6,5 @@ symbol: dream
 icons:
   - icon.svg
   - icon.png
-color: "#052afc"
+color: "#f8f8f8"
 ---

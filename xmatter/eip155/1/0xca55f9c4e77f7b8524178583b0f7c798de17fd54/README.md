@@ -6,5 +6,5 @@ symbol: iSEUR
 icons:
   - icon.svg
   - icon.png
-color: "#6ce0d9"
+color: "#68e8d8"
 ---

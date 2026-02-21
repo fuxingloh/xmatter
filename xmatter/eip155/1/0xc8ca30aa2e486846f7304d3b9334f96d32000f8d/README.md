@@ -6,5 +6,5 @@ symbol: yvCurve-apeUSD-FBP-f
 icons:
   - icon.svg
   - icon.png
-color: "#272626"
+color: "#f8f8f8"
 ---

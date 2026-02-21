@@ -6,5 +6,5 @@ symbol: alUSDsDOLA
 icons:
   - icon.svg
   - icon.png
-color: "#2d2d40"
+color: "#080808"
 ---

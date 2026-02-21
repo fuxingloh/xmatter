@@ -6,5 +6,5 @@ symbol: HBR
 icons:
   - icon.svg
   - icon.png
-color: "#2d046d"
+color: "#080808"
 ---

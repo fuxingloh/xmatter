@@ -6,5 +6,5 @@ symbol: USDpy
 icons:
   - icon.svg
   - icon.png
-color: "#0785e2"
+color: "#080808"
 ---

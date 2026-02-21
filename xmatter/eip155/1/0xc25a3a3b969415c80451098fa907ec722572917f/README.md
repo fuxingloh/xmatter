@@ -6,5 +6,5 @@ symbol: crvPlain3andSUSD
 icons:
   - icon.svg
   - icon.png
-color: "#d3b052"
+color: "#080828"
 ---

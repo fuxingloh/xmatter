@@ -6,5 +6,5 @@ symbol: fBOMB
 icons:
   - icon.svg
   - icon.png
-color: "#0060f8"
+color: "#080808"
 ---

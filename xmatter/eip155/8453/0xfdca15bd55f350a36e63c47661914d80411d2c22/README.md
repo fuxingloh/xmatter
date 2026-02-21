@@ -6,5 +6,5 @@ symbol: uTAO
 icons:
   - icon.svg
   - icon.png
-color: "#141411"
+color: "#080808"
 ---

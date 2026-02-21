@@ -6,5 +6,5 @@ symbol: GB
 icons:
   - icon.svg
   - icon.png
-color: "#273649"
+color: "#f8f8f8"
 ---

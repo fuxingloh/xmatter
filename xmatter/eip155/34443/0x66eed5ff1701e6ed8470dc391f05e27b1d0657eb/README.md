@@ -6,5 +6,5 @@ symbol: BMX
 icons:
   - icon.svg
   - icon.png
-color: "#eeeef4"
+color: "#1808f8"
 ---

@@ -6,5 +6,5 @@ symbol: yvVelo-QI-USDC.e-f
 icons:
   - icon.svg
   - icon.png
-color: "#114b87"
+color: "#f8f8f8"
 ---

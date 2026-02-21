@@ -6,5 +6,5 @@ symbol: ORDER
 icons:
   - icon.svg
   - icon.png
-color: "#9b31f6"
+color: "#f8f8f8"
 ---

@@ -6,5 +6,5 @@ symbol: yvCurve-MIMUST
 icons:
   - icon.svg
   - icon.png
-color: "#094b88"
+color: "#f8f8f8"
 ---

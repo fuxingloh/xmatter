@@ -6,5 +6,5 @@ symbol: dgnETHETH+
 icons:
   - icon.svg
   - icon.png
-color: "#a4a0ed"
+color: "#080808"
 ---

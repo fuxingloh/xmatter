@@ -6,5 +6,5 @@ symbol: crv3crypto
 icons:
   - icon.svg
   - icon.png
-color: "#5f858d"
+color: "#080808"
 ---

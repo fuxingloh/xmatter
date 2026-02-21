@@ -16,7 +16,7 @@ name: Simmi Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2f2f2f"
+color: "#f8f8f8"
 icons:
   - icon.svg
   - icon.png

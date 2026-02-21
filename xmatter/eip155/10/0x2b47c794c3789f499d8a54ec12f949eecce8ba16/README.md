@@ -6,5 +6,5 @@ symbol: sAMMV2-USDC/USDT
 icons:
   - icon.svg
   - icon.png
-color: "#55ab94"
+color: "#58a898"
 ---

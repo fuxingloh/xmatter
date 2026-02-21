@@ -6,5 +6,5 @@ symbol: bb-a-USD
 icons:
   - icon.svg
   - icon.png
-color: "#f09971"
+color: "#f8f8f8"
 ---

@@ -6,5 +6,5 @@ symbol: WETH
 icons:
   - icon.svg
   - icon.png
-color: "#0d080a"
+color: "#f8f8f8"
 ---

@@ -6,5 +6,5 @@ symbol: BSDX
 icons:
   - icon.svg
   - icon.png
-color: "#1464fc"
+color: "#1868f8"
 ---

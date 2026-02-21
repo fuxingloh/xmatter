@@ -6,5 +6,5 @@ symbol: LevETH
 icons:
   - icon.svg
   - icon.png
-color: "#f4a31c"
+color: "#f89818"
 ---

@@ -6,5 +6,5 @@ symbol: LBTC
 icons:
   - icon.svg
   - icon.png
-color: "#bff7ef"
+color: "#182828"
 ---

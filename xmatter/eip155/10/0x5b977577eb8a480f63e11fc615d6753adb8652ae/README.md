@@ -6,5 +6,5 @@ symbol: yvWETH
 icons:
   - icon.svg
   - icon.png
-color: "#0655fb"
+color: "#f8f8f8"
 ---

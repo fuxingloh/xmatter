@@ -6,5 +6,5 @@ symbol: DOLAFRAXBP3CRV-f
 icons:
   - icon.svg
   - icon.png
-color: "#161c4d"
+color: "#181858"
 ---

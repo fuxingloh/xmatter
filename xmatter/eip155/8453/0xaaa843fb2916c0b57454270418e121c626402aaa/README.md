@@ -6,5 +6,5 @@ symbol: AAA
 icons:
   - icon.svg
   - icon.png
-color: "#f3f8f4"
+color: "#f8f8f8"
 ---

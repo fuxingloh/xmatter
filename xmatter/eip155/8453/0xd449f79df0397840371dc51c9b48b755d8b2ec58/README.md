@@ -6,5 +6,5 @@ symbol: AUDIT
 icons:
   - icon.svg
   - icon.png
-color: "#0493eb"
+color: "#080808"
 ---

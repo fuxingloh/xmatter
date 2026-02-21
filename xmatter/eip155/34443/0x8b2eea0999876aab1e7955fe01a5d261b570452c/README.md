@@ -6,5 +6,5 @@ symbol: wMLT
 icons:
   - icon.svg
   - icon.png
-color: "#e3fb53"
+color: "#e8f858"
 ---

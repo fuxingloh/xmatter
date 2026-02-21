@@ -6,5 +6,5 @@ symbol: DHT
 icons:
   - icon.svg
   - icon.png
-color: "#0464cc"
+color: "#0868c8"
 ---

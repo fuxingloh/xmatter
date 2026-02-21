@@ -6,5 +6,5 @@ symbol: NORMIE
 icons:
   - icon.svg
   - icon.png
-color: "#165cee"
+color: "#080808"
 ---

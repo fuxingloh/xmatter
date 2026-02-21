@@ -6,5 +6,5 @@ symbol: OVER
 icons:
   - icon.svg
   - icon.png
-color: "#adafb4"
+color: "#f8f8f8"
 ---

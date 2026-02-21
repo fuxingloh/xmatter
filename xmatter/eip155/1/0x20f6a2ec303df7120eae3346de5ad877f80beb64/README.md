@@ -6,5 +6,5 @@ symbol: yvBal-auraBAL-f
 icons:
   - icon.svg
   - icon.png
-color: "#776780"
+color: "#f8f8f8"
 ---

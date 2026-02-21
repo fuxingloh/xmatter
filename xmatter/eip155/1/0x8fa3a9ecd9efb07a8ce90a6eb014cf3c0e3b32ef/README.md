@@ -6,5 +6,5 @@ symbol: yvCurve-BBTC
 icons:
   - icon.svg
   - icon.png
-color: "#b5c9b3"
+color: "#f8f8f8"
 ---

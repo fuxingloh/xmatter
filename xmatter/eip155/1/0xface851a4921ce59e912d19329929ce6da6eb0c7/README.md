@@ -6,5 +6,5 @@ symbol: cLINK
 icons:
   - icon.svg
   - icon.png
-color: "#090909"
+color: "#f8f8f8"
 ---

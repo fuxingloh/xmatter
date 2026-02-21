@@ -6,5 +6,5 @@ symbol: sEUR
 icons:
   - icon.svg
   - icon.png
-color: "#0c042c"
+color: "#080828"
 ---

@@ -6,5 +6,5 @@ symbol: vAMMV2-TAROT/OP
 icons:
   - icon.svg
   - icon.png
-color: "#e8162a"
+color: "#080808"
 ---

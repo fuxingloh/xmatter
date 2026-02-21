@@ -6,5 +6,5 @@ symbol: stZENT
 icons:
   - icon.svg
   - icon.png
-color: "#5444fc"
+color: "#5848f8"
 ---

@@ -6,5 +6,5 @@ symbol: NICKEL
 icons:
   - icon.svg
   - icon.png
-color: "#dddddd"
+color: "#080808"
 ---

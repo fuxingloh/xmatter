@@ -6,5 +6,5 @@ symbol: PALETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#eb6730"
+color: "#f8f8f8"
 ---

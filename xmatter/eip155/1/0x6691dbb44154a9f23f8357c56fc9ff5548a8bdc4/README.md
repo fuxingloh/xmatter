@@ -6,5 +6,5 @@ symbol: deUSD/DOLA
 icons:
   - icon.svg
   - icon.png
-color: "#1b2a6a"
+color: "#f8f8f8"
 ---

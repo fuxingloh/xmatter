@@ -6,5 +6,5 @@ symbol: PHNM
 icons:
   - icon.svg
   - icon.png
-color: "#9445c0"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: TEM
 icons:
   - icon.svg
   - icon.png
-color: "#4d87db"
+color: "#181818"
 ---

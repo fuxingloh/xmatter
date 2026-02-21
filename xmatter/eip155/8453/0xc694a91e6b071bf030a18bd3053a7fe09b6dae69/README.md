@@ -6,5 +6,5 @@ symbol: COW
 icons:
   - icon.svg
   - icon.png
-color: "#f3cb14"
+color: "#f8c818"
 ---

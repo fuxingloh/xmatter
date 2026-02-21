@@ -6,5 +6,5 @@ symbol: vAMMV2-UNIDX/DAI
 icons:
   - icon.svg
   - icon.png
-color: "#454d4c"
+color: "#384848"
 ---

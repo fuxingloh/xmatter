@@ -6,5 +6,5 @@ symbol: MAHA
 icons:
   - icon.svg
   - icon.png
-color: "#fcccb7"
+color: "#f84808"
 ---

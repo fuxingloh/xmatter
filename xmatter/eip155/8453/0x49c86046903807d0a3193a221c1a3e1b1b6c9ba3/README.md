@@ -6,5 +6,5 @@ symbol: CYI
 icons:
   - icon.svg
   - icon.png
-color: "#c50e0e"
+color: "#f8f8f8"
 ---

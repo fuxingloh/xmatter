@@ -8,7 +8,7 @@ name: Harvest Finance
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#c7e0dd"
+color: "#f8f8f8"
 icons:
   - icon.svg
   - icon.png

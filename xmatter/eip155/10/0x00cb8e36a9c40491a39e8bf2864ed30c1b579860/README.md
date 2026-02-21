@@ -6,5 +6,5 @@ symbol: yvVelo-tBTC-WBTC-f
 icons:
   - icon.svg
   - icon.png
-color: "#2f2f37"
+color: "#f8f8f8"
 ---

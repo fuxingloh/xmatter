@@ -6,5 +6,5 @@ symbol: yvAero-wUSDR-USDbC-f
 icons:
   - icon.svg
   - icon.png
-color: "#2c223b"
+color: "#f8f8f8"
 ---

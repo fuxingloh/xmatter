@@ -6,5 +6,5 @@ symbol: MOLTEN
 icons:
   - icon.svg
   - icon.png
-color: "#de513d"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: cyDUSD
 icons:
   - icon.svg
   - icon.png
-color: "#6be3dc"
+color: "#68e8d8"
 ---

@@ -6,5 +6,5 @@ symbol: yvCurve-ibCHF-USDC
 icons:
   - icon.svg
   - icon.png
-color: "#dace72"
+color: "#f8f8f8"
 ---

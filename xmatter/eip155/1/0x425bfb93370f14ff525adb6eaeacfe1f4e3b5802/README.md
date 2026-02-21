@@ -6,5 +6,5 @@ symbol: sdai-usdm
 icons:
   - icon.svg
   - icon.png
-color: "#0e0e0e"
+color: "#080808"
 ---

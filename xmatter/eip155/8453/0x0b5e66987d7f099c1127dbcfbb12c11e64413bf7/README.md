@@ -6,5 +6,5 @@ symbol: xSN98
 icons:
   - icon.svg
   - icon.png
-color: "#122967"
+color: "#f8f8f8"
 ---

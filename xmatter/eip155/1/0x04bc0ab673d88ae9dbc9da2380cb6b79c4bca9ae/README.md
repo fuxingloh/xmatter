@@ -6,5 +6,5 @@ symbol: yBUSD
 icons:
   - icon.svg
   - icon.png
-color: "#c5c5c5"
+color: "#f8f8f8"
 ---

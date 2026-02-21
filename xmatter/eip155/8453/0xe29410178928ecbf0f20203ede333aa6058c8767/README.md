@@ -6,5 +6,5 @@ symbol: ARST
 icons:
   - icon.svg
   - icon.png
-color: "#87aefa"
+color: "#083868"
 ---

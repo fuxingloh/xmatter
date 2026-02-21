@@ -6,5 +6,5 @@ symbol: FIRE
 icons:
   - icon.svg
   - icon.png
-color: "#f56e24"
+color: "#080808"
 ---

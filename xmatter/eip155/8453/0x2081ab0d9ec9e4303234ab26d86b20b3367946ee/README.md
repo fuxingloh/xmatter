@@ -6,5 +6,5 @@ symbol: EIGEN
 icons:
   - icon.svg
   - icon.png
-color: "#1c0c6c"
+color: "#f8f8f8"
 ---

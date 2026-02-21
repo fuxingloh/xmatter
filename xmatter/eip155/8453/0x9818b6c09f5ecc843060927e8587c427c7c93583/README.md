@@ -6,5 +6,5 @@ symbol: RIZE
 icons:
   - icon.svg
   - icon.png
-color: "#050505"
+color: "#080808"
 ---

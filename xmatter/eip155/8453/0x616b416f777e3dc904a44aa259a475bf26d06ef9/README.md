@@ -6,5 +6,5 @@ symbol: BLAI
 icons:
   - icon.svg
   - icon.png
-color: "#050504"
+color: "#c8f868"
 ---

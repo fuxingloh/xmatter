@@ -6,5 +6,5 @@ symbol: dETHfrxETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#d9b658"
+color: "#080808"
 ---

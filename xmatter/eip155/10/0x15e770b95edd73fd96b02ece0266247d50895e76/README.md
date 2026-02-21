@@ -6,5 +6,5 @@ symbol: JRT
 icons:
   - icon.svg
   - icon.png
-color: "#54fc74"
+color: "#58f878"
 ---

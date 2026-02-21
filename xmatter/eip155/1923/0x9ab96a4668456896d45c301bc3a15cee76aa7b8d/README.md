@@ -6,5 +6,5 @@ symbol: rUSDC
 icons:
   - icon.svg
   - icon.png
-color: "#dedfef"
+color: "#e8e8f8"
 ---

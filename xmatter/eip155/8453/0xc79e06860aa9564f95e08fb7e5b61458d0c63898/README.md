@@ -6,5 +6,5 @@ symbol: uHBAR
 icons:
   - icon.svg
   - icon.png
-color: "#090908"
+color: "#080808"
 ---

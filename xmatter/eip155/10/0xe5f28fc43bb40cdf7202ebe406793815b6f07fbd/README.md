@@ -6,5 +6,5 @@ symbol: vAMMV2-THALES/USDC
 icons:
   - icon.svg
   - icon.png
-color: "#e1a58c"
+color: "#080858"
 ---

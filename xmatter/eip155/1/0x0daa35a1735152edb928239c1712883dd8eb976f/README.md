@@ -6,5 +6,5 @@ symbol: yLQTY
 icons:
   - icon.svg
   - icon.png
-color: "#2cb3eb"
+color: "#080808"
 ---

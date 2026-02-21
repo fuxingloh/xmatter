@@ -6,5 +6,5 @@ symbol: propaganda
 icons:
   - icon.svg
   - icon.png
-color: "#fb1c82"
+color: "#f8f8f8"
 ---

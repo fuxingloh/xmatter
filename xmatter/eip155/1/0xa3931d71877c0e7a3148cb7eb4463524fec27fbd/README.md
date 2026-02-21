@@ -6,5 +6,5 @@ symbol: sUSDS
 icons:
   - icon.svg
   - icon.png
-color: "#2fca99"
+color: "#080808"
 ---

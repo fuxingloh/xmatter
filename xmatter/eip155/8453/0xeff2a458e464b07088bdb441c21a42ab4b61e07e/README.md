@@ -6,5 +6,5 @@ symbol: PDT
 icons:
   - icon.svg
   - icon.png
-color: "#13ed0b"
+color: "#080808"
 ---

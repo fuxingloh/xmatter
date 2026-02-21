@@ -6,5 +6,5 @@ symbol: vAMMV2-stERN/ERN
 icons:
   - icon.svg
   - icon.png
-color: "#8428cb"
+color: "#080808"
 ---

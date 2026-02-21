@@ -6,5 +6,5 @@ symbol: SANWCH
 icons:
   - icon.svg
   - icon.png
-color: "#f2e9cf"
+color: "#f8f8f8"
 ---

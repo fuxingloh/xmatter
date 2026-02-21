@@ -6,5 +6,5 @@ symbol: crvUSDUSDT-f
 icons:
   - icon.svg
   - icon.png
-color: "#58b198"
+color: "#58a898"
 ---

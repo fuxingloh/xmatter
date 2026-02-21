@@ -6,5 +6,5 @@ symbol: SUMR
 icons:
   - icon.svg
   - icon.png
-color: "#fc4ca4"
+color: "#f848a8"
 ---

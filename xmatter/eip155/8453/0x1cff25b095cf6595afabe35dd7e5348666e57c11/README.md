@@ -6,5 +6,5 @@ symbol: uETH
 icons:
   - icon.svg
   - icon.png
-color: "#bdbdbd"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: MSTR
 icons:
   - icon.svg
   - icon.png
-color: "#0c0d0e"
+color: "#0858f8"
 ---

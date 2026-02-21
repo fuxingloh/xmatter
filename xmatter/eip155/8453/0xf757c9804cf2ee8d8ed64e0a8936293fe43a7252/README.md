@@ -6,5 +6,5 @@ symbol: REZ
 icons:
   - icon.svg
   - icon.png
-color: "#a7da4c"
+color: "#080808"
 ---

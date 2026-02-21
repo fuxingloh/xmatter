@@ -6,5 +6,5 @@ symbol: VRTX
 icons:
   - icon.svg
   - icon.png
-color: "#c7a7e6"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: LOGX
 icons:
   - icon.svg
   - icon.png
-color: "#040c0a"
+color: "#28f8b8"
 ---

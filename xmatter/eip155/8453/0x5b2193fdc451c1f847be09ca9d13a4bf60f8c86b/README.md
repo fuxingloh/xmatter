@@ -6,5 +6,5 @@ symbol: UP
 icons:
   - icon.svg
   - icon.png
-color: "#9be304"
+color: "#98e808"
 ---

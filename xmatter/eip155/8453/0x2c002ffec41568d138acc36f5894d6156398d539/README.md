@@ -6,5 +6,5 @@ symbol: LUCKY
 icons:
   - icon.svg
   - icon.png
-color: "#e2a282"
+color: "#080808"
 ---

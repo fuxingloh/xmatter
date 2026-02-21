@@ -6,5 +6,5 @@ symbol: stTAO
 icons:
   - icon.svg
   - icon.png
-color: "#dadada"
+color: "#d8d8d8"
 ---

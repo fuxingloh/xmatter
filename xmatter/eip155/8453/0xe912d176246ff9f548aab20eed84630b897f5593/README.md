@@ -6,5 +6,5 @@ symbol: TEUR
 icons:
   - icon.svg
   - icon.png
-color: "#04349c"
+color: "#083898"
 ---

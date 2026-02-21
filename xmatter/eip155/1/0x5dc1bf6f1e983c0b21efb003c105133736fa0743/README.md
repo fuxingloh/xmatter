@@ -6,5 +6,5 @@ symbol: FRAXUSDe
 icons:
   - icon.svg
   - icon.png
-color: "#dcbb77"
+color: "#080808"
 ---

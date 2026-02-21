@@ -6,5 +6,5 @@ symbol: RAIN
 icons:
   - icon.svg
   - icon.png
-color: "#79c5e0"
+color: "#080808"
 ---

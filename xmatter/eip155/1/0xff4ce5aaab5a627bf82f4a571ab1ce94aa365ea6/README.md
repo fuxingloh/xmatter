@@ -6,5 +6,5 @@ symbol: DOLA-USDC BSP
 icons:
   - icon.svg
   - icon.png
-color: "#151b48"
+color: "#181858"
 ---

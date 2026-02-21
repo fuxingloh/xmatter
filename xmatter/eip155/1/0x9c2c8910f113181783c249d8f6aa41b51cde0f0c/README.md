@@ -6,5 +6,5 @@ symbol: ibCHF+sCHF-f
 icons:
   - icon.svg
   - icon.png
-color: "#080708"
+color: "#080808"
 ---

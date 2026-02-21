@@ -6,5 +6,5 @@ symbol: vAMM-USD+/stERN
 icons:
   - icon.svg
   - icon.png
-color: "#8328cb"
+color: "#080808"
 ---

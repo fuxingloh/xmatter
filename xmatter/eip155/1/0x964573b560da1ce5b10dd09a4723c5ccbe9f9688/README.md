@@ -6,5 +6,5 @@ symbol: USD3sUSDe
 icons:
   - icon.svg
   - icon.png
-color: "#28ac30"
+color: "#18a828"
 ---

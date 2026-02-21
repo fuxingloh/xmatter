@@ -6,5 +6,5 @@ symbol: DOH
 icons:
   - icon.svg
   - icon.png
-color: "#2b53a3"
+color: "#080808"
 ---

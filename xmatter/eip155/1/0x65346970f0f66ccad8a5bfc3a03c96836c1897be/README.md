@@ -6,5 +6,5 @@ symbol: yvCurve-DUSD-f
 icons:
   - icon.svg
   - icon.png
-color: "#106bf7"
+color: "#f8f8f8"
 ---

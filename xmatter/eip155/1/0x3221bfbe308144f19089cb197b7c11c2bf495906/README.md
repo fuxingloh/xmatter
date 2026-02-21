@@ -6,5 +6,5 @@ symbol: yvCurve-BTRFLY-ETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#dfe098"
+color: "#f8f8f8"
 ---

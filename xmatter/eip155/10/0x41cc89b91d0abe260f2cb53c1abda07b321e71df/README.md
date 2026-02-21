@@ -6,5 +6,5 @@ symbol: sAMMV2-CHI/DAI
 icons:
   - icon.svg
   - icon.png
-color: "#f2b050"
+color: "#080808"
 ---

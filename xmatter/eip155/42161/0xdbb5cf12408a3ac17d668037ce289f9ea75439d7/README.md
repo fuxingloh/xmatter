@@ -12,7 +12,7 @@ name: WorldMobileToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#070704"
+color: "#f8f838"
 icons:
   - icon.svg
   - icon.png

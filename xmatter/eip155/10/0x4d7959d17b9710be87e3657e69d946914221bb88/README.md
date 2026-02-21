@@ -6,5 +6,5 @@ symbol: sAMMV2-USDC/alUSD
 icons:
   - icon.svg
   - icon.png
-color: "#e9ba9f"
+color: "#080808"
 ---

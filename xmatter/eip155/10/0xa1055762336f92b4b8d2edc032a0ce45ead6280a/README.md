@@ -6,5 +6,5 @@ symbol: sAMMV2-alETH/WETH
 icons:
   - icon.svg
   - icon.png
-color: "#292835"
+color: "#080808"
 ---

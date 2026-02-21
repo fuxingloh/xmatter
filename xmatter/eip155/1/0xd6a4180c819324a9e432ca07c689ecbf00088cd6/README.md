@@ -6,5 +6,5 @@ symbol: yvCurve-EURS-f
 icons:
   - icon.svg
   - icon.png
-color: "#878483"
+color: "#f8f8f8"
 ---

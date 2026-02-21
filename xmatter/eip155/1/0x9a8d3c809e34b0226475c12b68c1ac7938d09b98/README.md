@@ -6,5 +6,5 @@ symbol: ODOS
 icons:
   - icon.svg
   - icon.png
-color: "#ff5100"
+color: "#080808"
 ---

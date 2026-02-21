@@ -6,5 +6,5 @@ symbol: FAME
 icons:
   - icon.svg
   - icon.png
-color: "#e7ac04"
+color: "#080808"
 ---

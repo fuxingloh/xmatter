@@ -6,5 +6,5 @@ symbol: B-cbETH-wstETH-Stable
 icons:
   - icon.svg
   - icon.png
-color: "#3784fa"
+color: "#f8f8f8"
 ---

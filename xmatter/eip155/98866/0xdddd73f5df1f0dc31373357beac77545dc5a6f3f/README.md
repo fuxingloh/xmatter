@@ -6,5 +6,5 @@ symbol: pUSD
 icons:
   - icon.svg
   - icon.png
-color: "#fc3c04"
+color: "#f83808"
 ---

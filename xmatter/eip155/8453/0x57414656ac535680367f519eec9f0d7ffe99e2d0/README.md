@@ -6,5 +6,5 @@ symbol: AB4AD
 icons:
   - icon.svg
   - icon.png
-color: "#14bce4"
+color: "#080808"
 ---

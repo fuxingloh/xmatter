@@ -6,5 +6,5 @@ symbol: TEVA
 icons:
   - icon.svg
   - icon.png
-color: "#043f50"
+color: "#080808"
 ---

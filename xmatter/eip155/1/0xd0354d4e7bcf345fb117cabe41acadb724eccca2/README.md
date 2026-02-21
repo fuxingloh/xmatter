@@ -6,5 +6,5 @@ symbol: PENDLE-LPT
 icons:
   - icon.svg
   - icon.png
-color: "#63cbfc"
+color: "#f8f8f8"
 ---

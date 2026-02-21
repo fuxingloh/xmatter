@@ -6,5 +6,5 @@ symbol: USDC
 icons:
   - icon.svg
   - icon.png
-color: "#2474cb"
+color: "#2878c8"
 ---

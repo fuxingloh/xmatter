@@ -6,5 +6,5 @@ symbol: sAMMV2-FRAX/MAI
 icons:
   - icon.svg
   - icon.png
-color: "#e34a41"
+color: "#e84848"
 ---

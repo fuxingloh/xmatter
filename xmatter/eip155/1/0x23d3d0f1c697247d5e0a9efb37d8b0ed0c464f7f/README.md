@@ -6,5 +6,5 @@ symbol: yvCurve-tBTC
 icons:
   - icon.svg
   - icon.png
-color: "#0c69fa"
+color: "#f8f8f8"
 ---

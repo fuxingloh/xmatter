@@ -6,5 +6,5 @@ symbol: Neiro
 icons:
   - icon.svg
   - icon.png
-color: "#d0c051"
+color: "#f8f8f8"
 ---

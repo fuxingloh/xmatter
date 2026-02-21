@@ -6,5 +6,5 @@ symbol: przWETH
 icons:
   - icon.svg
   - icon.png
-color: "#9c6ef9"
+color: "#282828"
 ---

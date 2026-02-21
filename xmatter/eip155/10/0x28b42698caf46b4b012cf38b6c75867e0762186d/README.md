@@ -6,5 +6,5 @@ symbol: UNIDX
 icons:
   - icon.svg
   - icon.png
-color: "#56f19f"
+color: "#080808"
 ---

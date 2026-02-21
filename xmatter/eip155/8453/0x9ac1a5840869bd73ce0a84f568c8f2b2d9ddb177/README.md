@@ -6,5 +6,5 @@ symbol: faketaxi
 icons:
   - icon.svg
   - icon.png
-color: "#d4d1be"
+color: "#080808"
 ---

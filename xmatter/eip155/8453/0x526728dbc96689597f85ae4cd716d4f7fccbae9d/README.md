@@ -6,5 +6,5 @@ symbol: msUSD
 icons:
   - icon.svg
   - icon.png
-color: "#5c9cec"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: RDNT
 icons:
   - icon.svg
   - icon.png
-color: "#2699ca"
+color: "#080808"
 ---

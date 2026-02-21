@@ -6,5 +6,5 @@ symbol: yvCurve-triCrypto
 icons:
   - icon.svg
   - icon.png
-color: "#f39048"
+color: "#f8f8f8"
 ---

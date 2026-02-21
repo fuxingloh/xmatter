@@ -6,5 +6,5 @@ symbol: aAERO
 icons:
   - icon.svg
   - icon.png
-color: "#b33756"
+color: "#282838"
 ---

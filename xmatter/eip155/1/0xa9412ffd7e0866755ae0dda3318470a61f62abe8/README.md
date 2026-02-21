@@ -6,5 +6,5 @@ symbol: yvBlpFUD
 icons:
   - icon.svg
   - icon.png
-color: "#c2cbda"
+color: "#f8f8f8"
 ---

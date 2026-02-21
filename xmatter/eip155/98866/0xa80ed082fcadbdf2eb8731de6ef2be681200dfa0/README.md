@@ -6,5 +6,5 @@ symbol: EUROPE
 icons:
   - icon.svg
   - icon.png
-color: "#d5b474"
+color: "#480808"
 ---

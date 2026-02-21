@@ -6,5 +6,5 @@ symbol: XPRT
 icons:
   - icon.svg
   - icon.png
-color: "#dba769"
+color: "#080808"
 ---

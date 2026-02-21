@@ -6,5 +6,5 @@ symbol: SIRE
 icons:
   - icon.svg
   - icon.png
-color: "#121212"
+color: "#f8f8f8"
 ---

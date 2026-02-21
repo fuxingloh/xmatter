@@ -6,5 +6,5 @@ symbol: yvCurve-OUSD
 icons:
   - icon.svg
   - icon.png
-color: "#dcd468"
+color: "#f8f8f8"
 ---

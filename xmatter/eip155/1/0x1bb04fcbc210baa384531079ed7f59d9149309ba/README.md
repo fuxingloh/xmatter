@@ -6,5 +6,5 @@ symbol: yvBal-USDC-DAI-USDT-f
 icons:
   - icon.svg
   - icon.png
-color: "#1c2c46"
+color: "#f8f8f8"
 ---

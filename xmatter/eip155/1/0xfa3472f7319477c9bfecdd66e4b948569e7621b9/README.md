@@ -6,5 +6,5 @@ symbol: iYFI
 icons:
   - icon.svg
   - icon.png
-color: "#6be2dc"
+color: "#68e8d8"
 ---

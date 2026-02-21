@@ -6,5 +6,5 @@ symbol: sAMMV2-FRAX/USD+
 icons:
   - icon.svg
   - icon.png
-color: "#e0a384"
+color: "#080808"
 ---

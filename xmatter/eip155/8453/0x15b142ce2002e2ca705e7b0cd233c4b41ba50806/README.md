@@ -6,5 +6,5 @@ symbol: pippin
 icons:
   - icon.svg
   - icon.png
-color: "#c0b2ba"
+color: "#f8f8f8"
 ---

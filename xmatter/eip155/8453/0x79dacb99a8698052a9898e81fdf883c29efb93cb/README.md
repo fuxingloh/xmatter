@@ -6,5 +6,5 @@ symbol: ACOLYT
 icons:
   - icon.svg
   - icon.png
-color: "#f8134a"
+color: "#080808"
 ---

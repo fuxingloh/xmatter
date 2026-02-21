@@ -6,5 +6,5 @@ symbol: yvCurve-d3pool
 icons:
   - icon.svg
   - icon.png
-color: "#232323"
+color: "#f8f8f8"
 ---

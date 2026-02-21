@@ -12,7 +12,7 @@ name: Renzo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a7da4c"
+color: "#080808"
 icons:
   - icon.svg
   - icon.png

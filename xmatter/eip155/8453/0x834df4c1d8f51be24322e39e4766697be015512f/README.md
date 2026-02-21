@@ -6,5 +6,5 @@ symbol: CETES
 icons:
   - icon.svg
   - icon.png
-color: "#424b04"
+color: "#e8f838"
 ---

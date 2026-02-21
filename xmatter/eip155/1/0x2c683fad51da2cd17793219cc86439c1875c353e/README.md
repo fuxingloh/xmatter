@@ -6,5 +6,5 @@ symbol: ETH+ETH
 icons:
   - icon.svg
   - icon.png
-color: "#82c5f2"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: vAMM-WETH/bsdETH
 icons:
   - icon.svg
   - icon.png
-color: "#1f5adc"
+color: "#0858f8"
 ---

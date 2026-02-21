@@ -6,5 +6,5 @@ symbol: AIN
 icons:
   - icon.svg
   - icon.png
-color: "#643cbc"
+color: "#6838b8"
 ---

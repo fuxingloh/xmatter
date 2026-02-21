@@ -5,5 +5,5 @@ standards: []
 symbol: VPPE
 icons:
   - icon.png
-color: "#352320"
+color: "#d82828"
 ---

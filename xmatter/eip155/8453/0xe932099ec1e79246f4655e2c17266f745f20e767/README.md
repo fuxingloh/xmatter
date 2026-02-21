@@ -6,5 +6,5 @@ symbol: NUNU
 icons:
   - icon.svg
   - icon.png
-color: "#e8ddce"
+color: "#080808"
 ---

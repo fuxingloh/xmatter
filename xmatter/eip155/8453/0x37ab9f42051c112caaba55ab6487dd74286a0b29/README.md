@@ -6,5 +6,5 @@ symbol: KWENTA
 icons:
   - icon.svg
   - icon.png
-color: "#b58958"
+color: "#080808"
 ---

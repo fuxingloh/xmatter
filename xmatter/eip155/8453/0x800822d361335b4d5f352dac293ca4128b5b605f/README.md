@@ -6,5 +6,5 @@ symbol: SYMM
 icons:
   - icon.svg
   - icon.png
-color: "#e94b3b"
+color: "#080808"
 ---

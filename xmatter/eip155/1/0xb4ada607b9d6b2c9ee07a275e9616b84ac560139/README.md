@@ -6,5 +6,5 @@ symbol: yvCurve-FRAX
 icons:
   - icon.svg
   - icon.png
-color: "#e2d666"
+color: "#f8f8f8"
 ---

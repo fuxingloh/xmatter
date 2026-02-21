@@ -6,5 +6,5 @@ symbol: D3-f
 icons:
   - icon.svg
   - icon.png
-color: "#dab224"
+color: "#080808"
 ---

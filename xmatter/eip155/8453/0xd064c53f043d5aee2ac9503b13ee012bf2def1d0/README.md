@@ -6,5 +6,5 @@ symbol: DEFIDO
 icons:
   - icon.svg
   - icon.png
-color: "#e1d5db"
+color: "#080808"
 ---

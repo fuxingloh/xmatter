@@ -6,5 +6,5 @@ symbol: MOCHI
 icons:
   - icon.svg
   - icon.png
-color: "#1d1916"
+color: "#080808"
 ---

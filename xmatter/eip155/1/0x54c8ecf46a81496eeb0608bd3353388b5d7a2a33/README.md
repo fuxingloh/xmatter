@@ -6,5 +6,5 @@ symbol: ibAUDUSDC-f
 icons:
   - icon.svg
   - icon.png
-color: "#dbb151"
+color: "#080808"
 ---

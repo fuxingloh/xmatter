@@ -6,5 +6,5 @@ symbol: pax-usdp3CRV-f
 icons:
   - icon.svg
   - icon.png
-color: "#478b30"
+color: "#080808"
 ---

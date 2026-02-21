@@ -6,5 +6,5 @@ symbol: $WAI
 icons:
   - icon.svg
   - icon.png
-color: "#8639a8"
+color: "#080808"
 ---

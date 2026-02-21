@@ -6,5 +6,5 @@ symbol: wOptiDoge
 icons:
   - icon.svg
   - icon.png
-color: "#f41d1b"
+color: "#f81818"
 ---

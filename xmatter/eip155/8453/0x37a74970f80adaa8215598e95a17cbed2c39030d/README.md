@@ -6,5 +6,5 @@ symbol: yvAero-SONNE-USDbC-f
 icons:
   - icon.svg
   - icon.png
-color: "#886fb6"
+color: "#f8f8f8"
 ---

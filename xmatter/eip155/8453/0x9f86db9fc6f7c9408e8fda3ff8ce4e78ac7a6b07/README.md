@@ -6,5 +6,5 @@ symbol: CLAWD
 icons:
   - icon.svg
   - icon.png
-color: "#171534"
+color: "#181838"
 ---

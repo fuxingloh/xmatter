@@ -6,5 +6,5 @@ symbol: yvCurve-GUSD-f
 icons:
   - icon.svg
   - icon.png
-color: "#126bf6"
+color: "#f8f8f8"
 ---

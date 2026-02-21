@@ -5,5 +5,5 @@ standards: []
 symbol: BASED
 icons:
   - icon.png
-color: "#eae0d4"
+color: "#f8f8f8"
 ---

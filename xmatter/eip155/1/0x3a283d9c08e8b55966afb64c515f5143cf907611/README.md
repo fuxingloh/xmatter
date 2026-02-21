@@ -6,5 +6,5 @@ symbol: crvCVXETH
 icons:
   - icon.svg
   - icon.png
-color: "#676d8b"
+color: "#f8f8f8"
 ---

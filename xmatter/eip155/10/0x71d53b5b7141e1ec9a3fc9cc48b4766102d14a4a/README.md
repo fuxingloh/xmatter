@@ -6,5 +6,5 @@ symbol: vAMMV2-USDC/SNX
 icons:
   - icon.svg
   - icon.png
-color: "#160555"
+color: "#080808"
 ---

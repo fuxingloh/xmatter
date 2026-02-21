@@ -6,5 +6,5 @@ symbol: TIBBIR
 icons:
   - icon.svg
   - icon.png
-color: "#6d6f5f"
+color: "#080808"
 ---

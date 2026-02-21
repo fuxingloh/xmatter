@@ -10,7 +10,7 @@ name: Heroes of Mavia
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#235cd2"
+color: "#2858d8"
 icons:
   - icon.svg
   - icon.png

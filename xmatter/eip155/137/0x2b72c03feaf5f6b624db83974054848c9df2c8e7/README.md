@@ -6,5 +6,5 @@ symbol: wRAIN
 icons:
   - icon.svg
   - icon.png
-color: "#8cc7d8"
+color: "#080808"
 ---

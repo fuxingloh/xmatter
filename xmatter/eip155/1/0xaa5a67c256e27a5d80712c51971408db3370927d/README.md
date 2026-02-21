@@ -6,5 +6,5 @@ symbol: DOLA3POOL3CRV-f
 icons:
   - icon.svg
   - icon.png
-color: "#161d53"
+color: "#181858"
 ---

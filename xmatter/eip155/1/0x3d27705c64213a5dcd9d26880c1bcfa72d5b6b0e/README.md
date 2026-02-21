@@ -6,5 +6,5 @@ symbol: yvCurve-USDK
 icons:
   - icon.svg
   - icon.png
-color: "#e5d360"
+color: "#f8f8f8"
 ---

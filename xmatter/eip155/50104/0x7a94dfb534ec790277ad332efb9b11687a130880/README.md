@@ -6,5 +6,5 @@ symbol: BEAM
 icons:
   - icon.svg
   - icon.png
-color: "#149cdc"
+color: "#f81818"
 ---

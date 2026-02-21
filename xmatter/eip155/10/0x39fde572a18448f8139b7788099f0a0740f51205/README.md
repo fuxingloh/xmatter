@@ -12,7 +12,7 @@ name: Oath
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d44c4c"
+color: "#080808"
 icons:
   - icon.svg
   - icon.png

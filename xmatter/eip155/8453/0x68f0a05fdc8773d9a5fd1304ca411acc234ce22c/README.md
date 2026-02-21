@@ -6,5 +6,5 @@ symbol: tUSDbC
 icons:
   - icon.svg
   - icon.png
-color: "#cadff3"
+color: "#181848"
 ---

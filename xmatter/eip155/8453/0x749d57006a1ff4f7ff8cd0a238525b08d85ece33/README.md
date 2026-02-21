@@ -6,5 +6,5 @@ symbol: BLOWN
 icons:
   - icon.svg
   - icon.png
-color: "#e28f8f"
+color: "#080808"
 ---

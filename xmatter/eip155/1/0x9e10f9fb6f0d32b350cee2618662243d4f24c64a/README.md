@@ -6,5 +6,5 @@ symbol: mkUSDPay
 icons:
   - icon.svg
   - icon.png
-color: "#debe80"
+color: "#f8f8f8"
 ---

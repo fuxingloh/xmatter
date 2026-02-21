@@ -6,5 +6,5 @@ symbol: eUSDUSDC
 icons:
   - icon.svg
   - icon.png
-color: "#101010"
+color: "#080808"
 ---

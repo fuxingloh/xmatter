@@ -6,5 +6,5 @@ symbol: SHARK
 icons:
   - icon.svg
   - icon.png
-color: "#0c4d0a"
+color: "#080808"
 ---

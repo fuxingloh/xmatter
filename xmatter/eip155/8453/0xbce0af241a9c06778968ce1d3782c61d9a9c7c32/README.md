@@ -6,5 +6,5 @@ symbol: MET
 icons:
   - icon.svg
   - icon.png
-color: "#242434"
+color: "#181838"
 ---

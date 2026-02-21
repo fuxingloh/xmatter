@@ -6,5 +6,5 @@ symbol: yvVelo-ERN-LUSD-f
 icons:
   - icon.svg
   - icon.png
-color: "#c7c5bc"
+color: "#f8f8f8"
 ---

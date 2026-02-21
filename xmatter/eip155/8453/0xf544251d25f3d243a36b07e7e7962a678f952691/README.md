@@ -6,5 +6,5 @@ symbol: TAROT
 icons:
   - icon.svg
   - icon.png
-color: "#c3c3c3"
+color: "#080808"
 ---

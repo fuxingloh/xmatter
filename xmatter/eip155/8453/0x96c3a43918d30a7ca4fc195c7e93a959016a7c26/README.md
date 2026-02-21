@@ -6,5 +6,5 @@ symbol: xSN4
 icons:
   - icon.svg
   - icon.png
-color: "#252730"
+color: "#68c8f8"
 ---

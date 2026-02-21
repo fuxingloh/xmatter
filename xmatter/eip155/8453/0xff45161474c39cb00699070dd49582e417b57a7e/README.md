@@ -6,5 +6,5 @@ symbol: MT
 icons:
   - icon.svg
   - icon.png
-color: "#14e2b2"
+color: "#080818"
 ---

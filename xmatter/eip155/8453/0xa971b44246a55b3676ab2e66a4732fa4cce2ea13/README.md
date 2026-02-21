@@ -6,5 +6,5 @@ symbol: NGNC
 icons:
   - icon.svg
   - icon.png
-color: "#1a8155"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: GRAIN
 icons:
   - icon.svg
   - icon.png
-color: "#f9f3dd"
+color: "#e8c848"
 ---

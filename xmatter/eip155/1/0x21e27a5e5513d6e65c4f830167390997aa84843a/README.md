@@ -6,5 +6,5 @@ symbol: stETH-ng-f
 icons:
   - icon.svg
   - icon.png
-color: "#dfcb94"
+color: "#f8f8f8"
 ---

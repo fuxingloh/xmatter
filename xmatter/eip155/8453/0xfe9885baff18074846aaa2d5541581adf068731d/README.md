@@ -6,5 +6,5 @@ symbol: DOR
 icons:
   - icon.svg
   - icon.png
-color: "#dc1c24"
+color: "#f8f8f8"
 ---

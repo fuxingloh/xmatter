@@ -6,5 +6,5 @@ symbol: yvAero-WETH-DAI-f
 icons:
   - icon.svg
   - icon.png
-color: "#8572a8"
+color: "#f8f8f8"
 ---

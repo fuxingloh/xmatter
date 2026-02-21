@@ -6,5 +6,5 @@ symbol: MAMO
 icons:
   - icon.svg
   - icon.png
-color: "#98d99e"
+color: "#080808"
 ---

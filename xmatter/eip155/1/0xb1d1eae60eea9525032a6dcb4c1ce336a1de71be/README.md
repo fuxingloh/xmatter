@@ -6,5 +6,5 @@ symbol: DRV
 icons:
   - icon.svg
   - icon.png
-color: "#f97c3c"
+color: "#080808"
 ---

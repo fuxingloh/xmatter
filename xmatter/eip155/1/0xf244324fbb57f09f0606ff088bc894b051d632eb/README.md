@@ -6,5 +6,5 @@ symbol: s/lvlUSD
 icons:
   - icon.svg
   - icon.png
-color: "#f93710"
+color: "#f82808"
 ---

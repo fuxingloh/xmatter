@@ -6,5 +6,5 @@ symbol: TRX
 icons:
   - icon.svg
   - icon.png
-color: "#ec042c"
+color: "#e80828"
 ---

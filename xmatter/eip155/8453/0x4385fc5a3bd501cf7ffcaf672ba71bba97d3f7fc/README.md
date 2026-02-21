@@ -6,5 +6,5 @@ symbol: bHAWK
 icons:
   - icon.svg
   - icon.png
-color: "#412831"
+color: "#f8f8f8"
 ---

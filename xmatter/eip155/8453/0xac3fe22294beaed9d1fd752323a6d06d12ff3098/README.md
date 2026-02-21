@@ -6,5 +6,5 @@ symbol: VNXAU
 icons:
   - icon.svg
   - icon.png
-color: "#e3d58e"
+color: "#e8d898"
 ---

@@ -6,5 +6,5 @@ symbol: pHAM
 icons:
   - icon.svg
   - icon.png
-color: "#f9d0d0"
+color: "#f8f8f8"
 ---

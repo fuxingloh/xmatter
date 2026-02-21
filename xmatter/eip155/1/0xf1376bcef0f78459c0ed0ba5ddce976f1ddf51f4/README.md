@@ -6,5 +6,5 @@ symbol: uniETH
 icons:
   - icon.svg
   - icon.png
-color: "#bdcefc"
+color: "#080808"
 ---

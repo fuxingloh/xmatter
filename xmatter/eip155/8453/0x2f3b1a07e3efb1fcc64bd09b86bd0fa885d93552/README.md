@@ -6,5 +6,5 @@ symbol: MST
 icons:
   - icon.svg
   - icon.png
-color: "#adbdea"
+color: "#183858"
 ---

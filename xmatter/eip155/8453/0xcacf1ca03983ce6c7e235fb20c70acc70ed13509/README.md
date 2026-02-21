@@ -6,5 +6,5 @@ symbol: APX
 icons:
   - icon.svg
   - icon.png
-color: "#5e9e66"
+color: "#080808"
 ---

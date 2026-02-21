@@ -6,5 +6,5 @@ symbol: kVCM
 icons:
   - icon.svg
   - icon.png
-color: "#00cc33"
+color: "#080808"
 ---

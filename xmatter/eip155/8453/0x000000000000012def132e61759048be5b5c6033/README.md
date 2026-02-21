@@ -6,5 +6,5 @@ symbol: CX
 icons:
   - icon.svg
   - icon.png
-color: "#161435"
+color: "#181828"
 ---

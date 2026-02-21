@@ -6,5 +6,5 @@ symbol: yvVelo-MTA-USDC.e-f
 icons:
   - icon.svg
   - icon.png
-color: "#e6c39e"
+color: "#f8f8f8"
 ---

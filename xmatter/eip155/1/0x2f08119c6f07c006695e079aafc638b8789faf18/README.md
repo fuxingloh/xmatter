@@ -6,5 +6,5 @@ symbol: yUSDT
 icons:
   - icon.svg
   - icon.png
-color: "#0655fc"
+color: "#f8f8f8"
 ---

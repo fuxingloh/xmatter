@@ -6,5 +6,5 @@ symbol: zunUSD
 icons:
   - icon.svg
   - icon.png
-color: "#fc9007"
+color: "#f89808"
 ---

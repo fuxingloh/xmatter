@@ -6,5 +6,5 @@ symbol: crvUSDFRAX-f
 icons:
   - icon.svg
   - icon.png
-color: "#d9c284"
+color: "#080808"
 ---

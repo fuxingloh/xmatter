@@ -6,5 +6,5 @@ symbol: COMP
 icons:
   - icon.svg
   - icon.png
-color: "#04d091"
+color: "#080808"
 ---

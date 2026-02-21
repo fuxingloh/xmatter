@@ -6,5 +6,5 @@ symbol: STG/FRAXBP-f
 icons:
   - icon.svg
   - icon.png
-color: "#beb887"
+color: "#080808"
 ---

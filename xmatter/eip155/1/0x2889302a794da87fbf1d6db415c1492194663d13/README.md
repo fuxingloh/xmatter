@@ -6,5 +6,5 @@ symbol: crvCRVUSDTBTCWSTETH
 icons:
   - icon.svg
   - icon.png
-color: "#482d32"
+color: "#080808"
 ---

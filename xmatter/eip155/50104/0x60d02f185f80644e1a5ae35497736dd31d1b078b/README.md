@@ -6,5 +6,5 @@ symbol: wstETH
 icons:
   - icon.svg
   - icon.png
-color: "#9ddcfc"
+color: "#08a8f8"
 ---

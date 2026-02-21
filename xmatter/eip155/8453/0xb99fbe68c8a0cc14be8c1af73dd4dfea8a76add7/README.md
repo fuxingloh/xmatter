@@ -6,5 +6,5 @@ symbol: xTAO
 icons:
   - icon.svg
   - icon.png
-color: "#040404"
+color: "#080808"
 ---

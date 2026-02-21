@@ -14,7 +14,7 @@ name: Morpho Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#2473fc"
+color: "#2868f8"
 icons:
   - icon.svg
   - icon.png

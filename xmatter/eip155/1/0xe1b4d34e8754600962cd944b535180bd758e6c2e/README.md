@@ -6,5 +6,5 @@ symbol: agETH
 icons:
   - icon.svg
   - icon.png
-color: "#0e4140"
+color: "#f8f8f8"
 ---

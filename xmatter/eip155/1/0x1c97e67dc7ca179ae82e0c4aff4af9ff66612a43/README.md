@@ -6,5 +6,5 @@ symbol: yvCurve-PAL-ETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#b2bdb5"
+color: "#f8f8f8"
 ---

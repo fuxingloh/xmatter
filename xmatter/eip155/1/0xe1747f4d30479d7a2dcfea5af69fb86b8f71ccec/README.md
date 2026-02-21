@@ -6,5 +6,5 @@ symbol: yvCurve-TRYb-f
 icons:
   - icon.svg
   - icon.png
-color: "#c4c6be"
+color: "#f8f8f8"
 ---

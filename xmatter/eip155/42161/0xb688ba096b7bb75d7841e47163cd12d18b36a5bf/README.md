@@ -6,5 +6,5 @@ symbol: mPendle
 icons:
   - icon.svg
   - icon.png
-color: "#355377"
+color: "#385878"
 ---

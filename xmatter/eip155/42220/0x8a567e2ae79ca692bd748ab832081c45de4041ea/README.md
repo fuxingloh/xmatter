@@ -20,7 +20,7 @@ name: Mento Colombian Peso
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f6860a"
+color: "#5808c8"
 icons:
   - icon.svg
   - icon.png

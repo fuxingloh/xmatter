@@ -6,5 +6,5 @@ symbol: PONKE
 icons:
   - icon.svg
   - icon.png
-color: "#fab307"
+color: "#f8a808"
 ---

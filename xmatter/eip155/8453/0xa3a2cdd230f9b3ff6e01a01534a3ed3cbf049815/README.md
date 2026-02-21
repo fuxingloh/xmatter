@@ -6,5 +6,5 @@ symbol: ZERC
 icons:
   - icon.svg
   - icon.png
-color: "#cacaca"
+color: "#080808"
 ---

@@ -6,5 +6,5 @@ symbol: AAG
 icons:
   - icon.svg
   - icon.png
-color: "#634cfc"
+color: "#5848f8"
 ---

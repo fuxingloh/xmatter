@@ -6,5 +6,5 @@ symbol: BUSD3CRV-f
 icons:
   - icon.svg
   - icon.png
-color: "#eec110"
+color: "#080808"
 ---

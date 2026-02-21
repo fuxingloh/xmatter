@@ -6,5 +6,5 @@ symbol: jEUR
 icons:
   - icon.svg
   - icon.png
-color: "#04349b"
+color: "#083898"
 ---

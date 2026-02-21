@@ -6,5 +6,5 @@ symbol: ibGBPUSDC-f
 icons:
   - icon.svg
   - icon.png
-color: "#dab051"
+color: "#080808"
 ---

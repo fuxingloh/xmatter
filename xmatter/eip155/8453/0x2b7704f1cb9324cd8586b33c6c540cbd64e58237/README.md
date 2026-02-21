@@ -6,5 +6,5 @@ symbol: vAMM-EXTRA/USDbC
 icons:
   - icon.svg
   - icon.png
-color: "#2275fb"
+color: "#080808"
 ---

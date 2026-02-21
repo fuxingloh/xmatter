@@ -6,5 +6,5 @@ symbol: ODG
 icons:
   - icon.svg
   - icon.png
-color: "#449c04"
+color: "#080808"
 ---

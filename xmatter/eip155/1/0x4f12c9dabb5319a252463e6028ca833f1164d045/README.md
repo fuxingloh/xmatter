@@ -6,5 +6,5 @@ symbol: cyCDAI
 icons:
   - icon.svg
   - icon.png
-color: "#6cded9"
+color: "#68e8d8"
 ---

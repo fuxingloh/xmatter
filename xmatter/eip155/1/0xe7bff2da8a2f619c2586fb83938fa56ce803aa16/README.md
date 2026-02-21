@@ -6,5 +6,5 @@ symbol: iLINK
 icons:
   - icon.svg
   - icon.png
-color: "#6ce3dc"
+color: "#68e8d8"
 ---

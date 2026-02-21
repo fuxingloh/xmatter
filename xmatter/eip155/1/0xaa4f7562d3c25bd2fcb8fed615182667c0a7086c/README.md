@@ -6,5 +6,5 @@ symbol: yvBal-stafiETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#d66f61"
+color: "#f8f8f8"
 ---

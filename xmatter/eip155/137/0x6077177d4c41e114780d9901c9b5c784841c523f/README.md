@@ -6,5 +6,5 @@ symbol: aUSDC-WETH
 icons:
   - icon.svg
   - icon.png
-color: "#fb0707"
+color: "#f80808"
 ---

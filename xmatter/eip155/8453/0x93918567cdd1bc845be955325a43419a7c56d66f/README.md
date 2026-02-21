@@ -6,5 +6,5 @@ symbol: MWXT
 icons:
   - icon.svg
   - icon.png
-color: "#5c3e9d"
+color: "#080808"
 ---

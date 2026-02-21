@@ -6,5 +6,5 @@ symbol: ZUNFRXETH
 icons:
   - icon.svg
   - icon.png
-color: "#f9af0e"
+color: "#080808"
 ---

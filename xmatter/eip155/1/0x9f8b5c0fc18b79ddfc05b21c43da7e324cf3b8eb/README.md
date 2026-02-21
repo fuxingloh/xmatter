@@ -6,5 +6,5 @@ symbol: yvCurve-ibEUR-USDC-f
 icons:
   - icon.svg
   - icon.png
-color: "#073966"
+color: "#f8f8f8"
 ---

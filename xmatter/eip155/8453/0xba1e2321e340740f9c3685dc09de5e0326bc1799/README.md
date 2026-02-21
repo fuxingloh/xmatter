@@ -6,5 +6,5 @@ symbol: SNAP
 icons:
   - icon.svg
   - icon.png
-color: "#e8c138"
+color: "#080808"
 ---

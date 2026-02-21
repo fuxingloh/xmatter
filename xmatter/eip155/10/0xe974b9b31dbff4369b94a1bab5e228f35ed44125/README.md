@@ -6,5 +6,5 @@ symbol: ALCX
 icons:
   - icon.svg
   - icon.png
-color: "#e5b693"
+color: "#282838"
 ---

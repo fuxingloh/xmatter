@@ -6,5 +6,5 @@ symbol: deJAAA
 icons:
   - icon.svg
   - icon.png
-color: "#f3f3f3"
+color: "#f8f8f8"
 ---

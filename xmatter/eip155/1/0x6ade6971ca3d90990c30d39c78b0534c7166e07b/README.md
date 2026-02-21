@@ -5,5 +5,5 @@ standards: []
 symbol: pxETHmkUSD-f
 icons:
   - icon.png
-color: "#0e0f0e"
+color: "#080808"
 ---

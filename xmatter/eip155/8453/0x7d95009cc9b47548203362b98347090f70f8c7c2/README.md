@@ -5,5 +5,5 @@ standards: []
 symbol: OTTERSPACE
 icons:
   - icon.png
-color: "#2d2938"
+color: "#181828"
 ---

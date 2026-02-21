@@ -6,5 +6,5 @@ symbol: cyY3CRV
 icons:
   - icon.svg
   - icon.png
-color: "#6ee1d7"
+color: "#68e8d8"
 ---

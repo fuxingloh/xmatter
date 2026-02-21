@@ -6,5 +6,5 @@ symbol: WBTC
 icons:
   - icon.svg
   - icon.png
-color: "#2a272d"
+color: "#f8f8f8"
 ---

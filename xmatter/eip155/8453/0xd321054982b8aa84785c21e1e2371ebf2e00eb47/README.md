@@ -6,5 +6,5 @@ symbol: xSN8
 icons:
   - icon.svg
   - icon.png
-color: "#914663"
+color: "#f8f8f8"
 ---

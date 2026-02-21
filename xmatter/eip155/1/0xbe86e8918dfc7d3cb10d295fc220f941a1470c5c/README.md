@@ -6,5 +6,5 @@ symbol: cyMUSD
 icons:
   - icon.svg
   - icon.png
-color: "#6be2db"
+color: "#080808"
 ---
