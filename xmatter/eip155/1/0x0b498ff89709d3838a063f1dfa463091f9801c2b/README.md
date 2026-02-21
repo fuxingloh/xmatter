@@ -8,7 +8,7 @@ name: Bitcoin 2x Flexible Leverage Index
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#460581"
+color: "#f8f8f8"
 icons:
   - icon.svg
   - icon.png

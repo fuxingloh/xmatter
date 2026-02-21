@@ -10,7 +10,7 @@ name: LikeButton.eth
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#2cabe3"
+color: "#28a8d8"
 icons:
   - icon.svg
 ---

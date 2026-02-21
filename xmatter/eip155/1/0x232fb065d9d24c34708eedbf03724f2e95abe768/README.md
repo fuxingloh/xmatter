@@ -7,5 +7,5 @@ symbol: SHEESHA
 decimals: 18
 icons:
   - icon.png
-color: "#15236b"
+color: "#181868"
 ---

@@ -6,7 +6,7 @@ name: BeatzCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7704a3"
+color: "#080808"
 icons:
   - icon.svg
   - icon.png

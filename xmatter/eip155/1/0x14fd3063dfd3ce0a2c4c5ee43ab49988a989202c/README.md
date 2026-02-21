@@ -7,5 +7,5 @@ symbol: THREE
 decimals: 18
 icons:
   - icon.svg
-color: "#b92a3a"
+color: "#b82838"
 ---

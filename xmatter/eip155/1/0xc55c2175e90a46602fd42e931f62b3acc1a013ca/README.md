@@ -7,5 +7,5 @@ symbol: STARS
 decimals: 18
 icons:
   - icon.svg
-color: "#dcbc74"
+color: "#d8b878"
 ---

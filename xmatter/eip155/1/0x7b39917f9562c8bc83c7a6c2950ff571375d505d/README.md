@@ -7,5 +7,5 @@ symbol: LEAG
 decimals: 18
 icons:
   - icon.png
-color: "#272738"
+color: "#f8f8f8"
 ---

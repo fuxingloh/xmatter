@@ -8,7 +8,7 @@ name: Student Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0c2484"
+color: "#082888"
 icons:
   - icon.png
 ---

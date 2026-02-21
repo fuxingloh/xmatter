@@ -14,7 +14,7 @@ name: Bankless DeFi Innovation Index
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#141414"
+color: "#181818"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Kishu Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f0e6d2"
+color: "#f8e8d8"
 icons:
   - icon.png
 ---

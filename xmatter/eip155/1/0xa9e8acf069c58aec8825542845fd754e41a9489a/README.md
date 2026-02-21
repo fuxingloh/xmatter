@@ -16,7 +16,7 @@ standards:
   - erc20
 icons:
   - icon.png
-color: "#597c2b"
+color: "#080808"
 ---
 
 $PEPECOIN Est. 2016, is building the first decentralized social wrapper for DeFi. Creating Open Source tooling for DeFi's very own decentralized town square.

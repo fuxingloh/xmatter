@@ -7,5 +7,5 @@ symbol: cBSN
 decimals: 18
 icons:
   - icon.png
-color: "#3d86f8"
+color: "#f8f8f8"
 ---

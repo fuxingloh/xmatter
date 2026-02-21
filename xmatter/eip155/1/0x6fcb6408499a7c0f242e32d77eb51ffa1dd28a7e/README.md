@@ -7,5 +7,5 @@ symbol: xHDX
 decimals: 12
 icons:
   - icon.svg
-color: "#0c126a"
+color: "#080868"
 ---

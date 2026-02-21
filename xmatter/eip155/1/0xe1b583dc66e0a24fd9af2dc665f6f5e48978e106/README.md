@@ -7,5 +7,5 @@ symbol: MEE
 decimals: 18
 icons:
   - icon.svg
-color: "#060606"
+color: "#080808"
 ---

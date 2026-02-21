@@ -7,5 +7,5 @@ symbol: ZERO
 decimals: 18
 icons:
   - icon.png
-color: "#040507"
+color: "#080808"
 ---

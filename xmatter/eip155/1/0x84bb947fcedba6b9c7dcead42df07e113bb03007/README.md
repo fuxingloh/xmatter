@@ -7,5 +7,5 @@ symbol: STR
 decimals: 18
 icons:
   - icon.svg
-color: "#162e55"
+color: "#182858"
 ---

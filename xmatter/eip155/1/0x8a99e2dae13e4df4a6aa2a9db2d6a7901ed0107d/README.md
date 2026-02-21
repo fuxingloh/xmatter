@@ -6,7 +6,7 @@ name: Vibrant Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc0d0d"
+color: "#f80808"
 icons:
   - icon.svg
   - icon.png

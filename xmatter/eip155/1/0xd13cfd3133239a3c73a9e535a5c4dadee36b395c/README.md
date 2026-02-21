@@ -16,7 +16,7 @@ name: VAIOT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#14143c"
+color: "#180838"
 icons:
   - icon.png
 ---

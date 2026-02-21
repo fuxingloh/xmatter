@@ -7,5 +7,5 @@ symbol: KOL
 decimals: 18
 icons:
   - icon.png
-color: "#d45289"
+color: "#e8e8e8"
 ---

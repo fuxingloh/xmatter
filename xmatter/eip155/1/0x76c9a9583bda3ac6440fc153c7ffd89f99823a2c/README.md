@@ -7,5 +7,5 @@ symbol: PIN
 decimals: 18
 icons:
   - icon.png
-color: "#839cb9"
+color: "#f8f8f8"
 ---

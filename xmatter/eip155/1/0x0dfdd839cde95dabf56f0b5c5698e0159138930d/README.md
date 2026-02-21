@@ -7,5 +7,5 @@ symbol: myfi
 decimals: 18
 icons:
   - icon.svg
-color: "#3390c9"
+color: "#080808"
 ---

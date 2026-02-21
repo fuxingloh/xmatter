@@ -7,5 +7,5 @@ symbol: NFTFY
 decimals: 18
 icons:
   - icon.svg
-color: "#282828"
+color: "#080808"
 ---

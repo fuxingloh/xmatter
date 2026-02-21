@@ -7,5 +7,5 @@ symbol: RAGE
 decimals: 18
 icons:
   - icon.svg
-color: "#d65362"
+color: "#080828"
 ---

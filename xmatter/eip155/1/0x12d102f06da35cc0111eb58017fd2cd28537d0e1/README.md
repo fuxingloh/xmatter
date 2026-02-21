@@ -14,7 +14,7 @@ name: Vox Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04acbc"
+color: "#08a8b8"
 icons:
   - icon.svg
   - icon.png

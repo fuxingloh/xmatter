@@ -18,5 +18,5 @@ symbol: MEED
 decimals: 18
 icons:
   - icon.png
-color: "#e25d5d"
+color: "#e85858"
 ---

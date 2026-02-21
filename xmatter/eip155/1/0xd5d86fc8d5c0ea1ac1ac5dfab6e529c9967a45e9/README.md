@@ -7,5 +7,5 @@ symbol: WRLD
 decimals: 18
 icons:
   - icon.png
-color: "#262c27"
+color: "#181818"
 ---

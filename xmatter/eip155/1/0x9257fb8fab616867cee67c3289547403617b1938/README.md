@@ -7,5 +7,5 @@ symbol: DRINK
 decimals: 18
 icons:
   - icon.png
-color: "#83dc7c"
+color: "#080808"
 ---

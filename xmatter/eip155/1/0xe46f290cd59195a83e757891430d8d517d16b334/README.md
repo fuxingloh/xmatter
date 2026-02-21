@@ -7,5 +7,5 @@ symbol: AFN
 decimals: 18
 icons:
   - icon.png
-color: "#24e48c"
+color: "#28e888"
 ---

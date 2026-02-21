@@ -7,5 +7,5 @@ symbol: FGH
 decimals: 18
 icons:
   - icon.svg
-color: "#f70404"
+color: "#f80808"
 ---

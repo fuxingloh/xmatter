@@ -8,7 +8,7 @@ name: Mork
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4da1c0"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

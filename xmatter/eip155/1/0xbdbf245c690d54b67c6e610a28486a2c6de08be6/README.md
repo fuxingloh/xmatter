@@ -7,5 +7,5 @@ symbol: Sunder
 decimals: 18
 icons:
   - icon.png
-color: "#323232"
+color: "#080808"
 ---

@@ -8,7 +8,7 @@ name: Julien
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3e3734"
+color: "#080808"
 icons:
   - icon.png
 ---

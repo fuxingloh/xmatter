@@ -7,5 +7,5 @@ symbol: CLS
 decimals: 18
 icons:
   - icon.svg
-color: "#0554f4"
+color: "#0858f8"
 ---

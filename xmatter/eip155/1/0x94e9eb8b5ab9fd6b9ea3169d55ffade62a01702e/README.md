@@ -7,5 +7,5 @@ symbol: BREED
 decimals: 18
 icons:
   - icon.png
-color: "#070c0e"
+color: "#080808"
 ---

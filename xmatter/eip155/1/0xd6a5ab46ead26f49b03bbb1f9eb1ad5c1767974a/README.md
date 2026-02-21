@@ -7,5 +7,5 @@ symbol: EMON
 decimals: 18
 icons:
   - icon.png
-color: "#a93504"
+color: "#080808"
 ---

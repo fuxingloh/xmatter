@@ -7,5 +7,5 @@ symbol: DARK
 decimals: 18
 icons:
   - icon.svg
-color: "#fc0544"
+color: "#f80838"
 ---

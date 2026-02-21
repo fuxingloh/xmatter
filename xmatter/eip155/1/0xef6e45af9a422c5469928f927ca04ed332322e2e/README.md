@@ -7,5 +7,5 @@ symbol: acBTC
 decimals: 18
 icons:
   - icon.svg
-color: "#5f6b47"
+color: "#d8d8c8"
 ---

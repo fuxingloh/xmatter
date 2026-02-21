@@ -7,5 +7,5 @@ symbol: renDOGE
 decimals: 8
 icons:
   - icon.svg
-color: "#acacac"
+color: "#a8a8a8"
 ---

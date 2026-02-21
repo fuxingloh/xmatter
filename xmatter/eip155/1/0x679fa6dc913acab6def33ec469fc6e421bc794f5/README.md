@@ -7,5 +7,5 @@ symbol: BRIBE
 decimals: 18
 icons:
   - icon.svg
-color: "#c79fc2"
+color: "#080808"
 ---

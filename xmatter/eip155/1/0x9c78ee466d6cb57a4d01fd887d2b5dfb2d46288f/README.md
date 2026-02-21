@@ -7,5 +7,5 @@ symbol: MUST
 decimals: 18
 icons:
   - icon.png
-color: "#edefee"
+color: "#080808"
 ---

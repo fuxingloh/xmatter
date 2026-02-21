@@ -7,5 +7,5 @@ symbol: MAI
 decimals: 18
 icons:
   - icon.png
-color: "#f1c5c5"
+color: "#d83838"
 ---

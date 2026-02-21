@@ -7,5 +7,5 @@ symbol: SONG
 decimals: 18
 icons:
   - icon.svg
-color: "#fa6796"
+color: "#080808"
 ---

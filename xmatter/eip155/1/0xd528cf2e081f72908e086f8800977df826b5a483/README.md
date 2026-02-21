@@ -7,5 +7,5 @@ symbol: PBX
 decimals: 18
 icons:
   - icon.png
-color: "#ccd6fa"
+color: "#f8f8f8"
 ---

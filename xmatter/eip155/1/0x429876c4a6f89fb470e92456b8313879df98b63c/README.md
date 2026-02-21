@@ -7,5 +7,5 @@ symbol: CNT
 decimals: 18
 icons:
   - icon.png
-color: "#435ef0"
+color: "#3868e8"
 ---

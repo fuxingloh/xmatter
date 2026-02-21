@@ -7,5 +7,5 @@ symbol: UNITY
 decimals: 18
 icons:
   - icon.png
-color: "#ffcd12"
+color: "#080808"
 ---

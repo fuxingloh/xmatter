@@ -7,5 +7,5 @@ symbol: KAP
 decimals: 18
 icons:
   - icon.png
-color: "#a48b5b"
+color: "#282828"
 ---

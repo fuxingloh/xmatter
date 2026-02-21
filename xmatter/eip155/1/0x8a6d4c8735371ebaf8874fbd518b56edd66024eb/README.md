@@ -8,5 +8,5 @@ decimals: 18
 icons:
   - icon.svg
   - icon.png
-color: "#070506"
+color: "#080808"
 ---

@@ -8,7 +8,7 @@ name: Nestree
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#9af5fa"
+color: "#486878"
 icons:
   - icon.png
 ---

@@ -7,5 +7,5 @@ symbol: PENKY
 decimals: 18
 icons:
   - icon.svg
-color: "#bb117a"
+color: "#080808"
 ---

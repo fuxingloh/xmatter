@@ -16,7 +16,7 @@ name: PARSIQ
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#045ac0"
+color: "#0858c8"
 icons:
   - icon.svg
   - icon.png

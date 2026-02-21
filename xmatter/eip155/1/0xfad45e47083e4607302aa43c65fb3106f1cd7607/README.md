@@ -22,7 +22,7 @@ name: Hoge Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#151515"
+color: "#080808"
 icons:
   - icon.svg
   - icon.png

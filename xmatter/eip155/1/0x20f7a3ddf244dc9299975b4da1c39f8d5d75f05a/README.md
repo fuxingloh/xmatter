@@ -12,7 +12,7 @@ name: Sapien Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#853dea"
+color: "#080808"
 icons:
   - icon.svg
   - icon.png

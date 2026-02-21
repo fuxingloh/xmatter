@@ -8,7 +8,7 @@ name: VNDC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e4bb63"
+color: "#080808"
 icons:
   - icon.png
 ---

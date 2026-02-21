@@ -10,7 +10,7 @@ name: Ethix
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#87fa62"
+color: "#080808"
 icons:
   - icon.svg
   - icon.png

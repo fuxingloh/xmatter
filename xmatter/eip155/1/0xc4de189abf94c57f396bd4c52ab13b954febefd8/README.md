@@ -7,5 +7,5 @@ symbol: B20
 decimals: 18
 icons:
   - icon.png
-color: "#1c1e1e"
+color: "#181818"
 ---

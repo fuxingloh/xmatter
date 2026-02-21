@@ -7,5 +7,5 @@ symbol: mUSDC
 decimals: 6
 icons:
   - icon.svg
-color: "#2a68c0"
+color: "#2868c8"
 ---

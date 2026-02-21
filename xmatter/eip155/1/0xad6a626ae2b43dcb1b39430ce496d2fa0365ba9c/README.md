@@ -7,5 +7,5 @@ symbol: DEFI+S
 decimals: 18
 icons:
   - icon.png
-color: "#dcd1f1"
+color: "#f8f8f8"
 ---

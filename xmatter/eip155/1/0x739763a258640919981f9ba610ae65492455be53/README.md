@@ -7,5 +7,5 @@ symbol: NDR
 decimals: 18
 icons:
   - icon.png
-color: "#ede9f5"
+color: "#f8f8f8"
 ---

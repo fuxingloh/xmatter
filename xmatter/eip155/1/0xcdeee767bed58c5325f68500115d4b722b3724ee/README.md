@@ -7,5 +7,5 @@ symbol: CRBN
 decimals: 18
 icons:
   - icon.png
-color: "#5b2bec"
+color: "#5828e8"
 ---

@@ -7,5 +7,5 @@ symbol: XI
 decimals: 18
 icons:
   - icon.png
-color: "#8488f0"
+color: "#080808"
 ---

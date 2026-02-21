@@ -8,7 +8,7 @@ name: XCAD Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b52493"
+color: "#080808"
 icons:
   - icon.png
 ---

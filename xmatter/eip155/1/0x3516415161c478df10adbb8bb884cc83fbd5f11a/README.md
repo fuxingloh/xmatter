@@ -7,5 +7,5 @@ symbol: DEX
 decimals: 18
 icons:
   - icon.svg
-color: "#1057af"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: FOLO
 decimals: 18
 icons:
   - icon.png
-color: "#2c2c2c"
+color: "#080808"
 ---

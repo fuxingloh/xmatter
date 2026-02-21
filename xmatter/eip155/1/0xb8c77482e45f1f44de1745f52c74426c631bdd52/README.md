@@ -8,7 +8,7 @@ name: BNB
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#262736"
+color: "#182838"
 icons:
   - icon.svg
   - icon.png

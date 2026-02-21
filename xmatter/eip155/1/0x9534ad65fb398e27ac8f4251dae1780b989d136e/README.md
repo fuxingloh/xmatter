@@ -7,5 +7,5 @@ symbol: PYR
 decimals: 18
 icons:
   - icon.png
-color: "#f59725"
+color: "#080808"
 ---

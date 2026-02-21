@@ -7,5 +7,5 @@ symbol: ZINU
 decimals: 9
 icons:
   - icon.png
-color: "#e6b966"
+color: "#080808"
 ---

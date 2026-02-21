@@ -7,5 +7,5 @@ symbol: mUNI
 decimals: 18
 icons:
   - icon.svg
-color: "#f20474"
+color: "#080808"
 ---

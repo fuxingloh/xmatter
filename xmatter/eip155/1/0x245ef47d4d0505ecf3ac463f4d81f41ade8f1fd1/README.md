@@ -8,7 +8,7 @@ name: Nuggets
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7c4574"
+color: "#784878"
 icons:
   - icon.svg
   - icon.png

@@ -8,7 +8,7 @@ name: Endor Protocol Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#07748b"
+color: "#080808"
 icons:
   - icon.png
 ---

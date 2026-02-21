@@ -7,5 +7,5 @@ symbol: UMBR
 decimals: 18
 icons:
   - icon.svg
-color: "#eeeeee"
+color: "#f8f8f8"
 ---

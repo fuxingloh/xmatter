@@ -14,7 +14,7 @@ name: PolkaFoundry
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0e0d25"
+color: "#080828"
 icons:
   - icon.svg
   - icon.png

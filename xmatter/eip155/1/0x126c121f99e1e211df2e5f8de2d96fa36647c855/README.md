@@ -7,5 +7,5 @@ symbol: DEGEN
 decimals: 18
 icons:
   - icon.svg
-color: "#1d1d1d"
+color: "#181818"
 ---

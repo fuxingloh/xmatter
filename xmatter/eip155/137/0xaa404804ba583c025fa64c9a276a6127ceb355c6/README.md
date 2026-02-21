@@ -7,5 +7,5 @@ symbol: CPR
 decimals: 2
 icons:
   - icon.jpeg
-color: "#c8af4e"
+color: "#f8f8f8"
 ---

@@ -18,7 +18,7 @@ name: StaFi
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#04c2cc"
+color: "#080808"
 icons:
   - icon.svg
   - icon.png

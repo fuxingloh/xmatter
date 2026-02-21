@@ -10,7 +10,7 @@ name: Flapp
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8d2b2b"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Origin Dollar (OUSD)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2d424a"
+color: "#183838"
 icons:
   - icon.svg
   - icon.png

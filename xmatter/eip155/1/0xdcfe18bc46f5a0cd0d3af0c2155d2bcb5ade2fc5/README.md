@@ -8,7 +8,7 @@ name: Hue
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f41e22"
+color: "#080808"
 icons:
   - icon.png
 ---

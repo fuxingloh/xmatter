@@ -7,5 +7,5 @@ symbol: YUP
 decimals: 18
 icons:
   - icon.png
-color: "#070707"
+color: "#f8f8f8"
 ---

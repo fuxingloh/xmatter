@@ -6,7 +6,7 @@ name: Trips
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d5d8d9"
+color: "#487898"
 icons:
   - icon.png
 ---

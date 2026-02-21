@@ -7,5 +7,5 @@ symbol: DYAD
 decimals: 18
 icons:
   - icon.svg
-color: "#dfdfdf"
+color: "#080808"
 ---

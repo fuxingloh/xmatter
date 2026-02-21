@@ -7,5 +7,5 @@ symbol: SGE
 decimals: 9
 icons:
   - icon.png
-color: "#a7a4b7"
+color: "#080808"
 ---

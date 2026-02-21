@@ -7,5 +7,5 @@ symbol: icETH
 decimals: 18
 icons:
   - icon.png
-color: "#131617"
+color: "#181818"
 ---

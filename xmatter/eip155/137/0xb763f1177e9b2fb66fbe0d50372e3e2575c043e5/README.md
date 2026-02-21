@@ -7,5 +7,5 @@ symbol: KNOT
 decimals: 18
 icons:
   - icon.png
-color: "#246bea"
+color: "#f8f8f8"
 ---

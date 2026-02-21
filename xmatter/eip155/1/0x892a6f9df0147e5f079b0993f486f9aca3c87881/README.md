@@ -7,5 +7,5 @@ symbol: xFUND
 decimals: 9
 icons:
   - icon.png
-color: "#cdcdcd"
+color: "#f8f8f8"
 ---

@@ -10,7 +10,7 @@ name: Gyro Dollar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e3e4ca"
+color: "#282838"
 icons:
   - icon.svg
   - icon.png
