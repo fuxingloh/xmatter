@@ -15,7 +15,7 @@ name: REVOX Governance Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#38b67e"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

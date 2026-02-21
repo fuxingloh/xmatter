@@ -8,7 +8,7 @@ name: IPWT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04acec"
+color: "#08a8e8"
 icons:
   - icon.png
 ---

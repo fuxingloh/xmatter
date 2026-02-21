@@ -8,7 +8,7 @@ name: SuperNova
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fa4404"
+color: "#180808"
 icons:
   - icon.png
 ---

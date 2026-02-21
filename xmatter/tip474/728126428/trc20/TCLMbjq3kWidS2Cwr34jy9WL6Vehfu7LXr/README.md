@@ -12,7 +12,7 @@ symbol: DHRx
 decimals: 18
 icons:
   - icon.png
-color: "#04387c"
+color: "#083888"
 ---
 
 Danaher xStock

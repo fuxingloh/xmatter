@@ -30,7 +30,7 @@ name: Vulkania
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0c0b1c"
+color: "#080818"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Box5
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0b9b9c"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

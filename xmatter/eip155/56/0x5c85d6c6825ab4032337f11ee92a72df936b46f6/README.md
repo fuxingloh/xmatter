@@ -12,7 +12,7 @@ name: mubarak
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8b9b85"
+color: "#b8c8b8"
 icons:
   - icon.png
 ---

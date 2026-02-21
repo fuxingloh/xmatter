@@ -8,7 +8,7 @@ name: Keep4r
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8850f8"
+color: "#080808"
 icons:
   - icon.png
 ---

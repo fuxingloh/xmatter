@@ -14,7 +14,7 @@ name: Marinade
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#708fce"
+color: "#080808"
 icons:
   - icon.png
 ---

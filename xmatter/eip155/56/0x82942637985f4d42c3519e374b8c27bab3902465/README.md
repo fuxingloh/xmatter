@@ -10,7 +10,7 @@ name: MAHABIBI BIN SMARTMAN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#281614"
+color: "#f8a828"
 icons:
   - icon.png
 ---

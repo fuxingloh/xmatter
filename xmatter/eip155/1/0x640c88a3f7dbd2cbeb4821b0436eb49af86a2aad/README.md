@@ -6,7 +6,7 @@ name: PURCOW MILK TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#487090"
+color: "#080808"
 icons:
   - icon.png
 ---

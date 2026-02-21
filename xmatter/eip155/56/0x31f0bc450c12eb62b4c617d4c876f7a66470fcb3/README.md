@@ -16,7 +16,7 @@ name: FREEMOON
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0fe9fa"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

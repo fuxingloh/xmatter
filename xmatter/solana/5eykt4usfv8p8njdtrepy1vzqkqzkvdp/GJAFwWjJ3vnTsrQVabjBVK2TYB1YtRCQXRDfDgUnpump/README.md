@@ -12,7 +12,7 @@ name: The AI Prophecy
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#a578b4"
+color: "#986888"
 icons:
   - icon.png
 ---

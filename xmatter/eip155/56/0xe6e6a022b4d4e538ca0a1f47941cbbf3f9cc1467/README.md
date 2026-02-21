@@ -20,7 +20,7 @@ name: NUTS Gaming
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#da6880"
+color: "#080808"
 icons:
   - icon.png
 ---

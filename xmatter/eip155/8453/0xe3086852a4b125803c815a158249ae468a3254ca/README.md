@@ -11,7 +11,7 @@ name: mfercoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2c5cdc"
+color: "#f8f8f8"
 icons:
   - icon.svg
   - icon.png

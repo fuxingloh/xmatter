@@ -6,7 +6,7 @@ name: Cabo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fbf304"
+color: "#f8f808"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Infinity
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f9fbfb"
+color: "#68c8f8"
 icons:
   - icon.png
 ---

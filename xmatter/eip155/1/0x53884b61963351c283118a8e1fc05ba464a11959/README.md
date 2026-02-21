@@ -8,7 +8,7 @@ name: Monnos Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0404bc"
+color: "#0808b8"
 icons:
   - icon.png
 ---

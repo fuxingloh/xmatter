@@ -6,7 +6,7 @@ name: VTIS Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f45f39"
+color: "#e82828"
 icons:
   - icon.png
 ---

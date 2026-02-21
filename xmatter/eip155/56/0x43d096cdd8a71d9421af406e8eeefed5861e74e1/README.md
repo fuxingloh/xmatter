@@ -8,7 +8,7 @@ name: Compact
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cf3cc7"
+color: "#080818"
 icons:
   - icon.png
 ---

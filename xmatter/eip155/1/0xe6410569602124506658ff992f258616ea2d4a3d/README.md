@@ -16,7 +16,7 @@ name: KatanaToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#db330c"
+color: "#080808"
 icons:
   - icon.png
 ---

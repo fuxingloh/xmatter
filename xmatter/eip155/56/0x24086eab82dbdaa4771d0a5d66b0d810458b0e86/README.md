@@ -16,7 +16,7 @@ name: Pepe AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4b8b2e"
+color: "#489838"
 icons:
   - icon.png
 ---

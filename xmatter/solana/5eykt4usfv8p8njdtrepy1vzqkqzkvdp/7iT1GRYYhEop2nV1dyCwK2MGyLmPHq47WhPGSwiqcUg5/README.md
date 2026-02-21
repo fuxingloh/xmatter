@@ -12,7 +12,7 @@ name: ANALOS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#17bfc3"
+color: "#080808"
 icons:
   - icon.png
 ---

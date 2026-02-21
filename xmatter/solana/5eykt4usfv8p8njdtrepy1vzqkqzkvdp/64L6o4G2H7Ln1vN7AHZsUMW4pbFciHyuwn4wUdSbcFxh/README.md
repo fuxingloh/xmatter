@@ -10,7 +10,7 @@ name: Keep Network (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#110f0c"
+color: "#080808"
 icons:
   - icon.png
 ---

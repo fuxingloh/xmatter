@@ -16,7 +16,7 @@ name: Endless Board Game
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#540c0c"
+color: "#580808"
 icons:
   - icon.png
 ---

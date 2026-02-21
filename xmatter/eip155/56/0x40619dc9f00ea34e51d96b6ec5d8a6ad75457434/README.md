@@ -26,7 +26,7 @@ name: 1Doge
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ebbe43"
+color: "#080808"
 icons:
   - icon.png
 ---

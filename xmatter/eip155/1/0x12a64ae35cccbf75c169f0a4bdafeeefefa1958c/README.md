@@ -8,7 +8,7 @@ name: Planetagro-Exchange
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eef1f0"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

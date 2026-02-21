@@ -10,7 +10,7 @@ name: Wrapped BNB
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fbecc6"
+color: "#e8b808"
 icons:
   - icon.png
 ---

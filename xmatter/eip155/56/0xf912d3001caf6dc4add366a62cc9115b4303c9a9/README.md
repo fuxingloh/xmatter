@@ -16,7 +16,7 @@ name: Venus DOGE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1c242d"
+color: "#181828"
 icons:
   - icon.png
 ---

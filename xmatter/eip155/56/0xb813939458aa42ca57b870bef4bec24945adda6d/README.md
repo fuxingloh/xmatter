@@ -8,7 +8,7 @@ name: MONKI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f97406"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

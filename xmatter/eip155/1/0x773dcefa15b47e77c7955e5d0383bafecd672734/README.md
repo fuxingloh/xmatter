@@ -6,7 +6,7 @@ name: SignalCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#99948d"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -20,7 +20,7 @@ symbol: WETH
 decimals: 18
 icons:
   - icon.png
-color: "#f4a6cd"
+color: "#e81878"
 ---
 
 Wrapped Ether on MegaETH

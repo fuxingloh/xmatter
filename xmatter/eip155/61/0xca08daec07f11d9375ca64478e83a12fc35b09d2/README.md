@@ -8,5 +8,5 @@ symbol: XMRT
 decimals: 8
 icons:
   - icon.png
-color: "#2c9c14"
+color: "#289818"
 ---

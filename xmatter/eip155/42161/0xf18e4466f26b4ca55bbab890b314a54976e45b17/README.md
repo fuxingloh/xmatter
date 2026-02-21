@@ -14,7 +14,7 @@ name: Game7
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc2c2c"
+color: "#f82828"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Nutcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f19b72"
+color: "#080808"
 icons:
   - icon.png
 ---

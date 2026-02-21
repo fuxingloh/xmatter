@@ -8,7 +8,7 @@ name: No BS Crypto
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c3252c"
+color: "#c82828"
 icons:
   - icon.png
 ---

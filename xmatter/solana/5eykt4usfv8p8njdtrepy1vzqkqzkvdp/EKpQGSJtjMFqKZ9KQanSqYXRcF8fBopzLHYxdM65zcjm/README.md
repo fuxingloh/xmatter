@@ -12,7 +12,7 @@ name: dogwifhat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#a39382"
+color: "#a8a898"
 icons:
   - icon.png
 ---

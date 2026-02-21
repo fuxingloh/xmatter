@@ -6,7 +6,7 @@ name: UrBen
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#079b8d"
+color: "#080808"
 icons:
   - icon.png
 ---

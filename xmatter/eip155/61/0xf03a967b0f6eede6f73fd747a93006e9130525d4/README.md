@@ -8,5 +8,5 @@ symbol: eFork
 decimals: 8
 icons:
   - icon.png
-color: "#276e2a"
+color: "#080808"
 ---

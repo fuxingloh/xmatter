@@ -6,7 +6,7 @@ name: Streamix
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#454343"
+color: "#484848"
 icons:
   - icon.png
 ---

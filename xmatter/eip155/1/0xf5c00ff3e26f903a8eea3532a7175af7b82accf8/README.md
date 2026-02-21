@@ -6,7 +6,7 @@ name: Bit-Bet
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f0e2d0"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

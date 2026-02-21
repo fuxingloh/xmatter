@@ -8,5 +8,5 @@ symbol: XMOON
 decimals: 18
 icons:
   - icon.png
-color: "#090806"
+color: "#080808"
 ---

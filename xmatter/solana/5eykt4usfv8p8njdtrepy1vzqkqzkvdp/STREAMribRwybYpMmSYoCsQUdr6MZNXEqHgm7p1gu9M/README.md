@@ -10,7 +10,7 @@ name: Streamflow
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#1632c8"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

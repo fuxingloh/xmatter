@@ -8,7 +8,7 @@ name: Minereum BSC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#10a3dd"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

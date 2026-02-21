@@ -12,7 +12,7 @@ name: Octokn
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#1c1c3c"
+color: "#181838"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Wrapped XRP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#242c2c"
+color: "#282828"
 icons:
   - icon.png
 ---

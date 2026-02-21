@@ -6,7 +6,7 @@ name: MORPH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2e3d74"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: catwifhat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#3a2921"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

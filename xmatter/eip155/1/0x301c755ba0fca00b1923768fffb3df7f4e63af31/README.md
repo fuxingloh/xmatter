@@ -8,7 +8,7 @@ name: Global Digital Content
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2b2b2b"
+color: "#282828"
 icons:
   - icon.png
 ---

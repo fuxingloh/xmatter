@@ -8,7 +8,7 @@ name: RealToken 16200 Fullerton Ave Detroit MI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d6c5a1"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

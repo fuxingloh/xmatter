@@ -12,7 +12,7 @@ name: Baby Troll
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#25e81d"
+color: "#28e818"
 icons:
   - icon.png
 ---

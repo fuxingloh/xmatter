@@ -8,7 +8,7 @@ name: CLP Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dbddde"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -20,7 +20,7 @@ name: Mento South African Rand
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#550ec3"
+color: "#5808c8"
 icons:
   - icon.svg
   - icon.png

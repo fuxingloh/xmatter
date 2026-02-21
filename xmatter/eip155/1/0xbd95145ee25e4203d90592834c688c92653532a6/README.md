@@ -6,7 +6,7 @@ name: UPO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#293154"
+color: "#080808"
 icons:
   - icon.png
 ---

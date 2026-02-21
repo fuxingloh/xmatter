@@ -16,7 +16,7 @@ name: MAGIC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dc2424"
+color: "#d82828"
 icons:
   - icon.png
 ---

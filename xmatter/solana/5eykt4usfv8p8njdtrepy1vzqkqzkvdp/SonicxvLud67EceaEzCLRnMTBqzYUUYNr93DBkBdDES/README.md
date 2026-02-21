@@ -12,7 +12,7 @@ name: Sonic SVM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f5c98e"
+color: "#0808f8"
 icons:
   - icon.png
 ---

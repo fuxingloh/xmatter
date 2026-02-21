@@ -18,7 +18,7 @@ name: ElmoERC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#db0d23"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

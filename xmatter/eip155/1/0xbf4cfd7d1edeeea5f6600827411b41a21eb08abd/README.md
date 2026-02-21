@@ -6,7 +6,7 @@ name: CryptoLah
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#882e83"
+color: "#080808"
 icons:
   - icon.png
 ---

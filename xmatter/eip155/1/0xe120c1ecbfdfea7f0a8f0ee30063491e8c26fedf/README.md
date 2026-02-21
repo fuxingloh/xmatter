@@ -8,7 +8,7 @@ name: Suretly
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e6e7f1"
+color: "#382898"
 icons:
   - icon.png
 ---

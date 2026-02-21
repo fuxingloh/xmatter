@@ -22,7 +22,7 @@ standards:
   - erc20
 icons:
   - icon.png
-color: "#2498fb"
+color: "#38a8f8"
 ---
 
 PXP is a native utility token of the PointPay ecosystem. It lies at the heart of our platform, acting as a means of exchange.

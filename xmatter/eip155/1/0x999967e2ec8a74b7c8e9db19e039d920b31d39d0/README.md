@@ -8,7 +8,7 @@ name: TieToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e4342c"
+color: "#080808"
 icons:
   - icon.png
 ---

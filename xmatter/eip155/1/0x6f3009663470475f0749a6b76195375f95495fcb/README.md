@@ -12,7 +12,7 @@ name: HATCH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#06060c"
+color: "#080808"
 icons:
   - icon.png
 ---

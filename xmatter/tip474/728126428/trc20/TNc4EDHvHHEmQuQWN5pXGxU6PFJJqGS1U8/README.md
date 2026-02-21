@@ -12,7 +12,7 @@ symbol: MDTx
 decimals: 18
 icons:
   - icon.png
-color: "#2464c3"
+color: "#2868c8"
 ---
 
 Medtronic xStock

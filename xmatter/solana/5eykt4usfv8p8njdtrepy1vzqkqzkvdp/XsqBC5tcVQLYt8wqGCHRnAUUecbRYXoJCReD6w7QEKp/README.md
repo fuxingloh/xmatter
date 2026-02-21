@@ -14,7 +14,7 @@ name: TBLL tokenized ETF (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#040cd4"
+color: "#0808d8"
 icons:
   - icon.png
 ---

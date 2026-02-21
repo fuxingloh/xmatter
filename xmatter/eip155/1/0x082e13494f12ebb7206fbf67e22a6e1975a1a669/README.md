@@ -8,7 +8,7 @@ name: ArtisTurba
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fbb94b"
+color: "#080808"
 icons:
   - icon.png
 ---

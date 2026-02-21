@@ -12,7 +12,7 @@ name: Alice
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#141b39"
+color: "#080818"
 icons:
   - icon.png
 ---

@@ -20,7 +20,7 @@ name: Green Satoshi Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#c1c1c1"
+color: "#c8c8c8"
 icons:
   - icon.png
 ---

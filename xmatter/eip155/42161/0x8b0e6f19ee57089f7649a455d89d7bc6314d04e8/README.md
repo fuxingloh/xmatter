@@ -12,7 +12,7 @@ name: DMT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#364c40"
+color: "#f8d808"
 icons:
   - icon.png
 ---

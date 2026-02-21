@@ -6,7 +6,7 @@ name: CombiCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dbdbdb"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

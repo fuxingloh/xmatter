@@ -12,7 +12,7 @@ name: Ariacoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#8283e8"
+color: "#080808"
 icons:
   - icon.png
 ---

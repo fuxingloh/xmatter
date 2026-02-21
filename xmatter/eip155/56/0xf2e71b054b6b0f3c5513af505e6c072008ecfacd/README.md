@@ -14,7 +14,7 @@ name: Brixel War
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#187cd8"
+color: "#0898e8"
 icons:
   - icon.png
 ---

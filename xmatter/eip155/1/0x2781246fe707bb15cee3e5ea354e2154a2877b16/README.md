@@ -8,7 +8,7 @@ name: ELYSIA
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#347cb4"
+color: "#3878b8"
 icons:
   - icon.svg
   - icon.png

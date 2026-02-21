@@ -6,7 +6,7 @@ name: Multicoin - All in One Cryptocurrency
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0b0b0b"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

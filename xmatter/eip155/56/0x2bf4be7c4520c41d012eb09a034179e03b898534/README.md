@@ -16,7 +16,7 @@ name: ASIX+
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eeb128"
+color: "#f8a818"
 icons:
   - icon.png
 ---

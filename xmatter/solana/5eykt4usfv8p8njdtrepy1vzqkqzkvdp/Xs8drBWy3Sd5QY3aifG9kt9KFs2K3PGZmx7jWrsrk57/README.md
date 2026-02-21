@@ -14,7 +14,7 @@ name: Thermo Fisher tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#ec4333"
+color: "#e84838"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: MargiX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e55628"
+color: "#486878"
 icons:
   - icon.png
 ---

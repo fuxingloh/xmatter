@@ -12,7 +12,7 @@ name: Luna by Virtuals
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#34314a"
+color: "#182838"
 icons:
   - icon.png
 ---

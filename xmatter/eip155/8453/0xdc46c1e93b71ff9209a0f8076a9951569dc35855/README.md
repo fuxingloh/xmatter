@@ -10,7 +10,7 @@ name: MYSTCL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dabd43"
+color: "#f8c848"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: Defi Gamble
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e5e5e5"
+color: "#080808"
 icons:
   - icon.png
 ---

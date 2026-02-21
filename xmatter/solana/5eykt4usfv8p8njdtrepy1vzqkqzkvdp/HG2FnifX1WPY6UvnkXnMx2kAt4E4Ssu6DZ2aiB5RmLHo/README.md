@@ -18,7 +18,7 @@ name: ISLAMICOIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#896740"
+color: "#080808"
 icons:
   - icon.png
 ---

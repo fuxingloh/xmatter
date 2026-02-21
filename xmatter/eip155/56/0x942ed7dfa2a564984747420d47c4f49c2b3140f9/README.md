@@ -8,7 +8,7 @@ name: Dollar Future
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6e77b8"
+color: "#6878b8"
 icons:
   - icon.png
 ---

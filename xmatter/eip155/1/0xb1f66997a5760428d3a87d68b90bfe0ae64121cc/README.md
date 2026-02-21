@@ -8,7 +8,7 @@ name: LuaToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8b840"
+color: "#f8b848"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: HalfLife
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f7f5f0"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

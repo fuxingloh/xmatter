@@ -6,7 +6,7 @@ name: The Big Bang
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0e0809"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

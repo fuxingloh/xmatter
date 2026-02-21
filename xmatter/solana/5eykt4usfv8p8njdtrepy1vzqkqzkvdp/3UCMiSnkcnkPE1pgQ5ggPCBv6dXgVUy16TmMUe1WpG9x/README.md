@@ -10,7 +10,7 @@ name: Aleph.im (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#0454fb"
+color: "#0858f8"
 icons:
   - icon.png
 ---

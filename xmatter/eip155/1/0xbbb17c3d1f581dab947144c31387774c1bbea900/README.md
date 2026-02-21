@@ -6,7 +6,7 @@ name: EQR TEST mg25000
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1c7d64"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

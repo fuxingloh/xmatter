@@ -6,7 +6,7 @@ name: Bionic
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#9dd0cb"
+color: "#080808"
 icons:
   - icon.png
 ---

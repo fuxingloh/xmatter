@@ -6,7 +6,7 @@ name: Hybrid Block
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6aa3d1"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

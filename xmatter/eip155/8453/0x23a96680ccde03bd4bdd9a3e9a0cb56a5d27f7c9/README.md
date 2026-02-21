@@ -14,7 +14,7 @@ name: henlo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7f91ac"
+color: "#6898f8"
 icons:
   - icon.svg
   - icon.png

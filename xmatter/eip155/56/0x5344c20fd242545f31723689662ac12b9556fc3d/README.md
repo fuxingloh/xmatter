@@ -16,7 +16,7 @@ name: Wakanda Inu Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f6c766"
+color: "#080808"
 icons:
   - icon.png
 ---

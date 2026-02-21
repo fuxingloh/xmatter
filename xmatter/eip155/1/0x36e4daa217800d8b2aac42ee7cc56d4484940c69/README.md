@@ -6,7 +6,7 @@ name: AntariX Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#22ccca"
+color: "#080808"
 icons:
   - icon.png
 ---

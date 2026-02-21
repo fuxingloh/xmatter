@@ -8,7 +8,7 @@ name: RealToken 5942 Audubon Road Detroit MI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d6c5a1"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

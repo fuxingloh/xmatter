@@ -6,7 +6,7 @@ name: QR Rial
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f5831b"
+color: "#f88818"
 icons:
   - icon.png
 ---

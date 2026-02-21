@@ -8,7 +8,7 @@ name: DAC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04a4e3"
+color: "#08a8e8"
 icons:
   - icon.png
 ---

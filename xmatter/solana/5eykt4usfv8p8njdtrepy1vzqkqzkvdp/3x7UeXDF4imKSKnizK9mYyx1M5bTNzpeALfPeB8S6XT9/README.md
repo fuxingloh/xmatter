@@ -8,7 +8,7 @@ name: SKEM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#ef5071"
+color: "#281858"
 icons:
   - icon.png
 ---

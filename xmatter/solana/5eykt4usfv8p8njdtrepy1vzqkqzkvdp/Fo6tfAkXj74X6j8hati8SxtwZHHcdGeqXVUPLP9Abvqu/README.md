@@ -16,7 +16,7 @@ name: Wally The Whale
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#fbbb04"
+color: "#f8b808"
 icons:
   - icon.png
 ---

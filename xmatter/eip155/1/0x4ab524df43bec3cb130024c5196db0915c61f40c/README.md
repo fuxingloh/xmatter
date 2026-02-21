@@ -6,7 +6,7 @@ name: POP Missions M
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#83045b"
+color: "#880858"
 icons:
   - icon.png
 ---

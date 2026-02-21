@@ -6,7 +6,7 @@ name: coinwhitebook
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4ca061"
+color: "#080808"
 icons:
   - icon.png
 ---

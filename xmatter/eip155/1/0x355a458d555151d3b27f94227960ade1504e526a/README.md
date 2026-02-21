@@ -8,7 +8,7 @@ name: StockChain Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#051423"
+color: "#081828"
 icons:
   - icon.png
 ---

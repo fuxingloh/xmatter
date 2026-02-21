@@ -8,7 +8,7 @@ name: Brazil Technology
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f3d444"
+color: "#283848"
 icons:
   - icon.png
 ---

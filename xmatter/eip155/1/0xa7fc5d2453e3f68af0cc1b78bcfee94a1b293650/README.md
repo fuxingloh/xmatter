@@ -8,7 +8,7 @@ name: Spiking
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0962e1"
+color: "#0868e8"
 icons:
   - icon.png
 ---

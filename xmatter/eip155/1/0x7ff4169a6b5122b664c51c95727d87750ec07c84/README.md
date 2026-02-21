@@ -8,7 +8,7 @@ name: Tenset
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#392c40"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

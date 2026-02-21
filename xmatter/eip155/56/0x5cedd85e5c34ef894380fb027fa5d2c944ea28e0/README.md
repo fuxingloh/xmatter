@@ -18,7 +18,7 @@ name: MiniFlokiShiba
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f6bc7a"
+color: "#080808"
 icons:
   - icon.png
 ---

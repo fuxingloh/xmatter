@@ -8,5 +8,5 @@ symbol: AFRI
 decimals: 18
 icons:
   - icon.png
-color: "#8cc5fa"
+color: "#080808"
 ---

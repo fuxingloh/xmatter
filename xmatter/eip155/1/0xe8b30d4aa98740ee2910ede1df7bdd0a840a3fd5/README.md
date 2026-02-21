@@ -6,7 +6,7 @@ name: Tea Coffee Water Snacks
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d4bc6d"
+color: "#080808"
 icons:
   - icon.png
 ---

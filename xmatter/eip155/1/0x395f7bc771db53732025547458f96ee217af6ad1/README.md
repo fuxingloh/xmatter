@@ -8,7 +8,7 @@ name: ieo services
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1d1b14"
+color: "#080808"
 icons:
   - icon.png
 ---

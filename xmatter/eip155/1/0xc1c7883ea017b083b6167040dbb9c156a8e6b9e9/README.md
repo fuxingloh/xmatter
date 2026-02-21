@@ -8,7 +8,7 @@ name: ArmBlockchainBank
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cfad4c"
+color: "#080808"
 icons:
   - icon.png
 ---

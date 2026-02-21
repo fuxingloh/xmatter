@@ -16,7 +16,7 @@ name: CHAD CAT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#fac72e"
+color: "#f8c828"
 icons:
   - icon.png
 ---

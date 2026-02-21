@@ -8,7 +8,7 @@ name: Tweebaa
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2391c8"
+color: "#486878"
 icons:
   - icon.png
 ---

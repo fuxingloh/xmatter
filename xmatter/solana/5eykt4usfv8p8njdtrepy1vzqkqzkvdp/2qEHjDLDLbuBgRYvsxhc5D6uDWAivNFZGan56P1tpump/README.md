@@ -12,7 +12,7 @@ name: Peanut the Squirrel
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#dbcaba"
+color: "#c8d8e8"
 icons:
   - icon.png
 ---

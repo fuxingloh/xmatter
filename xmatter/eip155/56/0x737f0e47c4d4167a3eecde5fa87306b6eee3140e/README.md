@@ -8,7 +8,7 @@ name: KimJongMoon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f08d6b"
+color: "#182838"
 icons:
   - icon.png
 ---

@@ -18,7 +18,7 @@ name: saffron.finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c44434"
+color: "#c84838"
 icons:
   - icon.png
 ---

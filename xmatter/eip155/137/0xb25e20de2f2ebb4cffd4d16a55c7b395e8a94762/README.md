@@ -16,7 +16,7 @@ name: Request
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04241c"
+color: "#082818"
 icons:
   - icon.png
 ---

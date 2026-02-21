@@ -12,7 +12,7 @@ name: Baby Ripple
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#799a9a"
+color: "#281818"
 icons:
   - icon.png
 ---

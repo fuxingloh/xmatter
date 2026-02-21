@@ -8,7 +8,7 @@ name: OpenBiSea
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#131313"
+color: "#181818"
 icons:
   - icon.png
 ---

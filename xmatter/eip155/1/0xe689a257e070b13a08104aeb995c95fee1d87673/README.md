@@ -6,7 +6,7 @@ name: DarexTravel
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04ece4"
+color: "#08e8e8"
 icons:
   - icon.png
 ---

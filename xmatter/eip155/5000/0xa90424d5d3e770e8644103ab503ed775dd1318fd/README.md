@@ -13,7 +13,7 @@ symbol: PGx
 decimals: 18
 icons:
   - icon.png
-color: "#1c6cbb"
+color: "#1868b8"
 ---
 
 Procter & Gamble xStock

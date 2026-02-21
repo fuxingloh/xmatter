@@ -10,7 +10,7 @@ name: GT Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2d2976"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

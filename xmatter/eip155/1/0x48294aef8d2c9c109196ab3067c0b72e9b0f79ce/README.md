@@ -6,7 +6,7 @@ name: BEE TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fbcc0b"
+color: "#f8c808"
 icons:
   - icon.png
 ---

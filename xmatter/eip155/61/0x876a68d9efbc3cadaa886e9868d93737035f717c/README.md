@@ -8,5 +8,5 @@ symbol: WIIG
 decimals: 8
 icons:
   - icon.png
-color: "#ea6e29"
+color: "#080808"
 ---

@@ -23,7 +23,7 @@ name: Diversified Staked ETH Index
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#404b4a"
+color: "#384848"
 icons:
   - icon.png
 ---

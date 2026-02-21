@@ -16,7 +16,7 @@ standards:
   - erc20
 icons:
   - icon.png
-color: "#0f1d26"
+color: "#080808"
 ---
 
 Little Angry Bunny V2 is committed to provide a decentralized transaction network under Binance Smart Chain (BEP-20) with a maximum circulating supply of 10 septillion. There is no main owner of the LAB token. It is purely Community driven Token.

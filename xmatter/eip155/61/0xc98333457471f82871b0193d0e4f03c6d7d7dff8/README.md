@@ -8,5 +8,5 @@ symbol: ARKG1
 decimals: 0
 icons:
   - icon.png
-color: "#302c2a"
+color: "#080808"
 ---

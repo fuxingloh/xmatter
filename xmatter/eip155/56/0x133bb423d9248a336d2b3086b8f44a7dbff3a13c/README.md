@@ -14,7 +14,7 @@ name: SIL Finance Token V2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080804"
+color: "#f8f808"
 icons:
   - icon.png
 ---

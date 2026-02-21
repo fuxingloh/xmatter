@@ -6,7 +6,7 @@ name: Future Plan Crypto Currency
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eaa549"
+color: "#080808"
 icons:
   - icon.png
 ---

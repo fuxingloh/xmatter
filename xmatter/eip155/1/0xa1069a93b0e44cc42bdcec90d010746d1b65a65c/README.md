@@ -10,7 +10,7 @@ name: BCDC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a074d7"
+color: "#a878d8"
 icons:
   - icon.png
 ---

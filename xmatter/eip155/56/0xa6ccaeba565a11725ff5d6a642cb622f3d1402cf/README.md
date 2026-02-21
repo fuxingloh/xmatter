@@ -8,7 +8,7 @@ name: CryptoMoonSwap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fcb40c"
+color: "#080808"
 icons:
   - icon.png
 ---

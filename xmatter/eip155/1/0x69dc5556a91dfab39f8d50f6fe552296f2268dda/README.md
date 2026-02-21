@@ -8,7 +8,7 @@ name: Wonder
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#438bfb"
+color: "#4888f8"
 icons:
   - icon.png
 ---

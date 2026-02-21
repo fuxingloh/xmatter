@@ -8,5 +8,5 @@ symbol: MDX
 decimals: 18
 icons:
   - icon.png
-color: "#9f599f"
+color: "#080808"
 ---

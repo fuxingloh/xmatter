@@ -14,7 +14,7 @@ symbol: MATIC
 decimals: 18
 icons:
   - icon.png
-color: "#2b87f6"
+color: "#f8f8f8"
 ---
 
 Matic Network is a layer-2 scaling solution that uses sidechains for off-chain computation while ensuring asset security using Plasma framework and a decentralized network of Proof-of-Stake (PoS) vailidators.

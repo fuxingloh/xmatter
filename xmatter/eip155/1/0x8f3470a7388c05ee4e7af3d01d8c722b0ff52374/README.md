@@ -8,7 +8,7 @@ name: Veritaseum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f47c25"
+color: "#f87818"
 icons:
   - icon.svg
   - icon.png

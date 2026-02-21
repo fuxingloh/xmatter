@@ -22,7 +22,7 @@ symbol: UNCX
 decimals: 18
 icons:
   - icon.png
-color: "#c2fbd8"
+color: "#f8f8f8"
 ---
 
 UNCX is the governance token of the UniCrypt platform.

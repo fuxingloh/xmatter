@@ -12,7 +12,7 @@ name: Starknet
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0e0d4c"
+color: "#080848"
 icons:
   - icon.png
 ---

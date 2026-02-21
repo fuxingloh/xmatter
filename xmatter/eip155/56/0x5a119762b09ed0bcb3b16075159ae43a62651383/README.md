@@ -22,7 +22,7 @@ name: Dali
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ec3c4c"
+color: "#e83848"
 icons:
   - icon.png
 ---

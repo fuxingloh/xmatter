@@ -6,7 +6,7 @@ name: FURCOIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#b0984c"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

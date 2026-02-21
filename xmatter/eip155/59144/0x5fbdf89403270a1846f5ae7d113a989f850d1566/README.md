@@ -16,7 +16,7 @@ symbol: FOXY
 decimals: 18
 icons:
   - icon.png
-color: "#f4a355"
+color: "#181818"
 ---
 
 Foxy is a mascot token for the Linea blockchain. Foxy is a culture coin, a meme token for the users of the Linea blockchain to rally behind, and help build a sense of community.

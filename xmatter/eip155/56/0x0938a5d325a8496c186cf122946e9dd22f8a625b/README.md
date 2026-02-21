@@ -16,7 +16,7 @@ name: Digital Files
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#373838"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

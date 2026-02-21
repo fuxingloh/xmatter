@@ -10,7 +10,7 @@ name: PopsicleToken (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#41ceea"
+color: "#38d8f8"
 icons:
   - icon.png
 ---

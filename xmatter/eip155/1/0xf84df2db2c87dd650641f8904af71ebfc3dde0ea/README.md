@@ -8,7 +8,7 @@ name: YouLive Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#db5d3c"
+color: "#d86858"
 icons:
   - icon.png
 ---

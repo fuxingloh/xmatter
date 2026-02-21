@@ -12,7 +12,7 @@ name: Solgun
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#0c0411"
+color: "#080808"
 icons:
   - icon.png
 ---

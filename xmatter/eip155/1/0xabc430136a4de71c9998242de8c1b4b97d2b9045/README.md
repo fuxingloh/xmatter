@@ -8,7 +8,7 @@ name: Veros
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#18b0e0"
+color: "#486878"
 icons:
   - icon.png
 ---

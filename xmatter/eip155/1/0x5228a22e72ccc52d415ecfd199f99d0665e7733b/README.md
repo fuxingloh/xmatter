@@ -18,7 +18,7 @@ name: pTokens BTC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dc6a66"
+color: "#e86868"
 icons:
   - icon.svg
   - icon.png

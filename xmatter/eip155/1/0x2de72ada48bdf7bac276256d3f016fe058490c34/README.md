@@ -8,7 +8,7 @@ name: Floki Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f7e2d5"
+color: "#f8e8c8"
 icons:
   - icon.png
 ---

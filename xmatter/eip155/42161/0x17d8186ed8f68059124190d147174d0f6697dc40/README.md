@@ -14,7 +14,7 @@ name: Merck tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04928b"
+color: "#089898"
 icons:
   - icon.png
 ---

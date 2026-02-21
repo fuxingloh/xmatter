@@ -8,7 +8,7 @@ name: Legal Block Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#32373d"
+color: "#486878"
 icons:
   - icon.png
 ---

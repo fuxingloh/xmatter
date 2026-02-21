@@ -28,7 +28,7 @@ name: Dogs Of Elon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f5d4ac"
+color: "#080808"
 icons:
   - icon.png
 ---

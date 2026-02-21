@@ -18,7 +18,7 @@ symbol: TAB
 decimals: 18
 icons:
   - icon.png
-color: "#aa7839"
+color: "#080808"
 ---
 
 crypto ecosystem that include: e-commerce, social networks, exchanges and crypto wallet, gaming

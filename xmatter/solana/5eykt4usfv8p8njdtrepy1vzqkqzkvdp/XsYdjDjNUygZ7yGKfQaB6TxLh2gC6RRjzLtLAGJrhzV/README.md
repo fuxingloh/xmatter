@@ -15,7 +15,7 @@ name: Procter & Gamble tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#1b6cbc"
+color: "#1868b8"
 icons:
   - icon.png
 ---

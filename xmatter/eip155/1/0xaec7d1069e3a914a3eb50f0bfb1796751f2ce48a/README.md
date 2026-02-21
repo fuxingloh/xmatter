@@ -8,7 +8,7 @@ name: S4FE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e4b323"
+color: "#e8a828"
 icons:
   - icon.png
 ---

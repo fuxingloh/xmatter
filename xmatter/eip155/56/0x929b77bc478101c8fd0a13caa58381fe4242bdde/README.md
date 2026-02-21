@@ -8,7 +8,7 @@ name: Spacelon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e3a6ab"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

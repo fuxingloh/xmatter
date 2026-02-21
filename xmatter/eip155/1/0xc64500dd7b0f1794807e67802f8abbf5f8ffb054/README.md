@@ -8,7 +8,7 @@ name: Locus Chain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e5f0f3"
+color: "#080808"
 icons:
   - icon.png
 ---

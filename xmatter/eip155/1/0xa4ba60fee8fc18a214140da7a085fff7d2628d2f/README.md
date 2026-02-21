@@ -6,7 +6,7 @@ name: Electronic Sports Alliance ESA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4fc5e7"
+color: "#485888"
 icons:
   - icon.png
 ---

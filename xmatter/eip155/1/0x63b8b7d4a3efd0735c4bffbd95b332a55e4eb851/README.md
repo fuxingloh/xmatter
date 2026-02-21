@@ -8,7 +8,7 @@ name: DigiCol Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#042bf4"
+color: "#0828f8"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ name: Bafe.io
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fae605"
+color: "#f8e808"
 icons:
   - icon.png
 ---

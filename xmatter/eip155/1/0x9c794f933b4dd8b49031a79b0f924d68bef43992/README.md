@@ -8,7 +8,7 @@ name: XTRD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5288cc"
+color: "#080808"
 icons:
   - icon.png
 ---

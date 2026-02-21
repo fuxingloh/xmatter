@@ -6,7 +6,7 @@ name: Piara
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d75f3f"
+color: "#e85838"
 icons:
   - icon.png
 ---

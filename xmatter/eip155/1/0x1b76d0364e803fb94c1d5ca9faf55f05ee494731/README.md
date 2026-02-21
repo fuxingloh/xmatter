@@ -6,7 +6,7 @@ name: Uniswap Community Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8e2d0"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

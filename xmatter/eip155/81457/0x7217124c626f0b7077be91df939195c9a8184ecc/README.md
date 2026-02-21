@@ -14,7 +14,7 @@ symbol: FINGER
 decimals: 18
 icons:
   - icon.png
-color: "#e4e42c"
+color: "#080808"
 ---
 
 Bring back the art of fingering. 0 utility just memes.

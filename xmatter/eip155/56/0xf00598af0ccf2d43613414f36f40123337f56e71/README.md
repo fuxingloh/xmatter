@@ -8,7 +8,7 @@ name: Ants.Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1d1c1b"
+color: "#080808"
 icons:
   - icon.png
 ---

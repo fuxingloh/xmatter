@@ -8,7 +8,7 @@ name: Aave USDT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#53aa9c"
+color: "#58a898"
 icons:
   - icon.svg
   - icon.png

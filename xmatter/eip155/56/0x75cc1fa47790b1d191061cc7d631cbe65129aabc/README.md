@@ -8,7 +8,7 @@ name: Doge DeFi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dc1c1c"
+color: "#d81818"
 icons:
   - icon.png
 ---

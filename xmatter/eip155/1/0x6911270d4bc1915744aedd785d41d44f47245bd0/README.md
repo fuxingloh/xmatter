@@ -8,7 +8,7 @@ name: QPay
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0b389c"
+color: "#080808"
 icons:
   - icon.png
 ---

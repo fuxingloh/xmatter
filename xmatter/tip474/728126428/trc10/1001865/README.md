@@ -6,7 +6,7 @@ name: GlobalRiceToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#478f1c"
+color: "#489818"
 icons:
   - icon.png
 ---

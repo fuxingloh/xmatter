@@ -12,7 +12,7 @@ name: XMPT Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#13a3db"
+color: "#18a8d8"
 icons:
   - icon.png
 ---

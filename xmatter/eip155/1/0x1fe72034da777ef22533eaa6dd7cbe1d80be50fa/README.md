@@ -8,7 +8,7 @@ name: PayAccept
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0483cb"
+color: "#0888c8"
 icons:
   - icon.png
 ---

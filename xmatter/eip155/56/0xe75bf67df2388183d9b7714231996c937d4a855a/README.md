@@ -18,7 +18,7 @@ name: Aeterna
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1b1237"
+color: "#181838"
 icons:
   - icon.png
 ---

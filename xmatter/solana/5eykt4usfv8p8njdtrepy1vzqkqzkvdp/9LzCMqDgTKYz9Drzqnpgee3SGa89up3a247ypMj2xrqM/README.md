@@ -10,7 +10,7 @@ name: Audius (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#7d1dc1"
+color: "#d808d8"
 icons:
   - icon.png
 ---

@@ -18,7 +18,7 @@ name: HyperBurn
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4bcae5"
+color: "#48c8e8"
 icons:
   - icon.png
 ---

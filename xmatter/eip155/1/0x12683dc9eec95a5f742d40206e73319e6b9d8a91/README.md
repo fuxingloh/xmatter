@@ -8,7 +8,7 @@ name: FAB Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#753c95"
+color: "#486878"
 icons:
   - icon.png
 ---

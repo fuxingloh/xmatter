@@ -8,7 +8,7 @@ name: Shield Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#9d6c33"
+color: "#080808"
 icons:
   - icon.png
 ---

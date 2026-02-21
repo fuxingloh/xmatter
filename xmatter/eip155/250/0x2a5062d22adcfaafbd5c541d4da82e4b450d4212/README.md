@@ -14,7 +14,7 @@ symbol: KP3R
 decimals: 18
 icons:
   - icon.png
-color: "#040404"
+color: "#080808"
 ---
 
 Keep3rV1 is a decentralized job-matching platform for connecting external DevOps with projects that need help for completing various tasks.

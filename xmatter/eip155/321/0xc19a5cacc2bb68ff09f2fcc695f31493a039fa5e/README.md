@@ -16,7 +16,7 @@ symbol: MANA
 decimals: 18
 icons:
   - icon.png
-color: "#fb334e"
+color: "#080808"
 ---
 
 Decentraland is a virtual reality platform powered by the Ethereum blockchain. Users can create, experience, and monetize content and applications

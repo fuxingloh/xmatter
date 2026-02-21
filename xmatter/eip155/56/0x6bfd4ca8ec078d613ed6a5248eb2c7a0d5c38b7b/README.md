@@ -15,7 +15,7 @@ name: Ecochaintoken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4c4c4c"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Jito Staked SOL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#d3e1dd"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: ANARCHY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#242424"
+color: "#282828"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Qurix
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#158f8a"
+color: "#080808"
 icons:
   - icon.png
 ---

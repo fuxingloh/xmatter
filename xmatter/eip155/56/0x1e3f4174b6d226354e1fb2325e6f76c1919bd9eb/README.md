@@ -10,7 +10,7 @@ standards:
   - erc20
 icons:
   - icon.png
-color: "#c7cec4"
+color: "#080808"
 ---
 
 SpaceVikings is a Danish DeFi Crypto project with real life use cases

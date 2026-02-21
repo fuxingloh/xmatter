@@ -12,7 +12,7 @@ symbol: PMx
 decimals: 18
 icons:
   - icon.png
-color: "#4ca3db"
+color: "#4898d8"
 ---
 
 Philip Morris xStock

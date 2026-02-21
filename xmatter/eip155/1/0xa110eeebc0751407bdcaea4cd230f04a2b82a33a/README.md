@@ -8,7 +8,7 @@ name: GoWithMi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5b5b5b"
+color: "#486878"
 icons:
   - icon.png
 ---

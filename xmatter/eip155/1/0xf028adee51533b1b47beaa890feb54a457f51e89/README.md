@@ -8,7 +8,7 @@ name: BMChain Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b7b7b7"
+color: "#080808"
 icons:
   - icon.png
 ---

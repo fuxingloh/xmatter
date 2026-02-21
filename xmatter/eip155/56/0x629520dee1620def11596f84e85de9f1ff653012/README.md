@@ -14,7 +14,7 @@ name: Wells Fargo (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dc1c24"
+color: "#d81828"
 icons:
   - icon.png
 ---

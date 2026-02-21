@@ -8,7 +8,7 @@ name: RiseCoin Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f17b2e"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

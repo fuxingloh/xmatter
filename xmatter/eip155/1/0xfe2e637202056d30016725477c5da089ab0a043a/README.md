@@ -35,7 +35,7 @@ name: StakeWise sETH2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#60bc65"
+color: "#f8f8f8"
 icons:
   - icon.svg
   - icon.png

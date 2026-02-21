@@ -14,7 +14,7 @@ name: Lista DAO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1e1d8c"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

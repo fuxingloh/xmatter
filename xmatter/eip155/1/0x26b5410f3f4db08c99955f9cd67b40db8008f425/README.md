@@ -6,7 +6,7 @@ name: FishOne
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f7f8f0"
+color: "#083878"
 icons:
   - icon.png
 ---

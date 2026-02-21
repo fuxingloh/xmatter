@@ -8,7 +8,7 @@ name: Swag Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#caf5f2"
+color: "#080808"
 icons:
   - icon.png
 ---

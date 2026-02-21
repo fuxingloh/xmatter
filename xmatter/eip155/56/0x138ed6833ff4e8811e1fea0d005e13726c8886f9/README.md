@@ -14,7 +14,7 @@ name: Snowflake (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2bb4eb"
+color: "#28b8e8"
 icons:
   - icon.png
 ---

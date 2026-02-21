@@ -8,7 +8,7 @@ name: Littlebull
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e3c681"
+color: "#080808"
 icons:
   - icon.png
 ---

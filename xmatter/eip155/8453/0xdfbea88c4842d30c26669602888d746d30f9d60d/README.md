@@ -14,7 +14,7 @@ name: crow with knife
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#777872"
+color: "#686868"
 icons:
   - icon.png
 ---

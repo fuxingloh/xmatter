@@ -32,7 +32,7 @@ name: Renq Finance (RENQ)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b64ea4"
+color: "#080808"
 icons:
   - icon.png
 ---

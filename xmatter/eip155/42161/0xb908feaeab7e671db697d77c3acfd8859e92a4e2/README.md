@@ -15,7 +15,7 @@ name: Wrapped AstraZeneca Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fbac14"
+color: "#f8a818"
 icons:
   - icon.png
 ---

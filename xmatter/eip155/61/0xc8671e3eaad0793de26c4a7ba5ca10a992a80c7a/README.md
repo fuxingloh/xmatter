@@ -8,5 +8,5 @@ symbol: Euro
 decimals: 8
 icons:
   - icon.png
-color: "#ebd90c"
+color: "#f8f8f8"
 ---

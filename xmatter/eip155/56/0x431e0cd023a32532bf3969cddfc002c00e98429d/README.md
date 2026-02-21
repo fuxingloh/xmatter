@@ -10,7 +10,7 @@ symbol: XCAD
 decimals: 18
 icons:
   - icon.png
-color: "#e7e5e5"
+color: "#f8f8f8"
 ---
 
 XCAD network is a tokenisation platform for content creators & their fans. Think CHZ fan tokens but for content creators

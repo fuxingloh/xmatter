@@ -8,7 +8,7 @@ name: USDA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dccca4"
+color: "#d8c8a8"
 icons:
   - icon.png
 ---

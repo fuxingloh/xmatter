@@ -12,7 +12,7 @@ name: Enzyme
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7354fa"
+color: "#6858f8"
 icons:
   - icon.png
 ---

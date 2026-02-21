@@ -12,7 +12,7 @@ name: SPORE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#d8dac7"
+color: "#e8e8d8"
 icons:
   - icon.png
 ---

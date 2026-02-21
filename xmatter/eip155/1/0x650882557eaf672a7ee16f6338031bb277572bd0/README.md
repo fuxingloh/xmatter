@@ -6,7 +6,7 @@ name: Hydra Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#de288b"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

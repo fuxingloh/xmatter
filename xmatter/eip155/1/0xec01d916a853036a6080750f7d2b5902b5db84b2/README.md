@@ -6,7 +6,7 @@ name: Arcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0a0a0a"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Roastmaster9000
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#607941"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ name: Giggle Fund
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#63cafa"
+color: "#58c8f8"
 icons:
   - icon.png
 ---

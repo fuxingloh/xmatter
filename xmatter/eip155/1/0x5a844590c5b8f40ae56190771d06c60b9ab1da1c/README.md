@@ -6,7 +6,7 @@ name: Ross Campbell Legal Engineering
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#29292c"
+color: "#080808"
 icons:
   - icon.png
 ---

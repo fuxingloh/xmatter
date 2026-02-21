@@ -8,7 +8,7 @@ name: Vice
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eb1c05"
+color: "#e81808"
 icons:
   - icon.png
 ---

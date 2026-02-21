@@ -6,7 +6,7 @@ name: TRONREFUNDS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#330e06"
+color: "#180808"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: IAM MDLT C 139-CN26
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#130708"
+color: "#f80808"
 icons:
   - icon.png
 ---

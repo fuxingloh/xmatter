@@ -6,7 +6,7 @@ name: Balancer Pool Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#148cbb"
+color: "#080808"
 icons:
   - icon.png
 ---

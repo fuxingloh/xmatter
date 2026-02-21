@@ -8,7 +8,7 @@ name: Rose Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ac2525"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

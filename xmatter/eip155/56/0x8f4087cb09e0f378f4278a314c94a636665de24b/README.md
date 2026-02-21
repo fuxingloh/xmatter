@@ -16,7 +16,7 @@ name: NAR Ticket Token (GOLD)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e69e33"
+color: "#e8b838"
 icons:
   - icon.png
 ---

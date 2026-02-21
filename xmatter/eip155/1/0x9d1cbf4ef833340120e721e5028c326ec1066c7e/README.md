@@ -6,7 +6,7 @@ name: Double Ether
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc294b"
+color: "#080808"
 icons:
   - icon.png
 ---

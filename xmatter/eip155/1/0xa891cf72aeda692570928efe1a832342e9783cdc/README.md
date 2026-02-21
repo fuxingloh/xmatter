@@ -6,7 +6,7 @@ name: Interfinex Bills
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bcc4d4"
+color: "#b8c8d8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Asac Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bd73e3"
+color: "#080808"
 icons:
   - icon.png
 ---

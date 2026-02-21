@@ -6,7 +6,7 @@ name: LRX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#e50e6f"
+color: "#080808"
 icons:
   - icon.png
 ---

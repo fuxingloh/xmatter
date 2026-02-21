@@ -12,7 +12,7 @@ symbol: AMBRx
 decimals: 18
 icons:
   - icon.png
-color: "#656565"
+color: "#686868"
 ---
 
 Amber xStock

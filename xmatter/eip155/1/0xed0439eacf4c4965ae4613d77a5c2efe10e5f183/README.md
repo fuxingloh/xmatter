@@ -20,7 +20,7 @@ name: Niftyx Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a3fb34"
+color: "#a8f838"
 icons:
   - icon.png
 ---

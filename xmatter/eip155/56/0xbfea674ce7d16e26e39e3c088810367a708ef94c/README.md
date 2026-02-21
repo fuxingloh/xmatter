@@ -8,7 +8,7 @@ name: April Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f05820"
+color: "#486848"
 icons:
   - icon.png
 ---

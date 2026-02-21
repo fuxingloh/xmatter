@@ -8,7 +8,7 @@ name: Trade Token X
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#72ecfa"
+color: "#080808"
 icons:
   - icon.png
 ---

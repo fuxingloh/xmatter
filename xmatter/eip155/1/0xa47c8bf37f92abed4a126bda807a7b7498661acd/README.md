@@ -18,7 +18,7 @@ name: UST Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5493f2"
+color: "#5898f8"
 icons:
   - icon.svg
   - icon.png

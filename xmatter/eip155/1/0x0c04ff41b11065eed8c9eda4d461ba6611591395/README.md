@@ -12,7 +12,7 @@ name: VIVEK
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#829da3"
+color: "#7898a8"
 icons:
   - icon.png
 ---

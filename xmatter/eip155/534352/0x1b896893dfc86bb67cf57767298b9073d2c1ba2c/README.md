@@ -20,7 +20,7 @@ symbol: CAKE
 decimals: 18
 icons:
   - icon.png
-color: "#37d3df"
+color: "#48d8e8"
 ---
 
 PancakeSwap is a yield farming project whereby users can get FLIP (LP token) for staking and get CAKE token as reward.

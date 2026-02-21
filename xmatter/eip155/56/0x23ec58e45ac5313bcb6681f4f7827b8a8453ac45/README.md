@@ -8,7 +8,7 @@ name: Zenfuse
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0464fc"
+color: "#0868f8"
 icons:
   - icon.png
 ---

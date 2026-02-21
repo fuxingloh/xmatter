@@ -8,7 +8,7 @@ name: Speculative Resistance RTC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#db544c"
+color: "#282828"
 icons:
   - icon.png
 ---

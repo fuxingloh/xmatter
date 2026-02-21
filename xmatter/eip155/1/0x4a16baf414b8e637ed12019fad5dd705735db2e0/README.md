@@ -6,7 +6,7 @@ name: QCAD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c6c5c5"
+color: "#181818"
 icons:
   - icon.png
 ---

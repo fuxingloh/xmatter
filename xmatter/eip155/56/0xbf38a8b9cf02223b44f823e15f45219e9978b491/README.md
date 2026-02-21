@@ -16,7 +16,7 @@ name: DIVINER
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04346b"
+color: "#083868"
 icons:
   - icon.png
 ---

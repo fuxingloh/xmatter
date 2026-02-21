@@ -8,5 +8,5 @@ symbol: MTRG
 decimals: 18
 icons:
   - icon.png
-color: "#1d2c5e"
+color: "#080808"
 ---

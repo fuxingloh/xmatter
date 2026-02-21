@@ -12,7 +12,7 @@ symbol: ZAI
 decimals: 18
 icons:
   - icon.png
-color: "#0c1415"
+color: "#08f8f8"
 ---
 
 Zaibot is not just a tool, it's a community-driven platform that keeps you engaged, informed, and ahead in the fast-paced world of cryptocurrency.

@@ -12,7 +12,7 @@ name: Grass
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#acf304"
+color: "#a8f808"
 icons:
   - icon.png
 ---

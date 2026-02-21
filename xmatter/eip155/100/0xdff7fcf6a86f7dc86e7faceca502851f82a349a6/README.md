@@ -22,7 +22,7 @@ symbol: HOGE
 decimals: 9
 icons:
   - icon.png
-color: "#1e1e1e"
+color: "#181818"
 ---
 
 We Meme Business.

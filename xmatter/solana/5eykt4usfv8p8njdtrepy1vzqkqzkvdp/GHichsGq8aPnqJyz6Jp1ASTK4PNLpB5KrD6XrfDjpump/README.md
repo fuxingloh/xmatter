@@ -16,7 +16,7 @@ name: just buy $1 worth of this coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#4d5248"
+color: "#e8e8c8"
 icons:
   - icon.png
 ---

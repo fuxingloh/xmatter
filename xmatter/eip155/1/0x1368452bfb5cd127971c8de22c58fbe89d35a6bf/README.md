@@ -12,7 +12,7 @@ name: JNTR/e
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fab937"
+color: "#080808"
 icons:
   - icon.png
 ---

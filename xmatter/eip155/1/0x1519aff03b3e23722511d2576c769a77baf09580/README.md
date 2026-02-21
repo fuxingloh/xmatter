@@ -8,7 +8,7 @@ name: B91Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#05144b"
+color: "#081848"
 icons:
   - icon.png
 ---

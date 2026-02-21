@@ -18,7 +18,7 @@ name: Hoppy
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#787a3a"
+color: "#888838"
 icons:
   - icon.png
 ---

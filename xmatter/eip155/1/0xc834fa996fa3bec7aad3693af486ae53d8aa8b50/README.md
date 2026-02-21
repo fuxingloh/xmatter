@@ -8,7 +8,7 @@ name: Convergence
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#142c52"
+color: "#182858"
 icons:
   - icon.svg
   - icon.png

@@ -22,7 +22,7 @@ name: Moniwar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4de5cb"
+color: "#080808"
 icons:
   - icon.png
 ---

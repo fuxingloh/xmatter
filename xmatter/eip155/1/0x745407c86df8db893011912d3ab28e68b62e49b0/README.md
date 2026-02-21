@@ -18,7 +18,7 @@ name: MahaDAO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fcccb7"
+color: "#f84808"
 icons:
   - icon.svg
   - icon.png

@@ -8,7 +8,7 @@ name: Wrapped ZCore
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f3bb0c"
+color: "#282838"
 icons:
   - icon.png
 ---

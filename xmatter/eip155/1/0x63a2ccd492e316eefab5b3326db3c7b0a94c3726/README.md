@@ -6,7 +6,7 @@ name: Cercle
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3a060b"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Guide Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04fb1c"
+color: "#08f818"
 icons:
   - icon.png
 ---

@@ -29,7 +29,7 @@ name: ORE Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#043444"
+color: "#083848"
 icons:
   - icon.png
 ---

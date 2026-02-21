@@ -14,7 +14,7 @@ name: Tesla (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f4cdcd"
+color: "#c80808"
 icons:
   - icon.png
 ---

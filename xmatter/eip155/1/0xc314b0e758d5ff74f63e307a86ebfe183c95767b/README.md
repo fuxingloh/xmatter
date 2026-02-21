@@ -16,7 +16,7 @@ name: Adappter Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4169e3"
+color: "#080808"
 icons:
   - icon.png
 ---

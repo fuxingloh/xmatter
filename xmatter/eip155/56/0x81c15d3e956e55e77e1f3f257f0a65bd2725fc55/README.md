@@ -18,7 +18,7 @@ name: Cream Cardano Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e7c49c"
+color: "#080808"
 icons:
   - icon.png
 ---

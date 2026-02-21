@@ -6,7 +6,7 @@ name: ThunderStoneToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f4a41b"
+color: "#f8a818"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Wrapped ZEDXION from ZEDX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#448ced"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

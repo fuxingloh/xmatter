@@ -12,7 +12,7 @@ name: Strategic Bitcoin Reserve
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f1920f"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

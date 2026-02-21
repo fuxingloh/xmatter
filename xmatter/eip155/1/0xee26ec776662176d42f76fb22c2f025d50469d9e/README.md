@@ -6,7 +6,7 @@ name: TOKEN 30S
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d99214"
+color: "#080808"
 icons:
   - icon.png
 ---

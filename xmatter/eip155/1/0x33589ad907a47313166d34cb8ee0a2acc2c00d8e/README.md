@@ -8,7 +8,7 @@ name: Backero
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc4b4c"
+color: "#f88848"
 icons:
   - icon.png
 ---

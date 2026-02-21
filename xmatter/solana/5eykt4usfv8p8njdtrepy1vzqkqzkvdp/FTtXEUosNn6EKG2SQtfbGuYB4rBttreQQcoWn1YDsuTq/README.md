@@ -10,7 +10,7 @@ name: UpBots (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#5ebfc0"
+color: "#486878"
 icons:
   - icon.png
 ---

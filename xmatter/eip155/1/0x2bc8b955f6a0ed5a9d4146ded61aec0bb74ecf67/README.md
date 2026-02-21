@@ -8,7 +8,7 @@ name: Logistics Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d7bc64"
+color: "#080808"
 icons:
   - icon.png
 ---

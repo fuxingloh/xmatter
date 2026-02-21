@@ -36,7 +36,7 @@ standards:
   - erc20
 icons:
   - icon.png
-color: "#1b2d54"
+color: "#089888"
 ---
 
 BDY is the governance token for Buddy DAO a global credit network

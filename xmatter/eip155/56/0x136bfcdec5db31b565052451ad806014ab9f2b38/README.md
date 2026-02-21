@@ -16,7 +16,7 @@ name: CANDYLAD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0f1f2a"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -25,7 +25,7 @@ name: CAKE BANK
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7bc4cd"
+color: "#68c8d8"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ symbol: CRWDx
 decimals: 18
 icons:
   - icon.png
-color: "#eb3c24"
+color: "#e83828"
 ---
 
 CrowdStrike xStock

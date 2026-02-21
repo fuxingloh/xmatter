@@ -6,7 +6,7 @@ name: Bitsavereum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f4bc04"
+color: "#080808"
 icons:
   - icon.png
 ---

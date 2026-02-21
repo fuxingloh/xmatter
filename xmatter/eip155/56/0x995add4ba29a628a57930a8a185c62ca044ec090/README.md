@@ -14,7 +14,7 @@ name: McDonald's (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fbcdd4"
+color: "#d80818"
 icons:
   - icon.png
 ---

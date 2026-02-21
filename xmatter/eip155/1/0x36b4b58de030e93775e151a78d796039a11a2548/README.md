@@ -8,7 +8,7 @@ name: vSport Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6cb434"
+color: "#68a828"
 icons:
   - icon.png
 ---

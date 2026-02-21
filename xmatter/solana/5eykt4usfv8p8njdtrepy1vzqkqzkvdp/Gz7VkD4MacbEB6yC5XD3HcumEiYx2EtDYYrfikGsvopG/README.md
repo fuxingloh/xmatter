@@ -10,7 +10,7 @@ name: MATIC (Portal from Polygon)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#8445e3"
+color: "#8848e8"
 icons:
   - icon.png
 ---

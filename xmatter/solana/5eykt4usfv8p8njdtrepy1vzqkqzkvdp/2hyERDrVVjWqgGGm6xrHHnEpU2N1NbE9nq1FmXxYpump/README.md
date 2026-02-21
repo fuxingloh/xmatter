@@ -12,7 +12,7 @@ name: Percy Verence
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#0d1217"
+color: "#f8c828"
 icons:
   - icon.png
 ---

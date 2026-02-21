@@ -18,7 +18,7 @@ name: Fairmoon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1f3a4a"
+color: "#080808"
 icons:
   - icon.png
 ---

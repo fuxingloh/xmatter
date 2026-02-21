@@ -8,7 +8,7 @@ name: YOOSHI Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#269d2a"
+color: "#080808"
 icons:
   - icon.png
 ---

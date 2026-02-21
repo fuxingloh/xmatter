@@ -6,7 +6,7 @@ name: YUI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1e2159"
+color: "#080808"
 icons:
   - icon.png
 ---

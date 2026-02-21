@@ -14,7 +14,7 @@ name: Marshall Rogan Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#da7456"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

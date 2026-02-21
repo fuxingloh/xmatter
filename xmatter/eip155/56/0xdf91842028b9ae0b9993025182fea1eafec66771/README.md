@@ -8,7 +8,7 @@ name: Tyrannosaurus Rex
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#726c6c"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: Eid Pepe
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ad9c63"
+color: "#b8a868"
 icons:
   - icon.png
 ---

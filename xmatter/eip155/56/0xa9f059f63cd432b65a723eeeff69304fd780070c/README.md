@@ -20,7 +20,7 @@ name: Sanji Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eccf6b"
+color: "#f8e868"
 icons:
   - icon.png
 ---

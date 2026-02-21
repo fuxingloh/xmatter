@@ -15,7 +15,7 @@ name: Apollo Global Management (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dbdbdb"
+color: "#080808"
 icons:
   - icon.png
 ---

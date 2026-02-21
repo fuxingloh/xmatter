@@ -8,7 +8,7 @@ name: Aladdin Bao
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a3cfec"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

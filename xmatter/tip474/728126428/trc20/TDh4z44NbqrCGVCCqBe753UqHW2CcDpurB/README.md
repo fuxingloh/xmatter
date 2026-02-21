@@ -8,7 +8,7 @@ name: CapitalShareToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#6f6f6f"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

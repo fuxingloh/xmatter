@@ -14,7 +14,7 @@ name: Arm Holdings plc (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cdecf4"
+color: "#0898b8"
 icons:
   - icon.png
 ---

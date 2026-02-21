@@ -10,7 +10,7 @@ name: Boolberry
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#de0f05"
+color: "#e80808"
 icons:
   - icon.png
 ---

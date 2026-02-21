@@ -14,7 +14,7 @@ name: Dexigas
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#10a190"
+color: "#08a888"
 icons:
   - icon.png
 ---

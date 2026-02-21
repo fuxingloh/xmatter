@@ -8,7 +8,7 @@ name: UltraSafe
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1e2639"
+color: "#182838"
 icons:
   - icon.png
 ---

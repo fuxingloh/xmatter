@@ -8,5 +8,5 @@ symbol: RMBT
 decimals: 18
 icons:
   - icon.png
-color: "#dd412c"
+color: "#080808"
 ---

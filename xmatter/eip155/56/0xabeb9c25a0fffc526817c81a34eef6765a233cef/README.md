@@ -8,7 +8,7 @@ name: Flame Chain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#161f1f"
+color: "#080808"
 icons:
   - icon.png
 ---

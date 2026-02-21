@@ -8,7 +8,7 @@ name: Vampire Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7a2447"
+color: "#f83858"
 icons:
   - icon.png
 ---

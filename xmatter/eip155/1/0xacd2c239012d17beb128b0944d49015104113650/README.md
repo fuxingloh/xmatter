@@ -12,7 +12,7 @@ name: KarratCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b4a637"
+color: "#080808"
 icons:
   - icon.png
 ---

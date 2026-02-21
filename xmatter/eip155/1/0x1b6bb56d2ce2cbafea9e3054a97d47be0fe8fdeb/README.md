@@ -6,7 +6,7 @@ name: EasyTax
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b4ff00"
+color: "#080808"
 icons:
   - icon.png
 ---

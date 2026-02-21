@@ -6,7 +6,7 @@ name: XITO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0d2f66"
+color: "#080808"
 icons:
   - icon.png
 ---

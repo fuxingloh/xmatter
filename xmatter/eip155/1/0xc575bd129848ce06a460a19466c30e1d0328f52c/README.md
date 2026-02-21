@@ -12,7 +12,7 @@ name: Reploy
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4cfbbc"
+color: "#48f8b8"
 icons:
   - icon.png
 ---

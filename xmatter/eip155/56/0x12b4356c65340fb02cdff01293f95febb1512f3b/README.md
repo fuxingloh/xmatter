@@ -12,7 +12,7 @@ name: Broccoli
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bc9c4d"
+color: "#a89888"
 icons:
   - icon.png
 ---

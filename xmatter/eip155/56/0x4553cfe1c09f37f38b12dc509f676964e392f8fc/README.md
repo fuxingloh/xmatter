@@ -14,7 +14,7 @@ name: Amazon (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc9b05"
+color: "#f89808"
 icons:
   - icon.png
 ---

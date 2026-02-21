@@ -12,7 +12,7 @@ name: World of Dypians
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7173fc"
+color: "#080808"
 icons:
   - icon.png
 ---

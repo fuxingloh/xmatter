@@ -8,7 +8,7 @@ name: DA Power Play Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7b2780"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

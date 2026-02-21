@@ -8,7 +8,7 @@ name: Chinese Yuan Renminbi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dc3c54"
+color: "#d83858"
 icons:
   - icon.png
 ---

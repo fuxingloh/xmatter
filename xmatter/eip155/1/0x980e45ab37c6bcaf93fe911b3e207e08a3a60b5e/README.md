@@ -6,7 +6,7 @@ name: SIBU
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7a5631"
+color: "#080808"
 icons:
   - icon.png
 ---

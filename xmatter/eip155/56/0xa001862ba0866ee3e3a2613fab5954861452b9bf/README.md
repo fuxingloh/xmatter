@@ -18,7 +18,7 @@ name: ENHANCE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1ca69b"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

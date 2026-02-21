@@ -8,7 +8,7 @@ name: Saitama Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d6d3cc"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

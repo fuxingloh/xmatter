@@ -12,7 +12,7 @@ name: Zenith
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#1b1814"
+color: "#181818"
 icons:
   - icon.png
 ---

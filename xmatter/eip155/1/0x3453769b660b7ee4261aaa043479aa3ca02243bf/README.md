@@ -8,7 +8,7 @@ name: LaserCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#14242c"
+color: "#181828"
 icons:
   - icon.png
 ---

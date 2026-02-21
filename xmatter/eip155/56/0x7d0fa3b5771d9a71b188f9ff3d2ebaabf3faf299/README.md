@@ -18,7 +18,7 @@ name: OMINO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3c1c95"
+color: "#080808"
 icons:
   - icon.png
 ---

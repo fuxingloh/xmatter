@@ -12,7 +12,7 @@ name: MAD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#811f7f"
+color: "#881878"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Token Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#242b33"
+color: "#282838"
 icons:
   - icon.png
 ---

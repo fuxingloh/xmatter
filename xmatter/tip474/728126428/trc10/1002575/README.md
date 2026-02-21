@@ -8,7 +8,7 @@ name: DarkMatter
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#a8a9ac"
+color: "#181818"
 icons:
   - icon.png
 ---

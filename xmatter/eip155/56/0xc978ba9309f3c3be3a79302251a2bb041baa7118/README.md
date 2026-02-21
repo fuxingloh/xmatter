@@ -16,7 +16,7 @@ name: Kitty Shiba
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d7c8c2"
+color: "#c8c8c8"
 icons:
   - icon.png
 ---

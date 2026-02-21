@@ -8,7 +8,7 @@ name: EminerToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0e120f"
+color: "#486878"
 icons:
   - icon.png
 ---

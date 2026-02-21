@@ -6,7 +6,7 @@ name: XTRLPay
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1b1b1b"
+color: "#080808"
 icons:
   - icon.png
 ---

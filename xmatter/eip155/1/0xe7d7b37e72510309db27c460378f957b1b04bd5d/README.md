@@ -8,7 +8,7 @@ name: empowr
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4e70b2"
+color: "#4868a8"
 icons:
   - icon.png
 ---

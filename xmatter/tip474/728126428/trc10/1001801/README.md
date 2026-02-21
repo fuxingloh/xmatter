@@ -6,7 +6,7 @@ name: Baba
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#7dcc47"
+color: "#68d848"
 icons:
   - icon.png
 ---

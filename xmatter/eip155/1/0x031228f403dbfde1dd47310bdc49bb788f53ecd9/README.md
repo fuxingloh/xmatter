@@ -6,7 +6,7 @@ name: Giving Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fb9b04"
+color: "#f89808"
 icons:
   - icon.png
 ---

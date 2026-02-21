@@ -8,7 +8,7 @@ name: DAGT Crypto Platform
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1b7ec7"
+color: "#0868b8"
 icons:
   - icon.png
 ---

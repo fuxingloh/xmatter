@@ -6,7 +6,7 @@ name: P2PG
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#826627"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

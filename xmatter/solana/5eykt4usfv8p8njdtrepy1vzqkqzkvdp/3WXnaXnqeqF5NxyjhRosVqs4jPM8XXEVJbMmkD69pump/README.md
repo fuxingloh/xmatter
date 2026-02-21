@@ -12,7 +12,7 @@ name: Men of Culture
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f6dbc2"
+color: "#f8d8b8"
 icons:
   - icon.png
 ---

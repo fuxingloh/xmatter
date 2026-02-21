@@ -6,7 +6,7 @@ name: James McCall
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#121814"
+color: "#080808"
 icons:
   - icon.png
 ---

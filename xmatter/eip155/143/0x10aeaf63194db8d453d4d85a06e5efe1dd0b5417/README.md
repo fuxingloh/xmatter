@@ -12,7 +12,7 @@ symbol: wstETH
 decimals: 18
 icons:
   - icon.png
-color: "#06a4fc"
+color: "#08a8f8"
 ---
 
 Ethereum's leading liquid staking token, with best-in-class security, deepest liquidity and competitive rewards

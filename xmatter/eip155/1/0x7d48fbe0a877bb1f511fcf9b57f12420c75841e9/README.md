@@ -12,7 +12,7 @@ name: DOOR Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fabc1c"
+color: "#082838"
 icons:
   - icon.png
 ---

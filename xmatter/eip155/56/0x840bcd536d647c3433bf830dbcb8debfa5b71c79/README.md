@@ -22,7 +22,7 @@ name: BNB Cash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f4a929"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ name: Base Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e4ccb8"
+color: "#281818"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: STB Chain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fcf2da"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

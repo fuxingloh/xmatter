@@ -8,7 +8,7 @@ name: HealthPort
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#8cc43c"
+color: "#080808"
 icons:
   - icon.png
 ---

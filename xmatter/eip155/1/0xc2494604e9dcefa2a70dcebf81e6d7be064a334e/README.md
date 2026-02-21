@@ -6,7 +6,7 @@ name: OpenWeb Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6b349b"
+color: "#683898"
 icons:
   - icon.png
 ---

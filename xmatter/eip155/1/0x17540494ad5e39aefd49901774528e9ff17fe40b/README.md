@@ -6,7 +6,7 @@ name: Buccaneer
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cc8b11"
+color: "#080808"
 icons:
   - icon.png
 ---

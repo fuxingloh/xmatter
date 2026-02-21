@@ -16,7 +16,7 @@ name: Euler
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1c2c3b"
+color: "#182838"
 icons:
   - icon.png
   - icon.jpeg

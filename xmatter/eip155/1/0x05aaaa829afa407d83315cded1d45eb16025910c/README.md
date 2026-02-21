@@ -8,7 +8,7 @@ name: SP8DE Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ced8e1"
+color: "#080808"
 icons:
   - icon.png
 ---

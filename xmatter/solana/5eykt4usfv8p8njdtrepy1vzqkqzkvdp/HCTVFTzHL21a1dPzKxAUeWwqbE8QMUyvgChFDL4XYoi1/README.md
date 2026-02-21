@@ -10,7 +10,7 @@ name: Loopring (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#ba4c6e"
+color: "#486878"
 icons:
   - icon.png
 ---

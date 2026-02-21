@@ -10,7 +10,7 @@ symbol: AMPL
 decimals: 9
 icons:
   - icon.png
-color: "#040404"
+color: "#486878"
 ---
 
 Ampleforth describes itself as smart commodity money. It is chain-agnostic and reportedly less-correlated to Bitcoin and other digital assets.

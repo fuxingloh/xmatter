@@ -6,7 +6,7 @@ name: NABS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#87c7c9"
+color: "#080808"
 icons:
   - icon.png
 ---

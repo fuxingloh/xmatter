@@ -22,7 +22,7 @@ name: WEB3 Game
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#95222a"
+color: "#882828"
 icons:
   - icon.png
 ---

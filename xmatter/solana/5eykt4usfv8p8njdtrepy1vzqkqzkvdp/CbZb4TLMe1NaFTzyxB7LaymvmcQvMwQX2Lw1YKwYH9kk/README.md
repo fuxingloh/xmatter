@@ -10,7 +10,7 @@ name: Balin Bank
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#3b1e49"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Martian DAO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b047eb"
+color: "#080808"
 icons:
   - icon.png
 ---

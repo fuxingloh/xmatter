@@ -16,7 +16,7 @@ name: Santos FC Fan Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1e1d12"
+color: "#181808"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: FuzeX Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5388bc"
+color: "#080808"
 icons:
   - icon.png
 ---

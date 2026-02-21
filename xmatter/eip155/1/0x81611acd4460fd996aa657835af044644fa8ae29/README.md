@@ -6,7 +6,7 @@ name: Yangue
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cbe3ec"
+color: "#28a8d8"
 icons:
   - icon.png
 ---

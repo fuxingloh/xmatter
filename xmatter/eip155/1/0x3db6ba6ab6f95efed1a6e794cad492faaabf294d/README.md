@@ -8,7 +8,7 @@ name: LTO Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#9e9efc"
+color: "#080808"
 icons:
   - icon.svg
   - icon.png

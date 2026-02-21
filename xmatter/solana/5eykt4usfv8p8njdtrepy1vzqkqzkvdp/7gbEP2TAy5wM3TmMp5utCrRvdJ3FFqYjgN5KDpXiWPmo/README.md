@@ -12,7 +12,7 @@ name: SCOTT WU
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#c4883f"
+color: "#080808"
 icons:
   - icon.png
 ---

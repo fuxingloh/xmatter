@@ -14,7 +14,7 @@ name: Zooshi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eda61e"
+color: "#080808"
 icons:
   - icon.png
 ---

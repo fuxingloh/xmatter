@@ -10,7 +10,7 @@ name: ROSE (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0493f4"
+color: "#0898f8"
 icons:
   - icon.png
 ---

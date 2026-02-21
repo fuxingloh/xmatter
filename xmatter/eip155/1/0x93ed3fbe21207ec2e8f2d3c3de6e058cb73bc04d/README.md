@@ -8,7 +8,7 @@ name: Pinakion
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#37363a"
+color: "#080808"
 icons:
   - icon.png
 ---

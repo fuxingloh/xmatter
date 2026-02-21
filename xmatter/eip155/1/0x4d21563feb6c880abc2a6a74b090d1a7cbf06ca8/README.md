@@ -6,7 +6,7 @@ name: Ben Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#403c2d"
+color: "#282818"
 icons:
   - icon.png
 ---

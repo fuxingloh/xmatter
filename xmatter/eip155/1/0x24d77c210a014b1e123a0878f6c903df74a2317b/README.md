@@ -8,7 +8,7 @@ name: BITFXT COIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1b6bb2"
+color: "#1868b8"
 icons:
   - icon.png
 ---

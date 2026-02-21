@@ -12,7 +12,7 @@ name: LEOONO by Virtuals
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dadada"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

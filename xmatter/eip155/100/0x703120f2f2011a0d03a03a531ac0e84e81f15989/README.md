@@ -22,7 +22,7 @@ symbol: UNCL
 decimals: 18
 icons:
   - icon.png
-color: "#1baafc"
+color: "#f8f8f8"
 ---
 
 UNCL is the liquidity rewards token of the UniCrypt Farming platform.

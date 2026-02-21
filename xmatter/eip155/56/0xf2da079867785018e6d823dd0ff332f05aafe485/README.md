@@ -16,7 +16,7 @@ name: VEKTOR
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#175cee"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

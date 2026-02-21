@@ -25,7 +25,7 @@ name: Atlantis
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d3e4e8"
+color: "#d8e8e8"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Aigo Payment
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#117fbf"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

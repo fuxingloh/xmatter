@@ -27,7 +27,7 @@ name: Katana Inu Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ccc7bf"
+color: "#080808"
 icons:
   - icon.png
 ---

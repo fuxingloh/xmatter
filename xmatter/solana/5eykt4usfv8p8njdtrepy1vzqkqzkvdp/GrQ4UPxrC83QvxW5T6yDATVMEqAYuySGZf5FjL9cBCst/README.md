@@ -12,7 +12,7 @@ name: DNA 2.0
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#05051f"
+color: "#080818"
 icons:
   - icon.png
 ---

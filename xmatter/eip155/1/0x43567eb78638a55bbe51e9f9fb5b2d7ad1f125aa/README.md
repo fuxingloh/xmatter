@@ -8,7 +8,7 @@ name: HAC Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dadada"
+color: "#080808"
 icons:
   - icon.png
 ---

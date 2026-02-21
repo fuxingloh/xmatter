@@ -28,7 +28,7 @@ name: Ridotto Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2f56c1"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

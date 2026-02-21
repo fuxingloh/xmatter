@@ -6,7 +6,7 @@ name: CryptoTrust Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1ddcf6"
+color: "#0808d8"
 icons:
   - icon.png
 ---

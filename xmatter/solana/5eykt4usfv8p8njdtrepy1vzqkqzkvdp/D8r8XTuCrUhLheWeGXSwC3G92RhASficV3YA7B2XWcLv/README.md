@@ -12,7 +12,7 @@ name: catwifbag
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#a39c79"
+color: "#080808"
 icons:
   - icon.png
 ---

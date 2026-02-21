@@ -9,7 +9,7 @@ name: Liquid Lottery RTC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2c86a8"
+color: "#e8e8e8"
 icons:
   - icon.png
 ---

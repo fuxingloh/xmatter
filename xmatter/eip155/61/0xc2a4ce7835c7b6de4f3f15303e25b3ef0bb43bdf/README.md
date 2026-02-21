@@ -8,5 +8,5 @@ symbol: SPKG1
 decimals: 0
 icons:
   - icon.png
-color: "#dbb54e"
+color: "#080808"
 ---

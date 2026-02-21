@@ -12,7 +12,7 @@ name: CoShi Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#45e3f9"
+color: "#48e8f8"
 icons:
   - icon.png
 ---

@@ -8,5 +8,5 @@ symbol: AMRX
 decimals: 18
 icons:
   - icon.png
-color: "#3f085a"
+color: "#080808"
 ---

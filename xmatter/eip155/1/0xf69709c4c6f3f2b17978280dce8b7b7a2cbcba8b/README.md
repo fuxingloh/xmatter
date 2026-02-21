@@ -8,7 +8,7 @@ name: Atidium
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2c5a6f"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: TokenFans Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc7eaf"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

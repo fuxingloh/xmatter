@@ -14,7 +14,7 @@ name: Chevron tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ec1c34"
+color: "#e81838"
 icons:
   - icon.png
 ---

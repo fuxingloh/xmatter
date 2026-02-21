@@ -22,7 +22,7 @@ name: Binance-Peg Firo Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#9c1b2b"
+color: "#981828"
 icons:
   - icon.png
 ---

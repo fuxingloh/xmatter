@@ -6,7 +6,7 @@ name: V-PALADINI TEST 6
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#191918"
+color: "#e8e8e8"
 icons:
   - icon.png
 ---

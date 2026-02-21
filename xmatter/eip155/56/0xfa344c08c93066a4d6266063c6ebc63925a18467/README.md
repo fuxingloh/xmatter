@@ -8,7 +8,7 @@ name: SafeBull
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#55da5b"
+color: "#58d858"
 icons:
   - icon.png
 ---

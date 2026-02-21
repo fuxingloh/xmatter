@@ -18,7 +18,7 @@ name: 0xBitcoin Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc7c04"
+color: "#f87808"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: WITEE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c4e6fc"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

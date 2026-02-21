@@ -8,7 +8,7 @@ name: TrueFi TrueUSD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1e52ec"
+color: "#1858f8"
 icons:
   - icon.png
 ---

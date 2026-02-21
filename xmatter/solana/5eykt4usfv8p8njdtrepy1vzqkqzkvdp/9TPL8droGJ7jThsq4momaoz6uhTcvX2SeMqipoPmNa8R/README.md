@@ -12,7 +12,7 @@ name: VNX Gold
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#ccc4a4"
+color: "#c8c8a8"
 icons:
   - icon.png
 ---

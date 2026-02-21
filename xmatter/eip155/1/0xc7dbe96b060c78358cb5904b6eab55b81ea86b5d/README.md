@@ -6,7 +6,7 @@ name: CYFToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fcc304"
+color: "#f8c808"
 icons:
   - icon.png
 ---

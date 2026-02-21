@@ -14,7 +14,7 @@ name: Vention
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0a1421"
+color: "#080818"
 icons:
   - icon.png
 ---

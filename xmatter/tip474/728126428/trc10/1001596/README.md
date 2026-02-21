@@ -6,7 +6,7 @@ name: TronSecure
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#d8ca9b"
+color: "#080808"
 icons:
   - icon.png
 ---

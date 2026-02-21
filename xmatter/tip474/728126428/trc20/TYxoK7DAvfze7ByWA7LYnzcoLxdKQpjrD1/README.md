@@ -6,7 +6,7 @@ name: FFToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#fbf0af"
+color: "#080808"
 icons:
   - icon.png
 ---

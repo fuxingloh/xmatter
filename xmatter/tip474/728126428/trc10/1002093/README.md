@@ -6,7 +6,7 @@ name: iWiW
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#ee7971"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ name: Skull
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eeb939"
+color: "#080808"
 icons:
   - icon.png
 ---

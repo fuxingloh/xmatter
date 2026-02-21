@@ -14,7 +14,7 @@ name: Coca-Cola tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#ec1c23"
+color: "#e81828"
 icons:
   - icon.png
 ---

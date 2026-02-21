@@ -15,7 +15,7 @@ name: SOMDEJ
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f4bc2c"
+color: "#f8b828"
 icons:
   - icon.png
 ---

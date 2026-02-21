@@ -12,7 +12,7 @@ name: Myro
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#6a7bc9"
+color: "#484848"
 icons:
   - icon.png
 ---

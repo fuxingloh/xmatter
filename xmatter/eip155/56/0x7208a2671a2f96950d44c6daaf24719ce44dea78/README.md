@@ -18,7 +18,7 @@ name: WEB3MET
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#31196e"
+color: "#381878"
 icons:
   - icon.png
 ---

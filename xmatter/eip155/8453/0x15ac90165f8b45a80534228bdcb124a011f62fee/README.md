@@ -16,7 +16,7 @@ name: donotfomoew
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#356edf"
+color: "#0858f8"
 icons:
   - icon.png
 ---

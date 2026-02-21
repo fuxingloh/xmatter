@@ -6,7 +6,7 @@ name: StrikeCoin Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f9f7ee"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

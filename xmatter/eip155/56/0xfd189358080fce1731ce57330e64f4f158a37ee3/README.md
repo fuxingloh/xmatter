@@ -10,7 +10,7 @@ name: UAA META
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a43af6"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

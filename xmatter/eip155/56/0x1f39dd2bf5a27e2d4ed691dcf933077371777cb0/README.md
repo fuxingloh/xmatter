@@ -24,7 +24,7 @@ name: SnowCrash Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d4d3d5"
+color: "#4808f8"
 icons:
   - icon.png
 ---

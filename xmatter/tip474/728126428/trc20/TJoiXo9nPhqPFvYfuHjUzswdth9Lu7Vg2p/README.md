@@ -6,7 +6,7 @@ name: DZGToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#ad80ee"
+color: "#080808"
 icons:
   - icon.png
 ---

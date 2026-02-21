@@ -14,7 +14,7 @@ symbol: AAI
 decimals: 18
 icons:
   - icon.png
-color: "#040404"
+color: "#f8f8f8"
 ---
 
 AutoAir AI is an innovation Telegram bot revolutionizing the way users engage with airdrops in the cryptocurrency space.

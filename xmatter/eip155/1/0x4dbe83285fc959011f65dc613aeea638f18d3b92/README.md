@@ -26,7 +26,7 @@ name: DOGAMI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#522f82"
+color: "#080808"
 icons:
   - icon.png
 ---

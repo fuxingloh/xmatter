@@ -8,7 +8,7 @@ name: Prospectors Gold
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c29f3c"
+color: "#080808"
 icons:
   - icon.png
 ---

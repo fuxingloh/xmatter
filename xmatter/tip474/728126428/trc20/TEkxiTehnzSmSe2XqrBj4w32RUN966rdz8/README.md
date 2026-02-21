@@ -12,7 +12,7 @@ name: USD Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#2474cc"
+color: "#2878c8"
 icons:
   - icon.png
 ---

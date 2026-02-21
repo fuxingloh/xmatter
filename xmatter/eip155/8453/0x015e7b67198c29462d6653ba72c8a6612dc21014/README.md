@@ -10,7 +10,7 @@ name: WrappedXFI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#041d33"
+color: "#081828"
 icons:
   - icon.png
 ---

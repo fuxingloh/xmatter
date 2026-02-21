@@ -6,7 +6,7 @@ name: Faxports Coins
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc874c"
+color: "#080808"
 icons:
   - icon.png
 ---

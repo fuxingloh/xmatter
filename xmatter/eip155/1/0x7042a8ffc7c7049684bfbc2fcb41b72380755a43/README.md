@@ -14,7 +14,7 @@ name: Adobe (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc0606"
+color: "#f80808"
 icons:
   - icon.png
 ---

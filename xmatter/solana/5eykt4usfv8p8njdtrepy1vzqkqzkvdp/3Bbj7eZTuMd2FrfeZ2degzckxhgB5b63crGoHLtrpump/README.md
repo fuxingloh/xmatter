@@ -12,7 +12,7 @@ name: Baby Fwog
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#4f9d4e"
+color: "#489848"
 icons:
   - icon.png
 ---

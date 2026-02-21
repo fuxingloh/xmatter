@@ -8,7 +8,7 @@ name: bitcoinXv2.0 Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#171512"
+color: "#080808"
 icons:
   - icon.png
 ---

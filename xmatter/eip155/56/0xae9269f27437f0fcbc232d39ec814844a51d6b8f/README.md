@@ -8,7 +8,7 @@ name: Burger Swap Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f7b504"
+color: "#182828"
 icons:
   - icon.png
 ---

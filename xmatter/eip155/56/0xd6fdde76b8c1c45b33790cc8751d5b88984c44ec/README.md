@@ -28,7 +28,7 @@ name: StrikeX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7363fc"
+color: "#7868f8"
 icons:
   - icon.png
 ---

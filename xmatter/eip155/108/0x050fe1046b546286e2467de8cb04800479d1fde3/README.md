@@ -8,5 +8,5 @@ symbol: TT-USDT
 decimals: 18
 icons:
   - icon.png
-color: "#8383f1"
+color: "#080808"
 ---

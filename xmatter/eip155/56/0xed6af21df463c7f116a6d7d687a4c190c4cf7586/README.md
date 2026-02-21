@@ -20,7 +20,7 @@ name: FU coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8c2224"
+color: "#080808"
 icons:
   - icon.png
 ---

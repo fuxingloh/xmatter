@@ -10,7 +10,7 @@ name: DINOPARK TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c1cbba"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: BinGo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dbf5f4"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

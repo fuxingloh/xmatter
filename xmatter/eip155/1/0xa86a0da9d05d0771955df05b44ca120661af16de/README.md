@@ -8,7 +8,7 @@ name: OTCBTC Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#23dc7b"
+color: "#28d878"
 icons:
   - icon.png
 ---

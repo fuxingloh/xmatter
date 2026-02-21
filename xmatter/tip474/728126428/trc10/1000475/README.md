@@ -6,7 +6,7 @@ name: TronWeeklyJournal
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#eeeef1"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

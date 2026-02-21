@@ -23,7 +23,7 @@ name: MUBI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#44d6b2"
+color: "#080808"
 icons:
   - icon.png
 ---

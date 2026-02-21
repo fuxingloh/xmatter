@@ -16,7 +16,7 @@ name: Peter Pan
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d5b89d"
+color: "#080808"
 icons:
   - icon.png
 ---

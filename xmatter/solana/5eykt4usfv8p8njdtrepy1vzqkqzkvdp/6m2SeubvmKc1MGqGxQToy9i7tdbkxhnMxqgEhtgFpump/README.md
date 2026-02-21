@@ -12,7 +12,7 @@ name: The Baby Cheetah
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#7a655c"
+color: "#786868"
 icons:
   - icon.png
 ---

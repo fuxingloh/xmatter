@@ -12,7 +12,7 @@ name: BSC Layer
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f1bb11"
+color: "#181818"
 icons:
   - icon.png
 ---

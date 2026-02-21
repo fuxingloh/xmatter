@@ -12,7 +12,7 @@ name: Hachiko
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#eec175"
+color: "#f8d888"
 icons:
   - icon.png
 ---

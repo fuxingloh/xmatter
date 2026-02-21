@@ -8,7 +8,7 @@ name: COMIKETCOIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04c4fb"
+color: "#08b8f8"
 icons:
   - icon.png
 ---

@@ -20,7 +20,7 @@ name: insurance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#15be38"
+color: "#080808"
 icons:
   - icon.png
 ---

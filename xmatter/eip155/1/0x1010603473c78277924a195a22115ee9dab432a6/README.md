@@ -6,7 +6,7 @@ name: Nifty
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cb4027"
+color: "#486848"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Zbitcoin.space
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f4941c"
+color: "#f89838"
 icons:
   - icon.png
 ---

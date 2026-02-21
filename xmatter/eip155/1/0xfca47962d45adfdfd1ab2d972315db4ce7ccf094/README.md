@@ -8,7 +8,7 @@ name: iXledger
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1fb1d3"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

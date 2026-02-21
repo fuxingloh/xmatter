@@ -12,7 +12,7 @@ name: duk
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#fad315"
+color: "#f8d818"
 icons:
   - icon.png
 ---

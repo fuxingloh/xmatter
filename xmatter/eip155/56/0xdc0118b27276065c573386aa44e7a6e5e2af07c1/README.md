@@ -22,7 +22,7 @@ name: DeepMaze
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#040505"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Ginnan the Cat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#eec292"
+color: "#f8b888"
 icons:
   - icon.png
 ---

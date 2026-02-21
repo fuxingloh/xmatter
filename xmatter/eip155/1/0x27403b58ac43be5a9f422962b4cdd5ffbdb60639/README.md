@@ -6,7 +6,7 @@ name: Bcnex Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dc4494"
+color: "#d84898"
 icons:
   - icon.png
 ---

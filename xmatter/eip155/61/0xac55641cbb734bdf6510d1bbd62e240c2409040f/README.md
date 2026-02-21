@@ -8,5 +8,5 @@ symbol: SATURN
 decimals: 4
 icons:
   - icon.png
-color: "#070a07"
+color: "#080808"
 ---

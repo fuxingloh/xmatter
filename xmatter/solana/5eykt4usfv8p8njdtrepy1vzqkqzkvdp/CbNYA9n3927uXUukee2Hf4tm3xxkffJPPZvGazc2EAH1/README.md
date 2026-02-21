@@ -10,7 +10,7 @@ name: agEUR (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#c3ba9d"
+color: "#080808"
 icons:
   - icon.png
 ---

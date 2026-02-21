@@ -10,7 +10,7 @@ name: Boge
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#156fd4"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

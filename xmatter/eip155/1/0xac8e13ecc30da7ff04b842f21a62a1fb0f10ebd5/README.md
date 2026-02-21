@@ -25,7 +25,7 @@ name: BabyDoge ETH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f5a023"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

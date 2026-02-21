@@ -12,7 +12,7 @@ name: Parcl
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#2b2e3c"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

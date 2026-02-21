@@ -14,7 +14,7 @@ name: SmarDex Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#07f8b1"
+color: "#080808"
 icons:
   - icon.png
 ---

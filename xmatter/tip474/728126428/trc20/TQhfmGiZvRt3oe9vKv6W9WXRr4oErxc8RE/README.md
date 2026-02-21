@@ -8,7 +8,7 @@ name: Travelcoins
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#080809"
+color: "#080808"
 icons:
   - icon.png
 ---

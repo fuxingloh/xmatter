@@ -14,7 +14,7 @@ symbol: TRAVA
 decimals: 18
 icons:
   - icon.png
-color: "#143ca3"
+color: "#1838a8"
 ---
 
 TRAVA is a decentralized marketplace for cross-chain lending that relies on an innovative model of multiple lending pools created by users.

@@ -6,7 +6,7 @@ name: KAIJU
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bc1423"
+color: "#b81828"
 icons:
   - icon.png
 ---

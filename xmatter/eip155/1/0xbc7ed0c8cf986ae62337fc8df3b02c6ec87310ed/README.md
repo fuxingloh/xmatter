@@ -6,7 +6,7 @@ name: Xpayment
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04a4fb"
+color: "#08a8f8"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: FINANCIAL INVESTMENT TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c8dce9"
+color: "#085898"
 icons:
   - icon.png
 ---

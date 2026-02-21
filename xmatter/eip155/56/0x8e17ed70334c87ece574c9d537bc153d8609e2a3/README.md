@@ -16,7 +16,7 @@ name: WazirX Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3464f4"
+color: "#2868e8"
 icons:
   - icon.png
 ---

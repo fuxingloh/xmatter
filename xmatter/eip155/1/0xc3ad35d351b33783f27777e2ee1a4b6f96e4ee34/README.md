@@ -6,7 +6,7 @@ name: E25_Booster
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#060b0d"
+color: "#080808"
 icons:
   - icon.png
 ---

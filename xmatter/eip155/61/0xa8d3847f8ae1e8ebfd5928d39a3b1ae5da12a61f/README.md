@@ -8,5 +8,5 @@ symbol: COIN
 decimals: 16
 icons:
   - icon.png
-color: "#230605"
+color: "#080808"
 ---

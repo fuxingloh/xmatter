@@ -6,7 +6,7 @@ name: Charge
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#343434"
+color: "#383838"
 icons:
   - icon.png
 ---

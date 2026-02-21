@@ -12,7 +12,7 @@ name: Helium Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#4b4cfa"
+color: "#4848f8"
 icons:
   - icon.png
 ---

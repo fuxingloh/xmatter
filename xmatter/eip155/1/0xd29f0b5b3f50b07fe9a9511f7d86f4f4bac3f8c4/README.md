@@ -8,7 +8,7 @@ name: Liquidity.Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#183b6c"
+color: "#183868"
 icons:
   - icon.png
 ---

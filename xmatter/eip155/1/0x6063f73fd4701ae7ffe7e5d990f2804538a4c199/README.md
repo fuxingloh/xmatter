@@ -8,7 +8,7 @@ name: Flora Fic
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d4eef6"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

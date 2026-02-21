@@ -12,7 +12,7 @@ name: BasedPepe
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3c8434"
+color: "#387838"
 icons:
   - icon.svg
   - icon.png

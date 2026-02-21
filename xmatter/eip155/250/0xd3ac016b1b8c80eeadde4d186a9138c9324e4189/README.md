@@ -20,7 +20,7 @@ symbol: OK
 decimals: 18
 icons:
   - icon.png
-color: "#040811"
+color: "#080808"
 ---
 
 OK is the leading multi chain PoS, web3 + NFTs open source electronic cash, its design is public, nobody owns or controls Okcash and everyone can take part.

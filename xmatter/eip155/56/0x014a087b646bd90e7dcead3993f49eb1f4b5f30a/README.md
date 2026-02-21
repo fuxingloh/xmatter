@@ -22,7 +22,7 @@ name: Gulf Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#45c8e3"
+color: "#080888"
 icons:
   - icon.png
 ---

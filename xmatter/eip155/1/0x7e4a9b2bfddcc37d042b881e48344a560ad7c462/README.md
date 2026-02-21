@@ -6,7 +6,7 @@ name: United States of America
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0a0a0f"
+color: "#080808"
 icons:
   - icon.png
 ---

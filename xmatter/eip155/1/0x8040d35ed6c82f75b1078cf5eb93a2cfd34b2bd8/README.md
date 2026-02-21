@@ -6,7 +6,7 @@ name: Bitreal
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#23b46c"
+color: "#28b868"
 icons:
   - icon.png
 ---

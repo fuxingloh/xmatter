@@ -8,7 +8,7 @@ name: KuCoin Shares
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#648293"
+color: "#080808"
 icons:
   - icon.png
 ---

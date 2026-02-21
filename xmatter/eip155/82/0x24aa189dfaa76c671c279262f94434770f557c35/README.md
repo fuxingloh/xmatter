@@ -10,7 +10,7 @@ symbol: BUSD.bsc
 decimals: 18
 icons:
   - icon.png
-color: "#f3bc0c"
+color: "#e8b808"
 ---
 
 BUSD is a stablecoin issued by Paxos in partnership with Binance.

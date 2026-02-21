@@ -14,7 +14,7 @@ symbol: USD+
 decimals: 18
 icons:
   - icon.png
-color: "#041d44"
+color: "#081848"
 ---
 
 USD+ is a yield-generating stablecoin yielding 8-12% pa, via daily rebase. It is fully backed by a portfolio of liquid, yield generating, low risk DeFi assets .

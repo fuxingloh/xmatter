@@ -16,7 +16,7 @@ name: Wynaut Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d0f1f4"
+color: "#d8f8f8"
 icons:
   - icon.png
 ---

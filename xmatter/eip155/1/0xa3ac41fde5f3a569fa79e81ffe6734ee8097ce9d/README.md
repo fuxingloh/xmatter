@@ -8,7 +8,7 @@ name: 4xBit
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#355689"
+color: "#080808"
 icons:
   - icon.png
 ---

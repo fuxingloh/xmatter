@@ -15,7 +15,7 @@ name: Wrapped Netflix Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e30c14"
+color: "#e80818"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: MOR
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1ca76c"
+color: "#088858"
 icons:
   - icon.png
 ---

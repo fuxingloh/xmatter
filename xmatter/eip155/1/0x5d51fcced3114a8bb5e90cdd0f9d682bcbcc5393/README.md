@@ -8,7 +8,7 @@ name: B2BX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bfd2ce"
+color: "#080808"
 icons:
   - icon.png
 ---

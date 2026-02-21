@@ -14,7 +14,7 @@ name: GAPTT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#232325"
+color: "#181818"
 icons:
   - icon.png
 ---

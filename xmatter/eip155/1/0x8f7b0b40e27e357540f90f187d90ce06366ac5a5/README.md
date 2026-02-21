@@ -8,7 +8,7 @@ name: Value Chain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04cdfc"
+color: "#080808"
 icons:
   - icon.png
 ---

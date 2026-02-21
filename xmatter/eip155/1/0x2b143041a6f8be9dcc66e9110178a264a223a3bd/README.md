@@ -6,7 +6,7 @@ name: Synth iBTC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bc3b2b"
+color: "#b83828"
 icons:
   - icon.png
 ---

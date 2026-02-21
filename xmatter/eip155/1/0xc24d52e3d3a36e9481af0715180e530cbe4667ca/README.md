@@ -14,7 +14,7 @@ name: HU LE ZHI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c71517"
+color: "#080808"
 icons:
   - icon.png
 ---

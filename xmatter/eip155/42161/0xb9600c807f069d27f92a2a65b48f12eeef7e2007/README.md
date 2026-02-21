@@ -26,7 +26,7 @@ name: Altranium
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b05e0b"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

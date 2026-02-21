@@ -10,7 +10,7 @@ name: TimePocket
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#c3309b"
+color: "#d83878"
 icons:
   - icon.png
 ---

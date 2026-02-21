@@ -18,7 +18,7 @@ name: Impossible Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#040c5c"
+color: "#080858"
 icons:
   - icon.png
 ---

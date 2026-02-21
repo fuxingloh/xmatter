@@ -12,7 +12,7 @@ name: Yuro 2024
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#193ed5"
+color: "#1838e8"
 icons:
   - icon.png
 ---

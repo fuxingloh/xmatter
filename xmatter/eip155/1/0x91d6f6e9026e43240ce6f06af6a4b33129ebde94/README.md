@@ -8,7 +8,7 @@ name: RiveX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3db5e1"
+color: "#080808"
 icons:
   - icon.png
 ---

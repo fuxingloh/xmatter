@@ -6,7 +6,7 @@ name: Awesome
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#e4e4e4"
+color: "#080808"
 icons:
   - icon.png
 ---

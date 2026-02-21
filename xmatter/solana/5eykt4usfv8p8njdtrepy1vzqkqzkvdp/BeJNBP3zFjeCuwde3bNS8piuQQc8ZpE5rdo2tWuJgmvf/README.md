@@ -12,7 +12,7 @@ name: MetAIverse
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#d6cadb"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

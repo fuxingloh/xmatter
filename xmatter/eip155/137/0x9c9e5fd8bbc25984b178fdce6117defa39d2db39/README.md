@@ -22,7 +22,7 @@ name: BNB pegged BUSD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f3bc0c"
+color: "#e8b808"
 icons:
   - icon.png
 ---

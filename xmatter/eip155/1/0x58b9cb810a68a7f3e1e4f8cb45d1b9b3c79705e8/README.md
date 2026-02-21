@@ -12,7 +12,7 @@ name: Everclear
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ebebf3"
+color: "#e8e8f8"
 icons:
   - icon.png
 ---

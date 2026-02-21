@@ -8,7 +8,7 @@ name: Panther Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#111c25"
+color: "#080808"
 icons:
   - icon.png
 ---

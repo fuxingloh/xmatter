@@ -14,7 +14,7 @@ name: 4JNET
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#9ca4bb"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

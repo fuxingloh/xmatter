@@ -8,7 +8,7 @@ name: Debase
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#943cb3"
+color: "#c88868"
 icons:
   - icon.png
 ---

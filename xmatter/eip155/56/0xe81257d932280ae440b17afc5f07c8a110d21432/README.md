@@ -24,7 +24,7 @@ name: Zuki Moba
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#17c6da"
+color: "#080808"
 icons:
   - icon.png
 ---

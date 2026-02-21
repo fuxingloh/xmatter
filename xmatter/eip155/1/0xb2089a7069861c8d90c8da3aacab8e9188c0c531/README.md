@@ -14,7 +14,7 @@ name: Green
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#74bc44"
+color: "#78b848"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: TARS AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#943aeb"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: GOLAZO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#17213a"
+color: "#d8e8f8"
 icons:
   - icon.png
 ---

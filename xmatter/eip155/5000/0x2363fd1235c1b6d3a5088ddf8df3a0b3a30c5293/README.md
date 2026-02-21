@@ -12,7 +12,7 @@ symbol: Vx
 decimals: 18
 icons:
   - icon.png
-color: "#1434cb"
+color: "#1838c8"
 ---
 
 Visa xStock

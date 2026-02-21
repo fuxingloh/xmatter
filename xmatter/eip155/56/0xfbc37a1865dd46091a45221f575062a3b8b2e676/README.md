@@ -12,7 +12,7 @@ name: Hyperboost
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#59c6ec"
+color: "#080808"
 icons:
   - icon.png
 ---

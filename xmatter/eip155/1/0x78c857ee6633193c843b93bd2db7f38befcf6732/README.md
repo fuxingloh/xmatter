@@ -6,7 +6,7 @@ name: UFAN8
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#446ce3"
+color: "#4868d8"
 icons:
   - icon.png
 ---

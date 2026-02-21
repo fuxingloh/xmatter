@@ -12,7 +12,7 @@ symbol: AZND
 decimals: 18
 icons:
   - icon.png
-color: "#051d5c"
+color: "#081858"
 ---
 
 Mu Digital is a protocol focused on bringing Asia based fixed income assets onchain through tokenization. ZND (Asia Dollar) represents the senior, yield bearing tranche backed by underlying credit assets.

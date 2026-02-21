@@ -8,7 +8,7 @@ name: Swapcoinz
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cfc678"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

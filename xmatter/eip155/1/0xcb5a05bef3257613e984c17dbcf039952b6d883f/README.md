@@ -8,7 +8,7 @@ name: Sugar Exchange
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#72ade2"
+color: "#68a8e8"
 icons:
   - icon.png
 ---

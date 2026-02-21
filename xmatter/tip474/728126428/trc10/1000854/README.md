@@ -6,7 +6,7 @@ name: GSG
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#d1d1d1"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

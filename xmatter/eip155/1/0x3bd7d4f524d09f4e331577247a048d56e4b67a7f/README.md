@@ -14,7 +14,7 @@ name: 5ire
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0d0d46"
+color: "#080838"
 icons:
   - icon.png
 ---

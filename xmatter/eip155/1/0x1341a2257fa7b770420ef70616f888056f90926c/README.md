@@ -8,7 +8,7 @@ name: Zoo Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#11c45f"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

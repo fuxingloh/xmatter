@@ -12,7 +12,7 @@ symbol: METAx
 decimals: 18
 icons:
   - icon.png
-color: "#0483fb"
+color: "#0888f8"
 ---
 
 Meta xStock

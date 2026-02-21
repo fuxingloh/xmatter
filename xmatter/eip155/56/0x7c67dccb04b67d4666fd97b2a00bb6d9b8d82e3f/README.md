@@ -8,7 +8,7 @@ name: Goatcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ebb835"
+color: "#f8b828"
 icons:
   - icon.png
 ---

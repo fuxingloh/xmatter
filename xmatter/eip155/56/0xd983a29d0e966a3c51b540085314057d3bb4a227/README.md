@@ -8,7 +8,7 @@ name: Polarium.Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d4e3ed"
+color: "#080808"
 icons:
   - icon.png
 ---

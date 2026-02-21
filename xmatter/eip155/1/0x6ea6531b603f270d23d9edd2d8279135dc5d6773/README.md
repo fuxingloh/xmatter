@@ -6,7 +6,7 @@ name: InsurChain Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6bb8e0"
+color: "#080808"
 icons:
   - icon.png
 ---

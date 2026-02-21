@@ -17,7 +17,7 @@ name: KRWO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f1ba0b"
+color: "#080808"
 icons:
   - icon.png
 ---

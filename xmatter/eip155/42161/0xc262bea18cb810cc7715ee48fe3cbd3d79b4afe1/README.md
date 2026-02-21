@@ -15,7 +15,7 @@ name: Wrapped Accenture Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a304fb"
+color: "#a808f8"
 icons:
   - icon.png
 ---

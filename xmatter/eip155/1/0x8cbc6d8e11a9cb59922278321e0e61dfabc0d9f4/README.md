@@ -8,7 +8,7 @@ name: KOPI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3c1b0b"
+color: "#c87888"
 icons:
   - icon.png
 ---

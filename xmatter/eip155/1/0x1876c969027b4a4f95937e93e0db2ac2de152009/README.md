@@ -6,7 +6,7 @@ name: ViralToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#342375"
+color: "#382878"
 icons:
   - icon.png
 ---

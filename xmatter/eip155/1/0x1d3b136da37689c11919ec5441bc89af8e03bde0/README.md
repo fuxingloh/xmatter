@@ -6,7 +6,7 @@ name: Bionik Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#54ad9d"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

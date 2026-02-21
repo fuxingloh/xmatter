@@ -6,7 +6,7 @@ name: Med. Cannabis Note
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#484747"
+color: "#080808"
 icons:
   - icon.png
 ---

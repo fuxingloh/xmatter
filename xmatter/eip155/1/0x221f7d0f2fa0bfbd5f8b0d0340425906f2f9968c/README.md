@@ -8,7 +8,7 @@ name: Super Running Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f9b14c"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: BNBGPT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1a1c1a"
+color: "#081818"
 icons:
   - icon.png
 ---

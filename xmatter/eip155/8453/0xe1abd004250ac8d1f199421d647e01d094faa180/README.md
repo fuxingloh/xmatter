@@ -10,7 +10,7 @@ name: Roost Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1358f0"
+color: "#0858f8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Business Credit Substitute
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6d63b0"
+color: "#486878"
 icons:
   - icon.png
 ---

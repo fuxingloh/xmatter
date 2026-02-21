@@ -12,7 +12,7 @@ name: JOE BYEden
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#e1dfdd"
+color: "#d8e8f8"
 icons:
   - icon.png
 ---

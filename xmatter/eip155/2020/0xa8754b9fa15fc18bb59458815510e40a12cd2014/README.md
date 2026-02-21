@@ -10,7 +10,7 @@ symbol: SLP
 decimals: 0
 icons:
   - icon.png
-color: "#7bc29f"
+color: "#080808"
 ---
 
 Smooth Love Potion (SLP) is an ERC-20 token on the Axie Infinity platform that is used to breed new digital pets (Axies).

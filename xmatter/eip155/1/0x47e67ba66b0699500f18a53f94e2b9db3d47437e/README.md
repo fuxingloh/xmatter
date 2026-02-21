@@ -8,7 +8,7 @@ name: PlayGame
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc9332"
+color: "#f89838"
 icons:
   - icon.png
 ---

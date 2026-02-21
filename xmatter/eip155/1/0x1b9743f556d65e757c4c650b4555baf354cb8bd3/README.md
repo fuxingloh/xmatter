@@ -8,7 +8,7 @@ name: EthBits ETBS Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#242424"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

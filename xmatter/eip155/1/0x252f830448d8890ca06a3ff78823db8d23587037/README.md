@@ -6,7 +6,7 @@ name: BIGBOMB
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cd9e7b"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

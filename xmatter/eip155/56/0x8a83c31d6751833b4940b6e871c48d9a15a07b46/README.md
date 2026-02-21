@@ -14,7 +14,7 @@ name: Pfizer (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0606cc"
+color: "#0808c8"
 icons:
   - icon.png
 ---

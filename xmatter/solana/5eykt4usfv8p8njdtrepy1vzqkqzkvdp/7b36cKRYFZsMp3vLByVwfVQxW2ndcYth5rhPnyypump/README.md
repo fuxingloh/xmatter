@@ -12,7 +12,7 @@ name: PINO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#9ce872"
+color: "#98e878"
 icons:
   - icon.png
 ---

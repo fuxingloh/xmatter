@@ -10,7 +10,7 @@ symbol: SCHFx
 decimals: 18
 icons:
   - icon.png
-color: "#04a3db"
+color: "#0898d8"
 ---
 
 Schwab International Equity xStock

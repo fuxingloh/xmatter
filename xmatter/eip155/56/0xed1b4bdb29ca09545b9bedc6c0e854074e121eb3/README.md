@@ -8,7 +8,7 @@ name: xxxNifty
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fa13a3"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ symbol: QBX
 decimals: 18
 icons:
   - icon.png
-color: "#8a55ae"
+color: "#080808"
 ---
 
 The global standard for loyalty on the blockchain. With qiibee, businesses around the world can run their loyalty programs on the blockchain.

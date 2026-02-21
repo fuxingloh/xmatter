@@ -14,7 +14,7 @@ name: Lucky
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#faae27"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

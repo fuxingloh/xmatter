@@ -6,7 +6,7 @@ name: Revolt Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#231f20"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

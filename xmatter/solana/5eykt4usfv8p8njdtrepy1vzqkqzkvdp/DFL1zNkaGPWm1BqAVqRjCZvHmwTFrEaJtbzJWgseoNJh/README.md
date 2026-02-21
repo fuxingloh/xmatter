@@ -14,7 +14,7 @@ name: DeFi Land
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#34b4ec"
+color: "#48c8f8"
 icons:
   - icon.png
 ---

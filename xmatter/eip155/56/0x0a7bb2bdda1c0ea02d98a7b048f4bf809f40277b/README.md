@@ -22,7 +22,7 @@ name: ThunderADA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e2bb32"
+color: "#080808"
 icons:
   - icon.png
 ---

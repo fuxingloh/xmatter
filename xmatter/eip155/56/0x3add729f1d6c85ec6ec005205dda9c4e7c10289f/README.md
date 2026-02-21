@@ -8,7 +8,7 @@ name: Pomskey
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ada890"
+color: "#b8b888"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Americoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f2b936"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

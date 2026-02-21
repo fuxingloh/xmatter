@@ -16,7 +16,7 @@ name: LOFcrypto
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8cacf0"
+color: "#081828"
 icons:
   - icon.png
 ---

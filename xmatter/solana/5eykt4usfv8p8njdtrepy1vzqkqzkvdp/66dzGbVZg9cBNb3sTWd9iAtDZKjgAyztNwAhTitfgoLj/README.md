@@ -16,7 +16,7 @@ name: Thorecoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#9c9b9c"
+color: "#989898"
 icons:
   - icon.png
 ---

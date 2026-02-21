@@ -6,7 +6,7 @@ name: ChelleCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b17624"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: FF
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fbf0af"
+color: "#080808"
 icons:
   - icon.png
 ---

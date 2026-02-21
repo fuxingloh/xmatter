@@ -6,7 +6,7 @@ name: Incinerate Token v2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f04225"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

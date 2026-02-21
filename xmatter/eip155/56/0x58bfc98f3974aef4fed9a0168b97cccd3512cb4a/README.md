@@ -10,7 +10,7 @@ name: Bubblegum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ed88b6"
+color: "#080808"
 icons:
   - icon.png
 ---

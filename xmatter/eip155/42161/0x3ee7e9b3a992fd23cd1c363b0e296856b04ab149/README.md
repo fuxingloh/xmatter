@@ -14,7 +14,7 @@ name: Goldman Sachs tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#739bc4"
+color: "#7898c8"
 icons:
   - icon.png
 ---

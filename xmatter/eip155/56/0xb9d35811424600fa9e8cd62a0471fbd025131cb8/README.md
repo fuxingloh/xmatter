@@ -20,7 +20,7 @@ name: YES WORLD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3cd9d4"
+color: "#080808"
 icons:
   - icon.png
 ---

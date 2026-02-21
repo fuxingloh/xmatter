@@ -8,7 +8,7 @@ name: Hamtaro
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a3864e"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

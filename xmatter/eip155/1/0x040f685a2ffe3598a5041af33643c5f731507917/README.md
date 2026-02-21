@@ -6,7 +6,7 @@ name: Lotbo Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d6b3bd"
+color: "#880848"
 icons:
   - icon.png
 ---

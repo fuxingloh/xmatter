@@ -12,7 +12,7 @@ name: Wrapped Ether
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#120e10"
+color: "#f8f8f8"
 icons:
   - icon.svg
   - icon.png

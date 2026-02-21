@@ -8,7 +8,7 @@ name: BFI-COIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#040c1c"
+color: "#080818"
 icons:
   - icon.png
 ---

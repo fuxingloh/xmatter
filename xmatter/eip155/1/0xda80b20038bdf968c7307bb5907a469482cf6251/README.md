@@ -8,7 +8,7 @@ name: BrokerNekoNetwork
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04b5f0"
+color: "#080808"
 icons:
   - icon.png
 ---

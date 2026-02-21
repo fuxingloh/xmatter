@@ -14,7 +14,7 @@ name: Godcat Exploding Kittens
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4873b7"
+color: "#f8d8c8"
 icons:
   - icon.png
 ---

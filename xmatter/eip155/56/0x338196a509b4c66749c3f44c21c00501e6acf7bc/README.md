@@ -8,7 +8,7 @@ name: DragonMusk
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#10141c"
+color: "#080818"
 icons:
   - icon.png
 ---

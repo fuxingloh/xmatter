@@ -8,7 +8,7 @@ name: AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#05558b"
+color: "#085888"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: YasudaCrypto 90
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ecf4cc"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

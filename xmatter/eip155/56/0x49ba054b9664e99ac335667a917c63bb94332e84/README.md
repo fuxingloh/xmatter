@@ -10,7 +10,7 @@ name: FTX Token (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#65d3e3"
+color: "#68d8e8"
 icons:
   - icon.png
 ---

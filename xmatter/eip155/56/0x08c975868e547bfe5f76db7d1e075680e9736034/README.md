@@ -12,7 +12,7 @@ name: DogeBack
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f9e1de"
+color: "#f8e8e8"
 icons:
   - icon.png
 ---

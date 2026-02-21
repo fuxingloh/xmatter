@@ -6,7 +6,7 @@ name: ICONN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1a1a1b"
+color: "#486848"
 icons:
   - icon.png
 ---

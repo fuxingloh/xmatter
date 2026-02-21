@@ -10,7 +10,7 @@ name: Tether USD (Portal from Solana)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#55ad96"
+color: "#48a898"
 icons:
   - icon.png
 ---

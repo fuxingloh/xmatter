@@ -6,7 +6,7 @@ name: KARTIY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#982c6a"
+color: "#080808"
 icons:
   - icon.png
 ---

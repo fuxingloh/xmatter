@@ -6,7 +6,7 @@ name: MCC ico token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5c8cec"
+color: "#080808"
 icons:
   - icon.png
 ---

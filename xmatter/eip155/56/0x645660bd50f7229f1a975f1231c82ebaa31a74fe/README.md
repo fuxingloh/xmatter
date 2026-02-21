@@ -16,7 +16,7 @@ name: DragonCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cc8b26"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

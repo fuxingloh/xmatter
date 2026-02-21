@@ -12,7 +12,7 @@ name: bioDAOs
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#182713"
+color: "#182808"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: CM - 0R914437
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e4b8bc"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

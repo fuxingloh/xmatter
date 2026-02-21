@@ -10,7 +10,7 @@ name: SunWukong
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#e2242d"
+color: "#e82828"
 icons:
   - icon.png
 ---

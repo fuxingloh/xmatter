@@ -14,7 +14,7 @@ name: Star Atlas
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#141b1c"
+color: "#181818"
 icons:
   - icon.png
 ---

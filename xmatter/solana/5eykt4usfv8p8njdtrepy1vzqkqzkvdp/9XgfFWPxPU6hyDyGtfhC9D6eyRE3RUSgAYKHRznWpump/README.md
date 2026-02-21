@@ -14,7 +14,7 @@ name: Remember KitKat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#8a8071"
+color: "#988878"
 icons:
   - icon.png
 ---

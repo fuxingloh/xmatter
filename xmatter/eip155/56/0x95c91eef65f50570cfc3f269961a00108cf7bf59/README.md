@@ -17,7 +17,7 @@ name: The DONS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cccbcd"
+color: "#080808"
 icons:
   - icon.png
 ---

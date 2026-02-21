@@ -12,7 +12,7 @@ name: Litecoin Mascot
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#265e9c"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

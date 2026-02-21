@@ -14,7 +14,7 @@ name: Wrapped MonetaryUnit
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#322c3b"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

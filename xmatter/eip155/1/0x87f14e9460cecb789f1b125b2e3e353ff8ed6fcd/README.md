@@ -8,7 +8,7 @@ name: Bytus
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#125cdf"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: ITL (Italian Lira)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d6ca94"
+color: "#080808"
 icons:
   - icon.png
 ---

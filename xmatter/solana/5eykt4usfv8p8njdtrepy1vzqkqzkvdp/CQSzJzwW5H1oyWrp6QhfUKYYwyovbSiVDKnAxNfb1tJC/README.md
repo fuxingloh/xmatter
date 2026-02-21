@@ -10,7 +10,7 @@ name: Stanley Cup Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#d6b694"
+color: "#d8b898"
 icons:
   - icon.png
 ---

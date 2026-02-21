@@ -6,7 +6,7 @@ name: Centra token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#423d2d"
+color: "#383838"
 icons:
   - icon.png
 ---

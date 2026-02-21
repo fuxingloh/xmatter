@@ -6,7 +6,7 @@ name: SBS COIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#68bd43"
+color: "#080808"
 icons:
   - icon.png
 ---

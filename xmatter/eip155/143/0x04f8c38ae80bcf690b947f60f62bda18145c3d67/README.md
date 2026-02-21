@@ -12,7 +12,7 @@ symbol: MVT
 decimals: 18
 icons:
   - icon.png
-color: "#d70432"
+color: "#080808"
 ---
 
 MVT is the shared token of Monad Vault. The Monad Vault provides diversified exposure to the ecosystem's core collateral, money markets, and stable liquidity venues to support ecosystem expansion through incentives and conservative risk management.

@@ -17,7 +17,7 @@ name: AgeOfGods
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3a3e3e"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

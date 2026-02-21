@@ -6,7 +6,7 @@ name: Kode
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#613997"
+color: "#486848"
 icons:
   - icon.png
 ---

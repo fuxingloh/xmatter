@@ -6,7 +6,7 @@ name: Epic Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#06a49c"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

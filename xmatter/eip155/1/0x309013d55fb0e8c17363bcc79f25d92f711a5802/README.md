@@ -8,7 +8,7 @@ name: SBTC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3c3c54"
+color: "#383858"
 icons:
   - icon.png
 ---

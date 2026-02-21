@@ -10,7 +10,7 @@ name: República de El Salvador Meme
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#162e90"
+color: "#082898"
 icons:
   - icon.png
 ---

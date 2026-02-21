@@ -14,7 +14,7 @@ symbol: PUMP
 decimals: 18
 icons:
   - icon.png
-color: "#e2e1e2"
+color: "#f8f8f8"
 ---
 
 The OG crypto meme

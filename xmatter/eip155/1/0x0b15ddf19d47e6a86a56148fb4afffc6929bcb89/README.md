@@ -18,7 +18,7 @@ name: Impossible Finance IDIA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fb0cab"
+color: "#080828"
 icons:
   - icon.png
 ---

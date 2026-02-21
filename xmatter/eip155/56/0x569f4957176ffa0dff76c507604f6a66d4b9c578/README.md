@@ -20,7 +20,7 @@ name: Cryptostone
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#01adb6"
+color: "#08a8b8"
 icons:
   - icon.png
 ---

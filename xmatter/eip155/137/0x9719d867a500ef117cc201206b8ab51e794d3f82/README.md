@@ -18,7 +18,7 @@ name: Matic Aave interest bearing USDC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cbc3df"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

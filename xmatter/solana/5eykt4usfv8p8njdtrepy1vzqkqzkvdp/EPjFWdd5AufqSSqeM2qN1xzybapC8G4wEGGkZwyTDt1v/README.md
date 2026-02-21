@@ -12,7 +12,7 @@ name: USD Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#2373cb"
+color: "#2878c8"
 icons:
   - icon.png
 ---

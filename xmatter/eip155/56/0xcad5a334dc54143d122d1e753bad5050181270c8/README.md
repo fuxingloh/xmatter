@@ -16,7 +16,7 @@ name: Miss Kaka
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f0bd9e"
+color: "#383838"
 icons:
   - icon.png
 ---

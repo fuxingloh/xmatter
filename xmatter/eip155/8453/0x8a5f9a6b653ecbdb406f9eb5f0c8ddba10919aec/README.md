@@ -10,7 +10,7 @@ name: bloo foster
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e0d2a0"
+color: "#0898d8"
 icons:
   - icon.png
 ---

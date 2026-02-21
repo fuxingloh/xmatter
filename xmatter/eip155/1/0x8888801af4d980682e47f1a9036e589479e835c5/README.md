@@ -8,7 +8,7 @@ name: 88mph.app
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#05041e"
+color: "#080808"
 icons:
   - icon.svg
   - icon.png

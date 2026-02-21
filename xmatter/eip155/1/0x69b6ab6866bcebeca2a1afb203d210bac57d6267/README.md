@@ -6,7 +6,7 @@ name: Blockchain Accentuated Gambling System
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1bde77"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Alaska Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e9d3e4"
+color: "#586878"
 icons:
   - icon.png
 ---

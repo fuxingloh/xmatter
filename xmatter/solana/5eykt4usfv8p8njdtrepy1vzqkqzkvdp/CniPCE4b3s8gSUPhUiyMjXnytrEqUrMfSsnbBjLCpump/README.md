@@ -10,7 +10,7 @@ name: PWEASE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#363742"
+color: "#383848"
 icons:
   - icon.png
 ---

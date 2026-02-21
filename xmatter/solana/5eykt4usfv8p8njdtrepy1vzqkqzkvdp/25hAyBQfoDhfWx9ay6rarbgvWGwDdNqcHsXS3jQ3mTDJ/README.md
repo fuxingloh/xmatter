@@ -12,7 +12,7 @@ name: MANEKI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#e7dfdb"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

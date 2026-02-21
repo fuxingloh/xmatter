@@ -8,7 +8,7 @@ name: Kitty Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#9d92f8"
+color: "#9898f8"
 icons:
   - icon.png
 ---

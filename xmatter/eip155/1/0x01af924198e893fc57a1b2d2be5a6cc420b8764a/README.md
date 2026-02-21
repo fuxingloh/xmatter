@@ -6,7 +6,7 @@ name: RaiseEntertainmentToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f9e4e4"
+color: "#c81818"
 icons:
   - icon.png
 ---

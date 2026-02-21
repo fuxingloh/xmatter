@@ -8,7 +8,7 @@ name: indaHash Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#502070"
+color: "#080808"
 icons:
   - icon.png
 ---

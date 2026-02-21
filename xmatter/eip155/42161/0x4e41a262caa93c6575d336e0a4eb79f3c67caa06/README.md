@@ -14,7 +14,7 @@ name: Wrapped Meta Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0483fb"
+color: "#0888f8"
 icons:
   - icon.png
 ---

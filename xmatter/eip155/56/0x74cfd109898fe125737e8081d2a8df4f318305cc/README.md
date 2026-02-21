@@ -8,7 +8,7 @@ name: Bitcoin ELON
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ee9b38"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

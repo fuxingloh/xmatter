@@ -12,7 +12,7 @@ name: Ribbon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc0c54"
+color: "#f80858"
 icons:
   - icon.png
 ---

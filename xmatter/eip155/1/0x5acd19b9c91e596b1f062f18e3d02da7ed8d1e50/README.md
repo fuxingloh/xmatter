@@ -8,7 +8,7 @@ name: BTC LITE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2413fc"
+color: "#2818f8"
 icons:
   - icon.png
 ---

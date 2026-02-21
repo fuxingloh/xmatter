@@ -6,7 +6,7 @@ name: Zeaci
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#34b42c"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

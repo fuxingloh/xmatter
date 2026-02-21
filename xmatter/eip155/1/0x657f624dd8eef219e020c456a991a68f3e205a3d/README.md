@@ -6,7 +6,7 @@ name: Digital Trader Luxury
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c4c3c2"
+color: "#080808"
 icons:
   - icon.png
 ---

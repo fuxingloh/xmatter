@@ -8,7 +8,7 @@ name: D Community
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f7651c"
+color: "#080808"
 icons:
   - icon.png
 ---

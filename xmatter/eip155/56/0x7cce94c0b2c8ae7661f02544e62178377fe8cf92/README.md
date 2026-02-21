@@ -10,7 +10,7 @@ name: Daddy Doge
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a1641d"
+color: "#f898b8"
 icons:
   - icon.png
 ---

@@ -27,7 +27,7 @@ name: DART Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f18b24"
+color: "#f89828"
 icons:
   - icon.png
 ---

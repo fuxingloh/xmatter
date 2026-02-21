@@ -12,7 +12,7 @@ name: AXIA TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f43b5f"
+color: "#080808"
 icons:
   - icon.png
 ---

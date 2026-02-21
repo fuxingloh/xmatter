@@ -8,7 +8,7 @@ name: BitGay
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c759fa"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

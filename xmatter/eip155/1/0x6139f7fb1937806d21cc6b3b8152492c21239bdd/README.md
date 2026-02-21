@@ -6,7 +6,7 @@ name: Unix Chain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bc5c95"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

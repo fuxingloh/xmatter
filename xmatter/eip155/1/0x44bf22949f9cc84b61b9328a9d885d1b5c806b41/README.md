@@ -6,7 +6,7 @@ name: Mozo Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cc8c5c"
+color: "#c88858"
 icons:
   - icon.png
 ---

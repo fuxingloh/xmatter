@@ -12,7 +12,7 @@ symbol: CMCSAx
 decimals: 18
 icons:
   - icon.png
-color: "#078bcb"
+color: "#0888c8"
 ---
 
 Comcast xStock

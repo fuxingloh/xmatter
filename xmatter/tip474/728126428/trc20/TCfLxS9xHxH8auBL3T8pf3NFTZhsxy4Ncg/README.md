@@ -8,7 +8,7 @@ name: Pallapay
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#050d2d"
+color: "#080828"
 icons:
   - icon.png
 ---

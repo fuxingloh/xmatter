@@ -6,7 +6,7 @@ name: Inventive Combine EFOOD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6db4d4"
+color: "#88b848"
 icons:
   - icon.png
 ---

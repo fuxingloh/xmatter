@@ -6,7 +6,7 @@ name: LGN International
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8a2620"
+color: "#080808"
 icons:
   - icon.png
 ---

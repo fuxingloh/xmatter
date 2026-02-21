@@ -6,7 +6,7 @@ name: Titanium BAR Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5e659e"
+color: "#6868a8"
 icons:
   - icon.png
 ---

@@ -24,7 +24,7 @@ name: Duelist King Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c59f5a"
+color: "#080818"
 icons:
   - icon.png
 ---

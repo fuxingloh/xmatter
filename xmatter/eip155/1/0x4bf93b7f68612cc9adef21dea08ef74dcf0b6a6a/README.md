@@ -6,7 +6,7 @@ name: DVINCI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d8c6b9"
+color: "#d8c8b8"
 icons:
   - icon.png
 ---

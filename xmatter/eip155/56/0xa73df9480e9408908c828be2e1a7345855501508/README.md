@@ -16,7 +16,7 @@ name: BabyDogeZilla
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#435462"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

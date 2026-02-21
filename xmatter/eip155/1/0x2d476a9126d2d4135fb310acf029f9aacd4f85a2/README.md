@@ -6,7 +6,7 @@ name: Soft Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6c64f4"
+color: "#6868f8"
 icons:
   - icon.png
 ---

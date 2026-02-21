@@ -12,7 +12,7 @@ name: Happy Cat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#daeae0"
+color: "#f8f8e8"
 icons:
   - icon.png
 ---

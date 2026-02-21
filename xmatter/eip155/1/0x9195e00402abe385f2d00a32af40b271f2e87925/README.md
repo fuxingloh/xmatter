@@ -8,7 +8,7 @@ name: ETHEERA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#81a7cd"
+color: "#78a8d8"
 icons:
   - icon.png
 ---

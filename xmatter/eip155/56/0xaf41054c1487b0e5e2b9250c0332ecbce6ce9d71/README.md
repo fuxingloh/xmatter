@@ -18,7 +18,7 @@ name: Ellipsis X
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7778de"
+color: "#181818"
 icons:
   - icon.png
 ---

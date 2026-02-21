@@ -22,7 +22,7 @@ name: XcelPay
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6964f9"
+color: "#7858f8"
 icons:
   - icon.png
 ---

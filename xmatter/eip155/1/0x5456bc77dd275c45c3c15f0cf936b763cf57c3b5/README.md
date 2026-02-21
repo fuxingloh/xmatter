@@ -8,7 +8,7 @@ name: Anchor
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ebe6ce"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

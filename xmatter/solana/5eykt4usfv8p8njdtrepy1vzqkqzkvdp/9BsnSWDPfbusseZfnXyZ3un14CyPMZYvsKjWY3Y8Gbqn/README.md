@@ -10,7 +10,7 @@ name: Perpetual Protocol (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#3beaaa"
+color: "#38e8a8"
 icons:
   - icon.png
 ---

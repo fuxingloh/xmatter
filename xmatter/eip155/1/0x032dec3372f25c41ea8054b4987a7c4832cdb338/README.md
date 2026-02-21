@@ -14,7 +14,7 @@ name: Netflix (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e40d15"
+color: "#e80818"
 icons:
   - icon.png
 ---

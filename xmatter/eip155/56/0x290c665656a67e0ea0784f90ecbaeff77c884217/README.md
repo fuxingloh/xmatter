@@ -8,7 +8,7 @@ name: Tatcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#21196e"
+color: "#181868"
 icons:
   - icon.png
 ---

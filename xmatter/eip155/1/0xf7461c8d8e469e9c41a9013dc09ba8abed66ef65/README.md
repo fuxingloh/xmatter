@@ -8,7 +8,7 @@ name: Cryptassist
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3b95cc"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Centaure Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#202f4d"
+color: "#182848"
 icons:
   - icon.png
 ---

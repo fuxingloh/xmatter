@@ -6,7 +6,7 @@ name: Mavro Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#20856d"
+color: "#080808"
 icons:
   - icon.png
 ---

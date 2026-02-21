@@ -16,7 +16,7 @@ name: Folder Protocol Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1ca4a5"
+color: "#18a8a8"
 icons:
   - icon.png
 ---

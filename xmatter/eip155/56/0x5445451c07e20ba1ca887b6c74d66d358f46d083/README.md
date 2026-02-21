@@ -20,7 +20,7 @@ name: Zombie World Z
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2f1f4e"
+color: "#28e8f8"
 icons:
   - icon.png
 ---

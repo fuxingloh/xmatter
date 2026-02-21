@@ -12,7 +12,7 @@ name: ZedDex
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#38a4e6"
+color: "#080808"
 icons:
   - icon.png
 ---

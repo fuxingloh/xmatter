@@ -6,7 +6,7 @@ name: hexplay
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc0456"
+color: "#080808"
 icons:
   - icon.png
 ---

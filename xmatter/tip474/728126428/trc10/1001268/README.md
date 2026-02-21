@@ -6,7 +6,7 @@ name: TronTokensContributor
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#82acce"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

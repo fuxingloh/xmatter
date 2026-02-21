@@ -8,7 +8,7 @@ name: Gene Source Code Chain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ec462b"
+color: "#080808"
 icons:
   - icon.png
 ---

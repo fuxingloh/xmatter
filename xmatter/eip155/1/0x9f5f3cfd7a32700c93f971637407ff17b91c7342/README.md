@@ -8,7 +8,7 @@ name: ScryDddToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a6ce4f"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: CryptoZ eXPerience
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f0ce79"
+color: "#080808"
 icons:
   - icon.png
 ---

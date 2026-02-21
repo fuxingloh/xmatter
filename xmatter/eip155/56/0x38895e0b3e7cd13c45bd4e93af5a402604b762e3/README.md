@@ -23,7 +23,7 @@ name: BabyPooCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c79d66"
+color: "#080808"
 icons:
   - icon.png
 ---

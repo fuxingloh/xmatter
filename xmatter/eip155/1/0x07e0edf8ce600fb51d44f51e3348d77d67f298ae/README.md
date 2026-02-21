@@ -14,7 +14,7 @@ name: HarryPotterObamaPacMan8Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#852263"
+color: "#f8f818"
 icons:
   - icon.png
 ---

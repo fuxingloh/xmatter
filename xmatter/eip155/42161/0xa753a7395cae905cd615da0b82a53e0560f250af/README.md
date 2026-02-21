@@ -14,7 +14,7 @@ name: Nasdaq tokenized ETF (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#13474f"
+color: "#184858"
 icons:
   - icon.png
 ---

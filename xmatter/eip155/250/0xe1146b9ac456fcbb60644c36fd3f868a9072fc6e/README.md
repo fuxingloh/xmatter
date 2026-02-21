@@ -18,7 +18,7 @@ symbol: FBTC
 decimals: 18
 icons:
   - icon.png
-color: "#f4931b"
+color: "#f89818"
 ---
 
 Bitcoin FTM (FBTC) is a token on Binance Chain issued by Binance, where the price is pegged to BTC at a rate of 1 FTCB = 1 BTC.

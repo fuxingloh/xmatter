@@ -6,7 +6,7 @@ name: BLOCKCHAIN NEWMEDIA NETWORK
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bc9b47"
+color: "#080808"
 icons:
   - icon.png
 ---

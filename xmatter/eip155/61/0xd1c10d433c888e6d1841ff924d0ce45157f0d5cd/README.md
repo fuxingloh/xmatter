@@ -8,5 +8,5 @@ symbol: UNITS
 decimals: 6
 icons:
   - icon.png
-color: "#2b4a48"
+color: "#080808"
 ---

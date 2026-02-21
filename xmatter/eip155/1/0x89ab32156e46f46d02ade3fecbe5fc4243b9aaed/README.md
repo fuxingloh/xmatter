@@ -10,7 +10,7 @@ name: pNetwork
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fbf4d1"
+color: "#f86868"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ name: Magic Internet Money
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#eaed5f"
+color: "#080808"
 icons:
   - icon.png
 ---

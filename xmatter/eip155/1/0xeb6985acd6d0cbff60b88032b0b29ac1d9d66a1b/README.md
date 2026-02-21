@@ -8,7 +8,7 @@ name: Bitbook Gambling
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f84850"
+color: "#f84858"
 icons:
   - icon.png
 ---

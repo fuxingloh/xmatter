@@ -6,7 +6,7 @@ name: Libfx
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ff0000"
+color: "#f80808"
 icons:
   - icon.png
 ---

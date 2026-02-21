@@ -12,7 +12,7 @@ name: Euruka Tech AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d4ac45"
+color: "#080808"
 icons:
   - icon.png
 ---

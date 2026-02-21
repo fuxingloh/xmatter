@@ -12,7 +12,7 @@ name: MAGA 2025
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2d2a3c"
+color: "#e8e8e8"
 icons:
   - icon.png
 ---

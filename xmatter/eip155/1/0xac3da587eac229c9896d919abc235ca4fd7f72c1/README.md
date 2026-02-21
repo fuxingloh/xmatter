@@ -6,7 +6,7 @@ name: Target Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#434343"
+color: "#383838"
 icons:
   - icon.png
 ---

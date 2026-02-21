@@ -8,7 +8,7 @@ name: ADD.xyz
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6eccf4"
+color: "#28b8f8"
 icons:
   - icon.svg
   - icon.png

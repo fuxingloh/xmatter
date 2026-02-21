@@ -8,5 +8,5 @@ symbol: BLZG1
 decimals: 0
 icons:
   - icon.png
-color: "#ab4516"
+color: "#080808"
 ---

@@ -6,7 +6,7 @@ name: Video
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b7c9f5"
+color: "#080808"
 icons:
   - icon.png
 ---

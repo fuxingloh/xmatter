@@ -8,7 +8,7 @@ name: AMA Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f43817"
+color: "#486878"
 icons:
   - icon.png
 ---

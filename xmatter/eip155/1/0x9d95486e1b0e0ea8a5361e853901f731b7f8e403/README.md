@@ -14,7 +14,7 @@ name: BORED PEPE VIP CLUB
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#050505"
+color: "#080808"
 icons:
   - icon.png
 ---

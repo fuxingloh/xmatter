@@ -6,7 +6,7 @@ name: vEGP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#54547c"
+color: "#585878"
 icons:
   - icon.png
 ---

@@ -20,7 +20,7 @@ name: Memeflate
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#632c91"
+color: "#582898"
 icons:
   - icon.png
 ---

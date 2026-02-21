@@ -32,7 +32,7 @@ name: elizaOS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#050404"
+color: "#f85808"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Shoggoth
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#97ad89"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

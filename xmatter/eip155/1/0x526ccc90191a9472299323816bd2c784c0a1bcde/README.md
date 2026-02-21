@@ -6,7 +6,7 @@ name: DataOnBlock
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d6c1bd"
+color: "#080808"
 icons:
   - icon.png
 ---

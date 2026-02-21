@@ -8,7 +8,7 @@ name: TGAME
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#379d9b"
+color: "#080808"
 icons:
   - icon.png
 ---

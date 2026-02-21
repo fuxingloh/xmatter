@@ -8,7 +8,7 @@ name: MOONSTORM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e7e6e8"
+color: "#e8e8e8"
 icons:
   - icon.png
 ---

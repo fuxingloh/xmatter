@@ -6,7 +6,7 @@ name: DKG Dark Pool Chain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6996c4"
+color: "#080808"
 icons:
   - icon.png
 ---

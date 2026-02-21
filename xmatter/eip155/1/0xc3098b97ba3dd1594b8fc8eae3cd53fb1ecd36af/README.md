@@ -6,7 +6,7 @@ name: DitCoin Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#042c5c"
+color: "#080808"
 icons:
   - icon.png
 ---

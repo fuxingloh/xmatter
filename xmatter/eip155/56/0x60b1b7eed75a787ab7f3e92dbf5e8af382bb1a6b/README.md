@@ -14,7 +14,7 @@ name: BabyBroccoli
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e69b3a"
+color: "#f89828"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Navate AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#21a7db"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

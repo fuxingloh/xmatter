@@ -27,7 +27,7 @@ name: CashCow
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#233640"
+color: "#080808"
 icons:
   - icon.png
 ---

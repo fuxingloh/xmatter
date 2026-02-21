@@ -6,7 +6,7 @@ name: Swap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3cc3f3"
+color: "#080808"
 icons:
   - icon.png
 ---

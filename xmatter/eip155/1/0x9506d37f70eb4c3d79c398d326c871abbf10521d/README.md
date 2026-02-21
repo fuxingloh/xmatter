@@ -12,7 +12,7 @@ name: Media Licensing Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#050404"
+color: "#080808"
 icons:
   - icon.png
 ---

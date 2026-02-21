@@ -18,7 +18,7 @@ name: Kaiken Shiba
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ef8e2b"
+color: "#080808"
 icons:
   - icon.png
 ---

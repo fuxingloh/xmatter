@@ -8,5 +8,5 @@ symbol: MKR
 decimals: 18
 icons:
   - icon.png
-color: "#506e7b"
+color: "#f8f8f8"
 ---

@@ -8,7 +8,7 @@ name: BitStation
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cbcac5"
+color: "#080808"
 icons:
   - icon.png
 ---

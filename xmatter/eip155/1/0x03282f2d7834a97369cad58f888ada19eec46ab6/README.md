@@ -8,7 +8,7 @@ name: Globex
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1a237e"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: Answer me
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#745a52"
+color: "#986858"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Magic Eden
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#ef0574"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

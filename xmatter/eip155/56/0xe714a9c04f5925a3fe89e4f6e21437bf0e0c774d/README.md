@@ -8,7 +8,7 @@ name: GOLD FINCH CRYPTO CURRENCY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2d1a05"
+color: "#281808"
 icons:
   - icon.png
 ---

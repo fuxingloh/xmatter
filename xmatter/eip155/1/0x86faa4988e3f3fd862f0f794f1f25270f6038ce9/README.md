@@ -6,7 +6,7 @@ name: GlobalCitizenCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bd9343"
+color: "#080808"
 icons:
   - icon.png
 ---

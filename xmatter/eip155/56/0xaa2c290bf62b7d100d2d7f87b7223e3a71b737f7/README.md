@@ -8,7 +8,7 @@ name: SaveAnimal
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#161d24"
+color: "#181828"
 icons:
   - icon.png
 ---

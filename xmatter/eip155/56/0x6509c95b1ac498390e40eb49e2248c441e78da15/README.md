@@ -8,7 +8,7 @@ name: BNB Gold
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#333333"
+color: "#282828"
 icons:
   - icon.png
 ---

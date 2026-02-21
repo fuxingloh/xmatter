@@ -6,7 +6,7 @@ name: OYO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#536c99"
+color: "#080808"
 icons:
   - icon.png
 ---

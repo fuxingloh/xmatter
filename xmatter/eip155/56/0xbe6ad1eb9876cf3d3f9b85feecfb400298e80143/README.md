@@ -14,7 +14,7 @@ name: AI Companions
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d8b5da"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: WEBN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f4c30c"
+color: "#f8c808"
 icons:
   - icon.png
 ---

@@ -13,7 +13,7 @@ symbol: IBMx
 decimals: 18
 icons:
   - icon.png
-color: "#0c64fb"
+color: "#0868f8"
 ---
 
 International Business Machines xStock

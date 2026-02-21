@@ -15,7 +15,7 @@ name: Wrapped Bank of America Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#147bc3"
+color: "#1878c8"
 icons:
   - icon.png
 ---

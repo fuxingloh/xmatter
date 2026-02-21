@@ -20,7 +20,7 @@ name: Metya Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d6e61f"
+color: "#c8d818"
 icons:
   - icon.png
 ---

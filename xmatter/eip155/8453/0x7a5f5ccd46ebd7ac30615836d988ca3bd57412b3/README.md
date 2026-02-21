@@ -12,7 +12,7 @@ name: TAOCat by Virtuals
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8f7e77"
+color: "#684838"
 icons:
   - icon.png
 ---

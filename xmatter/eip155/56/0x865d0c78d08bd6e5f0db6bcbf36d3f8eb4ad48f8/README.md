@@ -8,7 +8,7 @@ name: KILIMANJARO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#db9933"
+color: "#a85818"
 icons:
   - icon.png
 ---

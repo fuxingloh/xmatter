@@ -6,7 +6,7 @@ name: All World Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0f5796"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

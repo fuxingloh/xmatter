@@ -12,7 +12,7 @@ name: HONEY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#4c74e3"
+color: "#4878e8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: EUSD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08499c"
+color: "#084898"
 icons:
   - icon.png
 ---

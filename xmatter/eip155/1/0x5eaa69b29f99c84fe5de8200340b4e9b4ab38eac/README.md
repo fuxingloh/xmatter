@@ -8,7 +8,7 @@ name: Raze Network Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ca3d6a"
+color: "#080808"
 icons:
   - icon.png
 ---

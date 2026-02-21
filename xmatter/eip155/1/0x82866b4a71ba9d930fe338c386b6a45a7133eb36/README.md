@@ -14,7 +14,7 @@ name: QCORE.FINANCE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#443b4c"
+color: "#483848"
 icons:
   - icon.png
 ---

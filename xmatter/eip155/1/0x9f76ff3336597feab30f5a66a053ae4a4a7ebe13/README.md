@@ -6,7 +6,7 @@ name: Token Play
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2087bb"
+color: "#080808"
 icons:
   - icon.png
 ---

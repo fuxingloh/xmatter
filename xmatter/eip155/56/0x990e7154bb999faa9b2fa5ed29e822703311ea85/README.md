@@ -14,7 +14,7 @@ name: BNB pegged ThunderCore
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#041cd4"
+color: "#080808"
 icons:
   - icon.png
 ---

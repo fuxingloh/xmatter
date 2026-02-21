@@ -6,7 +6,7 @@ name: EtherCare
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#74a93c"
+color: "#080808"
 icons:
   - icon.png
 ---

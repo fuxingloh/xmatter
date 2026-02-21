@@ -10,7 +10,7 @@ name: Monkey Pox
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#64e91d"
+color: "#68e818"
 icons:
   - icon.png
 ---

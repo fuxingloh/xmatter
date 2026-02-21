@@ -8,7 +8,7 @@ name: CryptoBRL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#236cc4"
+color: "#2868c8"
 icons:
   - icon.png
 ---

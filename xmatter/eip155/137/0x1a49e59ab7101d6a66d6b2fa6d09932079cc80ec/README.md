@@ -18,7 +18,7 @@ name: WinsToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f5c048"
+color: "#080808"
 icons:
   - icon.png
 ---

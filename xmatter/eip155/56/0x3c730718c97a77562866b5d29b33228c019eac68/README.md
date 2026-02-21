@@ -8,7 +8,7 @@ name: BNB Diamond
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bdbdc2"
+color: "#080808"
 icons:
   - icon.png
 ---

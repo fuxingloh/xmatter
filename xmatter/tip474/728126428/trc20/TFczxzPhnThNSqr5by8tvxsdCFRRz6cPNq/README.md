@@ -8,7 +8,7 @@ name: APENFT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#dedddc"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

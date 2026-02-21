@@ -8,7 +8,7 @@ name: Prime DAI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#130c33"
+color: "#180838"
 icons:
   - icon.png
 ---

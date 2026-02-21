@@ -8,7 +8,7 @@ name: GAMESTARS TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4f1f6c"
+color: "#380858"
 icons:
   - icon.png
 ---

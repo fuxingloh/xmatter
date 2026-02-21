@@ -20,7 +20,7 @@ name: Rielcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fbc304"
+color: "#f8c808"
 icons:
   - icon.png
 ---

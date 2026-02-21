@@ -15,7 +15,7 @@ decimals: 18
 icons:
   - icon.svg
   - icon.png
-color: "#55b7a0"
+color: "#b8d8d8"
 ---
 
 The SpiritSwap protocol adds incentives for Fantom network participants by introducing revenue sharing through the classic AMM model.

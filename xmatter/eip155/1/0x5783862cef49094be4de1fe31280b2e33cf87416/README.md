@@ -6,7 +6,7 @@ name: KredX Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b5d7e2"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

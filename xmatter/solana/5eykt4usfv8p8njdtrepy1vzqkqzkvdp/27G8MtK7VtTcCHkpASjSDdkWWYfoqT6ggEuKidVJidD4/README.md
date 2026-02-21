@@ -12,7 +12,7 @@ name: Jupiter Perps LP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#75d8af"
+color: "#181828"
 icons:
   - icon.png
 ---

@@ -22,7 +22,7 @@ name: Flux
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2c63d3"
+color: "#2868d8"
 icons:
   - icon.png
 ---

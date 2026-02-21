@@ -8,7 +8,7 @@ name: Maecenas ART Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4c4c4c"
+color: "#484848"
 icons:
   - icon.png
 ---

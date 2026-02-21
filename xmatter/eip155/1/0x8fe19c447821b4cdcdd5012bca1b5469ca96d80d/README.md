@@ -6,7 +6,7 @@ name: ETH.TOWN Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e3910a"
+color: "#080808"
 icons:
   - icon.png
 ---

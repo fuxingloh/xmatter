@@ -6,7 +6,7 @@ name: True Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d9ac2a"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

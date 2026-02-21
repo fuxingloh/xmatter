@@ -14,7 +14,7 @@ standards:
   - erc20
 icons:
   - icon.png
-color: "#e25a9c"
+color: "#080808"
 ---
 
 SOCIAL NFT is a BNB based NFT (non-fungible token) platform for social media personalities who want to create digital collectibles of their likeness. Secured with blockchain technology.

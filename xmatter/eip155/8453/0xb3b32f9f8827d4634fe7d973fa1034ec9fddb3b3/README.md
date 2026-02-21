@@ -16,7 +16,7 @@ name: B3
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#346cec"
+color: "#3868e8"
 icons:
   - icon.svg
   - icon.png

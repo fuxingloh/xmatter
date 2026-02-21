@@ -18,7 +18,7 @@ name: Socaverse
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8cede6"
+color: "#080808"
 icons:
   - icon.png
 ---

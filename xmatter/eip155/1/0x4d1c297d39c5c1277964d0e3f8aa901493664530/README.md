@@ -14,7 +14,7 @@ name: Puffer
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#545ce4"
+color: "#5858e8"
 icons:
   - icon.png
 ---

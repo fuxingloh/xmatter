@@ -6,7 +6,7 @@ name: Eurasia Food coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6eadcc"
+color: "#78b848"
 icons:
   - icon.png
 ---

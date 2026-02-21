@@ -28,7 +28,7 @@ standards:
   - erc20
 icons:
   - icon.png
-color: "#522f82"
+color: "#080808"
 ---
 
 Launched in 2021, DOGAMÍ is an entertainment company that develops web3 games centered around the Dogamí, mystical 3D dog avatars imbued with spiritual powers. DOGAMÍ users can experience different interactive experiences in an immersive universe. $DOGA is the primary currency of the DOGAMÍ universe, a multichain-utility token limited to 1B tokens with multiple use cases.

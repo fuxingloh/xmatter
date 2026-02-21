@@ -10,7 +10,7 @@ name: Yawn's World
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7cc9cb"
+color: "#78c8c8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: WalletPlusX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5765a7"
+color: "#5868a8"
 icons:
   - icon.png
 ---

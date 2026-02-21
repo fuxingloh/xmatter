@@ -8,7 +8,7 @@ name: Xfinance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6ce4fc"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -16,7 +16,7 @@ name: Ofin Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c76c2f"
+color: "#080808"
 icons:
   - icon.png
 ---

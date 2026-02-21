@@ -20,7 +20,7 @@ name: SquidGrow
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eee628"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

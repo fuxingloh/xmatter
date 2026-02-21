@@ -14,7 +14,7 @@ name: Meta World Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e0ba12"
+color: "#080808"
 icons:
   - icon.png
 ---

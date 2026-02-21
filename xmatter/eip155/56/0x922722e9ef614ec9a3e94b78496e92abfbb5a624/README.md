@@ -20,7 +20,7 @@ name: IL CAPO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#060604"
+color: "#f8d818"
 icons:
   - icon.png
 ---

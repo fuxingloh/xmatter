@@ -15,7 +15,7 @@ name: Wrapped Gamestop Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#090404"
+color: "#f80808"
 icons:
   - icon.png
 ---

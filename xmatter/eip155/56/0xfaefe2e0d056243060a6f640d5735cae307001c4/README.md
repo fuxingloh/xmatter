@@ -8,7 +8,7 @@ name: Supermoon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8d4b97"
+color: "#080808"
 icons:
   - icon.png
 ---

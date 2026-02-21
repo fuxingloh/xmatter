@@ -14,7 +14,7 @@ name: Aurory
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#5f2da4"
+color: "#e8e8e8"
 icons:
   - icon.png
 ---

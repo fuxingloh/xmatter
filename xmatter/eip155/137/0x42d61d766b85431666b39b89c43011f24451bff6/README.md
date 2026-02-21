@@ -16,7 +16,7 @@ name: ParaSwap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5085f9"
+color: "#5888f8"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: IO Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#040707"
+color: "#08f8f8"
 icons:
   - icon.png
 ---

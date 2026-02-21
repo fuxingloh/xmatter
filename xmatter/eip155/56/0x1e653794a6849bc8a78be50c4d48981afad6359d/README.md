@@ -26,7 +26,7 @@ name: ADA BOY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0434ac"
+color: "#0838a8"
 icons:
   - icon.png
 ---

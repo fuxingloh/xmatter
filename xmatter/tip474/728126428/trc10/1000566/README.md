@@ -6,7 +6,7 @@ name: SiddhaMedicine
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#68533d"
+color: "#889858"
 icons:
   - icon.png
 ---

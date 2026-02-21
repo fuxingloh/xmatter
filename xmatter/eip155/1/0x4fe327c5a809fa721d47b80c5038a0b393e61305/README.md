@@ -6,7 +6,7 @@ name: IOTW
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#421d4f"
+color: "#080808"
 icons:
   - icon.png
 ---

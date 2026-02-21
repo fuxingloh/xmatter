@@ -14,7 +14,7 @@ name: Coinbase (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0655fc"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

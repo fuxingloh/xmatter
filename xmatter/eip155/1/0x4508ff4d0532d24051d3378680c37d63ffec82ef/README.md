@@ -6,7 +6,7 @@ name: Thorium
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d9b865"
+color: "#080808"
 icons:
   - icon.png
 ---

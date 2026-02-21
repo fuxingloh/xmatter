@@ -12,7 +12,7 @@ name: nomnom
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#aa876f"
+color: "#a88868"
 icons:
   - icon.png
 ---

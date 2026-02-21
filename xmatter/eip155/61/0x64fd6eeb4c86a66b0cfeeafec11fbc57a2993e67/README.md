@@ -8,5 +8,5 @@ symbol: XNDO
 decimals: 8
 icons:
   - icon.png
-color: "#0a0a09"
+color: "#080808"
 ---

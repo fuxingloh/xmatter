@@ -6,7 +6,7 @@ name: Zero Fee Xchange
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eaddea"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

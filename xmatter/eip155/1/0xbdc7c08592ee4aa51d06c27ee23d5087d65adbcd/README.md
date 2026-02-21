@@ -14,7 +14,7 @@ name: Lift Dollar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#044c74"
+color: "#084878"
 icons:
   - icon.png
 ---

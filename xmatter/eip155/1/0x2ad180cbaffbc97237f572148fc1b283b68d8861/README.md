@@ -6,7 +6,7 @@ name: IZX Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f3cb2c"
+color: "#f8c828"
 icons:
   - icon.png
 ---

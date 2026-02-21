@@ -14,7 +14,7 @@ name: TQQQ tokenized ETF (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f3f3fb"
+color: "#e8f8f8"
 icons:
   - icon.png
 ---

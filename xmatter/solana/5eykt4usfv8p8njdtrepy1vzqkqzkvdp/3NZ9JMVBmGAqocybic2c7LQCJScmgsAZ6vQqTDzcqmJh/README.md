@@ -10,7 +10,7 @@ name: Wrapped BTC (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f3931e"
+color: "#f89818"
 icons:
   - icon.png
 ---

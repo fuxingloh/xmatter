@@ -20,7 +20,7 @@ name: CryptoBlades KING Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3a3427"
+color: "#181808"
 icons:
   - icon.png
 ---

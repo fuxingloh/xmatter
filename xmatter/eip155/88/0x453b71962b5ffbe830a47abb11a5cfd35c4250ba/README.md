@@ -17,7 +17,7 @@ symbol: XSMB
 decimals: 18
 icons:
   - icon.png
-color: "#1454ac"
+color: "#080808"
 ---
 
 Revolutionizing the Global Lottery Industry with Harnessing Blockchain and Smart Contracts

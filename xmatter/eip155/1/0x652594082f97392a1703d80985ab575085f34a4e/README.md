@@ -8,7 +8,7 @@ name: Silvertoken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bbbbbb"
+color: "#b8b8b8"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ symbol: IMMO
 decimals: 9
 icons:
   - icon.png
-color: "#caf905"
+color: "#080808"
 ---
 
 Immortal is a decentralized reserve currency protocol on Celo blockchain based on the IMMO token.

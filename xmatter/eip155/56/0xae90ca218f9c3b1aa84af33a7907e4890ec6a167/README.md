@@ -20,7 +20,7 @@ name: ECLAT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c3791b"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

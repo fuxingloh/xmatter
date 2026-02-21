@@ -6,7 +6,7 @@ name: Old Fishman Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#046c44"
+color: "#086848"
 icons:
   - icon.png
 ---

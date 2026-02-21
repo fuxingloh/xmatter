@@ -12,7 +12,7 @@ name: Ben the Dog
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f0ca6c"
+color: "#f8d868"
 icons:
   - icon.png
 ---

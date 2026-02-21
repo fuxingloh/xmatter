@@ -6,7 +6,7 @@ name: CoinFuns
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b4cc4d"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

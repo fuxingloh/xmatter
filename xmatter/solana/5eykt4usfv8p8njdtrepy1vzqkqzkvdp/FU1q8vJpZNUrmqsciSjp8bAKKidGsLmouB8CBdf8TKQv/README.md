@@ -12,7 +12,7 @@ name: doland tremp
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#074ba9"
+color: "#0848a8"
 icons:
   - icon.png
 ---

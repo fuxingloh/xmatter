@@ -8,7 +8,7 @@ name: Gifto
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7c25fa"
+color: "#7828f8"
 icons:
   - icon.png
 ---

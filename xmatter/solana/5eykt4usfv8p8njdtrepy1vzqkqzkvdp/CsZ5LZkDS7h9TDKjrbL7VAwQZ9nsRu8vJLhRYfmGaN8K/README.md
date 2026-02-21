@@ -16,7 +16,7 @@ name: Wrapped ALEPH (Sollet)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#e1edfb"
+color: "#0858f8"
 icons:
   - icon.png
 ---

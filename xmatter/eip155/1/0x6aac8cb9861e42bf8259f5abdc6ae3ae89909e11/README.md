@@ -8,7 +8,7 @@ name: Bitcoin Red
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b41b0c"
+color: "#b81808"
 icons:
   - icon.png
 ---

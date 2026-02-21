@@ -6,7 +6,7 @@ name: Overdrive
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e3e3eb"
+color: "#080808"
 icons:
   - icon.png
 ---

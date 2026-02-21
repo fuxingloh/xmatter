@@ -14,7 +14,7 @@ symbol: EURC.e
 decimals: 6
 icons:
   - icon.png
-color: "#2474cc"
+color: "#2878c8"
 ---
 
 EURC is a euro-backed stablecoin issued by Circle. EURC is designed to provide a faster, safer, and more efficient way to send, spend, and exchange money around the world.

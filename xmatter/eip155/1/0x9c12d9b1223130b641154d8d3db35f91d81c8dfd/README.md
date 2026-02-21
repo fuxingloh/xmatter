@@ -8,7 +8,7 @@ name: INBIT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#183a4e"
+color: "#080808"
 icons:
   - icon.png
 ---

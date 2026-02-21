@@ -6,7 +6,7 @@ name: Bilibit
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b69354"
+color: "#080808"
 icons:
   - icon.png
 ---

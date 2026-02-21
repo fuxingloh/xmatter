@@ -6,7 +6,7 @@ name: Socool
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ba1f4d"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: MUNCH Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cc477e"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

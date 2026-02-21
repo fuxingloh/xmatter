@@ -8,7 +8,7 @@ name: Spendcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#247ce3"
+color: "#2878e8"
 icons:
   - icon.png
 ---

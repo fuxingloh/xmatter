@@ -16,7 +16,7 @@ name: Vameon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#9a0404"
+color: "#d80808"
 icons:
   - icon.png
 ---

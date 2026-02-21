@@ -6,7 +6,7 @@ name: Astatos Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0d436e"
+color: "#080808"
 icons:
   - icon.png
 ---

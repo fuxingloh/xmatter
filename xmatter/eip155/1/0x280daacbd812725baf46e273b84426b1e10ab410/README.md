@@ -8,7 +8,7 @@ name: CBEX TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bd2934"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

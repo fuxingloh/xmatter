@@ -6,7 +6,7 @@ name: CryptoPro
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#94bde5"
+color: "#080808"
 icons:
   - icon.png
 ---

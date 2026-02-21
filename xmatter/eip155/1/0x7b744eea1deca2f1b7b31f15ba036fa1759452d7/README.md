@@ -14,7 +14,7 @@ name: El Hippo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04131c"
+color: "#081818"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Raven Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1d3846"
+color: "#080808"
 icons:
   - icon.png
 ---

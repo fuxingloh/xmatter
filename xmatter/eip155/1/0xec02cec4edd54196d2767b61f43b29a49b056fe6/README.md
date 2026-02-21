@@ -8,7 +8,7 @@ name: Unifier
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#242829"
+color: "#282828"
 icons:
   - icon.png
 ---

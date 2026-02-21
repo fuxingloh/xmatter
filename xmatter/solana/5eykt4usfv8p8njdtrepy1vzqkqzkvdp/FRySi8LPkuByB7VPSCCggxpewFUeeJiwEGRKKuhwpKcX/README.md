@@ -12,7 +12,7 @@ name: NATIX Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#11151b"
+color: "#181818"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ name: Saber Protocol Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#6463fa"
+color: "#181818"
 icons:
   - icon.png
 ---

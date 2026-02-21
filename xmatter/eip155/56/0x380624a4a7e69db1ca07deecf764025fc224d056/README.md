@@ -8,7 +8,7 @@ name: SafeBTC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#43f4a2"
+color: "#080808"
 icons:
   - icon.png
 ---

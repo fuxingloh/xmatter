@@ -10,7 +10,7 @@ name: Geodnet
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#cb2434"
+color: "#c81828"
 icons:
   - icon.png
 ---

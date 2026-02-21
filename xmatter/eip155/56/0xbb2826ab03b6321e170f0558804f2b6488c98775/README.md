@@ -24,7 +24,7 @@ name: BNB Smart Chain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f24c09"
+color: "#f84808"
 icons:
   - icon.png
 ---

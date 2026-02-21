@@ -12,7 +12,7 @@ name: OpSec
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d7c5c4"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

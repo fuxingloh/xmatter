@@ -8,5 +8,5 @@ symbol: BCDN
 decimals: 15
 icons:
   - icon.png
-color: "#f2f9f8"
+color: "#f8f8f8"
 ---

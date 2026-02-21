@@ -6,7 +6,7 @@ name: High Tech Genesis
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b7bdbd"
+color: "#080818"
 icons:
   - icon.png
 ---

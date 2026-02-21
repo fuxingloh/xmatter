@@ -12,7 +12,7 @@ symbol: AZNx
 decimals: 18
 icons:
   - icon.png
-color: "#fbac14"
+color: "#f8a818"
 ---
 
 AstraZeneca xStock

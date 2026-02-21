@@ -18,7 +18,7 @@ name: Muu Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3f3d7d"
+color: "#080808"
 icons:
   - icon.png
 ---

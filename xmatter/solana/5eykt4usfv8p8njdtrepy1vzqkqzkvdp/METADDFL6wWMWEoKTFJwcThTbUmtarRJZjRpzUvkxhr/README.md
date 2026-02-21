@@ -16,7 +16,7 @@ name: META
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#fbfbfb"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: MARBITZ
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d79db5"
+color: "#080818"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: The Best Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#59a7b8"
+color: "#285878"
 icons:
   - icon.png
 ---

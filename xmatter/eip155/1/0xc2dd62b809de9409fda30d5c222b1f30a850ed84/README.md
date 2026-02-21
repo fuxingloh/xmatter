@@ -6,7 +6,7 @@ name: aomucoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2babe3"
+color: "#28a8e8"
 icons:
   - icon.png
 ---

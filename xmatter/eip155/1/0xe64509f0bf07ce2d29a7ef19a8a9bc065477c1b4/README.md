@@ -8,7 +8,7 @@ name: PiplCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8cc33c"
+color: "#080808"
 icons:
   - icon.png
 ---

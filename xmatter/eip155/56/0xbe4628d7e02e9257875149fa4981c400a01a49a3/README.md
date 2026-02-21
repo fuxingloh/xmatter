@@ -12,7 +12,7 @@ name: Jail Doge
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#666152"
+color: "#080808"
 icons:
   - icon.png
 ---

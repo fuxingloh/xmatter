@@ -16,7 +16,7 @@ name: DogWifNoHat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#9e8b75"
+color: "#a89888"
 icons:
   - icon.png
 ---

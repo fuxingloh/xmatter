@@ -8,7 +8,7 @@ name: ConnectJob
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0c1c43"
+color: "#081848"
 icons:
   - icon.png
 ---

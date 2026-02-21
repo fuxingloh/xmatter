@@ -12,7 +12,7 @@ name: Arbius
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eeebfc"
+color: "#e8e8f8"
 icons:
   - icon.png
 ---

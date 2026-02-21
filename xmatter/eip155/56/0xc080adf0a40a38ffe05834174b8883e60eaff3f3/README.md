@@ -8,7 +8,7 @@ name: AlfaPocket
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc543f"
+color: "#e85848"
 icons:
   - icon.png
 ---

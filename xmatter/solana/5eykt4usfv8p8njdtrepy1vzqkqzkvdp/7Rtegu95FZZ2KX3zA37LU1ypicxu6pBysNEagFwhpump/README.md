@@ -12,7 +12,7 @@ name: Plankton in Pain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#223947"
+color: "#080848"
 icons:
   - icon.png
 ---

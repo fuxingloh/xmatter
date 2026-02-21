@@ -8,7 +8,7 @@ name: MorCrypto Coin 2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1a1b6d"
+color: "#486878"
 icons:
   - icon.png
 ---

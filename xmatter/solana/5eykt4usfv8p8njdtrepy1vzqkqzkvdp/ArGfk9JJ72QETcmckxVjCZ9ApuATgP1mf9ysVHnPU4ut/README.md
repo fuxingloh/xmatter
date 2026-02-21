@@ -12,7 +12,7 @@ name: Byte
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#db590a"
+color: "#d85808"
 icons:
   - icon.png
 ---

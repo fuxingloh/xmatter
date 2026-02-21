@@ -14,7 +14,7 @@ symbol: BINU
 decimals: 18
 icons:
   - icon.png
-color: "#090b0d"
+color: "#080808"
 ---
 
 By leveraging the advanced features of the Blast L2 blockchain, Blast Inu ensures swift and efficient transactions without the burden of additional taxes.

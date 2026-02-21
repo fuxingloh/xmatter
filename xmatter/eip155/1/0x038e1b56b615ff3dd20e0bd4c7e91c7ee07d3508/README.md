@@ -8,7 +8,7 @@ name: Fulcrum Perpetual Long WBTC-DAI 3x v2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04ccbc"
+color: "#080808"
 icons:
   - icon.png
 ---

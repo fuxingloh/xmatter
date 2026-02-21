@@ -8,7 +8,7 @@ name: Fountain 2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#12a7fc"
+color: "#080808"
 icons:
   - icon.png
 ---

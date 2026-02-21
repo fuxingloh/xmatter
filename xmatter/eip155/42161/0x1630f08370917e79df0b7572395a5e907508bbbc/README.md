@@ -15,7 +15,7 @@ name: Wrapped Alphabet Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4383f3"
+color: "#4888f8"
 icons:
   - icon.png
 ---

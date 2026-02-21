@@ -16,7 +16,7 @@ name: Mello
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eccc2b"
+color: "#e8c828"
 icons:
   - icon.png
 ---

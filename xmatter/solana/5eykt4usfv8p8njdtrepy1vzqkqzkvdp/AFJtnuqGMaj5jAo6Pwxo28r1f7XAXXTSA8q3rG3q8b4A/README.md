@@ -12,7 +12,7 @@ name: CARV
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#e5e2e2"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

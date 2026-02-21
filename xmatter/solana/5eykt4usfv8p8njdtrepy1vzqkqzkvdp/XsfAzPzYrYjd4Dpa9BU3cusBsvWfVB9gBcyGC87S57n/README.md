@@ -14,7 +14,7 @@ name: Novo Nordisk tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#04abdb"
+color: "#08a8d8"
 icons:
   - icon.png
 ---

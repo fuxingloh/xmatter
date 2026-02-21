@@ -10,7 +10,7 @@ name: Elon for AfD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#bc9e8a"
+color: "#0898e8"
 icons:
   - icon.png
 ---

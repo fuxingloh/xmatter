@@ -6,7 +6,7 @@ name: bZx REP iToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0d61d8"
+color: "#582858"
 icons:
   - icon.png
 ---

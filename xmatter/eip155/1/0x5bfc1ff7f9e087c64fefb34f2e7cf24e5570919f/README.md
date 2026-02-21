@@ -6,7 +6,7 @@ name: Habitus
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3a3b47"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

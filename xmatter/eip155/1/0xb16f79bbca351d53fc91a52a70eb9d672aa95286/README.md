@@ -6,7 +6,7 @@ name: BLASH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ad6f11"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

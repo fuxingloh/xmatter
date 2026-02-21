@@ -8,7 +8,7 @@ name: Chess Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0e1d35"
+color: "#081838"
 icons:
   - icon.png
 ---

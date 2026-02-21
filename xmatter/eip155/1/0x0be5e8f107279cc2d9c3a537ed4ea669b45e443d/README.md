@@ -8,7 +8,7 @@ name: POMDA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#142b43"
+color: "#182848"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ name: PepsiCo tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0494d4"
+color: "#0898d8"
 icons:
   - icon.png
 ---

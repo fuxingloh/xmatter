@@ -22,7 +22,7 @@ name: ThunderBNB Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#efc641"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

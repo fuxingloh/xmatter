@@ -14,7 +14,7 @@ name: Binance ABBC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f99c07"
+color: "#f89808"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ standards:
   - erc20
 icons:
   - icon.png
-color: "#dd6325"
+color: "#080808"
 ---
 
 RedPanda Earth is a deflationary token focused on donating to charitable organizations worldwide to save our endangered species.

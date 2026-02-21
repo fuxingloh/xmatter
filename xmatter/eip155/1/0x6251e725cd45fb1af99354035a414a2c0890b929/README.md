@@ -8,7 +8,7 @@ name: MixTrust
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04c3ea"
+color: "#08c8e8"
 icons:
   - icon.png
 ---

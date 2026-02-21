@@ -6,7 +6,7 @@ name: Gastoken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d4d4d4"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

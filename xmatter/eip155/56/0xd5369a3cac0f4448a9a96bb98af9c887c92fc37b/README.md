@@ -10,7 +10,7 @@ name: Bubb
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b4b4a8"
+color: "#b8b8a8"
 icons:
   - icon.png
 ---

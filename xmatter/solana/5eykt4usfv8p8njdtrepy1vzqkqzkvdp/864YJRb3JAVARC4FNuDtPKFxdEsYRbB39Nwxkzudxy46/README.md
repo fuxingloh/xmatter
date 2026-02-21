@@ -12,7 +12,7 @@ name: HABIBICAT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#dcd2c6"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

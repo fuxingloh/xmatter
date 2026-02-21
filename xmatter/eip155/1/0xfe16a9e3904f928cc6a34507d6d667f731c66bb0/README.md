@@ -6,7 +6,7 @@ name: Easy Deals
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dcd6cb"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

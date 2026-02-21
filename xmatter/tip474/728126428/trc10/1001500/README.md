@@ -8,7 +8,7 @@ name: HaloSocialMeetup
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#306681"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

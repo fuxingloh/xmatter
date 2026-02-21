@@ -12,7 +12,7 @@ name: Tavittcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04509a"
+color: "#080808"
 icons:
   - icon.png
 ---

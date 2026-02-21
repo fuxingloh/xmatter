@@ -12,7 +12,7 @@ name: blinkdotfun
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#0b0b0b"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

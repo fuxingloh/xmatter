@@ -10,7 +10,7 @@ name: DAI (Portal from Polygon)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#fbb832"
+color: "#f8b838"
 icons:
   - icon.png
 ---

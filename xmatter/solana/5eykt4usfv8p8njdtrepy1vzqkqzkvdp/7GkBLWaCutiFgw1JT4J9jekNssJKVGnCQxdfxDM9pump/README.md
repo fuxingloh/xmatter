@@ -12,7 +12,7 @@ name: Kakarot
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#ec6d25"
+color: "#f86818"
 icons:
   - icon.png
 ---

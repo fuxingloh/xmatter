@@ -12,7 +12,7 @@ name: Hege
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f7c747"
+color: "#f8c848"
 icons:
   - icon.png
 ---

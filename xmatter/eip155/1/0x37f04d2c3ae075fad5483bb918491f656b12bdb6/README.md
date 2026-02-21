@@ -8,7 +8,7 @@ name: Vestchain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#00c868"
+color: "#080808"
 icons:
   - icon.png
 ---

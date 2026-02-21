@@ -18,7 +18,7 @@ name: NDT METAVERSE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d3747a"
+color: "#080808"
 icons:
   - icon.png
 ---

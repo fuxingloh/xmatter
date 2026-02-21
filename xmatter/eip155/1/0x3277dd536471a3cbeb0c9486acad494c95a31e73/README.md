@@ -8,7 +8,7 @@ name: Coinhe Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0c70e6"
+color: "#486878"
 icons:
   - icon.png
 ---

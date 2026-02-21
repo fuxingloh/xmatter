@@ -6,7 +6,7 @@ name: MOJI Experience Points
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b1d83c"
+color: "#080808"
 icons:
   - icon.png
 ---

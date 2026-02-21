@@ -8,7 +8,7 @@ name: ClearMoon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1b2746"
+color: "#080808"
 icons:
   - icon.png
 ---

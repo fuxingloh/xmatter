@@ -12,7 +12,7 @@ name: Doug The Duck
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#35548a"
+color: "#385888"
 icons:
   - icon.png
 ---

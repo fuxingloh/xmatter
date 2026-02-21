@@ -20,7 +20,7 @@ name: MonbaseCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#043cfc"
+color: "#0838f8"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Inspeer
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4a3392"
+color: "#483898"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: DigiEuro
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ddf3f2"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

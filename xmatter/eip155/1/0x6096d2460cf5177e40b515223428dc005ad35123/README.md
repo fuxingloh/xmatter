@@ -8,7 +8,7 @@ name: Precium Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4caccf"
+color: "#486878"
 icons:
   - icon.png
 ---

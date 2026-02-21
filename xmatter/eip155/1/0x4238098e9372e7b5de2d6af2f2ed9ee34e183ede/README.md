@@ -6,7 +6,7 @@ name: Carlos
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a8644b"
+color: "#a85838"
 icons:
   - icon.png
 ---

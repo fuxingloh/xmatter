@@ -10,7 +10,7 @@ name: Solayer
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#0b4c3c"
+color: "#084838"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: RocketFuel
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eef4fb"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

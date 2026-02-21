@@ -6,7 +6,7 @@ name: Bit Value Art Bank
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d42423"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

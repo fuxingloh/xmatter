@@ -6,7 +6,7 @@ name: ORATIUM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ddba7e"
+color: "#282828"
 icons:
   - icon.png
 ---

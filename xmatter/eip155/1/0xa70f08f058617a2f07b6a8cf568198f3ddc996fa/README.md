@@ -6,7 +6,7 @@ name: HUGS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f2c973"
+color: "#f8c878"
 icons:
   - icon.png
 ---

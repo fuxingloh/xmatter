@@ -12,7 +12,7 @@ name: would
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#ce985d"
+color: "#181818"
 icons:
   - icon.png
 ---

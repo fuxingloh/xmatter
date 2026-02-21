@@ -12,7 +12,7 @@ name: SANTA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#1d3334"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

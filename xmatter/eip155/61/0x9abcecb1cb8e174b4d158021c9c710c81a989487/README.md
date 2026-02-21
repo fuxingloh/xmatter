@@ -8,5 +8,5 @@ symbol: LOOG1
 decimals: 0
 icons:
   - icon.png
-color: "#f734a9"
+color: "#080808"
 ---

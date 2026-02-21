@@ -6,7 +6,7 @@ name: WorldTravelBlockchain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#20909c"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Kingdom Game 4.0
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d9be72"
+color: "#080808"
 icons:
   - icon.png
 ---

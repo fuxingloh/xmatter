@@ -6,7 +6,7 @@ name: Hunter
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3e3e3e"
+color: "#080808"
 icons:
   - icon.png
 ---

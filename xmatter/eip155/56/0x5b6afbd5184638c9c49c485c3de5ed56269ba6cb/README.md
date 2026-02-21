@@ -24,7 +24,7 @@ name: Aurum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1c1c1c"
+color: "#d8d8d8"
 icons:
   - icon.png
 ---

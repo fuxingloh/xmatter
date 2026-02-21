@@ -15,7 +15,7 @@ name: Super Micro Computer (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#171f6e"
+color: "#181868"
 icons:
   - icon.png
 ---

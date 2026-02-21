@@ -8,7 +8,7 @@ name: Bonfire
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ec810b"
+color: "#081818"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Debt Free Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f79b0a"
+color: "#080808"
 icons:
   - icon.png
 ---

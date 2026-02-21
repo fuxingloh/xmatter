@@ -6,7 +6,7 @@ name: OppCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3a90c3"
+color: "#080808"
 icons:
   - icon.png
 ---

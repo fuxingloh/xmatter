@@ -8,7 +8,7 @@ name: OctaX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eb1c34"
+color: "#080808"
 icons:
   - icon.png
 ---

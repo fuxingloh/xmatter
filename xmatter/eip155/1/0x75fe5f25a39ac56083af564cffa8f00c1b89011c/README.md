@@ -6,7 +6,7 @@ name: Piandex
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c7c7c6"
+color: "#080808"
 icons:
   - icon.png
 ---

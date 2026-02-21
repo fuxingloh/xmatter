@@ -12,7 +12,7 @@ name: Super Trump
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e6984b"
+color: "#080808"
 icons:
   - icon.png
 ---

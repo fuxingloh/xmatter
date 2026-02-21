@@ -6,7 +6,7 @@ name: EthLinkerToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3878e0"
+color: "#080808"
 icons:
   - icon.png
 ---

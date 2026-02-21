@@ -14,7 +14,7 @@ symbol: mcMON
 decimals: 18
 icons:
   - icon.png
-color: "#9a140c"
+color: "#080808"
 ---
 
 mcMON is Moonmace's non-rebasing liquid staking token (LST).

@@ -6,7 +6,7 @@ name: DEXCOIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#14152e"
+color: "#f8f8c8"
 icons:
   - icon.png
 ---

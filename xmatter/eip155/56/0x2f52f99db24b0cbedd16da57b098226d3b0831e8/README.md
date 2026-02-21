@@ -8,7 +8,7 @@ name: LittleGecko
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6f9242"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

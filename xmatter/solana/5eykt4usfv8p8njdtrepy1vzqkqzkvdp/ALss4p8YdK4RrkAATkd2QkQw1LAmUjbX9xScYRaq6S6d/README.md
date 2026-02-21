@@ -10,7 +10,7 @@ name: Gatsby
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f9e7b9"
+color: "#080808"
 icons:
   - icon.png
 ---

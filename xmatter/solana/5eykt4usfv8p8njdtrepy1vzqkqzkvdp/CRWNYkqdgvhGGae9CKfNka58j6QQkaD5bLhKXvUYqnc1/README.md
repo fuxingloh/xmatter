@@ -12,7 +12,7 @@ name: Crowny
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#231233"
+color: "#180818"
 icons:
   - icon.png
 ---

@@ -22,7 +22,7 @@ name: Chihuahua
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#24bb1c"
+color: "#28b818"
 icons:
   - icon.png
 ---

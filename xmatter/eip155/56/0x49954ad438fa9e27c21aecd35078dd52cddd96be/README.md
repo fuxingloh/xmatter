@@ -14,7 +14,7 @@ name: ZOMBIE SKRAT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2b6579"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -8,5 +8,5 @@ symbol: OPA
 decimals: 18
 icons:
   - icon.png
-color: "#cbd3d7"
+color: "#080808"
 ---

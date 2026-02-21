@@ -12,7 +12,7 @@ symbol: MRKx
 decimals: 18
 icons:
   - icon.png
-color: "#04928b"
+color: "#089898"
 ---
 
 Merck xStock

@@ -12,7 +12,7 @@ symbol: VTIx
 decimals: 18
 icons:
   - icon.png
-color: "#c32c43"
+color: "#c82838"
 ---
 
 Vanguard xStock

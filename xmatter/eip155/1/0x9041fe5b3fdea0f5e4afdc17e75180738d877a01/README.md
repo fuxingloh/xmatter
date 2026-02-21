@@ -8,7 +8,7 @@ name: ProToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5b64bc"
+color: "#5868b8"
 icons:
   - icon.png
 ---

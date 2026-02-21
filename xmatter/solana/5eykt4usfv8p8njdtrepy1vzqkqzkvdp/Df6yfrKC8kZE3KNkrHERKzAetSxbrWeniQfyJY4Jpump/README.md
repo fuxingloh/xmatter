@@ -12,7 +12,7 @@ name: Just a chill guy
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#8d8c73"
+color: "#888878"
 icons:
   - icon.png
 ---

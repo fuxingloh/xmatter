@@ -10,7 +10,7 @@ name: Burj
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#866343"
+color: "#181828"
 icons:
   - icon.png
 ---

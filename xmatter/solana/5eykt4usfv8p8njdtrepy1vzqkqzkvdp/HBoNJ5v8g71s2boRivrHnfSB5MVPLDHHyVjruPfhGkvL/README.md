@@ -12,7 +12,7 @@ name: Purple Pepe
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#8b4de8"
+color: "#080808"
 icons:
   - icon.png
 ---

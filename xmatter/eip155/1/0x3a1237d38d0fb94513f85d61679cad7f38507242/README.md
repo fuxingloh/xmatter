@@ -8,7 +8,7 @@ name: Mindexcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7e7d7d"
+color: "#787878"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: WanCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#33bcf1"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

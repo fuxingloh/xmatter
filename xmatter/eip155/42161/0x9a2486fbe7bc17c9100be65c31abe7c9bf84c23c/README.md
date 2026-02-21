@@ -15,7 +15,7 @@ name: Wrapped Coca-Cola Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eb1c24"
+color: "#e81828"
 icons:
   - icon.png
 ---

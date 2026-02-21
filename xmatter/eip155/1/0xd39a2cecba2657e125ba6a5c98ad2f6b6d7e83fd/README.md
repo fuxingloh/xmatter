@@ -16,7 +16,7 @@ name: Luxochain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#343333"
+color: "#383838"
 icons:
   - icon.png
 ---

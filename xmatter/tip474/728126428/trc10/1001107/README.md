@@ -8,7 +8,7 @@ name: KAOSCANDY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#38342d"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

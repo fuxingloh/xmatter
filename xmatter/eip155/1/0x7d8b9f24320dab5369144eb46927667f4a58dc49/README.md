@@ -6,7 +6,7 @@ name: NRC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eebb3b"
+color: "#080808"
 icons:
   - icon.png
 ---

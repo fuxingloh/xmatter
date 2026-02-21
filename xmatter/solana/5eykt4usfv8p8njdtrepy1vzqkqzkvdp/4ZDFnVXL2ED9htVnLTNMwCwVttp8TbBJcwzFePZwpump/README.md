@@ -12,7 +12,7 @@ name: Keep Gambling
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#8c6b31"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

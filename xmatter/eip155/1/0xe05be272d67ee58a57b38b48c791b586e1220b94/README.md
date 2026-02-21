@@ -6,7 +6,7 @@ name: RH123456
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2f343c"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Family
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#d5974f"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

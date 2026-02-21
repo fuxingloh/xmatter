@@ -8,7 +8,7 @@ name: DeFi Pulse Index
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8456e1"
+color: "#8848e8"
 icons:
   - icon.svg
   - icon.png

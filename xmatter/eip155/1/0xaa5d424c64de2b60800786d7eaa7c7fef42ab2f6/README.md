@@ -6,7 +6,7 @@ name: BIGTIGER
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0d8bfa"
+color: "#0888f8"
 icons:
   - icon.png
 ---

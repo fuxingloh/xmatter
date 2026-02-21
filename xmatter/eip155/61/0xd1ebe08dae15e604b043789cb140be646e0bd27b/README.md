@@ -8,5 +8,5 @@ symbol: BHB
 decimals: 8
 icons:
   - icon.png
-color: "#0e3d52"
+color: "#080808"
 ---

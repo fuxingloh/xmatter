@@ -8,7 +8,7 @@ name: CRYPTO10 Hedged
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#246cac"
+color: "#1868a8"
 icons:
   - icon.png
 ---

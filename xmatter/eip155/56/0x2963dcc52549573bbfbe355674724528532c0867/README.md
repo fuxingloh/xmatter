@@ -18,7 +18,7 @@ name: Project-X
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#242c4c"
+color: "#282848"
 icons:
   - icon.png
 ---

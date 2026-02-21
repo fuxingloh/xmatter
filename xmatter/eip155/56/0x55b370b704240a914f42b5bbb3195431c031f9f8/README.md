@@ -14,7 +14,7 @@ name: S&P Global (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d4052c"
+color: "#d80828"
 icons:
   - icon.png
 ---

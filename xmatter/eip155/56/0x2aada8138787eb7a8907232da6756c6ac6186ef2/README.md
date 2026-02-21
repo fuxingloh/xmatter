@@ -8,7 +8,7 @@ name: Secured Marsupial
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c64831"
+color: "#c84828"
 icons:
   - icon.png
 ---

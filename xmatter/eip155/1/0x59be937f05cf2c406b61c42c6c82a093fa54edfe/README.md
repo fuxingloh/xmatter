@@ -8,7 +8,7 @@ name: PlayCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0c346b"
+color: "#083868"
 icons:
   - icon.png
 ---

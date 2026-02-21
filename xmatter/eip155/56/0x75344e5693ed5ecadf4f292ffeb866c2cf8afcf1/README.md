@@ -10,7 +10,7 @@ name: Saber (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#151426"
+color: "#181828"
 icons:
   - icon.png
 ---

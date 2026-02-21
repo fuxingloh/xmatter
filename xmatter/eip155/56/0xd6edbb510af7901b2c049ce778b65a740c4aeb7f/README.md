@@ -18,7 +18,7 @@ name: WOR
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f3b85c"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

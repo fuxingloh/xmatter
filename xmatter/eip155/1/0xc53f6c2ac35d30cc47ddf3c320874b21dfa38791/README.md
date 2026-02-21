@@ -6,7 +6,7 @@ name: Gcash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c7a009"
+color: "#080808"
 icons:
   - icon.png
 ---

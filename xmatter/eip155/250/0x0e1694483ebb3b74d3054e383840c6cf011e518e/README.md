@@ -20,7 +20,7 @@ symbol: sUSD
 decimals: 18
 icons:
   - icon.png
-color: "#1c1b33"
+color: "#181838"
 ---
 
 sUSD is an ERC-20 token made by the Synthetix team which tracks the price of USD.

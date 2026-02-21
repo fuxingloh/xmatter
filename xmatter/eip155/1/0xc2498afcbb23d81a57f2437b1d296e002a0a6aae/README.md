@@ -6,7 +6,7 @@ name: Geo Gems
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fa6e6e"
+color: "#080808"
 icons:
   - icon.png
 ---

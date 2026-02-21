@@ -12,7 +12,7 @@ name: alon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#bbbcb1"
+color: "#c8b8b8"
 icons:
   - icon.png
 ---

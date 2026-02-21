@@ -16,7 +16,7 @@ name: Neiro
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e2af3f"
+color: "#f8a838"
 icons:
   - icon.png
 ---

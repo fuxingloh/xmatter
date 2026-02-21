@@ -8,7 +8,7 @@ name: SkyBorn
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8c385"
+color: "#f8c888"
 icons:
   - icon.png
 ---

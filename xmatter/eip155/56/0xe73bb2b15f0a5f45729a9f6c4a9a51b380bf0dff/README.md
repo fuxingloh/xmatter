@@ -8,7 +8,7 @@ name: Medical Veda
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2aabae"
+color: "#080808"
 icons:
   - icon.png
 ---

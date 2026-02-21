@@ -10,7 +10,7 @@ links:
     url: "https://x.com/AlttownOfficial"
 symbol: TOWN
 decimals: 18
-color: "#4014c9"
+color: "#080808"
 icons:
   - icon.png
 ---

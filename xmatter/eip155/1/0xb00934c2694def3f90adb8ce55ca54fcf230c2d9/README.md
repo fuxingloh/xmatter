@@ -8,7 +8,7 @@ name: Slicer
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#342454"
+color: "#382858"
 icons:
   - icon.png
 ---

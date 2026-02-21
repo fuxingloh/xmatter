@@ -26,7 +26,7 @@ name: Titan War
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cc3e31"
+color: "#080808"
 icons:
   - icon.png
 ---

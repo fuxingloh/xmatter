@@ -8,7 +8,7 @@ name: Butter
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8c24c"
+color: "#080808"
 icons:
   - icon.png
 ---

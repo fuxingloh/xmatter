@@ -12,7 +12,7 @@ name: Thanos Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7d1dfa"
+color: "#7818f8"
 icons:
   - icon.png
 ---

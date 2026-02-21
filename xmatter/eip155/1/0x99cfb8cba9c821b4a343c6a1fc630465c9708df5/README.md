@@ -16,7 +16,7 @@ name: Pepe Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#559542"
+color: "#489848"
 icons:
   - icon.png
 ---

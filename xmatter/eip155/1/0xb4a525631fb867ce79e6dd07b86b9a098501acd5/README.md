@@ -6,7 +6,7 @@ name: CryptoMarketCloud
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#040423"
+color: "#080818"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Aave aUniMKRETH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7091b2"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

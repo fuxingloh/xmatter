@@ -8,7 +8,7 @@ name: Globalvillage ecosystem
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#245ba5"
+color: "#080808"
 icons:
   - icon.png
 ---

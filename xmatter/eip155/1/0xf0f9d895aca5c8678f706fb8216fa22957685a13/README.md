@@ -18,7 +18,7 @@ name: Cult DAO (CULT)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dad9d9"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

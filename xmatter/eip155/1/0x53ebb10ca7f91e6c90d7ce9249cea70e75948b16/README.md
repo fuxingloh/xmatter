@@ -6,7 +6,7 @@ name: Alteum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#9e9d9d"
+color: "#080808"
 icons:
   - icon.png
 ---

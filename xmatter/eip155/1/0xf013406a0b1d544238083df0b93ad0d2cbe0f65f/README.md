@@ -6,7 +6,7 @@ name: bZx USDC iToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#236ac7"
+color: "#3878b8"
 icons:
   - icon.png
 ---

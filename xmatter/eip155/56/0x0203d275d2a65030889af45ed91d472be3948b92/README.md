@@ -12,7 +12,7 @@ name: Engines of Fury Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#131313"
+color: "#080808"
 icons:
   - icon.png
 ---

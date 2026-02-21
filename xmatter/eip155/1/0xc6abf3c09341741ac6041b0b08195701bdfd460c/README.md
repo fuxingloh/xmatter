@@ -8,7 +8,7 @@ name: OSAToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8dc4bc"
+color: "#88c8b8"
 icons:
   - icon.png
 ---

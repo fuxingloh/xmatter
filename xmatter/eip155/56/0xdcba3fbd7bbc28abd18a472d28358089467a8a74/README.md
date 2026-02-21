@@ -20,7 +20,7 @@ name: Centric RISE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1389f6"
+color: "#080808"
 icons:
   - icon.png
 ---

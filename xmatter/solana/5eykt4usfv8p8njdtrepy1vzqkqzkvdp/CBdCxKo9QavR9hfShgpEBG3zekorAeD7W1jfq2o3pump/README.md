@@ -11,7 +11,7 @@ name: Official Mascot of the Holy Year
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#3d475a"
+color: "#484868"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: KUN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc8d05"
+color: "#f88808"
 icons:
   - icon.png
 ---

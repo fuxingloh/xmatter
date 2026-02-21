@@ -6,7 +6,7 @@ name: TronArt
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#c7c7c7"
+color: "#080808"
 icons:
   - icon.png
 ---

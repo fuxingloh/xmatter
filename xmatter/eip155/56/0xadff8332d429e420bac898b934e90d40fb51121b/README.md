@@ -10,7 +10,7 @@ name: NeuroCoin NRC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#236b99"
+color: "#286898"
 icons:
   - icon.png
 ---

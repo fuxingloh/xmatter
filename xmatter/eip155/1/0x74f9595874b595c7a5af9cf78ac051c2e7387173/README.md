@@ -8,7 +8,7 @@ name: PROOF
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#077ebf"
+color: "#78b8e8"
 icons:
   - icon.png
 ---

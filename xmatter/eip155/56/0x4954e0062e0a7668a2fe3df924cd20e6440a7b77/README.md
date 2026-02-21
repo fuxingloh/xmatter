@@ -8,7 +8,7 @@ name: ByteNext
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fba004"
+color: "#080808"
 icons:
   - icon.png
 ---

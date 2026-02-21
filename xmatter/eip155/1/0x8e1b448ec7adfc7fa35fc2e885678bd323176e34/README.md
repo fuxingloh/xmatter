@@ -8,7 +8,7 @@ name: Egretia
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#faf9e6"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: EcosBall
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bbe2e7"
+color: "#2888a8"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ symbol: IJRx
 decimals: 18
 icons:
   - icon.png
-color: "#f3f3fb"
+color: "#e8f8f8"
 ---
 
 S&P Small Cap xStock

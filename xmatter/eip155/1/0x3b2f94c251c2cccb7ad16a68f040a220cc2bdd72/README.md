@@ -6,7 +6,7 @@ name: ALUCHAIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8af35"
+color: "#080808"
 icons:
   - icon.png
 ---

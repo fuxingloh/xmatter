@@ -16,7 +16,7 @@ name: BitANT
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#2b1c12"
+color: "#080808"
 icons:
   - icon.png
 ---

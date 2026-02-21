@@ -6,7 +6,7 @@ name: Dude
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b297ae"
+color: "#080808"
 icons:
   - icon.png
 ---

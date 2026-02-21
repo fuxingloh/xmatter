@@ -14,7 +14,7 @@ name: Linde tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#044f8c"
+color: "#085888"
 icons:
   - icon.png
 ---

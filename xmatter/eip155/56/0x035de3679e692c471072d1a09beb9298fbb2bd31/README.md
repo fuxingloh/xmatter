@@ -10,7 +10,7 @@ name: Binance USD (Portal from Ethereum)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f4bc0c"
+color: "#080808"
 icons:
   - icon.png
 ---

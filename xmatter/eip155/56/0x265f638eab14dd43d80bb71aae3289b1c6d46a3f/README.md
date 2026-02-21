@@ -21,7 +21,7 @@ name: Binancedog
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d6c157"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

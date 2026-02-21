@@ -8,7 +8,7 @@ name: Aludra Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#132ba3"
+color: "#1828a8"
 icons:
   - icon.png
 ---

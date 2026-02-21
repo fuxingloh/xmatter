@@ -6,7 +6,7 @@ name: STAKEBIT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f9d204"
+color: "#081818"
 icons:
   - icon.png
 ---

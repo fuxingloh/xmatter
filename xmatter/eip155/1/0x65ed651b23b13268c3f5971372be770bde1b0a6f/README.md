@@ -6,7 +6,7 @@ name: Basis Neuro System Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#133483"
+color: "#083888"
 icons:
   - icon.png
 ---

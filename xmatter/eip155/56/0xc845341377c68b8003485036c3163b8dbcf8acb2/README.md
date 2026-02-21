@@ -8,7 +8,7 @@ name: SafeWolf
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#042738"
+color: "#081828"
 icons:
   - icon.png
 ---

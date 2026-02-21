@@ -6,7 +6,7 @@ name: Electronic Energy Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2a614c"
+color: "#184838"
 icons:
   - icon.png
 ---

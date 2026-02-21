@@ -12,7 +12,7 @@ name: BENQI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#042129"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

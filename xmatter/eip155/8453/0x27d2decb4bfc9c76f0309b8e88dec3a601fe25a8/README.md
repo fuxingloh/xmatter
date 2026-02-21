@@ -12,7 +12,7 @@ name: Bald
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0404fb"
+color: "#0808f8"
 icons:
   - icon.svg
   - icon.png

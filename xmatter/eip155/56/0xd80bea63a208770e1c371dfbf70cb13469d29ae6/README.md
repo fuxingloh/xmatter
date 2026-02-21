@@ -18,7 +18,7 @@ name: Agrocash X
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#201b11"
+color: "#181808"
 icons:
   - icon.png
 ---

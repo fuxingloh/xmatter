@@ -8,5 +8,5 @@ symbol: GOD
 decimals: 18
 icons:
   - icon.png
-color: "#1693de"
+color: "#f8f8f8"
 ---

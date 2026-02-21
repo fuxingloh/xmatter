@@ -8,7 +8,7 @@ name: COIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc5237"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

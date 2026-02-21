@@ -8,7 +8,7 @@ name: PlutoPepe
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#476780"
+color: "#080808"
 icons:
   - icon.png
 ---

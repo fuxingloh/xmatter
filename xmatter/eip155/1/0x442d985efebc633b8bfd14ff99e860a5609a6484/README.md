@@ -6,7 +6,7 @@ name: Ethavo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#df1634"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Myph
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2c2a24"
+color: "#282828"
 icons:
   - icon.png
 ---

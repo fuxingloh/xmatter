@@ -12,7 +12,7 @@ symbol: MSTRx
 decimals: 18
 icons:
   - icon.png
-color: "#db3444"
+color: "#d83848"
 ---
 
 MicroStrategy xStock

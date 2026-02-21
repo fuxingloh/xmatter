@@ -8,7 +8,7 @@ name: HGH Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6a3f3e"
+color: "#080808"
 icons:
   - icon.png
 ---

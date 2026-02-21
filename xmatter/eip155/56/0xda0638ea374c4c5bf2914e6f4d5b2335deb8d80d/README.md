@@ -22,7 +22,7 @@ name: GBANK APY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8145f0"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

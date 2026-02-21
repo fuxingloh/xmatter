@@ -6,7 +6,7 @@ name: GBPT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cc8b94"
+color: "#c88898"
 icons:
   - icon.png
 ---

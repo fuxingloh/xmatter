@@ -6,7 +6,7 @@ name: Queen Jin Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c3f9e1"
+color: "#b8f8e8"
 icons:
   - icon.png
 ---

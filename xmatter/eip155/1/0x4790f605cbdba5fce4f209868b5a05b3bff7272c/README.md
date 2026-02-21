@@ -8,7 +8,7 @@ name: HUB
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f4e6bf"
+color: "#080808"
 icons:
   - icon.png
 ---

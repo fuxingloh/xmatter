@@ -12,7 +12,7 @@ name: NEIRO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#090806"
+color: "#080808"
 icons:
   - icon.png
 ---

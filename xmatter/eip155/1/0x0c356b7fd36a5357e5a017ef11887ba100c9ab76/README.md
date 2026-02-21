@@ -14,7 +14,7 @@ name: Kava.io
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fb242c"
+color: "#f82828"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: MainCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c5a360"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

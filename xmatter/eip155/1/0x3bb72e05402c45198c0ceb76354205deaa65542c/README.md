@@ -6,7 +6,7 @@ name: Kyber
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8dd6cc"
+color: "#080808"
 icons:
   - icon.png
 ---

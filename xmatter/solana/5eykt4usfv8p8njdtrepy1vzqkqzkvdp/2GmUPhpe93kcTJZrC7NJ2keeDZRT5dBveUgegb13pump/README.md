@@ -10,7 +10,7 @@ name: TruthChain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#1d1918"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Squirrel Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b37b4b"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

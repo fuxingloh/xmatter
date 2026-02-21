@@ -14,7 +14,7 @@ name: SORA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#de242c"
+color: "#e82828"
 icons:
   - icon.svg
   - icon.png

@@ -6,7 +6,7 @@ name: TronSV
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#0a0b0c"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

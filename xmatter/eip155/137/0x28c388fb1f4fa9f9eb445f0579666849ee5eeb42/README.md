@@ -16,7 +16,7 @@ name: Bella (PoS)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e2f7f7"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Denarii
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#76378d"
+color: "#080808"
 icons:
   - icon.png
 ---

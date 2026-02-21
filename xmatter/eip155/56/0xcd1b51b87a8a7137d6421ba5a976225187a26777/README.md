@@ -14,7 +14,7 @@ name: LSD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f47424"
+color: "#f86828"
 icons:
   - icon.png
 ---

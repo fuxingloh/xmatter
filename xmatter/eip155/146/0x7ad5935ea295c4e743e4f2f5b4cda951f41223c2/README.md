@@ -12,7 +12,7 @@ symbol: SACRA
 decimals: 18
 icons:
   - icon.png
-color: "#3d1a1d"
+color: "#181818"
 ---
 
 A fully on-chain game that seamlessly combines true ownership and financial incentives.

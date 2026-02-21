@@ -12,7 +12,7 @@ name: Flokimooni
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b5a5c7"
+color: "#080808"
 icons:
   - icon.png
 ---

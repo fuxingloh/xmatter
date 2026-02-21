@@ -14,7 +14,7 @@ name: Wall Street Games
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eea522"
+color: "#f8a818"
 icons:
   - icon.png
 ---

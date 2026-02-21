@@ -8,7 +8,7 @@ name: Catnip Money
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#232021"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

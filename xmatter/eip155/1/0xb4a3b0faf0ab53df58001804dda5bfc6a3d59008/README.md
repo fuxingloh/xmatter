@@ -22,7 +22,7 @@ symbol: SPA
 decimals: 18
 icons:
   - icon.png
-color: "#040404"
+color: "#080808"
 ---
 
 Sperax is a programmable agent layer for DeFi, enabling autonomous capital execution, dynamic yield optimization, and onchain risk defense. SperaxOS. Your edge, automated. Smart agents for fast, low-noise trading across chains.

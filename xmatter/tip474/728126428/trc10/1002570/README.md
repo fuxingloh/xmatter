@@ -6,7 +6,7 @@ name: Criptoblock
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#73aba4"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

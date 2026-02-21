@@ -8,7 +8,7 @@ name: CarbonDEFI Finance CARBO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#da8b94"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Bitchip Farm
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#162022"
+color: "#081828"
 icons:
   - icon.png
 ---

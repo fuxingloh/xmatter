@@ -8,7 +8,7 @@ name: Atlas Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#252f44"
+color: "#080808"
 icons:
   - icon.png
 ---

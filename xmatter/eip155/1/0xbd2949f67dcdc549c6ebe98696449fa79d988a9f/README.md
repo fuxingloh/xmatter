@@ -20,7 +20,7 @@ name: Meter Governance mapped by Meter.io
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1c2c5c"
+color: "#080808"
 icons:
   - icon.png
 ---

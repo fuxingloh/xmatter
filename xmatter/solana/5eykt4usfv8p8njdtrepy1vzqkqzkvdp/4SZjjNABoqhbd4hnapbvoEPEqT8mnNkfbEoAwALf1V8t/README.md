@@ -14,7 +14,7 @@ name: Crypto Cavemen
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#8e3123"
+color: "#980808"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Comfy Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dba720"
+color: "#080808"
 icons:
   - icon.png
 ---

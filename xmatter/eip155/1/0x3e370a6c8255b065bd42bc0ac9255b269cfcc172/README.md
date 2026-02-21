@@ -6,7 +6,7 @@ name: Unipot
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#74d9c0"
+color: "#080808"
 icons:
   - icon.png
 ---

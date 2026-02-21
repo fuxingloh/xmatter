@@ -12,7 +12,7 @@ name: BEER
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#2f4f58"
+color: "#f8e898"
 icons:
   - icon.png
 ---

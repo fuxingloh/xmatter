@@ -6,7 +6,7 @@ name: NERV
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ec1b24"
+color: "#e81828"
 icons:
   - icon.png
 ---

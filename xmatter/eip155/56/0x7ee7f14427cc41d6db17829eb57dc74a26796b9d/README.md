@@ -22,7 +22,7 @@ name: MoonRise
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#92bade"
+color: "#486848"
 icons:
   - icon.png
 ---

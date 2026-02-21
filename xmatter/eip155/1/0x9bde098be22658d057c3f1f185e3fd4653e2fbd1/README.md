@@ -12,7 +12,7 @@ name: KP2R.Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e72b77"
+color: "#e82878"
 icons:
   - icon.png
 ---

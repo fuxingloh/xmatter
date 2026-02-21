@@ -14,7 +14,7 @@ name: Vista Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#545453"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

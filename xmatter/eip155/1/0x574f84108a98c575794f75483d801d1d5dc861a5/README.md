@@ -8,7 +8,7 @@ name: Robotina token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e65934"
+color: "#f86838"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: Rocket Pool (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#fbaf74"
+color: "#486878"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Favin Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#145dc5"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

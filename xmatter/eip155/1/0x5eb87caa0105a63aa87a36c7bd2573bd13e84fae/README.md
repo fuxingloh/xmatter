@@ -8,7 +8,7 @@ name: BQT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0c5c8c"
+color: "#085888"
 icons:
   - icon.png
 ---

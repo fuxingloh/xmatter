@@ -6,7 +6,7 @@ name: GVND
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#fbebe3"
+color: "#f8e8e8"
 icons:
   - icon.png
 ---

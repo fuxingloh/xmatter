@@ -27,7 +27,7 @@ name: BAKE COIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d18b4c"
+color: "#f8c878"
 icons:
   - icon.png
 ---

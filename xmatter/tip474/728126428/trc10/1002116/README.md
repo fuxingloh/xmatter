@@ -6,7 +6,7 @@ name: Arcnet
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#1b3564"
+color: "#183858"
 icons:
   - icon.png
 ---

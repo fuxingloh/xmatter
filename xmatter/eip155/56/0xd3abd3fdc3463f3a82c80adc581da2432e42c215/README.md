@@ -8,7 +8,7 @@ name: Golden Shiba Inu Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#be6e29"
+color: "#c8e8c8"
 icons:
   - icon.png
 ---

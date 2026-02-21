@@ -24,7 +24,7 @@ name: Tokenoid
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#12f4b2"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Pussy Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f08fbf"
+color: "#080808"
 icons:
   - icon.png
 ---

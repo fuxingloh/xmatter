@@ -8,7 +8,7 @@ name: Aerotyne
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fcbb1b"
+color: "#f8b818"
 icons:
   - icon.png
 ---

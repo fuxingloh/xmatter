@@ -8,5 +8,5 @@ symbol: TREEG1
 decimals: 0
 icons:
   - icon.png
-color: "#292111"
+color: "#080808"
 ---

@@ -6,7 +6,7 @@ name: FUNY - TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ee7fdb"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

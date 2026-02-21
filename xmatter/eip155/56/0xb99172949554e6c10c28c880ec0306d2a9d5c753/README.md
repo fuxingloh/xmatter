@@ -8,7 +8,7 @@ name: LunaDoge
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#89bbd5"
+color: "#080808"
 icons:
   - icon.png
 ---

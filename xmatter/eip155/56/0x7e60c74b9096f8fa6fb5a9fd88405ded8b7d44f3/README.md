@@ -15,7 +15,7 @@ name: Infiblue World Monie
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3667a0"
+color: "#284898"
 icons:
   - icon.png
 ---

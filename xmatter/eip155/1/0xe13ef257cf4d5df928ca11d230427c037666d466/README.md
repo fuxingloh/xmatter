@@ -8,7 +8,7 @@ name: WIT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#235b6b"
+color: "#185868"
 icons:
   - icon.png
 ---

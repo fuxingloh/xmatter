@@ -8,5 +8,5 @@ symbol: ACD
 decimals: 4
 icons:
   - icon.png
-color: "#1ce744"
+color: "#080808"
 ---

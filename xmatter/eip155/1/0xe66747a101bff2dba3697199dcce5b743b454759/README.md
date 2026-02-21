@@ -16,7 +16,7 @@ name: Gatechain Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ca5454"
+color: "#486878"
 icons:
   - icon.png
 ---

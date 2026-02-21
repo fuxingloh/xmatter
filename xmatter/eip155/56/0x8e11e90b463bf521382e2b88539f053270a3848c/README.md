@@ -10,7 +10,7 @@ name: TTAI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fb7c05"
+color: "#f87808"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Base属于每一个人
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#173e75"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

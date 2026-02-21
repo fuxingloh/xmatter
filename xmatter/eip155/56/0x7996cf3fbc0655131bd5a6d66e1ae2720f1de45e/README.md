@@ -8,7 +8,7 @@ name: VELOREX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#11c5a9"
+color: "#080808"
 icons:
   - icon.png
 ---

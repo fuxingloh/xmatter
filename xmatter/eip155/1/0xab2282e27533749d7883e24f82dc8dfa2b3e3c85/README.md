@@ -6,7 +6,7 @@ name: STELLAR CLASSIC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#07b2e1"
+color: "#080808"
 icons:
   - icon.png
 ---

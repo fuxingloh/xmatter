@@ -8,7 +8,7 @@ name: 薪抬幣
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dceef0"
+color: "#48b8b8"
 icons:
   - icon.png
 ---

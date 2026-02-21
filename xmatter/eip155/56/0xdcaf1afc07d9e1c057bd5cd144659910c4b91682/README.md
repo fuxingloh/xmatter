@@ -8,7 +8,7 @@ name: SpaceCowBoy
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4a0d35"
+color: "#180828"
 icons:
   - icon.png
 ---

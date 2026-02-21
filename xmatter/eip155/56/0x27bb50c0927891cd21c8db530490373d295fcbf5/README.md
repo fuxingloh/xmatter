@@ -14,7 +14,7 @@ name: Bibi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fad74b"
+color: "#f8d858"
 icons:
   - icon.png
 ---

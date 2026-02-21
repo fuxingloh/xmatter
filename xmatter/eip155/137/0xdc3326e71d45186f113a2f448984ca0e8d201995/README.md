@@ -20,7 +20,7 @@ name: XSGD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#144ce4"
+color: "#0848e8"
 icons:
   - icon.png
 ---

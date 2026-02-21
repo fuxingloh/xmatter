@@ -8,7 +8,7 @@ name: ZCore Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5cb36b"
+color: "#58b868"
 icons:
   - icon.png
 ---

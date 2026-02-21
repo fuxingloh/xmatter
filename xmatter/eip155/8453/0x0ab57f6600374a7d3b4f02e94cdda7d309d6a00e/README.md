@@ -12,7 +12,7 @@ name: TRUMP2024
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8d6f60"
+color: "#a84818"
 icons:
   - icon.png
 ---

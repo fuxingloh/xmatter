@@ -30,7 +30,7 @@ symbol: ankrFTM
 decimals: 18
 icons:
   - icon.png
-color: "#fbeb1b"
+color: "#f8e818"
 ---
 
 ankrFTM represents your staked FTM and provides liquidity for your staked position. All staking rewards are built into the token price, and ankrFTM grows daily in value, but never in number

@@ -14,7 +14,7 @@ name: Best Wallet Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d4d5fc"
+color: "#5858f8"
 icons:
   - icon.png
 ---

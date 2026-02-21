@@ -16,7 +16,7 @@ name: 8PAY Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#63c3d1"
+color: "#68c8d8"
 icons:
   - icon.png
 ---

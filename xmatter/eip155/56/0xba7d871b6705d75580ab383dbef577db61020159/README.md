@@ -10,7 +10,7 @@ name: A48Z
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#df19ee"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

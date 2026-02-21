@@ -12,7 +12,7 @@ name: ART COIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8c23a"
+color: "#f8a828"
 icons:
   - icon.png
 ---

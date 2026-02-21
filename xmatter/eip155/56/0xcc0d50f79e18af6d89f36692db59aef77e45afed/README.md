@@ -14,7 +14,7 @@ name: PEACOCKCOIN 2.0
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0f255a"
+color: "#080808"
 icons:
   - icon.png
 ---

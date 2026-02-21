@@ -6,7 +6,7 @@ name: Pool Usdc
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5a0ece"
+color: "#080808"
 icons:
   - icon.png
 ---

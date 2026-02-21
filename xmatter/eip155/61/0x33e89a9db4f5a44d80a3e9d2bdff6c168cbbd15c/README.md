@@ -8,5 +8,5 @@ symbol: SLYG1
 decimals: 0
 icons:
   - icon.png
-color: "#e7ad3c"
+color: "#080808"
 ---

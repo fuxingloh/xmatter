@@ -14,7 +14,7 @@ name: Da Pinchi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eaad20"
+color: "#080808"
 icons:
   - icon.png
 ---

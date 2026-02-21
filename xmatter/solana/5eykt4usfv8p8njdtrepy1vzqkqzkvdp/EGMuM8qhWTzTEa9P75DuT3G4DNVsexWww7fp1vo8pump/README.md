@@ -12,7 +12,7 @@ name: loner
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#7f7a6f"
+color: "#a89898"
 icons:
   - icon.png
 ---

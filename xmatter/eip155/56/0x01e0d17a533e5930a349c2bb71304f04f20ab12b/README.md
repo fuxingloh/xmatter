@@ -14,7 +14,7 @@ name: REVOLVE GAMES
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#9540bb"
+color: "#080808"
 icons:
   - icon.png
 ---

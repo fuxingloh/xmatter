@@ -8,7 +8,7 @@ name: NamTanToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fb9120"
+color: "#f89828"
 icons:
   - icon.png
 ---

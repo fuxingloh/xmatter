@@ -6,7 +6,7 @@ name: FuzeClassic
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f2d6d4"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

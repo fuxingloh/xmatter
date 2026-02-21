@@ -6,7 +6,7 @@ name: BAR Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#30b295"
+color: "#080808"
 icons:
   - icon.png
 ---

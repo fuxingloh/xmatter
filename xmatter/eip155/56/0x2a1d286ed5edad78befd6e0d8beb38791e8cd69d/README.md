@@ -12,7 +12,7 @@ name: Climb Token Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04f3d3"
+color: "#080808"
 icons:
   - icon.png
 ---

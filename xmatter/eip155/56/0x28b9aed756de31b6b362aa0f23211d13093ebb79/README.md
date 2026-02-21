@@ -22,7 +22,7 @@ standards:
   - erc20
 icons:
   - icon.png
-color: "#1ed174"
+color: "#08e888"
 ---
 
 We are KYC'ed by Doken, we want to make sure that our investors are comfortable while investing in LunaGens.

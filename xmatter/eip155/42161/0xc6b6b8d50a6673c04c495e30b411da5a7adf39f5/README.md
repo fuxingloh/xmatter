@@ -15,7 +15,7 @@ name: Wrapped Salesforce Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#049bdb"
+color: "#0898d8"
 icons:
   - icon.png
 ---

@@ -8,5 +8,5 @@ symbol: LCT
 decimals: 8
 icons:
   - icon.png
-color: "#898f92"
+color: "#080808"
 ---

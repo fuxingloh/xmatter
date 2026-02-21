@@ -8,7 +8,7 @@ name: Green Climate World
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1ca3db"
+color: "#a8c848"
 icons:
   - icon.png
 ---

@@ -20,7 +20,7 @@ name: Teddy Doge V2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c5c1bd"
+color: "#080808"
 icons:
   - icon.png
 ---

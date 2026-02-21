@@ -22,7 +22,7 @@ name: Propchain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04143c"
+color: "#081838"
 icons:
   - icon.png
 ---

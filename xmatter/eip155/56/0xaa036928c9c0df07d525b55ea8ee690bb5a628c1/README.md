@@ -16,7 +16,7 @@ name: Evaa protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3404ec"
+color: "#3808e8"
 icons:
   - icon.png
 ---

@@ -23,7 +23,7 @@ name: DefiConnect
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d06800"
+color: "#d86808"
 icons:
   - icon.png
 ---

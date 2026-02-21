@@ -10,7 +10,7 @@ name: Serum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#64d9e7"
+color: "#080808"
 icons:
   - icon.png
 ---

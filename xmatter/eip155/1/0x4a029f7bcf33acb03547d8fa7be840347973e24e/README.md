@@ -14,7 +14,7 @@ name: MAZZE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080d27"
+color: "#080818"
 icons:
   - icon.png
 ---

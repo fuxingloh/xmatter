@@ -10,7 +10,7 @@ symbol: JulD
 decimals: 18
 icons:
   - icon.png
-color: "#f1bf4e"
+color: "#f8f8f8"
 ---
 
 JulSwap DEX Commnuity Token

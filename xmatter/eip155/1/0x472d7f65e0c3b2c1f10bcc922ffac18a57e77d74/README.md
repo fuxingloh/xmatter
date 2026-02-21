@@ -6,7 +6,7 @@ name: Alternate SX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#9c3434"
+color: "#983838"
 icons:
   - icon.png
 ---

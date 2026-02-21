@@ -8,7 +8,7 @@ name: FAKE UXLINK
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1cd36c"
+color: "#18d868"
 icons:
   - icon.png
 ---

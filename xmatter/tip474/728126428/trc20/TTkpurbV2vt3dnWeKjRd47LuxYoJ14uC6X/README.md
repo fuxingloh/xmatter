@@ -12,7 +12,7 @@ symbol: XOMx
 decimals: 18
 icons:
   - icon.png
-color: "#eb1c2c"
+color: "#e81828"
 ---
 
 Exxon Mobil xStock

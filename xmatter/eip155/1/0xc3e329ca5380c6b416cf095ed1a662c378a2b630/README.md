@@ -6,7 +6,7 @@ name: TaurusPay
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c2c2be"
+color: "#080808"
 icons:
   - icon.png
 ---

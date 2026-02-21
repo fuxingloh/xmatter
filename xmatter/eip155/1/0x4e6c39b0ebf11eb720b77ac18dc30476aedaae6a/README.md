@@ -6,7 +6,7 @@ name: CGS Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c7973f"
+color: "#080808"
 icons:
   - icon.png
 ---

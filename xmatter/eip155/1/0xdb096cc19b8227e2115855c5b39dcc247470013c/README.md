@@ -8,7 +8,7 @@ name: BITFEX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d42c34"
+color: "#486878"
 icons:
   - icon.png
 ---

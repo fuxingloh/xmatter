@@ -13,7 +13,7 @@ symbol: BACx
 decimals: 18
 icons:
   - icon.png
-color: "#147bc3"
+color: "#1878c8"
 ---
 
 Bank of America xStock

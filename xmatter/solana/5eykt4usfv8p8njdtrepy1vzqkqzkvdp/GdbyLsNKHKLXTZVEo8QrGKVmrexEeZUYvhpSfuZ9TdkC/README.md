@@ -12,7 +12,7 @@ name: ROD.AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#3e3850"
+color: "#080808"
 icons:
   - icon.png
 ---

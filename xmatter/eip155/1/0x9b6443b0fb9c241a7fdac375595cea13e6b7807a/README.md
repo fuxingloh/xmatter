@@ -8,7 +8,7 @@ name: Reality Clash Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5cccdc"
+color: "#58c8d8"
 icons:
   - icon.svg
   - icon.png

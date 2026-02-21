@@ -8,7 +8,7 @@ name: FEG Wrapped BTCB
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f39a23"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

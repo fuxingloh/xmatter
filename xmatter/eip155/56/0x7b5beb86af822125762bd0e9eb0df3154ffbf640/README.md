@@ -8,7 +8,7 @@ name: SafeDoge
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f5b669"
+color: "#080808"
 icons:
   - icon.png
 ---

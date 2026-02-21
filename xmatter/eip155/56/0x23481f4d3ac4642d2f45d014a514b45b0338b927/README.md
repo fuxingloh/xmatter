@@ -14,7 +14,7 @@ name: Ulink Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#de911f"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

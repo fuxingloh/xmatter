@@ -8,7 +8,7 @@ name: MovieBloc
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5b439b"
+color: "#584898"
 icons:
   - icon.png
 ---

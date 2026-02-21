@@ -12,7 +12,7 @@ name: SafeSex
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7edde5"
+color: "#88e8e8"
 icons:
   - icon.png
 ---

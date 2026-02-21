@@ -8,7 +8,7 @@ name: AirDance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c6368c"
+color: "#c83888"
 icons:
   - icon.png
 ---

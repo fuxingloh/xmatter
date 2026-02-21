@@ -12,7 +12,7 @@ name: Vine Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#eef0ef"
+color: "#08b888"
 icons:
   - icon.png
 ---

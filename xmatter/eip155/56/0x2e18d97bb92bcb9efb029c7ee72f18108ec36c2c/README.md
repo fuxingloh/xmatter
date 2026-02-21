@@ -8,7 +8,7 @@ name: TORO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#da6069"
+color: "#080808"
 icons:
   - icon.png
 ---

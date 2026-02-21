@@ -12,7 +12,7 @@ name: Project Plutus
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#f1f1f1"
+color: "#181818"
 icons:
   - icon.png
 ---

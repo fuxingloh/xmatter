@@ -6,7 +6,7 @@ name: SRCOIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bc566b"
+color: "#080808"
 icons:
   - icon.png
 ---

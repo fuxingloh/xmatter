@@ -14,7 +14,7 @@ name: Veraswap Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#be2509"
+color: "#080808"
 icons:
   - icon.png
 ---

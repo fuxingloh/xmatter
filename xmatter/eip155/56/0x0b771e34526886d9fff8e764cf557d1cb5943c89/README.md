@@ -8,7 +8,7 @@ name: Wrapped Compound
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#707071"
+color: "#080808"
 icons:
   - icon.png
 ---

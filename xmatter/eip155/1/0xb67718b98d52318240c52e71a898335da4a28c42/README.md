@@ -8,7 +8,7 @@ name: InnovativeBioresearchCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#131921"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

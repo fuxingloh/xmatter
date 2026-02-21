@@ -6,7 +6,7 @@ name: Yuamble
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7c04ec"
+color: "#7808e8"
 icons:
   - icon.png
 ---

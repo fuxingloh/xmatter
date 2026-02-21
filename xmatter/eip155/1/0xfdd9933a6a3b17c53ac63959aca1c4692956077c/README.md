@@ -6,7 +6,7 @@ name: EQR V2/3560
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#062665"
+color: "#081858"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: AfterShock
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4bc4f4"
+color: "#08a8e8"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ symbol: M-BTC
 decimals: 18
 icons:
   - icon.png
-color: "#7048f1"
+color: "#080808"
 ---
 
 Merlin's Seal BTC is the first MERLIN token backed 1:1 with Bitcoin.

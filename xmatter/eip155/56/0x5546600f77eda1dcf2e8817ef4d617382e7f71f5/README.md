@@ -8,7 +8,7 @@ name: PING
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1e1834"
+color: "#180828"
 icons:
   - icon.png
 ---

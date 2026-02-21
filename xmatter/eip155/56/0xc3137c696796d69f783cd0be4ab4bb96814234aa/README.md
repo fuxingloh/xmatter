@@ -25,7 +25,7 @@ name: Pepa Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f2aecf"
+color: "#f898c8"
 icons:
   - icon.png
 ---

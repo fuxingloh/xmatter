@@ -16,7 +16,7 @@ name: ShibaZilla
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8a323c"
+color: "#782838"
 icons:
   - icon.png
 ---

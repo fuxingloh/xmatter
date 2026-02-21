@@ -8,7 +8,7 @@ name: New York Exchange Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e1c96e"
+color: "#080808"
 icons:
   - icon.png
 ---

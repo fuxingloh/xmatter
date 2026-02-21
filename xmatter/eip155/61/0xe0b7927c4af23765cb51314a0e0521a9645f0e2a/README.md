@@ -8,5 +8,5 @@ symbol: "?"
 decimals: 0
 icons:
   - icon.png
-color: "#b99758"
+color: "#080808"
 ---

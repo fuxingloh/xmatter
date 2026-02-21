@@ -8,7 +8,7 @@ name: BabyKraken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d1efde"
+color: "#486848"
 icons:
   - icon.png
 ---

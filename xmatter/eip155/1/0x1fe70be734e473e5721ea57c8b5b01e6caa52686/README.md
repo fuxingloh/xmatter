@@ -8,7 +8,7 @@ name: RNTB Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0d2d40"
+color: "#082848"
 icons:
   - icon.png
 ---

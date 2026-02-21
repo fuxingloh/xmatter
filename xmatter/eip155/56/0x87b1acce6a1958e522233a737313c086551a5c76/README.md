@@ -8,7 +8,7 @@ name: FEG Wrapped BNB
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f4b72e"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

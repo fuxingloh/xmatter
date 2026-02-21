@@ -8,5 +8,5 @@ symbol: QLXG1
 decimals: 0
 icons:
   - icon.png
-color: "#237b1a"
+color: "#080808"
 ---

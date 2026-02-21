@@ -6,7 +6,7 @@ name: SURETY Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cf3835"
+color: "#080808"
 icons:
   - icon.png
 ---

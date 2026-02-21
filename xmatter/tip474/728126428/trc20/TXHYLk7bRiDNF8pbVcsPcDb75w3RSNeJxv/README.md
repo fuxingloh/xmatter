@@ -12,7 +12,7 @@ symbol: NFLXx
 decimals: 18
 icons:
   - icon.png
-color: "#e30c14"
+color: "#e80818"
 ---
 
 Netflix xStock

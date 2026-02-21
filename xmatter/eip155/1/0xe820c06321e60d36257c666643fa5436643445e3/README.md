@@ -21,7 +21,7 @@ name: USDKG
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d4a344"
+color: "#d89848"
 icons:
   - icon.png
 ---

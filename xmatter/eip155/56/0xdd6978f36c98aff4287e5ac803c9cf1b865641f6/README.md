@@ -18,7 +18,7 @@ name: Jerry Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cdb8c6"
+color: "#080808"
 icons:
   - icon.png
 ---

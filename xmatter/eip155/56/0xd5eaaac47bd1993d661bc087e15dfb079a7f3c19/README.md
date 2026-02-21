@@ -18,7 +18,7 @@ name: Koma Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bf2e25"
+color: "#b82828"
 icons:
   - icon.png
 ---

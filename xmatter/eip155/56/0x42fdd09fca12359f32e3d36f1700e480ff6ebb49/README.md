@@ -8,7 +8,7 @@ name: FEG Wrapped XRP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0e0f0e"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

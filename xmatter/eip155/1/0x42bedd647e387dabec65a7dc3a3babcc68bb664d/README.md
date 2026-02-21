@@ -8,7 +8,7 @@ name: BLOCKMASON LINK TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4c9df5"
+color: "#486878"
 icons:
   - icon.png
 ---

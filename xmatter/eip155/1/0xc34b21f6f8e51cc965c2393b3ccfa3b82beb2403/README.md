@@ -6,7 +6,7 @@ name: IoTコイン
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0f0f0f"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: Digital Australian Dollar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eff1f4"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

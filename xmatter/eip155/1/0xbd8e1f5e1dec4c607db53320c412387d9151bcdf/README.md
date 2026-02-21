@@ -6,7 +6,7 @@ name: DogeMax.org
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#82704f"
+color: "#080808"
 icons:
   - icon.png
 ---

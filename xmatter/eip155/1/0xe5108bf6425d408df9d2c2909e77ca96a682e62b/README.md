@@ -6,7 +6,7 @@ name: Algo Hedge Fund
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bc2626"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: MicroMoney
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fb6b05"
+color: "#080808"
 icons:
   - icon.png
 ---

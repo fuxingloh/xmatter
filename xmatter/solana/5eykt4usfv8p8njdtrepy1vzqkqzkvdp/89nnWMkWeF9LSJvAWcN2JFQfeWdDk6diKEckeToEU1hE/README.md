@@ -12,7 +12,7 @@ name: sora labs
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#332b68"
+color: "#282858"
 icons:
   - icon.png
 ---

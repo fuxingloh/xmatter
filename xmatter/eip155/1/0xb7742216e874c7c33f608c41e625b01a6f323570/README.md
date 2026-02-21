@@ -6,7 +6,7 @@ name: Atomic Ethereum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f5af1a"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

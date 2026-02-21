@@ -8,7 +8,7 @@ name: CertiK Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e4ac4c"
+color: "#e8a848"
 icons:
   - icon.png
 ---

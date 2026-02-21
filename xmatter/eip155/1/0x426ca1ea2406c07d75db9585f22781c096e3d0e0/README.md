@@ -8,7 +8,7 @@ name: Minereum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1e8cd4"
+color: "#1888d8"
 icons:
   - icon.svg
   - icon.png

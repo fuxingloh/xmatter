@@ -12,7 +12,7 @@ name: Pedro the Raccoon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#1c1f08"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

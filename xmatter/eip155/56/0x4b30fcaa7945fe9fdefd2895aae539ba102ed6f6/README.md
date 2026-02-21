@@ -10,7 +10,7 @@ name: slisBNB Non-Transferable Receipt
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fac304"
+color: "#382818"
 icons:
   - icon.png
 ---

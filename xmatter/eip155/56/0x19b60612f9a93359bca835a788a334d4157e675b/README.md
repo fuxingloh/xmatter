@@ -8,7 +8,7 @@ name: PAWGcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fbbecc"
+color: "#f8b8c8"
 icons:
   - icon.png
 ---

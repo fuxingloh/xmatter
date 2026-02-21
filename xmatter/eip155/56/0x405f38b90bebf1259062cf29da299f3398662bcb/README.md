@@ -14,7 +14,7 @@ name: Coca-Cola (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f4ccd3"
+color: "#c80818"
 icons:
   - icon.png
 ---

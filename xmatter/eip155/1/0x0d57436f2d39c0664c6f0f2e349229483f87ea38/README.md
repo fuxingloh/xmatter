@@ -18,7 +18,7 @@ name: Wrapped A7A5
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8e3cf"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

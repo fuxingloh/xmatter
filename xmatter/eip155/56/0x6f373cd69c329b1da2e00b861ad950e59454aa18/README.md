@@ -24,7 +24,7 @@ name: Doge Yellow Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#100d0a"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

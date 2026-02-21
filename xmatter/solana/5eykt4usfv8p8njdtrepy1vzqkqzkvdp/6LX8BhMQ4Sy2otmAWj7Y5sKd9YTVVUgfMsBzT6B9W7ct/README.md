@@ -10,7 +10,7 @@ name: Frax Share (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#b7647e"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ symbol: Renzo Restaked ETH
 decimals: 18
 icons:
   - icon.png
-color: "#9bcf2c"
+color: "#080808"
 ---
 
 Renzo is a Liquid Restaking Token (LRT) and Strategy Manager for EigenLayer. It is the interface to the EigenLayer ecosystem securing Actively Validated Services (AVSs).

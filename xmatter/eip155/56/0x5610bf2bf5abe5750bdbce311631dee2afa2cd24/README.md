@@ -8,7 +8,7 @@ name: MoonPump Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f9ba06"
+color: "#f8b808"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: 4NEW
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#428176"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Viberate
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fb1c44"
+color: "#f81848"
 icons:
   - icon.png
 ---

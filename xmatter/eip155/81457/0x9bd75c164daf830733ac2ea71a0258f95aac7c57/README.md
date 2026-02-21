@@ -14,7 +14,7 @@ symbol: BCat
 decimals: 18
 icons:
   - icon.png
-color: "#cdb33f"
+color: "#181808"
 ---
 
 The BlastCat project aims to introduce individuals to the Blast ecosystem through its fun and friendly mascot, BlastCat!

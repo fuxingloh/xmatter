@@ -12,7 +12,7 @@ symbol: frxUSD
 decimals: 18
 icons:
   - icon.png
-color: "#040404"
+color: "#080808"
 ---
 
 Fraxtal is a blockchain optimized for extreme performance, next-to-nothing transaction fees, and Ethereum-level security

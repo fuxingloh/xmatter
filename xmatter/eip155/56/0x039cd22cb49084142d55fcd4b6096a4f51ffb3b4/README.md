@@ -10,7 +10,7 @@ name: MOVEZ.me
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7bb5ef"
+color: "#f84808"
 icons:
   - icon.png
 ---

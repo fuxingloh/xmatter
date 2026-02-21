@@ -8,7 +8,7 @@ name: BBG
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#442cdb"
+color: "#3808c8"
 icons:
   - icon.png
 ---

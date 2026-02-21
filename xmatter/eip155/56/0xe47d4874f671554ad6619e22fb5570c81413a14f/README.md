@@ -8,7 +8,7 @@ name: ELON MARS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cf936e"
+color: "#080808"
 icons:
   - icon.png
 ---

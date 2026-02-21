@@ -8,5 +8,5 @@ symbol: CURV
 decimals: 18
 icons:
   - icon.png
-color: "#333333"
+color: "#383838"
 ---

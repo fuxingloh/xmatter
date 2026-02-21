@@ -8,7 +8,7 @@ name: CRYPTOFOREX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2d2d2d"
+color: "#282828"
 icons:
   - icon.png
 ---

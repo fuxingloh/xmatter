@@ -6,7 +6,7 @@ name: COFC Cash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4c4c4c"
+color: "#f8e828"
 icons:
   - icon.png
 ---

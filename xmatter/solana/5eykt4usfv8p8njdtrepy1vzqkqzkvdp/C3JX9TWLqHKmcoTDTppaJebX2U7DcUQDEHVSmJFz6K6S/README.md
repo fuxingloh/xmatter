@@ -10,7 +10,7 @@ name: Bazinga
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#696662"
+color: "#586858"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Aave UniUSDC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2474cc"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: OXITRON
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a7316f"
+color: "#080808"
 icons:
   - icon.png
 ---

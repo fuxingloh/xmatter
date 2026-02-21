@@ -10,7 +10,7 @@ name: Raydium (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4e72f3"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: FOTA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3c434c"
+color: "#080808"
 icons:
   - icon.png
 ---

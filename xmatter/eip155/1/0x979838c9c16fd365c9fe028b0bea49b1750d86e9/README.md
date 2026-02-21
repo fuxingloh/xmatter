@@ -8,7 +8,7 @@ name: FEG Wrapped USDT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0a0705"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

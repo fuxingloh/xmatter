@@ -14,7 +14,7 @@ name: Gorilla
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f5be35"
+color: "#f8c828"
 icons:
   - icon.png
 ---

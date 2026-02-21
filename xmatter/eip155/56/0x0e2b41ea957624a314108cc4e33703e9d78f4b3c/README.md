@@ -16,7 +16,7 @@ name: Greenheart CBD Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#24642c"
+color: "#285828"
 icons:
   - icon.png
 ---

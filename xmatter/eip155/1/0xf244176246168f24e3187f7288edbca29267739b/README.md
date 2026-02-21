@@ -8,7 +8,7 @@ name: Havven
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2e3242"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

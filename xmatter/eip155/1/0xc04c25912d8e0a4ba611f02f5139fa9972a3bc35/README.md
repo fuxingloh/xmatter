@@ -6,7 +6,7 @@ name: EQR TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b4b4b3"
+color: "#080808"
 icons:
   - icon.png
 ---

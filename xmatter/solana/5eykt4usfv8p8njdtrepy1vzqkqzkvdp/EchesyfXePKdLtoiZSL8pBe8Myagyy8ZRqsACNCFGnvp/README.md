@@ -16,7 +16,7 @@ name: Solana Name Service
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#1b2437"
+color: "#181828"
 icons:
   - icon.png
 ---

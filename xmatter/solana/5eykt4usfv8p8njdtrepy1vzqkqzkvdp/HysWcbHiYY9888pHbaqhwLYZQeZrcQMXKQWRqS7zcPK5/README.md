@@ -10,7 +10,7 @@ name: Axie Infinity Shard (Portal from Ethereum)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#124cb0"
+color: "#080808"
 icons:
   - icon.png
 ---

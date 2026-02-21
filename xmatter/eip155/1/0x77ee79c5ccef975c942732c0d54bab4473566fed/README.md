@@ -6,7 +6,7 @@ name: I Luv 2 C
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d22179"
+color: "#080808"
 icons:
   - icon.png
 ---

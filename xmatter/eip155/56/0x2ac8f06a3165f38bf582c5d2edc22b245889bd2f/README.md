@@ -8,7 +8,7 @@ name: Token Bali
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f19522"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: World Wide Trade Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8ac32"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

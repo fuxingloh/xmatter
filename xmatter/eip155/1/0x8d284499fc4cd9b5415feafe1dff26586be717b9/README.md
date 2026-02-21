@@ -6,7 +6,7 @@ name: CRP Token published by Soompay Korea
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#161614"
+color: "#080808"
 icons:
   - icon.png
 ---

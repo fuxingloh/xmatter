@@ -8,7 +8,7 @@ name: CorionX utility token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc5710"
+color: "#080808"
 icons:
   - icon.png
 ---

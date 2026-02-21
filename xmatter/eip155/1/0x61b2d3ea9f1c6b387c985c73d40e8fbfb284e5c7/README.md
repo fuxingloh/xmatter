@@ -8,7 +8,7 @@ name: RoboCalls
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3c449c"
+color: "#080808"
 icons:
   - icon.png
 ---

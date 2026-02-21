@@ -8,7 +8,7 @@ name: Proton Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3b3a3a"
+color: "#383838"
 icons:
   - icon.png
 ---

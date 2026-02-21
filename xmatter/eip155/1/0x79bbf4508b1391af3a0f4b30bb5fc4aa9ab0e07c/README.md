@@ -12,7 +12,7 @@ name: HeyAnon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e25d0e"
+color: "#e85808"
 icons:
   - icon.png
 ---

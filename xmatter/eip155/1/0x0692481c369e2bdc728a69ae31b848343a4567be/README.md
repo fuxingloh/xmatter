@@ -15,7 +15,7 @@ name: iShares Core S&P Total US Stock Market ETF (Ondo Tokenized)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#460f7d"
+color: "#480878"
 icons:
   - icon.png
 ---

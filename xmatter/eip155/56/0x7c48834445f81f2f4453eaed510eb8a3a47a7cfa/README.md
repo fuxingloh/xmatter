@@ -8,7 +8,7 @@ name: BEES
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#af7830"
+color: "#080808"
 icons:
   - icon.png
 ---

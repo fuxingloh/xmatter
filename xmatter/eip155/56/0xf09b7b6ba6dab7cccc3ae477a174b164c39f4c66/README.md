@@ -10,7 +10,7 @@ name: MoonPirate
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1c2530"
+color: "#181828"
 icons:
   - icon.png
 ---

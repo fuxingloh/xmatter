@@ -8,7 +8,7 @@ name: FEG Wrapped SHIB
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f7a41a"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

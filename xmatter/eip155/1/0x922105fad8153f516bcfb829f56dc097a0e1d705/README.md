@@ -8,7 +8,7 @@ name: Yee - A Blockchain-powered & Cloud-based Social Ecosystem
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc941c"
+color: "#f89818"
 icons:
   - icon.png
 ---

@@ -27,7 +27,7 @@ name: EverRise Rewards
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cd4231"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

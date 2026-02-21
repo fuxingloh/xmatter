@@ -14,7 +14,7 @@ name: WULFY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#974fbf"
+color: "#8858c8"
 icons:
   - icon.png
 ---

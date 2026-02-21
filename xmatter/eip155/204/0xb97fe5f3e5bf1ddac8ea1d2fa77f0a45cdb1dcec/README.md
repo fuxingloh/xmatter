@@ -10,7 +10,7 @@ symbol: WBNB
 decimals: 18
 icons:
   - icon.png
-color: "#fbfbef"
+color: "#f8f8f8"
 ---
 
 As the native coin of Binance Chain, BNB has multiple use cases: fueling transactions on the Chain, paying for transaction fees on Binance Exchange, making in-store payments, and many more.

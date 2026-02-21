@@ -6,7 +6,7 @@ name: DLNToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#33a6fb"
+color: "#080808"
 icons:
   - icon.png
 ---

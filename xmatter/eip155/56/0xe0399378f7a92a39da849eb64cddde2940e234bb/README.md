@@ -42,7 +42,7 @@ name: ZionTopia
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0a3411"
+color: "#08f808"
 icons:
   - icon.png
 ---

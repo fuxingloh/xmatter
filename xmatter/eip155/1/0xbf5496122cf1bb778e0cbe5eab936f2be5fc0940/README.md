@@ -6,7 +6,7 @@ name: FundToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#efc66f"
+color: "#080808"
 icons:
   - icon.png
 ---

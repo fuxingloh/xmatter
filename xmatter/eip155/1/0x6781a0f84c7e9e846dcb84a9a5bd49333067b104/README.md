@@ -8,7 +8,7 @@ name: ZAP TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0495fb"
+color: "#08a8f8"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Shark Cat
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#504242"
+color: "#181818"
 icons:
   - icon.png
 ---

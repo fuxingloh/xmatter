@@ -8,7 +8,7 @@ name: Ciaone Token (Ciao.one)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dab72e"
+color: "#080808"
 icons:
   - icon.png
 ---

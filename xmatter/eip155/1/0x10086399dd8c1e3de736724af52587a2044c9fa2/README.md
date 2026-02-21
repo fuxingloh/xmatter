@@ -8,7 +8,7 @@ name: The Midas Touch Gold
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d6ad4b"
+color: "#080808"
 icons:
   - icon.png
 ---

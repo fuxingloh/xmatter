@@ -12,7 +12,7 @@ name: Beta
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04cb04"
+color: "#08c808"
 icons:
   - icon.png
 ---

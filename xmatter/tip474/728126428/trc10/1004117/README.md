@@ -30,7 +30,7 @@ name: The Flash Currency
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#141812"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

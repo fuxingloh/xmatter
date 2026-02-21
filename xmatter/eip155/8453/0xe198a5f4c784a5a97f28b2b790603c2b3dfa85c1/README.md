@@ -14,7 +14,7 @@ name: AI Crypto Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7ca5c8"
+color: "#d8e8f8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Ocbtoken - Blockmax
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f4f6f5"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

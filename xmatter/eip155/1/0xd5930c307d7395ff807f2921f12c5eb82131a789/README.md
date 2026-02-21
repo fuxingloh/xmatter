@@ -6,7 +6,7 @@ name: Bolt Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2b9bcb"
+color: "#2898c8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: WaleTokeN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8417e"
+color: "#f8c808"
 icons:
   - icon.png
 ---

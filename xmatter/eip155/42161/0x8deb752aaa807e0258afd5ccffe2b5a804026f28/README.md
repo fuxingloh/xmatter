@@ -15,7 +15,7 @@ name: Wrapped Broadcom Tokenized stock (xStock)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cb0c2c"
+color: "#c80828"
 icons:
   - icon.png
 ---

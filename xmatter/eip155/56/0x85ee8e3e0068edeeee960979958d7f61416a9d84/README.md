@@ -16,7 +16,7 @@ name: Story
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4e37dc"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

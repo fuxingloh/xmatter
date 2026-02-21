@@ -6,7 +6,7 @@ name: Photon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#142004"
+color: "#080808"
 icons:
   - icon.png
 ---

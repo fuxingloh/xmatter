@@ -6,7 +6,7 @@ name: Unity Ingot
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c3af57"
+color: "#080808"
 icons:
   - icon.png
 ---

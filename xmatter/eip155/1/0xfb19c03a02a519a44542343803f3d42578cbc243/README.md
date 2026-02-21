@@ -14,7 +14,7 @@ name: CR Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#23348c"
+color: "#283888"
 icons:
   - icon.png
 ---

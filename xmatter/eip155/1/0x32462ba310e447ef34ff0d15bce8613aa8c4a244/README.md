@@ -10,7 +10,7 @@ name: Dohrnii
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5064e0"
+color: "#4858d8"
 icons:
   - icon.png
 ---

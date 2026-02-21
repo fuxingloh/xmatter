@@ -8,7 +8,7 @@ name: MATADOR Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a1745e"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

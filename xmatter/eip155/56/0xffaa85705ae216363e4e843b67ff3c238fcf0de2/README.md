@@ -15,7 +15,7 @@ name: Euro Shiba Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e5a932"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -26,7 +26,7 @@ name: Stronger
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8cb19"
+color: "#183868"
 icons:
   - icon.png
 ---

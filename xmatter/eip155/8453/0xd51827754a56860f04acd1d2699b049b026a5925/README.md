@@ -14,7 +14,7 @@ name: G-Agents AI
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d08b10"
+color: "#080808"
 icons:
   - icon.png
 ---

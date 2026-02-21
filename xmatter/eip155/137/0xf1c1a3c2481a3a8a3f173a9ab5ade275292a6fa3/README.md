@@ -12,7 +12,7 @@ name: BLOCKv
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#9f8c7d"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

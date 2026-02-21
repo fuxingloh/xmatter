@@ -8,7 +8,7 @@ name: WZEC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#060504"
+color: "#f8b808"
 icons:
   - icon.png
 ---

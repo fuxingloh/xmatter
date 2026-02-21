@@ -12,7 +12,7 @@ name: Orfano
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8313c3"
+color: "#8818b8"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: SuperSkyNet
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#64a4dc"
+color: "#486878"
 icons:
   - icon.png
 ---

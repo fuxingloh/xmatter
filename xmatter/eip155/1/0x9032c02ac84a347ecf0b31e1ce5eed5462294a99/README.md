@@ -8,7 +8,7 @@ name: FMP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#29abe2"
+color: "#080808"
 icons:
   - icon.png
 ---

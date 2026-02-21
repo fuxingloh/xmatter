@@ -20,7 +20,7 @@ name: MaskDoge Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#dc8c26"
+color: "#f8f8b8"
 icons:
   - icon.png
 ---

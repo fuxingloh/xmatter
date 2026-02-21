@@ -14,7 +14,7 @@ name: WAXP Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f5c12b"
+color: "#f8b808"
 icons:
   - icon.png
 ---

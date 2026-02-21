@@ -8,7 +8,7 @@ name: CRYPTOBUCKS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e7af4e"
+color: "#080808"
 icons:
   - icon.png
 ---

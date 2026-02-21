@@ -6,7 +6,7 @@ name: TronGuarD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#e5bf2c"
+color: "#080808"
 icons:
   - icon.png
 ---

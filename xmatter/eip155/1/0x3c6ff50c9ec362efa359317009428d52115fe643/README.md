@@ -8,7 +8,7 @@ name: PeerEx Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e51d27"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

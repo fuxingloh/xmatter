@@ -14,7 +14,7 @@ name: MiniShibaInu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eb2823"
+color: "#e81828"
 icons:
   - icon.png
 ---

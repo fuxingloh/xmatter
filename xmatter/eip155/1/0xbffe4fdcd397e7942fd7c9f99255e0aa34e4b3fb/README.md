@@ -8,7 +8,7 @@ name: Tranium
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e9e1e8"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

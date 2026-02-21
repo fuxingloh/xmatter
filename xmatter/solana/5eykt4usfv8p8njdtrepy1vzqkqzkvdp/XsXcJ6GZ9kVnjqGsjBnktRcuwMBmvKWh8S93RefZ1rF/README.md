@@ -10,7 +10,7 @@ symbol: AMDx
 decimals: 8
 icons:
   - icon.png
-color: "#313131"
+color: "#383838"
 ---
 
 AMD xStock

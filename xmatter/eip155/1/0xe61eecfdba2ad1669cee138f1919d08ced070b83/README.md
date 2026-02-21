@@ -12,7 +12,7 @@ name: VGTGToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b09644"
+color: "#080808"
 icons:
   - icon.png
 ---

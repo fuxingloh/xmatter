@@ -6,7 +6,7 @@ name: TEOGLOBAL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c36b51"
+color: "#080808"
 icons:
   - icon.png
 ---

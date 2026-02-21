@@ -14,7 +14,7 @@ name: Rapamycin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#3dcdcf"
+color: "#080808"
 icons:
   - icon.png
 ---

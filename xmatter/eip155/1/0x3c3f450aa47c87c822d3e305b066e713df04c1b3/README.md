@@ -6,7 +6,7 @@ name: Canote Platform
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bf844b"
+color: "#080808"
 icons:
   - icon.png
 ---

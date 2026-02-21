@@ -12,7 +12,7 @@ name: Ruby Assest
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc20
-color: "#f53159"
+color: "#080808"
 icons:
   - icon.png
 ---

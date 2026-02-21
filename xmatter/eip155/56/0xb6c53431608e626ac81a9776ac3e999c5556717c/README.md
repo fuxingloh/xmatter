@@ -16,7 +16,7 @@ name: pTokens TLOS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#faf3d0"
+color: "#f86868"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Raven X
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e5dada"
+color: "#080808"
 icons:
   - icon.png
 ---

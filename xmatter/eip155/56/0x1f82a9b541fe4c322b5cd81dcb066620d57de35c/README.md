@@ -10,7 +10,7 @@ name: Donkey King
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#edc56e"
+color: "#180838"
 icons:
   - icon.png
 ---

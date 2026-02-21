@@ -26,7 +26,7 @@ name: DRAC Network (DRAC)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#840404"
+color: "#880808"
 icons:
   - icon.png
 ---

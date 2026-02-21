@@ -6,7 +6,7 @@ name: TRD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - trc10
-color: "#c1bfbe"
+color: "#c8c8c8"
 icons:
   - icon.png
 ---

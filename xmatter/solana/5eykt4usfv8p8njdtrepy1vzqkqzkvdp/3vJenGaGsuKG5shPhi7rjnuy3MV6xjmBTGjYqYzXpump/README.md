@@ -12,7 +12,7 @@ name: RAT Escape
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#725d51"
+color: "#180808"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: UFO Gaming (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - spl-token
-color: "#2f3348"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---
