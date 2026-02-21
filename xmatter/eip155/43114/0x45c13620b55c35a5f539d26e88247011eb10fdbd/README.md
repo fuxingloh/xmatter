@@ -7,5 +7,5 @@ symbol: HCT
 decimals: 18
 icons:
   - icon.png
-color: "#8164b9"
+color: "#f8f8f8"
 ---

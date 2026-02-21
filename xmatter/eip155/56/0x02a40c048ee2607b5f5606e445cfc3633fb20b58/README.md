@@ -18,7 +18,7 @@ name: Kaby Arena
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c1b29d"
+color: "#080808"
 icons:
   - icon.png
   - icon.jpeg

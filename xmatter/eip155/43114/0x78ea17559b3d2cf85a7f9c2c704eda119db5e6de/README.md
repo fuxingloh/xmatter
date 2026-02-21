@@ -7,5 +7,5 @@ symbol: AVE
 decimals: 18
 icons:
   - icon.png
-color: "#d28b6f"
+color: "#080808"
 ---

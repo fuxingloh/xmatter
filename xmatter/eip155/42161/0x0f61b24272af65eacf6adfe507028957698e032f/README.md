@@ -7,5 +7,5 @@ symbol: ZIPT
 decimals: 18
 icons:
   - icon.png
-color: "#444444"
+color: "#486848"
 ---

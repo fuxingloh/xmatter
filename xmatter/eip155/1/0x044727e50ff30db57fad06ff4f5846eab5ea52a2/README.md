@@ -20,7 +20,7 @@ name: Kitty Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c4a492"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -7,5 +7,5 @@ symbol: TGR
 decimals: 18
 icons:
   - icon.png
-color: "#0c6ee9"
+color: "#0868e8"
 ---

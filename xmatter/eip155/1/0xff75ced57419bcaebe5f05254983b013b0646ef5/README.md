@@ -8,7 +8,7 @@ name: COOK Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2c3464"
+color: "#283868"
 icons:
   - icon.png
 ---

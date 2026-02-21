@@ -7,5 +7,5 @@ symbol: SKILL
 decimals: 18
 icons:
   - icon.png
-color: "#252827"
+color: "#080808"
 ---

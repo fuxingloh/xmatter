@@ -7,5 +7,5 @@ symbol: KTN
 decimals: 18
 icons:
   - icon.png
-color: "#141414"
+color: "#181818"
 ---

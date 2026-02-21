@@ -7,5 +7,5 @@ symbol: PPEGG
 decimals: 18
 icons:
   - icon.png
-color: "#078105"
+color: "#f8f8f8"
 ---

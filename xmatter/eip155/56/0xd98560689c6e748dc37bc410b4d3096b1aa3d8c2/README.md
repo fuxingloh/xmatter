@@ -20,7 +20,7 @@ name: DeFi For You.
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#352504"
+color: "#f8b808"
 icons:
   - icon.png
 ---

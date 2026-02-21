@@ -7,5 +7,5 @@ symbol: bscXVS
 decimals: 18
 icons:
   - icon.png
-color: "#f4bb50"
+color: "#f8b848"
 ---

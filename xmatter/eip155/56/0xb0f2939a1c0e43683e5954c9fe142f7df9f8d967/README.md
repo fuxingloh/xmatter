@@ -7,5 +7,5 @@ symbol: GEN
 decimals: 18
 icons:
   - icon.png
-color: "#04a7c8"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: XMPT
 decimals: 18
 icons:
   - icon.png
-color: "#16a2d8"
+color: "#f8f8f8"
 ---

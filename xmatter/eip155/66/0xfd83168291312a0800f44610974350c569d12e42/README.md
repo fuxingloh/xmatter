@@ -7,5 +7,5 @@ symbol: HEP
 decimals: 0
 icons:
   - icon.png
-color: "#b9c1d7"
+color: "#f8f8f8"
 ---

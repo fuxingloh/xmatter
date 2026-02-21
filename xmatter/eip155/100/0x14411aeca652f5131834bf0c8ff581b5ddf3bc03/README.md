@@ -7,5 +7,5 @@ symbol: COIN
 decimals: 18
 icons:
   - icon.png
-color: "#5d14fb"
+color: "#080808"
 ---

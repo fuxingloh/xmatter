@@ -7,5 +7,5 @@ symbol: HUSD
 decimals: 8
 icons:
   - icon.png
-color: "#055cfc"
+color: "#0858f8"
 ---

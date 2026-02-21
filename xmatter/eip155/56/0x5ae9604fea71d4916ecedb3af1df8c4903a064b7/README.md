@@ -7,5 +7,5 @@ symbol: FACE
 decimals: 18
 icons:
   - icon.png
-color: "#002030"
+color: "#080808"
 ---

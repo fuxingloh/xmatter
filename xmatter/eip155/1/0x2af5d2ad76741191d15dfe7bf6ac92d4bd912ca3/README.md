@@ -18,7 +18,7 @@ name: UNUS SED LEO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f4b506"
+color: "#080808"
 icons:
   - icon.svg
   - icon.png

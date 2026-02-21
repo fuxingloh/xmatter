@@ -7,5 +7,5 @@ symbol: RDPX
 decimals: 18
 icons:
   - icon.png
-color: "#052efc"
+color: "#0828f8"
 ---

@@ -7,5 +7,5 @@ symbol: WASTR
 decimals: 18
 icons:
   - icon.png
-color: "#147de5"
+color: "#08d8f8"
 ---

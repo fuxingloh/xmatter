@@ -7,5 +7,5 @@ symbol: crDAI
 decimals: 8
 icons:
   - icon.png
-color: "#f4b94a"
+color: "#080808"
 ---

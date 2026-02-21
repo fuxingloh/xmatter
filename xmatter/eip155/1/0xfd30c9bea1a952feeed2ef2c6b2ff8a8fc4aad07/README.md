@@ -7,5 +7,5 @@ symbol: KALLY
 decimals: 18
 icons:
   - icon.png
-color: "#f2e3eb"
+color: "#f8f8f8"
 ---

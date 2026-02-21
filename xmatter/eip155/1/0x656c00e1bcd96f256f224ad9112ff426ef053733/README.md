@@ -7,5 +7,5 @@ symbol: EFI
 decimals: 18
 icons:
   - icon.png
-color: "#4c6cdc"
+color: "#4868d8"
 ---

@@ -7,5 +7,5 @@ symbol: VBNT
 decimals: 18
 icons:
   - icon.png
-color: "#2c5cc4"
+color: "#2858c8"
 ---

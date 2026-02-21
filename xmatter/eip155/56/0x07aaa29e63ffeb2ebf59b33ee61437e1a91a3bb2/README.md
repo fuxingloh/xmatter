@@ -7,5 +7,5 @@ symbol: QSD
 decimals: 18
 icons:
   - icon.png
-color: "#8765e2"
+color: "#7858d8"
 ---

@@ -7,5 +7,5 @@ symbol: MANA
 decimals: 18
 icons:
   - icon.png
-color: "#fb334e"
+color: "#080808"
 ---

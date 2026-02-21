@@ -7,5 +7,5 @@ symbol: OOKI
 decimals: 18
 icons:
   - icon.png
-color: "#f8916a"
+color: "#f8f8f8"
 ---

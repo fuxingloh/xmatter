@@ -7,5 +7,5 @@ symbol: BZB
 decimals: 18
 icons:
   - icon.png
-color: "#1fbedc"
+color: "#080808"
 ---

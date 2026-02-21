@@ -7,5 +7,5 @@ symbol: SHARE
 decimals: 18
 icons:
   - icon.png
-color: "#f45036"
+color: "#f84838"
 ---

@@ -7,5 +7,5 @@ symbol: SNP
 decimals: 18
 icons:
   - icon.png
-color: "#e5e3db"
+color: "#e8e8d8"
 ---

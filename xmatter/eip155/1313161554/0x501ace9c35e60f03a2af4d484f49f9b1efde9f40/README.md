@@ -7,5 +7,5 @@ symbol: SOLACE
 decimals: 18
 icons:
   - icon.png
-color: "#e79aa6"
+color: "#f8f8f8"
 ---

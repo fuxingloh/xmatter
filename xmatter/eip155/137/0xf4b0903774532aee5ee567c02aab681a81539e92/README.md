@@ -7,5 +7,5 @@ symbol: GAJ
 decimals: 18
 icons:
   - icon.png
-color: "#2674b0"
+color: "#e8e8e8"
 ---

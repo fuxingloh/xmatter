@@ -7,5 +7,5 @@ symbol: OCT
 decimals: 18
 icons:
   - icon.png
-color: "#0c44a3"
+color: "#0848a8"
 ---

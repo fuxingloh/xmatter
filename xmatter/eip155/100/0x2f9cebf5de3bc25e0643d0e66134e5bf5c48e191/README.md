@@ -7,5 +7,5 @@ symbol: xBRICK
 decimals: 18
 icons:
   - icon.png
-color: "#be5740"
+color: "#080808"
 ---

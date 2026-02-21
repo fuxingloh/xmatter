@@ -10,7 +10,7 @@ name: HOPR Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0a0a7b"
+color: "#f8f898"
 icons:
   - icon.svg
   - icon.png

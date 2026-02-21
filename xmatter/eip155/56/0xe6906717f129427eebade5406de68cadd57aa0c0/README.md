@@ -7,5 +7,5 @@ symbol: MIT
 decimals: 18
 icons:
   - icon.jpeg
-color: "#c4c4c4"
+color: "#c8c8c8"
 ---

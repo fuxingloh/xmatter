@@ -7,5 +7,5 @@ symbol: DCAU
 decimals: 18
 icons:
   - icon.png
-color: "#a9861d"
+color: "#f8f8f8"
 ---

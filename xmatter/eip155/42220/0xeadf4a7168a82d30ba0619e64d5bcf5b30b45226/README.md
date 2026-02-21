@@ -7,5 +7,5 @@ symbol: pUSD
 decimals: 18
 icons:
   - icon.png
-color: "#43cb83"
+color: "#48c888"
 ---

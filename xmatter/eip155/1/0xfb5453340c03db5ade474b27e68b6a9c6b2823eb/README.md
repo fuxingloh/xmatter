@@ -7,5 +7,5 @@ symbol: ROBOT
 decimals: 18
 icons:
   - icon.png
-color: "#060606"
+color: "#08e8f8"
 ---

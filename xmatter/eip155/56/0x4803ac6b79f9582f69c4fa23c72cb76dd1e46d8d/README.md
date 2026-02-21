@@ -7,5 +7,5 @@ symbol: TMT
 decimals: 18
 icons:
   - icon.png
-color: "#2f82fb"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: GEAR
 decimals: 18
 icons:
   - icon.png
-color: "#e4332c"
+color: "#080808"
 ---

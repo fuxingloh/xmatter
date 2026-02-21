@@ -6,6 +6,6 @@ symbol: GNO
 icons:
   - icon.svg
   - icon.png
-color: "#00193c"
+color: "#081838"
 decimals: 18
 ---

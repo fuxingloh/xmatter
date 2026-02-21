@@ -7,5 +7,5 @@ symbol: MOZ
 decimals: 18
 icons:
   - icon.png
-color: "#f04557"
+color: "#080808"
 ---

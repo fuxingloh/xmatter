@@ -7,5 +7,5 @@ symbol: WMLK
 decimals: 8
 icons:
   - icon.png
-color: "#cbeaea"
+color: "#28a8a8"
 ---

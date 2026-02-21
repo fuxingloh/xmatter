@@ -7,5 +7,5 @@ symbol: JUMBO
 decimals: 18
 icons:
   - icon.svg
-color: "#141414"
+color: "#181818"
 ---

@@ -7,5 +7,5 @@ symbol: HAK
 decimals: 18
 icons:
   - icon.svg
-color: "#d4d2cd"
+color: "#080808"
 ---

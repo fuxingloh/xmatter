@@ -7,5 +7,5 @@ symbol: GOF
 decimals: 18
 icons:
   - icon.png
-color: "#2b8775"
+color: "#187868"
 ---

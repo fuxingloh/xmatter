@@ -7,5 +7,5 @@ symbol: CAP
 decimals: 18
 icons:
   - icon.png
-color: "#0c0c14"
+color: "#080808"
 ---

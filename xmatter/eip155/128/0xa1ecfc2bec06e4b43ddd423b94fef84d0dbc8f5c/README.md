@@ -7,5 +7,5 @@ symbol: ELA
 decimals: 18
 icons:
   - icon.png
-color: "#0c0c0c"
+color: "#f8f8f8"
 ---

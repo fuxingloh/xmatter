@@ -7,5 +7,5 @@ symbol: AURUM
 decimals: 18
 icons:
   - icon.png
-color: "#edaf20"
+color: "#f8f8f8"
 ---

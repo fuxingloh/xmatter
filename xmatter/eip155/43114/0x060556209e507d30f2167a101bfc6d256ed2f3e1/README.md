@@ -7,5 +7,5 @@ symbol: XPTP
 decimals: 18
 icons:
   - icon.png
-color: "#6c6ce4"
+color: "#6868e8"
 ---

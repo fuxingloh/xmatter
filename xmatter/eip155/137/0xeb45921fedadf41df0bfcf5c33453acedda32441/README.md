@@ -7,5 +7,5 @@ symbol: pZUG
 decimals: 18
 icons:
   - icon.png
-color: "#fbc719"
+color: "#080808"
 ---

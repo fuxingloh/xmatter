@@ -8,7 +8,7 @@ name: UnMarshal
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#34d49c"
+color: "#38d898"
 icons:
   - icon.png
 ---

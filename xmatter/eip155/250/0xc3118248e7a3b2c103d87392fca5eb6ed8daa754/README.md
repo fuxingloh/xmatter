@@ -7,5 +7,5 @@ symbol: DUCAT
 decimals: 18
 icons:
   - icon.png
-color: "#ba9c4e"
+color: "#482818"
 ---

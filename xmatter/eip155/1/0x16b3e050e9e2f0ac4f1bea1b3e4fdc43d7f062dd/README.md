@@ -7,5 +7,5 @@ symbol: SMBR
 decimals: 9
 icons:
   - icon.png
-color: "#460482"
+color: "#080808"
 ---

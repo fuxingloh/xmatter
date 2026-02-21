@@ -6,7 +6,7 @@ name: UST (Wormhole)
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#5491f0"
+color: "#486878"
 icons:
   - icon.png
 ---

@@ -7,5 +7,5 @@ symbol: FIN
 decimals: 18
 icons:
   - icon.png
-color: "#04a4f4"
+color: "#080808"
 ---

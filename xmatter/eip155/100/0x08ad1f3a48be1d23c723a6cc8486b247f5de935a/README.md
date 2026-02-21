@@ -7,5 +7,5 @@ symbol: REALT-S-13116-KILBO
 decimals: 18
 icons:
   - icon.jpeg
-color: "#878163"
+color: "#f8f8f8"
 ---

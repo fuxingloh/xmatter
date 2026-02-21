@@ -7,5 +7,5 @@ symbol: XDO
 decimals: 18
 icons:
   - icon.webp
-color: "#8d73b4"
+color: "#b85898"
 ---

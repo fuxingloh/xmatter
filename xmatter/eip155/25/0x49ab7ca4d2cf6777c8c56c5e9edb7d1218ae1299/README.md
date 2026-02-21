@@ -7,5 +7,5 @@ symbol: BURROW
 decimals: 18
 icons:
   - icon.png
-color: "#064cbb"
+color: "#0848b8"
 ---

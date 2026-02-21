@@ -7,5 +7,5 @@ symbol: NORD
 decimals: 18
 icons:
   - icon.jpeg
-color: "#12162c"
+color: "#f8f8f8"
 ---

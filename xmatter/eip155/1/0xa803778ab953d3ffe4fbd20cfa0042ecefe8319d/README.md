@@ -7,5 +7,5 @@ symbol: CTZN
 decimals: 18
 icons:
   - icon.png
-color: "#5aa693"
+color: "#080808"
 ---

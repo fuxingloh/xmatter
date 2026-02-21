@@ -7,5 +7,5 @@ symbol: RPL
 decimals: 18
 icons:
   - icon.png
-color: "#fcab73"
+color: "#080808"
 ---

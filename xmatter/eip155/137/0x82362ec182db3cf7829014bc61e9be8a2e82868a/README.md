@@ -7,5 +7,5 @@ symbol: MESH
 decimals: 18
 icons:
   - icon.png
-color: "#7f50dd"
+color: "#f8f8f8"
 ---

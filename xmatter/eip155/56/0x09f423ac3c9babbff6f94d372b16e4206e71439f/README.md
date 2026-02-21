@@ -7,5 +7,5 @@ symbol: EJS
 decimals: 18
 icons:
   - icon.jpeg
-color: "#a64b8b"
+color: "#f8f8f8"
 ---

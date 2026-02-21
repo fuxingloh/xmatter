@@ -7,5 +7,5 @@ symbol: XRT
 decimals: 9
 icons:
   - icon.png
-color: "#0aa7ee"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: NBT
 decimals: 18
 icons:
   - icon.png
-color: "#c8bced"
+color: "#f8f8f8"
 ---

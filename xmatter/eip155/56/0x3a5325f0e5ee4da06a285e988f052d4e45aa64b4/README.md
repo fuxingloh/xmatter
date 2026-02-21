@@ -7,5 +7,5 @@ symbol: POLAR
 decimals: 18
 icons:
   - icon.png
-color: "#caaaf8"
+color: "#f8f8f8"
 ---

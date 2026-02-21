@@ -7,5 +7,5 @@ symbol: ONEUSD
 decimals: 8
 icons:
   - icon.png
-color: "#0610a0"
+color: "#080898"
 ---

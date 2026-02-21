@@ -7,5 +7,5 @@ symbol: XEND
 decimals: 18
 icons:
   - icon.png
-color: "#a66e74"
+color: "#f8f8f8"
 ---

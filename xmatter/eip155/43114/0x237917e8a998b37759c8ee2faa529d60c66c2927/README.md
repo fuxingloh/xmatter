@@ -7,5 +7,5 @@ symbol: SIFU
 decimals: 18
 icons:
   - icon.png
-color: "#dec9b2"
+color: "#080808"
 ---

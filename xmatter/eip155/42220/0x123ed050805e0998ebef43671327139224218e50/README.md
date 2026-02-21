@@ -7,5 +7,5 @@ symbol: NTMX
 decimals: 18
 icons:
   - icon.png
-color: "#050707"
+color: "#080808"
 ---

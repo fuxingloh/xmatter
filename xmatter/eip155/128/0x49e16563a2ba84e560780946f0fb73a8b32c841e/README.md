@@ -7,5 +7,5 @@ symbol: SOVI
 decimals: 18
 icons:
   - icon.png
-color: "#e6a04a"
+color: "#f8f8f8"
 ---

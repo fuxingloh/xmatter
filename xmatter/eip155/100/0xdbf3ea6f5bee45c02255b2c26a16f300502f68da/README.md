@@ -7,5 +7,5 @@ symbol: BZZ
 decimals: 16
 icons:
   - icon.png
-color: "#fbfbfb"
+color: "#f8f8f8"
 ---

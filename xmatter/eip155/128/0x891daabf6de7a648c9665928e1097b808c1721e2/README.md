@@ -7,5 +7,5 @@ symbol: AS
 decimals: 18
 icons:
   - icon.png
-color: "#247cfb"
+color: "#2878f8"
 ---

@@ -7,5 +7,5 @@ symbol: OKFLY
 decimals: 9
 icons:
   - icon.png
-color: "#06bffb"
+color: "#f8f8f8"
 ---

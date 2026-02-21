@@ -7,5 +7,5 @@ symbol: SLNV2
 decimals: 18
 icons:
   - icon.png
-color: "#0522ab"
+color: "#080808"
 ---

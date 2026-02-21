@@ -7,5 +7,5 @@ symbol: REALT-S-9165-KENSIN
 decimals: 18
 icons:
   - icon.jpeg
-color: "#4d4e40"
+color: "#282828"
 ---

@@ -7,5 +7,5 @@ symbol: USDFL
 decimals: 18
 icons:
   - icon.png
-color: "#443cf4"
+color: "#4838f8"
 ---

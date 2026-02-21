@@ -7,5 +7,5 @@ symbol: LIQ
 decimals: 18
 icons:
   - icon.png
-color: "#142454"
+color: "#182858"
 ---

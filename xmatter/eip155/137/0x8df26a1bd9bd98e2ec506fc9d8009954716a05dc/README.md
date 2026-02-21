@@ -7,5 +7,5 @@ symbol: COLLAR
 decimals: 18
 icons:
   - icon.png
-color: "#fbfbdb"
+color: "#f8f8d8"
 ---

@@ -7,5 +7,5 @@ symbol: SASHIMI
 decimals: 18
 icons:
   - icon.png
-color: "#ec5c1c"
+color: "#f8f8f8"
 ---

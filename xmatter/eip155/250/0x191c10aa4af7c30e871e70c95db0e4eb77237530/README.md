@@ -7,5 +7,5 @@ symbol: ALINK
 decimals: 18
 icons:
   - icon.png
-color: "#9e64a6"
+color: "#2858d8"
 ---

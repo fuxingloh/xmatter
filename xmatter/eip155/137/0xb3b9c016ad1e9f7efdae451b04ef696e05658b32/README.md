@@ -7,5 +7,5 @@ symbol: XPRT
 decimals: 6
 icons:
   - icon.png
-color: "#e40c14"
+color: "#080808"
 ---

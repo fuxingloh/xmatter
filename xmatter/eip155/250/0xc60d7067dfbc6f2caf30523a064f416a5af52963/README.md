@@ -14,7 +14,7 @@ symbol: TREEB
 decimals: 18
 icons:
   - icon.png
-color: "#d3d6d5"
+color: "#181818"
 ---
 
 Retreeb is a distributed payment solution that shares one third of its network fees to funding social and solidarity projects.

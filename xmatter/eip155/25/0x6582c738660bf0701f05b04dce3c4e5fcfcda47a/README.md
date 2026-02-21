@@ -7,5 +7,5 @@ symbol: DUSD
 decimals: 18
 icons:
   - icon.png
-color: "#2bc189"
+color: "#28c868"
 ---

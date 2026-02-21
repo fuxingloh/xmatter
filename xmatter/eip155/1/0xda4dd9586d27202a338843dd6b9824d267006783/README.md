@@ -7,5 +7,5 @@ symbol: ECT
 decimals: 9
 icons:
   - icon.png
-color: "#2c2e2e"
+color: "#282828"
 ---

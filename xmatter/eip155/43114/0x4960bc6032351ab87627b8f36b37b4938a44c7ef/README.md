@@ -7,5 +7,5 @@ symbol: RICH
 decimals: 18
 icons:
   - icon.png
-color: "#903e30"
+color: "#080808"
 ---

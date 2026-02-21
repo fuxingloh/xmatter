@@ -7,5 +7,5 @@ symbol: TGT
 decimals: 18
 icons:
   - icon.png
-color: "#040606"
+color: "#080808"
 ---

@@ -10,7 +10,7 @@ name: BOND
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f04848"
+color: "#e84848"
 icons:
   - icon.png
 ---

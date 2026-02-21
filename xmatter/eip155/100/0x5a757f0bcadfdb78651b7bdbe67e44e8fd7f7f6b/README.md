@@ -7,5 +7,5 @@ symbol: ENJ
 decimals: 18
 icons:
   - icon.png
-color: "#89e6fc"
+color: "#080808"
 ---

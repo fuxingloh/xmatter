@@ -7,5 +7,5 @@ symbol: JASMY
 decimals: 18
 icons:
   - icon.png
-color: "#f9ecdc"
+color: "#e89838"
 ---

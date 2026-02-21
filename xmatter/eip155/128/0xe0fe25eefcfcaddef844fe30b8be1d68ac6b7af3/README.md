@@ -7,5 +7,5 @@ symbol: XF
 decimals: 18
 icons:
   - icon.png
-color: "#3cacac"
+color: "#38a8a8"
 ---

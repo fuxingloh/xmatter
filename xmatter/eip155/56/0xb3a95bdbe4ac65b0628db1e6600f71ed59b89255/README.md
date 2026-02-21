@@ -7,5 +7,5 @@ symbol: UV
 decimals: 18
 icons:
   - icon.png
-color: "#e0e7e8"
+color: "#f8f8f8"
 ---

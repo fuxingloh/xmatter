@@ -7,5 +7,5 @@ symbol: AMWETH
 decimals: 18
 icons:
   - icon.png
-color: "#ce5c9b"
+color: "#f8f8f8"
 ---

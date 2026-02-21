@@ -7,5 +7,5 @@ symbol: BANANA
 decimals: 18
 icons:
   - icon.png
-color: "#fcf4e3"
+color: "#f8f8e8"
 ---

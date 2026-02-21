@@ -19,7 +19,7 @@ decimals: 18
 icons:
   - icon.svg
   - icon.png
-color: "#c1d6fc"
+color: "#f8f8f8"
 ---
 
 Fantom is a high-performance, scalable, customizable, and secure smart-contract platform. It is designed to overcome the limitations of previous generation blockchain platforms. Fantom is permissionless, decentralized, and open-source.

@@ -18,7 +18,7 @@ name: ShareToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1a6fb5"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -7,5 +7,5 @@ symbol: SPROCKET
 decimals: 18
 icons:
   - icon.png
-color: "#fa6455"
+color: "#f8f8f8"
 ---

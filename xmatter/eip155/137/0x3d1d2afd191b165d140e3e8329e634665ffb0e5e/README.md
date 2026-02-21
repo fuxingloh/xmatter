@@ -7,5 +7,5 @@ symbol: DERI
 decimals: 18
 icons:
   - icon.png
-color: "#121c27"
+color: "#181828"
 ---

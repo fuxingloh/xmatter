@@ -7,5 +7,5 @@ symbol: G$
 decimals: 2
 icons:
   - icon.png
-color: "#e3f2fb"
+color: "#08b8f8"
 ---

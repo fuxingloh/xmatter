@@ -7,5 +7,5 @@ symbol: REALT-S-19020-ROSEM
 decimals: 18
 icons:
   - icon.jpeg
-color: "#b9c4cd"
+color: "#686868"
 ---

@@ -7,5 +7,5 @@ symbol: FOMOETH
 decimals: 9
 icons:
   - icon.jpeg
-color: "#0b0d1c"
+color: "#080808"
 ---

@@ -12,7 +12,7 @@ name: Bitrise Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#30aec3"
+color: "#080808"
 icons:
   - icon.png
 ---

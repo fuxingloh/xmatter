@@ -8,7 +8,7 @@ name: Mover
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c2ea33"
+color: "#080818"
 icons:
   - icon.png
   - icon.jpeg

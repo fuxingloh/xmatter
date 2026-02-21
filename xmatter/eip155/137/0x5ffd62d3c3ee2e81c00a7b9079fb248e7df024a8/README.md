@@ -7,5 +7,5 @@ symbol: GNO
 decimals: 18
 icons:
   - icon.png
-color: "#051b3b"
+color: "#081838"
 ---

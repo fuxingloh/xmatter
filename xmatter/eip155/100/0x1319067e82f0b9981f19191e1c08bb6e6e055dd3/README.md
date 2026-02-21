@@ -7,5 +7,5 @@ symbol: DDAI
 decimals: 18
 icons:
   - icon.png
-color: "#1ea74b"
+color: "#080808"
 ---

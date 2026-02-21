@@ -7,5 +7,5 @@ symbol: AGA
 decimals: 4
 icons:
   - icon.png
-color: "#fb3a3a"
+color: "#f8f8f8"
 ---

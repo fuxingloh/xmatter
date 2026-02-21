@@ -7,5 +7,5 @@ symbol: SKY
 decimals: 18
 icons:
   - icon.png
-color: "#159cfc"
+color: "#1898f8"
 ---

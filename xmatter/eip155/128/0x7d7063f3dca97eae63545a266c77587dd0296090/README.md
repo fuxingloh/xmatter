@@ -7,5 +7,5 @@ symbol: HBS
 decimals: 18
 icons:
   - icon.png
-color: "#6832b3"
+color: "#f8f8f8"
 ---

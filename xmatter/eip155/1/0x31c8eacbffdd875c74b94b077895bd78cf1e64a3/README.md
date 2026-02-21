@@ -8,7 +8,7 @@ name: Radicle
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#05df1f"
+color: "#5858f8"
 icons:
   - icon.png
 ---

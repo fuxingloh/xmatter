@@ -16,7 +16,7 @@ name: Kebab Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ef7343"
+color: "#f87848"
 icons:
   - icon.png
 ---

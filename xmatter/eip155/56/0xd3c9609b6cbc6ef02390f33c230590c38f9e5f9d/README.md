@@ -7,5 +7,5 @@ symbol: PROT
 decimals: 18
 icons:
   - icon.jpeg
-color: "#d9a381"
+color: "#f8f8f8"
 ---

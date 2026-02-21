@@ -7,5 +7,5 @@ symbol: sDEFI
 decimals: 18
 icons:
   - icon.png
-color: "#23c0ac"
+color: "#080828"
 ---

@@ -7,5 +7,5 @@ symbol: RARI
 decimals: 18
 icons:
   - icon.png
-color: "#397cfc"
+color: "#f878f8"
 ---

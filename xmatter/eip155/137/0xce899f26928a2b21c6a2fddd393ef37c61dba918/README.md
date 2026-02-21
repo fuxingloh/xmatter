@@ -7,5 +7,5 @@ symbol: MOCA
 decimals: 18
 icons:
   - icon.jpeg
-color: "#dfc82f"
+color: "#f8b808"
 ---

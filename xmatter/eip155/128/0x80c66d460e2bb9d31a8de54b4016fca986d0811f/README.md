@@ -7,5 +7,5 @@ symbol: HTM
 decimals: 18
 icons:
   - icon.png
-color: "#28dafb"
+color: "#080808"
 ---

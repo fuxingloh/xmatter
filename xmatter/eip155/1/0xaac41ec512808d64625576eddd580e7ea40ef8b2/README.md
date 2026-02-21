@@ -7,5 +7,5 @@ symbol: GSWAP
 decimals: 18
 icons:
   - icon.png
-color: "#7475da"
+color: "#7878d8"
 ---

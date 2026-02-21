@@ -7,5 +7,5 @@ symbol: SMG
 decimals: 9
 icons:
   - icon.png
-color: "#efe489"
+color: "#f8e888"
 ---

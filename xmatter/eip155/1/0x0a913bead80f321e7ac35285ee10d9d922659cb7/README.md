@@ -8,7 +8,7 @@ name: DOS Network Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#615e59"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -7,5 +7,5 @@ symbol: IMO
 decimals: 18
 icons:
   - icon.png
-color: "#1968dc"
+color: "#f8f8f8"
 ---

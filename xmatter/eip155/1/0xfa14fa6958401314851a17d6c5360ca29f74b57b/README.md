@@ -8,7 +8,7 @@ name: SAITO Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f41c3c"
+color: "#f81838"
 icons:
   - icon.png
 ---

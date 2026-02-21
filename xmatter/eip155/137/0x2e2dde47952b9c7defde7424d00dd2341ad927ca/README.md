@@ -7,5 +7,5 @@ symbol: CHUM
 decimals: 18
 icons:
   - icon.png
-color: "#efebe4"
+color: "#080808"
 ---

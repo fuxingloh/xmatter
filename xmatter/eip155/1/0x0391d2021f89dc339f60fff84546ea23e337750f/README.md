@@ -10,7 +10,7 @@ name: BarnBridge
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#fc443c"
+color: "#f84838"
 icons:
   - icon.svg
   - icon.png

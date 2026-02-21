@@ -7,5 +7,5 @@ symbol: HNB
 decimals: 18
 icons:
   - icon.png
-color: "#e1dfe6"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: PHTR
 decimals: 18
 icons:
   - icon.png
-color: "#081950"
+color: "#080828"
 ---

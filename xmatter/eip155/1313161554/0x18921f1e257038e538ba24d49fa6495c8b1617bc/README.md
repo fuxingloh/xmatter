@@ -7,5 +7,5 @@ symbol: REN
 decimals: 18
 icons:
   - icon.svg
-color: "#0d0d15"
+color: "#080818"
 ---

@@ -6,6 +6,6 @@ symbol: ETH
 icons:
   - icon.svg
   - icon.png
-color: "#646c8c"
+color: "#686888"
 decimals: 18
 ---

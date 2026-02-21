@@ -7,5 +7,5 @@ symbol: WTF
 decimals: 18
 icons:
   - icon.png
-color: "#3477e7"
+color: "#f8f8f8"
 ---

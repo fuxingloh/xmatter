@@ -25,7 +25,7 @@ decimals: 8
 icons:
   - icon.svg
   - icon.png
-color: "#9c9c9c"
+color: "#989898"
 ---
 
 RenBTC is a token built by RenVM team to expose bitcoin-backed assets to the benefits of Ethereum's various decentralized finance (DeFi) platforms.

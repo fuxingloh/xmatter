@@ -7,5 +7,5 @@ symbol: ASCEND
 decimals: 18
 icons:
   - icon.png
-color: "#f2770c"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: DOUGH
 decimals: 18
 icons:
   - icon.png
-color: "#8c2ada"
+color: "#080808"
 ---

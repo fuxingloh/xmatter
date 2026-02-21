@@ -14,7 +14,7 @@ name: S.S. Lazio Fan Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bfd1d4"
+color: "#181828"
 icons:
   - icon.png
 ---

@@ -7,5 +7,5 @@ symbol: MST
 decimals: 18
 icons:
   - icon.png
-color: "#120e0d"
+color: "#f8f8f8"
 ---

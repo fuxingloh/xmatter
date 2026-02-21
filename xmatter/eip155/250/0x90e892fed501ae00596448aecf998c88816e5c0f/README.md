@@ -7,5 +7,5 @@ symbol: DMD
 decimals: 18
 icons:
   - icon.png
-color: "#5a24a5"
+color: "#f8f8f8"
 ---

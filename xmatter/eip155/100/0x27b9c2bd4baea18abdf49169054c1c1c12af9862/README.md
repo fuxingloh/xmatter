@@ -7,5 +7,5 @@ symbol: SNAFU
 decimals: 18
 icons:
   - icon.png
-color: "#3f3e43"
+color: "#f8f8f8"
 ---

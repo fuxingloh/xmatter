@@ -7,5 +7,5 @@ symbol: DHT
 decimals: 18
 icons:
   - icon.png
-color: "#04a0cf"
+color: "#080808"
 ---

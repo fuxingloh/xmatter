@@ -7,5 +7,5 @@ symbol: HIC
 decimals: 18
 icons:
   - icon.png
-color: "#745fd5"
+color: "#f8f8f8"
 ---

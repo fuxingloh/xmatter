@@ -8,7 +8,7 @@ name: $PORN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f69052"
+color: "#e8e8d8"
 icons:
   - icon.png
 ---

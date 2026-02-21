@@ -7,5 +7,5 @@ symbol: VGTG
 decimals: 18
 icons:
   - icon.png
-color: "#171308"
+color: "#080808"
 ---

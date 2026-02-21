@@ -7,5 +7,5 @@ symbol: DCAR
 decimals: 18
 icons:
   - icon.png
-color: "#d1d1d2"
+color: "#080808"
 ---

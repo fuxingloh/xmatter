@@ -12,7 +12,7 @@ name: Layer2DAO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1c65a4"
+color: "#080808"
 icons:
   - icon.svg
   - icon.png

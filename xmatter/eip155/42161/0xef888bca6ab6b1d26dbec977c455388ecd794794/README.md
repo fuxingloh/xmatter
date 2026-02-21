@@ -7,5 +7,5 @@ symbol: RGT
 decimals: 18
 icons:
   - icon.png
-color: "#c1c1c1"
+color: "#080808"
 ---

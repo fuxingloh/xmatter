@@ -7,5 +7,5 @@ symbol: ASTRAFER
 decimals: 18
 icons:
   - icon.png
-color: "#d71261"
+color: "#080808"
 ---

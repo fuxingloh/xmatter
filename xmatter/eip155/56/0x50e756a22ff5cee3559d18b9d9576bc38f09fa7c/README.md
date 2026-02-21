@@ -7,5 +7,5 @@ symbol: WARS
 decimals: 18
 icons:
   - icon.png
-color: "#313635"
+color: "#e8e8e8"
 ---

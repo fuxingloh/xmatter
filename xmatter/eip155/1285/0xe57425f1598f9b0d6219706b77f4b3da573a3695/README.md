@@ -7,5 +7,5 @@ symbol: BTCBR
 decimals: 18
 icons:
   - icon.png
-color: "#f29f15"
+color: "#080808"
 ---

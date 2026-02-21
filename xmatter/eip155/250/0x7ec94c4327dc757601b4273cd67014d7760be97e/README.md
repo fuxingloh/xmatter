@@ -7,5 +7,5 @@ symbol: GRIM
 decimals: 18
 icons:
   - icon.png
-color: "#21131d"
+color: "#080808"
 ---

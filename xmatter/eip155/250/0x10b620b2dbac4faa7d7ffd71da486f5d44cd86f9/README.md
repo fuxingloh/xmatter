@@ -7,5 +7,5 @@ symbol: LQDR
 decimals: 18
 icons:
   - icon.png
-color: "#3accec"
+color: "#080838"
 ---

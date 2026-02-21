@@ -7,5 +7,5 @@ symbol: NESS
 decimals: 18
 icons:
   - icon.png
-color: "#4860f8"
+color: "#080808"
 ---

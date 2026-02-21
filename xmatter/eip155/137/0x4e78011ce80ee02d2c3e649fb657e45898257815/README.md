@@ -6,6 +6,6 @@ symbol: KLIMA
 icons:
   - icon.svg
   - icon.png
-color: "#04c432"
+color: "#080808"
 decimals: 9
 ---

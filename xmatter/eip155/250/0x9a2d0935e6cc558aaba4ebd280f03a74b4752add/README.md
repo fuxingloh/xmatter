@@ -7,5 +7,5 @@ symbol: PBL
 decimals: 18
 icons:
   - icon.png
-color: "#434341"
+color: "#383838"
 ---

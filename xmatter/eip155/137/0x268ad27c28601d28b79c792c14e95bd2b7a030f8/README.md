@@ -7,5 +7,5 @@ symbol: JULIEN
 decimals: 4
 icons:
   - icon.png
-color: "#3e3734"
+color: "#080808"
 ---

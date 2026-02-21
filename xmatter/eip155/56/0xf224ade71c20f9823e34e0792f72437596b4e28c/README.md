@@ -7,5 +7,5 @@ symbol: SHIBO
 decimals: 9
 icons:
   - icon.png
-color: "#cf2c16"
+color: "#d82818"
 ---

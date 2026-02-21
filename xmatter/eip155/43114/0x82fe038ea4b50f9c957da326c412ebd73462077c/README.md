@@ -7,5 +7,5 @@ symbol: HAT
 decimals: 18
 icons:
   - icon.png
-color: "#e22f32"
+color: "#080808"
 ---

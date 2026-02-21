@@ -7,5 +7,5 @@ symbol: NDOL
 decimals: 18
 icons:
   - icon.svg
-color: "#1a4e90"
+color: "#080808"
 ---

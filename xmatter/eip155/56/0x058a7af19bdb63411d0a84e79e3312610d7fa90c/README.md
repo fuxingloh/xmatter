@@ -7,5 +7,5 @@ symbol: JED
 decimals: 9
 icons:
   - icon.png
-color: "#595a5b"
+color: "#080808"
 ---

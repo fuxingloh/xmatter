@@ -7,5 +7,5 @@ symbol: GRT
 decimals: 18
 icons:
   - icon.png
-color: "#433fad"
+color: "#080808"
 ---

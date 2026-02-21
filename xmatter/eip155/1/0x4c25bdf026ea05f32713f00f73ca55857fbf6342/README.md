@@ -7,5 +7,5 @@ symbol: FONT
 decimals: 18
 icons:
   - icon.png
-color: "#d647d8"
+color: "#f8f8f8"
 ---

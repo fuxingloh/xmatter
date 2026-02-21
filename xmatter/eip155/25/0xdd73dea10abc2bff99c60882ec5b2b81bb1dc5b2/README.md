@@ -7,5 +7,5 @@ symbol: TONIC
 decimals: 18
 icons:
   - icon.png
-color: "#808052"
+color: "#080808"
 ---

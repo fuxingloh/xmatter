@@ -7,5 +7,5 @@ symbol: RYIU
 decimals: 9
 icons:
   - icon.png
-color: "#06090a"
+color: "#080808"
 ---

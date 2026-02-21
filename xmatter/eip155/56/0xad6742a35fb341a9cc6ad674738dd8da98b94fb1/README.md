@@ -7,5 +7,5 @@ symbol: WOM
 decimals: 18
 icons:
   - icon.png
-color: "#f2d533"
+color: "#f8f8f8"
 ---

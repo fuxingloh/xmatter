@@ -7,5 +7,5 @@ symbol: MAAAVE
 decimals: 18
 icons:
   - icon.png
-color: "#589dd2"
+color: "#f8f8f8"
 ---

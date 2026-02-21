@@ -7,5 +7,5 @@ symbol: POCO
 decimals: 18
 icons:
   - icon.png
-color: "#e8b416"
+color: "#f8f8f8"
 ---

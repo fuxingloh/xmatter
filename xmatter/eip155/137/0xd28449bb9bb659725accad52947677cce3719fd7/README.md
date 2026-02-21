@@ -7,5 +7,5 @@ symbol: DMT
 decimals: 18
 icons:
   - icon.png
-color: "#060935"
+color: "#080828"
 ---

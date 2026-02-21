@@ -7,5 +7,5 @@ symbol: GMEE
 decimals: 18
 icons:
   - icon.png
-color: "#4e6cf7"
+color: "#f8f8f8"
 ---

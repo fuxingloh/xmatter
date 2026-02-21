@@ -8,7 +8,7 @@ name: Asko
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2bb0e5"
+color: "#080808"
 icons:
   - icon.png
 ---

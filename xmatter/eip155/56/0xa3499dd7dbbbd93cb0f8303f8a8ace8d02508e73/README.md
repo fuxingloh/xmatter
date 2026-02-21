@@ -7,5 +7,5 @@ symbol: LACE
 decimals: 18
 icons:
   - icon.png
-color: "#775596"
+color: "#f8f8f8"
 ---

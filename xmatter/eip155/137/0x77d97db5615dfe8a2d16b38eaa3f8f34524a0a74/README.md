@@ -7,5 +7,5 @@ symbol: LFI
 decimals: 18
 icons:
   - icon.png
-color: "#060708"
+color: "#080808"
 ---

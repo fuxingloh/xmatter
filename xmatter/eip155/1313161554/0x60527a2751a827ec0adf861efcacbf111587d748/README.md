@@ -7,5 +7,5 @@ symbol: TRIPOLAR
 decimals: 18
 icons:
   - icon.png
-color: "#241434"
+color: "#281838"
 ---

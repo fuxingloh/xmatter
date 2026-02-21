@@ -7,5 +7,5 @@ symbol: 1INCH
 decimals: 18
 icons:
   - icon.png
-color: "#dfe3ea"
+color: "#f8f8f8"
 ---

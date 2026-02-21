@@ -7,5 +7,5 @@ symbol: WGLMR
 decimals: 18
 icons:
   - icon.png
-color: "#938bda"
+color: "#9888d8"
 ---

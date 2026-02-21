@@ -7,5 +7,5 @@ symbol: XRP
 decimals: 6
 icons:
   - icon.png
-color: "#dadbdb"
+color: "#f8f8f8"
 ---

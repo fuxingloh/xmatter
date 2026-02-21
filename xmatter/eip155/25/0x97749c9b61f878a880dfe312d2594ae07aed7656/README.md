@@ -7,5 +7,5 @@ symbol: MMF
 decimals: 18
 icons:
   - icon.jpeg
-color: "#403731"
+color: "#f8f8f8"
 ---

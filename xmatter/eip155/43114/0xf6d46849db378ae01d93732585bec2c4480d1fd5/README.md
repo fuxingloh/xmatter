@@ -7,5 +7,5 @@ symbol: FORT
 decimals: 9
 icons:
   - icon.png
-color: "#aca69e"
+color: "#383838"
 ---

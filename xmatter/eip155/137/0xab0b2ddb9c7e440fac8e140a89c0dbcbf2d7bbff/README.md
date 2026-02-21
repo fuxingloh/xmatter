@@ -7,5 +7,5 @@ symbol: IFARM
 decimals: 18
 icons:
   - icon.png
-color: "#d8f0ef"
+color: "#d8e8e8"
 ---

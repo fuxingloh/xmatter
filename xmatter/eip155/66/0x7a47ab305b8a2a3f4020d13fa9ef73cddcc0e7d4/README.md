@@ -7,5 +7,5 @@ symbol: WING
 decimals: 18
 icons:
   - icon.png
-color: "#dfdfdf"
+color: "#f8f8f8"
 ---

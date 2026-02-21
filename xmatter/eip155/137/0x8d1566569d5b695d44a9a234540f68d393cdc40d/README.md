@@ -7,5 +7,5 @@ symbol: GAME
 decimals: 18
 icons:
   - icon.png
-color: "#4cad45"
+color: "#080808"
 ---

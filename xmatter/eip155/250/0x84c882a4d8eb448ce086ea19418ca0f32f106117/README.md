@@ -7,5 +7,5 @@ symbol: BFC
 decimals: 18
 icons:
   - icon.png
-color: "#3742e2"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: THC
 decimals: 18
 icons:
   - icon.png
-color: "#e7a93b"
+color: "#080808"
 ---

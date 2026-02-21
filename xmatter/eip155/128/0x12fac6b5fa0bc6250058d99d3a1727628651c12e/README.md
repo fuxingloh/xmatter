@@ -7,5 +7,5 @@ symbol: FC
 decimals: 18
 icons:
   - icon.png
-color: "#ddbc79"
+color: "#d8b878"
 ---

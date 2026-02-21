@@ -8,7 +8,7 @@ name: AVINOC Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1c1c44"
+color: "#181848"
 icons:
   - icon.png
 ---

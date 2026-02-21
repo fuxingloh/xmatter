@@ -7,5 +7,5 @@ symbol: SOUL
 decimals: 18
 icons:
   - icon.webp
-color: "#8d58de"
+color: "#080808"
 ---

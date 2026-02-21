@@ -7,5 +7,5 @@ symbol: DOKI
 decimals: 18
 icons:
   - icon.png
-color: "#f991c0"
+color: "#f898c8"
 ---

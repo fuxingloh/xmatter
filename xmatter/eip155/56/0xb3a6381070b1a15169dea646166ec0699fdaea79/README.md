@@ -7,5 +7,5 @@ symbol: GOLD
 decimals: 18
 icons:
   - icon.png
-color: "#e4e3e3"
+color: "#e8e8e8"
 ---

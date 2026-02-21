@@ -7,5 +7,5 @@ symbol: VTX
 decimals: 18
 icons:
   - icon.png
-color: "#3f3c3b"
+color: "#f8f8f8"
 ---

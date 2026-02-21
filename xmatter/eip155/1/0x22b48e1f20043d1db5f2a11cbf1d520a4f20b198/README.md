@@ -7,5 +7,5 @@ symbol: XOT
 decimals: 18
 icons:
   - icon.png
-color: "#d4d4d4"
+color: "#080808"
 ---

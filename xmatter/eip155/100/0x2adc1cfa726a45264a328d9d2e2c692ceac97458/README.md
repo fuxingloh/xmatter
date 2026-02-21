@@ -7,5 +7,5 @@ symbol: REALT-S-14494-CHELS
 decimals: 18
 icons:
   - icon.jpeg
-color: "#808077"
+color: "#888878"
 ---

@@ -7,5 +7,5 @@ symbol: HXTZ
 decimals: 18
 icons:
   - icon.png
-color: "#447ded"
+color: "#4878e8"
 ---

@@ -31,7 +31,7 @@ name: Staked AVAX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04b3ec"
+color: "#08b8e8"
 icons:
   - icon.png
 ---

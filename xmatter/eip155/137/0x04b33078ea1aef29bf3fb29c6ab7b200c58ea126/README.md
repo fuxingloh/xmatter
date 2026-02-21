@@ -7,5 +7,5 @@ symbol: SAFLE
 decimals: 18
 icons:
   - icon.png
-color: "#92cefc"
+color: "#f8f8f8"
 ---

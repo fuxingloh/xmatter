@@ -7,5 +7,5 @@ symbol: HFIL
 decimals: 18
 icons:
   - icon.png
-color: "#0493fc"
+color: "#0888f8"
 ---

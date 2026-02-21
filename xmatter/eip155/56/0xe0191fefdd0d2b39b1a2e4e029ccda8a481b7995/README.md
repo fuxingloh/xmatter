@@ -17,7 +17,7 @@ name: CryptoMines Reborn
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#491993"
+color: "#481898"
 icons:
   - icon.png
 ---

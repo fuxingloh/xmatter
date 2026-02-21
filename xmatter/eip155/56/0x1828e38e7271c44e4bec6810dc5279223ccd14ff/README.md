@@ -7,5 +7,5 @@ symbol: MAIR
 decimals: 9
 icons:
   - icon.png
-color: "#7cc449"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: IMRTL
 decimals: 18
 icons:
   - icon.png
-color: "#18160f"
+color: "#080808"
 ---

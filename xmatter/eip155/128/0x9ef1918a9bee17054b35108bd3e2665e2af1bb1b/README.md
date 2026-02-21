@@ -7,5 +7,5 @@ symbol: TPT
 decimals: 4
 icons:
   - icon.png
-color: "#2b83fc"
+color: "#2878f8"
 ---

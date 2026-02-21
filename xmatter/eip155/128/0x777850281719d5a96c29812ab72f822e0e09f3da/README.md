@@ -7,5 +7,5 @@ symbol: SNX
 decimals: 18
 icons:
   - icon.png
-color: "#04c9f1"
+color: "#080828"
 ---

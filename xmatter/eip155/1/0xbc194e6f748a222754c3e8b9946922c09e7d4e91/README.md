@@ -7,5 +7,5 @@ symbol: LEV
 decimals: 18
 icons:
   - icon.png
-color: "#b260c4"
+color: "#182838"
 ---

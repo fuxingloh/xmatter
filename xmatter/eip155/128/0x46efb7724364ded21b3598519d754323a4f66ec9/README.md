@@ -7,5 +7,5 @@ symbol: COPR
 decimals: 18
 icons:
   - icon.png
-color: "#ffb71b"
+color: "#f8b818"
 ---

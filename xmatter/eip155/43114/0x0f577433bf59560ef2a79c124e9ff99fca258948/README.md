@@ -7,5 +7,5 @@ symbol: MONEY
 decimals: 18
 icons:
   - icon.png
-color: "#55b2c4"
+color: "#080808"
 ---

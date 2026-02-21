@@ -7,5 +7,5 @@ symbol: FANG
 decimals: 18
 icons:
   - icon.png
-color: "#04070c"
+color: "#080808"
 ---

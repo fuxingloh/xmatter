@@ -7,5 +7,5 @@ symbol: CVOL
 decimals: 18
 icons:
   - icon.png
-color: "#2da2ce"
+color: "#28b8d8"
 ---

@@ -7,5 +7,5 @@ symbol: XZAR
 decimals: 18
 icons:
   - icon.png
-color: "#b3b3b3"
+color: "#f8f8f8"
 ---

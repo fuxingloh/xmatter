@@ -8,7 +8,7 @@ name: digitalbits
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2a8cc3"
+color: "#2888c8"
 icons:
   - icon.png
 ---

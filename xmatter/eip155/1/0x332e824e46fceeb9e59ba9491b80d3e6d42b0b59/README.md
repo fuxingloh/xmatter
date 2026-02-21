@@ -7,5 +7,5 @@ symbol: CHEESE
 decimals: 18
 icons:
   - icon.png
-color: "#f09aaa"
+color: "#f8f8f8"
 ---

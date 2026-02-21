@@ -7,5 +7,5 @@ symbol: HAI
 decimals: 8
 icons:
   - icon.png
-color: "#d9faf2"
+color: "#f8f8f8"
 ---

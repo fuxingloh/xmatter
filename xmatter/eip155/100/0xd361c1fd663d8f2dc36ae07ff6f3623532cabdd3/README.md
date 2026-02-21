@@ -7,5 +7,5 @@ symbol: MCB
 decimals: 18
 icons:
   - icon.png
-color: "#0cdbe3"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: XUSD
 decimals: 18
 icons:
   - icon.webp
-color: "#a068ab"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: WELT
 decimals: 18
 icons:
   - icon.png
-color: "#bd53a9"
+color: "#f8f8f8"
 ---

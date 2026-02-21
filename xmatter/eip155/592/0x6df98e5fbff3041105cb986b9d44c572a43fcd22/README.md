@@ -7,5 +7,5 @@ symbol: NIKA
 decimals: 18
 icons:
   - icon.png
-color: "#3c71bf"
+color: "#080808"
 ---

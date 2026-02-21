@@ -7,5 +7,5 @@ symbol: WONE
 decimals: 18
 icons:
   - icon.png
-color: "#36d1d6"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: JADE
 decimals: 9
 icons:
   - icon.png
-color: "#101f1d"
+color: "#081818"
 ---

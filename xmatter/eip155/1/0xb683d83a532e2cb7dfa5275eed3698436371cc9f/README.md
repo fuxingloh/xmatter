@@ -8,7 +8,7 @@ name: BTU Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#644484"
+color: "#684888"
 icons:
   - icon.png
 ---

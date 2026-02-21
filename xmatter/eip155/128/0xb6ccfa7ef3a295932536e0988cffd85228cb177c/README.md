@@ -7,5 +7,5 @@ symbol: SCASH
 decimals: 18
 icons:
   - icon.png
-color: "#2cec9c"
+color: "#080808"
 ---

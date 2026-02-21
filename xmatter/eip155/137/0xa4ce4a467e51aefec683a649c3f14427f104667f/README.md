@@ -7,5 +7,5 @@ symbol: ONSTON
 decimals: 18
 icons:
   - icon.png
-color: "#202841"
+color: "#f8f8f8"
 ---

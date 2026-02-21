@@ -7,5 +7,5 @@ symbol: SYMM
 decimals: 18
 icons:
   - icon.png
-color: "#f67420"
+color: "#f8f8f8"
 ---

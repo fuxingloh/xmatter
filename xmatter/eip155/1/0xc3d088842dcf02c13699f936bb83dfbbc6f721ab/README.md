@@ -7,5 +7,5 @@ symbol: VETH
 decimals: 18
 icons:
   - icon.png
-color: "#667deb"
+color: "#6878e8"
 ---

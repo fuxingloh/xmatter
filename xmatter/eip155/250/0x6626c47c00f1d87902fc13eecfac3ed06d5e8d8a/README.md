@@ -20,7 +20,7 @@ symbol: WOO
 decimals: 18
 icons:
   - icon.png
-color: "#242434"
+color: "#282828"
 ---
 
 Wootrade aims to provide deep liquidity and superior order execution at the lowest cost for traders, exchanges, institutions, and DeFi platforms. Its flagship, WOO X, is a professional trading platform featuring customizable modules, and zero-fees with deep liquidity across spot and margin. Wootrade was founded by Kronos Research, a quantitative trading firm generating $10-15B in daily volume, with the goal of democratizing access to deep liquidity and yield strategies through various products.

@@ -7,5 +7,5 @@ symbol: wsOHM
 decimals: 18
 icons:
   - icon.png
-color: "#748b94"
+color: "#788898"
 ---

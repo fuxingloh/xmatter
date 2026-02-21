@@ -7,5 +7,5 @@ symbol: PTD
 decimals: 18
 icons:
   - icon.png
-color: "#641cfc"
+color: "#6818f8"
 ---

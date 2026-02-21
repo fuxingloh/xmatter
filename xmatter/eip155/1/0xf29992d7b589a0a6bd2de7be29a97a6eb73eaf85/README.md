@@ -8,7 +8,7 @@ name: DMScript
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fb7c7c"
+color: "#080808"
 icons:
   - icon.png
 ---

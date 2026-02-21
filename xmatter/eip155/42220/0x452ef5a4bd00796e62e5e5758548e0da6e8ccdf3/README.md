@@ -7,5 +7,5 @@ symbol: CSTAR
 decimals: 18
 icons:
   - icon.png
-color: "#fccc42"
+color: "#080808"
 ---

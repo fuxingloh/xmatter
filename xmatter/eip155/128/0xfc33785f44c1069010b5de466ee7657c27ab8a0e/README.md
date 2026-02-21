@@ -7,5 +7,5 @@ symbol: HOGT
 decimals: 18
 icons:
   - icon.png
-color: "#002080"
+color: "#080808"
 ---

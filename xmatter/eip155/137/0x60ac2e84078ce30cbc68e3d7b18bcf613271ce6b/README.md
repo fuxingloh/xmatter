@@ -7,5 +7,5 @@ symbol: ALOHA
 decimals: 18
 icons:
   - icon.png
-color: "#e41571"
+color: "#e81878"
 ---

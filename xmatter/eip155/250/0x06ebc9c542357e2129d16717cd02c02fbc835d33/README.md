@@ -7,5 +7,5 @@ symbol: CAGE
 decimals: 18
 icons:
   - icon.png
-color: "#bfbdcf"
+color: "#f8f8f8"
 ---

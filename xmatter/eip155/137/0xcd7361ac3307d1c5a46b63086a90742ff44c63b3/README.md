@@ -7,5 +7,5 @@ symbol: RAIDER
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: SPOLAR
 decimals: 18
 icons:
   - icon.svg
-color: "#241434"
+color: "#281838"
 ---

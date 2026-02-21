@@ -7,5 +7,5 @@ symbol: bCFX
 decimals: 18
 icons:
   - icon.png
-color: "#5494c4"
+color: "#5898c8"
 ---

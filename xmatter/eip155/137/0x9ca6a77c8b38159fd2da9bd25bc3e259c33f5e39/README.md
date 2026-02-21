@@ -7,5 +7,5 @@ symbol: SPORK
 decimals: 18
 icons:
   - icon.png
-color: "#928dad"
+color: "#080808"
 ---

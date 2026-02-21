@@ -7,5 +7,5 @@ symbol: Lava
 decimals: 18
 icons:
   - icon.png
-color: "#e8c623"
+color: "#f8f8f8"
 ---

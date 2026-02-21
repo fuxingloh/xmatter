@@ -7,5 +7,5 @@ symbol: AGL
 decimals: 18
 icons:
   - icon.png
-color: "#082f75"
+color: "#f8f8f8"
 ---

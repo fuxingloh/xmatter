@@ -7,5 +7,5 @@ symbol: JCHF
 decimals: 18
 icons:
   - icon.png
-color: "#dc0424"
+color: "#d80828"
 ---

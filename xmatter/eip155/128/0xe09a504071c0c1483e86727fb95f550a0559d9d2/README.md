@@ -7,5 +7,5 @@ symbol: VNLA
 decimals: 18
 icons:
   - icon.png
-color: "#e5efe0"
+color: "#f8f8f8"
 ---

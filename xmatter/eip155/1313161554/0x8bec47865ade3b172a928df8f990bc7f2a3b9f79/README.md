@@ -16,7 +16,7 @@ links:
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#73d44c"
+color: "#68d848"
 icons:
   - icon.svg
   - icon.png

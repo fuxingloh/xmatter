@@ -7,5 +7,5 @@ symbol: BSM
 decimals: 18
 icons:
   - icon.png
-color: "#151515"
+color: "#080808"
 ---

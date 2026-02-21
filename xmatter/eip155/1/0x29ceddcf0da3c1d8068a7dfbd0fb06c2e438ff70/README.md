@@ -7,5 +7,5 @@ symbol: FREL
 decimals: 18
 icons:
   - icon.png
-color: "#ed9578"
+color: "#e89878"
 ---

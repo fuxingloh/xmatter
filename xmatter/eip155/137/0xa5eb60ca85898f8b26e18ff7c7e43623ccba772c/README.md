@@ -7,5 +7,5 @@ symbol: COSMIC
 decimals: 18
 icons:
   - icon.png
-color: "#442d96"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: MUSE
 decimals: 18
 icons:
   - icon.png
-color: "#6bdad3"
+color: "#383838"
 ---

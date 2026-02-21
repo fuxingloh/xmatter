@@ -7,5 +7,5 @@ symbol: AAB
 decimals: 18
 icons:
   - icon.png
-color: "#0c5bc4"
+color: "#080808"
 ---

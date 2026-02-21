@@ -7,5 +7,5 @@ symbol: ARBIS
 decimals: 18
 icons:
   - icon.png
-color: "#f5c9cb"
+color: "#f8f8f8"
 ---

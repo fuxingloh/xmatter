@@ -7,5 +7,5 @@ symbol: TOK
 decimals: 8
 icons:
   - icon.png
-color: "#0abeea"
+color: "#080808"
 ---

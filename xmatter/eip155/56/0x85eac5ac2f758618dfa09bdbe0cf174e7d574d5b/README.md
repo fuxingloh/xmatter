@@ -10,7 +10,7 @@ symbol: TRX
 decimals: 18
 icons:
   - icon.png
-color: "#ec0c2c"
+color: "#f8f8f8"
 ---
 
 TRON is a dedicated to build the infrastructure for a truly decentralized Internet.

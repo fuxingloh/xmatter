@@ -7,5 +7,5 @@ symbol: BABYDOGE
 decimals: 9
 icons:
   - icon.png
-color: "#634ded"
+color: "#6848e8"
 ---

@@ -7,5 +7,5 @@ symbol: DTO
 decimals: 18
 icons:
   - icon.png
-color: "#e4047b"
+color: "#e80878"
 ---

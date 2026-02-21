@@ -7,5 +7,5 @@ symbol: ARSW
 decimals: 18
 icons:
   - icon.jpeg
-color: "#17c5e0"
+color: "#f8f8f8"
 ---

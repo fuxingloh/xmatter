@@ -7,5 +7,5 @@ symbol: LGC
 decimals: 18
 icons:
   - icon.png
-color: "#f28955"
+color: "#080808"
 ---

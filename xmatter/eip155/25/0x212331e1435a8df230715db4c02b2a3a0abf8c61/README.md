@@ -7,5 +7,5 @@ symbol: MAD
 decimals: 18
 icons:
   - icon.png
-color: "#11100f"
+color: "#080808"
 ---

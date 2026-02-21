@@ -7,5 +7,5 @@ symbol: DAI+USDC
 decimals: 18
 icons:
   - icon.jpeg
-color: "#e9eae8"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: SISTA
 decimals: 18
 icons:
   - icon.png
-color: "#e53254"
+color: "#080808"
 ---

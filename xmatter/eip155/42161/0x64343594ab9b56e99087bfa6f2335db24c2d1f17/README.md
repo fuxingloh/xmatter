@@ -7,5 +7,5 @@ symbol: VST
 decimals: 18
 icons:
   - icon.png
-color: "#071727"
+color: "#f8f8e8"
 ---

@@ -7,5 +7,5 @@ symbol: UNN
 decimals: 18
 icons:
   - icon.png
-color: "#1200fa"
+color: "#080808"
 ---

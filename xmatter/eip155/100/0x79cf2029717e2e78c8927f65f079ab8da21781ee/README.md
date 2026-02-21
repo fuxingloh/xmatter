@@ -7,5 +7,5 @@ symbol: LYXe
 decimals: 18
 icons:
   - icon.png
-color: "#8c5ab3"
+color: "#080808"
 ---

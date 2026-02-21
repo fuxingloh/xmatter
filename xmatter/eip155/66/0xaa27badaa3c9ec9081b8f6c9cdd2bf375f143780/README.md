@@ -7,5 +7,5 @@ symbol: SHIBK
 decimals: 18
 icons:
   - icon.png
-color: "#2e64e3"
+color: "#2858d8"
 ---

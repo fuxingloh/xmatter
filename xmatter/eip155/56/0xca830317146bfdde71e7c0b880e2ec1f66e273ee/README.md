@@ -7,5 +7,5 @@ symbol: GULL
 decimals: 18
 icons:
   - icon.png
-color: "#cecece"
+color: "#f8f8f8"
 ---

@@ -14,7 +14,7 @@ name: The Doge NFT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d4be89"
+color: "#e8d8b8"
 icons:
   - icon.png
 ---

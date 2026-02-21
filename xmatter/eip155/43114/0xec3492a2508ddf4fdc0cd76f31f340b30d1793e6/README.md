@@ -7,5 +7,5 @@ symbol: CLY
 decimals: 18
 icons:
   - icon.png
-color: "#38aeee"
+color: "#180838"
 ---

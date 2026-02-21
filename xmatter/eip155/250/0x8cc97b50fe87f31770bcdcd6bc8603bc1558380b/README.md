@@ -7,5 +7,5 @@ symbol: SINGLE
 decimals: 18
 icons:
   - icon.png
-color: "#7879f3"
+color: "#7878f8"
 ---

@@ -7,5 +7,5 @@ symbol: PZAP
 decimals: 18
 icons:
   - icon.png
-color: "#1c618c"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: WCRO
 decimals: 18
 icons:
   - icon.png
-color: "#afb0b0"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: wPTG
 decimals: 18
 icons:
   - icon.png
-color: "#c1a965"
+color: "#080808"
 ---

@@ -8,7 +8,7 @@ name: Compound Augur
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#63afcc"
+color: "#f8f8f8"
 icons:
   - icon.svg
   - icon.png

@@ -7,5 +7,5 @@ symbol: SPS
 decimals: 18
 icons:
   - icon.png
-color: "#080706"
+color: "#080808"
 ---

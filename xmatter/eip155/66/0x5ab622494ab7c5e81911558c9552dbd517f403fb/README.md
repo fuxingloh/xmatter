@@ -7,5 +7,5 @@ symbol: CELT
 decimals: 18
 icons:
   - icon.png
-color: "#113150"
+color: "#080808"
 ---

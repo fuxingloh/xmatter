@@ -7,5 +7,5 @@ symbol: MONA
 decimals: 18
 icons:
   - icon.png
-color: "#050505"
+color: "#f8f8f8"
 ---

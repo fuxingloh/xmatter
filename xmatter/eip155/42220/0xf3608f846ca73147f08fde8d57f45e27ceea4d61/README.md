@@ -7,5 +7,5 @@ symbol: CMETA
 decimals: 18
 icons:
   - icon.png
-color: "#efb634"
+color: "#080808"
 ---

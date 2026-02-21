@@ -7,5 +7,5 @@ symbol: VXV
 decimals: 18
 icons:
   - icon.png
-color: "#d8dddd"
+color: "#f8f8f8"
 ---

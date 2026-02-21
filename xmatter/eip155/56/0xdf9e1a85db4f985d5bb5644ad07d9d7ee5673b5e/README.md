@@ -7,5 +7,5 @@ symbol: MM72
 decimals: 18
 icons:
   - icon.png
-color: "#a1a1a1"
+color: "#080808"
 ---

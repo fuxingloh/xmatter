@@ -7,5 +7,5 @@ symbol: OPEN
 decimals: 18
 icons:
   - icon.png
-color: "#e1e1fb"
+color: "#f8f8f8"
 ---

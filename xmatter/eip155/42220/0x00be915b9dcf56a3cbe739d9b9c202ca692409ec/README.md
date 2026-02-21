@@ -7,5 +7,5 @@ symbol: UBE
 decimals: 18
 icons:
   - icon.png
-color: "#ece9f7"
+color: "#e8e8f8"
 ---

@@ -7,5 +7,5 @@ symbol: GREEN
 decimals: 18
 icons:
   - icon.png
-color: "#cdd8e5"
+color: "#f8f8f8"
 ---

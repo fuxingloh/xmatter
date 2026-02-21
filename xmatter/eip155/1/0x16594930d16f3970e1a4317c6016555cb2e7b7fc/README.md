@@ -7,5 +7,5 @@ symbol: TKB
 decimals: 18
 icons:
   - icon.png
-color: "#fcf082"
+color: "#080808"
 ---

@@ -20,5 +20,5 @@ symbol: ORCA
 decimals: 18
 icons:
   - icon.png
-color: "#343c41"
+color: "#080808"
 ---

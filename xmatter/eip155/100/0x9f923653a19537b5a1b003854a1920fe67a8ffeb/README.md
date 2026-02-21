@@ -7,5 +7,5 @@ symbol: REALT-S-13114-GLENF
 decimals: 18
 icons:
   - icon.jpeg
-color: "#474532"
+color: "#383828"
 ---

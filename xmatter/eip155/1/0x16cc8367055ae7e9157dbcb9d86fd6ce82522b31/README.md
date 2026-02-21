@@ -7,5 +7,5 @@ symbol: VXL
 decimals: 18
 icons:
   - icon.png
-color: "#6405fb"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: mDEF
 decimals: 9
 icons:
   - icon.png
-color: "#35111f"
+color: "#280818"
 ---

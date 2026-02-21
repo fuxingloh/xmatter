@@ -7,5 +7,5 @@ symbol: BABY
 decimals: 18
 icons:
   - icon.png
-color: "#090804"
+color: "#080808"
 ---

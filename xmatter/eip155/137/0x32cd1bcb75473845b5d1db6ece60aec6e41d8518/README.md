@@ -7,5 +7,5 @@ symbol: PS1
 decimals: 18
 icons:
   - icon.jpeg
-color: "#173c43"
+color: "#f8f8f8"
 ---

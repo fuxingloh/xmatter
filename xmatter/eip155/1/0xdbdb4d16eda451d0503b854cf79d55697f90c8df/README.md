@@ -6,6 +6,6 @@ symbol: ALCX
 icons:
   - icon.svg
   - icon.png
-color: "#242434"
+color: "#282838"
 decimals: 18
 ---

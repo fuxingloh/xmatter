@@ -7,5 +7,5 @@ symbol: VEE
 decimals: 18
 icons:
   - icon.png
-color: "#fce0ca"
+color: "#080808"
 ---

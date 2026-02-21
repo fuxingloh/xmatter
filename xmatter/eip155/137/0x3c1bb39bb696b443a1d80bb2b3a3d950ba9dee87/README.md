@@ -7,5 +7,5 @@ symbol: WSG
 decimals: 18
 icons:
   - icon.png
-color: "#7a257c"
+color: "#080808"
 ---

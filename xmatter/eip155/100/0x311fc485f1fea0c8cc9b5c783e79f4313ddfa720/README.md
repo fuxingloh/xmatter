@@ -7,5 +7,5 @@ symbol: REALT-S-19996-JOANN
 decimals: 18
 icons:
   - icon.jpeg
-color: "#747f50"
+color: "#587828"
 ---

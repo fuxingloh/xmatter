@@ -7,5 +7,5 @@ symbol: AFINS
 decimals: 18
 icons:
   - icon.png
-color: "#34bc9c"
+color: "#38b898"
 ---

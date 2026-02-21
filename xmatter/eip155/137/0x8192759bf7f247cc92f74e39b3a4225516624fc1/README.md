@@ -7,5 +7,5 @@ symbol: BOOK
 decimals: 8
 icons:
   - icon.png
-color: "#090909"
+color: "#f8f8f8"
 ---

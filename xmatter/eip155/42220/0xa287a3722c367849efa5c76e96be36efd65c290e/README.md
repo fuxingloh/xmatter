@@ -7,5 +7,5 @@ symbol: cDEFI
 decimals: 18
 icons:
   - icon.png
-color: "#25316b"
+color: "#282868"
 ---

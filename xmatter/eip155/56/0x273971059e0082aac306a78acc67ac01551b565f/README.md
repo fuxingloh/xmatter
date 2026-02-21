@@ -7,5 +7,5 @@ symbol: MEMELON
 decimals: 18
 icons:
   - icon.png
-color: "#c4d2c4"
+color: "#080808"
 ---

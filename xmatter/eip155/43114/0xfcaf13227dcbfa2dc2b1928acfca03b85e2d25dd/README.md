@@ -7,5 +7,5 @@ symbol: IDIA
 decimals: 18
 icons:
   - icon.png
-color: "#0c0c25"
+color: "#080828"
 ---

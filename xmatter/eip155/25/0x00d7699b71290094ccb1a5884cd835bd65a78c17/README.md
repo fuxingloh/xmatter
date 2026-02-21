@@ -7,5 +7,5 @@ symbol: VERSA
 decimals: 18
 icons:
   - icon.png
-color: "#212270"
+color: "#080858"
 ---

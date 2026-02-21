@@ -7,5 +7,5 @@ symbol: BCHK
 decimals: 18
 icons:
   - icon.png
-color: "#1464eb"
+color: "#1868e8"
 ---

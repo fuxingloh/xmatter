@@ -7,5 +7,5 @@ symbol: TECH
 decimals: 18
 icons:
   - icon.png
-color: "#f8b832"
+color: "#080808"
 ---

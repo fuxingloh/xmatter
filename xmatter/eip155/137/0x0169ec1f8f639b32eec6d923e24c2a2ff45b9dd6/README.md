@@ -7,5 +7,5 @@ symbol: ALGB
 decimals: 18
 icons:
   - icon.png
-color: "#b41870"
+color: "#080808"
 ---

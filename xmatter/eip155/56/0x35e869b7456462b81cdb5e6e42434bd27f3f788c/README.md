@@ -7,5 +7,5 @@ symbol: MDO
 decimals: 18
 icons:
   - icon.png
-color: "#f6c827"
+color: "#080808"
 ---

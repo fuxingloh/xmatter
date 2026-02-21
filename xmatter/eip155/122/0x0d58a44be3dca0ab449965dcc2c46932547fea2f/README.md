@@ -7,5 +7,5 @@ symbol: atUST
 decimals: 18
 icons:
   - icon.png
-color: "#5a8eea"
+color: "#080808"
 ---

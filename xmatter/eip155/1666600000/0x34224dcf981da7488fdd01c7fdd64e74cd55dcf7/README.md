@@ -7,5 +7,5 @@ symbol: BTCB
 decimals: 18
 icons:
   - icon.png
-color: "#fa9f33"
+color: "#f89828"
 ---

@@ -7,5 +7,5 @@ symbol: COB
 decimals: 18
 icons:
   - icon.png
-color: "#47c2f8"
+color: "#080808"
 ---

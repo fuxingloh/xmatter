@@ -7,5 +7,5 @@ symbol: KLO
 decimals: 18
 icons:
   - icon.png
-color: "#22c4e3"
+color: "#f8f8f8"
 ---

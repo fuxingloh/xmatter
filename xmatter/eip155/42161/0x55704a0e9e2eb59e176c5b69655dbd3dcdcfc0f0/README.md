@@ -7,5 +7,5 @@ symbol: OVR
 decimals: 18
 icons:
   - icon.png
-color: "#1b91e1"
+color: "#080808"
 ---

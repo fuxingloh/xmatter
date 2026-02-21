@@ -7,5 +7,5 @@ symbol: CHPZ
 decimals: 18
 icons:
   - icon.png
-color: "#cb7dad"
+color: "#080808"
 ---

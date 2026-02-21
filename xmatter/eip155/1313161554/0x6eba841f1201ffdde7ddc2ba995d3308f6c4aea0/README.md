@@ -7,5 +7,5 @@ symbol: NECC
 decimals: 9
 icons:
   - icon.svg
-color: "#1c589a"
+color: "#080808"
 ---

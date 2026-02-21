@@ -7,5 +7,5 @@ symbol: XC
 decimals: 18
 icons:
   - icon.png
-color: "#ea4b3c"
+color: "#080808"
 ---

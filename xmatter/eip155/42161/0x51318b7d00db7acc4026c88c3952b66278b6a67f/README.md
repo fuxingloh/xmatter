@@ -7,5 +7,5 @@ symbol: PLS
 decimals: 18
 icons:
   - icon.jpeg
-color: "#569a37"
+color: "#081808"
 ---

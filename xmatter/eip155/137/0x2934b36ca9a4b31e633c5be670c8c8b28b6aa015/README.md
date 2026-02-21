@@ -7,5 +7,5 @@ symbol: THX
 decimals: 18
 icons:
   - icon.png
-color: "#fbe316"
+color: "#f8f8f8"
 ---

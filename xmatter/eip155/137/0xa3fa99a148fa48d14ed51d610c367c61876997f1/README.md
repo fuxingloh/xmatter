@@ -16,7 +16,7 @@ name: miMATIC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#da3334"
+color: "#d83838"
 icons:
   - icon.png
 ---

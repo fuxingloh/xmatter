@@ -7,5 +7,5 @@ symbol: TRIBE
 decimals: 18
 icons:
   - icon.png
-color: "#148cd3"
+color: "#1888c8"
 ---

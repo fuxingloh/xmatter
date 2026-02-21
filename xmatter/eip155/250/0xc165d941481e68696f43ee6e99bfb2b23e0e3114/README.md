@@ -7,5 +7,5 @@ symbol: OXD
 decimals: 18
 icons:
   - icon.png
-color: "#3c7cf4"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: KSHARE
 decimals: 18
 icons:
   - icon.png
-color: "#dce7f3"
+color: "#080808"
 ---

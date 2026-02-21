@@ -18,7 +18,7 @@ name: Tornado Cash
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#17202f"
+color: "#181828"
 icons:
   - icon.svg
   - icon.png

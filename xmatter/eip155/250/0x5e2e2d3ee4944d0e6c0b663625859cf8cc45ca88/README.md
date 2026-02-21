@@ -7,5 +7,5 @@ symbol: ARCHA
 decimals: 9
 icons:
   - icon.png
-color: "#b4ceef"
+color: "#28c8e8"
 ---

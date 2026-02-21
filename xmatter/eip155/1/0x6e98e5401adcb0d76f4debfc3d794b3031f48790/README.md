@@ -7,5 +7,5 @@ symbol: AUR
 decimals: 18
 icons:
   - icon.png
-color: "#d4a664"
+color: "#080808"
 ---

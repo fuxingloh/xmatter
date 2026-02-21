@@ -7,5 +7,5 @@ symbol: SWT
 decimals: 18
 icons:
   - icon.png
-color: "#222222"
+color: "#282828"
 ---

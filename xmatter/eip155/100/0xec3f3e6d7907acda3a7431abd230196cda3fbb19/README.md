@@ -7,5 +7,5 @@ symbol: ETHIX
 decimals: 18
 icons:
   - icon.png
-color: "#7eed5f"
+color: "#e8f8c8"
 ---

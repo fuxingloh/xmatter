@@ -7,5 +7,5 @@ symbol: SDN
 decimals: 18
 icons:
   - icon.png
-color: "#7e5db6"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: NXTT
 decimals: 18
 icons:
   - icon.png
-color: "#21112b"
+color: "#f8f8f8"
 ---

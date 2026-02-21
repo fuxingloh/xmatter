@@ -7,5 +7,5 @@ symbol: AAAVE
 decimals: 18
 icons:
   - icon.webp
-color: "#866db7"
+color: "#8848e8"
 ---

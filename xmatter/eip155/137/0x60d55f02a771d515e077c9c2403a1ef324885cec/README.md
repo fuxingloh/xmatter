@@ -7,5 +7,5 @@ symbol: AMUSDT
 decimals: 6
 icons:
   - icon.png
-color: "#54aa98"
+color: "#486848"
 ---

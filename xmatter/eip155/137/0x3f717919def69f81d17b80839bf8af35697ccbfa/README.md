@@ -7,5 +7,5 @@ symbol: DTX
 decimals: 18
 icons:
   - icon.png
-color: "#78e6d0"
+color: "#486878"
 ---

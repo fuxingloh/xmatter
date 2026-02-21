@@ -7,5 +7,5 @@ symbol: PAR
 decimals: 18
 icons:
   - icon.png
-color: "#fce5de"
+color: "#f8f8f8"
 ---

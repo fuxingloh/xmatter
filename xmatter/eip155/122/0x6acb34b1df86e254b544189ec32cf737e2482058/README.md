@@ -7,5 +7,5 @@ symbol: BNB
 decimals: 18
 icons:
   - icon.png
-color: "#fbecc6"
+color: "#e8b808"
 ---

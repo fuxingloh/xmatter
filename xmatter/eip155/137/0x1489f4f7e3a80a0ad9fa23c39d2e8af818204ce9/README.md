@@ -7,5 +7,5 @@ symbol: vBTC
 decimals: 18
 icons:
   - icon.png
-color: "#7f4cca"
+color: "#f8c8c8"
 ---

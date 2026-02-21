@@ -7,5 +7,5 @@ symbol: STATIK
 decimals: 18
 icons:
   - icon.png
-color: "#265bb1"
+color: "#2838c8"
 ---

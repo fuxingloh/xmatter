@@ -7,5 +7,5 @@ symbol: DBC
 decimals: 8
 icons:
   - icon.png
-color: "#fbc404"
+color: "#080808"
 ---

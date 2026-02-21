@@ -6,6 +6,6 @@ symbol: 3Crv
 icons:
   - icon.svg
   - icon.png
-color: "#e7be27"
+color: "#080808"
 decimals: 18
 ---

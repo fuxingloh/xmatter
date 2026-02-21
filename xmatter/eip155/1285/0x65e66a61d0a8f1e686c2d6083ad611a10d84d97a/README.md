@@ -7,5 +7,5 @@ symbol: LAIKA
 decimals: 9
 icons:
   - icon.png
-color: "#cd1f40"
+color: "#080808"
 ---

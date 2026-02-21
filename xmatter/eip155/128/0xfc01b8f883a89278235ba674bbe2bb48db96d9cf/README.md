@@ -7,5 +7,5 @@ symbol: PAUL
 decimals: 18
 icons:
   - icon.png
-color: "#fbdca3"
+color: "#f8d8a8"
 ---

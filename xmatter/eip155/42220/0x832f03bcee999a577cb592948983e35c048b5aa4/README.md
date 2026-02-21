@@ -7,5 +7,5 @@ symbol: cXOF
 decimals: 18
 icons:
   - icon.png
-color: "#196acb"
+color: "#080808"
 ---

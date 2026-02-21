@@ -7,5 +7,5 @@ symbol: SWISE
 decimals: 18
 icons:
   - icon.png
-color: "#978abb"
+color: "#181828"
 ---

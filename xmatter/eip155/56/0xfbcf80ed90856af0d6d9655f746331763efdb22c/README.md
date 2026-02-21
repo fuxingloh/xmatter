@@ -7,5 +7,5 @@ symbol: NT
 decimals: 18
 icons:
   - icon.png
-color: "#ed49bd"
+color: "#f8f8f8"
 ---

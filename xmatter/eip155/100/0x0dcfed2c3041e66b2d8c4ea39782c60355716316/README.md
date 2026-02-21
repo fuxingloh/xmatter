@@ -7,5 +7,5 @@ symbol: NRGE
 decimals: 18
 icons:
   - icon.png
-color: "#00e070"
+color: "#080808"
 ---

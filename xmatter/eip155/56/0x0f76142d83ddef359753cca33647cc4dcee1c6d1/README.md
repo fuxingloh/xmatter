@@ -7,5 +7,5 @@ symbol: EARNX
 decimals: 18
 icons:
   - icon.png
-color: "#442c90"
+color: "#f8f8f8"
 ---

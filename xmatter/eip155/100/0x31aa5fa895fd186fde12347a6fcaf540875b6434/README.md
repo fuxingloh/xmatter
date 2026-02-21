@@ -7,5 +7,5 @@ symbol: REALT-S-17809-CHARE
 decimals: 18
 icons:
   - icon.jpeg
-color: "#8cb2c5"
+color: "#88d8f8"
 ---

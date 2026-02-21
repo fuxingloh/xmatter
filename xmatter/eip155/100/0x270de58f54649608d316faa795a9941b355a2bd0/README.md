@@ -7,5 +7,5 @@ symbol: FR
 decimals: 18
 icons:
   - icon.png
-color: "#f1ec8e"
+color: "#080808"
 ---

@@ -20,7 +20,7 @@ name: Silva Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#777677"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

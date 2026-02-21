@@ -6,6 +6,6 @@ symbol: binSPIRIT
 icons:
   - icon.svg
   - icon.png
-color: "#e7dfd5"
+color: "#f8e8e8"
 decimals: 18
 ---

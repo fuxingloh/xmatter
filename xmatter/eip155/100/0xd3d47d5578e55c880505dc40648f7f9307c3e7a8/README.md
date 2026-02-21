@@ -7,5 +7,5 @@ symbol: DPI
 decimals: 18
 icons:
   - icon.png
-color: "#8455e2"
+color: "#8848e8"
 ---

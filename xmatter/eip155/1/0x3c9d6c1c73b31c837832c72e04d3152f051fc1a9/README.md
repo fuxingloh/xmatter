@@ -8,7 +8,7 @@ name: BoringDAO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0a6bde"
+color: "#0868d8"
 icons:
   - icon.svg
   - icon.png

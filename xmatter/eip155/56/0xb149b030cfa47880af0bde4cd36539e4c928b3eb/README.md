@@ -7,5 +7,5 @@ symbol: NUTGV2
 decimals: 9
 icons:
   - icon.png
-color: "#f1e3d7"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: THOR
 decimals: 18
 icons:
   - icon.png
-color: "#e3e4f7"
+color: "#0808f8"
 ---

@@ -6,6 +6,6 @@ symbol: WXDAI
 icons:
   - icon.svg
   - icon.png
-color: "#0bd630"
+color: "#083878"
 decimals: 18
 ---

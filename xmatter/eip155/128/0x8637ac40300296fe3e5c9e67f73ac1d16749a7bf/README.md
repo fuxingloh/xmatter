@@ -7,5 +7,5 @@ symbol: XFORCE
 decimals: 18
 icons:
   - icon.png
-color: "#6060f0"
+color: "#6868f8"
 ---

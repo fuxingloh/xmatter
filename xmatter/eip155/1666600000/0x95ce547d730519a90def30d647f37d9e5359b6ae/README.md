@@ -7,5 +7,5 @@ symbol: LUNA
 decimals: 18
 icons:
   - icon.png
-color: "#f7d45a"
+color: "#080808"
 ---

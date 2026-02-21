@@ -7,5 +7,5 @@ symbol: DORA
 decimals: 18
 icons:
   - icon.png
-color: "#090607"
+color: "#f8f8f8"
 ---

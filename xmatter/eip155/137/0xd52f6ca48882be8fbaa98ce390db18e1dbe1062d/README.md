@@ -7,5 +7,5 @@ symbol: ORE
 decimals: 18
 icons:
   - icon.png
-color: "#04ced8"
+color: "#f8f8f8"
 ---

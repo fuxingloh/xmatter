@@ -7,5 +7,5 @@ symbol: AUSD
 decimals: 18
 icons:
   - icon.png
-color: "#101710"
+color: "#080808"
 ---

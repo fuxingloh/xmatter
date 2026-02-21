@@ -7,5 +7,5 @@ symbol: TRIAS
 decimals: 18
 icons:
   - icon.jpeg
-color: "#52c6cd"
+color: "#68d8d8"
 ---

@@ -7,5 +7,5 @@ symbol: XDSHARE
 decimals: 18
 icons:
   - icon.png
-color: "#adb8ad"
+color: "#080808"
 ---

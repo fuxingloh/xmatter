@@ -7,5 +7,5 @@ symbol: EDEN
 decimals: 18
 icons:
   - icon.png
-color: "#1c1c63"
+color: "#181868"
 ---

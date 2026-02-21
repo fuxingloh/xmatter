@@ -7,5 +7,5 @@ symbol: SNT
 decimals: 18
 icons:
   - icon.png
-color: "#5c6ced"
+color: "#5868e8"
 ---

@@ -7,5 +7,5 @@ symbol: KACY
 decimals: 18
 icons:
   - icon.png
-color: "#ec756d"
+color: "#080808"
 ---

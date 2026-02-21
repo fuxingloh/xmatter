@@ -7,5 +7,5 @@ symbol: FORS
 decimals: 18
 icons:
   - icon.png
-color: "#2323da"
+color: "#f8f8f8"
 ---

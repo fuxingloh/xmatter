@@ -7,5 +7,5 @@ symbol: FLUX
 decimals: 18
 icons:
   - icon.png
-color: "#c87414"
+color: "#080808"
 ---

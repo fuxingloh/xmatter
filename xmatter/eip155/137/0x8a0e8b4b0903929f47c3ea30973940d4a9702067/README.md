@@ -7,5 +7,5 @@ symbol: INSUR
 decimals: 18
 icons:
   - icon.png
-color: "#058c44"
+color: "#f8f8f8"
 ---

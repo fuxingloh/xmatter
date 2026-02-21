@@ -7,5 +7,5 @@ symbol: DAM
 decimals: 18
 icons:
   - icon.png
-color: "#babbbe"
+color: "#182838"
 ---

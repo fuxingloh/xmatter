@@ -7,5 +7,5 @@ symbol: HXN
 decimals: 18
 icons:
   - icon.png
-color: "#111111"
+color: "#080808"
 ---

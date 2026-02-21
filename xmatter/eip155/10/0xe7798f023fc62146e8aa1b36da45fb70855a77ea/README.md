@@ -6,7 +6,7 @@ name: UMA Voting Token v1
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#fc4c4c"
+color: "#f84848"
 icons:
   - icon.png
 ---

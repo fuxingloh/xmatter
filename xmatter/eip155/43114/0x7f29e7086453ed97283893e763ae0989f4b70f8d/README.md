@@ -7,5 +7,5 @@ symbol: DGC
 decimals: 6
 icons:
   - icon.png
-color: "#ddeedd"
+color: "#089818"
 ---

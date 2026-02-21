@@ -7,5 +7,5 @@ symbol: NFTS
 decimals: 18
 icons:
   - icon.png
-color: "#272726"
+color: "#282828"
 ---

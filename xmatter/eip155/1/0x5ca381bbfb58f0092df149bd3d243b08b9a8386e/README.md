@@ -8,7 +8,7 @@ name: MXCToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04ebd3"
+color: "#080868"
 icons:
   - icon.png
 ---

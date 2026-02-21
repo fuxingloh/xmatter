@@ -7,5 +7,5 @@ symbol: PNEO
 decimals: 8
 icons:
   - icon.png
-color: "#00e599"
+color: "#08e898"
 ---

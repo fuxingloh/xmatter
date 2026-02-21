@@ -7,5 +7,5 @@ symbol: ETHBTCMOON
 decimals: 18
 icons:
   - icon.png
-color: "#7dd675"
+color: "#080808"
 ---

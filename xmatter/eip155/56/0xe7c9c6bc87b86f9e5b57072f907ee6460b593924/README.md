@@ -7,5 +7,5 @@ symbol: TOWER
 decimals: 18
 icons:
   - icon.png
-color: "#040404"
+color: "#f8f8f8"
 ---

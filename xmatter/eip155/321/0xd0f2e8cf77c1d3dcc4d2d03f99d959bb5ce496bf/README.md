@@ -7,5 +7,5 @@ symbol: COOHA
 decimals: 18
 icons:
   - icon.jpeg
-color: "#c3b496"
+color: "#080808"
 ---

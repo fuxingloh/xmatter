@@ -7,5 +7,5 @@ symbol: XVIPER
 decimals: 18
 icons:
   - icon.png
-color: "#048963"
+color: "#080808"
 ---

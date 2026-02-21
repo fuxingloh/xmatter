@@ -7,5 +7,5 @@ symbol: BFTM
 decimals: 18
 icons:
   - icon.png
-color: "#a3a3a3"
+color: "#080808"
 ---

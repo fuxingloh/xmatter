@@ -7,5 +7,5 @@ symbol: PNX
 decimals: 18
 icons:
   - icon.png
-color: "#4585c0"
+color: "#f8f8f8"
 ---

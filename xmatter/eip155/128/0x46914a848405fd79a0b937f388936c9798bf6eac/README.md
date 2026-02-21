@@ -7,5 +7,5 @@ symbol: sMDX
 decimals: 18
 icons:
   - icon.png
-color: "#8335cd"
+color: "#080808"
 ---

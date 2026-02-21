@@ -7,5 +7,5 @@ symbol: GURU
 decimals: 18
 icons:
   - icon.png
-color: "#f1aa10"
+color: "#080808"
 ---

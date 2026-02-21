@@ -7,5 +7,5 @@ symbol: CYCLE
 decimals: 18
 icons:
   - icon.png
-color: "#15243a"
+color: "#f8f8f8"
 ---

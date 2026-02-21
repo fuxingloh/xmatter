@@ -7,5 +7,5 @@ symbol: SDL
 decimals: 18
 icons:
   - icon.png
-color: "#3f08d4"
+color: "#f8f8e8"
 ---

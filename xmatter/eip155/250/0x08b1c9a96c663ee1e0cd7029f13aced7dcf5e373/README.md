@@ -7,5 +7,5 @@ symbol: DP
 decimals: 18
 icons:
   - icon.png
-color: "#c48066"
+color: "#080808"
 ---

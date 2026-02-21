@@ -18,7 +18,7 @@ name: Coin98
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d9b44e"
+color: "#d8a848"
 icons:
   - icon.png
 ---

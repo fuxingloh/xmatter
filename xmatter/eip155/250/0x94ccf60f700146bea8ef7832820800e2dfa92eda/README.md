@@ -26,7 +26,7 @@ symbol: wsHEC
 decimals: 18
 icons:
   - icon.png
-color: "#b4a484"
+color: "#b89888"
 ---
 
 Wrapped Staked version of Hector Token

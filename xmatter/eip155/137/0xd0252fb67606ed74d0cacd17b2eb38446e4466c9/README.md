@@ -7,5 +7,5 @@ symbol: ARGO
 decimals: 18
 icons:
   - icon.png
-color: "#3664ae"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: ODT
 decimals: 18
 icons:
   - icon.png
-color: "#3e6bc9"
+color: "#d8e8f8"
 ---

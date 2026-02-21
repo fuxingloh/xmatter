@@ -7,5 +7,5 @@ symbol: HON
 decimals: 18
 icons:
   - icon.png
-color: "#aa7cd2"
+color: "#9868c8"
 ---

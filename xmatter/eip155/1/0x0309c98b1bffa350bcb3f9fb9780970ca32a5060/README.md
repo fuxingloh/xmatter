@@ -7,5 +7,5 @@ symbol: BDI
 decimals: 18
 icons:
   - icon.png
-color: "#fb94db"
+color: "#f898d8"
 ---

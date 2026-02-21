@@ -8,7 +8,7 @@ name: Switch
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5b19f7"
+color: "#080808"
 icons:
   - icon.png
 ---

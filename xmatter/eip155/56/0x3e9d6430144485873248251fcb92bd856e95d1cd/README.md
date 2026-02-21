@@ -7,5 +7,5 @@ symbol: QUBE
 decimals: 18
 icons:
   - icon.png
-color: "#37a480"
+color: "#38c898"
 ---

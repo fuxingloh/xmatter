@@ -15,7 +15,7 @@ decimals: 18
 icons:
   - icon.svg
   - icon.png
-color: "#141424"
+color: "#181828"
 ---
 
 SpookySwap is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network.

@@ -7,5 +7,5 @@ symbol: TUNDRA
 decimals: 18
 icons:
   - icon.png
-color: "#96d8cd"
+color: "#f8f8f8"
 ---

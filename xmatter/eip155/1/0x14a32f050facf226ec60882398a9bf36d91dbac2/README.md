@@ -7,5 +7,5 @@ symbol: KYOKO
 decimals: 18
 icons:
   - icon.png
-color: "#8a3fea"
+color: "#080808"
 ---

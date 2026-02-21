@@ -7,5 +7,5 @@ symbol: COC
 decimals: 18
 icons:
   - icon.png
-color: "#f2b250"
+color: "#080808"
 ---

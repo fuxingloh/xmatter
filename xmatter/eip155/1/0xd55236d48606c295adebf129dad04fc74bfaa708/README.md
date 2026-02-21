@@ -7,5 +7,5 @@ symbol: CW
 decimals: 18
 icons:
   - icon.png
-color: "#8c54b4"
+color: "#080808"
 ---

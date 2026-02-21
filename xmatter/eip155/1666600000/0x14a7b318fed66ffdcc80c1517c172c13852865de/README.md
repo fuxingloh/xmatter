@@ -7,5 +7,5 @@ symbol: AXS
 decimals: 18
 icons:
   - icon.png
-color: "#043686"
+color: "#080808"
 ---

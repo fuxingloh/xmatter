@@ -7,5 +7,5 @@ symbol: WHOO
 decimals: 18
 icons:
   - icon.png
-color: "#04d3ac"
+color: "#080808"
 ---

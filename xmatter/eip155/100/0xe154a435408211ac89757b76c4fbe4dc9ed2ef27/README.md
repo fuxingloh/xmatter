@@ -7,5 +7,5 @@ symbol: BAND
 decimals: 18
 icons:
   - icon.png
-color: "#4424e4"
+color: "#4818e8"
 ---

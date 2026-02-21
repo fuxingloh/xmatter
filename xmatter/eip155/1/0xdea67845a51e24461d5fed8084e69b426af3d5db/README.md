@@ -7,5 +7,5 @@ symbol: HTRE
 decimals: 18
 icons:
   - icon.png
-color: "#0673d8"
+color: "#0878d8"
 ---

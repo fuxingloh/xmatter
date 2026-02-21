@@ -7,5 +7,5 @@ symbol: HYVE
 decimals: 18
 icons:
   - icon.png
-color: "#adadad"
+color: "#080808"
 ---

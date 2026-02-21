@@ -7,5 +7,5 @@ symbol: FEED
 decimals: 18
 icons:
   - icon.png
-color: "#150404"
+color: "#e83848"
 ---

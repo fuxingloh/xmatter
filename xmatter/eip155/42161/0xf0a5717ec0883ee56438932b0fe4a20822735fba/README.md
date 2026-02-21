@@ -7,5 +7,5 @@ symbol: XTK
 decimals: 18
 icons:
   - icon.png
-color: "#b997f6"
+color: "#5828e8"
 ---

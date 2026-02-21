@@ -7,5 +7,5 @@ symbol: eUSDC
 decimals: 8
 icons:
   - icon.png
-color: "#d2e2f3"
+color: "#2878c8"
 ---

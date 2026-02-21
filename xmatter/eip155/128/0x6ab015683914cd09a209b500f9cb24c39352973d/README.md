@@ -7,5 +7,5 @@ symbol: UDog
 decimals: 18
 icons:
   - icon.png
-color: "#e5c968"
+color: "#f8f8f8"
 ---

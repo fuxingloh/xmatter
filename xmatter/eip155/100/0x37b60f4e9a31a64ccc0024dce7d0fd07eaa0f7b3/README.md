@@ -7,5 +7,5 @@ symbol: PNK
 decimals: 18
 icons:
   - icon.png
-color: "#545458"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: CLNY
 decimals: 18
 icons:
   - icon.png
-color: "#bd2620"
+color: "#080808"
 ---

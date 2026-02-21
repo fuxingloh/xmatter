@@ -7,5 +7,5 @@ symbol: DARA
 decimals: 18
 icons:
   - icon.png
-color: "#edece7"
+color: "#f8f8f8"
 ---

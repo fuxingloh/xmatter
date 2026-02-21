@@ -7,5 +7,5 @@ symbol: YEL
 decimals: 18
 icons:
   - icon.png
-color: "#c27de2"
+color: "#f8f8f8"
 ---

@@ -18,7 +18,7 @@ name: Telcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#15cbfc"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -7,5 +7,5 @@ symbol: BLID
 decimals: 18
 icons:
   - icon.png
-color: "#22be6a"
+color: "#182828"
 ---

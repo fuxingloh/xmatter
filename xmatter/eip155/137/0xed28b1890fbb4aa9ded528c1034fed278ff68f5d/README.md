@@ -7,5 +7,5 @@ symbol: VAB
 decimals: 18
 icons:
   - icon.png
-color: "#c525bc"
+color: "#080808"
 ---

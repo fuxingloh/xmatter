@@ -7,5 +7,5 @@ symbol: REALT-S-15373-PARKS
 decimals: 18
 icons:
   - icon.jpeg
-color: "#c1c4c5"
+color: "#f8f8f8"
 ---

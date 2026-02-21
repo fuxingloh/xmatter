@@ -7,5 +7,5 @@ symbol: A4
 decimals: 6
 icons:
   - icon.jpeg
-color: "#c9c9c9"
+color: "#f8f8f8"
 ---

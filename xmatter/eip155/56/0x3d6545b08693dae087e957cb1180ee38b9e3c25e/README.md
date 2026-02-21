@@ -10,7 +10,7 @@ name: BNB pegged Ethereum Classic
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#229626"
+color: "#e8f8e8"
 icons:
   - icon.png
 ---

@@ -7,5 +7,5 @@ symbol: PGT
 decimals: 18
 icons:
   - icon.png
-color: "#4d8ec4"
+color: "#181828"
 ---

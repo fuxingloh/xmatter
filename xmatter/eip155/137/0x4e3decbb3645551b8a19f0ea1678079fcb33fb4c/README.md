@@ -7,5 +7,5 @@ symbol: JEUR
 decimals: 18
 icons:
   - icon.png
-color: "#f0c50a"
+color: "#083898"
 ---

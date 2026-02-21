@@ -7,5 +7,5 @@ symbol: BDT
 decimals: 18
 icons:
   - icon.png
-color: "#0b0b0b"
+color: "#080808"
 ---

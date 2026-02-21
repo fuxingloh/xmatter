@@ -7,5 +7,5 @@ symbol: stabilUSD
 decimals: 18
 icons:
   - icon.png
-color: "#23c163"
+color: "#18b868"
 ---

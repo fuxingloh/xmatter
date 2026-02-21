@@ -7,5 +7,5 @@ symbol: START
 decimals: 18
 icons:
   - icon.png
-color: "#272025"
+color: "#281818"
 ---

@@ -7,5 +7,5 @@ symbol: REALT-S-1244-SAVERS
 decimals: 18
 icons:
   - icon.jpeg
-color: "#6d5551"
+color: "#f8f8f8"
 ---

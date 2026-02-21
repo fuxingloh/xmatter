@@ -7,5 +7,5 @@ symbol: EMAX
 decimals: 18
 icons:
   - icon.png
-color: "#d3d2cd"
+color: "#080808"
 ---

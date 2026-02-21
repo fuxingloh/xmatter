@@ -7,5 +7,5 @@ symbol: VAL
 decimals: 18
 icons:
   - icon.png
-color: "#daba71"
+color: "#f8f8f8"
 ---

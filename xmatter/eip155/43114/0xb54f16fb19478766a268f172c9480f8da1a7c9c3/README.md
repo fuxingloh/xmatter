@@ -7,5 +7,5 @@ symbol: TIME
 decimals: 9
 icons:
   - icon.png
-color: "#d2ecf8"
+color: "#080808"
 ---

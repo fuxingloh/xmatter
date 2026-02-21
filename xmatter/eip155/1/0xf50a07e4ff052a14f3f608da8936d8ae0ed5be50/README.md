@@ -7,5 +7,5 @@ symbol: FLOKIPUP
 decimals: 9
 icons:
   - icon.png
-color: "#434958"
+color: "#e88808"
 ---

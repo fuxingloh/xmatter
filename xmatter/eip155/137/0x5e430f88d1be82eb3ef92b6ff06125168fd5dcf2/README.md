@@ -7,5 +7,5 @@ symbol: MODA
 decimals: 18
 icons:
   - icon.png
-color: "#c47cbc"
+color: "#98b8d8"
 ---

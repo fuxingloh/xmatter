@@ -7,5 +7,5 @@ symbol: ATTR
 decimals: 18
 icons:
   - icon.png
-color: "#eb697f"
+color: "#f8f8f8"
 ---

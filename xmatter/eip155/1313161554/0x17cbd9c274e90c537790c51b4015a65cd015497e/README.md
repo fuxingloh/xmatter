@@ -7,5 +7,5 @@ symbol: ETHERNAL
 decimals: 18
 icons:
   - icon.svg
-color: "#241535"
+color: "#281838"
 ---

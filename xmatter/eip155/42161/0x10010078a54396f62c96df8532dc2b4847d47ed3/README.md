@@ -7,5 +7,5 @@ symbol: HND
 decimals: 18
 icons:
   - icon.webp
-color: "#cbcecf"
+color: "#f8f8f8"
 ---

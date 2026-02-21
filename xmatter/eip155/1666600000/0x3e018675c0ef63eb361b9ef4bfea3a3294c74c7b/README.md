@@ -7,5 +7,5 @@ symbol: KURO
 decimals: 9
 icons:
   - icon.png
-color: "#ced8df"
+color: "#080808"
 ---

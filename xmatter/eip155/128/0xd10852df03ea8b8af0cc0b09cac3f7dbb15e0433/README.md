@@ -7,5 +7,5 @@ symbol: hFLUX
 decimals: 18
 icons:
   - icon.png
-color: "#141516"
+color: "#181818"
 ---

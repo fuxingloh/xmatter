@@ -7,5 +7,5 @@ symbol: EURS
 decimals: 2
 icons:
   - icon.png
-color: "#2399f5"
+color: "#f8f8f8"
 ---

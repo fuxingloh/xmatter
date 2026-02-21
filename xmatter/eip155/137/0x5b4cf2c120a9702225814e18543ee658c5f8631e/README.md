@@ -7,5 +7,5 @@ symbol: UFT
 decimals: 18
 icons:
   - icon.png
-color: "#2b6ceb"
+color: "#080808"
 ---

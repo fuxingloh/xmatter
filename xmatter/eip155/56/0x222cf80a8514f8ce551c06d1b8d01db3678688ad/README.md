@@ -7,5 +7,5 @@ symbol: DAWGS
 decimals: 9
 icons:
   - icon.png
-color: "#1f2d3f"
+color: "#182838"
 ---

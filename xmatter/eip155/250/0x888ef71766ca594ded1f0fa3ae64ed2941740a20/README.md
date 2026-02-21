@@ -6,6 +6,6 @@ symbol: SOLID
 icons:
   - icon.svg
   - icon.png
-color: "#04cbd5"
+color: "#08d8d8"
 decimals: 18
 ---

@@ -7,5 +7,5 @@ symbol: COUSD
 decimals: 18
 icons:
   - icon.png
-color: "#fcc424"
+color: "#f8c828"
 ---

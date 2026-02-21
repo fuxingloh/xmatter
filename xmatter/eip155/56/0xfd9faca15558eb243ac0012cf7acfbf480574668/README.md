@@ -7,5 +7,5 @@ symbol: MVRS
 decimals: 18
 icons:
   - icon.png
-color: "#dddfe1"
+color: "#e8e8e8"
 ---

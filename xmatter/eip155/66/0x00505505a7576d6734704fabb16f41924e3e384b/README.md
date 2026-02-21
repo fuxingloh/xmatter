@@ -7,5 +7,5 @@ symbol: TRXK
 decimals: 18
 icons:
   - icon.png
-color: "#1564eb"
+color: "#1868e8"
 ---

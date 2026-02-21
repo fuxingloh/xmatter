@@ -7,5 +7,5 @@ symbol: LRC
 decimals: 18
 icons:
   - icon.png
-color: "#1860f8"
+color: "#080808"
 ---

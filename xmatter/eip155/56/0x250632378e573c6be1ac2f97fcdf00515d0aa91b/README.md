@@ -8,7 +8,7 @@ name: Binance Beacon ETH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e4eef1"
+color: "#e8e8f8"
 icons:
   - icon.png
 ---

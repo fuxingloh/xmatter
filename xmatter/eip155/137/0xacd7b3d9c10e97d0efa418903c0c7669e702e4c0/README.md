@@ -7,5 +7,5 @@ symbol: ELE
 decimals: 18
 icons:
   - icon.png
-color: "#101010"
+color: "#080808"
 ---

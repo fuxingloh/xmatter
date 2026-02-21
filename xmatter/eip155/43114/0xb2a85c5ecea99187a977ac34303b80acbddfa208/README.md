@@ -7,5 +7,5 @@ symbol: ROCO
 decimals: 18
 icons:
   - icon.png
-color: "#fc4c4c"
+color: "#f84848"
 ---

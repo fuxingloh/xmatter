@@ -7,5 +7,5 @@ symbol: SENSO
 decimals: 0
 icons:
   - icon.png
-color: "#0c0c0c"
+color: "#080808"
 ---

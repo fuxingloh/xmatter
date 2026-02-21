@@ -7,5 +7,5 @@ symbol: COVER
 decimals: 18
 icons:
   - icon.png
-color: "#e6e6e6"
+color: "#e8e8e8"
 ---

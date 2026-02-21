@@ -7,5 +7,5 @@ symbol: BUSD
 decimals: 6
 icons:
   - icon.png
-color: "#f0b90b"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: ACYC
 decimals: 18
 icons:
   - icon.png
-color: "#776ef6"
+color: "#8858f8"
 ---

@@ -6,6 +6,6 @@ symbol: fUSDT
 icons:
   - icon.svg
   - icon.png
-color: "#54ac94"
+color: "#58a898"
 decimals: 6
 ---

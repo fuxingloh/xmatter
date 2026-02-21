@@ -7,5 +7,5 @@ symbol: INU
 decimals: 18
 icons:
   - icon.png
-color: "#e8b752"
+color: "#283848"
 ---

@@ -8,7 +8,7 @@ name: SYL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#54c4cc"
+color: "#58c8c8"
 icons:
   - icon.png
 ---

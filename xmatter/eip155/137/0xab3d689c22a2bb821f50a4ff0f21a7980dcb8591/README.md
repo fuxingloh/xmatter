@@ -7,5 +7,5 @@ symbol: PRXY
 decimals: 18
 icons:
   - icon.png
-color: "#1c1464"
+color: "#181868"
 ---

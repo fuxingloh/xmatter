@@ -7,5 +7,5 @@ symbol: CGU
 decimals: 8
 icons:
   - icon.png
-color: "#8424eb"
+color: "#f8e888"
 ---

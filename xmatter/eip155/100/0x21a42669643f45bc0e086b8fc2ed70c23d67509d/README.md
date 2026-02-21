@@ -7,5 +7,5 @@ symbol: FOX
 decimals: 18
 icons:
   - icon.png
-color: "#262f50"
+color: "#080808"
 ---

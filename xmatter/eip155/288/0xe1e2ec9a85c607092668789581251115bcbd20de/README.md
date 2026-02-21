@@ -7,5 +7,5 @@ symbol: OMG
 decimals: 18
 icons:
   - icon.webp
-color: "#151515"
+color: "#f8f8f8"
 ---

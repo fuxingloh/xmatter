@@ -7,5 +7,5 @@ symbol: AWETH
 decimals: 18
 icons:
   - icon.png
-color: "#c5b9cb"
+color: "#f8f8f8"
 ---

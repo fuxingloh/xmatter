@@ -7,5 +7,5 @@ symbol: CRX
 decimals: 18
 icons:
   - icon.png
-color: "#f05a28"
+color: "#080808"
 ---

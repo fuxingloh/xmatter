@@ -8,7 +8,7 @@ name: MoonToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4c4444"
+color: "#e8b808"
 icons:
   - icon.png
 ---

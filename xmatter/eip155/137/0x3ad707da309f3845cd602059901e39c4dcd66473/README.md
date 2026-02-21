@@ -7,5 +7,5 @@ symbol: ETH2X-FLI-P
 decimals: 18
 icons:
   - icon.png
-color: "#44047e"
+color: "#f8f8f8"
 ---

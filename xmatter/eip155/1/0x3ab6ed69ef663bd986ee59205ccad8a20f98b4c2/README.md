@@ -8,7 +8,7 @@ name: DREP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8ea9c0"
+color: "#486878"
 icons:
   - icon.png
   - icon.jpeg

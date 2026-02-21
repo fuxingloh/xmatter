@@ -7,5 +7,5 @@ symbol: BCP
 decimals: 18
 icons:
   - icon.png
-color: "#4ccbf9"
+color: "#f8f8f8"
 ---

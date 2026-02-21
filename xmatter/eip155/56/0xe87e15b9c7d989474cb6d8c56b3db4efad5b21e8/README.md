@@ -7,5 +7,5 @@ symbol: HOKK
 decimals: 18
 icons:
   - icon.png
-color: "#f2cfa1"
+color: "#080808"
 ---

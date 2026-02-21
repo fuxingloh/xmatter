@@ -7,5 +7,5 @@ symbol: MCRT
 decimals: 9
 icons:
   - icon.png
-color: "#cdc7de"
+color: "#f8f8f8"
 ---

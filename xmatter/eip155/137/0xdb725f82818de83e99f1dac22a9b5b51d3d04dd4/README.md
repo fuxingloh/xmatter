@@ -7,5 +7,5 @@ symbol: GET
 decimals: 18
 icons:
   - icon.png
-color: "#04c494"
+color: "#08c898"
 ---

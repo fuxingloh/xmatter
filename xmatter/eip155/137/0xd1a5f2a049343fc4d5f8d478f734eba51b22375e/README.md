@@ -7,5 +7,5 @@ symbol: KEYFI
 decimals: 18
 icons:
   - icon.png
-color: "#045cd4"
+color: "#0858d8"
 ---

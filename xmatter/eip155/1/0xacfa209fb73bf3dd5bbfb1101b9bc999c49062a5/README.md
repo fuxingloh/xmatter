@@ -8,7 +8,7 @@ name: Blockchain Certfied Data Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#38d0c4"
+color: "#080808"
 icons:
   - icon.png
 ---

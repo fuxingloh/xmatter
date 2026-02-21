@@ -7,5 +7,5 @@ symbol: bscBNB
 decimals: 18
 icons:
   - icon.png
-color: "#f0b828"
+color: "#080808"
 ---

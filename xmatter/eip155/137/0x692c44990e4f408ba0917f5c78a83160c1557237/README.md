@@ -7,5 +7,5 @@ symbol: THALES
 decimals: 18
 icons:
   - icon.png
-color: "#11136f"
+color: "#081868"
 ---

@@ -7,5 +7,5 @@ symbol: REALT-S-19201-WESTP
 decimals: 18
 icons:
   - icon.jpeg
-color: "#67645e"
+color: "#988858"
 ---

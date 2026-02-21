@@ -7,5 +7,5 @@ symbol: AXLWBTC
 decimals: 8
 icons:
   - icon.png
-color: "#302c38"
+color: "#f8f8f8"
 ---

@@ -18,7 +18,7 @@ name: PolyCrowns
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d9b370"
+color: "#182848"
 icons:
   - icon.png
 ---

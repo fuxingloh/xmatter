@@ -7,5 +7,5 @@ symbol: UNICORN
 decimals: 18
 icons:
   - icon.png
-color: "#050506"
+color: "#080808"
 ---

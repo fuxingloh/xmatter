@@ -7,5 +7,5 @@ symbol: PRT
 decimals: 18
 icons:
   - icon.png
-color: "#1c445b"
+color: "#184858"
 ---

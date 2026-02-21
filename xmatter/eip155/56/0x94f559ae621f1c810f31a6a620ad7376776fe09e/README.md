@@ -7,5 +7,5 @@ symbol: SOUP
 decimals: 18
 icons:
   - icon.png
-color: "#ab2112"
+color: "#f8f8f8"
 ---

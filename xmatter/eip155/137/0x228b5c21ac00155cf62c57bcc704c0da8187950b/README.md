@@ -7,5 +7,5 @@ symbol: NXD
 decimals: 18
 icons:
   - icon.png
-color: "#cfc686"
+color: "#f8f8f8"
 ---

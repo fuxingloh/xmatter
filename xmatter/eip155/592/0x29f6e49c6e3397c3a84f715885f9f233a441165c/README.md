@@ -7,5 +7,5 @@ symbol: OUSD
 decimals: 18
 icons:
   - icon.png
-color: "#ebeced"
+color: "#182838"
 ---

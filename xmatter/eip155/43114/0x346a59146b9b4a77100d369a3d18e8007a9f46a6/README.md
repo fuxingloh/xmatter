@@ -7,5 +7,5 @@ symbol: AVAI
 decimals: 18
 icons:
   - icon.png
-color: "#27a698"
+color: "#080808"
 ---

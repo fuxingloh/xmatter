@@ -7,5 +7,5 @@ symbol: BIFI
 decimals: 18
 icons:
   - icon.png
-color: "#4f8bd2"
+color: "#5898d8"
 ---

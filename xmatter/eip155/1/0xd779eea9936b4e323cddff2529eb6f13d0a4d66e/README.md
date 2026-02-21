@@ -7,5 +7,5 @@ symbol: ENTR
 decimals: 18
 icons:
   - icon.png
-color: "#1e113e"
+color: "#080838"
 ---

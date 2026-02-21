@@ -7,5 +7,5 @@ symbol: CLA
 decimals: 18
 icons:
   - icon.png
-color: "#379761"
+color: "#080808"
 ---

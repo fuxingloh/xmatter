@@ -7,5 +7,5 @@ symbol: LEDU
 decimals: 8
 icons:
   - icon.png
-color: "#202028"
+color: "#282828"
 ---

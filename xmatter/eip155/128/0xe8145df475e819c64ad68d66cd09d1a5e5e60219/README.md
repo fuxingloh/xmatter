@@ -7,5 +7,5 @@ symbol: BCV
 decimals: 18
 icons:
   - icon.png
-color: "#21305f"
+color: "#283868"
 ---

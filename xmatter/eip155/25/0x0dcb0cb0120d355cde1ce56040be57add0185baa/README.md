@@ -7,5 +7,5 @@ symbol: AUTO
 decimals: 18
 icons:
   - icon.png
-color: "#3434bc"
+color: "#2828b8"
 ---

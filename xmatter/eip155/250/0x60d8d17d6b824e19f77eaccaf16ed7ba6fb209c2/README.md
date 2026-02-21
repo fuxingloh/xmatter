@@ -7,5 +7,5 @@ symbol: SERENE
 decimals: 18
 icons:
   - icon.png
-color: "#e0ce95"
+color: "#282828"
 ---

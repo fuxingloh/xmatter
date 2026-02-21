@@ -7,5 +7,5 @@ symbol: gSAT
 decimals: 18
 icons:
   - icon.png
-color: "#cdbfb1"
+color: "#f8f8f8"
 ---

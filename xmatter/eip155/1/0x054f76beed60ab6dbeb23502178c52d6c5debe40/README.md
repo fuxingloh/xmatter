@@ -10,7 +10,7 @@ name: FIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0a64b4"
+color: "#080808"
 icons:
   - icon.png
 ---

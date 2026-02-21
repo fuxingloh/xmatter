@@ -7,5 +7,5 @@ symbol: BLZZ
 decimals: 18
 icons:
   - icon.png
-color: "#343435"
+color: "#383838"
 ---

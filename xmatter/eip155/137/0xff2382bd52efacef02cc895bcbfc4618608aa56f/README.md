@@ -7,5 +7,5 @@ symbol: ORARE
 decimals: 18
 icons:
   - icon.png
-color: "#c6c6c6"
+color: "#080808"
 ---

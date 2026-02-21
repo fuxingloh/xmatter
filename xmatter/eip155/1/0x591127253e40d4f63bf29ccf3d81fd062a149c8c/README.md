@@ -7,5 +7,5 @@ symbol: XMETA
 decimals: 18
 icons:
   - icon.png
-color: "#dee8f0"
+color: "#185898"
 ---

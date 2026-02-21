@@ -7,5 +7,5 @@ symbol: COLD
 decimals: 18
 icons:
   - icon.png
-color: "#060407"
+color: "#080808"
 ---

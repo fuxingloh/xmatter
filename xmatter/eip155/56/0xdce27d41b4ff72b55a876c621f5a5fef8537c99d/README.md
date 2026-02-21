@@ -7,5 +7,5 @@ symbol: ROY
 decimals: 18
 icons:
   - icon.jpeg
-color: "#0f1b2a"
+color: "#081828"
 ---

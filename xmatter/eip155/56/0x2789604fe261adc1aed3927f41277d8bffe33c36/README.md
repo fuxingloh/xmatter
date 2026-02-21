@@ -7,5 +7,5 @@ symbol: CATCHY
 decimals: 9
 icons:
   - icon.png
-color: "#dcdcdc"
+color: "#f8f8f8"
 ---

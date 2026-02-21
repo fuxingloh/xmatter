@@ -7,5 +7,5 @@ symbol: SNOSHARE
 decimals: 18
 icons:
   - icon.png
-color: "#a8c2c7"
+color: "#98b8c8"
 ---

@@ -7,5 +7,5 @@ symbol: GENX
 decimals: 18
 icons:
   - icon.png
-color: "#740ee9"
+color: "#080808"
 ---

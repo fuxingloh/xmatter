@@ -7,5 +7,5 @@ symbol: CRYSTL
 decimals: 18
 icons:
   - icon.png
-color: "#0e0e41"
+color: "#080848"
 ---

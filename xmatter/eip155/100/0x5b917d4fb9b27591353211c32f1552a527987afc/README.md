@@ -7,5 +7,5 @@ symbol: MOON
 decimals: 18
 icons:
   - icon.png
-color: "#092f7c"
+color: "#080808"
 ---

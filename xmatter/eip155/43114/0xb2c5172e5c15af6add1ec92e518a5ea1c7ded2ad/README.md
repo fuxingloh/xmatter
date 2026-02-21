@@ -7,5 +7,5 @@ symbol: ecdPTP
 decimals: 18
 icons:
   - icon.png
-color: "#e91134"
+color: "#f8f8f8"
 ---

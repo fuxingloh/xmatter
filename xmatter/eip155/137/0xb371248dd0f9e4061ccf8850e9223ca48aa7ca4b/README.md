@@ -7,5 +7,5 @@ symbol: HNY
 decimals: 18
 icons:
   - icon.png
-color: "#fcf39b"
+color: "#f8f898"
 ---

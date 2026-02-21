@@ -7,5 +7,5 @@ symbol: FAR
 decimals: 18
 icons:
   - icon.jpeg
-color: "#042404"
+color: "#081808"
 ---

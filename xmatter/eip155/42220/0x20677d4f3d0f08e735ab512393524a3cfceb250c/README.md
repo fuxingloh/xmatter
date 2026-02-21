@@ -7,5 +7,5 @@ symbol: ARI
 decimals: 18
 icons:
   - icon.png
-color: "#060808"
+color: "#080808"
 ---

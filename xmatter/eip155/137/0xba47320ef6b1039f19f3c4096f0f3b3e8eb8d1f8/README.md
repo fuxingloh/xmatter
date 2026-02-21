@@ -7,5 +7,5 @@ symbol: NEBULA
 decimals: 18
 icons:
   - icon.png
-color: "#e8a862"
+color: "#080808"
 ---

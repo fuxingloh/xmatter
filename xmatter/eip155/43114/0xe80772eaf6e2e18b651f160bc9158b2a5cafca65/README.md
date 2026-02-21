@@ -7,5 +7,5 @@ symbol: USD+
 decimals: 6
 icons:
   - icon.png
-color: "#bfc5d3"
+color: "#081848"
 ---

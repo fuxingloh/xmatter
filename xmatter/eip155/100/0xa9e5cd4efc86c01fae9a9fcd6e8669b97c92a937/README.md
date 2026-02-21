@@ -7,5 +7,5 @@ symbol: PROPHET
 decimals: 9
 icons:
   - icon.png
-color: "#393d37"
+color: "#f8f8f8"
 ---

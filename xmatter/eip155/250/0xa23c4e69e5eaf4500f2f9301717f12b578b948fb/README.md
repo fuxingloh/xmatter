@@ -7,5 +7,5 @@ symbol: PROTO
 decimals: 18
 icons:
   - icon.png
-color: "#cae4f5"
+color: "#f8f8f8"
 ---

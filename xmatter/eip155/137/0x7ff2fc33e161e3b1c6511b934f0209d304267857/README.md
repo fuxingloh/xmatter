@@ -7,5 +7,5 @@ symbol: OPU
 decimals: 18
 icons:
   - icon.png
-color: "#52c4b4"
+color: "#080808"
 ---

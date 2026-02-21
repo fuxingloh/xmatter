@@ -7,5 +7,5 @@ symbol: renBTC
 decimals: 8
 icons:
   - icon.png
-color: "#848c8c"
+color: "#888888"
 ---

@@ -7,5 +7,5 @@ symbol: URUS
 decimals: 18
 icons:
   - icon.png
-color: "#070f16"
+color: "#080818"
 ---

@@ -7,5 +7,5 @@ symbol: 0XMR
 decimals: 18
 icons:
   - icon.png
-color: "#5bf7da"
+color: "#080808"
 ---

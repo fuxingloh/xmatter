@@ -7,5 +7,5 @@ symbol: WADA
 decimals: 6
 icons:
   - icon.svg
-color: "#0033ad"
+color: "#080808"
 ---

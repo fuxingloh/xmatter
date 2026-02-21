@@ -7,5 +7,5 @@ symbol: OIN
 decimals: 8
 icons:
   - icon.png
-color: "#5d7c7f"
+color: "#f8f8f8"
 ---

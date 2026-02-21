@@ -7,5 +7,5 @@ symbol: KYO
 decimals: 18
 icons:
   - icon.png
-color: "#bf756e"
+color: "#080808"
 ---

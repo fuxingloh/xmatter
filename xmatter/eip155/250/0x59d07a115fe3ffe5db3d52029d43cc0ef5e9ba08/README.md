@@ -7,5 +7,5 @@ symbol: SUPA
 decimals: 18
 icons:
   - icon.png
-color: "#c92425"
+color: "#f8f8f8"
 ---

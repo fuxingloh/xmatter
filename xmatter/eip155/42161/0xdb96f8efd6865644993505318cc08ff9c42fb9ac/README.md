@@ -7,5 +7,5 @@ symbol: Z2O
 decimals: 9
 icons:
   - icon.jpeg
-color: "#ede0e0"
+color: "#e8f8f8"
 ---

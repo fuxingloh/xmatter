@@ -7,5 +7,5 @@ symbol: CATHEON
 decimals: 9
 icons:
   - icon.png
-color: "#2b3ea3"
+color: "#080808"
 ---

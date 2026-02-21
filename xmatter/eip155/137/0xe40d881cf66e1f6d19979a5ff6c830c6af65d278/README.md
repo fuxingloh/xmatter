@@ -7,5 +7,5 @@ symbol: GM
 decimals: 18
 icons:
   - icon.png
-color: "#fbb437"
+color: "#080808"
 ---

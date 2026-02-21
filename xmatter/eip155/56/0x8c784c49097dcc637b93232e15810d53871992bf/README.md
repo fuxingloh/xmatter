@@ -7,5 +7,5 @@ symbol: MSC
 decimals: 18
 icons:
   - icon.png
-color: "#3c1108"
+color: "#280808"
 ---

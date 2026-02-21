@@ -7,5 +7,5 @@ symbol: ZEUS
 decimals: 18
 icons:
   - icon.png
-color: "#f4f4f4"
+color: "#080808"
 ---

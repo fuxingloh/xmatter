@@ -7,5 +7,5 @@ symbol: BALPHA
 decimals: 18
 icons:
   - icon.png
-color: "#21d9b8"
+color: "#384858"
 ---

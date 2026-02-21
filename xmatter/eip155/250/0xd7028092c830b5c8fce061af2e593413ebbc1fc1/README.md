@@ -7,5 +7,5 @@ symbol: SFTMX
 decimals: 18
 icons:
   - icon.png
-color: "#040404"
+color: "#080808"
 ---

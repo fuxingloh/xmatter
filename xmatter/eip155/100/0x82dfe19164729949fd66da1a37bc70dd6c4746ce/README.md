@@ -7,5 +7,5 @@ symbol: BAO
 decimals: 18
 icons:
   - icon.png
-color: "#613a2b"
+color: "#f8f8f8"
 ---

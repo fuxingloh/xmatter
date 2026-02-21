@@ -8,7 +8,7 @@ name: Anyswap-BEP20
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5a79e9"
+color: "#080808"
 icons:
   - icon.png
 ---

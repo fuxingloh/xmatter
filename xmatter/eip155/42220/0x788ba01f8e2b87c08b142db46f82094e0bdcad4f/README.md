@@ -7,5 +7,5 @@ symbol: xABR
 decimals: 18
 icons:
   - icon.png
-color: "#0f0f0f"
+color: "#080808"
 ---

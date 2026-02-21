@@ -14,7 +14,7 @@ name: (PoS) Tether USD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#54ac94"
+color: "#58a898"
 icons:
   - icon.svg
   - icon.png

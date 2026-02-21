@@ -20,7 +20,7 @@ standards:
   - erc20
 icons:
   - icon.png
-color: "#cef654"
+color: "#080808"
 ---
 
 Phala Network is a privacy-preserving cloud computing service, which offers computing power comparable to existing cloud services and protects the privacy of managed programs.

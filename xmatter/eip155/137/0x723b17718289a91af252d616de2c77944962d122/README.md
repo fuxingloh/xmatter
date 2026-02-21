@@ -7,5 +7,5 @@ symbol: GAIA
 decimals: 18
 icons:
   - icon.png
-color: "#4095e2"
+color: "#084878"
 ---

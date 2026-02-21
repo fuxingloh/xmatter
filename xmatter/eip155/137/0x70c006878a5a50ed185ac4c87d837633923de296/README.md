@@ -7,5 +7,5 @@ symbol: REVV
 decimals: 18
 icons:
   - icon.png
-color: "#e2dedd"
+color: "#080808"
 ---

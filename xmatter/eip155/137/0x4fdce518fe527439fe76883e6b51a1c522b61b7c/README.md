@@ -7,5 +7,5 @@ symbol: COR
 decimals: 18
 icons:
   - icon.png
-color: "#052dfc"
+color: "#0828f8"
 ---

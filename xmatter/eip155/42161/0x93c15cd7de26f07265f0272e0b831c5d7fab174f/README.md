@@ -7,5 +7,5 @@ symbol: LIQD
 decimals: 18
 icons:
   - icon.png
-color: "#040424"
+color: "#98b8f8"
 ---

@@ -8,7 +8,7 @@ name: Aave LEND V1
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a774b1"
+color: "#080808"
 icons:
   - icon.png
 ---

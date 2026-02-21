@@ -7,5 +7,5 @@ symbol: DOGGY
 decimals: 18
 icons:
   - icon.png
-color: "#e2b989"
+color: "#f8b868"
 ---

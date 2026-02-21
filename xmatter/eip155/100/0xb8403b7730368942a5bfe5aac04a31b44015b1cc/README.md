@@ -7,5 +7,5 @@ symbol: REALT-S-11078-WAYBU
 decimals: 18
 icons:
   - icon.jpeg
-color: "#b3bdc2"
+color: "#68a8e8"
 ---

@@ -7,5 +7,5 @@ symbol: XETA
 decimals: 18
 icons:
   - icon.png
-color: "#170550"
+color: "#080808"
 ---

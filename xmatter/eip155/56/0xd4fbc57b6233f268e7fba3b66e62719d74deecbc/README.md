@@ -7,5 +7,5 @@ symbol: MOD
 decimals: 18
 icons:
   - icon.png
-color: "#cef1fa"
+color: "#f8f8f8"
 ---

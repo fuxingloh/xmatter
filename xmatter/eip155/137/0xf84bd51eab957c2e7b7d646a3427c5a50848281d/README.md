@@ -7,5 +7,5 @@ symbol: AGAR
 decimals: 8
 icons:
   - icon.png
-color: "#293e4c"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: AVT
 decimals: 18
 icons:
   - icon.png
-color: "#d54349"
+color: "#080808"
 ---

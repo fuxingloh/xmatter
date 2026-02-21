@@ -7,5 +7,5 @@ symbol: polyFXS
 decimals: 18
 icons:
   - icon.png
-color: "#141414"
+color: "#080808"
 ---

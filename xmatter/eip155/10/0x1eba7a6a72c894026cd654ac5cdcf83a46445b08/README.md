@@ -6,7 +6,7 @@ name: Gitcoin
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#0c0d39"
+color: "#08e8a8"
 icons:
   - icon.svg
 ---

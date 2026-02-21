@@ -8,7 +8,7 @@ name: Sushiba Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e0b286"
+color: "#08d8f8"
 icons:
   - icon.png
 ---

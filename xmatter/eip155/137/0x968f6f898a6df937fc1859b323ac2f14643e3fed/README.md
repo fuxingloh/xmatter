@@ -7,5 +7,5 @@ symbol: NWC
 decimals: 18
 icons:
   - icon.png
-color: "#cae3f3"
+color: "#f8f8f8"
 ---

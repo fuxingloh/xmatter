@@ -7,5 +7,5 @@ symbol: STNEAR
 decimals: 24
 icons:
   - icon.svg
-color: "#5beb5b"
+color: "#58e858"
 ---

@@ -7,5 +7,5 @@ symbol: FXS
 decimals: 18
 icons:
   - icon.png
-color: "#252525"
+color: "#f8f8f8"
 ---

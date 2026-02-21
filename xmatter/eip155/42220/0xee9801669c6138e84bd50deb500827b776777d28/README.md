@@ -7,5 +7,5 @@ symbol: O3
 decimals: 18
 icons:
   - icon.png
-color: "#23af7d"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: ANO
 decimals: 8
 icons:
   - icon.png
-color: "#4dbff7"
+color: "#f8f8f8"
 ---

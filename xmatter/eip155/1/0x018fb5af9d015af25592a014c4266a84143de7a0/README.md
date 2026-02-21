@@ -7,5 +7,5 @@ symbol: MP3
 decimals: 18
 icons:
   - icon.png
-color: "#b57a87"
+color: "#181848"
 ---

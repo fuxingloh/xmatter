@@ -7,5 +7,5 @@ symbol: WELL
 decimals: 18
 icons:
   - icon.png
-color: "#fceca3"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: INARI
 decimals: 9
 icons:
   - icon.png
-color: "#13110f"
+color: "#080808"
 ---

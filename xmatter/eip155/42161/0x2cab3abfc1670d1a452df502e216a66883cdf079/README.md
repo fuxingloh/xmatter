@@ -7,5 +7,5 @@ symbol: L2DAO
 decimals: 18
 icons:
   - icon.png
-color: "#39e0f5"
+color: "#080808"
 ---

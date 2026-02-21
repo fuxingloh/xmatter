@@ -7,5 +7,5 @@ symbol: ROCK
 decimals: 18
 icons:
   - icon.png
-color: "#a25b46"
+color: "#a86848"
 ---

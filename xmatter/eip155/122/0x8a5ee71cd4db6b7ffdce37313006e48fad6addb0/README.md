@@ -7,5 +7,5 @@ symbol: oneFUSE
 decimals: 18
 icons:
   - icon.png
-color: "#051c2b"
+color: "#081828"
 ---

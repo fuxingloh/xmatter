@@ -7,5 +7,5 @@ symbol: XTRI
 decimals: 18
 icons:
   - icon.svg
-color: "#29ecc0"
+color: "#080808"
 ---

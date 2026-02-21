@@ -7,5 +7,5 @@ symbol: VHC
 decimals: 18
 icons:
   - icon.png
-color: "#c344b3"
+color: "#f8f8f8"
 ---

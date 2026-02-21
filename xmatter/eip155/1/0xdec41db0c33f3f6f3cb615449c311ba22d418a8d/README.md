@@ -7,5 +7,5 @@ symbol: LOBI
 decimals: 9
 icons:
   - icon.png
-color: "#040404"
+color: "#080808"
 ---

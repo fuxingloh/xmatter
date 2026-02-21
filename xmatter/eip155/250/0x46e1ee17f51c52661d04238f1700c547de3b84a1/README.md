@@ -7,5 +7,5 @@ symbol: SCARE
 decimals: 18
 icons:
   - icon.png
-color: "#e58a20"
+color: "#f8f8f8"
 ---

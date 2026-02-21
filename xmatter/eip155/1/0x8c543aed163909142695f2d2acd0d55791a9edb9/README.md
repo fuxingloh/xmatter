@@ -7,5 +7,5 @@ symbol: VLX
 decimals: 18
 icons:
   - icon.png
-color: "#0434c4"
+color: "#f8f8f8"
 ---

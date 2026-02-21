@@ -7,5 +7,5 @@ symbol: ADAI
 decimals: 18
 icons:
   - icon.png
-color: "#fcbf41"
+color: "#f8c848"
 ---

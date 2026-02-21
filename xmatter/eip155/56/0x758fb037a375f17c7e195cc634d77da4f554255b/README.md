@@ -7,5 +7,5 @@ symbol: DVI
 decimals: 18
 icons:
   - icon.png
-color: "#242534"
+color: "#282828"
 ---

@@ -7,5 +7,5 @@ symbol: HAUS
 decimals: 35
 icons:
   - icon.png
-color: "#d36c59"
+color: "#081838"
 ---

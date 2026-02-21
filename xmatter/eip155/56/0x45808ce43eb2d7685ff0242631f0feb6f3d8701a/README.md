@@ -7,5 +7,5 @@ symbol: EKTA
 decimals: 18
 icons:
   - icon.jpeg
-color: "#c76d63"
+color: "#f8f8f8"
 ---

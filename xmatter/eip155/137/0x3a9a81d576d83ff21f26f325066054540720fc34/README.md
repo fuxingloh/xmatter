@@ -18,7 +18,7 @@ name: Streamr
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f4640c"
+color: "#f85808"
 icons:
   - icon.png
 ---

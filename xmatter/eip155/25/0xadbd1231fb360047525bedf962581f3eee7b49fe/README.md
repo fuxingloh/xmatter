@@ -7,5 +7,5 @@ symbol: CRONA
 decimals: 18
 icons:
   - icon.png
-color: "#040424"
+color: "#080818"
 ---

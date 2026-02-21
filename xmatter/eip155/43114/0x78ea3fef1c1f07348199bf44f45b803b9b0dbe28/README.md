@@ -7,5 +7,5 @@ symbol: FLY
 decimals: 18
 icons:
   - icon.png
-color: "#d1c6d7"
+color: "#080808"
 ---

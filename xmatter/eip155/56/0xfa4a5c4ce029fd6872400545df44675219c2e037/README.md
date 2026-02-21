@@ -7,5 +7,5 @@ symbol: KPHI
 decimals: 18
 icons:
   - icon.jpeg
-color: "#faf4df"
+color: "#f8f8f8"
 ---

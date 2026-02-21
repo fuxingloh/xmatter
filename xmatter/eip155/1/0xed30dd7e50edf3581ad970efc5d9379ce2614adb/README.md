@@ -7,5 +7,5 @@ symbol: ARCX_OLD
 decimals: 18
 icons:
   - icon.png
-color: "#3c3257"
+color: "#080808"
 ---

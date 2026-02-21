@@ -16,7 +16,7 @@ name: ChainLink Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#345cd4"
+color: "#3858d8"
 icons:
   - icon.png
 ---

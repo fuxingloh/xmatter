@@ -7,5 +7,5 @@ symbol: POLYBUNNY
 decimals: 18
 icons:
   - icon.png
-color: "#e0d7f7"
+color: "#f8f8f8"
 ---

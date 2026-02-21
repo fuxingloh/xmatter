@@ -7,5 +7,5 @@ symbol: FSW
 decimals: 18
 icons:
   - icon.png
-color: "#2d6eec"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: NNT
 decimals: 18
 icons:
   - icon.png
-color: "#a0cf41"
+color: "#080808"
 ---

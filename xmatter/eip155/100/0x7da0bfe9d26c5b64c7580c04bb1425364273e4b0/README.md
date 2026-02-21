@@ -7,5 +7,5 @@ symbol: CVP
 decimals: 18
 icons:
   - icon.png
-color: "#e9eef5"
+color: "#f8f8f8"
 ---

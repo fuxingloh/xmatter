@@ -7,5 +7,5 @@ symbol: ELON
 decimals: 18
 icons:
   - icon.png
-color: "#f9ba74"
+color: "#080808"
 ---

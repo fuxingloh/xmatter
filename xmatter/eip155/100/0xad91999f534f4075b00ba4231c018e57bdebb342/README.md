@@ -7,5 +7,5 @@ symbol: REALT-S-18983-ALCOY
 decimals: 18
 icons:
   - icon.jpeg
-color: "#4d5052"
+color: "#484848"
 ---

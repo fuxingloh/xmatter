@@ -7,5 +7,5 @@ symbol: AWX
 decimals: 18
 icons:
   - icon.png
-color: "#d4e8f1"
+color: "#68a8c8"
 ---

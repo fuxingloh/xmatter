@@ -7,5 +7,5 @@ symbol: SKK
 decimals: 18
 icons:
   - icon.png
-color: "#ecc881"
+color: "#080808"
 ---

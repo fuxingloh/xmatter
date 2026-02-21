@@ -7,5 +7,5 @@ symbol: ORCA
 decimals: 18
 icons:
   - icon.png
-color: "#28a995"
+color: "#28b878"
 ---

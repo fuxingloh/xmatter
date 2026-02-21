@@ -7,5 +7,5 @@ symbol: XEN
 decimals: 18
 icons:
   - icon.webp
-color: "#ebebeb"
+color: "#f8f8f8"
 ---

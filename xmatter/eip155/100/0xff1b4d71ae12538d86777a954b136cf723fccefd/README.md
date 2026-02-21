@@ -7,5 +7,5 @@ symbol: REALT-S-14882-TROES
 decimals: 18
 icons:
   - icon.jpeg
-color: "#d8d8d9"
+color: "#f8f8f8"
 ---

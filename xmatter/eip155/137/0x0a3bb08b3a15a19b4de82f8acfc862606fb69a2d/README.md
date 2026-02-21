@@ -7,5 +7,5 @@ symbol: IUSD
 decimals: 18
 icons:
   - icon.png
-color: "#844cfc"
+color: "#080808"
 ---

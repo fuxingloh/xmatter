@@ -7,5 +7,5 @@ symbol: XGT
 decimals: 18
 icons:
   - icon.png
-color: "#2ba4dc"
+color: "#28a8d8"
 ---

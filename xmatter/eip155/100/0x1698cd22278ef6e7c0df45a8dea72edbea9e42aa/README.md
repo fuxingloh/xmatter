@@ -7,5 +7,5 @@ symbol: LEVIN
 decimals: 18
 icons:
   - icon.png
-color: "#e0d0dc"
+color: "#d8c8d8"
 ---

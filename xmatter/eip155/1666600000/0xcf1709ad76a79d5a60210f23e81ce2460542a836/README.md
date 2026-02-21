@@ -7,5 +7,5 @@ symbol: TRANQ
 decimals: 18
 icons:
   - icon.png
-color: "#04dcfc"
+color: "#08d8f8"
 ---

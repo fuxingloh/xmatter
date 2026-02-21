@@ -8,7 +8,7 @@ name: Harmony.One
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#37d1d5"
+color: "#486878"
 icons:
   - icon.png
 ---

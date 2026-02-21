@@ -35,7 +35,7 @@ name: Safeswap TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1b33c3"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

@@ -7,5 +7,5 @@ symbol: STZ
 decimals: 18
 icons:
   - icon.png
-color: "#d45954"
+color: "#080808"
 ---

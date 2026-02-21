@@ -7,5 +7,5 @@ symbol: LUCHA
 decimals: 18
 icons:
   - icon.png
-color: "#e4bb3c"
+color: "#e8b838"
 ---

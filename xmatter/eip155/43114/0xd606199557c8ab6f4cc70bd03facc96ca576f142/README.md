@@ -7,5 +7,5 @@ symbol: GDL
 decimals: 18
 icons:
   - icon.png
-color: "#43c4cc"
+color: "#48c8c8"
 ---

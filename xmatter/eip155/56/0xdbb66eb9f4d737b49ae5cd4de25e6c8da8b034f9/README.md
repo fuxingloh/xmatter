@@ -7,5 +7,5 @@ symbol: CANU
 decimals: 18
 icons:
   - icon.png
-color: "#f4f4f4"
+color: "#f8f8f8"
 ---

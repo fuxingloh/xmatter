@@ -7,5 +7,5 @@ symbol: DLAUNCH
 decimals: 18
 icons:
   - icon.png
-color: "#ebbc4c"
+color: "#e8b848"
 ---

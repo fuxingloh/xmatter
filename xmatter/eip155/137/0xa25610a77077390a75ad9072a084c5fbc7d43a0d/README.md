@@ -7,5 +7,5 @@ symbol: MCASH
 decimals: 18
 icons:
   - icon.png
-color: "#299ee0"
+color: "#080808"
 ---

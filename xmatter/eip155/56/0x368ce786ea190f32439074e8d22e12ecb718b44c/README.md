@@ -7,5 +7,5 @@ symbol: EPIK
 decimals: 18
 icons:
   - icon.jpeg
-color: "#ebe1f1"
+color: "#f8f8f8"
 ---

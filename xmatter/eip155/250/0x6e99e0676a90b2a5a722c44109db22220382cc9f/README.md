@@ -7,5 +7,5 @@ symbol: EXC
 decimals: 18
 icons:
   - icon.webp
-color: "#141413"
+color: "#181818"
 ---

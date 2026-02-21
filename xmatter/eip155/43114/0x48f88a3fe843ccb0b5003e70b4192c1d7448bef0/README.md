@@ -7,5 +7,5 @@ symbol: CAI
 decimals: 18
 icons:
   - icon.png
-color: "#041148"
+color: "#080808"
 ---

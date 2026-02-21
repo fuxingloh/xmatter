@@ -7,5 +7,5 @@ symbol: SCLP
 decimals: 18
 icons:
   - icon.png
-color: "#dcf0fa"
+color: "#f8f8f8"
 ---

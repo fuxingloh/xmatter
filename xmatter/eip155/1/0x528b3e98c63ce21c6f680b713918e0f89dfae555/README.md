@@ -7,5 +7,5 @@ symbol: DXO
 decimals: 18
 icons:
   - icon.png
-color: "#7c42d8"
+color: "#181818"
 ---

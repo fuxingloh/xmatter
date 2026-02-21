@@ -7,5 +7,5 @@ symbol: AMWMATIC
 decimals: 18
 icons:
   - icon.png
-color: "#b172af"
+color: "#f8f8f8"
 ---

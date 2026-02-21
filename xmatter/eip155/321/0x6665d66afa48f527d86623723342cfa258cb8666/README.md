@@ -7,5 +7,5 @@ symbol: KUDO
 decimals: 18
 icons:
   - icon.png
-color: "#f1b25c"
+color: "#48e8a8"
 ---

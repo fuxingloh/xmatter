@@ -7,5 +7,5 @@ symbol: LUNR
 decimals: 4
 icons:
   - icon.png
-color: "#11cca4"
+color: "#080808"
 ---

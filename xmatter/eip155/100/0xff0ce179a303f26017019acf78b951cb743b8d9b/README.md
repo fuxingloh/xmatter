@@ -7,5 +7,5 @@ symbol: TRIB
 decimals: 18
 icons:
   - icon.png
-color: "#f028a0"
+color: "#f828a8"
 ---

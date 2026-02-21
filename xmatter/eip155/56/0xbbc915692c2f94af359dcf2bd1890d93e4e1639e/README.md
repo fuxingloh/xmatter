@@ -7,5 +7,5 @@ symbol: FINU
 decimals: 4
 icons:
   - icon.png
-color: "#e8e1de"
+color: "#f8f8f8"
 ---

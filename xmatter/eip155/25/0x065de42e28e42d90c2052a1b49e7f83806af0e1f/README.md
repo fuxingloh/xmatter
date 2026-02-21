@@ -7,5 +7,5 @@ symbol: CRK
 decimals: 9
 icons:
   - icon.png
-color: "#dfbb00"
+color: "#080808"
 ---

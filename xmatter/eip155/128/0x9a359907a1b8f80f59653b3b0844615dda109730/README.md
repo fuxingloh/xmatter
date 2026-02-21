@@ -7,5 +7,5 @@ symbol: GOAT
 decimals: 18
 icons:
   - icon.png
-color: "#231e11"
+color: "#080808"
 ---

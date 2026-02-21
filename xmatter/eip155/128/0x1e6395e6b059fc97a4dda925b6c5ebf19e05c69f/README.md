@@ -7,5 +7,5 @@ symbol: CAN
 decimals: 18
 icons:
   - icon.png
-color: "#4b61a8"
+color: "#181838"
 ---

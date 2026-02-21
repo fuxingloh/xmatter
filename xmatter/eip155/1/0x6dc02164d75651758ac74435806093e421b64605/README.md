@@ -7,5 +7,5 @@ symbol: WCHI
 decimals: 8
 icons:
   - icon.png
-color: "#343434"
+color: "#383838"
 ---

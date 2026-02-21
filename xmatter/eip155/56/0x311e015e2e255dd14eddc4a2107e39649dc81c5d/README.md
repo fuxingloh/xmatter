@@ -7,5 +7,5 @@ symbol: FLASH
 decimals: 18
 icons:
   - icon.png
-color: "#be8e3b"
+color: "#080808"
 ---

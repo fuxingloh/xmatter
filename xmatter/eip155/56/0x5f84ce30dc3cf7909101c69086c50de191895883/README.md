@@ -14,7 +14,7 @@ name: Venus Reward Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fadb4c"
+color: "#f8d848"
 icons:
   - icon.png
 ---

@@ -7,5 +7,5 @@ symbol: WORK
 decimals: 18
 icons:
   - icon.png
-color: "#090909"
+color: "#080808"
 ---

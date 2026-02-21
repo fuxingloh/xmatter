@@ -7,5 +7,5 @@ symbol: WOW
 decimals: 18
 icons:
   - icon.png
-color: "#f3bb2b"
+color: "#f8b828"
 ---

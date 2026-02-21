@@ -20,7 +20,7 @@ name: Qubit Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fccb04"
+color: "#f8c808"
 icons:
   - icon.png
 ---

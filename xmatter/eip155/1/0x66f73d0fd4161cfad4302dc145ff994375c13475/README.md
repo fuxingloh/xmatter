@@ -7,5 +7,5 @@ symbol: DXGM
 decimals: 18
 icons:
   - icon.png
-color: "#36499c"
+color: "#080808"
 ---

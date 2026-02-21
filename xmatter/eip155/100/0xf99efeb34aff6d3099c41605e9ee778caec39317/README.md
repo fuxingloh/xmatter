@@ -7,5 +7,5 @@ symbol: LOCK
 decimals: 18
 icons:
   - icon.png
-color: "#32dcce"
+color: "#281868"
 ---

@@ -7,5 +7,5 @@ symbol: LAND
 decimals: 18
 icons:
   - icon.png
-color: "#1b9678"
+color: "#f8f8f8"
 ---

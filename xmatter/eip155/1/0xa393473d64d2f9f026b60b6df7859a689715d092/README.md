@@ -8,7 +8,7 @@ name: Lattice Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3e636e"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

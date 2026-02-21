@@ -7,5 +7,5 @@ symbol: UND
 decimals: 18
 icons:
   - icon.png
-color: "#33b6ae"
+color: "#080808"
 ---

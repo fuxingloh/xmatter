@@ -14,5 +14,5 @@ symbol: VIDT
 decimals: 18
 icons:
   - icon.png
-color: "#04c4d4"
+color: "#08c8d8"
 ---

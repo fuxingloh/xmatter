@@ -7,5 +7,5 @@ symbol: REALT-S-5601-SWOOD-
 decimals: 18
 icons:
   - icon.jpeg
-color: "#babbbc"
+color: "#c8c8c8"
 ---

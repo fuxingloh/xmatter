@@ -7,5 +7,5 @@ symbol: pWING
 decimals: 9
 icons:
   - icon.png
-color: "#ac7bff"
+color: "#a878f8"
 ---

@@ -7,5 +7,5 @@ symbol: SOLIDSEX
 decimals: 18
 icons:
   - icon.png
-color: "#d78dbf"
+color: "#08d8d8"
 ---

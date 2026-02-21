@@ -7,5 +7,5 @@ symbol: FTMX
 decimals: 18
 icons:
   - icon.png
-color: "#247df4"
+color: "#2878f8"
 ---

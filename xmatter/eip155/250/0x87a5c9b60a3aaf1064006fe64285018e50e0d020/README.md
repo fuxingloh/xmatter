@@ -7,5 +7,5 @@ symbol: MAGIK
 decimals: 18
 icons:
   - icon.png
-color: "#715e50"
+color: "#080808"
 ---

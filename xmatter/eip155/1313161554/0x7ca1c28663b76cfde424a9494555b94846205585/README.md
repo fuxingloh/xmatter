@@ -7,5 +7,5 @@ symbol: XNL
 decimals: 18
 icons:
   - icon.svg
-color: "#04e4cb"
+color: "#080808"
 ---

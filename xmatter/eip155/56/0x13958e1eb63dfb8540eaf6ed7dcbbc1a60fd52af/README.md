@@ -12,7 +12,7 @@ name: Frenchie
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e4b76c"
+color: "#080808"
 icons:
   - icon.png
 ---

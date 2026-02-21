@@ -30,7 +30,7 @@ name: Ankr Staked MATIC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fbeb1b"
+color: "#f8e818"
 icons:
   - icon.png
 ---

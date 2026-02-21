@@ -7,5 +7,5 @@ symbol: CYFM
 decimals: 18
 icons:
   - icon.png
-color: "#d4d8dc"
+color: "#080808"
 ---

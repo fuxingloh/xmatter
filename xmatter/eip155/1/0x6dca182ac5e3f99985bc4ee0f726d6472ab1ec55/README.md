@@ -7,5 +7,5 @@ symbol: USHI
 decimals: 18
 icons:
   - icon.png
-color: "#0a2038"
+color: "#080808"
 ---

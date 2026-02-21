@@ -8,7 +8,7 @@ name: Bankroll Vault
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#843b7c"
+color: "#080808"
 icons:
   - icon.png
 ---

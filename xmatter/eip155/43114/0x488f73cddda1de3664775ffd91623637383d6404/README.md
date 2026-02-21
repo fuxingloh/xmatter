@@ -7,5 +7,5 @@ symbol: YTS
 decimals: 18
 icons:
   - icon.png
-color: "#9bc3db"
+color: "#98c8d8"
 ---

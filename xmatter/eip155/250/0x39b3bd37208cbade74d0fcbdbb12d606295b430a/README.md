@@ -7,5 +7,5 @@ symbol: GFTM
 decimals: 18
 icons:
   - icon.png
-color: "#55b0df"
+color: "#58b8e8"
 ---

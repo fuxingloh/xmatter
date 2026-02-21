@@ -7,5 +7,5 @@ symbol: VVS
 decimals: 18
 icons:
   - icon.jpeg
-color: "#dfe4ea"
+color: "#283858"
 ---

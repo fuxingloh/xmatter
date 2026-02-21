@@ -7,5 +7,5 @@ symbol: IEUROS
 decimals: 18
 icons:
   - icon.png
-color: "#f4e2fc"
+color: "#b848f8"
 ---

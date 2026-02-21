@@ -7,5 +7,5 @@ symbol: MILK
 decimals: 18
 icons:
   - icon.png
-color: "#f7c36e"
+color: "#f8f8f8"
 ---

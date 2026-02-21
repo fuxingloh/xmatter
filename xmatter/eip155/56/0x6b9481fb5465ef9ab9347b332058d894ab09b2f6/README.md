@@ -20,7 +20,7 @@ name: Dinoland Metaverse
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3263e4"
+color: "#080808"
 icons:
   - icon.png
 ---

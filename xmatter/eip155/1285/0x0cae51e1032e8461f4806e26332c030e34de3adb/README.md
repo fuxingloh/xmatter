@@ -7,5 +7,5 @@ symbol: MIM
 decimals: 18
 icons:
   - icon.png
-color: "#f8d958"
+color: "#5858f8"
 ---

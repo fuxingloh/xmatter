@@ -8,7 +8,7 @@ name: Arcona Distribution Contract
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0525ab"
+color: "#080808"
 icons:
   - icon.png
 ---

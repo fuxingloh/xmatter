@@ -7,5 +7,5 @@ symbol: RIP
 decimals: 9
 icons:
   - icon.png
-color: "#051418"
+color: "#080808"
 ---

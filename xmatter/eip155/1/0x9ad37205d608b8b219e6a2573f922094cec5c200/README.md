@@ -7,5 +7,5 @@ symbol: IZI
 decimals: 18
 icons:
   - icon.png
-color: "#7e49fc"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: ISA
 decimals: 18
 icons:
   - icon.png
-color: "#bce3fc"
+color: "#0878f8"
 ---

@@ -7,5 +7,5 @@ symbol: BIOS
 decimals: 18
 icons:
   - icon.png
-color: "#242424"
+color: "#282828"
 ---

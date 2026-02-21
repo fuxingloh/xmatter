@@ -7,5 +7,5 @@ symbol: AKRO
 decimals: 18
 icons:
   - icon.png
-color: "#961ef9"
+color: "#080808"
 ---

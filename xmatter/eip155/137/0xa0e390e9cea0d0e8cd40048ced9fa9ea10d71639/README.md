@@ -7,5 +7,5 @@ symbol: DSLA
 decimals: 18
 icons:
   - icon.png
-color: "#2494f3"
+color: "#2898f8"
 ---

@@ -7,5 +7,5 @@ symbol: BCMC
 decimals: 18
 icons:
   - icon.png
-color: "#ee7f1c"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: YAYO
 decimals: 4
 icons:
   - icon.png
-color: "#c2bce0"
+color: "#b8b8d8"
 ---

@@ -7,5 +7,5 @@ symbol: UNIF
 decimals: 9
 icons:
   - icon.png
-color: "#be5c79"
+color: "#080818"
 ---

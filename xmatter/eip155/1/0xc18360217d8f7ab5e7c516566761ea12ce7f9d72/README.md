@@ -16,7 +16,7 @@ name: Ethereum Name Service
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#6ba0f7"
+color: "#7898f8"
 icons:
   - icon.png
 ---

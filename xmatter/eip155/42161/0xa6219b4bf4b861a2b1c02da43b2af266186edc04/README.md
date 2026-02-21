@@ -7,5 +7,5 @@ symbol: ARVAULT
 decimals: 9
 icons:
   - icon.png
-color: "#84a0b6"
+color: "#7898b8"
 ---

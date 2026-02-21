@@ -7,5 +7,5 @@ symbol: ZT
 decimals: 18
 icons:
   - icon.png
-color: "#5388fc"
+color: "#080808"
 ---

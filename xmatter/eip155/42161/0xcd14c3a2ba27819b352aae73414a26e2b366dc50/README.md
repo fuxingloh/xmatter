@@ -7,5 +7,5 @@ symbol: USX
 decimals: 18
 icons:
   - icon.png
-color: "#e2e2e3"
+color: "#f8f8f8"
 ---

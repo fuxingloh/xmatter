@@ -8,7 +8,7 @@ name: xMoney
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7c4cfc"
+color: "#7848f8"
 icons:
   - icon.png
 ---

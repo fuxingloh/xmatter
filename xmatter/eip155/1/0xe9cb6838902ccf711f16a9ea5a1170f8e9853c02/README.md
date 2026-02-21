@@ -7,5 +7,5 @@ symbol: STRIP
 decimals: 18
 icons:
   - icon.png
-color: "#dba01e"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: DRACE
 decimals: 18
 icons:
   - icon.png
-color: "#2c2524"
+color: "#181828"
 ---

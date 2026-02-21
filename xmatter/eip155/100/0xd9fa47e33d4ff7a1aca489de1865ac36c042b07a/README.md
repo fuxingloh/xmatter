@@ -7,5 +7,5 @@ symbol: HEX
 decimals: 8
 icons:
   - icon.png
-color: "#fc6940"
+color: "#080808"
 ---

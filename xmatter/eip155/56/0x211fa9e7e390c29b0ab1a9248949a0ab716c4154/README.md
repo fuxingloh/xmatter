@@ -7,5 +7,5 @@ symbol: MOM
 decimals: 9
 icons:
   - icon.jpeg
-color: "#745f46"
+color: "#f8f8f8"
 ---

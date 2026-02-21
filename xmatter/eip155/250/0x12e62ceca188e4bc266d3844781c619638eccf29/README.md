@@ -7,5 +7,5 @@ symbol: SEED
 decimals: 18
 icons:
   - icon.png
-color: "#e2d5b6"
+color: "#080808"
 ---

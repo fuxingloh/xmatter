@@ -7,5 +7,5 @@ symbol: GNY
 decimals: 18
 icons:
   - icon.png
-color: "#e9ecec"
+color: "#f8f8f8"
 ---

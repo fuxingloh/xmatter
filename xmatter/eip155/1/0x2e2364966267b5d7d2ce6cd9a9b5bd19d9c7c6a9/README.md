@@ -7,5 +7,5 @@ symbol: VOICE
 decimals: 18
 icons:
   - icon.png
-color: "#252c44"
+color: "#f8f8f8"
 ---

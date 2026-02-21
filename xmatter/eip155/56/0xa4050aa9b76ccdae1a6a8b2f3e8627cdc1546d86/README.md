@@ -32,7 +32,7 @@ name: Lepasa
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d6a6a6"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

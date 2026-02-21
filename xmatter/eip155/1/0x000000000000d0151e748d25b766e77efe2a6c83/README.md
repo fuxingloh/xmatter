@@ -7,5 +7,5 @@ symbol: XDEX
 decimals: 18
 icons:
   - icon.png
-color: "#201b8e"
+color: "#181888"
 ---

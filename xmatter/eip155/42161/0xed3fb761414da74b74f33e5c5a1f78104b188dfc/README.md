@@ -7,5 +7,5 @@ symbol: NYAN
 decimals: 18
 icons:
   - icon.png
-color: "#e190db"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: CROBLANC
 decimals: 18
 icons:
   - icon.png
-color: "#438ce0"
+color: "#080808"
 ---

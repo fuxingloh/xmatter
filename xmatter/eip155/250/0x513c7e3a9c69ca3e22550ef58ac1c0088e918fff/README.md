@@ -7,5 +7,5 @@ symbol: ACRV
 decimals: 18
 icons:
   - icon.png
-color: "#2ea8d1"
+color: "#f8f8f8"
 ---

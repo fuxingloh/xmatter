@@ -7,5 +7,5 @@ symbol: REALT-S-15039-WARD-
 decimals: 18
 icons:
   - icon.jpeg
-color: "#908486"
+color: "#f8f8f8"
 ---

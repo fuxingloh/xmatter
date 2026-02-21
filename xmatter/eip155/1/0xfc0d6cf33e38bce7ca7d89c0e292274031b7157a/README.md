@@ -7,5 +7,5 @@ symbol: NTVRK
 decimals: 18
 icons:
   - icon.png
-color: "#c4baf8"
+color: "#f8f8f8"
 ---

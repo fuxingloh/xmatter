@@ -7,5 +7,5 @@ symbol: PETS
 decimals: 18
 icons:
   - icon.png
-color: "#ece9ea"
+color: "#f8f8f8"
 ---

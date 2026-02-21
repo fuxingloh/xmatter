@@ -7,5 +7,5 @@ symbol: RACA
 decimals: 18
 icons:
   - icon.jpeg
-color: "#1f160d"
+color: "#080808"
 ---

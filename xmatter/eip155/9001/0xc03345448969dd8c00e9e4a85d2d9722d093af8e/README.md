@@ -7,5 +7,5 @@ symbol: G-WETH
 decimals: 18
 icons:
   - icon.png
-color: "#1e2f70"
+color: "#f8f8f8"
 ---

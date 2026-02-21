@@ -7,5 +7,5 @@ symbol: NBO
 decimals: 18
 icons:
   - icon.png
-color: "#e07d78"
+color: "#080808"
 ---

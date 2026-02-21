@@ -7,5 +7,5 @@ symbol: QKC
 decimals: 18
 icons:
   - icon.png
-color: "#2962aa"
+color: "#080808"
 ---

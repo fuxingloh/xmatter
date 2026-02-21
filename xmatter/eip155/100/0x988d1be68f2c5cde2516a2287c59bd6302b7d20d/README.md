@@ -7,5 +7,5 @@ symbol: PUNK
 decimals: 18
 icons:
   - icon.png
-color: "#ceb9bb"
+color: "#080808"
 ---

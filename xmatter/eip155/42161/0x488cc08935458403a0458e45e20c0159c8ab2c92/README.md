@@ -7,5 +7,5 @@ symbol: FST
 decimals: 18
 icons:
   - icon.png
-color: "#5b77ee"
+color: "#080808"
 ---

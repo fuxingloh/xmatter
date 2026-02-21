@@ -7,5 +7,5 @@ symbol: UBO
 decimals: 18
 icons:
   - icon.png
-color: "#998fa1"
+color: "#080808"
 ---

@@ -6,6 +6,6 @@ symbol: TETU
 icons:
   - icon.svg
   - icon.png
-color: "#1c1c4d"
+color: "#181848"
 decimals: 18
 ---

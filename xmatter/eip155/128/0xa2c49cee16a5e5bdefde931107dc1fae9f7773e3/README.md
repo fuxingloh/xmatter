@@ -7,5 +7,5 @@ symbol: HDOT
 decimals: 18
 icons:
   - icon.png
-color: "#131313"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: AUSDT
 decimals: 6
 icons:
   - icon.png
-color: "#51ac9d"
+color: "#58a898"
 ---

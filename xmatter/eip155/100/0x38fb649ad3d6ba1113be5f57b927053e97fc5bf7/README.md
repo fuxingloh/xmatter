@@ -7,5 +7,5 @@ symbol: XCOMB
 decimals: 18
 icons:
   - icon.png
-color: "#fca574"
+color: "#f8f8f8"
 ---

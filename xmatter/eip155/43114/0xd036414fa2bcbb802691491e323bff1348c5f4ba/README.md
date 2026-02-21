@@ -7,5 +7,5 @@ symbol: MU
 decimals: 18
 icons:
   - icon.png
-color: "#3e3931"
+color: "#d8d8d8"
 ---

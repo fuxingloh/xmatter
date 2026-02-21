@@ -7,5 +7,5 @@ symbol: ALCX
 decimals: 18
 icons:
   - icon.png
-color: "#251d20"
+color: "#181818"
 ---

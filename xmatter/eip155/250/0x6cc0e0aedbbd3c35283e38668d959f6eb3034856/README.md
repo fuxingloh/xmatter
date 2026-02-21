@@ -7,5 +7,5 @@ symbol: DKNIGHT
 decimals: 18
 icons:
   - icon.webp
-color: "#e72d36"
+color: "#080808"
 ---

@@ -36,7 +36,7 @@ name: CheckDot
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#39ee93"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -12,7 +12,7 @@ name: Kromatika
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#b0c1f2"
+color: "#080808"
 icons:
   - icon.png
 ---

@@ -7,5 +7,5 @@ symbol: USDT
 decimals: 6
 icons:
   - icon.webp
-color: "#bcefe4"
+color: "#08a888"
 ---

@@ -7,5 +7,5 @@ symbol: COMP
 decimals: 18
 icons:
   - icon.svg
-color: "#04d494"
+color: "#08d898"
 ---

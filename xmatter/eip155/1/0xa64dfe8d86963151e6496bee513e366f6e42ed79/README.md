@@ -7,5 +7,5 @@ symbol: GOKU
 decimals: 9
 icons:
   - icon.png
-color: "#212322"
+color: "#080808"
 ---

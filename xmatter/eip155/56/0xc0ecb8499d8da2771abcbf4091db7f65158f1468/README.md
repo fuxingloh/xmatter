@@ -7,5 +7,5 @@ symbol: SWTH
 decimals: 8
 icons:
   - icon.webp
-color: "#182830"
+color: "#181818"
 ---

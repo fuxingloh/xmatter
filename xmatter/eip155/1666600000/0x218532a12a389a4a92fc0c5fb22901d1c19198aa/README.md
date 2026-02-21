@@ -7,5 +7,5 @@ symbol: LINK
 decimals: 18
 icons:
   - icon.png
-color: "#2c5cda"
+color: "#080808"
 ---

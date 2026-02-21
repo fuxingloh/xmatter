@@ -24,7 +24,7 @@ name: Xtremcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6633ff"
+color: "#6838f8"
 icons:
   - icon.png
 ---

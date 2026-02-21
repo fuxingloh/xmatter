@@ -7,5 +7,5 @@ symbol: 1ART
 decimals: 18
 icons:
   - icon.png
-color: "#534ff1"
+color: "#080808"
 ---

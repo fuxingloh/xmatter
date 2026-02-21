@@ -7,5 +7,5 @@ symbol: CGG
 decimals: 18
 icons:
   - icon.png
-color: "#c8c8c9"
+color: "#282828"
 ---

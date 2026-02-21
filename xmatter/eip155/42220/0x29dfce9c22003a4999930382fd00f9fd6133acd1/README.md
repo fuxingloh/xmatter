@@ -7,5 +7,5 @@ symbol: SUSHI
 decimals: 18
 icons:
   - icon.png
-color: "#cd65b0"
+color: "#080808"
 ---

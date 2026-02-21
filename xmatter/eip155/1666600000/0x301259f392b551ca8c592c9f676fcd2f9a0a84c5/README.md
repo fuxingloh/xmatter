@@ -7,5 +7,5 @@ symbol: MATIC
 decimals: 18
 icons:
   - icon.png
-color: "#eef3fb"
+color: "#f8f8f8"
 ---

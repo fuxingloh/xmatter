@@ -7,5 +7,5 @@ symbol: STK
 decimals: 12
 icons:
   - icon.png
-color: "#ccb26a"
+color: "#080808"
 ---

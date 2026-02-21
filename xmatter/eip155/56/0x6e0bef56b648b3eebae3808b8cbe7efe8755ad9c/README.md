@@ -8,7 +8,7 @@ name: gabecoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c3c9c8"
+color: "#e8e8e8"
 icons:
   - icon.png
 ---

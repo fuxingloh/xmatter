@@ -7,5 +7,5 @@ symbol: HMT
 decimals: 18
 icons:
   - icon.png
-color: "#4c1e40"
+color: "#f8f8f8"
 ---

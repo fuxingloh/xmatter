@@ -7,5 +7,5 @@ symbol: TUS
 decimals: 18
 icons:
   - icon.png
-color: "#e16b04"
+color: "#f8f8f8"
 ---

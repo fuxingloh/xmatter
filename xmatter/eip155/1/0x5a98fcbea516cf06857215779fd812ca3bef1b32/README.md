@@ -16,7 +16,7 @@ name: Lido DAO
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#f49c8c"
+color: "#f89888"
 icons:
   - icon.svg
   - icon.png

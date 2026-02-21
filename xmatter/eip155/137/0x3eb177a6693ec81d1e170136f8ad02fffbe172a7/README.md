@@ -7,5 +7,5 @@ symbol: AUMI
 decimals: 18
 icons:
   - icon.png
-color: "#9f25a5"
+color: "#080808"
 ---

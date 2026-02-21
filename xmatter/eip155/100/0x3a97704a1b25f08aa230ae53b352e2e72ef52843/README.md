@@ -7,5 +7,5 @@ symbol: AGVE
 decimals: 18
 icons:
   - icon.png
-color: "#d8fbee"
+color: "#c8f8e8"
 ---

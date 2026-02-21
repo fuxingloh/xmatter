@@ -18,7 +18,7 @@ name: BNB pegged Elrond
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f3bb2b"
+color: "#f8b828"
 icons:
   - icon.png
 ---

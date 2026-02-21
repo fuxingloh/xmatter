@@ -7,5 +7,5 @@ symbol: ARGON
 decimals: 18
 icons:
   - icon.png
-color: "#1cda64"
+color: "#18d868"
 ---

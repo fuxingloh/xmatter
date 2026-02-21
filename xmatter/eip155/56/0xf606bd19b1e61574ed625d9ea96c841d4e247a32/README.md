@@ -7,5 +7,5 @@ symbol: GUARD
 decimals: 18
 icons:
   - icon.png
-color: "#677481"
+color: "#f8f8f8"
 ---

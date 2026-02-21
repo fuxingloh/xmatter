@@ -16,7 +16,7 @@ symbol: STG
 decimals: 18
 icons:
   - icon.png
-color: "#b7b7b7"
+color: "#080808"
 ---
 
 Stargate is a fully composable liquidity transport protocol that lives at the heart of Omnichain DeFi.

@@ -7,5 +7,5 @@ symbol: DAFI
 decimals: 18
 icons:
   - icon.png
-color: "#33363c"
+color: "#080808"
 ---

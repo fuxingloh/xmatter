@@ -7,5 +7,5 @@ symbol: SA
 decimals: 18
 icons:
   - icon.png
-color: "#e04840"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: LUMIII
 decimals: 18
 icons:
   - icon.png
-color: "#240c3c"
+color: "#280838"
 ---

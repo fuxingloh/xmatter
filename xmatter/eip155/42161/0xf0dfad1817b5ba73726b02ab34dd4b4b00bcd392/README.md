@@ -7,5 +7,5 @@ symbol: MNTO
 decimals: 18
 icons:
   - icon.png
-color: "#c62034"
+color: "#c81838"
 ---

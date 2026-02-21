@@ -24,7 +24,7 @@ name: MetaGear Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5eb4ee"
+color: "#080808"
 icons:
   - icon.png
 ---

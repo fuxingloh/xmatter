@@ -22,7 +22,7 @@ name: DDX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2d1684"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

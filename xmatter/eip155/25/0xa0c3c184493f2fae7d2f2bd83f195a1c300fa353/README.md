@@ -7,5 +7,5 @@ symbol: CROISSANT
 decimals: 18
 icons:
   - icon.png
-color: "#e9c487"
+color: "#38a898"
 ---

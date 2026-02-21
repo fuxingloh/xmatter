@@ -7,5 +7,5 @@ symbol: IGG
 decimals: 6
 icons:
   - icon.png
-color: "#1b3352"
+color: "#182848"
 ---

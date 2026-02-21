@@ -7,5 +7,5 @@ symbol: ccCLO
 decimals: 18
 icons:
   - icon.png
-color: "#f4bc0f"
+color: "#f8f8f8"
 ---

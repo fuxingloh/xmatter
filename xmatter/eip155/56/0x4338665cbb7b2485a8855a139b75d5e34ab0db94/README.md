@@ -10,7 +10,7 @@ name: BNB pegged Litecoin Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3b5c9c"
+color: "#385898"
 icons:
   - icon.png
 ---

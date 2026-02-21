@@ -14,7 +14,7 @@ name: SinCity Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c4355b"
+color: "#181818"
 icons:
   - icon.png
 ---

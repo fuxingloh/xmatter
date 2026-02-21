@@ -7,5 +7,5 @@ symbol: XBE
 decimals: 18
 icons:
   - icon.png
-color: "#046ce4"
+color: "#080808"
 ---

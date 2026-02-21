@@ -7,5 +7,5 @@ symbol: DOLLA
 decimals: 18
 icons:
   - icon.png
-color: "#354c84"
+color: "#080808"
 ---

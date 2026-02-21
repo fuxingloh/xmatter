@@ -7,5 +7,5 @@ symbol: SHI3LD
 decimals: 18
 icons:
   - icon.png
-color: "#040715"
+color: "#080808"
 ---

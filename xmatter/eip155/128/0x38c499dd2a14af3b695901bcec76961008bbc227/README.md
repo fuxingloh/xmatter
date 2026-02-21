@@ -7,5 +7,5 @@ symbol: pUSDT
 decimals: 18
 icons:
   - icon.png
-color: "#25a47c"
+color: "#28a878"
 ---

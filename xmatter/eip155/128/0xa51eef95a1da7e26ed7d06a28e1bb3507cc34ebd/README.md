@@ -7,5 +7,5 @@ symbol: PFi
 decimals: 18
 icons:
   - icon.png
-color: "#04abfc"
+color: "#080808"
 ---

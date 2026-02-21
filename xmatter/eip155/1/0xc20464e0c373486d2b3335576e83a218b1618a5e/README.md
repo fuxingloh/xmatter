@@ -8,7 +8,7 @@ name: Datarius Credit
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5cbcab"
+color: "#080808"
 icons:
   - icon.png
 ---

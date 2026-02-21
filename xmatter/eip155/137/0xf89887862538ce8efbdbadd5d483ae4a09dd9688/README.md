@@ -7,5 +7,5 @@ symbol: $TRDL
 decimals: 18
 icons:
   - icon.png
-color: "#dc4324"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: GSCARAB
 decimals: 18
 icons:
   - icon.png
-color: "#d7952a"
+color: "#080808"
 ---

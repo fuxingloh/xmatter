@@ -7,5 +7,5 @@ symbol: BTCCB
 decimals: 18
 icons:
   - icon.png
-color: "#f7494d"
+color: "#f8f8f8"
 ---

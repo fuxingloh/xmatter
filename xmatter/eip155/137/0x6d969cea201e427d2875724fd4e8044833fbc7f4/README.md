@@ -7,5 +7,5 @@ symbol: PHBD
 decimals: 3
 icons:
   - icon.png
-color: "#dee4dd"
+color: "#e8e8e8"
 ---

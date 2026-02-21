@@ -7,5 +7,5 @@ symbol: AWS
 decimals: 18
 icons:
   - icon.png
-color: "#9d9d9d"
+color: "#989898"
 ---

@@ -7,5 +7,5 @@ symbol: PLATO
 decimals: 18
 icons:
   - icon.png
-color: "#cb720f"
+color: "#080808"
 ---

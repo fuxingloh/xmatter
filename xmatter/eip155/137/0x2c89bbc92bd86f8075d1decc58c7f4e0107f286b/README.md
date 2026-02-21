@@ -7,5 +7,5 @@ symbol: AVAX
 decimals: 18
 icons:
   - icon.png
-color: "#e44444"
+color: "#e84848"
 ---

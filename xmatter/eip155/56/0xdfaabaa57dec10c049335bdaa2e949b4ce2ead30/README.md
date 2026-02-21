@@ -7,5 +7,5 @@ symbol: CABO
 decimals: 9
 icons:
   - icon.png
-color: "#101010"
+color: "#080808"
 ---

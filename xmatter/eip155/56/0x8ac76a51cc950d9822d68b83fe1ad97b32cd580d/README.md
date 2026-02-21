@@ -21,7 +21,7 @@ name: BNB pegged USD Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2373cb"
+color: "#2878c8"
 icons:
   - icon.png
 ---

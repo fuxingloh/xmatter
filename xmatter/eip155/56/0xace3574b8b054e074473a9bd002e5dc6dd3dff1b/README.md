@@ -7,5 +7,5 @@ symbol: RBX
 decimals: 18
 icons:
   - icon.png
-color: "#efd8d4"
+color: "#f8f8f8"
 ---

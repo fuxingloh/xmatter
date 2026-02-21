@@ -7,5 +7,5 @@ symbol: WBNB
 decimals: 18
 icons:
   - icon.png
-color: "#f3bb0c"
+color: "#e8b808"
 ---

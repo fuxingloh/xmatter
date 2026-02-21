@@ -7,5 +7,5 @@ symbol: WHIRL
 decimals: 18
 icons:
   - icon.png
-color: "#6e9bbd"
+color: "#080808"
 ---

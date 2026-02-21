@@ -7,5 +7,5 @@ symbol: KEL
 decimals: 18
 icons:
   - icon.png
-color: "#dc1c52"
+color: "#080808"
 ---

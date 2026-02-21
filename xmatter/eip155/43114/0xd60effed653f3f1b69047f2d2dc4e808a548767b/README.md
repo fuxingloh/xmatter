@@ -7,5 +7,5 @@ symbol: UFARM
 decimals: 18
 icons:
   - icon.jpeg
-color: "#842ba2"
+color: "#6838b8"
 ---

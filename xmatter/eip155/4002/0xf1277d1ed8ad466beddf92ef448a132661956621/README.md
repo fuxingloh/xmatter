@@ -7,5 +7,5 @@ symbol: WFTM
 decimals: 18
 icons:
   - icon.png
-color: "#14b4ec"
+color: "#18b8e8"
 ---

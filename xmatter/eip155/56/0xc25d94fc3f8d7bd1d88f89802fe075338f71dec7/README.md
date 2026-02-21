@@ -10,7 +10,7 @@ name: PhoenixDefi.Finance Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0c74ac"
+color: "#0878a8"
 icons:
   - icon.png
 ---

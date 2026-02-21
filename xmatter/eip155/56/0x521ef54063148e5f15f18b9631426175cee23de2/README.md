@@ -7,5 +7,5 @@ symbol: RING
 decimals: 18
 icons:
   - icon.png
-color: "#787884"
+color: "#181818"
 ---

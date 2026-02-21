@@ -7,5 +7,5 @@ symbol: HAKA
 decimals: 18
 icons:
   - icon.png
-color: "#974e9a"
+color: "#f8f8f8"
 ---

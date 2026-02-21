@@ -7,5 +7,5 @@ symbol: CNR
 decimals: 18
 icons:
   - icon.png
-color: "#100e06"
+color: "#e8b828"
 ---

@@ -7,5 +7,5 @@ symbol: $KMC
 decimals: 18
 icons:
   - icon.png
-color: "#0cd5f3"
+color: "#f8f8f8"
 ---

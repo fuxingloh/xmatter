@@ -7,5 +7,5 @@ symbol: ANTv2
 decimals: 18
 icons:
   - icon.png
-color: "#04d0f9"
+color: "#08e8f8"
 ---

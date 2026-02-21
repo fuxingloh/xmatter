@@ -7,5 +7,5 @@ symbol: XYO
 decimals: 18
 icons:
   - icon.png
-color: "#8e91c4"
+color: "#f8f8f8"
 ---

@@ -7,5 +7,5 @@ symbol: DWEB
 decimals: 18
 icons:
   - icon.png
-color: "#f3f9fa"
+color: "#f8f8f8"
 ---

@@ -16,7 +16,7 @@ name: QuickSwap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1c265a"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

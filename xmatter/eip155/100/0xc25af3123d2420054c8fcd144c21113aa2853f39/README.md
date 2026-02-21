@@ -10,7 +10,7 @@ symbol: XGT
 decimals: 18
 icons:
   - icon.png
-color: "#2ca4dc"
+color: "#080808"
 ---
 
 Xion is bringing cross chain decentralised payments, loyalty and financial rewards to a global commerce industry. Think 'Stripe' for web 3.

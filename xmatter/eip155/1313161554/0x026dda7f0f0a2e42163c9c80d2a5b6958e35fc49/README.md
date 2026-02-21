@@ -7,5 +7,5 @@ symbol: CRF
 decimals: 18
 icons:
   - icon.png
-color: "#a2d7fc"
+color: "#38a8f8"
 ---

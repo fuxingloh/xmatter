@@ -7,5 +7,5 @@ symbol: GMI
 decimals: 18
 icons:
   - icon.png
-color: "#080d38"
+color: "#080808"
 ---

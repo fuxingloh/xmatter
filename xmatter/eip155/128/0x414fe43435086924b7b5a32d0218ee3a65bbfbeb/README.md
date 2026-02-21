@@ -7,5 +7,5 @@ symbol: DBS
 decimals: 8
 icons:
   - icon.png
-color: "#e71e62"
+color: "#f8f8f8"
 ---

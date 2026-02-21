@@ -7,5 +7,5 @@ symbol: ANN
 decimals: 18
 icons:
   - icon.png
-color: "#cf944e"
+color: "#082848"
 ---

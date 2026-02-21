@@ -7,5 +7,5 @@ symbol: BRIGHT
 decimals: 18
 icons:
   - icon.png
-color: "#f9b642"
+color: "#080808"
 ---

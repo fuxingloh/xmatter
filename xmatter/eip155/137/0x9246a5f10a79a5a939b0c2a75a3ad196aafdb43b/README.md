@@ -7,5 +7,5 @@ symbol: BETS
 decimals: 18
 icons:
   - icon.png
-color: "#4a63ed"
+color: "#f8f8f8"
 ---

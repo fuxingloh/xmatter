@@ -6,6 +6,6 @@ symbol: oBTC
 icons:
   - icon.svg
   - icon.png
-color: "#1e7ce1"
+color: "#f89818"
 decimals: 18
 ---

@@ -7,5 +7,5 @@ symbol: RAINI
 decimals: 18
 icons:
   - icon.png
-color: "#9879e6"
+color: "#080808"
 ---
