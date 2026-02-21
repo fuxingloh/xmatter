@@ -25,7 +25,6 @@ decimals: 18
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
 ---
 
 Fear is a blockchain horror gaming and NFT project from the creators of the famous Whack It games.

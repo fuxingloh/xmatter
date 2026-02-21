@@ -2,6 +2,7 @@ import { copyFile, mkdir, readdir, readFile, stat, writeFile } from "node:fs/pro
 import { join } from "node:path";
 import gray from "gray-matter";
 import { XmatterSchema, XmatterFile } from "xmatter/schema";
+import { getColor } from "colorthief";
 import sharp from "sharp";
 
 type Path = string;
@@ -105,12 +106,13 @@ export abstract class FileSystemAgent<Entry> {
         buffer = Buffer.from(await sharp(buffer).png().resize(128, 128).toBuffer());
       }
 
-      const { dominant } = await sharp(buffer).stats();
-      if (!dominant) {
+      const primaryColor = await getColor(buffer);
+
+      if (!primaryColor) {
         return file;
       }
 
-      const hexColor = `#${[dominant.r, dominant.g, dominant.b].map((c) => c.toString(16).padStart(2, "0")).join("")}`;
+      const hexColor = `#${primaryColor.map((c: number) => c.toString(16).padStart(2, "0")).join("")}`;
 
       return {
         ...file,

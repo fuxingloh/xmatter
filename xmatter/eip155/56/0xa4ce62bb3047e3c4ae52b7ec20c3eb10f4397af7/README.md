@@ -20,7 +20,6 @@ symbol: MNTC
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
 ---
 
 Minati is a blockchain-powered ecosystem integrating DeFi and metaverse. Its core token, MNTC, enables secure transactions, trading, and fraud detection. The Minativerse offers gaming, live events, virtual shopping, and NFT integration. Users can own digital assets and explore immersive experiences.
