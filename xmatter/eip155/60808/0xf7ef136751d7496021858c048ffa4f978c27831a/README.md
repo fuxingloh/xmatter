@@ -6,5 +6,5 @@ symbol: thUSD
 icons:
   - icon.svg
   - icon.png
-color: "#b808f8"
+color: "#bc04fc"
 ---

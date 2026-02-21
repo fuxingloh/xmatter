@@ -13,7 +13,7 @@ decimals: 6
 icons:
   - icon.svg
   - icon.png
-color: "#58a898"
+color: "#54ac94"
 ---
 
 Bringing real world currency to the blockchain.

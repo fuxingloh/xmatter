@@ -6,5 +6,5 @@ symbol: COVEYFI
 icons:
   - icon.svg
   - icon.png
-color: "#082818"
+color: "#052d1d"
 ---

@@ -6,5 +6,5 @@ symbol: stAZUR
 icons:
   - icon.svg
   - icon.png
-color: "#a8d8f8"
+color: "#a5cffb"
 ---

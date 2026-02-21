@@ -6,5 +6,5 @@ symbol: wbTSLA
 icons:
   - icon.svg
   - icon.png
-color: "#e82828"
+color: "#f8b7ba"
 ---

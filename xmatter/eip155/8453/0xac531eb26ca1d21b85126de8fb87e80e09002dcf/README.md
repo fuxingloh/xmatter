@@ -6,5 +6,5 @@ symbol: SAND
 icons:
   - icon.svg
   - icon.png
-color: "#0898f8"
+color: "#04acf0"
 ---

@@ -6,5 +6,5 @@ symbol: PIPO
 icons:
   - icon.svg
   - icon.png
-color: "#083888"
+color: "#e8d1a3"
 ---

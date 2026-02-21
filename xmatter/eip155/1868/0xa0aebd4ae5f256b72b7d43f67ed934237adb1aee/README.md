@@ -6,5 +6,5 @@ symbol: BONSAICOIN
 icons:
   - icon.svg
   - icon.png
-color: "#f8a838"
+color: "#f2ab33"
 ---

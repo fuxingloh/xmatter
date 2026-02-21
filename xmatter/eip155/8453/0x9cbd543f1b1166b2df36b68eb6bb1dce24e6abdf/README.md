@@ -6,5 +6,5 @@ symbol: BASED
 icons:
   - icon.svg
   - icon.png
-color: "#1858f8"
+color: "#145bf4"
 ---

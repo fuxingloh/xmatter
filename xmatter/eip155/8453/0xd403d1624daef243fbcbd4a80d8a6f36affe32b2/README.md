@@ -6,5 +6,5 @@ symbol: uLINK
 icons:
   - icon.svg
   - icon.png
-color: "#282828"
+color: "#355cd3"
 ---

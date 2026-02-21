@@ -6,5 +6,5 @@ symbol: uBTC
 icons:
   - icon.svg
   - icon.png
-color: "#f88808"
+color: "#201f1f"
 ---

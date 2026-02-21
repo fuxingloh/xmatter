@@ -6,5 +6,5 @@ symbol: BRACKY
 icons:
   - icon.svg
   - icon.png
-color: "#0818f8"
+color: "#041cfc"
 ---

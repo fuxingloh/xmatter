@@ -6,5 +6,5 @@ symbol: INDO
 icons:
   - icon.svg
   - icon.png
-color: "#d8d8d8"
+color: "#a10d1f"
 ---

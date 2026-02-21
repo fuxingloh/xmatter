@@ -6,5 +6,5 @@ symbol: DAI+
 icons:
   - icon.svg
   - icon.png
-color: "#f8b828"
+color: "#fce0ad"
 ---

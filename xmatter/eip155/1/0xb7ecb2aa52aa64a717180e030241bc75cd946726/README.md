@@ -6,5 +6,5 @@ symbol: 2BTC-f
 icons:
   - icon.svg
   - icon.png
-color: "#282838"
+color: "#e4b568"
 ---

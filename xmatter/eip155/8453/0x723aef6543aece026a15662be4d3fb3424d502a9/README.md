@@ -6,5 +6,5 @@ symbol: vAMM-tBTC/USDbC
 icons:
   - icon.svg
   - icon.png
-color: "#282838"
+color: "#2b2c34"
 ---

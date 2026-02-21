@@ -6,5 +6,5 @@ symbol: mswETH
 icons:
   - icon.svg
   - icon.png
-color: "#5878d8"
+color: "#5e72cf"
 ---

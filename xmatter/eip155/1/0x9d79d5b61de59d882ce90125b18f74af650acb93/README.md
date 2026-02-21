@@ -6,6 +6,6 @@ symbol: NSBT
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#360e96"
 decimals: 6
 ---

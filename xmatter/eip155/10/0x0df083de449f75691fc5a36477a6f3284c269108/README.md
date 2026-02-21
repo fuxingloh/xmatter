@@ -6,5 +6,5 @@ symbol: vAMMV2-OP/USDC
 icons:
   - icon.svg
   - icon.png
-color: "#f80818"
+color: "#fa0825"
 ---

@@ -6,5 +6,5 @@ symbol: 1000X
 icons:
   - icon.svg
   - icon.png
-color: "#b8e858"
+color: "#040404"
 ---

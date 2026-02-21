@@ -6,5 +6,5 @@ symbol: michi
 icons:
   - icon.svg
   - icon.png
-color: "#c8a898"
+color: "#bf9e80"
 ---

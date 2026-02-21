@@ -6,5 +6,5 @@ symbol: reusdsdola
 icons:
   - icon.svg
   - icon.png
-color: "#28e898"
+color: "#28e99e"
 ---

@@ -6,5 +6,5 @@ symbol: BtcUSD
 icons:
   - icon.svg
   - icon.png
-color: "#f89818"
+color: "#f4941c"
 ---

@@ -6,6 +6,6 @@ symbol: STG
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#060606"
 decimals: 18
 ---

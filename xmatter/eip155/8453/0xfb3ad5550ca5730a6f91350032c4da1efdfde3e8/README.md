@@ -6,5 +6,5 @@ symbol: PHI
 icons:
   - icon.svg
   - icon.png
-color: "#9898f8"
+color: "#939bfb"
 ---

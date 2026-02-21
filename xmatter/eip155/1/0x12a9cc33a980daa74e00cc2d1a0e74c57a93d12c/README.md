@@ -6,5 +6,5 @@ symbol: iSNX
 icons:
   - icon.svg
   - icon.png
-color: "#68e8d8"
+color: "#170657"
 ---

@@ -6,5 +6,5 @@ symbol: yvVelo-agEUR-USDC.e-f
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#1361b1"
 ---

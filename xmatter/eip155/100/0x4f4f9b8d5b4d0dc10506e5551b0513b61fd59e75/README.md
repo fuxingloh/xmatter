@@ -6,6 +6,6 @@ symbol: GIV
 icons:
   - icon.svg
   - icon.png
-color: "#5828e8"
+color: "#5424ec"
 decimals: 18
 ---

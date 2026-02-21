@@ -6,5 +6,5 @@ symbol: USDT
 icons:
   - icon.svg
   - icon.png
-color: "#48a898"
+color: "#54ac94"
 ---

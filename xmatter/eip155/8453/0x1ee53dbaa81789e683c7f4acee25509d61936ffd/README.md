@@ -6,5 +6,5 @@ symbol: P-REPSSENATE26
 icons:
   - icon.svg
   - icon.png
-color: "#d84838"
+color: "#d44c34"
 ---

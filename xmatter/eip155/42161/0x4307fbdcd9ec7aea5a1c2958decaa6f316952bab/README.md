@@ -6,5 +6,5 @@ symbol: HLP
 icons:
   - icon.svg
   - icon.png
-color: "#484848"
+color: "#525151"
 ---

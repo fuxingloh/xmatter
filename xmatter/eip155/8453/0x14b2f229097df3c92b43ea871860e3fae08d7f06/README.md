@@ -6,5 +6,5 @@ symbol: Banks
 icons:
   - icon.svg
   - icon.png
-color: "#0808f8"
+color: "#0404f9"
 ---

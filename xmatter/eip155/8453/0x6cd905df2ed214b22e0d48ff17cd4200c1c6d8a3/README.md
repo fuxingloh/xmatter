@@ -6,5 +6,5 @@ symbol: TRUST
 icons:
   - icon.svg
   - icon.png
-color: "#282828"
+color: "#aea8a4"
 ---

@@ -6,5 +6,5 @@ symbol: AUBRAI
 icons:
   - icon.svg
   - icon.png
-color: "#e8f898"
+color: "#ebfb9b"
 ---

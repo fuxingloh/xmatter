@@ -6,5 +6,5 @@ symbol: ySUSD
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#0d0d0d"
 ---

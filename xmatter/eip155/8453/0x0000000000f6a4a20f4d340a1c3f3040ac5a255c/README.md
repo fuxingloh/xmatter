@@ -6,5 +6,5 @@ symbol: HYPR
 icons:
   - icon.svg
   - icon.png
-color: "#0848f8"
+color: "#d4f678"
 ---

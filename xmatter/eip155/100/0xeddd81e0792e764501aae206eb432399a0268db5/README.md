@@ -6,6 +6,6 @@ symbol: TRAC
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#6444dc"
 decimals: 18
 ---

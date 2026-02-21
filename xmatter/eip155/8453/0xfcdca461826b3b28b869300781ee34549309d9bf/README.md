@@ -6,5 +6,5 @@ symbol: BANG
 icons:
   - icon.svg
   - icon.png
-color: "#18e8e8"
+color: "#15e3ea"
 ---

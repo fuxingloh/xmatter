@@ -6,5 +6,5 @@ symbol: sAMM-DOLA/USDbC
 icons:
   - icon.svg
   - icon.png
-color: "#181858"
+color: "#161d52"
 ---

@@ -6,5 +6,5 @@ symbol: COOKIE
 icons:
   - icon.svg
   - icon.png
-color: "#c8f8d8"
+color: "#212221"
 ---

@@ -6,5 +6,5 @@ symbol: tacUSDpool
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#a623b0"
 ---

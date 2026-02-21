@@ -6,5 +6,5 @@ symbol: RWAX
 icons:
   - icon.svg
   - icon.png
-color: "#687808"
+color: "#6c7c0c"
 ---

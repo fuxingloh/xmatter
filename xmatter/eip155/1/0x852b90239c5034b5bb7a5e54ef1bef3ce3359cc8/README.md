@@ -6,5 +6,5 @@ symbol: sdYFIpool-f
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#0555fb"
 ---

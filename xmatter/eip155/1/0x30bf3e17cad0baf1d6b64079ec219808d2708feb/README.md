@@ -5,5 +5,5 @@ standards: []
 symbol: alETHpxETH
 icons:
   - icon.png
-color: "#080808"
+color: "#23232d"
 ---

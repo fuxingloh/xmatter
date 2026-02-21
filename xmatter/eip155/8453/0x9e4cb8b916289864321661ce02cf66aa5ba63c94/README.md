@@ -6,5 +6,5 @@ symbol: vAMM-WETH/DEUS
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#d996ab"
 ---

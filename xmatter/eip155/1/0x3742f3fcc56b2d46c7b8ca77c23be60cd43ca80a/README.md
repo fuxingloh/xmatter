@@ -6,5 +6,5 @@ symbol: stAVAIL
 icons:
   - icon.svg
   - icon.png
-color: "#d89808"
+color: "#e09300"
 ---

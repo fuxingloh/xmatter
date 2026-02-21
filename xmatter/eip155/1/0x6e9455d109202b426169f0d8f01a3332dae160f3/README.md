@@ -6,5 +6,5 @@ symbol: lp-yCRVv2
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#e89658"
 ---

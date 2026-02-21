@@ -10,7 +10,7 @@ name: Pendle
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#d8d8d8"
+color: "#dbdbdb"
 icons:
   - icon.svg
   - icon.png

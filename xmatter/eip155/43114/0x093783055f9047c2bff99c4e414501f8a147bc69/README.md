@@ -6,6 +6,6 @@ symbol: ALOT
 icons:
   - icon.svg
   - icon.png
-color: "#f80868"
+color: "#161334"
 decimals: 18
 ---

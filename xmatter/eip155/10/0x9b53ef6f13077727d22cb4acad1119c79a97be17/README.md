@@ -6,5 +6,5 @@ symbol: przPOOLWETH
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#f1f0f8"
 ---

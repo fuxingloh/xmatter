@@ -6,5 +6,5 @@ symbol: przUSDC
 icons:
   - icon.svg
   - icon.png
-color: "#2878c8"
+color: "#9b6cfc"
 ---

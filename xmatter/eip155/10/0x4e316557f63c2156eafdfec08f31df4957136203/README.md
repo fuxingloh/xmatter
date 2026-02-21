@@ -6,5 +6,5 @@ symbol: vAMMV2-RED/OP
 icons:
   - icon.svg
   - icon.png
-color: "#e83848"
+color: "#eb2c39"
 ---

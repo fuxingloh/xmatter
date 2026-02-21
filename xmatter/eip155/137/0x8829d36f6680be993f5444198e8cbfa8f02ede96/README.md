@@ -6,5 +6,5 @@ symbol: fxTKAI
 icons:
   - icon.svg
   - icon.png
-color: "#382888"
+color: "#493596"
 ---

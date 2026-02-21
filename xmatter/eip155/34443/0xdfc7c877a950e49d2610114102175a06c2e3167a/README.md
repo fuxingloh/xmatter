@@ -6,5 +6,5 @@ symbol: MODE
 icons:
   - icon.svg
   - icon.png
-color: "#d8f808"
+color: "#dbfb04"
 ---

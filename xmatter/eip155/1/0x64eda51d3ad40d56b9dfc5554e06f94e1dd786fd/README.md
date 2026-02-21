@@ -6,5 +6,5 @@ symbol: tbtc/sbtcCrv
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#cece5d"
 ---

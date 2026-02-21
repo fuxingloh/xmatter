@@ -6,5 +6,5 @@ symbol: LDOETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#f89888"
+color: "#efa388"
 ---

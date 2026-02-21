@@ -10,7 +10,7 @@ name: xZoomerCoin
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#f8f858"
+color: "#413931"
 icons:
   - icon.svg
   - icon.png

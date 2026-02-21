@@ -6,5 +6,5 @@ symbol: vAMM-SONNE/USDbC
 icons:
   - icon.svg
   - icon.png
-color: "#f86848"
+color: "#fa664e"
 ---

@@ -6,5 +6,5 @@ symbol: ITP
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#a690f7"
 ---

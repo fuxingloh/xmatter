@@ -6,5 +6,5 @@ symbol: EURT-f
 icons:
   - icon.svg
   - icon.png
-color: "#8888b8"
+color: "#8c99b3"
 ---

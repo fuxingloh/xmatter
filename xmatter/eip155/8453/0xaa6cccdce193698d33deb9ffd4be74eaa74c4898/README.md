@@ -6,5 +6,5 @@ symbol: ElonRWA
 icons:
   - icon.svg
   - icon.png
-color: "#c8b898"
+color: "#bf9e86"
 ---

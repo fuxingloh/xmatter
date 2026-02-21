@@ -6,5 +6,5 @@ symbol: NOOB
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#2598ee"
 ---

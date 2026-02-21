@@ -6,5 +6,5 @@ symbol: rsENA
 icons:
   - icon.svg
   - icon.png
-color: "#e81818"
+color: "#e41414"
 ---

@@ -6,6 +6,6 @@ symbol: yveCRV-DAO
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#228dd7"
 decimals: 18
 ---

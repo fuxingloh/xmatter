@@ -6,5 +6,5 @@ symbol: vAMMV2-wstETH/WETH
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#44a2f8"
 ---

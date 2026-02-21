@@ -6,5 +6,5 @@ symbol: vAMM-EURA/USDbC
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#cad4c1"
 ---

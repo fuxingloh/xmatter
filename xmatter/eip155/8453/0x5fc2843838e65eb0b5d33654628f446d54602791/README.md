@@ -6,5 +6,5 @@ symbol: FXH
 icons:
   - icon.svg
   - icon.png
-color: "#181828"
+color: "#f79495"
 ---

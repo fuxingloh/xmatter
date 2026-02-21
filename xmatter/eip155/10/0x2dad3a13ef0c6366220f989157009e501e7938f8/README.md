@@ -6,5 +6,5 @@ symbol: EXTRA
 icons:
   - icon.svg
   - icon.png
-color: "#2878f8"
+color: "#267cfc"
 ---

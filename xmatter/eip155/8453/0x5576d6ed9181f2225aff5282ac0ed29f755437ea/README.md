@@ -6,5 +6,5 @@ symbol: SERV
 icons:
   - icon.svg
   - icon.png
-color: "#5878f8"
+color: "#5c7cfc"
 ---

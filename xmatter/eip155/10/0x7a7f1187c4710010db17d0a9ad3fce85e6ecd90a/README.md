@@ -6,5 +6,5 @@ symbol: vAMMV2-RED/VELO
 icons:
   - icon.svg
   - icon.png
-color: "#e83848"
+color: "#e43d40"
 ---

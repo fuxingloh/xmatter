@@ -6,5 +6,5 @@ symbol: USDEBT
 icons:
   - icon.svg
   - icon.png
-color: "#d80808"
+color: "#095cbe"
 ---

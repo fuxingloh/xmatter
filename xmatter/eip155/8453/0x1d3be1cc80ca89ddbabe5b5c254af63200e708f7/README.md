@@ -6,5 +6,5 @@ symbol: MONSTRO
 icons:
   - icon.svg
   - icon.png
-color: "#082868"
+color: "#edeef0"
 ---

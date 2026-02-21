@@ -6,5 +6,5 @@ symbol: vAMMV2-USDC/PERP
 icons:
   - icon.svg
   - icon.png
-color: "#38e8a8"
+color: "#38ddb3"
 ---

@@ -6,5 +6,5 @@ symbol: yv^2DAI-1
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#c1cfe8"
 ---

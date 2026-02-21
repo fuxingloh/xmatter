@@ -6,5 +6,5 @@ symbol: clevCVX-f
 icons:
   - icon.svg
   - icon.png
-color: "#d8d8d8"
+color: "#172c4e"
 ---

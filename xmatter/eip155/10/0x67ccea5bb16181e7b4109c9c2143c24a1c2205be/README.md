@@ -10,7 +10,7 @@ name: FXS
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#080808"
+color: "#f12e47"
 icons:
   - icon.svg
   - icon.png

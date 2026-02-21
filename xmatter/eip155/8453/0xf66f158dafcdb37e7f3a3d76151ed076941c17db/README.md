@@ -6,5 +6,5 @@ symbol: MEMER
 icons:
   - icon.svg
   - icon.png
-color: "#080818"
+color: "#100e15"
 ---

@@ -6,5 +6,5 @@ symbol: yvBal-bb-a-USD-f
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#aa8692"
 ---

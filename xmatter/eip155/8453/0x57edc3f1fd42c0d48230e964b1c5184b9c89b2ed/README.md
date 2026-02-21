@@ -6,5 +6,5 @@ symbol: DKING
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#191a18"
 ---

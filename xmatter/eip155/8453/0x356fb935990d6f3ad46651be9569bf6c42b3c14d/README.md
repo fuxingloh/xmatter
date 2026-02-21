@@ -5,5 +5,5 @@ standards: []
 symbol: DND
 icons:
   - icon.png
-color: "#482828"
+color: "#453538"
 ---

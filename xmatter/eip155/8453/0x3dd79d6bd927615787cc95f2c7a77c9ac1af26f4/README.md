@@ -6,5 +6,5 @@ symbol: pwBLT
 icons:
   - icon.svg
   - icon.png
-color: "#2888f8"
+color: "#827153"
 ---

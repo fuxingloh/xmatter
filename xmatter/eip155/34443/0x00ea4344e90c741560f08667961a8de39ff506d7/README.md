@@ -6,5 +6,5 @@ symbol: DOLA
 icons:
   - icon.svg
   - icon.png
-color: "#181858"
+color: "#f4b654"
 ---

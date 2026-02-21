@@ -6,5 +6,5 @@ symbol: FLOPPA
 icons:
   - icon.svg
   - icon.png
-color: "#384878"
+color: "#535464"
 ---

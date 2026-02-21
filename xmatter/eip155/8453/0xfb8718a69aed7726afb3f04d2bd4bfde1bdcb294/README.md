@@ -6,5 +6,5 @@ symbol: TRYB
 icons:
   - icon.svg
   - icon.png
-color: "#2868f8"
+color: "#7381e8"
 ---

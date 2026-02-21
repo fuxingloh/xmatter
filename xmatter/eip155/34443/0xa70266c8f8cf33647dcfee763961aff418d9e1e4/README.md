@@ -6,5 +6,5 @@ symbol: iUSD
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#e6c73a"
 ---

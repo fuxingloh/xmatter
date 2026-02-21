@@ -6,5 +6,5 @@ symbol: MINE
 icons:
   - icon.svg
   - icon.png
-color: "#b88898"
+color: "#ba8a92"
 ---

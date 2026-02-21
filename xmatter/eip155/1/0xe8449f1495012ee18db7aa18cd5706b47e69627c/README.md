@@ -6,5 +6,5 @@ symbol: dYFIETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#8c27fc"
 ---

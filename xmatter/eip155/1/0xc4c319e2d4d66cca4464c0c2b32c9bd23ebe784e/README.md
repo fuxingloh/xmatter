@@ -6,5 +6,5 @@ symbol: alETH+ETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#282838"
+color: "#282736"
 ---

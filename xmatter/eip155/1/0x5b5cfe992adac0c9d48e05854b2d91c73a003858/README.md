@@ -6,5 +6,5 @@ symbol: husd3CRV
 icons:
   - icon.svg
   - icon.png
-color: "#1868e8"
+color: "#1c64f3"
 ---

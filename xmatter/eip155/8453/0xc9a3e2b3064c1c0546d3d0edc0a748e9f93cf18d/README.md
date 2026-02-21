@@ -6,5 +6,5 @@ symbol: Vaya
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#698a3b"
 ---

@@ -6,5 +6,5 @@ symbol: LL
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#4ab6f9"
 ---

@@ -6,5 +6,5 @@ symbol: yayAgETH
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#0c5c5c"
 ---

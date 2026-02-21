@@ -6,5 +6,5 @@ symbol: vAMMV2-THALES/WETH
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#df9185"
 ---

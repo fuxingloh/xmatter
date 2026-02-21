@@ -6,5 +6,5 @@ symbol: RLP
 icons:
   - icon.svg
   - icon.png
-color: "#f89818"
+color: "#f89e24"
 ---

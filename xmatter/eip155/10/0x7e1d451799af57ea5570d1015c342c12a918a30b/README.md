@@ -6,5 +6,5 @@ symbol: yvVelo-alETH-frxETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#d0ccc3"
 ---

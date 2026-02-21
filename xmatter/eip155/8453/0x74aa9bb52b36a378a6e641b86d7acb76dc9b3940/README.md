@@ -6,5 +6,5 @@ symbol: TRVL
 icons:
   - icon.svg
   - icon.png
-color: "#082838"
+color: "#0c2434"
 ---

@@ -6,5 +6,5 @@ symbol: sAMM-DAI/USDbC
 icons:
   - icon.svg
   - icon.png
-color: "#f8b838"
+color: "#0d4ee3"
 ---

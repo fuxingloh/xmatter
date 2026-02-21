@@ -6,5 +6,5 @@ symbol: wIRON
 icons:
   - icon.svg
   - icon.png
-color: "#c8f888"
+color: "#c1f182"
 ---

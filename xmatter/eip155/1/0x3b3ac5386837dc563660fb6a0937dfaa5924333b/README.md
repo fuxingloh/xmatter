@@ -6,5 +6,5 @@ symbol: yDAI+yUSDC+yUSDT+yBUSD
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#eec110"
 ---

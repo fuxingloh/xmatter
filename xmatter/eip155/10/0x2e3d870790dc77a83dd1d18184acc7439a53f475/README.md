@@ -10,7 +10,7 @@ name: FRAX
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#f80818"
+color: "#fc041c"
 icons:
   - icon.svg
   - icon.png

@@ -6,5 +6,5 @@ symbol: usdk3CRV
 icons:
   - icon.svg
   - icon.png
-color: "#0878f8"
+color: "#d6b24c"
 ---

@@ -6,5 +6,5 @@ symbol: SIM
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#fae2a0"
 ---

@@ -6,5 +6,5 @@ symbol: DIEM
 icons:
   - icon.svg
   - icon.png
-color: "#1858a8"
+color: "#145ca4"
 ---

@@ -6,5 +6,5 @@ symbol: pSLP
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#061d0d"
 ---

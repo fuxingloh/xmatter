@@ -6,5 +6,5 @@ symbol: lvlUSDUSDC
 icons:
   - icon.svg
   - icon.png
-color: "#0848e8"
+color: "#e4cfa5"
 ---

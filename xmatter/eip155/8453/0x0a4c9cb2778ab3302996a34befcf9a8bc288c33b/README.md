@@ -6,5 +6,5 @@ symbol: XSGD
 icons:
   - icon.svg
   - icon.png
-color: "#0838c8"
+color: "#0c3cc4"
 ---

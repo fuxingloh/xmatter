@@ -6,5 +6,5 @@ symbol: INTX
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#e0152c"
 ---

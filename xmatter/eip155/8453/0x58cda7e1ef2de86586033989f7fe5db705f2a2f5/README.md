@@ -10,7 +10,7 @@ name: Staked Zentry
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#5848f8"
+color: "#dad9f4"
 icons:
   - icon.svg
   - icon.png

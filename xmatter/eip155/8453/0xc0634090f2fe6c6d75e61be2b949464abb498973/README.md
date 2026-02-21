@@ -6,5 +6,5 @@ symbol: KTA
 icons:
   - icon.svg
   - icon.png
-color: "#282828"
+color: "#2c2c2c"
 ---

@@ -6,5 +6,5 @@ symbol: P-DEMSHOUSE26
 icons:
   - icon.svg
   - icon.png
-color: "#2878a8"
+color: "#eef3ea"
 ---

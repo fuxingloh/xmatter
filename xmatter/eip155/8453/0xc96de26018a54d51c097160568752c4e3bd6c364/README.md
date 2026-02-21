@@ -6,5 +6,5 @@ symbol: FBTC
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#4d5b6b"
 ---

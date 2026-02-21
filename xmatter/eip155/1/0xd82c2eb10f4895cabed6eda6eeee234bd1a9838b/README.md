@@ -6,5 +6,5 @@ symbol: ETHxWETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#182828"
+color: "#c3dba1"
 ---

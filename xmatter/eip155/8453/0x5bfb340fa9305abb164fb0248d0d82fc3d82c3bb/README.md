@@ -6,5 +6,5 @@ symbol: sAMM-eUSD/USDbC
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#cfd1e0"
 ---

@@ -6,5 +6,5 @@ symbol: ITX
 icons:
   - icon.svg
   - icon.png
-color: "#7808f8"
+color: "#8304fc"
 ---

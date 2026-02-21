@@ -6,5 +6,5 @@ symbol: HPC
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#49c5ef"
 ---

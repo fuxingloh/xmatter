@@ -6,5 +6,5 @@ symbol: GRAI
 icons:
   - icon.svg
   - icon.png
-color: "#a808f8"
+color: "#a404fb"
 ---

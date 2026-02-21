@@ -6,5 +6,5 @@ symbol: vAMM-WETH/USDbC
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#181619"
 ---

@@ -6,5 +6,5 @@ symbol: xSolvBTC
 icons:
   - icon.svg
   - icon.png
-color: "#e8a848"
+color: "#f4ebf9"
 ---

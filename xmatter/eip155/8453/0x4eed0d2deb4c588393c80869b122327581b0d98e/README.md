@@ -6,5 +6,5 @@ symbol: JKL
 icons:
   - icon.svg
   - icon.png
-color: "#d8d8c8"
+color: "#dadacb"
 ---

@@ -6,5 +6,5 @@ symbol: ARM-WS-OS
 icons:
   - icon.svg
   - icon.png
-color: "#9858e8"
+color: "#a95fec"
 ---

@@ -6,5 +6,5 @@ symbol: HERMES
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#131c20"
 ---

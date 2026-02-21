@@ -6,5 +6,5 @@ symbol: yv^2USDS-1
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#0454fc"
 ---

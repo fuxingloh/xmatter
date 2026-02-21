@@ -6,5 +6,5 @@ symbol: vAMMV2-SONNE/USDC
 icons:
   - icon.svg
   - icon.png
-color: "#f86848"
+color: "#2077d5"
 ---

@@ -6,5 +6,5 @@ symbol: uSEI
 icons:
   - icon.svg
   - icon.png
-color: "#282828"
+color: "#3c1b1b"
 ---

@@ -6,5 +6,5 @@ symbol: OVPP
 icons:
   - icon.svg
   - icon.png
-color: "#08c808"
+color: "#06af04"
 ---

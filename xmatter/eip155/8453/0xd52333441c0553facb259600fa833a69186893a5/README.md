@@ -6,5 +6,5 @@ symbol: $PAAL
 icons:
   - icon.svg
   - icon.png
-color: "#f8e8f8"
+color: "#f2e7fb"
 ---

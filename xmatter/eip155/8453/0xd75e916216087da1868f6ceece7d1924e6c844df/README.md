@@ -6,5 +6,5 @@ symbol: joi
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#dbdbdb"
 ---

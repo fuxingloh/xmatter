@@ -6,5 +6,5 @@ symbol: yvCurve-USDM
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#d0d5cf"
 ---

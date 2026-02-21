@@ -6,5 +6,5 @@ symbol: vAMMV2-wstETH/LDO
 icons:
   - icon.svg
   - icon.png
-color: "#f89888"
+color: "#389bf8"
 ---

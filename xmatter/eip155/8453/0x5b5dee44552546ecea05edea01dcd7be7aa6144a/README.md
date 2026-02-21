@@ -6,5 +6,5 @@ symbol: TN100x
 icons:
   - icon.svg
   - icon.png
-color: "#e84848"
+color: "#e54444"
 ---

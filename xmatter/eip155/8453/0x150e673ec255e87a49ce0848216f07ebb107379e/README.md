@@ -6,5 +6,5 @@ symbol: xSN34
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#090909"
 ---

@@ -6,5 +6,5 @@ symbol: vAMMV2-WETH/ERN
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#d6c0a4"
 ---

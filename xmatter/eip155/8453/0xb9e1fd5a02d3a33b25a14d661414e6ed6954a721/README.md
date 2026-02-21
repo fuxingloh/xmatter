@@ -6,5 +6,5 @@ symbol: SOON
 icons:
   - icon.svg
   - icon.png
-color: "#d82848"
+color: "#d42c4c"
 ---

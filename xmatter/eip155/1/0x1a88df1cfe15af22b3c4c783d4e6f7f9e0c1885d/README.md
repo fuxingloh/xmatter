@@ -6,5 +6,5 @@ symbol: stkGHO
 icons:
   - icon.svg
   - icon.png
-color: "#f8b808"
+color: "#fcbb04"
 ---

@@ -10,7 +10,7 @@ name: wTBT(Bridge Token)
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#080808"
+color: "#d1d1d1"
 icons:
   - icon.svg
   - icon.png

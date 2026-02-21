@@ -6,5 +6,5 @@ symbol: vAMM-sfrxETH/wstETH
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#2f3543"
 ---

@@ -6,5 +6,5 @@ symbol: HONEY
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8c8"
+color: "#fbf3c3"
 ---

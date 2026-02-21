@@ -6,5 +6,5 @@ symbol: USDy
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#9082f3"
 ---

@@ -6,5 +6,5 @@ symbol: RGB
 icons:
   - icon.svg
   - icon.png
-color: "#7878f8"
+color: "#7474f4"
 ---

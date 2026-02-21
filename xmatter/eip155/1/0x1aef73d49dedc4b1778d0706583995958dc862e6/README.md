@@ -6,5 +6,5 @@ symbol: musd3CRV
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#d0ad47"
 ---

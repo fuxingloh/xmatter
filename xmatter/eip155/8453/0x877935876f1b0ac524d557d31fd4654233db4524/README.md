@@ -6,5 +6,5 @@ symbol: USDC-jEUR-120-vLP
 icons:
   - icon.svg
   - icon.png
-color: "#2878c8"
+color: "#214b90"
 ---

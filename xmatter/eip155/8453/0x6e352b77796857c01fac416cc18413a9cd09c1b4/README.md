@@ -6,5 +6,5 @@ symbol: xSN50
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#f3f4dc"
 ---

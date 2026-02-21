@@ -6,5 +6,5 @@ symbol: USD3sUSDS
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#52d296"
 ---

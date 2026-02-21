@@ -6,6 +6,6 @@ symbol: BIFI
 icons:
   - icon.svg
   - icon.png
-color: "#f8e8e8"
+color: "#e7dfd5"
 decimals: 18
 ---

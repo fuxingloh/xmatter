@@ -6,5 +6,5 @@ symbol: yvAero-WELL-WETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#3d4ab7"
 ---

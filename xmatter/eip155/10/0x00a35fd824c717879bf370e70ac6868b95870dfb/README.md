@@ -6,6 +6,6 @@ symbol: IB
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#c9cac9"
 decimals: 18
 ---

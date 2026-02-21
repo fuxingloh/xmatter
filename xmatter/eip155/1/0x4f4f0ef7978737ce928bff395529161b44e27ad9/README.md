@@ -6,5 +6,5 @@ symbol: YFD
 icons:
   - icon.svg
   - icon.png
-color: "#f8c808"
+color: "#f4c413"
 ---

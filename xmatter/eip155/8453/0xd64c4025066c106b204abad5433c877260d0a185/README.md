@@ -6,5 +6,5 @@ symbol: sMORE
 icons:
   - icon.svg
   - icon.png
-color: "#d80818"
+color: "#d40c1c"
 ---

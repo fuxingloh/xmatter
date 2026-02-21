@@ -6,5 +6,5 @@ symbol: pzETH
 icons:
   - icon.svg
   - icon.png
-color: "#e81818"
+color: "#e41c1c"
 ---

@@ -6,5 +6,5 @@ symbol: coinage
 icons:
   - icon.svg
   - icon.png
-color: "#f84818"
+color: "#fc4414"
 ---

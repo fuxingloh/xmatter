@@ -6,5 +6,5 @@ symbol: SPELL
 icons:
   - icon.svg
   - icon.png
-color: "#281848"
+color: "#241c44"
 ---

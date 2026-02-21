@@ -6,5 +6,5 @@ symbol: R
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#fc7b15"
 ---

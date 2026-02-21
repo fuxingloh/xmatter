@@ -6,5 +6,5 @@ symbol: KRWQ
 icons:
   - icon.svg
   - icon.png
-color: "#e8e8e8"
+color: "#e9e8e9"
 ---

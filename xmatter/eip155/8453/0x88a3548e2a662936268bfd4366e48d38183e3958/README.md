@@ -10,7 +10,7 @@ name: CANA Holdings California Carbon Credits
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#182838"
+color: "#1d2d3d"
 icons:
   - icon.svg
   - icon.png

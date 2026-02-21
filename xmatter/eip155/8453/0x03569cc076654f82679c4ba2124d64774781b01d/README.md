@@ -6,5 +6,5 @@ symbol: BOLD
 icons:
   - icon.svg
   - icon.png
-color: "#68d878"
+color: "#63d37b"
 ---

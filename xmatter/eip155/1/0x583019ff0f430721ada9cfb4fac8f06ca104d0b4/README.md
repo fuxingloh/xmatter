@@ -6,5 +6,5 @@ symbol: st-yETH
 icons:
   - icon.svg
   - icon.png
-color: "#081828"
+color: "#b8a4f6"
 ---

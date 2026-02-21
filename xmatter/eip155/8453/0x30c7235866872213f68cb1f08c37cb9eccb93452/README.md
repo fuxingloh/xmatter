@@ -6,5 +6,5 @@ symbol: PROMPT
 icons:
   - icon.svg
   - icon.png
-color: "#081818"
+color: "#071616"
 ---

@@ -6,5 +6,5 @@ symbol: yvCurve-alUSD
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#1f1f1f"
 ---

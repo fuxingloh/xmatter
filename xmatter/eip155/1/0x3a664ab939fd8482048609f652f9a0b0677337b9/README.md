@@ -6,5 +6,5 @@ symbol: dusd3CRV
 icons:
   - icon.svg
   - icon.png
-color: "#5858e8"
+color: "#5c54ec"
 ---

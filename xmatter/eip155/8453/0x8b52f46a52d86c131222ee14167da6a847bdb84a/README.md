@@ -6,5 +6,5 @@ symbol: ETHO
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#21c6d8"
 ---

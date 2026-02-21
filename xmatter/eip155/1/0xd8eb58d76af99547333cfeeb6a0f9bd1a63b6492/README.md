@@ -6,5 +6,5 @@ symbol: ETH MATIC-f
 icons:
   - icon.svg
   - icon.png
-color: "#8848e8"
+color: "#8445e4"
 ---

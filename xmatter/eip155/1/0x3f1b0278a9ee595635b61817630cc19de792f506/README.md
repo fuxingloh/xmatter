@@ -6,5 +6,5 @@ symbol: ibAUD+sAUD-f
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#080708"
 ---

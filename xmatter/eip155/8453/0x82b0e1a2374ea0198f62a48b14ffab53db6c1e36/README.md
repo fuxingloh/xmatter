@@ -6,5 +6,5 @@ symbol: PEGG
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8d8"
+color: "#fbfbdb"
 ---

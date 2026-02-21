@@ -6,5 +6,5 @@ symbol: PSTAKE
 icons:
   - icon.svg
   - icon.png
-color: "#181818"
+color: "#141414"
 ---

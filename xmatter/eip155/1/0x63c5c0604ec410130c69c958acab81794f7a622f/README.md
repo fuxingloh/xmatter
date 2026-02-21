@@ -6,5 +6,5 @@ symbol: yvCurve-MATIC-ETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#d8cf6a"
 ---

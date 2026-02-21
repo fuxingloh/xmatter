@@ -6,5 +6,5 @@ symbol: OHMETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#788898"
+color: "#748d96"
 ---

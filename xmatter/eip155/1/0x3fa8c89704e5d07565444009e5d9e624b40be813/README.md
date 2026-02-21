@@ -6,5 +6,5 @@ symbol: GHO/LUSD
 icons:
   - icon.svg
   - icon.png
-color: "#181828"
+color: "#1a1a27"
 ---

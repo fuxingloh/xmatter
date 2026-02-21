@@ -6,5 +6,5 @@ symbol: yvCurve-JPEG-pETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#c0c3bc"
 ---

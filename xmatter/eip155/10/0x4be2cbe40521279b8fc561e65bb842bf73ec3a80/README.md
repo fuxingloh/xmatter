@@ -6,5 +6,5 @@ symbol: vAMMV2-USDC/agEUR
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#1d66b6"
 ---

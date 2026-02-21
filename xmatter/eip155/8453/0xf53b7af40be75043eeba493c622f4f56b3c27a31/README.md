@@ -6,5 +6,5 @@ symbol: sAMM-LUSD/USDC
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#2eb3eb"
 ---

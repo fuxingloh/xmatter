@@ -6,5 +6,5 @@ symbol: CORN
 icons:
   - icon.svg
   - icon.png
-color: "#081838"
+color: "#1670d1"
 ---

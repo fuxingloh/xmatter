@@ -6,5 +6,5 @@ symbol: GHO
 icons:
   - icon.svg
   - icon.png
-color: "#28d858"
+color: "#2cd45c"
 ---

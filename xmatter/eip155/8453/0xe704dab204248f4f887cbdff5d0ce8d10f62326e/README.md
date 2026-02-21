@@ -6,5 +6,5 @@ symbol: xSN93
 icons:
   - icon.svg
   - icon.png
-color: "#5838d8"
+color: "#902fc6"
 ---

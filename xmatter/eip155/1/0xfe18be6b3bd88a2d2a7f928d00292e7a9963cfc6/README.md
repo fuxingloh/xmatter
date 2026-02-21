@@ -6,6 +6,6 @@ symbol: sBTC
 icons:
   - icon.svg
   - icon.png
-color: "#f89818"
+color: "#1d555c"
 decimals: 18
 ---

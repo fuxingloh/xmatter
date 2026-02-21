@@ -6,5 +6,5 @@ symbol: XAIFRAXBP3CRV-f
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#e1b51b"
 ---

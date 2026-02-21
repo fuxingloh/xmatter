@@ -6,5 +6,5 @@ symbol: uXRP
 icons:
   - icon.svg
   - icon.png
-color: "#383848"
+color: "#2a3236"
 ---

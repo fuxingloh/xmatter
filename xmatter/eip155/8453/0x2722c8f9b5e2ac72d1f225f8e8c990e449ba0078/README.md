@@ -6,5 +6,5 @@ symbol: vAMM-tBTC/WETH
 icons:
   - icon.svg
   - icon.png
-color: "#282838"
+color: "#2a2a31"
 ---

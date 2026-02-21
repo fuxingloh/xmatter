@@ -6,5 +6,5 @@ symbol: xSN62
 icons:
   - icon.svg
   - icon.png
-color: "#2838f8"
+color: "#2c34fc"
 ---

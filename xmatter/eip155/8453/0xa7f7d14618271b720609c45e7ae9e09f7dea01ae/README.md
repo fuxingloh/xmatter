@@ -6,5 +6,5 @@ symbol: BETTER
 icons:
   - icon.svg
   - icon.png
-color: "#0828f8"
+color: "#0424fc"
 ---

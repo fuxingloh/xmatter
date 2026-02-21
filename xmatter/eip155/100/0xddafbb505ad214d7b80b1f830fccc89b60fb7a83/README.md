@@ -6,6 +6,6 @@ symbol: USDC
 icons:
   - icon.svg
   - icon.png
-color: "#2878c8"
+color: "#2474cc"
 decimals: 18
 ---

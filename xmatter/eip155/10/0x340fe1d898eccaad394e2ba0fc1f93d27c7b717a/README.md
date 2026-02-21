@@ -6,5 +6,5 @@ symbol: wUSDR
 icons:
   - icon.svg
   - icon.png
-color: "#2858f8"
+color: "#f45b60"
 ---

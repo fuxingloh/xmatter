@@ -6,5 +6,5 @@ symbol: cDAI+cUSDC+USDT
 icons:
   - icon.svg
   - icon.png
-color: "#58a898"
+color: "#54b096"
 ---

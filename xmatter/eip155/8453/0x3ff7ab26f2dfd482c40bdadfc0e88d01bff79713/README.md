@@ -6,5 +6,5 @@ symbol: oBMX
 icons:
   - icon.svg
   - icon.png
-color: "#1808f8"
+color: "#eae9f4"
 ---

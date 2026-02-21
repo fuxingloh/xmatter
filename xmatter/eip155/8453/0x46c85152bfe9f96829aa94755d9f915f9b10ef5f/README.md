@@ -6,5 +6,5 @@ symbol: cNGN
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#5020c8"
 ---

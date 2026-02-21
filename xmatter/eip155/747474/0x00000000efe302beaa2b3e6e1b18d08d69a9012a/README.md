@@ -6,5 +6,5 @@ symbol: AUSD
 icons:
   - icon.svg
   - icon.png
-color: "#989848"
+color: "#9c9454"
 ---

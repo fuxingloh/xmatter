@@ -6,5 +6,5 @@ symbol: GNG
 icons:
   - icon.svg
   - icon.png
-color: "#f87808"
+color: "#fb7404"
 ---

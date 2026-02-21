@@ -6,5 +6,5 @@ symbol: MASKS
 icons:
   - icon.svg
   - icon.png
-color: "#e81828"
+color: "#ec2424"
 ---

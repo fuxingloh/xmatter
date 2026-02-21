@@ -9,7 +9,7 @@ decimals: 6
 icons:
   - icon.svg
   - icon.png
-color: "#2878c8"
+color: "#2474cc"
 ---
 
 EURC is a faster, safer, and more efficient way to send, spend, and exchange money around the globe.

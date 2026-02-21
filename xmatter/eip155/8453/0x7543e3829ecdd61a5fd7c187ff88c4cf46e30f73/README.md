@@ -6,5 +6,5 @@ symbol: ASF
 icons:
   - icon.svg
   - icon.png
-color: "#08a8e8"
+color: "#f0fafc"
 ---

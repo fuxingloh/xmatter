@@ -6,5 +6,5 @@ symbol: upYFI
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#ad61e4"
 ---

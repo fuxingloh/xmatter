@@ -6,5 +6,5 @@ symbol: WANDER
 icons:
   - icon.svg
   - icon.png
-color: "#38f8a8"
+color: "#3cf2b3"
 ---

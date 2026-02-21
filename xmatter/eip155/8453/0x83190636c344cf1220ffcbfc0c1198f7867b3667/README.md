@@ -6,5 +6,5 @@ symbol: JMX
 icons:
   - icon.svg
   - icon.png
-color: "#a8f8f8"
+color: "#0e8f0d"
 ---

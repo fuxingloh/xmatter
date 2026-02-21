@@ -6,5 +6,5 @@ symbol: yvBal-cbETH-wstETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#e46f5b"
 ---

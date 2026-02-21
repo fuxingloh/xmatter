@@ -6,5 +6,5 @@ symbol: crvTETH
 icons:
   - icon.svg
   - icon.png
-color: "#8808f8"
+color: "#8405fb"
 ---

@@ -6,5 +6,5 @@ symbol: CLASH
 icons:
   - icon.svg
   - icon.png
-color: "#081828"
+color: "#efcb63"
 ---

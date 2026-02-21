@@ -6,5 +6,5 @@ symbol: BARRY
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#e8d9d0"
 ---

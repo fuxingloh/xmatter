@@ -6,5 +6,5 @@ symbol: FXScrvUSD
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#0d1811"
 ---

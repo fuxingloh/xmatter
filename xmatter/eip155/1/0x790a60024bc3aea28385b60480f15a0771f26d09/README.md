@@ -6,5 +6,5 @@ symbol: yvCurve-YFIETH
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#dcd36b"
 ---

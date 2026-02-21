@@ -6,5 +6,5 @@ symbol: CMLT-LP
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#242a33"
 ---

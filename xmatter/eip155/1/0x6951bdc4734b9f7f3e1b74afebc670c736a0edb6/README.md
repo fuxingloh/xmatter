@@ -5,5 +5,5 @@ standards: []
 symbol: pxsteth
 icons:
   - icon.png
-color: "#080808"
+color: "#cad0aa"
 ---

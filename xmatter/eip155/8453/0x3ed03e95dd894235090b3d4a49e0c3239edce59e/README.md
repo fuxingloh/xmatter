@@ -6,5 +6,5 @@ symbol: MYRC
 icons:
   - icon.svg
   - icon.png
-color: "#083898"
+color: "#dddee0"
 ---

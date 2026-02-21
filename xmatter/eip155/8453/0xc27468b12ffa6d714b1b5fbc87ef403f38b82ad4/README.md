@@ -6,5 +6,5 @@ symbol: TRUMP
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#1c1c1d"
 ---

@@ -6,5 +6,5 @@ symbol: AIXCB
 icons:
   - icon.svg
   - icon.png
-color: "#e868c8"
+color: "#7568be"
 ---

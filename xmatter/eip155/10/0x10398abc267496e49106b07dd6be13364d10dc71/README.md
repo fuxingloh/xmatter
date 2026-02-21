@@ -6,5 +6,5 @@ symbol: HAI
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#ecd569"
 ---

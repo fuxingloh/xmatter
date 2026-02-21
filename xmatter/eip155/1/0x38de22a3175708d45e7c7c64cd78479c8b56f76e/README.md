@@ -6,5 +6,5 @@ symbol: DOLA/USR
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#5f90ab"
 ---

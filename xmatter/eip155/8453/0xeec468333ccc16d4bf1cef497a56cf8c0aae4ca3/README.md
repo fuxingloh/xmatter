@@ -6,5 +6,5 @@ symbol: ANZ
 icons:
   - icon.svg
   - icon.png
-color: "#3868f8"
+color: "#dfe9fc"
 ---

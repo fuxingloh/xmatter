@@ -6,5 +6,5 @@ symbol: CADC
 icons:
   - icon.svg
   - icon.png
-color: "#a81818"
+color: "#a41d1d"
 ---

@@ -6,5 +6,5 @@ symbol: TUSD3CRV-f
 icons:
   - icon.svg
   - icon.png
-color: "#082868"
+color: "#052d6c"
 ---

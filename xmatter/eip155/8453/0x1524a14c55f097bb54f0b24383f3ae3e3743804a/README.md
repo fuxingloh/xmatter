@@ -6,5 +6,5 @@ symbol: vAMM-YFI/wstETH
 icons:
   - icon.svg
   - icon.png
-color: "#0858f8"
+color: "#ccb8cd"
 ---

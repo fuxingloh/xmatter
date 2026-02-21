@@ -6,5 +6,5 @@ symbol: rsv3CRV
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#cead4b"
 ---

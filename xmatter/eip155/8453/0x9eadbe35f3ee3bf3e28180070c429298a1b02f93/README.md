@@ -6,5 +6,5 @@ symbol: LMTS
 icons:
   - icon.svg
   - icon.png
-color: "#d8f888"
+color: "#222724"
 ---

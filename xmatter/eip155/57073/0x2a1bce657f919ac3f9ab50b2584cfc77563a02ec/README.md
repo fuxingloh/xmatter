@@ -6,5 +6,5 @@ symbol: AK47
 icons:
   - icon.svg
   - icon.png
-color: "#383848"
+color: "#3d324a"
 ---

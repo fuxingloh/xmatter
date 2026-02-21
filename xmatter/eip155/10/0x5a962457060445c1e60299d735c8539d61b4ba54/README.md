@@ -6,5 +6,5 @@ symbol: msETH-Debt-1
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#5eb0ec"
 ---

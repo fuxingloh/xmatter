@@ -6,5 +6,5 @@ symbol: eursCRV
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#4279f2"
 ---

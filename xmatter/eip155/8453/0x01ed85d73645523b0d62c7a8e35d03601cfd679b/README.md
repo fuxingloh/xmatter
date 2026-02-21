@@ -6,5 +6,5 @@ symbol: NABLA
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#f48d4e"
 ---

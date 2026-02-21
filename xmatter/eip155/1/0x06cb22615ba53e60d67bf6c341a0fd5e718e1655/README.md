@@ -6,5 +6,5 @@ symbol: FEI3CRV3CRV-f
 icons:
   - icon.svg
   - icon.png
-color: "#289868"
+color: "#249c6c"
 ---

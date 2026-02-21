@@ -6,5 +6,5 @@ symbol: GNode
 icons:
   - icon.svg
   - icon.png
-color: "#881828"
+color: "#971d25"
 ---

@@ -6,5 +6,5 @@ symbol: reusdfxusd
 icons:
   - icon.svg
   - icon.png
-color: "#28e898"
+color: "#d0bf68"
 ---

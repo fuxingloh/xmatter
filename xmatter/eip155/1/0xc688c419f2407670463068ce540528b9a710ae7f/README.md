@@ -6,5 +6,5 @@ symbol: yvCurve-ankrETH-frxETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#c1c4bc"
 ---

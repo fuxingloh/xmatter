@@ -6,5 +6,5 @@ symbol: aRAI
 icons:
   - icon.svg
   - icon.png
-color: "#182828"
+color: "#a476ac"
 ---

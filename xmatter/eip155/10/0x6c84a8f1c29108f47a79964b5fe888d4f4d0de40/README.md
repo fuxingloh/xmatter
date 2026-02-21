@@ -6,5 +6,5 @@ symbol: tBTC
 icons:
   - icon.svg
   - icon.png
-color: "#182828"
+color: "#1c242c"
 ---

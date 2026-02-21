@@ -6,6 +6,6 @@ symbol: yvBOOST
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#fb7b0c"
 decimals: 18
 ---

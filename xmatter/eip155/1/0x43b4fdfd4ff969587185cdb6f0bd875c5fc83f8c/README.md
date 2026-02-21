@@ -6,5 +6,5 @@ symbol: alUSD3CRV-f
 icons:
   - icon.svg
   - icon.png
-color: "#282838"
+color: "#302736"
 ---

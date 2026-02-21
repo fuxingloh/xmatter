@@ -6,5 +6,5 @@ symbol: vAMM-AERO/wstETH
 icons:
   - icon.svg
   - icon.png
-color: "#e8e8e8"
+color: "#e3e6e6"
 ---

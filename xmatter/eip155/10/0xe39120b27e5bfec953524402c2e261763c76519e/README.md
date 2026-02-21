@@ -6,5 +6,5 @@ symbol: vAMMV2-WETH/UNIDX
 icons:
   - icon.svg
   - icon.png
-color: "#384848"
+color: "#404848"
 ---

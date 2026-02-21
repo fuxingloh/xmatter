@@ -6,5 +6,5 @@ symbol: POLY
 icons:
   - icon.svg
   - icon.png
-color: "#0868f8"
+color: "#0161ff"
 ---

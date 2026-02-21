@@ -6,5 +6,5 @@ symbol: HYPE
 icons:
   - icon.svg
   - icon.png
-color: "#082828"
+color: "#93fae2"
 ---

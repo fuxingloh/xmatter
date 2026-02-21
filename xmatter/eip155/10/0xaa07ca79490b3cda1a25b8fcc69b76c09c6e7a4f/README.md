@@ -6,5 +6,5 @@ symbol: yvVelo-CHI-DAI-f
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#e8c6a0"
 ---

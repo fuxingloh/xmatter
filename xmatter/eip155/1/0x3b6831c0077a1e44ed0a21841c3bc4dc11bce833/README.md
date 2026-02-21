@@ -6,5 +6,5 @@ symbol: crvEURTUSD
 icons:
   - icon.svg
   - icon.png
-color: "#8888b8"
+color: "#849eb0"
 ---

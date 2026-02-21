@@ -6,5 +6,5 @@ symbol: vAMM-WETH/WELL
 icons:
   - icon.svg
   - icon.png
-color: "#2878d8"
+color: "#e5c4d1"
 ---

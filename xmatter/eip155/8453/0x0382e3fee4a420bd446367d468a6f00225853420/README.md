@@ -6,5 +6,5 @@ symbol: CFI
 icons:
   - icon.svg
   - icon.png
-color: "#081848"
+color: "#04144c"
 ---

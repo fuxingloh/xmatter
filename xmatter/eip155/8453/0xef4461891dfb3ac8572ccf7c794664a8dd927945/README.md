@@ -6,5 +6,5 @@ symbol: WCT
 icons:
   - icon.svg
   - icon.png
-color: "#0888e8"
+color: "#0c8bf3"
 ---

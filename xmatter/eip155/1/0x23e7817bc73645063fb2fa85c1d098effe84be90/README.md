@@ -6,5 +6,5 @@ symbol: JPEGpETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#b8f8d8"
+color: "#b5f0d8"
 ---

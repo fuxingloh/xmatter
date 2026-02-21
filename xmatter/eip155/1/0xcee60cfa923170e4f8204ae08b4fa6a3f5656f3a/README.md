@@ -6,5 +6,5 @@ symbol: linkCRV
 icons:
   - icon.svg
   - icon.png
-color: "#2858d8"
+color: "#2d63cb"
 ---

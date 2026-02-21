@@ -6,5 +6,5 @@ symbol: sAMM-MAI/USDbC
 icons:
   - icon.svg
   - icon.png
-color: "#e84848"
+color: "#e44a42"
 ---

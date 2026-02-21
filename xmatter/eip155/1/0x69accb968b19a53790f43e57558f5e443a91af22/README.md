@@ -6,5 +6,5 @@ symbol: yETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#5818f8"
+color: "#bedd98"
 ---

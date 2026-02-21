@@ -6,5 +6,5 @@ symbol: MONEY
 icons:
   - icon.svg
   - icon.png
-color: "#6898f8"
+color: "#6c94fc"
 ---

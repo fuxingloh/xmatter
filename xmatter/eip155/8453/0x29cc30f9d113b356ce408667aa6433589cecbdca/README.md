@@ -6,5 +6,5 @@ symbol: ELSA
 icons:
   - icon.svg
   - icon.png
-color: "#d82828"
+color: "#dc2424"
 ---

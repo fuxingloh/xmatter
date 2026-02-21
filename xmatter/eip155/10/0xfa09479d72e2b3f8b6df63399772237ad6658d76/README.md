@@ -6,5 +6,5 @@ symbol: sAMMV2-alUSD/MAI
 icons:
   - icon.svg
   - icon.png
-color: "#e84848"
+color: "#e24b42"
 ---

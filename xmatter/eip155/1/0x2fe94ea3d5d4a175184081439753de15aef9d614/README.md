@@ -6,5 +6,5 @@ symbol: oBTC/sbtcCRV
 icons:
   - icon.svg
   - icon.png
-color: "#f89818"
+color: "#f49929"
 ---

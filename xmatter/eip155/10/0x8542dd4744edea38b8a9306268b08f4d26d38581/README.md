@@ -6,5 +6,5 @@ symbol: sAMMV2-FRAX/USDC
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#e3a385"
 ---

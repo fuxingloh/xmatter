@@ -6,5 +6,5 @@ symbol: BIO
 icons:
   - icon.svg
   - icon.png
-color: "#182808"
+color: "#1c2414"
 ---

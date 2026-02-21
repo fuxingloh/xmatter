@@ -6,6 +6,6 @@ symbol: wstETH
 icons:
   - icon.svg
   - icon.png
-color: "#08a8f8"
+color: "#07a5fc"
 decimals: 18
 ---

@@ -6,5 +6,5 @@ symbol: USDK
 icons:
   - icon.svg
   - icon.png
-color: "#2878e8"
+color: "#2c74ec"
 ---

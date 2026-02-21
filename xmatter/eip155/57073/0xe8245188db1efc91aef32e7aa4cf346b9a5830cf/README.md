@@ -5,5 +5,5 @@ standards: []
 symbol: LCAP
 icons:
   - icon.png
-color: "#080808"
+color: "#63bcb0"
 ---

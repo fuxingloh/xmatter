@@ -6,5 +6,5 @@ symbol: OSAK
 icons:
   - icon.svg
   - icon.png
-color: "#f80808"
+color: "#fb0505"
 ---

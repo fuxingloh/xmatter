@@ -6,5 +6,5 @@ symbol: ENSC
 icons:
   - icon.svg
   - icon.png
-color: "#186858"
+color: "#0e7964"
 ---

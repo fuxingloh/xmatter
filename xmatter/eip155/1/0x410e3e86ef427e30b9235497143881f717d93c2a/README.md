@@ -6,5 +6,5 @@ symbol: bBTC/sbtcCRV
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#f4a216"
 ---

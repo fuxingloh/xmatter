@@ -6,5 +6,5 @@ symbol: iWETH
 icons:
   - icon.svg
   - icon.png
-color: "#68e8d8"
+color: "#6eded9"
 ---

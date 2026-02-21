@@ -6,5 +6,5 @@ symbol: NSTR
 icons:
   - icon.svg
   - icon.png
-color: "#081838"
+color: "#0c1c34"
 ---

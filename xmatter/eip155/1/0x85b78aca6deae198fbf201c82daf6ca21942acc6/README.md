@@ -6,5 +6,5 @@ symbol: ARM-WETH-stETH
 icons:
   - icon.svg
   - icon.png
-color: "#9858e8"
+color: "#aa60ec"
 ---

@@ -6,5 +6,5 @@ symbol: UST
 icons:
   - icon.svg
   - icon.png
-color: "#5898f8"
+color: "#5493f2"
 ---

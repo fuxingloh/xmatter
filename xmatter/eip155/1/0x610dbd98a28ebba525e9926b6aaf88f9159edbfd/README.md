@@ -10,7 +10,7 @@ name: Nostra
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#081838"
+color: "#0c1c34"
 icons:
   - icon.svg
   - icon.png

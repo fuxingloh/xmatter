@@ -6,5 +6,5 @@ symbol: yvAero-MAI-DOLA-f
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#836eb7"
 ---

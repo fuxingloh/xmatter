@@ -13,7 +13,7 @@ decimals: 18
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#0f7964"
 ---
 
 ENSC is a stablecoin pegged to the Nigerian Naira (NGN), issued by ProsperaVest for payments, settlement, and access to tokenized real-world assets.

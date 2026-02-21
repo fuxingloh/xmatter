@@ -6,5 +6,5 @@ symbol: pBTC/sbtcCRV
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#e67a4a"
 ---

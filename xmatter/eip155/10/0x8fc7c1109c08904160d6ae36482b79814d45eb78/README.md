@@ -6,5 +6,5 @@ symbol: TEC
 icons:
   - icon.svg
   - icon.png
-color: "#d8f848"
+color: "#dbfa4b"
 ---

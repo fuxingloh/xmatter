@@ -6,5 +6,5 @@ symbol: awMATIC-WETH
 icons:
   - icon.svg
   - icon.png
-color: "#f80808"
+color: "#285c8d"
 ---

@@ -6,5 +6,5 @@ symbol: iDPI
 icons:
   - icon.svg
   - icon.png
-color: "#68e8d8"
+color: "#6d40bd"
 ---

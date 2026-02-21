@@ -6,5 +6,5 @@ symbol: TAOLOR
 icons:
   - icon.svg
   - icon.png
-color: "#383838"
+color: "#404045"
 ---

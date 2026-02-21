@@ -6,5 +6,5 @@ symbol: MOCA
 icons:
   - icon.svg
   - icon.png
-color: "#c85898"
+color: "#c45c9b"
 ---

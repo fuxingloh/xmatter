@@ -6,5 +6,5 @@ symbol: BSHARE
 icons:
   - icon.svg
   - icon.png
-color: "#184888"
+color: "#245585"
 ---

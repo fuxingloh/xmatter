@@ -6,5 +6,5 @@ symbol: yvankrCRV
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#e7d063"
 ---

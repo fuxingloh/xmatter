@@ -6,5 +6,5 @@ symbol: OPP
 icons:
   - icon.svg
   - icon.png
-color: "#b82828"
+color: "#0c0808"
 ---

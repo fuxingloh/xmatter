@@ -6,5 +6,5 @@ symbol: aUSDC-DAI
 icons:
   - icon.svg
   - icon.png
-color: "#f80808"
+color: "#f4b537"
 ---

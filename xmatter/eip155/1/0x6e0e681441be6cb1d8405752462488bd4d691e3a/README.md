@@ -6,5 +6,5 @@ symbol: TRYB3POOL-f
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#8085ee"
 ---

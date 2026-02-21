@@ -6,5 +6,5 @@ symbol: ETH1S
 icons:
   - icon.svg
   - icon.png
-color: "#283868"
+color: "#24346c"
 ---

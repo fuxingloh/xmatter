@@ -6,5 +6,5 @@ symbol: crvUSDSUSD-f
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#17263a"
 ---

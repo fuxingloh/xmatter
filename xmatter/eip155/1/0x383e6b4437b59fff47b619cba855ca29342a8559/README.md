@@ -6,5 +6,5 @@ symbol: PYUSDUSDC
 icons:
   - icon.svg
   - icon.png
-color: "#3868e8"
+color: "#376fe4"
 ---

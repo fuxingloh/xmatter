@@ -6,5 +6,5 @@ symbol: renBTC
 icons:
   - icon.svg
   - icon.png
-color: "#f89818"
+color: "#b6bcc3"
 ---

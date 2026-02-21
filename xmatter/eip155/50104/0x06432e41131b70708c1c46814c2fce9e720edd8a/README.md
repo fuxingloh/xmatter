@@ -6,5 +6,5 @@ symbol: PEPE
 icons:
   - icon.svg
   - icon.png
-color: "#388828"
+color: "#3a8132"
 ---

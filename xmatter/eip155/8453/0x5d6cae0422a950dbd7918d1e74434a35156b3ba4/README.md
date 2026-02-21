@@ -6,5 +6,5 @@ symbol: NVG8
 icons:
   - icon.svg
   - icon.png
-color: "#f86838"
+color: "#080504"
 ---

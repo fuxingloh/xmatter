@@ -6,5 +6,5 @@ symbol: SLAY
 icons:
   - icon.svg
   - icon.png
-color: "#f8e808"
+color: "#101013"
 ---

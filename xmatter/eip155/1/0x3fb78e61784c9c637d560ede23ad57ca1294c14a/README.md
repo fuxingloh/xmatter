@@ -6,5 +6,5 @@ symbol: EURN/EURT-f
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#f1d52c"
 ---

@@ -6,5 +6,5 @@ symbol: yv^2WETH-2
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#0856fc"
 ---

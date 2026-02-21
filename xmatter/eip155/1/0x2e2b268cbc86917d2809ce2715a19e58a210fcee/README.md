@@ -6,5 +6,5 @@ symbol: yvCurve-HBTC-f
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#ef954b"
 ---

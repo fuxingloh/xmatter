@@ -6,5 +6,5 @@ symbol: JOOCE
 icons:
   - icon.svg
   - icon.png
-color: "#f8d838"
+color: "#f8db33"
 ---

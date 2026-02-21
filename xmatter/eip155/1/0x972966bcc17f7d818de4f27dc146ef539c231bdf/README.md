@@ -6,5 +6,5 @@ symbol: DBIT
 icons:
   - icon.svg
   - icon.png
-color: "#282828"
+color: "#27252d"
 ---

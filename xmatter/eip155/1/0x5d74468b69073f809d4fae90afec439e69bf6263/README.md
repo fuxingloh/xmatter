@@ -6,5 +6,5 @@ symbol: csETH
 icons:
   - icon.svg
   - icon.png
-color: "#180818"
+color: "#d991a2"
 ---

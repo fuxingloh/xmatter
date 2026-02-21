@@ -6,5 +6,5 @@ symbol: agEUR-VEUR-f
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#c9d8b6"
 ---

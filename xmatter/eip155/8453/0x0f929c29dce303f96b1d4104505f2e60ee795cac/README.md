@@ -6,5 +6,5 @@ symbol: THRO
 icons:
   - icon.svg
   - icon.png
-color: "#e85808"
+color: "#080504"
 ---

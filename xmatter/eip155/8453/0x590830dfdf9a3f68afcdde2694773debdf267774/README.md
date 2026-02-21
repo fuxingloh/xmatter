@@ -6,5 +6,5 @@ symbol: GIZA
 icons:
   - icon.svg
   - icon.png
-color: "#e8e8e8"
+color: "#ededed"
 ---

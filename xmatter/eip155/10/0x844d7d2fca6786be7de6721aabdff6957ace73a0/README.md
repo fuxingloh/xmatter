@@ -6,5 +6,5 @@ symbol: vAMMV2-OVN/USD+
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#0b2350"
 ---

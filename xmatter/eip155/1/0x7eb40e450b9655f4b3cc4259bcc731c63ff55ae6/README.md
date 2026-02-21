@@ -6,5 +6,5 @@ symbol: usdp3CRV
 icons:
   - icon.svg
   - icon.png
-color: "#4858e8"
+color: "#4364ec"
 ---

@@ -6,5 +6,5 @@ symbol: QI
 icons:
   - icon.svg
   - icon.png
-color: "#f87878"
+color: "#fb7373"
 ---

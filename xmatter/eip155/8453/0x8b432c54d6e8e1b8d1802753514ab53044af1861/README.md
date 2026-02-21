@@ -6,5 +6,5 @@ symbol: sAMM-DOLA/MAI
 icons:
   - icon.svg
   - icon.png
-color: "#e84848"
+color: "#172162"
 ---

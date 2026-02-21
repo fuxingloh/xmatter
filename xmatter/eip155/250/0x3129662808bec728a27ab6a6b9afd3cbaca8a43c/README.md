@@ -6,6 +6,6 @@ symbol: DOLA
 icons:
   - icon.svg
   - icon.png
-color: "#6848d8"
+color: "#6d45d8"
 decimals: 18
 ---

@@ -6,5 +6,5 @@ symbol: gusd3CRV
 icons:
   - icon.svg
   - icon.png
-color: "#08d8f8"
+color: "#cfbf66"
 ---

@@ -6,5 +6,5 @@ symbol: y3Crv
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#f39249"
 ---

@@ -6,5 +6,5 @@ symbol: HYPER
 icons:
   - icon.svg
   - icon.png
-color: "#a8e828"
+color: "#b3eb24"
 ---

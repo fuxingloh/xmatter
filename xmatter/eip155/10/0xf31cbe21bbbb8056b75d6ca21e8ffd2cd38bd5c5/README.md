@@ -6,5 +6,5 @@ symbol: sAMMV2-LUSD/ERN
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#0e0d0b"
 ---

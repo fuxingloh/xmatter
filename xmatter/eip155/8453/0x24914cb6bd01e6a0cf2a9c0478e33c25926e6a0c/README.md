@@ -6,5 +6,5 @@ symbol: BOTTO
 icons:
   - icon.svg
   - icon.png
-color: "#181818"
+color: "#1c1c1c"
 ---

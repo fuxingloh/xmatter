@@ -6,5 +6,5 @@ symbol: yUSD
 icons:
   - icon.svg
   - icon.png
-color: "#181818"
+color: "#d5b895"
 ---

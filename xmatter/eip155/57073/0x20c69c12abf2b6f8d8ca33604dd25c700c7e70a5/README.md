@@ -6,5 +6,5 @@ symbol: CAT
 icons:
   - icon.svg
   - icon.png
-color: "#8858f8"
+color: "#8f63da"
 ---

@@ -6,5 +6,5 @@ symbol: yvCurve-USDT-crvUSD-f
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#d8cf66"
 ---

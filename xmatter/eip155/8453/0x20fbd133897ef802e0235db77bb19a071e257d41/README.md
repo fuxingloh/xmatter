@@ -6,5 +6,5 @@ symbol: uPUMP
 icons:
   - icon.svg
   - icon.png
-color: "#181818"
+color: "#d0d3d1"
 ---

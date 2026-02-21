@@ -6,5 +6,5 @@ symbol: qETH
 icons:
   - icon.svg
   - icon.png
-color: "#283838"
+color: "#2d3434"
 ---

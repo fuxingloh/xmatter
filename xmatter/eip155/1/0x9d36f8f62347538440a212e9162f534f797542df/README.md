@@ -6,5 +6,5 @@ symbol: SATS
 icons:
   - icon.svg
   - icon.png
-color: "#f89818"
+color: "#fb9c1c"
 ---

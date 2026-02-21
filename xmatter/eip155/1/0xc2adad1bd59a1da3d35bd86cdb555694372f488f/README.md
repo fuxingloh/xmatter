@@ -6,5 +6,5 @@ symbol: yvCurve-MIM-crvUSD-f
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#7c7d7f"
 ---

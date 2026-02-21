@@ -6,5 +6,5 @@ symbol: CDX
 icons:
   - icon.svg
   - icon.png
-color: "#f86818"
+color: "#f96b1c"
 ---

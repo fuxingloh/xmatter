@@ -6,5 +6,5 @@ symbol: weETH
 icons:
   - icon.svg
   - icon.png
-color: "#181838"
+color: "#201741"
 ---

@@ -6,5 +6,5 @@ symbol: hyUSD
 icons:
   - icon.svg
   - icon.png
-color: "#f8a808"
+color: "#f4ac04"
 ---

@@ -5,5 +5,5 @@ standards: []
 symbol: AEROBUD
 icons:
   - icon.png
-color: "#1898e8"
+color: "#d0a76b"
 ---

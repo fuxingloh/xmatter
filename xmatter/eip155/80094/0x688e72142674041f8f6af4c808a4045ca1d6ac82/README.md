@@ -6,5 +6,5 @@ symbol: BYUSD
 icons:
   - icon.svg
   - icon.png
-color: "#f8b828"
+color: "#7d350c"
 ---

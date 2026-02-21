@@ -6,5 +6,5 @@ symbol: HEMI
 icons:
   - icon.svg
   - icon.png
-color: "#f86808"
+color: "#ff6a00"
 ---

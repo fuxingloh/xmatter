@@ -6,5 +6,5 @@ symbol: LUSD
 icons:
   - icon.svg
   - icon.png
-color: "#087838"
+color: "#11733c"
 ---

@@ -6,5 +6,5 @@ symbol: KP3RETH-f
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#d3b055"
 ---

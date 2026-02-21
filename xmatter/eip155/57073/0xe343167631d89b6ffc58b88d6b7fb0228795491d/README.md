@@ -6,5 +6,5 @@ symbol: USDG
 icons:
   - icon.svg
   - icon.png
-color: "#383818"
+color: "#344414"
 ---

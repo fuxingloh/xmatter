@@ -6,5 +6,5 @@ symbol: rev fxUSD
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#ccc16b"
 ---

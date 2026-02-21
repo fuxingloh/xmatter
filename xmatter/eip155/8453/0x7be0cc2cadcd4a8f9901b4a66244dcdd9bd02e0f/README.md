@@ -6,5 +6,5 @@ symbol: uBCH
 icons:
   - icon.svg
   - icon.png
-color: "#080808"
+color: "#0ec38c"
 ---

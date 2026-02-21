@@ -6,5 +6,5 @@ symbol: ICL
 icons:
   - icon.svg
   - icon.png
-color: "#e8d838"
+color: "#f3d434"
 ---

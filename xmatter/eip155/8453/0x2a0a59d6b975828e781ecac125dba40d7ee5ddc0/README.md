@@ -6,5 +6,5 @@ symbol: RIPE
 icons:
   - icon.svg
   - icon.png
-color: "#f8e858"
+color: "#fbeb5b"
 ---

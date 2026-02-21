@@ -6,5 +6,5 @@ symbol: yvCurve-agEUR-EUROC-f
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#d7dc6e"
 ---

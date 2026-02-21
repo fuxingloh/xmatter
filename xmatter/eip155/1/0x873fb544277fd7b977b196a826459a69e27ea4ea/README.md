@@ -6,5 +6,5 @@ symbol: yvRAI
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#b0b8c8"
 ---

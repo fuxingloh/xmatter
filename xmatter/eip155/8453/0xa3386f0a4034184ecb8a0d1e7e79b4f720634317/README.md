@@ -6,5 +6,5 @@ symbol: yvAero-DOLA-USDbC-f
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#3c4ab8"
 ---

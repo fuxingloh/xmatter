@@ -6,5 +6,5 @@ symbol: przPOOL
 icons:
   - icon.svg
   - icon.png
-color: "#7848e8"
+color: "#6c3fce"
 ---

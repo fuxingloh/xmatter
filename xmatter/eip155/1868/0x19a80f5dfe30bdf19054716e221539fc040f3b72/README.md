@@ -6,5 +6,5 @@ symbol: yayASTR
 icons:
   - icon.svg
   - icon.png
-color: "#282828"
+color: "#2e2e2e"
 ---

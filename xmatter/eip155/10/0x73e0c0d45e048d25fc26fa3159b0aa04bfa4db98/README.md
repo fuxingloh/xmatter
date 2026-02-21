@@ -6,5 +6,5 @@ symbol: kBTC
 icons:
   - icon.svg
   - icon.png
-color: "#7838f8"
+color: "#7a3cf4"
 ---

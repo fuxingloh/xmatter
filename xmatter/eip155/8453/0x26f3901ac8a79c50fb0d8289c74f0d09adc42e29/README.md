@@ -6,5 +6,5 @@ symbol: T
 icons:
   - icon.svg
   - icon.png
-color: "#7808f8"
+color: "#c28afc"
 ---
