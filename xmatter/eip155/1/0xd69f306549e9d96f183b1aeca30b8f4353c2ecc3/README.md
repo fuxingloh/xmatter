@@ -8,7 +8,7 @@ name: MCH Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#924fe4"
 icons:
   - icon.svg
   - icon.png

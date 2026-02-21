@@ -16,7 +16,7 @@ name: Travala.com
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#f0f1f2"
 icons:
   - icon.png
 ---

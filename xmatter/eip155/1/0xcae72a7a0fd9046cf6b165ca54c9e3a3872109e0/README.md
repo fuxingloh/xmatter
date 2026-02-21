@@ -8,7 +8,7 @@ name: AnRKey X
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#38f8c8"
+color: "#3cedc6"
 icons:
   - icon.svg
   - icon.png

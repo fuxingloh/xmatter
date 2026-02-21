@@ -18,7 +18,7 @@ name: Aavegotchi
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#080808"
+color: "#ea1efb"
 icons:
   - icon.svg
   - icon.png

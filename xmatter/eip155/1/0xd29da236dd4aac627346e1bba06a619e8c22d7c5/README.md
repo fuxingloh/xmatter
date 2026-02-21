@@ -18,7 +18,7 @@ name: MAGA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#b91d22"
 icons:
   - icon.png
 ---

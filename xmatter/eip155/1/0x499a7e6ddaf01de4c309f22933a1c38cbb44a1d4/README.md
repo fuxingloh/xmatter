@@ -7,5 +7,5 @@ symbol: SANTA
 decimals: 0
 icons:
   - icon.svg
-color: "#e83838"
+color: "#e4353d"
 ---

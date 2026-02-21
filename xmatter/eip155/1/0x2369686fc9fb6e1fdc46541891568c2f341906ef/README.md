@@ -10,7 +10,7 @@ name: Drakoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8c838"
+color: "#683805"
 icons:
   - icon.svg
   - icon.png

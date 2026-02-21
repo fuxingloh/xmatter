@@ -8,7 +8,7 @@ name: Vesper
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#4838a8"
+color: "#443cac"
 icons:
   - icon.svg
   - icon.png

@@ -10,7 +10,7 @@ name: Glo Dollar
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#28e8d8"
+color: "#23e3db"
 icons:
   - icon.svg
 ---

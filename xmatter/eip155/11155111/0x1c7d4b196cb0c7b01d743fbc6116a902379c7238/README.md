@@ -10,7 +10,7 @@ links:
     url: "https://x.com/circlepay"
 symbol: USDC
 decimals: 6
-color: "#2878c8"
+color: "#2373cb"
 icons:
   - icon.png
 ---

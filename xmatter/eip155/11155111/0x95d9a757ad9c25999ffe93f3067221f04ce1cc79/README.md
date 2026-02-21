@@ -10,7 +10,7 @@ links:
     url: "https://x.com/FortaNetwork"
 symbol: FORT
 decimals: 18
-color: "#181818"
+color: "#1c1c1c"
 icons:
   - icon.svg
 ---

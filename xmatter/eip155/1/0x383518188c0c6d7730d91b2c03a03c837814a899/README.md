@@ -8,7 +8,7 @@ name: OlympusDAO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#688898"
+color: "#738c94"
 icons:
   - icon.png
 ---

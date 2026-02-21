@@ -7,5 +7,5 @@ symbol: BS1
 decimals: 18
 icons:
   - icon.svg
-color: "#080808"
+color: "#e8c904"
 ---

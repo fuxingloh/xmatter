@@ -6,7 +6,7 @@ name: B21 Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b83828"
+color: "#b93a30"
 icons:
   - icon.png
 ---

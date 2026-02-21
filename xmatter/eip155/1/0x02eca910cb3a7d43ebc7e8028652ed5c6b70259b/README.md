@@ -7,5 +7,5 @@ symbol: PTERIA
 decimals: 18
 icons:
   - icon.svg
-color: "#f8f8f8"
+color: "#eeeeee"
 ---

@@ -16,7 +16,7 @@ name: Ladz
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080828"
+color: "#c96467"
 icons:
   - icon.svg
   - icon.png

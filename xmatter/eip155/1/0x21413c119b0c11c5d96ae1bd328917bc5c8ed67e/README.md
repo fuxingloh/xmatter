@@ -7,5 +7,5 @@ symbol: GENE
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#d7d0e7"
 ---

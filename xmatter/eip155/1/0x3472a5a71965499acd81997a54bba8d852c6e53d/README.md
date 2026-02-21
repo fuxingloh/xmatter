@@ -17,7 +17,7 @@ name: Badger
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8a818"
+color: "#1d1c1a"
 icons:
   - icon.svg
   - icon.png

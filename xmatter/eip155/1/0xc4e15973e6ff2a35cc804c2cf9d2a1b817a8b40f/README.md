@@ -6,6 +6,6 @@ symbol: ibBTC
 icons:
   - icon.svg
   - icon.png
-color: "#f8a808"
+color: "#fba305"
 decimals: 18
 ---

@@ -20,7 +20,7 @@ name: Rubic
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#48a858"
+color: "#4aa852"
 icons:
   - icon.svg
   - icon.png

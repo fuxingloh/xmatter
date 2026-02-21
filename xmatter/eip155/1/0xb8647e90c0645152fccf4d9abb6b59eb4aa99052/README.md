@@ -8,7 +8,7 @@ name: KEYFI Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0858d8"
+color: "#055cd4"
 icons:
   - icon.png
   - icon.jpeg

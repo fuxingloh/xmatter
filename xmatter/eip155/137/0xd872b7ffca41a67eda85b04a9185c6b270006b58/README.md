@@ -7,5 +7,5 @@ symbol: TAKI
 decimals: 9
 icons:
   - icon.png
-color: "#081838"
+color: "#be536c"
 ---

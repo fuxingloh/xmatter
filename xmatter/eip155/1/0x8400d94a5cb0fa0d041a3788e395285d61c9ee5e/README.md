@@ -8,7 +8,7 @@ name: Unibright
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#2e888f"
 icons:
   - icon.svg
   - icon.png

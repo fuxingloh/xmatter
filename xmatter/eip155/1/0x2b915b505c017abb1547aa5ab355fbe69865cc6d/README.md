@@ -8,7 +8,7 @@ name: Maps.me
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#78d868"
+color: "#74d464"
 icons:
   - icon.svg
   - icon.png

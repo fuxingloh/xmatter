@@ -8,7 +8,7 @@ name: WXTZ
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2878f8"
+color: "#040406"
 icons:
   - icon.png
 ---

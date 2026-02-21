@@ -8,7 +8,7 @@ name: DSLA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2898f8"
+color: "#2292ef"
 icons:
   - icon.svg
   - icon.png

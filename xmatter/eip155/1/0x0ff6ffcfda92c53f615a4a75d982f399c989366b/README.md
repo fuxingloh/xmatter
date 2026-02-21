@@ -8,7 +8,7 @@ name: Unilayer
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#060606"
 icons:
   - icon.svg
   - icon.png

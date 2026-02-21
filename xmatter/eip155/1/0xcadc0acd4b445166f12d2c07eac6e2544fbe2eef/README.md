@@ -7,5 +7,5 @@ symbol: CADC
 decimals: 18
 icons:
   - icon.png
-color: "#f86868"
+color: "#fc6464"
 ---

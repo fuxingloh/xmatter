@@ -18,7 +18,7 @@ name: Convex Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#383838"
+color: "#3b3c3c"
 icons:
   - icon.png
 ---

@@ -14,7 +14,7 @@ name: GreenMetaverseToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8b878"
+color: "#0d0b08"
 icons:
   - icon.png
 ---

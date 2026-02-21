@@ -8,7 +8,7 @@ name: GNBU
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d8d8d8"
+color: "#dddcdc"
 icons:
   - icon.svg
   - icon.png

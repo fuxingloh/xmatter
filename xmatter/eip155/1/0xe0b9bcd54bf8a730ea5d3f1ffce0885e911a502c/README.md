@@ -8,7 +8,7 @@ name: Zum Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a878b8"
+color: "#ac7ab4"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: UNIFUND
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#180818"
+color: "#150615"
 icons:
   - icon.svg
   - icon.png

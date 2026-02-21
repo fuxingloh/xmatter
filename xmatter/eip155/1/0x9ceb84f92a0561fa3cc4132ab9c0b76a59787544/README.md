@@ -14,7 +14,7 @@ name: Doki Doki Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f878b8"
+color: "#f883b3"
 icons:
   - icon.svg
   - icon.png

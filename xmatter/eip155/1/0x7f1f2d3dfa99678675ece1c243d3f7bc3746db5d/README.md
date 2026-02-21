@@ -12,7 +12,7 @@ name: Tapmydata
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#081828"
+color: "#0d162d"
 icons:
   - icon.svg
   - icon.png

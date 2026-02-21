@@ -8,7 +8,7 @@ name: Aragon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#98f8f8"
+color: "#a3fbfc"
 icons:
   - icon.png
 ---

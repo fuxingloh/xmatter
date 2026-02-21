@@ -12,7 +12,7 @@ name: Shopping.io
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08b8b8"
+color: "#05bcbc"
 icons:
   - icon.svg
   - icon.png

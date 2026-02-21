@@ -6,6 +6,6 @@ symbol: cUSDT
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#70a9d8"
 decimals: 8
 ---

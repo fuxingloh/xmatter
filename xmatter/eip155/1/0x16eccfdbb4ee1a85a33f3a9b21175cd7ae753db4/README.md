@@ -20,7 +20,7 @@ name: Route
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f83858"
+color: "#fc4a58"
 icons:
   - icon.svg
   - icon.png

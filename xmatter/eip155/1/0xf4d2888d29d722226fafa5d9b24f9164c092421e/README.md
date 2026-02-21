@@ -17,7 +17,7 @@ name: LooksRare
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#040504"
 icons:
   - icon.png
 ---

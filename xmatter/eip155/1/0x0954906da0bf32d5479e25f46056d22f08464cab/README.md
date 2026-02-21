@@ -8,7 +8,7 @@ name: Index
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#795e4a"
 icons:
   - icon.png
 ---

@@ -7,5 +7,5 @@ symbol: TruMATIC
 decimals: 18
 icons:
   - icon.svg
-color: "#88f8b8"
+color: "#8bf3b3"
 ---

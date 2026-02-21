@@ -15,7 +15,7 @@ name: Polkastarter
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f83868"
+color: "#f63262"
 icons:
   - icon.svg
   - icon.png

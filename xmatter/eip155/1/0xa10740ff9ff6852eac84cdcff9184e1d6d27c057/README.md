@@ -7,5 +7,5 @@ symbol: WG0
 decimals: 18
 icons:
   - icon.svg
-color: "#c898f8"
+color: "#c792f4"
 ---

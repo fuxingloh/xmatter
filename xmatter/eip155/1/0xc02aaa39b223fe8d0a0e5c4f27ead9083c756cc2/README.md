@@ -8,7 +8,7 @@ name: WETH
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#686888"
+color: "#646c8c"
 icons:
   - icon.svg
   - icon.png

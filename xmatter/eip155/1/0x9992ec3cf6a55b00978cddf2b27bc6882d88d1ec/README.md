@@ -8,7 +8,7 @@ name: Polymath
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#383868"
+color: "#353565"
 icons:
   - icon.svg
   - icon.png

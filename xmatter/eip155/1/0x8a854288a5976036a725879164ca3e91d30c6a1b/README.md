@@ -8,7 +8,7 @@ name: GET
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08c898"
+color: "#04c092"
 icons:
   - icon.svg
   - icon.png

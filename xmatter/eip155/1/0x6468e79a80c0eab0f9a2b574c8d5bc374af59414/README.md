@@ -24,7 +24,7 @@ name: E-RADIX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#082858"
+color: "#04c08a"
 icons:
   - icon.svg
   - icon.png

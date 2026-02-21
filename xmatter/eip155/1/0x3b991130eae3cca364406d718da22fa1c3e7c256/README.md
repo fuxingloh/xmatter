@@ -14,7 +14,7 @@ name: Shrub
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8d808"
+color: "#fbe104"
 icons:
   - icon.png
 ---

@@ -7,5 +7,5 @@ symbol: NFTP
 decimals: 18
 icons:
   - icon.svg
-color: "#080828"
+color: "#0d0d26"
 ---

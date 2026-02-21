@@ -7,5 +7,5 @@ standards:
   - erc20
 icons:
   - icon.svg
-color: "#2878c8"
+color: "#2474cc"
 ---

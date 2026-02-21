@@ -7,5 +7,5 @@ symbol: THERA
 decimals: 18
 icons:
   - icon.svg
-color: "#28c8d8"
+color: "#2ed0cc"
 ---

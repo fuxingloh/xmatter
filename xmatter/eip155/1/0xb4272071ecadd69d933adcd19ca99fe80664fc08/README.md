@@ -10,7 +10,7 @@ name: CryptoFranc
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#080808"
+color: "#ce0e2d"
 icons:
   - icon.png
 ---

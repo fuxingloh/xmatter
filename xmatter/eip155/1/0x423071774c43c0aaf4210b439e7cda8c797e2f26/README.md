@@ -10,7 +10,7 @@ name: GALAXIS Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#f82888"
+color: "#fc2c84"
 icons:
   - icon.svg
 ---

@@ -18,7 +18,7 @@ name: mTSLA Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0878f8"
+color: "#0478f7"
 icons:
   - icon.svg
   - icon.png

@@ -8,7 +8,7 @@ name: Occam.Fi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#282838"
+color: "#292c3f"
 icons:
   - icon.png
 ---

@@ -7,5 +7,5 @@ symbol: uDOKI
 decimals: 18
 icons:
   - icon.svg
-color: "#f898c8"
+color: "#f792c0"
 ---

@@ -8,7 +8,7 @@ name: renBCH
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#888888"
+color: "#848b8c"
 icons:
   - icon.png
 ---

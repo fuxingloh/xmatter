@@ -10,7 +10,7 @@ name: BET
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0868e8"
+color: "#0a77ed"
 icons:
   - icon.png
 ---

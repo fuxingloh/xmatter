@@ -8,7 +8,7 @@ name: PAID Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#182858"
+color: "#1b235b"
 icons:
   - icon.png
 ---

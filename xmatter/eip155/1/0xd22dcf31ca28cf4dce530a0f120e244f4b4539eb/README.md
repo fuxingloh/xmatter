@@ -7,5 +7,5 @@ symbol: OMNIUNIT
 decimals: 18
 icons:
   - icon.svg
-color: "#384848"
+color: "#3e4d55"
 ---

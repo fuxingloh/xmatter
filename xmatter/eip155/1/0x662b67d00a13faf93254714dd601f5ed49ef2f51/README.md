@@ -7,5 +7,5 @@ symbol: ORC
 decimals: 18
 icons:
   - icon.svg
-color: "#f8f8f8"
+color: "#c2e2e7"
 ---

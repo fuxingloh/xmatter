@@ -8,7 +8,7 @@ name: YVS.Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e84838"
+color: "#ea453d"
 icons:
   - icon.png
 ---

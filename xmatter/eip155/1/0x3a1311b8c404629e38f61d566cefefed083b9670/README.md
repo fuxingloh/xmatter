@@ -12,7 +12,7 @@ name: Piccolo Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#77ae39"
 icons:
   - icon.png
 ---

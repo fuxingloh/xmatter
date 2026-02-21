@@ -7,5 +7,5 @@ symbol: OHM
 decimals: 9
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#040404"
 ---

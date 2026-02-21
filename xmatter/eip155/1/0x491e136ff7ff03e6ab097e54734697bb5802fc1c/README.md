@@ -8,7 +8,7 @@ name: Kattana
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#181818"
+color: "#1d1d1d"
 icons:
   - icon.svg
   - icon.png

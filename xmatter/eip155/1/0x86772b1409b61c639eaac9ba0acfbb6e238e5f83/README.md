@@ -8,7 +8,7 @@ name: Indexed Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#181828"
+color: "#151d2d"
 icons:
   - icon.svg
   - icon.png

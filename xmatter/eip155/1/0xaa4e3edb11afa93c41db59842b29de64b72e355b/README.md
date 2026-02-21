@@ -7,5 +7,5 @@ symbol: MFI
 decimals: 18
 icons:
   - icon.png
-color: "#282828"
+color: "#232a32"
 ---

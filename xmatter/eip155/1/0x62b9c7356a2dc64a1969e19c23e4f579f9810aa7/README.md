@@ -6,6 +6,6 @@ symbol: cvxCRV
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#d2dfd5"
 decimals: 18
 ---

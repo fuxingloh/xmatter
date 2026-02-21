@@ -8,7 +8,7 @@ name: MCDEX Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#181838"
+color: "#1c1d3c"
 icons:
   - icon.svg
   - icon.png

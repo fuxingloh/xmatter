@@ -8,7 +8,7 @@ name: Bounty0x Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e8e8e8"
+color: "#e5e5e5"
 icons:
   - icon.svg
   - icon.png

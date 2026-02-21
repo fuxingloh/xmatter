@@ -8,7 +8,7 @@ name: CargoX Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#283888"
+color: "#243c8b"
 icons:
   - icon.png
 ---

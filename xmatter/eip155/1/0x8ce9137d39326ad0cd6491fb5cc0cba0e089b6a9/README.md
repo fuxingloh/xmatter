@@ -10,7 +10,7 @@ name: Swipe
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f84818"
+color: "#f6421c"
 icons:
   - icon.svg
   - icon.png

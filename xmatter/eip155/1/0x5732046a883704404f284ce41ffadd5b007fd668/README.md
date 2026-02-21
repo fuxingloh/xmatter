@@ -8,7 +8,7 @@ name: Bluzelle Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#185888"
+color: "#1b548c"
 icons:
   - icon.png
 ---

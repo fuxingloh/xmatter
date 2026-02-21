@@ -8,7 +8,7 @@ name: Blockpass
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4888f8"
+color: "#4484f4"
 icons:
   - icon.svg
   - icon.png

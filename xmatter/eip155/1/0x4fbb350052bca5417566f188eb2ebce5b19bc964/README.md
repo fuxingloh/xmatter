@@ -8,7 +8,7 @@ name: Rigo Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#083888"
+color: "#fbc32c"
 icons:
   - icon.svg
   - icon.png

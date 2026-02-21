@@ -8,7 +8,7 @@ name: Litecoin SV
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3878a8"
+color: "#3c71a8"
 icons:
   - icon.svg
   - icon.png

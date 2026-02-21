@@ -12,7 +12,7 @@ name: Orbler
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08f8f8"
+color: "#393c3c"
 icons:
   - icon.png
 ---

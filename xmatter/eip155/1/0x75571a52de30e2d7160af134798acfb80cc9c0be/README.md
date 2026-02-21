@@ -7,5 +7,5 @@ symbol: WNAV
 decimals: 8
 icons:
   - icon.svg
-color: "#f8f8f8"
+color: "#e6e6e6"
 ---

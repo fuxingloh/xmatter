@@ -14,7 +14,7 @@ name: fees.wtf
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#181828"
+color: "#34adda"
 icons:
   - icon.png
 ---

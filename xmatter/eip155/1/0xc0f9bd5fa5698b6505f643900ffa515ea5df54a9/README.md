@@ -8,7 +8,7 @@ name: Donut
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#d8649a"
 icons:
   - icon.png
 ---

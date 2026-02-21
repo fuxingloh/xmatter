@@ -8,7 +8,7 @@ name: Token for Television
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6888e8"
+color: "#6383ec"
 icons:
   - icon.png
 ---

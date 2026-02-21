@@ -7,5 +7,5 @@ symbol: OM
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#e62670"
 ---

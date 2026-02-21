@@ -10,7 +10,7 @@ symbol: AGI
 decimals: 8
 icons:
   - icon.png
-color: "#080808"
+color: "#341d75"
 ---
 
 SingularityNET is a blockchain-powered platform that allows anybody to easily create, share, and monetize AI services, thanks to its globally-accessible AI marketplace.

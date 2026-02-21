@@ -10,7 +10,7 @@ symbol: XFT
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#480491"
 ---
 
 Offshift is a cryptographically private offshore storage & DeFi protocol on Ethereum.

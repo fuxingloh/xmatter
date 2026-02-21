@@ -12,7 +12,7 @@ name: Edge
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#087838"
+color: "#0c8f47"
 icons:
   - icon.png
 ---

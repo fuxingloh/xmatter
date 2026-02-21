@@ -10,7 +10,7 @@ name: Impermax
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#28a898"
+color: "#1c1e1e"
 icons:
   - icon.png
 ---

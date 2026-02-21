@@ -7,5 +7,5 @@ symbol: IBY
 decimals: 18
 icons:
   - icon.png
-color: "#28c898"
+color: "#2cc393"
 ---

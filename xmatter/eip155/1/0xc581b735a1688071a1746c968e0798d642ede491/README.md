@@ -6,6 +6,6 @@ symbol: EURT
 icons:
   - icon.svg
   - icon.png
-color: "#8888b8"
+color: "#8b93b4"
 decimals: 6
 ---

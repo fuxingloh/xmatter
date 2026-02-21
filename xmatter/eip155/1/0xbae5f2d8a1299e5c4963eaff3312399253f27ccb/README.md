@@ -7,5 +7,5 @@ symbol: SOAR
 decimals: 9
 icons:
   - icon.svg
-color: "#080828"
+color: "#acacee"
 ---

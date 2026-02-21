@@ -8,7 +8,7 @@ name: Moss Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#37b1c1"
 icons:
   - icon.png
 ---

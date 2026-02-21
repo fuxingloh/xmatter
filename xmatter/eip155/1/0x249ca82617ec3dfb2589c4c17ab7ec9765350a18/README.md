@@ -22,7 +22,7 @@ name: Verse
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0888f8"
+color: "#0484fc"
 icons:
   - icon.png
 ---

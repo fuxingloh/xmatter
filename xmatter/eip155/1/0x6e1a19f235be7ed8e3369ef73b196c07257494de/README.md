@@ -8,7 +8,7 @@ name: WFIL
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0888f8"
+color: "#048bfb"
 icons:
   - icon.png
 ---

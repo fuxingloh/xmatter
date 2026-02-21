@@ -11,7 +11,7 @@ name: Fei USD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#289868"
+color: "#249c6c"
 icons:
   - icon.svg
   - icon.png

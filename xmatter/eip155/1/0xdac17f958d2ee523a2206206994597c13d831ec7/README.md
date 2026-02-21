@@ -16,7 +16,7 @@ name: Tether
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#58a898"
+color: "#54ac94"
 icons:
   - icon.svg
   - icon.png

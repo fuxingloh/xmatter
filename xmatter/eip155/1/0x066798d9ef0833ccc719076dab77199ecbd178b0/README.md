@@ -8,7 +8,7 @@ name: SAKE
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3888a8"
+color: "#eeb8af"
 icons:
   - icon.svg
   - icon.png

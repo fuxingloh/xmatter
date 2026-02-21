@@ -8,7 +8,7 @@ name: Wagerr
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b80808"
+color: "#b90404"
 icons:
   - icon.svg
   - icon.png

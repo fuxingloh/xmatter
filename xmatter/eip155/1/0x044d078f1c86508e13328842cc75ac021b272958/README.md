@@ -7,5 +7,5 @@ symbol: wPPC
 decimals: 6
 icons:
   - icon.png
-color: "#38a858"
+color: "#3cb454"
 ---

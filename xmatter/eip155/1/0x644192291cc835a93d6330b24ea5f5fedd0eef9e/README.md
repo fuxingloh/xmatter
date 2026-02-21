@@ -28,7 +28,7 @@ name: AllianceBlock Nexera Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#a5b4fc"
 icons:
   - icon.png
 ---

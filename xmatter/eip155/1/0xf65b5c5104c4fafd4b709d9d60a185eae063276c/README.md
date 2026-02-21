@@ -7,5 +7,5 @@ symbol: TRUtru
 decimals: 18
 icons:
   - icon.png
-color: "#181838"
+color: "#63f224"
 ---

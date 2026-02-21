@@ -10,7 +10,7 @@ name: Ambire AdEx
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#080808"
+color: "#749cfc"
 icons:
   - icon.svg
   - icon.png

@@ -7,5 +7,5 @@ symbol: CBK
 decimals: 18
 icons:
   - icon.svg
-color: "#2878f8"
+color: "#2474fb"
 ---

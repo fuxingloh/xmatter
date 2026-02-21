@@ -8,7 +8,7 @@ name: Sanshu Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e878a8"
+color: "#e17baa"
 icons:
   - icon.svg
   - icon.png

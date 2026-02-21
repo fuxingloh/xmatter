@@ -18,7 +18,7 @@ name: Data Economy Index
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f80828"
+color: "#110404"
 icons:
   - icon.png
 ---

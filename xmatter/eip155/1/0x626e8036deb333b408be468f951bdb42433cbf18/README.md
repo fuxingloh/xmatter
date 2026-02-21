@@ -8,7 +8,7 @@ name: AIOZ Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1858e8"
+color: "#1c5ae7"
 icons:
   - icon.svg
   - icon.png

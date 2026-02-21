@@ -20,7 +20,7 @@ name: SURF Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#186898"
+color: "#d1e7df"
 icons:
   - icon.png
 ---

@@ -8,7 +8,7 @@ name: Gas DAO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#1d7fe7"
 icons:
   - icon.png
 ---

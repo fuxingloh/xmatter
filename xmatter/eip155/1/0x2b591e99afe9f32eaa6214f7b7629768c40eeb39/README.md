@@ -8,7 +8,7 @@ name: HEX
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#080808"
+color: "#fc05d5"
 icons:
   - icon.svg
   - icon.png

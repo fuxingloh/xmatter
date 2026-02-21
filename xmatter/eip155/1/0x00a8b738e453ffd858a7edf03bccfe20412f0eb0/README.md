@@ -25,7 +25,7 @@ symbol: ALBT
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#b9d0e6"
 ---
 
 AllianceBlock is establishing the world’s first globally compliant decentralized capital market. Our solution is built on the principles of censorship resistance, transparency, and openness. AllianceBlock’s Prometheus protocol aims to realize a decentralized, collaborative and sustainable capital market that brings together issuers, investors, institutions, traders, experts, advisors, other service providers, and even talent.

@@ -7,5 +7,5 @@ symbol: INFI
 decimals: 18
 icons:
   - icon.png
-color: "#68d8d8"
+color: "#b4ecec"
 ---

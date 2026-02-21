@@ -7,5 +7,5 @@ symbol: 1PLCO2
 decimals: 18
 icons:
   - icon.svg
-color: "#08a8d8"
+color: "#0ca4dc"
 ---

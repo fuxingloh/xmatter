@@ -7,5 +7,5 @@ symbol: MOAR
 decimals: 18
 icons:
   - icon.svg
-color: "#0888f8"
+color: "#a0d2fc"
 ---

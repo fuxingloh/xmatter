@@ -10,7 +10,7 @@ name: Hanzo Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#88d8f8"
+color: "#c42635"
 icons:
   - icon.png
 ---

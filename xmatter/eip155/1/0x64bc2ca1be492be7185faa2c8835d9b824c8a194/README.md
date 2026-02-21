@@ -14,7 +14,7 @@ name: Big Time
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#a9a9a9"
 icons:
   - icon.png
 ---

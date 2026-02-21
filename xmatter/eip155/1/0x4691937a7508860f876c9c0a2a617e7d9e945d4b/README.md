@@ -18,7 +18,7 @@ name: WOO Network
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#282828"
+color: "#242434"
 icons:
   - icon.svg
   - icon.png

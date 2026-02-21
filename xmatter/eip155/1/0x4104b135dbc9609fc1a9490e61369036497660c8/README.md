@@ -7,5 +7,5 @@ symbol: APW
 decimals: 18
 icons:
   - icon.png
-color: "#181838"
+color: "#1d1d35"
 ---

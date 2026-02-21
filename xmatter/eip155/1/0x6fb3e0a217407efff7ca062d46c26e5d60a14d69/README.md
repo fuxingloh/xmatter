@@ -10,7 +10,7 @@ name: IoTeX ERC20
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#180818"
+color: "#67a4b9"
 icons:
   - icon.svg
   - icon.png

@@ -10,7 +10,7 @@ name: Band Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5868f8"
+color: "#556dfc"
 icons:
   - icon.svg
   - icon.png

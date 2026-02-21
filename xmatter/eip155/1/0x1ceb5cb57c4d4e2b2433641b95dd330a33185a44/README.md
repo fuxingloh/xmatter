@@ -8,7 +8,7 @@ name: Keep3rV1
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#040404"
 icons:
   - icon.svg
   - icon.png

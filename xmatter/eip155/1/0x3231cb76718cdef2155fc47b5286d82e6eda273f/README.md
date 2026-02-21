@@ -14,7 +14,7 @@ name: Monerium EUR emoney
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#0584c0"
 icons:
   - icon.svg
   - icon.png

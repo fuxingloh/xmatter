@@ -7,5 +7,5 @@ symbol: BDP
 decimals: 18
 icons:
   - icon.png
-color: "#384858"
+color: "#3b4c64"
 ---

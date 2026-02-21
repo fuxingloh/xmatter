@@ -24,7 +24,7 @@ symbol: SHINJA
 decimals: 9
 icons:
   - icon.png
-color: "#080808"
+color: "#040404"
 ---
 
 SHIBNOBI is a community-driven token / platform that wants to develop a cross-chain token swap for the next generation of investors and make crypto simple and safe for everyone.

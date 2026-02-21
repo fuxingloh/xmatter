@@ -7,5 +7,5 @@ symbol: CTI
 decimals: 18
 icons:
   - icon.svg
-color: "#28c898"
+color: "#6cdbbc"
 ---

@@ -7,5 +7,5 @@ symbol: WXRP
 decimals: 18
 icons:
   - icon.png
-color: "#0878e8"
+color: "#1479e7"
 ---

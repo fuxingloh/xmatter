@@ -8,7 +8,7 @@ name: Polybius Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#069dd8"
 icons:
   - icon.png
 ---

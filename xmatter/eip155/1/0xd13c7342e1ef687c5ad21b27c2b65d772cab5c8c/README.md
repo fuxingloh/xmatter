@@ -8,7 +8,7 @@ name: Ultra Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7858d8"
+color: "#7b53d3"
 icons:
   - icon.png
 ---

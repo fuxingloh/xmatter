@@ -8,7 +8,7 @@ name: Shadows
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#040000"
 icons:
   - icon.png
 ---

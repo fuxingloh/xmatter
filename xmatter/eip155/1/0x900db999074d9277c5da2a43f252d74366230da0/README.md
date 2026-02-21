@@ -10,7 +10,7 @@ name: Giveth Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#5828e8"
+color: "#5424ec"
 icons:
   - icon.svg
   - icon.png

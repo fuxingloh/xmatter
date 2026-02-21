@@ -8,7 +8,7 @@ name: Illuvium
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#180828"
+color: "#2d1d5e"
 icons:
   - icon.png
 ---

@@ -7,5 +7,5 @@ symbol: "300"
 decimals: 7
 icons:
   - icon.svg
-color: "#f84818"
+color: "#f7421c"
 ---

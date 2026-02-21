@@ -8,7 +8,7 @@ name: Morpheus Infrastructure Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#14a4d4"
 icons:
   - icon.png
 ---

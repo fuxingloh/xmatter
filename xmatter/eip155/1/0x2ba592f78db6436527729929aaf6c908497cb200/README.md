@@ -10,7 +10,7 @@ name: Cream Finance
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#68e8d8"
+color: "#6ce4dc"
 icons:
   - icon.svg
   - icon.png

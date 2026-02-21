@@ -8,7 +8,7 @@ name: UniMex Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#4dbd8b"
 icons:
   - icon.svg
   - icon.png

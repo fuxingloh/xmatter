@@ -8,7 +8,7 @@ name: APYSwap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#282838"
+color: "#1fdbb5"
 icons:
   - icon.png
 ---

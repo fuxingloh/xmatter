@@ -8,7 +8,7 @@ name: Deeper Network
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#58b8e8"
+color: "#5dbce3"
 icons:
   - icon.svg
   - icon.png

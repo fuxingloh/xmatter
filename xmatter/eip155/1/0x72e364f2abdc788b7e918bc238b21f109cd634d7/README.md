@@ -8,7 +8,7 @@ name: Metaverse Index
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#6dcce0"
 icons:
   - icon.svg
   - icon.png

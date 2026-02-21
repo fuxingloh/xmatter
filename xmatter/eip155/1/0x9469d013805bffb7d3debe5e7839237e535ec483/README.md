@@ -8,7 +8,7 @@ name: Evolution Land Global Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#cfd4e0"
 icons:
   - icon.svg
   - icon.png

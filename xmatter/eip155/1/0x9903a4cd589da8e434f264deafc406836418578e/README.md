@@ -8,7 +8,7 @@ name: Harrison First
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#588898"
+color: "#5f8a9d"
 icons:
   - icon.png
 ---

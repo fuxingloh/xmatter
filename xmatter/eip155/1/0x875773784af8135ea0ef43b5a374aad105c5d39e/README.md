@@ -6,6 +6,6 @@ symbol: IDLE
 icons:
   - icon.svg
   - icon.png
-color: "#f8f8f8"
+color: "#2f76d9"
 decimals: 18
 ---

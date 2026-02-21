@@ -7,5 +7,5 @@ symbol: CRE8R
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#b0b0b0"
 ---

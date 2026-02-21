@@ -8,7 +8,7 @@ name: Bitpanda Ecosystem Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e83858"
+color: "#eb3354"
 icons:
   - icon.png
 ---

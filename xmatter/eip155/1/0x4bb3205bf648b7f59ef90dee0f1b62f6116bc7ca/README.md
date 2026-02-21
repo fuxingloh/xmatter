@@ -7,5 +7,5 @@ symbol: BYN
 decimals: 18
 icons:
   - icon.svg
-color: "#c8c8d8"
+color: "#ccc4dc"
 ---

@@ -7,5 +7,5 @@ symbol: HANU
 decimals: 12
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#38d58d"
 ---

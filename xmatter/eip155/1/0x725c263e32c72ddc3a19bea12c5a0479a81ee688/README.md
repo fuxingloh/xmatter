@@ -12,7 +12,7 @@ name: Bridge Mutual
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d8d8d8"
+color: "#dfdfdf"
 icons:
   - icon.svg
   - icon.png

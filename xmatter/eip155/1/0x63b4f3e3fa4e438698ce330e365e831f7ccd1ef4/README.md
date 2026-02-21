@@ -8,7 +8,7 @@ name: CyberFi Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8e808"
+color: "#eee604"
 icons:
   - icon.svg
   - icon.png

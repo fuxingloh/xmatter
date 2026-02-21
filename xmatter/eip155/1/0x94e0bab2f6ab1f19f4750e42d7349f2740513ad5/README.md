@@ -16,7 +16,7 @@ name: UNIC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#082838"
+color: "#13303b"
 icons:
   - icon.png
 ---

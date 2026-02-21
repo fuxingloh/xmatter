@@ -7,5 +7,5 @@ symbol: ROTTS
 decimals: 9
 icons:
   - icon.png
-color: "#181818"
+color: "#292929"
 ---

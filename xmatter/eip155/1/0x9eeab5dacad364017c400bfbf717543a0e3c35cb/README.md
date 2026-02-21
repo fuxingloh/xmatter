@@ -7,5 +7,5 @@ symbol: MIGUEL
 decimals: 18
 icons:
   - icon.png
-color: "#e8c8e8"
+color: "#d8acc5"
 ---

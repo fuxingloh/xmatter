@@ -7,5 +7,5 @@ symbol: XRGE
 decimals: 18
 icons:
   - icon.svg
-color: "#080808"
+color: "#9f2a65"
 ---

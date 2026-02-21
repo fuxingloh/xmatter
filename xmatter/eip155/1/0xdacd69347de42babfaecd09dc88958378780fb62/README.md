@@ -8,7 +8,7 @@ name: Atari Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f80808"
+color: "#f4040c"
 icons:
   - icon.svg
   - icon.png

@@ -8,7 +8,7 @@ name: Liquidity Dividends Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#080808"
+color: "#128be0"
 icons:
   - icon.png
 ---

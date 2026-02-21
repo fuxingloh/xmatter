@@ -8,7 +8,7 @@ name: DAD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#486878"
+color: "#06e5f6"
 icons:
   - icon.png
 ---

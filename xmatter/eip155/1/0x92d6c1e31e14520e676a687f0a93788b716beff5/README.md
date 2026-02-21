@@ -14,7 +14,7 @@ name: dYdX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#383848"
+color: "#333349"
 icons:
   - icon.png
   - icon.jpeg

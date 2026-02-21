@@ -6,7 +6,7 @@ name: KIWI Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08a838"
+color: "#05ac34"
 icons:
   - icon.svg
   - icon.png

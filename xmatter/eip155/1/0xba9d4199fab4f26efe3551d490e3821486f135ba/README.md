@@ -22,7 +22,7 @@ name: SwissBorg
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08b888"
+color: "#12af88"
 icons:
   - icon.svg
   - icon.png

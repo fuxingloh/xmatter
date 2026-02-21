@@ -8,7 +8,7 @@ name: Shih Tzu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8d8b8"
+color: "#f9dec8"
 icons:
   - icon.png
 ---

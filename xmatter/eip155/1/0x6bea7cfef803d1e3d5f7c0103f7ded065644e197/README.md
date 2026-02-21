@@ -7,5 +7,5 @@ symbol: GAMMA
 decimals: 18
 icons:
   - icon.png
-color: "#f80828"
+color: "#fc0424"
 ---

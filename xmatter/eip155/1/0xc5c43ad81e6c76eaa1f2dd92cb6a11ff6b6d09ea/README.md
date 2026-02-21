@@ -7,5 +7,5 @@ symbol: SHIBCO
 decimals: 9
 icons:
   - icon.svg
-color: "#f82808"
+color: "#f52c0a"
 ---

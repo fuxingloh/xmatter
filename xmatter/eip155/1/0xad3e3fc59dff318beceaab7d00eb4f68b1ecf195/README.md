@@ -8,7 +8,7 @@ name: wCUSD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#28d878"
+color: "#2bd37b"
 icons:
   - icon.png
 ---

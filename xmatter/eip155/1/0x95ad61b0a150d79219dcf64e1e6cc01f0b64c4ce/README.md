@@ -17,7 +17,7 @@ name: SHIBA INU
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f82808"
+color: "#f52a04"
 icons:
   - icon.svg
   - icon.png

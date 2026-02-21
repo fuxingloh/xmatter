@@ -24,7 +24,7 @@ name: Holo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5838f8"
+color: "#5c34f4"
 icons:
   - icon.svg
   - icon.png

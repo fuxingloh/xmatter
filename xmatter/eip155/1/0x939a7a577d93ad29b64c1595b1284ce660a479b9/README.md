@@ -7,5 +7,5 @@ symbol: JEJUDOGE
 decimals: 18
 icons:
   - icon.png
-color: "#f82808"
+color: "#f62308"
 ---

@@ -8,7 +8,7 @@ name: aleph.im ERC-20 v2
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0858f8"
+color: "#0454fc"
 icons:
   - icon.svg
   - icon.png

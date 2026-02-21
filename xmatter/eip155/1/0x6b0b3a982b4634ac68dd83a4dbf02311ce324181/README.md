@@ -12,7 +12,7 @@ name: Artificial Liquid Intelligence
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#080848"
+color: "#2caae2"
 icons:
   - icon.png
 ---

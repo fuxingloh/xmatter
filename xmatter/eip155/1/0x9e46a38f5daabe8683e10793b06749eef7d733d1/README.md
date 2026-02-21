@@ -8,7 +8,7 @@ name: Nectar
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#6838e8"
+color: "#6c3cec"
 icons:
   - icon.svg
   - icon.png

@@ -14,7 +14,7 @@ name: PREMIA
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#5898f8"
+color: "#5494fc"
 icons:
   - icon.svg
   - icon.png

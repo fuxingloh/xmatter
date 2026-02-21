@@ -7,5 +7,5 @@ symbol: PECO
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#8650e1"
 ---

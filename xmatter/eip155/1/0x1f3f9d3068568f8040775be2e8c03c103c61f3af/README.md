@@ -7,5 +7,5 @@ symbol: ARCH
 decimals: 18
 icons:
   - icon.png
-color: "#182828"
+color: "#d9f953"
 ---

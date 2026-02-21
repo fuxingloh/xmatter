@@ -7,5 +7,5 @@ symbol: ISLA
 decimals: 18
 icons:
   - icon.svg
-color: "#f8c848"
+color: "#c5c4c1"
 ---

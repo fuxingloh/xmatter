@@ -8,7 +8,7 @@ name: Bird.Money
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a80808"
+color: "#ac0404"
 icons:
   - icon.png
 ---

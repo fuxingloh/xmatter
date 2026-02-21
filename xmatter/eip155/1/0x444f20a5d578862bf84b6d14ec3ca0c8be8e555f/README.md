@@ -7,5 +7,5 @@ symbol: KPT
 decimals: 18
 icons:
   - icon.svg
-color: "#080808"
+color: "#ff9292"
 ---

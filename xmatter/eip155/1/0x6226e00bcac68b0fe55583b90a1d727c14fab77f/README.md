@@ -32,7 +32,7 @@ name: MultiVAC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3808f8"
+color: "#3d05fc"
 icons:
   - icon.svg
   - icon.png

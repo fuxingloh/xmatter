@@ -16,7 +16,7 @@ name: Amp
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#d82878"
+color: "#d42c7c"
 icons:
   - icon.svg
   - icon.png

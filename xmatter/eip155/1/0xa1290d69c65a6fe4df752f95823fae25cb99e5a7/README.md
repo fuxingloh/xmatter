@@ -6,6 +6,6 @@ symbol: rsETH
 icons:
   - icon.svg
   - icon.png
-color: "#084848"
+color: "#0c4949"
 decimals: 18
 ---

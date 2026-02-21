@@ -10,7 +10,7 @@ name: Tetu Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#181848"
+color: "#1c1c4d"
 icons:
   - icon.svg
   - icon.png

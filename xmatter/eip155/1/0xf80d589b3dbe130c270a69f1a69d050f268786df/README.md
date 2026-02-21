@@ -8,7 +8,7 @@ name: Datamine
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#182838"
+color: "#262737"
 icons:
   - icon.svg
   - icon.png

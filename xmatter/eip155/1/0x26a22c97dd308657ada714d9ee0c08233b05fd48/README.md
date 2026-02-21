@@ -7,5 +7,5 @@ symbol: PLSH
 decimals: 18
 icons:
   - icon.svg
-color: "#9868f8"
+color: "#946cfc"
 ---

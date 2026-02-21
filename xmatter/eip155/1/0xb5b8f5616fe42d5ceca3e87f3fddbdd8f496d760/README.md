@@ -8,7 +8,7 @@ name: ZperToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#08a8c8"
+color: "#04a4cc"
 icons:
   - icon.svg
   - icon.png
