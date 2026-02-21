@@ -12,5 +12,5 @@ symbol: CCS
 decimals: 18
 icons:
   - icon.png
-color: "#d19951"
+color: "#080808"
 ---

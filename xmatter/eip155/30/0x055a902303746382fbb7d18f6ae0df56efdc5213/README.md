@@ -16,5 +16,5 @@ symbol: FISH
 decimals: 18
 icons:
   - icon.png
-color: "#0e3d93"
+color: "#080808"
 ---

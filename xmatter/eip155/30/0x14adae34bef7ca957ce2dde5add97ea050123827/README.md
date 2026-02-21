@@ -8,5 +8,5 @@ symbol: rLINK
 decimals: 18
 icons:
   - icon.png
-color: "#2959d8"
+color: "#f8f8f8"
 ---

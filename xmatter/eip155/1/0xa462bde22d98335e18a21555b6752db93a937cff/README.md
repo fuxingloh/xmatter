@@ -12,5 +12,5 @@ symbol: BOBBY
 decimals: 18
 icons:
   - icon.png
-color: "#092341"
+color: "#080808"
 ---

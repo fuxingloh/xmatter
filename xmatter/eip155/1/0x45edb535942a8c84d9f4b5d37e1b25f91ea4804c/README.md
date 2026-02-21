@@ -18,5 +18,5 @@ symbol: RAO
 decimals: 18
 icons:
   - icon.png
-color: "#f36627"
+color: "#f8f8f8"
 ---

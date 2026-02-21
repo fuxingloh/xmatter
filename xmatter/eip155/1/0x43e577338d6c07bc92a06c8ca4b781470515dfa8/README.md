@@ -16,5 +16,5 @@ symbol: OBC
 decimals: 18
 icons:
   - icon.png
-color: "#f3d349"
+color: "#080808"
 ---

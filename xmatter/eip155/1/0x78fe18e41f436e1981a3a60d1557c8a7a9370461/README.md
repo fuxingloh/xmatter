@@ -14,5 +14,5 @@ symbol: SCANDI
 decimals: 2
 icons:
   - icon.jpeg
-color: "#e01d25"
+color: "#d81828"
 ---

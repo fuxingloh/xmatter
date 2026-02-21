@@ -8,5 +8,5 @@ symbol: USDCB
 decimals: 18
 icons:
   - icon.png
-color: "#dfced1"
+color: "#080808"
 ---

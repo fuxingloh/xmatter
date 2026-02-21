@@ -8,5 +8,5 @@ symbol: rFLIXX
 decimals: 18
 icons:
   - icon.png
-color: "#f4c433"
+color: "#f8c828"
 ---

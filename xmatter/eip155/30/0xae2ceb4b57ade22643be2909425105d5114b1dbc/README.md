@@ -8,5 +8,5 @@ symbol: EURCB
 decimals: 18
 icons:
   - icon.png
-color: "#1f7498"
+color: "#080808"
 ---

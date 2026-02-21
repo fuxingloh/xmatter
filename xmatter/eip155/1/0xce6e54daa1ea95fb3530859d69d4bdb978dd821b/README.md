@@ -18,5 +18,5 @@ symbol: ORBK
 decimals: 18
 icons:
   - icon.png
-color: "#2eb4fb"
+color: "#181828"
 ---

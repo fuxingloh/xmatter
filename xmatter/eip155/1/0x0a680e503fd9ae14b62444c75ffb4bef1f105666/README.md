@@ -16,5 +16,5 @@ symbol: GZM
 decimals: 8
 icons:
   - icon.png
-color: "#0e5075"
+color: "#f8f8f8"
 ---

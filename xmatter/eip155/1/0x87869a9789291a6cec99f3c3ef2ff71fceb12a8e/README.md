@@ -14,5 +14,5 @@ symbol: CMOS
 decimals: 9
 icons:
   - icon.png
-color: "#48ffcf"
+color: "#080808"
 ---

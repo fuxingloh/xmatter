@@ -12,5 +12,5 @@ symbol: NFTL
 decimals: 18
 icons:
   - icon.jpeg
-color: "#6141e5"
+color: "#f8f8f8"
 ---

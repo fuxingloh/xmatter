@@ -18,5 +18,5 @@ symbol: SPAZ
 decimals: 8
 icons:
   - icon.png
-color: "#d5cb72"
+color: "#486848"
 ---

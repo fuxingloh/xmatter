@@ -8,5 +8,5 @@ symbol: ARSCB
 decimals: 18
 icons:
   - icon.png
-color: "#3785ce"
+color: "#080808"
 ---

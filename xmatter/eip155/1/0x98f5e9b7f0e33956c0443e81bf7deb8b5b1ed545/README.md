@@ -8,5 +8,5 @@ symbol: SEXY
 decimals: 18
 icons:
   - icon.png
-color: "#fc9474"
+color: "#080808"
 ---

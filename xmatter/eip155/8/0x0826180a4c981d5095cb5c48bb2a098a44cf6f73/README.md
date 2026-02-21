@@ -10,5 +10,5 @@ symbol: GRANS
 decimals: 18
 icons:
   - icon.png
-color: "#f09e15"
+color: "#080808"
 ---

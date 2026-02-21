@@ -18,5 +18,5 @@ symbol: WYV
 decimals: 18
 icons:
   - icon.png
-color: "#e12d32"
+color: "#080808"
 ---

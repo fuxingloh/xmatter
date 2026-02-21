@@ -16,5 +16,5 @@ symbol: DAF
 decimals: 6
 icons:
   - icon.jpeg
-color: "#f8ba3a"
+color: "#f8b838"
 ---

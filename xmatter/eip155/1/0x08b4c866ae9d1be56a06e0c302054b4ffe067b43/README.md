@@ -20,5 +20,5 @@ symbol: BITCAR
 decimals: 8
 icons:
   - icon.png
-color: "#140f11"
+color: "#080808"
 ---

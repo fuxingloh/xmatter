@@ -8,5 +8,5 @@ symbol: rDAI
 decimals: 18
 icons:
   - icon.png
-color: "#fcb830"
+color: "#080808"
 ---

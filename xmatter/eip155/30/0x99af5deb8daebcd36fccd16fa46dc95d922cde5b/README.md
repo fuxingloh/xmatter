@@ -8,5 +8,5 @@ symbol: PABCB
 decimals: 18
 icons:
   - icon.png
-color: "#cccaca"
+color: "#080808"
 ---

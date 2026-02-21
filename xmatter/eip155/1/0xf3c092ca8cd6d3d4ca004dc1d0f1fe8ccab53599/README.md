@@ -20,5 +20,5 @@ symbol: ZIX
 decimals: 18
 icons:
   - icon.svg
-color: "#59bae1"
+color: "#080808"
 ---

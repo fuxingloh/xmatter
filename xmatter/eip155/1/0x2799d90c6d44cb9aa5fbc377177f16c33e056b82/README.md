@@ -12,5 +12,5 @@ symbol: DRP
 decimals: 0
 icons:
   - icon.png
-color: "#4cc454"
+color: "#48c858"
 ---

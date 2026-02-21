@@ -20,5 +20,5 @@ symbol: AFA
 decimals: 2
 icons:
   - icon.png
-color: "#0a6bfc"
+color: "#080808"
 ---

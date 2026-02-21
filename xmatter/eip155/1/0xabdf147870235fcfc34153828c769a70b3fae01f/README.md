@@ -12,5 +12,5 @@ symbol: EURT
 decimals: 6
 icons:
   - icon.png
-color: "#7c84aa"
+color: "#f8f8f8"
 ---

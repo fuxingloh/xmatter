@@ -18,5 +18,5 @@ symbol: BRZ
 decimals: 4
 icons:
   - icon.png
-color: "#70b8b8"
+color: "#080808"
 ---

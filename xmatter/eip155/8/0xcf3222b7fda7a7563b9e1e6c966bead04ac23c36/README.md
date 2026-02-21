@@ -8,5 +8,5 @@ symbol: ESCH
 decimals: 18
 icons:
   - icon.png
-color: "#4d4d4d"
+color: "#080808"
 ---

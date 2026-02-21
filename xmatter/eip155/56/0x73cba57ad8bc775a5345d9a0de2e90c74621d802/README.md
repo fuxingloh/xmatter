@@ -18,5 +18,5 @@ symbol: LOOK
 decimals: 18
 icons:
   - icon.png
-color: "#f85820"
+color: "#080808"
 ---

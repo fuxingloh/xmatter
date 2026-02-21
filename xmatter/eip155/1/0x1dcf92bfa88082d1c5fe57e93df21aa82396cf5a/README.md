@@ -18,5 +18,5 @@ symbol: CDT
 decimals: 18
 icons:
   - icon.png
-color: "#39ee93"
+color: "#080808"
 ---

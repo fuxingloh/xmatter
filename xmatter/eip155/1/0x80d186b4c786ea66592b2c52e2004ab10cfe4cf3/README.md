@@ -16,5 +16,5 @@ symbol: LYNX
 decimals: 18
 icons:
   - icon.png
-color: "#d5ad45"
+color: "#080808"
 ---

@@ -18,5 +18,5 @@ symbol: RHT
 decimals: 18
 icons:
   - icon.png
-color: "#0c64f4"
+color: "#f8f8f8"
 ---

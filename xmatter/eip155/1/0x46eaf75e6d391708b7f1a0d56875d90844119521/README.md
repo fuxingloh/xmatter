@@ -12,5 +12,5 @@ symbol: SYS
 decimals: 18
 icons:
   - icon.png
-color: "#ec54dc"
+color: "#e858d8"
 ---

@@ -16,5 +16,5 @@ symbol: ADCO
 decimals: 6
 icons:
   - icon.png
-color: "#2b2a29"
+color: "#282828"
 ---

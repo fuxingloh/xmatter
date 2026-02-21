@@ -8,5 +8,5 @@ symbol: TGE1
 decimals: 18
 icons:
   - icon.png
-color: "#a97959"
+color: "#080808"
 ---

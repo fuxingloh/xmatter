@@ -16,5 +16,5 @@ symbol: SOV
 decimals: 18
 icons:
   - icon.png
-color: "#cfcfcf"
+color: "#f8f8f8"
 ---

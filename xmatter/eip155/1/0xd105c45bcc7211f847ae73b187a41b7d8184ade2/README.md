@@ -16,5 +16,5 @@ symbol: NCASH
 decimals: 18
 icons:
   - icon.png
-color: "#eadcb5"
+color: "#080808"
 ---

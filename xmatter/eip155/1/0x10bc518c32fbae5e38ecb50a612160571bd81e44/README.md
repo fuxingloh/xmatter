@@ -12,5 +12,5 @@ symbol: VRO
 decimals: 8
 icons:
   - icon.png
-color: "#8e2c74"
+color: "#080808"
 ---

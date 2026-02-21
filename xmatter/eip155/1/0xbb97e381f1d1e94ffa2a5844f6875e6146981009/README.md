@@ -18,5 +18,5 @@ symbol: WBX
 decimals: 18
 icons:
   - icon.png
-color: "#21fcb8"
+color: "#28f8b8"
 ---

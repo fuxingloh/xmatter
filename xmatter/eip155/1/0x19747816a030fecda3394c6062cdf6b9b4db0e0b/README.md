@@ -14,5 +14,5 @@ symbol: HEM
 decimals: 8
 icons:
   - icon.png
-color: "#fcc608"
+color: "#f8f8e8"
 ---

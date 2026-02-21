@@ -8,5 +8,5 @@ symbol: rAMLT
 decimals: 18
 icons:
   - icon.png
-color: "#242a58"
+color: "#f8f8f8"
 ---

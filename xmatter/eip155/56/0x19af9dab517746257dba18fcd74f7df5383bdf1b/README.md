@@ -16,5 +16,5 @@ symbol: POMO
 decimals: 18
 icons:
   - icon.png
-color: "#d9dee2"
+color: "#080808"
 ---

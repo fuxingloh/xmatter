@@ -8,5 +8,5 @@ symbol: BRLCB
 decimals: 18
 icons:
   - icon.png
-color: "#c8d04d"
+color: "#080808"
 ---

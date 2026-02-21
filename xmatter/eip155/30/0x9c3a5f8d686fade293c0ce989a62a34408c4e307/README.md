@@ -8,5 +8,5 @@ symbol: rRFOX
 decimals: 18
 icons:
   - icon.png
-color: "#d63835"
+color: "#080808"
 ---

@@ -18,5 +18,5 @@ symbol: WLKRR
 decimals: 18
 icons:
   - icon.jpeg
-color: "#db1c24"
+color: "#d81828"
 ---

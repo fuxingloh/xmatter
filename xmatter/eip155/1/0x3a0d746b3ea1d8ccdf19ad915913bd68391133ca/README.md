@@ -18,5 +18,5 @@ symbol: SYSX
 decimals: 8
 icons:
   - icon.png
-color: "#048bd2"
+color: "#f8f8f8"
 ---

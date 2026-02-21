@@ -14,5 +14,5 @@ symbol: SLIMER
 decimals: 18
 icons:
   - icon.png
-color: "#86ad2f"
+color: "#080808"
 ---

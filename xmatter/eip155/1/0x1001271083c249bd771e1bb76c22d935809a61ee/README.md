@@ -14,5 +14,5 @@ symbol: FUKU
 decimals: 9
 icons:
   - icon.png
-color: "#edebe7"
+color: "#f8f8f8"
 ---

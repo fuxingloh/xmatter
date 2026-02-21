@@ -20,5 +20,5 @@ symbol: LVN
 decimals: 18
 icons:
   - icon.png
-color: "#fc346b"
+color: "#080808"
 ---

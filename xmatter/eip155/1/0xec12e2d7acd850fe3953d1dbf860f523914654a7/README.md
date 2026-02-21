@@ -16,5 +16,5 @@ symbol: $MIRX
 decimals: 18
 icons:
   - icon.png
-color: "#ba261a"
+color: "#080808"
 ---

@@ -16,5 +16,5 @@ symbol: KRP
 decimals: 18
 icons:
   - icon.png
-color: "#242424"
+color: "#080808"
 ---

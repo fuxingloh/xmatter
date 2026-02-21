@@ -8,5 +8,5 @@ symbol: PYGCB
 decimals: 18
 icons:
   - icon.png
-color: "#42518b"
+color: "#080808"
 ---

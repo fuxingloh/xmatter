@@ -14,5 +14,5 @@ symbol: TTA
 decimals: 18
 icons:
   - icon.png
-color: "#6311a7"
+color: "#e8e8e8"
 ---

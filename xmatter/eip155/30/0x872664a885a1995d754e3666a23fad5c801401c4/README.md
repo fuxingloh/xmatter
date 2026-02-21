@@ -8,5 +8,5 @@ symbol: cRBTC
 decimals: 8
 icons:
   - icon.png
-color: "#0587e2"
+color: "#f8f8f8"
 ---

@@ -14,5 +14,5 @@ symbol: RBCAT
 decimals: 18
 icons:
   - icon.png
-color: "#151121"
+color: "#080808"
 ---

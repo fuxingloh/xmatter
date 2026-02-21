@@ -14,5 +14,5 @@ symbol: DONK
 decimals: 18
 icons:
   - icon.png
-color: "#484bb1"
+color: "#080808"
 ---

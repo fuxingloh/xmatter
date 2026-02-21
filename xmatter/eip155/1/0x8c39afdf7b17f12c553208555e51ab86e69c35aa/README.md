@@ -20,5 +20,5 @@ symbol: FR8
 decimals: 8
 icons:
   - icon.png
-color: "#201820"
+color: "#080808"
 ---

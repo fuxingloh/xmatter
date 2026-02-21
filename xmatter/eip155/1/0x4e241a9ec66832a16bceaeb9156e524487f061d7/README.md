@@ -20,5 +20,5 @@ symbol: ETF
 decimals: 18
 icons:
   - icon.png
-color: "#41356b"
+color: "#080808"
 ---
