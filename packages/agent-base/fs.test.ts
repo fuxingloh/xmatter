@@ -400,7 +400,7 @@ describe("FileSystemAgent", () => {
 
       const result = await agent.mergeColor(dir, file);
 
-      expect(result.data.color).toBe("#f80808");
+      expect(result.data.color).toBe("#ff0000");
     });
 
     it("should extract color from SVG icon", async () => {
@@ -422,7 +422,7 @@ describe("FileSystemAgent", () => {
 
       const result = await agent.mergeColor(dir, file);
 
-      expect(result.data.color).toBe("#0808f8");
+      expect(result.data.color).toBe("#0000ff");
     });
 
     it("should handle color extraction errors gracefully", async () => {
