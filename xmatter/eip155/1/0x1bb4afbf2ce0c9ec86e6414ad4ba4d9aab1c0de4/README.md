@@ -14,5 +14,5 @@ symbol: TORA
 decimals: 9
 icons:
   - icon.png
-color: "#f8c858"
+color: "#ebb65f"
 ---

@@ -20,5 +20,5 @@ symbol: 599GTO1
 decimals: 8
 icons:
   - icon.jpeg
-color: "#080808"
+color: "#e82f35"
 ---

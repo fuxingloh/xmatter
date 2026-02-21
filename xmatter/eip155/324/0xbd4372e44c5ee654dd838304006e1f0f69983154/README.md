@@ -16,5 +16,5 @@ symbol: NODL
 decimals: 18
 icons:
   - icon.png
-color: "#182838"
+color: "#1c233b"
 ---

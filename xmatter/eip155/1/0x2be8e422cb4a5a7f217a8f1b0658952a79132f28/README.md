@@ -14,5 +14,5 @@ symbol: MSI
 decimals: 18
 icons:
   - icon.png
-color: "#f8b818"
+color: "#462217"
 ---

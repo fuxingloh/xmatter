@@ -18,5 +18,5 @@ symbol: MKT
 decimals: 8
 icons:
   - icon.png
-color: "#c8c8c8"
+color: "#cccccc"
 ---

@@ -12,5 +12,5 @@ symbol: WLKR
 decimals: 18
 icons:
   - icon.jpeg
-color: "#d81828"
+color: "#db1c24"
 ---

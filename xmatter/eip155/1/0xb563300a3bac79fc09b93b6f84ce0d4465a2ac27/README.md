@@ -20,5 +20,5 @@ symbol: REDC
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#ec2024"
 ---

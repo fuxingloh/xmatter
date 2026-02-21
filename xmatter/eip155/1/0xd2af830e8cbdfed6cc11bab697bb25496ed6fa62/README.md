@@ -20,5 +20,5 @@ symbol: WOUSD
 decimals: 18
 icons:
   - icon.png
-color: "#080818"
+color: "#e9ebec"
 ---

@@ -12,5 +12,5 @@ symbol: USD₮0
 decimals: 6
 icons:
   - icon.png
-color: "#08b888"
+color: "#04bc8b"
 ---

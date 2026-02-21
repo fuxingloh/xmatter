@@ -18,5 +18,5 @@ symbol: E₹
 decimals: 2
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#eaac30"
 ---

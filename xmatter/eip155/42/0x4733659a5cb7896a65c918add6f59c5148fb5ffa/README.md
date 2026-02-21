@@ -8,5 +8,5 @@ symbol: GAV
 decimals: 6
 icons:
   - icon.png
-color: "#080808"
+color: "#dfb146"
 ---

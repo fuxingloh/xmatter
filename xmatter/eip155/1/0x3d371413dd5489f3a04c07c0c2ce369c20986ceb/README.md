@@ -20,5 +20,5 @@ symbol: YOUC
 decimals: 10
 icons:
   - icon.png
-color: "#e858d8"
+color: "#ec54dc"
 ---

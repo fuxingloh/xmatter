@@ -20,5 +20,5 @@ symbol: FCO
 decimals: 18
 icons:
   - icon.svg
-color: "#0898a8"
+color: "#119fb5"
 ---

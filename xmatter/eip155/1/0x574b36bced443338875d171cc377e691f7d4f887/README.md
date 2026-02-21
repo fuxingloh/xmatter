@@ -10,5 +10,5 @@ symbol: CO2Bit
 decimals: 18
 icons:
   - icon.png
-color: "#d8d8d8"
+color: "#c9c8c6"
 ---

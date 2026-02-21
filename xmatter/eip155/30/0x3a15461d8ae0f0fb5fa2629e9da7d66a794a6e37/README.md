@@ -10,5 +10,5 @@ symbol: USDRIF
 decimals: 18
 icons:
   - icon.png
-color: "#4858e8"
+color: "#4c5cf3"
 ---

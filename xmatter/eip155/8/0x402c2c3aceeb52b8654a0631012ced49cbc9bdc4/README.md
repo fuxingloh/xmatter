@@ -8,5 +8,5 @@ symbol: SPHRC
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#503a8d"
 ---

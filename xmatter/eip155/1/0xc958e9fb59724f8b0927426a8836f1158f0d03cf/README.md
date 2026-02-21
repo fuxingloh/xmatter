@@ -20,5 +20,5 @@ symbol: SWAP
 decimals: 18
 icons:
   - icon.png
-color: "#485868"
+color: "#4c546b"
 ---

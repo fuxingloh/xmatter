@@ -8,5 +8,5 @@ symbol: CNYCB
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#cc5507"
 ---

@@ -8,5 +8,5 @@ symbol: rUBI
 decimals: 18
 icons:
   - icon.png
-color: "#08d8a8"
+color: "#04dba4"
 ---

@@ -18,5 +18,5 @@ symbol: TICO
 decimals: 5
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#10a9f4"
 ---

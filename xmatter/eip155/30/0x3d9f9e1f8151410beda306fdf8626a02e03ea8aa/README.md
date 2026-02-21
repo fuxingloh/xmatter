@@ -8,5 +8,5 @@ symbol: IDRCB
 decimals: 18
 icons:
   - icon.png
-color: "#080808"
+color: "#e32c33"
 ---

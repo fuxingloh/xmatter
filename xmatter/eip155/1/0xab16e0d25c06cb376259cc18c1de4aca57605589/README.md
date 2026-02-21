@@ -12,5 +12,5 @@ symbol: FUCK
 decimals: 4
 icons:
   - icon.png
-color: "#48a8d8"
+color: "#40a3dd"
 ---

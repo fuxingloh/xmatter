@@ -20,5 +20,5 @@ symbol: DEPO (Depository Network)
 decimals: 18
 icons:
   - icon.png
-color: "#288858"
+color: "#248c53"
 ---

@@ -14,5 +14,5 @@ symbol: CCS
 decimals: 0
 icons:
   - icon.png
-color: "#080808"
+color: "#52d5eb"
 ---

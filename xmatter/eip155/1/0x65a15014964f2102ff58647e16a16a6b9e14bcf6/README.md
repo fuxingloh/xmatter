@@ -20,5 +20,5 @@ symbol: Ox Fina
 decimals: 3
 icons:
   - icon.png
-color: "#080808"
+color: "#286e9c"
 ---

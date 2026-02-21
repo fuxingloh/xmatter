@@ -15,5 +15,5 @@ symbol: WDOGE
 decimals: 8
 icons:
   - icon.png
-color: "#f8c898"
+color: "#f3cb93"
 ---

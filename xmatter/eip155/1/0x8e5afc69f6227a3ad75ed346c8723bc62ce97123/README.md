@@ -20,5 +20,5 @@ symbol: UMKA
 decimals: 4
 icons:
   - icon.jpeg
-color: "#181838"
+color: "#1b1c3b"
 ---

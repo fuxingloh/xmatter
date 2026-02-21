@@ -20,5 +20,5 @@ symbol: OGV
 decimals: 18
 icons:
   - icon.png
-color: "#080818"
+color: "#0c141d"
 ---

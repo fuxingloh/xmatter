@@ -8,5 +8,5 @@ symbol: ILSC
 decimals: 2
 icons:
   - icon.png
-color: "#080808"
+color: "#d7b866"
 ---
