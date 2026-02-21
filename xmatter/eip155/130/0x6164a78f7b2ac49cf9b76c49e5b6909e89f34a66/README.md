@@ -8,5 +8,5 @@ symbol: RAI
 decimals: 18
 icons:
   - icon.svg
-color: "#1f2d2c"
+color: "#182828"
 ---

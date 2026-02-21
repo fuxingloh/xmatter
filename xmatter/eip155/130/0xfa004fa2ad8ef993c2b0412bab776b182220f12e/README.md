@@ -12,7 +12,7 @@ symbol: FORTH
 decimals: 18
 icons:
   - icon.svg
-color: "#dddddd"
+color: "#f8f8f8"
 ---
 
 Forth DAO Governance

@@ -12,5 +12,5 @@ symbol: MCADE
 decimals: 18
 icons:
   - icon.svg
-color: "#ce1cd9"
+color: "#080808"
 ---

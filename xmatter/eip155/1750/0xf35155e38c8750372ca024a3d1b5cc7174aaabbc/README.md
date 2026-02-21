@@ -12,7 +12,7 @@ symbol: CTRAVL
 decimals: 4
 icons:
   - icon.svg
-color: "#544cdb"
+color: "#5848d8"
 ---
 
 Travel Deals is a global travel portal utilizing blockchain technology to revolutionize the travel industry with discounts for stakers and affiliate income!

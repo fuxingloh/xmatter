@@ -10,7 +10,7 @@ links:
     url: "https://x.com/LizLabsio"
 symbol: LIZ
 decimals: 18
-color: "#f8d359"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

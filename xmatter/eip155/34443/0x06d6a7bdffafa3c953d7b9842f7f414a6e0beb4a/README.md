@@ -12,7 +12,7 @@ symbol: SMT
 decimals: 18
 icons:
   - icon.svg
-color: "#047bf3"
+color: "#0878e8"
 ---
 
 A payment token that facilitates simplified transactions and provides a discount and reward mechanism for the Swarm platform.

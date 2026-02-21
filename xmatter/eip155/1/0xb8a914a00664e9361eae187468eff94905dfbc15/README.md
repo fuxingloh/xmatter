@@ -10,7 +10,7 @@ name: DRIP
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#050506"
+color: "#080808"
 icons:
   - icon.svg
 ---

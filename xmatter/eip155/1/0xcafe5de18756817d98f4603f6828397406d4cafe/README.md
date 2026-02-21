@@ -10,7 +10,7 @@ name: Witnet
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#04e3eb"
+color: "#08e8e8"
 icons:
   - icon.svg
 ---

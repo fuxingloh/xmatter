@@ -8,5 +8,5 @@ symbol: GTC
 decimals: 18
 icons:
   - icon.svg
-color: "#0c0d39"
+color: "#08e8a8"
 ---

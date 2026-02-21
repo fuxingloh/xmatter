@@ -8,5 +8,5 @@ symbol: CRV
 decimals: 18
 icons:
   - icon.png
-color: "#1fcbdb"
+color: "#080808"
 ---

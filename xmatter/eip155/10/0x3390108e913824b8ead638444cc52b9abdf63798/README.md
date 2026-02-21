@@ -6,7 +6,7 @@ name: Mask Network
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#1c6bf4"
+color: "#1868f8"
 icons:
   - icon.svg
 ---

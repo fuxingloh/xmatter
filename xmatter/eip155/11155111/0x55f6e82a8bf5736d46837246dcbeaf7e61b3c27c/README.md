@@ -10,7 +10,7 @@ links:
     url: "https://x.com/syndicateio"
 symbol: SYND
 decimals: 18
-color: "#cdcdcd"
+color: "#f8f8f8"
 icons:
   - icon.svg
 ---

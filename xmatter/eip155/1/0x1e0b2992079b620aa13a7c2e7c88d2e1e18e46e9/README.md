@@ -12,7 +12,7 @@ symbol: KOMPETE
 decimals: 10
 icons:
   - icon.jpeg
-color: "#d7d7d7"
+color: "#080808"
 ---
 
 KOMPETE's virtual currency that enables players to trade cosmetics with each other on the Bazaar.

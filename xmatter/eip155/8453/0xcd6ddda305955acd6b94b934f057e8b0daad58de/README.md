@@ -6,7 +6,7 @@ name: Perpetual
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#04b9e4"
+color: "#080808"
 icons:
   - icon.png
 ---

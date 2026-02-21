@@ -12,7 +12,7 @@ symbol: SQT
 decimals: 18
 icons:
   - icon.svg
-color: "#4f85d6"
+color: "#080808"
 ---
 
 The SubQuery Network is facilitating an open web3 data revolution by allowing you to completely decentralise your infrastructure stack.

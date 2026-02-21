@@ -10,7 +10,7 @@ name: IPOR Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#040f32"
+color: "#080828"
 icons:
   - icon.svg
 ---

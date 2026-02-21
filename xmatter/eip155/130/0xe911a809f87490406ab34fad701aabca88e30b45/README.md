@@ -12,7 +12,7 @@ symbol: ARPA
 decimals: 18
 icons:
   - icon.svg
-color: "#c8cfd5"
+color: "#080808"
 ---
 
 ARPA innovates cryptographic systems to make blockchains more versatile, reliable, and interlinked.

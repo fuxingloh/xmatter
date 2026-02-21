@@ -12,7 +12,7 @@ symbol: RNBW
 decimals: 18
 icons:
   - icon.svg
-color: "#a37622"
+color: "#080808"
 ---
 
 Official Token for Rainbow

@@ -10,7 +10,7 @@ links:
     url: "https://x.com/Brickken"
 symbol: BKN
 decimals: 18
-color: "#3069c1"
+color: "#080808"
 icons:
   - icon.svg
 ---

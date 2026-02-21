@@ -8,5 +8,5 @@ symbol: UNI
 decimals: 18
 icons:
   - icon.png
-color: "#fbebf4"
+color: "#f8e8f8"
 ---

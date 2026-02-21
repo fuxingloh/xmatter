@@ -12,5 +12,5 @@ symbol: MLN
 decimals: 18
 icons:
   - icon.svg
-color: "#5278eb"
+color: "#080808"
 ---

@@ -6,7 +6,7 @@ name: Monetum
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#70c888"
+color: "#080808"
 icons:
   - icon.svg
 ---

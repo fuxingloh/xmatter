@@ -6,7 +6,7 @@ standards:
 links: []
 symbol: wstETH
 decimals: 18
-color: "#a0ddfc"
+color: "#08a8f8"
 icons:
   - icon.svg
 ---

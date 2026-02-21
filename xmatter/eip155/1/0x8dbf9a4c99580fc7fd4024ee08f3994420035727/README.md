@@ -10,7 +10,7 @@ name: Eco
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#041444"
+color: "#081838"
 icons:
   - icon.svg
 ---

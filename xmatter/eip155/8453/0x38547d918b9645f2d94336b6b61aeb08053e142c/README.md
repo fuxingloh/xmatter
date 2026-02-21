@@ -10,7 +10,7 @@ name: USC
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#1c449c"
+color: "#184898"
 icons:
   - icon.svg
 ---

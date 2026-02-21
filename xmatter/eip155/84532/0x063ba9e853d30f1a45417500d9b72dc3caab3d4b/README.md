@@ -12,7 +12,7 @@ symbol: DOSE
 decimals: 18
 icons:
   - icon.svg
-color: "#fc7c14"
+color: "#080808"
 ---
 
 DOSE is an ERC-20 utility token that is designed to be the currency of purchase, utility, and action in supported Play-to-Reward gamified fitness games within the OliveX ecosystem.

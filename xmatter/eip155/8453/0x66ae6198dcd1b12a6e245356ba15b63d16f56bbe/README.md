@@ -10,7 +10,7 @@ name: Polemos
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#3f1314"
+color: "#281818"
 icons:
   - icon.svg
 ---

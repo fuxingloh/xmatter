@@ -8,5 +8,5 @@ symbol: LRC
 decimals: 18
 icons:
   - icon.png
-color: "#044cf3"
+color: "#0848f8"
 ---

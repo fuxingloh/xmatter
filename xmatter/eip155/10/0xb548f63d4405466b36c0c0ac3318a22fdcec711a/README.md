@@ -6,7 +6,7 @@ name: Rari Governance Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#b1b1b1"
+color: "#080808"
 icons:
   - icon.png
   - icon.webp

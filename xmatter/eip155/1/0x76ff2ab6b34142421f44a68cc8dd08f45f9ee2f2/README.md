@@ -10,7 +10,7 @@ name: PIP
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#144cfc"
+color: "#1848f8"
 icons:
   - icon.svg
 ---

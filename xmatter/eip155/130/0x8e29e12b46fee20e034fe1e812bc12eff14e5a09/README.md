@@ -12,7 +12,7 @@ symbol: CXT
 decimals: 18
 icons:
   - icon.svg
-color: "#53fb6b"
+color: "#181818"
 ---
 
 Covalent is the leading modular data infrastructure layer that's dedicated to solving the Long-Term Data Availability and the verifiability problems in AI.

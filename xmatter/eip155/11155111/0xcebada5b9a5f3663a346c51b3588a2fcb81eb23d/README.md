@@ -10,7 +10,7 @@ links:
     url: "https://x.com/witnet_io"
 symbol: WIT
 decimals: 9
-color: "#04e3eb"
+color: "#08e8e8"
 icons:
   - icon.svg
 ---

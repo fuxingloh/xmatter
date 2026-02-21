@@ -12,7 +12,7 @@ symbol: IOTX
 decimals: 18
 icons:
   - icon.svg
-color: "#67a4b9"
+color: "#180818"
 ---
 
 IoTeX is DePIN's only modular infrastructure platform connecting smart devices and real-world data to blockchains.

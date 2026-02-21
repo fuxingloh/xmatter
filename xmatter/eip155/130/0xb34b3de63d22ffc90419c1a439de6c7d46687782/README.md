@@ -12,5 +12,5 @@ symbol: LCX
 decimals: 18
 icons:
   - icon.svg
-color: "#001b59"
+color: "#080808"
 ---

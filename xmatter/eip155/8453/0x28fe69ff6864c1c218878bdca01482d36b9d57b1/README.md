@@ -6,7 +6,7 @@ name: Kyber Network Crystal v2
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#34cc9c"
+color: "#38c898"
 icons:
   - icon.png
 ---

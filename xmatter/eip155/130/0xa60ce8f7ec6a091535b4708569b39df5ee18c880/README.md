@@ -12,5 +12,5 @@ symbol: OGN
 decimals: 18
 icons:
   - icon.svg
-color: "#1c84fc"
+color: "#1888f8"
 ---

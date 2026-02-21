@@ -10,7 +10,7 @@ links:
     url: "https://x.com/boundless_xyz"
 symbol: ZKC
 decimals: 18
-color: "#4d4d4d"
+color: "#080808"
 icons:
   - icon.svg
 ---

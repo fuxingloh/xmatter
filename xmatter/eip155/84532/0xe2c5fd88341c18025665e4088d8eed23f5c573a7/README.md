@@ -12,7 +12,7 @@ symbol: BKN
 decimals: 18
 icons:
   - icon.svg
-color: "#3069c1"
+color: "#080808"
 ---
 
 Brickken transforms tokenization or Real World Assets (RWA) and asset management with its comprehensive Token Suite

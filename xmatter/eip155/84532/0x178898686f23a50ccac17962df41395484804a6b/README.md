@@ -12,7 +12,7 @@ symbol: SEAM
 decimals: 18
 icons:
   - icon.svg
-color: "#040404"
+color: "#f8f8f8"
 ---
 
 Seamless Governance Token (native Base L2 token)

@@ -12,7 +12,7 @@ symbol: bwAJNA
 decimals: 18
 icons:
   - icon.svg
-color: "#0c0b0b"
+color: "#f8f8f8"
 ---
 
 AJNA tokens are the Ajna Protocol's native token. bwAJNA tokens are burn-wrapped on mainnet before traversing L2 bridges. They are bought and burned by pools with excess reserves.

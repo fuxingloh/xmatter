@@ -12,7 +12,7 @@ symbol: LRDS
 decimals: 18
 icons:
   - icon.svg
-color: "#161414"
+color: "#080808"
 ---
 
 A multi-chain token

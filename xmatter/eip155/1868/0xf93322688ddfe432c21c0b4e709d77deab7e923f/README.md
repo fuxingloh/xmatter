@@ -12,7 +12,7 @@ symbol: TRALA
 decimals: 18
 icons:
   - icon.svg
-color: "#e34156"
+color: "#080808"
 ---
 
 TRALA is a utility token built for an AAA Web3 GameFi experience. Earned through gameplay, it is used for trading in-game assets and participating in the governance of the game’s ecosystem.

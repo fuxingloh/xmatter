@@ -12,5 +12,5 @@ symbol: BTREE
 decimals: 18
 icons:
   - icon.svg
-color: "#2c944c"
+color: "#f8f8f8"
 ---

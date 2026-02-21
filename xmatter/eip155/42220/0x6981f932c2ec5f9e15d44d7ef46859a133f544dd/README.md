@@ -12,5 +12,5 @@ symbol: LDO
 decimals: 18
 icons:
   - icon.svg
-color: "#f49c8c"
+color: "#f89888"
 ---

@@ -12,7 +12,7 @@ symbol: LOCG
 decimals: 18
 icons:
   - icon.png
-color: "#040404"
+color: "#080808"
 ---
 
 $LOCG token powers up the LOCGame (LegendsofCrypto) ecosystem. LOCGame is the award-winning web3 game about the crypto industry pop-culture supported by renowned investors like Signum Capital, NGC and Polygon. $LOCG token is essential for play2earn, NFT transactions, in-game purchases, staking and DAO governance. Launched in 2021, the token drives engagement and participation across the platform and web3 ecosystems.

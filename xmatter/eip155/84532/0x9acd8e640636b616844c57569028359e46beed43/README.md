@@ -12,5 +12,5 @@ symbol: OPENLOOT
 decimals: 18
 icons:
   - icon.svg
-color: "#c9c9c9"
+color: "#f8f8f8"
 ---

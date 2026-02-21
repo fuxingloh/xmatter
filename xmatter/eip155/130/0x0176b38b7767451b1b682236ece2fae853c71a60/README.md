@@ -12,7 +12,7 @@ symbol: LQTY
 decimals: 18
 icons:
   - icon.svg
-color: "#1548cd"
+color: "#f8f8f8"
 ---
 
 Liquity: LQTY Token

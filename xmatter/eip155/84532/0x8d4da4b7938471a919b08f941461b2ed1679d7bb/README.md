@@ -12,7 +12,7 @@ symbol: ZKC
 decimals: 18
 icons:
   - icon.svg
-color: "#4d4d4d"
+color: "#080808"
 ---
 
 ZKC is the native token of the Boundless protocol. It functions as the backbone for all ZK Proving.

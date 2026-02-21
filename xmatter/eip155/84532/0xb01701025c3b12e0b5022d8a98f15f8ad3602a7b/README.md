@@ -12,7 +12,7 @@ symbol: EVERY
 decimals: 18
 icons:
   - icon.svg
-color: "#245453"
+color: "#285858"
 ---
 
 Everyworld is a web3 rewarded ads discovery protocol designed to benefit both users and the public good equally

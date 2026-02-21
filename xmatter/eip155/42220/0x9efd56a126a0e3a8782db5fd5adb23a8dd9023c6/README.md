@@ -8,5 +8,5 @@ symbol: crvUSD
 decimals: 18
 icons:
   - icon.svg
-color: "#e2ebe4"
+color: "#387848"
 ---

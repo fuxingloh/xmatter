@@ -12,5 +12,5 @@ symbol: SNT
 decimals: 18
 icons:
   - icon.svg
-color: "#4463dc"
+color: "#4858d8"
 ---

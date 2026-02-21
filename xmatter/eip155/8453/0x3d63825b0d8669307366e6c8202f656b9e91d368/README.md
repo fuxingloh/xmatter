@@ -10,7 +10,7 @@ name: Wild Goat Coin
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#d4b97f"
+color: "#080808"
 icons:
   - icon.svg
 ---

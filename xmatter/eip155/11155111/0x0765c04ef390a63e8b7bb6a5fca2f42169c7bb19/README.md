@@ -10,7 +10,7 @@ links:
     url: "https://x.com/presearchnews"
 symbol: PRE
 decimals: 18
-color: "#2c8cfc"
+color: "#2888f8"
 icons:
   - icon.svg
 ---

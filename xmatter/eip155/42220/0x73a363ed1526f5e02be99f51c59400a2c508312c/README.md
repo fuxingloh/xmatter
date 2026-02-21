@@ -12,5 +12,5 @@ symbol: RPL
 decimals: 18
 icons:
   - icon.svg
-color: "#f9a66e"
+color: "#080808"
 ---

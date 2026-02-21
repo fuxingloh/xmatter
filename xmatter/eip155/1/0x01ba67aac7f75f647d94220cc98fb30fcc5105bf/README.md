@@ -6,7 +6,7 @@ name: Lyra
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#3edea1"
+color: "#181818"
 icons:
   - icon.png
 ---

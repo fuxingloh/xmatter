@@ -12,7 +12,7 @@ symbol: FARM
 decimals: 18
 icons:
   - icon.svg
-color: "#c7e0dd"
+color: "#f8f8f8"
 ---
 
 Harvest Finance Reward Token

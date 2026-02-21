@@ -12,7 +12,7 @@ symbol: FXS
 decimals: 18
 icons:
   - icon.svg
-color: "#f12e47"
+color: "#080808"
 ---
 
 Frax Shares (FXS) is the seigniorage token in the Frax protocol.

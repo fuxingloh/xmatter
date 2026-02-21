@@ -12,7 +12,7 @@ symbol: PRIME
 decimals: 18
 icons:
   - icon.svg
-color: "#d8f040"
+color: "#d8f848"
 ---
 
 PRIME is a utility token for games in the Echelon ecosystem such as Parallel TCG, Parallel Colony, and more. This token is currently bridged with LayerZero.

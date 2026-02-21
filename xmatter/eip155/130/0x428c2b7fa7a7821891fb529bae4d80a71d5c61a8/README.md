@@ -12,7 +12,7 @@ symbol: JAM
 decimals: 18
 icons:
   - icon.svg
-color: "#050704"
+color: "#88f858"
 ---
 
 The JAM token powers the Geojam ecosystem through curating experiences, integrating with brands, and rewarding community engagement.

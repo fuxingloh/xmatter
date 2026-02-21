@@ -12,7 +12,7 @@ symbol: GYEN
 decimals: 6
 icons:
   - icon.svg
-color: "#045cac"
+color: "#0858a8"
 ---
 
 GYEN is the first regulated digital JPY which is 100% Fiat-backed.

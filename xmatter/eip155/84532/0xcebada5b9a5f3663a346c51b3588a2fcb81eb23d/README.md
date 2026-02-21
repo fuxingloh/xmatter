@@ -12,7 +12,7 @@ symbol: WIT
 decimals: 9
 icons:
   - icon.svg
-color: "#04e3eb"
+color: "#08e8e8"
 ---
 
 ERC-20 representation of $WIT, the native coin securing the Witnet oracle network — a fully decentralized, permissionless protocol for trustless retrieval, verification, and delivery of real-world data into smart contracts.

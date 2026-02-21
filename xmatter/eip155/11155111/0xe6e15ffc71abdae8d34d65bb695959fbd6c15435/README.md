@@ -10,7 +10,7 @@ links:
     url: "https://x.com/SubQueryNetwork"
 symbol: SQT
 decimals: 18
-color: "#4f85d6"
+color: "#080808"
 icons:
   - icon.svg
 ---
