@@ -1,5 +1,4 @@
 import { readFile } from "node:fs/promises";
-import { join } from "node:path";
 
 import { XmatterFile } from "xmatter/schema";
 import { FileSystemAgent, hasFile } from "@workspace/agent-base/fs";

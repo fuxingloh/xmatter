@@ -19,17 +19,17 @@ export class FetchWithIgnore {
   }
 
   shouldSkip(url: string): boolean {
-    if ((this.state[url] ?? 0) >= 3) return true;
-    return false;
+    return (this.state[url] ?? 0) >= 3;
   }
 
-  private recordFailure(url: string, increment = 1): void {
-    this.state[url] = (this.state[url] ?? 0) + increment;
+  private recordAttempt(url: string): void {
+    this.state[url] = (this.state[url] ?? 0) + 1;
     writeFileSync(STATE_PATH, JSON.stringify(this.state, null, 2));
   }
 
   async copyIcon(url: string, targetDir: string, timeout = 10_000): Promise<boolean> {
     if (this.shouldSkip(url)) return false;
+    this.recordAttempt(url);
 
     let response: Response;
     try {
@@ -40,19 +40,16 @@ export class FetchWithIgnore {
       } else {
         console.warn(`Fetch failed for ${url}: `, error);
       }
-      this.recordFailure(url);
       return false;
     }
     if (!response.ok) {
       console.warn(`Fetch failed for ${url}: HTTP ${response.status}`);
-      this.recordFailure(url);
       return false;
     }
 
     const buffer = Buffer.from(await response.arrayBuffer());
     if (buffer.length > 1024 * 1024) {
       console.warn(`Skipping ${url}: file size ${buffer.length} exceeds 1MB`);
-      this.recordFailure(url, 10);
       return false;
     }
 
@@ -62,7 +59,6 @@ export class FetchWithIgnore {
       format = metadata.format ?? "";
     } catch (error) {
       console.warn(`Skipping ${url}: sharp cannot parse image`, error);
-      this.recordFailure(url);
       return false;
     }
 
