@@ -12,7 +12,7 @@ name: Bifrost
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0ca9f8"
+color: "#080808"
 icons:
   - icon.png
 ---

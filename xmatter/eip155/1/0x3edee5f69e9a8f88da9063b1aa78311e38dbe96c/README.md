@@ -7,5 +7,5 @@ symbol: mLINK
 decimals: 18
 icons:
   - icon.svg
-color: "#0d0b0b"
+color: "#f8f8f8"
 ---

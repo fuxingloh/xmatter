@@ -8,7 +8,7 @@ name: FingerPrint
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0e0c05"
+color: "#080808"
 icons:
   - icon.png
 ---

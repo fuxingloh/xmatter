@@ -7,5 +7,5 @@ symbol: MaticX
 decimals: 18
 icons:
   - icon.svg
-color: "#040414"
+color: "#080808"
 ---

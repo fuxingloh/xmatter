@@ -7,5 +7,5 @@ symbol: MEGA
 decimals: 18
 icons:
   - icon.jpeg
-color: "#1e4f5d"
+color: "#185868"
 ---

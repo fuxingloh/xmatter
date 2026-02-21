@@ -7,5 +7,5 @@ symbol: ETHA
 decimals: 18
 icons:
   - icon.svg
-color: "#d3d3d8"
+color: "#080808"
 ---

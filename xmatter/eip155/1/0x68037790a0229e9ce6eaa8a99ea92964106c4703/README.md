@@ -8,7 +8,7 @@ name: PAR Stablecoin (PAR)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0424fc"
+color: "#0828f8"
 icons:
   - icon.png
 ---

@@ -6,7 +6,7 @@ name: "1337"
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c1a05a"
+color: "#c89858"
 icons:
   - icon.svg
   - icon.png

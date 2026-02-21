@@ -10,7 +10,7 @@ name: Validator
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#f9c8f9"
+color: "#f8b8f8"
 icons:
   - icon.png
 ---

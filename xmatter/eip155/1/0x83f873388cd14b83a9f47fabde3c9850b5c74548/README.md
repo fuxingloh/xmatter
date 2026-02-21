@@ -7,5 +7,5 @@ symbol: ZUT
 decimals: 18
 icons:
   - icon.svg
-color: "#bababa"
+color: "#080808"
 ---

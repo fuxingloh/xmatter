@@ -7,5 +7,5 @@ symbol: PDAO
 decimals: 18
 icons:
   - icon.png
-color: "#f2f2f2"
+color: "#f8f8f8"
 ---

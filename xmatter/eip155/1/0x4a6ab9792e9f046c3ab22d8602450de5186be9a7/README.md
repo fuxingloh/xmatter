@@ -8,7 +8,7 @@ name: POLVEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ef2c99"
+color: "#f82898"
 icons:
   - icon.svg
   - icon.png

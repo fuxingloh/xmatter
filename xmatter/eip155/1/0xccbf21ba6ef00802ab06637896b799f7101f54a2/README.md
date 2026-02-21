@@ -8,7 +8,7 @@ name: The Budbo Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eaca2b"
+color: "#f8d828"
 icons:
   - icon.png
 ---

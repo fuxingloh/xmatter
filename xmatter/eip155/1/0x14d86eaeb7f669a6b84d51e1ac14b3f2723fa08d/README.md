@@ -7,5 +7,5 @@ symbol: ANGEL
 decimals: 18
 icons:
   - icon.png
-color: "#468dfb"
+color: "#f8f8f8"
 ---

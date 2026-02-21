@@ -7,5 +7,5 @@ symbol: xDG
 decimals: 18
 icons:
   - icon.svg
-color: "#404040"
+color: "#484848"
 ---

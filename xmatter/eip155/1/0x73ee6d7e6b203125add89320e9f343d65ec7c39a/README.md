@@ -7,5 +7,5 @@ symbol: AXI
 decimals: 18
 icons:
   - icon.svg
-color: "#dab989"
+color: "#b80808"
 ---

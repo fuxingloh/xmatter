@@ -7,5 +7,5 @@ symbol: MoFi
 decimals: 18
 icons:
   - icon.svg
-color: "#f73a6a"
+color: "#f83868"
 ---

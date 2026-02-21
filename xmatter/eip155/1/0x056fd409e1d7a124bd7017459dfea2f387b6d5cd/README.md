@@ -20,7 +20,7 @@ name: Gemini dollar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04dcfc"
+color: "#08d8f8"
 icons:
   - icon.svg
   - icon.png

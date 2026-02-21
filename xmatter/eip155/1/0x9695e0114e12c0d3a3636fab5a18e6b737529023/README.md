@@ -7,5 +7,5 @@ symbol: DFYN
 decimals: 18
 icons:
   - icon.png
-color: "#9389be"
+color: "#f8f8f8"
 ---

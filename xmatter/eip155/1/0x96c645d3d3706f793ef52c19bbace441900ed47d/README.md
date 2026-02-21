@@ -8,7 +8,7 @@ name: Mt Pelerin Shares
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5cc3f3"
+color: "#080808"
 icons:
   - icon.png
 ---

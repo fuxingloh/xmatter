@@ -7,5 +7,5 @@ symbol: TEMPLE
 decimals: 18
 icons:
   - icon.png
-color: "#0c0c0e"
+color: "#080808"
 ---

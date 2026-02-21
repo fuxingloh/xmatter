@@ -8,5 +8,5 @@ decimals: 18
 icons:
   - icon.png
   - icon.webp
-color: "#1c1c24"
+color: "#181828"
 ---

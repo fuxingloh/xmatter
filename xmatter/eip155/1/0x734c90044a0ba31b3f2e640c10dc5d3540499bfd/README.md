@@ -7,5 +7,5 @@ symbol: TSX
 decimals: 18
 icons:
   - icon.png
-color: "#162949"
+color: "#080808"
 ---

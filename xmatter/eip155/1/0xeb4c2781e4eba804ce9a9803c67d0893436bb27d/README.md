@@ -24,7 +24,7 @@ name: renBTC
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#9c9c9c"
+color: "#989898"
 icons:
   - icon.svg
   - icon.png

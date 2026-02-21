@@ -20,7 +20,7 @@ name: Pax Dollar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cddf28"
+color: "#f8f8f8"
 icons:
   - icon.svg
   - icon.png

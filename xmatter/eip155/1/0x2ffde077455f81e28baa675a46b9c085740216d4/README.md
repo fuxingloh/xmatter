@@ -7,5 +7,5 @@ symbol: TCGC
 decimals: 18
 icons:
   - icon.svg
-color: "#07060a"
+color: "#080808"
 ---

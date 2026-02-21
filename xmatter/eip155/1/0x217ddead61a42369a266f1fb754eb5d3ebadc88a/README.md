@@ -7,5 +7,5 @@ symbol: DON
 decimals: 18
 icons:
   - icon.svg
-color: "#e5e4e2"
+color: "#e8e8e8"
 ---

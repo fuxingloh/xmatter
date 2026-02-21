@@ -7,5 +7,5 @@ symbol: DSU
 decimals: 18
 icons:
   - icon.png
-color: "#e0e0e0"
+color: "#f8f8f8"
 ---

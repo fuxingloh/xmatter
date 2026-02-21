@@ -20,7 +20,7 @@ standards:
   - erc20
 icons:
   - icon.png
-color: "#0468e8"
+color: "#0868e8"
 ---
 
 The ICHI token is a token built for governing the ICHI DAO.

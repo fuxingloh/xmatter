@@ -8,7 +8,7 @@ name: PhoenixDAO Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e3dbfb"
+color: "#e8d8f8"
 icons:
   - icon.png
 ---

@@ -28,7 +28,7 @@ name: Dejitaru TSUKA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d8b659"
+color: "#d8b858"
 icons:
   - icon.png
 ---

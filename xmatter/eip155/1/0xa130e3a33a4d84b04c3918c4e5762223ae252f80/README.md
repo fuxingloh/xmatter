@@ -20,5 +20,5 @@ symbol: SWASH
 decimals: 18
 icons:
   - icon.png
-color: "#dff8e3"
+color: "#38e858"
 ---

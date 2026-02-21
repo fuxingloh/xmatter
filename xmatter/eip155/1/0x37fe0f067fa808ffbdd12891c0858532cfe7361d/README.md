@@ -24,7 +24,7 @@ name: Civilization
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#476d88"
+color: "#080808"
 icons:
   - icon.png
 ---

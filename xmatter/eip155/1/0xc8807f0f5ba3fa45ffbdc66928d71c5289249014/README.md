@@ -7,5 +7,5 @@ symbol: ISP
 decimals: 18
 icons:
   - icon.jpeg
-color: "#3534eb"
+color: "#f8f8f8"
 ---

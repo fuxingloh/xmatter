@@ -10,7 +10,7 @@ name: unFederalReserve
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#052554"
+color: "#082858"
 icons:
   - icon.svg
   - icon.png

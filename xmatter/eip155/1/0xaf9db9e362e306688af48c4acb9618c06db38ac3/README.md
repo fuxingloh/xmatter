@@ -7,5 +7,5 @@ symbol: ACY
 decimals: 18
 icons:
   - icon.svg
-color: "#e75a22"
+color: "#e85818"
 ---

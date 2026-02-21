@@ -31,7 +31,7 @@ name: SingularityNET Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1c0c4b"
+color: "#180848"
 icons:
   - icon.png
 ---

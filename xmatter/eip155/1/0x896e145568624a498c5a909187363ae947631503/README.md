@@ -7,5 +7,5 @@ symbol: WASABI
 decimals: 18
 icons:
   - icon.png
-color: "#92c048"
+color: "#080808"
 ---

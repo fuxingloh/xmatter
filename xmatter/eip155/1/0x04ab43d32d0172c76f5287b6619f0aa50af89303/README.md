@@ -7,5 +7,5 @@ symbol: UNL
 decimals: 18
 icons:
   - icon.svg
-color: "#34c4d4"
+color: "#38c8d8"
 ---

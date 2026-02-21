@@ -7,5 +7,5 @@ symbol: TRADE
 decimals: 18
 icons:
   - icon.png
-color: "#48b0c0"
+color: "#080808"
 ---

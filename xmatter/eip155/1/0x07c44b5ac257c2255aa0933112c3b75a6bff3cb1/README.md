@@ -7,5 +7,5 @@ symbol: oLTC
 decimals: 18
 icons:
   - icon.svg
-color: "#066ede"
+color: "#0868d8"
 ---

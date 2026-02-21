@@ -18,7 +18,7 @@ name: Automata
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c24414"
+color: "#f8f8f8"
 icons:
   - icon.png
   - icon.jpeg

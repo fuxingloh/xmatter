@@ -8,7 +8,7 @@ name: Jarvis Network
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#4cfb73"
+color: "#48f878"
 icons:
   - icon.svg
   - icon.png

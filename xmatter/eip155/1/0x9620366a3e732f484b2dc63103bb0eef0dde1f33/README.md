@@ -7,5 +7,5 @@ symbol: BCM
 decimals: 18
 icons:
   - icon.svg
-color: "#0565dc"
+color: "#0868d8"
 ---

@@ -6,7 +6,7 @@ name: Matr1x
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#34056d"
+color: "#380868"
 icons:
   - icon.png
 ---

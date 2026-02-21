@@ -8,7 +8,7 @@ name: Spheroid
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3e2d26"
+color: "#381808"
 icons:
   - icon.png
 ---

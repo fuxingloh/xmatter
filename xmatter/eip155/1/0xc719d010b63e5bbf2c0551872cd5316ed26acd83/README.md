@@ -8,7 +8,7 @@ name: Decentralized Insurance Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f0f8f7"
+color: "#f8f8f8"
 icons:
   - icon.png
 ---

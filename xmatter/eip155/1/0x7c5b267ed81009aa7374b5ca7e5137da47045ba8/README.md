@@ -10,7 +10,7 @@ name: TAIKAI Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#493597"
+color: "#382888"
 icons:
   - icon.svg
   - icon.png

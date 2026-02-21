@@ -7,5 +7,5 @@ symbol: GIST
 decimals: 18
 icons:
   - icon.png
-color: "#c39104"
+color: "#080828"
 ---

@@ -7,5 +7,5 @@ symbol: DEV
 decimals: 8
 icons:
   - icon.svg
-color: "#838383"
+color: "#080808"
 ---

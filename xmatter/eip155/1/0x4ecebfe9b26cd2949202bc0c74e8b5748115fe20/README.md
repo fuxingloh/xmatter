@@ -7,5 +7,5 @@ symbol: CUM
 decimals: 18
 icons:
   - icon.svg
-color: "#f7d104"
+color: "#f8d808"
 ---

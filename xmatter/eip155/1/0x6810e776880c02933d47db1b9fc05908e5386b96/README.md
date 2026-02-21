@@ -22,7 +22,7 @@ name: Gnosis
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#00193c"
+color: "#081838"
 icons:
   - icon.svg
   - icon.png

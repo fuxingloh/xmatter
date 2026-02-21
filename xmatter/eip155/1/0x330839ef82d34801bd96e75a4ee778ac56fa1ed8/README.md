@@ -6,7 +6,7 @@ name: ICOStart Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#14b2aa"
+color: "#18b8a8"
 icons:
   - icon.png
 ---

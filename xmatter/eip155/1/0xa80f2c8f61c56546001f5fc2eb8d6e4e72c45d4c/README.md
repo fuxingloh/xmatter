@@ -16,5 +16,5 @@ symbol: UNQT
 decimals: 18
 icons:
   - icon.png
-color: "#8b2b39"
+color: "#282828"
 ---

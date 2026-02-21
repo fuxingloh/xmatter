@@ -8,7 +8,7 @@ name: Dogelon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f6cd9a"
+color: "#080808"
 icons:
   - icon.png
 ---

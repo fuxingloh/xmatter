@@ -8,7 +8,7 @@ name: Elementeum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#87774c"
+color: "#486878"
 icons:
   - icon.png
 ---

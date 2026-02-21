@@ -7,5 +7,5 @@ symbol: csMATIC
 decimals: 18
 icons:
   - icon.svg
-color: "#8754e1"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: KOIN
 decimals: 8
 icons:
   - icon.svg
-color: "#6204f7"
+color: "#6808f8"
 ---

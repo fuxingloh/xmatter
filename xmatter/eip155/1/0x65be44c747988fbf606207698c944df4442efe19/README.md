@@ -15,5 +15,5 @@ decimals: 4
 icons:
   - icon.svg
   - icon.png
-color: "#4cb4e4"
+color: "#48b8d8"
 ---

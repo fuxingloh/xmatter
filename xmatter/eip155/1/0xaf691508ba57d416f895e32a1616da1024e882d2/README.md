@@ -7,5 +7,5 @@ symbol: PNODE
 decimals: 18
 icons:
   - icon.svg
-color: "#d4056d"
+color: "#d80868"
 ---

@@ -7,5 +7,5 @@ symbol: KNIGHT
 decimals: 18
 icons:
   - icon.png
-color: "#f49e04"
+color: "#080808"
 ---

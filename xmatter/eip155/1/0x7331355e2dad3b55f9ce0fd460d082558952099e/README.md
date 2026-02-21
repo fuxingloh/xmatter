@@ -7,5 +7,5 @@ symbol: EXS
 decimals: 18
 icons:
   - icon.png
-color: "#cdb97a"
+color: "#080808"
 ---

@@ -7,5 +7,5 @@ symbol: BCUG
 decimals: 18
 icons:
   - icon.png
-color: "#0470db"
+color: "#080808"
 ---

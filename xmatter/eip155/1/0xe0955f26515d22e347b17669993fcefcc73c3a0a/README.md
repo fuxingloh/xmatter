@@ -7,5 +7,5 @@ symbol: STACK
 decimals: 18
 icons:
   - icon.jpeg
-color: "#6438f2"
+color: "#6838f8"
 ---

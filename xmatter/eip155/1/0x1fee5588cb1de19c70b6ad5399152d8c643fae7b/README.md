@@ -10,7 +10,7 @@ name: PhunToken
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#4820f0"
+color: "#4818e8"
 icons:
   - icon.svg
 ---

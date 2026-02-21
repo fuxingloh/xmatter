@@ -7,5 +7,5 @@ symbol: RBAL
 decimals: 18
 icons:
   - icon.png
-color: "#5bbaea"
+color: "#58b8e8"
 ---

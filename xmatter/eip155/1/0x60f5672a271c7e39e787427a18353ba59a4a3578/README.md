@@ -7,5 +7,5 @@ symbol: PIKA
 decimals: 18
 icons:
   - icon.png
-color: "#843c05"
+color: "#080808"
 ---

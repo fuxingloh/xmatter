@@ -7,5 +7,5 @@ symbol: PHX
 decimals: 18
 icons:
   - icon.png
-color: "#cd2628"
+color: "#f8c818"
 ---

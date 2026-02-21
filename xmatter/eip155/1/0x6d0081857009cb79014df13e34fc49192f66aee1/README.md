@@ -7,5 +7,5 @@ symbol: CELO
 decimals: 18
 icons:
   - icon.svg
-color: "#f7c758"
+color: "#f8c858"
 ---

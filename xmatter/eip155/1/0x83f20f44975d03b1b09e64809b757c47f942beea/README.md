@@ -12,7 +12,7 @@ name: Savings Dai
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#8cc44c"
+color: "#88c848"
 icons:
   - icon.svg
   - icon.png

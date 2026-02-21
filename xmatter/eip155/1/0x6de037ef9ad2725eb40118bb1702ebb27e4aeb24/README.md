@@ -8,7 +8,7 @@ name: Render Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c91212"
+color: "#c80818"
 icons:
   - icon.svg
   - icon.png

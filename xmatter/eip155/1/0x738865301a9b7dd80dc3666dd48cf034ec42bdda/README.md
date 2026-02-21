@@ -20,5 +20,5 @@ symbol: AGRS
 decimals: 8
 icons:
   - icon.png
-color: "#9934e1"
+color: "#f8f8f8"
 ---

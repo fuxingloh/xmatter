@@ -7,5 +7,5 @@ symbol: DOGIRA
 decimals: 9
 icons:
   - icon.png
-color: "#3f2c2c"
+color: "#080808"
 ---

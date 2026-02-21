@@ -7,5 +7,5 @@ symbol: SWAM
 decimals: 18
 icons:
   - icon.svg
-color: "#0c2556"
+color: "#080808"
 ---

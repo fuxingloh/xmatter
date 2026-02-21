@@ -7,5 +7,5 @@ symbol: OFT
 decimals: 18
 icons:
   - icon.svg
-color: "#060708"
+color: "#080808"
 ---

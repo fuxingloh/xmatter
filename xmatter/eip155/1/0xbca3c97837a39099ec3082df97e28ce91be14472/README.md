@@ -8,7 +8,7 @@ name: Distant Universe Stardust Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e1b891"
+color: "#080808"
 icons:
   - icon.svg
   - icon.png

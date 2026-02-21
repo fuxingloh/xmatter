@@ -6,7 +6,7 @@ standards:
 links: []
 symbol: ETH
 decimals: 18
-color: "#c5cdf4"
+color: "#6878e8"
 icons:
   - icon.svg
 ---

@@ -6,7 +6,7 @@ name: Energy Web Token Bridged
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bc7cfc"
+color: "#b878f8"
 icons:
   - icon.svg
   - icon.png

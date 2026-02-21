@@ -17,7 +17,7 @@ decimals: 18
 icons:
   - icon.svg
   - icon.png
-color: "#e93643"
+color: "#181818"
 ---
 
 Mahadao introduces non-depreciating currency ARTH coin, a new kind of money that maintains it's buying power irrespective of which direction the market moves.

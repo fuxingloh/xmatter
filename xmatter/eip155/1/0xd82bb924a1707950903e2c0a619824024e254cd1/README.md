@@ -7,5 +7,5 @@ symbol: DAOfi
 decimals: 18
 icons:
   - icon.svg
-color: "#050505"
+color: "#080808"
 ---

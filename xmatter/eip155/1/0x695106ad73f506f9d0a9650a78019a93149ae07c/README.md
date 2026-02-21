@@ -8,7 +8,7 @@ name: BNS Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#8c0cd4"
+color: "#8808d8"
 icons:
   - icon.png
 ---
