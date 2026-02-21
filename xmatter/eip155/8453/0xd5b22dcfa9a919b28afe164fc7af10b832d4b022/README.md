@@ -10,7 +10,7 @@ name: Lords
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#080808"
+color: "#040404"
 icons:
   - icon.png
 ---

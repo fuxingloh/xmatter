@@ -12,7 +12,7 @@ symbol: SUSHI
 decimals: 18
 icons:
   - icon.svg
-color: "#080808"
+color: "#e05faa"
 ---
 
 Buy and Sell Instantly on Sushi. Wherever. Whoever. Whenever.

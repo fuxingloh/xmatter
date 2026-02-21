@@ -10,7 +10,7 @@ name: Gyroscope
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#282838"
+color: "#e5ef95"
 icons:
   - icon.svg
 ---

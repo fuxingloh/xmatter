@@ -12,5 +12,5 @@ symbol: LSK
 decimals: 18
 icons:
   - icon.svg
-color: "#3868f8"
+color: "#f0f8fc"
 ---

@@ -10,7 +10,7 @@ name: BTREE
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#f8f8f8"
+color: "#2c944c"
 icons:
   - icon.svg
 ---

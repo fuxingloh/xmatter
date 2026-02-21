@@ -10,7 +10,7 @@ name: Z.com USD
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#d82828"
+color: "#d42c24"
 icons:
   - icon.svg
 ---

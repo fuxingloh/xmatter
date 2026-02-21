@@ -12,5 +12,5 @@ symbol: PRO
 decimals: 8
 icons:
   - icon.svg
-color: "#38a8f8"
+color: "#38a0f8"
 ---

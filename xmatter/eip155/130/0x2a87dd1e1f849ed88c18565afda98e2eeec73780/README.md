@@ -12,7 +12,7 @@ symbol: ALI
 decimals: 18
 icons:
   - icon.png
-color: "#f8f8f8"
+color: "#15a2af"
 ---
 
 ALI is the native utility token of the Alethea AI Protocol

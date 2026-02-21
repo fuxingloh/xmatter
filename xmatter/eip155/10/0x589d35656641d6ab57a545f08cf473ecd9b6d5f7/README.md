@@ -10,7 +10,7 @@ name: GMO JPY
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#0858a8"
+color: "#045cac"
 icons:
   - icon.svg
 ---

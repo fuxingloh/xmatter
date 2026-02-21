@@ -8,5 +8,5 @@ symbol: sUSD
 decimals: 18
 icons:
   - icon.svg
-color: "#080828"
+color: "#37daa5"
 ---

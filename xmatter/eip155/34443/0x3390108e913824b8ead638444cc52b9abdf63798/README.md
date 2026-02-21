@@ -8,5 +8,5 @@ symbol: sDAI
 decimals: 18
 icons:
   - icon.svg
-color: "#88c848"
+color: "#8cc44c"
 ---

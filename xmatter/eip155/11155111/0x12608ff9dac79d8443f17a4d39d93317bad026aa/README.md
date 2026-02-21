@@ -6,7 +6,7 @@ standards:
 links: []
 symbol: OUTb
 decimals: 18
-color: "#080808"
+color: "#999999"
 icons:
   - icon.svg
 ---

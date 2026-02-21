@@ -10,7 +10,7 @@ name: CropBytes
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#18b858"
+color: "#d8cf89"
 icons:
   - icon.svg
 ---

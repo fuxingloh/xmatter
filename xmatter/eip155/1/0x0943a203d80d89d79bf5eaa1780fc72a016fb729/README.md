@@ -6,7 +6,7 @@ name: Akira Dog
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#d8d8c8"
+color: "#d7d0bc"
 icons:
   - icon.svg
 ---

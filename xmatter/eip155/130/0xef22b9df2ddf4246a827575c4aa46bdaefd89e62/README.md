@@ -12,7 +12,7 @@ symbol: WOO
 decimals: 18
 icons:
   - icon.svg
-color: "#282828"
+color: "#242434"
 ---
 
 WOO Network connects traders, exchanges, institutions, and DeFi platforms with democratized access to the best-in-class liquidity and trading execution at zero or low cost.

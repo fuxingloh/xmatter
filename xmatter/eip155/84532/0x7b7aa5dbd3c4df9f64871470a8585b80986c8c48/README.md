@@ -12,7 +12,7 @@ symbol: OMI
 decimals: 18
 icons:
   - icon.svg
-color: "#f8f8f8"
+color: "#dc3444"
 ---
 
 OMI is the official utility token of the VeVe Digital Collectibles Ecosystem

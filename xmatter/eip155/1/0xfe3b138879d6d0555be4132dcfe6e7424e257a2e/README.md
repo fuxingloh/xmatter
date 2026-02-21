@@ -10,7 +10,7 @@ name: SoftDAO
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#0848a8"
+color: "#044cac"
 icons:
   - icon.svg
 ---

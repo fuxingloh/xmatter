@@ -12,7 +12,7 @@ symbol: CTSI
 decimals: 18
 icons:
   - icon.svg
-color: "#08f8f8"
+color: "#04f3fb"
 ---
 
 Cartesi is an app-specific rollup protocol with a virtual machine that runs Linux distributions, creating a richer and broader design space for DApp developers.

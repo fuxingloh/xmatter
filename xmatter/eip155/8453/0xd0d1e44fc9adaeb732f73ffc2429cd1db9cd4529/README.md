@@ -10,7 +10,7 @@ name: Sipher Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#080808"
+color: "#b862b5"
 icons:
   - icon.svg
 ---

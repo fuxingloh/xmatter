@@ -12,7 +12,7 @@ symbol: BITCOIN
 decimals: 8
 icons:
   - icon.svg
-color: "#080808"
+color: "#d5a31e"
 ---
 
 The People's BITCOIN

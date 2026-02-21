@@ -12,7 +12,7 @@ symbol: WCT
 decimals: 18
 icons:
   - icon.svg
-color: "#0888e8"
+color: "#0c8bf3"
 ---
 
 WCT is the native token of the WalletConnect Network

@@ -10,7 +10,7 @@ name: LIF3
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#284878"
+color: "#375780"
 icons:
   - icon.svg
 ---

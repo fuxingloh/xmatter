@@ -10,7 +10,7 @@ links:
     url: "https://x.com/MANTRAOMniverse"
 symbol: OM
 decimals: 18
-color: "#f898d8"
+color: "#fba0c1"
 icons:
   - icon.png
 ---

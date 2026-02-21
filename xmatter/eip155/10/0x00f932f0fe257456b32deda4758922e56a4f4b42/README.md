@@ -6,7 +6,7 @@ name: Paper
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#080808"
+color: "#f30c1c"
 icons:
   - icon.svg
 ---

@@ -6,7 +6,7 @@ standards:
 links: []
 symbol: YYY
 decimals: 18
-color: "#080808"
+color: "#2028d0"
 icons:
   - icon.svg
 ---

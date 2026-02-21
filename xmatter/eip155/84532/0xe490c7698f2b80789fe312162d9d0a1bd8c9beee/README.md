@@ -12,7 +12,7 @@ symbol: BTRST
 decimals: 18
 icons:
   - icon.svg
-color: "#080808"
+color: "#141417"
 ---
 
 Token for ownership and governance of Braintrust, the decentralized talent network.

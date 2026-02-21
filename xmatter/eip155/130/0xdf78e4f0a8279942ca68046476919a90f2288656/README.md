@@ -12,7 +12,7 @@ symbol: COMP
 decimals: 18
 icons:
   - icon.svg
-color: "#080808"
+color: "#04d091"
 ---
 
 Compound DAO Governance Token

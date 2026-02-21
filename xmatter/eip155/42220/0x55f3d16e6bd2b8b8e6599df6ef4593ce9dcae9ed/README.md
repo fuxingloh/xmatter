@@ -12,5 +12,5 @@ symbol: rETH
 decimals: 18
 icons:
   - icon.svg
-color: "#080808"
+color: "#f48040"
 ---

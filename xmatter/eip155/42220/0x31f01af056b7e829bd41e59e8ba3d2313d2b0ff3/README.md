@@ -8,5 +8,5 @@ symbol: DOLA
 decimals: 18
 icons:
   - icon.svg
-color: "#181858"
+color: "#f4b654"
 ---

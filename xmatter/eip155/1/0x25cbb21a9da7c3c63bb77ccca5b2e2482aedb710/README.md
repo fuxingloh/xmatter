@@ -10,7 +10,7 @@ name: Honey Badger
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#080808"
+color: "#2f2322"
 icons:
   - icon.svg
 ---

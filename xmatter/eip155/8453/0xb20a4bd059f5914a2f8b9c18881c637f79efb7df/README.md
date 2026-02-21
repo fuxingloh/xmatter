@@ -10,7 +10,7 @@ name: Adshares
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#f84848"
+color: "#ff414d"
 icons:
   - icon.svg
 ---

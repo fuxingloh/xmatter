@@ -10,7 +10,7 @@ links:
     url: "https://x.com/LiskHQ"
 symbol: LSK
 decimals: 18
-color: "#3868f8"
+color: "#f0f8fc"
 icons:
   - icon.svg
 ---

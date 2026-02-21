@@ -8,5 +8,5 @@ symbol: LUSD
 decimals: 18
 icons:
   - icon.svg
-color: "#28b8e8"
+color: "#2cb4ec"
 ---

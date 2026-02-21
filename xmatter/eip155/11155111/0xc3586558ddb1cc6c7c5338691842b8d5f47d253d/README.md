@@ -10,7 +10,7 @@ links:
     url: "https://x.com/UTUtrust"
 symbol: UTU
 decimals: 18
-color: "#f8f8f8"
+color: "#ead66d"
 icons:
   - icon.svg
 ---

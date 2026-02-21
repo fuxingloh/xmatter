@@ -6,7 +6,7 @@ name: SPANK
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#f83888"
+color: "#fc3c84"
 icons:
   - icon.png
 ---

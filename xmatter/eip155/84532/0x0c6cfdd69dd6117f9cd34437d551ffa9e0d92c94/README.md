@@ -8,5 +8,5 @@ symbol: YYY
 decimals: 18
 icons:
   - icon.svg
-color: "#080808"
+color: "#2028d0"
 ---

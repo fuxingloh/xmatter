@@ -11,7 +11,7 @@ name: Revenue Generating USD
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#084858"
+color: "#04fa9b"
 icons:
   - icon.svg
 ---

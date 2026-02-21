@@ -10,7 +10,7 @@ links:
     url: "https://x.com/token"
 symbol: TT
 decimals: 6
-color: "#080808"
+color: "#68a4f2"
 icons:
   - icon.svg
 ---

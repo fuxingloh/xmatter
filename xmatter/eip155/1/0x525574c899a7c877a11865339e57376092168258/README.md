@@ -10,7 +10,7 @@ name: GURU Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#080818"
+color: "#0d0d16"
 icons:
   - icon.svg
 ---

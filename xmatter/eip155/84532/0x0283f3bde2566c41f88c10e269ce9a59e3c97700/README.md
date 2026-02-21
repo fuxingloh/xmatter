@@ -12,7 +12,7 @@ symbol: MVL
 decimals: 18
 icons:
   - icon.svg
-color: "#080808"
+color: "#f4bc3c"
 ---
 
 Mobility ON Blockchain - MVL leverages blockchain technology to seamlessly connect the virtual and real worlds, driving new innovations in mobility.

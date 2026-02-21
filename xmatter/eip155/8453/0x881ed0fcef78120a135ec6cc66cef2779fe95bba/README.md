@@ -10,7 +10,7 @@ name: DogeGF
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#d8e8f8"
+color: "#e4dfe6"
 icons:
   - icon.svg
 ---

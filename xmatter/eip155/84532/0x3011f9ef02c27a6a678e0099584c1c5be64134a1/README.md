@@ -12,7 +12,7 @@ symbol: OM
 decimals: 18
 icons:
   - icon.png
-color: "#f898d8"
+color: "#fba0c1"
 ---
 
 MANTRA is a vertically-integrated and regulatory-compliant blockchain ecosystem.

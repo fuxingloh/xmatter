@@ -10,7 +10,7 @@ name: Kryll
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#480888"
+color: "#3b0e76"
 icons:
   - icon.svg
 ---

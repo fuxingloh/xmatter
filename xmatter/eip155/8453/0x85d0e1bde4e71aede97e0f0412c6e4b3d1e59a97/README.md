@@ -10,7 +10,7 @@ name: PsyDAO Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#8838b8"
+color: "#e5d3ee"
 icons:
   - icon.svg
 ---

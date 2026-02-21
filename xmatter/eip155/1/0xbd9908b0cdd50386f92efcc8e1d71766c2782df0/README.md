@@ -10,7 +10,7 @@ name: DAOSquare Governance Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#080808"
+color: "#fabdad"
 icons:
   - icon.svg
 ---

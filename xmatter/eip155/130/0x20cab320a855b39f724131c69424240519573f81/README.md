@@ -8,5 +8,5 @@ symbol: DAI
 decimals: 18
 icons:
   - icon.svg
-color: "#f8a838"
+color: "#f4ac34"
 ---

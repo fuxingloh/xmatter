@@ -10,7 +10,7 @@ name: NEUY
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#0898d8"
+color: "#049ce4"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: Goldfinch
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#f8e8e8"
+color: "#504160"
 icons:
   - icon.svg
 ---

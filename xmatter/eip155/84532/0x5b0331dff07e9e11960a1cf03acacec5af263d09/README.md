@@ -12,7 +12,7 @@ symbol: TT
 decimals: 6
 icons:
   - icon.svg
-color: "#080808"
+color: "#68a4f2"
 ---
 
 Testing token used in order to check Base bridge functionality for building dapps in Base blockchain.

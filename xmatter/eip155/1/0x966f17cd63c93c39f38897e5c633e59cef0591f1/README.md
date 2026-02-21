@@ -10,7 +10,7 @@ name: BOOK OF MEME
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#487828"
+color: "#4d7924"
 icons:
   - icon.svg
 ---

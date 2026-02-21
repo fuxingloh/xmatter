@@ -12,5 +12,5 @@ symbol: OL
 decimals: 18
 icons:
   - icon.svg
-color: "#f8f8f8"
+color: "#c9c9c9"
 ---

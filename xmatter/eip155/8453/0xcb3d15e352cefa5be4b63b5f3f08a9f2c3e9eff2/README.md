@@ -10,7 +10,7 @@ name: WardenSwap
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#181838"
+color: "#131332"
 icons:
   - icon.png
 ---

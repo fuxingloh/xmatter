@@ -12,5 +12,5 @@ symbol: STT
 decimals: 18
 icons:
   - icon.svg
-color: "#4858d8"
+color: "#4463dc"
 ---

@@ -10,7 +10,7 @@ name: Everyworld
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#285858"
+color: "#245453"
 icons:
   - icon.svg
 ---

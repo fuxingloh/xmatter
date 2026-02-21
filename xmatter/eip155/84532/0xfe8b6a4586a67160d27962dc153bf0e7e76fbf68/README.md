@@ -12,5 +12,5 @@ symbol: "TRUE"
 decimals: 18
 icons:
   - icon.svg
-color: "#0848f8"
+color: "#044cfc"
 ---

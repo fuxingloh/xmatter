@@ -8,5 +8,5 @@ symbol: wstETH
 decimals: 18
 icons:
   - icon.svg
-color: "#08a8f8"
+color: "#a0ddfc"
 ---

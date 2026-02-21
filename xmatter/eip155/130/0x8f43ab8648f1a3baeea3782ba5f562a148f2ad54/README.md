@@ -12,7 +12,7 @@ symbol: T
 decimals: 18
 icons:
   - icon.svg
-color: "#7808f8"
+color: "#c28afc"
 ---
 
 Threshold Network is the home of $tBTC, proxy re-encryption #PRE, $thUSD, and all threshold cryptography.

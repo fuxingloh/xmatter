@@ -12,7 +12,7 @@ symbol: ALT
 decimals: 18
 icons:
   - icon.svg
-color: "#080808"
+color: "#182020"
 ---
 
 Accelerate scaling for Web3

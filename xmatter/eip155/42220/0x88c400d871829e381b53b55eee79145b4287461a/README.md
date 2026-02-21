@@ -12,7 +12,7 @@ symbol: WLD
 decimals: 18
 icons:
   - icon.svg
-color: "#080808"
+color: "#000000"
 ---
 
 Worldcoin is building the world's largest identity and financial network, giving ownership to everyone.

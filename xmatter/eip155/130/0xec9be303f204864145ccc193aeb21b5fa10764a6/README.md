@@ -12,5 +12,5 @@ symbol: FIS
 decimals: 18
 icons:
   - icon.svg
-color: "#080808"
+color: "#04c2cc"
 ---

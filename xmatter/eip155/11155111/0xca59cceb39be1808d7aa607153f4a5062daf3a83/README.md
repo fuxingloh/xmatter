@@ -10,7 +10,7 @@ links:
     url: "https://x.com/graphprotocol"
 symbol: GRT
 decimals: 18
-color: "#6848f8"
+color: "#6c4cfc"
 icons:
   - icon.svg
 ---

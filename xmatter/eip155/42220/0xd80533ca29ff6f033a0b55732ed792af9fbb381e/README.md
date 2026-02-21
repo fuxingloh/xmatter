@@ -12,7 +12,7 @@ symbol: OLAS
 decimals: 18
 icons:
   - icon.svg
-color: "#080808"
+color: "#040404"
 ---
 
 Crypto's Ocean of Services: The unified network for off-chain services, e.g. automation, relayers and co-owned AI. Coordinated by OLAS, powered by autonomous agents.

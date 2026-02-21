@@ -12,7 +12,7 @@ symbol: SUPER
 decimals: 18
 icons:
   - icon.svg
-color: "#282828"
+color: "#242424"
 ---
 
 SuperVerse unites the biggest web3 community with the best crypto games.

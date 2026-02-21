@@ -10,7 +10,7 @@ name: SUDO GOVERNANCE TOKEN
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#b8b8f8"
+color: "#bbbbfb"
 icons:
   - icon.svg
 ---

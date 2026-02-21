@@ -10,7 +10,7 @@ links:
     url: "https://x.com/usebraintrust"
 symbol: BTRST
 decimals: 18
-color: "#080808"
+color: "#141417"
 icons:
   - icon.svg
 ---

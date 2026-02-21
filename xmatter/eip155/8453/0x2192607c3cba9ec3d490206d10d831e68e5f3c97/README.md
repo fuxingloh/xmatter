@@ -10,7 +10,7 @@ name: Boson Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#282838"
+color: "#31f2b0"
 icons:
   - icon.svg
 ---

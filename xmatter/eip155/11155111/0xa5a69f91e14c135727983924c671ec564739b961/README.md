@@ -10,7 +10,7 @@ links:
     url: "https://x.com/ArcBlock_io"
 symbol: ABT
 decimals: 18
-color: "#080808"
+color: "#1dcecf"
 icons:
   - icon.svg
 ---

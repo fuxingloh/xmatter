@@ -6,7 +6,7 @@ name: One Cent Coin
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#d8a888"
+color: "#d4a283"
 icons:
   - icon.svg
 ---

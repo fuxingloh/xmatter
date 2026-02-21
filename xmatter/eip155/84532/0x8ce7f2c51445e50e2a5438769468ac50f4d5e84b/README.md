@@ -12,7 +12,7 @@ symbol: tICNT
 decimals: 18
 icons:
   - icon.svg
-color: "#182818"
+color: "#1c271d"
 ---
 
 ICN Protocol is a next-generation decentralized internet infrastructure layer. With decentralized hardware resources, a composable service application layer, and a secure HyperNode network, ICN intends to drive the future of the internet through an integrated ecosystem of permissionless participants, all running without a single point of trust. Anyone can provide resources to the hardware layer, develop services on the application layer, or secure the ecosystem through the HyperNode network and earn rewards.

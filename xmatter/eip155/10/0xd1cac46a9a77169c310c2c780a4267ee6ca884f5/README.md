@@ -10,7 +10,7 @@ name: Epoch
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#282828"
+color: "#2c2c2c"
 icons:
   - icon.svg
 ---

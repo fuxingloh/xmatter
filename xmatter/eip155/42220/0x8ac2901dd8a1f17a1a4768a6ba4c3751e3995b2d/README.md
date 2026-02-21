@@ -12,7 +12,7 @@ symbol: WBTC
 decimals: 8
 icons:
   - icon.svg
-color: "#080808"
+color: "#f39444"
 ---
 
 Wrapped Bitcoin delivers the power of Bitcoin with the flexibility of an ERC20 token

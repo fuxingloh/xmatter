@@ -10,7 +10,7 @@ name: Prime
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#180828"
+color: "#14042c"
 icons:
   - icon.svg
 ---

@@ -10,7 +10,7 @@ name: Pepe's Dog
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#1848f8"
+color: "#2344e3"
 icons:
   - icon.svg
 ---

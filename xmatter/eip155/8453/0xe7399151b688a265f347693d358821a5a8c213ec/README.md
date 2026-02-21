@@ -10,7 +10,7 @@ name: Skillful AI
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#080808"
+color: "#af40b4"
 icons:
   - icon.svg
 ---

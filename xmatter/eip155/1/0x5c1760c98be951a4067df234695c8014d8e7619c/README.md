@@ -6,7 +6,7 @@ name: Nouns
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#e8c808"
+color: "#eccb0c"
 icons:
   - icon.png
 ---

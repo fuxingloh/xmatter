@@ -10,7 +10,7 @@ name: Nektar Network
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#f8d828"
+color: "#0b0a04"
 icons:
   - icon.svg
 ---

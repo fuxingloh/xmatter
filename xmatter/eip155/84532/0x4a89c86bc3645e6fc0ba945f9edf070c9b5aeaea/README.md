@@ -12,7 +12,7 @@ symbol: GRT
 decimals: 18
 icons:
   - icon.svg
-color: "#6848f8"
+color: "#6c4cfc"
 ---
 
 The Graph is an indexing protocol for organizing blockchain data and making it easily accessible with GraphQL.

@@ -10,7 +10,7 @@ name: Polkastarter
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#08b8f8"
+color: "#04bbfb"
 icons:
   - icon.svg
 ---

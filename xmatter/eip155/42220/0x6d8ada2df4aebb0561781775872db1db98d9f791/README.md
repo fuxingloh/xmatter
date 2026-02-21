@@ -8,5 +8,5 @@ symbol: ENS
 decimals: 18
 icons:
   - icon.png
-color: "#7898f8"
+color: "#6c9ff6"
 ---

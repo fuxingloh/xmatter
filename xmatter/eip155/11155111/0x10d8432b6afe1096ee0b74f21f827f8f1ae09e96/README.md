@@ -10,7 +10,7 @@ links:
     url: "https://x.com/LOCgameio"
 symbol: LOCG
 decimals: 18
-color: "#080808"
+color: "#040404"
 icons:
   - icon.png
 ---

@@ -10,7 +10,7 @@ name: Bepro Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#3848b8"
+color: "#dfdfef"
 icons:
   - icon.svg
 ---

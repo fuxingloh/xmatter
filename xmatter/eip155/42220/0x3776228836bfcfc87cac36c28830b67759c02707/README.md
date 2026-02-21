@@ -12,7 +12,7 @@ symbol: XAUt
 decimals: 6
 icons:
   - icon.svg
-color: "#080808"
+color: "#e5ca89"
 ---
 
 XAUt is a digital token, backed by physical gold.

@@ -12,7 +12,7 @@ symbol: TYBENG
 decimals: 18
 icons:
   - icon.svg
-color: "#080808"
+color: "#06215b"
 ---
 
 TYBENG

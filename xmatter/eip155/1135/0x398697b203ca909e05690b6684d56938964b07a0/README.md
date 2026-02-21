@@ -12,7 +12,7 @@ symbol: UTU
 decimals: 18
 icons:
   - icon.svg
-color: "#f8f8f8"
+color: "#ead66d"
 ---
 
 UTU Coin is the utility token of the UTU decentralised reputation protocol.

@@ -10,7 +10,7 @@ links:
     url: "https://x.com/https://twitter.com/DOSEToken"
 symbol: DOSE
 decimals: 18
-color: "#080808"
+color: "#fc7c14"
 icons:
   - icon.svg
 ---

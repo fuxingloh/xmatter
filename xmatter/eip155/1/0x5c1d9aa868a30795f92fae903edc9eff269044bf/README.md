@@ -10,7 +10,7 @@ name: Changer
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#182828"
+color: "#14242c"
 icons:
   - icon.svg
 ---

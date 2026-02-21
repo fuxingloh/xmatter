@@ -10,7 +10,7 @@ links:
     url: "https://x.com/litprotocol"
 symbol: LITKEY
 decimals: 18
-color: "#f84808"
+color: "#fc4404"
 icons:
   - icon.png
 ---

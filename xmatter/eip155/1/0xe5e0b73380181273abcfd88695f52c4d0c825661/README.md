@@ -10,7 +10,7 @@ name: Impossible Cloud Network Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#182818"
+color: "#1c271d"
 icons:
   - icon.svg
 ---

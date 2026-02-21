@@ -6,7 +6,7 @@ name: Pepe Community
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#284818"
+color: "#224e16"
 icons:
   - icon.svg
 ---

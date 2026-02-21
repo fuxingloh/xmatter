@@ -12,7 +12,7 @@ symbol: EL
 decimals: 18
 icons:
   - icon.svg
-color: "#3878b8"
+color: "#347cb4"
 ---
 
 EL (Elysia Token) is a utility token used in the Elysia ecosystem.

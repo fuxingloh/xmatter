@@ -10,7 +10,7 @@ name: Lit Protocol
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#f84808"
+color: "#fc4404"
 icons:
   - icon.png
 ---

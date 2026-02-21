@@ -10,7 +10,7 @@ name: MANTRA
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#f898d8"
+color: "#fba0c1"
 icons:
   - icon.png
 ---

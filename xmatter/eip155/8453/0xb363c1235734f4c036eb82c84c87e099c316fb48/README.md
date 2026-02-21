@@ -10,7 +10,7 @@ name: THX Network
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#f8e808"
+color: "#fbe304"
 icons:
   - icon.svg
 ---

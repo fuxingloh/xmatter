@@ -10,7 +10,7 @@ name: ValleyDAO Token
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#084858"
+color: "#39bd8a"
 icons:
   - icon.svg
 ---

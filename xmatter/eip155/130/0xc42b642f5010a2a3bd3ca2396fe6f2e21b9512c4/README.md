@@ -8,5 +8,5 @@ symbol: MASK
 decimals: 18
 icons:
   - icon.svg
-color: "#1868f8"
+color: "#1c6bf4"
 ---
