@@ -8,7 +8,7 @@ on:
     paths:
       - .github/workflows/agent.yml
       - packages/agent-*/**/*
-      - "!.fetch-ignore.json"
+      - "!packages/agent-*/.fetch-ignore.json"
   schedule:
     - cron: "30 14 * * *"
 

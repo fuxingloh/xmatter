@@ -1,6 +1,5 @@
 import type { NextConfig } from "next";
 import createMDX from "@next/mdx";
-import remarkGfm from "remark-gfm";
 
 const ContentSecurityPolicy = `
     default-src 'self';
@@ -50,11 +49,6 @@ const nextConfig: NextConfig = {
       },
     ];
   },
-  // async rewrites() {
-  //   return {
-  //     beforeFiles: [{ source: "/eip155/:chainId/:address\.md", destination: "/eip155/:chainId/:address/README.md" }],
-  //   };
-  // },
 };
 
 const withMDX = createMDX({
