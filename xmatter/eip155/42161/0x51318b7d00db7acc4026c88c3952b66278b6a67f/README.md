@@ -6,6 +6,6 @@ standards:
 symbol: PLS
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#569a37"
 ---

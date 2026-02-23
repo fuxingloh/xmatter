@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-14882-TROES
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#d8d8d9"
 ---

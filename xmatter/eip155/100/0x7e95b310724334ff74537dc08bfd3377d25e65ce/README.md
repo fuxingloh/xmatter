@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-15039-WARD-
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#908486"
 ---

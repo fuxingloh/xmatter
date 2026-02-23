@@ -6,6 +6,6 @@ standards:
 symbol: MARA
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#4d0e69"
 ---

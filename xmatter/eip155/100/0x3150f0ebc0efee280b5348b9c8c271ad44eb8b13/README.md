@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-19596-GOULB
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#95b5c5"
 ---

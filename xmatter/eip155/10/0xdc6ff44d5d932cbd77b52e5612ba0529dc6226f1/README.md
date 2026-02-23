@@ -18,7 +18,7 @@ color: "#000000"
 icons:
   - icon.svg
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 The Worldcoin system revolves around World ID, a privacy-preserving global identity network. World ID enables users to verify their humanness online (`Proof of Personhood`) while maintaining their privacy through zero-knowledge proofs.

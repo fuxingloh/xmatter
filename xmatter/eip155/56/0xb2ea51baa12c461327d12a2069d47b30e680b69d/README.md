@@ -6,6 +6,6 @@ standards:
 symbol: SMCW
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#180e2d"
 ---

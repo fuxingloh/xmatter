@@ -11,7 +11,7 @@ standards:
 color: "#2d1d5e"
 icons:
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 Illuvium is a decentralized gaming studio that merges online gaming with cryptocurrency.

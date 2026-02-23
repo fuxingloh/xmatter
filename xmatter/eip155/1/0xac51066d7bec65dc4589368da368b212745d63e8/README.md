@@ -21,7 +21,7 @@ standards:
 color: "#76c3d9"
 icons:
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 A social simulation Blockchain game owned by players.

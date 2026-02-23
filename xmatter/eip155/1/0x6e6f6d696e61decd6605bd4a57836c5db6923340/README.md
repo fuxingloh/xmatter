@@ -6,6 +6,6 @@ standards:
 symbol: NOM
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#abfb9b"
 ---

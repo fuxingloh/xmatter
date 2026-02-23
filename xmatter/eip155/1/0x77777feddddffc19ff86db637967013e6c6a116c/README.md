@@ -22,7 +22,7 @@ color: "#17202f"
 icons:
   - icon.svg
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 A fully decentralized protocol for private transactions on Ethereum.

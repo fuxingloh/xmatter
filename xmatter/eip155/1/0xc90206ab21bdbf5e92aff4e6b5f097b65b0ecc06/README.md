@@ -17,6 +17,6 @@ links:
 symbol: WLKRR
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#db1c24"
 ---

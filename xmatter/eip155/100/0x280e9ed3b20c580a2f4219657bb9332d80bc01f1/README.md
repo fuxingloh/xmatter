@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-19020-ROSEM
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#b9c4cd"
 ---

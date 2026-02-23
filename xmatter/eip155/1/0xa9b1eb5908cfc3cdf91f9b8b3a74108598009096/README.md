@@ -17,7 +17,7 @@ standards:
 color: "#040404"
 icons:
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 Bounce is a decentralized auction platform, incorporating liquidity mining, decentralized governance and staking mechanisms. The first principle of Bounce is scarcity of resources, which creates a competitive swap environment.

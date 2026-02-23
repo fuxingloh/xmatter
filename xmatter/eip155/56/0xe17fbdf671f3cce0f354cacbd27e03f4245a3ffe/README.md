@@ -6,6 +6,6 @@ standards:
 symbol: RIFI
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#ad9054"
 ---

@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-14494-CHELS
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#808077"
 ---

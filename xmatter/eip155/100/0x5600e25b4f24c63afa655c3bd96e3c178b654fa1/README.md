@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-13045-WADE-
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#7e8980"
 ---

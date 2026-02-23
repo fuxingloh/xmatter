@@ -6,6 +6,6 @@ standards:
 symbol: KEEP
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#5acdab"
 ---

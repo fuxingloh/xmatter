@@ -12,7 +12,7 @@ color: "#001b59"
 icons:
   - icon.svg
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 LCX.com - Innovating Capital Markets. Solutions for compliant digital assets and security tokens. LCX is a secure and compliant platform for buying, selling, transferring, and storing digital currency.

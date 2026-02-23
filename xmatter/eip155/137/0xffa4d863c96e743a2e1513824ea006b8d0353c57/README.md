@@ -6,6 +6,6 @@ standards:
 symbol: USDD
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#e7f7f5"
 ---

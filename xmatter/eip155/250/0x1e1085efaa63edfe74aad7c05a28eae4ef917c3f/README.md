@@ -6,6 +6,6 @@ standards:
 symbol: KNC
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#c5f8f0"
 ---

@@ -6,6 +6,6 @@ standards:
 symbol: MOM
 decimals: 9
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#745f46"
 ---

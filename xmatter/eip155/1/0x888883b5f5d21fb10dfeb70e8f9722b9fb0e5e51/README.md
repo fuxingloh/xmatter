@@ -6,6 +6,6 @@ standards:
 symbol: EUROP
 decimals: 6
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#dddddd"
 ---

@@ -6,6 +6,6 @@ standards:
 symbol: SPG
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#342a72"
 ---

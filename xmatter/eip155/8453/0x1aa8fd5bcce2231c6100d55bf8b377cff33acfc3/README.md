@@ -6,7 +6,7 @@ symbol: RAVE
 icons:
   - icon.svg
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 color: "#040404"
 decimals: 18
 ---

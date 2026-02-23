@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-19996-JOANN
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#747f50"
 ---

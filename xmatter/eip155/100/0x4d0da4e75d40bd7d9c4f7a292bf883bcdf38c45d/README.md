@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-15373-PARKS
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#c1c4c5"
 ---

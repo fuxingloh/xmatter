@@ -6,6 +6,6 @@ standards:
 symbol: EPIK
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#ebe1f1"
 ---

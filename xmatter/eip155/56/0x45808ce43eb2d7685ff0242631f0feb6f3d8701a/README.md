@@ -6,6 +6,6 @@ standards:
 symbol: EKTA
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#c76d63"
 ---

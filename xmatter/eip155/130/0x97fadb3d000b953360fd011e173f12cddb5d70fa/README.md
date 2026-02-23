@@ -6,6 +6,6 @@ standards:
 symbol: WIF
 decimals: 6
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#a49280"
 ---

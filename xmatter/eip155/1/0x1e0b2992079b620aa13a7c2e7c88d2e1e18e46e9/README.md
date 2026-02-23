@@ -11,7 +11,7 @@ links:
 symbol: KOMPETE
 decimals: 10
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#d7d7d7"
 ---
 

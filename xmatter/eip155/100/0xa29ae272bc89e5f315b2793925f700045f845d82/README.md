@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-581-587-JEF
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#ada38f"
 ---

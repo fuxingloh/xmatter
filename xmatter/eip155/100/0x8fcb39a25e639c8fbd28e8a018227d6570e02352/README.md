@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-1815-SAVERS
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#566d4c"
 ---

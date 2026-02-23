@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-19200-STRAS
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#5d5b4f"
 ---

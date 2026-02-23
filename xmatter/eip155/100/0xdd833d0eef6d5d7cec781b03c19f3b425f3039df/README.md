@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-11957-OLGA-
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#677150"
 ---

@@ -6,6 +6,6 @@ standards:
 symbol: JPEG
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#c7f4e3"
 ---

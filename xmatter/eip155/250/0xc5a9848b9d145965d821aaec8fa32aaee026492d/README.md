@@ -6,6 +6,6 @@ standards:
 symbol: OXDV2
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#f1f8f5"
 ---

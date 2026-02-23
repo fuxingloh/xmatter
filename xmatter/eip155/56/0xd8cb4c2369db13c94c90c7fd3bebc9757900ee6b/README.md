@@ -6,6 +6,6 @@ standards:
 symbol: NPX
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#575452"
 ---

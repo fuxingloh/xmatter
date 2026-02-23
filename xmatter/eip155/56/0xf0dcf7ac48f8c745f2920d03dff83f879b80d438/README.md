@@ -6,6 +6,6 @@ standards:
 symbol: GAMI
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#db1b6b"
 ---

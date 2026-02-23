@@ -6,6 +6,6 @@ standards:
 symbol: FRR
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#f254e9"
 ---

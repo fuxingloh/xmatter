@@ -6,7 +6,7 @@ symbol: WeVE
 icons:
   - icon.svg
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 color: "#04dad8"
 decimals: 18
 ---

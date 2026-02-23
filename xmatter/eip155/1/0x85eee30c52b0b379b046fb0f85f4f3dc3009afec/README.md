@@ -24,7 +24,7 @@ color: "#4ad0a0"
 icons:
   - icon.svg
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 Keep technology is what sets tBTC apart as the only decentralized solution for Bitcoin on Ethereum.

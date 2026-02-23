@@ -6,6 +6,6 @@ standards:
 symbol: HANZO
 decimals: 9
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#9f220f"
 ---

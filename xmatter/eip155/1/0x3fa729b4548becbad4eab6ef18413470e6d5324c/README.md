@@ -11,7 +11,7 @@ standards:
 color: "#c2ea33"
 icons:
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 Mover -- financial service for a digital generation.

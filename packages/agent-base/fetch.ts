@@ -63,7 +63,7 @@ export class FetchWithIgnore {
     }
 
     if (NATIVE_FORMATS.has(format)) {
-      const to = join(targetDir, `icon.${format}`);
+      const to = join(targetDir, `icon.${format === "jpeg" ? "jpg" : format}`);
       if (await hasFile(to)) return true;
       await writeFile(to, buffer);
       console.log(`Copied icon ${url} -> ${to}`);

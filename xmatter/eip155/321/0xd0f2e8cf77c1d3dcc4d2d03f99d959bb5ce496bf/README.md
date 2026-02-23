@@ -6,6 +6,6 @@ standards:
 symbol: COOHA
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#c3b496"
 ---

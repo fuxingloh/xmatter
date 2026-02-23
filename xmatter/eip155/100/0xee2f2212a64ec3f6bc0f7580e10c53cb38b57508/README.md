@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-12334-LANSD
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#91b4cc"
 ---

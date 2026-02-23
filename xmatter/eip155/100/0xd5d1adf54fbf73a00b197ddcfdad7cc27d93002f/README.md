@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-10629-MCKIN
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#908e8d"
 ---

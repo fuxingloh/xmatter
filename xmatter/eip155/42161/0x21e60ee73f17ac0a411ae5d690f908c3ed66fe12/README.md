@@ -6,6 +6,6 @@ standards:
 symbol: DERI
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#5c7786"
 ---

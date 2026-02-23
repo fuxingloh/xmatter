@@ -15,7 +15,7 @@ standards:
 color: "#191768"
 icons:
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 ether.fi is a liquid restaking protocol on ethereum. Their liquid restaking token, eETH, is the first native liquid restaking token on Ethereum.

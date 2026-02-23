@@ -6,6 +6,6 @@ standards:
 symbol: RAGE
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#323969"
 ---

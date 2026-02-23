@@ -6,6 +6,6 @@ standards:
 symbol: BICO
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#f9f6ed"
 ---

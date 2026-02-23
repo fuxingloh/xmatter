@@ -6,6 +6,6 @@ standards:
 symbol: UFARM
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#842ba2"
 ---

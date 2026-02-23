@@ -6,6 +6,6 @@ standards:
 symbol: SXT
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#8107b5"
 ---

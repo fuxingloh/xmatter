@@ -6,6 +6,6 @@ standards:
 symbol: STACK
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#6438f2"
 ---

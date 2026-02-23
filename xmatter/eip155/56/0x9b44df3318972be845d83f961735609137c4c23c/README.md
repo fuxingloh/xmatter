@@ -11,7 +11,7 @@ standards:
 color: "#2081d4"
 icons:
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 PayRue is a financial platform that operates exchanges, wallets, and transfers with cryptocurrencies.

@@ -19,6 +19,6 @@ links:
 symbol: 599GTO1
 decimals: 8
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#e82f35"
 ---

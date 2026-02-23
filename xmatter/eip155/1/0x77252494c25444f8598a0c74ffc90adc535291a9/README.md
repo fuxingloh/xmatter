@@ -6,6 +6,6 @@ standards:
 symbol: NMS
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#8d999e"
 ---

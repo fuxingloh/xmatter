@@ -24,7 +24,7 @@ standards:
 color: "#e1bb85"
 icons:
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 Ultimate Champions is a free to play and play to earn fantasy sports game.

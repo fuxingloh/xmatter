@@ -6,6 +6,6 @@ standards:
 symbol: OJE
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#52b07a"
 ---

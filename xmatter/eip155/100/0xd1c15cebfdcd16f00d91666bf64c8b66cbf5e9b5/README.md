@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-10612-SOMER
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#59563b"
 ---

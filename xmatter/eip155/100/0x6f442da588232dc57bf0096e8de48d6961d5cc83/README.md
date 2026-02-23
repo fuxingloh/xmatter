@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-13895-SARAT
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#a59786"
 ---

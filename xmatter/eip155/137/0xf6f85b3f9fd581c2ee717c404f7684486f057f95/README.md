@@ -6,6 +6,6 @@ standards:
 symbol: NORD
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#12162c"
 ---

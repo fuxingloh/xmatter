@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-14231-STRAT
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#c9d4d6"
 ---

@@ -6,6 +6,6 @@ standards:
 symbol: BFR
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#3473fa"
 ---

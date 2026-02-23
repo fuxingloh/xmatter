@@ -11,6 +11,6 @@ links:
 symbol: PRON
 decimals: 8
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#1c1b1b"
 ---

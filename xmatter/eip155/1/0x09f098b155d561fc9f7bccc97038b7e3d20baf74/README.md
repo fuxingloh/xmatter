@@ -6,6 +6,6 @@ standards:
 symbol: ZOO
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#181227"
 ---

@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-12866-LAUDE
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#716f69"
 ---

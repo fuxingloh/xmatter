@@ -6,6 +6,6 @@ standards:
 symbol: MIMIR
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#69beaf"
 ---

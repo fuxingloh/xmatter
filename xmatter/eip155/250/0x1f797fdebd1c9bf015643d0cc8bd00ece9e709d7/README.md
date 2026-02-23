@@ -6,6 +6,6 @@ standards:
 symbol: PWFL
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#130e0c"
 ---

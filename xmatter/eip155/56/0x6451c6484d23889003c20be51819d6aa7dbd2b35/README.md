@@ -6,6 +6,6 @@ standards:
 symbol: PS1
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#e4e8e7"
 ---

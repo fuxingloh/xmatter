@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-19201-WESTP
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#67645e"
 ---

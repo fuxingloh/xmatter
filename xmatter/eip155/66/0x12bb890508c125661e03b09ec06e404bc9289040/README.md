@@ -6,6 +6,6 @@ standards:
 symbol: RACA
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#1f160d"
 ---

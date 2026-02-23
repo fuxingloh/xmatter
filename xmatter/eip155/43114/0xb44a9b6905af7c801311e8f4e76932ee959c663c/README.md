@@ -21,7 +21,7 @@ standards:
 color: "#5876ec"
 icons:
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 Anyswap is a mpc decentralized cross-chain swap protocol.

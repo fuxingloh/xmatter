@@ -6,6 +6,6 @@ standards:
 symbol: CFG
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#0a0a0a"
 ---

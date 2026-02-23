@@ -11,7 +11,7 @@ standards:
 color: "#e71b23"
 icons:
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 The only launchpad fully backed by the Tron Network! TRONPAD will empower crypto currency projects with the ability to distribute tokens and raise liquidity.

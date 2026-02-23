@@ -6,6 +6,6 @@ standards:
 symbol: KPHI
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#faf4df"
 ---

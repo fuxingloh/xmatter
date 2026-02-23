@@ -6,6 +6,6 @@ standards:
 symbol: LOCO
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#0e172d"
 ---

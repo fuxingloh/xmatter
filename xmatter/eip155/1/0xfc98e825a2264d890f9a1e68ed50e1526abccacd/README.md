@@ -11,7 +11,7 @@ standards:
 color: "#12100b"
 icons:
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 The first truly global Carbon Credit Token, that provides ease, transparency, global scale and security for your carbon footprint compensation.

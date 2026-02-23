@@ -91,7 +91,7 @@ function IconAcronym(props: { icon: string }) {
     );
   }
 
-  if (props.icon.endsWith(".jpg") || props.icon.endsWith(".jpeg")) {
+  if (props.icon.endsWith(".jpg")) {
     return (
       <svg viewBox="0 0 20 16" height="16" width="16" className="opacity-80">
         <path

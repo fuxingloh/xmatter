@@ -23,7 +23,7 @@ standards:
 color: "#fa7b07"
 icons:
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 Maple is a DeFi lending protocol for corporate and institutional capital.

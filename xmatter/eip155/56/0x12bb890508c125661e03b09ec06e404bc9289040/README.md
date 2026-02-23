@@ -19,7 +19,7 @@ standards:
 color: "#040404"
 icons:
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 Radio Caca is the payment token for NFTs. Radio Caca (as “RACA”), is expected to gain rapid worldwide adoption in the music, digital art and fashion area across the world. A deflation token with limited supply. A community-driven token for NFT payment sector.

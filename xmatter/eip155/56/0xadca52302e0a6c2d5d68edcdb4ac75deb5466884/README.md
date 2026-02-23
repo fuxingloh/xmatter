@@ -27,7 +27,7 @@ links:
 symbol: GMR
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#ce9e51"
 ---
 

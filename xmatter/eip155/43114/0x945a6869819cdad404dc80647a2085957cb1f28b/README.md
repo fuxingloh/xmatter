@@ -6,6 +6,6 @@ standards:
 symbol: LEO
 decimals: 5
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#191a2c"
 ---

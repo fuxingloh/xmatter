@@ -13,6 +13,6 @@ links:
 symbol: SCANDI
 decimals: 2
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#e01d25"
 ---

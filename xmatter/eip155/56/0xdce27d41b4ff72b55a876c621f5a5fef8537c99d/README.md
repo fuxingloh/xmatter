@@ -6,6 +6,6 @@ standards:
 symbol: ROY
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#0f1b2a"
 ---

@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-11201-COLLE
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#dedddd"
 ---

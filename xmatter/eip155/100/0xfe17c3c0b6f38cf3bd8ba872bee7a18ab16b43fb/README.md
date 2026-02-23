@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-15777-ARDMO
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#715b4b"
 ---

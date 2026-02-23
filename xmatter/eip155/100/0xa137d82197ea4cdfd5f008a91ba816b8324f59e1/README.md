@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-5601-SWOOD-
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#babbbc"
 ---

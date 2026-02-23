@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-402-SKOSTNE
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#c8d6d4"
 ---

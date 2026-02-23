@@ -6,6 +6,6 @@ standards:
 symbol: BETA
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#b693bc"
 ---

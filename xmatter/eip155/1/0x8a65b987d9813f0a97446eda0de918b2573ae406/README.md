@@ -6,6 +6,6 @@ standards:
 symbol: FOMOETH
 decimals: 9
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#0b0d1c"
 ---

@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-5942-AUDUBO
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#566043"
 ---

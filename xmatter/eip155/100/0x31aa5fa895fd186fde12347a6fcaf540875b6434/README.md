@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-17809-CHARE
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#8cb2c5"
 ---

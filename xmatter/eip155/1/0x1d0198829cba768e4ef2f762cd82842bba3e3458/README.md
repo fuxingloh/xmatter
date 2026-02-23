@@ -15,6 +15,6 @@ links:
 symbol: DAF
 decimals: 6
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#f8ba3a"
 ---

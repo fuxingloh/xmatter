@@ -7,6 +7,6 @@ symbol: GUN
 decimals: 18
 icons:
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 color: "#92cfdb"
 ---

@@ -6,6 +6,6 @@ standards:
 symbol: THQ
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#24241f"
 ---

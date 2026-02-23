@@ -6,6 +6,6 @@ standards:
 symbol: MONKE
 decimals: 9
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#404046"
 ---

@@ -6,6 +6,6 @@ standards:
 symbol: OPCT
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#3b6ab7"
 ---

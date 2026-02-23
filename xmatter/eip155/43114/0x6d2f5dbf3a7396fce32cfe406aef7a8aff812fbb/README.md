@@ -6,6 +6,6 @@ standards:
 symbol: ASTRO
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#421b83"
 ---

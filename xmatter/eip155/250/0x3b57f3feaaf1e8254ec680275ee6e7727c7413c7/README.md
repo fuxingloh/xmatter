@@ -6,6 +6,6 @@ standards:
 symbol: EXOD
 decimals: 9
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#040404"
 ---

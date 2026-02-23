@@ -6,6 +6,6 @@ standards:
 symbol: HYPE
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#051d1c"
 ---
