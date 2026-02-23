@@ -6,6 +6,6 @@ standards:
 symbol: HOD
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#e8f4f9"
 ---

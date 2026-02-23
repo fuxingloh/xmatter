@@ -14,7 +14,7 @@ color: "#32f7d8"
 icons:
   - icon.svg
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 $KAITO is the native token and the fundamental building block of the AI-powered InfoFi network

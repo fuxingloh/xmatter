@@ -6,6 +6,6 @@ standards:
 symbol: A4
 decimals: 6
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#c9c9c9"
 ---

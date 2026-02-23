@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-11078-WAYBU
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#b3bdc2"
 ---

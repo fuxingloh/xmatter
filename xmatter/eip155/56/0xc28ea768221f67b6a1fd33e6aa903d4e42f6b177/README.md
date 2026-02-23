@@ -6,6 +6,6 @@ standards:
 symbol: PAPER
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#121212"
 ---

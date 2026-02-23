@@ -21,7 +21,7 @@ standards:
 color: "#040404"
 icons:
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 Rook enables users, protocols, and smart contracts to earn from the MEV their orders create.

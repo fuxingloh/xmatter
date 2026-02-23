@@ -18,7 +18,7 @@ color: "#040404"
 icons:
   - icon.svg
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 Assemble AI is an artificial intelligence-based news agent and the first journalism innovation project. The goal of this project is to provide market trends quickly and in an easily understandable way, analyze these trends using artificial intelligence inference capabilities, and help market participants globally make data-driven decisions.

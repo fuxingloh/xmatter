@@ -6,6 +6,6 @@ standards:
 symbol: CRN
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#f2e5e4"
 ---

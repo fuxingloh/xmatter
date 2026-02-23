@@ -6,7 +6,7 @@ symbol: noice
 icons:
   - icon.svg
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 color: "#0c0c0c"
 decimals: 18
 ---

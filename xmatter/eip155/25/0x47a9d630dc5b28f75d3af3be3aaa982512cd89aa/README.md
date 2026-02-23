@@ -6,6 +6,6 @@ standards:
 symbol: ARGO
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#4285d3"
 ---

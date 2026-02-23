@@ -11,7 +11,7 @@ standards:
 color: "#055cd4"
 icons:
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 KeyFi is an all-in-one platform for tracking, swapping, and staking your tokens, and more.

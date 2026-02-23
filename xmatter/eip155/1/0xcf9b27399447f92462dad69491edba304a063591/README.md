@@ -6,6 +6,6 @@ standards:
 symbol: MEGA
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#1e4f5d"
 ---

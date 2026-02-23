@@ -6,6 +6,6 @@ standards:
 symbol: KNIGHT
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#20507e"
 ---

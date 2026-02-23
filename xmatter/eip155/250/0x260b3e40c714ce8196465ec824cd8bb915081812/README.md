@@ -6,6 +6,6 @@ standards:
 symbol: IRON
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#341c14"
 ---

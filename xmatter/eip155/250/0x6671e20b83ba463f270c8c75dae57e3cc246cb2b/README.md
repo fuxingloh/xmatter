@@ -6,6 +6,6 @@ standards:
 symbol: LUX
 decimals: 9
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#0a0506"
 ---

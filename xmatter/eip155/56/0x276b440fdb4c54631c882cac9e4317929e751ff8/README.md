@@ -6,6 +6,6 @@ standards:
 symbol: REV
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#b9dce3"
 ---

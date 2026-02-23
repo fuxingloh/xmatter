@@ -6,6 +6,6 @@ standards:
 symbol: ELON
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#322b27"
 ---

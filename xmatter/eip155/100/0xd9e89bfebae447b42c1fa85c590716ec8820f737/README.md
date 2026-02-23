@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-4061-GRAND-
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#888f8b"
 ---

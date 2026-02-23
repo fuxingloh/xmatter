@@ -6,6 +6,6 @@ standards:
 symbol: PLOT
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#dcdbda"
 ---

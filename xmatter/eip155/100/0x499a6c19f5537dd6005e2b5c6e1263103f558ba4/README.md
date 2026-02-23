@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-17813-BRADF
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#9a8b7f"
 ---

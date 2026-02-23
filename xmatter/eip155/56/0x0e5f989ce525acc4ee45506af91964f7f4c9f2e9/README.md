@@ -9,7 +9,7 @@ links:
 symbol: RYOSHI
 decimals: 9
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#2b271f"
 ---
 

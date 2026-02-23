@@ -15,7 +15,7 @@ standards:
 color: "#a3bcf2"
 icons:
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 Decentralized finance tentacles

@@ -15,7 +15,7 @@ standards:
 color: "#f1f1f1"
 icons:
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 LayerZero is a technology that enables applications to move data across blockchains, uniquely supporting censorship-resistant messages and permissionless development through immutable smart contracts

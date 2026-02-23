@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-9920-BISHOP
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#545a4f"
 ---

@@ -12,7 +12,7 @@ color: "#622cd7"
 icons:
   - icon.svg
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 Meme mashes up the most exciting innovations in DeFi and NFTs. Put your $MEME to work and collect digital content that you can truly own.

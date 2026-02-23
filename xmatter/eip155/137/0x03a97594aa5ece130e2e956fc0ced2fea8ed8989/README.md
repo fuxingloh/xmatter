@@ -6,6 +6,6 @@ standards:
 symbol: AMATICB
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#ecf7f9"
 ---

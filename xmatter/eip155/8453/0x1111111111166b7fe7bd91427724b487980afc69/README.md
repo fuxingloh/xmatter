@@ -6,7 +6,7 @@ symbol: ZORA
 icons:
   - icon.svg
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 color: "#46282f"
 decimals: 18
 ---

@@ -6,6 +6,6 @@ standards:
 symbol: DAI+USDC
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#e9eae8"
 ---

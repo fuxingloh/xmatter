@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-13116-KILBO
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#878163"
 ---

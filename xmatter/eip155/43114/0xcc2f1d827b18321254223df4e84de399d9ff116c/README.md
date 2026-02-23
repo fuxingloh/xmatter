@@ -6,6 +6,6 @@ standards:
 symbol: SMRT
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#437e9e"
 ---

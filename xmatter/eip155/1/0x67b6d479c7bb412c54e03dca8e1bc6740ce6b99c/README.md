@@ -12,7 +12,7 @@ color: "#e00478"
 icons:
   - icon.svg
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 Kylin Network aims to Build a Cross-chain Platform Powering the Data Economy on Polkadot. It will be the Data Infrastructure for DeFi and Web 3.0 Powered by Polkadot.

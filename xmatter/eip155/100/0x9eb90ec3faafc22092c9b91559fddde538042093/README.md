@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-18900-MANSF
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#d4d1c6"
 ---

@@ -6,6 +6,6 @@ standards:
 symbol: ARSW
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#17c5e0"
 ---

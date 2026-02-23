@@ -6,6 +6,6 @@ standards:
 symbol: BSPT
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#5d6468"
 ---

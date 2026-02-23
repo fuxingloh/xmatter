@@ -19,7 +19,7 @@ standards:
 color: "#dedfdf"
 icons:
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 API3 aims to build blockchain-native, decentralized APIs with DAO-governance and quantifiable security.

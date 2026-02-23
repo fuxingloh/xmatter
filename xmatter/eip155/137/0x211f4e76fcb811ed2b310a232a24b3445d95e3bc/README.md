@@ -6,6 +6,6 @@ standards:
 symbol: MATRIX
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#5ccd61"
 ---

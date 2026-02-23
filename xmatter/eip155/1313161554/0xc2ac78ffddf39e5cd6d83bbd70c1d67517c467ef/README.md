@@ -6,6 +6,6 @@ standards:
 symbol: GBA
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#04a7eb"
 ---

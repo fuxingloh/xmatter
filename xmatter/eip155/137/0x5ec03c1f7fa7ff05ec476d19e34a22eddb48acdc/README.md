@@ -6,6 +6,6 @@ standards:
 symbol: ZED
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#e5eaee"
 ---

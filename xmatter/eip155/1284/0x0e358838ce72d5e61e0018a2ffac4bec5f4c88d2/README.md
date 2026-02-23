@@ -6,6 +6,6 @@ standards:
 symbol: STELLA
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#48184b"
 ---

@@ -6,6 +6,6 @@ standards:
 symbol: GIZA
 decimals: 9
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#e28a39"
 ---

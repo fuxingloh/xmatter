@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-15095-HARTW
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#afa9ac"
 ---

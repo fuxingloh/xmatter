@@ -12,7 +12,7 @@ color: "#050505"
 icons:
   - icon.svg
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 Fetch.ai aims to be at the forefront of accelerating research and the deployment of emerging technologies such as blockchain and AI.

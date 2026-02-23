@@ -20,7 +20,7 @@ color: "#050505"
 icons:
   - icon.svg
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 DIGITALAX is a digital fashion NFT engine built on the Ethereum network. It aims to offer digital fashion NFT house for all gaming, VR and metaverses in the crypto ecosystem.

@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-19136-TRACE
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#8693a6"
 ---

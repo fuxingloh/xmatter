@@ -8,6 +8,6 @@ decimals: 18
 icons:
   - icon.svg
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 color: "#1554c4"
 ---

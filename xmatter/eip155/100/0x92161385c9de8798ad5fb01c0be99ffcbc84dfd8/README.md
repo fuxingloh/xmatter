@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-10084-GRAYT
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#6a6855"
 ---

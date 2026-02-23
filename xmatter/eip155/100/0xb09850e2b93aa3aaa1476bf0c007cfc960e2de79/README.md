@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-14229-WILSH
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#686568"
 ---

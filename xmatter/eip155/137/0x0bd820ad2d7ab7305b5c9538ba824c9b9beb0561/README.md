@@ -6,6 +6,6 @@ standards:
 symbol: ROYA
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#04123a"
 ---

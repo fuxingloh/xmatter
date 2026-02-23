@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-10617-HATHA
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#b9b3ac"
 ---

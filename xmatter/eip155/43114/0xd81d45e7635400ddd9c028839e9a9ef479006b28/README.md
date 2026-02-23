@@ -6,6 +6,6 @@ standards:
 symbol: EMBR
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#f39750"
 ---

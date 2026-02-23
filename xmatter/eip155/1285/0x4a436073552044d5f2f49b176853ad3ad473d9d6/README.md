@@ -6,6 +6,6 @@ standards:
 symbol: ROME
 decimals: 9
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#bc1f3d"
 ---

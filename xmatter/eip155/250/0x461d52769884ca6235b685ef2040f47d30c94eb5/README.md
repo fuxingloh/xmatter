@@ -6,6 +6,6 @@ standards:
 symbol: VSP
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#463e9e"
 ---

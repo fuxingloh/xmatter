@@ -6,6 +6,6 @@ standards:
 symbol: Z2O
 decimals: 9
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#ede0e0"
 ---

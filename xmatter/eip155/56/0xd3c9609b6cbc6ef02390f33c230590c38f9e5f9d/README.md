@@ -6,6 +6,6 @@ standards:
 symbol: PROT
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#d9a381"
 ---

@@ -6,6 +6,6 @@ standards:
 symbol: aMoon
 decimals: 9
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#1b170a"
 ---

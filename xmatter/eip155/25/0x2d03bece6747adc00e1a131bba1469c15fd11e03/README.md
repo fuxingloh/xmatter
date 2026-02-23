@@ -6,6 +6,6 @@ standards:
 symbol: VVS
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#dfe4ea"
 ---

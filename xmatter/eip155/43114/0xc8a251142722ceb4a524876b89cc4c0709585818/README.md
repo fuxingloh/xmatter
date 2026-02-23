@@ -6,6 +6,6 @@ standards:
 symbol: AURA
 decimals: 5
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#08090d"
 ---

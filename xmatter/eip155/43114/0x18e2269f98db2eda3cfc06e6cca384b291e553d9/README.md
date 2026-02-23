@@ -6,6 +6,6 @@ standards:
 symbol: DIGITS
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#28292f"
 ---

@@ -14,7 +14,7 @@ color: "#ca9a3c"
 icons:
   - icon.svg
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 SPX6900 is an advanced blockchain cryptography token coin capable of limitless possibilities and scientific utilization.

@@ -6,6 +6,6 @@ standards:
 symbol: BR
 decimals: 6
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#197ad8"
 ---

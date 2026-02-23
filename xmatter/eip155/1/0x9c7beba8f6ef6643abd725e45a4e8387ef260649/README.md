@@ -16,7 +16,7 @@ color: "#b8693d"
 icons:
   - icon.svg
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 A decentralized finance protocol offering various financial services.

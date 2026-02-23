@@ -6,6 +6,6 @@ standards:
 symbol: SSS
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#e3c051"
 ---

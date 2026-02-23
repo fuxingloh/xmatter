@@ -17,7 +17,7 @@ standards:
 color: "#333349"
 icons:
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 Trade & stake to earn rewards. Vote on the future of your exchange. Take control of the most powerful decentralized derivatives protocol.

@@ -6,7 +6,7 @@ symbol: KTA
 icons:
   - icon.svg
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 color: "#2c2c2c"
 decimals: 18
 ---

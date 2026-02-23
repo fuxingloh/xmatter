@@ -6,6 +6,6 @@ standards:
 symbol: EJS
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#a64b8b"
 ---

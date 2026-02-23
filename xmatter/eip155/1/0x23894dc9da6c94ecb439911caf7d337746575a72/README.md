@@ -22,7 +22,7 @@ color: "#050704"
 icons:
   - icon.svg
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 Geojam combines the technological advancements of decentralized finance with real-world experiences while interweaving the ethos of autonomous cryptocurrency communities and mainstream social networking.

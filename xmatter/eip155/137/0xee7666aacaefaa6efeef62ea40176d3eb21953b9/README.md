@@ -6,6 +6,6 @@ standards:
 symbol: MCHC
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#a652dc"
 ---

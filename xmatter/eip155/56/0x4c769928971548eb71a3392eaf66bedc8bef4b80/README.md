@@ -6,6 +6,6 @@ standards:
 symbol: BITCOIN
 decimals: 9
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#ded1ca"
 ---

@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-20200-LESUR
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#95987e"
 ---

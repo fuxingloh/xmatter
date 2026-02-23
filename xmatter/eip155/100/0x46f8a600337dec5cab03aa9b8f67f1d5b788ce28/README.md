@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-18433-FAUST
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#6a7c3c"
 ---

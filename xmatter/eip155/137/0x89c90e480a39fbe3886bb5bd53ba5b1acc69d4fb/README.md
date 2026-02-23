@@ -6,6 +6,6 @@ standards:
 symbol: ACRV
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#2d6090"
 ---

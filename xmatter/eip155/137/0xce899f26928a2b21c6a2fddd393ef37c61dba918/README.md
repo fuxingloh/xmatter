@@ -6,6 +6,6 @@ standards:
 symbol: MOCA
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#dfc82f"
 ---

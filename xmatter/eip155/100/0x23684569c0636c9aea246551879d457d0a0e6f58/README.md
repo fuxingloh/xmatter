@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-9336-PATTON
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#707661"
 ---

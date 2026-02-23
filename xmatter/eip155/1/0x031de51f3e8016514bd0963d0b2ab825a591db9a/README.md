@@ -6,6 +6,6 @@ standards:
 symbol: ESP
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#db9c6c"
 ---

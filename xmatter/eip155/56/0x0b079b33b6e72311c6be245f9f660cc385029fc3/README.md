@@ -6,6 +6,6 @@ standards:
 symbol: APE
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#164fc8"
 ---

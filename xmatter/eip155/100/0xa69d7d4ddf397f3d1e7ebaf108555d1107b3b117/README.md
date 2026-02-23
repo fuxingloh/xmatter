@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-9166-DEVONS
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#404630"
 ---

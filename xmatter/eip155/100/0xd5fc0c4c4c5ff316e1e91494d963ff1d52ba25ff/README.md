@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-11078-LONGV
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#bdd2d7"
 ---

@@ -11,6 +11,6 @@ links:
 symbol: NFTL
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#6141e5"
 ---

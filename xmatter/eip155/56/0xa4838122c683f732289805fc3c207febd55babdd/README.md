@@ -6,6 +6,6 @@ standards:
 symbol: TRIAS
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#52c6cd"
 ---

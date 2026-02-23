@@ -21,7 +21,7 @@ color: "#1d1c1a"
 icons:
   - icon.svg
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 DAO dedicated to building products and infrastructure to bring Bitcoin to DeFi.

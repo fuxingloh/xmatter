@@ -6,6 +6,6 @@ standards:
 symbol: CHT
 decimals: 9
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#715e18"
 ---

@@ -6,6 +6,6 @@ standards:
 symbol: CPR
 decimals: 2
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#c8af4e"
 ---

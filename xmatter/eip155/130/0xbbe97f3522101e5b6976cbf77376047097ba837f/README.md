@@ -6,6 +6,6 @@ standards:
 symbol: BONK
 decimals: 5
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#ec970f"
 ---

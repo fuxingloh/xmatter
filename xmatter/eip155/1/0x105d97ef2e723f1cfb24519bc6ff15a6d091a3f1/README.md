@@ -19,6 +19,6 @@ links:
 symbol: UMKA
 decimals: 4
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#1b1c3b"
 ---

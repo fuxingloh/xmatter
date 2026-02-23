@@ -6,6 +6,6 @@ standards:
 symbol: JNTR/b
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#211a14"
 ---

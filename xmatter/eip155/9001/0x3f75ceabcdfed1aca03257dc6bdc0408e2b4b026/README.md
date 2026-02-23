@@ -6,6 +6,6 @@ standards:
 symbol: DIFF
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#eaf8f7"
 ---

@@ -11,7 +11,7 @@ standards:
 color: "#00dacc"
 icons:
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 Metis Token

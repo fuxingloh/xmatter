@@ -19,7 +19,7 @@ standards:
 color: "#6ba0f7"
 icons:
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 Decentralised naming for wallets, websites, & more.

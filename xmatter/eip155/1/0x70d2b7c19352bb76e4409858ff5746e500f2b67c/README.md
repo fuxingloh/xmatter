@@ -6,6 +6,6 @@ standards:
 symbol: UPI
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#f9eae0"
 ---

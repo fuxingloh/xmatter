@@ -6,6 +6,6 @@ standards:
 symbol: WATERFALL
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#1b2b2b"
 ---

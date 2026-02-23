@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-19317-GABLE
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#847c61"
 ---

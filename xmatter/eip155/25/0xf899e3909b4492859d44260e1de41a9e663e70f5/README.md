@@ -6,6 +6,6 @@ standards:
 symbol: RADIO
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#f9ece4"
 ---

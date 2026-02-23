@@ -19,7 +19,7 @@ standards:
 color: "#e2af3f"
 icons:
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 The 1st $Neiro on Ethereum,community-managed.The heir aoparent to @dogecoin.

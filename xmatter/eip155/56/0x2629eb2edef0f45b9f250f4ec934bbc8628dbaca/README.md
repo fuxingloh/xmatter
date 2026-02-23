@@ -6,6 +6,6 @@ standards:
 symbol: SHIBEV
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#f7e4cb"
 ---

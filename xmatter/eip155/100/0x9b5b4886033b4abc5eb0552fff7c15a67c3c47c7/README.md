@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-11300-ROXBU
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#3b444c"
 ---

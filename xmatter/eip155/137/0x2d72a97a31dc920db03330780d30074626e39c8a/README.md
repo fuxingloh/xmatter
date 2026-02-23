@@ -6,6 +6,6 @@ standards:
 symbol: POLP
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#b84985"
 ---

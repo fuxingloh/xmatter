@@ -6,6 +6,6 @@ standards:
 symbol: GBPT
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#e4f8f1"
 ---

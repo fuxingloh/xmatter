@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-4852-4854-W
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#eaeae9"
 ---

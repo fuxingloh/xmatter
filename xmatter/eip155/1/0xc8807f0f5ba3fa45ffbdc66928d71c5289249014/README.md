@@ -6,6 +6,6 @@ standards:
 symbol: ISP
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#3534eb"
 ---

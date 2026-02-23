@@ -6,6 +6,6 @@ standards:
 symbol: SAFUU
 decimals: 5
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#f5f2e6"
 ---

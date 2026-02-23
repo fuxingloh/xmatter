@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-17500-EVERG
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#776b54"
 ---

@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-25097-ANDOV
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#5d5f3b"
 ---

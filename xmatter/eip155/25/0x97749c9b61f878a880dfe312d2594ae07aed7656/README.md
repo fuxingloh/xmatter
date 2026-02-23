@@ -6,6 +6,6 @@ standards:
 symbol: MMF
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#403731"
 ---

@@ -6,6 +6,6 @@ standards:
 symbol: CORN
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#f3931c"
 ---

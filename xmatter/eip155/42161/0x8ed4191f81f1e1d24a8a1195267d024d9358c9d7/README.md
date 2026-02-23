@@ -6,6 +6,6 @@ standards:
 symbol: MAGNET
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#171526"
 ---

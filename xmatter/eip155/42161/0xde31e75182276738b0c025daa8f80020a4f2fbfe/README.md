@@ -6,6 +6,6 @@ standards:
 symbol: HONEY
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#d3cfce"
 ---

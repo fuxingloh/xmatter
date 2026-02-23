@@ -6,6 +6,6 @@ standards:
 symbol: MIT
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#c4c4c4"
 ---

@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-6923-GREENV
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#6f6a3c"
 ---

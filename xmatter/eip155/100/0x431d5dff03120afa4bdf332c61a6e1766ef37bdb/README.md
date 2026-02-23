@@ -6,6 +6,6 @@ standards:
 symbol: JPYC
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#dce3f2"
 ---

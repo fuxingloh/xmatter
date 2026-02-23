@@ -6,6 +6,6 @@ standards:
 symbol: SELECT
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#54145e"
 ---

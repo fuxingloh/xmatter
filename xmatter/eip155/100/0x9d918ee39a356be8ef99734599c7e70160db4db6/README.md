@@ -6,6 +6,6 @@ standards:
 symbol: REALT-S-12405-SANTA
 decimals: 18
 icons:
-  - icon.jpeg
+  - icon.jpg
 color: "#6d6e5d"
 ---

@@ -19,7 +19,7 @@ standards:
 color: "#1c2c3b"
 icons:
   - icon.png
-  - icon.jpeg
+  - icon.jpg
 ---
 
 Euler is a non-custodial permissionless lending protocol on Ethereum that helps users to earn interest on their crypto assets or hedge against volatile markets without the need for a trusted third-party.
