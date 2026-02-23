@@ -49,6 +49,15 @@ jobs:
           - agent: agent-elkfinance
             repo: elkfinance/tokens
             ref: main
+          - agent: agent-uniswap
+            repo: Uniswap/default-token-list
+            ref: main
+          - agent: agent-pancakeswap
+            repo: pancakeswap/token-list
+            ref: main
+          - agent: agent-pangolin
+            repo: pangolindex/tokenlists
+            ref: main
     steps:
       - uses: actions/checkout@v6
       - uses: ./.github/actions/setup

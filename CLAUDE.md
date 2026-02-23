@@ -52,7 +52,7 @@ import { describe, it, expect } from "bun:test";
 
 - **Commit messages**: Conventional commits — `feat(scope):`, `fix(scope):`, `chore(scope):`, `refactor(scope):`, `docs(scope):`
 - **PR titles**: Must be semantic (enforced by "Semantic Pull Request" check)
-- **Formatting**: Prettier with `printWidth: 120`, enforced via husky + lint-staged pre-commit hook
+- **Formatting**: Prettier with `printWidth: 120`, enforced via husky + lint-staged pre-commit hook. **Never run `bun run format` manually** — the git commit hook handles formatting automatically.
 - **ESLint**: Only in the website (`eslint-config-next/core-web-vitals`)
 - **Modules**: All packages use ESM (`"type": "module"`)
 
