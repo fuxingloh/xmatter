@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: DGNX
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#fcdac8"
 ---

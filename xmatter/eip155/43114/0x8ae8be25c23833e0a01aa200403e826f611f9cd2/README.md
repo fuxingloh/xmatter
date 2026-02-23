@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: CRAFT
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#becbc2"
 ---

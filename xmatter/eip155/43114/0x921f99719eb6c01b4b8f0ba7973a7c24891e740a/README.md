@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: MAGE
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#668e8a"
 ---

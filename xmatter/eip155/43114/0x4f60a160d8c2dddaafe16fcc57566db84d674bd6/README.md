@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: JEWEL
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#d9d467"
 ---
