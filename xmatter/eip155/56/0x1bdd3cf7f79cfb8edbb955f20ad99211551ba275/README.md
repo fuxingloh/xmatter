@@ -6,6 +6,7 @@ standards:
 symbol: BNBX
 decimals: 18
 icons:
+  - icon.png
   - icon.webp
-color: "#ecb735"
+color: "#090806"
 ---

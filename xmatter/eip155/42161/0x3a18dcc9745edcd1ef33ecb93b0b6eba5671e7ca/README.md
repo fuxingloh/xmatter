@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: KUJI
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#25242c"
 ---

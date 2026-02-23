@@ -16,7 +16,9 @@ links:
     url: "https://t.me/pandora_404"
 symbol: PANDORA
 decimals: 18
-icons: []
+icons:
+  - icon.png
+color: "#0c0c0c"
 ---
 
 Pandora is the first ERC404, an experimental mixed ERC20/ERC721 implementation with native liquidity and fractionalization for non-fungible tokens.
