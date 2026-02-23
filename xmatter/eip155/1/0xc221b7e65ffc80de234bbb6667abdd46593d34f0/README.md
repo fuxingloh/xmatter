@@ -21,6 +21,7 @@ standards:
 color: "#cecece"
 icons:
   - icon.png
+  - icon.jpeg
 ---
 
 The Centrifuge Token (CFG) guides the development of Centrifuge using an onchain governance mechanism. This is an ERC20 wrapped token of CFG deployed on Ethereum and backed 1:1 by CFG on Centrifuge Chain.

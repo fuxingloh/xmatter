@@ -14,6 +14,7 @@ color: "#1f3b71"
 icons:
   - icon.svg
   - icon.png
+  - icon.jpeg
 ---
 
 $KEYCAT is a meme coin with no intrinsic value or expectation of financial return. $KEYCAT is not associted with Charlie Schmidt or his creation of Keyboard Cat.

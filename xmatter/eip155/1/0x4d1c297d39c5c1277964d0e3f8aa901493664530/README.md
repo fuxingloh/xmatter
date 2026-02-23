@@ -17,6 +17,7 @@ standards:
 color: "#545ce4"
 icons:
   - icon.png
+  - icon.jpeg
 ---
 
 Reinventing Ethereum’s Future with LRT, Rollups, AVS & Institutional Solutions.

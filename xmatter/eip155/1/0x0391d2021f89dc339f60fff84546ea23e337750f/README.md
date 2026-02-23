@@ -14,6 +14,7 @@ color: "#fc443c"
 icons:
   - icon.svg
   - icon.png
+  - icon.jpeg
 ---
 
 Tokenized Risk Protocol

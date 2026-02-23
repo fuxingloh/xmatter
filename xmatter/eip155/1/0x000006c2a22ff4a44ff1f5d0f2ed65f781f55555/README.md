@@ -13,6 +13,7 @@ standards:
 color: "#4d4d4d"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 ZKC is the native token of the Boundless protocol. It functions as the backbone for all ZK Proving.

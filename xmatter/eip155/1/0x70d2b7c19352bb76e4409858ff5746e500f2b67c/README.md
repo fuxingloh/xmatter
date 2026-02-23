@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: UPI
 decimals: 18
-icons: []
+icons:
+  - icon.jpeg
+color: "#f9eae0"
 ---

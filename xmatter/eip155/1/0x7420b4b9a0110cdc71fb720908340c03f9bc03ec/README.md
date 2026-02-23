@@ -11,6 +11,7 @@ standards:
 color: "#f4941c"
 icons:
   - icon.png
+  - icon.jpeg
 ---
 
 JasmyCoin is based on the ERC 20 standard. The token can also be used by an unspecified number of individuals and businesses to transfer tokens using digital devices as proof of value exchange or payment for services. By not limiting its usability, the token can have a wide range of purposes.

@@ -22,6 +22,7 @@ color: "#3c8434"
 icons:
   - icon.svg
   - icon.png
+  - icon.jpeg
 ---
 
 Pepe is a community based memecoin with one mission: to make memecoins great again. Made to honor the iconic meme we all know and love, Pepe is here to take reign as the most memeable memecoin in existence, fueled purely by memetic power. Pepe is for the people.

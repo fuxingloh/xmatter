@@ -25,6 +25,7 @@ standards:
 color: "#232c57"
 icons:
   - icon.png
+  - icon.jpeg
 ---
 
 Crypto.com Chain will be a privacy preserving payment network that focuses on enabling crypto spending in the real world, powering the future of mobile money.

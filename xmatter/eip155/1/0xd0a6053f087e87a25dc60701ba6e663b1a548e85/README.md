@@ -13,6 +13,7 @@ standards:
 color: "#161414"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 A multi-chain token

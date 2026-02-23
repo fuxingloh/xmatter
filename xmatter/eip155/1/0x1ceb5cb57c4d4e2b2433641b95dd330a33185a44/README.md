@@ -12,6 +12,7 @@ color: "#040404"
 icons:
   - icon.svg
   - icon.png
+  - icon.jpeg
 ---
 
 Keep3rV1 is a decentralized job-matching platform for connecting external DevOps with projects that need help for completing various tasks.

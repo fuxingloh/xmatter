@@ -17,6 +17,7 @@ standards:
 color: "#171617"
 icons:
   - icon.png
+  - icon.jpeg
 ---
 
 $USUAL is the governance token powering the Usual protocol. It gives users ownership and governance over the infrastructure and treasury. Uniquely designed with an intrinsic value tied directly to the protocol's revenue model, $USUAL drives the adoption and use of USD0, aligning incentives for contributors and fueling protocol growth.
