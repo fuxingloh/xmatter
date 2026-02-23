@@ -13,6 +13,7 @@ standards:
 color: "#0c0c1c"
 icons:
   - icon.png
+  - icon.jpeg
 ---
 
 Sylo is a decentralised communication and smart-money platform powered by layer 2 micropayments and the $SYLO token.

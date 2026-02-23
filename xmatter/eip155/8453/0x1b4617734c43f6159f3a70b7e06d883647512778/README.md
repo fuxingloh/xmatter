@@ -6,5 +6,7 @@ symbol: AWE
 icons:
   - icon.svg
   - icon.png
+  - icon.jpeg
 color: "#040404"
+decimals: 18
 ---

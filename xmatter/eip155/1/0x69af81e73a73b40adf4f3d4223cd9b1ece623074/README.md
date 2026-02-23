@@ -18,6 +18,7 @@ color: "#1c6bf4"
 icons:
   - icon.svg
   - icon.png
+  - icon.jpeg
 ---
 
 The portal to the new, open internet.

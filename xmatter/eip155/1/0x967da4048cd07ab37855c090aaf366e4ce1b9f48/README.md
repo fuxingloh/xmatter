@@ -25,6 +25,7 @@ standards:
 color: "#d9d9d9"
 icons:
   - icon.png
+  - icon.jpeg
 ---
 
 Ocean Protocol describes itself as a decentralized data exchange protocol that lets people share and monetize data while providing control, auditability, transparency, and compliance to all actors involved.

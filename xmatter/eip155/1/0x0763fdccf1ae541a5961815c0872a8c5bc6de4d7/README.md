@@ -19,6 +19,7 @@ standards:
 color: "#1b1c1c"
 icons:
   - icon.png
+  - icon.jpeg
 ---
 
 The link between open finance, traceability, and transparency. The future of supply chains today.

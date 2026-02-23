@@ -16,6 +16,7 @@ color: "#1c84fc"
 icons:
   - icon.svg
   - icon.png
+  - icon.jpeg
 ---
 
 Enabling peer-to-peer commerce

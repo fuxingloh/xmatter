@@ -21,6 +21,7 @@ standards:
 color: "#1860f0"
 icons:
   - icon.png
+  - icon.jpeg
 ---
 
 NuCypher is a decentralized threshold cryptography network.

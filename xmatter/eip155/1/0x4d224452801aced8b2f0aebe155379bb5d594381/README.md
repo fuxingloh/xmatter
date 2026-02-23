@@ -17,6 +17,7 @@ standards:
 color: "#074bd4"
 icons:
   - icon.png
+  - icon.jpeg
 ---
 
 ApeCoin is an ERC-20 governance and utility token used within the APE ecosystem to empower a decentralized community building at the forefront of web3.
