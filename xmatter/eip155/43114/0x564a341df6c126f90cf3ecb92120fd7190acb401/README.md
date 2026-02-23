@@ -5,5 +5,7 @@ standards:
   - erc20
 symbol: TRYB
 decimals: 6
-icons: []
+icons:
+  - icon.png
+color: "#1c2c4c"
 ---
