@@ -77,7 +77,7 @@ for (const filename of files) {
   }
 
   for (const token of tokens) {
-    if (!token.address || !token.name || !token.chainId) continue;
+    if (!token.address || !token.address.startsWith("0x") || !token.name || !token.chainId) continue;
 
     const uri = `eip155/${token.chainId}/${token.address.toLowerCase()}`;
     const targetPath = join("../../xmatter", uri);
