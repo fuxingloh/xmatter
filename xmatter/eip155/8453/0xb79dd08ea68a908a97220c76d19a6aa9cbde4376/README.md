@@ -16,6 +16,7 @@ color: "#041f45"
 icons:
   - icon.svg
   - icon.png
+  - icon.webp
 ---
 
 USD+ is a yield-generating stablecoin yielding 8-12% pa, via daily rebase. It is fully backed by a portfolio of liquid, yield generating, low risk DeFi assets.

@@ -13,4 +13,5 @@ standards:
 color: "#000000"
 icons:
   - icon.svg
+  - icon.png
 ---

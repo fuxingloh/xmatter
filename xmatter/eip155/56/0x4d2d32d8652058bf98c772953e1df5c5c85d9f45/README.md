@@ -27,6 +27,7 @@ standards:
 color: "#2c2c44"
 icons:
   - icon.png
+  - icon.webp
 ---
 
 DAO Maker is the leading incubation, fundraising and acceleration platform with a vast network of successful projects launched.

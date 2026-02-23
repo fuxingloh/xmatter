@@ -1,0 +1,11 @@
+---
+name: mstETH
+provenance: "https://github.com/pancakeswap/token-list"
+standards:
+  - erc20
+symbol: mstETH
+decimals: 18
+icons:
+  - icon.png
+color: "#6774d4"
+---

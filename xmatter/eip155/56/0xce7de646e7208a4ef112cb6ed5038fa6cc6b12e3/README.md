@@ -21,6 +21,7 @@ standards:
 color: "#ec0c2c"
 icons:
   - icon.png
+  - icon.webp
 ---
 
 TRON is a dedicated to build the infrastructure for a truly decentralized Internet.
