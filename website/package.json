@@ -55,7 +55,7 @@
   },
   "devDependencies": {
     "@radix-ui/react-dialog": "^1.1.15",
-    "@shikijs/rehype": "^3.22.0",
+    "@shikijs/rehype": "^4.0.0",
     "@tailwindcss/postcss": "^4.1.18",
     "@tailwindcss/typography": "^0.5.19",
     "@types/mdx": "^2.0.13",
