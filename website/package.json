@@ -49,7 +49,7 @@
     "remark-gfm": "^4.0.1",
     "remove-markdown": "^0.6.3",
     "sharp": "^0.34.5",
-    "shiki": "^3.22.0",
+    "shiki": "^4.0.2",
     "tailwind-merge": "^3.4.0",
     "xmatter": "workspace:*"
   },
