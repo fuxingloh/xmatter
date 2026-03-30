@@ -1,12 +1,11 @@
 ---
-name: Bittensor
+name: Mind Network
 provenance: "https://github.com/Uniswap/default-token-list"
 standards:
   - erc20
-symbol: TAO
+symbol: FHE
 decimals: 18
 icons:
-  - icon.png
   - icon.jpg
-color: "#f40cb4"
+color: "#050a09"
 ---

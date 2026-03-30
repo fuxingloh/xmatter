@@ -1,12 +1,11 @@
 ---
-name: Bittensor
+name: idOS Token
 provenance: "https://github.com/Uniswap/default-token-list"
 standards:
   - erc20
-symbol: TAO
+symbol: IDOS
 decimals: 18
 icons:
   - icon.png
-  - icon.jpg
-color: "#f40cb4"
+color: "#040404"
 ---

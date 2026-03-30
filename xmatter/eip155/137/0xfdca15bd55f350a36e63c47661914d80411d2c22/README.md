@@ -5,8 +5,5 @@ standards:
   - erc20
 symbol: TAO
 decimals: 18
-icons:
-  - icon.png
-  - icon.jpg
-color: "#f40cb4"
+icons: []
 ---

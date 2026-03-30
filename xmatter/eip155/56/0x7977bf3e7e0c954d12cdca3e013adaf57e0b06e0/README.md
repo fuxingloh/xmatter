@@ -1,12 +1,11 @@
 ---
-name: Bittensor
+name: OPINION
 provenance: "https://github.com/Uniswap/default-token-list"
 standards:
   - erc20
-symbol: TAO
+symbol: OPN
 decimals: 18
 icons:
-  - icon.png
   - icon.jpg
-color: "#f40cb4"
+color: "#c65f3d"
 ---

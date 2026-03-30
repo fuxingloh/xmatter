@@ -1,12 +1,11 @@
 ---
-name: Bittensor
+name: Eclipse
 provenance: "https://github.com/Uniswap/default-token-list"
 standards:
   - erc20
-symbol: TAO
-decimals: 18
+symbol: ES
+decimals: 6
 icons:
   - icon.png
-  - icon.jpg
-color: "#f40cb4"
+color: "#050605"
 ---
