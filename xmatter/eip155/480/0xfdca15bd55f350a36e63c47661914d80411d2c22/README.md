@@ -6,7 +6,6 @@ standards:
 symbol: TAO
 decimals: 18
 icons:
-  - icon.png
   - icon.jpg
-color: "#f40cb4"
+color: "#07090c"
 ---

@@ -1,12 +1,11 @@
 ---
-name: Bittensor
+name: Portal to Bitcoin
 provenance: "https://github.com/Uniswap/default-token-list"
 standards:
   - erc20
-symbol: TAO
+symbol: PTB
 decimals: 18
 icons:
   - icon.png
-  - icon.jpg
-color: "#f40cb4"
+color: "#151317"
 ---

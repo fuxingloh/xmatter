@@ -13,6 +13,7 @@ standards:
 color: "#14ccfc"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Telcoin leverages blockchain technology to provide access to low-cost, high-quality decentralized financial products for every mobile phone user in the world.

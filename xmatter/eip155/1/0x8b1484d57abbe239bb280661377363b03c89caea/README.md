@@ -1,12 +1,11 @@
 ---
-name: Bittensor
+name: ADI
 provenance: "https://github.com/Uniswap/default-token-list"
 standards:
   - erc20
-symbol: TAO
+symbol: ADI
 decimals: 18
 icons:
   - icon.png
-  - icon.jpg
-color: "#f40cb4"
+color: "#051964"
 ---

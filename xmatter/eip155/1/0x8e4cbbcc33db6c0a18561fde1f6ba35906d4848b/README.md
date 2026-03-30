@@ -1,12 +1,11 @@
 ---
-name: Bittensor
+name: Mezo
 provenance: "https://github.com/Uniswap/default-token-list"
 standards:
   - erc20
-symbol: TAO
+symbol: MEZO
 decimals: 18
 icons:
   - icon.png
-  - icon.jpg
-color: "#f40cb4"
+color: "#fb044c"
 ---
