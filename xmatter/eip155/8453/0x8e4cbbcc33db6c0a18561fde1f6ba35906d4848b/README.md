@@ -6,6 +6,7 @@ standards:
 symbol: MEZO
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#fb044c"
+color: "#fc044c"
 ---
