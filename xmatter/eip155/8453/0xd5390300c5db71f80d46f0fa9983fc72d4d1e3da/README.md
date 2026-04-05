@@ -6,6 +6,7 @@ standards:
 symbol: KAT
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#0a4ea3"
+color: "#094b9f"
 ---

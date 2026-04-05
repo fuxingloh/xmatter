@@ -12,6 +12,7 @@ symbol: bwAJNA
 decimals: 18
 icons:
   - icon.svg
+  - icon.png
 color: "#0c0b0b"
 ---
 
