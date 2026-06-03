@@ -1,0 +1,18 @@
+---
+name: "Quanta Services, Inc. xStock"
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+links:
+  - name: website
+    url: "https://assets.backed.fi/products"
+  - name: x
+    url: "https://x.com/xstocksfi"
+symbol: PWRx
+decimals: 18
+icons:
+  - icon.png
+color: "#818181"
+---
+
+Quanta Services, Inc. xStock (PWRx) is a tracker certificate issued as a freely transferable token on selected blockchains. PWRx tracks the price of Quanta Services, Inc.. PWRx is designed to give eligible investors regulatory-compliant access to the stock price of Quanta Services, Inc., whilst maintaining the benefits of blockchain technology.

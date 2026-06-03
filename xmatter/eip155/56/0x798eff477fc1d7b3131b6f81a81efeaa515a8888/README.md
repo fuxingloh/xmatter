@@ -1,0 +1,14 @@
+---
+name: FAKE Bitcoin
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+links:
+  - name: website
+    url: "https://bscscan.com/token/0x798EFf477fC1D7B3131B6F81a81eFeaA515a8888"
+symbol: FAKE BTC
+decimals: 18
+icons: []
+---
+
+This token is malicious do not interact

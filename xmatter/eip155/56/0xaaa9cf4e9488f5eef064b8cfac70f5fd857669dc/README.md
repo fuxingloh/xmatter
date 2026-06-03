@@ -1,0 +1,18 @@
+---
+name: Lumentum Holdings Inc. xStock
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+links:
+  - name: website
+    url: "https://assets.backed.fi/products"
+  - name: x
+    url: "https://x.com/xstocksfi"
+symbol: LITEx
+decimals: 18
+icons:
+  - icon.png
+color: "#7a7f7c"
+---
+
+Lumentum Holdings Inc. xStock (LITEx) is a tracker certificate issued as a freely transferable token on selected blockchains. LITEx tracks the price of Lumentum Holdings Inc.. LITEx is designed to give eligible investors regulatory-compliant access to the stock price of Lumentum Holdings Inc., whilst maintaining the benefits of blockchain technology.

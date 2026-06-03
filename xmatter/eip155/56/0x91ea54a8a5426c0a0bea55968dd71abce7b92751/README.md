@@ -1,0 +1,18 @@
+---
+name: Vanguard Total International Stock ETF xStock
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+links:
+  - name: website
+    url: "https://assets.backed.fi/products"
+  - name: x
+    url: "https://x.com/xstocksfi"
+symbol: VXUSx
+decimals: 18
+icons:
+  - icon.png
+color: "#8b131a"
+---
+
+Vanguard Total International Stock ETF xStock (VXUSx) is a tracker certificate issued as a freely transferable token on selected blockchains. VXUSx tracks the price of Vanguard Total International Stock ETF. VXUSx is designed to give eligible investors regulatory-compliant access to the stock price of Vanguard Total International Stock ETF, whilst maintaining the benefits of blockchain technology.
