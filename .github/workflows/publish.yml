@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     environment: NPM
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
       - uses: ./.github/actions/setup
 
       - run: jq --arg v "${GITHUB_REF_NAME#v}" '.version = $v' package.json > package.json.tmp && mv package.json.tmp package.json
