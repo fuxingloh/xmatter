@@ -59,10 +59,10 @@ jobs:
             repo: pangolindex/tokenlists
             ref: main
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
       - uses: ./.github/actions/setup
 
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
         if: matrix.repo && matrix.ref
         with:
           # PLEASE be aware that this is a security risk when you allow untrusted repositories to be checked out.
