@@ -14,6 +14,7 @@ color: "#a7e8d6"
 icons:
   - icon.svg
   - icon.png
+  - icon.jpg
 ---
 
 USD₮0 is the omnichain deployment of USDT.
