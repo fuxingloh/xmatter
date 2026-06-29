@@ -13,6 +13,7 @@ decimals: 6
 icons:
   - icon.svg
   - icon.png
+  - icon.jpg
 color: "#a7e8d6"
 ---
 
