@@ -6,6 +6,7 @@ standards:
 symbol: avUSDT
 decimals: 6
 icons:
+  - icon.svg
   - icon.png
-color: "#54aa98"
+color: "#97daca"
 ---

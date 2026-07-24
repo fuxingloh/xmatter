@@ -13,6 +13,7 @@ standards:
 color: "#090804"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Scamfari Token

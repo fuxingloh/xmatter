@@ -8,8 +8,9 @@ name: BOSAGORA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0070f8"
+color: "#b8cee5"
 icons:
+  - icon.svg
   - icon.png
 ---
 

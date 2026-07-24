@@ -8,8 +8,9 @@ name: Metal
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f97b49"
+color: "#d53d85"
 icons:
+  - icon.svg
   - icon.png
 ---
 

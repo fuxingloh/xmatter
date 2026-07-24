@@ -6,6 +6,7 @@ standards:
 symbol: ADAI
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#fcbf41"
+color: "#7993b6"
 ---

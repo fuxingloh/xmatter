@@ -6,6 +6,7 @@ standards:
 symbol: sdCAKE
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#5c42c1"
+color: "#b8763b"
 ---

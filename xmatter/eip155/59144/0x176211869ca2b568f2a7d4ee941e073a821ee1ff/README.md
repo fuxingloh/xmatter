@@ -13,8 +13,9 @@ links:
 symbol: USDC
 decimals: 6
 icons:
+  - icon.svg
   - icon.png
-color: "#2373cb"
+color: "#0c54bc"
 ---
 
 USDC is a stablecoin that is pegged to the U.S. dollar on a 1:1 basis. Every unit of this cryptocurrency in circulation is backed up by $1 that is held in reserve, in a mix of cash and short-term U.S. Treasury bonds.

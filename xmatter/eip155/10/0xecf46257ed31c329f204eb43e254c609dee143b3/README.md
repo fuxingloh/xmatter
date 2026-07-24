@@ -13,6 +13,7 @@ standards:
 color: "#fbc32c"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 RigoBlock is a DeFi protocol for token management

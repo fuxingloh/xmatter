@@ -6,6 +6,7 @@ standards:
 symbol: EURS
 decimals: 2
 icons:
+  - icon.svg
   - icon.png
-color: "#2399f5"
+color: "#677ff6"
 ---

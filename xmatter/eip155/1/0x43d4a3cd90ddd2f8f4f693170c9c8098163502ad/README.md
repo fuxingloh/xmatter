@@ -13,6 +13,7 @@ standards:
 color: "#14042c"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 A DAO collective focused on researching and building next-generation coordination tools for decentralized organizations.

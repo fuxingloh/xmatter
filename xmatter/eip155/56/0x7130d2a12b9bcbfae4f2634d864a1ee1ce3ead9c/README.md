@@ -18,8 +18,9 @@ name: BNB pegged BTCB Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fa9e32"
+color: "#f5d4a5"
 icons:
+  - icon.svg
   - icon.png
 ---
 

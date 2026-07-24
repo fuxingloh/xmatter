@@ -13,6 +13,7 @@ standards:
 color: "#c8cfd5"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 ARPA innovates cryptographic systems to make blockchains more versatile, reliable, and interlinked.

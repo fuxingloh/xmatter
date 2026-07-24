@@ -6,6 +6,7 @@ standards:
 symbol: USDT
 decimals: 6
 icons:
+  - icon.svg
   - icon.png
-color: "#54ac94"
+color: "#069d7d"
 ---

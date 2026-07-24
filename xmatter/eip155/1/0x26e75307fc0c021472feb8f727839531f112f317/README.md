@@ -8,8 +8,9 @@ name: Crypto20
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0f3a56"
+color: "#003048"
 icons:
+  - icon.svg
   - icon.png
 ---
 

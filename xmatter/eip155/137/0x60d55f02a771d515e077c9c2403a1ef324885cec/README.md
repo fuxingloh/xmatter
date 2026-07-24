@@ -6,6 +6,7 @@ standards:
 symbol: AMUSDT
 decimals: 6
 icons:
+  - icon.svg
   - icon.png
-color: "#54aa98"
+color: "#069d7d"
 ---

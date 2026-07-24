@@ -14,8 +14,9 @@ name: DLP Duck Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3b3e3f"
+color: "#262626"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -16,8 +16,9 @@ name: DODO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#060604"
+color: "#070704"
 icons:
+  - icon.svg
   - icon.png
 ---
 

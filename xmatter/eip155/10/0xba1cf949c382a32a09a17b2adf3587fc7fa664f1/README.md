@@ -13,6 +13,7 @@ standards:
 color: "#6f8ed1"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 SOL from Solana, bridged by Wormhole.

@@ -13,6 +13,7 @@ standards:
 color: "#041444"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Eco is a cryptocurrency with independent monetary policy, designed to enable an independently governed payment economy.

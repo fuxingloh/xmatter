@@ -13,6 +13,7 @@ standards:
 color: "#5045b7"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Ether.fi Wrapped eETH

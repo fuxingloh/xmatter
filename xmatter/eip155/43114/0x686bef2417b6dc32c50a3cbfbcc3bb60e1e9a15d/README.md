@@ -6,6 +6,7 @@ standards:
 symbol: AVWBTC
 decimals: 8
 icons:
+  - icon.svg
   - icon.png
-color: "#858fcd"
+color: "#f5d4a9"
 ---

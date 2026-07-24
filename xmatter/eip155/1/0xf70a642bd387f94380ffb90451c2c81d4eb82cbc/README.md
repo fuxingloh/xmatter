@@ -8,8 +8,9 @@ name: Starbase
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#05486a"
+color: "#384078"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -13,6 +13,7 @@ standards:
 color: "#0c0b0b"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 AJNA tokens are the Ajna Protocol's native token. bwAJNA tokens are burn-wrapped on mainnet before traversing L2 bridges. They are bought and burned by pools with excess reserves.

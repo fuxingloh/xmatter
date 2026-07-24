@@ -8,8 +8,9 @@ name: Aave BUSD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f4bc0c"
+color: "#f4bd13"
 icons:
+  - icon.svg
   - icon.png
 ---
 

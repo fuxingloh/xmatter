@@ -6,6 +6,7 @@ standards:
 symbol: USDCet
 decimals: 6
 icons:
+  - icon.svg
   - icon.png
-color: "#2373cb"
+color: "#a4ccf0"
 ---

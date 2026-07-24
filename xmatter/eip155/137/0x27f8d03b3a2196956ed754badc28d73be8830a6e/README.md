@@ -6,6 +6,7 @@ standards:
 symbol: AMDAI
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#fcbc38"
+color: "#fceba2"
 ---

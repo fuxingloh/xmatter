@@ -6,6 +6,7 @@ standards:
 symbol: NFTY
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#1c1b1c"
+color: "#f6bf0c"
 ---

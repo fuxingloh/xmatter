@@ -6,6 +6,7 @@ standards:
 symbol: MIMATIC
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#ca433b"
+color: "#e36565"
 ---

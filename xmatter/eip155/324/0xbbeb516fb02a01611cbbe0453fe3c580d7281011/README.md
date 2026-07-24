@@ -6,6 +6,7 @@ standards:
 symbol: WBTC
 decimals: 8
 icons:
+  - icon.svg
   - icon.png
-color: "#f4941c"
+color: "#fc8c04"
 ---

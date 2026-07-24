@@ -8,7 +8,8 @@ name: AgaveCoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e2eade"
+color: "#14a0a8"
 icons:
+  - icon.svg
   - icon.png
 ---

@@ -16,8 +16,9 @@ name: Bazaars
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#245335"
+color: "#3cb46c"
 icons:
+  - icon.svg
   - icon.png
 ---
 

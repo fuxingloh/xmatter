@@ -18,5 +18,8 @@ links:
     url: "https://blog.bancor.network/"
 symbol: ETHBNT
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+  - icon.png
+color: "#f3f2f2"
 ---

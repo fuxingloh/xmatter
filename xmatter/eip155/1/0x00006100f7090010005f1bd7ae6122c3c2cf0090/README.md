@@ -6,7 +6,8 @@ name: TrueAUD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0505a1"
+color: "#6c4cfc"
 icons:
+  - icon.svg
   - icon.png
 ---

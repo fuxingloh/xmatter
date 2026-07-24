@@ -9,6 +9,7 @@ standards:
 color: "#e01058"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Multi-strategy crypto hedge fund

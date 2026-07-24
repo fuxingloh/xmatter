@@ -5,5 +5,8 @@ standards:
   - erc20
 symbol: UST
 decimals: 6
-icons: []
+icons:
+  - icon.svg
+  - icon.png
+color: "#ededed"
 ---

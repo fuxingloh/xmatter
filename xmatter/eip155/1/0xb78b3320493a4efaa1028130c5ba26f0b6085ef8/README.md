@@ -12,8 +12,9 @@ name: Dracula Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1a1b23"
+color: "#fb5363"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -6,6 +6,7 @@ standards:
 symbol: GFUSDT
 decimals: 6
 icons:
+  - icon.svg
   - icon.png
-color: "#2da37c"
+color: "#96daca"
 ---

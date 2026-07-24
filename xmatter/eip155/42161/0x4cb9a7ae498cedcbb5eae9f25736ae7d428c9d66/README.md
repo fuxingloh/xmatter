@@ -12,8 +12,9 @@ name: Xai
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ef041a"
+color: "#f41f3d"
 icons:
+  - icon.svg
   - icon.png
 ---
 

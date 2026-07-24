@@ -6,6 +6,7 @@ standards:
 symbol: SUP
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#0a0d0a"
+color: "#0d0e0c"
 ---

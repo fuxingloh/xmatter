@@ -6,6 +6,7 @@ standards:
 symbol: TUSD
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#1c5cfc"
+color: "#0797b6"
 ---
