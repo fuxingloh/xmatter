@@ -1,0 +1,20 @@
+---
+name: Ondo U.S. Dollar Yield
+provenance: "https://github.com/trustwallet/assets"
+standards:
+  - erc20
+links:
+  - name: website
+    url: "https://ondo.finance/"
+  - name: x
+    url: "https://x.com/ondofinance"
+  - name: coinmarketcap
+    url: "https://coinmarketcap.com/currencies/ondo-us-dollar-yield/"
+symbol: USDY
+decimals: 18
+icons:
+  - icon.png
+color: "#042c64"
+---
+
+Ondo US Dollar Yield (USDY) is a decentralized lending protocol designed to honor transfer restrictions from permissioned tokens, thereby expanding the universe of assets it can support. This unique approach allows it to cater to a broader range of financial instruments, making it a versatile player in the blockchain ecosystem.
