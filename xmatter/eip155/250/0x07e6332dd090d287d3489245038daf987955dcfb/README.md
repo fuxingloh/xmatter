@@ -6,6 +6,7 @@ standards:
 symbol: GDAI
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#f3ac37"
+color: "#fbeba3"
 ---

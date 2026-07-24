@@ -28,8 +28,9 @@ name: Vabble
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c22bbe"
+color: "#100d18"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -8,7 +8,8 @@ name: Eristica TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc3b3c"
+color: "#f05349"
 icons:
+  - icon.svg
   - icon.png
 ---

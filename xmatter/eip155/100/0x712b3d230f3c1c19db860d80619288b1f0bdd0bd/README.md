@@ -6,6 +6,7 @@ standards:
 symbol: CRV
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#24ccd6"
+color: "#fbf3e7"
 ---

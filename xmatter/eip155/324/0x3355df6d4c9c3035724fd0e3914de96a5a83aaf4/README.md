@@ -17,6 +17,7 @@ links:
 symbol: USDC
 decimals: 6
 icons:
+  - icon.svg
   - icon.png
 color: "#2474cc"
 ---

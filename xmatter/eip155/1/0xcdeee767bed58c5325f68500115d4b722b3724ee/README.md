@@ -6,6 +6,7 @@ standards:
 symbol: CRBN
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#5b2bec"
+color: "#ce1d82"
 ---

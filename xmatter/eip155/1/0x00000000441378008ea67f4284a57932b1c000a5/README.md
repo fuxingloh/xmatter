@@ -8,8 +8,9 @@ name: TrueGBP
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d41c23"
+color: "#f43c3c"
 icons:
+  - icon.svg
   - icon.png
 ---
 

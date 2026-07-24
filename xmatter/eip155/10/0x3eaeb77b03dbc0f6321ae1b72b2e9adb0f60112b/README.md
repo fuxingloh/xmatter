@@ -13,6 +13,7 @@ standards:
 color: "#e05faa"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Buy and Sell Instantly on Sushi. Wherever. Whoever. Whenever.

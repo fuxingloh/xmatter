@@ -6,6 +6,7 @@ standards:
 symbol: FXS
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#000000"
+color: "#18191a"
 ---

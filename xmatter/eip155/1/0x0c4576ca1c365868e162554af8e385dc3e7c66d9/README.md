@@ -19,6 +19,7 @@ links:
 symbol: veOGV
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#171f27"
+color: "#30444c"
 ---

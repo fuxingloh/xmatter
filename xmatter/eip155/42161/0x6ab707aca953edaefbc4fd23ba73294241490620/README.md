@@ -6,6 +6,7 @@ standards:
 symbol: AUSDT
 decimals: 6
 icons:
+  - icon.svg
   - icon.png
-color: "#51ac9d"
+color: "#a37db0"
 ---

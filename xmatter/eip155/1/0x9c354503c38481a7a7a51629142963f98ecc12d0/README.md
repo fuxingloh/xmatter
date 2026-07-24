@@ -19,6 +19,7 @@ links:
 symbol: OGV
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#0c141d"
+color: "#2d424a"
 ---

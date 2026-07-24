@@ -13,6 +13,7 @@ standards:
 color: "#d4d4b4"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Governance token for Interest Protocol

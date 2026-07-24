@@ -5,5 +5,8 @@ standards:
   - erc20
 symbol: BAG
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+  - icon.png
+color: "#629ad6"
 ---

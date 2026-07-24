@@ -6,6 +6,7 @@ standards:
 symbol: AMWETH
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#ce5c9b"
+color: "#5574a6"
 ---

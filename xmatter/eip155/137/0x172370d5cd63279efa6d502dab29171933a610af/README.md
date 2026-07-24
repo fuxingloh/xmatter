@@ -16,8 +16,9 @@ name: CRV (PoS)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1fcbdb"
+color: "#fbf3e7"
 icons:
+  - icon.svg
   - icon.png
 ---
 

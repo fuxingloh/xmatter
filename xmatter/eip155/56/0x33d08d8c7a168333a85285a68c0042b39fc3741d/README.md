@@ -8,8 +8,9 @@ name: AIOZ Network Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#1c5cec"
+color: "#ededed"
 icons:
+  - icon.svg
   - icon.png
 ---
 

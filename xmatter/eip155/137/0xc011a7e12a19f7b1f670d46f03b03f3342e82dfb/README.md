@@ -13,6 +13,7 @@ links:
 symbol: pUSD
 decimals: 6
 icons:
+  - icon.svg
   - icon.png
 color: "#2c5cfc"
 ---

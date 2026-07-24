@@ -6,6 +6,8 @@ standards:
 symbol: AUSDC
 decimals: 6
 icons:
+  - icon.svg
+  - icon.png
   - icon.webp
-color: "#2b74ca"
+color: "#a8cef0"
 ---

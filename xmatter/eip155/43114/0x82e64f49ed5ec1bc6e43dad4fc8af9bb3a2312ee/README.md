@@ -6,6 +6,8 @@ standards:
 symbol: ADAI
 decimals: 18
 icons:
+  - icon.svg
+  - icon.png
   - icon.webp
-color: "#fbba36"
+color: "#faeaa1"
 ---

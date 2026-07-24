@@ -13,6 +13,7 @@ standards:
 color: "#58148c"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Dream big, start small, stick together!

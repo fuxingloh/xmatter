@@ -14,8 +14,9 @@ name: AirSwap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2b73fc"
+color: "#2b71ff"
 icons:
+  - icon.svg
   - icon.png
 ---
 

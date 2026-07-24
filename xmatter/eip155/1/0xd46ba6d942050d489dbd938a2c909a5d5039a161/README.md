@@ -8,8 +8,9 @@ name: Ampleforth
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#040404"
+color: "#000000"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -13,6 +13,7 @@ standards:
 color: "#4820f0"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Rewarding you for being you.

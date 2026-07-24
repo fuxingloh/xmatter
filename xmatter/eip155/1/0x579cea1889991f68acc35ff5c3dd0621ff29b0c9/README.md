@@ -16,8 +16,9 @@ name: Everipedia IQ
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ec5ea3"
+color: "#fb88c1"
 icons:
+  - icon.svg
   - icon.png
 ---
 

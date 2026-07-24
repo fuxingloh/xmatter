@@ -10,8 +10,9 @@ name: Falcon USD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ebebeb"
+color: "#202020"
 icons:
+  - icon.svg
   - icon.png
 ---
 

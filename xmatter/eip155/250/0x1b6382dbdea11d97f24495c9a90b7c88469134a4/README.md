@@ -35,8 +35,9 @@ links:
 symbol: axlUSDC
 decimals: 6
 icons:
+  - icon.svg
   - icon.png
-color: "#2775cb"
+color: "#a9cded"
 ---
 
 Axelar delivers secure cross-chain communication for Web3. Our infrastructure enables dApp users to interact with any asset or application, on any chain, with one click.

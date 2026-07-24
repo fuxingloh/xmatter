@@ -5,5 +5,8 @@ standards:
   - erc20
 symbol: CTR
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+  - icon.png
+color: "#f47c1d"
 ---

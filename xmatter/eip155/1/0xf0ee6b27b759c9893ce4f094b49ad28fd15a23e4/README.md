@@ -8,8 +8,9 @@ name: Enigma
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#210545"
+color: "#de2b98"
 icons:
+  - icon.svg
   - icon.png
 ---
 

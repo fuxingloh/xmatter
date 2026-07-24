@@ -6,6 +6,7 @@ standards:
 symbol: CBMEGA
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#322b2b"
+color: "#065cfc"
 ---

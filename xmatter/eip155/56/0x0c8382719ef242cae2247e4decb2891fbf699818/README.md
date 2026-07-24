@@ -10,8 +10,9 @@ name: BDCA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d20c0c"
+color: "#d00909"
 icons:
+  - icon.svg
   - icon.png
 ---
 

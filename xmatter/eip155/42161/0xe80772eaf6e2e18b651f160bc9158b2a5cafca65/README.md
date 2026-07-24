@@ -6,6 +6,7 @@ standards:
 symbol: USD+
 decimals: 6
 icons:
+  - icon.svg
   - icon.png
-color: "#0546a0"
+color: "#b7cba1"
 ---

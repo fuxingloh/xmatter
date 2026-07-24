@@ -6,6 +6,7 @@ standards:
 symbol: CAKE
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#3ad3de"
+color: "#b6753a"
 ---

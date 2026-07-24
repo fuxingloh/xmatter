@@ -13,6 +13,7 @@ standards:
 color: "#c4342c"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 The official token of TRON Network

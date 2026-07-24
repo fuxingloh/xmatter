@@ -13,6 +13,7 @@ standards:
 color: "#141417"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Token for ownership and governance of Braintrust, the decentralized talent network.

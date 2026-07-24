@@ -8,8 +8,9 @@ name: Axion
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#aae4fc"
+color: "#aae4fb"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -6,6 +6,7 @@ standards:
 symbol: GOHM
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
 color: "#82999f"
 ---

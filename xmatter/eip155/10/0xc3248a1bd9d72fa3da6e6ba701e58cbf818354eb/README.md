@@ -13,6 +13,7 @@ standards:
 color: "#2a9ec8"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 A token for the Decentralized copyright holder Identity Verification Smart Contract

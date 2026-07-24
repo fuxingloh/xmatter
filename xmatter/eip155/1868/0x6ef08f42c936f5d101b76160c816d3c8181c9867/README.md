@@ -12,6 +12,7 @@ symbol: QUICK
 decimals: 18
 icons:
   - icon.svg
+  - icon.png
 color: "#278cc2"
 ---
 

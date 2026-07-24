@@ -8,8 +8,9 @@ name: Shaka
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#80047b"
+color: "#b030a0"
 icons:
+  - icon.svg
   - icon.png
 ---
 

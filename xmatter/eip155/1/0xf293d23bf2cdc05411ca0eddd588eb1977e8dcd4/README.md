@@ -10,8 +10,9 @@ name: Sylo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0c0c1c"
+color: "#e06018"
 icons:
+  - icon.svg
   - icon.png
   - icon.jpg
 ---

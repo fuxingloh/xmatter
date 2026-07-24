@@ -6,6 +6,7 @@ standards:
 symbol: KEK
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#1f1914"
+color: "#f19831"
 ---

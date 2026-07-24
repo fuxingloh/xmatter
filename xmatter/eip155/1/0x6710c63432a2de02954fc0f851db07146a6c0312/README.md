@@ -8,8 +8,9 @@ name: SyncFab Smart Manufacturing Blockchain
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f8b810"
+color: "#dcbb59"
 icons:
+  - icon.svg
   - icon.png
 ---
 
