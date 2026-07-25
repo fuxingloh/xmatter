@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "bun --bun next build",
+    "build": "bun --bun next build && bun scripts/generate-search-html.ts && npx -y pagefind --site .next/search-html --output-path public/pagefind",
     "clean": "rm -rf .next",
     "dev": "bun --bun next dev",
     "lint": "eslint .",
@@ -63,6 +63,7 @@
     "@types/react": "^19",
     "eslint": "^9.39.2",
     "eslint-config-next": "16.1.6",
+    "pagefind": "^1.2.0",
     "tailwindcss": "^4.1.18"
   }
 }

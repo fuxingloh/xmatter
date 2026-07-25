@@ -24,6 +24,9 @@ coverage
 # Agent
 .repo
 
+# Search index (generated at build time)
+xmatter/pagefind/
+
 # tsconfig.json
 packages/*/**/*.d.ts
 packages/*/**/*.d.ts.map

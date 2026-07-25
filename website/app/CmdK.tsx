@@ -285,14 +285,103 @@ function CmdKResources({ onSelect }: { onSelect: (href: string) => void }) {
   );
 }
 
+interface PagefindResult {
+  id: string;
+  score: number;
+  words: number[];
+  data: () => Promise<{
+    url: string;
+    content: string;
+    word_count: number;
+    filters: Record<string, string>;
+    meta: {
+      title: string;
+      group?: string;
+      url?: string;
+    };
+    anchors: Array<{ element: string; id: string; text: string }>;
+    weighted_locations: Array<{ weight: number; balanced_score: number }>;
+    locations: number[];
+    raw_content: string;
+    raw_url: string;
+    excerpt: string;
+    sub_results: Array<{
+      title: string;
+      url: string;
+      anchor: { element: string; id: string; text: string };
+      excerpt: string;
+    }>;
+  }>;
+}
+
+interface PagefindAPI {
+  search: (query: string) => Promise<{ results: PagefindResult[] }>;
+  debouncedSearch: (query: string, options?: { debounce?: number }) => Promise<{ results: PagefindResult[] }>;
+}
+
+function usePagefindSearch(query: string, enabled: boolean) {
+  const [results, setResults] = useState<Array<{ url: string; title: string; group: string; excerpt: string }>>([]);
+  const [loading, setLoading] = useState(false);
+  const reqId = useRef(0);
+
+  useEffect(() => {
+    if (!enabled || !query || query.length < 2) {
+      setResults([]);
+      return;
+    }
+
+    const id = ++reqId.current;
+
+    setLoading(true);
+
+    const doSearch = async () => {
+      try {
+        // Dynamic import with webpackIgnore to load from public directory
+        const pagefind = (await import(/* webpackIgnore: true */ "/pagefind/pagefind.js")) as PagefindAPI;
+        const searchResults = await pagefind.debouncedSearch(query, { debounce: 150 });
+
+        if (reqId.current !== id) return;
+
+        const data = await Promise.all(searchResults.results.slice(0, 10).map((r) => r.data()));
+        const formatted = data.map((d) => ({
+          url: d.meta.url || d.url,
+          title: d.meta.title || "Documentation",
+          group: d.meta.group || "Documentation",
+          excerpt: d.excerpt,
+        }));
+
+        if (reqId.current === id) {
+          setResults(formatted);
+          setLoading(false);
+        }
+      } catch (error) {
+        console.error("Pagefind search error:", error);
+        if (reqId.current === id) {
+          setResults([]);
+          setLoading(false);
+        }
+      }
+    };
+
+    doSearch();
+  }, [query, enabled]);
+
+  return { results, loading };
+}
+
 function CmdKDocs({ onSelect }: { onSelect: (href: string) => void }) {
   const search = useCommandState((state) => state.search);
   const parsed = parseResourceQuery(search);
 
+  // Use Pagefind for full-text search when there's a query
+  const shouldUsePagefind = search.trim().length >= 2;
+  const { results: pagefindResults, loading } = usePagefindSearch(search, shouldUsePagefind);
+
   // Hide docs when actively searching for a resource
   if (parsed && parsed.prefix.length >= 4) return null;
 
-  const filtered = search
+  // Fallback to original keyword search if no query or Pagefind unavailable
+  const keywordFiltered = search
     ? docsLinks.filter((d) => {
         const haystack = `${d.label} ${d.group} ${d.keywords?.join(" ") ?? ""}`.toLowerCase();
         return search
@@ -302,10 +391,49 @@ function CmdKDocs({ onSelect }: { onSelect: (href: string) => void }) {
       })
     : docsLinks;
 
-  if (filtered.length === 0) return null;
+  // Use Pagefind results if available, otherwise fallback
+  if (shouldUsePagefind && pagefindResults.length > 0) {
+    // Group Pagefind results
+    const groupedResults = new Map<string, typeof pagefindResults>();
+    for (const result of pagefindResults) {
+      const group = result.group || "Documentation";
+      if (!groupedResults.has(group)) {
+        groupedResults.set(group, []);
+      }
+      groupedResults.get(group)!.push(result);
+    }
+
+    return Array.from(groupedResults.entries()).map(([group, items]) => (
+      <Command.Group key={group} heading={group}>
+        {items.map((doc) => (
+          <Command.Item key={doc.url} value={doc.url} onSelect={() => onSelect(doc.url)} className={ITEM_CLASS}>
+            <FileText className="size-4 shrink-0" />
+            <div className="flex min-w-0 flex-1 flex-col gap-0.5">
+              <span className="truncate">{doc.title}</span>
+              {doc.excerpt && (
+                <span className="text-mono-500 truncate text-xs" dangerouslySetInnerHTML={{ __html: doc.excerpt }} />
+              )}
+            </div>
+          </Command.Item>
+        ))}
+      </Command.Group>
+    ));
+  }
+
+  // Show loading state
+  if (shouldUsePagefind && loading) {
+    return (
+      <Command.Group heading="Documentation">
+        <div className="text-mono-500 py-4 text-center text-sm">Searching documentation...</div>
+      </Command.Group>
+    );
+  }
+
+  // Fallback to keyword filtering
+  if (keywordFiltered.length === 0) return null;
 
   return docsGroups.map((group) => {
-    const items = filtered.filter((d) => d.group === group);
+    const items = keywordFiltered.filter((d) => d.group === group);
     if (items.length === 0) return null;
 
     return (
