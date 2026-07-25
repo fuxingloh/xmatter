@@ -10,6 +10,8 @@ import Link from "next/link";
 import CodeExamples from "@/app/eip155/[chainId]/[address]/CodeExamples";
 import { chains } from "@/app/eip155/chains";
 
+export const revalidate = 86400;
+
 export async function generateStaticParams() {
   return [
     {
