@@ -11,8 +11,9 @@ links:
 symbol: BEETS
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#171717"
+color: "#f90404"
 ---
 
 The Flagship LST Hub on Sonic. From seamless staking to earning real yield on LST-focused liquidity pools, beets is the ultimate destination for your liquid-staked tokens.
