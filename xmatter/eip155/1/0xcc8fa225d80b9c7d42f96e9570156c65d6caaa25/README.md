@@ -8,8 +8,9 @@ name: Smooth Love Potion
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7bc29f"
+color: "#7ebea6"
 icons:
+  - icon.svg
   - icon.png
 ---
 

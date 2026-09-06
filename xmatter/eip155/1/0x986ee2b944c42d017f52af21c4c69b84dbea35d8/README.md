@@ -8,8 +8,9 @@ name: BitMartToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#191c1d"
+color: "#0baca4"
 icons:
+  - icon.svg
   - icon.png
 ---
 

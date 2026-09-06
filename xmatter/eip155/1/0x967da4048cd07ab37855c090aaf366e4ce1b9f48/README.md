@@ -22,8 +22,9 @@ name: Ocean Protocol
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#d9d9d9"
+color: "#131313"
 icons:
+  - icon.svg
   - icon.png
   - icon.jpg
 ---
