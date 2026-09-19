@@ -8,8 +8,9 @@ name: Playkey Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#23221d"
+color: "#f3bd34"
 icons:
+  - icon.svg
   - icon.png
 ---
 

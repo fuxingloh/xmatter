@@ -16,8 +16,9 @@ name: Safe token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#121513"
+color: "#2df2ac"
 icons:
+  - icon.svg
   - icon.png
 ---
 

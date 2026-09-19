@@ -6,6 +6,7 @@ standards:
 symbol: PRT
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#1c445b"
+color: "#d8b078"
 ---

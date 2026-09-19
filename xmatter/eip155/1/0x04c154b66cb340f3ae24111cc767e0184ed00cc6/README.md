@@ -6,6 +6,7 @@ standards:
 symbol: pxETH
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#0e0f0f"
+color: "#bec6cf"
 ---

@@ -6,6 +6,7 @@ standards:
 symbol: KAP
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#a48b5b"
+color: "#060606"
 ---

@@ -8,8 +8,9 @@ name: InsurAce
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#73bb47"
+color: "#73bb4b"
 icons:
+  - icon.svg
   - icon.png
 ---
 

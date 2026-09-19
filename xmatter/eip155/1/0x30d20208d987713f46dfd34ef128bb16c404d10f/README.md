@@ -12,8 +12,9 @@ name: Stader
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0ac266"
+color: "#48d18e"
 icons:
+  - icon.svg
   - icon.png
 ---
 

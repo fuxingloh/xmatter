@@ -13,6 +13,7 @@ standards:
 color: "#059abc"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 The Open X Project writes smart contracts that facilitate the open exchange of ideas and value permissionless blockchains make possible.
