@@ -8,8 +8,9 @@ name: ZEON
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#212121"
+color: "#6b6b6b"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -20,8 +20,9 @@ name: Mettalex
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3f34a7"
+color: "#3f33a6"
 icons:
+  - icon.svg
   - icon.png
 ---
 

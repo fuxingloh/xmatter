@@ -8,7 +8,8 @@ name: Chai
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c12c3f"
+color: "#e0d3b5"
 icons:
+  - icon.svg
   - icon.png
 ---

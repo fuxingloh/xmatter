@@ -16,8 +16,9 @@ name: SuperRare
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c4c4c4"
+color: "#000000"
 icons:
+  - icon.svg
   - icon.png
   - icon.jpg
 ---

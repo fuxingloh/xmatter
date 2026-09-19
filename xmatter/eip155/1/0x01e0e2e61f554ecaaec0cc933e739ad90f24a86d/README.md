@@ -6,6 +6,7 @@ standards:
 symbol: GTON
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#141424"
+color: "#fce1bb"
 ---
