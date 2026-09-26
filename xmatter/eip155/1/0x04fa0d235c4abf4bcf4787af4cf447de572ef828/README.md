@@ -16,8 +16,9 @@ name: UMA
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#fc4b4b"
+color: "#fc4c4c"
 icons:
+  - icon.svg
   - icon.png
 ---
 

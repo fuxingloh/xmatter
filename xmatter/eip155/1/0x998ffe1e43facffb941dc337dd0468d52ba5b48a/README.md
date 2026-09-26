@@ -8,7 +8,8 @@ name: Rupiah Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b93f36"
+color: "#b43e32"
 icons:
+  - icon.svg
   - icon.png
 ---
