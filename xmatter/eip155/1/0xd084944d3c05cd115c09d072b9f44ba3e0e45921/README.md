@@ -6,6 +6,7 @@ standards:
 symbol: FOLD
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
 color: "#040404"
 ---

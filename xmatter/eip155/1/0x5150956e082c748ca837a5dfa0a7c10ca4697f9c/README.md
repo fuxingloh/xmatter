@@ -10,8 +10,9 @@ name: Zeedex
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2099d9"
+color: "#1892d4"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -5,5 +5,8 @@ standards:
   - erc20
 symbol: XTM
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+  - icon.png
+color: "#d117bc"
 ---

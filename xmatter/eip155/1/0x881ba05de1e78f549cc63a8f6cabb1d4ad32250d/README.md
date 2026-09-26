@@ -17,6 +17,7 @@ links:
 symbol: "00"
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
 color: "#040404"
 ---

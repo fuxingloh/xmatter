@@ -6,6 +6,7 @@ standards:
 symbol: ATTR
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#0e7ace"
+color: "#c2628e"
 ---
