@@ -5,5 +5,8 @@ standards:
   - erc20
 symbol: cvxFXS
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+  - icon.png
+color: "#1a1c1d"
 ---

@@ -6,6 +6,7 @@ standards:
 symbol: DG
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#2394f4"
+color: "#2494f4"
 ---

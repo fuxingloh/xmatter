@@ -8,8 +8,9 @@ name: PILLAR
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#040404"
+color: "#c4f0fc"
 icons:
+  - icon.svg
   - icon.png
 ---
 

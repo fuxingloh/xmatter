@@ -8,7 +8,8 @@ name: Neumark
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#d3e30e"
+color: "#d3e30c"
 icons:
+  - icon.svg
   - icon.png
 ---

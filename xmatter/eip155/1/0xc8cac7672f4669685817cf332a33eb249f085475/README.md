@@ -19,6 +19,7 @@ links:
 symbol: LVN
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#fc346b"
+color: "#ff0b75"
 ---

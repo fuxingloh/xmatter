@@ -19,6 +19,7 @@ links:
 symbol: SWASH
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#dff8e3"
+color: "#3ce45c"
 ---

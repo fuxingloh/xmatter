@@ -8,8 +8,9 @@ name: Orbs
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#576496"
+color: "#44446c"
 icons:
+  - icon.svg
   - icon.png
 ---
 
