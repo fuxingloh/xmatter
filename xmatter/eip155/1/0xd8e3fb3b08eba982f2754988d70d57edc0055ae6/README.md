@@ -5,5 +5,8 @@ standards:
   - erc20
 symbol: ZORA
 decimals: 9
-icons: []
+icons:
+  - icon.svg
+  - icon.png
+color: "#efefef"
 ---

@@ -13,6 +13,7 @@ standards:
 color: "#144cfc"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 The one platform for all your crypto payment needs

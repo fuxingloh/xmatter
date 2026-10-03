@@ -6,7 +6,8 @@ name: AdEx
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0d73ba"
+color: "#1c74bc"
 icons:
+  - icon.svg
   - icon.png
 ---

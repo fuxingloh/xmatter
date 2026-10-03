@@ -15,8 +15,9 @@ name: The 4th Pillar Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bcbcbc"
+color: "#b9b9b9"
 icons:
+  - icon.svg
   - icon.png
 ---
 

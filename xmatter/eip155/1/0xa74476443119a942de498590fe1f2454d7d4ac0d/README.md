@@ -8,7 +8,10 @@ links:
     url: "https://golem.network"
 symbol: GNT
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+  - icon.png
+color: "#000000"
 ---
 
 Golem (GNT) is a peer-to-peer decentralized marketplace for computing power. The project aims to be an alternative to centralized cloud service providers with its lower price point and open-source community of developers.

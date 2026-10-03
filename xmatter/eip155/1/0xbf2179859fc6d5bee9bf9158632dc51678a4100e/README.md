@@ -8,8 +8,9 @@ name: aelf
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f2f6f6"
+color: "#2858b8"
 icons:
+  - icon.svg
   - icon.png
 ---
 

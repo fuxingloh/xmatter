@@ -10,7 +10,8 @@ name: SpaceChainV2
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#dfdfdf"
+color: "#090909"
 icons:
+  - icon.svg
   - icon.png
 ---

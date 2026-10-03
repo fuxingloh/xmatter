@@ -8,8 +8,9 @@ name: Alchemy (ACH)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ececef"
+color: "#0050d8"
 icons:
+  - icon.svg
   - icon.png
 ---
 

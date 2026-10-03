@@ -8,8 +8,9 @@ name: DAY
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#eeeff0"
+color: "#0048f8"
 icons:
+  - icon.svg
   - icon.png
 ---
 

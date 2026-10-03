@@ -13,6 +13,7 @@ standards:
 color: "#b38756"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 A multi-chain token used for $KWENTA redemption on Optimism

@@ -8,8 +8,9 @@ name: Avt
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0c0c14"
+color: "#212938"
 icons:
+  - icon.svg
   - icon.png
 ---
 

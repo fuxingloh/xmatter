@@ -8,8 +8,9 @@ name: Herocoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f3faf9"
+color: "#4ebcd7"
 icons:
+  - icon.svg
   - icon.png
 ---
 

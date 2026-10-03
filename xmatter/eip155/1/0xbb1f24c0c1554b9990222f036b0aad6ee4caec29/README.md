@@ -8,8 +8,9 @@ name: CryptoSoul
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c0d0e4"
+color: "#c0d0e1"
 icons:
+  - icon.svg
   - icon.png
 ---
 

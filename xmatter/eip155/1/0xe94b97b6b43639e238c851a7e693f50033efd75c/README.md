@@ -5,5 +5,8 @@ standards:
   - erc20
 symbol: RNBW
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+  - icon.png
+color: "#5b49e0"
 ---
