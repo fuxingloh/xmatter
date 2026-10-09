@@ -10,8 +10,9 @@ name: Numeraire
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#05050c"
+color: "#fc0b83"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -6,6 +6,7 @@ standards:
 symbol: PAD
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#e3e4fb"
+color: "#e4e6fc"
 ---

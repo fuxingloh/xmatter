@@ -13,6 +13,7 @@ standards:
 color: "#ac8c54"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 ARIA20 is the native token for Arianee Protocol.

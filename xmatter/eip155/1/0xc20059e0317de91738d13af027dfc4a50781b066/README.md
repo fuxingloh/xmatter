@@ -6,6 +6,7 @@ standards:
 symbol: SPK
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#fc7676"
+color: "#fc6c84"
 ---

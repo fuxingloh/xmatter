@@ -16,8 +16,9 @@ name: Wrapped TON Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0493db"
+color: "#049bec"
 icons:
+  - icon.svg
   - icon.png
 ---
 

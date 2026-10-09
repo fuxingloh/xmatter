@@ -8,8 +8,9 @@ name: Auctus
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#05388f"
+color: "#04c1fc"
 icons:
+  - icon.svg
   - icon.png
 ---
 
