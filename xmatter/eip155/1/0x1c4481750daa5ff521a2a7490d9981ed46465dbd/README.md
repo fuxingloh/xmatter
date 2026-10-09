@@ -8,8 +8,9 @@ name: BLOCKMASON CREDIT PROTOCOL TOKEN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#393a39"
+color: "#fa8f2e"
 icons:
+  - icon.svg
   - icon.png
 ---
 

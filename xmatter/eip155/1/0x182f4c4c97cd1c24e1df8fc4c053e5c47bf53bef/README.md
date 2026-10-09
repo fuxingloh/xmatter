@@ -6,6 +6,7 @@ standards:
 symbol: TANGO
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#0b0d0f"
+color: "#000000"
 ---

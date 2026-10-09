@@ -8,8 +8,9 @@ name: CelerToken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#090909"
+color: "#050505"
 icons:
+  - icon.svg
   - icon.png
 ---
 

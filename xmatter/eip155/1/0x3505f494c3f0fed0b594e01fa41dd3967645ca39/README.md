@@ -8,7 +8,8 @@ name: SWARM
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f6941b"
+color: "#f09018"
 icons:
+  - icon.svg
   - icon.png
 ---

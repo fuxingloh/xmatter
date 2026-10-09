@@ -8,8 +8,9 @@ name: Aave TUSD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ab7fb5"
+color: "#b292bf"
 icons:
+  - icon.svg
   - icon.png
 ---
 
