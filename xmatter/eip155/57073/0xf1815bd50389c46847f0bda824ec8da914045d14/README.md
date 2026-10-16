@@ -6,5 +6,7 @@ symbol: USDC.e
 icons:
   - icon.svg
   - icon.png
+  - icon.jpg
 color: "#2474cc"
+decimals: 6
 ---
