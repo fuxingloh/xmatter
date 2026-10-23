@@ -8,8 +8,9 @@ name: iQeon
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04cae9"
+color: "#6bbde7"
 icons:
+  - icon.svg
   - icon.png
 ---
 

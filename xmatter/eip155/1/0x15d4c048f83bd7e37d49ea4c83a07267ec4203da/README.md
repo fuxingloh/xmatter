@@ -21,7 +21,10 @@ links:
     url: "https://reddit.com/r/GoGalaGames"
 symbol: GALA
 decimals: 8
-icons: []
+icons:
+  - icon.svg
+  - icon.png
+color: "#060606"
 ---
 
 GALA is the utility token powering the Gala Games ecosystem.

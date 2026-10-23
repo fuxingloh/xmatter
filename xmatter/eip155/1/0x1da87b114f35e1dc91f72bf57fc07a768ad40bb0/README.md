@@ -8,8 +8,9 @@ name: Equalizer
 provenance: "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
 standards:
   - erc20
-color: "#5739fa"
+color: "#5739fb"
 icons:
+  - icon.svg
   - icon.png
 ---
 

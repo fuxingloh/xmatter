@@ -8,8 +8,9 @@ name: ELTCOIN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#040404"
+color: "#020202"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -8,8 +8,9 @@ name: WAVES
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0454fc"
+color: "#0055ff"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -14,6 +14,7 @@ standards:
 color: "#04fa9b"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 An RToken that holds a $1 USD peg, and deploys collateral to generate safe, on-chain yield to incentivize liquidity for itself and partners.

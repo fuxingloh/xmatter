@@ -8,7 +8,8 @@ name: Signals
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2b3330"
+color: "#8c8c8c"
 icons:
+  - icon.svg
   - icon.png
 ---

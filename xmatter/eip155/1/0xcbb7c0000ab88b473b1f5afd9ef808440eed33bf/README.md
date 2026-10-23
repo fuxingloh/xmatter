@@ -6,7 +6,8 @@ standards:
 symbol: cbBTC
 decimals: 8
 icons:
+  - icon.svg
   - icon.png
   - icon.webp
-color: "#c9dafc"
+color: "#aac2f6"
 ---

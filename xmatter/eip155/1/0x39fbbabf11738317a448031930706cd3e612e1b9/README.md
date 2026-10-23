@@ -6,6 +6,7 @@ standards:
 symbol: WXRP
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#1479e7"
+color: "#0473aa"
 ---

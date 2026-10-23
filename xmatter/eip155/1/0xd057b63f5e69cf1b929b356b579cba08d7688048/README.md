@@ -30,8 +30,9 @@ name: CoW Protocol Virtual Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f3cb14"
+color: "#052c64"
 icons:
+  - icon.svg
   - icon.png
 ---
 

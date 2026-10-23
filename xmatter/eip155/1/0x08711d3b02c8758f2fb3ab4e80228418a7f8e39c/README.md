@@ -8,8 +8,9 @@ name: Edgeless
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#000000"
+color: "#2c1444"
 icons:
+  - icon.svg
   - icon.png
 ---
 

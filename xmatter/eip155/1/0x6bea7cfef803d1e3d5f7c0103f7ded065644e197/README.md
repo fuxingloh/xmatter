@@ -6,6 +6,7 @@ standards:
 symbol: GAMMA
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
 color: "#fc0424"
 ---
