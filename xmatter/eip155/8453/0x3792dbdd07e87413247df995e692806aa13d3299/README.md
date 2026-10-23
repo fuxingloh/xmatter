@@ -13,6 +13,7 @@ standards:
 color: "#dc3444"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 OMI is the official utility token of the VeVe Digital Collectibles Ecosystem
