@@ -6,6 +6,7 @@ standards:
 symbol: USDV
 decimals: 6
 icons:
+  - icon.svg
   - icon.png
-color: "#0f0f0f"
+color: "#18191a"
 ---

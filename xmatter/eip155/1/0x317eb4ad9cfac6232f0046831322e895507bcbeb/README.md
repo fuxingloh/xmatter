@@ -14,5 +14,8 @@ links:
     url: "https://www.reddit.com/r/Tidex_Global/"
 symbol: TDX
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+  - icon.png
+color: "#241c34"
 ---

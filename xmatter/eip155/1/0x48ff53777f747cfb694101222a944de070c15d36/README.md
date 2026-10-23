@@ -8,8 +8,9 @@ name: Ether Kingdoms Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#13a2af"
+color: "#13a3b1"
 icons:
+  - icon.svg
   - icon.png
 ---
 

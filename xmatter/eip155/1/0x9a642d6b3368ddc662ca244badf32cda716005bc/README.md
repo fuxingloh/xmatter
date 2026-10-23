@@ -14,5 +14,8 @@ links:
     url: "https://qtum.org/en/blog"
 symbol: QTUM
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+  - icon.png
+color: "#2898d0"
 ---

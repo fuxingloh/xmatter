@@ -13,6 +13,7 @@ standards:
 color: "#b464f4"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 Join the new era of SocialFi.

@@ -10,8 +10,9 @@ name: LUNA (Portal)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#182a52"
+color: "#fcdc5c"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -14,8 +14,9 @@ name: ApeCoin (APE)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#074bd4"
+color: "#0a4dd2"
 icons:
+  - icon.svg
   - icon.png
   - icon.jpg
 ---

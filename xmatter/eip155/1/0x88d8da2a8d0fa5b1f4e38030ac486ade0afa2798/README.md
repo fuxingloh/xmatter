@@ -5,5 +5,8 @@ standards:
   - erc20
 symbol: TPSC
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+  - icon.png
+color: "#f2f3fb"
 ---

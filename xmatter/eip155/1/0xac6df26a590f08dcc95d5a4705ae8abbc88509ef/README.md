@@ -8,8 +8,9 @@ name: Aave ENJ
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7489df"
+color: "#798ae1"
 icons:
+  - icon.svg
   - icon.png
 ---
 

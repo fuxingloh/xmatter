@@ -8,7 +8,8 @@ name: View Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#141414"
+color: "#0490fc"
 icons:
+  - icon.svg
   - icon.png
 ---

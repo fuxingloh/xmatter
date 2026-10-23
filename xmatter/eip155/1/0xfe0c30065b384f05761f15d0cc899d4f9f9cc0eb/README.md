@@ -12,8 +12,9 @@ name: ether.fi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#191768"
+color: "#d7aafb"
 icons:
+  - icon.svg
   - icon.png
   - icon.jpg
 ---
