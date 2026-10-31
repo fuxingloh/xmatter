@@ -12,8 +12,9 @@ name: LayerZero
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f1f1f1"
+color: "#040404"
 icons:
+  - icon.svg
   - icon.png
 ---
 

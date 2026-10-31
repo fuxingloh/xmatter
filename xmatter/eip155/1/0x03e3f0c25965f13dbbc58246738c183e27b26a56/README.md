@@ -18,5 +18,8 @@ links:
     url: "https://blog.disciplina.io/"
 symbol: DSCP
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+  - icon.png
+color: "#00e5ae"
 ---

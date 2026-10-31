@@ -12,8 +12,9 @@ name: Zeta
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#045444"
+color: "#04281e"
 icons:
+  - icon.svg
   - icon.png
 ---
 

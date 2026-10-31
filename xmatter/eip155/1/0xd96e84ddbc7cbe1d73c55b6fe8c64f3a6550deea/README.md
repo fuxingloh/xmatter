@@ -13,6 +13,7 @@ standards:
 color: "#000000"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 DAO offering AI on-chain trading agents and companions. All products are self-custodial - interest free loans, index funds, and sniper bot.

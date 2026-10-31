@@ -10,8 +10,9 @@ name: YFLink
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2c5bd9"
+color: "#3464db"
 icons:
+  - icon.svg
   - icon.png
 ---
 

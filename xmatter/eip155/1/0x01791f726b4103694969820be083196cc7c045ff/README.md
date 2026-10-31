@@ -6,6 +6,7 @@ standards:
 symbol: YB
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#f3f3eb"
+color: "#4bc3cb"
 ---

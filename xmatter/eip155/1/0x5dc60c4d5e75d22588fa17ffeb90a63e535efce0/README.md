@@ -8,8 +8,9 @@ name: dKargo
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#00c0d8"
+color: "#00c2df"
 icons:
+  - icon.svg
   - icon.png
 ---
 

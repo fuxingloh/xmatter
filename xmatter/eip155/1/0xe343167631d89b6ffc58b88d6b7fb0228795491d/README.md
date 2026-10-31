@@ -10,8 +10,9 @@ name: Global Dollar
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0c0c0c"
+color: "#344414"
 icons:
+  - icon.svg
   - icon.png
 ---
 

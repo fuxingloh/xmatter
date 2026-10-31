@@ -8,8 +8,9 @@ name: NEEO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#4c4ccc"
+color: "#454dcc"
 icons:
+  - icon.svg
   - icon.png
 ---
 

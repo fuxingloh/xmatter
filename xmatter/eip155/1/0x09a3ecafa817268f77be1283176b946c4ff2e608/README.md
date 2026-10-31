@@ -18,8 +18,9 @@ name: Mirror Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#03093d"
+color: "#162645"
 icons:
+  - icon.svg
   - icon.png
 ---
 

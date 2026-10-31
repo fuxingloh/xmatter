@@ -18,8 +18,9 @@ name: DIA
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#9ccbb7"
+color: "#10256a"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -16,8 +16,9 @@ name: Reef
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#bd28c4"
+color: "#a80ee5"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -8,8 +8,9 @@ name: Hydro Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3b3b3b"
+color: "#373737"
 icons:
+  - icon.svg
   - icon.png
 ---
 

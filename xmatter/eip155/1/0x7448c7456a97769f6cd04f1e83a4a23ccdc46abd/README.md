@@ -14,8 +14,9 @@ name: Maverick Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#6304fb"
+color: "#7d3afc"
 icons:
+  - icon.svg
   - icon.png
 ---
 

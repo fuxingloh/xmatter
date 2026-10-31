@@ -16,8 +16,9 @@ name: deUSD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5756de"
+color: "#5a55de"
 icons:
+  - icon.svg
   - icon.png
 ---
 

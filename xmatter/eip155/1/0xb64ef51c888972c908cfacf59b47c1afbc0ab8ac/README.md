@@ -8,8 +8,9 @@ name: Storj
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#127ccb"
+color: "#2683ff"
 icons:
+  - icon.svg
   - icon.png
 ---
 

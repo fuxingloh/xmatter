@@ -16,5 +16,8 @@ links:
     url: "https://www.reddit.com/r/GeensNPO"
 symbol: GEE
 decimals: 8
-icons: []
+icons:
+  - icon.svg
+  - icon.png
+color: "#344c64"
 ---

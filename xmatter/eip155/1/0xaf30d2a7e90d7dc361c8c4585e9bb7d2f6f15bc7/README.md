@@ -8,7 +8,8 @@ name: FirstBlood Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ef9b52"
+color: "#ee9b2c"
 icons:
+  - icon.svg
   - icon.png
 ---

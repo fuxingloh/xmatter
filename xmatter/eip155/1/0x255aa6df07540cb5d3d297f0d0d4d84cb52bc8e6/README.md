@@ -8,8 +8,9 @@ name: Raiden Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cbcccc"
+color: "#373737"
 icons:
+  - icon.svg
   - icon.png
 ---
 
