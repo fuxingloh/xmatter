@@ -8,8 +8,9 @@ name: district0x Network Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2c3c8b"
+color: "#60f3ef"
 icons:
+  - icon.svg
   - icon.png
 ---
 

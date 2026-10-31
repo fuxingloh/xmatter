@@ -6,6 +6,7 @@ standards:
 symbol: KAE
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#061b17"
+color: "#18c070"
 ---

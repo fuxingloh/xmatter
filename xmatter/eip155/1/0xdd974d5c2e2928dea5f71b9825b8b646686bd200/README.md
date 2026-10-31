@@ -18,8 +18,9 @@ name: Kyber Network Crystal Legacy
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#34cb9c"
+color: "#30c898"
 icons:
+  - icon.svg
   - icon.png
 ---
 

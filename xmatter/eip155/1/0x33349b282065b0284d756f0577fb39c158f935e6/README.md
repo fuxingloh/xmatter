@@ -20,8 +20,9 @@ name: Maple Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fa7b07"
+color: "#ff8802"
 icons:
+  - icon.svg
   - icon.png
   - icon.jpg
 ---

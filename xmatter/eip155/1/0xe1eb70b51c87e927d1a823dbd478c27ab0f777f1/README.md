@@ -13,6 +13,7 @@ standards:
 color: "#fceaea"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 DRODEC is the utility and reward token for the DeFli Drone Detection Network. Bridged by wormhole.

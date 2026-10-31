@@ -14,5 +14,8 @@ links:
     url: "https://medium.com/@iostoken"
 symbol: IOST
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+  - icon.png
+color: "#262626"
 ---

@@ -16,8 +16,9 @@ name: Ares Protocol
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#32adf0"
+color: "#effafc"
 icons:
+  - icon.svg
   - icon.png
 ---
 

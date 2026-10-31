@@ -12,8 +12,9 @@ name: ATOS
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fc8113"
+color: "#ffac02"
 icons:
+  - icon.svg
   - icon.png
 ---
 

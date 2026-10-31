@@ -13,8 +13,9 @@ links:
 symbol: Anon
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#86040c"
+color: "#040404"
 ---
 
 HeyAnon is an AI DeFi protocol designed to simplify DeFi interactions and aggregate essential project-related information.

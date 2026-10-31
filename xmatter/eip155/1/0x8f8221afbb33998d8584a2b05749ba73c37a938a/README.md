@@ -10,8 +10,9 @@ name: Request Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#04241b"
+color: "#04e4a3"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -21,8 +21,9 @@ name: Uniswap
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#fcecf4"
+color: "#faddea"
 icons:
+  - icon.svg
   - icon.png
 ---
 

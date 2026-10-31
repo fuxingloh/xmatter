@@ -20,8 +20,9 @@ name: Shina Inu
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#351c3b"
+color: "#f4990e"
 icons:
+  - icon.svg
   - icon.png
 ---
 
