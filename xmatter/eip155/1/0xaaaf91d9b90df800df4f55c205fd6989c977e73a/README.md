@@ -8,8 +8,9 @@ name: Monolith TKN
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#cfcfcf"
+color: "#20d878"
 icons:
+  - icon.svg
   - icon.png
 ---
 

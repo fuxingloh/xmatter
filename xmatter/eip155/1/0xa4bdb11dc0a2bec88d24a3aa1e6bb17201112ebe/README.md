@@ -10,8 +10,9 @@ name: StableUSD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#7c479c"
+color: "#7c4ba0"
 icons:
+  - icon.svg
   - icon.png
 ---
 

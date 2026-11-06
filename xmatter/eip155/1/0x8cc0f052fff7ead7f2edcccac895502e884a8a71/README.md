@@ -6,6 +6,7 @@ standards:
 symbol: ARTH
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#cb3d34"
+color: "#141414"
 ---

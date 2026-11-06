@@ -8,7 +8,8 @@ name: Modum Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#e6f3f5"
+color: "#0c547c"
 icons:
+  - icon.svg
   - icon.png
 ---

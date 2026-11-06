@@ -8,8 +8,9 @@ name: Aave BAT
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#815699"
+color: "#7b5e9c"
 icons:
+  - icon.svg
   - icon.png
 ---
 
