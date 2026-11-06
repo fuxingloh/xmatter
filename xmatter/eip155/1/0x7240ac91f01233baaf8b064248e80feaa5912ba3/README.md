@@ -12,8 +12,9 @@ name: OctoFi
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a3bcf2"
+color: "#973d48"
 icons:
+  - icon.svg
   - icon.png
   - icon.jpg
 ---

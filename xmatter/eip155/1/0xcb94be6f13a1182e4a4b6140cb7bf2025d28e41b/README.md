@@ -8,8 +8,9 @@ name: Trustcoin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#64c4bc"
+color: "#60c0b8"
 icons:
+  - icon.svg
   - icon.png
 ---
 

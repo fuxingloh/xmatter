@@ -5,5 +5,8 @@ standards:
   - erc20
 symbol: bHOME
 decimals: 6
-icons: []
+icons:
+  - icon.svg
+  - icon.png
+color: "#1c451c"
 ---

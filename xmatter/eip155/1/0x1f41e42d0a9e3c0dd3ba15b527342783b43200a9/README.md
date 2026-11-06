@@ -6,5 +6,8 @@ standards:
 links: []
 symbol: BCAP
 decimals: 0
-icons: []
+icons:
+  - icon.svg
+  - icon.png
+color: "#4078b0"
 ---

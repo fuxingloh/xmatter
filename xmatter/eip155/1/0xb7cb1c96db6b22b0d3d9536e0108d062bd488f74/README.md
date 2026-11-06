@@ -14,5 +14,8 @@ links:
     url: "https://www.reddit.com/r/waltonchain"
 symbol: WTC
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+  - icon.png
+color: "#8404fc"
 ---
