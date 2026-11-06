@@ -15,6 +15,7 @@ standards:
 color: "#150b3f"
 icons:
   - icon.png
+  - icon.jpg
 ---
 
 Empowering creators and players with cutting-edge on-chain infrastructure and publishing solutions
