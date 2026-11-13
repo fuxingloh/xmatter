@@ -16,8 +16,9 @@ name: Lido DAO
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#51aeea"
+color: "#52b1f0"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -10,8 +10,9 @@ name: Xaurum
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#b4973d"
+color: "#806838"
 icons:
+  - icon.svg
   - icon.png
 ---
 

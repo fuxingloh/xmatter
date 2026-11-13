@@ -13,6 +13,7 @@ links:
 symbol: SPCXon
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
 color: "#dadada"
 ---

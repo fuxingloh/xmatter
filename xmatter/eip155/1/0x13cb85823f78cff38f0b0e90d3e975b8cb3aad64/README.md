@@ -18,5 +18,8 @@ links:
     url: "https://medium.com/remiit/"
 symbol: REMI
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+  - icon.png
+color: "#107aab"
 ---

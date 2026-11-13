@@ -8,8 +8,9 @@ name: Simple Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#abe4d3"
+color: "#304058"
 icons:
+  - icon.svg
   - icon.png
 ---
 
