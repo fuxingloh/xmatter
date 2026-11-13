@@ -10,8 +10,9 @@ name: Fasttoken
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#a30463"
+color: "#ec148c"
 icons:
+  - icon.svg
   - icon.png
 ---
 

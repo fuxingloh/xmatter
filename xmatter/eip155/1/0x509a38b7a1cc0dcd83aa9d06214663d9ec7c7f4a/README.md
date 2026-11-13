@@ -14,8 +14,9 @@ name: Blocksquare
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f3f3fb"
+color: "#abebe6"
 icons:
+  - icon.svg
   - icon.png
 ---
 
