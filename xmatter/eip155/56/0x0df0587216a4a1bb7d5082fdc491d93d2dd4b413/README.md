@@ -13,6 +13,7 @@ standards:
 color: "#24211e"
 icons:
   - icon.png
+  - icon.jpg
 ---
 
 “Cheems” is the lord of memes, a small, pitiful, helpless Shiba Inu.

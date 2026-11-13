@@ -12,6 +12,7 @@ symbol: SUPER
 decimals: 18
 icons:
   - icon.svg
+  - icon.png
 color: "#242424"
 ---
 
