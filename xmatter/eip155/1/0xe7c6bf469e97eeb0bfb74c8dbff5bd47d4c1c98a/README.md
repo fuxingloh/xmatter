@@ -13,6 +13,7 @@ standards:
 color: "#d3d3d3"
 icons:
   - icon.png
+  - icon.jpg
 ---
 
 HSK has a total supply of 1 billion units, with 65% allocated for ecosystem growth. HSK will be utilized in various scenarios related to business growth activities within the HashKey Group. Additionally, HSK will offer robust support for on-chain users and assets on the HashKey Chain.

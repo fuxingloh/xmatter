@@ -23,6 +23,7 @@ standards:
 color: "#040404"
 icons:
   - icon.png
+  - icon.jpg
 ---
 
 Infinity Ground is the leading Blockchain Infrastructure for Vibe Coders, creating an agent-driven development environment free from centralized limitations.

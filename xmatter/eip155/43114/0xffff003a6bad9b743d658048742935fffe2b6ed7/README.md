@@ -7,5 +7,6 @@ symbol: KET
 decimals: 18
 icons:
   - icon.png
+  - icon.jpg
 color: "#dfa837"
 ---
