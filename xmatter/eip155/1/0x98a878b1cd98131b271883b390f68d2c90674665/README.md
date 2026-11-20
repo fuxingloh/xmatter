@@ -6,6 +6,7 @@ standards:
 symbol: APXUSD
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#bb6d7d"
+color: "#060505"
 ---

@@ -6,6 +6,7 @@ standards:
 symbol: JITOSOL
 decimals: 9
 icons:
+  - icon.svg
   - icon.png
-color: "#5bb384"
+color: "#5db486"
 ---

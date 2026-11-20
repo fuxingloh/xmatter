@@ -16,8 +16,9 @@ name: Marlin POND
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#3b43c4"
+color: "#3d44c4"
 icons:
+  - icon.svg
   - icon.png
 ---
 

@@ -8,7 +8,8 @@ name: Dether
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#5068f8"
+color: "#3c84f4"
 icons:
+  - icon.svg
   - icon.png
 ---

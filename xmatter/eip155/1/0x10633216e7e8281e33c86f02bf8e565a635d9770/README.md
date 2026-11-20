@@ -6,6 +6,7 @@ standards:
 symbol: DVI
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#c2bec5"
+color: "#181828"
 ---

@@ -18,8 +18,9 @@ name: DinoLFG (DINO)
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#9fd056"
+color: "#1a243e"
 icons:
+  - icon.svg
   - icon.png
 ---
 

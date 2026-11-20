@@ -12,8 +12,9 @@ name: Yield
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0c347c"
+color: "#14449c"
 icons:
+  - icon.svg
   - icon.png
 ---
 

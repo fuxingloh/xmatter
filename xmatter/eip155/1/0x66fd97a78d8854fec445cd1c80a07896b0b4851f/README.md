@@ -8,8 +8,9 @@ name: Lunch Money
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#c8b174"
+color: "#0c4c9c"
 icons:
+  - icon.svg
   - icon.png
 ---
 

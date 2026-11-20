@@ -33,8 +33,9 @@ name: Swarm
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#db7305"
+color: "#f6dcc0"
 icons:
+  - icon.svg
   - icon.png
 ---
 

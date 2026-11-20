@@ -18,5 +18,8 @@ links:
     url: "https://blog.aeternity.com/"
 symbol: AE
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+  - icon.png
+color: "#d83868"
 ---

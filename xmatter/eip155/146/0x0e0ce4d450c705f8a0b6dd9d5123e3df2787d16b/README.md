@@ -11,8 +11,9 @@ links:
 symbol: WAGMI
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#0f151d"
+color: "#cdb283"
 ---
 
 At the heart of the WAGMI protocol lies a commitment to revolutionize decentralized finance (DeFi) by providing secure, robust, and innovative products that make DeFi more accessible and user-friendly.

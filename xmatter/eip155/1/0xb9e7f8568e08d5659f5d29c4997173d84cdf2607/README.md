@@ -8,8 +8,9 @@ name: Swarm City Token
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#ecdb6c"
+color: "#ebdb6b"
 icons:
+  - icon.svg
   - icon.png
 ---
 

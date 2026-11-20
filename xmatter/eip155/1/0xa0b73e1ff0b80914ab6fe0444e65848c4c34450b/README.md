@@ -22,8 +22,9 @@ name: Crypto.com Coin
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#232c57"
+color: "#042b73"
 icons:
+  - icon.svg
   - icon.png
   - icon.jpg
 ---
