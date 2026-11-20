@@ -13,6 +13,7 @@ standards:
 color: "#000000"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 APT from Aptos, bridged by Wormhole.

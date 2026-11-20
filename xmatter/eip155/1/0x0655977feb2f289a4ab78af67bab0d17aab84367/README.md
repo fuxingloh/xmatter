@@ -12,8 +12,9 @@ name: Savings crvUSD
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#f2bc04"
+color: "#fbc304"
 icons:
+  - icon.svg
   - icon.png
 ---
 

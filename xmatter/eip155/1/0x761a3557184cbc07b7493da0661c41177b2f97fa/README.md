@@ -13,6 +13,7 @@ standards:
 color: "#39bd8a"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 ValleyDAO Governance Token

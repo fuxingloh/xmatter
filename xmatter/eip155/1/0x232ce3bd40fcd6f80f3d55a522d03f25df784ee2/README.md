@@ -6,6 +6,7 @@ standards:
 symbol: LIT
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#0b0b0b"
+color: "#191922"
 ---

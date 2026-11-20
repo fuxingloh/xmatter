@@ -6,6 +6,7 @@ standards:
 symbol: TEMPLE
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#0c0c0e"
+color: "#1f140d"
 ---

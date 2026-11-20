@@ -5,5 +5,8 @@ standards:
   - erc20
 symbol: FPS
 decimals: 18
-icons: []
+icons:
+  - icon.svg
+  - icon.png
+color: "#ccccdc"
 ---
