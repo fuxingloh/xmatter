@@ -13,6 +13,7 @@ standards:
 color: "#0c0c0c"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 AMKT is the first fully backed on-chain broad-based crypto market index. Market exposure to a market-cap weighted basket of 25 assets, rebalanced monthly and reconstituted quarterly.

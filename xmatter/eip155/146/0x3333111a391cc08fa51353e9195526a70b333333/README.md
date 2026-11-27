@@ -11,8 +11,9 @@ links:
 symbol: x33
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#1b0604"
+color: "#faa123"
 ---
 
 A Sonic-native concentrated liquidity exchange.The ultimate trading hub on Sonic.

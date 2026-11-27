@@ -18,8 +18,9 @@ name: GMX
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#2676e7"
+color: "#2c5fe2"
 icons:
+  - icon.svg
   - icon.png
 ---
 

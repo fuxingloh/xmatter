@@ -11,8 +11,9 @@ links:
 symbol: MOON
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#1fa59e"
+color: "#23a59e"
 ---
 
 MoonBay is a crypto project built on the Sonic Network, with a strong, engaged community at its core. The $MOON token serves as both a meme coin and the central community token within the MoonBay ecosystem.

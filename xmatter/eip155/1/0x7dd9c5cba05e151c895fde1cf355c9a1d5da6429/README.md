@@ -14,8 +14,9 @@ name: Golem
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#20249f"
+color: "#042c64"
 icons:
+  - icon.svg
   - icon.png
 ---
 
