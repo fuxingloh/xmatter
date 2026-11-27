@@ -6,6 +6,7 @@ standards:
 symbol: APW
 decimals: 18
 icons:
+  - icon.svg
   - icon.png
-color: "#1d1d35"
+color: "#62dbbf"
 ---

@@ -14,8 +14,9 @@ name: Vana
 provenance: "https://github.com/trustwallet/assets"
 standards:
   - erc20
-color: "#0e0e0e"
+color: "#4444fc"
 icons:
+  - icon.svg
   - icon.png
 ---
 

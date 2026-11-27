@@ -13,6 +13,7 @@ standards:
 color: "#d1d1d1"
 icons:
   - icon.svg
+  - icon.png
 ---
 
 TProtocol is trying to bring real yield into DeFi.
